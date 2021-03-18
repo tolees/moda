@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NJ5S6XN-es Springfield 2.Zodiaco Rosa Camiseta Multicolor Multicolor...'
 sku: 'B07NJ5S6XN-es'
+tags: [ 'camiseta', ]
 actualPrice: 5.14 EUR
 currency: EUR
 price: 5.14

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MMWQ121-es Wrangler Plus Vaqueros Skinny Azul Stretch Dark 053 42 W/...'
 sku: 'B07MMWQ121-es'
+tags: [ 'vaqueros', ]
 actualPrice: 23.2 EUR
 currency: EUR
 price: 23.2

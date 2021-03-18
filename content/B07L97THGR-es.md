@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L97THGR-es Under Armour Rival Solid Pantalón Niños Negro YMD'
 sku: 'B07L97THGR-es'
+tags: [ 'pantalón', ]
 actualPrice: 16.28 EUR
 currency: EUR
 price: 16.28

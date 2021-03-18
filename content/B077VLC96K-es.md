@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077VLC96K-es Levi s tee Camiseta Blanco White Cn-100xx 0006 Medium para...'
 sku: 'B077VLC96K-es'
+tags: [ 'camiseta', ]
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

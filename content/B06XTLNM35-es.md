@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XTLNM35-es Pepe Jeans Zip Thru Sudadera con Capucha para Hombre Gris...'
 sku: 'B06XTLNM35-es'
+tags: [ 'sudadera', ]
 actualPrice: 37.5 EUR
 currency: EUR
 price: 37.5

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P16D2ZJ-es Superdry Suprdry Surplus Goods LS Classic Graphic tee...'
 sku: 'B07P16D2ZJ-es'
+tags: [ 'camisa', ]
 actualPrice: 10.52 EUR
 currency: EUR
 price: 10.52

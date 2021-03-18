@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TYR2HSZ-es Paninara Sin Collar 6"Impermeable Ca2461 Naranja Quemada -...'
 sku: 'B07TYR2HSZ-es'
+tags: [ 'collar', ]
 actualPrice: 126.0 EUR
 currency: EUR
 price: 126.0

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WCBQV5M-es JACK JONES Jorexplore Parka Hombre Verde Forest Nightgrün...'
 sku: 'B07WCBQV5M-es'
+tags: [ 'parka', ]
 actualPrice: 57.79 EUR
 currency: EUR
 price: 57.79

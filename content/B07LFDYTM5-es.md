@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFDYTM5-es Levi s Relaxed Graphic Crew Sudadera Azul Sea Captain Blue...'
 sku: 'B07LFDYTM5-es'
+tags: [ 'sudadera', ]
 actualPrice: 30.42 EUR
 currency: EUR
 price: 30.42

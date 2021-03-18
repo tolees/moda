@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005XYN8AM-es Dim Coton Stretch Boxer x3 Noir/Noir/Noir 6 XG/60/XXL Pack...'
 sku: 'B005XYN8AM-es'
+tags: [ 'boxer', ]
 actualPrice: 19.53 EUR
 currency: EUR
 price: 19.53

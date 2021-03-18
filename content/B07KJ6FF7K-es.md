@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KJ6FF7K-es Love Moschino Jc4002pp18la0500 bolso bandolera Unisex...'
 sku: 'B07KJ6FF7K-es'
+tags: [ 'bolso', ]
 actualPrice: 99.01 EUR
 currency: EUR
 price: 99.01

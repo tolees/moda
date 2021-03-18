@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HNGWYZ3-es Lencería Sexy para Mujer Lencería Erótica Disfraz De...'
 sku: 'B07HNGWYZ3-es'
+tags: [ 'pijama', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

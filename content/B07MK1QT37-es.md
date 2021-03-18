@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MK1QT37-es Napapijri Avio Chaqueta Rojo Red Scarlet R01 L para Hombre'
 sku: 'B07MK1QT37-es'
+tags: [ 'chaqueta', ]
 actualPrice: 143.15 EUR
 currency: EUR
 price: 143.15

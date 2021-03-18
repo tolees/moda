@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TVQN93M-es Wrangler SS Rainbow tee Camiseta Marfil Off White 737...'
 sku: 'B07TVQN93M-es'
+tags: [ 'camiseta', ]
 actualPrice: 8.64 EUR
 currency: EUR
 price: 8.64

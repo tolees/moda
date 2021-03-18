@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WX43JWV-es Charles Wilson Originals Sudadera Algodón Ligera Capucha...'
 sku: 'B07WX43JWV-es'
+tags: [ 'sudadera', ]
 actualPrice: 18.95 EUR
 currency: EUR
 price: 18.95

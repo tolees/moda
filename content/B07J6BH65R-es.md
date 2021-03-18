@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J6BH65R-es Hombres Bombardero Vuelo Piloto Chaqueta de Cuero Manga...'
 sku: 'B07J6BH65R-es'
+tags: [ 'chaqueta', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081SWGQMM-es Moda Mujer Casual Encaje Sexy Lunares O Cuello Dulce...'
 sku: 'B081SWGQMM-es'
+tags: [ 'blusa','camiseta','moda', ]
 actualPrice: 4.69 EUR
 currency: EUR
 price: 4.69

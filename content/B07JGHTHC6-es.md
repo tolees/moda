@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JGHTHC6-es Pepe Jeans Duff Chest Logo T Camiseta Gris Grey Marl 933...'
 sku: 'B07JGHTHC6-es'
+tags: [ 'camiseta', ]
 actualPrice: 20.76 EUR
 currency: EUR
 price: 20.76

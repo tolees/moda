@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RZ7S5JV-es Jack & Jones Jjeliam Leather Jacket Noos Chaqueta Negro...'
 sku: 'B07RZ7S5JV-es'
+tags: [ 'chaqueta', ]
 actualPrice: 138.49 EUR
 currency: EUR
 price: 138.49

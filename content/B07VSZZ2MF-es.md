@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VSZZ2MF-es Lee Brooklyn Straight Hombre Vaqueros Gris Moto Flat EB...'
 sku: 'B07VSZZ2MF-es'
+tags: [ 'vaqueros', ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

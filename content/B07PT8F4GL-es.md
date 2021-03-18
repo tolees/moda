@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PT8F4GL-es Under Armour Challenger III Training Top Transpirable para...'
 sku: 'B07PT8F4GL-es'
+tags: [ 'camiseta', ]
 actualPrice: 21.87 EUR
 currency: EUR
 price: 21.87

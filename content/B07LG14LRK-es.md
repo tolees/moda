@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LG14LRK-es Geox D New ANNYA B Botines para Mujer Negro Black C9999 40 EU'
 sku: 'B07LG14LRK-es'
+tags: [ 'botines','geox', ]
 actualPrice: 21.34 EUR
 currency: EUR
 price: 21.34

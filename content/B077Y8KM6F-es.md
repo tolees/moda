@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077Y8KM6F-es HIKARO Sudadera con Print Mujer Rojo Burgundy 40 Talla del...'
 sku: 'B077Y8KM6F-es'
+tags: [ 'sudadera', ]
 actualPrice: 6.26 EUR
 currency: EUR
 price: 6.26

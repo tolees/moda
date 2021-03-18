@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFRMZCS-es Geox U KAVEN B Zapatillas para Hombre Marrón Browncotto/Dk...'
 sku: 'B07LFRMZCS-es'
+tags: [ 'geox', ]
 actualPrice: 50.85 EUR
 currency: EUR
 price: 50.85

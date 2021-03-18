@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JWQWGV8-es Pepe Jeans Track Pm201100 Vaqueros Straight Black Used...'
 sku: 'B07JWQWGV8-es'
+tags: [ 'vaqueros', ]
 actualPrice: 56.49 EUR
 currency: EUR
 price: 56.49

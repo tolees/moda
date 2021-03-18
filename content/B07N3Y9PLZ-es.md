@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N3Y9PLZ-es Desigual Dress LENCY Vestido Negro 5074 38 para Mujer'
 sku: 'B07N3Y9PLZ-es'
+tags: [ 'vestido', ]
 actualPrice: 47.05 EUR
 currency: EUR
 price: 47.05

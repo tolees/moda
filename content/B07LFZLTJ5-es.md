@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFZLTJ5-es Geox D Nebula D Zapatillas para Mujer Azul Dk Navy C4021...'
 sku: 'B07LFZLTJ5-es'
+tags: [ 'geox', ]
 actualPrice: 60.85 EUR
 currency: EUR
 price: 60.85

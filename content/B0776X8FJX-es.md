@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0776X8FJX-es Tommy Hilfiger Original Stretch Camisa Blanco Classic...'
 sku: 'B0776X8FJX-es'
+tags: [ 'camisa', ]
 actualPrice: 38.6 EUR
 currency: EUR
 price: 38.6

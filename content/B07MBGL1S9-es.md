@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MBGL1S9-es Columbia Lake 22 Chaqueta de plumas Hombre Gris Columbia...'
 sku: 'B07MBGL1S9-es'
+tags: [ 'chaqueta', ]
 actualPrice: 46.42 EUR
 currency: EUR
 price: 46.42

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J3CQQLD-es Under Armour UA Streaker 2.0 Shortsleeve Camiseta Hombre...'
 sku: 'B07J3CQQLD-es'
+tags: [ 'camiseta', ]
 actualPrice: 10.6 EUR
 currency: EUR
 price: 10.6

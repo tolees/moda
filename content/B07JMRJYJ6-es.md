@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JMRJYJ6-es Appy Mama. Mujer Premama Jersey Camiseta Túnica Larga...'
 sku: 'B07JMRJYJ6-es'
+tags: [ 'camiseta','jersey', ]
 actualPrice: 3.84 EUR
 currency: EUR
 price: 3.84

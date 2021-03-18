@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B97MN7N-es Clarks Bampton Walk Zapatos de Cordones Derby para Hombre...'
 sku: 'B07B97MN7N-es'
+tags: [ 'zapatos', ]
 actualPrice: 26.96 EUR
 currency: EUR
 price: 26.96

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0838RLHQ7-es AMZTM Dinosaurio Camiseta de Cumpleaños - 1er Bebé...'
 sku: 'B0838RLHQ7-es'
+tags: [ 'camiseta', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T8F5XGT-es VOHONEY - Bolso mochila para mujer Negro Sac À Dos Femme...'
 sku: 'B07T8F5XGT-es'
+tags: [ 'bolso', ]
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RPBFPDQ-es Hawkers X Nyjah Huston-Grind Gafas de sol Gris One Size...'
 sku: 'B07RPBFPDQ-es'
+tags: [ 'gafas', ]
 actualPrice: 15.57 EUR
 currency: EUR
 price: 15.57

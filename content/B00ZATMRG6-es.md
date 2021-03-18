@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ZATMRG6-es G-STAR RAW Revend Skinny Vaqueros Light Aged Destroy...'
 sku: 'B00ZATMRG6-es'
+tags: [ 'vaqueros', ]
 actualPrice: 28.63 EUR
 currency: EUR
 price: 28.63

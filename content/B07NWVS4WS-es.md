@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NWVS4WS-es 18th Birthday Gifts 18 cumpleaños Mujer Original 18 Camiseta'
 sku: 'B07NWVS4WS-es'
+tags: [ 'camiseta', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

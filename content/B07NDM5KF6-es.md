@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NDM5KF6-es G-STAR RAW Citishield 3D Slim Tapered Jeans Vaqueros Negro...'
 sku: 'B07NDM5KF6-es'
+tags: [ 'vaqueros', ]
 actualPrice: 22.67 EUR
 currency: EUR
 price: 22.67

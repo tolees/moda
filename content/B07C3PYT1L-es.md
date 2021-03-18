@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C3PYT1L-es INFUSEU 925 Árbol de la Vida de Plata Collar de la Mujer...'
 sku: 'B07C3PYT1L-es'
+tags: [ 'collar', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

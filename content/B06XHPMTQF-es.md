@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XHPMTQF-es Marca Amazon - find. Camisa Hombre Negro Black S Label: S'
 sku: 'B06XHPMTQF-es'
+tags: [ '-','camisa','find.', ]
 actualPrice: 6.44 EUR
 currency: EUR
 price: 6.44

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SB97M7B-es adidas Grand Court Base Zapatos de Tenis para Hombre...'
 sku: 'B07SB97M7B-es'
+tags: [ 'zapatos', ]
 actualPrice: 25.39 EUR
 currency: EUR
 price: 25.39

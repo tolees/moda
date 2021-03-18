@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01G4FYZSC-es Asics Hyper MD 6 Unisex Zapatilla Running De Clavos - 42'
 sku: 'B01G4FYZSC-es'
+tags: [ 'zapatilla', ]
 actualPrice: 34.79 EUR
 currency: EUR
 price: 34.79

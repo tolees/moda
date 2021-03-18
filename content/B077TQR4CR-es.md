@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077TQR4CR-es find. Zapatos de Serraje con Cordones Hombre Marrón...'
 sku: 'B077TQR4CR-es'
+tags: [ 'zapatos', ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

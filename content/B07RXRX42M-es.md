@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RXRX42M-es oodji Ultra Mujer Blusa de Punto Ajustada Negro ES 40 / M'
 sku: 'B07RXRX42M-es'
+tags: [ 'blusa', ]
 actualPrice: 9.1 EUR
 currency: EUR
 price: 9.1

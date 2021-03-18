@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K13L5KZ-es Mujer Torera Casual Frente Abierto Manga Larga para...'
 sku: 'B07K13L5KZ-es'
+tags: [ 'vestido', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

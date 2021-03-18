@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0783RYMGT-es CMP Hamal Sandalias de Senderismo Unisex Niños Rosa Hot...'
 sku: 'B0783RYMGT-es'
+tags: [ 'sandalias', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

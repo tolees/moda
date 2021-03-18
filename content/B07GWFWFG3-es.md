@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GWFWFG3-es Elf Sack Mujer Abrigo Acolchado Largo con Cuello Alto de...'
 sku: 'B07GWFWFG3-es'
+tags: [ 'abrigo','parka', ]
 actualPrice: 91.99 EUR
 currency: EUR
 price: 91.99

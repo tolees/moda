@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CNNT328-es Diesel UMLT-JAKE Camiseta para Hombre Negro Black...'
 sku: 'B07CNNT328-es'
+tags: [ 'camiseta', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

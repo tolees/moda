@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087RK6Q2R-es Mosucoirl Camisa sin Mangas con Cuello en V y Encaje con...'
 sku: 'B087RK6Q2R-es'
+tags: [ 'blusa','camisa', ]
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079HSV7W9-es MUOU Zapatillas Hombres Deporte Running Zapatos para...'
 sku: 'B079HSV7W9-es'
+tags: [ 'zapatos', ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

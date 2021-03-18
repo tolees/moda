@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DS1YM9Q-es edc by Esprit 098cc1k014 Camisa Manga Larga Rojo Red 630...'
 sku: 'B07DS1YM9Q-es'
+tags: [ 'camisa', ]
 actualPrice: 10.39 EUR
 currency: EUR
 price: 10.39

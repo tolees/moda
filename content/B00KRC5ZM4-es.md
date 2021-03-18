@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KRC5ZM4-es SELECTED 16040493 - Camisa casual de manga larga para...'
 sku: 'B00KRC5ZM4-es'
+tags: [ 'camisa', ]
 actualPrice: 26.07 EUR
 currency: EUR
 price: 26.07

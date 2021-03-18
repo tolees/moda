@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LG42ZHS-es Geox B RISHON Girl B Zapatillas para Bebés Gris Dk...'
 sku: 'B07LG42ZHS-es'
+tags: [ 'geox', ]
 actualPrice: 28.4 EUR
 currency: EUR
 price: 28.4

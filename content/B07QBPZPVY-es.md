@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QBPZPVY-es New Look Sport Harrington Chaqueta Bomber Azul Navy 41...'
 sku: 'B07QBPZPVY-es'
+tags: [ 'chaqueta', ]
 actualPrice: 8.8 EUR
 currency: EUR
 price: 8.8

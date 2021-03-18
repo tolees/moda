@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NDL6J4K-es G-STAR RAW Mysid Slim Round Neck Camiseta Multicolor Grey...'
 sku: 'B07NDL6J4K-es'
+tags: [ 'camiseta', ]
 actualPrice: 9.91 EUR
 currency: EUR
 price: 9.91

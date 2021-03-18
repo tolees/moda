@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M98H3CF-es Geox W Kaula Z Abrigo Azul Nights/Blue Nig F4477 36 Talla...'
 sku: 'B07M98H3CF-es'
+tags: [ 'abrigo','geox', ]
 actualPrice: 104.65 EUR
 currency: EUR
 price: 104.65

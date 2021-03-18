@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M8L1H7P-es Lee Chest Logo tee Camiseta Rojo Warp Red KG X-Small para...'
 sku: 'B07M8L1H7P-es'
+tags: [ 'camiseta', ]
 actualPrice: 19.47 EUR
 currency: EUR
 price: 19.47

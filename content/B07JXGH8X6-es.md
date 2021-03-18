@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JXGH8X6-es Wrangler Arizona Straight Jeans Vaqueros Fuse Blue 31W /...'
 sku: 'B07JXGH8X6-es'
+tags: [ 'vaqueros', ]
 actualPrice: 33.48 EUR
 currency: EUR
 price: 33.48

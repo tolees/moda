@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VPR2GND-es Tommy Jeans Tjw Tommy Classics Stripe tee Camiseta de...'
 sku: 'B07VPR2GND-es'
+tags: [ 'camiseta', ]
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

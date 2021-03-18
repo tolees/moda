@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QCWJN5T-es Bebé Pijama Niños Pelele de Algodón Body Manga Corta...'
 sku: 'B07QCWJN5T-es'
+tags: [ 'pelele','pijama', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CG3FHPN-es Jack & Jones Jjesheridan Shirt L/s Camisa Vaquera Azul...'
 sku: 'B07CG3FHPN-es'
+tags: [ 'camisa', ]
 actualPrice: 23.49 EUR
 currency: EUR
 price: 23.49

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D7XFPTL-es Charles Wilson Camisa Original Manga Larga Cuadros para...'
 sku: 'B07D7XFPTL-es'
+tags: [ 'camisa', ]
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

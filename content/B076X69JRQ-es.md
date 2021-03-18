@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076X69JRQ-es Geox U Walee A Zapatillas para Hombre Beige Sand 39 EU'
 sku: 'B076X69JRQ-es'
+tags: [ 'geox', ]
 actualPrice: 36.01 EUR
 currency: EUR
 price: 36.01

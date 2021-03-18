@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D5X2KPP-es Trespass - Sandalias de montaña Modelo Torrance para...'
 sku: 'B07D5X2KPP-es'
+tags: [ 'sandalias', ]
 actualPrice: 38.2 EUR
 currency: EUR
 price: 38.2

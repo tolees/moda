@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073QNH5XT-es Levi s Wool Bf Sherpa Trucker Amazon Exclusive - Chaqueta...'
 sku: 'B073QNH5XT-es'
+tags: [ 'chaqueta', ]
 actualPrice: 45.64 EUR
 currency: EUR
 price: 45.64

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0792DPDY8-es Geox D Arethea B Mocasines para Mujer Negro Black C9999 36 EU'
 sku: 'B0792DPDY8-es'
+tags: [ 'geox', ]
 actualPrice: 54.95 EUR
 currency: EUR
 price: 54.95

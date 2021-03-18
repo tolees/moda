@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0788BNRNH-es Tommy Hilfiger Logo Tape Hoody Sudadera con Capucha y...'
 sku: 'B0788BNRNH-es'
+tags: [ 'sudadera', ]
 actualPrice: 50.99 EUR
 currency: EUR
 price: 50.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B992NGF-es Clarks Linvale Jerica Zapatos de Tacón para Mujer Negro...'
 sku: 'B07B992NGF-es'
+tags: [ 'zapatos', ]
 actualPrice: 53.34 EUR
 currency: EUR
 price: 53.34

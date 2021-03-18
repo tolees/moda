@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TJ9R1K4-es Levi s Sportswear Logo Graphic Camiseta Blanco Ssnl Sw...'
 sku: 'B07TJ9R1K4-es'
+tags: [ 'camiseta', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

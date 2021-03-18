@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PP394MW-es Kipling Eleva Bolso con Bandolera para Mujer Verde...'
 sku: 'B07PP394MW-es'
+tags: [ 'bolso', ]
 actualPrice: 37.5 EUR
 currency: EUR
 price: 37.5

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081B6KSVR-es Columbia Silver Ridge 2.0 Camisa de Manga Larga Hombre...'
 sku: 'B081B6KSVR-es'
+tags: [ 'camisa', ]
 actualPrice: 32.11 EUR
 currency: EUR
 price: 32.11

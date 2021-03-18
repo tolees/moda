@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087YRCYDW-es Sternitz Sudadera Fitness para Mujer Bhakti Hoodie Tela de...'
 sku: 'B087YRCYDW-es'
+tags: [ 'sudadera', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

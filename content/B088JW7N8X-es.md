@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088JW7N8X-es Garggi Mujer Moda Puntiagudo Tacón De Aguja Noche Pump Sin...'
 sku: 'B088JW7N8X-es'
+tags: [ 'moda','vestido', ]
 actualPrice: 22.56 EUR
 currency: EUR
 price: 22.56

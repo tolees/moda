@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FKH2PM8-es Iris & Lilly Calzoncillo Tanga de Microfibra Mujer Pack de...'
 sku: 'B07FKH2PM8-es'
+tags: [ '&','iris','lilly', ]
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00OHE96R8-es Kappa Lucera Camiseta Hombre Amarillo Yellow L'
 sku: 'B00OHE96R8-es'
+tags: [ 'camiseta', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

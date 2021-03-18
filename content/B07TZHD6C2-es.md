@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TZHD6C2-es Wrangler ICONS Camisa Vaquera Azul 1 Year 924 X-Large para...'
 sku: 'B07TZHD6C2-es'
+tags: [ 'camisa', ]
 actualPrice: 34.98 EUR
 currency: EUR
 price: 34.98

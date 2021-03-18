@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006SWFVAS-es Helly Hansen W Seven J Jacket - Chaqueta para Mujer Color...'
 sku: 'B006SWFVAS-es'
+tags: [ 'chaqueta', ]
 actualPrice: 45.35 EUR
 currency: EUR
 price: 45.35

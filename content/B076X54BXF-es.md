@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076X54BXF-es Geox U Leitan B Mocasines para Hombre Azul Navy 41 EU'
 sku: 'B076X54BXF-es'
+tags: [ 'geox', ]
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

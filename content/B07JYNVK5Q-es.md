@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JYNVK5Q-es Tommy Hilfiger Colorful Tommy Flat Sandal Sandalias con...'
 sku: 'B07JYNVK5Q-es'
+tags: [ 'sandalias', ]
 actualPrice: 17.13 EUR
 currency: EUR
 price: 17.13

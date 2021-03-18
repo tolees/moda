@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K71BB2L-es Levi s Graphic B Sudadera Gris Add Crew T2 Hm Mid Tone...'
 sku: 'B07K71BB2L-es'
+tags: [ 'sudadera', ]
 actualPrice: 32.5 EUR
 currency: EUR
 price: 32.5

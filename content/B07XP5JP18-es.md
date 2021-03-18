@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XP5JP18-es YOSICIL Vestido de Princesa Elsa Niña Disfraz Frozen Elsa...'
 sku: 'B07XP5JP18-es'
+tags: [ 'vestido', ]
 actualPrice: 23.88 EUR
 currency: EUR
 price: 23.88

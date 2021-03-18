@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0777SFVCB-es Dim Mix and Colors Boxer X2 Negro Negro CT Jaune...'
 sku: 'B0777SFVCB-es'
+tags: [ 'boxer', ]
 actualPrice: 14.61 EUR
 currency: EUR
 price: 14.61

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076D9X6CY-es adidas CORE18 STD JKT Chaqueta de Deporte Hombre...'
 sku: 'B076D9X6CY-es'
+tags: [ 'chaqueta', ]
 actualPrice: 60.98 EUR
 currency: EUR
 price: 60.98

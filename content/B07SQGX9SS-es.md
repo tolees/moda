@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SQGX9SS-es Geox D Tabelya A Zapatillas para Mujer Negro Black/Gun...'
 sku: 'B07SQGX9SS-es'
+tags: [ 'geox', ]
 actualPrice: 35.89 EUR
 currency: EUR
 price: 35.89

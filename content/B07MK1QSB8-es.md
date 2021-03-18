@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MK1QSB8-es Napapijri Aerons Vest 2 Chaqueta Verde Green Forest 2 GE3...'
 sku: 'B07MK1QSB8-es'
+tags: [ 'chaqueta', ]
 actualPrice: 79.5 EUR
 currency: EUR
 price: 79.5

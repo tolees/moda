@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K2BVT9K-es Timberland Bradstreet Hiker Botas Chukka para Hombre Negro...'
 sku: 'B07K2BVT9K-es'
+tags: [ 'timberland', ]
 actualPrice: 58.99 EUR
 currency: EUR
 price: 58.99

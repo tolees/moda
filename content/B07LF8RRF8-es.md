@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LF8RRF8-es Levi s 502 Regular Taper Vaqueros Azul Porcini Blue Od ADV...'
 sku: 'B07LF8RRF8-es'
+tags: [ 'vaqueros', ]
 actualPrice: 24.28 EUR
 currency: EUR
 price: 24.28

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R92LZB7-es Columbia Fast Trek II Chaqueta Polar para Mujer Color:...'
 sku: 'B07R92LZB7-es'
+tags: [ 'chaqueta', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

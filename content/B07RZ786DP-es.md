@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RZ786DP-es edc by Esprit 999cc1b803 Vaqueros Skinny Azul Blue Medium...'
 sku: 'B07RZ786DP-es'
+tags: [ 'vaqueros', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

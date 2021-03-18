@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01B6FAHT6-es LEGO Ninjago - Pijama para Niños 5-6 Años'
 sku: 'B01B6FAHT6-es'
+tags: [ 'pijama', ]
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

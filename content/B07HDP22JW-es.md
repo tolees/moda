@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HDP22JW-es Only Onltia Dnm Jacket BB MB Bex02 Noos Chaqueta vaquera...'
 sku: 'B07HDP22JW-es'
+tags: [ 'chaqueta', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

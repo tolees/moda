@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BSLM1YX-es REPLAY M4941d.000.80279a Camisa Negro Black 98 X-Large...'
 sku: 'B07BSLM1YX-es'
+tags: [ 'camisa', ]
 actualPrice: 19.67 EUR
 currency: EUR
 price: 19.67

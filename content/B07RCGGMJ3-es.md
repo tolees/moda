@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RCGGMJ3-es Columbia Pouring Adventure II Chaqueta para Lluvia Hombre...'
 sku: 'B07RCGGMJ3-es'
+tags: [ 'chaqueta', ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

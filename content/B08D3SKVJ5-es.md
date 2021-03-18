@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08D3SKVJ5-es Doaraha Camisón Lactancia para Mujer Vestido Premamá con...'
 sku: 'B08D3SKVJ5-es'
+tags: [ 'pijama','vestido', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

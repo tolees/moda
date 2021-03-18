@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TZY3Q39-es Wrangler Logo tee Camiseta Negro Real Black XW5 XXXX-Large...'
 sku: 'B07TZY3Q39-es'
+tags: [ 'camiseta', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

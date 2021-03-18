@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081TTJQB9-es adidas Trefoil tee Camiseta de Manga Corta Mujer Future...'
 sku: 'B081TTJQB9-es'
+tags: [ 'camiseta', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

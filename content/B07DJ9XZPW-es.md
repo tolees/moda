@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DJ9XZPW-es Honghu Verano Sexy Mangas Corta Low Culleo Slim Fit...'
 sku: 'B07DJ9XZPW-es'
+tags: [ 'vestido', ]
 actualPrice: 3.29 EUR
 currency: EUR
 price: 3.29

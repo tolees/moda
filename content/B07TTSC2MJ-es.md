@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TTSC2MJ-es Huntvp Chaleco Táctico Militar al Aire Libre Ajustable...'
 sku: 'B07TTSC2MJ-es'
+tags: [ 'chaleco', ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

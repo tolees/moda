@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077HMFTSL-es Marca Amazon - find. Vestido Fruncido de Lunares Mujer...'
 sku: 'B077HMFTSL-es'
+tags: [ '-','find.','vestido', ]
 actualPrice: 7.02 EUR
 currency: EUR
 price: 7.02

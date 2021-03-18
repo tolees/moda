@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D5RTBF9-es Under Armour UA Launch Sw 2-In-1 Long Short Pantalón Corto...'
 sku: 'B07D5RTBF9-es'
+tags: [ 'pantalón', ]
 actualPrice: 25.08 EUR
 currency: EUR
 price: 25.08

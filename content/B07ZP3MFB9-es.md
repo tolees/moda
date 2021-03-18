@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZP3MFB9-es LuckyGirls Accesorios de protección Solar de Estilo...'
 sku: 'B07ZP3MFB9-es'
+tags: [ 'guantes', ]
 actualPrice: 1.14 EUR
 currency: EUR
 price: 1.14

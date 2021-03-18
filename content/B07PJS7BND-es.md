@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PJS7BND-es Tous New Essence Bolso bandolera para Mujer Multicolor...'
 sku: 'B07PJS7BND-es'
+tags: [ 'bolso', ]
 actualPrice: 71.0 EUR
 currency: EUR
 price: 71.0

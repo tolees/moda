@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YRCX1MN-es Marca Amazon - AURIQUE Sujetador Deportivo Bajo Impacto...'
 sku: 'B07YRCX1MN-es'
+tags: [ 'aurique', ]
 actualPrice: 12.8 EUR
 currency: EUR
 price: 12.8

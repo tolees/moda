@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IFEF9DK-es Birkenstock Gizeh Eva - Sandalias unisex Marrón Copper 38'
 sku: 'B01IFEF9DK-es'
+tags: [ 'sandalias', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

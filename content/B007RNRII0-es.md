@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007RNRII0-es Speedo 8082108137 Gafas de Natación Unisex Negro Cromo...'
 sku: 'B007RNRII0-es'
+tags: [ 'gafas', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

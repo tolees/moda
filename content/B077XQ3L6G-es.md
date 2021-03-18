@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077XQ3L6G-es Under Armour Tech 2.0. Camiseta masculina camiseta...'
 sku: 'B077XQ3L6G-es'
+tags: [ 'camiseta', ]
 actualPrice: 14.49 EUR
 currency: EUR
 price: 14.49

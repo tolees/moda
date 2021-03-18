@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071KK7ZXH-es Freebily Vestido Elegante de Boda Fiesta Cóctel para Mujer...'
 sku: 'B071KK7ZXH-es'
+tags: [ 'vestido', ]
 actualPrice: 23.49 EUR
 currency: EUR
 price: 23.49

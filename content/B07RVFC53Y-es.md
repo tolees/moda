@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RVFC53Y-es Pepe Jeans Dexter Camisa Azul Indigo 561 Large para Hombre'
 sku: 'B07RVFC53Y-es'
+tags: [ 'camisa', ]
 actualPrice: 29.89 EUR
 currency: EUR
 price: 29.89

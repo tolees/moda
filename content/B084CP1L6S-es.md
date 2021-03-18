@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084CP1L6S-es HAWKERS · ONE LS · Frozen rose · Gold · Gafas de sol para...'
 sku: 'B084CP1L6S-es'
+tags: [ 'gafas', ]
 actualPrice: 22.29 EUR
 currency: EUR
 price: 22.29

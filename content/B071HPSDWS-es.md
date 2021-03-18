@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071HPSDWS-es Under Armour UA HG Armour Shorty Pantalón Corto Mujer Gris...'
 sku: 'B071HPSDWS-es'
+tags: [ 'pantalón', ]
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

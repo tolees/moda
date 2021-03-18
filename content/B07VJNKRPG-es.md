@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VJNKRPG-es Hackett London Amr Tape LS Polo Camisa Manga Larga Blanco...'
 sku: 'B07VJNKRPG-es'
+tags: [ 'camisa', ]
 actualPrice: 37.62 EUR
 currency: EUR
 price: 37.62

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1GL8LZ-es Clarks Un Lindel Lo Botines para Mujer Marrón Dark Tan...'
 sku: 'B07N1GL8LZ-es'
+tags: [ 'botines', ]
 actualPrice: 40.01 EUR
 currency: EUR
 price: 40.01

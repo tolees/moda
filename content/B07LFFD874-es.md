@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFFD874-es Levi s The Jacket Chaqueta Vaquera Beige Olive Night...'
 sku: 'B07LFFD874-es'
+tags: [ 'chaqueta', ]
 actualPrice: 65.95 EUR
 currency: EUR
 price: 65.95

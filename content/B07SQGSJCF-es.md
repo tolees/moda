@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SQGSJCF-es Carteras Hombre Pequeña Tarjetero Pequeña Regalos...'
 sku: 'B07SQGSJCF-es'
+tags: [ 'billetera', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

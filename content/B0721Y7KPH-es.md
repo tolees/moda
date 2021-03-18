@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0721Y7KPH-es JACK & JONES Jprnon Iron Shirt L/s Noos Camisa Gris Grey...'
 sku: 'B0721Y7KPH-es'
+tags: [ 'camisa', ]
 actualPrice: 24.49 EUR
 currency: EUR
 price: 24.49

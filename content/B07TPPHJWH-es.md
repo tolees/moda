@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TPPHJWH-es Urban Classics Hooded Check Puffer Jacket Chaqueta...'
 sku: 'B07TPPHJWH-es'
+tags: [ 'chaqueta', ]
 actualPrice: 24.23 EUR
 currency: EUR
 price: 24.23

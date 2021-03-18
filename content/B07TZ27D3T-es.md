@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TZ27D3T-es Wrangler SS Logo tee Camiseta Azul Navy 114 Medium para...'
 sku: 'B07TZ27D3T-es'
+tags: [ 'camiseta', ]
 actualPrice: 12.48 EUR
 currency: EUR
 price: 12.48

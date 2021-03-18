@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078WTZYR8-es Quiksilver Monkey Abyss Zapatos de Playa y Piscina para...'
 sku: 'B078WTZYR8-es'
+tags: [ 'zapatos', ]
 actualPrice: 19.5 EUR
 currency: EUR
 price: 19.5

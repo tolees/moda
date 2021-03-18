@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WD9BBXS-es VECDY Camisetas Mujer Blusas Elegante 2019 Sudadera De...'
 sku: 'B07WD9BBXS-es'
+tags: [ 'sudadera', ]
 actualPrice: 1.5 EUR
 currency: EUR
 price: 1.5

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079RS3W4C-es Pepe Jeans Jenna PL952389 Vestido Multicolor Multi 0Aa...'
 sku: 'B079RS3W4C-es'
+tags: [ 'vestido', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

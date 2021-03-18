@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NSTGHY8-es Guantes Moto Mujer Hombre Guantes Moto Verano con...'
 sku: 'B07NSTGHY8-es'
+tags: [ 'guantes', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

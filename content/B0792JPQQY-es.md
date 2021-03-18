@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0792JPQQY-es Geox JR Plie E Zapatos de Cordones Oxford para Niñas Negro...'
 sku: 'B0792JPQQY-es'
+tags: [ 'geox','zapatos', ]
 actualPrice: 12.27 EUR
 currency: EUR
 price: 12.27

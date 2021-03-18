@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SXT7XXX-es Geox D SUZZIE B Zapatillas para Mujer Beige Dk Skin/Off...'
 sku: 'B07SXT7XXX-es'
+tags: [ 'geox', ]
 actualPrice: 54.95 EUR
 currency: EUR
 price: 54.95

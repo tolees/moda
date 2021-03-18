@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RT4M3FZ-es Hasbro Disney Frozen 2 Fashion + Extra Vestido Elsa...'
 sku: 'B07RT4M3FZ-es'
+tags: [ 'vestido', ]
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

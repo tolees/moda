@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V7T8XXH-es ACVIP - Camiseta de algodón para niña cuello en V sin...'
 sku: 'B07V7T8XXH-es'
+tags: [ 'camiseta', ]
 actualPrice: 11.05 EUR
 currency: EUR
 price: 11.05

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MC22JTF-es Geox D BACKSIE B ABX C Botas de Nieve para Mujer Beige...'
 sku: 'B07MC22JTF-es'
+tags: [ 'geox', ]
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

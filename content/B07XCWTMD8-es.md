@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XCWTMD8-es PUMA Nu-Tility Fitted tee Camiseta Mujer White L'
 sku: 'B07XCWTMD8-es'
+tags: [ 'camiseta', ]
 actualPrice: 10.75 EUR
 currency: EUR
 price: 10.75

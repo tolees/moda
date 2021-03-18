@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N5FOR7N-es find. Camisa Clásica Manga Corta Hombre Azul Navy Medium'
 sku: 'B01N5FOR7N-es'
+tags: [ 'camisa', ]
 actualPrice: 5.83 EUR
 currency: EUR
 price: 5.83

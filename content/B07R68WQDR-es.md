@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R68WQDR-es Natural Feelings Calzoncillos Boxer Bóxer Hombre Algodón...'
 sku: 'B07R68WQDR-es'
+tags: [ 'boxer','bóxer','moda', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

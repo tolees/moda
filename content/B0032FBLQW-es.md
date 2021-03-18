@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0032FBLQW-es Lacoste L1212 Camiseta Polo Rojo Rouge XS para Hombre'
 sku: 'B0032FBLQW-es'
+tags: [ 'camiseta', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

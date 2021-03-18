@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00AWVYDF0-es Gildan - Camiseta básica de manga corta Unisex Estilosa...'
 sku: 'B00AWVYDF0-es'
+tags: [ 'camiseta', ]
 actualPrice: 3.45 EUR
 currency: EUR
 price: 3.45

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XH4CM8V-es Funko 46788 Pop Balón de Baloncesto: UNC-Michael Jordan...'
 sku: 'B07XH4CM8V-es'
+tags: [ 'jersey', ]
 actualPrice: 10.28 EUR
 currency: EUR
 price: 10.28

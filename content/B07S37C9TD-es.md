@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S37C9TD-es ARTESANIA CERDA Largo Conjuntos de Pijama Rojo Rojo C06 14...'
 sku: 'B07S37C9TD-es'
+tags: [ 'pijama', ]
 actualPrice: 14.64 EUR
 currency: EUR
 price: 14.64

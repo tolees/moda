@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076X4KRP6-es Levi s Original Hm Icon Crew Sudadera Gris Medium Grey...'
 sku: 'B076X4KRP6-es'
+tags: [ 'sudadera', ]
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

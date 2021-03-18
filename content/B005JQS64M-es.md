@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005JQS64M-es Timberland Nellie Double Zapatillas Chukka Mujer Amarillo...'
 sku: 'B005JQS64M-es'
+tags: [ 'timberland', ]
 actualPrice: 87.99 EUR
 currency: EUR
 price: 87.99

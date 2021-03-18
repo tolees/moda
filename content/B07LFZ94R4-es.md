@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFZ94R4-es Geox J HADRIEL Girl D Botas Slouch para Niñas Rosa Lt...'
 sku: 'B07LFZ94R4-es'
+tags: [ 'geox', ]
 actualPrice: 40.85 EUR
 currency: EUR
 price: 40.85

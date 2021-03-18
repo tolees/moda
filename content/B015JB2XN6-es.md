@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015JB2XN6-es Uvex LGL 29 Gafas de Ciclismo Unisex Adulto Negro/Amarillo...'
 sku: 'B015JB2XN6-es'
+tags: [ 'gafas', ]
 actualPrice: 27.78 EUR
 currency: EUR
 price: 27.78

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WK2MC6B-es Ropa Interior Térmica Hombre Camiseta Térmica Hombre...'
 sku: 'B07WK2MC6B-es'
+tags: [ 'camiseta', ]
 actualPrice: 19.19 EUR
 currency: EUR
 price: 19.19

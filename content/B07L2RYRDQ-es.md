@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L2RYRDQ-es Columbia Silver Ridge II Cargo Short Pantalón Corto Nailon...'
 sku: 'B07L2RYRDQ-es'
+tags: [ 'pantalón', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

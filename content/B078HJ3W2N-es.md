@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078HJ3W2N-es IRIS & LILLY Braguita de Algodón Mujer Pack de 5...'
 sku: 'B078HJ3W2N-es'
+tags: [ '&','iris','lilly', ]
 actualPrice: 4.5 EUR
 currency: EUR
 price: 4.5

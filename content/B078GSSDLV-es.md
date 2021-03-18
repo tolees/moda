@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078GSSDLV-es find. Camiseta Estampada NYC 99 Hombre Blanco White 52...'
 sku: 'B078GSSDLV-es'
+tags: [ 'camiseta', ]
 actualPrice: 4.2 EUR
 currency: EUR
 price: 4.2

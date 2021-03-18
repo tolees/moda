@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VT385XH-es Calvin Klein Low Rise Trunk 3pk Bóxer Hombre Multicolor...'
 sku: 'B07VT385XH-es'
+tags: [ 'bóxer', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

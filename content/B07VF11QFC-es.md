@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VF11QFC-es Esprit 099ee1j024 Sudadera Azul Navy 400 XX-Large para Mujer'
 sku: 'B07VF11QFC-es'
+tags: [ 'sudadera', ]
 actualPrice: 18.16 EUR
 currency: EUR
 price: 18.16

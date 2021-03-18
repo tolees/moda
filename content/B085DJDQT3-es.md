@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085DJDQT3-es Agatha Ruiz de la Prada Bandolera Bolso Infantil de...'
 sku: 'B085DJDQT3-es'
+tags: [ 'bolso', ]
 actualPrice: 14.5 EUR
 currency: EUR
 price: 14.5

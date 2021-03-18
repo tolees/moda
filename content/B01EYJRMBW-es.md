@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EYJRMBW-es Levi s 511 Slim Fit Jeans Pantalón vaquero elástico y con...'
 sku: 'B01EYJRMBW-es'
+tags: [ 'pantalón', ]
 actualPrice: 58.53 EUR
 currency: EUR
 price: 58.53

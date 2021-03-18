@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VDL7DY1-es Esprit 099ee1d003s Falda Negro Black 001 Small para Mujer'
 sku: 'B07VDL7DY1-es'
+tags: [ 'falda', ]
 actualPrice: 8.12 EUR
 currency: EUR
 price: 8.12

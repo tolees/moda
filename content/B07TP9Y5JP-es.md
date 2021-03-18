@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TP9Y5JP-es Qkiss Colgante de Diamantes de imitación de Plata Redondo...'
 sku: 'B07TP9Y5JP-es'
+tags: [ 'collar', ]
 actualPrice: 5.39 EUR
 currency: EUR
 price: 5.39

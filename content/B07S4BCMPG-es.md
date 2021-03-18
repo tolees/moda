@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S4BCMPG-es New Balance 574 Nms Deportes De Los Zapatos De La...'
 sku: 'B07S4BCMPG-es'
+tags: [ 'zapatilla','zapatos', ]
 actualPrice: 51.5 EUR
 currency: EUR
 price: 51.5

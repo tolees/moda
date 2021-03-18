@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HY6NY4M-es Canadian Peak Sudadera DE Hombre Galapagos Azul ELÉCTRICO L'
 sku: 'B07HY6NY4M-es'
+tags: [ 'sudadera', ]
 actualPrice: 27.3 EUR
 currency: EUR
 price: 27.3

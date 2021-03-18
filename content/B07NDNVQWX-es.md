@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NDNVQWX-es G-STAR RAW Graphic 15 Core Round Neck Sudadera Rojo Port...'
 sku: 'B07NDNVQWX-es'
+tags: [ 'sudadera', ]
 actualPrice: 15.28 EUR
 currency: EUR
 price: 15.28

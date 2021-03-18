@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RY3SK49-es BILLABONG TRD Mrk LS tee Camiseta Gris Grey Heather 9 One...'
 sku: 'B07RY3SK49-es'
+tags: [ 'camiseta', ]
 actualPrice: 8.67 EUR
 currency: EUR
 price: 8.67

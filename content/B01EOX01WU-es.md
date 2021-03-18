@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EOX01WU-es Helly Hansen Coastal 2 Parka Chaqueta Impermeable...'
 sku: 'B01EOX01WU-es'
+tags: [ 'chaqueta','parka', ]
 actualPrice: 148.99 EUR
 currency: EUR
 price: 148.99

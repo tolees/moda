@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N4HBZXL-es ESPRIT Collection 999EO1B800 Pantalón Azul Light Blue 440...'
 sku: 'B07N4HBZXL-es'
+tags: [ 'pantalón', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

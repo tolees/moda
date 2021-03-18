@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073RPGCJZ-es Helly Hansen Logo Hoodie Sudadera para hombre con capucha...'
 sku: 'B073RPGCJZ-es'
+tags: [ 'sudadera', ]
 actualPrice: 48.98 EUR
 currency: EUR
 price: 48.98

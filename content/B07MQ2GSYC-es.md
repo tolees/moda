@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MQ2GSYC-es Clarks Atticus Cap Zapatos de Cordones Derby para Hombre...'
 sku: 'B07MQ2GSYC-es'
+tags: [ 'zapatos', ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

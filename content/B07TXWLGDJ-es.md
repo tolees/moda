@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TXWLGDJ-es Kipling Izellah Bolso con Bandolera para Mujer Blanco...'
 sku: 'B07TXWLGDJ-es'
+tags: [ 'bolso', ]
 actualPrice: 56.77 EUR
 currency: EUR
 price: 56.77

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TYHXY9T-es Levi s 512 Slim Taper Fit Jean Vaqueros Azul Biologia ADV...'
 sku: 'B07TYHXY9T-es'
+tags: [ 'vaqueros', ]
 actualPrice: 34.22 EUR
 currency: EUR
 price: 34.22

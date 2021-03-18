@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KSRFFHP-es AnazoZ Acero Inoxidable Gemelos para Hombre Camisa Gemelos...'
 sku: 'B07KSRFFHP-es'
+tags: [ 'camisa', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

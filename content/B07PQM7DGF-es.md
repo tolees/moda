@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PQM7DGF-es CATWALK COLLECTION - Bolso de Mujer Para Trabajo/Oficina -...'
 sku: 'B07PQM7DGF-es'
+tags: [ 'bolso', ]
 actualPrice: 89.95 EUR
 currency: EUR
 price: 89.95

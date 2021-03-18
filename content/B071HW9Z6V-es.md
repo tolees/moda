@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071HW9Z6V-es Under Armour Sportstyle Pique Track Jacket Chaqueta Hombre...'
 sku: 'B071HW9Z6V-es'
+tags: [ 'chaqueta', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

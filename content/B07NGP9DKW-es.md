@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NGP9DKW-es Marca Amazon - find. Vestido Corto con Estampado de Rayas...'
 sku: 'B07NGP9DKW-es'
+tags: [ '-','find.','vestido', ]
 actualPrice: 4.78 EUR
 currency: EUR
 price: 4.78

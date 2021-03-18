@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TWWNTBK-es New Look Aw19 Piper Abrigo Negro Black 1 38 Talla del...'
 sku: 'B07TWWNTBK-es'
+tags: [ 'abrigo', ]
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

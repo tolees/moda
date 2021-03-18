@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YFWWT92-es GOBY Collar de Helado de Paleta Creativa de Moda cruda de...'
 sku: 'B07YFWWT92-es'
+tags: [ 'collar','moda', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

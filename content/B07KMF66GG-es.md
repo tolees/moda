@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KMF66GG-es Marca Amazon - find. Americana de Lino Mujer Beige Stone...'
 sku: 'B07KMF66GG-es'
+tags: [ '-','find.', ]
 actualPrice: 6.08 EUR
 currency: EUR
 price: 6.08

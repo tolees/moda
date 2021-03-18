@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VS52LPT-es Lee Luke Vaqueros Slim Azul Dark Stonewash 46 W27/L32...'
 sku: 'B07VS52LPT-es'
+tags: [ 'vaqueros', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

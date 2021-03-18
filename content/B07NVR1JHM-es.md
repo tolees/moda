@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NVR1JHM-es G-STAR RAW Graphic Logo 4 Camiseta Azul Small Talla del...'
 sku: 'B07NVR1JHM-es'
+tags: [ 'camiseta', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

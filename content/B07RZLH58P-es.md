@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RZLH58P-es Levi s 512 Slim Taper Fit Vaqueros Tapered Azul Biologia...'
 sku: 'B07RZLH58P-es'
+tags: [ 'vaqueros', ]
 actualPrice: 59.8 EUR
 currency: EUR
 price: 59.8

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RLX21GY-es Mavi Frida Falda Negro Smoke Random Embelished 29954 Small...'
 sku: 'B07RLX21GY-es'
+tags: [ 'falda', ]
 actualPrice: 17.37 EUR
 currency: EUR
 price: 17.37

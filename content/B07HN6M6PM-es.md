@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HN6M6PM-es Nike M NSW Me Short Waffle Pantalón Hombre dk Grey Heather S'
 sku: 'B07HN6M6PM-es'
+tags: [ 'pantalón', ]
 actualPrice: 7.46 EUR
 currency: EUR
 price: 7.46

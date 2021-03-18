@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFZM7H9-es Geox U CLINTFORDB ABX A Botas Clasicas para Hombre Marrón...'
 sku: 'B07LFZM7H9-es'
+tags: [ 'geox', ]
 actualPrice: 34.78 EUR
 currency: EUR
 price: 34.78

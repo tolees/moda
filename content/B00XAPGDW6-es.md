@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XAPGDW6-es Collar - Envueltos - Caramelo comprimido - 1020 g'
 sku: 'B00XAPGDW6-es'
+tags: [ 'collar', ]
 actualPrice: 8.93 EUR
 currency: EUR
 price: 8.93

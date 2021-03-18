@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P16DHLR-es Superdry Vintage Logo Racer tee Camiseta Rojo Rouge Red...'
 sku: 'B07P16DHLR-es'
+tags: [ 'camiseta', ]
 actualPrice: 10.06 EUR
 currency: EUR
 price: 10.06

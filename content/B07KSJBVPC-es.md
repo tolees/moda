@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KSJBVPC-es Under Armour Graphic Sportstyle Fashion SSC Camiseta Mujer...'
 sku: 'B07KSJBVPC-es'
+tags: [ 'camiseta', ]
 actualPrice: 9.38 EUR
 currency: EUR
 price: 9.38

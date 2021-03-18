@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XKNZ2Q1-es ElegantPark HC1620 Zapatos para Novia Boda Tacon Bajo...'
 sku: 'B06XKNZ2Q1-es'
+tags: [ 'zapatos', ]
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

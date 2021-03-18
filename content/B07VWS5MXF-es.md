@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VWS5MXF-es El Naturalista Zumaia Sandalias con Punta Abierta para...'
 sku: 'B07VWS5MXF-es'
+tags: [ 'sandalias', ]
 actualPrice: 71.95 EUR
 currency: EUR
 price: 71.95

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X3PV7G4-es Pepe Jeans Chepstow Vaqueros Hombre Ajustados Azul...'
 sku: 'B07X3PV7G4-es'
+tags: [ 'vaqueros', ]
 actualPrice: 48.02 EUR
 currency: EUR
 price: 48.02

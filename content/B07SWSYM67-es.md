@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SWSYM67-es Geox U Renan A Zapatillas para Hombre Marrón Browncotto...'
 sku: 'B07SWSYM67-es'
+tags: [ 'geox', ]
 actualPrice: 46.25 EUR
 currency: EUR
 price: 46.25

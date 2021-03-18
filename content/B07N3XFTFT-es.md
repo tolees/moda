@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N3XFTFT-es Desigual Blouse Sena Blusa Rojo BORGOÑA 3007 S para Mujer'
 sku: 'B07N3XFTFT-es'
+tags: [ 'blusa', ]
 actualPrice: 13.78 EUR
 currency: EUR
 price: 13.78

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N18RJPZ-es G-STAR RAW Lynn Mid-Waist Skinny Vaqueros Faded Blue...'
 sku: 'B07N18RJPZ-es'
+tags: [ 'vaqueros', ]
 actualPrice: 29.24 EUR
 currency: EUR
 price: 29.24

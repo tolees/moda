@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BN5NKQC-es Pepe Jeans Original Stretch Camiseta para Hombre Gris Grey...'
 sku: 'B00BN5NKQC-es'
+tags: [ 'camiseta', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

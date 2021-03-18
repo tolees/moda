@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XCX2XMQ-es PUMA Ftblnxt Camisa Hombre Ultra Yellow Black XXL'
 sku: 'B07XCX2XMQ-es'
+tags: [ 'camisa', ]
 actualPrice: 10.94 EUR
 currency: EUR
 price: 10.94

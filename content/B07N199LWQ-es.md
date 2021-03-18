@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N199LWQ-es G-STAR RAW 3301 High Waist Straight 90 s Ankle Vaqueros...'
 sku: 'B07N199LWQ-es'
+tags: [ 'vaqueros', ]
 actualPrice: 24.84 EUR
 currency: EUR
 price: 24.84

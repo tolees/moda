@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MQVG2VS-es Napapijri SOVES Camiseta Gris Med Grey Mel 160 XL para Hombre'
 sku: 'B07MQVG2VS-es'
+tags: [ 'camiseta', ]
 actualPrice: 15.6 EUR
 currency: EUR
 price: 15.6

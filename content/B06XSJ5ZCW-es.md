@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XSJ5ZCW-es iSuperb Estuche para Lápices Desplegable Encantador Bolso...'
 sku: 'B06XSJ5ZCW-es'
+tags: [ 'bolso', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VTB9WRJ-es Tommy Hilfiger De Brooklyn Structure Short Flex Vaqueros...'
 sku: 'B07VTB9WRJ-es'
+tags: [ 'vaqueros', ]
 actualPrice: 12.83 EUR
 currency: EUR
 price: 12.83

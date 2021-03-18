@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JVCK4X4-es Under Armour UNDKU Tech Camisa Polo Hombre Verde XXL'
 sku: 'B07JVCK4X4-es'
+tags: [ 'camisa', ]
 actualPrice: 23.97 EUR
 currency: EUR
 price: 23.97

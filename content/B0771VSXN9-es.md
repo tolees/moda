@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0771VSXN9-es Columbia Silver Ridge II Pantalón Cargo de Senderismo para...'
 sku: 'B0771VSXN9-es'
+tags: [ 'pantalón', ]
 actualPrice: 36.89 EUR
 currency: EUR
 price: 36.89

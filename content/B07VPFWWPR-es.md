@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VPFWWPR-es Jack & Jones JORHARDY Light Puffer Chaqueta Rojo Detalles...'
 sku: 'B07VPFWWPR-es'
+tags: [ 'chaqueta', ]
 actualPrice: 18.39 EUR
 currency: EUR
 price: 18.39

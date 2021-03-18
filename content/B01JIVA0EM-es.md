@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01JIVA0EM-es Levi s 511 Slim Fit Jeans Pantalón vaquero con corte...'
 sku: 'B01JIVA0EM-es'
+tags: [ 'pantalón', ]
 actualPrice: 71.99 EUR
 currency: EUR
 price: 71.99

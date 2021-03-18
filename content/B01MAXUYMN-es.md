@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MAXUYMN-es MAMALICIOUS MLJULIANE SLIM PANT - NOOS Vaqueros premamá...'
 sku: 'B01MAXUYMN-es'
+tags: [ 'vaqueros', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

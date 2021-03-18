@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MXWWHFV-es MeBB Chic Collar Mordedor de Lactancia para Bebé Mordedor...'
 sku: 'B01MXWWHFV-es'
+tags: [ 'collar','moda', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

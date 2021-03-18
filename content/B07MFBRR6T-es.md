@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MFBRR6T-es Kickers Maldan Zapatos de Cordones Derby para Hombre Negro...'
 sku: 'B07MFBRR6T-es'
+tags: [ 'zapatos', ]
 actualPrice: 36.9 EUR
 currency: EUR
 price: 36.9

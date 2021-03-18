@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JGMK8I2-es LEVIS FOOTWEAR AND ACCESSORIES Vintage Two Horse Bifold...'
 sku: 'B00JGMK8I2-es'
+tags: [ 'monedero', ]
 actualPrice: 31.95 EUR
 currency: EUR
 price: 31.95

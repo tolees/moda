@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L1JM3T3-es Jack & Jones Jjiliam Jjoriginal Am 816 Noos Vaqueros...'
 sku: 'B07L1JM3T3-es'
+tags: [ 'vaqueros', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H4GK51Y-es adidas CAMPEON19 JSY Camiseta Campeon 19 Gris DGH Solid...'
 sku: 'B07H4GK51Y-es'
+tags: [ 'camiseta', ]
 actualPrice: 11.18 EUR
 currency: EUR
 price: 11.18

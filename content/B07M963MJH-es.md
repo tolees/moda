@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M963MJH-es Wrangler Logo Sweat Sudadera Verde Pine G01 Small para Mujer'
 sku: 'B07M963MJH-es'
+tags: [ 'sudadera', ]
 actualPrice: 28.34 EUR
 currency: EUR
 price: 28.34

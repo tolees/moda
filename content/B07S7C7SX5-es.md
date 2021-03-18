@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S7C7SX5-es Lee Malone Vaqueros Easy Blue Zk 31W / 34L para Hombre'
 sku: 'B07S7C7SX5-es'
+tags: [ 'vaqueros', ]
 actualPrice: 26.5 EUR
 currency: EUR
 price: 26.5

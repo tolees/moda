@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F24W2MM-es Levi s Plus Size 311 Pl Shaping Skinny Vaqueros 4X Stretch...'
 sku: 'B07F24W2MM-es'
+tags: [ 'vaqueros', ]
 actualPrice: 47.86 EUR
 currency: EUR
 price: 47.86

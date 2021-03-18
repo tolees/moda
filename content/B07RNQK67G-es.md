@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RNQK67G-es Sandalias para Mujer Verano 2019 Plataforma Cuña...'
 sku: 'B07RNQK67G-es'
+tags: [ 'sandalias','zapatos', ]
 actualPrice: 6.82 EUR
 currency: EUR
 price: 6.82

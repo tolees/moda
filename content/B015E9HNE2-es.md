@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015E9HNE2-es Ermenegildo Zegna Sonnenbrille EZ0020 Gafas de Sol Marrón...'
 sku: 'B015E9HNE2-es'
+tags: [ 'gafas', ]
 actualPrice: 30.89 EUR
 currency: EUR
 price: 30.89

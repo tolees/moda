@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0758Q5ZKY-es Clarks Lafley Rosen Sandalias de Talón Abierto para Mujer...'
 sku: 'B0758Q5ZKY-es'
+tags: [ 'sandalias', ]
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

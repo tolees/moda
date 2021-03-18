@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RHTQP1R-es Tommy Hilfiger TJM Essential Hooded Jacket Chaqueta...'
 sku: 'B07RHTQP1R-es'
+tags: [ 'chaqueta', ]
 actualPrice: 66.95 EUR
 currency: EUR
 price: 66.95

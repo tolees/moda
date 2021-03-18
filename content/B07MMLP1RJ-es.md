@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MMLP1RJ-es Napapijri K Rainforest 1 Chaqueta Rojo High Risk Red RA3 3...'
 sku: 'B07MMLP1RJ-es'
+tags: [ 'chaqueta', ]
 actualPrice: 35.14 EUR
 currency: EUR
 price: 35.14

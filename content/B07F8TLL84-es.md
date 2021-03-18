@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F8TLL84-es SHOBDW Pantalones de Verano de Moda Pantalones Cortos...'
 sku: 'B07F8TLL84-es'
+tags: [ 'moda', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

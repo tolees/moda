@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V2MFK96-es J.Endéar Inicial Encanto Z Personalizar Collar Clavícula...'
 sku: 'B07V2MFK96-es'
+tags: [ 'collar', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

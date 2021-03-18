@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00F5OTAQG-es GANT The Original SS T-Shirt Camiseta Blanco White 110...'
 sku: 'B00F5OTAQG-es'
+tags: [ 'camiseta', ]
 actualPrice: 20.92 EUR
 currency: EUR
 price: 20.92

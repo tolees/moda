@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D5XWS1V-es CLUB CUBANA Camisa Hawaiana Florar Casual Manga Corta...'
 sku: 'B07D5XWS1V-es'
+tags: [ 'camisa', ]
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

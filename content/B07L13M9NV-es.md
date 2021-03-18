@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L13M9NV-es Under Armour Rival Fleece Sportstyle Graphic Sudadera con...'
 sku: 'B07L13M9NV-es'
+tags: [ 'sudadera', ]
 actualPrice: 32.2 EUR
 currency: EUR
 price: 32.2

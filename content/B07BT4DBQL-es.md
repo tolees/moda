@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BT4DBQL-es Sunny Holiday Mocasines Hombres Zapatos Planos con...'
 sku: 'B07BT4DBQL-es'
+tags: [ 'zapatos', ]
 actualPrice: 25.98 EUR
 currency: EUR
 price: 25.98

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M8L2FHR-es Lee Chunky Knit Sudadera Marfil Off White MK Large para Mujer'
 sku: 'B07M8L2FHR-es'
+tags: [ 'sudadera', ]
 actualPrice: 17.1 EUR
 currency: EUR
 price: 17.1

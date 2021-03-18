@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SBGX6PQ-es Lee Austin Vaqueros Tapered Azul Mission Clean Zg 29W /...'
 sku: 'B07SBGX6PQ-es'
+tags: [ 'vaqueros', ]
 actualPrice: 25.07 EUR
 currency: EUR
 price: 25.07

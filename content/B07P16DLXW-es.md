@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P16DLXW-es Superdry Downhill Racer Box Quilt Jkt Chaqueta Azul True...'
 sku: 'B07P16DLXW-es'
+tags: [ 'chaqueta', ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

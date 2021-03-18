@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SRKB79Z-es Geox D SUZZIE B Zapatillas para Mujer Marfil Black/Off...'
 sku: 'B07SRKB79Z-es'
+tags: [ 'geox', ]
 actualPrice: 46.46 EUR
 currency: EUR
 price: 46.46

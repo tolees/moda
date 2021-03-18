@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JZ51GX4-es Tommy Hilfiger Recycled Short Puffer Chaqueta Azul Black...'
 sku: 'B07JZ51GX4-es'
+tags: [ 'chaqueta', ]
 actualPrice: 49.29 EUR
 currency: EUR
 price: 49.29

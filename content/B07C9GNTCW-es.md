@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C9GNTCW-es Bolso de Paja Crossbody JOSEKO Bolso de Paja para Mujer...'
 sku: 'B07C9GNTCW-es'
+tags: [ 'bolso', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

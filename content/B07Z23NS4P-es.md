@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z23NS4P-es Vans Spicoli Flat Shades Gafas de Sol Negro Black/Silver...'
 sku: 'B07Z23NS4P-es'
+tags: [ 'gafas', ]
 actualPrice: 12.07 EUR
 currency: EUR
 price: 12.07

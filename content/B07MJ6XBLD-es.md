@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MJ6XBLD-es New Look Highwaist Skinny 6055144 Vaqueros Negro Black 1...'
 sku: 'B07MJ6XBLD-es'
+tags: [ 'vaqueros', ]
 actualPrice: 11 EUR
 currency: EUR
 price: 11

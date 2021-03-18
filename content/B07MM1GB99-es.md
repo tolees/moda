@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MM1GB99-es alvorog Perchero con Zapatero Perchero Metálico de Pie...'
 sku: 'B07MM1GB99-es'
+tags: [ 'zapatos', ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0833ZFQWB-es Collar Antiparasitos para Perros y Gatos contra Pulgas...'
 sku: 'B0833ZFQWB-es'
+tags: [ 'collar', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

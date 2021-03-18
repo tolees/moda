@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VPR2RQK-es Tommy Hilfiger Tjw Essential Logo Sweatshirt Sudadera...'
 sku: 'B07VPR2RQK-es'
+tags: [ 'sudadera', ]
 actualPrice: 27.03 EUR
 currency: EUR
 price: 27.03

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F2QLWJ3-es Helly Hansen Hp Fleece Jacket Chaqueta Deportiva para...'
 sku: 'B07F2QLWJ3-es'
+tags: [ 'chaqueta', ]
 actualPrice: 70.99 EUR
 currency: EUR
 price: 70.99

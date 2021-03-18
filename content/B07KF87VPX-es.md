@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KF87VPX-es Levi s Graphic Crew B Sudadera Blanco Hm Ssnl Film...'
 sku: 'B07KF87VPX-es'
+tags: [ 'sudadera', ]
 actualPrice: 42.49 EUR
 currency: EUR
 price: 42.49

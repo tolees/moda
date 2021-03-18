@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01J5V8QEG-es Vicloon - Disfraz de Princesa Elsa - Reino de Hielo -...'
 sku: 'B01J5V8QEG-es'
+tags: [ 'vestido', ]
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

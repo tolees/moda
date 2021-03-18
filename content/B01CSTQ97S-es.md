@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CSTQ97S-es Joma Nobel Pantalón de equipación Antracita L'
 sku: 'B01CSTQ97S-es'
+tags: [ 'pantalón', ]
 actualPrice: 7.94 EUR
 currency: EUR
 price: 7.94

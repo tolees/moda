@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RX7TX3L-es Levi s Vneck Camiseta Azul Sea Captain Blue 0005 Medium...'
 sku: 'B07RX7TX3L-es'
+tags: [ 'camiseta', ]
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

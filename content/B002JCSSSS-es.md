@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002JCSSSS-es Crocs Crocband U Zuecos Unisex Adulto Negro Black 42-43 EU'
 sku: 'B002JCSSSS-es'
+tags: [ 'zuecos', ]
 actualPrice: 27.71 EUR
 currency: EUR
 price: 27.71

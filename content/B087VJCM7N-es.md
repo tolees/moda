@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087VJCM7N-es Columbia Pouring Adventure Chaqueta para Hombre Azul...'
 sku: 'B087VJCM7N-es'
+tags: [ 'chaqueta', ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

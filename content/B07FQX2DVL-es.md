@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FQX2DVL-es Clarks Un Trek Part Sandalias de Talón Abierto para Hombre...'
 sku: 'B07FQX2DVL-es'
+tags: [ 'sandalias', ]
 actualPrice: 58.92 EUR
 currency: EUR
 price: 58.92

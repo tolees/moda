@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XG11LZD-es CADeN Camera Hombro Bolsa de Mensajero Mochila de Lona...'
 sku: 'B06XG11LZD-es'
+tags: [ 'bolso', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

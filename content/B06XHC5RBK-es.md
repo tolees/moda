@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XHC5RBK-es Helly Hansen W HH LIFA 1/2 Zip Camiseta Deportiva Mujer...'
 sku: 'B06XHC5RBK-es'
+tags: [ 'camiseta', ]
 actualPrice: 71.5 EUR
 currency: EUR
 price: 71.5

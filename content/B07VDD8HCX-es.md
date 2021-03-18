@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VDD8HCX-es OBEEII Vestido de Comunion Niña Bordado de Tul Vestido...'
 sku: 'B07VDD8HCX-es'
+tags: [ 'vestido', ]
 actualPrice: 14.65 EUR
 currency: EUR
 price: 14.65

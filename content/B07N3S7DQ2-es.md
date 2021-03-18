@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N3S7DQ2-es Bright Deer Vestido de Fiesta Boda Noche Cóctel Graduación...'
 sku: 'B07N3S7DQ2-es'
+tags: [ 'vestido', ]
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

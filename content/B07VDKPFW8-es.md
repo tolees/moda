@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VDKPFW8-es JACK & JONES PREMIUM Jprwetford Parka STS Beige Kelp XX-...'
 sku: 'B07VDKPFW8-es'
+tags: [ 'parka', ]
 actualPrice: 32.66 EUR
 currency: EUR
 price: 32.66

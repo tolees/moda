@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00AAZPNVQ-es MUSTELA - MUSTELA BOLSO PRIMEROS PRODUCT'
 sku: 'B00AAZPNVQ-es'
+tags: [ 'bolso', ]
 actualPrice: 4.36 EUR
 currency: EUR
 price: 4.36

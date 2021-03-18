@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D74PJCZ-es Svpo Batería recargable eléctrica Guantes térmicos de...'
 sku: 'B07D74PJCZ-es'
+tags: [ 'guantes', ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

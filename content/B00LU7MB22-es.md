@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LU7MB22-es Helly Hansen Crew Chaqueta Hombre Negro Black XS'
 sku: 'B00LU7MB22-es'
+tags: [ 'chaqueta', ]
 actualPrice: 69.78 EUR
 currency: EUR
 price: 69.78

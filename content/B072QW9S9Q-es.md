@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072QW9S9Q-es Lee Logo tee Camiseta Negro Black Ai01 Large para Hombre'
 sku: 'B072QW9S9Q-es'
+tags: [ 'camiseta', ]
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

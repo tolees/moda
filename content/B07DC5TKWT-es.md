@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DC5TKWT-es LOVEVOOK Bolsos de las mujeres bolsos hobo bolso de mano...'
 sku: 'B07DC5TKWT-es'
+tags: [ 'bolso', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

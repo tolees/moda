@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FTL62Y3-es Lee Rider Vaqueros slim Hombre Gris Grey Worn Wf W32/L32'
 sku: 'B07FTL62Y3-es'
+tags: [ 'vaqueros', ]
 actualPrice: 56.68 EUR
 currency: EUR
 price: 56.68

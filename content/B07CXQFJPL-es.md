@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CXQFJPL-es Hot One Cambios De Color Monederos y Bolsos Luminosos...'
 sku: 'B07CXQFJPL-es'
+tags: [ 'billetera','moda','monedero', ]
 actualPrice: 35.71 EUR
 currency: EUR
 price: 35.71

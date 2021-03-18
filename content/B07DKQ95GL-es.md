@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DKQ95GL-es Dickies Farnham Chaqueta Marrón Medium Talla del...'
 sku: 'B07DKQ95GL-es'
+tags: [ 'chaqueta', ]
 actualPrice: 39.77 EUR
 currency: EUR
 price: 39.77

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TTJG4GX-es Skechers Reggae Cup-oh Snap Sandalias de Punta Descubierta...'
 sku: 'B07TTJG4GX-es'
+tags: [ 'sandalias', ]
 actualPrice: 32.65 EUR
 currency: EUR
 price: 32.65

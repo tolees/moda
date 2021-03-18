@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IRABKBM-es Botas para Hombre De Seguridad Puntera De Acero Zapatos De...'
 sku: 'B01IRABKBM-es'
+tags: [ 'zapatos', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

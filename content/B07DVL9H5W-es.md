@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DVL9H5W-es Levi s Type 3 Sherpa Trucker Chaqueta para Hombre Azul...'
 sku: 'B07DVL9H5W-es'
+tags: [ 'chaqueta', ]
 actualPrice: 49.68 EUR
 currency: EUR
 price: 49.68

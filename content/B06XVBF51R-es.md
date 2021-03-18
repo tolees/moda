@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XVBF51R-es G-STAR RAW Core Super Slim Camisa Vaquera Blanco White 110...'
 sku: 'B06XVBF51R-es'
+tags: [ 'camisa', ]
 actualPrice: 22.18 EUR
 currency: EUR
 price: 22.18

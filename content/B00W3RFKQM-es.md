@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00W3RFKQM-es Joma Gala Sudadera Hombre Naranja M'
 sku: 'B00W3RFKQM-es'
+tags: [ 'sudadera', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

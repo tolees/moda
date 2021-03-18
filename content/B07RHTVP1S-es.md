@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RHTVP1S-es Tommy Hilfiger TJM Novel Logo Crew Jersey de Deporte Azul...'
 sku: 'B07RHTVP1S-es'
+tags: [ 'jersey', ]
 actualPrice: 29.58 EUR
 currency: EUR
 price: 29.58

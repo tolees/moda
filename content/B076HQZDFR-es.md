@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076HQZDFR-es adidas CORE18 tee Camiseta de Manga Corta Hombre...'
 sku: 'B076HQZDFR-es'
+tags: [ 'camiseta', ]
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

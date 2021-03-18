@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MSB3D2C-es Marca Amazon - MERAKI Polo Hombre Gris Grey Marl S Label: S'
 sku: 'B07MSB3D2C-es'
+tags: [ 'meraki', ]
 actualPrice: 6.37 EUR
 currency: EUR
 price: 6.37

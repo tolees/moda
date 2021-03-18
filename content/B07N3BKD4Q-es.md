@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N3BKD4Q-es Desigual Coat Letras Abrigo Azul Navy 5000 48 Talla del...'
 sku: 'B07N3BKD4Q-es'
+tags: [ 'abrigo', ]
 actualPrice: 50.07 EUR
 currency: EUR
 price: 50.07

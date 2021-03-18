@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MN55RK3-es Wrangler Texas Contrast Vaqueros Azul Warm Up 97b 36 W/ 34...'
 sku: 'B07MN55RK3-es'
+tags: [ 'vaqueros', ]
 actualPrice: 44.98 EUR
 currency: EUR
 price: 44.98

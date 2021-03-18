@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MR18A8E-es G-STAR RAW Lynn Mid Waist Skinny Vaqueros Azul Medium Aged...'
 sku: 'B00MR18A8E-es'
+tags: [ 'vaqueros', ]
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

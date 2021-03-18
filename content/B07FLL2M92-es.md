@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FLL2M92-es David Jones - Bolso de Mano Trabajo Mujer - Shopper Tote...'
 sku: 'B07FLL2M92-es'
+tags: [ 'bolso', ]
 actualPrice: 34.39 EUR
 currency: EUR
 price: 34.39

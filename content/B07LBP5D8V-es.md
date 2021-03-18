@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LBP5D8V-es Helly Hansen Jr Barrier Down Aislante Chaqueta De Pluma...'
 sku: 'B07LBP5D8V-es'
+tags: [ 'chaqueta', ]
 actualPrice: 35.36 EUR
 currency: EUR
 price: 35.36

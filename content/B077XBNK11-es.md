@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077XBNK11-es Under Armour UA Challenger II Pantalones para Hombre...'
 sku: 'B077XBNK11-es'
+tags: [ 'pantalón', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

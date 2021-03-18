@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZQ39D2-es Pepe Jeans Loganne Sudadera Dulwich 594 Medium para Hombre'
 sku: 'B07MZQ39D2-es'
+tags: [ 'sudadera', ]
 actualPrice: 53.45 EUR
 currency: EUR
 price: 53.45

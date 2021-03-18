@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N414BRX-es Desigual Dress Marian Vestido Blanco Crudo 1001 48 Talla...'
 sku: 'B07N414BRX-es'
+tags: [ 'vestido', ]
 actualPrice: 26.19 EUR
 currency: EUR
 price: 26.19

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077XHXSJL-es Zoggs Predator Flex Gafas de natación Unisex...'
 sku: 'B077XHXSJL-es'
+tags: [ 'gafas', ]
 actualPrice: 17.0 EUR
 currency: EUR
 price: 17.0

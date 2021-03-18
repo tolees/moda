@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0792QJ3CZ-es CoolBELL Mochila Convertible en Bolso de Hombro para...'
 sku: 'B0792QJ3CZ-es'
+tags: [ 'bolso', ]
 actualPrice: 31.44 EUR
 currency: EUR
 price: 31.44

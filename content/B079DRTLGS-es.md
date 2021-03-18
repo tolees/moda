@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079DRTLGS-es Anna Smith Bolso de embrague con correa Bolso de noche de...'
 sku: 'B079DRTLGS-es'
+tags: [ 'bolso', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

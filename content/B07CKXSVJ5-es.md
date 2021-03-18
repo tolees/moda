@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CKXSVJ5-es STTLZMC Polo para Hombre de Manga Corta Casual Moda...'
 sku: 'B07CKXSVJ5-es'
+tags: [ 'moda', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

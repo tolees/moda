@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N15Q9CP-es Lee Button Down Camisa Azul Beyond Blue Small para Hombre'
 sku: 'B07N15Q9CP-es'
+tags: [ 'camisa', ]
 actualPrice: 31.18 EUR
 currency: EUR
 price: 31.18

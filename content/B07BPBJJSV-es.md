@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BPBJJSV-es Wrangler Slider Vaqueros Azul Indigo Wit 25F 34W / 32L...'
 sku: 'B07BPBJJSV-es'
+tags: [ 'vaqueros', ]
 actualPrice: 59.47 EUR
 currency: EUR
 price: 59.47

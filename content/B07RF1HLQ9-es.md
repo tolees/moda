@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RF1HLQ9-es Under Armour Tech 2.0 Shortsleeve Camiseta Transpirable...'
 sku: 'B07RF1HLQ9-es'
+tags: [ 'camiseta', ]
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

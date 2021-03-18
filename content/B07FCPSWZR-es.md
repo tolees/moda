@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FCPSWZR-es REPLAY Zeumar Vaqueros Slim Azul Blue 10 36W / 32L para...'
 sku: 'B07FCPSWZR-es'
+tags: [ 'vaqueros', ]
 actualPrice: 58.98 EUR
 currency: EUR
 price: 58.98

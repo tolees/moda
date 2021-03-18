@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFV9CM9-es Geox U Terence C Botas Clasicas para Hombre Negro Black...'
 sku: 'B07LFV9CM9-es'
+tags: [ 'geox', ]
 actualPrice: 59.92 EUR
 currency: EUR
 price: 59.92

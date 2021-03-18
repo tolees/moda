@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VBBN4YH-es HUGO 708 Vaqueros Slim Azul Bright Blue 431 W35/L34 Talla...'
 sku: 'B07VBBN4YH-es'
+tags: [ 'vaqueros', ]
 actualPrice: 28.75 EUR
 currency: EUR
 price: 28.75

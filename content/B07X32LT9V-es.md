@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X32LT9V-es G-STAR RAW Pocket Short Sleeve Camiseta Rosa Lt Bleach...'
 sku: 'B07X32LT9V-es'
+tags: [ 'camiseta', ]
 actualPrice: 9.82 EUR
 currency: EUR
 price: 9.82

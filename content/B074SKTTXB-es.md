@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074SKTTXB-es RONSOU Retro Polarizadas Gafas de Sol 100% UV401...'
 sku: 'B074SKTTXB-es'
+tags: [ 'gafas', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

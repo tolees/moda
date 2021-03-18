@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WCCFCV1-es Springfield Web Naming Stripes-C/41 Camiseta Gris Dark...'
 sku: 'B07WCCFCV1-es'
+tags: [ 'camiseta', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

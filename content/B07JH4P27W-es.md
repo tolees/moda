@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JH4P27W-es Pepe Jeans Belle Pg580920 Sudadera Grey Marl 933 4-5 años...'
 sku: 'B07JH4P27W-es'
+tags: [ 'sudadera', ]
 actualPrice: 32.95 EUR
 currency: EUR
 price: 32.95

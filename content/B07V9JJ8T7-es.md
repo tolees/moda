@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V9JJ8T7-es Calvin Klein Essential Slim V Neck tee Camiseta Negro CK...'
 sku: 'B07V9JJ8T7-es'
+tags: [ 'camiseta', ]
 actualPrice: 17.81 EUR
 currency: EUR
 price: 17.81

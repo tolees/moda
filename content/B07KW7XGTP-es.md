@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KW7XGTP-es Marca Amazon - find. Vestido Midi Cruzado Mujer Multicolor...'
 sku: 'B07KW7XGTP-es'
+tags: [ '-','find.','vestido', ]
 actualPrice: 9.51 EUR
 currency: EUR
 price: 9.51

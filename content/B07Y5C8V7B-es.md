@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y5C8V7B-es Geographical Norway Sudadera DE Hombre GYMCLASS B Naranja M'
 sku: 'B07Y5C8V7B-es'
+tags: [ 'sudadera', ]
 actualPrice: 27.3 EUR
 currency: EUR
 price: 27.3

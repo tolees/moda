@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0716NX7XX-es Activewear Mesh Camiseta Deportiva para Hombre Weiß White...'
 sku: 'B0716NX7XX-es'
+tags: [ 'camiseta', ]
 actualPrice: 4.07 EUR
 currency: EUR
 price: 4.07

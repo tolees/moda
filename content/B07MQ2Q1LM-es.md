@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MQ2Q1LM-es HKT by Hackett Hkt Crew Sudadera Petroleo 5er Medium para...'
 sku: 'B07MQ2Q1LM-es'
+tags: [ 'sudadera', ]
 actualPrice: 15.88 EUR
 currency: EUR
 price: 15.88

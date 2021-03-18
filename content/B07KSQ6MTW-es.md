@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KSQ6MTW-es Columbia Hombre Chaqueta Polar con Cremallera Completa...'
 sku: 'B07KSQ6MTW-es'
+tags: [ 'chaqueta', ]
 actualPrice: 22.69 EUR
 currency: EUR
 price: 22.69

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KFL619N-es Marca Amazon - find. Shorts Bermuda Hombre Multicolor Blue...'
 sku: 'B07KFL619N-es'
+tags: [ '-','find.', ]
 actualPrice: 5.53 EUR
 currency: EUR
 price: 5.53

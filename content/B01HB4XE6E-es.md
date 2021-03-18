@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HB4XE6E-es Bombers Original Berlin Chaqueta Rot Burgundy 5 40 para Mujer'
 sku: 'B01HB4XE6E-es'
+tags: [ 'chaqueta', ]
 actualPrice: 14.14 EUR
 currency: EUR
 price: 14.14

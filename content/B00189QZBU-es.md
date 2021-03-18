@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00189QZBU-es Timberland Classic 2 Eye Náuticos para Hombre Marrón Med...'
 sku: 'B00189QZBU-es'
+tags: [ 'timberland', ]
 actualPrice: 80.16 EUR
 currency: EUR
 price: 80.16

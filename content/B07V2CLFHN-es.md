@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V2CLFHN-es ACVIP - Camiseta de manga corta con cuello en V y hombros...'
 sku: 'B07V2CLFHN-es'
+tags: [ 'camiseta', ]
 actualPrice: 11.05 EUR
 currency: EUR
 price: 11.05

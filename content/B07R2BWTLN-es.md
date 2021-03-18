@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R2BWTLN-es Wrangler LS 1pkt Bdown Shirt Camisa Azul Dress Blue X20...'
 sku: 'B07R2BWTLN-es'
+tags: [ 'camisa', ]
 actualPrice: 20.42 EUR
 currency: EUR
 price: 20.42

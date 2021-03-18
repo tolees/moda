@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P7HWL31-es Aigle Vedur Mtd Zapatos de Low Rise Senderismo para Hombre...'
 sku: 'B07P7HWL31-es'
+tags: [ 'zapatos', ]
 actualPrice: 24.79 EUR
 currency: EUR
 price: 24.79

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KRHHZX4-es Art 0998 Memphis Sandalias con Correa de Tobillo para...'
 sku: 'B07KRHHZX4-es'
+tags: [ 'sandalias', ]
 actualPrice: 22.15 EUR
 currency: EUR
 price: 22.15

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MQ5TH57-es HKT by Hackett Hkt Mlt Panel Mel Gham Camisa Navy/Grey 5cy...'
 sku: 'B07MQ5TH57-es'
+tags: [ 'camisa', ]
 actualPrice: 22.83 EUR
 currency: EUR
 price: 22.83

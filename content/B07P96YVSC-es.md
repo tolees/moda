@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P96YVSC-es Wrangler LS Western Shirt Camisa Negro Black 100 X-Large...'
 sku: 'B07P96YVSC-es'
+tags: [ 'camisa', ]
 actualPrice: 23.06 EUR
 currency: EUR
 price: 23.06

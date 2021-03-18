@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FK9YBJ2-es Columbia Alpine Action Oh Chaqueta de Esquí Rosa Cactus...'
 sku: 'B07FK9YBJ2-es'
+tags: [ 'chaqueta', ]
 actualPrice: 86.52 EUR
 currency: EUR
 price: 86.52

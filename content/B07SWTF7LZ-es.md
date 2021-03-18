@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SWTF7LZ-es Geox D Myria C Zapatillas para Mujer Blanco White/Off...'
 sku: 'B07SWTF7LZ-es'
+tags: [ 'geox', ]
 actualPrice: 55.96 EUR
 currency: EUR
 price: 55.96

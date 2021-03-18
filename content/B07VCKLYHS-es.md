@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VCKLYHS-es Desigual Bols ada Rotterdam - Bolso bandolera para mujer...'
 sku: 'B07VCKLYHS-es'
+tags: [ 'bolso', ]
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

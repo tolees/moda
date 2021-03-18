@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TYFGQJL-es BOSS Brief 3p Co/El Bóxer Multicolor Open Miscellaneous...'
 sku: 'B07TYFGQJL-es'
+tags: [ 'bóxer', ]
 actualPrice: 18.98 EUR
 currency: EUR
 price: 18.98

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HXB12VL-es Gant D1. Harvest Moon Ruffle Dress Vestido Azul Marine 410...'
 sku: 'B07HXB12VL-es'
+tags: [ 'vestido', ]
 actualPrice: 87.29 EUR
 currency: EUR
 price: 87.29

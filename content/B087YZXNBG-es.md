@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087YZXNBG-es Regatta - Sandalias Chanclas Modelo Holcombe para Hombre...'
 sku: 'B087YZXNBG-es'
+tags: [ 'chanclas','sandalias', ]
 actualPrice: 32.7 EUR
 currency: EUR
 price: 32.7

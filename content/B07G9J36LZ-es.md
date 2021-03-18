@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G9J36LZ-es Joma Academy Camiseta Termica Hombre Rojo S-M'
 sku: 'B07G9J36LZ-es'
+tags: [ 'camiseta', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VDKK8J2-es SELECTED HOMME Slhpadded Reversible Jacket B Chaqueta Rojo...'
 sku: 'B07VDKK8J2-es'
+tags: [ 'chaqueta', ]
 actualPrice: 19.69 EUR
 currency: EUR
 price: 19.69

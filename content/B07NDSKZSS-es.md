@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NDSKZSS-es Marca Amazon - find. Vestido Midi de Satén Mujer Negro...'
 sku: 'B07NDSKZSS-es'
+tags: [ '-','find.','vestido', ]
 actualPrice: 7.23 EUR
 currency: EUR
 price: 7.23

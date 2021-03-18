@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013SPM3V2-es Victoria Mercedes Lona Pañuelo Zapatos de primeros pasos...'
 sku: 'B013SPM3V2-es'
+tags: [ 'zapatos', ]
 actualPrice: 19.53 EUR
 currency: EUR
 price: 19.53

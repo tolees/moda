@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077XN3LKM-es Under Armour Charged Cotton Scramble Polo Camisa Polo Para...'
 sku: 'B077XN3LKM-es'
+tags: [ 'camisa', ]
 actualPrice: 33.76 EUR
 currency: EUR
 price: 33.76

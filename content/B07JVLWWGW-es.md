@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JVLWWGW-es ACVIP - Abrigo - Chaqueta Guateada - para niña Red 2 7-8 Años'
 sku: 'B07JVLWWGW-es'
+tags: [ 'abrigo','chaqueta', ]
 actualPrice: 32.14 EUR
 currency: EUR
 price: 32.14

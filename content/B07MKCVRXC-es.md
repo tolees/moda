@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MKCVRXC-es Helly Hansen HH LIFA T-Shirt Camiseta Técnica De...'
 sku: 'B07MKCVRXC-es'
+tags: [ 'camiseta', ]
 actualPrice: 18.49 EUR
 currency: EUR
 price: 18.49

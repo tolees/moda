@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006YLR8TA-es Lacoste L1212 Camiseta Polo Azul Tanzanite C8Q XS Talla...'
 sku: 'B006YLR8TA-es'
+tags: [ 'camiseta', ]
 actualPrice: 44.4 EUR
 currency: EUR
 price: 44.4

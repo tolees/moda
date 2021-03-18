@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P7HPXZL-es Tommy Hilfiger Heritage Slim Fit Shirt Blusa Azul Midnight...'
 sku: 'B07P7HPXZL-es'
+tags: [ 'blusa', ]
 actualPrice: 67.45 EUR
 currency: EUR
 price: 67.45

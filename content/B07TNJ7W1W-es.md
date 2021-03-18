@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TNJ7W1W-es Charles Wilson Camiseta Polo de Punto Abultado Large Light...'
 sku: 'B07TNJ7W1W-es'
+tags: [ 'camiseta', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

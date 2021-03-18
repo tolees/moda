@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RHTXYMT-es Tommy Hilfiger Tjw Essential V-Neck Logo tee Camiseta...'
 sku: 'B07RHTXYMT-es'
+tags: [ 'camiseta', ]
 actualPrice: 6.44 EUR
 currency: EUR
 price: 6.44

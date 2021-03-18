@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TSMBRF3-es Apanphy® Bolsa de Aseo Neceseres de Viaje Travel Bolso...'
 sku: 'B07TSMBRF3-es'
+tags: [ 'bolso', ]
 actualPrice: 11.58 EUR
 currency: EUR
 price: 11.58

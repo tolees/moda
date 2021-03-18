@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TQNTP5P-es Levi s Relaxed Graphic tee Camiseta Negro 90 s Serif Logo...'
 sku: 'B07TQNTP5P-es'
+tags: [ 'camiseta', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

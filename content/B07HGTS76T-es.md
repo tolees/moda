@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HGTS76T-es Aizeroth-UK Unisex Hombre Mujer Zapatillas de Seguridad...'
 sku: 'B07HGTS76T-es'
+tags: [ 'zapatos', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KSQZ4N6-es Columbia Inner Limits Chaqueta para Lluvia Negro/Gris 3XL...'
 sku: 'B07KSQZ4N6-es'
+tags: [ 'chaqueta', ]
 actualPrice: 45.56 EUR
 currency: EUR
 price: 45.56

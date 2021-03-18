@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WPBT47F-es Tommy Hilfiger SS tee Print Top de pijama Gris Grey...'
 sku: 'B06WPBT47F-es'
+tags: [ 'pijama', ]
 actualPrice: 17.49 EUR
 currency: EUR
 price: 17.49

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WZMW6FN-es Ipanema Fashion Sand VII Fem Sandalias con Tira Vertical...'
 sku: 'B07WZMW6FN-es'
+tags: [ 'sandalias', ]
 actualPrice: 22.39 EUR
 currency: EUR
 price: 22.39

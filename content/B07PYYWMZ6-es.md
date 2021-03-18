@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PYYWMZ6-es Under Armour Under Armour Men s Hovr Havoc 2...'
 sku: 'B07PYYWMZ6-es'
+tags: [ 'zapatos', ]
 actualPrice: 65.2 EUR
 currency: EUR
 price: 65.2

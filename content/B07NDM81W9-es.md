@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NDM81W9-es G-STAR RAW 3301 Slim Vaqueros Pitch Black B964-A810 34W /...'
 sku: 'B07NDM81W9-es'
+tags: [ 'vaqueros', ]
 actualPrice: 32.05 EUR
 currency: EUR
 price: 32.05

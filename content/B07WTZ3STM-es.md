@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WTZ3STM-es AOQUSSQOA Mujer Conjuntos de Bikinis para Mujer Bikini de...'
 sku: 'B07WTZ3STM-es'
+tags: [ 'bikini','falda', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

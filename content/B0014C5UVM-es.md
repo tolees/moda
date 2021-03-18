@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0014C5UVM-es Crocs Classic Clog Zuecos Unisex Adulto Azul Navy 410...'
 sku: 'B0014C5UVM-es'
+tags: [ 'zuecos', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

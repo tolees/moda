@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NAIEG87-es KRISP 6252-GRY-20 Vestido Corto Patinadora Vuelo Fruncido...'
 sku: 'B01NAIEG87-es'
+tags: [ 'vestido', ]
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0733G7SKC-es Marca Amazon - find. Sudadera de Tacto Suave para Hombre...'
 sku: 'B0733G7SKC-es'
+tags: [ '-','find.','sudadera', ]
 actualPrice: 6.56 EUR
 currency: EUR
 price: 6.56

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06X1CC3KG-es Vans Colorblock tee - Camiseta para Hombre Negro...'
 sku: 'B06X1CC3KG-es'
+tags: [ 'camiseta', ]
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

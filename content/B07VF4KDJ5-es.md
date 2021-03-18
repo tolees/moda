@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VF4KDJ5-es JACK & JONES Jcofigure Parka STS Azul Sky Captain Pattern:...'
 sku: 'B07VF4KDJ5-es'
+tags: [ 'parka', ]
 actualPrice: 34.09 EUR
 currency: EUR
 price: 34.09

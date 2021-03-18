@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MCSPCCT-es Napapijri Avio Chaqueta Verde Green Forest 2 Ge3 XXL para...'
 sku: 'B07MCSPCCT-es'
+tags: [ 'chaqueta', ]
 actualPrice: 85.53 EUR
 currency: EUR
 price: 85.53

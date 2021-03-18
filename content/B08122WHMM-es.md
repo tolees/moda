@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08122WHMM-es Disney Camiseta Paquete de 2 de Manga Corta para niñas...'
 sku: 'B08122WHMM-es'
+tags: [ 'camiseta', ]
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

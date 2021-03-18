@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081BJDS4N-es Columbia Powder Pass Chaqueta con Capucha Hombre Verde New...'
 sku: 'B081BJDS4N-es'
+tags: [ 'chaqueta', ]
 actualPrice: 71.98 EUR
 currency: EUR
 price: 71.98

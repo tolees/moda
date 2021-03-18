@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RJYLBJH-es ARTESANIA CERDA MOCHILA CASUAL MODA MICKEY'
 sku: 'B07RJYLBJH-es'
+tags: [ 'moda', ]
 actualPrice: 13.6 EUR
 currency: EUR
 price: 13.6

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076QBV3JR-es Tommy Hilfiger Core Stretch Slim Vneck tee Camiseta Negro...'
 sku: 'B076QBV3JR-es'
+tags: [ 'camiseta', ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

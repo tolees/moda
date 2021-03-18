@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NJ19ZM8-es Springfield INT.R.Real Down Tecnico Chaqueta Negro Negro 1...'
 sku: 'B07NJ19ZM8-es'
+tags: [ 'chaqueta', ]
 actualPrice: 28.51 EUR
 currency: EUR
 price: 28.51

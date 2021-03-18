@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LHFL7XD-es The North Face SS Raglan Easy tee Camiseta Hombre Azul...'
 sku: 'B07LHFL7XD-es'
+tags: [ 'camiseta', ]
 actualPrice: 17.5 EUR
 currency: EUR
 price: 17.5

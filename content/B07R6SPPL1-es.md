@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R6SPPL1-es U+U 2019 Version Bolso bandolera de piel con bloqueo RFID...'
 sku: 'B07R6SPPL1-es'
+tags: [ 'bolso', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

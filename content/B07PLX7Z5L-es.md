@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PLX7Z5L-es Ogquaton Calidad superior 4 piezas Moda Zircon Crystal Cat...'
 sku: 'B07PLX7Z5L-es'
+tags: [ 'collar','moda', ]
 actualPrice: 2.25 EUR
 currency: EUR
 price: 2.25

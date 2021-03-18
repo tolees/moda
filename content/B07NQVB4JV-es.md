@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NQVB4JV-es B Blesiya Juego deAjedrez Acrílico Magnético Portátil...'
 sku: 'B07NQVB4JV-es'
+tags: [ 'moda', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

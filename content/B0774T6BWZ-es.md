@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0774T6BWZ-es Tommy Hilfiger Core Stretch Slim Cneck tee Camiseta Gris...'
 sku: 'B0774T6BWZ-es'
+tags: [ 'camiseta', ]
 actualPrice: 21.17 EUR
 currency: EUR
 price: 21.17

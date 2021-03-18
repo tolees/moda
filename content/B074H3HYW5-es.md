@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074H3HYW5-es find. Camisa con Volantes para Mujer Verde Khaki 38 Talla...'
 sku: 'B074H3HYW5-es'
+tags: [ 'camisa', ]
 actualPrice: 12 EUR
 currency: EUR
 price: 12

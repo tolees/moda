@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001OVFKCW-es adidas Originals Adilette Chanclas para Hombre Azul...'
 sku: 'B001OVFKCW-es'
+tags: [ 'chanclas', ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

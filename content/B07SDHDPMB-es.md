@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SDHDPMB-es Disney HS1472 Sudadera Gris Grey Grey 8 años para Niños'
 sku: 'B07SDHDPMB-es'
+tags: [ 'sudadera', ]
 actualPrice: 20.65 EUR
 currency: EUR
 price: 20.65

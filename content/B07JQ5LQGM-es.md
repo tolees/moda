@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JQ5LQGM-es Levi s 724 High Rise Straight Vaqueros Negro Black Sheen...'
 sku: 'B07JQ5LQGM-es'
+tags: [ 'vaqueros', ]
 actualPrice: 61.99 EUR
 currency: EUR
 price: 61.99

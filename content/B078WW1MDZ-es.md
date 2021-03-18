@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078WW1MDZ-es PUMA Liga CR Jr Camiseta de Fútbol Unisex Niños Negro...'
 sku: 'B078WW1MDZ-es'
+tags: [ 'camiseta', ]
 actualPrice: 9.6 EUR
 currency: EUR
 price: 9.6

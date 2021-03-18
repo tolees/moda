@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NDL73KD-es G-STAR RAW Graphic 22 Optic Slim Round Neck Camiseta Azul...'
 sku: 'B07NDL73KD-es'
+tags: [ 'camiseta', ]
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

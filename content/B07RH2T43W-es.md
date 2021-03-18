@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RH2T43W-es Under Armour Playoff 20 Men s Transpirable Hombre cómoda y...'
 sku: 'B07RH2T43W-es'
+tags: [ 'camisa', ]
 actualPrice: 23.25 EUR
 currency: EUR
 price: 23.25

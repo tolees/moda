@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RYMQWFC-es Levi s Barstow Western Standard Camisa Negro Archer...'
 sku: 'B07RYMQWFC-es'
+tags: [ 'camisa', ]
 actualPrice: 30.79 EUR
 currency: EUR
 price: 30.79

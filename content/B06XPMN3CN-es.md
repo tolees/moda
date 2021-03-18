@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XPMN3CN-es Marca Amazon - find. Pantalón Fruncido para Mujer Rosa...'
 sku: 'B06XPMN3CN-es'
+tags: [ '-','find.','pantalón', ]
 actualPrice: 3.92 EUR
 currency: EUR
 price: 3.92

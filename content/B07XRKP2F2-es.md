@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XRKP2F2-es Bolso de Fiesta Noche Mujer Embrague Hard Shell Clutches...'
 sku: 'B07XRKP2F2-es'
+tags: [ 'billetera','bolso', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

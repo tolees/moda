@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0777LWQMV-es JACK & JONES Jjifred Jjoriginal CR 033 STS Vaqueros...'
 sku: 'B0777LWQMV-es'
+tags: [ 'vaqueros', ]
 actualPrice: 24 EUR
 currency: EUR
 price: 24

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0721WBBGL-es adidas Entrada 18 JSY Jersey de Fútbol de Manga Corta...'
 sku: 'B0721WBBGL-es'
+tags: [ 'jersey', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

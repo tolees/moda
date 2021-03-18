@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076WZBMNH-es Levi s 310 Shaping Super Skinny Vaqueros Skinny Mujer...'
 sku: 'B076WZBMNH-es'
+tags: [ 'vaqueros', ]
 actualPrice: 59.4 EUR
 currency: EUR
 price: 59.4

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072JGWYFM-es Fluchos Luca Zapatos de Cordones Derby para Hombre Marrón...'
 sku: 'B072JGWYFM-es'
+tags: [ 'zapatos', ]
 actualPrice: 46.31 EUR
 currency: EUR
 price: 46.31

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V7Y2DSP-es Billabong All Day Impact Chanclas para Hombre Azul Navy 21...'
 sku: 'B07V7Y2DSP-es'
+tags: [ 'chanclas', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

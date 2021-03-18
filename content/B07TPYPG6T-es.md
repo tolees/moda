@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TPYPG6T-es Clarks Un Adorn Vibe Sandalias de Talón Abierto para Mujer...'
 sku: 'B07TPYPG6T-es'
+tags: [ 'sandalias', ]
 actualPrice: 41.9 EUR
 currency: EUR
 price: 41.9

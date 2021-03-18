@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NALIEN2-es Crocs Crocband Clog K Zuecos con Correa Unisex Niños Azul...'
 sku: 'B01NALIEN2-es'
+tags: [ 'zuecos', ]
 actualPrice: 18.72 EUR
 currency: EUR
 price: 18.72

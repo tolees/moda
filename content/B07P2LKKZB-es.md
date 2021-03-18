@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P2LKKZB-es GRACE KARIN Mujer Vestido Elegante Años 50 Vestido de...'
 sku: 'B07P2LKKZB-es'
+tags: [ 'vestido', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

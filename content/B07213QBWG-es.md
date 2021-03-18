@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07213QBWG-es MYCARBON Cintura Fanny Pack Riñoneras Deportivas Cinturón...'
 sku: 'B07213QBWG-es'
+tags: [ 'bolso', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

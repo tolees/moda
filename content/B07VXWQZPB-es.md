@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VXWQZPB-es Pepe Jeans Golders Camiseta Azul Light Thames 533 Large...'
 sku: 'B07VXWQZPB-es'
+tags: [ 'camiseta', ]
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

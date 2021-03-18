@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RZ2BQ5W-es BILLABONG Laguna Beach Sudadera Mujer Verde Wasabi 4447...'
 sku: 'B07RZ2BQ5W-es'
+tags: [ 'sudadera', ]
 actualPrice: 11.62 EUR
 currency: EUR
 price: 11.62

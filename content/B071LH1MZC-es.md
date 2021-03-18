@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071LH1MZC-es Under Armour Woven Graphic Wordmark Shorts Pantalones de...'
 sku: 'B071LH1MZC-es'
+tags: [ 'pantalón', ]
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

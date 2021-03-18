@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XCF5MLK-es G-STAR RAW 3301 Deconstructed Skinny Vaqueros Medium...'
 sku: 'B06XCF5MLK-es'
+tags: [ 'vaqueros', ]
 actualPrice: 54.97 EUR
 currency: EUR
 price: 54.97

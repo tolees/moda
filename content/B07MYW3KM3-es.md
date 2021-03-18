@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MYW3KM3-es Ever-Pretty A-línea Vestido de Fiesta Cuello en V Manga...'
 sku: 'B07MYW3KM3-es'
+tags: [ 'vestido', ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

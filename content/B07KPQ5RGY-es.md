@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KPQ5RGY-es Gant O2. Striped Flared Dress Vestido para Mujer Azul...'
 sku: 'B07KPQ5RGY-es'
+tags: [ 'vestido', ]
 actualPrice: 58.21 EUR
 currency: EUR
 price: 58.21

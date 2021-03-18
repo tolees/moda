@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00J3QTK8K-es uhlsport Match Classic De Mujer Chaqueta De Entrenamiento...'
 sku: 'B00J3QTK8K-es'
+tags: [ 'chaqueta', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

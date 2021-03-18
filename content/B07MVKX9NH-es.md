@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MVKX9NH-es Napapijri Berber C Sudadera Verde Green Forest 2 GE3 Large...'
 sku: 'B07MVKX9NH-es'
+tags: [ 'sudadera', ]
 actualPrice: 35.6 EUR
 currency: EUR
 price: 35.6

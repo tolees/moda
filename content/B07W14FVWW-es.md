@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W14FVWW-es Pepe Jeans West Sir Camiseta Azul Dark Acqua 518 Medium...'
 sku: 'B07W14FVWW-es'
+tags: [ 'camiseta', ]
 actualPrice: 16.45 EUR
 currency: EUR
 price: 16.45

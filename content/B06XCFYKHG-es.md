@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XCFYKHG-es G-STAR RAW Lynn D-Mid Waist Super Skinny Vaqueros Medium...'
 sku: 'B06XCFYKHG-es'
+tags: [ 'vaqueros', ]
 actualPrice: 30.38 EUR
 currency: EUR
 price: 30.38

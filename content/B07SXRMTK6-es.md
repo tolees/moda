@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SXRMTK6-es Geox D Sozy G Sandalias con Punta Abierta para Mujer Negro...'
 sku: 'B07SXRMTK6-es'
+tags: [ 'geox','sandalias', ]
 actualPrice: 48.93 EUR
 currency: EUR
 price: 48.93

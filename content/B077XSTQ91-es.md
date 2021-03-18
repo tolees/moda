@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077XSTQ91-es Under Armour UA HG Racer Tank Camiseta sin Mangas Mujer...'
 sku: 'B077XSTQ91-es'
+tags: [ 'camiseta', ]
 actualPrice: 10.63 EUR
 currency: EUR
 price: 10.63

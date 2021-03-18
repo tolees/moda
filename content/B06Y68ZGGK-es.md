@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06Y68ZGGK-es Joma Camiseta Granada Beige-Vino M/C Manga Corta Hombre...'
 sku: 'B06Y68ZGGK-es'
+tags: [ 'camiseta', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

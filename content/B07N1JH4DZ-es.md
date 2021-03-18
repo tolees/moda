@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1JH4DZ-es Clarks Un Adorn Walk Botines Mujer Azul Navy Nubuck Navy...'
 sku: 'B07N1JH4DZ-es'
+tags: [ 'botines', ]
 actualPrice: 22.1 EUR
 currency: EUR
 price: 22.1

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QZ2BV95-es Hawiton Pijama Hombre Verano Corto Manga Corta Conjunto de...'
 sku: 'B07QZ2BV95-es'
+tags: [ 'camiseta','pijama', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

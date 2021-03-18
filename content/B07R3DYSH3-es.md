@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R3DYSH3-es Helly Hansen Lifaloft Ligera Chaqueta Aislante Mujer...'
 sku: 'B07R3DYSH3-es'
+tags: [ 'chaqueta', ]
 actualPrice: 66.16 EUR
 currency: EUR
 price: 66.16

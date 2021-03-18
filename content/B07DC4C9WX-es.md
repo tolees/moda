@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DC4C9WX-es adidas 3-Stripes tee Camiseta Hombre Azul azucie XS'
 sku: 'B07DC4C9WX-es'
+tags: [ 'camiseta', ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

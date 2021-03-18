@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VF4LRQH-es JACK & JONES NOS Jjijean Jjjacket CR 139 STS Chaqueta...'
 sku: 'B07VF4LRQH-es'
+tags: [ 'chaqueta', ]
 actualPrice: 28.25 EUR
 currency: EUR
 price: 28.25

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TTN5LHW-es Only Onlnew Skylar AW Fur Parka CC Otw Azul Night Sky...'
 sku: 'B07TTN5LHW-es'
+tags: [ 'parka', ]
 actualPrice: 14.79 EUR
 currency: EUR
 price: 14.79

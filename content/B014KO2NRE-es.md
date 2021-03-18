@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B014KO2NRE-es Pepe Jeans Soho Vaqueros Azul 10Oz Classic Stretch Z63 34W...'
 sku: 'B014KO2NRE-es'
+tags: [ 'vaqueros', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

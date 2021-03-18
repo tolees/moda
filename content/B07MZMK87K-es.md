@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZMK87K-es Pepe Jeans Mohsen Sudadera Grey Marl 933 17-18 años de...'
 sku: 'B07MZMK87K-es'
+tags: [ 'sudadera', ]
 actualPrice: 12.02 EUR
 currency: EUR
 price: 12.02

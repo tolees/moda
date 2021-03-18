@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0792KWJV2-es Geox JR Wader A Zapatillas para Niños Negro Black C9999 38 EU'
 sku: 'B0792KWJV2-es'
+tags: [ 'geox', ]
 actualPrice: 50.53 EUR
 currency: EUR
 price: 50.53

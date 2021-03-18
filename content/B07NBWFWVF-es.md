@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NBWFWVF-es BOSS Trunk 3p One Design Bóxer Open Miscellaneous 960...'
 sku: 'B07NBWFWVF-es'
+tags: [ 'bóxer', ]
 actualPrice: 16.17 EUR
 currency: EUR
 price: 16.17

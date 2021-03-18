@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RF8VLTY-es Fila Disruptor 2 Premium Metallic Mujeres Zapatillas Moda...'
 sku: 'B07RF8VLTY-es'
+tags: [ 'moda', ]
 actualPrice: 64.89 EUR
 currency: EUR
 price: 64.89

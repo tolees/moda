@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N9CGYF8-es Pepe Jeans West Sir Camiseta Verde Absynth 625 X-Small...'
 sku: 'B07N9CGYF8-es'
+tags: [ 'camiseta', ]
 actualPrice: 20.59 EUR
 currency: EUR
 price: 20.59

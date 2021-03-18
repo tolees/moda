@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EHMXACG-es Rnow - Gafas Premium unisex estilo retro moda en óptica...'
 sku: 'B01EHMXACG-es'
+tags: [ 'gafas','moda', ]
 actualPrice: 6.86 EUR
 currency: EUR
 price: 6.86

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KFYF5X4-es PUMA AURIZ Zapatos de fútbol para Hombre Negro Black...'
 sku: 'B07KFYF5X4-es'
+tags: [ 'zapatos', ]
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

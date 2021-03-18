@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QXRZXDZ-es SUADEX Unisex Hombre Mujer Zapato de Agua Zapatos de Playa...'
 sku: 'B07QXRZXDZ-es'
+tags: [ 'zapatos', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

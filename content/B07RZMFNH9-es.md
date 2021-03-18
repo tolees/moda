@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RZMFNH9-es Esprit 089ee1i002 Chaqueta Punto Gris Gunmetal 5 019 Small...'
 sku: 'B07RZMFNH9-es'
+tags: [ 'chaqueta', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

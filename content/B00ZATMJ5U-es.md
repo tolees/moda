@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ZATMJ5U-es G-STAR RAW Revend Skinny Vaqueros Dk Aged 6590-89 27W /...'
 sku: 'B00ZATMJ5U-es'
+tags: [ 'vaqueros', ]
 actualPrice: 27.46 EUR
 currency: EUR
 price: 27.46

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JZJ2V2D-es Tommy Hilfiger Recycled Short Puffer Chaqueta Rojo Virtual...'
 sku: 'B07JZJ2V2D-es'
+tags: [ 'chaqueta', ]
 actualPrice: 45.05 EUR
 currency: EUR
 price: 45.05

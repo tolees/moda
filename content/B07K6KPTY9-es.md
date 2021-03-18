@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K6KPTY9-es Marca Amazon - MERAKI Culottes Mujer Azul Navy 38 Label: S'
 sku: 'B07K6KPTY9-es'
+tags: [ 'meraki', ]
 actualPrice: 7.54 EUR
 currency: EUR
 price: 7.54

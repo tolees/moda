@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GY1NQCZ-es edc by Esprit 999cc1k803 Camiseta Gris Light Grey 040...'
 sku: 'B07GY1NQCZ-es'
+tags: [ 'camiseta', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HGM88D1-es #N/A 2 Juegos Ropa de Vestir de Moda para Muñecas Chicas...'
 sku: 'B08HGM88D1-es'
+tags: [ 'moda', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

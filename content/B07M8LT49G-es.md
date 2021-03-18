@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M8LT49G-es Wrangler Arizona Vaqueros Straight Azul Dark Fuzz 77j 31...'
 sku: 'B07M8LT49G-es'
+tags: [ 'vaqueros', ]
 actualPrice: 23.54 EUR
 currency: EUR
 price: 23.54

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QQPVHQJ-es flintronic Billetera Monedero para Hombres RFID Billetera...'
 sku: 'B07QQPVHQJ-es'
+tags: [ 'billetera','monedero', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

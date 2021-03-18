@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K7NVR14-es Levi s 311 Shaping Skinny Vaqueros Middle Grey 28W / 32L...'
 sku: 'B07K7NVR14-es'
+tags: [ 'vaqueros', ]
 actualPrice: 49.5 EUR
 currency: EUR
 price: 49.5

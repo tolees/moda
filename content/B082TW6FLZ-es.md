@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082TW6FLZ-es Hub USB C Adaptador USB C 11 en 1 con 4 USB3.0/2.0 4K HDMI...'
 sku: 'B082TW6FLZ-es'
+tags: [ 'chaqueta', ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

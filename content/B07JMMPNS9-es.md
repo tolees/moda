@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JMMPNS9-es Timberland 6 Inch Premium Waterproof Botas para Mujer Rojo...'
 sku: 'B07JMMPNS9-es'
+tags: [ 'timberland', ]
 actualPrice: 94.63 EUR
 currency: EUR
 price: 94.63

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KF666RN-es Levi s 511 Slim Fit Vaqueros Rajah ADV 3313 36W / 36L para...'
 sku: 'B07KF666RN-es'
+tags: [ 'vaqueros', ]
 actualPrice: 68.49 EUR
 currency: EUR
 price: 68.49

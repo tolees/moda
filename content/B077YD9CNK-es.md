@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077YD9CNK-es HIKARO Sudadera con Capucha Hombre Gris Charcoal Marl 48...'
 sku: 'B077YD9CNK-es'
+tags: [ 'sudadera', ]
 actualPrice: 21.21 EUR
 currency: EUR
 price: 21.21

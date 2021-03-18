@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KF4TNP1-es Levi s SS Original Hm tee Camiseta Azul Skyway 0023 Medium...'
 sku: 'B07KF4TNP1-es'
+tags: [ 'camiseta', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

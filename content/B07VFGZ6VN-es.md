@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VFGZ6VN-es Reebok LM Activchill Tank Camiseta De Tirantes Hombre...'
 sku: 'B07VFGZ6VN-es'
+tags: [ 'camiseta', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

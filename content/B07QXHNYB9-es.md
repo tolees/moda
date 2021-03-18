@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QXHNYB9-es BaZhaHei Moda Mochila Mini Dragones Mini Bolso de Hombro...'
 sku: 'B07QXHNYB9-es'
+tags: [ 'bolso','moda', ]
 actualPrice: 1.58 EUR
 currency: EUR
 price: 1.58

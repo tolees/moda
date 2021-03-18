@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F31RHKT-es Vans Colorblock tee - Camiseta para Hombre Azul Dress...'
 sku: 'B07F31RHKT-es'
+tags: [ 'camiseta', ]
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

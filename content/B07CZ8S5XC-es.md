@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CZ8S5XC-es Under Armour UA Speed Stride Split 1/4 Zip Ligera Deporte...'
 sku: 'B07CZ8S5XC-es'
+tags: [ 'camiseta', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

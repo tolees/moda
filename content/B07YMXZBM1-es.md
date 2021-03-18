@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YMXZBM1-es Hurley M One&Only Solid tee Camiseta Hombre Camelia L'
 sku: 'B07YMXZBM1-es'
+tags: [ 'camiseta', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

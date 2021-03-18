@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VQ74DZR-es Tommy Hilfiger Arch tee Camiseta Deporte Azul Desert Sky...'
 sku: 'B07VQ74DZR-es'
+tags: [ 'camiseta', ]
 actualPrice: 14.66 EUR
 currency: EUR
 price: 14.66

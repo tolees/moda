@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GKP52YF-es Ever-Pretty Vestido de Noche Gasa Un Hombro Corte Imperio...'
 sku: 'B07GKP52YF-es'
+tags: [ 'vestido', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

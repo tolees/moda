@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FKWVCV8-es Trangoworld Helens Complet Chaqueta Mujer Sombra Oscura XL'
 sku: 'B07FKWVCV8-es'
+tags: [ 'chaqueta', ]
 actualPrice: 127.49 EUR
 currency: EUR
 price: 127.49

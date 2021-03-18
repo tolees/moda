@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RY3F7NX-es Nike W Nk Swoosh Run Top SS Camiseta de Manga Corta Mujer...'
 sku: 'B07RY3F7NX-es'
+tags: [ 'camiseta', ]
 actualPrice: 17.3 EUR
 currency: EUR
 price: 17.3

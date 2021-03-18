@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MN47D9S-es Wrangler Straight Vaqueros para Mujer Azul Mid Indigo X8E...'
 sku: 'B07MN47D9S-es'
+tags: [ 'vaqueros', ]
 actualPrice: 21.65 EUR
 currency: EUR
 price: 21.65

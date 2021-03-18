@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZQQDC9-es Pepe Jeans Mada Camiseta Grey Marl 933 Medium para Mujer'
 sku: 'B07MZQQDC9-es'
+tags: [ 'camiseta', ]
 actualPrice: 8.3 EUR
 currency: EUR
 price: 8.3

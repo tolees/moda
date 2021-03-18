@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M5BGTXB-es Wrangler Texas Contrast Vaqueros Azul Darkstone 009 40W /...'
 sku: 'B01M5BGTXB-es'
+tags: [ 'vaqueros', ]
 actualPrice: 55.49 EUR
 currency: EUR
 price: 55.49

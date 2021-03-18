@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LBL79V1-es Rieker 52513-36 Botines para Mujer Multicolor...'
 sku: 'B07LBL79V1-es'
+tags: [ 'botines', ]
 actualPrice: 36.1 EUR
 currency: EUR
 price: 36.1

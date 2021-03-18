@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N4DPYFZ-es United Colors of Benetton College Man Camisa Casual...'
 sku: 'B07N4DPYFZ-es'
+tags: [ 'camisa', ]
 actualPrice: 17.65 EUR
 currency: EUR
 price: 17.65

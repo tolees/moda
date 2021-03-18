@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077Y8KLJ9-es HIKARO Parka Corta Hombre Azul Navy 48 Talla del...'
 sku: 'B077Y8KLJ9-es'
+tags: [ 'parka', ]
 actualPrice: 13.47 EUR
 currency: EUR
 price: 13.47

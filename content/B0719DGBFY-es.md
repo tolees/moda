@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0719DGBFY-es find. Camiseta Estampada para Hombre Negro Charcoal Small'
 sku: 'B0719DGBFY-es'
+tags: [ 'camiseta', ]
 actualPrice: 4.5 EUR
 currency: EUR
 price: 4.5

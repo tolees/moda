@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MGJ5VMX-es Under Armour Sportstyle Terry Logo Hoodie Sudadera con...'
 sku: 'B07MGJ5VMX-es'
+tags: [ 'sudadera', ]
 actualPrice: 20.83 EUR
 currency: EUR
 price: 20.83

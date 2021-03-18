@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CP7M4SM-es Crocs Crocband U Zuecos Unisex Adulto Verde Army Green-...'
 sku: 'B07CP7M4SM-es'
+tags: [ 'zuecos', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

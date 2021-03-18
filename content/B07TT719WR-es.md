@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TT719WR-es Levi s The tee Camiseta Azul BRW T2 Baby Blue 0777 Small...'
 sku: 'B07TT719WR-es'
+tags: [ 'camiseta', ]
 actualPrice: 14.5 EUR
 currency: EUR
 price: 14.5

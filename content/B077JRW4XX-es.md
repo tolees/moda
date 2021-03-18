@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077JRW4XX-es Mujer Camisetas Manga Larga Originales Basicas Camuflaje...'
 sku: 'B077JRW4XX-es'
+tags: [ 'moda', ]
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

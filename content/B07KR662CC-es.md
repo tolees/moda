@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KR662CC-es Tom Tailor Logo Camiseta Gris Tarmac Grey 10899 Large para...'
 sku: 'B07KR662CC-es'
+tags: [ 'camiseta', ]
 actualPrice: 4.16 EUR
 currency: EUR
 price: 4.16

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N2PK3HG-es Realista Reborn Bebe Muchacha Vinilo Vestido de Tutú Rosa...'
 sku: 'B07N2PK3HG-es'
+tags: [ 'vestido', ]
 actualPrice: 69.9 EUR
 currency: EUR
 price: 69.9

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TKP3TK5-es Kickers Andye Sandalias de Gladiador para Mujer Marrón...'
 sku: 'B07TKP3TK5-es'
+tags: [ 'sandalias', ]
 actualPrice: 34.42 EUR
 currency: EUR
 price: 34.42

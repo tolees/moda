@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZM9S92-es Pepe Jeans Jay Chaqueta Black 999 Small para Hombre'
 sku: 'B07MZM9S92-es'
+tags: [ 'chaqueta', ]
 actualPrice: 51.47 EUR
 currency: EUR
 price: 51.47

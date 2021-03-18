@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D2JRCHY-es find. Paris Embroidered Sudadera Verde Green 44 Talla del...'
 sku: 'B07D2JRCHY-es'
+tags: [ 'sudadera', ]
 actualPrice: 15 EUR
 currency: EUR
 price: 15

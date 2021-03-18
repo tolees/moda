@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F22W1MP-es Timberland Classic 2 Eye Náuticos para Hombre Marrón Mid...'
 sku: 'B07F22W1MP-es'
+tags: [ 'timberland', ]
 actualPrice: 65.64 EUR
 currency: EUR
 price: 65.64

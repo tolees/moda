@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SZ7YY3R-es Geox U Nebula Y A Zapatillas para Hombre Azul Lt AVI O...'
 sku: 'B07SZ7YY3R-es'
+tags: [ 'geox', ]
 actualPrice: 43.42 EUR
 currency: EUR
 price: 43.42

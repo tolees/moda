@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P7P9LKF-es Morgan 192-rdenty.p Vestido Negro Noir Noir 36 Talla del...'
 sku: 'B07P7P9LKF-es'
+tags: [ 'vestido', ]
 actualPrice: 23.58 EUR
 currency: EUR
 price: 23.58

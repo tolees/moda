@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P3FYX28-es Superdry OL Elite Crew Sudadera Gris Slate 07x Small para...'
 sku: 'B07P3FYX28-es'
+tags: [ 'sudadera', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0774ZGCDX-es Crocs Yukon Vista Clog M Zuecos para Hombre Marrón...'
 sku: 'B0774ZGCDX-es'
+tags: [ 'zuecos', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KKJQ118-es James & Nicholson Children s - Sudadera infantil Azul Sky...'
 sku: 'B00KKJQ118-es'
+tags: [ 'sudadera', ]
 actualPrice: 7.93 EUR
 currency: EUR
 price: 7.93

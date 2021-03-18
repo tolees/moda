@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S373JYH-es Only & Sons Onsstorm Check Shirt 3599 Camisa Multicolor...'
 sku: 'B07S373JYH-es'
+tags: [ 'camisa', ]
 actualPrice: 23.74 EUR
 currency: EUR
 price: 23.74

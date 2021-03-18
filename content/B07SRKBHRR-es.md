@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SRKBHRR-es Geox D Airell C Zapatillas para Mujer Blanco White C1000...'
 sku: 'B07SRKBHRR-es'
+tags: [ 'geox', ]
 actualPrice: 39.34 EUR
 currency: EUR
 price: 39.34

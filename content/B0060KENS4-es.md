@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0060KENS4-es Smiffy s 28385 Chaqueta de Mujer para Grease Rosa S 8 - 10 UK'
 sku: 'B0060KENS4-es'
+tags: [ 'chaqueta', ]
 actualPrice: 14.74 EUR
 currency: EUR
 price: 14.74

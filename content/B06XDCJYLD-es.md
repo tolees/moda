@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XDCJYLD-es EverVanz Bolsa de Viaje Lona Gran tamaño Bolso del Fin de...'
 sku: 'B06XDCJYLD-es'
+tags: [ 'bolso', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

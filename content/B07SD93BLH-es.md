@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SD93BLH-es Helly Hansen HP Fleece Jacket Chaqueta Hombre Royal Blue M'
 sku: 'B07SD93BLH-es'
+tags: [ 'chaqueta', ]
 actualPrice: 78.98 EUR
 currency: EUR
 price: 78.98

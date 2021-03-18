@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VGZG3FK-es Jack & Jones Jjeemil Knit Roll Neck Noos Camiseta Cuello...'
 sku: 'B07VGZG3FK-es'
+tags: [ 'camiseta', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0823BXJ3J-es Jack & Jones Kapuzenpullover Sudadera con Capucha Negro M...'
 sku: 'B0823BXJ3J-es'
+tags: [ 'sudadera', ]
 actualPrice: 12.07 EUR
 currency: EUR
 price: 12.07

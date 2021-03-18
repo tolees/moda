@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N7WP3SJ-es The North Face Easy Raglan Camiseta Hombre Blanco...'
 sku: 'B01N7WP3SJ-es'
+tags: [ 'camiseta', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

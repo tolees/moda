@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MSZ2PZM-es Helly Hansen Crew Hooded Midlayer - Chaqueta Impermeable...'
 sku: 'B01MSZ2PZM-es'
+tags: [ 'chaqueta', ]
 actualPrice: 133.98 EUR
 currency: EUR
 price: 133.98

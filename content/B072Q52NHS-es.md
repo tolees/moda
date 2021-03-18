@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072Q52NHS-es Levi s Original Sherpa Trucker Chaqueta Azul Strangeways...'
 sku: 'B072Q52NHS-es'
+tags: [ 'chaqueta', ]
 actualPrice: 102.82 EUR
 currency: EUR
 price: 102.82

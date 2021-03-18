@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KTG70GG-es Levi s 712 Vaqueros Slim Negro Black Sheen 0001 W23/L34...'
 sku: 'B01KTG70GG-es'
+tags: [ 'vaqueros', ]
 actualPrice: 40.22 EUR
 currency: EUR
 price: 40.22

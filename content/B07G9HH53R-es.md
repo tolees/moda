@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G9HH53R-es Joma Race Chaqueta y Chaleco Cabal Hombre Negro S'
 sku: 'B07G9HH53R-es'
+tags: [ 'chaleco','chaqueta', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N3XFTMK-es Desigual Dress DAMIS Vestido Rojo Clavel 3036 42 Talla del...'
 sku: 'B07N3XFTMK-es'
+tags: [ 'vestido', ]
 actualPrice: 55.49 EUR
 currency: EUR
 price: 55.49

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LG14ZDW-es Geox D Annytah D Bailarinas para Mujer Marrón Chestnut...'
 sku: 'B07LG14ZDW-es'
+tags: [ 'geox', ]
 actualPrice: 21.88 EUR
 currency: EUR
 price: 21.88

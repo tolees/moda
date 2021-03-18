@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074BPSN5K-es Hombre s Zapatillas de Baloncesto Otoño Nuevo Entrenadores...'
 sku: 'B074BPSN5K-es'
+tags: [ 'moda', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

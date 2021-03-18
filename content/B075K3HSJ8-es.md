@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075K3HSJ8-es VIFUUR Zapatos de Agua Aqua Yoga para Mujer Hombre Verde...'
 sku: 'B075K3HSJ8-es'
+tags: [ 'zapatos', ]
 actualPrice: 14.66 EUR
 currency: EUR
 price: 14.66

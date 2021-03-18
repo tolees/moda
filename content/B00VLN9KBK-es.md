@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VLN9KBK-es Levi s Graphic Set-In Neck Camiseta para Hombre Azul...'
 sku: 'B00VLN9KBK-es'
+tags: [ 'camiseta', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

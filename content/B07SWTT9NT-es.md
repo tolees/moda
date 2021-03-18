@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SWTT9NT-es Geox U ARSIEN A Zapatillas para Hombre Gris Taupe C6029 44 EU'
 sku: 'B07SWTT9NT-es'
+tags: [ 'geox', ]
 actualPrice: 32.57 EUR
 currency: EUR
 price: 32.57

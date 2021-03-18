@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IXM66O6-es Joma Suez - Pantalón para niños de 6 años Color Azul Marino'
 sku: 'B00IXM66O6-es'
+tags: [ 'pantalón', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

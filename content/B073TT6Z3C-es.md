@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073TT6Z3C-es Aroncent Pulsera de Cuero Trenzado Brazalete Decorado de...'
 sku: 'B073TT6Z3C-es'
+tags: [ 'collar', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

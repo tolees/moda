@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HFLL3ZD-es Only onlSKY REG DNM Skirt BB PIM992 Noos Falda Mezclilla...'
 sku: 'B07HFLL3ZD-es'
+tags: [ 'falda', ]
 actualPrice: 17.49 EUR
 currency: EUR
 price: 17.49

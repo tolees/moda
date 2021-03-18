@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000Y3SDKM-es Wrangler Texas Darkstone Vaqueros para Hombre Vint...'
 sku: 'B000Y3SDKM-es'
+tags: [ 'vaqueros', ]
 actualPrice: 34.27 EUR
 currency: EUR
 price: 34.27

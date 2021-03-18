@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077XNCFKL-es Under Armour Armour Fleece Full Zip Sudadera con Capucha...'
 sku: 'B077XNCFKL-es'
+tags: [ 'sudadera', ]
 actualPrice: 34.31 EUR
 currency: EUR
 price: 34.31

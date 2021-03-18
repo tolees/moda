@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KF4QP44-es Levi s The Perfect Tee Camiseta Mujer Rojo Sptwr Logo...'
 sku: 'B07KF4QP44-es'
+tags: [ 'camiseta', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

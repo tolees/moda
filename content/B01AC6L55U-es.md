@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AC6L55U-es Nike LS Park Vi JSY Camiseta de Manga Larga Hombre Rosa...'
 sku: 'B01AC6L55U-es'
+tags: [ 'camiseta', ]
 actualPrice: 17.08 EUR
 currency: EUR
 price: 17.08

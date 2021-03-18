@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079RVJ4HB-es Marca Amazon - Iris & Lilly Tanga Mujer Pack de 3 Marrón...'
 sku: 'B079RVJ4HB-es'
+tags: [ '&','iris','lilly', ]
 actualPrice: 5.84 EUR
 currency: EUR
 price: 5.84

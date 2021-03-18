@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZJ19VR-es Superdry Surplus Goods Box FIT tee Camiseta Negro Washed...'
 sku: 'B07MZJ19VR-es'
+tags: [ 'camiseta', ]
 actualPrice: 10.28 EUR
 currency: EUR
 price: 10.28

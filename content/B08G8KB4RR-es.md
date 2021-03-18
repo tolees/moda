@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G8KB4RR-es Zapatillas de Seguridad Hombre Zapatos de Trabajo con...'
 sku: 'B08G8KB4RR-es'
+tags: [ 'zapatos', ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

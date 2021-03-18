@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N43MZ1N-es Tommy Hilfiger Tommy Hooded Parka Chaqueta Jet Black Base...'
 sku: 'B07N43MZ1N-es'
+tags: [ 'chaqueta','parka', ]
 actualPrice: 164.0 EUR
 currency: EUR
 price: 164.0

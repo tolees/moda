@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BRHLN5V-es Lifewit Bolsa Térmica Grande Porta Alimentos de...'
 sku: 'B07BRHLN5V-es'
+tags: [ 'bolso', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

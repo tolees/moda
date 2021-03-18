@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088KG2LBV-es WeciBor Calcetines cortos Mujer Estampados Mujer...'
 sku: 'B088KG2LBV-es'
+tags: [ 'moda', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

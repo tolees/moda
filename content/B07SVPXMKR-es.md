@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SVPXMKR-es Geox D Vega A Zapatillas para Mujer Blanco Off White and...'
 sku: 'B07SVPXMKR-es'
+tags: [ 'geox', ]
 actualPrice: 32.07 EUR
 currency: EUR
 price: 32.07

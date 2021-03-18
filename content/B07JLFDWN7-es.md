@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JLFDWN7-es Lee Malone Vaqueros New Grey FZ 29W / 34L para Hombre'
 sku: 'B07JLFDWN7-es'
+tags: [ 'vaqueros', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

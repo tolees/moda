@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MQRHKRH-es Camiseta y Pantalón Corto Riverdale Adolescente Chica...'
 sku: 'B07MQRHKRH-es'
+tags: [ 'camiseta','pantalón', ]
 actualPrice: 10.82 EUR
 currency: EUR
 price: 10.82

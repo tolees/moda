@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PMXCJJX-es Pantalones de Sauna Adelgazantes Mujer NANOTECNOLOGÍA...'
 sku: 'B07PMXCJJX-es'
+tags: [ 'leggins', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

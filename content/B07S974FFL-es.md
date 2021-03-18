@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S974FFL-es Crocs Athens Chanclas Unisex Adulto Azul Bright...'
 sku: 'B07S974FFL-es'
+tags: [ 'chanclas', ]
 actualPrice: 19.01 EUR
 currency: EUR
 price: 19.01

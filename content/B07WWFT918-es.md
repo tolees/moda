@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WWFT918-es Charles Wilson Originals Sudadera con Capucha X-Small Port...'
 sku: 'B07WWFT918-es'
+tags: [ 'sudadera', ]
 actualPrice: 21.95 EUR
 currency: EUR
 price: 21.95

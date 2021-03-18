@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M5HKKFY-es Geox M Vincit C Chaqueta Bomber Verde Mid Forest F3211...'
 sku: 'B07M5HKKFY-es'
+tags: [ 'chaqueta','geox', ]
 actualPrice: 49.83 EUR
 currency: EUR
 price: 49.83

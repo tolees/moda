@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RZQNM9H-es Lacoste - Jersey para hombre Galaxite Chine/Flour-stone...'
 sku: 'B07RZQNM9H-es'
+tags: [ 'jersey', ]
 actualPrice: 75.93 EUR
 currency: EUR
 price: 75.93

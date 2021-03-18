@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B92KJR4-es Clarks Dalia Rose Zapatos de Tacón para Mujer Beige Nude...'
 sku: 'B07B92KJR4-es'
+tags: [ 'zapatos', ]
 actualPrice: 53.86 EUR
 currency: EUR
 price: 53.86

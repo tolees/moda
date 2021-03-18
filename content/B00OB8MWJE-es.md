@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00OB8MWJE-es Geox U Nebula A Zapatillas para Hombre Negro Black C9999...'
 sku: 'B00OB8MWJE-es'
+tags: [ 'geox', ]
 actualPrice: 78.91 EUR
 currency: EUR
 price: 78.91

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MMVWM5M-es Lee Daren Jeans Vaqueros Straight Gris Moto Grey HG 28W /...'
 sku: 'B07MMVWM5M-es'
+tags: [ 'vaqueros', ]
 actualPrice: 33.52 EUR
 currency: EUR
 price: 33.52

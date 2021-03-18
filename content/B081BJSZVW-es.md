@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081BJSZVW-es Columbia Flashback Chaqueta cortavientos Hombre Gris/Negro...'
 sku: 'B081BJSZVW-es'
+tags: [ 'chaqueta', ]
 actualPrice: 35.48 EUR
 currency: EUR
 price: 35.48

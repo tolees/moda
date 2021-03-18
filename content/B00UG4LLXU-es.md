@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00UG4LLXU-es Charles Wilson Camiseta Polo Clásica Lisa Small Red'
 sku: 'B00UG4LLXU-es'
+tags: [ 'camiseta', ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YLXRH9K-es Maglev Essentials Bdx014am2 Pijama Multicolor Navy Red...'
 sku: 'B07YLXRH9K-es'
+tags: [ 'pijama', ]
 actualPrice: 14.62 EUR
 currency: EUR
 price: 14.62

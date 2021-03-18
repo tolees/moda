@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NDNSQ66-es G-STAR RAW Vehem Pocket Round Neck Camiseta Negro Dk Black...'
 sku: 'B07NDNSQ66-es'
+tags: [ 'camiseta', ]
 actualPrice: 18.74 EUR
 currency: EUR
 price: 18.74

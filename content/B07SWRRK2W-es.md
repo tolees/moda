@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SWRRK2W-es Geox B Djrock Boy C Mocasines para Bebés Azul Navy/White...'
 sku: 'B07SWRRK2W-es'
+tags: [ 'geox', ]
 actualPrice: 27.31 EUR
 currency: EUR
 price: 27.31

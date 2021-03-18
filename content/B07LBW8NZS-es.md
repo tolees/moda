@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LBW8NZS-es Calvin Klein Fixed Triangle-rp Top de Bikini Negro Pvh...'
 sku: 'B07LBW8NZS-es'
+tags: [ 'bikini', ]
 actualPrice: 24.65 EUR
 currency: EUR
 price: 24.65

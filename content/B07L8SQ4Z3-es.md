@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L8SQ4Z3-es REPLAY Anbass Vaqueros Slim Verde Military Green 30...'
 sku: 'B07L8SQ4Z3-es'
+tags: [ 'vaqueros', ]
 actualPrice: 81.95 EUR
 currency: EUR
 price: 81.95

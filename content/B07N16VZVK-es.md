@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N16VZVK-es G-STAR RAW Midge Saddle Mid-Waist Straight Vaqueros Azul...'
 sku: 'B07N16VZVK-es'
+tags: [ 'vaqueros', ]
 actualPrice: 14.42 EUR
 currency: EUR
 price: 14.42

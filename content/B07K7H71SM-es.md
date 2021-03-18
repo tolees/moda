@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K7H71SM-es adidas Tiro19 TR Jkty Chaqueta de Deporte Unisex niños...'
 sku: 'B07K7H71SM-es'
+tags: [ 'chaqueta', ]
 actualPrice: 28.95 EUR
 currency: EUR
 price: 28.95

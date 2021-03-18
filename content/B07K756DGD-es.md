@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K756DGD-es Levi s Original Trucker Chaqueta vaquera Azul Soft Ash...'
 sku: 'B07K756DGD-es'
+tags: [ 'chaqueta', ]
 actualPrice: 65.79 EUR
 currency: EUR
 price: 65.79

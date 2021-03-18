@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073QQDC1V-es Marca Amazon - find. Jersey de Punto con Textura para...'
 sku: 'B073QQDC1V-es'
+tags: [ '-','find.','jersey', ]
 actualPrice: 6.59 EUR
 currency: EUR
 price: 6.59

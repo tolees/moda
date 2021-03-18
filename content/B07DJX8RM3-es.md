@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DJX8RM3-es Geox D Vega Moc B Mocasines para Mujer Negro Black/Dk Grey...'
 sku: 'B07DJX8RM3-es'
+tags: [ 'geox', ]
 actualPrice: 71.48 EUR
 currency: EUR
 price: 71.48

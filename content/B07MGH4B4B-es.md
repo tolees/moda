@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MGH4B4B-es Marca Amazon - MERAKI Shorts de Natación Hombre Negro Geo...'
 sku: 'B07MGH4B4B-es'
+tags: [ 'meraki', ]
 actualPrice: 4.5 EUR
 currency: EUR
 price: 4.5

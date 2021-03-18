@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N15XH4K-es Lee Chunky Crew Neck Sudadera Naranja Sign Orange Me Large...'
 sku: 'B07N15XH4K-es'
+tags: [ 'sudadera', ]
 actualPrice: 21.52 EUR
 currency: EUR
 price: 21.52

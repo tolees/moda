@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PTZ4CRW-es Bañador de Mujer Bikini Ropa de Baño de Una Pieza Azul...'
 sku: 'B07PTZ4CRW-es'
+tags: [ 'bikini', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M7VH97O-es Pepe Jeans Hatch Vaqueros Slim para Hombre Azul Denim Z45...'
 sku: 'B01M7VH97O-es'
+tags: [ 'vaqueros', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

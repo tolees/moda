@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFTVQXP-es Geox D ANNYTAH Moc A Mocasines para Mujer Azul Dk Blue...'
 sku: 'B07LFTVQXP-es'
+tags: [ 'geox', ]
 actualPrice: 24.4 EUR
 currency: EUR
 price: 24.4

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0779DYZZ1-es Spiuk Rodda Road Zapatilla Unisex Adulto Amarillo AV 43'
 sku: 'B0779DYZZ1-es'
+tags: [ 'zapatilla', ]
 actualPrice: 64.34 EUR
 currency: EUR
 price: 64.34

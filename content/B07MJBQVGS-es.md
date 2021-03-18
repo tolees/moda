@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MJBQVGS-es Cerdá Pijama Corto Algodón Avengers Conjuntos Gris Gris...'
 sku: 'B07MJBQVGS-es'
+tags: [ 'pijama', ]
 actualPrice: 6.4 EUR
 currency: EUR
 price: 6.4

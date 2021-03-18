@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XMLC8WM-es Pepe Jeans New Brooke Vaqueros Azul 10Oz Rinse Plus...'
 sku: 'B00XMLC8WM-es'
+tags: [ 'vaqueros', ]
 actualPrice: 37.45 EUR
 currency: EUR
 price: 37.45

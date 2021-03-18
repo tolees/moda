@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JG7TB7R-es Pepe Jeans Chaplin 1973 Camiseta Blanco Optic White 802...'
 sku: 'B07JG7TB7R-es'
+tags: [ 'camiseta', ]
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

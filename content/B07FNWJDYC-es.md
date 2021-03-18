@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FNWJDYC-es JACK & JONES Jjiliam Jjoriginal JJ 104 50sps Noos Vaqueros...'
 sku: 'B07FNWJDYC-es'
+tags: [ 'vaqueros', ]
 actualPrice: 19.27 EUR
 currency: EUR
 price: 19.27

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SSS6LD6-es Geox D Genova Moc A Mocasines para Mujer Beige Sand C5004...'
 sku: 'B07SSS6LD6-es'
+tags: [ 'geox', ]
 actualPrice: 19.73 EUR
 currency: EUR
 price: 19.73

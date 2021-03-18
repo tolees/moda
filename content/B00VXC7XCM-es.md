@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VXC7XCM-es G-Star RAW 3301 Straight Vaqueros para Hombre Azul Dark...'
 sku: 'B00VXC7XCM-es'
+tags: [ 'vaqueros', ]
 actualPrice: 43.86 EUR
 currency: EUR
 price: 43.86

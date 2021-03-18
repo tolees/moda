@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083J9HMMQ-es Zapatos de Agua Escarpines Hombres Mujer Niños Verano...'
 sku: 'B083J9HMMQ-es'
+tags: [ 'zapatos', ]
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

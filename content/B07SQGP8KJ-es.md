@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SQGP8KJ-es Geox U Eolo A Zapatillas para Hombre Marrón Taupe C6029 41 EU'
 sku: 'B07SQGP8KJ-es'
+tags: [ 'geox', ]
 actualPrice: 50.49 EUR
 currency: EUR
 price: 50.49

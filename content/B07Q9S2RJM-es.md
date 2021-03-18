@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q9S2RJM-es Superdry Core Logo Tag tee Camiseta Azul Royal Blue 49g...'
 sku: 'B07Q9S2RJM-es'
+tags: [ 'camiseta', ]
 actualPrice: 17.52 EUR
 currency: EUR
 price: 17.52

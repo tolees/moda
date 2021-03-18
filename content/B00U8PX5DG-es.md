@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00U8PX5DG-es Balenciaga Brillengestelle Ba5034 65A-52-21-140 Monturas...'
 sku: 'B00U8PX5DG-es'
+tags: [ 'gafas', ]
 actualPrice: 43.38 EUR
 currency: EUR
 price: 43.38

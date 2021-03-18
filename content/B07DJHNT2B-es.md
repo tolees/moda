@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DJHNT2B-es Geox D Arethea B Mocasines para Mujer Marfil Off White...'
 sku: 'B07DJHNT2B-es'
+tags: [ 'geox', ]
 actualPrice: 70.03 EUR
 currency: EUR
 price: 70.03

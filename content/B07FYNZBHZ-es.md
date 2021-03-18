@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FYNZBHZ-es Uvex sportstyle 803 small CV Gafas de deporte Adultos...'
 sku: 'B07FYNZBHZ-es'
+tags: [ 'gafas', ]
 actualPrice: 61.06 EUR
 currency: EUR
 price: 61.06

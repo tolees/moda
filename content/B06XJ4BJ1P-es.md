@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XJ4BJ1P-es Marca Amazon - find. Camisa Hombre Azul Blue S Label: S'
 sku: 'B06XJ4BJ1P-es'
+tags: [ '-','camisa','find.', ]
 actualPrice: 6.57 EUR
 currency: EUR
 price: 6.57

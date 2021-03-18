@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IJ972ZE-es 2pcs bolso colgante organizador KAKOO oso polar azul de...'
 sku: 'B01IJ972ZE-es'
+tags: [ 'bolso', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

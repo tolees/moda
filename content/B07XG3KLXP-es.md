@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XG3KLXP-es Izod Basic Solid tee Camiseta Azul Angel Blue 450 Small...'
 sku: 'B07XG3KLXP-es'
+tags: [ 'camiseta', ]
 actualPrice: 5.02 EUR
 currency: EUR
 price: 5.02

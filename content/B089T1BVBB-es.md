@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089T1BVBB-es Geographical Norway Parka Revolution Lady 100...'
 sku: 'B089T1BVBB-es'
+tags: [ 'parka', ]
 actualPrice: 69.3 EUR
 currency: EUR
 price: 69.3

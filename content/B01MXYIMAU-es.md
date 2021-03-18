@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MXYIMAU-es find. Regular fit linen shirt Camisa Blanco White 52'
 sku: 'B01MXYIMAU-es'
+tags: [ 'camisa', ]
 actualPrice: 22.91 EUR
 currency: EUR
 price: 22.91

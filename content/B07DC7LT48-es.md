@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DC7LT48-es Puma Platform Slide Wns Zapatos de Playa y Piscina para...'
 sku: 'B07DC7LT48-es'
+tags: [ 'zapatos', ]
 actualPrice: 27.46 EUR
 currency: EUR
 price: 27.46

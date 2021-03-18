@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TT5XK6G-es Superdry Super Sleek Flip Flop Chanclas para Mujer Rosa...'
 sku: 'B07TT5XK6G-es'
+tags: [ 'chanclas', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

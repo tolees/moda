@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BHLLT4J-es Bolso de Alforja de Bicicleta Bolso Impermeable de Viajero...'
 sku: 'B07BHLLT4J-es'
+tags: [ 'bolso', ]
 actualPrice: 13.19 EUR
 currency: EUR
 price: 13.19

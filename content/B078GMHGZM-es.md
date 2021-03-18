@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078GMHGZM-es GRITION Sandalias Hombre Verano Piel Punta Cerrada...'
 sku: 'B078GMHGZM-es'
+tags: [ 'sandalias', ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S4WT7HT-es Levi s Haight Harrington Jacket Chaqueta Negro Mineral...'
 sku: 'B07S4WT7HT-es'
+tags: [ 'chaqueta', ]
 actualPrice: 55.0 EUR
 currency: EUR
 price: 55.0

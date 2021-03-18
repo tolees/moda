@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MLVQJQV-es Marca Amazon - find. Abrigo Cruzado de Lana Hombre azul...'
 sku: 'B07MLVQJQV-es'
+tags: [ '-','abrigo','find.', ]
 actualPrice: 27.87 EUR
 currency: EUR
 price: 27.87

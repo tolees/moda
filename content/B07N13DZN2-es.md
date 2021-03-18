@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N13DZN2-es find. Suede-Look Zapatos de Cordones Derby Azul Navy 41 EU'
 sku: 'B07N13DZN2-es'
+tags: [ 'zapatos', ]
 actualPrice: 26.7 EUR
 currency: EUR
 price: 26.7

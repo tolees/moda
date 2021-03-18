@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D9FTQS6-es Levi s 511 Slim Fit Vaqueros Orinda 2988 38W / 34L para...'
 sku: 'B07D9FTQS6-es'
+tags: [ 'vaqueros', ]
 actualPrice: 49.5 EUR
 currency: EUR
 price: 49.5

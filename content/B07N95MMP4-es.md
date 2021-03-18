@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N95MMP4-es BOSS Trek 4 Camiseta Blanco Natural 101 Large para Hombre'
 sku: 'B07N95MMP4-es'
+tags: [ 'camiseta', ]
 actualPrice: 20.31 EUR
 currency: EUR
 price: 20.31

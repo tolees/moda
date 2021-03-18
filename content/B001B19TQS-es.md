@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001B19TQS-es Timberland 6 Inch Premium Waterproof Botas para Hombre...'
 sku: 'B001B19TQS-es'
+tags: [ 'timberland', ]
 actualPrice: 110.0 EUR
 currency: EUR
 price: 110.0

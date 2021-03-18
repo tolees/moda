@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003Z2LWF2-es CATWALK COLLECTION - CAZ - Bolso estilo shopper - Cuero -...'
 sku: 'B003Z2LWF2-es'
+tags: [ 'bolso', ]
 actualPrice: 79.95 EUR
 currency: EUR
 price: 79.95

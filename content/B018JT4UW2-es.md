@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018JT4UW2-es Levi s 200Sf Trunk 2P Boxer para Hombre Negro Jet Black...'
 sku: 'B018JT4UW2-es'
+tags: [ 'boxer', ]
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

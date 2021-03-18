@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HUIO4CK-es Crocs Classic Clog Zuecos Unisex Adulto Rosa Candy Pink...'
 sku: 'B00HUIO4CK-es'
+tags: [ 'zuecos', ]
 actualPrice: 21.6 EUR
 currency: EUR
 price: 21.6

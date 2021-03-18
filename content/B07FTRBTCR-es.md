@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FTRBTCR-es Lee Brooklyn Straight Vaqueros para Hombre Azul Rinse Dp...'
 sku: 'B07FTRBTCR-es'
+tags: [ 'vaqueros', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

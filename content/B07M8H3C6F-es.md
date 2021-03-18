@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M8H3C6F-es The North Face tee Camiseta de Manga raglán Simple Dome...'
 sku: 'B07M8H3C6F-es'
+tags: [ 'camiseta', ]
 actualPrice: 17.42 EUR
 currency: EUR
 price: 17.42

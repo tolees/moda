@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073N3KT2R-es Timberland 6-Inch Waterproof Boot 73540 Wheat Nubuk Schuhe...'
 sku: 'B073N3KT2R-es'
+tags: [ 'timberland', ]
 actualPrice: 112.35 EUR
 currency: EUR
 price: 112.35

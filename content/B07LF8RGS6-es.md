@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LF8RGS6-es Levi s 2pk Crewneck Graphic Camiseta Multicolor 2 Pack Hm...'
 sku: 'B07LF8RGS6-es'
+tags: [ 'camiseta', ]
 actualPrice: 13.91 EUR
 currency: EUR
 price: 13.91

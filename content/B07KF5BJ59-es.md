@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KF5BJ59-es Levi s 501 Crop Vaqueros Boyfriend Azul Montgomery Baked...'
 sku: 'B07KF5BJ59-es'
+tags: [ 'vaqueros', ]
 actualPrice: 54.95 EUR
 currency: EUR
 price: 54.95

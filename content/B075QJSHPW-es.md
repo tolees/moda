@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075QJSHPW-es MERAKI Vaqueros Skinny Hombre Azul Indigo Rinse W30/L32'
 sku: 'B075QJSHPW-es'
+tags: [ 'meraki','vaqueros', ]
 actualPrice: 16.92 EUR
 currency: EUR
 price: 16.92

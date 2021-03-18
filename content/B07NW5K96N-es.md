@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NW5K96N-es Skechers Synergy Botines para Mujer Chestnut Micro...'
 sku: 'B07NW5K96N-es'
+tags: [ 'botines', ]
 actualPrice: 38.97 EUR
 currency: EUR
 price: 38.97

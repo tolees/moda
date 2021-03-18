@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZPPVJC-es Pepe Jeans Edward Chaqueta Infinity 985 Large para Hombre'
 sku: 'B07MZPPVJC-es'
+tags: [ 'chaqueta', ]
 actualPrice: 72.33 EUR
 currency: EUR
 price: 72.33

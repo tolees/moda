@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SWSGMQD-es Geox B Kilwi Boy A Zapatillas para Bebés Blanco White/Dk...'
 sku: 'B07SWSGMQD-es'
+tags: [ 'geox', ]
 actualPrice: 21.04 EUR
 currency: EUR
 price: 21.04

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077YDLLK9-es HIKARO Sudadera con Print Mujer Azul Navy 40 Talla del...'
 sku: 'B077YDLLK9-es'
+tags: [ 'sudadera', ]
 actualPrice: 8.09 EUR
 currency: EUR
 price: 8.09

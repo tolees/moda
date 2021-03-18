@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MQ2QMRW-es HKT by Hackett Hkt GMT W Piquet Camisa Indigo 561 Medium...'
 sku: 'B07MQ2QMRW-es'
+tags: [ 'camisa', ]
 actualPrice: 17.31 EUR
 currency: EUR
 price: 17.31

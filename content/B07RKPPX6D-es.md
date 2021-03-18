@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RKPPX6D-es Tommy Hilfiger Basic Hilfiger Sweatshirt Sudadera Azul...'
 sku: 'B07RKPPX6D-es'
+tags: [ 'sudadera', ]
 actualPrice: 54.49 EUR
 currency: EUR
 price: 54.49

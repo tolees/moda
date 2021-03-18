@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B010M9WZIS-es Timberland Euro Sprint Hiker Botas para Hombre Amarillo...'
 sku: 'B010M9WZIS-es'
+tags: [ 'timberland', ]
 actualPrice: 95.99 EUR
 currency: EUR
 price: 95.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MK1QLW7-es Napapijri Rainforest Pocket Chaqueta Rojo High Risk Red...'
 sku: 'B07MK1QLW7-es'
+tags: [ 'chaqueta', ]
 actualPrice: 144.99 EUR
 currency: EUR
 price: 144.99

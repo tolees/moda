@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K189KYP-es adidas Tiro19 PES Jkt Chaqueta de Deporte Hombre Power...'
 sku: 'B07K189KYP-es'
+tags: [ 'chaqueta', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PFXWLZ9-es BLEND 20708531 Camisa Casual Azul Dark Navy Blue 74645 M...'
 sku: 'B07PFXWLZ9-es'
+tags: [ 'camisa', ]
 actualPrice: 19.36 EUR
 currency: EUR
 price: 19.36

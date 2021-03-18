@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HSBKJKZ-es Dim Coton Stretch Boxer X3 Multicolor Rouge Baiser/Bleu...'
 sku: 'B07HSBKJKZ-es'
+tags: [ 'boxer', ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

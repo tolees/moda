@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083WFJ8SJ-es Donpapa Mujer Traje de Baño Tankinis Hálter Falda Push Up...'
 sku: 'B083WFJ8SJ-es'
+tags: [ 'bikini','falda', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

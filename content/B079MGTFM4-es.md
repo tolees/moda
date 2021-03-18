@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079MGTFM4-es Marca Amazon - MERAKI Camiseta de Manga Corta con Corte...'
 sku: 'B079MGTFM4-es'
+tags: [ 'camiseta','meraki', ]
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

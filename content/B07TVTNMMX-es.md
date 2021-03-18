@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TVTNMMX-es Women s Secret Bloom Feminine BF Dahlia PJ FR Conjuntos de...'
 sku: 'B07TVTNMMX-es'
+tags: [ 'pijama', ]
 actualPrice: 18.04 EUR
 currency: EUR
 price: 18.04

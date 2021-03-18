@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T9F2B4T-es Quiksilver Get Buzzy Camiseta De Manga Larga Niños Blanco...'
 sku: 'B07T9F2B4T-es'
+tags: [ 'camiseta', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

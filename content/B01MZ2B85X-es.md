@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MZ2B85X-es find. Vaqueros Rectos para Hombre Azul W31/L32 Talla del...'
 sku: 'B01MZ2B85X-es'
+tags: [ 'vaqueros', ]
 actualPrice: 18.21 EUR
 currency: EUR
 price: 18.21

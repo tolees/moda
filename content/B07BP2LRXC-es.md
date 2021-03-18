@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BP2LRXC-es Gant The Broadcloth Banker Reg BD Camisa Azul Capri Blue...'
 sku: 'B07BP2LRXC-es'
+tags: [ 'camisa', ]
 actualPrice: 63.62 EUR
 currency: EUR
 price: 63.62

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086TZG9MH-es YUNB 6PCS Zapatos de plástico Beige de tacón Alto Consejos...'
 sku: 'B086TZG9MH-es'
+tags: [ 'zapatos', ]
 actualPrice: 2.93 EUR
 currency: EUR
 price: 2.93

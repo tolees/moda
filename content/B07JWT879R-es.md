@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JWT879R-es Bolso Bandolera Harry Potter'
 sku: 'B07JWT879R-es'
+tags: [ 'bolso', ]
 actualPrice: 13.8 EUR
 currency: EUR
 price: 13.8

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TZ1Q9XX-es Parfois - Bolso Shopper Acolchado De Nylon - Mujeres -...'
 sku: 'B07TZ1Q9XX-es'
+tags: [ 'bolso', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

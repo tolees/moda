@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RS7XTGD-es Pour Moi? Glamazon Underwired Double Strap Top Parte de...'
 sku: 'B07RS7XTGD-es'
+tags: [ 'bikini', ]
 actualPrice: 9.13 EUR
 currency: EUR
 price: 9.13

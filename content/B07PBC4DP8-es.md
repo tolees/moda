@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PBC4DP8-es Wrangler LS Western Shirt Camisa Negro Black 100 Large...'
 sku: 'B07PBC4DP8-es'
+tags: [ 'camisa', ]
 actualPrice: 32.48 EUR
 currency: EUR
 price: 32.48

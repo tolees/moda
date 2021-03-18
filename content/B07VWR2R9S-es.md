@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VWR2R9S-es Hombre Mujer Zapatillas de Deportes Zapatos Deportivos...'
 sku: 'B07VWR2R9S-es'
+tags: [ 'zapatos', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

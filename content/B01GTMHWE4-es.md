@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GTMHWE4-es Uvex Sportstyle Gafas de seguridad - Protección laboral -...'
 sku: 'B01GTMHWE4-es'
+tags: [ 'gafas', ]
 actualPrice: 11.14 EUR
 currency: EUR
 price: 11.14

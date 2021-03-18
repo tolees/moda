@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YWLFS4N-es Gafas de Lectura Magnéticas Plegables para Hombre y Mujer...'
 sku: 'B07YWLFS4N-es'
+tags: [ 'gafas', ]
 actualPrice: 9.69 EUR
 currency: EUR
 price: 9.69

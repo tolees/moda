@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RHY217Z-es BAIGIO Bolso Bandolera de Piel para Hombres Bolso...'
 sku: 'B07RHY217Z-es'
+tags: [ 'bolso', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

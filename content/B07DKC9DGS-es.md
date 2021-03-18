@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DKC9DGS-es PUMA Active Camiseta Hombre Azul Peacoat M'
 sku: 'B07DKC9DGS-es'
+tags: [ 'camiseta', ]
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QM59YF1-es Gifts Treat Sombrero de Invierno de Las Niños Moda...'
 sku: 'B07QM59YF1-es'
+tags: [ 'moda', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

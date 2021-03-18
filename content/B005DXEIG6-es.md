@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005DXEIG6-es Geox U Federico Y Zapatos de cordones derby para Hombre...'
 sku: 'B005DXEIG6-es'
+tags: [ 'geox','zapatos', ]
 actualPrice: 54.95 EUR
 currency: EUR
 price: 54.95

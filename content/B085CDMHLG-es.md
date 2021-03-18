@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085CDMHLG-es Elover UV Lámpara de Desinfección para Teléfono...'
 sku: 'B085CDMHLG-es'
+tags: [ 'gafas', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JLGBZVM-es adidas Entrada 14 JSY Camiseta para hombre Rojo University...'
 sku: 'B00JLGBZVM-es'
+tags: [ 'camiseta', ]
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

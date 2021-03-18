@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NC1T8SL-es Tous Bandolera S. Rene Trenzada Rojo-Multi Bolso Mujer...'
 sku: 'B07NC1T8SL-es'
+tags: [ 'bolso', ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

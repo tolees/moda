@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GWX20E2-es Geox U New Damon B Mocasines para Hombre Marrón DK...'
 sku: 'B01GWX20E2-es'
+tags: [ 'geox', ]
 actualPrice: 65.76 EUR
 currency: EUR
 price: 65.76

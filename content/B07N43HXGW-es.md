@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N43HXGW-es Tommy Hilfiger Cotton Silk Buttoned Zip Mock Sudadera...'
 sku: 'B07N43HXGW-es'
+tags: [ 'sudadera', ]
 actualPrice: 44.92 EUR
 currency: EUR
 price: 44.92

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0015Q2SYE-es Havaianas Top Chanclas Unisex Adulto Blanco White 33/34 EU'
 sku: 'B0015Q2SYE-es'
+tags: [ 'chanclas', ]
 actualPrice: 10.55 EUR
 currency: EUR
 price: 10.55

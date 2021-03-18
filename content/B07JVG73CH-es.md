@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JVG73CH-es Relojes Hombre Relojes de Pulsera Cronógrafo Impermeable...'
 sku: 'B07JVG73CH-es'
+tags: [ 'moda', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZV36RDB-es Helly Hansen HH Tech Crew Camiseta Técnica Hombre Navy M'
 sku: 'B07ZV36RDB-es'
+tags: [ 'camiseta', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

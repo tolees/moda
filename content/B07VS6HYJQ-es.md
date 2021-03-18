@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VS6HYJQ-es Tommy Hilfiger TH Cool ESS Relaxed C-nk tee SS Camiseta...'
 sku: 'B07VS6HYJQ-es'
+tags: [ 'camiseta', ]
 actualPrice: 15.39 EUR
 currency: EUR
 price: 15.39

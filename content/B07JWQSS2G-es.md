@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JWQSS2G-es Pepe Jeans Cash Pm200124 Vaqueros Straight Wiser Wash Dark...'
 sku: 'B07JWQSS2G-es'
+tags: [ 'vaqueros', ]
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

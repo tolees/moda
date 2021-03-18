@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D5SJ62R-es PUMA ESS Logo tee Camiseta Mujer Gris Light Gray Heather L'
 sku: 'B07D5SJ62R-es'
+tags: [ 'camiseta', ]
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

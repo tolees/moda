@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076M7P9VX-es Trangoworld Bern Chaqueta Hombre Negro L'
 sku: 'B076M7P9VX-es'
+tags: [ 'chaqueta', ]
 actualPrice: 78.08 EUR
 currency: EUR
 price: 78.08

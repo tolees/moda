@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S1PXJFN-es Esprit 999ee1i802 Chaqueta Punto Negro Black 001 X-Large...'
 sku: 'B07S1PXJFN-es'
+tags: [ 'chaqueta', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

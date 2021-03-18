@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F1WR1YG-es Timberland Classic 2 Eye Náuticos para Hombre Azul Dark...'
 sku: 'B07F1WR1YG-es'
+tags: [ 'timberland', ]
 actualPrice: 109.67 EUR
 currency: EUR
 price: 109.67

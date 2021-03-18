@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015ZOGZ2C-es MAKAYA Calavera con Casco - Camiseta Motocross - Hombre...'
 sku: 'B015ZOGZ2C-es'
+tags: [ 'camiseta', ]
 actualPrice: 16.9 EUR
 currency: EUR
 price: 16.9

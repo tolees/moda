@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MMWPJJY-es Wrangler Jacket Chaqueta Bomber Azul Navy 114 Medium para...'
 sku: 'B07MMWPJJY-es'
+tags: [ 'chaqueta', ]
 actualPrice: 51.9 EUR
 currency: EUR
 price: 51.9

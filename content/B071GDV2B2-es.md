@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071GDV2B2-es Amazon Essentials 6-Pack Crewneck Undershirts Camisa Negro...'
 sku: 'B071GDV2B2-es'
+tags: [ 'camisa', ]
 actualPrice: 15.86 EUR
 currency: EUR
 price: 15.86

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DXVSB58-es Under Armour HG Racer - Camiseta de Tirantes para Mujer...'
 sku: 'B07DXVSB58-es'
+tags: [ 'camiseta', ]
 actualPrice: 9.67 EUR
 currency: EUR
 price: 9.67

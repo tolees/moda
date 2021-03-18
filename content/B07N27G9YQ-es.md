@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N27G9YQ-es Tommy Hilfiger TJM Essential Textured Sweater Sudadera...'
 sku: 'B07N27G9YQ-es'
+tags: [ 'sudadera', ]
 actualPrice: 34.35 EUR
 currency: EUR
 price: 34.35

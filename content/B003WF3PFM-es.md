@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003WF3PFM-es Havaianas Top Chanclas Unisex Adulto Azul Marine Blue...'
 sku: 'B003WF3PFM-es'
+tags: [ 'chanclas', ]
 actualPrice: 10.43 EUR
 currency: EUR
 price: 10.43

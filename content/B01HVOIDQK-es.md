@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HVOIDQK-es Meller - Kubu Glawi Carbon - Gafas de sol para hombre y mujer'
 sku: 'B01HVOIDQK-es'
+tags: [ 'gafas', ]
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

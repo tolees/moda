@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PJ1J3TH-es HAWKERS · LAX · Karat · Rose gold TR18 · Gafas de sol para...'
 sku: 'B07PJ1J3TH-es'
+tags: [ 'gafas', ]
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

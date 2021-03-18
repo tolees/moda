@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P36CPNN-es Dickies Sacramento Camisa Morado Large Talla del...'
 sku: 'B07P36CPNN-es'
+tags: [ 'camisa', ]
 actualPrice: 35 EUR
 currency: EUR
 price: 35

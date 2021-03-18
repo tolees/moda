@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TYCP1XW-es Farchat Vestidos Mujer Suelto Casual de la Camiseta Cuello...'
 sku: 'B07TYCP1XW-es'
+tags: [ 'camiseta','vestido', ]
 actualPrice: 11.62 EUR
 currency: EUR
 price: 11.62

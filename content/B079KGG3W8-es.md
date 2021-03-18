@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079KGG3W8-es Lee Elly Vaqueros Azul Mid Export Tm 26W / 31L para Mujer'
 sku: 'B079KGG3W8-es'
+tags: [ 'vaqueros', ]
 actualPrice: 23.23 EUR
 currency: EUR
 price: 23.23

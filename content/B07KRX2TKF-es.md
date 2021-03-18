@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KRX2TKF-es Columbia Silver Ridge 2.0 Pantalón de Senderismo Nailon...'
 sku: 'B07KRX2TKF-es'
+tags: [ 'pantalón', ]
 actualPrice: 23.19 EUR
 currency: EUR
 price: 23.19

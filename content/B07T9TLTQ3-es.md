@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T9TLTQ3-es Michael Kors Bedford - Bolso para mujer 13 x 25 x 29 cm...'
 sku: 'B07T9TLTQ3-es'
+tags: [ 'bolso', ]
 actualPrice: 101.55 EUR
 currency: EUR
 price: 101.55

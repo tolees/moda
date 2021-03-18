@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EOWZYUU-es Helly Hansen Coastal 2 Parka Hombre Azul Marino M'
 sku: 'B01EOWZYUU-es'
+tags: [ 'parka', ]
 actualPrice: 147.89 EUR
 currency: EUR
 price: 147.89

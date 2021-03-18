@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00G6DV6EE-es Crocs Crocband II Sandal Kids Sandalias Unisex Niños Azul...'
 sku: 'B00G6DV6EE-es'
+tags: [ 'sandalias', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZZH9PTP-es Charles Wilson Jersey de Punto Fino de Algodón Cuello Pico...'
 sku: 'B07ZZH9PTP-es'
+tags: [ 'jersey', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

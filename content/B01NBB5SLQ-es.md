@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NBB5SLQ-es Pepe Jeans Regent Vaqueros Blanco Denim D76 27W / 32L para...'
 sku: 'B01NBB5SLQ-es'
+tags: [ 'vaqueros', ]
 actualPrice: 41.77 EUR
 currency: EUR
 price: 41.77

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FKNDMCX-es Trangoworld Argualas Chaqueta Hombre Azul Profundo S'
 sku: 'B07FKNDMCX-es'
+tags: [ 'chaqueta', ]
 actualPrice: 99.49 EUR
 currency: EUR
 price: 99.49

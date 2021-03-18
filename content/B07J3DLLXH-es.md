@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J3DLLXH-es Under Armour UA Streaker 2.0 Longsleeve Camiseta de Manga...'
 sku: 'B07J3DLLXH-es'
+tags: [ 'camiseta', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

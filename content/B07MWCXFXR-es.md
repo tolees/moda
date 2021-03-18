@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MWCXFXR-es RFID Delgado Billetera de Acero Inoxidable con Tecnología...'
 sku: 'B07MWCXFXR-es'
+tags: [ 'billetera', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

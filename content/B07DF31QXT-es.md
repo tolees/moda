@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DF31QXT-es Niños Trolley Mochila Escolar Bolso - Niña Niño con Ruedas...'
 sku: 'B07DF31QXT-es'
+tags: [ 'bolso', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

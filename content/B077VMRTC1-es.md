@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077VMRTC1-es Levi s Perfect Tee Camiseta para Mujer Negro Caviar 2 0008...'
 sku: 'B077VMRTC1-es'
+tags: [ 'camiseta', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

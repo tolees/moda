@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01JZMQE3U-es Timberland Killington Botas Unisex Niños Beige Wheat...'
 sku: 'B01JZMQE3U-es'
+tags: [ 'timberland', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PW346GC-es New Look Powder Super Vaqueros Pitillo Hombre Azul Light...'
 sku: 'B07PW346GC-es'
+tags: [ 'vaqueros', ]
 actualPrice: 12 EUR
 currency: EUR
 price: 12

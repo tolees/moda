@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DJ3JFLS-es Geox D Nebula C Zapatillas para Mujer Beige Cream C0423 40 EU'
 sku: 'B07DJ3JFLS-es'
+tags: [ 'geox', ]
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

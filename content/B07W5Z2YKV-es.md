@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W5Z2YKV-es DOACT Chalecos Termico Exteriores Interfaz USB Chaleco...'
 sku: 'B07W5Z2YKV-es'
+tags: [ 'chaleco', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

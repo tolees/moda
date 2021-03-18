@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N19NQH4-es NAVARCH Mujeres Enfermera Conjunto De Lencería Tentación...'
 sku: 'B07N19NQH4-es'
+tags: [ 'vestido', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

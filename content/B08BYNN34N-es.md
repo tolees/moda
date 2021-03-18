@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BYNN34N-es Pantalones Deportivos para Mujer para Yoga Running Fitness...'
 sku: 'B08BYNN34N-es'
+tags: [ 'pijama', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

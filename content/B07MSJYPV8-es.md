@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MSJYPV8-es Clarks Ronnie Limit Zapatos de Cordones Brogue Piel Negra...'
 sku: 'B07MSJYPV8-es'
+tags: [ 'zapatos', ]
 actualPrice: 70.0 EUR
 currency: EUR
 price: 70.0

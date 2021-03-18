@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MMLNZDR-es Napapijri DROZ Jersey Azul French Blue BB7 M para Hombre'
 sku: 'B07MMLNZDR-es'
+tags: [ 'jersey', ]
 actualPrice: 44.5 EUR
 currency: EUR
 price: 44.5

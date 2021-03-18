@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SPPZ93R-es Flintronic® Cartera Tarjeta de Crédito Slim Billetera...'
 sku: 'B07SPPZ93R-es'
+tags: [ 'billetera', ]
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KSH9K2L-es Bolsa para Mascotas Pequeño Animal doméstico Gato Perro...'
 sku: 'B07KSH9K2L-es'
+tags: [ 'bolso', ]
 actualPrice: 6.25 EUR
 currency: EUR
 price: 6.25

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083PVYGM9-es Relojes para Hombre Moda Deporte Cuarzo Analógico Negro...'
 sku: 'B083PVYGM9-es'
+tags: [ 'moda', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

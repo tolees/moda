@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VB9Y2WP-es Marca Amazon - find. Stitch Cardigan - chaqueta punto...'
 sku: 'B07VB9Y2WP-es'
+tags: [ '-','chaqueta','find.', ]
 actualPrice: 9.97 EUR
 currency: EUR
 price: 9.97

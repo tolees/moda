@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RWKYK9W-es BILLABONG Divine Vestido Negro Black 19 X-Small Tamaño del...'
 sku: 'B07RWKYK9W-es'
+tags: [ 'vestido', ]
 actualPrice: 13.38 EUR
 currency: EUR
 price: 13.38

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QHKQL8F-es PUMA Nu-Tility tee Camiseta Hombre Black L'
 sku: 'B07QHKQL8F-es'
+tags: [ 'camiseta', ]
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

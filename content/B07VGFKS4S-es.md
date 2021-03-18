@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VGFKS4S-es SELECTED FEMME 16064917 Camisa Manga Larga Azul Night Sky...'
 sku: 'B07VGFKS4S-es'
+tags: [ 'camisa', ]
 actualPrice: 9.15 EUR
 currency: EUR
 price: 9.15

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G23GZDN-es Litthing Sujetador Invisible Slim fit sin Anillo de Acero...'
 sku: 'B07G23GZDN-es'
+tags: [ 'chaleco', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

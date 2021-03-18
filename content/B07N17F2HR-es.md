@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N17F2HR-es Mr. Boho Hayes Santa Fe - Gafas de sol para mujer 44'
 sku: 'B07N17F2HR-es'
+tags: [ 'gafas', ]
 actualPrice: 29.57 EUR
 currency: EUR
 price: 29.57

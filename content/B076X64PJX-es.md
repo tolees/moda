@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076X64PJX-es Geox U Wells C Zapatillas para Hombre Azul Dark Navy 45 EU'
 sku: 'B076X64PJX-es'
+tags: [ 'geox', ]
 actualPrice: 65.4 EUR
 currency: EUR
 price: 65.4

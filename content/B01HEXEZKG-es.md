@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HEXEZKG-es Crocs Crocband Clog Kids Zuecos Unisex Niños Azul Navy/Red...'
 sku: 'B01HEXEZKG-es'
+tags: [ 'zuecos', ]
 actualPrice: 25.59 EUR
 currency: EUR
 price: 25.59

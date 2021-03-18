@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NAI90AH-es Helly Hansen Hombre Crew Hooded Jacke Chaqueta Not...'
 sku: 'B01NAI90AH-es'
+tags: [ 'chaqueta', ]
 actualPrice: 89.95 EUR
 currency: EUR
 price: 89.95

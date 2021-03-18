@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0823CC1PW-es Jack & Jones T-Shirt Camiseta Ajuste: Slim - Friday Tea...'
 sku: 'B0823CC1PW-es'
+tags: [ 'camiseta', ]
 actualPrice: 6.62 EUR
 currency: EUR
 price: 6.62

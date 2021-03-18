@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M962THH-es Wrangler Slim Western Shirt Blusa Azul Dark Indigo X1e...'
 sku: 'B07M962THH-es'
+tags: [ 'blusa', ]
 actualPrice: 19.05 EUR
 currency: EUR
 price: 19.05

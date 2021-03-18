@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CN6CCCH-es Crocs Specialist II Vent Clog Zuecos Unisex Adulto Azul...'
 sku: 'B07CN6CCCH-es'
+tags: [ 'zuecos', ]
 actualPrice: 27.3 EUR
 currency: EUR
 price: 27.3

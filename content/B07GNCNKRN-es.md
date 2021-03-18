@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GNCNKRN-es KidSwim - Gafas de natación para niños de 4 a 12 años sin...'
 sku: 'B07GNCNKRN-es'
+tags: [ 'gafas', ]
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

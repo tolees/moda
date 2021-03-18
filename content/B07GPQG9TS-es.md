@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GPQG9TS-es Gritin Clip on Gafas de Sol [2 Unidades] Gafas de Sol...'
 sku: 'B07GPQG9TS-es'
+tags: [ 'gafas', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

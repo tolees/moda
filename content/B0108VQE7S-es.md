@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0108VQE7S-es Keen Seacamp II CNX Sandalias de Senderismo Unisex Niños...'
 sku: 'B0108VQE7S-es'
+tags: [ 'sandalias', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

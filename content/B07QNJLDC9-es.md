@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QNJLDC9-es Zapatos para Correr Deportes en Montaña Asfalto Zapatillas...'
 sku: 'B07QNJLDC9-es'
+tags: [ 'zapatos', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B5ZQT92-es JACK & JONES Jjeholmen Sweat Zip Hood Noos Sudadera Gris...'
 sku: 'B07B5ZQT92-es'
+tags: [ 'sudadera', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

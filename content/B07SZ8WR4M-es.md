@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SZ8WR4M-es Timberland Newport Bay Bumper Toe Zapatillas sin Cordones...'
 sku: 'B07SZ8WR4M-es'
+tags: [ 'timberland', ]
 actualPrice: 30.54 EUR
 currency: EUR
 price: 30.54

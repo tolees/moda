@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QZTHMD5-es Under Armour Fly by Exposed Pantalón Corto Mujer Negro...'
 sku: 'B07QZTHMD5-es'
+tags: [ 'pantalón', ]
 actualPrice: 17.97 EUR
 currency: EUR
 price: 17.97

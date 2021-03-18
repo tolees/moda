@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FSDNJTG-es Bolso de Hombro pequeña de Mujer Bolso de Bandolera de...'
 sku: 'B07FSDNJTG-es'
+tags: [ 'bolso','moda', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

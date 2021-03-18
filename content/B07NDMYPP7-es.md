@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NDMYPP7-es G-STAR RAW Jirgi Zip Round Neck Chaqueta Punto Gris Raven...'
 sku: 'B07NDMYPP7-es'
+tags: [ 'chaqueta', ]
 actualPrice: 25.3 EUR
 currency: EUR
 price: 25.3

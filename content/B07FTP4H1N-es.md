@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FTP4H1N-es Lee Luke Vaqueros Light Daze ZX 30W / 34L para Hombre'
 sku: 'B07FTP4H1N-es'
+tags: [ 'vaqueros', ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

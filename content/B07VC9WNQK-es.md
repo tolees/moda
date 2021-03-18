@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VC9WNQK-es JACK & JONES Jorhardy Light Puffer Chaqueta Azul Navy...'
 sku: 'B07VC9WNQK-es'
+tags: [ 'chaqueta', ]
 actualPrice: 23.09 EUR
 currency: EUR
 price: 23.09

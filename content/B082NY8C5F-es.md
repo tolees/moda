@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082NY8C5F-es Oihxse Transparente Silicona Case Compatible con Xiaomi Mi...'
 sku: 'B082NY8C5F-es'
+tags: [ 'moda', ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01H6NWVX2-es Pepe Jeans Charing Camiseta Hombre Negro Black XS UK'
 sku: 'B01H6NWVX2-es'
+tags: [ 'camiseta', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

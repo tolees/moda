@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SWTZDYC-es Geox D Sandal Hiver A Sandalias con Punta Abierta para...'
 sku: 'B07SWTZDYC-es'
+tags: [ 'geox','sandalias', ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PQBRCQ1-es Mujer Traje de Baño Conjunto Bikini Estampado Verde Dos...'
 sku: 'B07PQBRCQ1-es'
+tags: [ 'bikini', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F1XKLWG-es Element Dulcey Chaqueta Hombre Negro Flint Black XS'
 sku: 'B07F1XKLWG-es'
+tags: [ 'chaqueta', ]
 actualPrice: 54.77 EUR
 currency: EUR
 price: 54.77

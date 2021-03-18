@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YRCVC43-es Marca Amazon - find. Vestido Corto Cruzado de Algodón...'
 sku: 'B07YRCVC43-es'
+tags: [ '-','find.','vestido', ]
 actualPrice: 7.35 EUR
 currency: EUR
 price: 7.35

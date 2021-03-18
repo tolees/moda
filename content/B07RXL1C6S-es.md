@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RXL1C6S-es Levi s Relaxed Graphic tee Camiseta Gris 90 s Serif Logo...'
 sku: 'B07RXL1C6S-es'
+tags: [ 'camiseta', ]
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

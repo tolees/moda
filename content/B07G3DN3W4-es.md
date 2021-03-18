@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G3DN3W4-es PAOLIAN Blusa Lino de Mujer Manga Largas Otoño 2018 Blusa...'
 sku: 'B07G3DN3W4-es'
+tags: [ 'blusa','camisa','moda', ]
 actualPrice: 11.5 EUR
 currency: EUR
 price: 11.5

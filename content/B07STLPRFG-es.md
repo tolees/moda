@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07STLPRFG-es Geox U Snake.2 A Zapatillas para Hombre Beige Beige/Taupe...'
 sku: 'B07STLPRFG-es'
+tags: [ 'geox', ]
 actualPrice: 56.95 EUR
 currency: EUR
 price: 56.95

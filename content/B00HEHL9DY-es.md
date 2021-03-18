@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HEHL9DY-es Conjunto de 3 piezas camiseta camisa a cuadros y...'
 sku: 'B00HEHL9DY-es'
+tags: [ 'camisa','camiseta', ]
 actualPrice: 13.19 EUR
 currency: EUR
 price: 13.19

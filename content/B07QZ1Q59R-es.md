@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QZ1Q59R-es Wrangler Texas Contrast Vaqueros Straight Azul Soft Power...'
 sku: 'B07QZ1Q59R-es'
+tags: [ 'vaqueros', ]
 actualPrice: 38.2 EUR
 currency: EUR
 price: 38.2

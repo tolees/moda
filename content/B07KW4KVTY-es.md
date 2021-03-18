@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KW4KVTY-es URAQT Bolsos de Mujer Bolso Señora Tote PU Piel Bolso de...'
 sku: 'B07KW4KVTY-es'
+tags: [ 'bolso', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

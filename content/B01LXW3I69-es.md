@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LXW3I69-es Marvel Camiseta Manga Corta Deadpool Character Blanco S'
 sku: 'B01LXW3I69-es'
+tags: [ 'camiseta', ]
 actualPrice: 13.87 EUR
 currency: EUR
 price: 13.87

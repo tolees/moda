@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079ZZMW4G-es VAIRO Falda Pantalon Skort Columns Negro/Rosa M'
 sku: 'B079ZZMW4G-es'
+tags: [ 'falda', ]
 actualPrice: 17.9 EUR
 currency: EUR
 price: 17.9

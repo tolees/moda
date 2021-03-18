@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081TQV7JL-es adidas Fef TR JSY Camiseta de Manga Corta Hombre Dash Green L'
 sku: 'B081TQV7JL-es'
+tags: [ 'camiseta', ]
 actualPrice: 19.39 EUR
 currency: EUR
 price: 19.39

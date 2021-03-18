@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CFGPV37-es Jack & Jones Jjegingham Shirt L/s Camisa Multicolor Port...'
 sku: 'B07CFGPV37-es'
+tags: [ 'camisa', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

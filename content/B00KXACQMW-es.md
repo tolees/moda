@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KXACQMW-es Under Armour Raid Camiseta Masculina Camiseta Transpirable...'
 sku: 'B00KXACQMW-es'
+tags: [ 'camiseta', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

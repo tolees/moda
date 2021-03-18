@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YCGBL62-es Vans Colorblock tee Camiseta Multicolor Ash Heather/Black...'
 sku: 'B07YCGBL62-es'
+tags: [ 'camiseta', ]
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

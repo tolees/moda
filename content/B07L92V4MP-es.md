@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L92V4MP-es Mujer Vestido Lápiz de Oficina Elegante Mangas Cortas S...'
 sku: 'B07L92V4MP-es'
+tags: [ 'vestido', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

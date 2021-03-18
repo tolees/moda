@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079MGJQZ3-es Marca Amazon - MERAKI Camiseta de Rayas de Manga Corta...'
 sku: 'B079MGJQZ3-es'
+tags: [ 'camiseta','meraki', ]
 actualPrice: 7.34 EUR
 currency: EUR
 price: 7.34

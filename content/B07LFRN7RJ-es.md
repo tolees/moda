@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFRN7RJ-es Geox Uomo Snake E Zapatillas para Hombre Negro Black Dk...'
 sku: 'B07LFRN7RJ-es'
+tags: [ 'geox', ]
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M83W1QX-es Napapijri Rainforest Pocket Chaqueta Azul French Blue BB7...'
 sku: 'B07M83W1QX-es'
+tags: [ 'chaqueta', ]
 actualPrice: 99.81 EUR
 currency: EUR
 price: 99.81

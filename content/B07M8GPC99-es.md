@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M8GPC99-es The North Face Venture 2 Chaqueta Hombre Urban Navy XL'
 sku: 'B07M8GPC99-es'
+tags: [ 'chaqueta', ]
 actualPrice: 69.85 EUR
 currency: EUR
 price: 69.85

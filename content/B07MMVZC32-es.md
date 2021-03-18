@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MMVZC32-es Lee Luke Vaqueros Blue Used Fe Bz W26/L32 para Hombre'
 sku: 'B07MMVZC32-es'
+tags: [ 'vaqueros', ]
 actualPrice: 59.97 EUR
 currency: EUR
 price: 59.97

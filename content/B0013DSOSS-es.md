@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0013DSOSS-es Timberland Classic 2 Eye Náuticos para Hombre Marrón Dark...'
 sku: 'B0013DSOSS-es'
+tags: [ 'timberland', ]
 actualPrice: 86.25 EUR
 currency: EUR
 price: 86.25

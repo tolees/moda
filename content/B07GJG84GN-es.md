@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GJG84GN-es Mochila de Pañales para Bebé LOORI Mochilas de Pañales y...'
 sku: 'B07GJG84GN-es'
+tags: [ 'bolso', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

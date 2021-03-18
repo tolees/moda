@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HQAMJ7S-es Crocs Crocband U Zuecos Unisex Adulto Rojo Pepper 42-43 EU'
 sku: 'B01HQAMJ7S-es'
+tags: [ 'zuecos', ]
 actualPrice: 25.59 EUR
 currency: EUR
 price: 25.59

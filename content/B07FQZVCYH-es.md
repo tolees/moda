@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FQZVCYH-es Ternua Corno Pants Pantalón Hombre Negro Black M'
 sku: 'B07FQZVCYH-es'
+tags: [ 'pantalón', ]
 actualPrice: 63.11 EUR
 currency: EUR
 price: 63.11

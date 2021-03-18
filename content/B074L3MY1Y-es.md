@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074L3MY1Y-es SELECTED HOMME Shharo Ss Embroidery Polo Noos Camiseta...'
 sku: 'B074L3MY1Y-es'
+tags: [ 'camiseta', ]
 actualPrice: 8.85 EUR
 currency: EUR
 price: 8.85

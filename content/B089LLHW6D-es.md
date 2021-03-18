@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089LLHW6D-es Dihope - Pantalón de chándal para hombre de algodón estilo...'
 sku: 'B089LLHW6D-es'
+tags: [ 'pantalón', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

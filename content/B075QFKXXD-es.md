@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075QFKXXD-es Star Wars - Pijama para Niños Brillan En La Oscuridad -...'
 sku: 'B075QFKXXD-es'
+tags: [ 'pijama', ]
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

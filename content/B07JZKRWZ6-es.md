@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JZKRWZ6-es Tommy Hilfiger Logo tee S/s Camiseta Azul Saxony Blue 491...'
 sku: 'B07JZKRWZ6-es'
+tags: [ 'camiseta', ]
 actualPrice: 9.97 EUR
 currency: EUR
 price: 9.97

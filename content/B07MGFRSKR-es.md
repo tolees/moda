@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MGFRSKR-es Napapijri ABRAHA Chaqueta Verde Green Forest 2 GE3 S para...'
 sku: 'B07MGFRSKR-es'
+tags: [ 'chaqueta', ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

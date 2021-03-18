@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RZ2CC6D-es BILLABONG Tendencies Zip Hood Sudadera Amarillo Mustard 54...'
 sku: 'B07RZ2CC6D-es'
+tags: [ 'sudadera', ]
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

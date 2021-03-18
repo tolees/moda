@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0776ZTNNS-es Tommy Hilfiger Original Jersey Camiseta Gris Lt Grey Htr...'
 sku: 'B0776ZTNNS-es'
+tags: [ 'camiseta','jersey', ]
 actualPrice: 20.08 EUR
 currency: EUR
 price: 20.08

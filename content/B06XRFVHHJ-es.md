@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XRFVHHJ-es Amazon Essentials - Camisa regular de lino a cuadros con...'
 sku: 'B06XRFVHHJ-es'
+tags: [ 'camisa', ]
 actualPrice: 5.65 EUR
 currency: EUR
 price: 5.65

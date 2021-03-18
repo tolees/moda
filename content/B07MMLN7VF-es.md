@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MMLN7VF-es Napapijri Rainforest Pocket Chaqueta Marrón Golden Brown...'
 sku: 'B07MMLN7VF-es'
+tags: [ 'chaqueta', ]
 actualPrice: 90.0 EUR
 currency: EUR
 price: 90.0

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C9PGYQ6-es REPLAY M3594 .000.2660 Camiseta Gris Dark Grey Melange M03...'
 sku: 'B07C9PGYQ6-es'
+tags: [ 'camiseta', ]
 actualPrice: 10.58 EUR
 currency: EUR
 price: 10.58

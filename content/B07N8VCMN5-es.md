@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N8VCMN5-es Rockport Marshall Plain Toe Zapatos de Cordones Oxford...'
 sku: 'B07N8VCMN5-es'
+tags: [ 'zapatos', ]
 actualPrice: 25.83 EUR
 currency: EUR
 price: 25.83

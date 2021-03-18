@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073QLVYWX-es Marca Amazon - AURIQUE Leggings con Paneles en Contraste...'
 sku: 'B073QLVYWX-es'
+tags: [ 'aurique', ]
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

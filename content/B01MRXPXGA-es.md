@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MRXPXGA-es find. Flared Sleeve Blusa para Mujer Negro Black Mix 38...'
 sku: 'B01MRXPXGA-es'
+tags: [ 'blusa', ]
 actualPrice: 12 EUR
 currency: EUR
 price: 12

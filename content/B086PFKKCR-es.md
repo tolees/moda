@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086PFKKCR-es PUMA ESS Logo tee Camiseta Mujer Glowing Pink M'
 sku: 'B086PFKKCR-es'
+tags: [ 'camiseta', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

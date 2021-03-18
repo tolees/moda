@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TSJQ5Z8-es Only Onlastrid Marie Coat Otw Abrigo Color Negro M para Mujer'
 sku: 'B07TSJQ5Z8-es'
+tags: [ 'abrigo', ]
 actualPrice: 14.56 EUR
 currency: EUR
 price: 14.56

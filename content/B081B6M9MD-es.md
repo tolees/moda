@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081B6M9MD-es Columbia Triple Canyon Camisa de Manga Corta Hombre Azul...'
 sku: 'B081B6M9MD-es'
+tags: [ 'camisa', ]
 actualPrice: 35.89 EUR
 currency: EUR
 price: 35.89

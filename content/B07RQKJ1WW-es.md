@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RQKJ1WW-es Zapatos de agua para la playa piscina o jardín para niños...'
 sku: 'B07RQKJ1WW-es'
+tags: [ 'zapatos', ]
 actualPrice: 14.83 EUR
 currency: EUR
 price: 14.83

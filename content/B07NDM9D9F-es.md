@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NDM9D9F-es G-STAR RAW 3301 High Waist Flare Vaqueros Medium Aged...'
 sku: 'B07NDM9D9F-es'
+tags: [ 'vaqueros', ]
 actualPrice: 12.8 EUR
 currency: EUR
 price: 12.8

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0721D4HBS-es Amazon Essentials 6-Pack V-Neck Undershirts camisa Negro...'
 sku: 'B0721D4HBS-es'
+tags: [ 'camisa', ]
 actualPrice: 10.77 EUR
 currency: EUR
 price: 10.77

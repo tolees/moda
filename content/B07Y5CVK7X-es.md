@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y5CVK7X-es Geographical Norway Sudadera DE Hombre GYMCLASS A Gris...'
 sku: 'B07Y5CVK7X-es'
+tags: [ 'sudadera', ]
 actualPrice: 27.3 EUR
 currency: EUR
 price: 27.3

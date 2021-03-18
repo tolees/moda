@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VC2P11F-es BOSS Rash Camisa Blanco White 100 Large para Hombre'
 sku: 'B07VC2P11F-es'
+tags: [ 'camisa', ]
 actualPrice: 51.66 EUR
 currency: EUR
 price: 51.66

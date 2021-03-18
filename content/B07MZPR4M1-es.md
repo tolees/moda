@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZPR4M1-es Pepe Jeans Mohsen Sudadera Grey Marl 933 11-12 años Talla...'
 sku: 'B07MZPR4M1-es'
+tags: [ 'sudadera', ]
 actualPrice: 26.18 EUR
 currency: EUR
 price: 26.18

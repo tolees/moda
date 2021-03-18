@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BRCQ2V8-es Zapatos de Seguridad para Hombre Zapatillas Zapatos de...'
 sku: 'B08BRCQ2V8-es'
+tags: [ 'zapatos', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

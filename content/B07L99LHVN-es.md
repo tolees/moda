@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L99LHVN-es Under Armour Rival Fleece Solid Pantalón Mujer Negro...'
 sku: 'B07L99LHVN-es'
+tags: [ 'pantalón', ]
 actualPrice: 26.49 EUR
 currency: EUR
 price: 26.49

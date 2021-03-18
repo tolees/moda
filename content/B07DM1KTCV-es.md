@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DM1KTCV-es Bebé Niña Vestido de Fiesta Princesa Disfraces Tutú Ballet...'
 sku: 'B07DM1KTCV-es'
+tags: [ 'vestido', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

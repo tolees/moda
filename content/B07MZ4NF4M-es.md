@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZ4NF4M-es Camisetas Hombre SHOBDW Verano de Lino Liso Algodón Talla...'
 sku: 'B07MZ4NF4M-es'
+tags: [ 'blusa','camiseta', ]
 actualPrice: 4.59 EUR
 currency: EUR
 price: 4.59

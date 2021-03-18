@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X1Q2XZ3-es Zapatillas de Running Hombre Zapatillas para Hombre...'
 sku: 'B07X1Q2XZ3-es'
+tags: [ 'zapatos', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

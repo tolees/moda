@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DXCXDZD-es Tommy Hilfiger Boys Basic Vn Knit S/s Camiseta Azul Sky...'
 sku: 'B07DXCXDZD-es'
+tags: [ 'camiseta', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

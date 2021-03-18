@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SXTHMMV-es Geox D Borealis A Sandalia con Pulsera para Mujer Negro...'
 sku: 'B07SXTHMMV-es'
+tags: [ 'geox', ]
 actualPrice: 35.96 EUR
 currency: EUR
 price: 35.96

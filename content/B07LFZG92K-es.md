@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFZG92K-es adidas W E Lin Slim T Camiseta de Manga Corta Mujer Blanco...'
 sku: 'B07LFZG92K-es'
+tags: [ 'camiseta', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZQ47SK-es Pepe Jeans Nastia Sudadera Berry Red 280 Large para Mujer'
 sku: 'B07MZQ47SK-es'
+tags: [ 'sudadera', ]
 actualPrice: 27.72 EUR
 currency: EUR
 price: 27.72

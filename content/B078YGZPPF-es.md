@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078YGZPPF-es Schiesser Puppy Love Baby Anzug 2-Teilig Conjuntos de...'
 sku: 'B078YGZPPF-es'
+tags: [ 'pijama', ]
 actualPrice: 14.82 EUR
 currency: EUR
 price: 14.82

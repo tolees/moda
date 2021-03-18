@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TKSV2JZ-es Clarks Step Juneshell Sandalias Punta Cerrada para Mujer...'
 sku: 'B07TKSV2JZ-es'
+tags: [ 'sandalias', ]
 actualPrice: 23.93 EUR
 currency: EUR
 price: 23.93

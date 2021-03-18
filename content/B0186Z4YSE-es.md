@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0186Z4YSE-es Homar sin corbata Cordones de zapatos para niños y adultos...'
 sku: 'B0186Z4YSE-es'
+tags: [ 'zapatos', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

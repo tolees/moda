@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QXT3DT1-es I IHAYNER Mochila Para Mujer Mini Mochila Para Mujer...'
 sku: 'B07QXT3DT1-es'
+tags: [ 'monedero', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

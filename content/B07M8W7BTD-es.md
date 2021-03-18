@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M8W7BTD-es Wrangler Skinny Jeans Vaqueros Azul Soft Worn 12b 25W /...'
 sku: 'B07M8W7BTD-es'
+tags: [ 'vaqueros', ]
 actualPrice: 18.74 EUR
 currency: EUR
 price: 18.74

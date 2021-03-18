@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V9W8LD8-es Marca Amazon - Iris & Lilly Bralette de Rejilla Mujer Rojo...'
 sku: 'B07V9W8LD8-es'
+tags: [ '&','iris','lilly', ]
 actualPrice: 5.07 EUR
 currency: EUR
 price: 5.07

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P83XPBS-es Ever-Pretty Vestido de Fiesta Noche Largo para Mujer...'
 sku: 'B07P83XPBS-es'
+tags: [ 'vestido', ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

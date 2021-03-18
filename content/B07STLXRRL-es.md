@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07STLXRRL-es Geox D Sozy Plus B Sandalias con Punta Abierta para Mujer...'
 sku: 'B07STLXRRL-es'
+tags: [ 'geox','sandalias', ]
 actualPrice: 25.55 EUR
 currency: EUR
 price: 25.55

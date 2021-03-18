@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D9C2JQH-es NNJXD Unicornio Arco Iris Tutú Primer Cumpleaños Trajes de...'
 sku: 'B07D9C2JQH-es'
+tags: [ 'falda', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MYZ0MU3-es KRISP 6252-PNK-08 Vestido Corto Patinadora Vuelo Fruncido...'
 sku: 'B01MYZ0MU3-es'
+tags: [ 'vestido', ]
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RH1VDGN-es G-STAR RAW Graphic 8 Sudadera Negro Dk Black 6484 Small...'
 sku: 'B07RH1VDGN-es'
+tags: [ 'sudadera', ]
 actualPrice: 26.33 EUR
 currency: EUR
 price: 26.33

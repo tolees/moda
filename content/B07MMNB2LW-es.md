@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MMNB2LW-es GANT D1.Winter TWI Buffalo Check Reg BD Camisa Rojo Port...'
 sku: 'B07MMNB2LW-es'
+tags: [ 'camisa', ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

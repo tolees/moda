@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RT892WP-es Pepe Jeans Hatch Vaqueros Ajustados Azul Bleach 000 30W /...'
 sku: 'B07RT892WP-es'
+tags: [ 'vaqueros', ]
 actualPrice: 45.47 EUR
 currency: EUR
 price: 45.47

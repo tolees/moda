@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VFGHL87-es Esprit 099eo1g039 Abrigo Beige Dusty Nude 5 279 Large para...'
 sku: 'B07VFGHL87-es'
+tags: [ 'abrigo', ]
 actualPrice: 43.17 EUR
 currency: EUR
 price: 43.17

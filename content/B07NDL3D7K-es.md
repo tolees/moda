@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NDL3D7K-es G-STAR RAW ARC 3D Low Waist Boyfriend Restored Vaqueros Dk...'
 sku: 'B07NDL3D7K-es'
+tags: [ 'vaqueros', ]
 actualPrice: 41.59 EUR
 currency: EUR
 price: 41.59

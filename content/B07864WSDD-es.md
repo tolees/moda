@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07864WSDD-es Puma Liga Core H Camiseta de Manga Corta Hombre...'
 sku: 'B07864WSDD-es'
+tags: [ 'camiseta', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

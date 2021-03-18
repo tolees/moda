@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P96RF5C-es DANISH ENDURANCE Calzoncillos Bóxer de Deporte Pack de 3...'
 sku: 'B07P96RF5C-es'
+tags: [ 'bóxer', ]
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

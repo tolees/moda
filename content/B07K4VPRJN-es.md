@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K4VPRJN-es BOSS Mabsoot Camisa Azul Open Blue X-Small para Hombre'
 sku: 'B07K4VPRJN-es'
+tags: [ 'camisa', ]
 actualPrice: 18.6 EUR
 currency: EUR
 price: 18.6

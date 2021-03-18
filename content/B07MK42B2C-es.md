@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MK42B2C-es Under Armour Sportstyle Terry Logo Hoodie Sudadera con...'
 sku: 'B07MK42B2C-es'
+tags: [ 'sudadera', ]
 actualPrice: 43.61 EUR
 currency: EUR
 price: 43.61

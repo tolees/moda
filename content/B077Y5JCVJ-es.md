@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077Y5JCVJ-es Tuc Tuc Brioche - Bolso panera y cambiador de polipiel...'
 sku: 'B077Y5JCVJ-es'
+tags: [ 'bolso', ]
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

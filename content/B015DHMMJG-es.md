@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015DHMMJG-es Levi s 711 Vaqueros Skinny Negro Black Sheen 0052 31W /...'
 sku: 'B015DHMMJG-es'
+tags: [ 'vaqueros', ]
 actualPrice: 46.7 EUR
 currency: EUR
 price: 46.7

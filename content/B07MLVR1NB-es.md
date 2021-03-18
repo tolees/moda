@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MLVR1NB-es Marca Amazon - find. Abrigo Cruzado de Cuadros Hombre Rojo...'
 sku: 'B07MLVR1NB-es'
+tags: [ '-','abrigo','find.', ]
 actualPrice: 16.1 EUR
 currency: EUR
 price: 16.1

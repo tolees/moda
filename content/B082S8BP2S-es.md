@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082S8BP2S-es YIMI Gafas de Sol Hombre Deportivas Polarizadas...'
 sku: 'B082S8BP2S-es'
+tags: [ 'gafas', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077XJLF15-es Superdry Tech Hood Pop Zip SD-Windcheater Chaqueta...'
 sku: 'B077XJLF15-es'
+tags: [ 'chaqueta', ]
 actualPrice: 61.47 EUR
 currency: EUR
 price: 61.47

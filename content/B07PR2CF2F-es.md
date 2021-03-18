@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PR2CF2F-es Under Armour Camo Boxed Logo Camisa Manga Corta Hombre...'
 sku: 'B07PR2CF2F-es'
+tags: [ 'camisa', ]
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

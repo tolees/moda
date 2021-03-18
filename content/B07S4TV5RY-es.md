@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S4TV5RY-es Levi s Perfect-tee Camiseta de Manga Corta Multicolor...'
 sku: 'B07S4TV5RY-es'
+tags: [ 'camiseta', ]
 actualPrice: 14.49 EUR
 currency: EUR
 price: 14.49

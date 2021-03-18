@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MJ7GH16-es Clarks - Botines de Cuero Hombre Color Marrón Talla 41.5 EU'
 sku: 'B07MJ7GH16-es'
+tags: [ 'botines', ]
 actualPrice: 33.67 EUR
 currency: EUR
 price: 33.67

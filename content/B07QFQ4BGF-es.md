@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QFQ4BGF-es Gafas de Sol polarizadas Deportivas para Hombres Mujeres...'
 sku: 'B07QFQ4BGF-es'
+tags: [ 'gafas', ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

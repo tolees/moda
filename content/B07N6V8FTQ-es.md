@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N6V8FTQ-es Diesel UMLT-JAKE Camiseta para Hombre Negro Black 900/0taww M'
 sku: 'B07N6V8FTQ-es'
+tags: [ 'camiseta', ]
 actualPrice: 8.62 EUR
 currency: EUR
 price: 8.62

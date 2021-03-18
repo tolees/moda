@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SVP2D4D-es Geox J Alben Boy D Zapatillas para Niños Gris Grey/Yellow...'
 sku: 'B07SVP2D4D-es'
+tags: [ 'geox', ]
 actualPrice: 24.45 EUR
 currency: EUR
 price: 24.45

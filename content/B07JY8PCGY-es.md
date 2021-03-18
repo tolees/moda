@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JY8PCGY-es Goodthreads - Bañador para hombre de 12 7 cm de tiro Green...'
 sku: 'B07JY8PCGY-es'
+tags: [ 'goodthreads', ]
 actualPrice: 7.27 EUR
 currency: EUR
 price: 7.27

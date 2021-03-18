@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GS28DHK-es Timberland Newport Bay-Canvas Zapatillas Unisex Niños Azul...'
 sku: 'B07GS28DHK-es'
+tags: [ 'timberland', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

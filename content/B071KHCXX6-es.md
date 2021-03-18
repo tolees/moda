@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071KHCXX6-es TRIXIE Jersey Moncton M 45 cm Marrón Perro'
 sku: 'B071KHCXX6-es'
+tags: [ 'jersey', ]
 actualPrice: 10.9 EUR
 currency: EUR
 price: 10.9

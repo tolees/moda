@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TWNMH6K-es Wrangler LS 1 Pkt Button Down Camisa Azul Cerulean Blue...'
 sku: 'B07TWNMH6K-es'
+tags: [ 'camisa', ]
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

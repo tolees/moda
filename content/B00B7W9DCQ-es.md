@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00B7W9DCQ-es Geox Piuma G Bailarinas para Niñas Negro Black 9999 39 EU'
 sku: 'B00B7W9DCQ-es'
+tags: [ 'geox', ]
 actualPrice: 26.68 EUR
 currency: EUR
 price: 26.68

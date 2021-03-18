@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076WZBML5-es find. Sudadera con Mensaje Mujer Rosa Medium'
 sku: 'B076WZBML5-es'
+tags: [ 'sudadera', ]
 actualPrice: 9.3 EUR
 currency: EUR
 price: 9.3

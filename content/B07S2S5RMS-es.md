@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S2S5RMS-es Levi s Plus Size tee Camiseta Blanco Pl 90 s Serif T2...'
 sku: 'B07S2S5RMS-es'
+tags: [ 'camiseta', ]
 actualPrice: 16.82 EUR
 currency: EUR
 price: 16.82

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R65Y4ZD-es Camiseta de Tirantes Deportiva Hombre Tirantes Culturismo...'
 sku: 'B07R65Y4ZD-es'
+tags: [ 'camiseta', ]
 actualPrice: 6.88 EUR
 currency: EUR
 price: 6.88

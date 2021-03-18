@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TY1GJ3D-es Women s Secret Trendy Floral TF Bugambilia PJ Conjuntos de...'
 sku: 'B07TY1GJ3D-es'
+tags: [ 'pijama', ]
 actualPrice: 11.26 EUR
 currency: EUR
 price: 11.26

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TV7MJ47-es Levi s Innovation Super Skinny Vaqueros Azul Globe Trotter...'
 sku: 'B07TV7MJ47-es'
+tags: [ 'vaqueros', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

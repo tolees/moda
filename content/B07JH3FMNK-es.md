@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JH3FMNK-es Pepe Jeans Wyatt Pm305905 Camisa Blue 551 Medium para Hombre'
 sku: 'B07JH3FMNK-es'
+tags: [ 'camisa', ]
 actualPrice: 23.37 EUR
 currency: EUR
 price: 23.37

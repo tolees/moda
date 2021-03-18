@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZPMXVS-es Pepe Jeans Nine Sudadera Grey Marl 933 Large para Mujer'
 sku: 'B07MZPMXVS-es'
+tags: [ 'sudadera', ]
 actualPrice: 35.74 EUR
 currency: EUR
 price: 35.74

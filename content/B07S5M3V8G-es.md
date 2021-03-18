@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S5M3V8G-es BOSS Balance LS-Shirt RN Camiseta Rojo Dark Red 608 Large...'
 sku: 'B07S5M3V8G-es'
+tags: [ 'camiseta', ]
 actualPrice: 14.58 EUR
 currency: EUR
 price: 14.58

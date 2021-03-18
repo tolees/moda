@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JGJWG2H-es Marca Amazon - IRIS & LILLY Bañador Moldeador Mujer Rojo...'
 sku: 'B07JGJWG2H-es'
+tags: [ '&','iris','lilly', ]
 actualPrice: 14.41 EUR
 currency: EUR
 price: 14.41

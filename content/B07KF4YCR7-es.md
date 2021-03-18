@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KF4YCR7-es Levi s Camiseta Multicolor 2 Pack tee White +/Smokestack...'
 sku: 'B07KF4YCR7-es'
+tags: [ 'camiseta', ]
 actualPrice: 24.49 EUR
 currency: EUR
 price: 24.49

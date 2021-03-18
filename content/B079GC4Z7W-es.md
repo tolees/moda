@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079GC4Z7W-es find. Sandalias con Pulsera Mujer Marrón Brown Brown 39 EU'
 sku: 'B079GC4Z7W-es'
+tags: [ 'sandalias', ]
 actualPrice: 7.24 EUR
 currency: EUR
 price: 7.24

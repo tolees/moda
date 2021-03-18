@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00AF6QPWG-es Helly Hansen Seven J Jacket - Chaqueta para hombre color...'
 sku: 'B00AF6QPWG-es'
+tags: [ 'chaqueta', ]
 actualPrice: 60.99 EUR
 currency: EUR
 price: 60.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075R8N5NM-es Vero Moda Vmava Plain SS Top Ga Noos Camiseta Azul Night...'
 sku: 'B075R8N5NM-es'
+tags: [ 'camiseta','moda', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

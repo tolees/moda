@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MFM2KB2-es Clarks 261440557 - Botines de Cuero Hombre Color Marrón...'
 sku: 'B07MFM2KB2-es'
+tags: [ 'botines', ]
 actualPrice: 35.95 EUR
 currency: EUR
 price: 35.95

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0825PY4MR-es Roxy Printed Beach Classics - Conjunto De Bikini Tiki Tri...'
 sku: 'B0825PY4MR-es'
+tags: [ 'bikini', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

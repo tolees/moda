@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S976FGC-es Crocs Swiftwater Sandal Women Sandalias de Punta...'
 sku: 'B07S976FGC-es'
+tags: [ 'sandalias', ]
 actualPrice: 16.8 EUR
 currency: EUR
 price: 16.8

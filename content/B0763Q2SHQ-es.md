@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0763Q2SHQ-es WOLA estilo de redonda gafas de sol en madera SELVA mujer...'
 sku: 'B0763Q2SHQ-es'
+tags: [ 'gafas', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

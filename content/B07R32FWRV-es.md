@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R32FWRV-es riou Bikini Conjuntos de Bikinis para Mujer Push Up...'
 sku: 'B07R32FWRV-es'
+tags: [ 'bikini', ]
 actualPrice: 1.97 EUR
 currency: EUR
 price: 1.97

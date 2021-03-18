@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BG0IXRK-es Nike Benassi JDI Chanclas Unisex Adulto Azul Midnight...'
 sku: 'B00BG0IXRK-es'
+tags: [ 'chanclas', ]
 actualPrice: 10.01 EUR
 currency: EUR
 price: 10.01

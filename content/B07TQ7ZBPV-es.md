@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TQ7ZBPV-es Marca Amazon - Iris & Lilly Sujetador de Tul Super Push Up...'
 sku: 'B07TQ7ZBPV-es'
+tags: [ '&','iris','lilly', ]
 actualPrice: 5.46 EUR
 currency: EUR
 price: 5.46

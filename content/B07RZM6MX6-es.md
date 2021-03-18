@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RZM6MX6-es Levi s 510 Fit Vaqueros Skinny Azul Delray Pier 4/Waxy...'
 sku: 'B07RZM6MX6-es'
+tags: [ 'vaqueros', ]
 actualPrice: 68.99 EUR
 currency: EUR
 price: 68.99

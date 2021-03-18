@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01L410MVK-es Havaianas Brasil Mix Chanclas Unisex Adulto Multicolor...'
 sku: 'B01L410MVK-es'
+tags: [ 'chanclas', ]
 actualPrice: 7.01 EUR
 currency: EUR
 price: 7.01

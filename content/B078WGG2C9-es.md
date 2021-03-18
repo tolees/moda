@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078WGG2C9-es The North Face Etip Glove Guantes Unisex Adulto Negro TNF...'
 sku: 'B078WGG2C9-es'
+tags: [ 'guantes', ]
 actualPrice: 24.97 EUR
 currency: EUR
 price: 24.97

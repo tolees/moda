@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KYK21DJ-es Mallalah Chaqueta de bebé niña Abrigo Trench Coat Sudadera...'
 sku: 'B07KYK21DJ-es'
+tags: [ 'abrigo','chaqueta','parka','sudadera', ]
 actualPrice: 6.07 EUR
 currency: EUR
 price: 6.07

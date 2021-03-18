@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X8LQFLV-es LIGE Relojes para Hombre Cronógrafo Impermeable Cuarzo...'
 sku: 'B07X8LQFLV-es'
+tags: [ 'moda','vestido', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BGCB6KM-es Geox U844VA 00022 Zapato Casual Hombre Marròn 44'
 sku: 'B07BGCB6KM-es'
+tags: [ 'geox', ]
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

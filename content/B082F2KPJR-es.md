@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082F2KPJR-es Martin cocoa Hombre Impermeable Chaqueta Al Aire Libre...'
 sku: 'B082F2KPJR-es'
+tags: [ 'chaqueta', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

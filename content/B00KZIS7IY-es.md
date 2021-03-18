@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KZIS7IY-es SOLS- Camiseta de Manga Corta para niñas 12 años Blanco'
 sku: 'B00KZIS7IY-es'
+tags: [ 'camiseta', ]
 actualPrice: 3.45 EUR
 currency: EUR
 price: 3.45

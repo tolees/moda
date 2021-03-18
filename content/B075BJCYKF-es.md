@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075BJCYKF-es Marca Amazon - MERAKI Falda Maxi Slim Fit Mujer Negro...'
 sku: 'B075BJCYKF-es'
+tags: [ 'falda','meraki', ]
 actualPrice: 17.5 EUR
 currency: EUR
 price: 17.5

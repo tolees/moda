@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0751KDSXY-es Vero Moda Vmhot SOYA LS Jacket Mix Noos Chaqueta Azul...'
 sku: 'B0751KDSXY-es'
+tags: [ 'chaqueta','moda', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

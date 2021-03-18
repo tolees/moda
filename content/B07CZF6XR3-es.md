@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CZF6XR3-es Under Armour UA Speed Stride 7 Zoll Woven Pantalón Corto...'
 sku: 'B07CZF6XR3-es'
+tags: [ 'pantalón', ]
 actualPrice: 24.89 EUR
 currency: EUR
 price: 24.89

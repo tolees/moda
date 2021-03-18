@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DK4P25D-es Geox J Waviness B Zapatillas para Niños Azul Navy/Red...'
 sku: 'B07DK4P25D-es'
+tags: [ 'geox', ]
 actualPrice: 27.45 EUR
 currency: EUR
 price: 27.45

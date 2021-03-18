@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FFD23SJ-es Wrangler Greensboro Regular Jeans Vaqueros Azul For Real...'
 sku: 'B07FFD23SJ-es'
+tags: [ 'vaqueros', ]
 actualPrice: 46.09 EUR
 currency: EUR
 price: 46.09

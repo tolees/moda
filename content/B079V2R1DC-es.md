@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079V2R1DC-es Wrangler Greensboro Regular Jeans Vaqueros Azul 34W / 30L...'
 sku: 'B079V2R1DC-es'
+tags: [ 'vaqueros', ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

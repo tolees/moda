@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L93KV4Q-es Mujer Vestido Elegante de Oficina Falda Lápiz Mangas...'
 sku: 'B07L93KV4Q-es'
+tags: [ 'falda','vestido', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

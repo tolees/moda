@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L9JNKSG-es Under Armour Challenger III Jacket chaqueta de hombre para...'
 sku: 'B07L9JNKSG-es'
+tags: [ 'chaqueta', ]
 actualPrice: 19.57 EUR
 currency: EUR
 price: 19.57

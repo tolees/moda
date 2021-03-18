@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01K1K67WS-es Bolso impermeable de la bolsa de la correa de ECHPTower...'
 sku: 'B01K1K67WS-es'
+tags: [ 'bolso', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087P9YDY9-es Suhctup Funda Compatible con Sony Xperia 20 Billetera...'
 sku: 'B087P9YDY9-es'
+tags: [ 'billetera', ]
 actualPrice: 10.98 EUR
 currency: EUR
 price: 10.98

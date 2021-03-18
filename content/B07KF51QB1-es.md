@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KF51QB1-es Levi s Perfect-tee Camiseta de Manga Corta Rosa Pink Lady...'
 sku: 'B07KF51QB1-es'
+tags: [ 'camiseta', ]
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

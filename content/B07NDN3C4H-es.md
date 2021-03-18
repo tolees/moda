@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NDN3C4H-es Tous Kaos Shock - Organizador de Bolso para Mujer Arena...'
 sku: 'B07NDN3C4H-es'
+tags: [ 'bolso', ]
 actualPrice: 17.45 EUR
 currency: EUR
 price: 17.45

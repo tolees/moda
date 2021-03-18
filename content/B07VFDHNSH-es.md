@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VFDHNSH-es JACK & JONES Jjewashington Shirt L/s STS Camisa Verde Fall...'
 sku: 'B07VFDHNSH-es'
+tags: [ 'camisa', ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

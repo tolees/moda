@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R9DK3HG-es Helly Hansen Aden Chaqueta De Pluma Impermeable Parka con...'
 sku: 'B07R9DK3HG-es'
+tags: [ 'chaqueta','parka', ]
 actualPrice: 154.07 EUR
 currency: EUR
 price: 154.07

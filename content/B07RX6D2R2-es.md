@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RX6D2R2-es Esprit 089ee2k011 Camiseta Azul Navy 400 X-Large para Hombre'
 sku: 'B07RX6D2R2-es'
+tags: [ 'camiseta', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

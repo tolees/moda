@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RRB3JQZ-es Lee Luke Vaqueros Nitrate VM 38W / 34L para Hombre'
 sku: 'B07RRB3JQZ-es'
+tags: [ 'vaqueros', ]
 actualPrice: 19.42 EUR
 currency: EUR
 price: 19.42

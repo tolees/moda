@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L3KR4N8-es Vestido Vintage para Muejeres Mangas 3/4 Cuello V de...'
 sku: 'B07L3KR4N8-es'
+tags: [ 'vestido', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T28JNR6-es Abravo Mujer Vestido Estampado Floral sin Mangas Vestido...'
 sku: 'B07T28JNR6-es'
+tags: [ 'vestido', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

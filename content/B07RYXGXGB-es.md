@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RYXGXGB-es Pepe Jeans Regent Vaqueros Skinny Azul Medium Used Wiser...'
 sku: 'B07RYXGXGB-es'
+tags: [ 'vaqueros', ]
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

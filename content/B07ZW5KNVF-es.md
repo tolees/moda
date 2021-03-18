@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZW5KNVF-es Marca Amazon - find. Flat Gladiator Sandalias de Gladiador...'
 sku: 'B07ZW5KNVF-es'
+tags: [ '-','find.','sandalias', ]
 actualPrice: 6.29 EUR
 currency: EUR
 price: 6.29

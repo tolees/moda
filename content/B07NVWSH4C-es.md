@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NVWSH4C-es G-STAR RAW Graphic Logo 4 Camiseta Negro Medium Talla del...'
 sku: 'B07NVWSH4C-es'
+tags: [ 'camiseta', ]
 actualPrice: 19.49 EUR
 currency: EUR
 price: 19.49

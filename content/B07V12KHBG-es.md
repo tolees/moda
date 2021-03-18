@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V12KHBG-es Women s Secret Generic Funny GD Oh Deer PJ Conjuntos de...'
 sku: 'B07V12KHBG-es'
+tags: [ 'pijama', ]
 actualPrice: 22.09 EUR
 currency: EUR
 price: 22.09

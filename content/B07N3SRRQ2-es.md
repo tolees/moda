@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N3SRRQ2-es Desigual T-Shirt Audrie Camiseta Azul Blue Depths 5149 XL...'
 sku: 'B07N3SRRQ2-es'
+tags: [ 'camiseta', ]
 actualPrice: 29.98 EUR
 currency: EUR
 price: 29.98

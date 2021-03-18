@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F138LNJ-es Levi s The Perfect Tee Camiseta Mujer Morado Better...'
 sku: 'B07F138LNJ-es'
+tags: [ 'camiseta', ]
 actualPrice: 16.85 EUR
 currency: EUR
 price: 16.85

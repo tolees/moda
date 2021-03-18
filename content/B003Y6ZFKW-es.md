@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003Y6ZFKW-es Urban Classics Chaqueta Lana Negro S'
 sku: 'B003Y6ZFKW-es'
+tags: [ 'chaqueta', ]
 actualPrice: 17.65 EUR
 currency: EUR
 price: 17.65

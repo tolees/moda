@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H931BSL-es Skechers Reggae Slim-Slip Spliced Sandalias de Talón...'
 sku: 'B07H931BSL-es'
+tags: [ 'sandalias', ]
 actualPrice: 30.26 EUR
 currency: EUR
 price: 30.26

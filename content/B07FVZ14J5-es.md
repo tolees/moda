@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FVZ14J5-es adidas PANTALÓN Entrenamiento Core 30 Fútbol Adolescentes...'
 sku: 'B07FVZ14J5-es'
+tags: [ 'pantalón', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

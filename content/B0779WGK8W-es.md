@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0779WGK8W-es AURIQUE BAL181LA16 Sujetador Deportivo para Mujer...'
 sku: 'B0779WGK8W-es'
+tags: [ 'aurique', ]
 actualPrice: 4.8 EUR
 currency: EUR
 price: 4.8

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088KG6BB5-es Suhctup Funda Compatible con iPhone 7/8/SE2 Antigolpes...'
 sku: 'B088KG6BB5-es'
+tags: [ 'moda', ]
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

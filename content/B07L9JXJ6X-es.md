@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L9JXJ6X-es Under Armour Coldgear Reactor Performance Hybrid Chaqueta...'
 sku: 'B07L9JXJ6X-es'
+tags: [ 'chaqueta', ]
 actualPrice: 125.97 EUR
 currency: EUR
 price: 125.97

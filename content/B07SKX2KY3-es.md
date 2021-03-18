@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SKX2KY3-es G-Star Sp30506 Dress Vestido Negro Black 02 10 años Talla...'
 sku: 'B07SKX2KY3-es'
+tags: [ 'vestido', ]
 actualPrice: 21.85 EUR
 currency: EUR
 price: 21.85

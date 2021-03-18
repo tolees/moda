@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FK9SFF3-es REPLAY W2962 .000.41b 337 Blusa Negro Black 98 Small para...'
 sku: 'B07FK9SFF3-es'
+tags: [ 'blusa', ]
 actualPrice: 18.73 EUR
 currency: EUR
 price: 18.73

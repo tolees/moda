@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RTMF4HK-es New Look Oversized PU Chaqueta Negro Black 1 36 Talla del...'
 sku: 'B07RTMF4HK-es'
+tags: [ 'chaqueta', ]
 actualPrice: 17.57 EUR
 currency: EUR
 price: 17.57

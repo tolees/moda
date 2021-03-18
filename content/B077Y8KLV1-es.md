@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077Y8KLV1-es HIKARO Sudadera con Capucha Hombre Negro Black 50 Talla...'
 sku: 'B077Y8KLV1-es'
+tags: [ 'sudadera', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

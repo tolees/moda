@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00WWPEJV2-es Jack & Jones Sense Trunks 3-Pack Bóxer Negro Large Pack de...'
 sku: 'B00WWPEJV2-es'
+tags: [ 'bóxer', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

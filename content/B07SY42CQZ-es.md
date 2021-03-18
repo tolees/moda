@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SY42CQZ-es Quiksilver Crystal Oasis Zapatos de Playa y Piscina para...'
 sku: 'B07SY42CQZ-es'
+tags: [ 'zapatos', ]
 actualPrice: 18.83 EUR
 currency: EUR
 price: 18.83

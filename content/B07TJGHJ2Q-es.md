@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TJGHJ2Q-es Superdry OL Vintage EMB Crew Camiseta Azul Desert Sky Blue...'
 sku: 'B07TJGHJ2Q-es'
+tags: [ 'camiseta', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

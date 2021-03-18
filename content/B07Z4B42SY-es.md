@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z4B42SY-es Jack & Jones Jjeeric Puffer Collar Noos Chaqueta Rojo Rot...'
 sku: 'B07Z4B42SY-es'
+tags: [ 'chaqueta','collar', ]
 actualPrice: 21.29 EUR
 currency: EUR
 price: 21.29

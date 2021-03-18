@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MK333MR-es Marca Amazon - MERAKI Shorts de Natación Hombre Gris...'
 sku: 'B07MK333MR-es'
+tags: [ 'meraki', ]
 actualPrice: 5.74 EUR
 currency: EUR
 price: 5.74

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BXT4QI4-es Kempa Woven Pantalón Corto de Entrenamiento Hombre Blanco L'
 sku: 'B00BXT4QI4-es'
+tags: [ 'pantalón', ]
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

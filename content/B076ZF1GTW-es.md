@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076ZF1GTW-es IRIS & LILLY Camiseta de Manga Larga para Mujer Gris Grey...'
 sku: 'B076ZF1GTW-es'
+tags: [ '&','camiseta','iris','lilly', ]
 actualPrice: 8.5 EUR
 currency: EUR
 price: 8.5

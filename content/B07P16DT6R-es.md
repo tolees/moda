@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P16DT6R-es Superdry Padded Elite Jacket Chaqueta Verde Warm Olive M6c...'
 sku: 'B07P16DT6R-es'
+tags: [ 'chaqueta', ]
 actualPrice: 25.45 EUR
 currency: EUR
 price: 25.45

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZQSZ9G-es Pepe Jeans Jaiden Camisa Grey Marl 933 X-Large para Hombre'
 sku: 'B07MZQSZ9G-es'
+tags: [ 'camisa', ]
 actualPrice: 29.01 EUR
 currency: EUR
 price: 29.01

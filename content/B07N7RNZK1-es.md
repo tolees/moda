@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N7RNZK1-es Kipling - monedero de Sintético Mujer color Multicolor...'
 sku: 'B07N7RNZK1-es'
+tags: [ 'monedero', ]
 actualPrice: 24.42 EUR
 currency: EUR
 price: 24.42

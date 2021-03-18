@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZQ3CTN-es Pepe Jeans Cash Vaqueros Straight Azul Medium Used Denim...'
 sku: 'B07MZQ3CTN-es'
+tags: [ 'vaqueros', ]
 actualPrice: 35.67 EUR
 currency: EUR
 price: 35.67

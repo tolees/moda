@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S1VZJFK-es BOSS Wetech Sudadera Azul Dark Blue 404 X-Large para Hombre'
 sku: 'B07S1VZJFK-es'
+tags: [ 'sudadera', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

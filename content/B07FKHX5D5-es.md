@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FKHX5D5-es Nike M NSW tee Icon Futura Camiseta de Manga Corta Hombre...'
 sku: 'B07FKHX5D5-es'
+tags: [ 'camiseta', ]
 actualPrice: 15.9 EUR
 currency: EUR
 price: 15.9

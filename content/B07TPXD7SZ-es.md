@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TPXD7SZ-es HAWKERS · ONE LS · Rubber Black · Sky · Gafas de sol para...'
 sku: 'B07TPXD7SZ-es'
+tags: [ 'gafas', ]
 actualPrice: 27.29 EUR
 currency: EUR
 price: 27.29

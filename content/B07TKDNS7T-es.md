@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TKDNS7T-es Levi s Sunset 1 Pkt Slim Camisa Negro Antonio Mineral...'
 sku: 'B07TKDNS7T-es'
+tags: [ 'camisa', ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

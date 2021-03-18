@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KPR77W4-es REPLAY Anbass Vaqueros Slim Azul Medium Blue 9 W28/L30...'
 sku: 'B07KPR77W4-es'
+tags: [ 'vaqueros', ]
 actualPrice: 17.08 EUR
 currency: EUR
 price: 17.08

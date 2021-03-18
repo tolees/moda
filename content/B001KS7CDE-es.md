@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001KS7CDE-es CATWALK COLLECTION - BELLSTONE - Bolso al hombro estilo...'
 sku: 'B001KS7CDE-es'
+tags: [ 'bolso', ]
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006SWCLTW-es Helly Hansen W Seven J Chaqueta Mujer Negro L'
 sku: 'B006SWCLTW-es'
+tags: [ 'chaqueta', ]
 actualPrice: 79.94 EUR
 currency: EUR
 price: 79.94

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YBJ26JB-es Vans Left Chest Logo tee Camiseta Rojo Port Royale/Whi K1o...'
 sku: 'B07YBJ26JB-es'
+tags: [ 'camiseta', ]
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

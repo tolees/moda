@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073BFDYSD-es BaronHong Gynecomastia compresión Camisa Chaleco para...'
 sku: 'B073BFDYSD-es'
+tags: [ 'camisa','chaleco', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

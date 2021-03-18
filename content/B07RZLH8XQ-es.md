@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RZLH8XQ-es Levi s Selma Dress Vestido Azul Going Steady 2 0000 Medium...'
 sku: 'B07RZLH8XQ-es'
+tags: [ 'vestido', ]
 actualPrice: 53.26 EUR
 currency: EUR
 price: 53.26

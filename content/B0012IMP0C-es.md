@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0012IMP0C-es Timberland Classic 2 Eye Náuticos para Hombre Marrón MD...'
 sku: 'B0012IMP0C-es'
+tags: [ 'timberland', ]
 actualPrice: 99.74 EUR
 currency: EUR
 price: 99.74

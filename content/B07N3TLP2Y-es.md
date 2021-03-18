@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N3TLP2Y-es Desigual Dress Valentina Vestido Rojo Merlot 3215 48 Talla...'
 sku: 'B07N3TLP2Y-es'
+tags: [ 'vestido', ]
 actualPrice: 67.2 EUR
 currency: EUR
 price: 67.2

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GILSFQ0-es Calvin Klein 2PK Trunk Bóxer para Niños Multicolor...'
 sku: 'B01GILSFQ0-es'
+tags: [ 'bóxer', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VYNL53X-es Tommy Hilfiger TJM NYC Small Logo tee Camiseta Deporte...'
 sku: 'B07VYNL53X-es'
+tags: [ 'camiseta', ]
 actualPrice: 9.61 EUR
 currency: EUR
 price: 9.61

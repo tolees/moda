@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N8HQ3K9-es Desigual Dress Uvas Vestido Azul Navy 5000 152 cm para Niñas'
 sku: 'B07N8HQ3K9-es'
+tags: [ 'vestido', ]
 actualPrice: 32.43 EUR
 currency: EUR
 price: 32.43

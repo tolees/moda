@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFZ822W-es Geox J INEK Boy C Zapatillas para Niños Negro Black/Orange...'
 sku: 'B07LFZ822W-es'
+tags: [ 'geox', ]
 actualPrice: 45.5 EUR
 currency: EUR
 price: 45.5

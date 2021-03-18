@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089SB3MPK-es DYKHMILY Zapatillas de Seguridad Hombre Zapatos de...'
 sku: 'B089SB3MPK-es'
+tags: [ 'zapatos', ]
 actualPrice: 28.04 EUR
 currency: EUR
 price: 28.04

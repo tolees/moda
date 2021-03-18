@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M8B6K8M-es Wrangler Jacksville Vaqueros Corte de Bota Azul Black...'
 sku: 'B07M8B6K8M-es'
+tags: [ 'vaqueros', ]
 actualPrice: 42.48 EUR
 currency: EUR
 price: 42.48

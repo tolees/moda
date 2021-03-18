@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076DGSY1K-es Pepe Jeans Taylor PL900443 Falda Azul Dark Tru BLU Ce3...'
 sku: 'B076DGSY1K-es'
+tags: [ 'falda', ]
 actualPrice: 20.48 EUR
 currency: EUR
 price: 20.48

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079SMC3F8-es Desigual Nisa TS Camiseta Gris Vigore Claro 2042 L para Mujer'
 sku: 'B079SMC3F8-es'
+tags: [ 'camiseta', ]
 actualPrice: 37.46 EUR
 currency: EUR
 price: 37.46

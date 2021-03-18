@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FM5CLWS-es Ogeenier Hombre Deporte Camiseta sin Mangas de Secado...'
 sku: 'B07FM5CLWS-es'
+tags: [ 'camiseta', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

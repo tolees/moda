@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081H3BV5J-es BT Bear Abrigo para Perros cálido Ropa de Invierno para...'
 sku: 'B081H3BV5J-es'
+tags: [ 'abrigo', ]
 actualPrice: 13.81 EUR
 currency: EUR
 price: 13.81

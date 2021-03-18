@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0776W3KLD-es Adidas Terrex Swift R2 Zapatos de Low Rise Senderismo para...'
 sku: 'B0776W3KLD-es'
+tags: [ 'zapatos', ]
 actualPrice: 81.99 EUR
 currency: EUR
 price: 81.99

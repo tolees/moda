@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HWQK76X-es Lacoste Ch9623 Camisa Azul Noir Phoenix/Lagon Nsv Medium...'
 sku: 'B07HWQK76X-es'
+tags: [ 'camisa', ]
 actualPrice: 70.37 EUR
 currency: EUR
 price: 70.37

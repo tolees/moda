@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005XJQ4NK-es Eastpak Rusher Bolso bandolera 23 cm Negro Black'
 sku: 'B005XJQ4NK-es'
+tags: [ 'bolso', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

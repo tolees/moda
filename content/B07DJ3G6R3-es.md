@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DJ3G6R3-es Geox Snake M L Zapatillas para Hombre Azul Navy C4002 41 EU'
 sku: 'B07DJ3G6R3-es'
+tags: [ 'geox', ]
 actualPrice: 58.83 EUR
 currency: EUR
 price: 58.83

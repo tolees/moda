@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081CN3D4C-es Geographical Norway Parka Mujer BOOMERA Ass B Rosa...'
 sku: 'B081CN3D4C-es'
+tags: [ 'parka', ]
 actualPrice: 79.2 EUR
 currency: EUR
 price: 79.2

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SQGW2JL-es Geox D Nebula B Zapatillas sin Cordones para Mujer Negro...'
 sku: 'B07SQGW2JL-es'
+tags: [ 'geox', ]
 actualPrice: 42.82 EUR
 currency: EUR
 price: 42.82

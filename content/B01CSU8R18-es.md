@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CSU8R18-es Joma 900038.800 - Camiseta para Mujer Color Naranja Talla L'
 sku: 'B01CSU8R18-es'
+tags: [ 'camiseta', ]
 actualPrice: 4.76 EUR
 currency: EUR
 price: 4.76

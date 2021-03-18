@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D84NKVV-es Dickies Belspring Chaqueta Marrón Small Talla del...'
 sku: 'B07D84NKVV-es'
+tags: [ 'chaqueta', ]
 actualPrice: 25.26 EUR
 currency: EUR
 price: 25.26

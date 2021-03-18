@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00RDBIR18-es adidas ESS 3S Chelsea - Pantalón corto para hombre color...'
 sku: 'B00RDBIR18-es'
+tags: [ 'pantalón', ]
 actualPrice: 17.51 EUR
 currency: EUR
 price: 17.51

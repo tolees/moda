@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B45SCWM-es SELECTED HOMME Slhregsel-Pelle Shirt LS B Noos Camisa Azul...'
 sku: 'B07B45SCWM-es'
+tags: [ 'camisa', ]
 actualPrice: 24.5 EUR
 currency: EUR
 price: 24.5

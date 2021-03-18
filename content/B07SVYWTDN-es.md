@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SVYWTDN-es Quiksilver Molokai Nubuck II Zapatos de Playa y Piscina...'
 sku: 'B07SVYWTDN-es'
+tags: [ 'zapatos', ]
 actualPrice: 9.3 EUR
 currency: EUR
 price: 9.3

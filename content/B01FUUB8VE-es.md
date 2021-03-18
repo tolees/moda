@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FUUB8VE-es G-STAR RAW Lynn Mid Waist Skinny Vaqueros Cobler Smash...'
 sku: 'B01FUUB8VE-es'
+tags: [ 'vaqueros', ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

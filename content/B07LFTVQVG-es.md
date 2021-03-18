@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFTVQVG-es Geox J INEK Boy C Zapatillas Altas para Niños Azul...'
 sku: 'B07LFTVQVG-es'
+tags: [ 'geox', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

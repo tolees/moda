@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NY3Q1PH-es Superdry Falcon Rookie Parka Beige Camel 94m 40 Talla del...'
 sku: 'B07NY3Q1PH-es'
+tags: [ 'parka', ]
 actualPrice: 66.99 EUR
 currency: EUR
 price: 66.99

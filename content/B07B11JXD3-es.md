@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B11JXD3-es Marca Amazon - find. Vestido de Flores por Media Pierna...'
 sku: 'B07B11JXD3-es'
+tags: [ '-','find.','vestido', ]
 actualPrice: 12.15 EUR
 currency: EUR
 price: 12.15

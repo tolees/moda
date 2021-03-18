@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R3TDDXS-es Wrangler LS 2pkt Flap Shirt Camisa Multicolor Black 100...'
 sku: 'B07R3TDDXS-es'
+tags: [ 'camisa', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

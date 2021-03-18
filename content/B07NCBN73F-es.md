@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NCBN73F-es Pepe Jeans New Brooke Vaqueros Straight Azul Dark Used...'
 sku: 'B07NCBN73F-es'
+tags: [ 'vaqueros', ]
 actualPrice: 55.9 EUR
 currency: EUR
 price: 55.9

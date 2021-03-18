@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BDGMY13-es CHENMA Hombre Naruto Kakashi Chaqueta de bombardero con...'
 sku: 'B07BDGMY13-es'
+tags: [ 'chaqueta', ]
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

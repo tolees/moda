@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KGM8MHT-es BOSS Prime Camiseta Verde Open Green 346 XX-Large para Hombre'
 sku: 'B07KGM8MHT-es'
+tags: [ 'camiseta', ]
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

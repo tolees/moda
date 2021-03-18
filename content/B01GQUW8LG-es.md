@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GQUW8LG-es The North Face Venture 2 Chaqueta Mujer Negro TNF Black S'
 sku: 'B01GQUW8LG-es'
+tags: [ 'chaqueta', ]
 actualPrice: 79.7 EUR
 currency: EUR
 price: 79.7

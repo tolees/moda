@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K71CSRH-es Levi s Bobbi Tank Camiseta Deportiva de Tirantes Blanco...'
 sku: 'B07K71CSRH-es'
+tags: [ 'camiseta', ]
 actualPrice: 11.7 EUR
 currency: EUR
 price: 11.7

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KR9ZZJR-es Under Armour UA Streaker 2.0 Half Zip Sudadera Mujer Negro...'
 sku: 'B07KR9ZZJR-es'
+tags: [ 'sudadera', ]
 actualPrice: 26.09 EUR
 currency: EUR
 price: 26.09

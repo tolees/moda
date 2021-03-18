@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NPDF78S-es Mocasines de Cuero Mujer Casual Zapatos de Conducción Moda...'
 sku: 'B07NPDF78S-es'
+tags: [ 'moda','zapatos', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

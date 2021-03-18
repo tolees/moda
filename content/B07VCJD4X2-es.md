@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VCJD4X2-es Desigual Chaq villena Abrigo Azul Jeans Claro 5007 46...'
 sku: 'B07VCJD4X2-es'
+tags: [ 'abrigo', ]
 actualPrice: 56.9 EUR
 currency: EUR
 price: 56.9

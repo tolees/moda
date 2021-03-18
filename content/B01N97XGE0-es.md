@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N97XGE0-es Nike Kawa Shower Chanclas Hombre Negro Black/White 42.5 EU'
 sku: 'B01N97XGE0-es'
+tags: [ 'chanclas', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

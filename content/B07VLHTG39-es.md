@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VLHTG39-es Calvin Klein Braguita de Bikini Blanco White 100 Talla del...'
 sku: 'B07VLHTG39-es'
+tags: [ 'bikini', ]
 actualPrice: 11.75 EUR
 currency: EUR
 price: 11.75

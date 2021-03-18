@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N4LH5XK-es Puma Cross The Line Singlet Camiseta De Tirantes Hombre...'
 sku: 'B01N4LH5XK-es'
+tags: [ 'camiseta', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

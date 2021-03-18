@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MK1QDYH-es Napapijri BAUNT FZH Sudadera Azul BLU Marine 176 L para...'
 sku: 'B07MK1QDYH-es'
+tags: [ 'sudadera', ]
 actualPrice: 94.5 EUR
 currency: EUR
 price: 94.5

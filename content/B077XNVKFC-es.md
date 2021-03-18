@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077XNVKFC-es Under Armour Woven Graphic Pantalón Corto Hombre Azul...'
 sku: 'B077XNVKFC-es'
+tags: [ 'pantalón', ]
 actualPrice: 16.82 EUR
 currency: EUR
 price: 16.82

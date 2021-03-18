@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082MFLWR1-es BAIGIO Embrague de la Tarde Bling Glitter Purse Triángulo...'
 sku: 'B082MFLWR1-es'
+tags: [ 'bolso','monedero', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

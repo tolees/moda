@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CPCT24H-es Crocs Serena Slide Women Sandalias de Punta Descubierta...'
 sku: 'B07CPCT24H-es'
+tags: [ 'sandalias', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

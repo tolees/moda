@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GEE4FDY-es Columbia Zero Rules Short Sleeve Shirt Camiseta de manga...'
 sku: 'B00GEE4FDY-es'
+tags: [ 'camiseta', ]
 actualPrice: 23.1 EUR
 currency: EUR
 price: 23.1

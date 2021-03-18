@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M83VZHW-es Napapijri Aerons Vest 2 Chaqueta Azul French Blue BB7 XL...'
 sku: 'B07M83VZHW-es'
+tags: [ 'chaqueta', ]
 actualPrice: 79.5 EUR
 currency: EUR
 price: 79.5

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DDMSCPM-es Odlo Suw Crew Neck Active Originals Camiseta Bebé-Niños...'
 sku: 'B07DDMSCPM-es'
+tags: [ 'camiseta', ]
 actualPrice: 13.29 EUR
 currency: EUR
 price: 13.29

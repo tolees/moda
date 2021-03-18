@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NDL68KC-es G-STAR RAW Whistler Slim Down Hooded Long Abrigo Negro Dk...'
 sku: 'B07NDL68KC-es'
+tags: [ 'abrigo', ]
 actualPrice: 109.95 EUR
 currency: EUR
 price: 109.95

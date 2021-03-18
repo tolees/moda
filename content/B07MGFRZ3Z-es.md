@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MGFRZ3Z-es Napapijri BIBU H Sudadera con Capucha Azul French Blue Bb7...'
 sku: 'B07MGFRZ3Z-es'
+tags: [ 'sudadera', ]
 actualPrice: 39.6 EUR
 currency: EUR
 price: 39.6

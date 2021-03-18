@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M79FLLH-es HKT by Hackett Hkt Teal Grey Mel Chk Camisa Multi 0aa...'
 sku: 'B07M79FLLH-es'
+tags: [ 'camisa', ]
 actualPrice: 13.65 EUR
 currency: EUR
 price: 13.65

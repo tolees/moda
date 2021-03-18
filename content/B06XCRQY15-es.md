@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XCRQY15-es Pepe Jeans Kingston Zip Vaqueros Regular para Hombre Azul...'
 sku: 'B06XCRQY15-es'
+tags: [ 'vaqueros', ]
 actualPrice: 40.94 EUR
 currency: EUR
 price: 40.94

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077BMLV4L-es adidas Core18 W Camiseta Polo Mujer Dark Blue/White 2XL'
 sku: 'B077BMLV4L-es'
+tags: [ 'camiseta', ]
 actualPrice: 16.49 EUR
 currency: EUR
 price: 16.49

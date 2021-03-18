@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DJ6HZ3R-es Lacoste Sol 119 1 Cuc Sandalias de Punta Descubierta...'
 sku: 'B07DJ6HZ3R-es'
+tags: [ 'sandalias', ]
 actualPrice: 19.97 EUR
 currency: EUR
 price: 19.97

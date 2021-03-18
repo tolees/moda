@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071P3T8YK-es The North Face T93BRK Chaqueta Parka Mujer TNF Black L'
 sku: 'B071P3T8YK-es'
+tags: [ 'chaqueta','parka', ]
 actualPrice: 145.79 EUR
 currency: EUR
 price: 145.79

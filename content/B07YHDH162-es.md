@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YHDH162-es NIKE Cv8964 - Bolso bandolera para mujer color...'
 sku: 'B07YHDH162-es'
+tags: [ 'bolso', ]
 actualPrice: 13.34 EUR
 currency: EUR
 price: 13.34

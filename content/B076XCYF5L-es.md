@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076XCYF5L-es Geox J Sveth A Zapatillas para Niños Azul Navy/Grey 25 EU'
 sku: 'B076XCYF5L-es'
+tags: [ 'geox', ]
 actualPrice: 19.56 EUR
 currency: EUR
 price: 19.56

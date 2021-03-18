@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NGZZ5ZD-es Real Betis - Temporada 2019/2020 - Kappa - Official Away...'
 sku: 'B07NGZZ5ZD-es'
+tags: [ 'jersey', ]
 actualPrice: 54.39 EUR
 currency: EUR
 price: 54.39

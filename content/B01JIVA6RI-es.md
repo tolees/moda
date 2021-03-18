@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01JIVA6RI-es Levi s 511 Slim Fit Vaqueros Azul Rock Cod 1786 28W / 30L...'
 sku: 'B01JIVA6RI-es'
+tags: [ 'vaqueros', ]
 actualPrice: 52.38 EUR
 currency: EUR
 price: 52.38

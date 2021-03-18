@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R3BYK1J-es adidas Real Madrid 2019/2020 Camiseta Hombre Blanco 1ª...'
 sku: 'B07R3BYK1J-es'
+tags: [ 'camiseta', ]
 actualPrice: 35.95 EUR
 currency: EUR
 price: 35.95

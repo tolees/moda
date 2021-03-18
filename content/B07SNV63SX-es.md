@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SNV63SX-es Levi s Orig Hm Vneck Camiseta Azul Dress Blues 0002...'
 sku: 'B07SNV63SX-es'
+tags: [ 'camiseta', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

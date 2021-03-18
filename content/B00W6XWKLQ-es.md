@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00W6XWKLQ-es GANT Regular Jeans Vaqueros Straight Marrón Desert Brown...'
 sku: 'B00W6XWKLQ-es'
+tags: [ 'vaqueros', ]
 actualPrice: 53.64 EUR
 currency: EUR
 price: 53.64

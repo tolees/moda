@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01ILPU9FQ-es Protest Update Chaqueta para Hombre Negro True Black 290 S'
 sku: 'B01ILPU9FQ-es'
+tags: [ 'chaqueta', ]
 actualPrice: 76.97 EUR
 currency: EUR
 price: 76.97

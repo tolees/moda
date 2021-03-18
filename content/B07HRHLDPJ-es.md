@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HRHLDPJ-es YuamMei 1 Par de Guantes de Protección Completos Guantes...'
 sku: 'B07HRHLDPJ-es'
+tags: [ 'guantes', ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

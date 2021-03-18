@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C8LXCBJ-es trueprodigy Casual Hombre Marca Camiseta con impresión...'
 sku: 'B07C8LXCBJ-es'
+tags: [ 'camiseta','moda', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

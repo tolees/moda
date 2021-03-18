@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YP19DHX-es SIMPLY BE Ladies Jersey Swing Dress Vestido Multicolor...'
 sku: 'B07YP19DHX-es'
+tags: [ 'jersey','vestido', ]
 actualPrice: 16.69 EUR
 currency: EUR
 price: 16.69

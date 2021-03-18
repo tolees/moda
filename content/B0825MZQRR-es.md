@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0825MZQRR-es Quiksilver Stone Cold Classic - Camiseta para Hombre...'
 sku: 'B0825MZQRR-es'
+tags: [ 'camiseta', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

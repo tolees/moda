@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V3SYDZ6-es TALED - Bolso bandolera de piel auténtica de 15 6 pulgadas...'
 sku: 'B07V3SYDZ6-es'
+tags: [ 'bolso', ]
 actualPrice: 127.95 EUR
 currency: EUR
 price: 127.95

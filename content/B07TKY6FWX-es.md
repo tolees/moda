@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TKY6FWX-es The North Face Zaneck Chaqueta Hombre Montague Blue M'
 sku: 'B07TKY6FWX-es'
+tags: [ 'chaqueta', ]
 actualPrice: 150.0 EUR
 currency: EUR
 price: 150.0

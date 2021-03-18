@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079PHXVLG-es Only Onlnicole S/s Mix Top Noos Camiseta Blanco Cloud...'
 sku: 'B079PHXVLG-es'
+tags: [ 'camiseta', ]
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MLHDBTK-es G-STAR RAW ARC 3D Low Waist Boyfriend Vaqueros Multicolor...'
 sku: 'B07MLHDBTK-es'
+tags: [ 'vaqueros', ]
 actualPrice: 17.06 EUR
 currency: EUR
 price: 17.06

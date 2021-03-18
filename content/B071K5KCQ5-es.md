@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071K5KCQ5-es Lee Logo tee Camiseta Blanco White Ai12 Medium para Hombre'
 sku: 'B071K5KCQ5-es'
+tags: [ 'camiseta', ]
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

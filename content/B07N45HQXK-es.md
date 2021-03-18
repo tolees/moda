@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N45HQXK-es United Colors of Benetton Basico 1 Man Abrigo Negro Negro...'
 sku: 'B07N45HQXK-es'
+tags: [ 'abrigo', ]
 actualPrice: 30.83 EUR
 currency: EUR
 price: 30.83

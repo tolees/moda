@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SQGPFGK-es Geox U Renan B Zapatillas para Hombre Gris Grey C1006 43 EU'
 sku: 'B07SQGPFGK-es'
+tags: [ 'geox', ]
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

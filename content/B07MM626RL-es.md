@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MM626RL-es Levi s Levis 200sf Sprtswr Logo Color Boxer Brief 2p...'
 sku: 'B07MM626RL-es'
+tags: [ 'boxer', ]
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

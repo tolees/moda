@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075MCQXZ1-es LEABAGS London Bolso Bandolera de auténtico Cuero búfalo...'
 sku: 'B075MCQXZ1-es'
+tags: [ 'bolso', ]
 actualPrice: 47.98 EUR
 currency: EUR
 price: 47.98

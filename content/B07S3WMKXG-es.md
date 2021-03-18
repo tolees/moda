@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S3WMKXG-es Levi s Housemark Graphic tee Camiseta Blanco Ssnl Hm Camo...'
 sku: 'B07S3WMKXG-es'
+tags: [ 'camiseta', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N4HSSRM-es Tommy Hilfiger Essential Hoodie Sweatdress Sudadera...'
 sku: 'B07N4HSSRM-es'
+tags: [ 'sudadera','vestido', ]
 actualPrice: 37.45 EUR
 currency: EUR
 price: 37.45

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SDHF69F-es Star Wars HS2123 Conjuntos de Pijama Azul Navy Navy 8 años...'
 sku: 'B07SDHF69F-es'
+tags: [ 'pijama', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

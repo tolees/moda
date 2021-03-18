@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079C8RPB3-es Jack & Jones Jjeplain tee SS V-Neck Noos Camiseta Blanco...'
 sku: 'B079C8RPB3-es'
+tags: [ 'camiseta', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

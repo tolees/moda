@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FMVK4V8-es Converse Converse EDC 22 Backpack 10007031-A06 Bolso...'
 sku: 'B07FMVK4V8-es'
+tags: [ 'bolso', ]
 actualPrice: 17.48 EUR
 currency: EUR
 price: 17.48

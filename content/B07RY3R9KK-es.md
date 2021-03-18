@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RY3R9KK-es BILLABONG Jackson Hood Sudadera Negro Black 19 One Size...'
 sku: 'B07RY3R9KK-es'
+tags: [ 'sudadera', ]
 actualPrice: 20.16 EUR
 currency: EUR
 price: 20.16

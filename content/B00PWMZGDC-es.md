@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PWMZGDC-es KRISP Vestido Moda Mujer Fruncido Azul Marino 6487 42...'
 sku: 'B00PWMZGDC-es'
+tags: [ 'moda','vestido', ]
 actualPrice: 16.49 EUR
 currency: EUR
 price: 16.49

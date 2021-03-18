@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084SVBJYY-es Sanita Izabella - Zuecos de piel para mujer color Turquesa...'
 sku: 'B084SVBJYY-es'
+tags: [ 'zuecos', ]
 actualPrice: 51.92 EUR
 currency: EUR
 price: 51.92

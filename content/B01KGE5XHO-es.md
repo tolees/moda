@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KGE5XHO-es Goodthreads Slim-Fit Long-Sleeve Solid Oxford Shirt Camisa...'
 sku: 'B01KGE5XHO-es'
+tags: [ 'camisa','goodthreads', ]
 actualPrice: 8.93 EUR
 currency: EUR
 price: 8.93

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XL89F5K-es Geographical Norway Parka Hombre BOKER Azul Marino M'
 sku: 'B07XL89F5K-es'
+tags: [ 'parka', ]
 actualPrice: 69.3 EUR
 currency: EUR
 price: 69.3

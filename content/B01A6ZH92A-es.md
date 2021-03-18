@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01A6ZH92A-es Columbia Cascade Explorer Pantalón Convertible Hombre Gris...'
 sku: 'B01A6ZH92A-es'
+tags: [ 'pantalón', ]
 actualPrice: 27.45 EUR
 currency: EUR
 price: 27.45

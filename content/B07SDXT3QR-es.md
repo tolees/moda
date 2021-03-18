@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SDXT3QR-es Vans WM Thanks Coach Attendance Jacket Chaqueta Verde...'
 sku: 'B07SDXT3QR-es'
+tags: [ 'chaqueta', ]
 actualPrice: 11.83 EUR
 currency: EUR
 price: 11.83

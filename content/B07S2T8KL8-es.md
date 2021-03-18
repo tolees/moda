@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S2T8KL8-es Antony Morato Felpa Girocollo Basic con Placchetta...'
 sku: 'B07S2T8KL8-es'
+tags: [ 'sudadera', ]
 actualPrice: 19.2 EUR
 currency: EUR
 price: 19.2

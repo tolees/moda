@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TZAE6GU-es uhlsport Stream 3.0 Ml Camiseta De Juego Manga Larga...'
 sku: 'B00TZAE6GU-es'
+tags: [ 'camiseta', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

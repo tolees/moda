@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B8SPXVR-es Calvin Klein Hip Brief Bóxer Negro Black 001 Medium para...'
 sku: 'B07B8SPXVR-es'
+tags: [ 'bóxer', ]
 actualPrice: 16.0 EUR
 currency: EUR
 price: 16.0

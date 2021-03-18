@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S4K94ZX-es edc by Esprit 089cc1f022 Blusa Rojo Dark Red 610 Small...'
 sku: 'B07S4K94ZX-es'
+tags: [ 'blusa', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

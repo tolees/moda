@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DP73YF5-es Eastpak The One Bolso bandolera 21 cm 2.5 L Azul Triple Denim'
 sku: 'B07DP73YF5-es'
+tags: [ 'bolso', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0772ZCRYM-es Columbia Canyon Point Mid Zapatos impermeables de...'
 sku: 'B0772ZCRYM-es'
+tags: [ 'zapatos', ]
 actualPrice: 62.99 EUR
 currency: EUR
 price: 62.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SFK6MBT-es Kappa Kit Gara Home Bambino 2019/2020 Camiseta de Juego...'
 sku: 'B07SFK6MBT-es'
+tags: [ 'camiseta', ]
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

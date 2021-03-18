@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00UG4MVMA-es Charles Wilson Camiseta Polo Clásica Lisa Small Teal'
 sku: 'B00UG4MVMA-es'
+tags: [ 'camiseta', ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

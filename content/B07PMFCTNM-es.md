@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PMFCTNM-es El Ganso Urban INTERSEASON Camisa casual Azul Azul 0017...'
 sku: 'B07PMFCTNM-es'
+tags: [ 'camisa', ]
 actualPrice: 22.93 EUR
 currency: EUR
 price: 22.93

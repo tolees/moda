@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TKDNQ1L-es Levi s Graphic Crew B Sudadera Verde Needle Hm Needle...'
 sku: 'B07TKDNQ1L-es'
+tags: [ 'sudadera', ]
 actualPrice: 26.85 EUR
 currency: EUR
 price: 26.85

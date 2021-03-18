@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q3JQJ35-es Ferilinso Funda para Xiaomi Redmi S3/ Redmi 7 [[No Apto...'
 sku: 'B07Q3JQJ35-es'
+tags: [ 'moda', ]
 actualPrice: 7.01 EUR
 currency: EUR
 price: 7.01

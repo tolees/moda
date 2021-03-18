@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N3YBKM7-es Desigual Dress Briana Vestido Negro 2000 XL para Mujer'
 sku: 'B07N3YBKM7-es'
+tags: [ 'vestido', ]
 actualPrice: 53.99 EUR
 currency: EUR
 price: 53.99

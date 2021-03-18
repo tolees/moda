@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VLJ13HX-es Tommy Hilfiger Tjw Colored Linear Logo tee Camiseta...'
 sku: 'B07VLJ13HX-es'
+tags: [ 'camiseta', ]
 actualPrice: 19.15 EUR
 currency: EUR
 price: 19.15

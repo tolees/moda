@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JGSPXZD-es Pepe Jeans Marge Sport Vaqueros Regular Azul 8oz Rigid Med...'
 sku: 'B07JGSPXZD-es'
+tags: [ 'vaqueros', ]
 actualPrice: 30.24 EUR
 currency: EUR
 price: 30.24

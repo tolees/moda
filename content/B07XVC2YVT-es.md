@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XVC2YVT-es Geographical Norway Sudadera Mujer GYMCLASS B Azul Marino XL'
 sku: 'B07XVC2YVT-es'
+tags: [ 'sudadera', ]
 actualPrice: 27.3 EUR
 currency: EUR
 price: 27.3

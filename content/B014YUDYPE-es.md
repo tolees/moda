@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B014YUDYPE-es Pepe Jeans Soho Vaqueros 10Oz Rinse Plus 26W / 30L para Mujer'
 sku: 'B014YUDYPE-es'
+tags: [ 'vaqueros', ]
 actualPrice: 29.49 EUR
 currency: EUR
 price: 29.49

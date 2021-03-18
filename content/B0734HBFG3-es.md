@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0734HBFG3-es Lakerom Zapatos Mocasines para Hombres Zapatos sin...'
 sku: 'B0734HBFG3-es'
+tags: [ 'zapatos', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

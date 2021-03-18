@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BFSDPQL-es Prada 1AB0A7 Gafas de sol Black 55 para Mujer'
 sku: 'B07BFSDPQL-es'
+tags: [ 'gafas', ]
 actualPrice: 146.31 EUR
 currency: EUR
 price: 146.31

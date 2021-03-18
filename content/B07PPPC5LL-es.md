@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PPPC5LL-es MTNG Kanda Bolso bandolera para Mujer Marrón Pull...'
 sku: 'B07PPPC5LL-es'
+tags: [ 'bolso', ]
 actualPrice: 7.84 EUR
 currency: EUR
 price: 7.84

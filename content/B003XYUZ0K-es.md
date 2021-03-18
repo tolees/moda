@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003XYUZ0K-es Levi s 501 Original Fit Jeans Vaqueros Azul Sey 2367 31W /...'
 sku: 'B003XYUZ0K-es'
+tags: [ 'vaqueros', ]
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

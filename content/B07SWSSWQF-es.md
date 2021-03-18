@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SWSSWQF-es Geox B Waviness Boy A Zapatillas para Bebés Azul Navy/Sky...'
 sku: 'B07SWSSWQF-es'
+tags: [ 'geox', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

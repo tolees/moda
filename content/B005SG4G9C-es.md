@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005SG4G9C-es Batman Logo - Camiseta para Hombre Color Negro Talla M/M'
 sku: 'B005SG4G9C-es'
+tags: [ 'camiseta', ]
 actualPrice: 15.77 EUR
 currency: EUR
 price: 15.77

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C2NQD7P-es Reloj para Hombres Relojes Deportivo de Cuarzo analógico...'
 sku: 'B07C2NQD7P-es'
+tags: [ 'moda', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

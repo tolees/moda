@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TVJGF8N-es Superga 1908-puu Zapatos de Playa y Piscina Unisex Adulto...'
 sku: 'B07TVJGF8N-es'
+tags: [ 'zapatos', ]
 actualPrice: 16.48 EUR
 currency: EUR
 price: 16.48

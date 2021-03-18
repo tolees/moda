@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFZY5P6-es Geox D NYDAME C Zapatillas para Mujer Negro Black C9999 40 EU'
 sku: 'B07LFZY5P6-es'
+tags: [ 'geox', ]
 actualPrice: 90.43 EUR
 currency: EUR
 price: 90.43

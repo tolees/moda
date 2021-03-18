@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N195RQL-es Lee Crew Sws Sudadera para Hombre Negro Black TT01 X-Large'
 sku: 'B07N195RQL-es'
+tags: [ 'sudadera', ]
 actualPrice: 29.98 EUR
 currency: EUR
 price: 29.98

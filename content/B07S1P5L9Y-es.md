@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S1P5L9Y-es Levi s The Perfect Tee Camiseta Mujer Azul 90 s Serif T2...'
 sku: 'B07S1P5L9Y-es'
+tags: [ 'camiseta', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

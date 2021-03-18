@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G1F5HBW-es Superdry O L Vintage Embroidery L/s tee Camisa Manga Larga...'
 sku: 'B07G1F5HBW-es'
+tags: [ 'camisa', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06Y61S9JL-es Tommy Hilfiger Core Stretch Poplin Slim Shirt Camisa Azul...'
 sku: 'B06Y61S9JL-es'
+tags: [ 'camisa', ]
 actualPrice: 26.13 EUR
 currency: EUR
 price: 26.13

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0792PYNL7-es CooBELL Bolso portátil a Ordenadores portátiles de 15 6...'
 sku: 'B0792PYNL7-es'
+tags: [ 'bolso', ]
 actualPrice: 21.41 EUR
 currency: EUR
 price: 21.41

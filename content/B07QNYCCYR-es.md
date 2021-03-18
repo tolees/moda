@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QNYCCYR-es El Búho Nocturno Pijama de Caballero de Manga Corta y...'
 sku: 'B07QNYCCYR-es'
+tags: [ 'chaqueta','pijama', ]
 actualPrice: 33.95 EUR
 currency: EUR
 price: 33.95

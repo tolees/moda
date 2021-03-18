@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NPPWJFQ-es Teva W Terra Fi Lite Leather Sandalias de Punta...'
 sku: 'B00NPPWJFQ-es'
+tags: [ 'sandalias', ]
 actualPrice: 16.23 EUR
 currency: EUR
 price: 16.23

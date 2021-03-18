@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082HMWGZZ-es Guantes de Levantamiento de Pesas Guantes de Entrenamiento...'
 sku: 'B082HMWGZZ-es'
+tags: [ 'guantes', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

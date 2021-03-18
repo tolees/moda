@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00QEMRZM4-es Crocs Classic Clog Zuecos Unisex Adulto Azul Pool 40M...'
 sku: 'B00QEMRZM4-es'
+tags: [ 'zuecos', ]
 actualPrice: 23.39 EUR
 currency: EUR
 price: 23.39

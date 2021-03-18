@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SR4MKK3-es LOHOTEK Zapatillas Hombres Zapatos Deportivos para Hombres...'
 sku: 'B07SR4MKK3-es'
+tags: [ 'moda','zapatos', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

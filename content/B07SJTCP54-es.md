@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SJTCP54-es Levi s Orig Hm Vneck Camiseta Blanco White 0000 XX-Large...'
 sku: 'B07SJTCP54-es'
+tags: [ 'camiseta', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

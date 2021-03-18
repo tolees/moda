@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JX7LCWW-es Charles Wilson Camisa Lino Manga Corta para Hombre Small...'
 sku: 'B07JX7LCWW-es'
+tags: [ 'camisa', ]
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

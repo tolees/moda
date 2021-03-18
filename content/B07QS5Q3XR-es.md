@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QS5Q3XR-es Columbia 1420421 Chaqueta Forro Polar Hombre Rojo Red...'
 sku: 'B07QS5Q3XR-es'
+tags: [ 'chaqueta', ]
 actualPrice: 19.76 EUR
 currency: EUR
 price: 19.76

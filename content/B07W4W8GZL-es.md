@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W4W8GZL-es JACK JONES Jorexplore Parka Jacket STS Hombre Negro Black...'
 sku: 'B07W4W8GZL-es'
+tags: [ 'parka', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

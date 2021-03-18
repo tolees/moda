@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BGTV8QS-es G-STAR RAW Midge Saddle Mid Waist Straight Vaqueros Dk...'
 sku: 'B01BGTV8QS-es'
+tags: [ 'vaqueros', ]
 actualPrice: 38.93 EUR
 currency: EUR
 price: 38.93

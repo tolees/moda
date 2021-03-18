@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FH9MFLG-es Timberland Los Angeles Slingback Sandalias con Plataforma...'
 sku: 'B07FH9MFLG-es'
+tags: [ 'sandalias','timberland', ]
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

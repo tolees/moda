@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S5MMH8F-es BOSS Trunk 2p Gift Co Bóxer Rojo Bright Red 624 XX-Large...'
 sku: 'B07S5MMH8F-es'
+tags: [ 'bóxer', ]
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

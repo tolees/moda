@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079MRBMFS-es Marca Amazon - MERAKI Camiseta Slim Fit de Manga Corta con...'
 sku: 'B079MRBMFS-es'
+tags: [ 'camiseta','meraki', ]
 actualPrice: 8.31 EUR
 currency: EUR
 price: 8.31

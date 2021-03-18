@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CZCTCZR-es Under Armour Sportstyle Logo LS Camiseta Hombre Negro...'
 sku: 'B07CZCTCZR-es'
+tags: [ 'camiseta', ]
 actualPrice: 19.29 EUR
 currency: EUR
 price: 19.29

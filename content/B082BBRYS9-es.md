@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082BBRYS9-es Geographical Norway Parka Mujer DINASTY Negro 02'
 sku: 'B082BBRYS9-es'
+tags: [ 'parka', ]
 actualPrice: 95.2 EUR
 currency: EUR
 price: 95.2

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFZLTL6-es Geox Annytah Ms Mocasines para Mujer Negro Black C9997 37 EU'
 sku: 'B07LFZLTL6-es'
+tags: [ 'geox', ]
 actualPrice: 23.09 EUR
 currency: EUR
 price: 23.09

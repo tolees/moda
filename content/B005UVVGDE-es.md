@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005UVVGDE-es NIKE Benassi JDI Chanclas para Hombre Blanco White/Black...'
 sku: 'B005UVVGDE-es'
+tags: [ 'chanclas', ]
 actualPrice: 23.19 EUR
 currency: EUR
 price: 23.19

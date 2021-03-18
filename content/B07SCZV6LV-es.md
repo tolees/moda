@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SCZV6LV-es PUMA Cali WN S Zapatos Deportivos para Mujer Negro Black...'
 sku: 'B07SCZV6LV-es'
+tags: [ 'zapatos', ]
 actualPrice: 35.66 EUR
 currency: EUR
 price: 35.66

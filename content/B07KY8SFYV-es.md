@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KY8SFYV-es Eastpak Delegate + Bolso bandolera 39 cm 20 liters Azul...'
 sku: 'B07KY8SFYV-es'
+tags: [ 'bolso', ]
 actualPrice: 47.52 EUR
 currency: EUR
 price: 47.52

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FNNGXL8-es Jack & Jones Jjiglenn Jjfox Bl 820 Noos Vaqueros Slim Azul...'
 sku: 'B07FNNGXL8-es'
+tags: [ 'vaqueros', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

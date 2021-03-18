@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CL5LRRH-es Scotch & Soda Nos Ralston Vaqueros Straight Azul Beaten...'
 sku: 'B07CL5LRRH-es'
+tags: [ 'vaqueros', ]
 actualPrice: 34.33 EUR
 currency: EUR
 price: 34.33

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0194ODQ1M-es P.KU.VDSL® Mochilas tipo casual / Mochila Vintage de Lona...'
 sku: 'B0194ODQ1M-es'
+tags: [ 'bolso', ]
 actualPrice: 43.08 EUR
 currency: EUR
 price: 43.08

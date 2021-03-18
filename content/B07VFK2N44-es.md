@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VFK2N44-es Desigual TS Tropic Thoughts Camiseta Rojo Fresa Acid 3089...'
 sku: 'B07VFK2N44-es'
+tags: [ 'camiseta', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

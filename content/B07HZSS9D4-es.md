@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HZSS9D4-es find. Wide Band Mule Sandalias con Punta Abierta Negro...'
 sku: 'B07HZSS9D4-es'
+tags: [ 'sandalias', ]
 actualPrice: 5.27 EUR
 currency: EUR
 price: 5.27

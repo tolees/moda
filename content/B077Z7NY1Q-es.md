@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077Z7NY1Q-es HIKARO Sudadera con Print Hombre Azul Navy 50 Talla del...'
 sku: 'B077Z7NY1Q-es'
+tags: [ 'sudadera', ]
 actualPrice: 8.89 EUR
 currency: EUR
 price: 8.89

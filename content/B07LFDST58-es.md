@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFDST58-es Levi s Sunset 1 Pocket Shirt Camisa Multicolor Rushmeyer...'
 sku: 'B07LFDST58-es'
+tags: [ 'camisa', ]
 actualPrice: 48.3 EUR
 currency: EUR
 price: 48.3

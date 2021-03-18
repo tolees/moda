@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TR3DCPN-es Clarks Un Perri Way Sandalias de Talón Abierto para Mujer...'
 sku: 'B07TR3DCPN-es'
+tags: [ 'sandalias', ]
 actualPrice: 48.93 EUR
 currency: EUR
 price: 48.93

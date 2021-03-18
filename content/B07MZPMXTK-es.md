@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZPMXTK-es Pepe Jeans Dolly Blusa Multi 0aa X-Small para Mujer'
 sku: 'B07MZPMXTK-es'
+tags: [ 'blusa', ]
 actualPrice: 11.22 EUR
 currency: EUR
 price: 11.22

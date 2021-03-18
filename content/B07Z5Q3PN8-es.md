@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z5Q3PN8-es Jack & Jones Jcowiseman Sweat High Neck Ka Sudadera...'
 sku: 'B07Z5Q3PN8-es'
+tags: [ 'sudadera', ]
 actualPrice: 12.62 EUR
 currency: EUR
 price: 12.62

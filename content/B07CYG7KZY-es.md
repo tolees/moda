@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CYG7KZY-es Levi s Graphic Set-in Neck Camiseta para Hombre Blanco...'
 sku: 'B07CYG7KZY-es'
+tags: [ 'camiseta', ]
 actualPrice: 9.5 EUR
 currency: EUR
 price: 9.5

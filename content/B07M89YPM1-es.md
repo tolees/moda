@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M89YPM1-es Wrangler SS Logo tee Camiseta Blanco White 989 L para Hombre'
 sku: 'B07M89YPM1-es'
+tags: [ 'camiseta', ]
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

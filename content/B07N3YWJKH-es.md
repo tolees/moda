@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N3YWJKH-es Desigual Blouse Mila Blusa Rojo Rojo Oscuro 3029 S para Mujer'
 sku: 'B07N3YWJKH-es'
+tags: [ 'blusa', ]
 actualPrice: 20.89 EUR
 currency: EUR
 price: 20.89

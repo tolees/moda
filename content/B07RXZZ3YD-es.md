@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RXZZ3YD-es Esprit 999ee2b806 Vaqueros Slim Azul Blue Dark Wash 901...'
 sku: 'B07RXZZ3YD-es'
+tags: [ 'vaqueros', ]
 actualPrice: 35.04 EUR
 currency: EUR
 price: 35.04

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077XMZX7B-es Under Armour Charged Cotton Scramble Hombre Camisa Polo...'
 sku: 'B077XMZX7B-es'
+tags: [ 'camisa', ]
 actualPrice: 12.53 EUR
 currency: EUR
 price: 12.53

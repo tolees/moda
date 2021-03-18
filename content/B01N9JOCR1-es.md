@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N9JOCR1-es find. Falda Plisada de Encaje para Mujer Negro Black 46...'
 sku: 'B01N9JOCR1-es'
+tags: [ 'falda', ]
 actualPrice: 10.5 EUR
 currency: EUR
 price: 10.5

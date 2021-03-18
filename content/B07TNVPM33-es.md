@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TNVPM33-es Clarks Flex Sun Sandalias de Talón Abierto para Mujer...'
 sku: 'B07TNVPM33-es'
+tags: [ 'sandalias', ]
 actualPrice: 43.28 EUR
 currency: EUR
 price: 43.28

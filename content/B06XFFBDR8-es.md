@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XFFBDR8-es Vans Colorblock tee - Camiseta para Hombre Blanco...'
 sku: 'B06XFFBDR8-es'
+tags: [ 'camiseta', ]
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

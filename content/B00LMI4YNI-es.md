@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LMI4YNI-es Quiksilver MONKEY ABYSS M SNDL XKKC - sandalias abiertas...'
 sku: 'B00LMI4YNI-es'
+tags: [ 'sandalias', ]
 actualPrice: 7.96 EUR
 currency: EUR
 price: 7.96

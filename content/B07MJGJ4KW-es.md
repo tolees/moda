@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MJGJ4KW-es CMP Rigel Zapatos de Low Rise Senderismo Unisex Niños...'
 sku: 'B07MJGJ4KW-es'
+tags: [ 'zapatos', ]
 actualPrice: 17.24 EUR
 currency: EUR
 price: 17.24

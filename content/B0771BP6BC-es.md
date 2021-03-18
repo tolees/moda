@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0771BP6BC-es SHOBDW Invierno Mujeres Moda Informal más Gruesa Slim...'
 sku: 'B0771BP6BC-es'
+tags: [ 'abrigo','chaqueta','moda', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

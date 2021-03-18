@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L4ZR1JH-es Marco Tozzi 2-2-25311-33 Botines para Mujer Marrón...'
 sku: 'B07L4ZR1JH-es'
+tags: [ 'botines', ]
 actualPrice: 15.11 EUR
 currency: EUR
 price: 15.11

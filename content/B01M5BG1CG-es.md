@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M5BG1CG-es Skechers Sure Track Zapatos de trabajo para Mujer color...'
 sku: 'B01M5BG1CG-es'
+tags: [ 'zapatos', ]
 actualPrice: 50.2 EUR
 currency: EUR
 price: 50.2

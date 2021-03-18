@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088RCY81F-es Guantes Tácticos 1 PZ Guante Bicicleta Montaña Verano...'
 sku: 'B088RCY81F-es'
+tags: [ 'guantes', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

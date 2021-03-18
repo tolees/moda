@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089LJY2R6-es Zuecos Unisex Infantil Niños Niñas Clogs Verano Respirable...'
 sku: 'B089LJY2R6-es'
+tags: [ 'zapatos','zuecos', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

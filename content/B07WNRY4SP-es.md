@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WNRY4SP-es Skechers Sargo REYON Chanclas para Hombre Negro Negro Lona...'
 sku: 'B07WNRY4SP-es'
+tags: [ 'chanclas', ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

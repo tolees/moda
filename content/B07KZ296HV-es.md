@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KZ296HV-es Springfield 6BA Polo Basico Reg T5 Jersey Gama Verdes 21...'
 sku: 'B07KZ296HV-es'
+tags: [ 'jersey', ]
 actualPrice: 8.72 EUR
 currency: EUR
 price: 8.72

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VHW4HDW-es Desigual – Bols stardust Yangra Bolso de hombro para mujer...'
 sku: 'B07VHW4HDW-es'
+tags: [ 'bolso', ]
 actualPrice: 26.6 EUR
 currency: EUR
 price: 26.6

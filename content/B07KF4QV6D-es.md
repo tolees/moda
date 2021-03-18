@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KF4QV6D-es Levi s Type 3 Chaqueta Vaquera Azul Palmer Sherpa Trucker...'
 sku: 'B07KF4QV6D-es'
+tags: [ 'chaqueta', ]
 actualPrice: 62.95 EUR
 currency: EUR
 price: 62.95

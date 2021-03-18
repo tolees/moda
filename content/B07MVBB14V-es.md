@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MVBB14V-es Chanclas Flip Flop Playa y Piscina para Hombre 41 EU Paradise'
 sku: 'B07MVBB14V-es'
+tags: [ 'chanclas', ]
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NJ63PX5-es Springfield Long Sleeve with Pearls Camiseta Multicolor...'
 sku: 'B07NJ63PX5-es'
+tags: [ 'camiseta', ]
 actualPrice: 4.54 EUR
 currency: EUR
 price: 4.54

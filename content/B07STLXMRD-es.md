@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07STLXMRD-es Geox D Airell A Zapatillas para Mujer Gris Lt Grey C1010...'
 sku: 'B07STLXMRD-es'
+tags: [ 'geox', ]
 actualPrice: 43.28 EUR
 currency: EUR
 price: 43.28

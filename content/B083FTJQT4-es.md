@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083FTJQT4-es MOBIUSPHY Pantalon Corto Hombre Deporte Pantalones Cortos...'
 sku: 'B083FTJQT4-es'
+tags: [ 'pantalón', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

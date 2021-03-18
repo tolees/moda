@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NJ2VKGB-es Springfield 2.T.Ciudades Lentejuelas Camiseta Azul Azul 17...'
 sku: 'B07NJ2VKGB-es'
+tags: [ 'camiseta', ]
 actualPrice: 4.97 EUR
 currency: EUR
 price: 4.97

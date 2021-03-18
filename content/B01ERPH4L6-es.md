@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01ERPH4L6-es Joma SHT.S0M01 - Falda de tenis para mujer color Coral...'
 sku: 'B01ERPH4L6-es'
+tags: [ 'falda', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

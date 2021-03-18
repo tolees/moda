@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NQQ6NPT-es Springfield 6Ba-Acolchada Cap Bas Chaqueta Negro Black 1...'
 sku: 'B07NQQ6NPT-es'
+tags: [ 'chaqueta', ]
 actualPrice: 23.13 EUR
 currency: EUR
 price: 23.13

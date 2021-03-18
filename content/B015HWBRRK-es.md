@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015HWBRRK-es Hollywood Star Fashion - Camiseta de Manga Larga con...'
 sku: 'B015HWBRRK-es'
+tags: [ 'camiseta', ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CN36JFM-es Crocs Santa Cruz Canvas Flip Men Zapatos de Playa y...'
 sku: 'B07CN36JFM-es'
+tags: [ 'zapatos', ]
 actualPrice: 7.89 EUR
 currency: EUR
 price: 7.89

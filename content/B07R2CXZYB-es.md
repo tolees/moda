@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R2CXZYB-es BaZhaHei Bolsos de Hombro Bolsos de Mujer Y Bolsos de...'
 sku: 'B07R2CXZYB-es'
+tags: [ 'bolso', ]
 actualPrice: 1.9 EUR
 currency: EUR
 price: 1.9

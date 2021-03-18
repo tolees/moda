@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D4FDPW7-es Skechers MELBO Journeyman 2 Sandalias con Punta Cerrada...'
 sku: 'B07D4FDPW7-es'
+tags: [ 'sandalias', ]
 actualPrice: 15.8 EUR
 currency: EUR
 price: 15.8

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D76R7TP-es Levi s Type 3 Sherpa Trucker Chaqueta Negro Black Cord...'
 sku: 'B07D76R7TP-es'
+tags: [ 'chaqueta', ]
 actualPrice: 54.44 EUR
 currency: EUR
 price: 54.44

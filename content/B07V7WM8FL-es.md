@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V7WM8FL-es Love Moschino Jc4256pp0a Bolso tipo tote para Mujer Rojo...'
 sku: 'B07V7WM8FL-es'
+tags: [ 'bolso', ]
 actualPrice: 64.81 EUR
 currency: EUR
 price: 64.81

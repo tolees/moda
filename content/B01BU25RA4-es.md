@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BU25RA4-es Kempa Peak Training Jersey de Entrenamiento Hombre Azul...'
 sku: 'B01BU25RA4-es'
+tags: [ 'jersey', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

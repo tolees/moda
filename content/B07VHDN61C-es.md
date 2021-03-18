@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VHDN61C-es Hackett London Amr Multi SS Camiseta Blanco 8aswhite/Blue...'
 sku: 'B07VHDN61C-es'
+tags: [ 'camiseta', ]
 actualPrice: 60.93 EUR
 currency: EUR
 price: 60.93

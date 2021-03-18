@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GUXK8F8-es Columbia Woodburn II Zapatilla Multideporte para Hombre...'
 sku: 'B00GUXK8F8-es'
+tags: [ 'zapatilla', ]
 actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99

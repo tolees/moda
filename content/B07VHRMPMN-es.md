@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VHRMPMN-es Esprit 099ee1g043 Abrigo Gris Anthracite 010 Small para Mujer'
 sku: 'B07VHRMPMN-es'
+tags: [ 'abrigo', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

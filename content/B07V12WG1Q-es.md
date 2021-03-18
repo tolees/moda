@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V12WG1Q-es Women s Secret Multilicense College MC DS Bunny PJ FR...'
 sku: 'B07V12WG1Q-es'
+tags: [ 'pijama', ]
 actualPrice: 19.63 EUR
 currency: EUR
 price: 19.63

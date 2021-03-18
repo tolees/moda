@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V12JYNN-es Women s Secret Glitter Multilicense VR All I Want PJ...'
 sku: 'B07V12JYNN-es'
+tags: [ 'pijama', ]
 actualPrice: 16.87 EUR
 currency: EUR
 price: 16.87

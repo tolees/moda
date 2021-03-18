@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L8WHBNG-es REPLAY M3846 .000.2660 Camiseta Verde Dark Green 839 Small...'
 sku: 'B07L8WHBNG-es'
+tags: [ 'camiseta', ]
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

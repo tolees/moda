@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MSZ5EDP-es s.Oliver 14704783465 Falda para Mujer negro black 9999 44'
 sku: 'B01MSZ5EDP-es'
+tags: [ 'falda', ]
 actualPrice: 12.6 EUR
 currency: EUR
 price: 12.6

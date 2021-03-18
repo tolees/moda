@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TY1GF12-es Women s Secret Mickey Vintage Mv DS Allover PJ FR...'
 sku: 'B07TY1GF12-es'
+tags: [ 'pijama', ]
 actualPrice: 18.13 EUR
 currency: EUR
 price: 18.13

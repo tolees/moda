@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L3GC7YC-es Tommy Hilfiger Iconic Elena Corporate Ribbon Sandalias con...'
 sku: 'B07L3GC7YC-es'
+tags: [ 'sandalias', ]
 actualPrice: 69.93 EUR
 currency: EUR
 price: 69.93

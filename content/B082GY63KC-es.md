@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082GY63KC-es Oihxse Cristal Case - Compatible con Samsung Galaxy A8S...'
 sku: 'B082GY63KC-es'
+tags: [ 'moda', ]
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006WJNMM6-es Timberland Classic 2 Eye Náuticos para Hombre Marrón Brown...'
 sku: 'B006WJNMM6-es'
+tags: [ 'timberland', ]
 actualPrice: 57.02 EUR
 currency: EUR
 price: 57.02

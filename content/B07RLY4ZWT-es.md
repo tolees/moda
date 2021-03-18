@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RLY4ZWT-es Tommy Hilfiger Extra Slim Layton Str Burke Blue Vaqueros...'
 sku: 'B07RLY4ZWT-es'
+tags: [ 'vaqueros', ]
 actualPrice: 49.0 EUR
 currency: EUR
 price: 49.0

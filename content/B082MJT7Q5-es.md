@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082MJT7Q5-es TIK TOK Camiseta Corta para Niñas Adolescentes Moda Verano...'
 sku: 'B082MJT7Q5-es'
+tags: [ 'camiseta','moda', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

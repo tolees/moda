@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089R8B5QG-es LJP Funda Samsung Galaxy A51 5G Suave PU Cuero Carcasa y...'
 sku: 'B089R8B5QG-es'
+tags: [ 'billetera', ]
 actualPrice: 7.59 EUR
 currency: EUR
 price: 7.59

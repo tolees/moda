@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SQR1WX6-es Quiksilver Molokai Tropical Flow Zapatos de Playa y...'
 sku: 'B07SQR1WX6-es'
+tags: [ 'zapatos', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

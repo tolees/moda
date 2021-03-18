@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TYHJKTL-es Levi s The tee Camiseta Blanco 90 s Serif T2 Multicolor...'
 sku: 'B07TYHJKTL-es'
+tags: [ 'camiseta', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

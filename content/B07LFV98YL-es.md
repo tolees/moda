@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFV98YL-es Geox D BIBBIANA A Zapatos de Tacón para Mujer Negro Black...'
 sku: 'B07LFV98YL-es'
+tags: [ 'geox','zapatos', ]
 actualPrice: 22.81 EUR
 currency: EUR
 price: 22.81

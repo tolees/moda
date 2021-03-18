@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PQNC75P-es El Ganso Casual 2 Abrigo Verde Verde 0012 X-Large para Hombre'
 sku: 'B07PQNC75P-es'
+tags: [ 'abrigo', ]
 actualPrice: 66.81 EUR
 currency: EUR
 price: 66.81

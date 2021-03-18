@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0777WGKLQ-es Julbo Whoops – Gafas de Sol para Mujer Color Berenjena...'
 sku: 'B0777WGKLQ-es'
+tags: [ 'gafas', ]
 actualPrice: 46.49 EUR
 currency: EUR
 price: 46.49

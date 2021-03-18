@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015OK4K1U-es PumaPurecat - Zapatos de playa y piscina adultos unisex...'
 sku: 'B015OK4K1U-es'
+tags: [ 'zapatos', ]
 actualPrice: 11.49 EUR
 currency: EUR
 price: 11.49

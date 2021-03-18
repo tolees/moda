@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RTGMR4B-es LARNMERN Zapatillas de Seguridad para Hombre Verano Ligero...'
 sku: 'B07RTGMR4B-es'
+tags: [ 'zapatilla','zapatos', ]
 actualPrice: 30 EUR
 currency: EUR
 price: 30

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086WW66XM-es Oihxse Billetera Cuero Funda Compatible con Samsung Galaxy...'
 sku: 'B086WW66XM-es'
+tags: [ 'billetera', ]
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

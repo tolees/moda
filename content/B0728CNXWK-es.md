@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0728CNXWK-es Crocs Classic Clog Zuecos Unisex Adulto Gris Slate Grey...'
 sku: 'B0728CNXWK-es'
+tags: [ 'zuecos', ]
 actualPrice: 23.59 EUR
 currency: EUR
 price: 23.59

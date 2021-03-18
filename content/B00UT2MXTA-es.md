@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00UT2MXTA-es Tommy Hilfiger Shorty Pantalones de Pijama Gris Grey...'
 sku: 'B00UT2MXTA-es'
+tags: [ 'pijama', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K6ZMQ2Z-es Herrlicher Touch Cropped Vaqueros Bliss 634 25W para Mujer'
 sku: 'B07K6ZMQ2Z-es'
+tags: [ 'vaqueros', ]
 actualPrice: 45.76 EUR
 currency: EUR
 price: 45.76

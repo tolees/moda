@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074WJF22Q-es Marca Amazon - MERAKI Chaqueta de Merino Hombre Cuello...'
 sku: 'B074WJF22Q-es'
+tags: [ 'chaqueta','meraki', ]
 actualPrice: 15.14 EUR
 currency: EUR
 price: 15.14

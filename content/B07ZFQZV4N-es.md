@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZFQZV4N-es NICE WIN Guantes Esqui Guantes Invierno Hombre Hombres y...'
 sku: 'B07ZFQZV4N-es'
+tags: [ 'guantes', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

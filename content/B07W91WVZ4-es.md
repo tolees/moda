@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W91WVZ4-es Tommy Hilfiger Abstract Stripe tee Camiseta Deporte Gris...'
 sku: 'B07W91WVZ4-es'
+tags: [ 'camiseta', ]
 actualPrice: 19.26 EUR
 currency: EUR
 price: 19.26

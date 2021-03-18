@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NBWFSQ1-es BOSS Boxer Brief 2p Solid Verde Open Green 342 Large Pack...'
 sku: 'B07NBWFSQ1-es'
+tags: [ 'boxer', ]
 actualPrice: 13.37 EUR
 currency: EUR
 price: 13.37

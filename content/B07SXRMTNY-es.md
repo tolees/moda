@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SXRMTNY-es Geox D Ottaya Sandal B Sandalias de Talón Abierto para...'
 sku: 'B07SXRMTNY-es'
+tags: [ 'geox','sandalias', ]
 actualPrice: 59.46 EUR
 currency: EUR
 price: 59.46

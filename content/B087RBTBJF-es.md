@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087RBTBJF-es ELEEMEE Mujer Moda Tacón Alto Verano Zapatos Tacón Pequeno...'
 sku: 'B087RBTBJF-es'
+tags: [ 'moda','sandalias','zapatos', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

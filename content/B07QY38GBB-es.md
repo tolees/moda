@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QY38GBB-es Under Armour Storm Full Zip Chaqueta Hombre Negro XL'
 sku: 'B07QY38GBB-es'
+tags: [ 'chaqueta', ]
 actualPrice: 52.48 EUR
 currency: EUR
 price: 52.48

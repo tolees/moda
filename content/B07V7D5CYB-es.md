@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V7D5CYB-es BOSS Teeonic Camiseta Negro Black 1 Small para Hombre'
 sku: 'B07V7D5CYB-es'
+tags: [ 'camiseta', ]
 actualPrice: 20.71 EUR
 currency: EUR
 price: 20.71

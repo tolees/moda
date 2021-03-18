@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MVLN3WN-es JACK & JONES Jcoviking tee SS Crew Neck Camiseta Blanco...'
 sku: 'B07MVLN3WN-es'
+tags: [ 'camiseta', ]
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

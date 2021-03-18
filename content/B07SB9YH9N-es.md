@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SB9YH9N-es Disney HS2090 Conjuntos de Pijama Rosa Pink Pink 3 años...'
 sku: 'B07SB9YH9N-es'
+tags: [ 'pijama', ]
 actualPrice: 10.9 EUR
 currency: EUR
 price: 10.9

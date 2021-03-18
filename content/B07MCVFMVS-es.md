@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MCVFMVS-es Gant The Reg BD Camisa Azul Lt Indigo 999 Large para Hombre'
 sku: 'B07MCVFMVS-es'
+tags: [ 'camisa', ]
 actualPrice: 55.95 EUR
 currency: EUR
 price: 55.95

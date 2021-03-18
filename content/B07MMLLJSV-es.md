@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MMLLJSV-es Napapijri Rainforest Winter 1 Chaqueta Orange Orangeade...'
 sku: 'B07MMLLJSV-es'
+tags: [ 'chaqueta', ]
 actualPrice: 58.15 EUR
 currency: EUR
 price: 58.15

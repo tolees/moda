@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JZQDZ3Y-es Lee Malone Vaqueros Blue Drop Em 29W / 30L para Hombre'
 sku: 'B07JZQDZ3Y-es'
+tags: [ 'vaqueros', ]
 actualPrice: 59.97 EUR
 currency: EUR
 price: 59.97

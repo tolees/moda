@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M5F4GT2-es Wrangler Sign Off Crew Sudadera Amarillo Mineral Yellow...'
 sku: 'B07M5F4GT2-es'
+tags: [ 'sudadera', ]
 actualPrice: 17.83 EUR
 currency: EUR
 price: 17.83

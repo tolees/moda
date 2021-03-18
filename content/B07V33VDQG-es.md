@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V33VDQG-es BOSS Boxer Brief 3p Co Multicolor Open Miscellaneous 963...'
 sku: 'B07V33VDQG-es'
+tags: [ 'boxer', ]
 actualPrice: 25.2 EUR
 currency: EUR
 price: 25.2

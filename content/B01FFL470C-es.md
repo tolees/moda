@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FFL470C-es Under Armour Heatgear Armour 2.0 Comp Shorts Pantalón...'
 sku: 'B01FFL470C-es'
+tags: [ 'pantalón', ]
 actualPrice: 17.39 EUR
 currency: EUR
 price: 17.39

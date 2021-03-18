@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MC12VPB-es Clarks Arla Free Zapatos de Cordones Derby para Hombre...'
 sku: 'B07MC12VPB-es'
+tags: [ 'zapatos', ]
 actualPrice: 47.9 EUR
 currency: EUR
 price: 47.9

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MDBJ5M1-es G-STAR RAW Revend Skinny Vaqueros Lt Indigo Aged 8968-8436...'
 sku: 'B07MDBJ5M1-es'
+tags: [ 'vaqueros', ]
 actualPrice: 59.97 EUR
 currency: EUR
 price: 59.97

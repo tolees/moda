@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FR3NNWP-es Camper 1913 Zapatos de cordones Oxford para Hombre Marrón...'
 sku: 'B07FR3NNWP-es'
+tags: [ 'zapatos', ]
 actualPrice: 69.3 EUR
 currency: EUR
 price: 69.3

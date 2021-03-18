@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GZNZP4P-es FANDARE Mochila Hombres Business Outdoor Viaje Rucksack...'
 sku: 'B07GZNZP4P-es'
+tags: [ 'bolso', ]
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

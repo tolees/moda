@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GLW9OCK-es Twins Jacke TEDDYBÄR Chaqueta Bebé unisex Morado lila 74'
 sku: 'B01GLW9OCK-es'
+tags: [ 'chaqueta', ]
 actualPrice: 4.19 EUR
 currency: EUR
 price: 4.19

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PY4IZZY-es KRISP 6488-NVY-08 Vestido Corto Fruncido Busto Azul Marino...'
 sku: 'B00PY4IZZY-es'
+tags: [ 'vestido', ]
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

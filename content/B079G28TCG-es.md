@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079G28TCG-es Under Armour Sportstyle Pantalones para Hombre de algodón...'
 sku: 'B079G28TCG-es'
+tags: [ 'pantalón', ]
 actualPrice: 19.59 EUR
 currency: EUR
 price: 19.59

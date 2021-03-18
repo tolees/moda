@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077XPJJ7N-es Under Armour Sportstyle Left Chest Camiseta de Manga Corta...'
 sku: 'B077XPJJ7N-es'
+tags: [ 'camiseta', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

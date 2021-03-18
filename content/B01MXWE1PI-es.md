@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MXWE1PI-es Timberland Adventure 2.0 Cupsole Zapatillas Altas para...'
 sku: 'B01MXWE1PI-es'
+tags: [ 'timberland', ]
 actualPrice: 64.95 EUR
 currency: EUR
 price: 64.95

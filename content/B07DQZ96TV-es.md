@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DQZ96TV-es adidas Varilite Soft J Chaqueta de Deporte Hombre Carbon XL'
 sku: 'B07DQZ96TV-es'
+tags: [ 'chaqueta', ]
 actualPrice: 78.99 EUR
 currency: EUR
 price: 78.99

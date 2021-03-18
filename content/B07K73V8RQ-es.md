@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K73V8RQ-es Levi s Graphic Top Camiseta Deportiva de Tirantes Blanco...'
 sku: 'B07K73V8RQ-es'
+tags: [ 'camiseta', ]
 actualPrice: 11.49 EUR
 currency: EUR
 price: 11.49

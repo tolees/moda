@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0721NJSP6-es Columbia Chaqueta Impermeable para Mujer Largo Medio...'
 sku: 'B0721NJSP6-es'
+tags: [ 'chaqueta', ]
 actualPrice: 104.99 EUR
 currency: EUR
 price: 104.99

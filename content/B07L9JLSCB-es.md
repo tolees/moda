@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L9JLSCB-es Under Armour Coldgear Reactor Performance 3g Hybrid...'
 sku: 'B07L9JLSCB-es'
+tags: [ 'chaqueta', ]
 actualPrice: 70.5 EUR
 currency: EUR
 price: 70.5

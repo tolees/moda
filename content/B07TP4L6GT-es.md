@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TP4L6GT-es Superdry Field Jacket Chaqueta Verde Utl Olive T8m M para...'
 sku: 'B07TP4L6GT-es'
+tags: [ 'chaqueta', ]
 actualPrice: 26.19 EUR
 currency: EUR
 price: 26.19

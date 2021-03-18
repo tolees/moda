@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DBJYH2I-es The North Face W Nimble Sudadera Mujer Negro Black L'
 sku: 'B01DBJYH2I-es'
+tags: [ 'sudadera', ]
 actualPrice: 54.61 EUR
 currency: EUR
 price: 54.61

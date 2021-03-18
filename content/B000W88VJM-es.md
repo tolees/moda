@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000W88VJM-es Havaianas Slim Chanclas Mujer Negro Black 0090 35/36 EU'
 sku: 'B000W88VJM-es'
+tags: [ 'chanclas', ]
 actualPrice: 16.2 EUR
 currency: EUR
 price: 16.2

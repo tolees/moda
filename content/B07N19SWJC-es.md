@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N19SWJC-es Lee Slim Button Down Camisa Azul Frost Blue XX-Large para...'
 sku: 'B07N19SWJC-es'
+tags: [ 'camisa', ]
 actualPrice: 14.48 EUR
 currency: EUR
 price: 14.48

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L99LHGC-es Under Armour Mk1 Printed Camisa Manga Corta Hombre Verde XL'
 sku: 'B07L99LHGC-es'
+tags: [ 'camisa', ]
 actualPrice: 22.69 EUR
 currency: EUR
 price: 22.69

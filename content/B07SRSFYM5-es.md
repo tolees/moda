@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SRSFYM5-es New Balance FC Porto Primera Equipación SS 2019-2020 Niño...'
 sku: 'B07SRSFYM5-es'
+tags: [ 'camiseta', ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

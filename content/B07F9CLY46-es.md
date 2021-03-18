@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F9CLY46-es Superdry Label Vntge Emb S/S tee Camiseta de Tirantes...'
 sku: 'B07F9CLY46-es'
+tags: [ 'camiseta', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

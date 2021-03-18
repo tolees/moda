@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X7YRK1G-es Camper Neuman K300170-008 Botines Hombre 43'
 sku: 'B07X7YRK1G-es'
+tags: [ 'botines', ]
 actualPrice: 115.0 EUR
 currency: EUR
 price: 115.0

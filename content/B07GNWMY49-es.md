@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GNWMY49-es Skechers On-The-Go 600-Flawless - Sandalias para Mujer...'
 sku: 'B07GNWMY49-es'
+tags: [ 'sandalias', ]
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

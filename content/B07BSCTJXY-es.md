@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BSCTJXY-es SALOMON Driver s Casco de esquí y Snowboard con Visor para...'
 sku: 'B07BSCTJXY-es'
+tags: [ 'gafas', ]
 actualPrice: 127.99 EUR
 currency: EUR
 price: 127.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L471YGK-es Amazon Brand - AURIQUE Leggings deportivos capri con...'
 sku: 'B07L471YGK-es'
+tags: [ 'aurique', ]
 actualPrice: 11.38 EUR
 currency: EUR
 price: 11.38

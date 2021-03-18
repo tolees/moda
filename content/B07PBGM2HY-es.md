@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PBGM2HY-es Marca Amazon - find. Vaqueros Rectos de Tiro Medio Mujer...'
 sku: 'B07PBGM2HY-es'
+tags: [ '-','find.','vaqueros', ]
 actualPrice: 6.74 EUR
 currency: EUR
 price: 6.74

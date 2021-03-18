@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DL7QZQQ-es Element Cornell Classic Ho Sudadera con Capucha Hombre...'
 sku: 'B07DL7QZQQ-es'
+tags: [ 'sudadera', ]
 actualPrice: 23.55 EUR
 currency: EUR
 price: 23.55

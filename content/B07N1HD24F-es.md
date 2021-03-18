@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1HD24F-es Clarks Calla Blossom Botines para Mujer Negro Black SDE...'
 sku: 'B07N1HD24F-es'
+tags: [ 'botines', ]
 actualPrice: 40.11 EUR
 currency: EUR
 price: 40.11

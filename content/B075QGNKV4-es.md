@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075QGNKV4-es MERAKI Vaqueros Skinny Hombre Azul Light Blue W30/L32'
 sku: 'B075QGNKV4-es'
+tags: [ 'meraki','vaqueros', ]
 actualPrice: 17.5 EUR
 currency: EUR
 price: 17.5

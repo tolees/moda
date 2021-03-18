@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PWN1NWY-es KRISP Vestido Moda Mujer Fruncido Granate 6487 38 6487-WIN-10'
 sku: 'B00PWN1NWY-es'
+tags: [ 'moda','vestido', ]
 actualPrice: 16.49 EUR
 currency: EUR
 price: 16.49

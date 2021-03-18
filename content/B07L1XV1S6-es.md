@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L1XV1S6-es Under Armour Rival Fleece Sportstyle Logo Sudadera Hombre...'
 sku: 'B07L1XV1S6-es'
+tags: [ 'sudadera', ]
 actualPrice: 26.49 EUR
 currency: EUR
 price: 26.49

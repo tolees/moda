@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N194PDV-es Lee Rider Shirt Camisa Hombre Negro Washed Black Ja Small'
 sku: 'B07N194PDV-es'
+tags: [ 'camisa', ]
 actualPrice: 28.64 EUR
 currency: EUR
 price: 28.64

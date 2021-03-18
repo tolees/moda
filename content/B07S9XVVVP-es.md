@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S9XVVVP-es FTIMILD - Chaqueta de Pana para Hombre con Cremallera...'
 sku: 'B07S9XVVVP-es'
+tags: [ 'chaqueta', ]
 actualPrice: 19.17 EUR
 currency: EUR
 price: 19.17

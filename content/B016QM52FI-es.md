@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016QM52FI-es Tommy Hilfiger Core Stretch Slim CNECK tee Camiseta Negro...'
 sku: 'B016QM52FI-es'
+tags: [ 'camiseta', ]
 actualPrice: 33.77 EUR
 currency: EUR
 price: 33.77

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VCQ67H3-es Auxo Mujer Pijama Vestido Interior Sexy Enaguas Enteras...'
 sku: 'B07VCQ67H3-es'
+tags: [ 'pijama','vestido', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

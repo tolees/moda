@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DV93MTP-es Spotted Zebra Boxer Brief Ropa interior camuflaje X-Small 4-5'
 sku: 'B07DV93MTP-es'
+tags: [ 'boxer', ]
 actualPrice: 14.25 EUR
 currency: EUR
 price: 14.25

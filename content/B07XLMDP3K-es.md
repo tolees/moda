@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XLMDP3K-es Jack & Jones JJICHRIS Jjoriginal CR 097 Vaqueros Relaxed...'
 sku: 'B07XLMDP3K-es'
+tags: [ 'vaqueros', ]
 actualPrice: 19.47 EUR
 currency: EUR
 price: 19.47

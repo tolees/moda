@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06VVJV5FH-es Momawo | Abrigo Polar de Porteo y Maternidad...'
 sku: 'B06VVJV5FH-es'
+tags: [ 'abrigo', ]
 actualPrice: 48.0 EUR
 currency: EUR
 price: 48.0

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0831QPF4M-es Canadian Peak Chaqueta DE Mujer AKATE Azul Marino 01'
 sku: 'B0831QPF4M-es'
+tags: [ 'chaqueta', ]
 actualPrice: 77.4 EUR
 currency: EUR
 price: 77.4

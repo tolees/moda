@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S1WB3RR-es Cressi Coral Shoes Zapatilla para Deportes Acuáticos...'
 sku: 'B07S1WB3RR-es'
+tags: [ 'zapatilla', ]
 actualPrice: 7.96 EUR
 currency: EUR
 price: 7.96

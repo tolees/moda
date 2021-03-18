@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V3DB96Q-es LTB Jeans Joshua Vaqueros Slim Ridley Wash 42W / 32L para...'
 sku: 'B07V3DB96Q-es'
+tags: [ 'vaqueros', ]
 actualPrice: 30.58 EUR
 currency: EUR
 price: 30.58

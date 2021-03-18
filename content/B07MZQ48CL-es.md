@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZQ48CL-es Pepe Jeans Finsbury Vaqueros Skinny Azul Medium Used Denim...'
 sku: 'B07MZQ48CL-es'
+tags: [ 'vaqueros', ]
 actualPrice: 56.49 EUR
 currency: EUR
 price: 56.49

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077BJ2JW5-es FIND Camiseta Ciclismo Hombre Negro Black/acid Lime 52...'
 sku: 'B077BJ2JW5-es'
+tags: [ 'camiseta', ]
 actualPrice: 12.37 EUR
 currency: EUR
 price: 12.37

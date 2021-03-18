@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BJD2KB8-es Just Cool - Camiseta lisa para hombre Primavera-Verano...'
 sku: 'B01BJD2KB8-es'
+tags: [ 'camiseta', ]
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

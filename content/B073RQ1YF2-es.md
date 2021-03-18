@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073RQ1YF2-es Helly Hansen W Crew Chaqueta Deportiva Mujer Negro Negro...'
 sku: 'B073RQ1YF2-es'
+tags: [ 'chaqueta', ]
 actualPrice: 61.12 EUR
 currency: EUR
 price: 61.12

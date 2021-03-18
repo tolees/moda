@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MLZTN95-es Chaleco de mujer con calefacción USB Chaqueta térmica de 5...'
 sku: 'B07MLZTN95-es'
+tags: [ 'chaleco','chaqueta', ]
 actualPrice: 26.29 EUR
 currency: EUR
 price: 26.29

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0162OFDJ0-es Columbia Midweight Stretch Half Zip Camiseta técnica con...'
 sku: 'B0162OFDJ0-es'
+tags: [ 'camiseta', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

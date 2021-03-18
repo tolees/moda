@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q9BQ63H-es Superdry Utility Field Edition L/s Shirt Camisa Verde Army...'
 sku: 'B07Q9BQ63H-es'
+tags: [ 'camisa', ]
 actualPrice: 13.06 EUR
 currency: EUR
 price: 13.06

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082NZ17XJ-es Oihxse Transparente Silicona Case Compatible con Huawei...'
 sku: 'B082NZ17XJ-es'
+tags: [ 'moda', ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

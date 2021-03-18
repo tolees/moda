@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MQVJ2ZH-es Napapijri Rainforest W WINT 3 Chaqueta Amarillo Yellow...'
 sku: 'B07MQVJ2ZH-es'
+tags: [ 'chaqueta', ]
 actualPrice: 84.49 EUR
 currency: EUR
 price: 84.49

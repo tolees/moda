@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082BBDLSK-es Geographical Norway Chaqueta Softshell Hombre Tyreek Negro L'
 sku: 'B082BBDLSK-es'
+tags: [ 'chaqueta', ]
 actualPrice: 79.2 EUR
 currency: EUR
 price: 79.2

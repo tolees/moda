@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PT3TTFC-es ITALY MORN Pantalón para Hombre Casual Chino Jogging...'
 sku: 'B07PT3TTFC-es'
+tags: [ 'pantalón', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

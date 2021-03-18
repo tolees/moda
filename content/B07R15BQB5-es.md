@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R15BQB5-es Wrangler SS Logo tee Camiseta Marrón Picante Brown X9h...'
 sku: 'B07R15BQB5-es'
+tags: [ 'camiseta', ]
 actualPrice: 15.58 EUR
 currency: EUR
 price: 15.58

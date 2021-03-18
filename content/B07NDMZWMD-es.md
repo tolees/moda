@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NDMZWMD-es G-STAR RAW Graphic 13 Round Neck Camiseta Multicolor Dk...'
 sku: 'B07NDMZWMD-es'
+tags: [ 'camiseta', ]
 actualPrice: 19.97 EUR
 currency: EUR
 price: 19.97

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077Y8FFZQ-es Sylvie Flirty Swimwear Bryana Braguita de Bikini para...'
 sku: 'B077Y8FFZQ-es'
+tags: [ 'bikini', ]
 actualPrice: 15.39 EUR
 currency: EUR
 price: 15.39

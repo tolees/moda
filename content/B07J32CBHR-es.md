@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J32CBHR-es Under Armour UA Streaker 2.0 Camiseta Hombre Gris Halo...'
 sku: 'B07J32CBHR-es'
+tags: [ 'camiseta', ]
 actualPrice: 15.72 EUR
 currency: EUR
 price: 15.72

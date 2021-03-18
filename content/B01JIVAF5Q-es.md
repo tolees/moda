@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01JIVAF5Q-es Levi s 510 Skinny Fit Vaqueros para Hombre Azul Broken Raw...'
 sku: 'B01JIVAF5Q-es'
+tags: [ 'vaqueros', ]
 actualPrice: 29.65 EUR
 currency: EUR
 price: 29.65

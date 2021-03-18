@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SWV1Z4T-es Geox D Jaysen A Zapatillas para Mujer Azul Blue C4000 39 EU'
 sku: 'B07SWV1Z4T-es'
+tags: [ 'geox', ]
 actualPrice: 46.16 EUR
 currency: EUR
 price: 46.16

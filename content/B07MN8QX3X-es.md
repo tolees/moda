@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MN8QX3X-es Napapijri Bolso Bandolera Negro Negro - N0YIY0'
 sku: 'B07MN8QX3X-es'
+tags: [ 'bolso', ]
 actualPrice: 31.15 EUR
 currency: EUR
 price: 31.15

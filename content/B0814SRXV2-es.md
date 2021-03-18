@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0814SRXV2-es Under Armour UA Tech P Pantalón de Entrenamiento Hombre...'
 sku: 'B0814SRXV2-es'
+tags: [ 'pantalón', ]
 actualPrice: 43.9 EUR
 currency: EUR
 price: 43.9

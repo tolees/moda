@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TXHXY74-es 6TN Hombre Nunca soñé Que sería un Viejo gruñón Pero aquí...'
 sku: 'B07TXHXY74-es'
+tags: [ 'camiseta', ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

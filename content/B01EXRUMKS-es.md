@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EXRUMKS-es Ray-Ban Hexagonal Flat Lenses Gafas de sol Oro Gold 51...'
 sku: 'B01EXRUMKS-es'
+tags: [ 'gafas', ]
 actualPrice: 93.0 EUR
 currency: EUR
 price: 93.0

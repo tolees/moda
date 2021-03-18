@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CZCD1ML-es Under Armour Raid Short Sleeve tee Camiseta Niños Negro...'
 sku: 'B07CZCD1ML-es'
+tags: [ 'camiseta', ]
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

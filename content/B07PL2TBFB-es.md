@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PL2TBFB-es XTI 49303 Botines para Mujer Negro 38 EU'
 sku: 'B07PL2TBFB-es'
+tags: [ 'botines', ]
 actualPrice: 9.32 EUR
 currency: EUR
 price: 9.32

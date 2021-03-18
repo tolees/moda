@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VNTV9W4-es Lee Daren Zip Fly Vaqueros Straight Verde Lichen Green 82...'
 sku: 'B07VNTV9W4-es'
+tags: [ 'vaqueros', ]
 actualPrice: 38.23 EUR
 currency: EUR
 price: 38.23

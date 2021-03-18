@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SNTWQ1Y-es Levi s Orig Hm Vneck Camiseta Blanco White 0000 Large para...'
 sku: 'B07SNTWQ1Y-es'
+tags: [ 'camiseta', ]
 actualPrice: 11.19 EUR
 currency: EUR
 price: 11.19

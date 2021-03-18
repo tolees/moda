@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XQ3J6NF-es Desigual TS_Leopard Degrade Camiseta Gris Gris Medio 2007...'
 sku: 'B06XQ3J6NF-es'
+tags: [ 'camiseta', ]
 actualPrice: 17.44 EUR
 currency: EUR
 price: 17.44

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082V59NKB-es Canadian Peak Parka'
 sku: 'B082V59NKB-es'
+tags: [ 'parka', ]
 actualPrice: 77.4 EUR
 currency: EUR
 price: 77.4

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N176BHY-es Lee Logo tee Camiseta para Hombre Rojo Warp Red Kg XX-Large'
 sku: 'B07N176BHY-es'
+tags: [ 'camiseta', ]
 actualPrice: 8.65 EUR
 currency: EUR
 price: 8.65

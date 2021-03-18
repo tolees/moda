@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W368ZHF-es Pepe Jeans Montana Camiseta Azul Old Navy 584 XX-Large...'
 sku: 'B07W368ZHF-es'
+tags: [ 'camiseta', ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CPIB1XK-es Superga 2750-Lamew S001820 - Zapatos de lona para mujer...'
 sku: 'B00CPIB1XK-es'
+tags: [ 'zapatos', ]
 actualPrice: 43.27 EUR
 currency: EUR
 price: 43.27

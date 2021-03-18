@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y5BHM4Z-es Geographical Norway Sudadera DE Hombre GYMCLASS B Blanco...'
 sku: 'B07Y5BHM4Z-es'
+tags: [ 'sudadera', ]
 actualPrice: 31.2 EUR
 currency: EUR
 price: 31.2

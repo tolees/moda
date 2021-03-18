@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DXP18FN-es Ocobudbxw Pulseras Coloridas Cuentas de Dados de acrílico...'
 sku: 'B08DXP18FN-es'
+tags: [ 'moda', ]
 actualPrice: 6.48 EUR
 currency: EUR
 price: 6.48

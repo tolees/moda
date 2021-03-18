@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01L6RVEO6-es Lee Rider Jeans Vaqueros Rinse 38W / 30L para Hombre'
 sku: 'B01L6RVEO6-es'
+tags: [ 'vaqueros', ]
 actualPrice: 30.34 EUR
 currency: EUR
 price: 30.34

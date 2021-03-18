@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QT7BY7T-es AOQUSSQOA Mujer Ropa de baño Monokin Traje de una Pieza...'
 sku: 'B07QT7BY7T-es'
+tags: [ 'bikini', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SRXWP23-es dockers Alpha 360 Button Up Camisa Casual Azul Pembroke...'
 sku: 'B07SRXWP23-es'
+tags: [ 'camisa', ]
 actualPrice: 13.3 EUR
 currency: EUR
 price: 13.3

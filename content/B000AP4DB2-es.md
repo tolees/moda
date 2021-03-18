@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000AP4DB2-es Reebok Classic Nylon Zapatilla de Running Hombre Azul Team...'
 sku: 'B000AP4DB2-es'
+tags: [ 'zapatilla', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

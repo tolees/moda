@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0743BNRP6-es Marca Amazon - TRUTH & FABLE Vestido Corto con Hombros al...'
 sku: 'B0743BNRP6-es'
+tags: [ 'vestido', ]
 actualPrice: 7.57 EUR
 currency: EUR
 price: 7.57

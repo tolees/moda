@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VC6ZQK6-es NJunicorn Uncle Borderlands Cosplay - Sudadera con capucha...'
 sku: 'B07VC6ZQK6-es'
+tags: [ 'sudadera', ]
 actualPrice: 28.42 EUR
 currency: EUR
 price: 28.42

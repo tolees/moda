@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071YYR2T7-es find. Camiseta para Mujer Anaranjado / Coralino Water...'
 sku: 'B071YYR2T7-es'
+tags: [ 'camiseta', ]
 actualPrice: 3.52 EUR
 currency: EUR
 price: 3.52

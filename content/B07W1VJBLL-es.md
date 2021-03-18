@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W1VJBLL-es Tommy Hilfiger TJM Pocket tee Camiseta Azul Faded Ink C0z...'
 sku: 'B07W1VJBLL-es'
+tags: [ 'camiseta', ]
 actualPrice: 12.97 EUR
 currency: EUR
 price: 12.97

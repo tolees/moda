@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N18BHS5-es G-STAR RAW 3301 Slim Vaqueros Antic Charcoal 35W / 30L...'
 sku: 'B07N18BHS5-es'
+tags: [ 'vaqueros', ]
 actualPrice: 40.71 EUR
 currency: EUR
 price: 40.71

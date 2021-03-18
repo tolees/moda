@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZMB1HB-es Pepe Jeans Freya Blusa Multicolor Multi 0aa X-Large para...'
 sku: 'B07MZMB1HB-es'
+tags: [ 'blusa', ]
 actualPrice: 41.94 EUR
 currency: EUR
 price: 41.94

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08C57S2GS-es Guantes de Invierno Calientes a Prueba del Viento Guantes...'
 sku: 'B08C57S2GS-es'
+tags: [ 'guantes', ]
 actualPrice: 13.98 EUR
 currency: EUR
 price: 13.98

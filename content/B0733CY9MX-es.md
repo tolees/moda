@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0733CY9MX-es Marca Amazon - find. Sudadera de Tacto Suave para Hombre...'
 sku: 'B0733CY9MX-es'
+tags: [ '-','find.','sudadera', ]
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

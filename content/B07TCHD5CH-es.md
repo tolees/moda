@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TCHD5CH-es Quiksilver Get Buzzy Hoody Men Sudadera con Capucha Hombre...'
 sku: 'B07TCHD5CH-es'
+tags: [ 'sudadera', ]
 actualPrice: 34.52 EUR
 currency: EUR
 price: 34.52

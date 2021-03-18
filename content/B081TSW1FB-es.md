@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081TSW1FB-es adidas Mono Jersey Pol T-Shirt Hombre Night Marine/White M'
 sku: 'B081TSW1FB-es'
+tags: [ 'jersey', ]
 actualPrice: 11.02 EUR
 currency: EUR
 price: 11.02

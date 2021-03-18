@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V3N36CX-es Tommy Hilfiger Sporty Corporate Beach Sandal Sandalias con...'
 sku: 'B07V3N36CX-es'
+tags: [ 'sandalias', ]
 actualPrice: 31.95 EUR
 currency: EUR
 price: 31.95

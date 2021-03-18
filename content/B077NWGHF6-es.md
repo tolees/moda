@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077NWGHF6-es Brax Style.Clarissa Camiseta de Manga Larga para Mujer...'
 sku: 'B077NWGHF6-es'
+tags: [ 'camiseta', ]
 actualPrice: 10.83 EUR
 currency: EUR
 price: 10.83

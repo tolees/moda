@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BHCQXYN-es Zeewoo Casual Mochila Bolso Aire Libre Ocio Mochila Bolsa...'
 sku: 'B07BHCQXYN-es'
+tags: [ 'bolso', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KSQC8S3-es Columbia Powder Pass Chaleco Hombre Negro Black Talla-S'
 sku: 'B07KSQC8S3-es'
+tags: [ 'chaleco', ]
 actualPrice: 48.49 EUR
 currency: EUR
 price: 48.49

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N6X6ZKB-es Tommy Hilfiger Corporate Elastic Chelsea Boot Botines para...'
 sku: 'B07N6X6ZKB-es'
+tags: [ 'botines', ]
 actualPrice: 62.36 EUR
 currency: EUR
 price: 62.36

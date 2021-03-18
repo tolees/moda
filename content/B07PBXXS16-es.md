@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PBXXS16-es Superdry La Athletic Ziphood Sudadera Verde Spruce Lej...'
 sku: 'B07PBXXS16-es'
+tags: [ 'sudadera', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XG64GJ8-es Marca Amazon - find. Camisa Hombre Azul Navy Polka M Label: M'
 sku: 'B06XG64GJ8-es'
+tags: [ '-','camisa','find.', ]
 actualPrice: 7.27 EUR
 currency: EUR
 price: 7.27

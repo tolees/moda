@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00L1RHULS-es Columbia Cascades Explorer Pantalón Largo Hombre Gris...'
 sku: 'B00L1RHULS-es'
+tags: [ 'pantalón', ]
 actualPrice: 14.57 EUR
 currency: EUR
 price: 14.57

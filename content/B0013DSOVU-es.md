@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0013DSOVU-es Timberland Classic 2 Eye Náuticos para Hombre Azul MD Blue...'
 sku: 'B0013DSOVU-es'
+tags: [ 'timberland', ]
 actualPrice: 87.45 EUR
 currency: EUR
 price: 87.45

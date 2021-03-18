@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JM77FLF-es Timberland Adventure 2.0 Cupsole Alpine Zapatillas Bajas...'
 sku: 'B07JM77FLF-es'
+tags: [ 'timberland', ]
 actualPrice: 31.32 EUR
 currency: EUR
 price: 31.32

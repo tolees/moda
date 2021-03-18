@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W4QKP4G-es BAIGIO Riñonera de Cuero Hombre Mujer de Moda Bolsa...'
 sku: 'B07W4QKP4G-es'
+tags: [ 'bolso','moda', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MK1QSZY-es Napapijri Aric Chaqueta Rojo Red Scarlet R01 M para Hombre'
 sku: 'B07MK1QSZY-es'
+tags: [ 'chaqueta', ]
 actualPrice: 122.15 EUR
 currency: EUR
 price: 122.15

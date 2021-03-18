@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073ZFGYM9-es Star Wars - Camiseta para niño BB8-11 - 12 Años'
 sku: 'B073ZFGYM9-es'
+tags: [ 'camiseta', ]
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

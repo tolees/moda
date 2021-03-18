@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RWMFXTV-es AiRunTech Cintura Fanny Pack Riñoneras Deportivas Cinturón...'
 sku: 'B07RWMFXTV-es'
+tags: [ 'bolso', ]
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MLSVJSH-es Clarks - Botines de Cuero Hombre Color Gris Talla 46 EU'
 sku: 'B07MLSVJSH-es'
+tags: [ 'botines', ]
 actualPrice: 30.84 EUR
 currency: EUR
 price: 30.84

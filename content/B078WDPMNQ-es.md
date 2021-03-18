@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078WDPMNQ-es Ultrasport Basic Braguita de bikini para mujer Skara Azul...'
 sku: 'B078WDPMNQ-es'
+tags: [ 'bikini', ]
 actualPrice: 5.33 EUR
 currency: EUR
 price: 5.33

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SM6DCW8-es Hpybest - Collar con colgante de silicona para morder y...'
 sku: 'B07SM6DCW8-es'
+tags: [ 'collar', ]
 actualPrice: 3.21 EUR
 currency: EUR
 price: 3.21

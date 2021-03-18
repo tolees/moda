@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TWXCF8K-es Women s Secret Sense 1 Se1 Ruffle PJ Conjuntos de Pijama...'
 sku: 'B07TWXCF8K-es'
+tags: [ 'pijama', ]
 actualPrice: 10.72 EUR
 currency: EUR
 price: 10.72

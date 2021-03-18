@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SC4JG83-es Levi s 724 High Rise Straight Vaqueros Azul London Bridge...'
 sku: 'B07SC4JG83-es'
+tags: [ 'vaqueros', ]
 actualPrice: 68.49 EUR
 currency: EUR
 price: 68.49

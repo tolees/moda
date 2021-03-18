@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZVQDKVV-es Levi s The tee Camiseta Logotipo de la Serie Sepia Rose M...'
 sku: 'B07ZVQDKVV-es'
+tags: [ 'camiseta', ]
 actualPrice: 16.49 EUR
 currency: EUR
 price: 16.49

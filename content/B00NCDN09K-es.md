@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NCDN09K-es La Camisa de Popelina de Camino de Mesa de poliéster de...'
 sku: 'B00NCDN09K-es'
+tags: [ 'camisa', ]
 actualPrice: 22.51 EUR
 currency: EUR
 price: 22.51

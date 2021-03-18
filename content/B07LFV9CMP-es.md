@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFV9CMP-es Geox J SPACECLUB Girl C Zapatillas para Niñas Grey/Pink...'
 sku: 'B07LFV9CMP-es'
+tags: [ 'geox', ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

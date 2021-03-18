@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D85L8VZ-es Dickies Belspring Chaqueta Marrón Medium Talla del...'
 sku: 'B07D85L8VZ-es'
+tags: [ 'chaqueta', ]
 actualPrice: 37.9 EUR
 currency: EUR
 price: 37.9

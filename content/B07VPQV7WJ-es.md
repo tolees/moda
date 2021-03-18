@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VPQV7WJ-es Calvin Klein 3pk Braguita de Bikini Negro...'
 sku: 'B07VPQV7WJ-es'
+tags: [ 'bikini', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

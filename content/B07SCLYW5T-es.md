@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SCLYW5T-es Lee Rider Jacket Chaqueta Vaquera Azul Cerulean EI Medium...'
 sku: 'B07SCLYW5T-es'
+tags: [ 'chaqueta', ]
 actualPrice: 54.98 EUR
 currency: EUR
 price: 54.98

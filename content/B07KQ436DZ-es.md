@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KQ436DZ-es Calvin Klein Core Monogram Logo Regular Fit tee Camiseta...'
 sku: 'B07KQ436DZ-es'
+tags: [ 'camiseta', ]
 actualPrice: 31.16 EUR
 currency: EUR
 price: 31.16

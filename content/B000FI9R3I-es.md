@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000FI9R3I-es Pierre Cardin P.C. 8443/S IR 807 Gafas de Sol Mujer Negro...'
 sku: 'B000FI9R3I-es'
+tags: [ 'gafas', ]
 actualPrice: 5.04 EUR
 currency: EUR
 price: 5.04

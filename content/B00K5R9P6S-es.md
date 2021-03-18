@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00K5R9P6S-es Tommy Hilfiger 3p Lr Trunk Bóxer Shorts para Hombre Azul...'
 sku: 'B00K5R9P6S-es'
+tags: [ 'bóxer', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

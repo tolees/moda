@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VZSBT1Q-es Tommy Hilfiger TJM Bold tee Camiseta Azul Twilight Navy...'
 sku: 'B07VZSBT1Q-es'
+tags: [ 'camiseta', ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

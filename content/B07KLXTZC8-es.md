@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KLXTZC8-es Bolso de Mujer Pequeña Bolso de Noche Hombro Billetera...'
 sku: 'B07KLXTZC8-es'
+tags: [ 'billetera','bolso', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

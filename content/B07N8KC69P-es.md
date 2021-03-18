@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N8KC69P-es BOSS Togn 1 Camiseta Azul Navy X-Large para Hombre'
 sku: 'B07N8KC69P-es'
+tags: [ 'camiseta', ]
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

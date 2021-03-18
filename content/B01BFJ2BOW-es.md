@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BFJ2BOW-es Charles Wilson Camiseta Polo con Solapa de Contraste Large...'
 sku: 'B01BFJ2BOW-es'
+tags: [ 'camiseta', ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

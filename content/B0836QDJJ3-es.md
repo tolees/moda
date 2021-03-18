@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0836QDJJ3-es Slipper Casual Flip Flop Sandal Zapatillas para Mujer...'
 sku: 'B0836QDJJ3-es'
+tags: [ 'zapatos', ]
 actualPrice: 9.77 EUR
 currency: EUR
 price: 9.77

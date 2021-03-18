@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DQCKCC8-es Khanomak de Mujeres Camiseta de Manga Corta de algodón con...'
 sku: 'B07DQCKCC8-es'
+tags: [ 'camiseta', ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

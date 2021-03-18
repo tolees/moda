@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DGR766S-es Timberland Davis Square Leather Chukka Botas Unisex-Niños...'
 sku: 'B07DGR766S-es'
+tags: [ 'timberland', ]
 actualPrice: 60.45 EUR
 currency: EUR
 price: 60.45

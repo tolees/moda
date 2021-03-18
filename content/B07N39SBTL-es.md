@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N39SBTL-es Desigual Coat Mandala Abrigo Negro 2000 46 Talla del...'
 sku: 'B07N39SBTL-es'
+tags: [ 'abrigo', ]
 actualPrice: 39.06 EUR
 currency: EUR
 price: 39.06

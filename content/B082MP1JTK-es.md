@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082MP1JTK-es Geographical Norway Chaqueta Mujer Abby Negro 02'
 sku: 'B082MP1JTK-es'
+tags: [ 'chaqueta', ]
 actualPrice: 99.9 EUR
 currency: EUR
 price: 99.9

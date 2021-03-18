@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K6ZV7Q8-es Levi s Ex-Boyfriend Trucker Chaqueta Vaquera Azul Soft Ash...'
 sku: 'B07K6ZV7Q8-es'
+tags: [ 'chaqueta', ]
 actualPrice: 83.03 EUR
 currency: EUR
 price: 83.03

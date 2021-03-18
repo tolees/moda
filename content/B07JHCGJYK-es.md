@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JHCGJYK-es Columbia REDMOND V2 Zapatos de senderismo impermeables...'
 sku: 'B07JHCGJYK-es'
+tags: [ 'zapatos', ]
 actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99

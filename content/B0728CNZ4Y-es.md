@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0728CNZ4Y-es Crocs Classic Clog Zuecos Unisex Adulto Rosa Ballerina...'
 sku: 'B0728CNZ4Y-es'
+tags: [ 'zuecos', ]
 actualPrice: 22.57 EUR
 currency: EUR
 price: 22.57

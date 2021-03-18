@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JMYPY6J-es UniqueBella Suit Esquí Térmica Ropa Interior Térmica Manga...'
 sku: 'B07JMYPY6J-es'
+tags: [ 'camiseta', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

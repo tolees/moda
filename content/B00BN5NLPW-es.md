@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BN5NLPW-es Pepe Jeans Original Stretch Camiseta Gris Grey Marl 933...'
 sku: 'B00BN5NLPW-es'
+tags: [ 'camiseta', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

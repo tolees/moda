@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NW6DHNZ-es Skechers Keepsakes 2.0 Botines Mujer Morado Mauve Suede...'
 sku: 'B07NW6DHNZ-es'
+tags: [ 'botines', ]
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z23STGQ-es Vans Spicoli 4 Shades Gafas de sol Negro Black/Charcoal...'
 sku: 'B07Z23STGQ-es'
+tags: [ 'gafas', ]
 actualPrice: 12.64 EUR
 currency: EUR
 price: 12.64

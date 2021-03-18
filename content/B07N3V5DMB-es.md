@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N3V5DMB-es Desigual T-Shirt Julieta Camiseta Rojo Oscuro 3029 XS para...'
 sku: 'B07N3V5DMB-es'
+tags: [ 'camiseta', ]
 actualPrice: 22.9 EUR
 currency: EUR
 price: 22.9

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SQQ12GM-es Geox D Genova Moc A Mocasines para Mujer Rosa Cyclamen...'
 sku: 'B07SQQ12GM-es'
+tags: [ 'geox', ]
 actualPrice: 29.47 EUR
 currency: EUR
 price: 29.47

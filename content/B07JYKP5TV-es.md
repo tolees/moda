@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JYKP5TV-es adidas Adilette W Zapatos de Playa y Piscina para Mujer...'
 sku: 'B07JYKP5TV-es'
+tags: [ 'zapatos', ]
 actualPrice: 35.27 EUR
 currency: EUR
 price: 35.27

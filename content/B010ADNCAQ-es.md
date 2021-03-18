@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B010ADNCAQ-es Crocs Classic Flip K Chanclas Unisex Niños Azul Navy 33/34 EU'
 sku: 'B010ADNCAQ-es'
+tags: [ 'chanclas', ]
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

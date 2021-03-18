@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N2BI3Z5-es Lacoste TH6709 Camiseta para Hombre Gris Argent Chine XL...'
 sku: 'B01N2BI3Z5-es'
+tags: [ 'camiseta', ]
 actualPrice: 30.49 EUR
 currency: EUR
 price: 30.49

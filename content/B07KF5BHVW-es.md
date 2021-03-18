@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KF5BHVW-es Levi s SS Set-in Sunset Pocket Camiseta Multicolor...'
 sku: 'B07KF5BHVW-es'
+tags: [ 'camiseta', ]
 actualPrice: 12.42 EUR
 currency: EUR
 price: 12.42

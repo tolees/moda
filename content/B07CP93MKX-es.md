@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CP93MKX-es Crocs Reviva Flip Chanclas Unisex Adulto Negro Black/Slate...'
 sku: 'B07CP93MKX-es'
+tags: [ 'chanclas', ]
 actualPrice: 27.27 EUR
 currency: EUR
 price: 27.27

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N4WW7X8-es Tommy Jeans Tjw Tommy Fairisle Sweater Sudadera Blanco...'
 sku: 'B07N4WW7X8-es'
+tags: [ 'sudadera', ]
 actualPrice: 64 EUR
 currency: EUR
 price: 64

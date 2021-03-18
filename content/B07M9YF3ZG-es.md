@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M9YF3ZG-es Lacoste Th8602 Camiseta Azul Marine 166 Small Talla del...'
 sku: 'B07M9YF3ZG-es'
+tags: [ 'camiseta', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

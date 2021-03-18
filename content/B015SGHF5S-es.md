@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015SGHF5S-es Havaianas You Metallic Sandalias para Mujer Plateado Steel...'
 sku: 'B015SGHF5S-es'
+tags: [ 'sandalias', ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

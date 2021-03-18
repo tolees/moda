@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0751KQ7VJ-es Vero Moda Vmhot SOYA LS Jacket Mix Noos Chaqueta Vaquera...'
 sku: 'B0751KQ7VJ-es'
+tags: [ 'chaqueta','moda', ]
 actualPrice: 21.26 EUR
 currency: EUR
 price: 21.26

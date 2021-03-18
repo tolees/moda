@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L11RPCF-es Under Armour Woven Graphic Short Pantalón Corto Hombre...'
 sku: 'B07L11RPCF-es'
+tags: [ 'pantalón', ]
 actualPrice: 9.92 EUR
 currency: EUR
 price: 9.92

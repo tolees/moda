@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N5DL3F6-es Timberland Adventure 2.0 Cupsole Zapatillas Altas para...'
 sku: 'B01N5DL3F6-es'
+tags: [ 'timberland', ]
 actualPrice: 64.95 EUR
 currency: EUR
 price: 64.95

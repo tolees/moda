@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TNLXSX4-es Levi s Sportswear Logo Graphic Camiseta Negro Ssnl Sw...'
 sku: 'B07TNLXSX4-es'
+tags: [ 'camiseta', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SB1YZ49-es Helly Hansen Nord Graphic T-Shirt Camiseta Hombre Grey...'
 sku: 'B07SB1YZ49-es'
+tags: [ 'camiseta', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

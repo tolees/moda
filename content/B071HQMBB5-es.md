@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071HQMBB5-es Chaqueta Softshell Inatye'
 sku: 'B071HQMBB5-es'
+tags: [ 'chaqueta', ]
 actualPrice: 50.98 EUR
 currency: EUR
 price: 50.98

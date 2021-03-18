@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YQ5WPJZ-es Polaroid SPORT 7886 gafas de sol MTT NEGRO 66 Unisex Adulto'
 sku: 'B07YQ5WPJZ-es'
+tags: [ 'gafas', ]
 actualPrice: 26.09 EUR
 currency: EUR
 price: 26.09

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073X39DNN-es Camiseta Manga Corta Técnica Vueling Cup Hombre Roja M'
 sku: 'B073X39DNN-es'
+tags: [ 'camiseta', ]
 actualPrice: 17.9 EUR
 currency: EUR
 price: 17.9

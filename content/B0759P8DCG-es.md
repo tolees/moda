@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0759P8DCG-es Angkorly - Zapatillas de Moda Deportivos Tennis Slip-on...'
 sku: 'B0759P8DCG-es'
+tags: [ 'moda', ]
 actualPrice: 19.16 EUR
 currency: EUR
 price: 19.16

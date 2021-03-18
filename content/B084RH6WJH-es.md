@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084RH6WJH-es 2 piezas portátil coche auto suspensión asiento monedero...'
 sku: 'B084RH6WJH-es'
+tags: [ 'monedero', ]
 actualPrice: 1.33 EUR
 currency: EUR
 price: 1.33

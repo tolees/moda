@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KF4TL5L-es Levi s 511 Slim Fit Vaqueros Adriatico Adapt 3408 32W /...'
 sku: 'B07KF4TL5L-es'
+tags: [ 'vaqueros', ]
 actualPrice: 62.95 EUR
 currency: EUR
 price: 62.95

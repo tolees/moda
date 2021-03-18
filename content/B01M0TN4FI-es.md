@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M0TN4FI-es El Naturalista N5001 Pleasant Leaves Sandalias con Correa...'
 sku: 'B01M0TN4FI-es'
+tags: [ 'sandalias', ]
 actualPrice: 56.45 EUR
 currency: EUR
 price: 56.45

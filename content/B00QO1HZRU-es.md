@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00QO1HZRU-es Columbia Saturday Trail Pantalón para Mujer Gris India Ink...'
 sku: 'B00QO1HZRU-es'
+tags: [ 'pantalón', ]
 actualPrice: 49.51 EUR
 currency: EUR
 price: 49.51

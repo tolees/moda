@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CZLWHWK-es Under Armour UA Heatgear Racer Camiseta Mujer Naranja...'
 sku: 'B07CZLWHWK-es'
+tags: [ 'camiseta', ]
 actualPrice: 19.97 EUR
 currency: EUR
 price: 19.97

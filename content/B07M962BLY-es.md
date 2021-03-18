@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M962BLY-es Wrangler Stripe Logo Sweat Sudadera Azul Blue Depth Xjy...'
 sku: 'B07M962BLY-es'
+tags: [ 'sudadera', ]
 actualPrice: 32.48 EUR
 currency: EUR
 price: 32.48

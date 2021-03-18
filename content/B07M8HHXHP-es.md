@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M8HHXHP-es Coast Lilli Falda Azul Navy 20 42 ES para Mujer'
 sku: 'B07M8HHXHP-es'
+tags: [ 'falda', ]
 actualPrice: 13.82 EUR
 currency: EUR
 price: 13.82

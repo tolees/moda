@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PRCF5XT-es Kipling Osyka Bolso Con Bandolera para Mujer Naranja...'
 sku: 'B07PRCF5XT-es'
+tags: [ 'bolso', ]
 actualPrice: 19.25 EUR
 currency: EUR
 price: 19.25

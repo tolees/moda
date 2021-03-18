@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00B7XCETE-es The North Face Sudadera Drew Peak Hombre Negro TNF Black S'
 sku: 'B00B7XCETE-es'
+tags: [ 'sudadera', ]
 actualPrice: 45.44 EUR
 currency: EUR
 price: 45.44

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N3SRRHY-es Desigual Dress Melissa Vestido Negro Negro 2000 L para Mujer'
 sku: 'B07N3SRRHY-es'
+tags: [ 'vestido', ]
 actualPrice: 58.49 EUR
 currency: EUR
 price: 58.49

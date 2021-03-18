@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00N8HKAI4-es ALPHA INDUSTRIES 183110-184-M Chaqueta Rojo Burgundy 184...'
 sku: 'B00N8HKAI4-es'
+tags: [ 'chaqueta', ]
 actualPrice: 89.95 EUR
 currency: EUR
 price: 89.95

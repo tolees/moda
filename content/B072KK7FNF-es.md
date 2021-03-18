@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072KK7FNF-es Adidas Adilette Shower Chanclas Hombre Rojo...'
 sku: 'B072KK7FNF-es'
+tags: [ 'chanclas', ]
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

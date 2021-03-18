@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NJ16TP2-es Springfield 8.0.Lentejuelas Texto Camiseta Multicolor...'
 sku: 'B07NJ16TP2-es'
+tags: [ 'camiseta', ]
 actualPrice: 4.82 EUR
 currency: EUR
 price: 4.82

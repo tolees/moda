@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WBZRVJ5-es Jack & Jones JORDUSTO Sweat Hood Sudadera con Capucha Gris...'
 sku: 'B07WBZRVJ5-es'
+tags: [ 'sudadera', ]
 actualPrice: 10.28 EUR
 currency: EUR
 price: 10.28

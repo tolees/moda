@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N3KGRZT-es Goodthreads Athletic-Fit Carpenter Pant casual-pants...'
 sku: 'B07N3KGRZT-es'
+tags: [ 'goodthreads', ]
 actualPrice: 16.71 EUR
 currency: EUR
 price: 16.71

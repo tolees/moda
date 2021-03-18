@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XCNX9VX-es SATINIOR 3 Pares de Guantes de Medio Dedo Guantes sin...'
 sku: 'B07XCNX9VX-es'
+tags: [ 'guantes', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

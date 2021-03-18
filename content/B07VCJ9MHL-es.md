@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VCJ9MHL-es edc by Esprit 099cc2k008 Camisa Manga Larga Rojo Bordeaux...'
 sku: 'B07VCJ9MHL-es'
+tags: [ 'camisa', ]
 actualPrice: 7.71 EUR
 currency: EUR
 price: 7.71

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077NZKLQD-es Lee Marion Vaqueros Ninety Nine 28W / 35L para Mujer'
 sku: 'B077NZKLQD-es'
+tags: [ 'vaqueros', ]
 actualPrice: 38.19 EUR
 currency: EUR
 price: 38.19

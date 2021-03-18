@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00H9BLH0U-es Geox J ARTACH Boy A Zapatillas para Niños Negro Black...'
 sku: 'B00H9BLH0U-es'
+tags: [ 'geox', ]
 actualPrice: 29.33 EUR
 currency: EUR
 price: 29.33

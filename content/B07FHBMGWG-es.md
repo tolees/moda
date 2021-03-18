@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FHBMGWG-es Amazon Essentials – Pantalón corto de corte entallado para...'
 sku: 'B07FHBMGWG-es'
+tags: [ 'pantalón', ]
 actualPrice: 10.46 EUR
 currency: EUR
 price: 10.46

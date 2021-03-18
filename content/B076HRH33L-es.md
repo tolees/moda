@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076HRH33L-es adidas CV3429 Sudadera con Capucha Unisex Niños Gris...'
 sku: 'B076HRH33L-es'
+tags: [ 'sudadera', ]
 actualPrice: 25.98 EUR
 currency: EUR
 price: 25.98

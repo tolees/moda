@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0107NKN3S-es ESPRIT - Collar para mujer con circonita color oro rosa'
 sku: 'B0107NKN3S-es'
+tags: [ 'collar', ]
 actualPrice: 21.95 EUR
 currency: EUR
 price: 21.95

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q9JSL1B-es Cronell Story Chaqueta De Camuflaje para Niñas Chaqueta...'
 sku: 'B07Q9JSL1B-es'
+tags: [ 'abrigo','chaqueta', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

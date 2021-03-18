@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TWBSFK7-es Clarks Crown Stem K Sandalias Punta Cerrada para Niños...'
 sku: 'B07TWBSFK7-es'
+tags: [ 'sandalias', ]
 actualPrice: 41.9 EUR
 currency: EUR
 price: 41.9

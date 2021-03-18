@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PDST294-es Disney Camiseta y Leggings para niñas Capitana Marvel Azul...'
 sku: 'B07PDST294-es'
+tags: [ 'camiseta', ]
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

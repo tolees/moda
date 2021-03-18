@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VUD06SW-es Roamers - Zapatos con Cordones para pies Anchos Hombre...'
 sku: 'B00VUD06SW-es'
+tags: [ 'zapatos', ]
 actualPrice: 50.2 EUR
 currency: EUR
 price: 50.2

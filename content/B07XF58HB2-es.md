@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XF58HB2-es Columbia Lay D Down II Chaqueta de esquí para Mujer'
 sku: 'B07XF58HB2-es'
+tags: [ 'chaqueta', ]
 actualPrice: 84.34 EUR
 currency: EUR
 price: 84.34

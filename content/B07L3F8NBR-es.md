@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L3F8NBR-es Tommy Hilfiger Dress Casual Nubuck Shoe Zapatos de...'
 sku: 'B07L3F8NBR-es'
+tags: [ 'zapatos', ]
 actualPrice: 63.94 EUR
 currency: EUR
 price: 63.94

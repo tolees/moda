@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N18B7GY-es G-STAR RAW Lynn Mid-Waist Skinny Vaqueros Dusty Grey...'
 sku: 'B07N18B7GY-es'
+tags: [ 'vaqueros', ]
 actualPrice: 29.41 EUR
 currency: EUR
 price: 29.41

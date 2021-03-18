@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M5F4PLK-es Wrangler Western Check Shirt Blusa Marfil Off White 737...'
 sku: 'B07M5F4PLK-es'
+tags: [ 'blusa', ]
 actualPrice: 27.48 EUR
 currency: EUR
 price: 27.48

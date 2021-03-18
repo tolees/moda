@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D756WVZ-es Levi s 311 Shaping Skinny Vaqueros New Ultra Black 28W /...'
 sku: 'B07D756WVZ-es'
+tags: [ 'vaqueros', ]
 actualPrice: 49.5 EUR
 currency: EUR
 price: 49.5

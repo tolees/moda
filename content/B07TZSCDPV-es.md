@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TZSCDPV-es Wrangler Icons Vaqueros Azul Light Trace 13U 33W / 32L...'
 sku: 'B07TZSCDPV-es'
+tags: [ 'vaqueros', ]
 actualPrice: 29.36 EUR
 currency: EUR
 price: 29.36

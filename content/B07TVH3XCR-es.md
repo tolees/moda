@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TVH3XCR-es Meizas Conjuntos de Bikinis para Mujer Push Up Bikini...'
 sku: 'B07TVH3XCR-es'
+tags: [ 'bikini', ]
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000VMRCNU-es Timberland Heritage 6 Inch Premium Waterproof Botas para...'
 sku: 'B000VMRCNU-es'
+tags: [ 'timberland', ]
 actualPrice: 168 EUR
 currency: EUR
 price: 168

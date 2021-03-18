@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KTH2XA4-es Under Armour Tech Short Sleeve V-Solid Camiseta Mujer...'
 sku: 'B00KTH2XA4-es'
+tags: [ 'camiseta', ]
 actualPrice: 14.49 EUR
 currency: EUR
 price: 14.49

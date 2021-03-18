@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G11M1BS-es Gafas de lectura sin patillas graduadas para hombre y...'
 sku: 'B07G11M1BS-es'
+tags: [ 'gafas', ]
 actualPrice: 11.18 EUR
 currency: EUR
 price: 11.18

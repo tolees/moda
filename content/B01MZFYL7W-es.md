@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MZFYL7W-es Pepe Jeans Soho Vaqueros Rinse Plus 34W / 28L para Mujer'
 sku: 'B01MZFYL7W-es'
+tags: [ 'vaqueros', ]
 actualPrice: 28.65 EUR
 currency: EUR
 price: 28.65

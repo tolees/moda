@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B1TXMXP-es Fruit of the Loom- Camiseta de Manga Corta Sofspun para...'
 sku: 'B07B1TXMXP-es'
+tags: [ 'camiseta', ]
 actualPrice: 3.95 EUR
 currency: EUR
 price: 3.95

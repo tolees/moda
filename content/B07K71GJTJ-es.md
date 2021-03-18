@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K71GJTJ-es Levi s Original Hm tee Camiseta Azul LS Cotton + Patch...'
 sku: 'B07K71GJTJ-es'
+tags: [ 'camiseta', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

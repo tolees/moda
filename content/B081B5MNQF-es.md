@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081B5MNQF-es Columbia Windgates Chaqueta impermeable Mujer Azul oscuro...'
 sku: 'B081B5MNQF-es'
+tags: [ 'chaqueta', ]
 actualPrice: 86.98 EUR
 currency: EUR
 price: 86.98

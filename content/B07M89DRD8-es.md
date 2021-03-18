@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M89DRD8-es Lee Rider Jeans Vaqueros Moto Black 29W / 34L para Hombre'
 sku: 'B07M89DRD8-es'
+tags: [ 'vaqueros', ]
 actualPrice: 37.76 EUR
 currency: EUR
 price: 37.76

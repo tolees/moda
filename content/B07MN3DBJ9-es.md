@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MN3DBJ9-es Lee Rider Jeans Vaqueros Dark Marine 29W / 32L para Hombre'
 sku: 'B07MN3DBJ9-es'
+tags: [ 'vaqueros', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

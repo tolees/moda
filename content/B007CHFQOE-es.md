@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007CHFQOE-es Helly Hansen W Seven J Chaqueta Mujer White S'
 sku: 'B007CHFQOE-es'
+tags: [ 'chaqueta', ]
 actualPrice: 63.5 EUR
 currency: EUR
 price: 63.5

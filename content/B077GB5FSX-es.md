@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077GB5FSX-es Pepe Jeans Melisa PL503792 Camiseta Blanco Mousse 808...'
 sku: 'B077GB5FSX-es'
+tags: [ 'camiseta', ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

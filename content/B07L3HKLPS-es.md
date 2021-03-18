@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L3HKLPS-es Tommy Hilfiger Essential Boxy Flag S/s Camiseta Azul Black...'
 sku: 'B07L3HKLPS-es'
+tags: [ 'camiseta', ]
 actualPrice: 13.63 EUR
 currency: EUR
 price: 13.63

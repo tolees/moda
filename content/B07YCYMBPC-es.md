@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YCYMBPC-es Carrera 213 003 52 - Gafas de ventisca'
 sku: 'B07YCYMBPC-es'
+tags: [ 'gafas', ]
 actualPrice: 109.25 EUR
 currency: EUR
 price: 109.25

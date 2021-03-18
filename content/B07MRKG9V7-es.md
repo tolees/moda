@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MRKG9V7-es Lacoste Ch5843 Camisa Gris Anthracite Chiné 8fx Small...'
 sku: 'B07MRKG9V7-es'
+tags: [ 'camisa', ]
 actualPrice: 54.14 EUR
 currency: EUR
 price: 54.14

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RB7TJPR-es Columbia Midweight Stretch Camiseta Térmica con Cremallera...'
 sku: 'B07RB7TJPR-es'
+tags: [ 'camiseta', ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

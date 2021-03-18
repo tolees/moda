@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KS9WMJ4-es adidas W E 3s Slim tee Camiseta de Manga Corta Mujer...'
 sku: 'B07KS9WMJ4-es'
+tags: [ 'camiseta', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

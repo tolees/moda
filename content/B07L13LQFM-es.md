@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L13LQFM-es Under Armour Woven Graphic Pantalón Corto Hombre Gris...'
 sku: 'B07L13LQFM-es'
+tags: [ 'pantalón', ]
 actualPrice: 20.03 EUR
 currency: EUR
 price: 20.03

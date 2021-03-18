@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JLBQTT0-es NIKE M Nk Dry tee Db Athlete Camiseta de Manga Corta...'
 sku: 'B00JLBQTT0-es'
+tags: [ 'camiseta', ]
 actualPrice: 9.21 EUR
 currency: EUR
 price: 9.21

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WPWHZ4K-es Pepe Jeans Piccadilly 7/8 Vaqueros Straight Azul 000denim...'
 sku: 'B07WPWHZ4K-es'
+tags: [ 'vaqueros', ]
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

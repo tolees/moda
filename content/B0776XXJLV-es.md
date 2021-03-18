@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0776XXJLV-es Tommy Hilfiger Original Jersey Camiseta Blanco Classic...'
 sku: 'B0776XXJLV-es'
+tags: [ 'camiseta','jersey', ]
 actualPrice: 20.03 EUR
 currency: EUR
 price: 20.03

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KF3FT8Y-es Levi s HR Decon Iconic BF Skirt Falda Negro Left Behind...'
 sku: 'B07KF3FT8Y-es'
+tags: [ 'falda', ]
 actualPrice: 31.85 EUR
 currency: EUR
 price: 31.85

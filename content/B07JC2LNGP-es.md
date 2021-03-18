@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JC2LNGP-es Columbia Powder Lite Chaqueta De Plumón con Capucha Mujer...'
 sku: 'B07JC2LNGP-es'
+tags: [ 'chaqueta', ]
 actualPrice: 70.95 EUR
 currency: EUR
 price: 70.95

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074NB81BX-es Fitflop Lulu Cross Slide Sandalias de Punta Descubierta...'
 sku: 'B074NB81BX-es'
+tags: [ 'sandalias', ]
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

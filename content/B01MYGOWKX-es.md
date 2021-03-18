@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MYGOWKX-es Intimuse Embu Sudadera Negro Schwarz/Pink 125 Small'
 sku: 'B01MYGOWKX-es'
+tags: [ 'sudadera', ]
 actualPrice: 7.79 EUR
 currency: EUR
 price: 7.79

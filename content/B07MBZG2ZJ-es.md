@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MBZG2ZJ-es LEVIS Mini Crossbody Vegan No Horse Pull - Bolso de hombro...'
 sku: 'B07MBZG2ZJ-es'
+tags: [ 'bolso', ]
 actualPrice: 13.16 EUR
 currency: EUR
 price: 13.16

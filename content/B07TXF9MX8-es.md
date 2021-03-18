@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TXF9MX8-es Levi s 721 High Rise Skinny Vaqueros Verde Hyper Soft T2...'
 sku: 'B07TXF9MX8-es'
+tags: [ 'vaqueros', ]
 actualPrice: 30.52 EUR
 currency: EUR
 price: 30.52

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YGGG8Q5-es Jack & Jones JCOBOOSTER Sweat Hood DEC 19 Sudadera con...'
 sku: 'B07YGGG8Q5-es'
+tags: [ 'sudadera', ]
 actualPrice: 10.55 EUR
 currency: EUR
 price: 10.55

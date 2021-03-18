@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TP4LFFL-es Superdry Namid Pockets Bomber Chaqueta Marrón Bungee Cord...'
 sku: 'B07TP4LFFL-es'
+tags: [ 'chaqueta', ]
 actualPrice: 50.49 EUR
 currency: EUR
 price: 50.49

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CLT3X3R-es Vintage Camisetas Mujer Manga Corta Negro Aesthetic Verano...'
 sku: 'B07CLT3X3R-es'
+tags: [ 'moda', ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

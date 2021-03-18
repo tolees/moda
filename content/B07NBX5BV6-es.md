@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NBX5BV6-es RIP CURL Flagship Fleece Sudadera Hombre Anthracite S'
 sku: 'B07NBX5BV6-es'
+tags: [ 'sudadera', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

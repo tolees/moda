@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VDYDLGS-es Fruit of the Loom - Camiseta básica de Manga Corta para...'
 sku: 'B07VDYDLGS-es'
+tags: [ 'camiseta', ]
 actualPrice: 3.45 EUR
 currency: EUR
 price: 3.45

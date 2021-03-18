@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M8GK99M-es Geox D Sukie A Zapatillas para Mujer Beige SKINC8182 35 EU'
 sku: 'B01M8GK99M-es'
+tags: [ 'geox', ]
 actualPrice: 58.38 EUR
 currency: EUR
 price: 58.38

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074BZ25ST-es Pepe Jeans Hatch Vaqueros Denim 11Oz Stay Black 36W / 34L...'
 sku: 'B074BZ25ST-es'
+tags: [ 'vaqueros', ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

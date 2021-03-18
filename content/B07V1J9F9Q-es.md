@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V1J9F9Q-es BOSS T-Shirt RN 24 Camiseta Gris Medium Grey 32 Hombre'
 sku: 'B07V1J9F9Q-es'
+tags: [ 'camiseta', ]
 actualPrice: 13.42 EUR
 currency: EUR
 price: 13.42

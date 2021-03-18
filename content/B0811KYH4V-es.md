@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0811KYH4V-es Vicloon Princesa Vestir Accesorios 8 Pcs Violeta Elsa...'
 sku: 'B0811KYH4V-es'
+tags: [ 'collar','guantes', ]
 actualPrice: 8.89 EUR
 currency: EUR
 price: 8.89

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RWYBTW5-es Juego de destornilladores de precisión juego de...'
 sku: 'B07RWYBTW5-es'
+tags: [ 'gafas', ]
 actualPrice: 17.69 EUR
 currency: EUR
 price: 17.69

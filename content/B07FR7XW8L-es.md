@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FR7XW8L-es Clarks Grandin Plain Zapatos de Cordones Derby para Hombre...'
 sku: 'B07FR7XW8L-es'
+tags: [ 'zapatos', ]
 actualPrice: 55.95 EUR
 currency: EUR
 price: 55.95

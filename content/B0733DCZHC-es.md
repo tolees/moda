@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0733DCZHC-es Marca Amazon - find. Sudadera de Tacto Suave para Hombre...'
 sku: 'B0733DCZHC-es'
+tags: [ '-','find.','sudadera', ]
 actualPrice: 12.17 EUR
 currency: EUR
 price: 12.17

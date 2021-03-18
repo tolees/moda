@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T2L84KV-es Tikea Cartera Geométrica de Corcho Natural para Mujer...'
 sku: 'B07T2L84KV-es'
+tags: [ 'billetera','moda', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

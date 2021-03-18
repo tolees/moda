@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081BJ5TYQ-es Columbia Powder Pass Chaqueta con Capucha Mujer Naranja...'
 sku: 'B081BJ5TYQ-es'
+tags: [ 'chaqueta', ]
 actualPrice: 36.97 EUR
 currency: EUR
 price: 36.97

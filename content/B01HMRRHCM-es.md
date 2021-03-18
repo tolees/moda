@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HMRRHCM-es The North Face S/S Easy H Camiseta de Manga Corta Hombre...'
 sku: 'B01HMRRHCM-es'
+tags: [ 'camiseta', ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

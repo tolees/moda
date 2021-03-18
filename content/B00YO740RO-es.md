@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00YO740RO-es Under Armour Tech Tank-Solid Correr Camiseta Ancha para...'
 sku: 'B00YO740RO-es'
+tags: [ 'camiseta', ]
 actualPrice: 18.09 EUR
 currency: EUR
 price: 18.09

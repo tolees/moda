@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RB7TWB4-es Columbia Tolt Track Chaqueta Interchange Hombre Azul...'
 sku: 'B07RB7TWB4-es'
+tags: [ 'chaqueta', ]
 actualPrice: 120.89 EUR
 currency: EUR
 price: 120.89

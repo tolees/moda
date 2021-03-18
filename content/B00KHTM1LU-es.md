@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KHTM1LU-es Under Armour UA Heatgear Short Sleeve Camiseta Hombre...'
 sku: 'B00KHTM1LU-es'
+tags: [ 'camiseta', ]
 actualPrice: 18.08 EUR
 currency: EUR
 price: 18.08

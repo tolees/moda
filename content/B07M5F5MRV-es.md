@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M5F5MRV-es Wrangler LS Western Shirt Camisa Rojo Red X47 Small para...'
 sku: 'B07M5F5MRV-es'
+tags: [ 'camisa', ]
 actualPrice: 29.83 EUR
 currency: EUR
 price: 29.83

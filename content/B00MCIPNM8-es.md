@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MCIPNM8-es Havaianas Slim Chanclas Mujer Gris Steel Grey 39/40 EU'
 sku: 'B00MCIPNM8-es'
+tags: [ 'chanclas', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

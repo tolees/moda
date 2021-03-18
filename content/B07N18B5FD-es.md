@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N18B5FD-es G-STAR RAW Midge Cody Mid Waist Skinny Vaqueros Azul Faded...'
 sku: 'B07N18B5FD-es'
+tags: [ 'vaqueros', ]
 actualPrice: 77.99 EUR
 currency: EUR
 price: 77.99

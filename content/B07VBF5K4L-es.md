@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VBF5K4L-es Desigual Bols Intra Merlo H - Bolso con asa 14 x 27 5 x 40...'
 sku: 'B07VBF5K4L-es'
+tags: [ 'bolso', ]
 actualPrice: 19.96 EUR
 currency: EUR
 price: 19.96

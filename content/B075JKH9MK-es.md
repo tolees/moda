@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075JKH9MK-es Ray-Ban 0RB3589 Gafas de Sol para Mujer Marrón Gold Top on...'
 sku: 'B075JKH9MK-es'
+tags: [ 'gafas', ]
 actualPrice: 69.02 EUR
 currency: EUR
 price: 69.02

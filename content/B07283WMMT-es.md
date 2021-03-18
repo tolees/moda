@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07283WMMT-es Lacoste L1212 Camiseta Polo Azul Methylene F9F XS para Hombre'
 sku: 'B07283WMMT-es'
+tags: [ 'camiseta', ]
 actualPrice: 40.45 EUR
 currency: EUR
 price: 40.45

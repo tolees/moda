@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R3WKC43-es 🎁 Bolso de la motocicleta Cuero genuino Bolso mensajero...'
 sku: 'B07R3WKC43-es'
+tags: [ 'bolso', ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

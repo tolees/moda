@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01B2LGY46-es Kaporal BROZE16M7JSAD Vaqueros Para Hombre Beige sandes W31'
 sku: 'B01B2LGY46-es'
+tags: [ 'vaqueros', ]
 actualPrice: 36.0 EUR
 currency: EUR
 price: 36.0

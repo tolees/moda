@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PJS2PG1-es Tous Sherton Bolso bandolera para Mujer Rojo Vino...'
 sku: 'B07PJS2PG1-es'
+tags: [ 'bolso', ]
 actualPrice: 80.56 EUR
 currency: EUR
 price: 80.56

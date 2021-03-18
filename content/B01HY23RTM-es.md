@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HY23RTM-es Lee Rider Jeans Vaqueros Black Rinse Yc47 32W / 30L para...'
 sku: 'B01HY23RTM-es'
+tags: [ 'vaqueros', ]
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

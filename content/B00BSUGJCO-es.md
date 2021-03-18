@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BSUGJCO-es Uvex Sportstyle 211 Gafas de Ciclismo Unisex Adulto Negro...'
 sku: 'B00BSUGJCO-es'
+tags: [ 'gafas', ]
 actualPrice: 15.23 EUR
 currency: EUR
 price: 15.23

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P9C1D3W-es JACK & JONES Jcoleaf tee SS Crew Neck Camiseta Naranja...'
 sku: 'B07P9C1D3W-es'
+tags: [ 'camiseta', ]
 actualPrice: 3.7 EUR
 currency: EUR
 price: 3.7

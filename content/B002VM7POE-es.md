@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002VM7POE-es CATWALK COLLECTION - MARTINA - Bolso de mano - Cuero - Blanco'
 sku: 'B002VM7POE-es'
+tags: [ 'bolso', ]
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

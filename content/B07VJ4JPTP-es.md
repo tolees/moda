@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VJ4JPTP-es Pepe Jeans Slider Basic Man Zuecos para Hombre Azul Navy...'
 sku: 'B07VJ4JPTP-es'
+tags: [ 'zuecos', ]
 actualPrice: 20.2 EUR
 currency: EUR
 price: 20.2

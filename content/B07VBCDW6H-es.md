@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VBCDW6H-es TECOOL 14 Pulgadas Funda Blanda para Ordenador portátil...'
 sku: 'B07VBCDW6H-es'
+tags: [ 'bolso', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

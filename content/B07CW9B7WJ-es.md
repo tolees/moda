@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CW9B7WJ-es Socluer Bikini Tankini de Mujer Bikini Push up de Playa de...'
 sku: 'B07CW9B7WJ-es'
+tags: [ 'bikini', ]
 actualPrice: 16.88 EUR
 currency: EUR
 price: 16.88

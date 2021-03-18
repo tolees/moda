@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QB881DD-es PUMA Classics T7 Jacket TR G Chaqueta De Entrenamiento...'
 sku: 'B07QB881DD-es'
+tags: [ 'chaqueta', ]
 actualPrice: 27.45 EUR
 currency: EUR
 price: 27.45

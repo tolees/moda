@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HY23CS8-es Lee Rider Tonal Vaqueros Black Rinse Yc47 33W / 32L para...'
 sku: 'B01HY23CS8-es'
+tags: [ 'vaqueros', ]
 actualPrice: 42.71 EUR
 currency: EUR
 price: 42.71

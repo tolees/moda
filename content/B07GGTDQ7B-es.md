@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GGTDQ7B-es vifuur Hombres Casa Zapatillas High Density Memory Foam...'
 sku: 'B07GGTDQ7B-es'
+tags: [ 'guantes', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

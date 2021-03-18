@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JBJSKYX-es Skechers Double Up Zapatos de tacón con Punta Cerrada para...'
 sku: 'B07JBJSKYX-es'
+tags: [ 'zapatos', ]
 actualPrice: 38.95 EUR
 currency: EUR
 price: 38.95

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JY7V3RH-es Goodthreads - Bañador para hombre de 12 7 cm de tiro Navy...'
 sku: 'B07JY7V3RH-es'
+tags: [ 'goodthreads', ]
 actualPrice: 5.82 EUR
 currency: EUR
 price: 5.82

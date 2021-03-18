@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SXTMXBF-es Geox D PONTOISE D Zapatillas para Mujer Blanco...'
 sku: 'B07SXTMXBF-es'
+tags: [ 'geox', ]
 actualPrice: 43.63 EUR
 currency: EUR
 price: 43.63

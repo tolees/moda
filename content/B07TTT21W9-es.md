@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TTT21W9-es Women s Secret Mickey Vintage Mv DS Every Week PJ...'
 sku: 'B07TTT21W9-es'
+tags: [ 'pijama', ]
 actualPrice: 12.94 EUR
 currency: EUR
 price: 12.94

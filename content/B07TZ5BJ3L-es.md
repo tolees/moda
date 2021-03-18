@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TZ5BJ3L-es Women s Secret Trendy Tapestry TT Indiana White PJ...'
 sku: 'B07TZ5BJ3L-es'
+tags: [ 'pijama', ]
 actualPrice: 17.36 EUR
 currency: EUR
 price: 17.36

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083S6ZFY7-es COFACE Chanclas para Mujer Chancletas de Playa Sandalias...'
 sku: 'B083S6ZFY7-es'
+tags: [ 'chanclas','sandalias','zapatos', ]
 actualPrice: 14.5 EUR
 currency: EUR
 price: 14.5

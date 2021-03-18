@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S755HLY-es Disney Camiseta de Manga Corta para niñas Vampirina Negro...'
 sku: 'B07S755HLY-es'
+tags: [ 'camiseta', ]
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DDB3BYY-es PUMA ESS Logo tee Camiseta Mujer Negro Cotton Black XL'
 sku: 'B07DDB3BYY-es'
+tags: [ 'camiseta', ]
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

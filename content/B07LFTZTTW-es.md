@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFTZTTW-es Geox U KAVEN B Zapatillas para Hombre Negro Black C9997 41 EU'
 sku: 'B07LFTZTTW-es'
+tags: [ 'geox', ]
 actualPrice: 29.84 EUR
 currency: EUR
 price: 29.84

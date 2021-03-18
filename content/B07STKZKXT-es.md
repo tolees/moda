@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07STKZKXT-es Geox Rishon Bebé Deportivas Niño Transpirantes con Diseño...'
 sku: 'B07STKZKXT-es'
+tags: [ 'geox', ]
 actualPrice: 35.82 EUR
 currency: EUR
 price: 35.82

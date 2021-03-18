@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TSPJLC5-es Women s Secret The Lion King LK DS Hakuna PJ FR Conjuntos...'
 sku: 'B07TSPJLC5-es'
+tags: [ 'pijama', ]
 actualPrice: 16.17 EUR
 currency: EUR
 price: 16.17

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000MSX7E6-es Birkenstock Arizona Zapatos con Hebilla Unisex Adulto...'
 sku: 'B000MSX7E6-es'
+tags: [ 'zapatos', ]
 actualPrice: 48.45 EUR
 currency: EUR
 price: 48.45

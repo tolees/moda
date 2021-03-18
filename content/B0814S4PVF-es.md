@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0814S4PVF-es Under Armour Challenger III Midlayer Camiseta De Hombre...'
 sku: 'B0814S4PVF-es'
+tags: [ 'camiseta', ]
 actualPrice: 27.82 EUR
 currency: EUR
 price: 27.82

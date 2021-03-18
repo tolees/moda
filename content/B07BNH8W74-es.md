@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BNH8W74-es Bikers Gear Australia Limited - Pantalones vaqueros...'
 sku: 'B07BNH8W74-es'
+tags: [ 'vaqueros', ]
 actualPrice: 41.34 EUR
 currency: EUR
 price: 41.34

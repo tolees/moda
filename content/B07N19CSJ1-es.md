@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N19CSJ1-es G-STAR RAW Lynn Mid-Waist Skinny Vaqueros Dk Aged 6545-89...'
 sku: 'B07N19CSJ1-es'
+tags: [ 'vaqueros', ]
 actualPrice: 21.46 EUR
 currency: EUR
 price: 21.46

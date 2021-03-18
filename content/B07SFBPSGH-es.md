@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SFBPSGH-es Helly Hansen W HH Logo Singlet Camiseta De Tirantes Mujer...'
 sku: 'B07SFBPSGH-es'
+tags: [ 'camiseta', ]
 actualPrice: 12.45 EUR
 currency: EUR
 price: 12.45

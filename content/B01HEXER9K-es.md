@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HEXER9K-es Crocs Crocband Clog K Zuecos Unisex-Bambini BLU...'
 sku: 'B01HEXER9K-es'
+tags: [ 'zuecos', ]
 actualPrice: 19.2 EUR
 currency: EUR
 price: 19.2

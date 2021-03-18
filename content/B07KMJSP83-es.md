@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KMJSP83-es Mustang Big Sur Vaqueros Straight Azul Medium Middle 580...'
 sku: 'B07KMJSP83-es'
+tags: [ 'vaqueros', ]
 actualPrice: 19.28 EUR
 currency: EUR
 price: 19.28

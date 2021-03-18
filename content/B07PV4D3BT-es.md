@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PV4D3BT-es Nike M NSW Nsp Top SS Check Camiseta Hombre Blue...'
 sku: 'B07PV4D3BT-es'
+tags: [ 'camiseta', ]
 actualPrice: 8.5 EUR
 currency: EUR
 price: 8.5

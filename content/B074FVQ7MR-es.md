@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074FVQ7MR-es find. Sudadera Estampada para Hombre Gris G-marl Medium'
 sku: 'B074FVQ7MR-es'
+tags: [ 'sudadera', ]
 actualPrice: 8.4 EUR
 currency: EUR
 price: 8.4

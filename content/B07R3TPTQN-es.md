@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R3TPTQN-es CARE OF by PUMA Chaleco acolchado impermeable para hombre...'
 sku: 'B07R3TPTQN-es'
+tags: [ 'chaleco', ]
 actualPrice: 49 EUR
 currency: EUR
 price: 49

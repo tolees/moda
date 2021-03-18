@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0897Q9XKZ-es qingqingR Bolso Bandolera de Cuero de Mujer para Mujer...'
 sku: 'B0897Q9XKZ-es'
+tags: [ 'bolso', ]
 actualPrice: 24.32 EUR
 currency: EUR
 price: 24.32

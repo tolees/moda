@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B18ZML1-es find. Vestido de Flores con Volantes Mujer Rosa Pink Medium'
 sku: 'B07B18ZML1-es'
+tags: [ 'vestido', ]
 actualPrice: 22.5 EUR
 currency: EUR
 price: 22.5

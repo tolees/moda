@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081SSGLRB-es adidas Trefoil tee Camiseta de Manga Corta Mujer Lush...'
 sku: 'B081SSGLRB-es'
+tags: [ 'camiseta', ]
 actualPrice: 17.47 EUR
 currency: EUR
 price: 17.47

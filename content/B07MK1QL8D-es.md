@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MK1QL8D-es Napapijri TERRES Sudadera Gris Dark Grey Solid 198 XL para...'
 sku: 'B07MK1QL8D-es'
+tags: [ 'sudadera', ]
 actualPrice: 64.5 EUR
 currency: EUR
 price: 64.5

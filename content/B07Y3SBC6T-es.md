@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y3SBC6T-es Jack & Jones Jorbasic SS tee Crew Neck 5-Pack Ka Camiseta...'
 sku: 'B07Y3SBC6T-es'
+tags: [ 'camiseta', ]
 actualPrice: 14.04 EUR
 currency: EUR
 price: 14.04

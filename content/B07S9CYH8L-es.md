@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S9CYH8L-es Lee Relaxed Fit tee Camiseta Negro Black 01 Medium para Mujer'
 sku: 'B07S9CYH8L-es'
+tags: [ 'camiseta', ]
 actualPrice: 9.26 EUR
 currency: EUR
 price: 9.26

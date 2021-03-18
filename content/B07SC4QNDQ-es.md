@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SC4QNDQ-es Helly Hansen HH Logo Crew Sudadera Deportiva Hombre Azul...'
 sku: 'B07SC4QNDQ-es'
+tags: [ 'sudadera', ]
 actualPrice: 38.48 EUR
 currency: EUR
 price: 38.48

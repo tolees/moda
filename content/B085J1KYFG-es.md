@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085J1KYFG-es Sandalias de Mujer con Cuna de Yute Pala Trenzada y Correa...'
 sku: 'B085J1KYFG-es'
+tags: [ 'sandalias', ]
 actualPrice: 25.95 EUR
 currency: EUR
 price: 25.95

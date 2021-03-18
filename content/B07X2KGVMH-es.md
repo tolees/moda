@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X2KGVMH-es Zapatos Invierno Mujer Botas de Nieve Forradas Calientes...'
 sku: 'B07X2KGVMH-es'
+tags: [ 'botines','zapatos', ]
 actualPrice: 24.25 EUR
 currency: EUR
 price: 24.25

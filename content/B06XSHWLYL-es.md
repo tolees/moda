@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XSHWLYL-es Pepe Jeans Zip Thru Ladies Sudadera con Capucha para Mujer...'
 sku: 'B06XSHWLYL-es'
+tags: [ 'sudadera', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

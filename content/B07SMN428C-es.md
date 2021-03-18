@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SMN428C-es Kansoom Guantes de Ciclismo Motocicleta Bicicleta Montaña-...'
 sku: 'B07SMN428C-es'
+tags: [ 'guantes', ]
 actualPrice: 12.29 EUR
 currency: EUR
 price: 12.29

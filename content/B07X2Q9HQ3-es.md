@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X2Q9HQ3-es LIGE Relojes para Hombres Moda Militar Impermeable Deporte...'
 sku: 'B07X2Q9HQ3-es'
+tags: [ 'moda', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

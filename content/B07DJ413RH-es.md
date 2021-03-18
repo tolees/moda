@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DJ413RH-es Geox D Annytah D Bailarinas para Mujer Negro Black C9999...'
 sku: 'B07DJ413RH-es'
+tags: [ 'geox', ]
 actualPrice: 63.0 EUR
 currency: EUR
 price: 63.0

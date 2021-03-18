@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KZIPCU0-es SOLS - Camiseta básica de Manga Corta Modelo Regent Unisex...'
 sku: 'B00KZIPCU0-es'
+tags: [ 'camiseta', ]
 actualPrice: 3.45 EUR
 currency: EUR
 price: 3.45

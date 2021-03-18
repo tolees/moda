@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076X6FBTC-es Geox U Wells A Zapatillas para Hombre Azul Navy 42 EU'
 sku: 'B076X6FBTC-es'
+tags: [ 'geox', ]
 actualPrice: 77.96 EUR
 currency: EUR
 price: 77.96

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076X4LDCB-es Geox U Wells C Zapatillas para Hombre Azul Dark Navy 40 EU'
 sku: 'B076X4LDCB-es'
+tags: [ 'geox', ]
 actualPrice: 74.5 EUR
 currency: EUR
 price: 74.5

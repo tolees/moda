@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VHTRT5Q-es edc by Esprit 099cc2f006 Camisa Negro Black 001 Large para...'
 sku: 'B07VHTRT5Q-es'
+tags: [ 'camisa', ]
 actualPrice: 7.77 EUR
 currency: EUR
 price: 7.77

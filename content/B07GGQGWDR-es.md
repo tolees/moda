@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GGQGWDR-es PROSTEEL Collar de Oro con Colgante Guitarra electrónica...'
 sku: 'B07GGQGWDR-es'
+tags: [ 'collar', ]
 actualPrice: 16.49 EUR
 currency: EUR
 price: 16.49

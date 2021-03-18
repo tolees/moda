@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R2BXRMH-es Wrangler LS 1pkt Shirt Camisa Azul Cobalt Blue B09 Medium...'
 sku: 'B07R2BXRMH-es'
+tags: [ 'camisa', ]
 actualPrice: 13.17 EUR
 currency: EUR
 price: 13.17

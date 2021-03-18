@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NP4M2JP-es Zerimar Zapatos con Alzas Interiores para Hombres Aumento...'
 sku: 'B07NP4M2JP-es'
+tags: [ 'zapatos', ]
 actualPrice: 109.0 EUR
 currency: EUR
 price: 109.0

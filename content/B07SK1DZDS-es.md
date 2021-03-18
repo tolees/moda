@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SK1DZDS-es ACVIP - Correa de hombro ancha ajustable a rayas para...'
 sku: 'B07SK1DZDS-es'
+tags: [ 'bolso', ]
 actualPrice: 9.92 EUR
 currency: EUR
 price: 9.92

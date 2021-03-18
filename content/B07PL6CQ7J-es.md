@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PL6CQ7J-es Geox U Mattias B ABX A Botas Chukka para Hombre Negro...'
 sku: 'B07PL6CQ7J-es'
+tags: [ 'geox', ]
 actualPrice: 50.42 EUR
 currency: EUR
 price: 50.42

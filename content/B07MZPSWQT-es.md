@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZPSWQT-es Pepe Jeans Lucas Sudadera Ivy 673 XX-Large para Hombre'
 sku: 'B07MZPSWQT-es'
+tags: [ 'sudadera', ]
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

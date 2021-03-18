@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LGXKSKG-es The North Face Quest Print Jacket Chaqueta Estampada para...'
 sku: 'B07LGXKSKG-es'
+tags: [ 'chaqueta', ]
 actualPrice: 65.0 EUR
 currency: EUR
 price: 65.0

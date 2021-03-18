@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S4X8G9C-es Levi s The Perfect Tee Camiseta Mujer Amarillo Brw T2...'
 sku: 'B07S4X8G9C-es'
+tags: [ 'camiseta', ]
 actualPrice: 20.3 EUR
 currency: EUR
 price: 20.3

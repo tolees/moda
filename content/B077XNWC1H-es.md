@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077XNWC1H-es Under Armour Sportstyle Left Chest Camiseta Hombre Blanco SM'
 sku: 'B077XNWC1H-es'
+tags: [ 'camiseta', ]
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

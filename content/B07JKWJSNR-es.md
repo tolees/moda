@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JKWJSNR-es Lee Emblem T Camiseta Azul Sky Blue LM Large para Mujer'
 sku: 'B07JKWJSNR-es'
+tags: [ 'camiseta', ]
 actualPrice: 9.72 EUR
 currency: EUR
 price: 9.72

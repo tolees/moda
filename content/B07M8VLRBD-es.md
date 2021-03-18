@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M8VLRBD-es Lee Plain Crew Neck SWS Sudadera Gris Grey Mele MP Large...'
 sku: 'B07M8VLRBD-es'
+tags: [ 'sudadera', ]
 actualPrice: 19.48 EUR
 currency: EUR
 price: 19.48

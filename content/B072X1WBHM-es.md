@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072X1WBHM-es Columbia Chaqueta Impermeable para Mujer Largo Medio...'
 sku: 'B072X1WBHM-es'
+tags: [ 'chaqueta', ]
 actualPrice: 59.04 EUR
 currency: EUR
 price: 59.04

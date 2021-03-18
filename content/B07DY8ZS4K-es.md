@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DY8ZS4K-es Roxy Costas Zapatos de Playa y Piscina para Mujer Negro...'
 sku: 'B07DY8ZS4K-es'
+tags: [ 'zapatos', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

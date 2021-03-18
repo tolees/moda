@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VMND3TV-es Tommy Hilfiger Stretch Slim Fit tee Camiseta Deporte Azul...'
 sku: 'B07VMND3TV-es'
+tags: [ 'camiseta', ]
 actualPrice: 20.82 EUR
 currency: EUR
 price: 20.82

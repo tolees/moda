@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0894WNTQR-es EKQ Boxer Hombre Algodon Pack de 4 Calzoncillos Bóxers...'
 sku: 'B0894WNTQR-es'
+tags: [ 'boxer', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V6GP5MT-es Ping Pop Camiseta de Crop para niñas California Azul 12-14...'
 sku: 'B07V6GP5MT-es'
+tags: [ 'camiseta', ]
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076HQTSHT-es adidas Core18 Hoody Sudadera con Capucha Unisex Niños Rojo...'
 sku: 'B076HQTSHT-es'
+tags: [ 'sudadera', ]
 actualPrice: 16.86 EUR
 currency: EUR
 price: 16.86

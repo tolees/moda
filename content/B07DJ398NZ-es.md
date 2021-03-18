@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DJ398NZ-es Geox Uomo Snake K Zapatillas para Hombre Blue Navy C4002...'
 sku: 'B07DJ398NZ-es'
+tags: [ 'geox', ]
 actualPrice: 51.96 EUR
 currency: EUR
 price: 51.96

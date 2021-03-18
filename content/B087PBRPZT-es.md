@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087PBRPZT-es Suhctup Funda Compatible con Samsung Galaxy Note 9...'
 sku: 'B087PBRPZT-es'
+tags: [ 'billetera', ]
 actualPrice: 10.98 EUR
 currency: EUR
 price: 10.98

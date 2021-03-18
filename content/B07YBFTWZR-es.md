@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YBFTWZR-es Vans Print Box Camiseta Azul Dress Blue Trap Floral Ykb...'
 sku: 'B07YBFTWZR-es'
+tags: [ 'camiseta', ]
 actualPrice: 20.51 EUR
 currency: EUR
 price: 20.51

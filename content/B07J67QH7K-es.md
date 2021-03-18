@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J67QH7K-es Marca Amazon - Daily Ritual - Maxi vestido de algodón...'
 sku: 'B07J67QH7K-es'
+tags: [ 'vestido', ]
 actualPrice: 12.29 EUR
 currency: EUR
 price: 12.29

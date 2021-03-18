@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZPMXVL-es Pepe Jeans Rick Chaqueta Sailor 580 Large para Hombre'
 sku: 'B07MZPMXVL-es'
+tags: [ 'chaqueta', ]
 actualPrice: 86.99 EUR
 currency: EUR
 price: 86.99

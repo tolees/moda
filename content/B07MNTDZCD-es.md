@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MNTDZCD-es oodji Ultra Mujer Blusa Ancha con Escote Gota en la...'
 sku: 'B07MNTDZCD-es'
+tags: [ 'blusa', ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

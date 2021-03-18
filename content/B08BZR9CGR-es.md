@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BZR9CGR-es Summer Baby Kids Cómodo y suave mono corto de manga corta...'
 sku: 'B08BZR9CGR-es'
+tags: [ 'camiseta', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

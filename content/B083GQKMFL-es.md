@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083GQKMFL-es Fankeshi - Abrigo de piel sintética para niña - Rojo - 100 cm'
 sku: 'B083GQKMFL-es'
+tags: [ 'abrigo', ]
 actualPrice: 19.32 EUR
 currency: EUR
 price: 19.32

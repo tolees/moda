@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M0QHBSC-es Levi s Levis 200SF Vintage Stripe 0312 Boxer Brief...'
 sku: 'B01M0QHBSC-es'
+tags: [ 'boxer', ]
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

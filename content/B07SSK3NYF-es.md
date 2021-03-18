@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SSK3NYF-es Geox D Pontoise D Zapatillas para Mujer Negro Black/Lt...'
 sku: 'B07SSK3NYF-es'
+tags: [ 'geox', ]
 actualPrice: 36.63 EUR
 currency: EUR
 price: 36.63

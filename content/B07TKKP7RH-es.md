@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TKKP7RH-es Superdry OL Vintage Emb Crew Camiseta Azul Navy Fluro...'
 sku: 'B07TKKP7RH-es'
+tags: [ 'camiseta', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZR7Z7Z8-es Zapatillas de casa de Hombre Ultraligero cómodo y...'
 sku: 'B07ZR7Z7Z8-es'
+tags: [ 'zapatilla', ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

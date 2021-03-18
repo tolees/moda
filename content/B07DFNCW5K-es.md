@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DFNCW5K-es Marca Amazon - find. Statement Fairisle Jumper Suéter...'
 sku: 'B07DFNCW5K-es'
+tags: [ '-','find.', ]
 actualPrice: 12.52 EUR
 currency: EUR
 price: 12.52

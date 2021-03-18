@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XZWRH8S-es Mercedes-Benz Sonnenbrille M1042 Gafas de sol Azul Blau...'
 sku: 'B00XZWRH8S-es'
+tags: [ 'gafas', ]
 actualPrice: 32.34 EUR
 currency: EUR
 price: 32.34

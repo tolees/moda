@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XSGZ498-es Izas Chaqueta de Punto Samaun'
 sku: 'B06XSGZ498-es'
+tags: [ 'chaqueta', ]
 actualPrice: 30.98 EUR
 currency: EUR
 price: 30.98

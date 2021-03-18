@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P1QWKVS-es synmixx Gafas Natación Antiniebla Gafas de Natación...'
 sku: 'B07P1QWKVS-es'
+tags: [ 'gafas', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

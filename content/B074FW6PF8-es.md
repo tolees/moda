@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074FW6PF8-es find. Sudadera de Raya Ejecutiva para Mujer Azul Navy 38...'
 sku: 'B074FW6PF8-es'
+tags: [ 'sudadera', ]
 actualPrice: 7.8 EUR
 currency: EUR
 price: 7.8

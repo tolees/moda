@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HF5QRBL-es Bolso Mujer Pequeño Bolso Bandolera Mujer Pequeño Piel...'
 sku: 'B07HF5QRBL-es'
+tags: [ 'bolso', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

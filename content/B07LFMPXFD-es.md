@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFMPXFD-es Levi s Francine Down Pckble Jkt Chaqueta Azul Sodalite...'
 sku: 'B07LFMPXFD-es'
+tags: [ 'chaqueta', ]
 actualPrice: 77.99 EUR
 currency: EUR
 price: 77.99

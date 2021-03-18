@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MYHB2WL-es Pepe Jeans Cane Vaqueros Medium Used Denim Bb6 34W / 34L...'
 sku: 'B07MYHB2WL-es'
+tags: [ 'vaqueros', ]
 actualPrice: 28.65 EUR
 currency: EUR
 price: 28.65

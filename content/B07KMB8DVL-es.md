@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KMB8DVL-es Juguetes para Niños de 8-12 Años Dreamingbox Guantes...'
 sku: 'B07KMB8DVL-es'
+tags: [ 'guantes', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

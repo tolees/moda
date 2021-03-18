@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B011BW15UO-es The North Face Jkt Chaqueta Snow Quest Unisex niños Negro M'
 sku: 'B011BW15UO-es'
+tags: [ 'chaqueta', ]
 actualPrice: 65.27 EUR
 currency: EUR
 price: 65.27

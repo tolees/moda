@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V4N3ZWB-es Tommy Hilfiger Corporate Leather Flat Sandal Sandalias con...'
 sku: 'B07V4N3ZWB-es'
+tags: [ 'sandalias', ]
 actualPrice: 53.83 EUR
 currency: EUR
 price: 53.83

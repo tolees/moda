@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JXKBDT1-es XTI 48771 Sandalias con Punta Abierta para Mujer Beige...'
 sku: 'B07JXKBDT1-es'
+tags: [ 'sandalias', ]
 actualPrice: 8.33 EUR
 currency: EUR
 price: 8.33

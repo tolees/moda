@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZQMRBX-es Pepe Jeans Georginna Vestido Black 999 Large para Mujer'
 sku: 'B07MZQMRBX-es'
+tags: [ 'vestido', ]
 actualPrice: 19.83 EUR
 currency: EUR
 price: 19.83

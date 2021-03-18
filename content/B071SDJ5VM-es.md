@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071SDJ5VM-es GEOX U740HA-022ME-C9997 DAMIAN Zapatilla de hombre color...'
 sku: 'B071SDJ5VM-es'
+tags: [ 'geox','zapatilla', ]
 actualPrice: 37.16 EUR
 currency: EUR
 price: 37.16

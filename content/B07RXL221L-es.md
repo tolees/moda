@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RXL221L-es Levi s The Original Camiseta Gris Hm Patch OG tee Forged...'
 sku: 'B07RXL221L-es'
+tags: [ 'camiseta', ]
 actualPrice: 18.17 EUR
 currency: EUR
 price: 18.17

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01B1FD42I-es Bluelover Cebolla Goggles Gafas Rebanar Cocina Corte Picar...'
 sku: 'B01B1FD42I-es'
+tags: [ 'gafas', ]
 actualPrice: 6.69 EUR
 currency: EUR
 price: 6.69

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JVZDB1B-es Marca Amazon - find. Calzoncillo Corto Bajo de Algodón...'
 sku: 'B07JVZDB1B-es'
+tags: [ '-','find.', ]
 actualPrice: 19.14 EUR
 currency: EUR
 price: 19.14

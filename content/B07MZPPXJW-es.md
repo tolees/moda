@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZPPXJW-es Pepe Jeans Nastia Sudadera Verdant 683 X-Small para Mujer'
 sku: 'B07MZPPXJW-es'
+tags: [ 'sudadera', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

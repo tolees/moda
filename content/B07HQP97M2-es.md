@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HQP97M2-es Speedo Fastskin Elite Mirror Gafas de natación Unisex...'
 sku: 'B07HQP97M2-es'
+tags: [ 'gafas', ]
 actualPrice: 37.97 EUR
 currency: EUR
 price: 37.97

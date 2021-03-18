@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07896NCMJ-es Under Armour UA Boxed Sportstyle Short Sleeve Camiseta...'
 sku: 'B07896NCMJ-es'
+tags: [ 'camiseta', ]
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

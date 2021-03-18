@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WPBT992-es Tommy Hilfiger Bikini con Inserción de Malla Braguitas con...'
 sku: 'B06WPBT992-es'
+tags: [ 'bikini', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

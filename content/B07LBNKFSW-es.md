@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LBNKFSW-es Helly Hansen Welsey II Aislado Impermeable Gabardina...'
 sku: 'B07LBNKFSW-es'
+tags: [ 'chaqueta', ]
 actualPrice: 107.47 EUR
 currency: EUR
 price: 107.47

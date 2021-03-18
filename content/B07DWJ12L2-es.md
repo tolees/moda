@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DWJ12L2-es hummel Precision Pro Entrenamiento Zip Chaqueta...'
 sku: 'B07DWJ12L2-es'
+tags: [ 'chaqueta', ]
 actualPrice: 19 EUR
 currency: EUR
 price: 19

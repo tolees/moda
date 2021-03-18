@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JC973BB-es Timberland NeWaterproofort Bay Oxford Zapatillas Unisex-...'
 sku: 'B07JC973BB-es'
+tags: [ 'timberland', ]
 actualPrice: 16.94 EUR
 currency: EUR
 price: 16.94

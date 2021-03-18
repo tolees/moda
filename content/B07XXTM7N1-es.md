@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XXTM7N1-es CHICTRY Chaqueta de Princesa Fiesta Boda Danza para Niña...'
 sku: 'B07XXTM7N1-es'
+tags: [ 'abrigo','chaqueta', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

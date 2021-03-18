@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SD195SJ-es PUMA Leadcat FTR Sandalias deslizantes Unisex-Adulto Negro...'
 sku: 'B07SD195SJ-es'
+tags: [ 'sandalias', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081CDQ3QS-es Geographical Norway Parka NIÑO Boomerang Azul Marino 12'
 sku: 'B081CDQ3QS-es'
+tags: [ 'parka', ]
 actualPrice: 71.2 EUR
 currency: EUR
 price: 71.2

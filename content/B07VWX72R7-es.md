@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VWX72R7-es Pepe Jeans Montana Camiseta Azul Old Navy 584 Medium para...'
 sku: 'B07VWX72R7-es'
+tags: [ 'camiseta', ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

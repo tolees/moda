@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QWQ5J9Z-es LIGE Relojes de Pulsera para Hombre Impermeable con Fecha...'
 sku: 'B07QWQ5J9Z-es'
+tags: [ 'moda', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

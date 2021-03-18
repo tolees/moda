@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003ABN88W-es Havaianas Chanclas Unisex adulto Azul Brasil Logo Marine...'
 sku: 'B003ABN88W-es'
+tags: [ 'chanclas', ]
 actualPrice: 1.01 EUR
 currency: EUR
 price: 1.01

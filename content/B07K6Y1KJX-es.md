@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K6Y1KJX-es Levi s 501 Crop Vaqueros Straight Azul Shot In The Dark...'
 sku: 'B07K6Y1KJX-es'
+tags: [ 'vaqueros', ]
 actualPrice: 36.5 EUR
 currency: EUR
 price: 36.5

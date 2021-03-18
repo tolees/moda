@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QFWJDKL-es MTNG Collection 58666 Botines para Mujer Negro Karma Negro...'
 sku: 'B07QFWJDKL-es'
+tags: [ 'botines', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99
