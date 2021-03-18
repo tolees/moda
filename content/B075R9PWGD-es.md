@@ -28,7 +28,7 @@ Tienes [Vero Moda Vmava Plain SS Top Ga Noos Camiseta  Gris  Asphalt Asphalt   3
 
 🔎:
 
-- Made of flowing Lyocell quality with stretch
 - Cool Basic Shirt by VERO MODA
+- Made of flowing Lyocell quality with stretch
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B075R9PWGD/?tag=tolees-21)

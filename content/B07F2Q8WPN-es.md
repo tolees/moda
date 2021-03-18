@@ -28,8 +28,8 @@ En este momento está [Helly Hansen Hp Fleece Jacket  Chaqueta deportiva para Ho
 
 🔎:
 
+- De alta calidad.
 - Polar en poliéster de acabado brillante, 285 g/m² Forro polar con estructura en el panel posterior Cremalleras YKK en el delantero y los bolsillos Manga raglán que brinda libertad de movimiento
 - De la marca Helly Hansen.
-- De alta calidad.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07F2Q8WPN/?tag=tolees-21)
