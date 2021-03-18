@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000W8AMR6-es Havaianas Slim Chanclas para Mujer Negro Black 0090 37/38 EU'
 sku: 'B000W8AMR6-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076VS7SRQ-es G-STAR RAW 3301 Slim Vaqueros Dk Aged Cobler 7863-3143 27W...'
 sku: 'B076VS7SRQ-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 25.23 EUR
 currency: EUR
 price: 25.23

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HI3MLVM-es Superdry Classic Pique S/S Polo Camisa de Pijama Para...'
 sku: 'B01HI3MLVM-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','camisa','pijama', ]
+tags: [ 'camisa','pijama', ]
 actualPrice: 22.17 EUR
 currency: EUR
 price: 22.17

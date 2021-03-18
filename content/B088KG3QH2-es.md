@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088KG3QH2-es Suhctup Funda Compatible con Samsung Galaxy M10 Antigolpes...'
 sku: 'B088KG3QH2-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','moda', ]
+tags: [ 'moda', ]
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TVRJJYD-es Camisetas de Baloncesto para niño y niña Stephen Curry #30...'
 sku: 'B07TVRJJYD-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','camiseta','chaleco', ]
+tags: [ 'camiseta','chaleco', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

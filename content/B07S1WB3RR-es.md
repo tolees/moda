@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S1WB3RR-es Cressi Coral Shoes Zapatilla para Deportes Acuáticos...'
 sku: 'B07S1WB3RR-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','zapatilla', ]
+tags: [ 'zapatilla', ]
 actualPrice: 7.96 EUR
 currency: EUR
 price: 7.96

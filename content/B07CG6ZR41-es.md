@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CG6ZR41-es Marca Amazon - IRIS & LILLY Top de Bikini Crochet Mujer...'
 sku: 'B07CG6ZR41-es'
-tags: [ '&','Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','bikini','iris','lilly', ]
+tags: [ '&','bikini','iris','lilly', ]
 actualPrice: 7.78 EUR
 currency: EUR
 price: 7.78

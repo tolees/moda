@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TVV9M5K-es Lee Logo tee Camiseta Blanco White 12 Medium para Mujer'
 sku: 'B07TVV9M5K-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 18.12 EUR
 currency: EUR
 price: 18.12

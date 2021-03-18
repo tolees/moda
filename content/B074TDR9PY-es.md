@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074TDR9PY-es ZAPATO GEOX U741UA 020FU C61T7J MARRON 44 Marron'
 sku: 'B074TDR9PY-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','geox', ]
+tags: [ 'geox', ]
 actualPrice: 59.96 EUR
 currency: EUR
 price: 59.96

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YLBTJC1-es s.Oliver 03.899.32.5264 Camiseta Turquesa Türkis 6242...'
 sku: 'B07YLBTJC1-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

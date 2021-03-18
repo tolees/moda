@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LG18M4S-es Geox D New ANNYA Mid A Zapatos con Tacón para Mujer Negro...'
 sku: 'B07LG18M4S-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','geox','zapatos', ]
+tags: [ 'geox','zapatos', ]
 actualPrice: 68.76 EUR
 currency: EUR
 price: 68.76

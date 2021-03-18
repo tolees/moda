@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M95FZNB-es Lee Elly Vaqueros Azul Clean Beaufort JP W30/L31 para Mujer'
 sku: 'B07M95FZNB-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

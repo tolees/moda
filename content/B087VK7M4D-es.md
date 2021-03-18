@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087VK7M4D-es Columbia Pike Lake Chaqueta con Capucha Hombre Rojo Negro...'
 sku: 'B087VK7M4D-es'
-tags: [ 'Acampada y senderismo','Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas de acampada y marcha para hombre','Chaquetas para hombre','Chubasqueros de acampada y marcha para hombre','Deportes y aire libre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa de acampada','Ropa de acampada para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','chaqueta','columbia', ]
+tags: [ 'Chubasqueros de acampada y marcha para hombre','chaqueta','columbia', ]
 actualPrice: 74.95 EUR
 currency: EUR
 price: 74.95

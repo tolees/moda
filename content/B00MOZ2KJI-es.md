@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MOZ2KJI-es Dickies Streetwear Male Shirt Sacramento - Camiseta /...'
 sku: 'B00MOZ2KJI-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','camisa','camiseta', ]
+tags: [ 'camisa','camiseta', ]
 actualPrice: 34.78 EUR
 currency: EUR
 price: 34.78

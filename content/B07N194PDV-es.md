@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N194PDV-es Lee Rider Shirt Camisa Hombre Negro Washed Black Ja Small'
 sku: 'B07N194PDV-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','camisa', ]
+tags: [ 'camisa', ]
 actualPrice: 28.64 EUR
 currency: EUR
 price: 28.64

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KGR5B9R-es edc by Esprit 999cc2k803 Camiseta Rojo Red 630 Small para...'
 sku: 'B07KGR5B9R-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 4.49 EUR
 currency: EUR
 price: 4.49

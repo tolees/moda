@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BJHBR5V-es G-STAR RAW Revend Skinny Vaqueros Rinsed 8970-082 38W /...'
 sku: 'B07BJHBR5V-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 33.23 EUR
 currency: EUR
 price: 33.23

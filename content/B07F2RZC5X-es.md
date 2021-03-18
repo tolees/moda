@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F2RZC5X-es Helly Hansen Hp Ocean Fz Hoodie Sudadera para Hombre Gris...'
 sku: 'B07F2RZC5X-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','sudadera', ]
+tags: [ 'sudadera', ]
 actualPrice: 51.64 EUR
 currency: EUR
 price: 51.64

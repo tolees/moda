@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077Z3RC9W-es Adidas Response Tee M Camiseta para Hombre Multicolor Rojo S'
 sku: 'B077Z3RC9W-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 16.58 EUR
 currency: EUR
 price: 16.58

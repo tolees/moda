@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GNWMY4Z-es Skechers On-The-go 600-Flawless Sandalias de Talón Abierto...'
 sku: 'B07GNWMY4Z-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','sandalias', ]
+tags: [ 'sandalias', ]
 actualPrice: 35.59 EUR
 currency: EUR
 price: 35.59

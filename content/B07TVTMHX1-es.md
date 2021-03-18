@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TVTMHX1-es Women s Secret Home Set 2 HS Say Yes PJ Conjuntos de...'
 sku: 'B07TVTMHX1-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','pijama', ]
+tags: [ 'pijama', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

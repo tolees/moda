@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NQUPZ24-es LTB Jeans 5346 - Vaqueros para mujer Azul Blue Lapis Wash...'
 sku: 'B00NQUPZ24-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 29.4 EUR
 currency: EUR
 price: 29.4

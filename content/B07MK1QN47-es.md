@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MK1QN47-es Napapijri Rainforest Winter 1 Chaqueta Marrón Golden Brown...'
 sku: 'B07MK1QN47-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 65.73 EUR
 currency: EUR
 price: 65.73

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KDF88WS-es adidas Regi18 Pre Jkt Chaqueta de Deporte Hombre Bold...'
 sku: 'B07KDF88WS-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 22.18 EUR
 currency: EUR
 price: 22.18

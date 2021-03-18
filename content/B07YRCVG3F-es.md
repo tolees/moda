@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YRCVG3F-es Marca Amazon - AURIQUE Shorts para Correr con Banda...'
 sku: 'B07YRCVG3F-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','aurique', ]
+tags: [ 'aurique', ]
 actualPrice: 12.8 EUR
 currency: EUR
 price: 12.8

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LWMULL7-es Marca Amazon - IRIS & LILLY Sujetador Preformado con...'
 sku: 'B01LWMULL7-es'
-tags: [ '&','Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','iris','lilly', ]
+tags: [ '&','iris','lilly', ]
 actualPrice: 5.98 EUR
 currency: EUR
 price: 5.98

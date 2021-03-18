@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087BXQRS2-es TAONEEF Mujer Moda Stiletto Sandalias Correa de Tobillo...'
 sku: 'B087BXQRS2-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','moda','sandalias','zapatos', ]
+tags: [ 'moda','sandalias','zapatos', ]
 actualPrice: 23.88 EUR
 currency: EUR
 price: 23.88

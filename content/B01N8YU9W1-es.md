@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N8YU9W1-es Geox U Wells C Zapatillas para Hombre Azul Navy C4064 40 EU'
 sku: 'B01N8YU9W1-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','geox', ]
+tags: [ 'geox', ]
 actualPrice: 52.91 EUR
 currency: EUR
 price: 52.91

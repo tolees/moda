@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0817HMJ3Y-es Columbia Triple Canyon Pantalón Corto De Senderismo Hombre...'
 sku: 'B0817HMJ3Y-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','pantalón', ]
+tags: [ 'pantalón', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

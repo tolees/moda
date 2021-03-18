@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077KHRFTG-es Columbia M Thermarator Glove Guantes Hombre Negro Talla XL'
 sku: 'B077KHRFTG-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','guantes', ]
+tags: [ 'guantes', ]
 actualPrice: 14.49 EUR
 currency: EUR
 price: 14.49

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FDHXFXT-es Levi s 510 Skinny Fit Vaqueros para Hombre Azul Irish Sea...'
 sku: 'B07FDHXFXT-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 84.08 EUR
 currency: EUR
 price: 84.08

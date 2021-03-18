@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TXF9M5Y-es Levi s 711 Shaping Super Skinny Pantalón Que moldea la...'
 sku: 'B07TXF9M5Y-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','pantalón', ]
+tags: [ 'pantalón', ]
 actualPrice: 43.39 EUR
 currency: EUR
 price: 43.39

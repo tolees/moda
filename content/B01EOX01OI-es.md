@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EOX01OI-es Helly Hansen COASTAL 2 Parka - Parka acolchada impermeable...'
 sku: 'B01EOX01OI-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','parka', ]
+tags: [ 'parka', ]
 actualPrice: 156.78 EUR
 currency: EUR
 price: 156.78

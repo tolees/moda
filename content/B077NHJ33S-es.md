@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077NHJ33S-es Marca Amazon - find. Camiseta con Cuello Redondo Mujer...'
 sku: 'B077NHJ33S-es'
-tags: [ '-','Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','camiseta','find.', ]
+tags: [ '-','camiseta','find.', ]
 actualPrice: 4.59 EUR
 currency: EUR
 price: 4.59

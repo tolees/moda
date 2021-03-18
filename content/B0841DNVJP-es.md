@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Tommy Hilfiger TJM Essential Down Jacket al 38.74 % de descuento'
-date: 2021-03-15 08:25:09
+date: 2021-03-18 09:05:11
 image: 'https://m.media-amazon.com/images/I/414FvYQqQPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0841DNVJP-es Tommy Hilfiger TJM Essential Down Jacket Chaqueta Amarillo...'
 sku: 'B0841DNVJP-es'
-tags: [ 'chaqueta', ]
+tags: [ 'Chaquetas para hombre','chaqueta','tommy hilfiger', ]
 actualPrice: 128.04 EUR
 currency: EUR
 price: 128.04
@@ -28,9 +28,9 @@ Está [Tommy Hilfiger TJM Essential Down Jacket Chaqueta  Amarillo Valle  M para
 
 ℹ️:
 
-- Este producto se ha producido de forma sostenible
 - Producto original y auténtico de Tommy Hilfiger/Tommy Jeans
 - Más información sobre Tommy Hilfiger / Tommy Jeans se puede encontrar en la descripción del producto
 - Tommy Jeans ropa exterior para hombre
+- Este producto se ha producido de forma sostenible
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0841DNVJP/?tag=tolees-21)

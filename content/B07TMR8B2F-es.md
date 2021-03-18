@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TMR8B2F-es G-STAR RAW Earth Beetle Sudadera Azul Faded Legion Blue...'
 sku: 'B07TMR8B2F-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','sudadera', ]
+tags: [ 'sudadera', ]
 actualPrice: 22.3 EUR
 currency: EUR
 price: 22.3

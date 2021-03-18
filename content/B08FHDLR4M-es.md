@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FHDLR4M-es Sibinulo Camisón de Maternidad Pijama Lactancia Vestido...'
 sku: 'B08FHDLR4M-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','pijama','vestido', ]
+tags: [ 'pijama','vestido', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

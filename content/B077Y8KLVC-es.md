@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077Y8KLVC-es HIKARO Sudadera con Capucha Hombre Rojo Red 48 Talla del...'
 sku: 'B077Y8KLVC-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','sudadera', ]
+tags: [ 'sudadera', ]
 actualPrice: 6.59 EUR
 currency: EUR
 price: 6.59

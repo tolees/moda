@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L1JM3T3-es Jack & Jones Jjiliam Jjoriginal Am 816 Noos Vaqueros...'
 sku: 'B07L1JM3T3-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

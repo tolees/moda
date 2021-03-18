@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MXWC8JD-es Desigual 19WAXPBS - Bolso de hombro de Sintético Mujer...'
 sku: 'B07MXWC8JD-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','bolso', ]
+tags: [ 'bolso', ]
 actualPrice: 41.96 EUR
 currency: EUR
 price: 41.96

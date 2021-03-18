@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074QGVLMB-es Uvex Sportstyle 706 Gafas Deportivas Unisex Adulto Negro...'
 sku: 'B074QGVLMB-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','gafas', ]
+tags: [ 'gafas', ]
 actualPrice: 18.08 EUR
 currency: EUR
 price: 18.08

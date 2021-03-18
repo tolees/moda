@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00L1W65VO-es The North Face Evolve II Triclimate Chaqueta Hombre Negro...'
 sku: 'B00L1W65VO-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

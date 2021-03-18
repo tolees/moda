@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M83VZHW-es Napapijri Aerons Vest 2 Chaqueta Azul French Blue BB7 XL...'
 sku: 'B07M83VZHW-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 79.5 EUR
 currency: EUR
 price: 79.5

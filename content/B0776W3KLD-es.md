@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0776W3KLD-es Adidas Terrex Swift R2 Zapatos de Low Rise Senderismo para...'
 sku: 'B0776W3KLD-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 81.99 EUR
 currency: EUR
 price: 81.99

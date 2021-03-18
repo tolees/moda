@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FTRBYZV-es Lee Western Shirt Camisa Black 01 XS para Hombre'
 sku: 'B07FTRBYZV-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','camisa', ]
+tags: [ 'camisa', ]
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

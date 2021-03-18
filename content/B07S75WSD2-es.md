@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S75WSD2-es Crocs Classic II Flip Chanclas Unisex Adulto Negro Black...'
 sku: 'B07S75WSD2-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

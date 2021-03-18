@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000YKMHP2-es Havaianas Top Chanclas Unisex Adulto Blanco White 41/42 EU'
 sku: 'B000YKMHP2-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 11.27 EUR
 currency: EUR
 price: 11.27

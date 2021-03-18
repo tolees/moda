@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084LDXKYK-es Syllana 2 PCS Bolsa de Lavadora para Zapatos Bolsa de...'
 sku: 'B084LDXKYK-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','zapatos', ]
+tags: [ 'zapatos', ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

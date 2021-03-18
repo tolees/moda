@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LBNG2SJ-es Helly Hansen Phantom 1/2 Zip 2.0 Ligera Elástico Jersey De...'
 sku: 'B07LBNG2SJ-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','jersey', ]
+tags: [ 'jersey', ]
 actualPrice: 35.77 EUR
 currency: EUR
 price: 35.77

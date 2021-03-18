@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NDL6HYM-es G-STAR RAW Whistler Down Parka Gris Asfalt 995 XX-Small...'
 sku: 'B07NDL6HYM-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','parka', ]
+tags: [ 'parka', ]
 actualPrice: 74.68 EUR
 currency: EUR
 price: 74.68

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073RP2XTM-es Helly Hansen Crew Windbreaker Chaqueta Hombre Navy L'
 sku: 'B073RP2XTM-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 68.35 EUR
 currency: EUR
 price: 68.35

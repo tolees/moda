@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0773JYB5Y-es Crocs Yukon Vista Clog M Zuecos para Hombre Negro...'
 sku: 'B0773JYB5Y-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','zuecos', ]
+tags: [ 'zuecos', ]
 actualPrice: 31.63 EUR
 currency: EUR
 price: 31.63

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PDFYXH2-es XTI 86138 Bolso bandolera para Mujer Negro 25x20x7 cm W x...'
 sku: 'B07PDFYXH2-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','bolso', ]
+tags: [ 'bolso', ]
 actualPrice: 32.49 EUR
 currency: EUR
 price: 32.49

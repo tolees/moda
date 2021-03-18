@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076QBBL7W-es G-STAR RAW Core 3D Slim Shirt Wmn L/s Blusa Blanco White...'
 sku: 'B076QBBL7W-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','blusa', ]
+tags: [ 'blusa', ]
 actualPrice: 34.97 EUR
 currency: EUR
 price: 34.97

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N33X9TC-es IRIS & LILLY BELK015M7 Tanga Multicolour...'
 sku: 'B07N33X9TC-es'
-tags: [ '&','Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','iris','lilly', ]
+tags: [ '&','iris','lilly', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

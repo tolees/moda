@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081CDQ3QS-es Geographical Norway Parka NIÑO Boomerang Azul Marino 12'
 sku: 'B081CDQ3QS-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','parka', ]
+tags: [ 'parka', ]
 actualPrice: 71.2 EUR
 currency: EUR
 price: 71.2

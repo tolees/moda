@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FSGTJ94-es Lee Lee Crew Sws sudadera Mujer Marfil Faded Rosado Ea Medium'
 sku: 'B07FSGTJ94-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','sudadera', ]
+tags: [ 'sudadera', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

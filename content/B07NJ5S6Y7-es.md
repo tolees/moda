@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NJ5S6Y7-es Springfield 7.J.Ap.T.Turtle Neck Jersey Negro Negro 1...'
 sku: 'B07NJ5S6Y7-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','jersey', ]
+tags: [ 'jersey', ]
 actualPrice: 5.15 EUR
 currency: EUR
 price: 5.15

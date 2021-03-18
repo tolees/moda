@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KYQM6T5-es Springfield 5DS Polo Oxford Liso Jersey Gama Azules 11...'
 sku: 'B07KYQM6T5-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','jersey', ]
+tags: [ 'jersey', ]
 actualPrice: 8.69 EUR
 currency: EUR
 price: 8.69

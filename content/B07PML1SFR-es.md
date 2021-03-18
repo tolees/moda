@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PML1SFR-es MTNG Picton Bolso Bolera para Mujer Nylon/lis Negro...'
 sku: 'B07PML1SFR-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','bolso', ]
+tags: [ 'bolso', ]
 actualPrice: 15.54 EUR
 currency: EUR
 price: 15.54

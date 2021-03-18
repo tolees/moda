@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YJHT2QV-es Eli-time Gafas de sol polarizadas ultraligeras hombres y...'
 sku: 'B07YJHT2QV-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','gafas','moda', ]
+tags: [ 'gafas','moda', ]
 actualPrice: 9.4 EUR
 currency: EUR
 price: 9.4

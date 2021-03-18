@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SHV7XB9-es G-Star Sp15505 Sweat Sudadera Verde Kaki Green 56 8 años...'
 sku: 'B07SHV7XB9-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','sudadera', ]
+tags: [ 'sudadera', ]
 actualPrice: 7.35 EUR
 currency: EUR
 price: 7.35

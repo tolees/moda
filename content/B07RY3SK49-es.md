@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RY3SK49-es BILLABONG TRD Mrk LS tee Camiseta Gris Grey Heather 9 One...'
 sku: 'B07RY3SK49-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 8.67 EUR
 currency: EUR
 price: 8.67

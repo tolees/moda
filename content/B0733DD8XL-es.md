@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0733DD8XL-es Marca Amazon - find. Sudadera de Tacto Suave para Hombre...'
 sku: 'B0733DD8XL-es'
-tags: [ '-','Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','find.','sudadera', ]
+tags: [ '-','find.','sudadera', ]
 actualPrice: 7.12 EUR
 currency: EUR
 price: 7.12

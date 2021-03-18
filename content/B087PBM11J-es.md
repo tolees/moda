@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087PBM11J-es Suhctup Funda Compatible con LG Stylo 5 Billetera Carcasa...'
 sku: 'B087PBM11J-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','billetera', ]
+tags: [ 'billetera', ]
 actualPrice: 10.98 EUR
 currency: EUR
 price: 10.98

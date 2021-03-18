@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B017INL3D4-es Happy Girls Chaqueta de Punto Niñas talla fabricante 152...'
 sku: 'B017INL3D4-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 11.06 EUR
 currency: EUR
 price: 11.06

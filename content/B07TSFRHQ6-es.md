@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TSFRHQ6-es Wrangler Straight Vaqueros para Mujer Azul Montego Bay 11P...'
 sku: 'B07TSFRHQ6-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 53.66 EUR
 currency: EUR
 price: 53.66

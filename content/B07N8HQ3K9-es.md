@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N8HQ3K9-es Desigual Dress Uvas Vestido Azul Navy 5000 152 cm para Niñas'
 sku: 'B07N8HQ3K9-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','vestido', ]
+tags: [ 'vestido', ]
 actualPrice: 32.43 EUR
 currency: EUR
 price: 32.43

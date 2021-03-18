@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DJ3B4B9-es Geox D Yulimar C Sandalias con Punta Abierta para Mujer Lt...'
 sku: 'B07DJ3B4B9-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','geox','sandalias', ]
+tags: [ 'geox','sandalias', ]
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

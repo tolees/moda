@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CBVFJN8-es LJP Funda Huawei Honor 20 Suave PU Cuero Carcasa y TPU...'
 sku: 'B08CBVFJN8-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','billetera', ]
+tags: [ 'billetera', ]
 actualPrice: 7.92 EUR
 currency: EUR
 price: 7.92

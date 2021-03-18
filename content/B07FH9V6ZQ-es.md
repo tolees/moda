@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FH9V6ZQ-es Amazon Essentials – Pantalón chino sin pinzas en la parte...'
 sku: 'B07FH9V6ZQ-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','pantalón', ]
+tags: [ 'pantalón', ]
 actualPrice: 12.6 EUR
 currency: EUR
 price: 12.6

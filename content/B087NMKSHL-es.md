@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087NMKSHL-es CHALA 1450PCS Joyas de acrílico Diamantes de imitación de...'
 sku: 'B087NMKSHL-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','vestido', ]
+tags: [ 'vestido', ]
 actualPrice: 9.59 EUR
 currency: EUR
 price: 9.59

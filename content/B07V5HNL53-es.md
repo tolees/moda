@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V5HNL53-es HUGO Trunk Brother Pack Bóxer Negro Black 9 Small 2 para...'
 sku: 'B07V5HNL53-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','bóxer', ]
+tags: [ 'bóxer', ]
 actualPrice: 10.28 EUR
 currency: EUR
 price: 10.28

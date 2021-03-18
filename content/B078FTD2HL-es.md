@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078FTD2HL-es Prada 0PR05TS TH71I0 53 Gafas de sol Blanco Light...'
 sku: 'B078FTD2HL-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','gafas', ]
+tags: [ 'gafas', ]
 actualPrice: 129.0 EUR
 currency: EUR
 price: 129.0

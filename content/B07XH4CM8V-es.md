@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XH4CM8V-es Funko 46788 Pop Balón de Baloncesto: UNC-Michael Jordan...'
 sku: 'B07XH4CM8V-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','jersey', ]
+tags: [ 'jersey', ]
 actualPrice: 10.28 EUR
 currency: EUR
 price: 10.28

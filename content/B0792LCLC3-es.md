@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0792LCLC3-es Geox JR Wader A Zapatillas para Niños Negro Black C9999 28 EU'
 sku: 'B0792LCLC3-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','geox', ]
+tags: [ 'geox', ]
 actualPrice: 34.93 EUR
 currency: EUR
 price: 34.93

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088ZTX5V6-es Lydee Moda Plataforma Sandalias Mujer Verano Zapatos Tacon...'
 sku: 'B088ZTX5V6-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','moda','sandalias','zapatos', ]
+tags: [ 'moda','sandalias','zapatos', ]
 actualPrice: 32.86 EUR
 currency: EUR
 price: 32.86

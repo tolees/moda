@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N183MLC-es G-STAR RAW 5620 3D Vaqueros Slim Azul Dry Waxed Cobler...'
 sku: 'B07N183MLC-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 83.95 EUR
 currency: EUR
 price: 83.95

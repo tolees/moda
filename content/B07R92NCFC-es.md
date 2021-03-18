@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R92NCFC-es Columbia Marquam Peak Chaqueta de invierno Hombre Negro...'
 sku: 'B07R92NCFC-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 157.66 EUR
 currency: EUR
 price: 157.66

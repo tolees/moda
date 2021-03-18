@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HO30K7I-es Dickies Sacramento Camisa Gris Grey Melange Gym X-Large...'
 sku: 'B01HO30K7I-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','camisa', ]
+tags: [ 'camisa', ]
 actualPrice: 36.82 EUR
 currency: EUR
 price: 36.82

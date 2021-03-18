@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087RK6Q2R-es Mosucoirl Camisa sin Mangas con Cuello en V y Encaje con...'
 sku: 'B087RK6Q2R-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','blusa','camisa', ]
+tags: [ 'blusa','camisa', ]
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

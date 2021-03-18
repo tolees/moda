@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D84NKVV-es Dickies Belspring Chaqueta Marrón Small Talla del...'
 sku: 'B07D84NKVV-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 25.26 EUR
 currency: EUR
 price: 25.26

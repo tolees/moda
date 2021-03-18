@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SQFYR9V-es Geox B Kaytan A Sandalias de Punta Descubierta para Bebés...'
 sku: 'B07SQFYR9V-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','geox','sandalias', ]
+tags: [ 'geox','sandalias', ]
 actualPrice: 34.9 EUR
 currency: EUR
 price: 34.9

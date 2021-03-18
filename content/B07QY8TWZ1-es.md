@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QY8TWZ1-es Marca Amazon - IRIS & LILLY Asw-018 - Pijama de dos piezas...'
 sku: 'B07QY8TWZ1-es'
-tags: [ '&','Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','iris','lilly','pijama', ]
+tags: [ '&','iris','lilly','pijama', ]
 actualPrice: 7.39 EUR
 currency: EUR
 price: 7.39

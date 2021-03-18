@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NDNQ82D-es G-STAR RAW Scutar Utility Padded Abrigo Gris Dk Black 6484...'
 sku: 'B07NDNQ82D-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','abrigo', ]
+tags: [ 'abrigo', ]
 actualPrice: 29.61 EUR
 currency: EUR
 price: 29.61

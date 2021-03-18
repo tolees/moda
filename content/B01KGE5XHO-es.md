@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KGE5XHO-es Goodthreads Slim-Fit Long-Sleeve Solid Oxford Shirt Camisa...'
 sku: 'B01KGE5XHO-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','camisa','goodthreads', ]
+tags: [ 'camisa','goodthreads', ]
 actualPrice: 8.93 EUR
 currency: EUR
 price: 8.93

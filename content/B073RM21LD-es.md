@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073RM21LD-es Marca Amazon - find. Chaqueta de Satén Estilo Bómber Mujer...'
 sku: 'B073RM21LD-es'
-tags: [ '-','Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','chaqueta','find.', ]
+tags: [ '-','chaqueta','find.', ]
 actualPrice: 11.83 EUR
 currency: EUR
 price: 11.83

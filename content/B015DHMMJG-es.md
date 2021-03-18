@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015DHMMJG-es Levi s 711 Vaqueros Skinny Negro Black Sheen 0052 31W /...'
 sku: 'B015DHMMJG-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 46.7 EUR
 currency: EUR
 price: 46.7

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0774H5YCX-es Eastpak Buddy Bolso bandolera 18 cm Azul Cloud Navy'
 sku: 'B0774H5YCX-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','bolso', ]
+tags: [ 'bolso', ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

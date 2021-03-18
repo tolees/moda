@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NJ3XV9D-es Springfield 2.T. Print Vestido Negro Negro 1 Medium Tamaño...'
 sku: 'B07NJ3XV9D-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','vestido', ]
+tags: [ 'vestido', ]
 actualPrice: 7.45 EUR
 currency: EUR
 price: 7.45

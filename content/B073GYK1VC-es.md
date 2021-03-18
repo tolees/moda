@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073GYK1VC-es Marca Amazon - find. Off The Shoulder Button Camisa para...'
 sku: 'B073GYK1VC-es'
-tags: [ '-','Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','camisa','find.', ]
+tags: [ '-','camisa','find.', ]
 actualPrice: 7.78 EUR
 currency: EUR
 price: 7.78

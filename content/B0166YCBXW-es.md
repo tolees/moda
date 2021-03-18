@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0166YCBXW-es Levi s 711 Skinny Vaqueros Negro Blacks W26/L34 para Mujer'
 sku: 'B0166YCBXW-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 33.21 EUR
 currency: EUR
 price: 33.21

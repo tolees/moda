@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08952SQXD-es Vestido de Tirantes con Cuello en Pico y Detalles de...'
 sku: 'B08952SQXD-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','vestido', ]
+tags: [ 'vestido', ]
 actualPrice: 20.93 EUR
 currency: EUR
 price: 20.93

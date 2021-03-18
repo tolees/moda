@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G1FTPL4-es Ocobudbxw Mujeres niñas Moda en Forma de corazón Embrague...'
 sku: 'B08G1FTPL4-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','bolso','moda','monedero', ]
+tags: [ 'bolso','moda','monedero', ]
 actualPrice: 17.41 EUR
 currency: EUR
 price: 17.41

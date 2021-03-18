@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0722X5GBN-es find. Vestido para Mujer Rojo Wine 36 Talla del...'
 sku: 'B0722X5GBN-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','vestido', ]
+tags: [ 'vestido', ]
 actualPrice: 8.4 EUR
 currency: EUR
 price: 8.4

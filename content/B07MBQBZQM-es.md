@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MBQBZQM-es Marca Amazon - MERAKI Falda de Algodón Midi Mujer Beige 46...'
 sku: 'B07MBQBZQM-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','falda','meraki', ]
+tags: [ 'falda','meraki', ]
 actualPrice: 7.94 EUR
 currency: EUR
 price: 7.94

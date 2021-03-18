@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005RB0Z3O-es Ray-Ban Mod. 4147 Gafas de sol Light Havana 55 para Hombre'
 sku: 'B005RB0Z3O-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','gafas', ]
+tags: [ 'gafas', ]
 actualPrice: 95.0 EUR
 currency: EUR
 price: 95.0

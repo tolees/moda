@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072X3S3LX-es Columbia Powder Lite Hooded Chaqueta De Plumón con Capucha...'
 sku: 'B072X3S3LX-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

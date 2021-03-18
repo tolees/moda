@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01H4A8E4M-es Wrangler Texas Tonal Vaqueros Gris Graze 33W / 32L para...'
 sku: 'B01H4A8E4M-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

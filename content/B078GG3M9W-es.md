@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078GG3M9W-es Erima GmbH 2071803 XXL Sudadera Abierta Hombre Azul New Royal'
 sku: 'B078GG3M9W-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','sudadera', ]
+tags: [ 'sudadera', ]
 actualPrice: 28.63 EUR
 currency: EUR
 price: 28.63

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079V4ZDPB-es Wrangler Skinny Vaqueros Skinny Mujer Azul Tainted Blue...'
 sku: 'B079V4ZDPB-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','vaqueros', ]
+tags: [ 'vaqueros', ]
 actualPrice: 31.71 EUR
 currency: EUR
 price: 31.71

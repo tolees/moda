@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016W1G6JE-es Tommy Hilfiger 2P Tank Camiseta blanco blanco 100 S para...'
 sku: 'B016W1G6JE-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

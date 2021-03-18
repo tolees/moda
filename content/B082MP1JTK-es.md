@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082MP1JTK-es Geographical Norway Chaqueta Mujer Abby Negro 02'
 sku: 'B082MP1JTK-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','chaqueta', ]
+tags: [ 'chaqueta', ]
 actualPrice: 99.9 EUR
 currency: EUR
 price: 99.9

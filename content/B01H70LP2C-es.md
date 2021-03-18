@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01H70LP2C-es crocs 203998 Chanclas Mujer Negro Black/White 36/37 EU W 6 US'
 sku: 'B01H70LP2C-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','chanclas', ]
+tags: [ 'chanclas', ]
 actualPrice: 22.3 EUR
 currency: EUR
 price: 22.3

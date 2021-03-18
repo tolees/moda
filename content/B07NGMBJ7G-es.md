@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NGMBJ7G-es Marca Amazon - find. Vestido Largo Estilo Camiseta de...'
 sku: 'B07NGMBJ7G-es'
-tags: [ '-','Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','camiseta','find.','vestido', ]
+tags: [ '-','camiseta','find.','vestido', ]
 actualPrice: 5.39 EUR
 currency: EUR
 price: 5.39

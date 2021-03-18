@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076HR2L1Y-es Adidas Core 18 Training Jsy Camiseta Hombre Verde Bold...'
 sku: 'B076HR2L1Y-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','camiseta', ]
+tags: [ 'camiseta', ]
 actualPrice: 13.94 EUR
 currency: EUR
 price: 13.94

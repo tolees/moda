@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B017AG4IHW-es Polaroid P0115 JB N5N Gafas de sol Azul Bluette Royal...'
 sku: 'B017AG4IHW-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Chaquetas para hombre','Fundas blandas para portátiles y netbooks','Informática','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','gafas', ]
+tags: [ 'gafas', ]
 actualPrice: 24.55 EUR
 currency: EUR
 price: 24.55
