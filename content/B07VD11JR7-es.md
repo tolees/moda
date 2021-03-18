@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VD11JR7-es edc by Esprit 099cc1g012 Chaqueta Marrón Camel 230 X-Small...'
 sku: 'B07VD11JR7-es'
-tags: [ 'Abrigos para mujer','Acampada y senderismo','Accesorios','Accesorios de viaje','Blusas y camisas para mujer','Botas para hombre','Camisas casual para hombre','Camisetas para hombre','Camisetas, polos y camisas para hombre','Camisetas, tops y blusas para mujer','Camisetas, tops y blusas para premamá','Chalecos de fútbol para hombre','Chaquetas de acampada y marcha para hombre','Chaquetas de pluma para acampada y marcha para hombre','Chaquetas para hombre','Chaquetas para mujer','Deportes y aire libre','Equipaje','Fútbol','Jerséis, cárdigans y sudaderas para mujer','Neceseres de viaje','Pantalones de pijama para hombre','Ropa','Ropa de abrigo para hombre','Ropa de abrigo para mujer','Ropa de acampada','Ropa de acampada para hombre','Ropa de dormir para hombre','Ropa de fútbol','Ropa de fútbol para hombre','Ropa para hombre','Ropa para mujer','Ropa para premamá','Sudaderas para mujer','Sudaderas sin capucha para mujer','Vaqueros para mujer','Zapatos','Zapatos para hombre','Zapatos y complementos','chaqueta', ]
+tags: [ 'Camisas casual para hombre','Camisetas para hombre','Camisetas, polos y camisas para hombre','Chaquetas para hombre','Chaquetas para mujer','Ropa','Ropa de abrigo para hombre','Ropa de abrigo para mujer','Ropa para hombre','Ropa para mujer','chaqueta', ]
 actualPrice: 17.71 EUR
 currency: EUR
 price: 17.71
