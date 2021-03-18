@@ -29,9 +29,9 @@ Tienes [IBAKOM - Disfraz de bebé niña mi primer primer cumpleaños de manga co
 🔎:
 
 - Una elección perfecta para fiestas de cumpleaños, fiestas, tartas, sesiones de fotos y uso diario.
-- Pelele con impresión brillante especial, falda tutú con lazo de lentejuelas brillante.
-- Recién nacido, niña, fiesta de cumpleaños, pelele de manga corta, falda tutú y cinta para la cabeza, 3 piezas.
 - Tejido suave y transpirable, diseño de cintura elástica, 3 botones de presión en la entrepierna, cómodo de llevar.
+- Recién nacido, niña, fiesta de cumpleaños, pelele de manga corta, falda tutú y cinta para la cabeza, 3 piezas.
 - Características: manga corta, cuello redondo, impresión de letras, lazos, botón de presión
+- Pelele con impresión brillante especial, falda tutú con lazo de lentejuelas brillante.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08X2NN9GD/?tag=tolees-21)

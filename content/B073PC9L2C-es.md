@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'oodji Ultra Mujer Camisa Básica de Algod al 18.60 % de descuento'
-date: 2021-03-17 16:37:54
+date: 2021-03-18 16:48:05
 image: 'https://m.media-amazon.com/images/I/5106a03CbOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B073PC9L2C-es oodji Ultra Mujer Camisa Básica de Algodón Azul ES 34 / XXS'
 sku: 'B073PC9L2C-es'
+tags: [ 'Blusas y camisas para mujer','Camisetas, tops y blusas para mujer','Ropa','Ropa para mujer','camisa','oodji ultra', ]
 actualPrice: 7.0 EUR
 currency: EUR
 price: 7.0
@@ -27,10 +28,10 @@ Ahora mismo tienes [oodji Ultra Mujer Camisa Básica de Algodón  Azul  ES 34 / 
 
 🔎:
 
+- Longitud de espalda (talla M): 63,5cm
+- Al tratarse de una prenda sobria y básica la puedes usar como base para un atuendo para cualquier ocasión formal
 - Su suave tejido de algodón hará que resulte cómoda durante todo el año, especialmente en verano
 - Elegante camisa básica con cierre clásico de botones y cuello de solapa
 - Las prendas de colección oodji Ultra tienen la talla más pequeña de lo normal, te recomendamos que elijas una talla superior a tu talla habitual o que consultes la tabla de tallas de oodji. Modelo: Talla S. Medidas: 86/61/91. Altura/peso: 176cm/55kg
-- Longitud de espalda (talla M): 63,5cm
-- Al tratarse de una prenda sobria y básica la puedes usar como base para un atuendo para cualquier ocasión formal
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B073PC9L2C/?tag=tolees-21)
