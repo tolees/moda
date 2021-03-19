@@ -29,9 +29,9 @@ En este momento está [Tommy Hilfiger TJM Chest Logo tee Camiseta  Blanco  White
 🔎:
 
 - Cinta interior del cuello
+- Cuello abotonado
 - Algodón Oxford elástico
 - Bandera de Tommy Hilfiger bordada en el pecho
 - Corte entallado
-- Cuello abotonado
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07W2R43GQ/?tag=tolees-21)
