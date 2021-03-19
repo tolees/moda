@@ -28,8 +28,8 @@ Está [Tommy Hilfiger Windbreaker J Chaqueta Cortavientos con Capucha y Cierre d
 
 ℹ️:
 
-- Tommy Jeans ropa exterior para hombre
 - Producto original y auténtico de Tommy Hilfiger/Tommy Jeans
 - Más información sobre Tommy Hilfiger / Tommy Jeans se puede encontrar en la descripción del producto
+- Tommy Jeans ropa exterior para hombre
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07W2S36PQ/?tag=tolees-21)
