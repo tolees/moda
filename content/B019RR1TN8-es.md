@@ -28,9 +28,9 @@ En este momento está [Velilla 103001C1/T60 Pantalón multibolsillos  Azul marin
 
 🔎:
 
-- Dos bolsillos franceses y cuatro con tapeta y velcro
-- Material resistente de 65% poliéster y 35% algodón, con un gramaje de 240 gr/m2
 - Pespuntes visibles para dar un toque diferente a la uniformidad
 - Pantalón laboral multi-bolsillos con goma elástica
+- Material resistente de 65% poliéster y 35% algodón, con un gramaje de 240 gr/m2
+- Dos bolsillos franceses y cuatro con tapeta y velcro
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B019RR1TN8/?tag=tolees-21)

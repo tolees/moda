@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'oodji Ultra Mujer Blusa de Gasa con Pesp al 20.00 % de descuento'
-date: 2021-03-18 04:46:45
+date: 2021-03-19 13:14:46
 image: 'https://m.media-amazon.com/images/I/51iO47p5SIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B06WLHNHJ1-es oodji Ultra Mujer Blusa de Gasa con Pespuntes en el Pecho...'
 sku: 'B06WLHNHJ1-es'
+tags: [ 'Blusas y camisas para mujer','Camisetas, tops y blusas para mujer','Ropa','Ropa para mujer','blusa','oodji ultra', ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0
@@ -27,9 +28,9 @@ Está [oodji Ultra Mujer Blusa de Gasa con Pespuntes en el Pecho  Verde  ES 38 /
 
 ℹ️:
 
+- Estilo de ropa: Casual
 - Ideal para crear un sensacional estilo para celebraciones o para delicados atuendos para ocasiones especiales
 - Las prendas de colección oodji Ultra tienen la talla más pequeña de lo normal, te recomendamos que elijas una talla superior a tu talla habitual o que consultes la tabla de tallas de oodji. Modelo: Talla S. Medidas: 85/65/90. Altura/peso: 175cm/52kg
 - Elegante blusa con precioso estampado de mariposas, escote de gota y delicados pliegues decorativos
-- Estilo de ropa: Casual
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06WLHNHJ1/?tag=tolees-21)
