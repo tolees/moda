@@ -29,9 +29,9 @@ Ahora mismo tienes [XINYIYI Funda de Silicona para Samsung Galaxy A20/A30  [Pint
 🔎:
 
 - ATENCIÓN: este estuche ha sido especialmente diseñado para el Samsung Galaxy A20/A30. Acceso completo a la interfaz de usuario, la lente de la cámara, la toma de auriculares, el altavoz y el micrófono. Permite recargar sin quitar el shell de proetction.
-- Protección de la pantalla y la cámara: los bordes elevados de la parte frontal recortan la pantalla del teléfono para proteger todos los lados de su teléfono
 - Material de TPU flexible: Hecho de calidad superior. El estuche conserva la belleza del teléfono original. Previene rastros, no tiene ningún efecto amarillento, lo que le da a su teléfono una apariencia limpia. Evite los rasguños.
-- Si por alguna razón no está satisfecho con algún producto, no dude en contactarnos y haremos todo lo posible para resolver su problema de manera rápida y eficiente
+- Protección de la pantalla y la cámara: los bordes elevados de la parte frontal recortan la pantalla del teléfono para proteger todos los lados de su teléfono
 - Samsung Galaxy A20/A30, ofrece un buen agarre y un perfil delgado. La transparencia intensa muestra el diseño original del teléfono móvil.
+- Si por alguna razón no está satisfecho con algún producto, no dude en contactarnos y haremos todo lo posible para resolver su problema de manera rápida y eficiente
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07WRWTRPW/?tag=tolees-21)
