@@ -29,9 +29,9 @@ Ahora mismo tienes [oodji Ultra Mujer Camisa Básica de Algodón  Azul  ES 34 / 
 🔎:
 
 - Su suave tejido de algodón hará que resulte cómoda durante todo el año, especialmente en verano
-- Al tratarse de una prenda sobria y básica la puedes usar como base para un atuendo para cualquier ocasión formal
-- Las prendas de colección oodji Ultra tienen la talla más pequeña de lo normal, te recomendamos que elijas una talla superior a tu talla habitual o que consultes la tabla de tallas de oodji. Modelo: Talla S. Medidas: 86/61/91. Altura/peso: 176cm/55kg
-- Elegante camisa básica con cierre clásico de botones y cuello de solapa
 - Longitud de espalda (talla M): 63,5cm
+- Las prendas de colección oodji Ultra tienen la talla más pequeña de lo normal, te recomendamos que elijas una talla superior a tu talla habitual o que consultes la tabla de tallas de oodji. Modelo: Talla S. Medidas: 86/61/91. Altura/peso: 176cm/55kg
+- Al tratarse de una prenda sobria y básica la puedes usar como base para un atuendo para cualquier ocasión formal
+- Elegante camisa básica con cierre clásico de botones y cuello de solapa
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B073PC9L2C/?tag=tolees-21)

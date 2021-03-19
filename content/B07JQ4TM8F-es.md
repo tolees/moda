@@ -28,8 +28,8 @@ En este momento está [Adidas Tiro 19 Training Track Top Jkt Chaqueta Deportiva 
 
 🔎:
 
-- Regular fit
 - Full zip
 - Climalite anti-humidity fabric
+- Regular fit
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07JQ4TM8F/?tag=tolees-21)
