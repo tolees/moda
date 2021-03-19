@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Tommy Hilfiger TJM Chest Logo tee Camise con un 31.07 % de descuento'
-date: 2021-03-17 17:41:09
+date: 2021-03-18 23:32:29
 image: 'https://m.media-amazon.com/images/I/41QQrhN6AqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07W2R43GQ-es Tommy Hilfiger TJM Chest Logo tee Camiseta Blanco White...'
 sku: 'B07W2R43GQ-es'
+tags: [ 'Camisetas para hombre','Camisetas, polos y camisas para hombre','Ropa','Ropa para hombre','camiseta','tommy hilfiger', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99
@@ -27,10 +28,10 @@ En este momento está [Tommy Hilfiger TJM Chest Logo tee Camiseta  Blanco  White
 
 🔎:
 
+- Bandera de Tommy Hilfiger bordada en el pecho
 - Cinta interior del cuello
+- Algodón Oxford elástico
 - Corte entallado
 - Cuello abotonado
-- Bandera de Tommy Hilfiger bordada en el pecho
-- Algodón Oxford elástico
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07W2R43GQ/?tag=tolees-21)
