@@ -28,10 +28,10 @@ Ahora mismo tienes [Forever Ninette Origin Muffin Bolso Bandolera  26 cm  Azul](
 
 🔎:
 
-- Dimensiones: 18, 5 x 26 x 9cm
-- Correa al hombro ajustable de 120cm
 - Forro interior con bolsillo cerrado y compartimentos adicionales
-- Bolso bandolera con solapa
+- Dimensiones: 18, 5 x 26 x 9cm
 - Compartimento principal y bolsillo posterior con cremallera
+- Correa al hombro ajustable de 120cm
+- Bolso bandolera con solapa
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MGTZKDZ/?tag=tolees-21)
