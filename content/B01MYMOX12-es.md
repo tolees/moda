@@ -29,9 +29,9 @@ Ahora mismo tienes [oodji Ultra Mujer Camisa Básica Ajustada  Azul  ES 36 / XS]
 🔎:
 
 - Longitud de espalda (talla M): 66cm
+- Elegante blusa con cuello de solapa e inusual tira de botones
+- Su suave tejido de algodón hará que te sientas cómoda hasta en los días más calurosos
 - Las prendas de colección oodji Ultra tienen la talla más pequeña de lo normal, te recomendamos que elijas una talla superior a tu talla habitual o que consultes la tabla de tallas de oodji. Modelo: Talla S. Medidas: 85/65/90. Altura/peso: 175cm/52kg
 - Ideal para crear un sobrio estilo para todo tipo de ocasiones formales
-- Su suave tejido de algodón hará que te sientas cómoda hasta en los días más calurosos
-- Elegante blusa con cuello de solapa e inusual tira de botones
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01MYMOX12/?tag=tolees-21)
