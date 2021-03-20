@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Descuento del 50.00 % en GEOX U SNAKE.2 B NAVY Men s Trainers Low'
-date: 2021-03-15 22:18:14
+date: 2021-03-19 23:26:49
 image: 'https://m.media-amazon.com/images/I/311YR5lrf6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0825NYN5C-es GEOX U SNAKE.2 B NAVY Men s Trainers Low-Top Trainers size...'
 sku: 'B0825NYN5C-es'
+tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','geox', ]
 actualPrice: 57.5 EUR
 currency: EUR
 price: 57.5
