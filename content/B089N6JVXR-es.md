@@ -29,7 +29,7 @@ Está [Jack & Jones JJEJEANS tee SS Crew Neck Noos 20/21 Camiseta  Cloud Dancer 
 ℹ️:
 
 - Corte ajustado
-- Camiseta básica con logotipo impreso
 - Algodón suave
+- Camiseta básica con logotipo impreso
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B089N6JVXR/?tag=tolees-21)
