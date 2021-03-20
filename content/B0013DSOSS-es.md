@@ -1,32 +1,38 @@
 ---
 layout: post
-title: 'Timberland Classic 2 Eye  Náuticos para  con un 38.39 % de descuento'
-date: 2020-09-22 07:41:09
+title: 'Timberland Classic 2 Eye  Náuticos Hombr con un 15.61 % de descuento'
+date: 2021-03-20 04:26:34
 image: 'https://m.media-amazon.com/images/I/41rYBHhMf+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0013DSOSS-es Timberland Classic 2 Eye Náuticos para Hombre Marrón Dark...'
+slug: 'B0013DSOSS-es Timberland Classic 2 Eye Náuticos Hombre Marrón Med Brown...'
 sku: 'B0013DSOSS-es'
-tags: [ 'timberland', ]
-actualPrice: 86.25 EUR
+tags: [ 'Náuticos para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','timberland', ]
+actualPrice: 118.15 EUR
 currency: EUR
-price: 86.25
+price: 118.15
 comparePrice: 140.0 EUR
-prodname: 'Timberland Classic 2 Eye  Náuticos para Hombre  Marrón  Dark Brown Smooth   43 EU'
+prodname: 'Timberland Classic 2 Eye  Náuticos Hombre  Marrón Med Brown Full Grain  43 EU'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Timberland'
 buyurl: 'https://www.amazon.es/dp/B0013DSOSS/?tag=tolees-21'
-descuento: '38.39'
-average: '78.10000000000001'
+descuento: '15.61'
+average: '91.45'
 ---
 
-En este momento está [Timberland Classic 2 Eye  Náuticos para Hombre  Marrón  Dark Brown Smooth   43 EU](https://www.amazon.es/dp/B0013DSOSS/?tag=tolees-21) a 86.25 EUR (original: 140.0 EUR) (38.39 %  de descuento) en el siguiente enlace!
+En este momento está [Timberland Classic 2 Eye  Náuticos Hombre  Marrón Med Brown Full Grain  43 EU](https://www.amazon.es/dp/B0013DSOSS/?tag=tolees-21) a 118.15 EUR (original: 140.0 EUR) (15.61 %  de descuento) en el siguiente enlace!
 
-[![Timberland Classic 2 Eye  Náuticos para ](https://m.media-amazon.com/images/I/41rYBHhMf+L._SL400_.jpg)](https://www.amazon.es/dp/B0013DSOSS/?tag=tolees-21)
+[![Timberland Classic 2 Eye  Náuticos Hombr](https://m.media-amazon.com/images/I/41rYBHhMf+L._SL400_.jpg)](https://www.amazon.es/dp/B0013DSOSS/?tag=tolees-21)
 
 🔎:
 
+- Empeine de piel nobuck
+- Sistema de cordones funcional de 360 grados para un ajuste personalizado
+- Suela de goma simada para resistencia al deslizamiento y tracción
+- Parte superior cosida a mano a la entresuela y cementada a la suela para una estética clásica y durabilidad.
+- Suela de goma reciclada del 15% es sorbida para la máxima tracción y resistencia al deslizamiento.
+- Cuero de grano completo y nobuck premium para mayor comodidad y uso duradero.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0013DSOSS/?tag=tolees-21)
