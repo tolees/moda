@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Tuc Tuc Vestido Felpa Gravity  Gris  6A  al 49.99 % de descuento'
-date: 2021-02-23 21:40:48
+date: 2021-03-20 15:35:56
 image: 'https://m.media-amazon.com/images/I/41T0u5RIdtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085H2GPJN-es Tuc Tuc Vestido Felpa Gravity Gris 6A para Niñas'
 sku: 'B085H2GPJN-es'
+tags: [ 'Ropa','Ropa para niña','Vestidos para niña','tuc tuc','vestido', ]
 actualPrice: 17.98 EUR
 currency: EUR
 price: 17.98
