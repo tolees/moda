@@ -28,10 +28,10 @@ En este momento está [MINCHEDA Conjunto Pendientes Collar para Mujer - Forma de
 
 🔎:
 
-- El Paquete Incluye】: 1x collar de flores rosas y 1 par de aretes colgantes de flores rosas. Ven con una elegante caja de regalo con luz. Regalo ideal para tu amante.
 - 【Calidad Duradera】: Plateado con oro blanco de 18 quilates de plata para una calidad duradera, totalmente libre de plomo y níquel. Pulido perfecto y detalles posteriores exquisitos, el diseño de fondo redondo y liso te permite sentirte más cómodo y no irritará tu piel. En comparación con otros pendientes, pasamos la inspección de calidad suiza SGS.
-- 【Demension: Collar】: 2.5x1.5 cm, ajustable con una cadena de 10+5 cm, podría ajustar fácilmente el collar para diferentes personas. Pendientes: 2.2x0.9 cm, Ideal para mujeres de todas las edades.
 - ❤【Regalo de San Valentín para Esposa】: Cada mujer ama las cosas brillantes; este conjunto de joyas está lo suficientemente de moda como para agregar un brillo en un atuendo informal o completar un look formal; deliciosas ideas de regalos en muchas ocasiones, como cumpleaños, aniversario, bodas, Navidad o San Valentín
+- El Paquete Incluye】: 1x collar de flores rosas y 1 par de aretes colgantes de flores rosas. Ven con una elegante caja de regalo con luz. Regalo ideal para tu amante.
+- 【Demension: Collar】: 2.5x1.5 cm, ajustable con una cadena de 10+5 cm, podría ajustar fácilmente el collar para diferentes personas. Pendientes: 2.2x0.9 cm, Ideal para mujeres de todas las edades.
 - 【Servizio di Soddisfazione】: Garantiamo che la persona sarà piacevolmente sorpresa e felice quando riceverà il regalo. In caso di problemi con i tuoi gioielli, non esitare a contattarci, saremo più che felici di aiutarti.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B083XFLQ3B/?tag=tolees-21)

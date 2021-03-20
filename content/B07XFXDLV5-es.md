@@ -28,10 +28,10 @@ Tienes [PUMA Teamgoal 23 Jersey Camiseta  Hombre  Peacoat New Navy  S](https://w
 
 ℹ️:
 
-- dryCELL: tecnología de PUMA con propiedades que alejan la humedad de la piel y te ayudan a mantenerte seco y cómodo
-- Cuello redondo
 - Logotipo del felino PUMA en la parte derecha del pecho
+- dryCELL: tecnología de PUMA con propiedades que alejan la humedad de la piel y te ayudan a mantenerte seco y cómodo
 - Manga corta
+- Cuello redondo
 - Toques de color en el cuello y los lados
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07XFXDLV5/?tag=tolees-21)

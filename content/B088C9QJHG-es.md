@@ -28,10 +28,10 @@ Tienes [G-STAR RAW Text Graphic Slim Camiseta  dk Gold 336-5618  L para Hombre](
 
 🔎:
 
-- Etiqueta de G-Star Originals tejida en la costura lateral inferior
-- Manga corta recta insertada
-- Estampados gráficos en el pecho y en las mangas
 - Cuello redondo acanalado
+- Manga corta recta insertada
+- Etiqueta de G-Star Originals tejida en la costura lateral inferior
 - Bajo recto
+- Estampados gráficos en el pecho y en las mangas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B088C9QJHG/?tag=tolees-21)
