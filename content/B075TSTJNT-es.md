@@ -28,10 +28,10 @@ Tienes [oodji Ultra Mujer Camisa Larga con Aberturas  Verde  ES 34 / XXS](https:
 
 ℹ️:
 
+- ¡Con esta prenda tan inusual vas a atraer todas las miradas estés donde estés!
+- Las prendas de colección oodji Ultra tienen la talla más pequeña de lo normal, te recomendamos que elijas una talla superior a tu talla habitual o que consultes la tabla de tallas de oodji. Modelo: Talla S. Medidas: 86/61/91. Altura/peso: 176cm/55kg
 - Longitud de espalda (talla M): 112cm
 - Fascinante camisa de diseño inusual llena de estilo
-- ¡Con esta prenda tan inusual vas a atraer todas las miradas estés donde estés!
 - Perfecta para crear un elegante look femenino lleno de estilo. El tejido del 100% de viscosa es agradable para la piel
-- Las prendas de colección oodji Ultra tienen la talla más pequeña de lo normal, te recomendamos que elijas una talla superior a tu talla habitual o que consultes la tabla de tallas de oodji. Modelo: Talla S. Medidas: 86/61/91. Altura/peso: 176cm/55kg
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B075TSTJNT/?tag=tolees-21)

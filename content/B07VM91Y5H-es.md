@@ -29,9 +29,9 @@ Tienes [Wind Took Mini Bolso de Teléfono Bolsos Bandolera Mujer Bolso Pequeño 
 ℹ️:
 
 - ☎Buena calida:la bolsa del teléfono móvil está hecha de tela de nylon de alta calidad, resistente al agua, suave al tacto y cremallera lisa. Puede resistir una cierta cantidad de lluvia.
-- ☎Dimensiones: 11 x 5 x 17 cm (largo x ancho x alto), peso: 220 gramos. Puede acomodar un teléfono máximo de 5.8 pulgadas con un tamaño de pantalla de (5.98 "x 3.23"). Por ejemplo: iPhone X, iPhone 8 / 8Plus / 7 / 7Plus / 6s Plus / Samsung Glaxy S8 / S7, etc.
-- ☎Versátil: la correa para el hombro del bolsa de teléfono es ajustable y extraíble, y se puede usar como bolso / bandolera / bolso o bolso bandolera.
 - ☎Consejos amigables: La bolsa tiene una capacidad pequeña, pero la calidad es buena y es fácil de transportar. Solo lleve cosas pequeñas, como teléfonos móviles, billeteras, llaves, tarjetas bancarias, lápices labiales, baratijas, etc. Adecuado para salir a caminar y usar el autobús.
 - ☎Sobre la capacidad:3 compartimentos principales con cremallera, puede organizar teléfonos, llaves, dinero, tarjetas de crédito y más. (Solo lleve artículos pequeños)
+- ☎Dimensiones: 11 x 5 x 17 cm (largo x ancho x alto), peso: 220 gramos. Puede acomodar un teléfono máximo de 5.8 pulgadas con un tamaño de pantalla de (5.98 "x 3.23"). Por ejemplo: iPhone X, iPhone 8 / 8Plus / 7 / 7Plus / 6s Plus / Samsung Glaxy S8 / S7, etc.
+- ☎Versátil: la correa para el hombro del bolsa de teléfono es ajustable y extraíble, y se puede usar como bolso / bandolera / bolso o bolso bandolera.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07VM91Y5H/?tag=tolees-21)
