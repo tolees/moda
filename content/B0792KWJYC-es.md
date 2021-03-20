@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Geox J RIDDOCK Boy G  School Uniform Sho al 23.11 % de descuento'
-date: 2021-03-18 23:32:59
+title: 'Geox J RIDDOCK Boy G  School Uniform Sho al 21.78 % de descuento'
+date: 2021-03-20 01:13:02
 image: 'https://m.media-amazon.com/images/I/31qfbzTthzL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,29 +12,29 @@ tags: [ 'Zapatos','Zapatos y complementos','geox', ]
 actualPrice: 20.33 EUR
 currency: EUR
 price: 20.33
-comparePrice: 26.44 EUR
+comparePrice: 25.99 EUR
 prodname: 'Geox J RIDDOCK Boy G  School Uniform Shoe Niños  Negro  Black C9999   40 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B0792KWJYC/?tag=tolees-21'
-descuento: '23.11'
-average: '24.6166666666666'
+descuento: '21.78'
+average: '24.0042857142856'
 ---
 
-Ahora mismo tienes [Geox J RIDDOCK Boy G  School Uniform Shoe Niños  Negro  Black C9999   40 EU](https://www.amazon.es/dp/B0792KWJYC/?tag=tolees-21) a 20.33 EUR (original: 26.44 EUR) (23.11 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Geox J RIDDOCK Boy G  School Uniform Shoe Niños  Negro  Black C9999   40 EU](https://www.amazon.es/dp/B0792KWJYC/?tag=tolees-21) a 20.33 EUR (original: 25.99 EUR) (21.78 %  de descuento) en el siguiente enlace!
 
 [![Geox J RIDDOCK Boy G  School Uniform Sho](https://m.media-amazon.com/images/I/31qfbzTthzL._SL400_.jpg)](https://www.amazon.es/dp/B0792KWJYC/?tag=tolees-21)
 
 🔎:
 
-- Material de la suela: Caucho
-- Tipo de tacón: Plano
-- Material exterior: Cuero
-- Anchura del zapato: Normal
 - Tipo de talla: Los zapatos Geox son holgados
+- Anchura del zapato: Normal
+- Material exterior: Cuero
+- Material de la suela: Caucho
 - Altura del tacón: 3 centímetros
-- Revestimiento: Sintético
 - Cierre: Velcro
+- Revestimiento: Sintético
+- Tipo de tacón: Plano
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0792KWJYC/?tag=tolees-21)
