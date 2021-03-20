@@ -28,9 +28,9 @@ Está [FOOGY gamuza de microfibra antivaho para gafas | paño de limpieza en sec
 
 ℹ️:
 
-- Extra duradero: el paño de microfibra FOOGY para gafas se puede utilizar más de 200 veces y dura hasta 10 horas con una sola aplicación.
-- Alta calidad, certificado, libre de PFOA y libre de PFAS: FOOGY está certificado (REACH, OEKO-TEX 100, MSDS, prueba textil Hermes) y cumple con los requisitos de alta calidad de la UE.
 - Extra suave, suave y versátil: El paño de limpieza de gafas es antiestático y no deja pelusa - para una limpieza sin rayas con efecto antivaho. Se puede usar para gafas, gafas de sol, gafas de buceo, lentes de cámara, visores de casco, binoculares, etc.
+- Alta calidad, certificado, libre de PFOA y libre de PFAS: FOOGY está certificado (REACH, OEKO-TEX 100, MSDS, prueba textil Hermes) y cumple con los requisitos de alta calidad de la UE.
+- Extra duradero: el paño de microfibra FOOGY para gafas se puede utilizar más de 200 veces y dura hasta 10 horas con una sola aplicación.
 - Siempre, en todas partes e inmediatamente listo para usar: FOOGY es un paño 100% seco y NO se requieren líquidos adicionales
 - Funcional: Tanto en las estaciones frías, cuando se alterna entre el calor y el frío, así como junto con una máscara - FOOGY mantiene una visión clara
 

@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Geox J Kalispera Girl I  Zapatillas Alta al 37.29 % de descuento'
-date: 2020-04-09 06:29:26
-image: 'https://m.media-amazon.com/images/I/41g23W3RoLL._SL400_.jpg'
+title: 'Geox J Kalispera Girl I  Zapatillas Alta al 50.00 % de descuento'
+date: 2021-03-20 17:13:31
+image: 'https://m.media-amazon.com/images/I/31-WC2EtH-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B06Y2KQBG6-es Geox J Kalispera Girl I Zapatillas Altas para Niñas Negro...'
 sku: 'B06Y2KQBG6-es'
-tags: [ 'geox', ]
-actualPrice: 34.49 EUR
+tags: [ 'Zapatillas casual para niña','Zapatillas y calzado deportivo para niña','Zapatos','Zapatos para niñas pequeñas','Zapatos y complementos','geox', ]
+actualPrice: 27.5 EUR
 currency: EUR
-price: 34.49
+price: 27.5
 comparePrice: 55.0 EUR
 prodname: 'Geox J Kalispera Girl I  Zapatillas Altas para Niñas  Negro  Black   31 EU'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B06Y2KQBG6/?tag=tolees-21'
-descuento: '37.29'
-average: '34.49'
+descuento: '50.00'
+average: '30.995'
 ---
 
-Está [Geox J Kalispera Girl I  Zapatillas Altas para Niñas  Negro  Black   31 EU](https://www.amazon.es/dp/B06Y2KQBG6/?tag=tolees-21) con 37.29 de descuento por 34.49 EUR (original: 55.0 EUR) en el siguiente enlace!
+Está [Geox J Kalispera Girl I  Zapatillas Altas para Niñas  Negro  Black   31 EU](https://www.amazon.es/dp/B06Y2KQBG6/?tag=tolees-21) con 50.00 de descuento por 27.5 EUR (original: 55.0 EUR) en el siguiente enlace!
 
-[![Geox J Kalispera Girl I  Zapatillas Alta](https://m.media-amazon.com/images/I/41g23W3RoLL._SL400_.jpg)](https://www.amazon.es/dp/B06Y2KQBG6/?tag=tolees-21)
+[![Geox J Kalispera Girl I  Zapatillas Alta](https://m.media-amazon.com/images/I/31-WC2EtH-L._SL400_.jpg)](https://www.amazon.es/dp/B06Y2KQBG6/?tag=tolees-21)
 
 ℹ️:
 
+- Cierre: Cordones rápidos
+- Material exterior: Cuero sintético
+- Material de la suela: Goma
+- Tipo de tacón: Plano
+- Revestimiento: Malla
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06Y2KQBG6/?tag=tolees-21)
