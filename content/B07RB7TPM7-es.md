@@ -28,10 +28,10 @@ Ahora mismo tienes [Columbia Columbia Lodge  Chaqueta sudadera  Hombre  Negro  B
 
 🔎:
 
-- Los bolsillos con cremallera te dan versatilidad Mantén tus manos calientes cuando lo necesites o guarda tu teléfono y otros accesorios sin temor a que se caigan
-- Tejido resistente al agua que te protege de los chubascos y la niebla, Ajuste óptimo gracias al dobladillo ajustable con cordón
-- El forro termorreflectante para mantener la temperatura interior sin sobrecalentamiento
-- Chaqueta tipo sudadera para hombre con el elegante logotipo de Columbia y sistema de entrada lateral, optimo para el uso diario
 - Contenido: 1x Columbia Columbia Lodge Chaqueta sudadera para hombre, Cubierta: 100% poliéster; Forro: 100% poliéster; Aislamiento: Termostato 100% poliéster, Color: Negro, Talla: L , Art.No 1864422
+- Los bolsillos con cremallera te dan versatilidad Mantén tus manos calientes cuando lo necesites o guarda tu teléfono y otros accesorios sin temor a que se caigan
+- Chaqueta tipo sudadera para hombre con el elegante logotipo de Columbia y sistema de entrada lateral, optimo para el uso diario
+- El forro termorreflectante para mantener la temperatura interior sin sobrecalentamiento
+- Tejido resistente al agua que te protege de los chubascos y la niebla, Ajuste óptimo gracias al dobladillo ajustable con cordón
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07RB7TPM7/?tag=tolees-21)

@@ -28,8 +28,8 @@ Ahora mismo tienes [NIKE M Nk Dry Park VII JSY SS Camiseta de Manga Corta  Hombr
 
 🔎:
 
-- Nike Dry fabric
 - Regular fit
+- Nike Dry fabric
 - Ribbed crewneck
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07W5XZW12/?tag=tolees-21)
