@@ -29,9 +29,9 @@ Tienes [Urban Classics Raglan Contrast tee Camiseta  Multicolor  blk/cha 445   M
 ℹ️:
 
 - Básicos, Ropa de Calle
-- Camiseta || Ajuste normal || Cuello Redondo || Materiales de larga duración
-- Ajuste : Regular
 - El regalo perfecto para el día de San Valentín
+- Ajuste : Regular
+- Camiseta || Ajuste normal || Cuello Redondo || Materiales de larga duración
 - Camiseta con las siguientes características:
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01MS7ZR0K/?tag=tolees-21)

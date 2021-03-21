@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Descuento del 50.00 % en Geox D CATRIA E  Botín Mujer  Marrón  35'
-date: 2021-03-05 15:43:11
+date: 2021-03-20 23:13:44
 image: 'https://m.media-amazon.com/images/I/41MUiAWsb9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0825RFC5Q-es Geox D CATRIA E Botín Mujer Marrón 35 EU'
 sku: 'B0825RFC5Q-es'
+tags: [ 'Botas para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','geox', ]
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95
@@ -18,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B0825RFC5Q/?tag=tolees-21'
 descuento: '50.00'
-average: '51.4146153846154'
+average: '52.5526666666667'
 ---
 
 Tienes [Geox D CATRIA E  Botín Mujer  Marrón  35 EU](https://www.amazon.es/dp/B0825RFC5Q/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 59.95 EUR (original: 119.9 EUR) en el siguiente enlace!
@@ -27,14 +28,14 @@ Tienes [Geox D CATRIA E  Botín Mujer  Marrón  35 EU](https://www.amazon.es/dp/
 
 ℹ️:
 
-- Tipo de tela: Shi.Goat Lea
-- Forro: piel
-- Ancho del zapato: estrecho
-- Cierre: cremallera
-- Tipo de ajuste: ten en cuenta que los zapatos geox tienen un ajuste cómodo, por lo que te recomendamos que elijas media talla
-- Material exterior: piel lisa
-- No resistente al agua
 - Material de la suela: goma
+- Tipo de tela: Shi.Goat Lea
 - Tipo de tacón: tacón cuadrado
+- Tipo de ajuste: ten en cuenta que los zapatos geox tienen un ajuste cómodo, por lo que te recomendamos que elijas media talla
+- Ancho del zapato: estrecho
+- No resistente al agua
+- Material exterior: piel lisa
+- Cierre: cremallera
+- Forro: piel
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0825RFC5Q/?tag=tolees-21)
