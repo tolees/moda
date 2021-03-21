@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'DKNY Pantalón Corto de Punto Milano Jove al 34.55 % de descuento'
-date: 2021-03-12 09:04:54
+date: 2021-03-21 17:46:44
 image: 'https://m.media-amazon.com/images/I/315jLD-B80L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085DXXD2W-es DKNY Pantalón Corto de Punto Milano Joven Negro 14AÑOS'
 sku: 'B085DXXD2W-es'
+tags: [ 'Pantalones cortos para niña','Ropa','Ropa para niña','dkny','pantalón', ]
 actualPrice: 36.0 EUR
 currency: EUR
 price: 36.0
