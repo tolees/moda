@@ -1,32 +1,36 @@
 ---
 layout: post
-title: 'Fossil Collar FS4812IE con un 47.29 % de descuento'
-date: 2020-08-19 14:40:16
+title: 'Fossil Collar FS4812IE con un 30.88 % de descuento'
+date: 2021-03-21 04:13:06
 image: 'https://m.media-amazon.com/images/I/41iYSPOdPeL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B071VZ3FGS-es Fossil Collar FS4812IE'
 sku: 'B071VZ3FGS-es'
-tags: [ 'collar', ]
-actualPrice: 68.0 EUR
+tags: [ 'Relojes','Relojes de pulsera para hombres','Relojes para hombre','collar','fossil', ]
+actualPrice: 89.16 EUR
 currency: EUR
-price: 68.0
+price: 89.16
 comparePrice: 129.0 EUR
 prodname: 'Fossil Collar FS4812IE'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Fossil'
 buyurl: 'https://www.amazon.es/dp/B071VZ3FGS/?tag=tolees-21'
-descuento: '47.29'
-average: '78.65'
+descuento: '30.88'
+average: '81.2775'
 ---
 
-En este momento está [Fossil Collar FS4812IE](https://www.amazon.es/dp/B071VZ3FGS/?tag=tolees-21) a 68.0 EUR (original: 129.0 EUR) (47.29 %  de descuento) en el siguiente enlace!
+En este momento está [Fossil Collar FS4812IE](https://www.amazon.es/dp/B071VZ3FGS/?tag=tolees-21) a 89.16 EUR (original: 129.0 EUR) (30.88 %  de descuento) en el siguiente enlace!
 
 [![Fossil Collar FS4812IE](https://m.media-amazon.com/images/I/41iYSPOdPeL._SL400_.jpg)](https://www.amazon.es/dp/B071VZ3FGS/?tag=tolees-21)
 
 🔎:
 
+- Movimiento: cronógrafo de cuarzo; material de la correa: piel de becerro
+- Tamaño de la caja: 44 mm; grosor de la caja: 11 mm
+- Ancho de la correa: 22 mm; circunferencia de la correa: 200 +/- 5 mm
+- Se presenta en la caja de lata ilustrada Fossil de coleccionista (varios diseños)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B071VZ3FGS/?tag=tolees-21)
