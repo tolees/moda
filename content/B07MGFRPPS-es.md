@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Napapijri AXSTRAL Chaqueta  Verde  Green al 60.00 % de descuento'
-date: 2021-03-08 11:30:29
+date: 2021-03-21 18:40:28
 image: 'https://m.media-amazon.com/images/I/41Y9-32RUOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MGFRPPS-es Napapijri AXSTRAL Chaqueta Verde Green Forest 2 Ge3 XXXL...'
 sku: 'B07MGFRPPS-es'
+tags: [ 'Chaquetas para hombre','Ropa','Ropa de abrigo para hombre','Ropa para hombre','chaqueta','napapijri', ]
 actualPrice: 91.6 EUR
 currency: EUR
 price: 91.6

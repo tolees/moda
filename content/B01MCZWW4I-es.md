@@ -28,10 +28,10 @@ Tienes [Pepe Jeans Gen Vaqueros  Rinse Plus M15  31W / 32L para Mujer](https://w
 
 🔎:
 
-- Tienen estilo con pierna recta
 - Adecuados para cualquier atuendo
+- Tienen un tejido denim ligero y elástico
 - Con estilo clásico con 5 bolsillos
 - Vaqueros con tiro medio para mujeres
-- Tienen un tejido denim ligero y elástico
+- Tienen estilo con pierna recta
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01MCZWW4I/?tag=tolees-21)

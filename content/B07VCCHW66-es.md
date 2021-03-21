@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Napapijri Decatur 2 Camisa Manga Larga   al 60.00 % de descuento'
-date: 2021-03-10 02:52:58
+date: 2021-03-21 18:42:17
 image: 'https://m.media-amazon.com/images/I/41BIqomEAlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VCCHW66-es Napapijri Decatur 2 Camisa Manga Larga Marrón Kangaroo...'
 sku: 'B07VCCHW66-es'
+tags: [ 'Camisas casual para hombre','Camisetas, polos y camisas para hombre','Ropa','Ropa para hombre','camisa','napapijri', ]
 actualPrice: 35.6 EUR
 currency: EUR
 price: 35.6
