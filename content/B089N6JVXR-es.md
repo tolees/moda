@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones JJEJEANS tee SS Crew Neck N al 32.72 % de descuento'
-date: 2021-03-20 11:39:33
+date: 2021-03-21 13:06:38
 image: 'https://m.media-amazon.com/images/I/313ceH8XspL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [Jack & Jones JJEJEANS tee SS Crew Neck Noos 20/21 Camiseta  Cloud Dancer 
 
 ℹ️:
 
-- Corte ajustado
 - Algodón suave
 - Camiseta básica con logotipo impreso
+- Corte ajustado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B089N6JVXR/?tag=tolees-21)
