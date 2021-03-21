@@ -28,13 +28,13 @@ Ahora mismo tienes [Geox J RIDDOCK Boy G  School Uniform Shoe Niños  Negro  Bla
 
 🔎:
 
-- Material exterior: Cuero
+- Anchura del zapato: Normal
+- Altura del tacón: 3 centímetros
+- Tipo de tacón: Plano
 - Revestimiento: Sintético
 - Cierre: Velcro
-- Altura del tacón: 3 centímetros
 - Tipo de talla: Los zapatos Geox son holgados
-- Tipo de tacón: Plano
-- Anchura del zapato: Normal
+- Material exterior: Cuero
 - Material de la suela: Caucho
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0792KWJYC/?tag=tolees-21)
