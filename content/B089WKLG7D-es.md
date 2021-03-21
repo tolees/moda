@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Diesel UMLB-Julio pantalón de chándal  9 al 31.27 % de descuento'
-date: 2021-03-20 07:30:49
+date: 2021-03-21 07:50:49
 image: 'https://m.media-amazon.com/images/I/31Yua6D5KBL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Diesel'
 buyurl: 'https://www.amazon.es/dp/B089WKLG7D/?tag=tolees-21'
 descuento: '31.27'
-average: '31.4533333333333'
+average: '31.3225'
 ---
 
 Ahora mismo tienes [Diesel UMLB-Julio pantalón de chándal  900-0jkkb  L para Hombre](https://www.amazon.es/dp/B089WKLG7D/?tag=tolees-21) a 30.93 EUR (original: 45.0 EUR) (31.27 %  de descuento) en el siguiente enlace!

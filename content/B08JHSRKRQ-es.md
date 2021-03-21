@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Jack & Jones JJECORP Logo Sweat Hood Noo con un 22.19 % de descuento'
-date: 2021-03-16 15:01:39
+date: 2021-03-21 07:31:16
 image: 'https://m.media-amazon.com/images/I/41xhMZ49FKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B08JHSRKRQ-es Jack & Jones JJECORP Logo Sweat Hood Noos Sudadera con...'
 sku: 'B08JHSRKRQ-es'
+tags: [ 'Jerséis, cárdigans y sudaderas para hombre','Ropa','Ropa para hombre','Sudaderas con capucha para hombre','Sudaderas para hombre','jack & jones','sudadera', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99
