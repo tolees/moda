@@ -28,8 +28,8 @@ Tienes [Levi s Essential Western Blusa  Blue  Cool out  2  0001   XS para Mujer]
 
 🔎:
 
+- Tapeta con corchetes en la parte delantera
 - Bolsillos con solapa y corchetes
 - Con canesú trasero al estilo del oeste
-- Tapeta con corchetes en la parte delantera
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07TT6Z4JM/?tag=tolees-21)
