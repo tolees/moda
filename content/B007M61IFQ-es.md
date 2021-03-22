@@ -28,10 +28,10 @@ Está [Helly Hansen Crew Midlayer Chaqueta deportiva impermeable  Hombre  Negro 
 
 ℹ️:
 
-- Bolsillos en el pecho con cremallera
-- Tratamiento de impermeabilidad duradera, costuras totalmente selladas
-- Bajo ajustable con una sola mano, puños ajustables
-- Construcción de tela de 2 capas
 - Bolsillos térmicos para las manos, forro polar
+- Bajo ajustable con una sola mano, puños ajustables
+- Tratamiento de impermeabilidad duradera, costuras totalmente selladas
+- Bolsillos en el pecho con cremallera
+- Construcción de tela de 2 capas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B007M61IFQ/?tag=tolees-21)

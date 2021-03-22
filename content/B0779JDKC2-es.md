@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Pepe Jeans Pixie PL200025 Camiseta  Blan al 49.80 % de descuento'
-date: 2021-03-15 15:00:28
+date: 2021-03-22 16:23:40
 image: 'https://m.media-amazon.com/images/I/41bpi3sOiUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0779JDKC2-es Pepe Jeans Pixie PL200025 Camiseta Blanco Optic White 802...'
 sku: 'B0779JDKC2-es'
+tags: [ 'Camisetas de manga corta para niño','Camisetas, polos y camisas para niño','Ropa','Ropa para niño','camiseta','pepe jeans', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99
@@ -27,8 +28,8 @@ Ahora mismo tienes [Pepe Jeans Pixie PL200025 Camiseta  Blanco  Optic White 802 
 
 🔎:
 
-- Fabricada en tejido ligero que ofrece comodidad
 - Camiseta para niños
 - Tiene estampado la marca Pepe Jeans
+- Fabricada en tejido ligero que ofrece comodidad
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0779JDKC2/?tag=tolees-21)
