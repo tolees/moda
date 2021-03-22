@@ -28,10 +28,10 @@ Tienes [Helly Hansen Crew Chaqueta  Hombre  Blanco  M](https://www.amazon.es/dp/
 
 ℹ️:
 
+- Hecho 100% poliéster
+- Lavable a máquina a hasta 30° C
+- Cintura ajustable con una mano y bolsillos con cremalleras
 - Ligera y adherente, construcción de 2 capas
 - Membrana impermeable y transpirable Helly Tech Protection
-- Lavable a máquina a hasta 30° C
-- Hecho 100% poliéster
-- Cintura ajustable con una mano y bolsillos con cremalleras
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00A3OJD10/?tag=tolees-21)

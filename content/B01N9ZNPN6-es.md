@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'oodji Ultra Mujer Blusa Estampada de Vis al 35.11 % de descuento'
-date: 2021-03-18 17:01:10
+date: 2021-03-22 08:32:46
 image: 'https://m.media-amazon.com/images/I/51sB3hUSAaL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ Está [oodji Ultra Mujer Blusa Estampada de Viscosa  Rojo  ES 34 / XXS](https://
 ℹ️:
 
 - Estilo de ropa: Casual
-- Cómoda y ligera blusa perfecta para el el buen tiempo y el entretiempo
-- Elegante blusa con original estmapado ideal para crear un look casual
 - Longitud de espalda (talla M): 67,5cm
+- Elegante blusa con original estmapado ideal para crear un look casual
+- Cómoda y ligera blusa perfecta para el el buen tiempo y el entretiempo
 - Las prendas de colección oodji Ultra tienen la talla más pequeña de lo normal, te recomendamos que elijas una talla superior a tu talla habitual o que consultes la tabla de tallas de oodji. Modelo: Talla S. Medidas: 85/63/90. Altura/peso: 176cm/55kg
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01N9ZNPN6/?tag=tolees-21)

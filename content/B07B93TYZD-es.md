@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clarks Linvale Jerica  Zapatos de Tacón  con un 75.48 % de descuento'
-date: 2021-03-21 01:04:54
+date: 2021-03-22 07:32:58
 image: 'https://m.media-amazon.com/images/I/316pmIKyQnL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Clarks'
 buyurl: 'https://www.amazon.es/dp/B07B93TYZD/?tag=tolees-21'
 descuento: '75.48'
-average: '26.5466666666666'
+average: '25.5542857142856'
 ---
 
 En este momento está [Clarks Linvale Jerica  Zapatos de Tacón para Mujer  Negro  Black Leather   39.5 EU](https://www.amazon.es/dp/B07B93TYZD/?tag=tolees-21) a 19.6 EUR (original: 79.95 EUR) (75.48 %  de descuento) en el siguiente enlace!
