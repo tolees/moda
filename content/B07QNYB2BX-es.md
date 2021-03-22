@@ -28,10 +28,10 @@ Ahora mismo tienes [HAWKERS Gafas  NEGRO  One Size Unisex-Adult](https://www.ama
 
 🔎:
 
-- Medidas: Frente: 14cm, Altura: 5cm, Varillas: 14cm
-- Montura fabricada en TR90, que dota a las gafas de gran ligereza, flexibilidad y resistencia, muy resistente a altas y bajas temperaturas.
 - Icónico modelo Hawkers One, Unisex, con montura Carbon Black mate y lente oscura
 - Lente oscura fabricada en TR18, con reducción de brillos y con gran equilibrio entre claridad y protección. Lente de categoría 3 con protección UV400. Resistencia muy alta
+- Montura fabricada en TR90, que dota a las gafas de gran ligereza, flexibilidad y resistencia, muy resistente a altas y bajas temperaturas.
+- Medidas: Frente: 14cm, Altura: 5cm, Varillas: 14cm
 - Producto original Hawkers. La caja incluye funda de microfibra, caja y set de pegatinas decorativas.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07QNYB2BX/?tag=tolees-21)
