@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Helly Hansen T-Shirt Camiseta de Manga C al 35.03 % de descuento'
-date: 2020-05-18 13:17:22
+title: 'Helly Hansen Logo T-shirt Camiseta de ma al 50.03 % de descuento'
+date: 2021-03-22 06:44:25
 image: 'https://m.media-amazon.com/images/I/31NvUr-ra9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B073RP7GWY-es Helly Hansen T-Shirt Camiseta de Manga Corta Hecha de...'
+slug: 'B073RP7GWY-es Helly Hansen Logo T-shirt Camiseta de manga corta hecha de...'
 sku: 'B073RP7GWY-es'
-tags: [ 'camiseta', ]
-actualPrice: 19.49 EUR
+tags: [ 'Camisetas para hombre','Camisetas, polos y camisas para hombre','Ropa','Ropa para hombre','camiseta','helly hansen', ]
+actualPrice: 14.99 EUR
 currency: EUR
-price: 19.49
+price: 14.99
 comparePrice: 30.0 EUR
-prodname: 'Helly Hansen T-Shirt Camiseta de Manga Corta Hecha de algodón  con Logo HH en el Pecho  Hombre  Blanco  L'
+prodname: 'Helly Hansen Logo T-shirt Camiseta de manga corta hecha de algodón  con logo HH en el pecho'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Helly Hansen'
 buyurl: 'https://www.amazon.es/dp/B073RP7GWY/?tag=tolees-21'
-descuento: '35.03'
-average: '18.1'
+descuento: '50.03'
+average: '17.0633333333333'
 ---
 
-Ahora mismo tienes [Helly Hansen T-Shirt Camiseta de Manga Corta Hecha de algodón  con Logo HH en el Pecho  Hombre  Blanco  L](https://www.amazon.es/dp/B073RP7GWY/?tag=tolees-21) a 19.49 EUR (original: 30.0 EUR) (35.03 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Helly Hansen Logo T-shirt Camiseta de manga corta hecha de algodón  con logo HH en el pecho](https://www.amazon.es/dp/B073RP7GWY/?tag=tolees-21) a 14.99 EUR (original: 30.0 EUR) (50.03 %  de descuento) en el siguiente enlace!
 
-[![Helly Hansen T-Shirt Camiseta de Manga C](https://m.media-amazon.com/images/I/31NvUr-ra9L._SL400_.jpg)](https://www.amazon.es/dp/B073RP7GWY/?tag=tolees-21)
+[![Helly Hansen Logo T-shirt Camiseta de ma](https://m.media-amazon.com/images/I/31NvUr-ra9L._SL400_.jpg)](https://www.amazon.es/dp/B073RP7GWY/?tag=tolees-21)
 
 🔎:
 
+- Contenido del envío: 1x Helly Hansen Logo T-shirt, camiseta de manga corta de algodón, color blanco, talla L
+- Fabricada en Europa, esta playera es ligera, cómoda y tiene un corte clásico actualizado y a la moda lo que le da una gran versatilidad de uso
+- La pieza deportiva indicada para el hombre moderno, con corte clásico y el logo de Helly Hansen en el pecho; una pieza para todo el año
+- Gran versatilidad de uso, ya que combina con tu prenda deportiva favorita o con tu outfit del día a día / Ligera y hecha con punto sencillo de algodón
+- Uso durante todo el año, ya sea en deportes marítimos, en la vida urbana o en el gimnasio, esta playera es la fiel compañera para cualquier momento
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B073RP7GWY/?tag=tolees-21)
