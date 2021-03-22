@@ -28,8 +28,8 @@ En este momento está [Levi s The Ultimate BF Shirt Blusa  Multicolour  Annette 
 
 🔎:
 
-- Cuello redondo clásico
-- Ajuste estándar
 - Jersey
+- Ajuste estándar
+- Cuello redondo clásico
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07TWB3QZH/?tag=tolees-21)

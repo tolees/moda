@@ -28,10 +28,10 @@ En este momento está [TLV PBD1-BLACK Perchero Burro Doble Rail Moderno Rígido 
 
 🔎:
 
+- Fácil de montar. Sigue las instrucciones para montar y desmontar el ropero.
+- Perchero burro en forma de A, funcional a la vez que elegante y minimalista.
+- Dispone de doble raíl, para acomodar el doble de ropa
 - Cada barra para colgar la ropa soporta hasta 30kg.
 - Las barras a modo de balda para los zapatos/cajas también soportan hasta 30kg
-- Fácil de montar. Sigue las instrucciones para montar y desmontar el ropero.
-- Dispone de doble raíl, para acomodar el doble de ropa
-- Perchero burro en forma de A, funcional a la vez que elegante y minimalista.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08Q3ZMWSQ/?tag=tolees-21)
