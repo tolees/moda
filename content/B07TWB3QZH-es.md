@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s The Ultimate BF Shirt Blusa  Mult con un 20.99 % de descuento'
-date: 2021-03-21 19:31:11
+date: 2021-03-22 21:16:20
 image: 'https://m.media-amazon.com/images/I/41z4HiuDhqL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ En este momento está [Levi s The Ultimate BF Shirt Blusa  Multicolour  Annette 
 
 🔎:
 
+- Cuello redondo clásico
 - Ajuste estándar
 - Jersey
-- Cuello redondo clásico
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07TWB3QZH/?tag=tolees-21)
