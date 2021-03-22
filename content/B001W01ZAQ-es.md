@@ -28,10 +28,10 @@ Está [Geox J W.Snake Moc B  School Uniform Shoe  Azul  Navy C4002   41 EU](http
 
 ℹ️:
 
-- Composición Interior: Textil
-- Composición Exterior: Piel Autentica
-- Si no sabes cuál es tu talla, te recomendamos: Selecciona tu talla habitual
-- Disfruta De Los Mejores Zapatos De La Marca: Geox
 - Estación: Todo El Año
+- Composición Interior: Textil
+- Disfruta De Los Mejores Zapatos De La Marca: Geox
+- Si no sabes cuál es tu talla, te recomendamos: Selecciona tu talla habitual
+- Composición Exterior: Piel Autentica
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B001W01ZAQ/?tag=tolees-21)
