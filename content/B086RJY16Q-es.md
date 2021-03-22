@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Superdry Vintage Destroyed Polo Camisa   al 42.01 % de descuento'
-date: 2021-03-21 17:15:08
+date: 2021-03-22 18:53:48
 image: 'https://m.media-amazon.com/images/I/31ppjENdGRL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Superdry'
 buyurl: 'https://www.amazon.es/dp/B086RJY16Q/?tag=tolees-21'
 descuento: '42.01'
-average: '35.99'
+average: '34.24'
 ---
 
 Está [Superdry Vintage Destroyed Polo Camisa  Dark Navy  M para Hombre](https://www.amazon.es/dp/B086RJY16Q/?tag=tolees-21) con 42.01 de descuento por 28.99 EUR (original: 49.99 EUR) en el siguiente enlace!
