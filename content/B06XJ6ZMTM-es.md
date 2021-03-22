@@ -28,10 +28,10 @@ Está [ROCKBROS Gafas de Sol Polarizadas con 5 Lentes Intercambiables para Cicli
 
 ℹ️:
 
-- 【Ajustables】 La almohadilla de nariz y las piernas son ajustables. Además, hay 5 lentes para adaptarse a diferentes situaciones. Las lentes amarillos son para las actividades nocturnas y aumentar la comparación. Las azules son para la playa y la costa. Las marrones son para suavizar los rayos. Las transparentes son para los días diarios y los de lluvia.
-- 【Función amplia】 Adecuadas para ciclismo, conducir, pescar, correr, escalar, golf, deportes al aire libre, etc.
-- 【Lentes durables】 Hecho de PC de alta calidad, es más elásticas y resistentes que las ordinarias.
-- 【Peso y tamaño】 Solo de 30 g, 20*13*10 cm.
 - 【Protección perfecto】 UV 400.
+- 【Lentes durables】 Hecho de PC de alta calidad, es más elásticas y resistentes que las ordinarias.
+- 【Función amplia】 Adecuadas para ciclismo, conducir, pescar, correr, escalar, golf, deportes al aire libre, etc.
+- 【Ajustables】 La almohadilla de nariz y las piernas son ajustables. Además, hay 5 lentes para adaptarse a diferentes situaciones. Las lentes amarillos son para las actividades nocturnas y aumentar la comparación. Las azules son para la playa y la costa. Las marrones son para suavizar los rayos. Las transparentes son para los días diarios y los de lluvia.
+- 【Peso y tamaño】 Solo de 30 g, 20*13*10 cm.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06XJ6ZMTM/?tag=tolees-21)

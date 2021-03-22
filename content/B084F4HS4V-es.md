@@ -28,10 +28,10 @@ Tienes [PUMA teamGOAL 23 Causals Hoody Sudadera  Hombre  Peacoat  M](https://www
 
 🔎:
 
-- Long sleeves
-- Cotton, polyester and elastane
 - PUMA Cat logo at right chest
-- Hood with drawstring
 - Front kangaroo pocket
+- Cotton, polyester and elastane
+- Long sleeves
+- Hood with drawstring
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B084F4HS4V/?tag=tolees-21)

@@ -28,8 +28,8 @@ Tienes [Jack & Jones Jjesheridan Shirt L/s Camisa Vaquera  Gris  Light Grey Deni
 
 ℹ️:
 
+- Temporada: Primavera-verano.
 - Artículo: 12138115 SHERIDAN
 - Diseñador: JACK&JONES
-- Temporada: Primavera-verano.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07CCJFS45/?tag=tolees-21)

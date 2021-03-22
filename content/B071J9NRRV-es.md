@@ -28,14 +28,14 @@ Tienes [Geox J New Fast Boy A  Mocasines  Negro  Black   27 EU](https://www.amaz
 
 🔎:
 
-- Cierre: Sin cierre
-- Tipo de talla: Los zapatos Geox son holgados
+- Anchura del zapato: Normal
 - Revestimiento: Cuero
-- Material exterior: Cuero
 - Tipo de tacón: Plano
+- Cierre: Sin cierre
 - Altura del tacón: 2.5 centímetros
 - Material de la suela: Caucho
+- Tipo de talla: Los zapatos Geox son holgados
+- Material exterior: Cuero
 - Composición: Cuero
-- Anchura del zapato: Normal
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B071J9NRRV/?tag=tolees-21)
