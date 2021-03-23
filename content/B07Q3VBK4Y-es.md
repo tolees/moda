@@ -28,10 +28,10 @@ Tienes [NNJXD Vestido de Unicornio para niñas Fiesta de Apliques de Flores Cosp
 
 🔎:
 
-- Mezcla De Algodón Poliéster.
-- Se recomiendan tanto el lavado a mano suave como la limpieza en seco. Use un detergente suave y cuelgue en seco, pero no use lejía, y use agua caliente.
 - La Tabla de tallas significa rangos de edad para las niñas, pero son solo para orientación general. Para un ajuste más preciso, recomendamos verificar la medición detallada antes de la compra.
 - Material suave y cómodo, que no dañará la piel. Adecuado para el uso diario y para ocasiones especiales como fiestas de cumpleaños, fiestas y vacaciones de verano.
+- Mezcla De Algodón Poliéster.
 - Un disfraz muy popular para el carnaval. Apliques lindos de unicornio, diseñados con múltiples volantes de encaje, que lo convierten en un hermoso vestido de princesa de unicornio para realizar el sueño de la princesa de tu niña.
+- Se recomiendan tanto el lavado a mano suave como la limpieza en seco. Use un detergente suave y cuelgue en seco, pero no use lejía, y use agua caliente.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07Q3VBK4Y/?tag=tolees-21)
