@@ -28,9 +28,9 @@ Tienes [Simple Joys by Carter s - Camiseta - para bebé niño multicolor Gray/Ye
 
 ℹ️:
 
-- Manga larga
-- Cuello acanalado
-- Calidad de confianza Carter, sin complicaciones, embalaje exclusivo para los miembros de Amazon
 - Térmico
+- Manga larga
+- Calidad de confianza Carter, sin complicaciones, embalaje exclusivo para los miembros de Amazon
+- Cuello acanalado
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0795ZXMJS/?tag=tolees-21)
