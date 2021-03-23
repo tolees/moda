@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Bollé - Bolle Safety PILOPSI Pilot - Gaf al 19.37 % de rebaja'
-date: 2021-03-22 02:18:08
+title: 'Bollé - Bolle Safety PILOPSI Pilot - Gaf al 15.69 % de rebaja'
+date: 2021-03-23 07:32:53
 image: 'https://m.media-amazon.com/images/I/41l59k-Wz2L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,17 +12,17 @@ tags: [ 'Bricolaje y herramientas','Equipos e indumentaria de seguridad','Gafas 
 actualPrice: 20.15 EUR
 currency: EUR
 price: 20.15
-comparePrice: 24.99 EUR
+comparePrice: 23.9 EUR
 prodname: 'Bollé - Bolle Safety PILOPSI Pilot - Gafas protectoras transparentes'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Bollé'
 buyurl: 'https://www.amazon.es/dp/B000VDLP4G/?tag=tolees-21'
-descuento: '19.37'
-average: '21.5112847222225'
+descuento: '15.69'
+average: '21.5018965517244'
 ---
 
-Tienes [Bollé - Bolle Safety PILOPSI Pilot - Gafas protectoras transparentes](https://www.amazon.es/dp/B000VDLP4G/?tag=tolees-21) con precio final de  20.15 EUR (original: 24.99 EUR) (19.37 %  de rebaja) aqui!
+Tienes [Bollé - Bolle Safety PILOPSI Pilot - Gafas protectoras transparentes](https://www.amazon.es/dp/B000VDLP4G/?tag=tolees-21) con precio final de  20.15 EUR (original: 23.9 EUR) (15.69 %  de rebaja) aqui!
 
 [![Bollé - Bolle Safety PILOPSI Pilot - Gaf](https://m.media-amazon.com/images/I/41l59k-Wz2L._SL400_.jpg)](https://www.amazon.es/dp/B000VDLP4G/?tag=tolees-21)
 

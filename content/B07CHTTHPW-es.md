@@ -28,8 +28,8 @@ Ahora mismo tienes [Levi s SS Original Hm tee Camiseta  Cotton + Patch Black  3X
 
 🔎:
 
+- Logotipo pequeño de Levis en el pecho
 - Adecuada para el día a día
 - Modelo casual
-- Logotipo pequeño de Levis en el pecho
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07CHTTHPW/?tag=tolees-21)
