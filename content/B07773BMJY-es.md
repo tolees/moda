@@ -1,30 +1,30 @@
 ---
 layout: post
-title: 'Tommy Hilfiger Original Stretch Camisa   con un 32.62 % de descuento'
-date: 2021-03-22 01:43:31
-image: 'https://m.media-amazon.com/images/I/41LjaX7UzDL._SL400_.jpg'
+title: 'Tommy Jeans Original Stretch Camisa  Azu con un 31.67 % de descuento'
+date: 2021-03-23 17:21:20
+image: 'https://m.media-amazon.com/images/I/311VwksA47L._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07773BMJY-es Tommy Hilfiger Original Stretch Camisa Azul Lavender...'
+slug: 'B07773BMJY-es Tommy Jeans Original Stretch Camisa Azul Lavender Lustre...'
 sku: 'B07773BMJY-es'
-tags: [ 'Camisas casual para hombre','Camisetas, polos y camisas para hombre','Ropa','Ropa para hombre','camisa','tommy hilfiger', ]
-actualPrice: 46.49 EUR
+tags: [ 'Camisas casual para hombre','Camisetas, polos y camisas para hombre','Ropa','Ropa para hombre','camisa','tommy jeans', ]
+actualPrice: 47.15 EUR
 currency: EUR
-price: 46.49
+price: 47.15
 comparePrice: 69.0 EUR
-prodname: 'Tommy Hilfiger Original Stretch Camisa  Azul  Lavender Lustre 556   Large para Hombre'
+prodname: 'Tommy Jeans Original Stretch Camisa  Azul  Lavender Lustre 556   Large para Hombre'
 country: 'es'
 flag: '🇪🇸'
-brand: 'Tommy Hilfiger'
+brand: 'Tommy Jeans'
 buyurl: 'https://www.amazon.es/dp/B07773BMJY/?tag=tolees-21'
-descuento: '32.62'
-average: '48.0421167883214'
+descuento: '31.67'
+average: '48.0356521739133'
 ---
 
-En este momento está [Tommy Hilfiger Original Stretch Camisa  Azul  Lavender Lustre 556   Large para Hombre](https://www.amazon.es/dp/B07773BMJY/?tag=tolees-21) a 46.49 EUR (original: 69.0 EUR) (32.62 %  de descuento) en el siguiente enlace!
+En este momento está [Tommy Jeans Original Stretch Camisa  Azul  Lavender Lustre 556   Large para Hombre](https://www.amazon.es/dp/B07773BMJY/?tag=tolees-21) a 47.15 EUR (original: 69.0 EUR) (31.67 %  de descuento) en el siguiente enlace!
 
-[![Tommy Hilfiger Original Stretch Camisa  ](https://m.media-amazon.com/images/I/41LjaX7UzDL._SL400_.jpg)](https://www.amazon.es/dp/B07773BMJY/?tag=tolees-21)
+[![Tommy Jeans Original Stretch Camisa  Azu](https://m.media-amazon.com/images/I/311VwksA47L._SL400_.jpg)](https://www.amazon.es/dp/B07773BMJY/?tag=tolees-21)
 
 🔎:
 

@@ -28,10 +28,10 @@ Está [oodji Ultra Mujer Blusa de Viscosa de Manga Corta  Rosa  ES 36 / XS](http
 
 ℹ️:
 
-- Ideal para vestir con estilo en tu día a día o para ocasiones especiales como fiestas o vacaciones
-- Elegante camisa con cuello de solapa y clásico cierre de botones
 - Su suave tejido ligero hace que sea perfecta para disfrutar del verano de forma cómoda y sin pasar calor
+- Ideal para vestir con estilo en tu día a día o para ocasiones especiales como fiestas o vacaciones
 - Longitud de espalda (talla M): 61cm
+- Elegante camisa con cuello de solapa y clásico cierre de botones
 - Modelo: Talla S. Medidas: 86/61/91. Altura/peso: 176cm/55kg
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B071WHDHBR/?tag=tolees-21)
