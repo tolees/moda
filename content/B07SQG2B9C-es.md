@@ -28,10 +28,10 @@ Tienes [Geox Jr Sandal Strada A  Sandalias con Punta Abierta para Niños  Beige 
 
 🔎:
 
-- Tipo de tacón: Plano
-- Material de la suela: Goma
-- Cierre: Velcro
-- Material exterior: Sintético
 - Revestimiento: Malla
+- Material exterior: Sintético
+- Cierre: Velcro
+- Material de la suela: Goma
+- Tipo de tacón: Plano
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07SQG2B9C/?tag=tolees-21)
