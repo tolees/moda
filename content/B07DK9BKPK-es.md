@@ -28,10 +28,10 @@ Tienes [oodji Ultra Mujer Camisa con Mangas 3/4 y Bolsillo en el Pecho  Azul  ES
 
 🔎:
 
-- Estilo de ropa: Negocios
-- Elegante camisa básica con cuello de solapa y cierre de botones
-- Longitud de espalda (talla M): 63cm
-- Las prendas de colección oodji Ultra tienen la talla más pequeña de lo normal, te recomendamos que elijas una talla superior a tu talla habitual o que consultes la tabla de tallas de oodji. Modelo: Talla S. Medidas: 86/61/91. Altura/peso: 176cm/55kg
 - Ideal para crear un estiloso look casual para estar cómoda en tu día a día u ocasiones especiales
+- Elegante camisa básica con cuello de solapa y cierre de botones
+- Las prendas de colección oodji Ultra tienen la talla más pequeña de lo normal, te recomendamos que elijas una talla superior a tu talla habitual o que consultes la tabla de tallas de oodji. Modelo: Talla S. Medidas: 86/61/91. Altura/peso: 176cm/55kg
+- Longitud de espalda (talla M): 63cm
+- Estilo de ropa: Negocios
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07DK9BKPK/?tag=tolees-21)
