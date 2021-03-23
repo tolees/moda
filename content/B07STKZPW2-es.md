@@ -29,9 +29,9 @@ Ahora mismo tienes [Geox B Djrock Boy C  Mocasines para Bebés  Azul  Navy/White
 🔎:
 
 - Material de la suela: EVA
-- Cierre: Velcro
 - Tipo de tacón: Plano
 - Revestimiento: Cuero
 - Material exterior: Cuero
+- Cierre: Velcro
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07STKZPW2/?tag=tolees-21)

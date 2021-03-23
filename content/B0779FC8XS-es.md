@@ -28,8 +28,8 @@ En este momento está [Pepe Jeans Waldo Camiseta  Blanco  Optic White 802   16 a
 
 🔎:
 
-- Camiseta para niños
-- Fabricada en tejido ligero que ofrece comodidad
 - Tiene estampado la marca Pepe Jeans
+- Fabricada en tejido ligero que ofrece comodidad
+- Camiseta para niños
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0779FC8XS/?tag=tolees-21)

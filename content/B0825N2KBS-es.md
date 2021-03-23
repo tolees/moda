@@ -28,9 +28,9 @@ Ahora mismo tienes [Quiksilver Everyday Sr Sudadera con Capucha  Hombre  Rojo  R
 
 🔎:
 
-- Diseño con mangas raglan
 - Bolsillo amplio
-- Corte normal, clásico, cómodo
+- Diseño con mangas raglan
 - Bordado en la parte frontal y lavado: lavado en prenda
+- Corte normal, clásico, cómodo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0825N2KBS/?tag=tolees-21)

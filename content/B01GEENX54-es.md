@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'oodji Ultra Hombre Camisa a Cuadros Mang al 64.22 % de rebaja'
-date: 2021-03-22 13:58:48
+date: 2021-03-23 16:41:27
 image: 'https://m.media-amazon.com/images/I/41mTrOhiY2L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [oodji Ultra Hombre Camisa a Cuadros Manga Corta  Blanco  40](https://www
 
 🔎:
 
-- Elegante camisa ligera de cuello clásico perfecta para el buen tiempo
 - Las prendas de colección oodji Ultra tienen la talla más pequeña de lo normal, te recomendamos que elijas una talla superior a tu talla habitual o que consultes la tabla de tallas de oodji. Modelo: Talla cm 41 / ES 50 / M. Medidas: 100/83/100. Altura/Peso: 198/88
-- Estilo de ropa: Casual
+- Elegante camisa ligera de cuello clásico perfecta para el buen tiempo
 - Longitud de espalda (talla L): 77cm
+- Estilo de ropa: Casual
 - Diseñado en Francia
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01GEENX54/?tag=tolees-21)
