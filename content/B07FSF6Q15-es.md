@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.00 % en Clarks Step Beat Sun  Sandalias Punta Ab'
-date: 2021-03-22 23:33:28
+date: 2021-03-24 03:15:08
 image: 'https://m.media-amazon.com/images/I/41KuzbEyuwL._SL400_.jpg'
 comments: true
 category: ofertas
