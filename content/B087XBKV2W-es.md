@@ -28,10 +28,10 @@ Ahora mismo tienes [Disney - Pijama Mujer Minnie Manga Larga Verano Mujer Color:
 
 🔎:
 
-- Pijama de punto de algodón, de manga larga, pantalón largo y cuello redondo
-- Pantalón de punto liso de color rosa con cinturilla ajustable
-- La camiseta es de punto vigoré, con dibujo estampado con detalles en glitter, personalizado de la marca DISNEY
 - Tejido suave al tacto
 - Diseño exclusivo de Disney realizado por Aznar Innova S.A.
+- Pantalón de punto liso de color rosa con cinturilla ajustable
+- La camiseta es de punto vigoré, con dibujo estampado con detalles en glitter, personalizado de la marca DISNEY
+- Pijama de punto de algodón, de manga larga, pantalón largo y cuello redondo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B087XBKV2W/?tag=tolees-21)
