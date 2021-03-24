@@ -1,0 +1,35 @@
+---
+layout: post
+title: 'Geox UOMO Symbol B  Oxford Hombre  Marró al 44.01 % de descuento'
+date: 2021-03-24 19:57:54
+image: 'https://m.media-amazon.com/images/I/41QoHhACbSL._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0792TNMJ7-es Geox UOMO Symbol B Oxford Hombre Marrón Browncotto C6003...'
+sku: 'B0792TNMJ7-es'
+tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','geox', ]
+actualPrice: 55.93 EUR
+currency: EUR
+price: 55.93
+comparePrice: 99.9 EUR
+prodname: 'Geox UOMO Symbol B  Oxford Hombre  Marrón  Browncotto C6003   47 EU'
+country: 'es'
+flag: '🇪🇸'
+brand: 'Geox'
+buyurl: 'https://www.amazon.es/dp/B0792TNMJ7/?tag=tolees-21'
+descuento: '44.01'
+average: '55.93'
+---
+
+Ahora mismo tienes [Geox UOMO Symbol B  Oxford Hombre  Marrón  Browncotto C6003   47 EU](https://www.amazon.es/dp/B0792TNMJ7/?tag=tolees-21) a 55.93 EUR (original: 99.9 EUR) (44.01 %  de descuento) en el siguiente enlace!
+
+[![Geox UOMO Symbol B  Oxford Hombre  Marró](https://m.media-amazon.com/images/I/41QoHhACbSL._SL400_.jpg)](https://www.amazon.es/dp/B0792TNMJ7/?tag=tolees-21)
+
+🔎:
+
+- Material de la suela: Caucho
+- Revestimiento: Sintético
+- Material exterior: Cuero
+
+[🛒 Visítala!!!](https://www.amazon.es/dp/B0792TNMJ7/?tag=tolees-21)
