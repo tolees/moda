@@ -29,9 +29,9 @@ Ahora mismo tienes [Cressi Rio Sunglasses Gafas de Sol Deportivo Polarizados  Un
 🔎:
 
 - Peso ligero y artículo
-- Gafas de sol polarizadas
 - Gafas de sol para todos los deportes
-- Lentes de alta calidad
+- Gafas de sol polarizadas
 - Marco duradero y flexible
+- Lentes de alta calidad
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07PVKZYNW/?tag=tolees-21)
