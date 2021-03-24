@@ -28,7 +28,7 @@ Tienes [Superdry Tri Classic Crew Sudadera Skateboarding  Rich Navy Mega Grit  M
 
 🔎:
 
-- Las prendas de Superdry son fabricadas con un adecuado balance entre estilo y confort; recomendamos una talla superior a la que emplea habitualmente para una auténtica experiencia Superdry
 - Sweats G3 - Sudadera
+- Las prendas de Superdry son fabricadas con un adecuado balance entre estilo y confort; recomendamos una talla superior a la que emplea habitualmente para una auténtica experiencia Superdry
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B086RJ79DV/?tag=tolees-21)

@@ -28,8 +28,8 @@ Ahora mismo tienes [Helly Hansen W Daybreaker Fleece Jkt Chaqueta con Cremallera
 
 🔎:
 
-- Polartec | Con media cremallera | Costuras planas para un menor volumen | Logotipo de HH bordado en el pecho
 - De la marca Helly Hansen.
 - De alta calidad.
+- Polartec | Con media cremallera | Costuras planas para un menor volumen | Logotipo de HH bordado en el pecho
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KFPFCZP/?tag=tolees-21)
