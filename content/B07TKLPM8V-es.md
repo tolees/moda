@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HAWKERS Gafas de Sol Audrey Estilo Butte con un 25.01 % de descuento'
-date: 2021-03-23 08:23:37
+date: 2021-03-24 22:31:59
 image: 'https://m.media-amazon.com/images/I/31jucdhKAFL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HAWKERS'
 buyurl: 'https://www.amazon.es/dp/B07TKLPM8V/?tag=tolees-21'
 descuento: '25.01'
-average: '30.462'
+average: '30.3833333333333'
 ---
 
 En este momento está [HAWKERS Gafas de Sol Audrey Estilo Butterfly  para Mujer  All Black  con Montura y Lente negras  Protección UV400  One Size](https://www.amazon.es/dp/B07TKLPM8V/?tag=tolees-21) a 29.99 EUR (original: 39.99 EUR) (25.01 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [HAWKERS Gafas de Sol Audrey Estilo Butterfly  para Mujer 
 
 🔎:
 
-- Montura fabricada en TR90 con que dota a las gafas de gran ligereza, flexibilidad y resistencia, muy resistente a altas y bajas temperaturas
 - Lente en rosa dorada con efecto espejo fabricada en TR18, con reducción de brillos y con gran equilibrio entre claridad y protección; lente de categoría 3 con protección UV404
-- Producto original Hawkers; la caja incluye funda de microfibra, caja y set de pegatinas decorativas
+- Montura fabricada en TR90 con que dota a las gafas de gran ligereza, flexibilidad y resistencia, muy resistente a altas y bajas temperaturas
 - Gafas de sol Audrey para mujer, inspiradas en el icónico modelo que llevaba la actriz Audrey Hepburn en la película Desayuno con Diamantes, con montura negra brillante y cristal rosa dorado con efecto espejo
 - Medidas: Frente:14,4 cm, Altura: 5,64 cm, Diámetro de la lente: 5,2 cm, Puente: 1,9 cm; Varillas: 14 cm
+- Producto original Hawkers; la caja incluye funda de microfibra, caja y set de pegatinas decorativas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07TKLPM8V/?tag=tolees-21)

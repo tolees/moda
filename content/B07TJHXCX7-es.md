@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HAWKERS Gafas de Sol LS Carbon Black Dar al 25.01 % de descuento'
-date: 2021-03-23 17:13:08
+date: 2021-03-24 22:22:46
 image: 'https://m.media-amazon.com/images/I/21nV-NUczrL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HAWKERS'
 buyurl: 'https://www.amazon.es/dp/B07TJHXCX7/?tag=tolees-21'
 descuento: '25.01'
-average: '27.0866666666667'
+average: '27.752'
 ---
 
 Ahora mismo tienes [HAWKERS Gafas de Sol LS Carbon Black Dark  para Hombre y Mujer  con Montura Lentes  Protección UV400  Negro Mate polarizado  One Size Unisex-Adult](https://www.amazon.es/dp/B07TJHXCX7/?tag=tolees-21) a 33.74 EUR (original: 44.99 EUR) (25.01 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [HAWKERS Gafas de Sol LS Carbon Black Dark  para Hombre y Muj
 
 🔎:
 
+- Gafas de Sol ONE LS total black, unisex, este modelo es un rediseño del icónico modelo Hawkers ONE, buque insignia de la marca, con montura negra mate y lentes negras polarizadas
+- Lentes negras polarizadas fabricadas en TR18, con reducción de brillos y con gran equilibrio entre claridad y protección. Lente de categoría 3 con protección UV400. Resistencia muy alta
+- Medidas: Frente: 13,95 cm, Altura: 4,9 cm, Puente: 1,5 cm; Varillas: 14,8 cm
 - Producto original Hawkers. La caja incluye funda de microfibra, caja y set de pegatinas decorativas
 - Montura fabricada en TR90, que dota a las gafas de gran ligereza, flexibilidad y resistencia, muy resistente a altas y bajas temperaturas
-- Medidas: Frente: 13,95 cm, Altura: 4,9 cm, Puente: 1,5 cm; Varillas: 14,8 cm
-- Lentes negras polarizadas fabricadas en TR18, con reducción de brillos y con gran equilibrio entre claridad y protección. Lente de categoría 3 con protección UV400. Resistencia muy alta
-- Gafas de Sol ONE LS total black, unisex, este modelo es un rediseño del icónico modelo Hawkers ONE, buque insignia de la marca, con montura negra mate y lentes negras polarizadas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TJHXCX7/?tag=tolees-21)
