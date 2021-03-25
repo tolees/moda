@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Only Onlcoral Superlow SK JNS BB Crya041 al 42.51 % de descuento'
-date: 2021-03-16 08:55:08
+date: 2021-03-25 04:21:16
 image: 'https://m.media-amazon.com/images/I/31mjTfjpVCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SBVY1KV-es Only Onlcoral Superlow SK JNS BB Crya041 Noos Vaqueros...'
 sku: 'B07SBVY1KV-es'
+tags: [ 'Ropa','Ropa para mujer','Vaqueros para mujer','only','vaqueros', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99
@@ -18,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Only'
 buyurl: 'https://www.amazon.es/dp/B07SBVY1KV/?tag=tolees-21'
 descuento: '42.51'
-average: '31.49'
+average: '29.79'
 ---
 
 Está [Only Onlcoral Superlow SK JNS BB Crya041 Noos Vaqueros Skinny  Azul  Dark Blue Denim Dark Blue Denim   34/L30  Talla del Fabricante: 25  para Mujer](https://www.amazon.es/dp/B07SBVY1KV/?tag=tolees-21) con 42.51 de descuento por 22.99 EUR (original: 39.99 EUR) en el siguiente enlace!
