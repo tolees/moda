@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Jeans TJM Chest Logo tee Camiseta  con un 31.07 % de descuento'
-date: 2021-03-23 17:56:15
+date: 2021-03-24 23:02:15
 image: 'https://m.media-amazon.com/images/I/41QQrhN6AqL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Tommy Jeans'
 buyurl: 'https://www.amazon.es/dp/B07W2R43GQ/?tag=tolees-21'
 descuento: '31.07'
-average: '19.9911764705883'
+average: '19.991052631579'
 ---
 
 En este momento está [Tommy Jeans TJM Chest Logo tee Camiseta  Blanco  White   Large para Hombre](https://www.amazon.es/dp/B07W2R43GQ/?tag=tolees-21) a 19.99 EUR (original: 29.0 EUR) (31.07 %  de descuento) en el siguiente enlace!
