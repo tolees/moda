@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 49.80 % en Pepe Jeans Waldo Camiseta  Blanco  Optic'
-date: 2021-03-18 14:47:50
+date: 2021-03-25 20:09:54
 image: 'https://m.media-amazon.com/images/I/41bpi3sOiUL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [Pepe Jeans Waldo Camiseta  Blanco  Optic White 802   14 años para Niño
 
 ℹ️:
 
-- Camiseta para niños
-- Tiene estampado la marca Pepe Jeans
 - Fabricada en tejido ligero que ofrece comodidad
+- Tiene estampado la marca Pepe Jeans
+- Camiseta para niños
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0779K5MLS/?tag=tolees-21)
