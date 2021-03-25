@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GEOX U IACOPO C BLACK Men s Derbys  Oxfo con un 72.19 % de descuento'
-date: 2021-03-24 14:21:43
+date: 2021-03-25 22:55:02
 image: 'https://m.media-amazon.com/images/I/31VZLzqRDrL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ En este momento está [GEOX U IACOPO C BLACK Men s Derbys  Oxfords and Monk Shoe
 
 🔎:
 
-- Material de la suela: Caucho
-- Revestimiento: Cuero
 - Material exterior: Cuero
+- Revestimiento: Cuero
+- Material de la suela: Caucho
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07SQGPRS3/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 41.47 % en PUMA PURECAT  Sandalias deslizantes Unis'
-date: 2021-03-24 03:49:25
+date: 2021-03-25 22:34:08
 image: 'https://m.media-amazon.com/images/I/31AQl4nfDAL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PUMA'
 buyurl: 'https://www.amazon.es/dp/B011V50GYC/?tag=tolees-21'
 descuento: '41.47'
-average: '8.86875'
+average: '8.845'
 ---
 
 Tienes [PUMA PURECAT  Sandalias deslizantes Unisex Adulto  Azul  Peacoat/White   42 EU](https://www.amazon.es/dp/B011V50GYC/?tag=tolees-21) con un 41.47 % de descuento con precio de oferta de 8.75 EUR (original: 14.95 EUR) en el siguiente enlace!
@@ -28,7 +28,7 @@ Tienes [PUMA PURECAT  Sandalias deslizantes Unisex Adulto  Azul  Peacoat/White  
 
 ℹ️:
 
-- Multicolor
 - adulto
+- Multicolor
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B011V50GYC/?tag=tolees-21)
