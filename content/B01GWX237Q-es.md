@@ -28,8 +28,8 @@ Ahora mismo tienes [Geox U New Damon B  Mocasines Hombre  Marrón  Dk Brown C600
 
 🔎:
 
-- Material de la suela: Caucho
 - Revestimiento: Cuero
+- Material de la suela: Caucho
 - Material exterior: Cuero
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01GWX237Q/?tag=tolees-21)
