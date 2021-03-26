@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tuc Tuc Vestido Felpa Hoop  Rosa  4A par con un 46.44 % de descuento'
-date: 2021-03-18 18:56:17
+date: 2021-03-26 13:12:41
 image: 'https://m.media-amazon.com/images/I/511s+AZMODL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Tuc Tuc'
 buyurl: 'https://www.amazon.es/dp/B085H2RGR8/?tag=tolees-21'
 descuento: '46.44'
-average: '14.735'
+average: '14.568'
 ---
 
 En este momento está [Tuc Tuc Vestido Felpa Hoop  Rosa  4A para Niñas](https://www.amazon.es/dp/B085H2RGR8/?tag=tolees-21) a 13.9 EUR (original: 25.95 EUR) (46.44 %  de descuento) en el siguiente enlace!
