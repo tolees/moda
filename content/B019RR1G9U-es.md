@@ -28,8 +28,8 @@ Tienes [Velilla 201502/C8/TL Chaqueta polar  Gris  L](https://www.amazon.es/dp/B
 
 🔎:
 
-- Aislamiento térmico
-- Composición: Microfibra. 100% poliéster
 - Gramaje: 220 gr/m2
+- Composición: Microfibra. 100% poliéster
+- Aislamiento térmico
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B019RR1G9U/?tag=tolees-21)
