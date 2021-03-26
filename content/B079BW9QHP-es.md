@@ -28,7 +28,7 @@ Tienes [Only onlNICOLE S/S Mix Top Noos Camiseta  Negro  Black   XL para Mujer](
 
 🔎:
 
-- Short sleeve top
 - Lace Shirt
+- Short sleeve top
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B079BW9QHP/?tag=tolees-21)
