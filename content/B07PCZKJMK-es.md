@@ -28,8 +28,8 @@ Ahora mismo tienes [Tommy Hilfiger Heritage Regular Fit Shirt Blusa  Azul  Skywa
 
 🔎:
 
-- Costuras a contraste en el botón final
 - Logo de Tommy Hilfiger bordado en el pecho
 - Cinta distintiva en los puños y el interior del cuello
+- Costuras a contraste en el botón final
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07PCZKJMK/?tag=tolees-21)

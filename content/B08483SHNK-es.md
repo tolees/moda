@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pepe Jeans Edmonton Camisa  Blanco  800  con un 40.00 % de descuento'
-date: 2021-03-25 05:59:21
+date: 2021-03-26 10:25:10
 image: 'https://m.media-amazon.com/images/I/41LTGEWUGNL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pepe Jeans'
 buyurl: 'https://www.amazon.es/dp/B08483SHNK/?tag=tolees-21'
 descuento: '40.00'
-average: '30.7616666666667'
+average: '31.9385714285714'
 ---
 
 En este momento está [Pepe Jeans Edmonton Camisa  Blanco  800   Medium para Hombre](https://www.amazon.es/dp/B08483SHNK/?tag=tolees-21) a 39.0 EUR (original: 65.0 EUR) (40.00 %  de descuento) en el siguiente enlace!

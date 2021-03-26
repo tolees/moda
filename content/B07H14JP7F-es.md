@@ -28,10 +28,10 @@ Ahora mismo tienes [HAWKERS Gafas de sol  NEGRO/ANARANJA  One Size Unisex-Adult]
 
 🔎:
 
-- Producto original Hawkers. La caja incluye funda de microfibra, caja y set de pegatinas decorativas.
-- Icónico modelo Hawkers One, Unisex, con montura Carbon Black mate y lentes naranjas efecto espejo
-- Montura fabricada con la característica trama de las gafas de carbono en TR90, que dota a las gafas de gran ligereza, flexibilidad y resistencia, muy resistente a altas y bajas temperaturas.
 - Medidas: Frente: 14cm, Altura: 5cm, Varillas: 14cm
 - Lentes narajas con efecto espejo fabricada en TR18, con reducción de brillos y con gran equilibrio entre claridad y protección. Lente de categoría 3 con protección UV400. Resistencia muy alta
+- Producto original Hawkers. La caja incluye funda de microfibra, caja y set de pegatinas decorativas.
+- Montura fabricada con la característica trama de las gafas de carbono en TR90, que dota a las gafas de gran ligereza, flexibilidad y resistencia, muy resistente a altas y bajas temperaturas.
+- Icónico modelo Hawkers One, Unisex, con montura Carbon Black mate y lentes naranjas efecto espejo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07H14JP7F/?tag=tolees-21)
