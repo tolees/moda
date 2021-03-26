@@ -28,10 +28,10 @@ En este momento está [Calvin Klein SS Knit PJ Set Pijama  Blanco  White/Grey Ht
 
 🔎:
 
-- Logotipo de Calvin Klein en rosa en la parte delantera
-- La parte inferior es gris con cintura elástica
 - Camiseta blanca con mangas cortas
-- 95 % algodón, 5 % elastano
+- Logotipo de Calvin Klein en rosa en la parte delantera
 - Ribete acanalado en el cuello
+- 95 % algodón, 5 % elastano
+- La parte inferior es gris con cintura elástica
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B075V8P8XH/?tag=tolees-21)
