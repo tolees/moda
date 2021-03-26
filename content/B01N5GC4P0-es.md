@@ -28,10 +28,10 @@ Tienes [Cressi Rio Sunglasses Gafas de Sol Deportivo Polarizados  Unisex Adultos
 
 ℹ️:
 
-- Gafas de sol polarizadas
-- Lentes de alta calidad
 - Marco duradero y flexible
-- Para deportes acuáticos
+- Gafas de sol polarizadas
 - Protección 100% U V
+- Para deportes acuáticos
+- Lentes de alta calidad
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01N5GC4P0/?tag=tolees-21)
