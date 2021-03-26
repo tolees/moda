@@ -28,10 +28,10 @@ Está [Geox D Genziana Mid B  Sandalias con Punta Abierta para Mujer  Azul  Blue
 
 ℹ️:
 
+- Tipo de tacón: Tacón ancho
+- Material de la suela: Sintético
 - Cierre: Hebilla
 - Material exterior: Cuero
-- Material de la suela: Sintético
 - Revestimiento: Cuero
-- Tipo de tacón: Tacón ancho
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07SQQ11PX/?tag=tolees-21)
