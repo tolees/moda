@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Helly Hansen Crew Insulator - Chaqueta p al 48.45 % de rebaja'
-date: 2021-03-26 13:52:03
+date: 2021-03-27 14:53:25
 image: 'https://m.media-amazon.com/images/I/41nIj9WQ6ML._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Helly Hansen'
 buyurl: 'https://www.amazon.es/dp/B018KKIZJ4/?tag=tolees-21'
 descuento: '48.45'
-average: '70.23'
+average: '69.4590909090909'
 ---
 
 Tienes [Helly Hansen Crew Insulator - Chaqueta para hombre  Azul Oscuro  Navy   M](https://www.amazon.es/dp/B018KKIZJ4/?tag=tolees-21) con precio final de  65.99 EUR (original: 128.0 EUR) (48.45 %  de rebaja) aqui!

@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Core Stretch Slim Poplin  al 22.19 % de rebaja'
-date: 2021-03-07 08:48:13
+date: 2021-03-27 14:39:25
 image: 'https://m.media-amazon.com/images/I/31ytMW37nJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016QM4WZE-es Tommy Hilfiger Core Stretch Slim Poplin Shirt Camisa...'
 sku: 'B016QM4WZE-es'
+tags: [ 'Camisas casual para hombre','Camisetas, polos y camisas para hombre','Ropa','Ropa para hombre','camisa','tommy hilfiger', ]
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95
