@@ -28,9 +28,9 @@ Tienes [Bonbell - Pistola de Juguete para Niños  Pistola Bláster con 40 Flecha
 
 ℹ️:
 
-- 【Pistola de dardos para niños】 Fabricada en plástico ABS ecológico. Ligero pero sólido y duradero. Rendimiento de movilidad y fuego rápido súper excelente, recarga más fácil, sin problemas de interferencia y rango de disparo de hasta 12 metros.
 - 【Regalo perfecto para niños】El juego de disparos de pistola de juguete Infantil es perfecto para niños pequeños de 3 años en adelante practique las habilidades de tiro de sus hijos y disfrute del tiempo del juego. Gran regalo para niños, niñas, cumpleaños de niños, Navidad y Año Nuevo.
 - 【40 piezas flechas y 1 muñequeras】20 dardos rojos con ventosas y 20 dardos azules ordinarios de espuma. Los dardos están hechos de espuma EVA de alta calidad con buena tenacidad y se pueden reutilizar. Se proporcionan muñequeras para facilitar la carga rápida de balas en la batalla.
+- 【Pistola de dardos para niños】 Fabricada en plástico ABS ecológico. Ligero pero sólido y duradero. Rendimiento de movilidad y fuego rápido súper excelente, recarga más fácil, sin problemas de interferencia y rango de disparo de hasta 12 metros.
 - 【Lo que obtienes】: 1 pistolas bláster + 40 piezas balas de espuma suave + 1 gafas protectoras + 1 muñequeras + 1 caja de embalaje + 1 pequeño objetivo + 1mascarilla negra.
 - 【Gafas de seguridad】:en consideración a la seguridad durante el juego de disparos, se suministra un par de gafas protectoras, que no son fáciles de romper. Proteja eficazmente los ojos del niño en el juego. Consejos cálidos: los niños de 3 a 6 años deben jugar con el pistola de juguete bajo la supervisión de un adulto.
 
