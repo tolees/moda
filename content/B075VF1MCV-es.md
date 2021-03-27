@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hurley M One and Only LS Camisa de Manga al 54.56 % de descuento'
-date: 2021-03-26 16:16:18
+date: 2021-03-27 20:43:39
 image: 'https://m.media-amazon.com/images/I/413yWeDadEL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Hurley'
 buyurl: 'https://www.amazon.es/dp/B075VF1MCV/?tag=tolees-21'
 descuento: '54.56'
-average: '47.4842168674699'
+average: '46.9549411764706'
 ---
 
 Está [Hurley M One and Only LS Camisa de Manga Larga  Hombre  Azul  Obsidian   L](https://www.amazon.es/dp/B075VF1MCV/?tag=tolees-21) con 54.56 de descuento por 24.99 EUR (original: 55.0 EUR) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [Hurley M One and Only LS Camisa de Manga Larga  Hombre  Azul  Obsidian   
 
 ℹ️:
 
+- Se recomienda lavar a máquina
 - Camiseta con botones
 - Bolsillo en la parte izquierda del pecho
 - Ajuste clásico
-- Se recomienda lavar a máquina
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B075VF1MCV/?tag=tolees-21)
