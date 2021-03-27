@@ -28,7 +28,7 @@ Ahora mismo tienes [G-STAR RAW 3301 Straight Denim C Chaqueta  Azul  Worn in Dee
 
 🔎:
 
-- Nuestra colección de abrigos y chaquetas se compone de estilos atemporales que combinan la inspiración clásica con la innovación moderna.
 - Corte recto
+- Nuestra colección de abrigos y chaquetas se compone de estilos atemporales que combinan la inspiración clásica con la innovación moderna.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VMN4M7Y/?tag=tolees-21)
