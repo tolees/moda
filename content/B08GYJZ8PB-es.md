@@ -28,14 +28,14 @@ En este momento está [Hurley M DF Disperse Siege FZ Sudadera  Coastal Blue  XL]
 
 🔎:
 
-- 100 % poliéster / 230 gsm
-- Nombre de departamento: Hombre
+- Icono )( estampado en lado izquierdo del pecho y dri-fit impreso con calor
+- Corte regular
 - Casual
 - Icono )( estampado en lado izquierdo del pecho y dri-fit impreso con calor
-- La tecnología nike dri-fit te ayuda a mantenerte seco, cómodo y concentrado
-- Corte regular
-- Icono )( estampado en lado izquierdo del pecho y dri-fit impreso con calor
-- Lavar a máquina
 - Closure: pull on
+- Lavar a máquina
+- Nombre de departamento: Hombre
+- La tecnología nike dri-fit te ayuda a mantenerte seco, cómodo y concentrado
+- 100 % poliéster / 230 gsm
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08GYJZ8PB/?tag=tolees-21)
