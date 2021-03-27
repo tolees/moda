@@ -28,8 +28,8 @@ Está [Levi s 2Pk Crewneck Graphic Camiseta  2 Pack Sw White/Mineral Black  L pa
 
 ℹ️:
 
-- Con un logo Levis en el bajo
 - Modelos casual
+- Con un logo Levis en el bajo
 - Elaboradas en punto suave
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07LF8RR6P/?tag=tolees-21)

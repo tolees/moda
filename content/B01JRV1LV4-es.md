@@ -28,10 +28,10 @@ Tienes [Cressi Ninja Floating - Gafas Flotantes Polarizadas para Deportes con un
 
 🔎:
 
-- Con marco duradero y flexible
-- Cristales polarizados de policarbonato 100% anti-UV
-- Concebido para practicantes regulares de deportes de agua
-- Montura y flexible
 - Gafas Flotantes
+- Con marco duradero y flexible
+- Montura y flexible
+- Concebido para practicantes regulares de deportes de agua
+- Cristales polarizados de policarbonato 100% anti-UV
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01JRV1LV4/?tag=tolees-21)
