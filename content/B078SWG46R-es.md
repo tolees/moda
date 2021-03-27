@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Timberland Perkins Row 2-Strap  Youth    al 51.13 % de descuento'
-date: 2021-02-22 14:57:48
+date: 2021-03-27 18:41:30
 image: 'https://m.media-amazon.com/images/I/41f4dvs5ruL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -13,7 +13,7 @@ actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99
 comparePrice: 45.0 EUR
-prodname: 'Timberland Perkins Row 2-Strap  Youth   Sandalias de Punta Descubierta Unisex-Niños  Azul Bright Blue  31 EU'
+prodname: 'Timberland Perkins Row 2-Strap  Youth   Sandalias de Punta Descubierta  Azul Bright Blue  31 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Timberland'
@@ -22,7 +22,7 @@ descuento: '51.13'
 average: '21.99'
 ---
 
-Está [Timberland Perkins Row 2-Strap  Youth   Sandalias de Punta Descubierta Unisex-Niños  Azul Bright Blue  31 EU](https://www.amazon.es/dp/B078SWG46R/?tag=tolees-21) con 51.13 de descuento por 21.99 EUR (original: 45.0 EUR) en el siguiente enlace!
+Está [Timberland Perkins Row 2-Strap  Youth   Sandalias de Punta Descubierta  Azul Bright Blue  31 EU](https://www.amazon.es/dp/B078SWG46R/?tag=tolees-21) con 51.13 de descuento por 21.99 EUR (original: 45.0 EUR) en el siguiente enlace!
 
 [![Timberland Perkins Row 2-Strap  Youth   ](https://m.media-amazon.com/images/I/41f4dvs5ruL._SL400_.jpg)](https://www.amazon.es/dp/B078SWG46R/?tag=tolees-21)
 
