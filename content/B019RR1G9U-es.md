@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Velilla 201502/C8/TL Chaqueta polar  Gri al 21.74 % de rebaja'
-date: 2021-03-26 02:59:20
+date: 2021-03-27 15:36:48
 image: 'https://m.media-amazon.com/images/I/413szODUpCL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,7 +29,7 @@ Tienes [Velilla 201502/C8/TL Chaqueta polar  Gris  L](https://www.amazon.es/dp/B
 🔎:
 
 - Gramaje: 220 gr/m2
-- Composición: Microfibra. 100% poliéster
 - Aislamiento térmico
+- Composición: Microfibra. 100% poliéster
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B019RR1G9U/?tag=tolees-21)
