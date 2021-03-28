@@ -28,7 +28,7 @@ Ahora mismo tienes [Pepe Jeans Gen Vaqueros  Denim WP2  26W / 30L para Mujer](ht
 
 🔎:
 
-- Double button fastening
 - 5-pockets style
+- Double button fastening
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07ZHM7CL7/?tag=tolees-21)

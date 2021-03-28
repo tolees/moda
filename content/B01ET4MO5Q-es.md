@@ -28,8 +28,8 @@ Tienes [Helly Hansen W Aden Long Chaqueta  Mujer  Black  L](https://www.amazon.e
 
 ℹ️:
 
-- Forro de secado rápido
 - A prueba de viento y transpirable
+- Forro de secado rápido
 - Tratamiento de repelencia al agua duradero (DWR)
 - Construcción de tejido de 2 capas
 - Costura completa sellada

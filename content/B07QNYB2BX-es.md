@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HAWKERS Gafas  NEGRO  One Size Unisex-Ad al 32.28 % de descuento'
-date: 2021-03-27 15:33:46
+date: 2021-03-28 16:01:56
 image: 'https://m.media-amazon.com/images/I/317o5OLfXRL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HAWKERS'
 buyurl: 'https://www.amazon.es/dp/B07QNYB2BX/?tag=tolees-21'
 descuento: '32.28'
-average: '22.98375'
+average: '22.6866666666667'
 ---
 
 Ahora mismo tienes [HAWKERS Gafas  NEGRO  One Size Unisex-Adult](https://www.amazon.es/dp/B07QNYB2BX/?tag=tolees-21) a 20.31 EUR (original: 29.99 EUR) (32.28 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [HAWKERS Gafas  NEGRO  One Size Unisex-Adult](https://www.ama
 
 🔎:
 
-- Producto original Hawkers. La caja incluye funda de microfibra, caja y set de pegatinas decorativas.
-- Lente oscura fabricada en TR18, con reducción de brillos y con gran equilibrio entre claridad y protección. Lente de categoría 3 con protección UV400. Resistencia muy alta
-- Montura fabricada en TR90, que dota a las gafas de gran ligereza, flexibilidad y resistencia, muy resistente a altas y bajas temperaturas.
-- Medidas: Frente: 14cm, Altura: 5cm, Varillas: 14cm
 - Icónico modelo Hawkers One, Unisex, con montura Carbon Black mate y lente oscura
+- Montura fabricada en TR90, que dota a las gafas de gran ligereza, flexibilidad y resistencia, muy resistente a altas y bajas temperaturas.
+- Lente oscura fabricada en TR18, con reducción de brillos y con gran equilibrio entre claridad y protección. Lente de categoría 3 con protección UV400. Resistencia muy alta
+- Producto original Hawkers. La caja incluye funda de microfibra, caja y set de pegatinas decorativas.
+- Medidas: Frente: 14cm, Altura: 5cm, Varillas: 14cm
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07QNYB2BX/?tag=tolees-21)
