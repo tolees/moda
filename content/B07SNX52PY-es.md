@@ -28,8 +28,8 @@ Ahora mismo tienes [Levi s Orig Hm Vneck Camiseta  Black  Mineral Black 0001   L
 
 🔎:
 
-- Modelo casual
 - Con un discreto logo en el pecho
 - Elaborada en punto suave
+- Modelo casual
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SNX52PY/?tag=tolees-21)
