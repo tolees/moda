@@ -29,9 +29,9 @@ Ahora mismo tienes [Bolso Bandolera para Mujer Marfil Albertina de Coronel Tapio
 🔎:
 
 - Albertina
-- Bandolera de Coronel Tapiocca ( 29 X22X12 cm) Fabricado en nylon con interior en poliéster.
-- Bandolera
 - Multi Ocasión: gracias a su diseño , combina bien en cualquier ocasión: trabajo, negocios, citas, diario o viajes. Básico para combinarlo con cualquier conjunto, un complemento indispensable en tu fondo de armario.
 - Compartimento principal con interior forrado con un bolsillo interior con cremallera. Resistente al desgaste. Costuras y materiales de alta calidad.
+- Bandolera
+- Bandolera de Coronel Tapiocca ( 29 X22X12 cm) Fabricado en nylon con interior en poliéster.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08C7YHHXK/?tag=tolees-21)
