@@ -30,7 +30,7 @@ Está [Jack & Jones AM 781 50SPS - Pantalones vaqueros ajustados para hombre Azu
 
 - Super elástico 50%. 1,5 de elasticidad.
 - Pantalones vaqueros Slim Fit: no demasiado estrechos, no demasiado holgados.
-- Aspecto clásico de vaquero azul gracias a las costuras Tobacco.
 - Composición del material: 85 % algodón, 13 % poliéster, 2 % elastano.
+- Aspecto clásico de vaquero azul gracias a las costuras Tobacco.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07KM75LH6/?tag=tolees-21)
