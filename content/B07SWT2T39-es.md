@@ -28,10 +28,10 @@ Tienes [Geox D Sukie B  Zapatillas Mujer  Azul  Lt Blue C4003   35 EU](https://w
 
 🔎:
 
-- Material exterior: Cuero
-- Cierre: Cordones
 - Material de la suela: Sintético
-- Tipo de tacón: Plano
+- Cierre: Cordones
 - Revestimiento: Sintético
+- Material exterior: Cuero
+- Tipo de tacón: Plano
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07SWT2T39/?tag=tolees-21)
