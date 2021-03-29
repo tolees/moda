@@ -28,10 +28,10 @@ Ahora mismo tienes [Puma Manchester City Temporada 2020/21-AWAY Shirt Replica SS
 
 🔎:
 
-- Corte entallado
 - Perforaciones cortadas con láser en el pecho y la espalda para una mayor transpirabilidad
-- Malla jacquard en la espalda para una mayor transpirabilidad
+- Corte entallado
 - Costuras y acabados con pespunte simple para una mayor comodidad
+- Malla jacquard en la espalda para una mayor transpirabilidad
 - Cuello en V
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B086P82TVB/?tag=tolees-21)
