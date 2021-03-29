@@ -28,11 +28,11 @@ Tienes [PUMA teamGOAL 23 Jersey Camiseta  Hombre  Golden Poppy/Flame Orange  M](
 
 🔎:
 
-- Manga corta
-- Toques de color en el cuello y los lados
 - Logotipo del felino PUMA en la parte derecha del pecho
-- Cuello redondo
-- dryCELL: tecnología de PUMA con propiedades que alejan la humedad de la piel y te ayudan a mantenerte seco y cómodo
+- Manga corta
 - Tipo de deporte: Athletic Sports Apparel
+- dryCELL: tecnología de PUMA con propiedades que alejan la humedad de la piel y te ayudan a mantenerte seco y cómodo
+- Cuello redondo
+- Toques de color en el cuello y los lados
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B084D4BNQS/?tag=tolees-21)
