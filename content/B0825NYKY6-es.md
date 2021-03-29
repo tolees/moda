@@ -1,30 +1,30 @@
 ---
 layout: post
-title: 'GEOX U ERRICO B NAVY Men s Loafers & Moc al 55.08 % de descuento'
-date: 2021-03-20 11:48:24
+title: 'Geox U Errico B  Moccasin Hombre  Azul   al 56.01 % de descuento'
+date: 2021-03-29 11:56:10
 image: 'https://m.media-amazon.com/images/I/41+nCd6ETlL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0825NYKY6-es GEOX U ERRICO B NAVY Men s Loafers & Moccasins Moccasin...'
+slug: 'B0825NYKY6-es Geox U Errico B Moccasin Hombre Azul Marino 39 EU'
 sku: 'B0825NYKY6-es'
 tags: [ 'Mocasines para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','geox', ]
-actualPrice: 44.88 EUR
+actualPrice: 43.95 EUR
 currency: EUR
-price: 44.88
+price: 43.95
 comparePrice: 99.9 EUR
-prodname: 'GEOX U ERRICO B NAVY Men s Loafers & Moccasins Moccasin size 39 EU '
+prodname: 'Geox U Errico B  Moccasin Hombre  Azul  Marino  39 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B0825NYKY6/?tag=tolees-21'
-descuento: '55.08'
-average: '61.7'
+descuento: '56.01'
+average: '56.6285714285715'
 ---
 
-Está [GEOX U ERRICO B NAVY Men s Loafers & Moccasins Moccasin size 39 EU ](https://www.amazon.es/dp/B0825NYKY6/?tag=tolees-21) con 55.08 de descuento por 44.88 EUR (original: 99.9 EUR) en el siguiente enlace!
+Está [Geox U Errico B  Moccasin Hombre  Azul  Marino  39 EU](https://www.amazon.es/dp/B0825NYKY6/?tag=tolees-21) con 56.01 de descuento por 43.95 EUR (original: 99.9 EUR) en el siguiente enlace!
 
-[![GEOX U ERRICO B NAVY Men s Loafers & Moc](https://m.media-amazon.com/images/I/41+nCd6ETlL._SL400_.jpg)](https://www.amazon.es/dp/B0825NYKY6/?tag=tolees-21)
+[![Geox U Errico B  Moccasin Hombre  Azul  ](https://m.media-amazon.com/images/I/41+nCd6ETlL._SL400_.jpg)](https://www.amazon.es/dp/B0825NYKY6/?tag=tolees-21)
 
 ℹ️:
 
