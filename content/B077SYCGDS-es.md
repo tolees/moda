@@ -28,10 +28,10 @@ Ahora mismo tienes [PUMA Liga Casual Sudadera  Hombre  Medium Gray Heather / Bla
 
 🔎:
 
-- Hood with drawcord for an adjustable fit
-- dryCELL: PUMAs designation for moisture-wicking properties that help keep you dry and comfortable
-- Reverse coil zip closure
 - Dual hip pockets
 - Regular fit
+- dryCELL: PUMAs designation for moisture-wicking properties that help keep you dry and comfortable
+- Reverse coil zip closure
+- Hood with drawcord for an adjustable fit
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B077SYCGDS/?tag=tolees-21)
