@@ -28,8 +28,8 @@ En este momento está [Geox U Dublin C  Men’s Derbys  Black  BLACKC9999   46  
 
 🔎:
 
+- Material de la suela: Sintético
 - Material exterior: Cuero
 - Revestimiento: Cuero
-- Material de la suela: Sintético
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01GFX7VT8/?tag=tolees-21)
