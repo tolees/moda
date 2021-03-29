@@ -29,7 +29,7 @@ En este momento está [Tommy Hilfiger Track Top LS HWK Sudadera  Azul  Navy Blaz
 🔎:
 
 - Camiseta de manga larga HWK
-- Logotipo de Tommy Hilfiger en los brazos
 - Multicolor
+- Logotipo de Tommy Hilfiger en los brazos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0788CC8DR/?tag=tolees-21)

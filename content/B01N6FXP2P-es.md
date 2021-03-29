@@ -28,10 +28,10 @@ Ahora mismo tienes [Helly Hansen Hombre Crew Hooded Jacke Chaqueta Not Applicabl
 
 🔎:
 
-- Impermeable, cortaviento y transpirable. Costuras totalmente selladas. Tratamiento de resistencia al agua duradera (DWR). Forro de malla para una mayor comodidad. Cómodo cuello con forro polar Polartec. Largo hasta la cadera, corte recto
-- Una chaqueta siempre versátil y popular para marineros con un estilo náutico clásico muy funcional.
 - Cuando el clima requiere una protección extra, esta chaqueta impermeable y transpirable con capucha que puede guardarse lo mantendrá seco y abrigado.
+- Impermeable, cortaviento y transpirable. Costuras totalmente selladas. Tratamiento de resistencia al agua duradera (DWR). Forro de malla para una mayor comodidad. Cómodo cuello con forro polar Polartec. Largo hasta la cadera, corte recto
 - Helly Tech Protection
+- Una chaqueta siempre versátil y popular para marineros con un estilo náutico clásico muy funcional.
 - Fabricado en tejido de 2 capas. Bolsillos de pecho con cremallera. Bolsillos para las manos con cremallera. Capucha plegable en el cuello. Bajo ajustable. Bolsillo en la parte trasera del cuello para identificación en las regatas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01N6FXP2P/?tag=tolees-21)

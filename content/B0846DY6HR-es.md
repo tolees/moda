@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pepe Jeans FLOYDD Chaqueta  Azul  591    al 29.86 % de descuento'
-date: 2021-03-28 09:19:05
+date: 2021-03-29 13:34:55
 image: 'https://m.media-amazon.com/images/I/41NF29q82hL._SL400_.jpg'
 comments: true
 category: ofertas

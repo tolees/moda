@@ -28,10 +28,10 @@ En este momento está [Tommy Hilfiger RN tee SS Camiseta  Gris  Grey Heather 004
 
 🔎:
 
+- Camiseta Tommy Hilfiger
 - Pequeña bandera de tommy en el pecho
+- Logotipo de TH en los brazos
 - Algodón orgánico
 - Ajuste normal
-- Logotipo de TH en los brazos
-- Camiseta Tommy Hilfiger
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0788C3NYJ/?tag=tolees-21)

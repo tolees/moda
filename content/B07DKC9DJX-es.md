@@ -28,8 +28,8 @@ Tienes [Puma Essential Crew SWS Big Logo M Sudadera  Hombre  Negro Black](https:
 
 🔎:
 
-- Corte recto
-- Cuello redondo, puños y dobladillo de canalé
 - Impresión por pigmento del logotipo N.º 1
+- Cuello redondo, puños y dobladillo de canalé
+- Corte recto
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07DKC9DJX/?tag=tolees-21)

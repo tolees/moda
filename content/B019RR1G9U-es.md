@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Velilla 201502/C8/TL Chaqueta polar  Gri al 21.74 % de rebaja'
-date: 2021-03-27 15:36:48
+date: 2021-03-29 12:57:44
 image: 'https://m.media-amazon.com/images/I/413szODUpCL._SL400_.jpg'
 comments: true
 category: ofertas

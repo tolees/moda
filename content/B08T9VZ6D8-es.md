@@ -29,7 +29,7 @@ En este momento está [NIKE Chaqueta con Capucha para Hombre. Gris carbón  Blan
 🔎:
 
 - La capucha con cordón permite ajustar la cubierta
-- Cómodo forro polar suave
 - Un diseño de cremallera completa te mantiene caliente cuando tu entrenamiento se calienta
+- Cómodo forro polar suave
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08T9VZ6D8/?tag=tolees-21)

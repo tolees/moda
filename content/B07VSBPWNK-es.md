@@ -28,8 +28,8 @@ Ahora mismo tienes [Lee Sustainable Crew SWS Sudadera  Gris  Grey Mele MP   S pa
 
 🔎:
 
+- Producto de ajuste regular
 - Con una pestaña tonal triangular cerca del dobladillo
 - Sudadera para hombre
-- Producto de ajuste regular
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VSBPWNK/?tag=tolees-21)
