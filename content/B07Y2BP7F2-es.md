@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Michael Kors Jet Set - Bolso bandolera p al 16.83 % de descuento'
-date: 2021-03-28 17:16:53
+date: 2021-03-29 23:01:20
 image: 'https://m.media-amazon.com/images/I/415RQwvLmGL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Ahora mismo tienes [Michael Kors Jet Set - Bolso bandolera para mujer  Blanco  V
 
 🔎:
 
+- Correa ajustable para el hombro de 50,8 a 63,5 cm
 - 24 cm de largo x 16,5 cm de alto x 5 cm de ancho
 - Lona revestida con logo
 - Cierre de cremallera, 2 bolsillos abiertos
-- Correa ajustable para el hombro de 50,8 a 63,5 cm
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07Y2BP7F2/?tag=tolees-21)
