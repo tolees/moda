@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Levi s Orig Hm Vneck Camiseta  Blue  Dre al 36.04 % de descuento'
-date: 2021-03-18 05:13:31
+date: 2021-03-30 18:23:28
 image: 'https://m.media-amazon.com/images/I/41D70kRIpgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07SHTXGRK-es Levi s Orig Hm Vneck Camiseta Blue Dress Blues 0002 Medium...'
 sku: 'B07SHTXGRK-es'
+tags: [ 'Camisetas para hombre','Camisetas, polos y camisas para hombre','Ropa','Ropa para hombre','camiseta','levis', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99
@@ -27,8 +28,8 @@ Ahora mismo tienes [Levi s Orig Hm Vneck Camiseta  Blue  Dress Blues 0002   Medi
 
 🔎:
 
-- Elaborada en punto suave
-- Modelo casual
 - Con un discreto logo en el pecho
+- Modelo casual
+- Elaborada en punto suave
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SHTXGRK/?tag=tolees-21)

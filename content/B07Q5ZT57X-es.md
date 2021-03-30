@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HAWKERS Gafas de sol  Rosa  One Size Uni al 25.00 % de descuento'
-date: 2021-03-27 00:48:09
+date: 2021-03-30 18:35:58
 image: 'https://m.media-amazon.com/images/I/31OnuIQtdWL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Ahora mismo tienes [HAWKERS Gafas de sol  Rosa  One Size Unisex-Adult](https://w
 
 🔎:
 
-- Producto original Hawkers; la caja incluye funda de microfibra, caja y set de pegatinas decorativas
 - Montura fabricada en TR90 que dota a las gafas de gran ligereza, flexibilidad y resistencia; muy resistente a altas y bajas temperaturas
+- Producto original Hawkers; la caja incluye funda de microfibra, caja y set de pegatinas decorativas
 - Gafas de Sol Faster, Unisex, diseño deportivo rectangular curvado con montura negro mate y con lente verde y morado con efecto espejo
 - Lente cromada en verde y morado con efecto espejo, fabricada en TR18, con reducción de brillos y con gran equilibrio entre claridad y protección; lente de categoría 3 con protección UV400
 - Medidas: Frente: 14,2 cm, Altura: 4,9 cm, Diámetro de la lente: 5,75 cm; Puente: 2,5 cm; Varillas: 14 cm
