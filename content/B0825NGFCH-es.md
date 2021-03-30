@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Descuento del 59.85 % en GEOX U RENAN A BLACK Men s Trainers Low-'
-date: 2021-03-10 04:30:52
+date: 2021-03-30 22:25:41
 image: 'https://m.media-amazon.com/images/I/31AF34wrmkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0825NGFCH-es GEOX U RENAN A BLACK Men s Trainers Low-Top Trainers size...'
 sku: 'B0825NGFCH-es'
+tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','geox', ]
 actualPrice: 40.11 EUR
 currency: EUR
 price: 40.11

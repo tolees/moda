@@ -28,7 +28,7 @@ En este momento está [Quiksilver Carver Suede M Sndl Sandalias con Plataforma P
 
 🔎:
 
-- Chanclas con correas de ante con detalle de costura y rayas de contraste en la entresuela
 - Soporte de arco anatómicamente correcto
+- Chanclas con correas de ante con detalle de costura y rayas de contraste en la entresuela
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00LMKKYA8/?tag=tolees-21)
