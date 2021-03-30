@@ -28,10 +28,10 @@ Tienes [Helly Hansen HH QD Cargo Shorts 11 - Pantalón corto para hombre  Azul M
 
 ℹ️:
 
-- Dos bolsillos de carga con cierre de botón oculto
-- Bolsillo trasero seguro con cierre de cremallera YKK
-- Bragueta con cremallera y cierre de cintura de botón plano para un volumen mínimo.
-- Tejido de poliamida resistente al desgarro, estirado y secado rápido
 - Protección solar con UPF 40+
+- Bolsillo trasero seguro con cierre de cremallera YKK
+- Dos bolsillos de carga con cierre de botón oculto
+- Tejido de poliamida resistente al desgarro, estirado y secado rápido
+- Bragueta con cremallera y cierre de cintura de botón plano para un volumen mínimo.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00LV410BW/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [Bolle - Bollé TRACPSF Tracker - Gafas de seguridad  color negro](https:
 
 🔎:
 
-- Diadema ajustable y funda de microfibra incluidos. Peso: 52 g
+- Lentes: policarbonato (PC) - 2.2 mm - Curva 8. marco y templos: policarbonato (PC). Correa: nylon
 - Protección contra la radiación UV, la energía de impacto medio, al impacto a temperaturas extremas, las gotas de líquido
 - Superior, inferior y protección lateral. Patillas rectas. Anti-cero y recubrimiento anti-vaho
-- Lentes: policarbonato (PC) - 2.2 mm - Curva 8. marco y templos: policarbonato (PC). Correa: nylon
 - 100 % protección UV. Conforme a EN refuerzo 166. espuma con ventilación indirecta. Ventilación lateral
+- Diadema ajustable y funda de microfibra incluidos. Peso: 52 g
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0029SMDOC/?tag=tolees-21)
