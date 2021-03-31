@@ -28,10 +28,10 @@ Tienes [BOSS T-Shirt RN 3p Co Camiseta para Hombre  Multicolor  Assorted Pre-Pac
 
 🔎:
 
-- 100% algodón
-- Hugo Boss camisetas
 - unicolor
 - Estilo clásico, Cuello redondo
+- 100% algodón
 - 3 paquetes
+- Hugo Boss camisetas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01LZA5O9U/?tag=tolees-21)

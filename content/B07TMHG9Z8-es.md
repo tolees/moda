@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Barstow Western Standard Camisa   con un 38.76 % de descuento'
-date: 2021-03-29 23:13:22
+date: 2021-03-31 07:43:44
 image: 'https://m.media-amazon.com/images/I/41Crr7BgfCL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ En este momento está [Levi s Barstow Western Standard Camisa  Blue  Red Cast St
 
 🔎:
 
+- Modelo casual
 - Camisa denim clásica de manga larga Western Shirt
 - Dos bolsillos con botón en el pecho
-- Modelo casual
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07TMHG9Z8/?tag=tolees-21)
