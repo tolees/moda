@@ -29,7 +29,7 @@ Está [Levi s SS Original Hm tee Camiseta  Ueprint  M para Hombre](https://www.a
 ℹ️:
 
 - Adecuada para el día a día
-- Modelo casual
 - Logotipo pequeño de Levis en el pecho
+- Modelo casual
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07ZVQT6LH/?tag=tolees-21)

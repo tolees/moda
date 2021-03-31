@@ -28,8 +28,8 @@ Está [Tommy Jeans TJM Essential Down Jacket Chaqueta  Azul Marino Crepúsculo  
 
 ℹ️:
 
-- Producto original y auténtico de Tommy Hilfiger/Tommy Jeans
 - Más información sobre Tommy Hilfiger / Tommy Jeans se puede encontrar en la descripción del producto
+- Producto original y auténtico de Tommy Hilfiger/Tommy Jeans
 - Este producto se ha producido de forma sostenible
 - Tommy Jeans ropa exterior para hombre
 
