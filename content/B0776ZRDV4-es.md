@@ -28,10 +28,10 @@ Tienes [Tommy Jeans Original Jersey Camiseta  Gris  Lt Grey Htr 038   Medium par
 
 🔎:
 
-- Logotipo Tommy Jeans bordado en el pecho
 - Logotipo Tommy Jeans
-- Algodón orgánico puro
-- Cuello de pico
 - Diseño ajustado
+- Cuello de pico
+- Logotipo Tommy Jeans bordado en el pecho
+- Algodón orgánico puro
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0776ZRDV4/?tag=tolees-21)
