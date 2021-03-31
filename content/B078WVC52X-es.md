@@ -28,7 +28,7 @@ Ahora mismo tienes [Quiksilver Carver Nubuck-Sandals For Men  Zapatos de Playa y
 
 🔎:
 
-- Gender: Men
 - Material: Obermaterial: Kunstleder / Decksohle: Textil / Laufsohle: Gummi
+- Gender: Men
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B078WVC52X/?tag=tolees-21)
