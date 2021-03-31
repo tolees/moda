@@ -28,7 +28,7 @@ Está [AOQUSSQOA Mujer Ropa de baño Monokin Traje de una Pieza Leopardo para Mu
 
 ℹ️:
 
-- Lavar a mano en agua a 30 ºC.
 - ❀80% poliamida, 20% elastano, buena elasticidad, cómodo, transpirable.
+- Lavar a mano en agua a 30 ºC.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07NW961CB/?tag=tolees-21)

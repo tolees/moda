@@ -28,7 +28,7 @@ Ahora mismo tienes [AOQUSSQOA Mujer Ropa de baño Monokin Traje de una Pieza Leo
 
 🔎:
 
-- Lavar a mano en agua a temperatura de 30 °C.
 - ❀80% poliamida, 20% elastano, buena elasticidad, cómodo, transpirable.
+- Lavar a mano en agua a temperatura de 30 °C.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08DRBL7PK/?tag=tolees-21)
