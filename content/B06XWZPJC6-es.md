@@ -29,9 +29,9 @@ Está [oodji Ultra Mujer Camisa Entallada con Bolsillos en el Pecho  Verde  ES 3
 ℹ️:
 
 - Elegante y sobria camisa con cuello solapa y pinzas para mantener su forma
+- Las prendas de colección oodji Ultra tienen la talla más pequeña de lo normal, te recomendamos que elijas una talla superior a tu talla habitual o que consultes la tabla de tallas de oodji. Modelo: Talla S. Medidas: 85/65/90. Altura/peso: 175cm/52kg
 - Estilo de ropa: Negocios
 - Practica y cómoda camisa ideal para el entretiempo y disfrutar de tu tiempo libre o para ocasiones más formales
 - Longitud de espalda (talla M): 66cm
-- Las prendas de colección oodji Ultra tienen la talla más pequeña de lo normal, te recomendamos que elijas una talla superior a tu talla habitual o que consultes la tabla de tallas de oodji. Modelo: Talla S. Medidas: 85/65/90. Altura/peso: 175cm/52kg
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06XWZPJC6/?tag=tolees-21)
