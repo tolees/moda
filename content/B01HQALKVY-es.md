@@ -28,10 +28,10 @@ Está [Crocs Crocband U  Zuecos Unisex Adulto  Gris  Light Grey-Navy   36-37 EU]
 
 ℹ️:
 
-- Material de la suela: Goma
+- Cierre: Sin cordones
 - Revestimiento: Sintético
 - Material exterior: Espuma
 - Altura del tacón: 1.5 pulgadas
-- Cierre: Sin cordones
+- Material de la suela: Goma
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01HQALKVY/?tag=tolees-21)
