@@ -28,10 +28,10 @@ Ahora mismo tienes [Cerdá LOL Surprise | Vestido de Niña  Rosa  6 Años para N
 
 🔎:
 
+- Ropa LOL Surprise niña - vestidos de verano frescos y cómodos, ¡tan mona como sus muñecas favoritas!
 - Lavar a máquina - agua fría (30 ° max) | Planchar a baja temperatura (max 110ºC)
 - Ropa LOL Surprise - fabricados en algodón 100%
-- Talla idónea para niñas de 5 - 6 años
-- Ropa LOL Surprise niña - vestidos de verano frescos y cómodos, ¡tan mona como sus muñecas favoritas!
 - Vestidos LOL Surprise para verano | 100% algodón
+- Talla idónea para niñas de 5 - 6 años
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B084BDQR97/?tag=tolees-21)

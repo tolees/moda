@@ -28,10 +28,10 @@ Está [PORPEE Gafas de Filtro de Luz Azul  Gafas de Ordenador con Lente de Pelí
 
 ℹ️:
 
+- 【Materiales de Alta Calidad】-Material de la estructura de nylon TR90 para la durabilidad y el confort de uso a largo plazo. Lentes de PC resistentes a los golpes, no frágiles y a prueba de agua, sin polvo y fáciles de limpiar.
+- 【100% Libre de Riesgos a Try】-Ofrecemos una garantía de devolución del 100% del dinero, las gafas no satisfechas pueden ser devueltas en los 90 días siguientes a su recepción. Los clientes disfrutarán de una garantía de por vida (no de daños causados por el hombre). En caso de que ocurra cualquier problema, sólo contáctenos sin dudarlo hasta que esté satisfecho.
 - 【HD Transparente Lens】-Lente transparente PORPEE sin diferencia de color y alta transmisión de luz, proporcionando un equilibrio perfecto entre la protección de los ojos y la experiencia visual. Son ideales para ver, leer y jugar.
 - 【Última Gafas Ordenador Luz Azul】-PORPEE utiliza la última lente de doble capa de revestimiento verde puede filtrar el 100% de la luz azul dañina y la radiación de las pantallas digitales, que es mejor protección que la tradicional lente de película azul. Disfrute de su tiempo digital! no hay necesidad de preocuparse por el cansancio de la vista y el dolor de cabeza, proporciona protección durante todo el día.
-- 【100% Libre de Riesgos a Try】-Ofrecemos una garantía de devolución del 100% del dinero, las gafas no satisfechas pueden ser devueltas en los 90 días siguientes a su recepción. Los clientes disfrutarán de una garantía de por vida (no de daños causados por el hombre). En caso de que ocurra cualquier problema, sólo contáctenos sin dudarlo hasta que esté satisfecho.
 - 【Marco Elegante & Múltiples Colores】-Los marcos cuadrados pueden ser combinados con todo tipo de formas faciales, el diseño único de los templos crea un nuevo sentido de la moda, los múltiples colores pueden ser combinados con diferentes trajes en una forma diaria.
-- 【Materiales de Alta Calidad】-Material de la estructura de nylon TR90 para la durabilidad y el confort de uso a largo plazo. Lentes de PC resistentes a los golpes, no frágiles y a prueba de agua, sin polvo y fáciles de limpiar.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B087TT61CJ/?tag=tolees-21)
