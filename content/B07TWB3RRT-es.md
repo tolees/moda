@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Essential Western Blusa  Blue  Co con un 34.76 % de descuento'
-date: 2021-03-29 23:23:20
+date: 2021-03-31 00:54:21
 image: 'https://m.media-amazon.com/images/I/418X+V-Zc1L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07TWB3RRT/?tag=tolees-21'
 descuento: '34.76'
-average: '50.3882352941177'
+average: '50.414347826087'
 ---
 
 En este momento está [Levi s Essential Western Blusa  Blue  Cool out  2  0001   S para Mujer](https://www.amazon.es/dp/B07TWB3RRT/?tag=tolees-21) a 52.19 EUR (original: 80.0 EUR) (34.76 %  de descuento) en el siguiente enlace!
