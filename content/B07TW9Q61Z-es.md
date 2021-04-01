@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s LS Battery Hm Shirt Slim Camisa   al 16.69 % de descuento'
-date: 2021-03-31 17:18:15
+date: 2021-04-01 17:44:44
 image: 'https://m.media-amazon.com/images/I/31n0ylvZlyL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07TW9Q61Z/?tag=tolees-21'
 descuento: '16.69'
-average: '34.95'
+average: '34.2357142857143'
 ---
 
 Está [Levi s LS Battery Hm Shirt Slim Camisa  White  White 0002   X-Large para Hombre](https://www.amazon.es/dp/B07TW9Q61Z/?tag=tolees-21) con 16.69 de descuento por 29.95 EUR (original: 35.95 EUR) en el siguiente enlace!

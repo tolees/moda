@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Barstow Western Standard Camisa   con un 38.76 % de descuento'
-date: 2021-03-31 07:43:44
+date: 2021-04-01 17:23:56
 image: 'https://m.media-amazon.com/images/I/41Crr7BgfCL._SL400_.jpg'
 comments: true
 category: ofertas
