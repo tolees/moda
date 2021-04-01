@@ -28,7 +28,7 @@ En este momento está [Esprit 129eo1f016 Blusa  Azul  Navy 4 403   38  Talla del
 
 🔎:
 
-- Una blusa muy versátil para muchas ocasiones
 - Blusa business elegante en tejido fluido con estampado discreto
+- Una blusa muy versátil para muchas ocasiones
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07Y9VTW8Q/?tag=tolees-21)

@@ -29,9 +29,9 @@ Tienes [Roxy Epic Afternoon - Camiseta para Mujer Camiseta  Mujer  Snow White  X
 ℹ️:
 
 - Cuello: Cuello redondo
-- Tejido: punto jersey de algodón ligero
-- Mangas enrollables
 - Estampado de foil Dorado en la parte delantera
+- Mangas enrollables
+- Tejido: punto jersey de algodón ligero
 - Corte: Corte normal, clásico, cómodo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0895KDYZS/?tag=tolees-21)

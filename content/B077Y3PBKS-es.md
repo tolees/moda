@@ -28,10 +28,10 @@ En este momento está [GORE Wear Camiseta interior cortavientos de hombre  M  Ne
 
 🔎:
 
-- Contenido: 1 GORE Wear Camiseta interior de manga larga de hombre, GORE M WINDSTOPPER Base Layer Long Sleeve Shirt, Talla: M, Color: Negro, 100323
-- Costuras planas optimizadas para evitar rozaduras, Espalda alargada
 - Protección eficaz contra el frío gracias a los insertos elásticos GORE WINDSTOPPER en los hombros, mangas, parte delantera y trasera, Cómoda gracias al tejido suave y ligero
-- Adecuada para todo el año, Cortavientos, extremadamente transpirable e hidro repelente gracias a la tecnología GORE WINDSTOPPER
+- Contenido: 1 GORE Wear Camiseta interior de manga larga de hombre, GORE M WINDSTOPPER Base Layer Long Sleeve Shirt, Talla: M, Color: Negro, 100323
 - Camiseta interior ligera de manga larga de hombre para todas las actividades deportivas - Talle ajustado
+- Adecuada para todo el año, Cortavientos, extremadamente transpirable e hidro repelente gracias a la tecnología GORE WINDSTOPPER
+- Costuras planas optimizadas para evitar rozaduras, Espalda alargada
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B077Y3PBKS/?tag=tolees-21)
