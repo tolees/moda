@@ -30,7 +30,7 @@ Está [adidas CORE18 RN JKT Chaqueta Deportiva  Hombre  Azul  Dark Blue/White   
 
 - Tiene el logotipo de Adidas en el pecho
 - Tiene cierre completo con cremallera
-- Tiene dos bolsillos laterales para las manos
 - Chubasquero con capucha para hombre
+- Tiene dos bolsillos laterales para las manos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B076HPNLCQ/?tag=tolees-21)
