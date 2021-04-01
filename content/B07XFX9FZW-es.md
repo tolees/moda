@@ -28,10 +28,10 @@ Tienes [PUMA Teamgoal 23 Jersey Camiseta  Hombre  Peacoat New Navy  XXL](https:/
 
 🔎:
 
-- Logotipo del felino PUMA en la parte derecha del pecho
-- Manga corta
 - Cuello redondo
+- Manga corta
 - Toques de color en el cuello y los lados
+- Logotipo del felino PUMA en la parte derecha del pecho
 - dryCELL: tecnología de PUMA con propiedades que alejan la humedad de la piel y te ayudan a mantenerte seco y cómodo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07XFX9FZW/?tag=tolees-21)

@@ -29,7 +29,7 @@ Está [Levi s Orig Hm Vneck Camiseta  Blue  Dress Blues 0002   X-Small para Homb
 ℹ️:
 
 - Elaborada en punto suave
-- Con un discreto logo en el pecho
 - Modelo casual
+- Con un discreto logo en el pecho
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07TRM6RHN/?tag=tolees-21)
