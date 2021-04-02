@@ -28,7 +28,7 @@ Está [Tommy Hilfiger Core Stretch Slim CNECK tee Camiseta  Azul  Navy Blazer 41
 
 ℹ️:
 
-- Partes de procedencia animal: no.
 - Material: 95 % algodón, 5 % elastano.
+- Partes de procedencia animal: no.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B016QM56AE/?tag=tolees-21)
