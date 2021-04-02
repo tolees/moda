@@ -1,35 +1,36 @@
 ---
 layout: post
-title: 'Adidas Regista 18 Track Top Chaqueta Dep al 22.03 % de descuento'
-date: 2021-03-12 04:46:58
+title: 'Adidas Regista 18 Track Top Chaqueta Dep al 39.94 % de descuento'
+date: 2021-04-02 03:23:01
 image: 'https://m.media-amazon.com/images/I/41vF4dTyyZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076HQXYLT-es Adidas Regista 18 Track Top Chaqueta Deportiva Hombre Rojo...'
 sku: 'B076HQXYLT-es'
-actualPrice: 27.25 EUR
+tags: [ 'Chalecos de fútbol para hombre','Deportes y aire libre','Fútbol','Ropa de fútbol','Ropa de fútbol para hombre','Ropa y equipamiento para deportes','adidas','chaqueta', ]
+actualPrice: 20.99 EUR
 currency: EUR
-price: 27.25
+price: 20.99
 comparePrice: 34.95 EUR
 prodname: 'Adidas Regista 18 Track Top Chaqueta Deportiva  Hombre  Rojo  Power Red/Black   L'
 country: 'es'
 flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076HQXYLT/?tag=tolees-21'
-descuento: '22.03'
-average: '27.25'
+descuento: '39.94'
+average: '24.12'
 ---
 
-Está [Adidas Regista 18 Track Top Chaqueta Deportiva  Hombre  Rojo  Power Red/Black   L](https://www.amazon.es/dp/B076HQXYLT/?tag=tolees-21) con 22.03 de descuento por 27.25 EUR (original: 34.95 EUR) en el siguiente enlace!
+Está [Adidas Regista 18 Track Top Chaqueta Deportiva  Hombre  Rojo  Power Red/Black   L](https://www.amazon.es/dp/B076HQXYLT/?tag=tolees-21) con 39.94 de descuento por 20.99 EUR (original: 34.95 EUR) en el siguiente enlace!
 
 [![Adidas Regista 18 Track Top Chaqueta Dep](https://m.media-amazon.com/images/I/41vF4dTyyZL._SL400_.jpg)](https://www.amazon.es/dp/B076HQXYLT/?tag=tolees-21)
 
 ℹ️:
 
-- Cintura elástica con cordón.
 - Cierre de cremallera
-- Diseño ligero.
 - La tecnología Climalite expulsa el sudor de la piel.
+- Diseño ligero.
+- Cintura elástica con cordón.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B076HQXYLT/?tag=tolees-21)
