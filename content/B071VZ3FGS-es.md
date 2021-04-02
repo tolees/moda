@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Fossil Collar FS4812IE con un 30.88 % de descuento'
-date: 2021-03-21 04:13:06
+title: 'Fossil Collar FS4812IE con un 31.02 % de descuento'
+date: 2021-04-01 21:19:52
 image: 'https://m.media-amazon.com/images/I/41iYSPOdPeL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B071VZ3FGS-es Fossil Collar FS4812IE'
 sku: 'B071VZ3FGS-es'
 tags: [ 'Relojes','Relojes de pulsera para hombres','Relojes para hombre','collar','fossil', ]
-actualPrice: 89.16 EUR
+actualPrice: 88.99 EUR
 currency: EUR
-price: 89.16
+price: 88.99
 comparePrice: 129.0 EUR
 prodname: 'Fossil Collar FS4812IE'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Fossil'
 buyurl: 'https://www.amazon.es/dp/B071VZ3FGS/?tag=tolees-21'
-descuento: '30.88'
-average: '81.2775'
+descuento: '31.02'
+average: '82.82'
 ---
 
-En este momento está [Fossil Collar FS4812IE](https://www.amazon.es/dp/B071VZ3FGS/?tag=tolees-21) a 89.16 EUR (original: 129.0 EUR) (30.88 %  de descuento) en el siguiente enlace!
+En este momento está [Fossil Collar FS4812IE](https://www.amazon.es/dp/B071VZ3FGS/?tag=tolees-21) a 88.99 EUR (original: 129.0 EUR) (31.02 %  de descuento) en el siguiente enlace!
 
 [![Fossil Collar FS4812IE](https://m.media-amazon.com/images/I/41iYSPOdPeL._SL400_.jpg)](https://www.amazon.es/dp/B071VZ3FGS/?tag=tolees-21)
 
