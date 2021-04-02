@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lee Crew Neck tee Camiseta  Azul Oscuro  al 49.98 % de descuento'
-date: 2021-03-31 23:19:22
+date: 2021-04-02 00:45:10
 image: 'https://m.media-amazon.com/images/I/41sda-QedhL._SL400_.jpg'
 comments: true
 category: ofertas
