@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Helly Hansen Crew Chaqueta  Hombre  Negr al 23.61 % de rebaja'
-date: 2021-04-01 17:56:05
+date: 2021-04-02 22:21:43
 image: 'https://m.media-amazon.com/images/I/41590MItztL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Helly Hansen'
 buyurl: 'https://www.amazon.es/dp/B00LU7MID4/?tag=tolees-21'
 descuento: '23.61'
-average: '82.674'
+average: '89.61'
 ---
 
 Tienes [Helly Hansen Crew Chaqueta  Hombre  Negro  Black   M](https://www.amazon.es/dp/B00LU7MID4/?tag=tolees-21) con precio final de  106.95 EUR (original: 140.0 EUR) (23.61 %  de rebaja) aqui!

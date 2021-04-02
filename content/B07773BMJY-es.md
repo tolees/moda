@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Jeans Original Stretch Camisa  Azu con un 26.74 % de descuento'
-date: 2021-04-01 16:59:17
+date: 2021-04-02 22:28:11
 image: 'https://m.media-amazon.com/images/I/311VwksA47L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Tommy Jeans'
 buyurl: 'https://www.amazon.es/dp/B07773BMJY/?tag=tolees-21'
 descuento: '26.74'
-average: '48.1610273972605'
+average: '48.1772789115648'
 ---
 
 En este momento está [Tommy Jeans Original Stretch Camisa  Azul  Lavender Lustre 556   Large para Hombre](https://www.amazon.es/dp/B07773BMJY/?tag=tolees-21) a 50.55 EUR (original: 69.0 EUR) (26.74 %  de descuento) en el siguiente enlace!
@@ -28,8 +28,8 @@ En este momento está [Tommy Jeans Original Stretch Camisa  Azul  Lavender Lustr
 
 🔎:
 
+- Modelo casual
 - Puños con botón
 - Tiene el logo de Tommy Hilfiger bordado en el pecho
-- Modelo casual
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07773BMJY/?tag=tolees-21)
