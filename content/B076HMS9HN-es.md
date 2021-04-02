@@ -29,7 +29,7 @@ Tienes [adidas CORE18 TR Top Y Sudadera  Unisex niños  Black/White  5-6Y](https
 🔎:
 
 - Climalite anti-humidity fabric
-- 1/4 zip
 - Regular fit
+- 1/4 zip
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B076HMS9HN/?tag=tolees-21)

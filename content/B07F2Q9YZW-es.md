@@ -1,28 +1,28 @@
 ---
 layout: post
-title: 'Helly Hansen HP Racing Chaqueta  Hombre  al 58.67 % de rebaja'
-date: 2021-03-25 09:39:03
+title: 'Helly Hansen HP Racing Chaqueta  Hombre  al 25.00 % de rebaja'
+date: 2021-04-02 05:46:28
 image: 'https://m.media-amazon.com/images/I/31xqlucPplL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07F2Q9YZW-es Helly Hansen HP Racing Chaqueta Hombre Azul XL'
 sku: 'B07F2Q9YZW-es'
-tags: [ 'Chaquetas de navegación para hombre','Deportes acuáticos','Deportes y aire libre','Náutica','Ropa de navegación','Ropa de navegación para hombre','chaqueta','helly hansen', ]
-actualPrice: 61.99 EUR
+tags: [ 'Chaquetas de navegación para hombre','Deportes acuáticos','Deportes y aire libre','Náutica','Ropa de navegación','Ropa de navegación para hombre','Ropa y equipamiento para deportes','chaqueta','helly hansen', ]
+actualPrice: 112.5 EUR
 currency: EUR
-price: 61.99
+price: 112.5
 comparePrice: 150.0 EUR
 prodname: 'Helly Hansen HP Racing Chaqueta  Hombre  Azul  XL'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Helly Hansen'
 buyurl: 'https://www.amazon.es/dp/B07F2Q9YZW/?tag=tolees-21'
-descuento: '58.67'
-average: '84.9419999999999'
+descuento: '25.00'
+average: '88.1841176470587'
 ---
 
-Tienes [Helly Hansen HP Racing Chaqueta  Hombre  Azul  XL](https://www.amazon.es/dp/B07F2Q9YZW/?tag=tolees-21) con precio final de  61.99 EUR (original: 150.0 EUR) (58.67 %  de rebaja) aqui!
+Tienes [Helly Hansen HP Racing Chaqueta  Hombre  Azul  XL](https://www.amazon.es/dp/B07F2Q9YZW/?tag=tolees-21) con precio final de  112.5 EUR (original: 150.0 EUR) (25.00 %  de rebaja) aqui!
 
 [![Helly Hansen HP Racing Chaqueta  Hombre ](https://m.media-amazon.com/images/I/31xqlucPplL._SL400_.jpg)](https://www.amazon.es/dp/B07F2Q9YZW/?tag=tolees-21)
 
