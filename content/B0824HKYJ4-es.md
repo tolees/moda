@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bolso para Hombre Bolso Bandolera Corone al 17.01 % de rebaja'
-date: 2021-04-02 01:30:23
+date: 2021-04-03 04:41:37
 image: 'https://m.media-amazon.com/images/I/31Alx1e8NSL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Coronel Tapiocca'
 buyurl: 'https://www.amazon.es/dp/B0824HKYJ4/?tag=tolees-21'
 descuento: '17.01'
-average: '12.5022448979592'
+average: '12.4672549019608'
 ---
 
 Tienes [Bolso para Hombre Bolso Bandolera Coronel Tapiocca Casual con Solapa Bolsillos y Cremallera Denim 24 cm Negro](https://www.amazon.es/dp/B0824HKYJ4/?tag=tolees-21) con precio final de  11.61 EUR (original: 13.99 EUR) (17.01 %  de rebaja) aqui!
