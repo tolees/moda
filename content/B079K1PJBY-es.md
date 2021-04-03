@@ -28,8 +28,8 @@ Está [Nike Kids  Tiempo Premier Football Camiseta de Manga Larga  Unisex niños
 
 ℹ️:
 
-- V-neck
 - Slim fit
 - Dri-Fit Technology
+- V-neck
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B079K1PJBY/?tag=tolees-21)
