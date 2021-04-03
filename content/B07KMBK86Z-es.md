@@ -28,7 +28,7 @@ Está [Clarks Tri Walk  Sandalias Mujer  Negro  Black Combi Black Combi   36 EU]
 
 ℹ️:
 
-- Color exacto: combinación negra
 - Material de la suela: goma
+- Color exacto: combinación negra
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07KMBK86Z/?tag=tolees-21)
