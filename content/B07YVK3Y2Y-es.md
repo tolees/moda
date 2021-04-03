@@ -28,10 +28,10 @@ Ahora mismo tienes [Trangoworld Trx2 Stretch Pro Chaqueta  Hombre  Negro/Negro  
 
 🔎:
 
-- Rápido secado
 - Alta capacidad térmica
+- Tejido bi-elástico proporciona confort y libertad de movimiento
 - Transpirable
 - Diseño prima ligereza
-- Tejido bi-elástico proporciona confort y libertad de movimiento
+- Rápido secado
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07YVK3Y2Y/?tag=tolees-21)
