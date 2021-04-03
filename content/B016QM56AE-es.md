@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Core Stretch Slim CNECK t al 50.00 % de descuento'
-date: 2021-04-02 13:54:26
+date: 2021-04-03 14:36:57
 image: 'https://m.media-amazon.com/images/I/312BrvEaDwL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ Está [Tommy Hilfiger Core Stretch Slim CNECK tee Camiseta  Azul  Navy Blazer 41
 
 ℹ️:
 
-- Material: 95 % algodón, 5 % elastano.
 - Partes de procedencia animal: no.
+- Material: 95 % algodón, 5 % elastano.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B016QM56AE/?tag=tolees-21)

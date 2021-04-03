@@ -28,12 +28,12 @@ Tienes [Naturino See  Sandalias de Gladiador Unisex Niños  Gris  Tortora 0d08  
 
 ℹ️:
 
-- Cierre: velcro.
-- Forro: piel.
 - Composición: 100% piel.
-- Tipo de tacón: tacón.
 - Material de la suela: goma.
 - Diámetro de la pantorrilla: normal.
+- Cierre: velcro.
 - Ancho del zapato: normal.
+- Tipo de tacón: tacón.
+- Forro: piel.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07MC85KNR/?tag=tolees-21)

@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Descuento del 48.12 % en Reef Smoothy - Chanclas para hombre  Neg'
-date: 2021-03-13 13:34:13
+date: 2021-04-03 14:26:11
 image: 'https://m.media-amazon.com/images/I/31vlVRctEbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000NRTYRK-es Reef Smoothy - Chanclas para hombre Negro 43 EU'
 sku: 'B000NRTYRK-es'
+tags: [ 'Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas','reef', ]
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49
