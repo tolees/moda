@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Marca Amazon - find. Capucha Mujer  Gris con un 37.23 % de descuento'
-date: 2021-04-02 08:44:40
+date: 2021-04-03 10:17:30
 image: 'https://m.media-amazon.com/images/I/415VsnlieML._SL400_.jpg'
 comments: true
 category: ofertas

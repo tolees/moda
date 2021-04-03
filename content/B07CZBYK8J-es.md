@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HOM Lake Long Sleepwear Pijama  Rojo  Bo con un 18.01 % de descuento'
-date: 2021-04-02 05:09:27
+date: 2021-04-03 10:06:58
 image: 'https://m.media-amazon.com/images/I/314GjMLaAkL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HOM'
 buyurl: 'https://www.amazon.es/dp/B07CZBYK8J/?tag=tolees-21'
 descuento: '18.01'
-average: '61.5664705882354'
+average: '62.9394736842106'
 ---
 
 En este momento está [HOM Lake Long Sleepwear Pijama  Rojo  Bordeaux 00zq   Small para Hombre](https://www.amazon.es/dp/B07CZBYK8J/?tag=tolees-21) a 74.61 EUR (original: 91.0 EUR) (18.01 %  de descuento) en el siguiente enlace!

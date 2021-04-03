@@ -28,9 +28,9 @@ Ahora mismo tienes [Ternua ® - Ternua Chaqueta Kamet Jacket M Hombre  Dark Lago
 
 🔎:
 
-- Costuras planas
 - Chaqueta Kamet Jacket M
 - Warmshell-tecnología para mantener el calor
 - Con capucha
+- Costuras planas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07FQVGZRC/?tag=tolees-21)
