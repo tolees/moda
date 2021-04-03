@@ -30,8 +30,8 @@ Tienes [PUMA Teamgoal 23 Jersey Camiseta  Hombre  Electric Blue Lemonade-Team Po
 
 - Toques de color en el cuello y los lados
 - Cuello redondo
-- dryCELL: tecnología de PUMA con propiedades que alejan la humedad de la piel y te ayudan a mantenerte seco y cómodo
-- Logotipo del felino PUMA en la parte derecha del pecho
 - Manga corta
+- Logotipo del felino PUMA en la parte derecha del pecho
+- dryCELL: tecnología de PUMA con propiedades que alejan la humedad de la piel y te ayudan a mantenerte seco y cómodo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07XBSX9SY/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [DC Shoes Star Pilot - Camiseta - Niños 8-16](https://www.amazon.es/dp/B
 
 ℹ️:
 
-- Estampado gráfico de plastisol en el pecho
-- __Cuello:__ cuello redondo
 - __Tejido:__ tejido fino de jersey
+- Estampado gráfico de plastisol en el pecho
 - Etiqueta con serigrafía en la parte trasera del cuello
+- __Cuello:__ cuello redondo
 - __Corte:__ corte normal, cómodo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0895LLVBL/?tag=tolees-21)
