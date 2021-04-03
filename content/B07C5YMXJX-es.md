@@ -1,32 +1,35 @@
 ---
 layout: post
-title: 'Descuento del 41.26 % en Jack & Jones Jjesheridan Shirt L/s Camis'
-date: 2020-06-12 00:08:05
-image: 'https://m.media-amazon.com/images/I/41cpJ1Ur9qL._SL400_.jpg'
+title: 'Descuento del 45.01 % en Jack & Jones Jjesheridan Shirt L/s Camis'
+date: 2021-04-03 19:29:24
+image: 'https://m.media-amazon.com/images/I/31Ggy6TQ-yL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07C5YMXJX-es Jack & Jones Jjesheridan Shirt L/s Camisa Vaquera Negro...'
 sku: 'B07C5YMXJX-es'
-tags: [ 'camisa', ]
-actualPrice: 23.49 EUR
+tags: [ 'Camisas casual para hombre','Camisetas, polos y camisas para hombre','Ropa','Ropa para hombre','camisa','jack & jones', ]
+actualPrice: 21.99 EUR
 currency: EUR
-price: 23.49
+price: 21.99
 comparePrice: 39.99 EUR
 prodname: 'Jack & Jones Jjesheridan Shirt L/s Camisa Vaquera  Negro  Black Denim Fit:Slim   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B07C5YMXJX/?tag=tolees-21'
-descuento: '41.26'
-average: '23.172499999999996'
+descuento: '45.01'
+average: '22.445'
 ---
 
-Tienes [Jack & Jones Jjesheridan Shirt L/s Camisa Vaquera  Negro  Black Denim Fit:Slim   Medium para Hombre](https://www.amazon.es/dp/B07C5YMXJX/?tag=tolees-21) con un 41.26 % de descuento con precio de oferta de 23.49 EUR (original: 39.99 EUR) en el siguiente enlace!
+Tienes [Jack & Jones Jjesheridan Shirt L/s Camisa Vaquera  Negro  Black Denim Fit:Slim   Medium para Hombre](https://www.amazon.es/dp/B07C5YMXJX/?tag=tolees-21) con un 45.01 % de descuento con precio de oferta de 21.99 EUR (original: 39.99 EUR) en el siguiente enlace!
 
-[![Jack & Jones Jjesheridan Shirt L/s Camis](https://m.media-amazon.com/images/I/41cpJ1Ur9qL._SL400_.jpg)](https://www.amazon.es/dp/B07C5YMXJX/?tag=tolees-21)
+[![Jack & Jones Jjesheridan Shirt L/s Camis](https://m.media-amazon.com/images/I/31Ggy6TQ-yL._SL400_.jpg)](https://www.amazon.es/dp/B07C5YMXJX/?tag=tolees-21)
 
 ℹ️:
 
+- Diseñador: JACK&JONES
+- Temporada: Primavera-verano.
+- Artículo: 12138115 SHERIDAN
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07C5YMXJX/?tag=tolees-21)
