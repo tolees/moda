@@ -28,8 +28,8 @@ Está [Levi s The Perfect Tee  Camiseta  Mujer  Blanco  Batwing White Graphic 53
 
 ℹ️:
 
-- Tiene estampado la marca Levis
 - Modelo casual
+- Tiene estampado la marca Levis
 - Con tacto suave de forro polar
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00VLN6QCG/?tag=tolees-21)
