@@ -28,10 +28,10 @@ Está [Columbia 1773271 POWDER LITE LIGHT HOODED JACKET  Chaqueta con capucha  H
 
 ℹ️:
 
-- Chaqueta repelente al agua con capucha para hombre, adecuado para los días fríos de invierno en la ciudad, para practicar senderismo y otras actividades al aire libre, Ajuste activo
 - Práctica cremallera completa, 2 bolsillos con cremallera para mantener las manos calientes, Bolsillo interior de seguridad para objetos de valor
-- Chaqueta para todo el año: material repelente al agua, cuello alto, capucha y puños elásticos, tejido elástico con cordón de ajuste para una mejor ventilación
 - Cordón ceñidor para un ajuste óptimo, Resistente nailon Ripstop 20D, Clásico diseño a rayas
+- Chaqueta repelente al agua con capucha para hombre, adecuado para los días fríos de invierno en la ciudad, para practicar senderismo y otras actividades al aire libre, Ajuste activo
+- Chaqueta para todo el año: material repelente al agua, cuello alto, capucha y puños elásticos, tejido elástico con cordón de ajuste para una mejor ventilación
 - Contenido: 1x Columbia Chaqueta con capucha para hombre, POWDER LITE LIGHT HOODED JACKET, Material: Nailon Ripstop 20D/ Elastano, Aislamiento Hi-Loft 100% poliéster, Talla y peso de referencia: M: 270 g, Color: Negro (Black), Talla: XXL,1773271
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07KSQ726D/?tag=tolees-21)

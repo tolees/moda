@@ -29,8 +29,8 @@ Está [PUMA 1a Equipación 20/21 Replica Borussia Dortmund BVB Niño/A Camiseta 
 ℹ️:
 
 - ESTILO PERFECTO: El look se ve muy bien y encaja perfectamente con tus otros artículos de fans de BVB
+- 100% ORIGINAL: Esta camiseta es un artículo oficial de los fans del Borussia Dortmund de PUMA
 - MUESTRA TU AMOR: Al usar esta camiseta muestras tu solidaridad con la ciudad y el equipo
 - BVB JERSEY: Muéstrales a todos los de ahí fuera que la sangre negra y amarilla corre por tus venas. Deja que todos sepan por quién late tu corazón
-- 100% ORIGINAL: Esta camiseta es un artículo oficial de los fans del Borussia Dortmund de PUMA
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B086XYGPWH/?tag=tolees-21)
