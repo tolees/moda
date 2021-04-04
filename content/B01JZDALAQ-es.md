@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BOSS Trunk CO/EL Bóxer  Multicolor  Asso al 23.43 % de descuento'
-date: 2021-04-01 16:51:48
+date: 2021-04-04 12:49:53
 image: 'https://m.media-amazon.com/images/I/31OEudA2yDL._SL400_.jpg'
 comments: true
 category: ofertas
