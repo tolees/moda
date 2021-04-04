@@ -28,10 +28,10 @@ Ahora mismo tienes [Trangoworld Trx2 850 Lt Pro Chaqueta  Hombre  Negro/Negro  M
 
 🔎:
 
-- Manga sentada
-- Repelente al agua
 - Transpirable
-- Diseño pensado para condiciones extremas
 - Comprimible en volumen reducido
+- Repelente al agua
+- Manga sentada
+- Diseño pensado para condiciones extremas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07YVMZLDT/?tag=tolees-21)

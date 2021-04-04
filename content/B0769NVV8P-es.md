@@ -28,9 +28,9 @@ En este momento está [Only ONLGEMMA Faux Leather Biker OTW Noos Chaqueta  Negro
 
 🔎:
 
-- 2 bolsillos delanteros con cremallera.
 - Composición del material: 50 % viscosa y 50 % poliéster. Forro: 100 % poliéster.
-- Cremallera asimétrica en la parte frontal.
+- 2 bolsillos delanteros con cremallera.
 - Chaqueta de motorista con aspecto de piel.
+- Cremallera asimétrica en la parte frontal.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0769NVV8P/?tag=tolees-21)
