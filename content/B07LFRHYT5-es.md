@@ -28,13 +28,13 @@ Tienes [Geox D New ANNYA Mid A  Zapatos con Tacón Mujer  Azul  Navy C4002   36 
 
 ℹ️:
 
+- Cierre: Sin cierre
+- Anchura del zapato: Normal
 - Tipo de talla: Los zapatos Geox son holgados
+- Material de la suela: Sintético
 - Revestimiento: Sintético
 - Material exterior: Cuero
-- Anchura del zapato: Normal
-- Altura del tacón: 5.5 centímetros
-- Cierre: Sin cierre
 - Tipo de tacón: Tacón ancho
-- Material de la suela: Sintético
+- Altura del tacón: 5.5 centímetros
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07LFRHYT5/?tag=tolees-21)
