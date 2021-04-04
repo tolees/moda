@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Orig Hm Vneck Camiseta  Blue  Dre al 36.04 % de descuento'
-date: 2021-04-03 05:19:26
+date: 2021-04-04 06:43:44
 image: 'https://m.media-amazon.com/images/I/41D70kRIpgL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Ahora mismo tienes [Levi s Orig Hm Vneck Camiseta  Blue  Dress Blues 0002   Medi
 
 🔎:
 
+- Con un discreto logo en el pecho
 - Modelo casual
 - Elaborada en punto suave
-- Con un discreto logo en el pecho
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SHTXGRK/?tag=tolees-21)

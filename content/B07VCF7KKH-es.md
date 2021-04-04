@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'REPLAY Anbass Vaqueros  Dark Blue C07  2 al 52.37 % de descuento'
-date: 2021-03-31 20:13:17
+date: 2021-04-04 06:30:00
 image: 'https://m.media-amazon.com/images/I/31bWEZGFsML._SL400_.jpg'
 comments: true
 category: ofertas

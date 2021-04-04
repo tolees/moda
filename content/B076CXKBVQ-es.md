@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Core Stretch Slim Oxford  al 19.97 % de descuento'
-date: 2021-04-01 11:46:37
+date: 2021-04-04 06:42:11
 image: 'https://m.media-amazon.com/images/I/314YoKaayXL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [Tommy Hilfiger Core Stretch Slim Oxford Camisa  Azul  Shirt Blue 474   La
 
 ℹ️:
 
+- Cuello con botones
 - Cinta distintiva en el interior del cuello
 - Logo de Tommy Hilfiger bordado en el pecho
-- Cuello con botones
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B076CXKBVQ/?tag=tolees-21)
