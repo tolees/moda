@@ -1,27 +1,28 @@
 ---
 layout: post
-title: 'Lee Ultimate Pocket tee Camiseta  Sky Ca al 70.68 % de descuento'
-date: 2021-03-11 14:49:30
+title: 'Lee Ultimate Pocket tee Camiseta  Sky Ca al 48.28 % de descuento'
+date: 2021-04-04 17:33:03
 image: 'https://m.media-amazon.com/images/I/41uBFpJ+-bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082XSBY6D-es Lee Ultimate Pocket tee Camiseta Sky Captain XXL para Hombre'
 sku: 'B082XSBY6D-es'
-actualPrice: 8.78 EUR
+tags: [ 'Camisetas para hombre','Camisetas, polos y camisas para hombre','Ropa','Ropa para hombre','camiseta','lee', ]
+actualPrice: 15.49 EUR
 currency: EUR
-price: 8.78
+price: 15.49
 comparePrice: 29.95 EUR
 prodname: 'Lee Ultimate Pocket tee Camiseta  Sky Captain  XXL para Hombre'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Lee'
 buyurl: 'https://www.amazon.es/dp/B082XSBY6D/?tag=tolees-21'
-descuento: '70.68'
-average: '8.78'
+descuento: '48.28'
+average: '11.0166666666667'
 ---
 
-Está [Lee Ultimate Pocket tee Camiseta  Sky Captain  XXL para Hombre](https://www.amazon.es/dp/B082XSBY6D/?tag=tolees-21) con 70.68 de descuento por 8.78 EUR (original: 29.95 EUR) en el siguiente enlace!
+Está [Lee Ultimate Pocket tee Camiseta  Sky Captain  XXL para Hombre](https://www.amazon.es/dp/B082XSBY6D/?tag=tolees-21) con 48.28 de descuento por 15.49 EUR (original: 29.95 EUR) en el siguiente enlace!
 
 [![Lee Ultimate Pocket tee Camiseta  Sky Ca](https://m.media-amazon.com/images/I/41uBFpJ+-bL._SL400_.jpg)](https://www.amazon.es/dp/B082XSBY6D/?tag=tolees-21)
 
