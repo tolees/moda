@@ -29,7 +29,7 @@ Ahora mismo tienes [Levi s Orig Hm Vneck Camiseta  Blue  Dress Blues 0002   Medi
 🔎:
 
 - Con un discreto logo en el pecho
-- Modelo casual
 - Elaborada en punto suave
+- Modelo casual
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SHTXGRK/?tag=tolees-21)

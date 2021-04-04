@@ -28,8 +28,8 @@ Está [Tommy Hilfiger Core Stretch Slim Oxford Camisa  Azul  Shirt Blue 474   La
 
 ℹ️:
 
-- Cuello con botones
 - Cinta distintiva en el interior del cuello
+- Cuello con botones
 - Logo de Tommy Hilfiger bordado en el pecho
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B076CXKBVQ/?tag=tolees-21)
