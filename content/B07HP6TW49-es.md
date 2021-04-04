@@ -28,12 +28,12 @@ Tienes [Skechers Parton-Wilcon  Zapatos de Cordones Brogue Hombre  Negro  BLK Bl
 
 🔎:
 
-- Anchura del zapato: Medio
-- Altura del tacón: 1.0 centímetro
 - Material exterior: Lona
-- Revestimiento: Tela
-- Tipo de tacón: Plano
-- Material de la suela: Sintético
+- Altura del tacón: 1.0 centímetro
+- Anchura del zapato: Medio
 - Cierre: Cordones
+- Material de la suela: Sintético
+- Tipo de tacón: Plano
+- Revestimiento: Tela
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07HP6TW49/?tag=tolees-21)
