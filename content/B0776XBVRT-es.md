@@ -28,11 +28,11 @@ Está [Tommy Jeans - Tommy Jeans Tjm Original Stretch Shirt  Camisa Hombre  Azul
 
 ℹ️:
 
-- Popelín de algodón elástico
 - Logo de Tommy Jeans bordado en el pecho
+- Puños con botón
 - Corte slim
 - Cuello inglés
-- Puños con botón
 - Detalles distintivos de Tommy Jeans
+- Popelín de algodón elástico
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0776XBVRT/?tag=tolees-21)
