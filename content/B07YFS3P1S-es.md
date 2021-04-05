@@ -28,8 +28,8 @@ Está [Star Wars Bolso Maletín Cartera extraescolares niño](https://www.amazon
 
 ℹ️:
 
-- Producto con licencia oficial
 - Cartera extraescolares con un único compartimento
+- Producto con licencia oficial
 - Cuenta con un asa corta y una larga para colgar tipo bandolera
 - Medidas: 38cm x 28cm x 6cm
 
