@@ -28,7 +28,7 @@ Ahora mismo tienes [Vero Moda Vmsilla LS Short Dress Lt Bl Noos Ga Vestido  Azul
 
 🔎:
 
-- short-sleeved dress with tie belt at waist
 - blouse dress with button border and kent collar
+- short-sleeved dress with tie belt at waist
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B072FTHYK7/?tag=tolees-21)
