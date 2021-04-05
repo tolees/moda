@@ -28,10 +28,10 @@ Tienes [Apache By Bolle Apsilium - Gafas de seguridad  lente transparente ](http
 
 ℹ️:
 
-- La protección filtra la radiación ultravioleta
-- Impacto de baja energía, resiste una bola de 6 mm, 0,86 g a 45 m / s
 - La marca del marco debe incluir el símbolo CE
 - La letra T, inmediatamente después del símbolo de resistencia mecánica, autoriza el uso para partículas de alta velocidad a temperaturas extremas
 - Resistencia mínima garantizada de las gafas protectoras contra los riesgos cotidianos, como la caída de gafas protectoras en el suelo, el envejecimiento por exposición a la luz, la exposición al calor o la corrosión, etc.
+- La protección filtra la radiación ultravioleta
+- Impacto de baja energía, resiste una bola de 6 mm, 0,86 g a 45 m / s
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00RROKELM/?tag=tolees-21)
