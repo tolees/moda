@@ -29,7 +29,7 @@ Ahora mismo tienes [Clarks Atticus Cap  Zapatos de Cordones Derby Hombre  Beige 
 🔎:
 
 - Exterior: piel
-- Interior: textil
 - plano
+- Interior: textil
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TPYGJYF/?tag=tolees-21)
