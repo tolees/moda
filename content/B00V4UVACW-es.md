@@ -28,8 +28,8 @@ Tienes [ONLY Onlava Pu Biker Otw Noos - Chaqueta para mujer  color negro  talla 
 
 🔎:
 
-- Brand: ONLY
 - Colore: Nero
+- Brand: ONLY
 - Articolo: Giubbino
 - Stagione: Primavera/Estate
 - Modello: AVA 15102997
