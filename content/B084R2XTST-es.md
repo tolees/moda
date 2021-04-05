@@ -28,7 +28,7 @@ Ahora mismo tienes [G-STAR RAW Pocket Squtar Camiseta  dk Negro C444-6484  Large
 
 🔎:
 
-- Bolsillos invertidos en el pecho con solapa abotonada
 - Cuello redondo acanalado, inserto triangular
+- Bolsillos invertidos en el pecho con solapa abotonada
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B084R2XTST/?tag=tolees-21)
