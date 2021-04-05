@@ -28,10 +28,10 @@ En este momento está [BOSS BANZI S 10233762 01 Camisa  Negro1  L para Hombre](h
 
 🔎:
 
+- Cubistic Cutlines
 - Con logotipo.
 - Acabados excelentes.
-- Cubistic Cutlines
-- Parte estirable.
 - Camiseta de manga corta.
+- Parte estirable.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CF3QLZP/?tag=tolees-21)
