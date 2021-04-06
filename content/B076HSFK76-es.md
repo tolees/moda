@@ -28,9 +28,9 @@ Está [adidas CORE18 RN JKT Chaqueta de Deporte  Hombre  Black/White  XS](https:
 
 ℹ️:
 
-- Tiene cierre completo con cremallera
-- Capucha desmontable con cordón
 - Cremallera de larga duración y solapa de tormenta adicional con cierre de velcro
+- Tiene cierre completo con cremallera
 - Tiene dos bolsillos laterales para las manos
+- Capucha desmontable con cordón
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B076HSFK76/?tag=tolees-21)
