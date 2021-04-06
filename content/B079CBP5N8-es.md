@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JACK & JONES SS Crew Neck - Camiseta Clá con un 40.04 % de descuento'
-date: 2021-04-04 07:53:15
+date: 2021-04-06 18:44:45
 image: 'https://m.media-amazon.com/images/I/416XAeR6IFL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B079CBP5N8/?tag=tolees-21'
 descuento: '40.04'
-average: '6.99'
+average: '6.94652173913043'
 ---
 
 En este momento está [JACK & JONES SS Crew Neck - Camiseta Clásica para Hombre  color Negro  Grande](https://www.amazon.es/dp/B079CBP5N8/?tag=tolees-21) a 5.99 EUR (original: 9.99 EUR) (40.04 %  de descuento) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [JACK & JONES SS Crew Neck - Camiseta Clásica para Hombre
 
 🔎:
 
-- Tipo de manga: Manga corta.
 - Jack & Jones - Camiseta de manga corta para hombre.
 - Escote: Cuello redondo.
+- Tipo de manga: Manga corta.
 - Compatibilidad: Corte entallado.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B079CBP5N8/?tag=tolees-21)
