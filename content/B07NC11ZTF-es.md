@@ -28,8 +28,8 @@ Está [TOUS Sherton  Bolso bandolera para Mujer  Rojo  Rojo 995890536   19x14x5 
 
 ℹ️:
 
-- Certificado autenticidad tous
-- Bandolera sherton rojo (bolso)
 - Sin asa, correa ajustable no desmontable
+- Bandolera sherton rojo (bolso)
+- Certificado autenticidad tous
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07NC11ZTF/?tag=tolees-21)
