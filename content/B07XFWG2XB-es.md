@@ -28,10 +28,10 @@ Ahora mismo tienes [PUMA Teamgoal 23 Jersey Camiseta  Hombre  Electric Blue Lemo
 
 🔎:
 
-- Toques de color en el cuello y los lados
-- Manga corta
-- Logotipo del felino PUMA en la parte derecha del pecho
 - dryCELL: tecnología de PUMA con propiedades que alejan la humedad de la piel y te ayudan a mantenerte seco y cómodo
+- Manga corta
 - Cuello redondo
+- Logotipo del felino PUMA en la parte derecha del pecho
+- Toques de color en el cuello y los lados
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07XFWG2XB/?tag=tolees-21)
