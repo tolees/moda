@@ -28,8 +28,8 @@ En este momento está [Levi s Original Trucker  Chaqueta Vaquera para Mujer  Azu
 
 🔎:
 
-- Trabillas ajustables en la parte posterior de la cinturilla
-- Bolsillos de parche en el pecho con solapa y corchete
 - Un básico versátil para completar cualquier conjunto
+- Bolsillos de parche en el pecho con solapa y corchete
+- Trabillas ajustables en la parte posterior de la cinturilla
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B076Y7XNP3/?tag=tolees-21)
