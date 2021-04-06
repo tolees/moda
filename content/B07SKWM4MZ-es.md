@@ -30,7 +30,7 @@ Tienes [Havaianas Urban Basic II  Chanclas para Hombre  Azul  Marine/Blue Indigo
 
 - Material de la suela: Caucho
 - Revestimiento: Sin forro
-- Material exterior: Caucho
 - Cierre: Sin cierre
+- Material exterior: Caucho
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07SKWM4MZ/?tag=tolees-21)

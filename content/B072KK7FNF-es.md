@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Adidas Adilette Shower Chanclas Hombre   al 40.28 % de descuento'
-date: 2021-04-03 14:21:13
+date: 2021-04-06 10:33:40
 image: 'https://m.media-amazon.com/images/I/41tj5jvsT9L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B072KK7FNF/?tag=tolees-21'
 descuento: '40.28'
-average: '14.7025'
+average: '14.7244444444444'
 ---
 
 Ahora mismo tienes [Adidas Adilette Shower Chanclas Hombre  Rojo  Escarl/Ftwbla/Escarl 000   42 EU  8 UK ](https://www.amazon.es/dp/B072KK7FNF/?tag=tolees-21) a 14.9 EUR (original: 24.95 EUR) (40.28 %  de descuento) en el siguiente enlace!
