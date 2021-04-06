@@ -28,10 +28,10 @@ En este momento está [Skechers Stamina-Cutback  Zapatilla Deportiva con Cordone
 
 🔎:
 
-- Diseñador: Skechers
 - Color: gris
 - Artículo: 51286
 - Material: piel
 - Temporada: otoño/invierno
+- Diseñador: Skechers
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07HCK6N8D/?tag=tolees-21)

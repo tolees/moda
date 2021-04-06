@@ -28,7 +28,7 @@ Tienes [Skechers Stamina-Cutback  Zapatilla Deportiva con Cordones Hombre  Gris 
 
 🔎:
 
-- Suela flexible
 - Plantilla de espuma viscoelástica
+- Suela flexible
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07HCN4BQP/?tag=tolees-21)
