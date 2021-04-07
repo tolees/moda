@@ -1,32 +1,35 @@
 ---
 layout: post
-title: 'Lee Extreme Motion Straight Vaqueros  Az al 15.00 % de descuento'
-date: 2020-06-25 17:39:14
+title: 'Lee Extreme Motion Straight Vaqueros  Ma al 42.83 % de descuento'
+date: 2021-04-07 11:13:41
 image: 'https://m.media-amazon.com/images/I/41t7pomr04L._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07J66S6XD-es Lee Extreme Motion Straight Vaqueros Azul Maddox PU 32W /...'
+slug: 'B07J66S6XD-es Lee Extreme Motion Straight Vaqueros Maddox 32W / 32L para...'
 sku: 'B07J66S6XD-es'
-tags: [ 'vaqueros', ]
-actualPrice: 33.99 EUR
+tags: [ 'Pantalones para hombre','Ropa','Ropa para hombre','lee','vaqueros', ]
+actualPrice: 39.99 EUR
 currency: EUR
-price: 33.99
-comparePrice: 39.99 EUR
-prodname: 'Lee Extreme Motion Straight Vaqueros  Azul  Maddox PU   32W / 32L para Hombre'
+price: 39.99
+comparePrice: 69.95 EUR
+prodname: 'Lee Extreme Motion Straight Vaqueros  Maddox  32W / 32L para Hombre'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Lee'
 buyurl: 'https://www.amazon.es/dp/B07J66S6XD/?tag=tolees-21'
-descuento: '15.00'
-average: '33.99'
+descuento: '42.83'
+average: '35.19'
 ---
 
-Está [Lee Extreme Motion Straight Vaqueros  Azul  Maddox PU   32W / 32L para Hombre](https://www.amazon.es/dp/B07J66S6XD/?tag=tolees-21) con 15.00 de descuento por 33.99 EUR (original: 39.99 EUR) en el siguiente enlace!
+Está [Lee Extreme Motion Straight Vaqueros  Maddox  32W / 32L para Hombre](https://www.amazon.es/dp/B07J66S6XD/?tag=tolees-21) con 42.83 de descuento por 39.99 EUR (original: 69.95 EUR) en el siguiente enlace!
 
-[![Lee Extreme Motion Straight Vaqueros  Az](https://m.media-amazon.com/images/I/41t7pomr04L._SL400_.jpg)](https://www.amazon.es/dp/B07J66S6XD/?tag=tolees-21)
+[![Lee Extreme Motion Straight Vaqueros  Ma](https://m.media-amazon.com/images/I/41t7pomr04L._SL400_.jpg)](https://www.amazon.es/dp/B07J66S6XD/?tag=tolees-21)
 
 ℹ️:
 
+- Cintura flexible
+- Clasico botón tipo “donut”
+- Tejido elástico
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07J66S6XD/?tag=tolees-21)
