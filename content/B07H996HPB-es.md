@@ -28,7 +28,7 @@ Está [Vero Moda Vmkhloe Favo Faux Leather Jacket Noos Chaqueta  Negro  Black   
 
 ℹ️:
 
-- faux leather jacket
 - standing collar and silver zipper
+- faux leather jacket
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07H996HPB/?tag=tolees-21)
