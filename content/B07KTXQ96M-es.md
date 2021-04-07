@@ -28,8 +28,8 @@ Está [adidas Design 2 Move W TS Camiseta  Mujer  Negro  Black/White   2XS](http
 
 ℹ️:
 
+- Regular fit
 - Crew-neck design
 - Breathable fabric
-- Regular fit
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07KTXQ96M/?tag=tolees-21)
