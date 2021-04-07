@@ -28,8 +28,8 @@ En este momento está [Tous Kaos Shock Rever - Organizador de bolso para Mujer  
 
 🔎:
 
-- Revestimiento: Algodón
 - Cierre: Cremallera
+- Revestimiento: Algodón
 - Material exterior: Lona
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07NDN1Z3T/?tag=tolees-21)

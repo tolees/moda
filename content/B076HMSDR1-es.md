@@ -1,35 +1,36 @@
 ---
 layout: post
-title: 'adidas CORE18 Hoody Sudadera con Capucha al 40.01 % de descuento'
-date: 2021-03-01 20:08:33
-image: 'https://m.media-amazon.com/images/I/41FpqFQ7NDL._SL400_.jpg'
+title: 'adidas CORE18 Hoody Sudadera con Capucha al 35.11 % de descuento'
+date: 2021-04-07 09:41:30
+image: 'https://m.media-amazon.com/images/I/31hURDLdC3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076HMSDR1-es adidas CORE18 Hoody Sudadera con Capucha Hombre Negro...'
 sku: 'B076HMSDR1-es'
-actualPrice: 23.99 EUR
+tags: [ 'Jerséis, cárdigans y sudaderas para hombre','Ropa','Ropa para hombre','Sudaderas con capucha para hombre','Sudaderas para hombre','adidas','sudadera', ]
+actualPrice: 25.95 EUR
 currency: EUR
-price: 23.99
+price: 25.95
 comparePrice: 39.99 EUR
 prodname: 'adidas CORE18 Hoody Sudadera con Capucha  Hombre  Negro  Negro/Blanco   M'
 country: 'es'
 flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076HMSDR1/?tag=tolees-21'
-descuento: '40.01'
-average: '24.3208333333334'
+descuento: '35.11'
+average: '24.3860000000001'
 ---
 
-Está [adidas CORE18 Hoody Sudadera con Capucha  Hombre  Negro  Negro/Blanco   M](https://www.amazon.es/dp/B076HMSDR1/?tag=tolees-21) con 40.01 de descuento por 23.99 EUR (original: 39.99 EUR) en el siguiente enlace!
+Está [adidas CORE18 Hoody Sudadera con Capucha  Hombre  Negro  Negro/Blanco   M](https://www.amazon.es/dp/B076HMSDR1/?tag=tolees-21) con 35.11 de descuento por 25.95 EUR (original: 39.99 EUR) en el siguiente enlace!
 
-[![adidas CORE18 Hoody Sudadera con Capucha](https://m.media-amazon.com/images/I/41FpqFQ7NDL._SL400_.jpg)](https://www.amazon.es/dp/B076HMSDR1/?tag=tolees-21)
+[![adidas CORE18 Hoody Sudadera con Capucha](https://m.media-amazon.com/images/I/31hURDLdC3L._SL400_.jpg)](https://www.amazon.es/dp/B076HMSDR1/?tag=tolees-21)
 
 ℹ️:
 
-- Ajuste regular
 - Capucha con cordón
-- Bolsillo canguro
 - Lavar a la maquina
+- Ajuste regular
+- Bolsillo canguro
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B076HMSDR1/?tag=tolees-21)
