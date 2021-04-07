@@ -28,8 +28,8 @@ Tienes [adidas Tiro 19 JSY Camiseta de Manga Corta  Hombre  Legend Purple/True O
 
 🔎:
 
-- Slim fit
-- Climalite anti-humidity fabric
 - Adidas logo on the front
+- Climalite anti-humidity fabric
+- Slim fit
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07K19D9PW/?tag=tolees-21)
