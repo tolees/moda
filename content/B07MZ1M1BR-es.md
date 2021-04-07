@@ -29,7 +29,7 @@ Está [Vans Flying V Crew tee Camiseta  Negro  Black Blk   38  Talla del Fabrica
 ℹ️:
 
 - 100 % algodón
-- Ajuste clásico
 - Camiseta de punto de algodón pesado con gráfico en la parte delantera
+- Ajuste clásico
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07MZ1M1BR/?tag=tolees-21)
