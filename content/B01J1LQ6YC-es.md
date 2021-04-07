@@ -28,10 +28,10 @@ Está [Crocs Crocband U  Zuecos Unisex Adulto  Azul  Navy-Volt Green-Lemon   36-
 
 ℹ️:
 
-- Revestimiento: Sintético
-- Material exterior: Espuma
 - Material de la suela: Goma
-- Altura del tacón: 1.5 pulgadas
+- Revestimiento: Sintético
 - Cierre: Sin cordones
+- Material exterior: Espuma
+- Altura del tacón: 1.5 pulgadas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01J1LQ6YC/?tag=tolees-21)
