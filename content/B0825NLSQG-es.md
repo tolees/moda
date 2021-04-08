@@ -28,9 +28,9 @@ Tienes [Quiksilver - New Slang Camiseta para Adulto](https://www.amazon.es/dp/B0
 
 ℹ️:
 
-- Corte: corte normal, clásico, cómodo
 - Serigrafía estampada en el pecho
-- Cuello: cuello redondo
 - Tejido: punto jersey de algodón ligero
+- Cuello: cuello redondo
+- Corte: corte normal, clásico, cómodo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0825NLSQG/?tag=tolees-21)

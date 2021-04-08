@@ -28,10 +28,10 @@ Tienes [XDrum Primero Sapeli - Cajón  incluye bolso](https://www.amazon.es/dp/B
 
 ℹ️:
 
-- Madera de sonido de varias capas, cuerpo madera de tilo, construcción forma afro-peruano
-- Color negro, incluye bolso de transporte, llave Allen (llave con macho hexagonal)
 - Peso 3,9 kg, tamaño 49 x 30 x 30 (altura x ancho x profundidad en cm)
+- Color negro, incluye bolso de transporte, llave Allen (llave con macho hexagonal)
 - Superficie de toque atornillada de caoba sapeli, bajo con capacidad de imponerse
+- Madera de sonido de varias capas, cuerpo madera de tilo, construcción forma afro-peruano
 - Efecto snare mediante cuerdas afinables, agujero de sonido en la parte trasera
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00B29GIT0/?tag=tolees-21)
