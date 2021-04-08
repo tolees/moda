@@ -28,8 +28,8 @@ Tienes [Quiksilver - New Slang Camiseta para Adulto](https://www.amazon.es/dp/B0
 
 ℹ️:
 
-- Serigrafía estampada en el pecho
 - Tejido: punto jersey de algodón ligero
+- Serigrafía estampada en el pecho
 - Cuello: cuello redondo
 - Corte: corte normal, clásico, cómodo
 
