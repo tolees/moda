@@ -29,7 +29,7 @@ Ahora mismo tienes [Levi s SS Original Hm tee Camiseta  Chisel Grey Heather  M p
 🔎:
 
 - Modelo casual
-- Adecuada para el día a día
 - Logotipo pequeño de Levis en el pecho
+- Adecuada para el día a día
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0897XJZWX/?tag=tolees-21)

@@ -28,10 +28,10 @@ Está [PUMA MCFC Home Shirt Replica SS with Sponsor Logo Camiseta  Hombre  Team 
 
 ℹ️:
 
-- La tecnología innovadora de dryCELL usada en esta camiseta de manga corta de equipación deportiva de la marca Puma hace que la humedad desaparezca para poder seguir entrenando con comodidad
-- La camiseta de fútbol de la 1.ª equipación del Manchester City, de color azul, rinde homenaje al típico estilo del arte callejero de la ciudad de Manchester y reúne estilo y tradición
-- La forma adecuada para impresionar tanto en el estadio como en el tiempo libre es llevando las camisetas de este equipo de fútbol; las réplicas oficiales de las camisetas de fútbol ayudan a entrar en juego
-- Gracias a este diseño de la temporada 20/21, ahora se pueden llevar los colores del club con orgullo y estilo; la camiseta de la primera equipación apoya al equipo porque el fútbol es más que un juego
 - La camiseta deportiva de fútbol para hombre y mujer lleva el logo de Puma y el emblema oficial del club de MCFC; así los fans tienen una oportunidad de compararse con De Bruyne o Sterling
+- Gracias a este diseño de la temporada 20/21, ahora se pueden llevar los colores del club con orgullo y estilo; la camiseta de la primera equipación apoya al equipo porque el fútbol es más que un juego
+- La forma adecuada para impresionar tanto en el estadio como en el tiempo libre es llevando las camisetas de este equipo de fútbol; las réplicas oficiales de las camisetas de fútbol ayudan a entrar en juego
+- La camiseta de fútbol de la 1.ª equipación del Manchester City, de color azul, rinde homenaje al típico estilo del arte callejero de la ciudad de Manchester y reúne estilo y tradición
+- La tecnología innovadora de dryCELL usada en esta camiseta de manga corta de equipación deportiva de la marca Puma hace que la humedad desaparezca para poder seguir entrenando con comodidad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B086PCXZQT/?tag=tolees-21)
