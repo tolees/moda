@@ -28,9 +28,9 @@ Tienes [Vans VANS CLASSIC TANK - Camiseta de tirantes para hombre  multicolor  b
 
 🔎:
 
-- Material: Baumwolle
-- Top tirante ancho con las siguientes características:
 - Camiseta Tirantes || Muy cómodo
 - El regalo perfecto para el día de San Valentín
+- Top tirante ancho con las siguientes características:
+- Material: Baumwolle
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B012EJ1P4E/?tag=tolees-21)
