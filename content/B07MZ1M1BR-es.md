@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vans Flying V Crew tee Camiseta  Negro   al 37.68 % de descuento'
-date: 2021-04-07 15:44:49
+date: 2021-04-08 20:49:48
 image: 'https://m.media-amazon.com/images/I/41EUIpZx7OL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [Vans Flying V Crew tee Camiseta  Negro  Black Blk   38  Talla del Fabrica
 
 ℹ️:
 
-- 100 % algodón
 - Camiseta de punto de algodón pesado con gráfico en la parte delantera
 - Ajuste clásico
+- 100 % algodón
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07MZ1M1BR/?tag=tolees-21)

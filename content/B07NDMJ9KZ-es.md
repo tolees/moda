@@ -28,8 +28,8 @@ Tienes [TOUS 995960400  Monedero para Mujer  Azul  19.5x11x2 cm  W x H x L ](htt
 
 🔎:
 
-- Certificado autenticidad tous
-- Billetera m; dorp az(billetero)
 - Sin asa ni correa
+- Billetera m; dorp az(billetero)
+- Certificado autenticidad tous
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07NDMJ9KZ/?tag=tolees-21)
