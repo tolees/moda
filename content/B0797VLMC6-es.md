@@ -28,9 +28,9 @@ Está [Puma LIGA Sideline Poly Core  Chaqueta de Entrenamiento  Hombre  Azul  pe
 
 ℹ️:
 
-- Logotipo de PUMA en el pecho
 - Cuello erguido y protector para la barbilla
-- Puños y dobladillos elásticos
+- Logotipo de PUMA en el pecho
 - dryCELL: propiedades de absorción de la humedad que te ayudan a estar seco y cómodo
+- Puños y dobladillos elásticos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0797VLMC6/?tag=tolees-21)
