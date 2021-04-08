@@ -1,36 +1,37 @@
 ---
 layout: post
-title: 'crocs Crocband U  Zuecos Unisex Adulto   al 24.45 % de rebaja'
-date: 2021-03-01 19:39:15
-image: 'https://m.media-amazon.com/images/I/41xNkXZPzEL._SL400_.jpg'
+title: 'crocs Crocband U  Zuecos Unisex Adulto   al 18.00 % de rebaja'
+date: 2021-04-08 17:12:02
+image: 'https://m.media-amazon.com/images/I/41ehasV3y9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007B9MFJC-es crocs Crocband U Zuecos Unisex Adulto Gris Charcoal-Ocean...'
 sku: 'B007B9MFJC-es'
-actualPrice: 33.99 EUR
+tags: [ 'Calzado de trabajo para mujer','Calzado sanitario y de hostelería para mujer','Zapatos','Zapatos para hombre','Zapatos para mujer','Zapatos y complementos','Zuecos sanitarios y de hostelería para mujer','Zuecos y mules para hombre','crocs','zuecos', ]
+actualPrice: 36.89 EUR
 currency: EUR
-price: 33.99
+price: 36.89
 comparePrice: 44.99 EUR
 prodname: 'crocs Crocband U  Zuecos Unisex Adulto  Gris  Charcoal-Ocean   36-37 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Crocs'
 buyurl: 'https://www.amazon.es/dp/B007B9MFJC/?tag=tolees-21'
-descuento: '24.45'
-average: '34.4275'
+descuento: '18.00'
+average: '34.6169230769231'
 ---
 
-Tienes [crocs Crocband U  Zuecos Unisex Adulto  Gris  Charcoal-Ocean   36-37 EU](https://www.amazon.es/dp/B007B9MFJC/?tag=tolees-21) con precio final de  33.99 EUR (original: 44.99 EUR) (24.45 %  de rebaja) aqui!
+Tienes [crocs Crocband U  Zuecos Unisex Adulto  Gris  Charcoal-Ocean   36-37 EU](https://www.amazon.es/dp/B007B9MFJC/?tag=tolees-21) con precio final de  36.89 EUR (original: 44.99 EUR) (18.00 %  de rebaja) aqui!
 
-[![crocs Crocband U  Zuecos Unisex Adulto  ](https://m.media-amazon.com/images/I/41xNkXZPzEL._SL400_.jpg)](https://www.amazon.es/dp/B007B9MFJC/?tag=tolees-21)
+[![crocs Crocband U  Zuecos Unisex Adulto  ](https://m.media-amazon.com/images/I/41ehasV3y9L._SL400_.jpg)](https://www.amazon.es/dp/B007B9MFJC/?tag=tolees-21)
 
 🔎:
 
-- Material de la suela: Goma
-- Cierre: Sin cordones
 - Revestimiento: Sintético
 - Material exterior: Espuma
+- Material de la suela: Goma
 - Altura del tacón: 1.5 pulgadas
+- Cierre: Sin cordones
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B007B9MFJC/?tag=tolees-21)
