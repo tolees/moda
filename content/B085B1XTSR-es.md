@@ -28,9 +28,9 @@ Está [L.O.L. Surprise! - LOL Surprise JK Mini Muñeca de Moda - 15 Sorpresas  R
 
 ℹ️:
 
-- Muñeca sorpresa con ropa y pelo
 - Incluye zapatos de plataforma, por lo que la figura de moda crece unos centímetros
-- Con cabello para peinar
+- Muñeca sorpresa con ropa y pelo
 - Tiene 15 sorpresas por descubrir, incluida una sorpresa de agua y accesorios
+- Con cabello para peinar
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B085B1XTSR/?tag=tolees-21)
