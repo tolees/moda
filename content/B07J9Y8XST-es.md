@@ -28,8 +28,8 @@ En este momento está [Lee Extreme Motion Straight Vaqueros  Maddox  30W / 34L p
 
 🔎:
 
+- Tejido elástico
 - Cintura flexible
 - Clasico botón tipo “donut”
-- Tejido elástico
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07J9Y8XST/?tag=tolees-21)
