@@ -29,9 +29,9 @@ Está [Eastpak Delegate + Bolso Bandolera  39 Cm  20 Litros  Gris  Black Denim ]
 ℹ️:
 
 - Con un amplio compartimento principal y un bolsillo oculto en la solapa
-- Alto: 30.5 cm, ancho: 38.5 cm, fondo: 13 cm
-- Para que sea cómoda, tiene una correa para el hombro ajustable y extraíble
 - Confeccionada en una mezcla de 60 % poliéster y 40 % nailon
 - Lleva toda la tecnología contigo: su funda acolchada tiene capacidad para portátiles de hasta 17 pulgadas
+- Para que sea cómoda, tiene una correa para el hombro ajustable y extraíble
+- Alto: 30.5 cm, ancho: 38.5 cm, fondo: 13 cm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07KY92LB6/?tag=tolees-21)

@@ -28,8 +28,8 @@ Tienes [Levi s The Jacket Chaqueta vaquera  Dark Horse Trucker  L para Hombre](h
 
 ℹ️:
 
-- Manga larga con cierre de botón en los puños
-- Bajo ajustable en el lateral
 - Bolsillos de parche en el pecho con solapa y cierre de botón automático
+- Bajo ajustable en el lateral
+- Manga larga con cierre de botón en los puños
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07ZVPW585/?tag=tolees-21)

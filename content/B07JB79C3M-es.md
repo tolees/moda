@@ -28,8 +28,8 @@ En este momento está [Lee Extreme Motion Straight Vaqueros  Trip  34W / 32L par
 
 🔎:
 
-- Cintura flexible
 - Clasico botón tipo “donut”
+- Cintura flexible
 - Tejido elástico
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07JB79C3M/?tag=tolees-21)
