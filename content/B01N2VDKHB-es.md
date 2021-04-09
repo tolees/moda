@@ -28,10 +28,10 @@ Ahora mismo tienes [Columbia Triple Canyon Pant AO01289 Pantalón Largo  Hombre 
 
 🔎:
 
-- Repele el agua y las manchas gracias a la tecnología Omni-Shield
 - Pantalón largo de hombre para usar todo el año en excursiones y actividades al aire libre, Ajuste activo
-- Mayor protección solar gracias a la tecnología Omni-Shade con protección UPF 50 para la piel incluso en los días más soleados
 - Contenido: 1 x Columbia Hombre Pantalón largo, TRIPLE CANYON PANT, Material: 90% Poliéster/10% Elastano, Talla y peso de referencia: M: 230g, Color: Beige (Tusk), Talla: 28, AO01289
+- Repele el agua y las manchas gracias a la tecnología Omni-Shield
+- Mayor protección solar gracias a la tecnología Omni-Shade con protección UPF 50 para la piel incluso en los días más soleados
 - 2 bolsillos laterales con cremallera para acceso fácil y rápido, 1 bolsillo trasero, 1 bolsillo de seguridad con cremallera para pertenencias importantes como el móvil, la cartera, documentos, etc., Cintura parcialmente elástica
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01N2VDKHB/?tag=tolees-21)

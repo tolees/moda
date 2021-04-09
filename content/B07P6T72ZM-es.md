@@ -28,7 +28,7 @@ Ahora mismo tienes [Tous Brunock Chain  Bolso Mochila para Mujer  Beige  Topo 69
 
 🔎:
 
-- Mochila brunock chain topo (bolso)
 - Certificado autenticidad tous
+- Mochila brunock chain topo (bolso)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07P6T72ZM/?tag=tolees-21)
