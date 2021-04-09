@@ -29,7 +29,7 @@ Ahora mismo tienes [Levi s The Perfect Tee  Camiseta  Mujer  Blanco  Batwing Whi
 🔎:
 
 - Tiene estampado la marca Levis
-- Con tacto suave de forro polar
 - Modelo casual
+- Con tacto suave de forro polar
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01LL2KYZQ/?tag=tolees-21)
