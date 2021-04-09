@@ -28,8 +28,8 @@ En este momento está [Pepe Jeans Flag Logo Camiseta  Negro  Black 999   XX-Larg
 
 🔎:
 
+- Fabricada en tejido ligero que ofrece comodidad
 - Camiseta para hombre
 - Tiene estampado en el pecho la marca Pepe Jeans
-- Fabricada en tejido ligero que ofrece comodidad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07N9BF5M3/?tag=tolees-21)

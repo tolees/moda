@@ -28,7 +28,7 @@ Tienes [ONLY Onlsedona Boucle Wool Coat Otw Noos Abrigo  Gris  Dark Grey Melange
 
 🔎:
 
-- Con capucha
 - Boucle - Abrigo de lana
+- Con capucha
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07DFQ19N9/?tag=tolees-21)
