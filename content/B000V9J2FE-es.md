@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Timberland Classic 2-Eye  Náuticos  Marr al 57.50 % de descuento'
-date: 2021-04-07 14:58:14
+date: 2021-04-09 02:50:52
 image: 'https://m.media-amazon.com/images/I/41F3UZXhxAL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,12 +28,12 @@ Ahora mismo tienes [Timberland Classic 2-Eye  Náuticos  Marrón Rootbeer Full G
 
 🔎:
 
-- Tipo de talla: talla estándar
+- Revestimiento: Cuero
+- Material de la suela: Goma
 - Composición: Cuero
 - Cierre: Cordones
-- Material de la suela: Goma
+- Tipo de talla: talla estándar
 - Tipo de tacón: Plano
-- Revestimiento: Cuero
 - Material exterior: Cuero
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B000V9J2FE/?tag=tolees-21)
