@@ -28,10 +28,10 @@ Está [Jack & Jones JJELOGO Blocking Sweat Hood STS Sudadera con Capucha  Azul  
 
 ℹ️:
 
-- Sudadera con capucha con cordón de ajuste
-- Sudadera con capucha clásica
-- Sudadera con capucha multicolor
-- Sudadera con capucha con logotipo
 - Sudadera con capucha con puños acanalados
+- Sudadera con capucha con cordón de ajuste
+- Sudadera con capucha con logotipo
+- Sudadera con capucha multicolor
+- Sudadera con capucha clásica
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08L6KWCHQ/?tag=tolees-21)
