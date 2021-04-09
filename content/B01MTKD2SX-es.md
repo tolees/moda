@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TOUS Capazo Super Grande Kaos Mini  Bols al 21.07 % de descuento'
-date: 2021-04-06 07:29:22
+date: 2021-04-09 11:37:11
 image: 'https://m.media-amazon.com/images/I/510r30IkUjL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TOUS'
 buyurl: 'https://www.amazon.es/dp/B01MTKD2SX/?tag=tolees-21'
 descuento: '21.07'
-average: '140.226666666667'
+average: '136.545'
 ---
 
 Ahora mismo tienes [TOUS Capazo Super Grande Kaos Mini  Bolso totes para Mujer  Beige  Rosa   14x29x40 cm  W x H x L ](https://www.amazon.es/dp/B01MTKD2SX/?tag=tolees-21) a 125.5 EUR (original: 159.0 EUR) (21.07 %  de descuento) en el siguiente enlace!
