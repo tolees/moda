@@ -1,36 +1,37 @@
 ---
 layout: post
-title: 'Geox UOMO Sandal Strada A  Sandalias con al 40.00 % de descuento'
-date: 2021-03-16 08:22:37
+title: 'Geox Uomo Sandal Strada A  Sandalias con al 34.43 % de descuento'
+date: 2021-04-09 06:50:50
 image: 'https://m.media-amazon.com/images/I/311ra8EeI4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
-slug: 'B07DJ6Y2M7-es Geox UOMO Sandal Strada A Sandalias con Punta Abierta...'
+author: 'tole.es'
+slug: 'B07DJ6Y2M7-es Geox Uomo Sandal Strada A Sandalias con Punta Abierta...'
 sku: 'B07DJ6Y2M7-es'
-actualPrice: 41.94 EUR
+tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','geox','sandalias', ]
+actualPrice: 45.83 EUR
 currency: EUR
-price: 41.94
+price: 45.83
 comparePrice: 69.9 EUR
-prodname: 'Geox UOMO Sandal Strada A  Sandalias con Punta Abierta Hombre  Black  Black C9999   44 EU'
+prodname: 'Geox Uomo Sandal Strada A  Sandalias con Punta Abierta Hombre  Negro  Black C9999  44 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B07DJ6Y2M7/?tag=tolees-21'
-descuento: '40.00'
-average: '41.94'
+descuento: '34.43'
+average: '43.2366666666667'
 ---
 
-Ahora mismo tienes [Geox UOMO Sandal Strada A  Sandalias con Punta Abierta Hombre  Black  Black C9999   44 EU](https://www.amazon.es/dp/B07DJ6Y2M7/?tag=tolees-21) a 41.94 EUR (original: 69.9 EUR) (40.00 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Geox Uomo Sandal Strada A  Sandalias con Punta Abierta Hombre  Negro  Black C9999  44 EU](https://www.amazon.es/dp/B07DJ6Y2M7/?tag=tolees-21) a 45.83 EUR (original: 69.9 EUR) (34.43 %  de descuento) en el siguiente enlace!
 
-[![Geox UOMO Sandal Strada A  Sandalias con](https://m.media-amazon.com/images/I/311ra8EeI4L._SL400_.jpg)](https://www.amazon.es/dp/B07DJ6Y2M7/?tag=tolees-21)
+[![Geox Uomo Sandal Strada A  Sandalias con](https://m.media-amazon.com/images/I/311ra8EeI4L._SL400_.jpg)](https://www.amazon.es/dp/B07DJ6Y2M7/?tag=tolees-21)
 
 🔎:
 
 - Revestimiento: Tela
-- Cierre: Sin cordones
 - Material de la suela: Goma
-- Material exterior: Sintético
+- Cierre: Sin cordones
 - Tipo de tacón: Plano
+- Material exterior: Sintético
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DJ6Y2M7/?tag=tolees-21)
