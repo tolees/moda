@@ -28,8 +28,8 @@ Ahora mismo tienes [Only onlSEDONA Coat OTW Noos Abrigo  Gris  Light Grey Melang
 
 🔎:
 
-- 2 bolsillos delanteros ribeteados.
 - Composición del material: Material exterior: 85 % poliéster, 15 % algodón. Forro: 100 % poliéster.
+- 2 bolsillos delanteros ribeteados.
 - Abrigo con capucha drapeada.
 - Cierre frontal oculto.
 
