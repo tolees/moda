@@ -1,0 +1,33 @@
+---
+layout: post
+title: 'Tommy Hilfiger Core Stretch Slim Poplin  al 43.44 % de rebaja'
+date: 2021-04-10 08:05:43
+image: 'https://m.media-amazon.com/images/I/31PdXrJMfpL._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B016QM4WWM-es Tommy Hilfiger Core Stretch Slim Poplin Shirt Camisa Azul...'
+sku: 'B016QM4WWM-es'
+tags: [ 'Camisas casual para hombre','Camisetas, polos y camisas para hombre','Ropa','Ropa para hombre','camisa','tommy hilfiger', ]
+actualPrice: 50.85 EUR
+currency: EUR
+price: 50.85
+comparePrice: 89.9 EUR
+prodname: 'Tommy Hilfiger Core Stretch Slim Poplin Shirt Camisa  Azul  Sky Captain 403   X-Large para Hombre'
+country: 'es'
+flag: '🇪🇸'
+brand: 'Tommy Hilfiger'
+buyurl: 'https://www.amazon.es/dp/B016QM4WWM/?tag=tolees-21'
+descuento: '43.44'
+average: '55.7267857142857'
+---
+
+Tienes [Tommy Hilfiger Core Stretch Slim Poplin Shirt Camisa  Azul  Sky Captain 403   X-Large para Hombre](https://www.amazon.es/dp/B016QM4WWM/?tag=tolees-21) con precio final de  50.85 EUR (original: 89.9 EUR) (43.44 %  de rebaja) aqui!
+
+[![Tommy Hilfiger Core Stretch Slim Poplin ](https://m.media-amazon.com/images/I/31PdXrJMfpL._SL400_.jpg)](https://www.amazon.es/dp/B016QM4WWM/?tag=tolees-21)
+
+🔎:
+
+- Precio mínimo en los 30 días previos a la oferta: 58.49€
+
+[🛒 Comprar!!!](https://www.amazon.es/dp/B016QM4WWM/?tag=tolees-21)
