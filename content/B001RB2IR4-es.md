@@ -28,12 +28,12 @@ Tienes [Timberland Classic 2-Eye  Náuticos Mujer  Azul MD Blue Full Grain  36 E
 
 🔎:
 
-- Tipo de tacón: Plano
-- Revestimiento: Cuero
 - Material exterior: Cuero
-- Tipo de talla: talla estándar
-- Composición: Cuero
 - Material de la suela: Goma
+- Composición: Cuero
+- Revestimiento: Cuero
+- Tipo de tacón: Plano
 - Cierre: Cordones
+- Tipo de talla: talla estándar
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B001RB2IR4/?tag=tolees-21)
