@@ -28,10 +28,10 @@ Tienes [Helly Hansen HH Tech Crew Camiseta Deportiva Manga Larga  Hombre  Ebony 
 
 ℹ️:
 
-- Camisetas técnicas ligeras para actividades deportivas; consta de un tejido ligero que expulsa la humedad al exterior y presenta un tacto suave y cómodo al contacto con la piel
-- Tejido principal de poliéster técnico, de 140.g/m² con secado rápido y repelente de la humedad
 - Una sudadera cómoda para cualquier actividad esta temporada
-- Costuras planas para una gran comodidad al contacto con la piel, con corte recto y con media cremallera en el pecho
+- Tejido principal de poliéster técnico, de 140.g/m² con secado rápido y repelente de la humedad
 - Contenido de envío: 1x Helly Hansen HH Tech Crew con secado rapido y antihumedad
+- Camisetas técnicas ligeras para actividades deportivas; consta de un tejido ligero que expulsa la humedad al exterior y presenta un tacto suave y cómodo al contacto con la piel
+- Costuras planas para una gran comodidad al contacto con la piel, con corte recto y con media cremallera en el pecho
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07895WLXK/?tag=tolees-21)
