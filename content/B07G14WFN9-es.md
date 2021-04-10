@@ -29,8 +29,8 @@ Tienes [FYHappy - Paños de limpieza de gafas de microfibra para cristales de vi
 🔎:
 
 - Bien hecha, diferentes métodos de tejido para cada lado, la parte posterior con tejido de barbos, puede eliminar eficazmente las manchas incluso con agua, la parte frontal tiene efecto pulido.
-- Se puede enjuagar y reutilizar, reduce el uso de toallas de papel, ahorra dinero y es respetuoso con el medio ambiente.
-- Se puede secar o usar en húmedo, apto para ventanas, copas de vino, vajilla de cristal, electrodomésticos, espejos, parabrisas de coche, encimeras, nevera, pantalla de TV y limpieza general.
 - Cuidadosamente elegidas materias primas, suaves y cómodas, sin olor a moho, sin arañazos ni manchas, mantiene tu cristal y ventana impecable y brillante.
+- Se puede secar o usar en húmedo, apto para ventanas, copas de vino, vajilla de cristal, electrodomésticos, espejos, parabrisas de coche, encimeras, nevera, pantalla de TV y limpieza general.
+- Se puede enjuagar y reutilizar, reduce el uso de toallas de papel, ahorra dinero y es respetuoso con el medio ambiente.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07G14WFN9/?tag=tolees-21)
