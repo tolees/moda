@@ -28,10 +28,10 @@ Está [Lowepro Tahoe CS 80 - Bolso para cámara  Color Negro](https://www.amazon
 
 ℹ️:
 
-- Interior con forro suave de punto amortigua y protege la cámara contra los arañazos
-- Bolsillo de cremallera frontal para tarjeta de memoria adicional, dinero o tarjeta de identidad
-- Material acolchado y resistente a la intemperie que ofrece una protección ligera
-- Opciones de transporte: trabilla integrada para el cinturón, correa de mano o correa extraíble para el hombro.
 - Fácil acceso a la cámara a través de una amplia abertura con cierre de cremallera
+- Bolsillo de cremallera frontal para tarjeta de memoria adicional, dinero o tarjeta de identidad
+- Interior con forro suave de punto amortigua y protege la cámara contra los arañazos
+- Opciones de transporte: trabilla integrada para el cinturón, correa de mano o correa extraíble para el hombro.
+- Material acolchado y resistente a la intemperie que ofrece una protección ligera
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01NBHT5E6/?tag=tolees-21)

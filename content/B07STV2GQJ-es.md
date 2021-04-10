@@ -28,10 +28,10 @@ Ahora mismo tienes [Geox D Ischia Corda C  Sandalias con Punta Abierta Mujer  Be
 
 🔎:
 
+- Tipo de tacón: cuña
+- Material interior: piel
 - Material exterior: piel
 - Cierre: hebilla
 - Suela: sintética
-- Tipo de tacón: cuña
-- Material interior: piel
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07STV2GQJ/?tag=tolees-21)
