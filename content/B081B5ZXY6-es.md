@@ -1,27 +1,28 @@
 ---
 layout: post
-title: 'Columbia Silver Ridge 2.0 Camisa de Mang al 75.00 % de descuento'
-date: 2021-03-11 18:20:20
+title: 'Columbia Silver Ridge 2.0 Camisa de Mang al 68.09 % de descuento'
+date: 2021-04-11 16:37:27
 image: 'https://m.media-amazon.com/images/I/31gdeug6iuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081B5ZXY6-es Columbia Silver Ridge 2.0 Camisa de Manga Corta Hombre...'
 sku: 'B081B5ZXY6-es'
-actualPrice: 13.75 EUR
+tags: [ 'Camisas casual para hombre','Camisetas, polos y camisas para hombre','Ropa','Ropa para hombre','camisa','columbia', ]
+actualPrice: 17.55 EUR
 currency: EUR
-price: 13.75
+price: 17.55
 comparePrice: 54.99 EUR
-prodname: 'Columbia Silver Ridge 2.0 Camisa de Manga Corta  Hombre  Beige  Fossil   S'
+prodname: 'Columbia Silver Ridge 2.0 Camisa de Manga Corta  Hombre  Fossil  S'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Columbia'
 buyurl: 'https://www.amazon.es/dp/B081B5ZXY6/?tag=tolees-21'
-descuento: '75.00'
-average: '15.9225'
+descuento: '68.09'
+average: '16.1033333333333'
 ---
 
-Está [Columbia Silver Ridge 2.0 Camisa de Manga Corta  Hombre  Beige  Fossil   S](https://www.amazon.es/dp/B081B5ZXY6/?tag=tolees-21) con 75.00 de descuento por 13.75 EUR (original: 54.99 EUR) en el siguiente enlace!
+Está [Columbia Silver Ridge 2.0 Camisa de Manga Corta  Hombre  Fossil  S](https://www.amazon.es/dp/B081B5ZXY6/?tag=tolees-21) con 68.09 de descuento por 17.55 EUR (original: 54.99 EUR) en el siguiente enlace!
 
 [![Columbia Silver Ridge 2.0 Camisa de Mang](https://m.media-amazon.com/images/I/31gdeug6iuL._SL400_.jpg)](https://www.amazon.es/dp/B081B5ZXY6/?tag=tolees-21)
 
