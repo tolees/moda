@@ -28,10 +28,10 @@ Tienes [Columbia Tolmie Butte  Chaqueta  Hombre  Beige  British Tan   S](https:/
 
 🔎:
 
-- Combina con otros productos de Columbia para un nivel adecuado de calidez e impermeabilidad
-- Práctica cremallera completa, 2 bolsillos para las maos y 2 bolsillos en el pecho con cierre de clip
-- 1x Columbia Tolmie Butte, Chaqueta para hombre, Beige (British Tan), S, Art. 1771522
-- Algodón duradero y ligero y puños ajustables para un ajuste cómodo
 - Versátil y clásica chaqueta de hombre, toda de algodón y ligera, Apta para todo el año, Día y noche, ajuste activo
+- 1x Columbia Tolmie Butte, Chaqueta para hombre, Beige (British Tan), S, Art. 1771522
+- Combina con otros productos de Columbia para un nivel adecuado de calidez e impermeabilidad
+- Algodón duradero y ligero y puños ajustables para un ajuste cómodo
+- Práctica cremallera completa, 2 bolsillos para las maos y 2 bolsillos en el pecho con cierre de clip
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0794PMPPP/?tag=tolees-21)

@@ -29,7 +29,7 @@ Ahora mismo tienes [BOSS Mabsoot  Camisa  Blanco  White 00100   X-Small para Hom
 🔎:
 
 - Logo bordado en la parte izquierda del pecho
-- Se cierra con botones en la parte delantera
 - Camisa casual con tejido suave para hombres
+- Se cierra con botones en la parte delantera
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07RZSG2WH/?tag=tolees-21)
