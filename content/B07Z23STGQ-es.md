@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vans Spicoli 4 Shades Gafas de sol  Negr con un 33.40 % de descuento'
-date: 2021-04-02 20:47:45
+date: 2021-04-11 19:17:45
 image: 'https://m.media-amazon.com/images/I/31JxL8VS27L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Vans'
 buyurl: 'https://www.amazon.es/dp/B07Z23STGQ/?tag=tolees-21'
 descuento: '33.40'
-average: '11.196'
+average: '10.995'
 ---
 
 En este momento está [Vans Spicoli 4 Shades Gafas de sol  Negro  Black/Charcoal Checkerboard   50.0 para Hombre](https://www.amazon.es/dp/B07Z23STGQ/?tag=tolees-21) a 9.99 EUR (original: 15.0 EUR) (33.40 %  de descuento) en el siguiente enlace!

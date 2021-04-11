@@ -29,7 +29,7 @@ Tienes [Levi s SS Original Hm tee Camiseta  Cotton + Patch Black  XS para Hombre
 🔎:
 
 - Adecuada para el día a día
-- Modelo casual
 - Logotipo pequeño de Levis en el pecho
+- Modelo casual
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07DFN1J9P/?tag=tolees-21)
