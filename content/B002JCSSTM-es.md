@@ -28,10 +28,10 @@ Ahora mismo tienes [Crocs Crocband U  Zuecos Unisex Adulto  Blanco  White   36-3
 
 🔎:
 
-- Revestimiento: Sintético
-- Cierre: Sin cordones
 - Altura del tacón: 1.5 pulgadas
 - Material de la suela: Goma
 - Material exterior: Espuma
+- Cierre: Sin cordones
+- Revestimiento: Sintético
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B002JCSSTM/?tag=tolees-21)
