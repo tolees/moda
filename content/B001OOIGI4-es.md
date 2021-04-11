@@ -28,8 +28,8 @@ Tienes [Nike Yth Park II Knit Short Nb  Pantalón Corto  Niños  Blanco  White/U
 
 🔎:
 
-- Slim fit
 - Elastic waistband with lanyard
+- Slim fit
 - Dri-Fit Technology
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B001OOIGI4/?tag=tolees-21)

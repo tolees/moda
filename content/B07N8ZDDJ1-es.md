@@ -28,8 +28,8 @@ Está [Tommy Hilfiger Heritage Crew Neck Graphic tee Camiseta  Gris  Light Grey 
 
 ℹ️:
 
-- Logo de Tommy Hilfiger bordado en el bajo
 - Cinta distintiva en el interior del cuello
+- Logo de Tommy Hilfiger bordado en el bajo
 - Logo de Tommy Hilfiger en el pecho
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07N8ZDDJ1/?tag=tolees-21)
