@@ -29,8 +29,8 @@ En este momento está [JACK & JONES JACHENRIK Trunks 3 Pack Noos Bóxer  Multico
 🔎:
 
 - Logo En La Cintura
-- Patrón
-- Estiramiento
 - Conjunto Boxer
+- Estiramiento
+- Patrón
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07H7W5W8Y/?tag=tolees-21)

@@ -28,8 +28,8 @@ Ahora mismo tienes [Hurley M Ahi S/S Camiseta  Hombre  White  S](https://www.ama
 
 🔎:
 
+- Tejido de algodón suave al tacto para un ajuste cómodo.
 - 150 g
 - Serigrafiado suave al tacto
-- Tejido de algodón suave al tacto para un ajuste cómodo.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07ZPQ7J62/?tag=tolees-21)
