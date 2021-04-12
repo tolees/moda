@@ -1,32 +1,33 @@
 ---
 layout: post
-title: 'Desigual TS Milan Camiseta  Blanco  Blan al 29.92 % de descuento'
-date: 2020-08-09 20:43:29
+title: 'Desigual TS Milan Camiseta  Blanco  Blan al 22.23 % de descuento'
+date: 2021-04-12 11:21:08
 image: 'https://m.media-amazon.com/images/I/41oa+WB4EzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07VHR1HLS-es Desigual TS Milan Camiseta Blanco Blanco 1000 Large para...'
 sku: 'B07VHR1HLS-es'
-tags: [ 'camiseta', ]
-actualPrice: 20.99 EUR
+tags: [ 'Camisetas para mujer','Camisetas, tops y blusas para mujer','Ropa','Ropa para mujer','camiseta','desigual', ]
+actualPrice: 13.99 EUR
 currency: EUR
-price: 20.99
-comparePrice: 29.95 EUR
+price: 13.99
+comparePrice: 17.99 EUR
 prodname: 'Desigual TS Milan Camiseta  Blanco  Blanco 1000   Large para Mujer'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Desigual'
 buyurl: 'https://www.amazon.es/dp/B07VHR1HLS/?tag=tolees-21'
-descuento: '29.92'
-average: '20.99'
+descuento: '22.23'
+average: '18.6566666666667'
 ---
 
-Está [Desigual TS Milan Camiseta  Blanco  Blanco 1000   Large para Mujer](https://www.amazon.es/dp/B07VHR1HLS/?tag=tolees-21) con 29.92 de descuento por 20.99 EUR (original: 29.95 EUR) en el siguiente enlace!
+Está [Desigual TS Milan Camiseta  Blanco  Blanco 1000   Large para Mujer](https://www.amazon.es/dp/B07VHR1HLS/?tag=tolees-21) con 22.23 de descuento por 13.99 EUR (original: 17.99 EUR) en el siguiente enlace!
 
 [![Desigual TS Milan Camiseta  Blanco  Blan](https://m.media-amazon.com/images/I/41oa+WB4EzL._SL400_.jpg)](https://www.amazon.es/dp/B07VHR1HLS/?tag=tolees-21)
 
 ℹ️:
 
+- Forma femenina
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07VHR1HLS/?tag=tolees-21)

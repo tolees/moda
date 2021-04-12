@@ -28,12 +28,12 @@ En este momento está [PUMA Teamgoal 23 Causals Hoody Sudadera  Hombre  Medium G
 
 🔎:
 
-- Logotipo del felino PUMA en la parte derecha del pecho
+- Capucha con cordón ajustable
+- Tipo de deporte: ropa de deportes atléticos
+- Algodón, poliéster y elastano
 - Manga larga
 - Bolsillo delantero tipo canguro
-- Capucha con cordón ajustable
-- Algodón, poliéster y elastano
+- Logotipo del felino PUMA en la parte derecha del pecho
 - Tipo de fábrica: 32% poliéster, 68% algodón
-- Tipo de deporte: ropa de deportes atléticos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0828QQW8T/?tag=tolees-21)
