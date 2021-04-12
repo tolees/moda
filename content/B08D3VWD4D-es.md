@@ -29,7 +29,7 @@ Tienes [REPLAY W9678A Vestido  010 White/Black/Red/Azure  M para Mujer](https://
 🔎:
 
 - Gran calidad
-- Estampado animal
 - All Over Printed Plain Viscosa
+- Estampado animal
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08D3VWD4D/?tag=tolees-21)
