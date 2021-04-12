@@ -28,10 +28,10 @@ Ahora mismo tienes [SCOBUTY Gafas Luz Azul Gafas De Bloqueo De Luz Azul Gafas De
 
 🔎:
 
-- Reduce la fatiga ocular: nuestras gafas de luz azul pueden aliviar los síntomas de la fatiga ocular causada por la exposición prolongada a la computadora, incluidas las preocupaciones sobre la fatiga ocular, la visión borrosa y los dolores de cabeza. Disfrute de su tiempo digital y duerma.
-- Moda y comodidad: nuestras monturas de gafas de luz azul están diseñadas ergonómicamente. El diseño de nuestras gafas es elegante y retro. Mientras protege sus ojos, también puede disfrutar de la belleza. El marco liviano te brinda la oportunidad de sentirte cómodo, adecuado para todo tipo de rostros.
-- Lente anti-azul: las gafas anti-azul pueden filtrar el 99% de la luz azul. La exposición excesiva a la luz azul es la principal causa de fatiga ocular, visión borrosa o dolores de cabeza. El uso de lentes anti-azules puede proteger sus ojos de la presión intraocular, la fatiga y la sequedad ocular causada por los dispositivos digitales.
-- Mejor sueño: muchos factores afectan su sueño, incluida la abundancia de dispositivos electrónicos, la luz solar y la luz azul en todas partes, y la potente función de protección contra la luz azul lo hará dormir mejor.
 - Ampliamente utilizado: las gafas de trabajo son adecuadas para el uso diario, la oficina, la lectura, los juegos de computadora, etc. Son adecuadas para la mayoría de las personas, especialmente si permanecen frente a la computadora durante mucho tiempo y son lo suficientemente duraderas como para ser reutilizadas, económicas y práctico
+- Mejor sueño: muchos factores afectan su sueño, incluida la abundancia de dispositivos electrónicos, la luz solar y la luz azul en todas partes, y la potente función de protección contra la luz azul lo hará dormir mejor.
+- Lente anti-azul: las gafas anti-azul pueden filtrar el 99% de la luz azul. La exposición excesiva a la luz azul es la principal causa de fatiga ocular, visión borrosa o dolores de cabeza. El uso de lentes anti-azules puede proteger sus ojos de la presión intraocular, la fatiga y la sequedad ocular causada por los dispositivos digitales.
+- Moda y comodidad: nuestras monturas de gafas de luz azul están diseñadas ergonómicamente. El diseño de nuestras gafas es elegante y retro. Mientras protege sus ojos, también puede disfrutar de la belleza. El marco liviano te brinda la oportunidad de sentirte cómodo, adecuado para todo tipo de rostros.
+- Reduce la fatiga ocular: nuestras gafas de luz azul pueden aliviar los síntomas de la fatiga ocular causada por la exposición prolongada a la computadora, incluidas las preocupaciones sobre la fatiga ocular, la visión borrosa y los dolores de cabeza. Disfrute de su tiempo digital y duerma.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08TBJ7SZC/?tag=tolees-21)
