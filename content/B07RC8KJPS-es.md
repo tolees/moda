@@ -30,8 +30,8 @@ En este momento está [Columbia Silver Ridge 2.0 Camisa de manga larga para muje
 
 - Bolsillo de seguridad con cierre de cremallera para guardar cómodamente los objetos de valor, bolsillo multifuncional con cierre de velcro
 - Mangas enrollables con lengüetas para el acortamiento opcional de la cobertura de la tela
+- Tejido Omni-Wick de secado rápido para una respuesta eficaz a la transpiración
 - Una camisa cómoda para los días de actividad al sol, un clásico de Columbia con construcción elástica y ventilación estratégica
 - Contenido: 1x Columbia Silver Ridge 2.0 Camisa de manga larga para mujer, Azul(Nocturnal), XS, 1841824
-- Tejido Omni-Wick de secado rápido para una respuesta eficaz a la transpiración
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07RC8KJPS/?tag=tolees-21)

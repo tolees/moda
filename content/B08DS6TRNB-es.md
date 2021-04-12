@@ -29,9 +29,9 @@ Está [Hurley M Dri-Fit Disperse Full Zip Sudadera  Hombre  Gym Red  XL](https:/
 ℹ️:
 
 - Bolsillo de canguro
+- Bordes de las mangas y dobladillo elásticos
+- Tecnología Dri-FIT para mantener la transpirabilidad y la comodidad
 - Capucha de múltiples paneles con cordones para una protección regulable
 - Costuras ergonómicas para un mayor rango de movimiento
-- Tecnología Dri-FIT para mantener la transpirabilidad y la comodidad
-- Bordes de las mangas y dobladillo elásticos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08DS6TRNB/?tag=tolees-21)
