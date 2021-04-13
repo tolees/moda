@@ -28,10 +28,10 @@ En este momento está [G-STAR RAW 3301 Loose Jeans Vaqueros  Azul  Worker Blue F
 
 🔎:
 
-- 98% Algodón, 2% Elastano
 - Lavar a máquina - agua fría (30 ° max)
+- Usado
+- 98% Algodón, 2% Elastano
 - Cierre: Boton y cierre
 - Relaxed
-- Usado
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07N18YZGL/?tag=tolees-21)

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Jack & Jones Jjecorp Logo tee SS Crew Ne al 40.04 % de rebaja'
-date: 2021-04-11 05:11:01
-image: 'https://m.media-amazon.com/images/I/41d9lkn7JIL._SL400_.jpg'
+date: 2021-04-13 17:19:35
+image: 'https://m.media-amazon.com/images/I/41d9lkn7JIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,18 +19,18 @@ flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B079C4JFZK/?tag=tolees-21'
 descuento: '40.04'
-average: '6.74094339622641'
+average: '6.71363636363636'
 ---
 
 Tienes [Jack & Jones Jjecorp Logo tee SS Crew Neck Noos Camiseta  Azul  Navy Blazer Detail: Slim Fit   XX-Large para Hombre](https://www.amazon.es/dp/B079C4JFZK/?tag=tolees-21) con precio final de  5.99 EUR (original: 9.99 EUR) (40.04 %  de rebaja) aqui!
 
-[![Jack & Jones Jjecorp Logo tee SS Crew Ne](https://m.media-amazon.com/images/I/41d9lkn7JIL._SL400_.jpg)](https://www.amazon.es/dp/B079C4JFZK/?tag=tolees-21)
+[![Jack & Jones Jjecorp Logo tee SS Crew Ne](https://m.media-amazon.com/images/I/41d9lkn7JIL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B079C4JFZK/?tag=tolees-21)
 
 🔎:
 
+- Escote: Cuello redondo.
 - Compatibilidad: Corte entallado.
 - Tipo de manga: Manga corta.
 - Jack & Jones - Camiseta de manga corta para hombre.
-- Escote: Cuello redondo.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B079C4JFZK/?tag=tolees-21)

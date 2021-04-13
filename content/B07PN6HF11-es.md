@@ -28,8 +28,8 @@ Está [Bebés Llorones Pijama Pavo Real - Accesorio muñeca](https://www.amazon.
 
 ℹ️:
 
-- Puedes cambiarle el pijama a tu bebé llorón
 - Hay 3 modelos de pijamas diferentes. ¡Encuéntralos todos!
+- Puedes cambiarle el pijama a tu bebé llorón
 - Amplia el armario de los pijamas de tus bebés llorones
 - Muñeca no incluida
 
