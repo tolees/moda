@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Levi s Orig Hm Vneck Camiseta  Blue  Dre al 36.04 % de descuento'
-date: 2021-04-11 23:16:28
-image: 'https://m.media-amazon.com/images/I/41D70kRIpgL._SL400_.jpg'
+date: 2021-04-13 05:27:38
+image: 'https://m.media-amazon.com/images/I/31zRdQ+64dL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,12 +19,12 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07TRM6RHN/?tag=tolees-21'
 descuento: '36.04'
-average: '14.974333333333'
+average: '14.990983606557'
 ---
 
 Está [Levi s Orig Hm Vneck Camiseta  Blue  Dress Blues 0002   X-Small para Hombre](https://www.amazon.es/dp/B07TRM6RHN/?tag=tolees-21) con 36.04 de descuento por 15.99 EUR (original: 25.0 EUR) en el siguiente enlace!
 
-[![Levi s Orig Hm Vneck Camiseta  Blue  Dre](https://m.media-amazon.com/images/I/41D70kRIpgL._SL400_.jpg)](https://www.amazon.es/dp/B07TRM6RHN/?tag=tolees-21)
+[![Levi s Orig Hm Vneck Camiseta  Blue  Dre](https://m.media-amazon.com/images/I/31zRdQ+64dL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07TRM6RHN/?tag=tolees-21)
 
 ℹ️:
 

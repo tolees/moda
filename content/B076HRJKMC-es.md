@@ -1,36 +1,36 @@
 ---
 layout: post
-title: 'Adidas CORE18 Hoody Sudadera con Capucha al 27.53 % de descuento'
-date: 2021-04-09 05:07:16
-image: 'https://m.media-amazon.com/images/I/41iU1gKNCaL._SL400_.jpg'
+title: 'Adidas CORE18 Hoody Sudadera con Capucha al 27.73 % de descuento'
+date: 2021-04-13 05:30:38
+image: 'https://m.media-amazon.com/images/I/41iU1gKNCaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B076HRJKMC-es Adidas CORE18 Hoody Sudadera con Capucha Hombre Rojo...'
 sku: 'B076HRJKMC-es'
 tags: [ 'Jerséis, cárdigans y sudaderas para hombre','Ropa','Ropa para hombre','Sudaderas con capucha para hombre','Sudaderas para hombre','adidas','sudadera', ]
-actualPrice: 28.98 EUR
+actualPrice: 28.9 EUR
 currency: EUR
-price: 28.98
+price: 28.9
 comparePrice: 39.99 EUR
 prodname: 'Adidas CORE18 Hoody Sudadera con Capucha  Hombre  Rojo  Rojo/Blanco   XS'
 country: 'es'
 flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076HRJKMC/?tag=tolees-21'
-descuento: '27.53'
-average: '26.5266216216214'
+descuento: '27.73'
+average: '26.5425503355702'
 ---
 
-Está [Adidas CORE18 Hoody Sudadera con Capucha  Hombre  Rojo  Rojo/Blanco   XS](https://www.amazon.es/dp/B076HRJKMC/?tag=tolees-21) con 27.53 de descuento por 28.98 EUR (original: 39.99 EUR) en el siguiente enlace!
+Está [Adidas CORE18 Hoody Sudadera con Capucha  Hombre  Rojo  Rojo/Blanco   XS](https://www.amazon.es/dp/B076HRJKMC/?tag=tolees-21) con 27.73 de descuento por 28.9 EUR (original: 39.99 EUR) en el siguiente enlace!
 
-[![Adidas CORE18 Hoody Sudadera con Capucha](https://m.media-amazon.com/images/I/41iU1gKNCaL._SL400_.jpg)](https://www.amazon.es/dp/B076HRJKMC/?tag=tolees-21)
+[![Adidas CORE18 Hoody Sudadera con Capucha](https://m.media-amazon.com/images/I/41iU1gKNCaL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B076HRJKMC/?tag=tolees-21)
 
 ℹ️:
 
-- Ventilación Climacool.
-- Bolsillo canguro
-- Escote redondo.
 - Sin mangas.
+- Ventilación Climacool.
+- Escote redondo.
+- Bolsillo canguro
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B076HRJKMC/?tag=tolees-21)
