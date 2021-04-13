@@ -28,8 +28,8 @@ Está [NIKE Y Nk Dry Park VII JSY SS Camiseta de Manga Corta  Unisex niños  Bla
 
 ℹ️:
 
+- Ribbed crewneck
 - Nike Dry fabric
 - Regular fit
-- Ribbed crewneck
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07WC6CPZD/?tag=tolees-21)
