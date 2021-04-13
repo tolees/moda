@@ -29,8 +29,8 @@ En este momento está [Fossil Collar FS4812IE](https://www.amazon.es/dp/B071VZ3F
 🔎:
 
 - Movimiento: cronógrafo de cuarzo; material de la correa: piel de becerro
-- Ancho de la correa: 22 mm; circunferencia de la correa: 200 +/- 5 mm
 - Tamaño de la caja: 44 mm; grosor de la caja: 11 mm
+- Ancho de la correa: 22 mm; circunferencia de la correa: 200 +/- 5 mm
 - Se presenta en la caja de lata ilustrada Fossil de coleccionista (varios diseños)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B071VZ3FGS/?tag=tolees-21)

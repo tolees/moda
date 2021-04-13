@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'GEOX D TABELYA A TOBACCO/BLACK Women s T con un 51.12 % de descuento'
-date: 2021-04-10 12:57:58
-image: 'https://m.media-amazon.com/images/I/41ArC8b-RbL._SL400_.jpg'
+date: 2021-04-13 15:23:07
+image: 'https://m.media-amazon.com/images/I/41ArC8b-RbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,12 +19,12 @@ flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B0825N8FJM/?tag=tolees-21'
 descuento: '51.12'
-average: '54.7218181818183'
+average: '55.2533333333334'
 ---
 
 En este momento está [GEOX D TABELYA A TOBACCO/BLACK Women s Trainers Low-Top Trainers size 35 EU ](https://www.amazon.es/dp/B0825N8FJM/?tag=tolees-21) a 61.1 EUR (original: 125.0 EUR) (51.12 %  de descuento) en el siguiente enlace!
 
-[![GEOX D TABELYA A TOBACCO/BLACK Women s T](https://m.media-amazon.com/images/I/41ArC8b-RbL._SL400_.jpg)](https://www.amazon.es/dp/B0825N8FJM/?tag=tolees-21)
+[![GEOX D TABELYA A TOBACCO/BLACK Women s T](https://m.media-amazon.com/images/I/41ArC8b-RbL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B0825N8FJM/?tag=tolees-21)
 
 🔎:
 
