@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Lee Elly Vaqueros para Mujer Azul  Mid H al 50.01 % de descuento'
-date: 2021-04-12 08:06:28
-image: 'https://m.media-amazon.com/images/I/417CFi8CS4L._SL400_.jpg'
+date: 2021-04-13 08:08:41
+image: 'https://m.media-amazon.com/images/I/417CFi8CS4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -24,7 +24,7 @@ average: '49.97'
 
 Está [Lee Elly Vaqueros para Mujer Azul  Mid Hackett Jf  W31/L33](https://www.amazon.es/dp/B07MDBQF36/?tag=tolees-21) con 50.01 de descuento por 49.97 EUR (original: 99.95 EUR) en el siguiente enlace!
 
-[![Lee Elly Vaqueros para Mujer Azul  Mid H](https://m.media-amazon.com/images/I/417CFi8CS4L._SL400_.jpg)](https://www.amazon.es/dp/B07MDBQF36/?tag=tolees-21)
+[![Lee Elly Vaqueros para Mujer Azul  Mid H](https://m.media-amazon.com/images/I/417CFi8CS4L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07MDBQF36/?tag=tolees-21)
 
 ℹ️:
 
