@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Adidas CORE18 Hoody Sudadera con Capucha al 50.01 % de rebaja'
-date: 2021-04-11 17:18:43
-image: 'https://m.media-amazon.com/images/I/51xLpVqJoPL._SL400_.jpg'
+date: 2021-04-13 11:21:12
+image: 'https://m.media-amazon.com/images/I/41KNh7YcEbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,18 +19,18 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076HMRW9P/?tag=tolees-21'
 descuento: '50.01'
-average: '27.2898802395209'
+average: '27.2464285714285'
 ---
 
 Tienes [Adidas CORE18 Hoody Sudadera con Capucha  Hombre  Gris  Gris/Negro   XS](https://www.amazon.es/dp/B076HMRW9P/?tag=tolees-21) con precio final de  19.99 EUR (original: 39.99 EUR) (50.01 %  de rebaja) aqui!
 
-[![Adidas CORE18 Hoody Sudadera con Capucha](https://m.media-amazon.com/images/I/51xLpVqJoPL._SL400_.jpg)](https://www.amazon.es/dp/B076HMRW9P/?tag=tolees-21)
+[![Adidas CORE18 Hoody Sudadera con Capucha](https://m.media-amazon.com/images/I/41KNh7YcEbL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B076HMRW9P/?tag=tolees-21)
 
 🔎:
 
-- Costuras laterales abiertas para una mayor libertad de movimiento.
 - Bolsillo canguro
 - Logotipo de adidas a la derecha del pecho.
 - Etiqueta sobre el dobladillo izquierdo.
+- Costuras laterales abiertas para una mayor libertad de movimiento.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B076HMRW9P/?tag=tolees-21)

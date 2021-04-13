@@ -28,10 +28,10 @@ En este momento está [G-STAR RAW Revend Skinny Vaqueros  White C267-110  33W x 
 
 🔎:
 
-- Tiro bajo en la parte delantera y tiro regular en la parte trasera
-- Construcción con cinco bolsillos y remaches de refuerzo
 - Talle medio
 - Construcción con cinco bolsillos y remaches de refuerzo
 - Prenda ajustada de arriba abajo
+- Construcción con cinco bolsillos y remaches de refuerzo
+- Tiro bajo en la parte delantera y tiro regular en la parte trasera
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CGTHLLB/?tag=tolees-21)
