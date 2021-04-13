@@ -1,32 +1,34 @@
 ---
 layout: post
-title: 'Lacoste L1212 Camiseta Polo  Rojo  Rouge al 32.60 % de descuento'
-date: 2020-06-29 02:55:25
-image: 'https://m.media-amazon.com/images/I/41Ehf6SZUcL._SL400_.jpg'
+title: 'Lacoste L1212  Camisa de Polo para Hombr al 37.91 % de descuento'
+date: 2021-04-13 19:43:57
+image: 'https://m.media-amazon.com/images/I/41Ehf6SZUcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0032FBLQW-es Lacoste L1212 Camiseta Polo Rojo Rouge XS para Hombre'
+slug: 'B0032FBLQW-es Lacoste L1212 Camisa de Polo para Hombre Rojo Rouge XS'
 sku: 'B0032FBLQW-es'
-tags: [ 'camiseta', ]
-actualPrice: 59.99 EUR
+tags: [ 'Camisetas, polos y camisas para hombre','Polos para hombre','Ropa','Ropa para hombre','camisa','lacoste', ]
+actualPrice: 58.99 EUR
 currency: EUR
-price: 59.99
-comparePrice: 89.0 EUR
-prodname: 'Lacoste L1212 Camiseta Polo  Rojo  Rouge   XS para Hombre'
+price: 58.99
+comparePrice: 95.0 EUR
+prodname: 'Lacoste L1212  Camisa de Polo para Hombre  Rojo  Rouge   XS'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Lacoste'
 buyurl: 'https://www.amazon.es/dp/B0032FBLQW/?tag=tolees-21'
-descuento: '32.60'
-average: '59.99'
+descuento: '37.91'
+average: '59.6566666666667'
 ---
 
-Ahora mismo tienes [Lacoste L1212 Camiseta Polo  Rojo  Rouge   XS para Hombre](https://www.amazon.es/dp/B0032FBLQW/?tag=tolees-21) a 59.99 EUR (original: 89.0 EUR) (32.60 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Lacoste L1212  Camisa de Polo para Hombre  Rojo  Rouge   XS](https://www.amazon.es/dp/B0032FBLQW/?tag=tolees-21) a 58.99 EUR (original: 95.0 EUR) (37.91 %  de descuento) en el siguiente enlace!
 
-[![Lacoste L1212 Camiseta Polo  Rojo  Rouge](https://m.media-amazon.com/images/I/41Ehf6SZUcL._SL400_.jpg)](https://www.amazon.es/dp/B0032FBLQW/?tag=tolees-21)
+[![Lacoste L1212  Camisa de Polo para Hombr](https://m.media-amazon.com/images/I/41Ehf6SZUcL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B0032FBLQW/?tag=tolees-21)
 
 🔎:
 
+- Bajo recto con aberturas laterales
+- Classic fit
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0032FBLQW/?tag=tolees-21)
