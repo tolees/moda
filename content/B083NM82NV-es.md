@@ -28,10 +28,10 @@ Ahora mismo tienes [PUMA teamGOAL 23 Training Jacket W Chaqueta De Entrenamiento
 
 🔎:
 
-- Cierre de cremallera completa
-- dryCELL: Tecnología de PUMA con propiedades que alejan la humedad de la piel y te ayudan a mantenerte seco y cómodo
-- Bolsillos laterales
 - 100 % poliéster
+- dryCELL: Tecnología de PUMA con propiedades que alejan la humedad de la piel y te ayudan a mantenerte seco y cómodo
 - Logotipo del felino PUMA en la parte derecha del pecho
+- Bolsillos laterales
+- Cierre de cremallera completa
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B083NM82NV/?tag=tolees-21)
