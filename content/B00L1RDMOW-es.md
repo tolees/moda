@@ -28,10 +28,10 @@ Está [Columbia Cascade Explorer Camisa de Manga Corta  Hombre  White  S](https:
 
 ℹ️:
 
-- Mayor protección para la piel en los días más soleados gracias a la tecnología Omni-Shade con protección UPF 30, Innovadora cubierta solar desenrollable para el cuello
-- 2 bolsillos delanteros para acceso rápido, Gamuza para limpiar las gafas, Gancho multiusos
-- Contenido: 1x Columbia Hombre Camiseta de senderismo manga corta
 - Camiseta de manga corta de hombre para excursionismo y otras actividades al aire libre, Comodidad durante todo el año, Ajuste regular
+- 2 bolsillos delanteros para acceso rápido, Gamuza para limpiar las gafas, Gancho multiusos
+- Mayor protección para la piel en los días más soleados gracias a la tecnología Omni-Shade con protección UPF 30, Innovadora cubierta solar desenrollable para el cuello
+- Contenido: 1x Columbia Hombre Camiseta de senderismo manga corta
 - Resistente al agua y a las manchas gracias a la tecnología Omni-Shield, Mayor comodidad y gran libertad de movimiento en la práctica de todo tipo de actividades deportivas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00L1RDMOW/?tag=tolees-21)
