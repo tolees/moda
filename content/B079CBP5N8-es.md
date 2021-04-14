@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'JACK & JONES SS Crew Neck - Camiseta Clá con un 40.04 % de descuento'
-date: 2021-04-10 21:01:06
-image: 'https://m.media-amazon.com/images/I/416XAeR6IFL._SL400_.jpg'
+date: 2021-04-14 04:57:28
+image: 'https://m.media-amazon.com/images/I/416XAeR6IFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,18 +19,18 @@ flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B079CBP5N8/?tag=tolees-21'
 descuento: '40.04'
-average: '6.90666666666666'
+average: '6.86999999999999'
 ---
 
 En este momento está [JACK & JONES SS Crew Neck - Camiseta Clásica para Hombre  color Negro  Grande](https://www.amazon.es/dp/B079CBP5N8/?tag=tolees-21) a 5.99 EUR (original: 9.99 EUR) (40.04 %  de descuento) en el siguiente enlace!
 
-[![JACK & JONES SS Crew Neck - Camiseta Clá](https://m.media-amazon.com/images/I/416XAeR6IFL._SL400_.jpg)](https://www.amazon.es/dp/B079CBP5N8/?tag=tolees-21)
+[![JACK & JONES SS Crew Neck - Camiseta Clá](https://m.media-amazon.com/images/I/416XAeR6IFL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B079CBP5N8/?tag=tolees-21)
 
 🔎:
 
-- Escote: Cuello redondo.
-- Tipo de manga: Manga corta.
-- Compatibilidad: Corte entallado.
 - Jack & Jones - Camiseta de manga corta para hombre.
+- Compatibilidad: Corte entallado.
+- Tipo de manga: Manga corta.
+- Escote: Cuello redondo.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B079CBP5N8/?tag=tolees-21)

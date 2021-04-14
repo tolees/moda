@@ -28,7 +28,7 @@ Tienes [Levi s - LEVIS FOOTWEAR AND ACCESORIOS CAPLES W  Zapatos Mujer  Rosa  39
 
 🔎:
 
-- Estas divertidas zapatillas deportivas llevan un aspecto sencillo en la parte frontal y un logo sobretallado en la parte trasera
 - Grandes, vistosas, retro
+- Estas divertidas zapatillas deportivas llevan un aspecto sencillo en la parte frontal y un logo sobretallado en la parte trasera
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B082BXYJ4Q/?tag=tolees-21)
