@@ -28,7 +28,7 @@ Ahora mismo tienes [G-STAR RAW Graphic Logo 4 Camiseta  Azul  XX-Small  Talla de
 
 🔎:
 
-- Esta camiseta de estilo gráfico confeccionada en un suave punto denso es toda una declaración de estilo
 - El modelo Graphic T-Shirt está confeccionado en un punto de algodón ecológico ligero y apretado que crea un acabado sencillo y compacto
+- Esta camiseta de estilo gráfico confeccionada en un suave punto denso es toda una declaración de estilo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07PPFJZFK/?tag=tolees-21)
