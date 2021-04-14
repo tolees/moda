@@ -28,8 +28,8 @@ Ahora mismo tienes [Levi s Original Trucker Chaqueta vaquera  Black Lilly  L par
 
 🔎:
 
-- Un básico versátil para completar cualquier conjunto
-- Bolsillos de parche en el pecho con solapa y corchete
 - Trabillas ajustables en la parte posterior de la cinturilla
+- Bolsillos de parche en el pecho con solapa y corchete
+- Un básico versátil para completar cualquier conjunto
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07LFNNP7S/?tag=tolees-21)
