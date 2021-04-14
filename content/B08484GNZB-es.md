@@ -28,7 +28,7 @@ Tienes [Pepe Jeans Pixie  Jeans Vaqueros  Azul Denim Wp  31W / 32L para Mujer](h
 
 🔎:
 
-- Lavado Authentic Black Used
 - Denim para mujer
+- Lavado Authentic Black Used
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08484GNZB/?tag=tolees-21)
