@@ -28,8 +28,8 @@ Tienes [Desigual Bols Legacy Deia - Bolso bandolera para mujer  color blanco](ht
 
 🔎:
 
+- Colore: B.GE/RUGGINE
 - Brand: DESIGUAL
 - Modello: 20SAXP96
-- Colore: B.GE/RUGGINE
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07VHW4PSM/?tag=tolees-21)
