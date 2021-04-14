@@ -28,9 +28,9 @@ En este momento está [JACK & JONES SS Crew Neck - Camiseta Clásica para Hombre
 
 🔎:
 
-- Jack & Jones - Camiseta de manga corta para hombre.
-- Compatibilidad: Corte entallado.
 - Tipo de manga: Manga corta.
 - Escote: Cuello redondo.
+- Jack & Jones - Camiseta de manga corta para hombre.
+- Compatibilidad: Corte entallado.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B079CBP5N8/?tag=tolees-21)
