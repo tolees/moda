@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.59 % en Only ONLEMMA L/S Puff Top JRS Camiseta s'
-date: 2021-04-14 08:58:28
+date: 2021-04-15 10:36:29
 image: 'https://m.media-amazon.com/images/I/313Otd-8CkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ Tienes [Only ONLEMMA L/S Puff Top JRS Camiseta sin Mangas  Negro  M para Mujer](
 
 ℹ️:
 
-- Camiseta ligera para verano
 - Parte superior con estampado
+- Camiseta ligera para verano
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B089T4Z5HB/?tag=tolees-21)
