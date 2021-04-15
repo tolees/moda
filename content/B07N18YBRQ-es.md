@@ -28,10 +28,10 @@ En este momento está [G-STAR RAW Lynn Mid Waist Skinny Vaqueros  Azul  Antic Bl
 
 🔎:
 
-- Lavar a máquina - agua fría (30 ° max)
-- Cierre: Boton y cierre
-- Skinny
 - Usado
+- Cierre: Boton y cierre
 - 92% Algodón, 7% Poliéster, 1% Elastano
+- Skinny
+- Lavar a máquina - agua fría (30 ° max)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07N18YBRQ/?tag=tolees-21)
