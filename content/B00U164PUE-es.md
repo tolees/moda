@@ -28,10 +28,10 @@ Tienes [Anself - 12 colores Conjunto de Pintalabios brillante cosmético para ma
 
 🔎:
 
-- 🍓🍓 【Buen material】Materiales de súper alta calidad utilizados en la producción. Contiene humectantes que suavizan y suavizan los labios. Este lápiz labial está destinado a ser saludable y seguro, respetuoso con la piel.
 - 🍎🍎 【Varios usos】Variedad de colores para adaptarse a todos los estilos y todas las ocasiones. Para ocasiones cotidianas o especiales, perfectas para Halloween, conciertos, fiestas, bodas, reuniones y otras ocasiones.
 - 🍒🍒 【Juego de lápiz labial de 12 piezas】Viene con 12 barras de labios hidratantes de alto brillo de larga duración. 12 colores ricos y modernos, diseña el lápiz labial para elegir tu estilo favorito y crea tu propia belleza.
 - 💙💙 【Color duradero】Garantizado de larga duración, permanecer más de 8 horas y fácil de aplicar. para que puedas tener un buen color todos los días.
+- 🍓🍓 【Buen material】Materiales de súper alta calidad utilizados en la producción. Contiene humectantes que suavizan y suavizan los labios. Este lápiz labial está destinado a ser saludable y seguro, respetuoso con la piel.
 - 🍑🍑 【Hidrata tus labios】Enriquecido con vitaminas y Aloe Vera para promover labios sanos, rechazar la piel seca. Cómodo para uso prolongado y mantenido con maquillaje perfecto.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00U164PUE/?tag=tolees-21)

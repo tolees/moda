@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Geox Uomo Sandal Strada A  Sandalias con al 40.00 % de descuento'
-date: 2021-04-09 16:15:56
-image: 'https://m.media-amazon.com/images/I/41JIPmVzbiL._SL400_.jpg'
+date: 2021-04-15 18:44:50
+image: 'https://m.media-amazon.com/images/I/41JIPmVzbiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -24,14 +24,14 @@ average: '41.94'
 
 Está [Geox Uomo Sandal Strada A  Sandalias con Punta Abierta Hombre  Marrón  Coffee C6009  43 EU](https://www.amazon.es/dp/B07DJ31JZF/?tag=tolees-21) con 40.00 de descuento por 41.94 EUR (original: 69.9 EUR) en el siguiente enlace!
 
-[![Geox Uomo Sandal Strada A  Sandalias con](https://m.media-amazon.com/images/I/41JIPmVzbiL._SL400_.jpg)](https://www.amazon.es/dp/B07DJ31JZF/?tag=tolees-21)
+[![Geox Uomo Sandal Strada A  Sandalias con](https://m.media-amazon.com/images/I/41JIPmVzbiL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07DJ31JZF/?tag=tolees-21)
 
 ℹ️:
 
-- Sin Cordones
-- Revestimiento: Tela
-- Material de la suela: Goma
 - Material exterior: Sintético
+- Revestimiento: Tela
+- Sin Cordones
+- Material de la suela: Goma
 - Tipo de tacón: Plano
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07DJ31JZF/?tag=tolees-21)
