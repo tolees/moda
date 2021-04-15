@@ -29,7 +29,7 @@ Ahora mismo tienes [Lee Austin Vaqueros Tapered  Azul  LT Worn Foam ER   28W / 3
 🔎:
 
 - Estilo 5 bolsillos
-- Tienen un parche de piel en la parte trasera con la marca Lee
 - Vaqueros para hombre
+- Tienen un parche de piel en la parte trasera con la marca Lee
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VLPBFKS/?tag=tolees-21)
