@@ -28,8 +28,8 @@ Tienes [Geox UOMO Sandal Strada B  Sandalias Punta Cerrada Hombre  Negro  Black 
 
 🔎:
 
-- adulto
 - leather
 - Black
+- adulto
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07F3BZ5C9/?tag=tolees-21)

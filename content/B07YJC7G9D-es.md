@@ -28,8 +28,8 @@ Tienes [Wrangler Texas Vaqueros Slim  Azul  Airlite Blue 18l   31W / 34L para Ho
 
 🔎:
 
-- Slim
 - Ligera
 - Tejido vaquero elástico
+- Slim
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07YJC7G9D/?tag=tolees-21)

@@ -29,10 +29,10 @@ Está [Crocs Baya Clog K  Zuecos Unisex Niños  Ocean  27/28 EU](https://www.ama
 ℹ️:
 
 - Cierre: Tira de tobillo
-- Composición: Sintético
-- Material de la suela: EVA
 - Revestimiento: Sin forro
-- Material exterior: Espuma
+- Material de la suela: EVA
 - Tipo de tacón: Plano
+- Material exterior: Espuma
+- Composición: Sintético
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07CPCGC51/?tag=tolees-21)
