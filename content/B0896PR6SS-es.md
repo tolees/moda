@@ -28,11 +28,11 @@ Está [Helly Hansen Montes Parka Jacket  Hombre  Negro  XL](https://www.amazon.e
 
 ℹ️:
 
+- Tejido de protección helly tech (impermeable, resistente al viento y transpirable)
 - Grandes bolsillos exteriores con acceso lateral y superior, bolsillos altos para las manos y bolsillo interior en el pecho con cierre de cremallera
 - Una parka de invierno de corte recto, cálida, funcional y favorecedora. Construida para soportar los inviernos polares, pero igualmente en casa en los fríos entornos urbanos
-- Con capucha con aislamiento impermeable y transpirable extraíble con un acabado repelente al agua duradero
-- Tejido de protección helly tech (impermeable, resistente al viento y transpirable)
-- Tipo de fábrica: polyester
 - Ajuste de la cintura y puños interiores elásticos de la muñeca
+- Con capucha con aislamiento impermeable y transpirable extraíble con un acabado repelente al agua duradero
+- Tipo de fábrica: polyester
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0896PR6SS/?tag=tolees-21)
