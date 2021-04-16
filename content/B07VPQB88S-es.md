@@ -28,8 +28,8 @@ En este momento está [G-STAR RAW Base-s r t s/s Camiseta  Negro  Dk Black 336-6
 
 🔎:
 
+- Cuello redondo
 - Bajo recto
 - Bordado de G-Star RAW en el pecho
-- Cuello redondo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07VPQB88S/?tag=tolees-21)
