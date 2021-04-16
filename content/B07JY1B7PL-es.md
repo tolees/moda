@@ -28,7 +28,7 @@ Ahora mismo tienes [Jack & Jones Jjiglenn Jjoriginal Am 814 Noos Vaqueros Slim  
 
 🔎:
 
-- blue denim jeans with slim leg
 - elastic cotton mixture
+- blue denim jeans with slim leg
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07JY1B7PL/?tag=tolees-21)
