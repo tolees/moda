@@ -28,8 +28,8 @@ Tienes [Reef Fanning  Chanclas para Hombre  Marrón  Brown / Gum   35 EU](https:
 
 ℹ️:
 
-- Suela sin marcas.
 - FANNING
+- Suela sin marcas.
 - Bolsa de compresión moldeada bajo el pie.
 - Correa sintética resistente al agua.
 
