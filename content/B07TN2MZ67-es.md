@@ -28,7 +28,7 @@ Ahora mismo tienes [United Colors of Benetton T-Shirt Jersey  Azul  BLU 016   X-
 
 🔎:
 
-- Lavado 40º C ligero; no usar lejía; no secar en secadora; secado natural; planchado 110º C; lavado en seco P ligero.
 - 100 % algodón.
+- Lavado 40º C ligero; no usar lejía; no secar en secadora; secado natural; planchado 110º C; lavado en seco P ligero.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TN2MZ67/?tag=tolees-21)
