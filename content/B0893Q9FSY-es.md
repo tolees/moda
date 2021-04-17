@@ -28,10 +28,10 @@ Tienes [Quiksilver Boulevard Des Plages - Jersey Cerrado para Hombre Jersey Cerr
 
 🔎:
 
-- Cinta en el interior del cuello; parche interior total con impresión
-- Tejido: tejido mezcla de algodón y acrílico; punto 5 de galga
 - Diseño de cuello alto; solapa frontal con abertura de botón
 - Insignia en la manga izquierda
 - Corte: Corte normal, clásico, cómodo; construcción de mangas integradas
+- Tejido: tejido mezcla de algodón y acrílico; punto 5 de galga
+- Cinta en el interior del cuello; parche interior total con impresión
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0893Q9FSY/?tag=tolees-21)
