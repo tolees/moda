@@ -28,8 +28,8 @@ Está [JACK & JONES JACLICHFIELD TRUNKS 3 PACK  Bóxer Hombre  Multicolor  Burgu
 
 ℹ️:
 
-- Paquete Triple
 - Pretina Ancha
+- Paquete Triple
 - Conjunto De Calzoncillos Boxer
 - Estiramiento
 
