@@ -28,8 +28,8 @@ Ahora mismo tienes [PUMA ftblNXT Graphic Shirt Core Camiseta  Hombre  Luminous P
 
 🔎:
 
-- Permite desarrollar actividades deportivas y su diseño otorga libertad a los movimientos
 - Camiseta de la marca Puma que se puede usar tanto para ejercicio físico como para llevar en la calle
+- Permite desarrollar actividades deportivas y su diseño otorga libertad a los movimientos
 - Logotipo de Puma en la parte derecha del pecho
 - La tecnología del material elimina el sudor de la piel para ofrecer sequedad y comodidad durante el entrenamiento
 
