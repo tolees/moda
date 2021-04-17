@@ -28,7 +28,7 @@ Está [Nike Park VI Camiseta de Manga Corta para hombre  Morado  Court Purple/Wh
 
 ℹ️:
 
-- Tejido dri-FIT mecha sudor lejos y ayudar a mantenerte seco y cómodo
 - Tejido dri-FIT: 100% poliéster
+- Tejido dri-FIT mecha sudor lejos y ayudar a mantenerte seco y cómodo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01DCAKOBY/?tag=tolees-21)
