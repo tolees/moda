@@ -28,8 +28,8 @@ Tienes [Jack & Jones JJEMOULDER Wool Coat STS Abrigo de lana  azul marino  XL pa
 
 🔎:
 
-- abrigo corto
 - elegante
+- abrigo corto
 - Lana
 - Invertir
 

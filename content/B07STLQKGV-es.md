@@ -28,8 +28,8 @@ Ahora mismo tienes [GEOX U DOMENICO A BLACK Men s Derbys  Oxfords and Monk Shoes
 
 🔎:
 
+- Material exterior: Cuero
 - Revestimiento: Sintético
 - Material de la suela: Sintético
-- Material exterior: Cuero
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07STLQKGV/?tag=tolees-21)
