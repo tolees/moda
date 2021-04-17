@@ -28,10 +28,10 @@ Está [Helly Hansen Hp Ocean Fz Hoodie  Sudadera para Hombre  Gris  Gris 949   M
 
 ℹ️:
 
-- Hp Ocean Fz
-- 74% Algodón, 19% Poliamida, 7% Elastano
 - Tejido de separación de punto por ambos lados Capucha con forro Cremallera YKK en la parte delantera Cremalleras YKK en los bolsillos Detalle laminado en bolsillos
+- Hp Ocean Fz
 - De la marca Helly Hansen
+- 74% Algodón, 19% Poliamida, 7% Elastano
 - De alta calidad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07F2M1NGL/?tag=tolees-21)

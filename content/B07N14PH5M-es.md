@@ -28,11 +28,11 @@ Tienes [G-STAR RAW Lynn Mid Waist Super Skinny Vaqueros  Negro  Pitch Black 9142
 
 ℹ️:
 
-- Lavar a máquina - agua fría (30 ° max)
-- No Lavar
 - Cierre: Boton y cierre
-- Skinny
-- 60% Algodón, 17% Poliéster, 11% Elastomultiéster, 9% Viscosa, 3% Elastano
 - Normal
+- 60% Algodón, 17% Poliéster, 11% Elastomultiéster, 9% Viscosa, 3% Elastano
+- Skinny
+- No Lavar
+- Lavar a máquina - agua fría (30 ° max)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07N14PH5M/?tag=tolees-21)
