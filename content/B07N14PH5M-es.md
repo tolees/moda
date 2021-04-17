@@ -1,32 +1,38 @@
 ---
 layout: post
-title: 'Descuento del 86.95 % en G-STAR RAW Lynn Mid Waist Super Skinny V'
-date: 2020-07-13 23:08:23
-image: 'https://m.media-amazon.com/images/I/31qUq-XTQmL._SL400_.jpg'
+title: 'Descuento del 63.71 % en G-STAR RAW Lynn Mid Waist Super Skinny V'
+date: 2021-04-17 20:00:25
+image: 'https://m.media-amazon.com/images/I/31oG4SJkLhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07N14PH5M-es G-STAR RAW Lynn Mid Waist Super Skinny Vaqueros Negro...'
 sku: 'B07N14PH5M-es'
-tags: [ 'vaqueros', ]
-actualPrice: 13.04 EUR
+tags: [ 'Ropa','Ropa para mujer','Vaqueros para mujer','g-star raw','vaqueros', ]
+actualPrice: 36.27 EUR
 currency: EUR
-price: 13.04
+price: 36.27
 comparePrice: 99.95 EUR
 prodname: 'G-STAR RAW Lynn Mid Waist Super Skinny Vaqueros  Negro  Pitch Black 9142-A810   23W / 32L para Mujer'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'G-STAR RAW'
 buyurl: 'https://www.amazon.es/dp/B07N14PH5M/?tag=tolees-21'
-descuento: '86.95'
-average: '15.57'
+descuento: '63.71'
+average: '19.71'
 ---
 
-Tienes [G-STAR RAW Lynn Mid Waist Super Skinny Vaqueros  Negro  Pitch Black 9142-A810   23W / 32L para Mujer](https://www.amazon.es/dp/B07N14PH5M/?tag=tolees-21) con un 86.95 % de descuento con precio de oferta de 13.04 EUR (original: 99.95 EUR) en el siguiente enlace!
+Tienes [G-STAR RAW Lynn Mid Waist Super Skinny Vaqueros  Negro  Pitch Black 9142-A810   23W / 32L para Mujer](https://www.amazon.es/dp/B07N14PH5M/?tag=tolees-21) con un 63.71 % de descuento con precio de oferta de 36.27 EUR (original: 99.95 EUR) en el siguiente enlace!
 
-[![G-STAR RAW Lynn Mid Waist Super Skinny V](https://m.media-amazon.com/images/I/31qUq-XTQmL._SL400_.jpg)](https://www.amazon.es/dp/B07N14PH5M/?tag=tolees-21)
+[![G-STAR RAW Lynn Mid Waist Super Skinny V](https://m.media-amazon.com/images/I/31oG4SJkLhL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07N14PH5M/?tag=tolees-21)
 
 ℹ️:
 
+- Lavar a máquina - agua fría (30 ° max)
+- No Lavar
+- Cierre: Boton y cierre
+- Skinny
+- 60% Algodón, 17% Poliéster, 11% Elastomultiéster, 9% Viscosa, 3% Elastano
+- Normal
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07N14PH5M/?tag=tolees-21)
