@@ -28,7 +28,7 @@ Ahora mismo tienes [Jack & Jones Jjiliam Jjoriginal Agi 005 Noos Vaqueros Skinny
 
 🔎:
 
-- Elastic cotton
 - Skinny fit Jeans
+- Elastic cotton
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07YZPXBXG/?tag=tolees-21)
