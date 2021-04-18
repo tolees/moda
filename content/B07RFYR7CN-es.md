@@ -28,7 +28,7 @@ Ahora mismo tienes [G-STAR RAW 3301 Mid Waist Skinny Ankle Vaqueros  Azul  Antic
 
 🔎:
 
-- Nuestros jeans pitillo son femeninos y favorecedores.
 - G-Star 3301: vaquero clásico neutro con 5 bolsillos. 
+- Nuestros jeans pitillo son femeninos y favorecedores.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07RFYR7CN/?tag=tolees-21)
