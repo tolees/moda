@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Timberland Bradstreet Leather Sensorflex al 50.04 % de descuento'
-date: 2021-04-12 07:42:44
-image: 'https://m.media-amazon.com/images/I/31pc3M3qtHL._SL400_.jpg'
+date: 2021-04-18 14:03:30
+image: 'https://m.media-amazon.com/images/I/31pc3M3qtHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,22 +19,22 @@ flag: '🇪🇸'
 brand: 'Timberland'
 buyurl: 'https://www.amazon.es/dp/B075JP2MBV/?tag=tolees-21'
 descuento: '50.04'
-average: '89.4161538461538'
+average: '88.9295'
 ---
 
 Ahora mismo tienes [Timberland Bradstreet Leather Sensorflex  Botas Chukka Hombre  Negro Black Nubuck  39.5 EU](https://www.amazon.es/dp/B075JP2MBV/?tag=tolees-21) a 69.95 EUR (original: 140.0 EUR) (50.04 %  de descuento) en el siguiente enlace!
 
-[![Timberland Bradstreet Leather Sensorflex](https://m.media-amazon.com/images/I/31pc3M3qtHL._SL400_.jpg)](https://www.amazon.es/dp/B075JP2MBV/?tag=tolees-21)
+[![Timberland Bradstreet Leather Sensorflex](https://m.media-amazon.com/images/I/31pc3M3qtHL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B075JP2MBV/?tag=tolees-21)
 
 🔎:
 
+- Altura del tacón: 2 centímetros
 - Revestimiento: Tela
+- Composición: Cuero
+- Material exterior: Cuero
 - Material de la suela: Caucho
 - Anchura del zapato: Normal
-- Tipo de tacón: Plano
 - Cierre: Cordones
-- Material exterior: Cuero
-- Altura del tacón: 2 centímetros
-- Composición: Cuero
+- Tipo de tacón: Plano
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B075JP2MBV/?tag=tolees-21)

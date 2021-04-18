@@ -28,7 +28,7 @@ Tienes [REPLAY M3436b.000.21842 Sudadera  Azul  Blue 85   Medium para Hombre](ht
 
 🔎:
 
-- Gran calidad
 - Cómoda de llevar
+- Gran calidad
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07CD96K4C/?tag=tolees-21)
