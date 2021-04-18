@@ -28,14 +28,14 @@ Está [Timberland 6 Inch Premium Waterproof  Botas Chukka Hombre  Amarillo Wheat
 
 ℹ️:
 
-- Closure: cordones
-- Fit type: talla estándar
-- Heel height: 2.5 centimeters
-- Sole material: goma
-- Tipo de tacón: plano
 - Outer material: cuero
-- Material composition: ver descripción
+- Tipo de tacón: plano
 - Shaft diameter: normal
+- Sole material: goma
+- Closure: cordones
+- Heel height: 2.5 centimeters
+- Material composition: ver descripción
+- Fit type: talla estándar
 - Lining: cuero
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B000VX1CM6/?tag=tolees-21)
