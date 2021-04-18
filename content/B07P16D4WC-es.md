@@ -28,7 +28,7 @@ Tienes [Superdry Everest Chaqueta Bomber  Verde  Army Khaki Zc3   XS para Hombre
 
 🔎:
 
-- Casual y vintage
 - Las prendas de Superdry son fabricadas con un adecuado balance entre estilo y confort; recomendamos una talla superior a la que emplea habitualmente para una auténtica experiencia Superdry
+- Casual y vintage
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07P16D4WC/?tag=tolees-21)
