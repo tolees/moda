@@ -29,12 +29,12 @@ Está [Columbia Peakfreak Venture Zapatos impermeables para hombre   Negro Black
 ℹ️:
 
 - Composición: Cuero/Malla
-- Material de la suela: Caucho
 - Revestimiento: Sintético
-- Cierre: Cordones
+- Altura del tacón: 1 centímetros
 - Tipo de tacón: Plano
 - Anchura del zapato: Normal
-- Altura del tacón: 1 centímetros
+- Material de la suela: Caucho
+- Cierre: Cordones
 - Material exterior: Cuero
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00Q7EV71E/?tag=tolees-21)
