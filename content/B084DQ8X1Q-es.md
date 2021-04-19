@@ -29,7 +29,7 @@ Está [Clarks Linvale Jerica  Zapatos de Vestir par Uniforme Mujer  Interés mar
 ℹ️:
 
 - Material exterior: piel lisa
-- Suela: piel y goma
 - Material interior: sintético
+- Suela: piel y goma
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B084DQ8X1Q/?tag=tolees-21)
