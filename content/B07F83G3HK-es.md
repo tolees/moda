@@ -28,7 +28,7 @@ En este momento está [Calvin Klein Cotton Stretch Trunk 3Pk Bóxer  Azul  Black
 
 🔎:
 
-- Mezcla de algodón y elastano
 - Tiro medio
+- Mezcla de algodón y elastano
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07F83G3HK/?tag=tolees-21)
