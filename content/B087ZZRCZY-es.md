@@ -28,7 +28,7 @@ Ahora mismo tienes [Vans BEAUTY FLORAL HOODIE Sudadera con capucha  Negro    XL 
 
 🔎:
 
-- Sudadera con capucha y ajuste cultivo
 - Logotipo bordado en el pecho.
+- Sudadera con capucha y ajuste cultivo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B087ZZRCZY/?tag=tolees-21)
