@@ -28,8 +28,8 @@ Tienes [NIKE W NP Tank All Over Mesh Camiseta sin Mangas  Mujer  Black/White  L]
 
 ℹ️:
 
+- Nike Pro fabric
 - Elongated silhouette
 - Slim fit
-- Nike Pro fabric
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07FKB5H5Z/?tag=tolees-21)
