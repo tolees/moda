@@ -28,10 +28,10 @@ Tienes [BOSS T-Shirt RN 3p Co Camiseta para Hombre  Negro  Black   Medium  pack 
 
 🔎:
 
-- Hugo Boss camisetas
-- unicolor
+- 100% algodón
 - 3 paquetes
 - Estilo clásico, Cuello redondo
-- 100% algodón
+- unicolor
+- Hugo Boss camisetas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01MECGBC4/?tag=tolees-21)
