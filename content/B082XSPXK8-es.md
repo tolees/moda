@@ -28,8 +28,8 @@ En este momento está [Lee Brooklyn Straight Hombre Vaqueros  Mid Worn Park  32W
 
 🔎:
 
-- Presentan 5 bolsillos
 - Vaqueros para hombre
 - Tienen bordado una etiqueta con la marca Lee
+- Presentan 5 bolsillos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B082XSPXK8/?tag=tolees-21)

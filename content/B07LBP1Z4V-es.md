@@ -29,7 +29,7 @@ Tienes [Helly Hansen Loke Chaqueta Impermeable  Hombre  Azul eléctrico  S](http
 🔎:
 
 - Impermeabilidad de 10.000 mm y permeabilidad al vapor de humedad de 10.000 g
-- Nuestra chaqueta de aventura esencial que te mantendrá seco durante la caminata, así como tu día a día.
 - Impermeable, cortavientos y transpirable Helly Tech Performance, con tejido de Bluesign de 2, 5 capas 100% poliéster con laminado de poliuretano 100%.
+- Nuestra chaqueta de aventura esencial que te mantendrá seco durante la caminata, así como tu día a día.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07LBP1Z4V/?tag=tolees-21)
