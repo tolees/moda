@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lee Elongated tee Camiseta  Negro  Black al 56.63 % de descuento'
-date: 2021-04-18 16:22:38
+date: 2021-04-20 10:03:30
 image: 'https://m.media-amazon.com/images/I/31ALg54NxVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
