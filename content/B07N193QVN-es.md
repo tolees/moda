@@ -28,11 +28,11 @@ En este momento está [G-STAR RAW 3301 Straight Tapered Vaqueros  Azul  Worn In 
 
 🔎:
 
+- Lavar a máquina - agua fría (30 ° max)
 - 99% Algodón, 1% Elastano
-- Normal
+- Tapered
 - Cierre: Boton y cierre
 - Usado
-- Lavar a máquina - agua fría (30 ° max)
-- Tapered
+- Normal
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07N193QVN/?tag=tolees-21)
