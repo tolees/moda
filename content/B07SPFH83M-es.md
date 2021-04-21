@@ -28,9 +28,9 @@ En este momento está [Funko - Pop! NBA: Bulls - 10" Michael Jordan  Red Jersey 
 
 🔎:
 
-- Figure stands 25cm and comes in a window display box
 - Check out the other nba figures from funko collect them all
-- Funko pop; is the 2018 toy of the year and peoples choice award winner
 - From nba, michael jordan, as a stylized 10" pop vinyl from funko
+- Figure stands 25cm and comes in a window display box
+- Funko pop; is the 2018 toy of the year and peoples choice award winner
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07SPFH83M/?tag=tolees-21)
