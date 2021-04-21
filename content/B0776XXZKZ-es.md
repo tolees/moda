@@ -28,9 +28,9 @@ Está [Tommy Jeans Piqué P Camiseta Polo con Cierre de 3 Botones  Blanco  Class
 
 ℹ️:
 
-- Fabricado en algodón orgánico
 - Presenta la bandera de Tommy Jeans bordada en el pecho
-- Con tapeta de tres botones
+- Fabricado en algodón orgánico
 - Tiene cuello y puños de punto acanalado
+- Con tapeta de tres botones
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0776XXZKZ/?tag=tolees-21)
