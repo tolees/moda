@@ -28,7 +28,7 @@ En este momento está [Lacoste 5H3389 Bóxer  Black  S  Pack de 3  para Hombre](
 
 🔎:
 
-- Corte que confiere comodidad en todo momento
 - Cintura elástica con marca Lacoste a contraste en todo el contorno
+- Corte que confiere comodidad en todo momento
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07TR6PMG3/?tag=tolees-21)
