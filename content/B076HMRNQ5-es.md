@@ -28,10 +28,10 @@ Tienes [adidas CORE18 RN JKT Chaqueta Deportiva  Hombre  Negro  Black/White   L]
 
 ℹ️:
 
-- Bolsillos laterales para objetos pequeños.
-- Cremallera frontal central.
-- Mangas raglán.
 - Capucha fija.
+- Mangas raglán.
+- Bolsillos laterales para objetos pequeños.
 - Forro de malla.
+- Cremallera frontal central.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B076HMRNQ5/?tag=tolees-21)
