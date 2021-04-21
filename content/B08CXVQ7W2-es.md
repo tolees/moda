@@ -28,8 +28,8 @@ Ahora mismo tienes [Lee Extreme Motion Straight Vaqueros  General  32W / 34L par
 
 🔎:
 
-- Straight Fit XM.
-- DENIM STRETCH
 - 5 bolsillos.
+- DENIM STRETCH
+- Straight Fit XM.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CXVQ7W2/?tag=tolees-21)
