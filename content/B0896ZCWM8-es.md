@@ -28,13 +28,13 @@ En este momento está [Helly Hansen Montes Parka Down Jacket  Hombre  Negro  S](
 
 🔎:
 
-- Una parka de invierno de corte recto, cálida, funcional y favorecedora, construida para soportar los inviernos polares, pero igualmente en casa en los fríos entornos urbanos
-- Anchura: 40.0 centímetros
-- Con capucha con aislamiento impermeable y transpirable extraíble con un acabado repelente al agua duradero
-- Tipo de fábrica: Polyester
-- Longitud: 60.0 centímetros
 - Ajuste de la cintura y puños interiores elásticos de la muñeca
-- Tejido de protección helly tech (impermeable, resistente al viento y transpirable)
+- Longitud: 60.0 centímetros
+- Anchura: 40.0 centímetros
+- Tipo de fábrica: Polyester
+- Con capucha con aislamiento impermeable y transpirable extraíble con un acabado repelente al agua duradero
 - Grandes bolsillos exteriores con acceso lateral y superior, bolsillos altos para las manos y bolsillo interior en el pecho con cierre de cremallera
+- Una parka de invierno de corte recto, cálida, funcional y favorecedora, construida para soportar los inviernos polares, pero igualmente en casa en los fríos entornos urbanos
+- Tejido de protección helly tech (impermeable, resistente al viento y transpirable)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0896ZCWM8/?tag=tolees-21)
