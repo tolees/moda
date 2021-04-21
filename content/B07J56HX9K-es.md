@@ -28,7 +28,7 @@ Tienes [Dockers tee Camiseta  Blanco  Logo Paper White 0082   X-Small para Hombr
 
 🔎:
 
-- Logo Tee
 - BCI
+- Logo Tee
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07J56HX9K/?tag=tolees-21)
