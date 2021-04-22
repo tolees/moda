@@ -28,10 +28,10 @@ Está [HAWKERS Core Gafas  Turquesa  One Size Unisex Adulto](https://www.amazon.
 
 ℹ️:
 
-- Lentes categoría 3 y protección uv400
-- Lente de policarbonato de alta resistencia a los golpes que proporciona comodidad por su flexibilidad y ligereza
-- Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores
-- Modelo para hombre y mujer: Unisex
 - Modelo Core
+- Lente de policarbonato de alta resistencia a los golpes que proporciona comodidad por su flexibilidad y ligereza
+- Modelo para hombre y mujer: Unisex
+- Lentes categoría 3 y protección uv400
+- Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B085FDC2P6/?tag=tolees-21)
