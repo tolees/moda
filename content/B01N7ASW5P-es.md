@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 34.91 % en Tommy Hilfiger H2285arlow 1d  Zapatilla '
-date: 2021-04-20 21:15:46
+date: 2021-04-22 11:20:00
 image: 'https://m.media-amazon.com/images/I/31SSODE7GBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Tommy Hilfiger'
 buyurl: 'https://www.amazon.es/dp/B01N7ASW5P/?tag=tolees-21'
 descuento: '34.91'
-average: '40.99'
+average: '40.6566666666667'
 ---
 
 Tienes [Tommy Hilfiger H2285arlow 1d  Zapatilla de Deporte Baja del Cuello Hombre  Negro Black 990  43 EU](https://www.amazon.es/dp/B01N7ASW5P/?tag=tolees-21) con un 34.91 % de descuento con precio de oferta de 38.99 EUR (original: 59.9 EUR) en el siguiente enlace!
