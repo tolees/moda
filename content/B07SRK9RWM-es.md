@@ -28,13 +28,13 @@ Tienes [Geox D LEELU  E  Zapatillas Mujer  Blanco  White/Off White C1352   41 EU
 
 🔎:
 
-- Material exterior: Cuero
 - Altura del tacón: 2.5 centímetros
-- Anchura del zapato: Normal
+- Material exterior: Cuero
 - Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
-- Revestimiento: Malla
-- Material de la suela: Sintético
 - Cierre: Cordones
 - Tipo de tacón: Plano
+- Revestimiento: Malla
+- Anchura del zapato: Normal
+- Material de la suela: Sintético
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07SRK9RWM/?tag=tolees-21)
