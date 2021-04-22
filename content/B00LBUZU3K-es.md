@@ -28,9 +28,9 @@ En este momento está [Joma Combi Camiseta Manga Corta  Hombres  Negro  2XL/3XL]
 
 🔎:
 
-- Diseñado para la práctica ocasional del deporte
-- Composición 100 % poliéster
 - Conserva su forma y colores durante toda la temporada
+- Composición 100 % poliéster
 - Camiseta de manga corta
+- Diseñado para la práctica ocasional del deporte
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00LBUZU3K/?tag=tolees-21)

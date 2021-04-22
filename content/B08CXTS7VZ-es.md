@@ -28,8 +28,8 @@ Ahora mismo tienes [Lee Extreme Motion Straight Vaqueros  General  30W / 34L par
 
 🔎:
 
+- 5 bolsillos
 - Tejido vaquero elástico
 - STRAIGHT FIT XM
-- 5 bolsillos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CXTS7VZ/?tag=tolees-21)

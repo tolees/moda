@@ -28,9 +28,9 @@ Está [Jack & Jones Jjegingham Shirt L/s Camisa  Multicolor  Brick Red Checks:Mi
 
 ℹ️:
 
-- Cierre con botones
-- 100% Algodón
-- Estilo del cuello: Clásico
 - 40 ° lavado normal, no usar lejía, no usar secadora
+- 100% Algodón
+- Cierre con botones
+- Estilo del cuello: Clásico
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07B68Z6LW/?tag=tolees-21)
