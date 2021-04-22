@@ -28,7 +28,7 @@ Tienes [Lacoste 5H3389 Bóxer  Black  M  Pack de 3  para Hombre](https://www.ama
 
 ℹ️:
 
-- Corte que confiere comodidad en todo momento
 - Cintura elástica con marca Lacoste a contraste en todo el contorno
+- Corte que confiere comodidad en todo momento
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07TR68LS5/?tag=tolees-21)
