@@ -30,8 +30,8 @@ Ahora mismo tienes [PANOZON Sudadera Hombre Attack on Titan Camiseta de Anime co
 
 - Ocasión: Muestra su apoyo al anime Ataque a los Titanes. Ideal para vida cotidiana, hacer deporte, viajar, disfraz o asistir a las fiestas, cenas. Buena opción para primavera, otoño y el invierno. Se puede ser un buen regalo para sus amigos, familiares y novios que son fanes de Ataque a los Titanes. La prenda no pierde color después de varios lavados.
 - Al realizar el pedido, va a recibir el paquete antes de la fecha indicada. Si se encuentra con cualquier problema, por favor póngase en contacto con nosotros. Siempre estamos a su disposición.
+- Cuidados: Lavar a máquina max.30ºC. centrifugado corto. No usar lejía / blanqueador. Se puede usar secador temperatura reducida.
 - Atención: Le recomendamos pedir 1 talla más de su talla habitual en caso de dudas. Haga el favor de consultar la tabla de talla de PANOZON situada en la segunda imágen antes de comprar, no la de Amazon.
 - Diseño: Sudadera para hombre, con estampado de personajes de Ataque a los Titanes en la parte delantera. Capucha corte holgado, hombro caído y acabados elásticos en bajos. Bolsillo canguro en la parte delantera. El interior del tejido es de tacto suave y cálido.
-- Cuidados: Lavar a máquina max.30ºC. centrifugado corto. No usar lejía / blanqueador. Se puede usar secador temperatura reducida.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08S3DQ3M2/?tag=tolees-21)

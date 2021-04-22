@@ -28,7 +28,7 @@ Tienes [Esprit Nelly Beach c.Brief Braguita de Bikini  Azul  Dark Blue 405   38 
 
 🔎:
 
-- Cómodas barras laterales anchas
 - Braga de bikini con rayas marinas, mezcla de materiales de secado rápido con comodidad elástica, corte cómodo
+- Cómodas barras laterales anchas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07X9VLRLK/?tag=tolees-21)
