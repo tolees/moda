@@ -29,12 +29,12 @@ Ahora mismo tienes [Geox D Annytah Moc A  Mocasines Mujer  Negro  Black C9997  3
 🔎:
 
 - Anchura del zapato: Normal
-- Material de la suela: Sintético
 - Material exterior: Cuero
-- Cierre: Sin cierre
 - Tipo de talla: Los zapatos Geox son holgados
-- Tipo de tacón: Plano
-- Altura del tacón: 2 centímetros
 - Revestimiento: Sintético
+- Altura del tacón: 2 centímetros
+- Cierre: Sin cierre
+- Material de la suela: Sintético
+- Tipo de tacón: Plano
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07LFRN2NN/?tag=tolees-21)
