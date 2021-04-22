@@ -28,8 +28,8 @@ En este momento está [Lee Extreme Motion Straight Vaqueros  General  30W / 32L 
 
 🔎:
 
-- STRAIGHT FIT MVP
 - ReCYCLED FABRICS
 - DENIM STRETCH
+- STRAIGHT FIT MVP
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CXWTBBQ/?tag=tolees-21)
