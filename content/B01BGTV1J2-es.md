@@ -29,9 +29,9 @@ Ahora mismo tienes [G-STAR RAW Midge Saddle Mid Waist Straight Vaqueros  Dk Aged
 🔎:
 
 - Cierre de botones y cremallera
-- Construcción con cinco bolsillos y bolsillo para monedas con ribete
-- Corte recto del muslo a los bajos
-- Pretina en la parte trasera de la cintura
 - Talle medio
+- Corte recto del muslo a los bajos
+- Construcción con cinco bolsillos y bolsillo para monedas con ribete
+- Pretina en la parte trasera de la cintura
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01BGTV1J2/?tag=tolees-21)
