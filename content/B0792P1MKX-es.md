@@ -28,10 +28,10 @@ Está [adidas Daily 2.0  Zapatos de Baloncesto Hombre  Gris Grey Footwear White 
 
 ℹ️:
 
-- Cuello redondo de canalé.
 - Manga corta.
 - Ventilación Climacool.
 - Bolsillos frontales con cremallera.
+- Cuello redondo de canalé.
 - Ventilación Climacool.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0792P1MKX/?tag=tolees-21)
