@@ -29,7 +29,7 @@ Ahora mismo tienes [Levi s Orig HM Vneck Camiseta  Port  XS para Hombre](https:/
 🔎:
 
 - Con un discreto logo en el pecho
-- Modelo casual
 - Elaborada en punto suave
+- Modelo casual
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07ZVQNPJR/?tag=tolees-21)

@@ -28,11 +28,11 @@ Tienes [Geox U WALEE A  Zapatillas Hombre  Marrón  Taupe C6029   39 EU](https:/
 
 🔎:
 
-- Material exterior: Tela
 - Cierre: Cordones
-- Revestimiento: Tela
 - Material de la suela: Sintético
-- Tipo de tacón: Plano
+- Revestimiento: Tela
 - Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
+- Material exterior: Tela
+- Tipo de tacón: Plano
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07SQGP9LC/?tag=tolees-21)

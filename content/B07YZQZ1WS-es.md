@@ -28,7 +28,7 @@ Está [Jack & Jones Jjiliam Jjoriginal Agi 005 Noos Vaqueros Skinny  Azul  Blue 
 
 ℹ️:
 
-- skinny fit jeans
 - elastic cotton
+- skinny fit jeans
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07YZQZ1WS/?tag=tolees-21)
