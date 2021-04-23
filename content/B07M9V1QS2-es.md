@@ -28,7 +28,7 @@ Ahora mismo tienes [ONLY ONLAVA Faux Leather Biker OTW Noos Chaqueta  Grün  Chi
 
 🔎:
 
-- Faux leather jacket
 - waisted cut
+- Faux leather jacket
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07M9V1QS2/?tag=tolees-21)
