@@ -28,8 +28,8 @@ Tienes [Lee Sustainable Crew SWS Sudadera  Beige  Ecru Mele 48   L para Hombre](
 
 ℹ️:
 
-- Sudadera para hombre
-- Producto de ajuste regular
 - Con una pestaña tonal triangular cerca del dobladillo
+- Producto de ajuste regular
+- Sudadera para hombre
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07VT5RWMS/?tag=tolees-21)

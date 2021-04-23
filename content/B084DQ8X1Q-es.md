@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Clarks Linvale Jerica  Zapatos de Vestir al 29.74 % de descuento'
-date: 2021-04-21 09:02:44
+title: 'Clarks Linvale Jerica  Zapatos de Vestir al 38.23 % de descuento'
+date: 2021-04-23 22:17:07
 image: 'https://m.media-amazon.com/images/I/41LMM-rgKgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,27 +9,27 @@ author: 'tole.es'
 slug: 'B084DQ8X1Q-es Clarks Linvale Jerica Zapatos de Vestir par Uniforme Mujer...'
 sku: 'B084DQ8X1Q-es'
 tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','clarks','zapatos', ]
-actualPrice: 11.6 EUR
+actualPrice: 10.13 EUR
 currency: EUR
-price: 11.6
-comparePrice: 16.51 EUR
+price: 10.13
+comparePrice: 16.4 EUR
 prodname: 'Clarks Linvale Jerica  Zapatos de Vestir par Uniforme Mujer  Interés marrón  40 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Clarks'
 buyurl: 'https://www.amazon.es/dp/B084DQ8X1Q/?tag=tolees-21'
-descuento: '29.74'
-average: '13.31'
+descuento: '38.23'
+average: '12.515'
 ---
 
-Está [Clarks Linvale Jerica  Zapatos de Vestir par Uniforme Mujer  Interés marrón  40 EU](https://www.amazon.es/dp/B084DQ8X1Q/?tag=tolees-21) con 29.74 de descuento por 11.6 EUR (original: 16.51 EUR) en el siguiente enlace!
+Está [Clarks Linvale Jerica  Zapatos de Vestir par Uniforme Mujer  Interés marrón  40 EU](https://www.amazon.es/dp/B084DQ8X1Q/?tag=tolees-21) con 38.23 de descuento por 10.13 EUR (original: 16.4 EUR) en el siguiente enlace!
 
 [![Clarks Linvale Jerica  Zapatos de Vestir](https://m.media-amazon.com/images/I/41LMM-rgKgL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B084DQ8X1Q/?tag=tolees-21)
 
 ℹ️:
 
 - Material exterior: piel lisa
-- Suela: piel y goma
 - Material interior: sintético
+- Suela: piel y goma
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B084DQ8X1Q/?tag=tolees-21)

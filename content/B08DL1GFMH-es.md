@@ -29,8 +29,8 @@ Está [Jack & Jones JJ30CLASSIC Shirt L/S Camisa  Black Iris  M para Hombre](htt
 ℹ️:
 
 - a cuadros
-- Camisa
 - suave
+- Camisa
 - suave
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08DL1GFMH/?tag=tolees-21)
