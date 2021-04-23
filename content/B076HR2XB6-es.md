@@ -29,7 +29,7 @@ Está [adidas CORE18 Hoody Sudadera con Capucha  Hombre  Gris  Gris/Negro   S](h
 ℹ️:
 
 - Bolsillo Kangaroo.
-- Corte estándar.
 - Capucha con lanyard.
+- Corte estándar.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B076HR2XB6/?tag=tolees-21)

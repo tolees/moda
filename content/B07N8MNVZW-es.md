@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jjialvin Jjjacket Sa 002 No con un 36.01 % de descuento'
-date: 2021-04-21 11:45:20
+date: 2021-04-23 10:08:18
 image: 'https://m.media-amazon.com/images/I/41EMDcj3rML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
