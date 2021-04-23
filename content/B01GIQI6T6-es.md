@@ -28,7 +28,7 @@ Está [Columbia Saturday Trail Falda Pantalón con Protección Solar 50  Mujer  
 
 ℹ️:
 
-- Parcialmente elástico en la cintura
 - Material elástico agradable
+- Parcialmente elástico en la cintura
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01GIQI6T6/?tag=tolees-21)
