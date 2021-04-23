@@ -28,7 +28,7 @@ Ahora mismo tienes [Only Onlvida Faux Fur Jacket Otw Noos Chaqueta  Negro  Black
 
 🔎:
 
-- Faux FUR jacket with zipper
 - Faux FUR jacket with standing collar
+- Faux FUR jacket with zipper
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DDS2YDQ/?tag=tolees-21)
