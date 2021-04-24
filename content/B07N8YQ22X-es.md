@@ -28,11 +28,11 @@ Ahora mismo tienes [Tommy Hilfiger Mujer Heritage Crew Neck Graphic Tee Camiseta
 
 🔎:
 
-- Logo de Tommy Hilfiger en el pecho
+- Logo de Tommy Hilfiger bordado en el bajo
 - Cuello redondo
 - Corte regular
-- Logo de Tommy Hilfiger bordado en el bajo
 - Cinta distintiva en el interior del cuello
 - Tejido de puro algodón orgánico
+- Logo de Tommy Hilfiger en el pecho
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07N8YQ22X/?tag=tolees-21)
