@@ -28,9 +28,9 @@ Está [Adidas CORE18 PRE JKT Chaqueta de Deporte  Hombre  Azul  Azul/Blanco   XS
 
 ℹ️:
 
-- Puños de canalé.
 - Cuello alzado.
 - Chaqueta y pantalón con bolsillos laterales.
+- Puños de canalé.
 - Cuenta con bolsillos frontales e un cuello alto
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B076HMSBFF/?tag=tolees-21)
