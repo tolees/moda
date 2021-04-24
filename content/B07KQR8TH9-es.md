@@ -28,9 +28,9 @@ Tienes [Adidas E 3S PO FL Sudadera con Capucha  Hombre  Azul Legend Ink/White   
 
 🔎:
 
+- Bolsillos laterales.
 - Colección Primavera-verano 2019
 - Cintura elástica con cordón.
-- Bolsillos laterales.
 - Refuerzo en la entrepierna.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07KQR8TH9/?tag=tolees-21)
