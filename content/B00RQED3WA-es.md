@@ -28,9 +28,9 @@ En este momento está [Zotal Parasital Collar para Perros  60 cm](https://www.am
 
 🔎:
 
-- Para perros medianos y pequeños a base de aceites esenciales repelentes sin insecticidas
-- Collar antiparasitario
 - Eficacia hasta tres meses
 - Su eficacia ha sido testada como repelente del mosquito perteneciente al género Phlebotomus, transmisor de la Leishmaniasis
+- Collar antiparasitario
+- Para perros medianos y pequeños a base de aceites esenciales repelentes sin insecticidas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00RQED3WA/?tag=tolees-21)
