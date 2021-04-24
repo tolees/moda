@@ -28,13 +28,13 @@ Está [Geox D New ANNYA A  Zapatos de Tacón Mujer  Negro  Black C9997   39 EU](
 
 ℹ️:
 
-- Material exterior: Cuero
-- Cierre: Sin cierre
+- Tipo de tacón: Bloque
 - Revestimiento: Sintético
 - Material de la suela: Sintético
-- Anchura del zapato: Normal
-- Altura del tacón: 7.5 centímetros
-- Tipo de tacón: Bloque
+- Cierre: Sin cierre
 - Tipo de talla: Los zapatos Geox son holgados
+- Anchura del zapato: Normal
+- Material exterior: Cuero
+- Altura del tacón: 7.5 centímetros
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07LFYL1YD/?tag=tolees-21)
