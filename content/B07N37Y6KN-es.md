@@ -28,7 +28,7 @@ Está [Vero Moda VMMIA HR Loose Summer Shorts GA Pantalones  Azul  Light Blue De
 
 ℹ️:
 
-- Ladies shorts made of soft flowing quality
 - Summer shorts in loose fit
+- Ladies shorts made of soft flowing quality
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07N37Y6KN/?tag=tolees-21)

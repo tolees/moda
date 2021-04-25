@@ -28,8 +28,8 @@ Ahora mismo tienes [Jack & Jones JJARID tee SS Crew Neck Camiseta  True Red/Fit:
 
 🔎:
 
-- Estilo jersey.
 - Camiseta con logotipo.
 - Camiseta de algodón.
+- Estilo jersey.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08LPR7CZF/?tag=tolees-21)
