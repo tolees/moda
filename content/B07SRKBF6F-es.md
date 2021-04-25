@@ -28,13 +28,13 @@ Está [Geox D Rubidia A  Zapatillas Mujer  Negro  Black C9997   39 EU](https://w
 
 ℹ️:
 
-- Material de la suela: Sintético
-- Material exterior: Cuero
-- Tipo de talla: Los zapatos Geox son holgados
-- Revestimiento: Malla
 - Tipo de tacón: Plano
-- Altura del tacón: 4.5 centímetros
+- Material exterior: Cuero
 - Cierre: Cordones
+- Material de la suela: Sintético
+- Tipo de talla: Los zapatos Geox son holgados
 - Anchura del zapato: Normal
+- Altura del tacón: 4.5 centímetros
+- Revestimiento: Malla
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07SRKBF6F/?tag=tolees-21)
