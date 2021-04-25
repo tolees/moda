@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.07 % en BLEND  701628 - Sudadera de manga larga '
-date: 2021-04-20 16:01:18
+date: 2021-04-25 14:05:44
 image: 'https://m.media-amazon.com/images/I/41Db00govnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

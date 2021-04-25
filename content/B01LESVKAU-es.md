@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Havaianas Luna  Sandalias Mujer  Multico al 54.02 % de descuento'
-date: 2021-04-23 21:04:32
+date: 2021-04-25 14:34:58
 image: 'https://m.media-amazon.com/images/I/312+vxluu+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,13 +28,13 @@ Está [Havaianas Luna  Sandalias Mujer  Multicolor  Navy Blue/Silver   37/38 EU]
 
 ℹ️:
 
-- Tipo de tacón: Plano
 - Cierre: Sin cordones
-- Revestimiento: Sin forro
 - Altura del tacón: 2 centímetros
-- Composición: Caucho
-- Anchura del zapato: Normal
 - Material de la suela: Goma
+- Composición: Caucho
+- Tipo de tacón: Plano
 - Material exterior: Caucho
+- Revestimiento: Sin forro
+- Anchura del zapato: Normal
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01LESVKAU/?tag=tolees-21)

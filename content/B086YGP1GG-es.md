@@ -30,8 +30,8 @@ Está [STARBILD Leggings 3/4 Mallas Pantalones de Alta Cintura Elástica Súper 
 
 - Diseño de empalme de malla：mantenga fresco seco y cómodo transpirable
 - Bolsillo profundo en 2 lados: los leggings de cintura alta son convenientes para que coloque teléfonos móviles, llaves, tarjetas de crédito
-- Adecuado para muchos tipos de deportes, fitness, correr, yoga, Pilates, etc. Es ideal para ocasiones deportivas o como vestido diario.
-- El tejido elástico en 4 direcciones：La tela está en una buena permeabilidad al aire, buena absorción de humedad del sudor y salubre. Seca rápida, de alta calidad.
 - Alta Cintura Elástica：se adapta perfectamente a la curva de su cuerpo, incluso con cintura alta, lo que hace el glúteo sobresalir de forma natural.
+- El tejido elástico en 4 direcciones：La tela está en una buena permeabilidad al aire, buena absorción de humedad del sudor y salubre. Seca rápida, de alta calidad.
+- Adecuado para muchos tipos de deportes, fitness, correr, yoga, Pilates, etc. Es ideal para ocasiones deportivas o como vestido diario.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B086YGP1GG/?tag=tolees-21)
