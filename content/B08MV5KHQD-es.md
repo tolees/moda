@@ -29,7 +29,7 @@ Tienes [Jack & Jones JJHEROS Sweat Hood Capucha  Gris Claro. Ajuste: Sudadera  M
 ℹ️:
 
 - Gran bolsillo de canguro en la parte delantera
-- Sudadera con capucha con logotipo grande en la parte delantera
 - La capucha tiene un cordón para ajustar, puños de punto en la cintura y los brazos largos
+- Sudadera con capucha con logotipo grande en la parte delantera
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08MV5KHQD/?tag=tolees-21)
