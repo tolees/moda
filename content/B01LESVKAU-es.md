@@ -28,13 +28,13 @@ Está [Havaianas Luna  Sandalias Mujer  Multicolor  Navy Blue/Silver   37/38 EU]
 
 ℹ️:
 
-- Anchura del zapato: Normal
-- Cierre: Sin cordones
-- Material exterior: Caucho
-- Material de la suela: Goma
 - Revestimiento: Sin forro
-- Altura del tacón: 2 centímetros
+- Material de la suela: Goma
 - Composición: Caucho
+- Material exterior: Caucho
+- Cierre: Sin cordones
 - Tipo de tacón: Plano
+- Anchura del zapato: Normal
+- Altura del tacón: 2 centímetros
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01LESVKAU/?tag=tolees-21)

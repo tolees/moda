@@ -28,7 +28,7 @@ Tienes [Jack & Jones Jjeorganic Basic tee SS O-Neck Noos Camiseta  Azul  Navy Bl
 
 🔎:
 
-- Cotton fabric for a soft and comfortable wear
 - Short-sleeved tee with o-neck
+- Cotton fabric for a soft and comfortable wear
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07S2FCC79/?tag=tolees-21)
