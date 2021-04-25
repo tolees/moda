@@ -29,8 +29,8 @@ Ahora mismo tienes [Armani Exchange Pima Logo Camiseta  Gris  B09b Heather Grey 
 🔎:
 
 - Cuello redondo.
-- Sólido
-- Ajuste perfecto.
 - Peso ligero.
+- Ajuste perfecto.
+- Sólido
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07FDM87FP/?tag=tolees-21)
