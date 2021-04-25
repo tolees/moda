@@ -28,8 +28,8 @@ Tienes [Jack & Jones JJARID tee SS Crew Neck Camiseta  True Red/Fit: reg  XL par
 
 🔎:
 
-- Camiseta de algodón
 - Camiseta con logotipo
 - Jersey Style
+- Camiseta de algodón
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08LQ8HBB4/?tag=tolees-21)
