@@ -28,8 +28,8 @@ Está [Arena 000001E048-507 Estuche para Gafas de natación  Unisex Adulto  Negr
 
 ℹ️:
 
-- Accesorios para gafas de natación Natación Unisex Adulto
 - Material duro arena
+- Accesorios para gafas de natación Natación Unisex Adulto
 - De alta calidad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B073CTZLV1/?tag=tolees-21)

@@ -28,7 +28,7 @@ En este momento está [Jack & Jones Jcospring Light Jacket Chaqueta  Multicolor 
 
 🔎:
 
-- sporty jacket
 - jacket with hood and zipper
+- sporty jacket
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07YL8LYT8/?tag=tolees-21)

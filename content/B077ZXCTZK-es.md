@@ -28,8 +28,8 @@ Ahora mismo tienes [Levi s 711 Skinny Vaqueros  Black Sheep  23W / 28L para Muje
 
 🔎:
 
-- Modelo ajustado en la cadera y los muslos
-- Con bragueta de botones
 - Diseño de cinco bolsillos
+- Con bragueta de botones
+- Modelo ajustado en la cadera y los muslos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B077ZXCTZK/?tag=tolees-21)
