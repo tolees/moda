@@ -28,9 +28,9 @@ En este momento está [Under Armour Graphic Script Logo Fashion SSC Camisa Manga
 
 🔎:
 
-- Material que capilariza el sudor y se seca rápidamente
 - Tejido suave de mezcla de algodón que mantiene la comodidad durante todo el día
-- Silueta estilizada con ajuste estilizado y cómodo
+- Material que capilariza el sudor y se seca rápidamente
 - Corte completo para ofrecer comodidad
+- Silueta estilizada con ajuste estilizado y cómodo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07L9JP3ZS/?tag=tolees-21)
