@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones JJ30CLASSIC Shirt L/S Camis al 15.75 % de descuento'
-date: 2021-04-23 20:30:56
+date: 2021-04-26 09:48:20
 image: 'https://m.media-amazon.com/images/I/51Vzs0tezOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [Jack & Jones JJ30CLASSIC Shirt L/S Camisa  Black Iris  M para Hombre](htt
 
 ℹ️:
 
-- a cuadros
 - suave
+- a cuadros
 - Camisa
 - suave
 

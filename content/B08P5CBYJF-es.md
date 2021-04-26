@@ -28,10 +28,10 @@ Tienes [Bonbell - Pistola de Juguete para Niños  Pistola Bláster con 40 Flecha
 
 ℹ️:
 
-- 【Gafas de seguridad】:en consideración a la seguridad durante el juego de disparos, se suministra un par de gafas protectoras, que no son fáciles de romper. Proteja eficazmente los ojos del niño en el juego. Consejos cálidos: los niños de 3 a 6 años deben jugar con el pistola de juguete bajo la supervisión de un adulto.
 - 【Lo que obtienes】: 1 pistolas bláster + 40 piezas balas de espuma suave + 1 gafas protectoras + 1 muñequeras + 1 caja de embalaje + 1 pequeño objetivo + 1mascarilla negra.
-- 【Pistola de dardos para niños】 Fabricada en plástico ABS ecológico. Ligero pero sólido y duradero. Rendimiento de movilidad y fuego rápido súper excelente, recarga más fácil, sin problemas de interferencia y rango de disparo de hasta 12 metros.
-- 【40 piezas flechas y 1 muñequeras】20 dardos rojos con ventosas y 20 dardos azules ordinarios de espuma. Los dardos están hechos de espuma EVA de alta calidad con buena tenacidad y se pueden reutilizar. Se proporcionan muñequeras para facilitar la carga rápida de balas en la batalla.
 - 【Regalo perfecto para niños】El juego de disparos de pistola de juguete Infantil es perfecto para niños pequeños de 3 años en adelante practique las habilidades de tiro de sus hijos y disfrute del tiempo del juego. Gran regalo para niños, niñas, cumpleaños de niños, Navidad y Año Nuevo.
+- 【Gafas de seguridad】:en consideración a la seguridad durante el juego de disparos, se suministra un par de gafas protectoras, que no son fáciles de romper. Proteja eficazmente los ojos del niño en el juego. Consejos cálidos: los niños de 3 a 6 años deben jugar con el pistola de juguete bajo la supervisión de un adulto.
+- 【40 piezas flechas y 1 muñequeras】20 dardos rojos con ventosas y 20 dardos azules ordinarios de espuma. Los dardos están hechos de espuma EVA de alta calidad con buena tenacidad y se pueden reutilizar. Se proporcionan muñequeras para facilitar la carga rápida de balas en la batalla.
+- 【Pistola de dardos para niños】 Fabricada en plástico ABS ecológico. Ligero pero sólido y duradero. Rendimiento de movilidad y fuego rápido súper excelente, recarga más fácil, sin problemas de interferencia y rango de disparo de hasta 12 metros.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08P5CBYJF/?tag=tolees-21)

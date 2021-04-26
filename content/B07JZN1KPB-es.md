@@ -28,9 +28,9 @@ Está [adidas Tiro 19 JSY W Camiseta de Manga Corta  Mujer  Bold Blue/White  L](
 
 ℹ️:
 
-- Ropa deportiva Adidas
 - Muy conveniente
-- Camiseta Fútbol Mujer
 - Fácil de usar
+- Camiseta Fútbol Mujer
+- Ropa deportiva Adidas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07JZN1KPB/?tag=tolees-21)
