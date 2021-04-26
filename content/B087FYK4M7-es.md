@@ -31,8 +31,8 @@ Ahora mismo tienes [TOUS Regalo Mama Collar Good Vibes de Plata Vermeil y rubí]
 - Certificado Autenticidad TOUS
 - Packaging original TOUS
 - Plata de primera ley recubierta de oro de 18kt con un espesor de 3 a 5 micras y sin ningún otro metal entre ambos.
-- Collar TOUS Good Vibes Mama de plata vermeil y rubí de 3mm. Tamaño de la medalla: 1,6 cm.
 - Regalo ideal para el Dia de la Madre
 - Longitud del collar: 45 cm.
+- Collar TOUS Good Vibes Mama de plata vermeil y rubí de 3mm. Tamaño de la medalla: 1,6 cm.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B087FYK4M7/?tag=tolees-21)
