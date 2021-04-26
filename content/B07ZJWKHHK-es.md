@@ -29,9 +29,9 @@ Ahora mismo tienes [CRAZY FOXS Calleras para Crossfit - Grips 3H Fibra de Carbon
 🔎:
 
 - 🥊 [3H 3 AGUJEROS PARA UNA MAYOR ESTABILIDAD] El nuevo diseño ergonómico de CrazyFoxs con 3 agujeros protegerá tu palma en su totalidad y asegura una completa estabilidad durante el Kipping, Pull ups, Chest to bar, Muscle ups, Toes to Bar (T2B), Knees to Elbow (K2E), Kettlebell swings, Power lifting, Power Cleans, Deadlifts, Snatches, Gymnastics, pesas rusas y mucho más… no dejes que nada te frene!
-- 🥊 [NUEVO DISEÑO ERGONÓMICO] Diseñadas ergonómicamente para minimizar la presión, reducir la tensión en la muñeca y mantenerse estables durante toda su rutina de ejercicio o WOD. Estas calleras son un poderoso aliado contra lesiones a largo plazo en muñecas y articulaciones.
-- 🥊 [CÓMO ELEGIR TU TALLA] Mide la distancia desde la base de tu dedo medio hasta la base de la palma de tu mano. Luego simplemente compara tu medida con la tabla para conocer tu tamaño perfecto: - S: hasta 9,5cm - M: 9,5cm ~ 10,8cm - L: 10,8cm ~ 11,4cm - XL: Más de 11,4cm
 - 🥊 [CALLERAS DE COMPETICIÓN CON MÁXIMO AGARRE] Fabricadas en FIBRA DE CARBONO, cómodas y duraderas. El grosor de la fibra es de 2 mm. Ayudan a proteger tus manos de abrasiones, cicatrices y callosidades, con una resistencia incomparable.
 - 🥊 [FÁCILES DE COLOCAR Y AJUSTAR] Gracias a su correa de velcro con anillo-O, estarás listo/a para entrenar en segundos. Ideales para pesas, barras, pull ups, weight lifting, fitness, anillas, calistenia, dominadas, halterofilia. Estos grips te ayudarán a superar incluso los workouts más exigentes y te ayudarán a mejorar drásticamente tus resultados.
+- 🥊 [NUEVO DISEÑO ERGONÓMICO] Diseñadas ergonómicamente para minimizar la presión, reducir la tensión en la muñeca y mantenerse estables durante toda su rutina de ejercicio o WOD. Estas calleras son un poderoso aliado contra lesiones a largo plazo en muñecas y articulaciones.
+- 🥊 [CÓMO ELEGIR TU TALLA] Mide la distancia desde la base de tu dedo medio hasta la base de la palma de tu mano. Luego simplemente compara tu medida con la tabla para conocer tu tamaño perfecto: - S: hasta 9,5cm - M: 9,5cm ~ 10,8cm - L: 10,8cm ~ 11,4cm - XL: Más de 11,4cm
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07ZJWKHHK/?tag=tolees-21)
