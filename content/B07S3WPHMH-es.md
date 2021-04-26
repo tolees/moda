@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Relaxed Graphic Long Sleeve Sudad con un 49.69 % de descuento'
-date: 2021-04-24 15:12:59
+date: 2021-04-26 08:05:48
 image: 'https://m.media-amazon.com/images/I/41Cf0ivKPAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07S3WPHMH/?tag=tolees-21'
 descuento: '49.69'
-average: '24.716515151515'
+average: '24.8356716417909'
 ---
 
 En este momento está [Levi s Relaxed Graphic Long Sleeve Sudadera  White  Crew Box Tab White+ 0092   XXS para Mujer](https://www.amazon.es/dp/B07S3WPHMH/?tag=tolees-21) a 32.7 EUR (original: 65.0 EUR) (49.69 %  de descuento) en el siguiente enlace!
