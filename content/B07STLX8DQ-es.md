@@ -28,10 +28,10 @@ En este momento está [Geox D Sukie B  Zapatillas Mujer  Gris  Lt Grey C1010   3
 
 🔎:
 
-- Material exterior: Cuero
 - Material de la suela: Sintético
-- Cierre: Cordones
 - Revestimiento: Sintético
+- Material exterior: Cuero
+- Cierre: Cordones
 - Tipo de tacón: Plano
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07STLX8DQ/?tag=tolees-21)
