@@ -28,10 +28,10 @@ Ahora mismo tienes [G-STAR RAW Revend Skinny Vaqueros  Medium Aged Faded  24W / 
 
 🔎:
 
-- Cierre: Boton y cierre
+- 91% Algodón, 7% Elastomultiéster, 2% Elastano
 - Skinny
 - Usado
+- Cierre: Boton y cierre
 - Lavar a máquina - agua fría (30 ° max)
-- 91% Algodón, 7% Elastomultiéster, 2% Elastano
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07N18B7YY/?tag=tolees-21)
