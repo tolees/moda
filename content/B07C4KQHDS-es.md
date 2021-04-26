@@ -28,10 +28,10 @@ Tienes [Panama Jack Sauron  Sandalias con Punta Abierta Hombre  Marrón  Marron 
 
 🔎:
 
-- Altura del tacón: 4,00 cm
-- Resistente al agua
-- Sandalias Panama Jack Men Kaki Caqui
-- Material principal: napa. Material de la suela: poliuretano
 - Fabricado en España
+- Sandalias Panama Jack Men Kaki Caqui
+- Resistente al agua
+- Material principal: napa. Material de la suela: poliuretano
+- Altura del tacón: 4,00 cm
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07C4KQHDS/?tag=tolees-21)

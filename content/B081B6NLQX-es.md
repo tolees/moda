@@ -28,10 +28,10 @@ Está [Columbia Silver Ridge 2.0 Camisa de Manga Corta  Hombre  White  S](https:
 
 ℹ️:
 
-- Sensación de frescura gracias a la ventilación incorporada; la protección solar Omni-Shade UPF 50 y la gestión del sudor Omni-Wick
-- 1x Columbia Silver Ridge 2.0, Camisa de manga corta para hombre, Nylon, Blanco, S, Art.1838885
-- Abotonado frontal completo para una variedad de estilos y coberturas; dos bolsillos en el pecho para guardar los objetos de valor
 - Una camisa limpia y clásica para ir a cualquier parte, para las responsabilidades diarias y las aventuras; adecuada para las excursiones al aire libre
+- Sensación de frescura gracias a la ventilación incorporada; la protección solar Omni-Shade UPF 50 y la gestión del sudor Omni-Wick
+- Abotonado frontal completo para una variedad de estilos y coberturas; dos bolsillos en el pecho para guardar los objetos de valor
 - Manga corta, cuello prominente para más protección, 100% nylon, Lavable a máquina y compatible con la secadora
+- 1x Columbia Silver Ridge 2.0, Camisa de manga corta para hombre, Nylon, Blanco, S, Art.1838885
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B081B6NLQX/?tag=tolees-21)
