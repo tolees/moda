@@ -29,8 +29,8 @@ En este momento está [goldenpoint Pantalón Mujer Leggings Flare Estampado geom
 🔎:
 
 - Cintura elástica
-- Tejido de viscosa fresco y ligero
 - Maxidobladillo en el bajo del Pantalón con costuras del mismo tono
+- Tejido de viscosa fresco y ligero
 - Pantalón Flare
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08XJS83JB/?tag=tolees-21)
