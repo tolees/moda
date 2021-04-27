@@ -30,7 +30,7 @@ Está [Only & Sons Onsloom Washed Dcc 0447 Noos Vaqueros Slim  Negro  Black Deni
 
 - 5 bolsillos.
 - Pantalones vaqueros de corte ajustado.
-- Composición: 91% algodón, 7% poliéster, 2% elastano.
 - Trabillas para cinturón.
+- Composición: 91% algodón, 7% poliéster, 2% elastano.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07CW4T21T/?tag=tolees-21)
