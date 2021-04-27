@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 60.20 % en GEOX U NEBULA 4 X 4 B ABX BROWNCOTTO Men'
-date: 2021-04-25 07:26:35
+date: 2021-04-27 14:13:25
 image: 'https://m.media-amazon.com/images/I/41ZksMZYZiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B0825RF5FB/?tag=tolees-21'
 descuento: '60.20'
-average: '57.7233333333333'
+average: '57.7214285714285'
 ---
 
 Tienes [GEOX U NEBULA 4 X 4 B ABX BROWNCOTTO Men s Trainers Low-Top Trainers size 42 EU ](https://www.amazon.es/dp/B0825RF5FB/?tag=tolees-21) con un 60.20 % de descuento con precio de oferta de 57.71 EUR (original: 145.0 EUR) en el siguiente enlace!
