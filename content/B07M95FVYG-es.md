@@ -29,7 +29,7 @@ Tienes [Lee Chino Corduroy Pantalón  Azul  Dark Marine 21   36W / 34L para Homb
 ℹ️:
 
 - Con costuras tono sobre tono
-- Pantalones para hombre
 - Tienen botones con el logo de Lee
+- Pantalones para hombre
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07M95FVYG/?tag=tolees-21)

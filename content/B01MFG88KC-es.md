@@ -28,7 +28,7 @@ En este momento está [ONLY onlAVA FAUX LEATHER BIKER OTW NOOS  Chaqueta Mujer  
 
 🔎:
 
-- Chaqueta de piel entallada.
 - Chaqueta de piel sintética con cierre especial.
+- Chaqueta de piel entallada.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01MFG88KC/?tag=tolees-21)

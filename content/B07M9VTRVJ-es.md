@@ -28,7 +28,7 @@ Tienes [Vero Moda VMHOT Nine HW DNM Pencil Skirt GA Noos Falda  Blanco  Bright W
 
 🔎:
 
-- high-waist denim skirt
 - pencilskirt- elastic
+- high-waist denim skirt
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07M9VTRVJ/?tag=tolees-21)
