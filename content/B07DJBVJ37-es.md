@@ -28,8 +28,8 @@ Ahora mismo tienes [Calvin Klein J30J307855 Camisa  099  M para Hombre](https://
 
 🔎:
 
+- Logo de Calvin Klein estampado en el pecho
 - Ajuste slim
 - Modelo casual
-- Logo de Calvin Klein estampado en el pecho
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DJBVJ37/?tag=tolees-21)
