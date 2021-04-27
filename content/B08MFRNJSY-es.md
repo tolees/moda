@@ -28,9 +28,9 @@ En este momento está [Vans Left Chest Logo tee Camiseta  Cascada Blk  M para Ho
 
 🔎:
 
-- Tipo de tamaño especial: estándar
 - Sudadera de forro polar con logotipos serigrafiados
-- Corte entallado
+- Tipo de tamaño especial: estándar
 - Camiseta de 185 g
+- Corte entallado
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08MFRNJSY/?tag=tolees-21)

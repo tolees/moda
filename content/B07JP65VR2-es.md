@@ -28,7 +28,7 @@ Ahora mismo tienes [Jack & Jones Jjitom Jjoriginal Am 815 STS Vaqueros Skinny  A
 
 🔎:
 
-- cotton mixture
 - blue skinny jeans
+- cotton mixture
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07JP65VR2/?tag=tolees-21)
