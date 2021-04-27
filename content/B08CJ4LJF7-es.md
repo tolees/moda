@@ -28,9 +28,9 @@ Ahora mismo tienes [Element Basic - Camiseta de Manga Corta para Hombre Camiseta
 
 🔎:
 
+- Producto que combina tradición e innovación
+- T-shirt
 - Corte: corte normal
 - Tela: tejido de punto de algodón 160 g/m2
-- T-shirt
-- Producto que combina tradición e innovación
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CJ4LJF7/?tag=tolees-21)

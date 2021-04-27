@@ -28,10 +28,10 @@ En este momento está [Helly Hansen HH Tech Crew Camiseta  Hombre  Gris  Gris 93
 
 🔎:
 
-- Una sudadera cómoda para cualquier actividad esta temporada
+- Tejido principal de poliéster técnico, de 140.g/m² con secado rápido y repelente de la humedad
 - Camisetas técnicas ligeras para actividades deportivas; consta de un tejido ligero que expulsa la humedad al exterior y presenta un tacto suave y cómodo al contacto con la piel
 - Contenido de envío: 1x Helly Hansen HH Tech Crew con secado rapido y antihumedad
-- Tejido principal de poliéster técnico, de 140.g/m² con secado rápido y repelente de la humedad
 - Costuras planas para una gran comodidad al contacto con la piel, con corte recto y con media cremallera en el pecho
+- Una sudadera cómoda para cualquier actividad esta temporada
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B073RP5H8R/?tag=tolees-21)

@@ -28,8 +28,8 @@ Ahora mismo tienes [VERO MODA Vmbrilliant Ls Rollneck Dress Noos vestido  Gris  
 
 🔎:
 
+- 42 (Talla del fabricante: X-Large) para Mujer
 - Gris (Light Grey Melange Light Grey Melange)
 - Vmbrilliant Ls Rollneck Dress Noos vestido
-- 42 (Talla del fabricante: X-Large) para Mujer
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DFWH4B2/?tag=tolees-21)

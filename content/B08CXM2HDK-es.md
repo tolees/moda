@@ -28,8 +28,8 @@ Ahora mismo tienes [Lee Extreme Motion Straight Vaqueros  Negro  48W / 32L para 
 
 🔎:
 
-- 5 bolsillos
 - STRAIGHT FIT XM
+- 5 bolsillos
 - Otro elástico plano
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CXM2HDK/?tag=tolees-21)

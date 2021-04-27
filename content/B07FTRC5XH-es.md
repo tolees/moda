@@ -28,8 +28,8 @@ Tienes [Lee Luke Vaqueros  Light Daze ZX  29W / 34L para Hombre](https://www.ama
 
 ℹ️:
 
-- Tienen bordado una etiqueta con la marca Lee
-- Vaqueros para hombre
 - Presentan 5 bolsillos
+- Vaqueros para hombre
+- Tienen bordado una etiqueta con la marca Lee
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07FTRC5XH/?tag=tolees-21)

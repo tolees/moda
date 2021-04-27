@@ -28,8 +28,8 @@ Ahora mismo tienes [Levi s 511 Slim" Vaqueros  Rain Shower  33W / 36L para Hombr
 
 🔎:
 
-- Corte ajustado de la cadera al tobillo
 - Estilo esbelto con confort añadido
+- Corte ajustado de la cadera al tobillo
 - Diseño de cinco bolsillos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00A22QPSW/?tag=tolees-21)

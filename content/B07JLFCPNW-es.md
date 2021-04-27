@@ -28,9 +28,9 @@ Ahora mismo tienes [Lee Austin Vaqueros Tapered  Azul  Rinse 36   28W / 32L para
 
 🔎:
 
-- Material: 99% algodón.
 - Material: 1% elastano.
-- Estilo vaquero: normal.
+- Material: 99% algodón.
 - Rise de los vaqueros: Mid Riese.
+- Estilo vaquero: normal.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07JLFCPNW/?tag=tolees-21)
