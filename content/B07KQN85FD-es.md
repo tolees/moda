@@ -28,8 +28,8 @@ Tienes [adidas Varilite Ho Jkt Chaqueta  Hombre  Legend Ink  S](https://www.amaz
 
 ℹ️:
 
-- High neck
-- Slim fit is snug through the body and arms
 - Long sleeves with elastic cuffs
+- Slim fit is snug through the body and arms
+- High neck
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07KQN85FD/?tag=tolees-21)

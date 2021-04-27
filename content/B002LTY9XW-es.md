@@ -28,7 +28,7 @@ Tienes [Lacoste L1212  Camisa de Polo para Hombre  Azul  Marine   S](https://www
 
 🔎:
 
-- Classic fit
 - Bajo recto con aberturas laterales
+- Classic fit
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B002LTY9XW/?tag=tolees-21)

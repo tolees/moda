@@ -28,9 +28,9 @@ Tienes [Ray-Ban Erika Classic Gafas de Sol  Marrón  Tortoise/Gunmetal/Brown Gra
 
 ℹ️:
 
-- Modelo Erika Classic
-- De la marca Ray-Ban
 - Producto de alta calidad
 - Protective case included
+- Modelo Erika Classic
+- De la marca Ray-Ban
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B005OBQMBQ/?tag=tolees-21)

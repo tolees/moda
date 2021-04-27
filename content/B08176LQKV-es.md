@@ -28,10 +28,10 @@ Está [Columbia Zero Rules  Camiseta de Manga Corta  Hombre  Amarillo  Bright Go
 
 ℹ️:
 
-- La tecnología Omni-wick extrae la humedad del cuerpo
-- Contenido: 1x Columbia Zero Rules Camiseta de manga corta para hombre, Amarillo (Bright Gold), XS, 1533313
-- Ideal para actividades al aire libre, Puede ser usado todo el año
-- Tejido refrigerante Omni-freeze zero activado por el sudor para mantenerte fresco cuando más sudes
 - Camiseta de manga corta para hombres
+- Tejido refrigerante Omni-freeze zero activado por el sudor para mantenerte fresco cuando más sudes
+- Ideal para actividades al aire libre, Puede ser usado todo el año
+- Contenido: 1x Columbia Zero Rules Camiseta de manga corta para hombre, Amarillo (Bright Gold), XS, 1533313
+- La tecnología Omni-wick extrae la humedad del cuerpo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08176LQKV/?tag=tolees-21)
