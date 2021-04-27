@@ -28,7 +28,7 @@ Ahora mismo tienes [Jack & Jones JORTYLERS Sweat Hood STS Capucha  Hawthorn Rose
 
 🔎:
 
-- Cómoda sudadera con capucha con cordón en la capucha, logotipo grande multicolor estampado en la parte delantera
 - Puños de punto en los brazos y la cintura, gran bolsillo frontal de canguro grande, corte estándar
+- Cómoda sudadera con capucha con cordón en la capucha, logotipo grande multicolor estampado en la parte delantera
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08P7NCQ52/?tag=tolees-21)

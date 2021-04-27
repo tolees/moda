@@ -28,7 +28,7 @@ En este momento está [Esprit 010eo1e301 Vestido  Naranja  Terracotta 805   X-Sm
 
 🔎:
 
-- Este vestido tiene un look deportivo y elegante gracias a la tira de botones continua
 - Vestido camisero moderno en tejido de jersey elástico.
+- Este vestido tiene un look deportivo y elegante gracias a la tira de botones continua
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07YKRFG73/?tag=tolees-21)

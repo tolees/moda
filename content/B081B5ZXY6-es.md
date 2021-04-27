@@ -28,10 +28,10 @@ Está [Columbia Silver Ridge 2.0 Camisa de Manga Corta  Hombre  Fossil  S](https
 
 ℹ️:
 
+- Sensación de frescura gracias a la ventilación incorporada y la gestión del sudor Omni-Wick
+- Contenido: 1x Columbia Silver Ridge 2.0, Camisa de manga corta para hombre, Nylon, Beige (Fossil), S, Art.1838885
 - Una camisa limpia y clásica para ir a cualquier parte, para las responsabilidades diarias y las aventuras, Ideal para las excursiones al aire libre
 - Manga corta, Cuello prominente para más protección, 100% nylon, Lavable a máquina y compatible con la secadora
-- Contenido: 1x Columbia Silver Ridge 2.0, Camisa de manga corta para hombre, Nylon, Beige (Fossil), S, Art.1838885
 - Abotonado frontal completo para una variedad de estilos y coberturas, Dos bolsillos en el pecho para guardar los objetos de valor
-- Sensación de frescura gracias a la ventilación incorporada y la gestión del sudor Omni-Wick
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B081B5ZXY6/?tag=tolees-21)

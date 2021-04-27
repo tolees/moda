@@ -28,8 +28,8 @@ Ahora mismo tienes [Levi s 512 Slim Taper Vaqueros  Smoke On The Pond Adv  27W /
 
 🔎:
 
-- Apertura de pierna pitillo
 - Corte ajustado en los muslos
 - Diseño de cinco bolsillos
+- Apertura de pierna pitillo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07ZVS7JXL/?tag=tolees-21)

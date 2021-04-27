@@ -1,32 +1,36 @@
 ---
 layout: post
-title: 'Descuento del 32.88 % en Ray-Ban Erika Classic Gafas de sol  Marr'
-date: 2020-10-01 03:24:57
-image: 'https://m.media-amazon.com/images/I/31iJy3aXaCL._SL400_.jpg'
+title: 'Descuento del 33.33 % en Ray-Ban Erika Classic Gafas de Sol  Marr'
+date: 2021-04-27 18:18:16
+image: 'https://m.media-amazon.com/images/I/31iJy3aXaCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B005OBQMBQ-es Ray-Ban Erika Classic Gafas de sol Marrón...'
+slug: 'B005OBQMBQ-es Ray-Ban Erika Classic Gafas de Sol Marrón...'
 sku: 'B005OBQMBQ-es'
-tags: [ 'gafas', ]
-actualPrice: 88.6 EUR
+tags: [ 'Accesorios para hombre','Accesorios para mujer','Gafas de sol para hombre','Gafas de sol para mujer','Gafas y accesorios para hombre','Gafas y accesorios para mujer','Ropa','Ropa para hombre','Ropa para mujer','gafas','ray-ban', ]
+actualPrice: 88.0 EUR
 currency: EUR
-price: 88.6
+price: 88.0
 comparePrice: 132.0 EUR
-prodname: 'Ray-Ban Erika Classic Gafas de sol  Marrón  Tortoise/Gunmetal/Brown Gradient   54 Unisex-Adulto'
+prodname: 'Ray-Ban Erika Classic Gafas de Sol  Marrón  Tortoise/Gunmetal/Brown Gradient   54 Unisex-Adulto'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Ray-Ban'
 buyurl: 'https://www.amazon.es/dp/B005OBQMBQ/?tag=tolees-21'
-descuento: '32.88'
-average: '89.976'
+descuento: '33.33'
+average: '89.8819047619048'
 ---
 
-Tienes [Ray-Ban Erika Classic Gafas de sol  Marrón  Tortoise/Gunmetal/Brown Gradient   54 Unisex-Adulto](https://www.amazon.es/dp/B005OBQMBQ/?tag=tolees-21) con un 32.88 % de descuento con precio de oferta de 88.6 EUR (original: 132.0 EUR) en el siguiente enlace!
+Tienes [Ray-Ban Erika Classic Gafas de Sol  Marrón  Tortoise/Gunmetal/Brown Gradient   54 Unisex-Adulto](https://www.amazon.es/dp/B005OBQMBQ/?tag=tolees-21) con un 33.33 % de descuento con precio de oferta de 88.0 EUR (original: 132.0 EUR) en el siguiente enlace!
 
-[![Ray-Ban Erika Classic Gafas de sol  Marr](https://m.media-amazon.com/images/I/31iJy3aXaCL._SL400_.jpg)](https://www.amazon.es/dp/B005OBQMBQ/?tag=tolees-21)
+[![Ray-Ban Erika Classic Gafas de Sol  Marr](https://m.media-amazon.com/images/I/31iJy3aXaCL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B005OBQMBQ/?tag=tolees-21)
 
 ℹ️:
 
+- De la marca Ray-Ban
+- Modelo Erika Classic
+- Protective case included
+- Producto de alta calidad
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B005OBQMBQ/?tag=tolees-21)
