@@ -28,10 +28,10 @@ Ahora mismo tienes [Napapijri Gervas SS 2 Camisa  Blanco  Bright White 0021   Sm
 
 🔎:
 
-- Logotipo bordado en el pecho en el lado del corazón
-- Camisa de manga corta fresca y ligera
-- 100 x 100 lino
 - Corte normal
+- 100 x 100 lino
+- Camisa de manga corta fresca y ligera
 - Gervas SS2 Napapijri N0YIF1 - Camisa para hombre
+- Logotipo bordado en el pecho en el lado del corazón
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07RX1TXH2/?tag=tolees-21)

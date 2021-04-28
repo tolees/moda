@@ -28,10 +28,10 @@ En este momento está [Quiksilver - Slab Camiseta con Bolsillo para Adulto](http
 
 🔎:
 
-- Corte: corte normal, clásico, cómodo
-- Tejido: punto jersey de algodón ligero
-- Panel estampado en la parte frontal
-- lavado:lavado suavizante en prenda
 - Cuello: cuello redondo
+- Tejido: punto jersey de algodón ligero
+- lavado:lavado suavizante en prenda
+- Panel estampado en la parte frontal
+- Corte: corte normal, clásico, cómodo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0825NT8CG/?tag=tolees-21)

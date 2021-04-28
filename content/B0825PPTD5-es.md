@@ -28,10 +28,10 @@ Tienes [Roxy Epic Afternoon - Camiseta para Mujer Camiseta  Mujer  Heritage Heat
 
 ℹ️:
 
-- Bajo en curva y mangas enrollables
-- Punto jersey de algodón ligero
 - Corte normal, clásico, cómodo
+- Punto jersey de algodón ligero
 - Punto canalé en el cuello
+- Bajo en curva y mangas enrollables
 - Cuello con escote redondo abierto
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0825PPTD5/?tag=tolees-21)

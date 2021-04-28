@@ -28,7 +28,7 @@ Ahora mismo tienes [Lee Western Shirt Camisa  Frost Blue  Large para Hombre](htt
 
 🔎:
 
-- Corte ajustado.
 - La camisa de manga larga LEE con bolsillo en el pecho y tira de botones impresiona por su ajuste óptimo.
+- Corte ajustado.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TTTNTPK/?tag=tolees-21)
