@@ -28,10 +28,10 @@ Tienes [Crocs Crocband Unisex  Zuecos Mujer  Pearl Pink/Wild Orchid  39/40 EU](h
 
 🔎:
 
-- Cierre: Sin cordones
-- Material de la suela: Goma
 - Altura del tacón: 1.5 pulgadas
 - Material exterior: Espuma
+- Cierre: Sin cordones
 - Revestimiento: Sintético
+- Material de la suela: Goma
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00RD99ITU/?tag=tolees-21)
