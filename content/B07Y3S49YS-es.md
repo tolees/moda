@@ -28,7 +28,7 @@ Tienes [Only 15174274 Chaqueta Punto  Negro  Black Black   38  Talla del Fabrica
 
 🔎:
 
-- knit jacket
 - cardigan
+- knit jacket
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07Y3S49YS/?tag=tolees-21)
