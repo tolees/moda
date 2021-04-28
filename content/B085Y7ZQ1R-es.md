@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FM London Fitted Boxer  Neón  Medium  Pa al 23.53 % de descuento'
-date: 2021-04-26 10:05:26
+date: 2021-04-28 16:08:17
 image: 'https://m.media-amazon.com/images/I/41+aTQrrC-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
