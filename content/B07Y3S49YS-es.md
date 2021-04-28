@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Only 15174274 Chaqueta Punto  Negro  Bla al 50.02 % de rebaja'
-date: 2021-04-27 21:16:40
+date: 2021-04-28 21:29:55
 image: 'https://m.media-amazon.com/images/I/41lUlU4kUlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ Tienes [Only 15174274 Chaqueta Punto  Negro  Black Black   38  Talla del Fabrica
 
 🔎:
 
-- cardigan
 - knit jacket
+- cardigan
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07Y3S49YS/?tag=tolees-21)
