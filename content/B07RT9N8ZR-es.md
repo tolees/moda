@@ -28,9 +28,9 @@ En este momento está [Sykooria Encaje Lencería Conjunto Mujer Ropa de Dormir C
 
 🔎:
 
-- 【Care】Please read carefully each element of the size guide before you choose size.If you have any questions, please contact us immediately, thank you
-- 【Diferentes colores】: Negro y rojo clásico, con 1 aguamarina de fluorescencia excepcional y un nuevo color rosado y azul, brindan más opciones para su encanto.
 - 【Diseño atractivo】: El camisón Babydoll tiene un diseño atractivo, frente abierto con taza de encaje de lencería, vestido mini de encaje, top con cuello halter y un encanto fascinante.
+- 【Diferentes colores】: Negro y rojo clásico, con 1 aguamarina de fluorescencia excepcional y un nuevo color rosado y azul, brindan más opciones para su encanto.
+- 【Care】Please read carefully each element of the size guide before you choose size.If you have any questions, please contact us immediately, thank you
 - 【Suave y liviana】 65% algodón, 35% poliéster. El conjunto de lencería de encaje está hecho de material suave y sin aliento, proporciona una tacto agradable para su delicado cuerpo.
 - 【Ropa de dormir de encaje con cuello redondo】 Camisón transparente de frente abierto + sexy tanga, muestra tu figura encantadora.
 
