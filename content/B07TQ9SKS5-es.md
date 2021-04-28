@@ -28,7 +28,7 @@ Tienes [Lacoste 5H3411 Bóxer  Noir/Bitume Chine-Argent  XS  Pack de 3  para Hom
 
 ℹ️:
 
-- Cintura elástica con marca Lacoste
 - Corte que confiere comodidad en todo momento
+- Cintura elástica con marca Lacoste
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07TQ9SKS5/?tag=tolees-21)
