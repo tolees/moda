@@ -28,10 +28,10 @@ Está [HAWKERS Gafas de Sol F18 Yellow  para Hombre y Mujer  de diseño sportswe
 
 ℹ️:
 
+- Medidas: Frente: 14,4cm, Altura: 3,9cm, Diámetro de la lente: 6cm, Puente: 1,5cm; Varillas: 13,3cm
+- Montura fabricada en TR90 que dota a las gafas de gran ligereza, flexibilidad y resistencia. Muy resistente a altas y bajas temperaturas.
 - Gafas de Sol F18, unisex, de diseño sportswear curvado envolvente de marcos rectangulares. Combina una montura bicolor vertical que va de negro mate a amarillo translúcido de dentro hacia fuera en el frente y del final de la patilla hacia el principio de la misma con lentes espejadas oscuras.
 - Producto original Hawkers. La caja incluye funda de microfibra, caja y set de pegatinas decorativas.
 - Lentes oscuras con efecto espejo, fabricadas en TR18, con reducción de brillos y con gran equilibrio entre claridad y protección. Lente de categoría 3 con protección UV400. Resistencia muy alta.
-- Montura fabricada en TR90 que dota a las gafas de gran ligereza, flexibilidad y resistencia. Muy resistente a altas y bajas temperaturas.
-- Medidas: Frente: 14,4cm, Altura: 3,9cm, Diámetro de la lente: 6cm, Puente: 1,5cm; Varillas: 13,3cm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B085FDC2Q6/?tag=tolees-21)
