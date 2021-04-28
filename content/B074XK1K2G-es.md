@@ -28,9 +28,9 @@ Ahora mismo tienes [Only & Sons Onsloom Jog PK 8472 Noos Vaqueros Slim  Azul  Bl
 
 🔎:
 
-- 2 bolsillos delanteros y un bolsillo para monedas.
-- Cierre delantero.
 - Composición: 98% algodón, 2% elastano.
+- Cierre delantero.
+- 2 bolsillos delanteros y un bolsillo para monedas.
 - Pantalones vaqueros de corte ajustado.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B074XK1K2G/?tag=tolees-21)
