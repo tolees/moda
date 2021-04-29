@@ -30,7 +30,7 @@ Está [Only & Sons Onsloom Jog PK 8472 Noos Vaqueros Slim  Azul  Blue Denim   W2
 
 - Composición: 98% algodón, 2% elastano.
 - 2 bolsillos delanteros y un bolsillo para monedas.
-- Pantalones vaqueros de corte ajustado.
 - Cierre delantero.
+- Pantalones vaqueros de corte ajustado.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B074X7F1PD/?tag=tolees-21)
