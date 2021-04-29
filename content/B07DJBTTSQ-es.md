@@ -28,8 +28,8 @@ Ahora mismo tienes [Calvin Klein J30J307855 Camisa  112  M para Hombre](https://
 
 🔎:
 
+- Ajuste slim
 - Logo de Calvin Klein estampado en el pecho
 - Modelo casual
-- Ajuste slim
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DJBTTSQ/?tag=tolees-21)
