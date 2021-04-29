@@ -28,10 +28,10 @@ Tienes [YUENA CARE Ajustable Delantal de Trabajo Mandil de 100% Algodón Unisex 
 
 🔎:
 
-- [PAQUETE INCLUYE] El paquete solo incluye delantal * 1pc. Este mandil adecuado para cocina, restaurantes, librerías, cafeterías, peluquerías, galerías, etc.
 - [SUGERENCIA DE LAVADO] Se recomienda lavar a mano para prolongar la vida útil del producto. Se pueden quitar los tirantes y las partes de cuero para lavar el delantal de tela.
-- [DELANTAL UNIVERSAL] Diseño neutral, adecuado tanto para hombres como para mujeres. Este delantal es adecuado para su uso como delantal de camarero,delantal cocina, delantal cocinero, delantal Mandil bartender.
 - [DE MODA HERMOSO] Moda y estilo práctico, Diseño cruzado de la espalda, es muy cómodos para sus hombros, la longitud se puede ajustar, sin problemas de deslizamiento. diseño de bolsillos de gande capacidad, perfecta para guardar cosas pequeñas, y algunos objetos personales.
+- [PAQUETE INCLUYE] El paquete solo incluye delantal * 1pc. Este mandil adecuado para cocina, restaurantes, librerías, cafeterías, peluquerías, galerías, etc.
+- [DELANTAL UNIVERSAL] Diseño neutral, adecuado tanto para hombres como para mujeres. Este delantal es adecuado para su uso como delantal de camarero,delantal cocina, delantal cocinero, delantal Mandil bartender.
 - [LONA DE ALTA CALIDAD] Material de lona de alta calidad, de buena hechura, es de moda, sin mangas, es durable y resistente al desgaste para usarlo en trabajo, con exquisitas hebillas de latón, cinturones premium, costuras resistentes y detalles son perfectos..
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07H4FYCS4/?tag=tolees-21)

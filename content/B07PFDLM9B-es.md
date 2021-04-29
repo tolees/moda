@@ -28,10 +28,10 @@ Tienes [Farmacell Man 417B  Blanco  S  Camiseta Hombre Modeladora con Hilado Bre
 
 🔎:
 
-- Tejido NILIT BREEZE refrescante, ligero y transpirante - 100 % Made in Italy
 - Reduce y aplana el abdomen y las caderas, ofreciendo un sostén a la zona lumbar
+- Tejido NILIT BREEZE refrescante, ligero y transpirante - 100 % Made in Italy
 - Modela abdomen y caderas gracias a la faja elástica de compresión incorporada, sin costuras
-- Para ELEGIR LA TALLA CORRECTA, consultar la TABLA TALLAS publicada en las imágenes haciendo referencia a los puntos A y C (contorno del pecho/cintura)
 - Redefine las líneas del cuerpo brindando una forma esbelta y espigada - efecto inmediato
+- Para ELEGIR LA TALLA CORRECTA, consultar la TABLA TALLAS publicada en las imágenes haciendo referencia a los puntos A y C (contorno del pecho/cintura)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07PFDLM9B/?tag=tolees-21)
