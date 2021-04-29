@@ -28,10 +28,10 @@ Está [Green Turtle Camiseta para Mujer - Regalo Madre Original - Mi Mamá es mi
 
 ℹ️:
 
+- 100% Algodón semi-peinado (Excepto la camiseta de color gris que esta hecha de 85% algodón y 15% rayon)
+- Tejido de excelente calidad! Super rápido envío!
+- Por favor refiérase a nuestra tabla de tallas antes de ordenar la prenda.
 - Regalo super especial y divertido para mamá en el Dia de la Madre. Si tu mamá es tu super héroe le tines que dar este regalo!
 - Este puede ser tambien regalo mujer original. Regalo mujer Navidad o regalo de Navidada para mama.
-- Por favor refiérase a nuestra tabla de tallas antes de ordenar la prenda.
-- Tejido de excelente calidad! Super rápido envío!
-- 100% Algodón semi-peinado (Excepto la camiseta de color gris que esta hecha de 85% algodón y 15% rayon)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07NR93RJ1/?tag=tolees-21)
