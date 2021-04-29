@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HAWKERS Core Gafas  Turquesa  One Size U al 30.17 % de descuento'
-date: 2021-04-26 17:08:18
+date: 2021-04-29 18:37:59
 image: 'https://m.media-amazon.com/images/I/316K0KWKIVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [HAWKERS Core Gafas  Turquesa  One Size Unisex Adulto](https://www.amazon.
 
 ℹ️:
 
-- Modelo Core
-- Lentes categoría 3 y protección uv400
-- Modelo para hombre y mujer: Unisex
 - Lente de policarbonato de alta resistencia a los golpes que proporciona comodidad por su flexibilidad y ligereza
+- Lentes categoría 3 y protección uv400
 - Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores
+- Modelo para hombre y mujer: Unisex
+- Modelo Core
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B085FDC2P6/?tag=tolees-21)
