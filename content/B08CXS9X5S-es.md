@@ -28,8 +28,8 @@ Tienes [Lee Extreme Motion Straight Vaqueros  Azul Marino  48W / 32L para Hombre
 
 ℹ️:
 
-- 5 bolsillos.
 - Straight Fit XM.
+- 5 bolsillos.
 - Alargador OTHER FLATS STRETCH
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08CXS9X5S/?tag=tolees-21)

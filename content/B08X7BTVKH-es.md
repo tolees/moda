@@ -28,10 +28,10 @@ Ahora mismo tienes [Barbie Conjunto de Fitness Mattel GRB99 | Moda de Muñeca](h
 
 🔎:
 
+- Tema de la licencia para niños: Barbie
 - El juego incluye: 1 juego de vestuario (1 camiseta, 1 pantalón corto deportivo, 1 par de zapatillas para correr, 1 gorra protectora)
-- Licencias originales de Mattel
 - Ropa, moda, ropa, juego para la muñeca Barbie
 - Apto para niños a partir de 3 años!
-- Tema de la licencia para niños: Barbie
+- Licencias originales de Mattel
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08X7BTVKH/?tag=tolees-21)
