@@ -28,9 +28,9 @@ Está [DC Shoes Circle Star - Camiseta sin Mangas - Hombre - S](https://www.amaz
 
 ℹ️:
 
-- __Tejido:__ tejido en punto jersey de algodón
-- __Cuello:__ cuello redondo
 - Estampado gráfico en la parte frontal
+- __Cuello:__ cuello redondo
+- __Tejido:__ tejido en punto jersey de algodón
 - __Corte:__ corte normal, cómodo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B082BV1BXZ/?tag=tolees-21)
