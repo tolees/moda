@@ -28,9 +28,9 @@ Está [Hurley M Fastlane S/S Camiseta  Hombre  Vintage Green/Light Bone  S](http
 
 ℹ️:
 
-- 100% algodón
 - Etiqueta icon clip
 - Estampado de tacto suave
+- 100% algodón
 - Tejido 125 gr
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08DS6ZY6J/?tag=tolees-21)
