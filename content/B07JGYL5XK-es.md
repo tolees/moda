@@ -28,7 +28,7 @@ Tienes [Vila Clothes Vilucy S/l Top-Noos Camiseta sin Mangas  Multicolor  Snow W
 
 ℹ️:
 
-- sleevless shirt with button closure
 - longer at back than at front
+- sleevless shirt with button closure
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07JGYL5XK/?tag=tolees-21)
