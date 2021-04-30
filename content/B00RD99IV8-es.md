@@ -30,8 +30,8 @@ En este momento está [Crocs Crocband U  Zuecos Unisex Adulto  Rosa  Pearl Pink-
 
 - Cierre: Sin cordones
 - Material de la suela: Goma
-- Altura del tacón: 1.5 pulgadas
 - Revestimiento: Sintético
+- Altura del tacón: 1.5 pulgadas
 - Material exterior: Espuma
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00RD99IV8/?tag=tolees-21)
