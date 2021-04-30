@@ -28,10 +28,10 @@ Ahora mismo tienes [Jebester - Diadema Naruto  diadema de pueblo de hojas y guan
 
 🔎:
 
-- El paquete incluye: un par de guantes Naruto Kakashi Ninja
 - Tamaño: 18 x 11 cm
-- Embalaje: un par de guantes
 - Garantía de posventa: solo vendemos productos de alta calidad. Cualquier pregunta que tengas, por favor no dude en ponerse en contacto con nosotros. Te devolveremos en 24 horas.
+- El paquete incluye: un par de guantes Naruto Kakashi Ninja
 - Guantes populares de anime, suaves y cálidos
+- Embalaje: un par de guantes
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TDXKJPP/?tag=tolees-21)
