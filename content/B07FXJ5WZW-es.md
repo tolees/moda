@@ -28,10 +28,10 @@ Tienes [Green Turtle T-Shirts Camiseta para Hombre- Regalos Originales para Padr
 
 ℹ️:
 
-- 100% algodón semi-peinado (Excepto la camiseta de color gris que esta hecha de 97% algodón y 3% poliéster)
-- Regalos para papas primerizos, futuro papa. Regalo dia del padre originales para papa novato.
 - Regalo divertido para padre primerizo, papa primerizo. Regalo de Navidad para papa, regalo padre Navidad.
-- Por favor refiérase a nuestra tabla de tallas antes de ordenar la prenda.
 - Walking Dad Camiseta puede ser el regalo perfecto para anunciar un embarazo, como Vas a Ser Papa regalo.
+- Por favor refiérase a nuestra tabla de tallas antes de ordenar la prenda.
+- Regalos para papas primerizos, futuro papa. Regalo dia del padre originales para papa novato.
+- 100% algodón semi-peinado (Excepto la camiseta de color gris que esta hecha de 97% algodón y 3% poliéster)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07FXJ5WZW/?tag=tolees-21)

@@ -28,10 +28,10 @@ En este momento está [LOVORDS Collar Mujer Grabado Plata de Ley 925 Colgante Ma
 
 🔎:
 
-- TEXTO GRABADO: MAMÁ "Te amo para siempre."
-- METAL: Plata de ley 925, Hipoalergénico, Sin plomo y Sin níquel
 - INSPIRACIÓN: Expertamente realizado, este collar es una reinterpretación romántico de un símbolo de infinito, símbolo de amor eterno a mamá. Ideal para el día a día, o para el cumpleaños, el Día de la Madre, la Navidad o para cualquier otra ocasión
-- COLGANTE: 2.5x1.2 cm, CADENA: 40+5 cm, PIEDRA: Circonitas Cúbicas
 - LISTA DE EMBALAJE: 1 Colgante, 1 Eslabones cadena, 1 Cajita de joya, 1 Paño de limpieza de plata, 1 Certificado de Autenticidad, 1 Tarjeta de Servicio
+- COLGANTE: 2.5x1.2 cm, CADENA: 40+5 cm, PIEDRA: Circonitas Cúbicas
+- METAL: Plata de ley 925, Hipoalergénico, Sin plomo y Sin níquel
+- TEXTO GRABADO: MAMÁ "Te amo para siempre."
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07GYNPKT3/?tag=tolees-21)
