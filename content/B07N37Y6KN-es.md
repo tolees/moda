@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vero Moda VMMIA HR Loose Summer Shorts G al 63.32 % de descuento'
-date: 2021-04-25 17:55:33
+date: 2021-04-30 09:36:17
 image: 'https://m.media-amazon.com/images/I/41STrxsHGUS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ Está [Vero Moda VMMIA HR Loose Summer Shorts GA Pantalones  Azul  Light Blue De
 
 ℹ️:
 
-- Summer shorts in loose fit
 - Ladies shorts made of soft flowing quality
+- Summer shorts in loose fit
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07N37Y6KN/?tag=tolees-21)
