@@ -28,10 +28,10 @@ Ahora mismo tienes [Crocs Crocband  Zuecos Unisex Adulto  Rosa  Pink Lemonade/Wh
 
 🔎:
 
-- Revestimiento: Sintético
 - Material exterior: Espuma
-- Material de la suela: Goma
-- Altura del tacón: 1.5 pulgadas
 - Cierre: Sin cordones
+- Revestimiento: Sintético
+- Altura del tacón: 1.5 pulgadas
+- Material de la suela: Goma
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07K92CVQX/?tag=tolees-21)
