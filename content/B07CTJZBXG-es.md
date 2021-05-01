@@ -28,8 +28,8 @@ Ahora mismo tienes [Tommy Hilfiger Core Stretch Slim Vneck tee Camiseta  Negro  
 
 🔎:
 
-- A estrenar y genuino. Somos un vendedor autorizado de Tommy Hilfiger.
 - Ver la descripción del producto para obtener más información.
+- A estrenar y genuino. Somos un vendedor autorizado de Tommy Hilfiger.
 - Tommy Hilfiger Negro Core estiramiento del V-cuello de la camiseta
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07CTJZBXG/?tag=tolees-21)
