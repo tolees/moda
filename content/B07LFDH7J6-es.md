@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s 2Pk Crewneck Graphic Camiseta  2  al 30.14 % de descuento'
-date: 2021-04-15 21:18:09
+date: 2021-05-01 18:44:19
 image: 'https://m.media-amazon.com/images/I/31xNkWhiwIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07LFDH7J6/?tag=tolees-21'
 descuento: '30.14'
-average: '22.986'
+average: '23.1190909090909'
 ---
 
 Está [Levi s 2Pk Crewneck Graphic Camiseta  2 Pack Sw White/Mineral Black  M para Hombre](https://www.amazon.es/dp/B07LFDH7J6/?tag=tolees-21) con 30.14 de descuento por 24.45 EUR (original: 35.0 EUR) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [Levi s 2Pk Crewneck Graphic Camiseta  2 Pack Sw White/Mineral Black  M pa
 
 ℹ️:
 
+- Elaboradas en punto suave
 - Modelos casual
 - Con un logo Levis en el bajo
-- Elaboradas en punto suave
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07LFDH7J6/?tag=tolees-21)
