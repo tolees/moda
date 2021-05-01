@@ -29,7 +29,7 @@ Ahora mismo tienes [Geox U Nebula B  Zapatillas Hombre  Negro  Black C9999   39 
 🔎:
 
 - Material exterior: Cuero
-- Material de la suela: Sintético
 - Revestimiento: Sintético
+- Material de la suela: Sintético
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00KWK2GOG/?tag=tolees-21)
