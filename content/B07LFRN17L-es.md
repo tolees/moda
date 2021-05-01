@@ -28,9 +28,9 @@ Ahora mismo tienes [Geox J Android Boy B  Zapatillas Niños  Azul  Navy/Royal C4
 
 🔎:
 
-- País de fabricación: Myanmar.
-- Correa de velcro, entrenadores bajos
 - 1
+- Correa de velcro, entrenadores bajos
 - Ancho del zapato: mediano
+- País de fabricación: Myanmar.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07LFRN17L/?tag=tolees-21)
