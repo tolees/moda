@@ -28,7 +28,7 @@ Ahora mismo tienes [ONLY Carmakoma NOS Caremmy Faux Leather Biker Noos Chaqueta 
 
 🔎:
 
-- Faux leather jacket
 - Leather jacket with biker style
+- Faux leather jacket
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07RFRHKZX/?tag=tolees-21)
