@@ -28,8 +28,8 @@ Ahora mismo tienes [NIKE Sudadera de Entrenamiento para Mujer](https://www.amazo
 
 🔎:
 
+- Cremallera de 1/4 de longitud que te permite ajustar tu ventilación cuando las cosas se calientan.
 - La tecnología Dri-FIT mueve el sudor de tu piel para una evaporación más rápida, lo que te ayuda a mantenerte seco y cómodo.
 - La tela ligera se estira contigo, mientras que los agujeros para los pulgares ayudan a mantener tus mangas en su lugar.
-- Cremallera de 1/4 de longitud que te permite ajustar tu ventilación cuando las cosas se calientan.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08QYJPV2D/?tag=tolees-21)
