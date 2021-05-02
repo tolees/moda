@@ -29,7 +29,7 @@ En este momento está [Adidas Adilette Aqua Zapatos de playa y piscina Unisex ad
 🔎:
 
 - La mejor calidad
-- Gran comodidad
 - Tejido ligero
+- Gran comodidad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07K2MLC3L/?tag=tolees-21)
