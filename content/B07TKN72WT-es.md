@@ -28,7 +28,7 @@ Ahora mismo tienes [Clarks Hero  Zapatos de Cordones Brogue Mujer  Gris  Stone S
 
 🔎:
 
-- Único material: Caucho
 - Color exacto: Piedra
+- Único material: Caucho
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TKN72WT/?tag=tolees-21)
