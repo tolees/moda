@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'adidas CORE18 Hoody Sudadera con Capucha al 35.73 % de descuento'
-date: 2021-04-10 12:01:10
-image: 'https://m.media-amazon.com/images/I/31hURDLdC3L._SL400_.jpg'
+date: 2021-05-02 14:42:49
+image: 'https://m.media-amazon.com/images/I/31OcIAjyHkS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,18 +19,18 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076HPWK6H/?tag=tolees-21'
 descuento: '35.73'
-average: '28.7674626865671'
+average: '28.7223529411764'
 ---
 
 Está [adidas CORE18 Hoody Sudadera con Capucha  Hombre  Negro  Negro/Blanco   L](https://www.amazon.es/dp/B076HPWK6H/?tag=tolees-21) con 35.73 de descuento por 25.7 EUR (original: 39.99 EUR) en el siguiente enlace!
 
-[![adidas CORE18 Hoody Sudadera con Capucha](https://m.media-amazon.com/images/I/31hURDLdC3L._SL400_.jpg)](https://www.amazon.es/dp/B076HPWK6H/?tag=tolees-21)
+[![adidas CORE18 Hoody Sudadera con Capucha](https://m.media-amazon.com/images/I/31OcIAjyHkS._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B076HPWK6H/?tag=tolees-21)
 
 ℹ️:
 
-- Es adecuada para el futbol
 - Sudadera adecuada para hombres
-- Tiene una capucha ajustable con cordón
 - Cuenta con un bolsillo de tipo canguro
+- Tiene una capucha ajustable con cordón
+- Es adecuada para el futbol
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B076HPWK6H/?tag=tolees-21)
