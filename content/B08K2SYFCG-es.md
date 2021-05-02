@@ -29,8 +29,8 @@ Ahora mismo tienes [Zoomarlous Pedales de clic para bicicleta  con ganchos para 
 🔎:
 
 - Estos tacos se ajustan a las cerraduras de montaña de la marca Taiwan Weige como M094 823 WM001 M19 W01 C099 M17C y otros modelos de cerraduras de montaña pueden ser perfectamente compatibles.
-- Tamaño: 3,5 cm x 3,3 cm. El paquete incluye 4 tornillos, 2 placas de metal, 2 tuercas de tacos de 2 agujeros
 - Pedales de bloqueo para bicicleta de montaña para un uso fácil, liberación desechable. Libera tus tacos girando los talones.
+- Tamaño: 3,5 cm x 3,3 cm. El paquete incluye 4 tornillos, 2 placas de metal, 2 tuercas de tacos de 2 agujeros
 - Bike Cleats ofrece una transmisión de fuerza de primera clase para su máxima eficiencia en el ciclismo
 - Este candado para pedal de bicicleta se adapta a la mayoría de zapatos de bicicleta. Compatible con Shimano SPD SH51.
 
