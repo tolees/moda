@@ -28,7 +28,7 @@ Tienes [Only Onlvenedig Paperbag Long Skirt Wvn Noos Falda  Negro  Black Black  
 
 🔎:
 
-- maxi skirt
 - soft viscose
+- maxi skirt
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07PH2R39P/?tag=tolees-21)
