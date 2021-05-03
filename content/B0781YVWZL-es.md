@@ -28,7 +28,7 @@ Está [Only & Sons Onsalvaro LS Oxford Shirt Noos Camisa  Azul  Cashmere Blue Ca
 
 ℹ️:
 
-- Camisa clásica
 - Camisa de algodón 100%
+- Camisa clásica
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0781YVWZL/?tag=tolees-21)

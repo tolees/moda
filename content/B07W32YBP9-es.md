@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Wrangler Icons Chaqueta de mezclilla  Az al 35.98 % de rebaja'
-date: 2021-05-02 13:55:55
+date: 2021-05-03 19:48:06
 image: 'https://m.media-amazon.com/images/I/41kULv3lyHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Wrangler'
 buyurl: 'https://www.amazon.es/dp/B07W32YBP9/?tag=tolees-21'
 descuento: '35.98'
-average: '58.2473333333333'
+average: '58.60625'
 ---
 
 Tienes [Wrangler Icons Chaqueta de mezclilla  Azul  6 MONTHS 923   Medium para Hombre](https://www.amazon.es/dp/B07W32YBP9/?tag=tolees-21) con precio final de  63.99 EUR (original: 99.95 EUR) (35.98 %  de rebaja) aqui!
