@@ -28,13 +28,13 @@ Tienes [Geox D BIBBIANA A  Zapatos de Tacón Mujer  Negro  Black C9997   36 EU](
 
 ℹ️:
 
-- Material exterior: Cuero
+- Tipo de talla: Los zapatos Geox son holgados
+- Altura del tacón: 6.5 centímetros
 - Cierre: Sin cierre
 - Tipo de tacón: Mini
 - Anchura del zapato: Normal
 - Material de la suela: Sintético
-- Altura del tacón: 6.5 centímetros
+- Material exterior: Cuero
 - Revestimiento: Cuero
-- Tipo de talla: Los zapatos Geox son holgados
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07LFV95BB/?tag=tolees-21)

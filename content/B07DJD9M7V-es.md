@@ -28,10 +28,10 @@ Ahora mismo tienes [Geox D Vega Moc B  Mocasines Mujer  Azul  Blue/Skin C4ea5   
 
 🔎:
 
+- Suela de goma.
 - Detalle de lacito en empeine.
 - Suela amortiguadora.
-- Planta transpirable e impermeable que asegura una regulación de la temperatura.
 - Exterior y forro de cuero.
-- Suela de goma.
+- Planta transpirable e impermeable que asegura una regulación de la temperatura.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DJD9M7V/?tag=tolees-21)
