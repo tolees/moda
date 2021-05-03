@@ -28,7 +28,7 @@ En este momento está [Esprit 010ee2n301 Camiseta  Blanco  White 100   Medium pa
 
 🔎:
 
-- Práctico paquete múltiple que contiene 2 camisetas básicas
 - Algodón suave y de alta calidad
+- Práctico paquete múltiple que contiene 2 camisetas básicas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07YKQK48M/?tag=tolees-21)
