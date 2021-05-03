@@ -28,7 +28,7 @@ Está [Lacoste L1212  Camisa de Polo para Hombre  Bailloux  5XL](https://www.ama
 
 ℹ️:
 
-- Bajo recto con aberturas laterales
 - Classic fit
+- Bajo recto con aberturas laterales
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08B3RG1VB/?tag=tolees-21)
