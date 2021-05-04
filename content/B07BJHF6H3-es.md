@@ -28,7 +28,7 @@ En este momento está [G-STAR RAW Revend Skinny Vaqueros  Rinsed 8970-082  38W /
 
 🔎:
 
-- Tipo de corte: Slim
 - Arco 3d Slim
+- Tipo de corte: Slim
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07BJHF6H3/?tag=tolees-21)
