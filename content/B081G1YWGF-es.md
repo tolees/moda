@@ -28,8 +28,8 @@ Está [Lee Malone Vaqueros  Raven Black  32W / 32L para Hombre](https://www.amaz
 
 ℹ️:
 
-- Tienen un parche de piel en la parte trasera con la marca Lee
 - Presentan 5 bolsillos
 - Vaqueros para hombre
+- Tienen un parche de piel en la parte trasera con la marca Lee
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B081G1YWGF/?tag=tolees-21)
