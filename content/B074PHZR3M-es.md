@@ -28,7 +28,7 @@ En este momento está [Timberland Allington 6 Inch  Botas Chukka Mujer  Amarillo
 
 🔎:
 
-- Material de la suela: Goma; Material exterior: Nobuck; Revestimiento: Tela
 - Cierre: Cordones
+- Material de la suela: Goma; Material exterior: Nobuck; Revestimiento: Tela
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B074PHZR3M/?tag=tolees-21)
