@@ -28,10 +28,10 @@ Ahora mismo tienes [Urban Classics Ladies Off Shoulder Rib tee Camiseta  Negro  
 
 🔎:
 
-- Un clic en el logotipo de la marca lleva al Urban Classics Brand Store y aún más ropa de moda.
 - Camiseta de manga corta monocromática perfecta para combinar con innumerables estilos.
-- Camiseta de corte corto para mujeres, sin hombros.
-- La prenda óptima para los cálidos días de verano.
 - Disponible en 10 colores en las tallas XS, S, M, L y XL.
+- La prenda óptima para los cálidos días de verano.
+- Camiseta de corte corto para mujeres, sin hombros.
+- Un clic en el logotipo de la marca lleva al Urban Classics Brand Store y aún más ropa de moda.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01N57XDZ2/?tag=tolees-21)
