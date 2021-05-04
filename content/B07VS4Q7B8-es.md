@@ -28,8 +28,8 @@ En este momento está [Lee Marion Vaqueros  Dark Truxel  26W / 33L para Mujer](h
 
 🔎:
 
-- Presentan 5 bolsillos
 - Producto de corte regular
 - Tienen un parche en la parte trasera con la marca Lee
+- Presentan 5 bolsillos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07VS4Q7B8/?tag=tolees-21)
