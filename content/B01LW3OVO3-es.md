@@ -29,9 +29,9 @@ En este momento está [Hauck Minicuna Dreamer  para Bebes desde el Nacimiento ha
 🔎:
 
 - Plegado fácil: la minicuna tiene un plegado fácil; tirando del lazo interior y desbloqueando el seguro se cierra su cuna en pocos segundos; un ahorro en espacio en el hogar y en sus viajes
+- Cuna mecedora: la estructura de la minicuna tiene opcion de cuna balncin o de fijarla como minicuna fija; su bebé dormira trankilo z arropado
+- Limpieza: los tejidos usados son de alta calidad y fácil de desmontar y de limpiar
 - Se completo: desde el nacimiento disfrutara de una minicuna amplia en su interior, con colchon de 90 x 50, tejidos y materiales suaves y acolchados que le daran mucho confort a su recien nacido
 - Medidas y peso: montada ocupa la minicuna solo 94 x 57cm y el peso no supera los 7 kg; peso mucho mas liviano que las de madera
-- Limpieza: los tejidos usados son de alta calidad y fácil de desmontar y de limpiar
-- Cuna mecedora: la estructura de la minicuna tiene opcion de cuna balncin o de fijarla como minicuna fija; su bebé dormira trankilo z arropado
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01LW3OVO3/?tag=tolees-21)
