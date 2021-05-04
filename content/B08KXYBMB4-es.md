@@ -28,10 +28,10 @@ Tienes [Jack & Jones JJIWILL JJAIR Sweat Pants Noos NB Pantalón Deporte  Gris C
 
 🔎:
 
-- Pantalón de chándal con puños acanalados en las piernas
 - Pantalones de chándal lisos
 - Pantalones de chándal con logotipo en el lateral
 - Pantalones de chándal con bolsillos laterales y cremallera
+- Pantalón de chándal con puños acanalados en las piernas
 - Pantalones de chándal con cintura elástica
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08KXYBMB4/?tag=tolees-21)
