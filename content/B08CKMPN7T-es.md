@@ -28,10 +28,10 @@ Ahora mismo tienes [G-STAR RAW Raw Sudadera  Dk Black A971-6484  M para Hombre](
 
 🔎:
 
-- Bajo recto con borde acanalado
-- Bajo recto con borde acanalado
 - Manga larga recta insertada y puños de canalé
+- Bajo recto con borde acanalado
 - Cuello redondo acanalado
 - Estampado gráfico de RAW en el pecho
+- Bajo recto con borde acanalado
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CKMPN7T/?tag=tolees-21)
