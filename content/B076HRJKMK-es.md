@@ -28,8 +28,8 @@ Está [adidas CORE18 RN JKT Chaqueta Deportiva  Hombre  Rojo  Power Red/White   
 
 ℹ️:
 
-- Soccer jacket
-- Water-proof fabric
 - Full zip
+- Water-proof fabric
+- Soccer jacket
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B076HRJKMK/?tag=tolees-21)
