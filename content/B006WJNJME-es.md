@@ -28,11 +28,11 @@ Está [Timberland Classic 2 Eye  Náuticos Hombre  Marrón Gaucho Roughcut Smoot
 
 ℹ️:
 
-- Sistema de cordones funcional de 360 grados para un ajuste personalizado
-- Suela de goma reciclada del 15% es sorbida para la máxima tracción y resistencia al deslizamiento.
-- Cuero de grano completo y nobuck premium para mayor comodidad y uso duradero.
-- Parte superior cosida a mano a la entresuela y cementada a la suela para una estética clásica y durabilidad.
 - Suela de goma simada para resistencia al deslizamiento y tracción
+- Cuero de grano completo y nobuck premium para mayor comodidad y uso duradero.
+- Suela de goma reciclada del 15% es sorbida para la máxima tracción y resistencia al deslizamiento.
+- Sistema de cordones funcional de 360 grados para un ajuste personalizado
+- Parte superior cosida a mano a la entresuela y cementada a la suela para una estética clásica y durabilidad.
 - Empeine de piel nobuck
 - Plantilla EVA forrada en cuero de 3/4
 
