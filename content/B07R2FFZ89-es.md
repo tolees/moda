@@ -28,9 +28,9 @@ Tienes [Aramox - Gafas de motocross Dirt Bike Racing  P932 Clear-Lens ](https://
 
 🔎:
 
-- Garantía de servicio: servicio de excelente calidad, entrega rápida, fácil servicio postventa. Nos comprometemos a su satisfacción en la medida de lo posible. Si tiene alguna insatisfacción, háganoslo saber y nuestro equipo de Aramox responderá en 24 horas.
 - Montaje: las gafas son adecuadas para motociclismo, ciclismo, esquí, senderismo, snowboard y otras actividades al aire libre.
 - Alta calidad: las gafas de moto están hechas de plástico ABS, superficie más endurecida y lisa, peso ligero, resistente al agua, buena antiquímica y la elasticidad más fuerte hace que se deformen o se rompa, duradero en uso.
+- Garantía de servicio: servicio de excelente calidad, entrega rápida, fácil servicio postventa. Nos comprometemos a su satisfacción en la medida de lo posible. Si tiene alguna insatisfacción, háganoslo saber y nuestro equipo de Aramox responderá en 24 horas.
 - Uso cómodo: el marco de esponja se adhiere firmemente a la cara, el material suave y refinado no tiene ninguna comodidad, y la correa ajustable antideslizante y alta elástica se puede adaptar a cualquier tipo de tocado.
 - Diseño excepcional: utiliza el diseño de la óptica del cuerpo humano, tiene una buena ventilación de escape, amplia visión y puede evitar fuertes vientos, granos de nieve, niebla y todo tipo de luz fuerte.
 
