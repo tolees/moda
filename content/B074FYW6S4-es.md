@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Farah Brewer Camisa  Blanco  White 104   al 52.76 % de rebaja'
-date: 2021-05-04 10:16:09
+date: 2021-05-05 17:50:05
 image: 'https://m.media-amazon.com/images/I/21iGyDaPtjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Farah'
 buyurl: 'https://www.amazon.es/dp/B074FYW6S4/?tag=tolees-21'
 descuento: '52.76'
-average: '27.3333333333333'
+average: '28.43'
 ---
 
 Tienes [Farah Brewer Camisa  Blanco  White 104   X-Small  Talla del Fabricante: X Small  para Hombre](https://www.amazon.es/dp/B074FYW6S4/?tag=tolees-21) con precio final de  31.72 EUR (original: 67.14 EUR) (52.76 %  de rebaja) aqui!
