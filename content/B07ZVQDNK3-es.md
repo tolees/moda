@@ -29,7 +29,7 @@ En este momento está [Levi s The Perfect tee Camiseta  Batwing Greenery Film Wh
 🔎:
 
 - Modelo casual
-- Tiene estampado la marca Levis
 - Con tacto suave de forro polar
+- Tiene estampado la marca Levis
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07ZVQDNK3/?tag=tolees-21)

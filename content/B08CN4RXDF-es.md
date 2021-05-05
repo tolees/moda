@@ -28,10 +28,10 @@ Tienes [G-STAR RAW Raw Camiseta  Blanco 336-110  M para Hombre](https://www.amaz
 
 🔎:
 
-- Etiqueta de G-Star RAW Originals tejida en el lateral inferior
-- Manga corta recta insertada
-- Bajo recto
 - Gráfico de RAW estampado en la parte delantera
+- Manga corta recta insertada
 - Cuello redondo acanalado
+- Bajo recto
+- Etiqueta de G-Star RAW Originals tejida en el lateral inferior
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08CN4RXDF/?tag=tolees-21)
