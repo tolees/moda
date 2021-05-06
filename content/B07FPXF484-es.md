@@ -28,7 +28,7 @@ Tienes [Jack & Jones Jjitim Jjoriginal Am 781 50SPS Noos Vaqueros Slim  Azul  Bl
 
 🔎:
 
-- Costuras marrones para un look denim auténtico
 - Corte slim fit ni muy ceñido ni muy holgado
+- Costuras marrones para un look denim auténtico
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07FPXF484/?tag=tolees-21)

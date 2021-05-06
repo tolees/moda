@@ -28,8 +28,8 @@ Tienes [Lee Elly Vaqueros  Gris  Lead Grey 30   25W / 33L para Mujer](https://ww
 
 🔎:
 
-- Estilo 5 bolsillos
-- Producto de corte regular
 - Tienen un parche de piel en la parte trasera con la marca Lee
+- Producto de corte regular
+- Estilo 5 bolsillos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07P96NP9S/?tag=tolees-21)
