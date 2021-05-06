@@ -28,9 +28,9 @@ Ahora mismo tienes [Cerdá Zapatilla Loneta Baja Spiderman  Niño  Rojo Rojo C06
 
 🔎:
 
-- Material exterior: Tela
-- Revestimiento: Tela
 - Cierre: Velcro
+- Material exterior: Tela
 - Material de la suela: Goma
+- Revestimiento: Tela
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MCLTBWD/?tag=tolees-21)

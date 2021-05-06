@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.02 % en G-STAR RAW Originals Stripe Logo Camiset'
-date: 2021-05-05 11:15:50
+date: 2021-05-06 14:33:09
 image: 'https://m.media-amazon.com/images/I/41yARC+DObL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [G-STAR RAW Originals Stripe Logo Camiseta  Amarillo Cab 336-3749  M para
 
 ℹ️:
 
+- Cuello redondo de canalé
 - Bajo recto
 - Manga corta
 - Estampado gráfico de caucho en el pecho
-- Cuello redondo de canalé
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08CN3W65Q/?tag=tolees-21)
