@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ipanema Class Wish Fem  Sandalias Planas al 31.05 % de descuento'
-date: 2021-05-05 09:54:21
+date: 2021-05-06 12:05:30
 image: 'https://m.media-amazon.com/images/I/31y9NLA02pL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
