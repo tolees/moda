@@ -1,32 +1,34 @@
 ---
 layout: post
-title: 'JACK & JONES Jjitim Jjoriginal Am 781 50 al 24.00 % de rebaja'
-date: 2020-01-15 17:06:23
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BTzeUveML._SL400_.jpg'
+title: 'Jack & Jones Jjitim Jjoriginal Am 781 50 al 25.61 % de rebaja'
+date: 2021-05-06 09:17:49
+image: 'https://m.media-amazon.com/images/I/31AbwP031EL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07FPXF484-es JACK & JONES Jjitim Jjoriginal Am 781 50sps Noos Vaqueros...'
+slug: 'B07FPXF484-es Jack & Jones Jjitim Jjoriginal Am 781 50SPS Noos Vaqueros...'
 sku: 'B07FPXF484-es'
-tags: [ 'vaqueros', ]
-actualPrice: 37.99 EUR
+tags: [ 'Ropa','Ropa para hombre','Vaqueros para hombre','jack & jones','vaqueros', ]
+actualPrice: 37.19 EUR
 currency: EUR
-price: 37.99
+price: 37.19
 comparePrice: 49.99 EUR
-prodname: 'JACK & JONES Jjitim Jjoriginal Am 781 50sps Noos Vaqueros Slim  Azul  Blue Denim Blue Denim   W28/L30 para Hombre'
+prodname: 'Jack & Jones Jjitim Jjoriginal Am 781 50SPS Noos Vaqueros Slim  Azul  Blue Denim   28W / 30L para Hombre'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B07FPXF484/?tag=tolees-21'
-descuento: '24.00'
-average: '32.97'
+descuento: '25.61'
+average: '34.3766666666667'
 ---
 
-Tienes [JACK & JONES Jjitim Jjoriginal Am 781 50sps Noos Vaqueros Slim  Azul  Blue Denim Blue Denim   W28/L30 para Hombre](https://www.amazon.es/dp/B07FPXF484/?tag=tolees-21) con precio final de  37.99 EUR (original: 49.99 EUR) (24.00 %  de rebaja) aqui!
+Tienes [Jack & Jones Jjitim Jjoriginal Am 781 50SPS Noos Vaqueros Slim  Azul  Blue Denim   28W / 30L para Hombre](https://www.amazon.es/dp/B07FPXF484/?tag=tolees-21) con precio final de  37.19 EUR (original: 49.99 EUR) (25.61 %  de rebaja) aqui!
 
-[![JACK & JONES Jjitim Jjoriginal Am 781 50](https://images-eu.ssl-images-amazon.com/images/I/41%2BTzeUveML._SL400_.jpg)](https://www.amazon.es/dp/B07FPXF484/?tag=tolees-21)
+[![Jack & Jones Jjitim Jjoriginal Am 781 50](https://m.media-amazon.com/images/I/31AbwP031EL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07FPXF484/?tag=tolees-21)
 
 🔎:
 
+- Costuras marrones para un look denim auténtico
+- Corte slim fit ni muy ceñido ni muy holgado
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07FPXF484/?tag=tolees-21)
