@@ -28,9 +28,9 @@ Ahora mismo tienes [MARSGAMING MGL1 - Gafas protectoras para gaming  diseño ret
 
 🔎:
 
-- Las lentes especiales de las MGL1 de Mars Gaming han sido diseñadas para proteger tus ojos de la dañina luz azul de las pantallas de ordenador, televisores, móviles, etc
+- El diseño retro clásico de las MGL1, unas gafas de pasta negra, te permitirán utilizarlas no sólo en tus largas sesiones gaming, sino en cualquier momento en el que necesites proteger tu vista de la luz emitida por las pantallas
 - Al no modificar los colores de la pantalla, estas gafas son aptas para todo tipo de usuarios, incluso para creadores de contenido que trabajan frente al ordenador
 - Sus lentes especiales de policarbonato impiden el paso de esta luz, mejorando la sensación de vista cansada que surge tras largas horas delante del ordenador
-- El diseño retro clásico de las MGL1, unas gafas de pasta negra, te permitirán utilizarlas no sólo en tus largas sesiones gaming, sino en cualquier momento en el que necesites proteger tu vista de la luz emitida por las pantallas
+- Las lentes especiales de las MGL1 de Mars Gaming han sido diseñadas para proteger tus ojos de la dañina luz azul de las pantallas de ordenador, televisores, móviles, etc
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0109IVYA2/?tag=tolees-21)
