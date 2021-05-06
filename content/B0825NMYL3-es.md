@@ -28,10 +28,10 @@ En este momento está [Quiksilver What We Do Best Camiseta  Hombre  Snow White  
 
 🔎:
 
-- Etiqueta Quiksilver de tela en la costura lateral
-- Cuello: cuello redondo
 - Tejido: punto jersey de algodón ligero
 - Serigrafía gráfica en el pecho
+- Cuello: cuello redondo
 - corte: corte normal
+- Etiqueta Quiksilver de tela en la costura lateral
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0825NMYL3/?tag=tolees-21)

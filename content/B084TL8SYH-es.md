@@ -28,10 +28,10 @@ En este momento está [ARENA Rash UV - Camiseta de Manga Larga para Mujer  Mujer
 
 🔎:
 
+- 85 % poliéster, 15 % elastano
 - Ideal para nadar y actividades al sol
+- Material extremadamente cómodo, de secado rápido
 - Funcional protección UV camiseta de manga larga para mujer
 - Ofrece protección UV UPF 50+
-- 85 % poliéster, 15 % elastano
-- Material extremadamente cómodo, de secado rápido
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B084TL8SYH/?tag=tolees-21)
