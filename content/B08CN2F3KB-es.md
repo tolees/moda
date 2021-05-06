@@ -28,10 +28,10 @@ En este momento está [G-STAR RAW Raw Camiseta  Dark Candy 336-c235  M para Homb
 
 🔎:
 
+- Manga corta recta insertada
+- Etiqueta de G-Star RAW Originals tejida en el lateral inferior
 - Cuello redondo acanalado
 - Bajo recto
-- Manga corta recta insertada
 - Gráfico de RAW estampado en la parte delantera
-- Etiqueta de G-Star RAW Originals tejida en el lateral inferior
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CN2F3KB/?tag=tolees-21)
