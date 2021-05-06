@@ -28,14 +28,14 @@ En este momento está [Geox D Jaysen A  Zapatillas Mujer  Blanco  White C1000   
 
 🔎:
 
-- Altura del tacón: 3 centímetros
-- Cierre: Cordones
-- Composición: Cuero
 - Tipo de tacón: Plano
-- Anchura del zapato: Normal
 - Tipo de talla: Los zapatos Geox son holgados
+- Composición: Cuero
+- Anchura del zapato: Normal
 - Material exterior: Cuero
-- Revestimiento: Malla
 - Material de la suela: Sintético
+- Altura del tacón: 3 centímetros
+- Revestimiento: Malla
+- Cierre: Cordones
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07DJ3PTCR/?tag=tolees-21)
