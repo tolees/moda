@@ -1,32 +1,41 @@
 ---
 layout: post
-title: 'Geox D Jaysen A  Zapatillas para Mujer   con un 20.66 % de descuento'
-date: 2020-06-29 02:24:27
-image: 'https://m.media-amazon.com/images/I/31UX8G5RnuL._SL400_.jpg'
+title: 'Geox D Jaysen A  Zapatillas Mujer  Blanc con un 45.64 % de descuento'
+date: 2021-05-06 21:34:29
+image: 'https://m.media-amazon.com/images/I/410vQC0Fq9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07DJ3PTCR-es Geox D Jaysen A Zapatillas para Mujer Blanco White C1000...'
+slug: 'B07DJ3PTCR-es Geox D Jaysen A Zapatillas Mujer Blanco White C1000 37 EU'
 sku: 'B07DJ3PTCR-es'
-tags: [ 'geox', ]
-actualPrice: 87.2 EUR
+tags: [ 'Zapatillas casual para mujer','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','geox', ]
+actualPrice: 59.74 EUR
 currency: EUR
-price: 87.2
+price: 59.74
 comparePrice: 109.9 EUR
-prodname: 'Geox D Jaysen A  Zapatillas para Mujer  Blanco  White C1000   37 EU'
+prodname: 'Geox D Jaysen A  Zapatillas Mujer  Blanco  White C1000   37 EU'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B07DJ3PTCR/?tag=tolees-21'
-descuento: '20.66'
-average: '57.42777777777778'
+descuento: '45.64'
+average: '57.659'
 ---
 
-En este momento está [Geox D Jaysen A  Zapatillas para Mujer  Blanco  White C1000   37 EU](https://www.amazon.es/dp/B07DJ3PTCR/?tag=tolees-21) a 87.2 EUR (original: 109.9 EUR) (20.66 %  de descuento) en el siguiente enlace!
+En este momento está [Geox D Jaysen A  Zapatillas Mujer  Blanco  White C1000   37 EU](https://www.amazon.es/dp/B07DJ3PTCR/?tag=tolees-21) a 59.74 EUR (original: 109.9 EUR) (45.64 %  de descuento) en el siguiente enlace!
 
-[![Geox D Jaysen A  Zapatillas para Mujer  ](https://m.media-amazon.com/images/I/31UX8G5RnuL._SL400_.jpg)](https://www.amazon.es/dp/B07DJ3PTCR/?tag=tolees-21)
+[![Geox D Jaysen A  Zapatillas Mujer  Blanc](https://m.media-amazon.com/images/I/410vQC0Fq9L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07DJ3PTCR/?tag=tolees-21)
 
 🔎:
 
+- Altura del tacón: 3 centímetros
+- Cierre: Cordones
+- Composición: Cuero
+- Tipo de tacón: Plano
+- Anchura del zapato: Normal
+- Tipo de talla: Los zapatos Geox son holgados
+- Material exterior: Cuero
+- Revestimiento: Malla
+- Material de la suela: Sintético
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07DJ3PTCR/?tag=tolees-21)

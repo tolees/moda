@@ -28,8 +28,8 @@ Tienes [Camper Micro  Sandalias con Punta Abierta Mujer  Rosa  Light Beige 270  
 
 🔎:
 
-- Forro:
 - Suela/Características: TPU con un agarre extraordinario
+- Forro:
 - Empeine: Piel (Piel vacuna)
 - Color: Blanco roto
 - Sistema de cierre de Velcro para un fácil ajuste
