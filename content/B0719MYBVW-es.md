@@ -28,7 +28,7 @@ Tienes [Only onlSEDONA Coat OTW Noos Abrigo  Gris  Light Grey Melange   38  Tall
 
 🔎:
 
-- Abrigo largo de entretiempo.
 - Abrigo de lana con capucha.
+- Abrigo largo de entretiempo.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0719MYBVW/?tag=tolees-21)
