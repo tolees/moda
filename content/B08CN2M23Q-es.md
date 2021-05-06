@@ -30,7 +30,7 @@ En este momento está [G-STAR RAW Originals Stripe Logo Camiseta  Combat 336-723
 
 - Estampado gráfico de caucho en el pecho
 - Cuello redondo de canalé
-- Bajo recto
 - Manga corta
+- Bajo recto
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CN2M23Q/?tag=tolees-21)

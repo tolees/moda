@@ -28,10 +28,10 @@ Tienes [Camper Micro  Sandalias con Punta Abierta Mujer  Rosa  Light Beige 270  
 
 🔎:
 
-- Sistema de cierre de Velcro para un fácil ajuste
 - Forro:
 - Suela/Características: TPU con un agarre extraordinario
 - Empeine: Piel (Piel vacuna)
 - Color: Blanco roto
+- Sistema de cierre de Velcro para un fácil ajuste
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07NY9DMHD/?tag=tolees-21)

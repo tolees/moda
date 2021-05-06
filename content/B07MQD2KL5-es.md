@@ -28,10 +28,10 @@ Tienes [UMIPUBO Bluas de Mujer Camisa Algodón Blusa Mujer Elegante Manga Corta 
 
 ℹ️:
 
-- Ideal para toda la temporada, puedes vestir estas camisas fácilmente hacia arriba o hacia abajo.
-- Top simple y elegante para damas, combinarlo con jeans o shorts de mezclilla puede ser más informal y encantador en esta temporada.
 - Ajuste flojo
+- Top simple y elegante para damas, combinarlo con jeans o shorts de mezclilla puede ser más informal y encantador en esta temporada.
 - Camisetas estilo cuello relajado, camisetas básicas de manga corta / larga, camisetas de jersey elásticas.
+- Ideal para toda la temporada, puedes vestir estas camisas fácilmente hacia arriba o hacia abajo.
 - Manga corta / Manga Larga
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07MQD2KL5/?tag=tolees-21)
