@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Geox U EOLO B  Zapatillas para Hombre  G con un 63.04 % de descuento'
-date: 2020-10-12 15:13:01
-image: 'https://m.media-amazon.com/images/I/41VVXb7KizL._SL400_.jpg'
+title: 'Geox U EOLO B  Zapatillas Hombre  Gris   con un 46.00 % de descuento'
+date: 2021-05-06 19:51:07
+image: 'https://m.media-amazon.com/images/I/41iOm6I-OwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07SSJW3GG-es Geox U EOLO B Zapatillas para Hombre Gris White/Lt Grey...'
+slug: 'B07SSJW3GG-es Geox U EOLO B Zapatillas Hombre Gris White/Lt Grey C1236...'
 sku: 'B07SSJW3GG-es'
-tags: [ 'geox', ]
-actualPrice: 40.62 EUR
+tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','geox', ]
+actualPrice: 59.35 EUR
 currency: EUR
-price: 40.62
+price: 59.35
 comparePrice: 109.9 EUR
-prodname: 'Geox U EOLO B  Zapatillas para Hombre  Gris  White/Lt Grey C1236   44 EU'
+prodname: 'Geox U EOLO B  Zapatillas Hombre  Gris  White/Lt Grey C1236   44 EU'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B07SSJW3GG/?tag=tolees-21'
-descuento: '63.04'
-average: '36.535'
+descuento: '46.00'
+average: '41.098'
 ---
 
-En este momento está [Geox U EOLO B  Zapatillas para Hombre  Gris  White/Lt Grey C1236   44 EU](https://www.amazon.es/dp/B07SSJW3GG/?tag=tolees-21) a 40.62 EUR (original: 109.9 EUR) (63.04 %  de descuento) en el siguiente enlace!
+En este momento está [Geox U EOLO B  Zapatillas Hombre  Gris  White/Lt Grey C1236   44 EU](https://www.amazon.es/dp/B07SSJW3GG/?tag=tolees-21) a 59.35 EUR (original: 109.9 EUR) (46.00 %  de descuento) en el siguiente enlace!
 
-[![Geox U EOLO B  Zapatillas para Hombre  G](https://m.media-amazon.com/images/I/41VVXb7KizL._SL400_.jpg)](https://www.amazon.es/dp/B07SSJW3GG/?tag=tolees-21)
+[![Geox U EOLO B  Zapatillas Hombre  Gris  ](https://m.media-amazon.com/images/I/41iOm6I-OwL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07SSJW3GG/?tag=tolees-21)
 
 🔎:
 
+- Der GEOX U Eolo B Sneaker für Herren ist ein zeitloser Schuh für Alltag und Freizeit.
+- Seitliche Perforationen und Logo-Prägung runden das Design ab
+- Perforierte Sohle mit einer inneren Membran – sorgt für Atmungsaktivität und ist wasserundurchlässig
+- Hochwertiges Glattleder ist strapazierfähig und langlebig
+- Gepolsterter Einstieg für ein komfortables An- und Ausziehen
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07SSJW3GG/?tag=tolees-21)
