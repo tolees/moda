@@ -28,8 +28,8 @@ Ahora mismo tienes [adidas TIRO19 PES JKTY Chaqueta de Deporte  Unisex niños  B
 
 🔎:
 
-- Regular fit
-- Front pockets
 - Full zip
+- Front pockets
+- Regular fit
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07JZNYMPW/?tag=tolees-21)
