@@ -29,8 +29,8 @@ Ahora mismo tienes [Clarks Becken Lace  Zapatos de Cordones Brogue Hombre  Marr�
 🔎:
 
 - Ajuste: (g) Estándar
-- Forro: Textil
-- Superiores: Cuero
 - Suela: Eva
+- Superiores: Cuero
+- Forro: Textil
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MFM417Z/?tag=tolees-21)
