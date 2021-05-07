@@ -28,9 +28,9 @@ Está [Asics Patriot 12  Zapatos para Correr Mujer  Rosa  Sun Coral/White   37 E
 
 ℹ️:
 
-- Amortiguación de gel
 - Amortiguación EVA
 - Innovador material de malla
+- Amortiguación de gel
 - Refuerzos en los dedos de los pies
 - Tecnología FLYTEFOAM
 
