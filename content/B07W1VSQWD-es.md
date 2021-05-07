@@ -28,10 +28,10 @@ Está [Tommy Jeans TJM Chest Logo tee Camiseta  Blanco  White   Medium para Homb
 
 ℹ️:
 
+- Bandera de Tommy Hilfiger bordada en el pecho
 - Algodón Oxford elástico
+- Cinta distintiva en el interior del cuello
 - Cuello abotonado
 - Corte entallado
-- Bandera de Tommy Hilfiger bordada en el pecho
-- Cinta distintiva en el interior del cuello
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07W1VSQWD/?tag=tolees-21)
