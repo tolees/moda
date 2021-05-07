@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vero Moda VMMIA HR Loose Summer Shorts G con un 63.32 % de descuento'
-date: 2021-05-02 06:51:51
+date: 2021-05-07 09:01:55
 image: 'https://m.media-amazon.com/images/I/41STrxsHGUS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

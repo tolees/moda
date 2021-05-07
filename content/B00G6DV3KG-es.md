@@ -29,7 +29,7 @@ En este momento está [Crocs Crocband II Sandal PS K  Sandalias Unisex Niños  A
 🔎:
 
 - croslite EVA
-- sandalias
 - CROCS
+- sandalias
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00G6DV3KG/?tag=tolees-21)
