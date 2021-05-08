@@ -28,10 +28,10 @@ Tienes [Columbia Flashback  Chaqueta cortavientos  Hombre  Negro  Black   M](htt
 
 🔎:
 
-- 1x Columbia Flashback Chaqueta cortavientos para hombre, Fibra sintética, Negro, M, Art. 1589325
 - Dobladillo con cordón para una comodidad adecuada, Poliéster ligero y duradero
-- Chaqueta cortavientos con capucha y tejido que absorbe el agua, adecuado para llevar de día y de noche, adecuado para el excursionismo, las actividades al aire libre y el uso cotidiano, ajuste activo
-- Práctica, Cremallera completa, 2 bolsillos laterales para mantener las manos calientes y seguras
+- 1x Columbia Flashback Chaqueta cortavientos para hombre, Fibra sintética, Negro, M, Art. 1589325
 - Chaqueta para usar todo el año: Tejido impermeable, Capucha ajustable y puños elásticos
+- Práctica, Cremallera completa, 2 bolsillos laterales para mantener las manos calientes y seguras
+- Chaqueta cortavientos con capucha y tejido que absorbe el agua, adecuado para llevar de día y de noche, adecuado para el excursionismo, las actividades al aire libre y el uso cotidiano, ajuste activo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B017WHA4PY/?tag=tolees-21)
