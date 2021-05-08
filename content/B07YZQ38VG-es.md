@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jjiliam Jjoriginal Agi 002  con un 50.01 % de descuento'
-date: 2021-04-18 17:09:11
+date: 2021-05-08 17:50:26
 image: 'https://m.media-amazon.com/images/I/41uizhqs9-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
