@@ -28,10 +28,10 @@ Tienes [PUMA Teamgoal 23 Training Jersey Camiseta  Hombre  Cyber Yellow / Spectr
 
 ℹ️:
 
+- dryCELL: Tecnología de PUMA con propiedades que alejan la humedad de la piel y te ayudan a mantenerte seco y cómodo
+- 100 % poliéster
 - Manga corta
 - Cuello redondo
-- 100 % poliéster
-- dryCELL: Tecnología de PUMA con propiedades que alejan la humedad de la piel y te ayudan a mantenerte seco y cómodo
 - Logotipo del felino PUMA en la parte derecha del pecho
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0845VQTY5/?tag=tolees-21)
