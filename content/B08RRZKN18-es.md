@@ -28,10 +28,10 @@ En este momento está [Nenuco - Dormilón  muñeca de bebé Que Duerme y Cierra 
 
 🔎:
 
-- No especificado para meter en la bañera, pero se puede mojar porque no tiene sistema electrónico
 - Juguete recomendado para niños y niñas a partir de 12 meses de edad. Juego indicado para el desarrollo afectivo y emocional del pequeño y que fomenta la destreza manual
-- Nenuco tiene un chupete que al ponérselo cierra los ojos
+- No especificado para meter en la bañera, pero se puede mojar porque no tiene sistema electrónico
 - Muñeco Nenuco de 35 centímetros de cuerpo blando
+- Nenuco tiene un chupete que al ponérselo cierra los ojos
 - Lleva puesto un pijama con capucha que se puede quitar e intercambiar por otra ropa de Nenuco del mismo tamaño. El pijama se puede quitar para lavarlo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08RRZKN18/?tag=tolees-21)

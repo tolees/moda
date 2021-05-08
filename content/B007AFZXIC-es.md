@@ -28,8 +28,8 @@ Ahora mismo tienes [Crocs Crocband Sandal Kids  Sandalias Unisex Niños  Azul  N
 
 🔎:
 
-- CROCS
-- sandalias
 - croslite EVA
+- sandalias
+- CROCS
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B007AFZXIC/?tag=tolees-21)
