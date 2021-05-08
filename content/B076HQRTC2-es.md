@@ -28,8 +28,8 @@ Ahora mismo tienes [adidas CORE18 Hoody Sudadera con Capucha  Hombre  Negro  Neg
 
 🔎:
 
-- Es adecuada para el futbol
 - Cuenta con un bolsillo de tipo canguro
+- Es adecuada para el futbol
 - Sudadera adecuada para hombres
 - Tiene una capucha ajustable con cordón
 

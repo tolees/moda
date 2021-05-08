@@ -29,7 +29,7 @@ Ahora mismo tienes [Geox J Kilwi Boy E  Zapatillas Niños  Azul  Navy/Dk Red C42
 🔎:
 
 - Material interior: malla.
-- Suela: goma.
 - Material exterior: sintético.
+- Suela: goma.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SSJ7NTY/?tag=tolees-21)
