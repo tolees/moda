@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vero Moda Vmmaxi My LS Soft Long U-Neck  al 34.64 % de descuento'
-date: 2021-04-21 17:51:58
+date: 2021-05-08 14:33:22
 image: 'https://m.media-amazon.com/images/I/415rWpLPVGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,7 +29,7 @@ Ahora mismo tienes [Vero Moda Vmmaxi My LS Soft Long U-Neck Noos Camisa Manga La
 🔎:
 
 - Gris (Light Grey Melange)
-- Vmmaxi My LS Soft Long U-Neck Noos Camisa Manga Larga
 - 36 (Talla del Fabricante: Small) para Mujer
+- Vmmaxi My LS Soft Long U-Neck Noos Camisa Manga Larga
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B072JM7MCV/?tag=tolees-21)
