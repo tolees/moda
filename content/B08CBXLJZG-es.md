@@ -28,10 +28,10 @@ En este momento está [adidas M D2M Motion PA Pantalón  Hombre  brgros/Grpudg/N
 
 🔎:
 
-- Los productos deportivos de la marca Adidas están diseñados para que disfrutes de tu deporte favorito sin preocuparte de nada más que rendir al máximo.
-- Pantalón M D2M MOTION PA BRGROS/GRPUDG/NEGRO
-- Ropa deportiva fabricada con materiales de primera calidad que se adaptan a cualquier actividad deportiva
-- Pantalón para practicar Tiempo libre y sportwear de Hombre
 - Ropa deportiva Multicolor de la marca Adidas
+- Pantalón M D2M MOTION PA BRGROS/GRPUDG/NEGRO
+- Pantalón para practicar Tiempo libre y sportwear de Hombre
+- Los productos deportivos de la marca Adidas están diseñados para que disfrutes de tu deporte favorito sin preocuparte de nada más que rendir al máximo.
+- Ropa deportiva fabricada con materiales de primera calidad que se adaptan a cualquier actividad deportiva
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CBXLJZG/?tag=tolees-21)
