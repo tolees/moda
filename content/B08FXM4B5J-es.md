@@ -28,8 +28,8 @@ Tienes [Jack & Jones JCOSNOW Knit Crew Neck STS Jersey de Punto  Sailor Blue  L 
 
 ℹ️:
 
-- Jersey de punto
-- 100% algodón
 - Cuello redondo
+- 100% algodón
+- Jersey de punto
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08FXM4B5J/?tag=tolees-21)
