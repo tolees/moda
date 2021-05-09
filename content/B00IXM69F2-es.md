@@ -28,9 +28,9 @@ Ahora mismo tienes [Joma Suez - Pantalón para niños de 4 años  Color Negro](h
 
 🔎:
 
-- Pantalón largo
 - Bolsillos laterales
 - Hecho en 100% poliéster
+- Pantalón largo
 - Puño en al zona inferior
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00IXM69F2/?tag=tolees-21)
