@@ -29,8 +29,8 @@ Ahora mismo tienes [Crocs Classic Clog  Zuecos Unisex Niños  Ice Blue  37/38 EU
 🔎:
 
 - Material: Croslite.
-- Tipo: Zuecos con correa en el talón.
-- Número de artículo del fabricante: 204536-4O9.
 - Color: azul claro.
+- Número de artículo del fabricante: 204536-4O9.
+- Tipo: Zuecos con correa en el talón.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TYZZQGR/?tag=tolees-21)
