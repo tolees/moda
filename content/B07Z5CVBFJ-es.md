@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.00 % en G-STAR RAW Core Eyben Slim Short Sleeve '
-date: 2021-05-07 10:45:29
+date: 2021-05-09 08:20:46
 image: 'https://m.media-amazon.com/images/I/41PCHthFPeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
