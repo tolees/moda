@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Adidas Adilette Shower Zapatos de Playa  al 67.90 % de descuento'
-date: 2021-05-05 16:38:45
+date: 2021-05-09 09:14:03
 image: 'https://m.media-amazon.com/images/I/31xquvN3EnS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B07KTVZW91/?tag=tolees-21'
 descuento: '67.90'
-average: '10.288'
+average: '9.90833333333333'
 ---
 
 Está [Adidas Adilette Shower Zapatos de Playa y Piscina para Hombre  Negro  44.5 EU](https://www.amazon.es/dp/B07KTVZW91/?tag=tolees-21) con 67.90 de descuento por 8.01 EUR (original: 24.95 EUR) en el siguiente enlace!

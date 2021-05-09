@@ -28,9 +28,9 @@ En este momento está [Vans Left Chest Logo tee Camiseta  Cascada Blk  XL para H
 
 🔎:
 
-- Tipo de tamaño especial: estándar
-- 100 % algodón
-- Corte entallado
 - Camiseta de 185 g
+- Corte entallado
+- 100 % algodón
+- Tipo de tamaño especial: estándar
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08MFRZSVN/?tag=tolees-21)
