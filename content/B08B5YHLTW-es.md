@@ -28,7 +28,7 @@ Tienes [Lacoste NF3219CE  Accesorio de Viaje- Billetera para Mujer  Eclipse  Tai
 
 ℹ️:
 
-- Cocodrilo a tono
 - Exterior con bolsillo plano y ranura para tarjeta; interior con bolsillo de fuelle, monedero con cremallera y doce ranuras para tarjetas
+- Cocodrilo a tono
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08B5YHLTW/?tag=tolees-21)
