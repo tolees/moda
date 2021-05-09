@@ -28,8 +28,8 @@ Tienes [Levi s 511 Slim Vaqueros  Rock Cod  30W/32L para Hombre](https://www.ama
 
 ℹ️:
 
-- Corte ajustado de la cadera al tobillo
 - Estilo esbelto con confort añadido
+- Corte ajustado de la cadera al tobillo
 - Diseño de cinco bolsillos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00VGIPGGI/?tag=tolees-21)

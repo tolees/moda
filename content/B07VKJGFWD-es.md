@@ -29,7 +29,7 @@ Ahora mismo tienes [adidas Juventus FC Temporada 2020/21 JUVE H JSY Y Camiseta P
 🔎:
 
 - Logo on the front
-- Climalite anti-humidity fabric
 - Regular fit
+- Climalite anti-humidity fabric
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VKJGFWD/?tag=tolees-21)
