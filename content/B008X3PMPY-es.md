@@ -28,8 +28,8 @@ En este momento está [Geox U SIRON A  Mocasines Hombre  Beige  Taupe C6029   39
 
 🔎:
 
-- suede
 - adulto
+- suede
 - Beige
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B008X3PMPY/?tag=tolees-21)
