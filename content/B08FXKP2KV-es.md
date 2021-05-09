@@ -28,8 +28,8 @@ Ahora mismo tienes [Jack & Jones JCOSNOW Knit Crew Neck STS Jersey de Punto  Gri
 
 🔎:
 
-- 100% algodón
 - Jersey de punto
+- 100% algodón
 - Cuello redondo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08FXKP2KV/?tag=tolees-21)
