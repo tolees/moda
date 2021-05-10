@@ -29,7 +29,7 @@ En este momento está [G-STAR RAW 3301 Straight Jeans Vaqueros  Azul  dk aged 46
 🔎:
 
 - A estrenar y genuina. Somos un vendedor autorizado de G-Star.
-- G-Star Azul 3301 Jeans rectos Hydrite Denim
 - Ver descripción del producto para obtener más información.
+- G-Star Azul 3301 Jeans rectos Hydrite Denim
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00SF8XQAK/?tag=tolees-21)
