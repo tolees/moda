@@ -29,9 +29,9 @@ Ahora mismo tienes [Tommy Jeans TJM Chest Logo tee Camiseta  Blanco  White   X-L
 🔎:
 
 - Corte entallado
-- Cinta distintiva en el interior del cuello
-- Cuello abotonado
 - Algodón Oxford elástico
+- Cinta distintiva en el interior del cuello
 - Bandera de Tommy Hilfiger bordada en el pecho
+- Cuello abotonado
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VWLB2HB/?tag=tolees-21)

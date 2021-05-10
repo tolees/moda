@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HAWKERS Core Gafas  Gris  One Size Unise al 30.17 % de rebaja'
-date: 2021-04-23 09:29:19
+date: 2021-05-10 15:12:47
 image: 'https://m.media-amazon.com/images/I/31pDcN47XjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [HAWKERS Core Gafas  Gris  One Size Unisex Adulto](https://www.amazon.es/
 
 🔎:
 
-- Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores
-- Lentes categoría 3 y protección uv400
-- Modelo para hombre y mujer: Unisex
-- Lente de policarbonato de alta resistencia a los golpes que proporciona comodidad por su flexibilidad y ligereza
 - Modelo Core
+- Modelo para hombre y mujer: Unisex
+- Lentes categoría 3 y protección uv400
+- Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores
+- Lente de policarbonato de alta resistencia a los golpes que proporciona comodidad por su flexibilidad y ligereza
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B085FCXV4J/?tag=tolees-21)
