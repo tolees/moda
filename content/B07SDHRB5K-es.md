@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 22.23 % en Crocs Classic Clog Kids Roomy fit  Zueco'
-date: 2021-04-18 12:43:35
+date: 2021-05-10 08:28:53
 image: 'https://m.media-amazon.com/images/I/41djzi0xORL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Crocs'
 buyurl: 'https://www.amazon.es/dp/B07SDHRB5K/?tag=tolees-21'
 descuento: '22.23'
-average: '12.9833333333333'
+average: '14.985'
 ---
 
 Tienes [Crocs Classic Clog Kids Roomy fit  Zuecos Unisex niños  Verde  Deep Green 3tj   19/20 EU](https://www.amazon.es/dp/B07SDHRB5K/?tag=tolees-21) con un 22.23 % de descuento con precio de oferta de 20.99 EUR (original: 26.99 EUR) en el siguiente enlace!
