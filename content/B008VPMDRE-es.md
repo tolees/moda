@@ -28,8 +28,8 @@ En este momento está [Abanderado Canale Niã±o  Camiseta de Tirantes para Niñ
 
 🔎:
 
-- Diseño cómodo y confortable
-- Material transpirable
 - Tejido suave que se adapta al cuerpo
+- Material transpirable
+- Diseño cómodo y confortable
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B008VPMDRE/?tag=tolees-21)
