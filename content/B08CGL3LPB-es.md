@@ -28,10 +28,10 @@ En este momento está [G-STAR RAW Revend Skinny Vaqueros  Faded Seal Grey A634-c
 
 🔎:
 
+- Talle medio
 - Tiro bajo en la parte delantera y tiro regular en la parte trasera
 - Construcción con cinco bolsillos y remaches de refuerzo
 - Prenda ajustada de arriba abajo
 - Construcción con cinco bolsillos y remaches de refuerzo
-- Talle medio
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CGL3LPB/?tag=tolees-21)
