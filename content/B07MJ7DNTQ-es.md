@@ -28,7 +28,7 @@ Ahora mismo tienes [Clarks Ronnie Limit  Zapatos de Cordones Brogue  Piel Negra 
 
 🔎:
 
-- Material de la suela: TR
 - Color exacto: Cuero Negro
+- Material de la suela: TR
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MJ7DNTQ/?tag=tolees-21)

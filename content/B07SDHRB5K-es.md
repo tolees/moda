@@ -28,7 +28,7 @@ Tienes [Crocs Classic Clog Kids Roomy fit  Zuecos Unisex niños  Verde  Deep Gre
 
 ℹ️:
 
-- Peso ligero.
 - Flexible confort de 360 grados.
+- Peso ligero.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07SDHRB5K/?tag=tolees-21)
