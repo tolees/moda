@@ -28,8 +28,8 @@ Tienes [Pepe Jeans Anthony Camiseta  Blanco  Optic White 802   8-9 años  Talla 
 
 🔎:
 
-- Se puede lavar a máquina
 - 100% algodón
 - Talla normal
+- Se puede lavar a máquina
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07WKMBF4T/?tag=tolees-21)

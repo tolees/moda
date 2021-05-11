@@ -29,7 +29,7 @@ Tienes [adidas ESTRO 19 JSY Camiseta de Manga Corta  Niños  Bold Green  5-6Y](h
 ℹ️:
 
 - Adidas logo on the front
-- Regular fit
 - Climalite anti-humidity fabric
+- Regular fit
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07K1J5VKT/?tag=tolees-21)
