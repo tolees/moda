@@ -28,7 +28,7 @@ En este momento está [ONLY Onlsedona Boucle Wool Coat Otw Noos Abrigo  Gris  Li
 
 🔎:
 
-- Boucle - Abrigo de lana
 - Con capucha
+- Boucle - Abrigo de lana
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07DFN8ZRF/?tag=tolees-21)

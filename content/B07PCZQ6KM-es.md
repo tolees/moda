@@ -28,8 +28,8 @@ Está [Tommy Hilfiger Heritage Single Breasted Trench Abrigo  Beige  Medium Taup
 
 ℹ️:
 
-- Cinta distintiva en el cinturón y el interior del cuello
-- Solapas de protección con botones en la parte trasera y el hombro
 - Cadena metálica en el interior del cuello
+- Solapas de protección con botones en la parte trasera y el hombro
+- Cinta distintiva en el cinturón y el interior del cuello
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07PCZQ6KM/?tag=tolees-21)
