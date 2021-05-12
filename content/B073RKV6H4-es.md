@@ -29,7 +29,7 @@ Tienes [Adidas Adilette Comfort Zapatos de playa y piscina Hombre  Negro  Cblack
 🔎:
 
 - Correa de poliuretano de secado rápido
-- Diseño del deslizamiento
 - Adilette para el uso diario
+- Diseño del deslizamiento
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B073RKV6H4/?tag=tolees-21)
