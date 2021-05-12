@@ -30,7 +30,7 @@ En este momento está [Geox UOMO City A  Oxford Hombre  Black  41 EU](https://ww
 
 - Tipo de talón: Plataforma,Altura del talón: 0 cm,Tipo de caña: tobillo
 - Cierre: Cordones,Resistencia al agua: No resistente al agua
-- Geox UOMO CITY U0469A Hombre,de caballero Zapatos con cordones,Zapatos deportivos con cordones,Calzado,zapato con cordones,calzado de exterior,Derby cordón,deportivo,Ocio,SCHWARZ (Negro)
 - Material superior: Cuero,Material interno: Tela,Suela exterior: Goma,Suela de cubierta: transpirable,antibacteriano,antishock
+- Geox UOMO CITY U0469A Hombre,de caballero Zapatos con cordones,Zapatos deportivos con cordones,Calzado,zapato con cordones,calzado de exterior,Derby cordón,deportivo,Ocio,SCHWARZ (Negro)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08953ZSJY/?tag=tolees-21)

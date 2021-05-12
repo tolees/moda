@@ -28,9 +28,9 @@ Está [Geox D Vega Moc B  Mocasines  Rojo  Scarlet/Off White C7y1q   35 EU](http
 
 ℹ️:
 
+- Tipo de cierre: SlipOn
 - material exterior: Cuero
 - Tipo de ajuste: Tenga en cuenta que los zapatos Geox tienen un ajuste cómodo, por lo tanto, se recomienda elegir la mitad de un tamaño más pequeño que su tamaño habitual
 - Estilo: Holgazanes
-- Tipo de cierre: SlipOn
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07DJMX1MF/?tag=tolees-21)
