@@ -28,7 +28,7 @@ Está [ONLY Carmakoma NOS Caremmy Faux Leather Biker Noos Chaqueta  Negro  Black
 
 ℹ️:
 
-- Leather jacket with biker style
 - Faux leather jacket
+- Leather jacket with biker style
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07RGQ2M1F/?tag=tolees-21)
