@@ -28,8 +28,8 @@ Tienes [Roxy Viva  Zapatos de Playa y Piscina para Mujer  Azul  Blue Curacao Buu
 
 🔎:
 
-- __plantilla:__plantilla de goma con textura
-- __Parte superior:__ Parte superior de goma con pin metálico ROXY
 - __Suela exterior:__ suela exterior de goma
+- __Parte superior:__ Parte superior de goma con pin metálico ROXY
+- __plantilla:__plantilla de goma con textura
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07SX4WZCC/?tag=tolees-21)

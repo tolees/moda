@@ -29,7 +29,7 @@ Tienes [Jack & Jones Jjesheridan Shirt L/s Camisa Vaquera  Negro  Black Denim Fi
 ℹ️:
 
 - Diseñador: JACK&JONES
-- Artículo: 12138115 SHERIDAN
 - Temporada: Primavera-verano.
+- Artículo: 12138115 SHERIDAN
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07C5YMXJX/?tag=tolees-21)
