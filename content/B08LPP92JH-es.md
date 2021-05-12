@@ -28,8 +28,8 @@ Ahora mismo tienes [Jack & Jones JJARID tee SS Crew Neck Camiseta  Color Gris Cl
 
 🔎:
 
-- Camiseta de algodón.
 - Estilo jersey.
+- Camiseta de algodón.
 - Camiseta con logotipo.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08LPP92JH/?tag=tolees-21)
