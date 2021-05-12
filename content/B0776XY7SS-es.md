@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Tommy Hilfiger Original Jersey Camiseta  al 31.07 % de descuento'
-date: 2020-03-28 20:41:55
-image: 'https://m.media-amazon.com/images/I/31TynLctg-L._SL400_.jpg'
+title: 'Tommy Jeans - Tommy Jeans Tjm Original J al 41.41 % de descuento'
+date: 2021-05-12 09:09:19
+image: 'https://m.media-amazon.com/images/I/31TynLctg-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0776XY7SS-es Tommy Hilfiger Original Jersey Camiseta Azul Black Iris...'
+slug: 'B0776XY7SS-es Tommy Jeans - Tommy Jeans Tjm Original Jersey Tee Camiseta...'
 sku: 'B0776XY7SS-es'
-tags: [ 'camiseta','jersey', ]
-actualPrice: 19.99 EUR
+tags: [ 'Camisetas para hombre','Camisetas, polos y camisas para hombre','Ropa','Ropa para hombre','camiseta','jersey','tommy jeans', ]
+actualPrice: 16.99 EUR
 currency: EUR
-price: 19.99
+price: 16.99
 comparePrice: 29.0 EUR
-prodname: 'Tommy Hilfiger Original Jersey Camiseta  Azul  Black Iris 002   Large para Hombre'
+prodname: 'Tommy Jeans - Tommy Jeans Tjm Original Jersey Tee  Camiseta Hombre  Azul  Black Iris 002   Large'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Tommy Jeans'
 buyurl: 'https://www.amazon.es/dp/B0776XY7SS/?tag=tolees-21'
-descuento: '31.07'
-average: '19.99'
+descuento: '41.41'
+average: '18.49'
 ---
 
-Ahora mismo tienes [Tommy Hilfiger Original Jersey Camiseta  Azul  Black Iris 002   Large para Hombre](https://www.amazon.es/dp/B0776XY7SS/?tag=tolees-21) a 19.99 EUR (original: 29.0 EUR) (31.07 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Tommy Jeans - Tommy Jeans Tjm Original Jersey Tee  Camiseta Hombre  Azul  Black Iris 002   Large](https://www.amazon.es/dp/B0776XY7SS/?tag=tolees-21) a 16.99 EUR (original: 29.0 EUR) (41.41 %  de descuento) en el siguiente enlace!
 
-[![Tommy Hilfiger Original Jersey Camiseta ](https://m.media-amazon.com/images/I/31TynLctg-L._SL400_.jpg)](https://www.amazon.es/dp/B0776XY7SS/?tag=tolees-21)
+[![Tommy Jeans - Tommy Jeans Tjm Original J](https://m.media-amazon.com/images/I/31TynLctg-L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B0776XY7SS/?tag=tolees-21)
 
 🔎:
 
+- Cuello redondo
+- Corte slim
+- Punto de puro algodón orgánico
+- Logo de Tommy Jeans bordado en el pecho
+- Detalles distintivos de Tommy Jeans
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0776XY7SS/?tag=tolees-21)
