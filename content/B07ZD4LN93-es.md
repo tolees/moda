@@ -28,10 +28,10 @@ En este momento está [Furein Leggins para Mujer Elásticos Cómodos Acabado Col
 
 🔎:
 
-- Buena calidad de tejido suave y liso
-- Lavado a mano fría. No utilizar lejía
 - Se adaptan a la forma de tu cuerpo, admiten infinidad de looks
-- Ideal para fiestas o cualquier otra ocasión
+- Lavado a mano fría. No utilizar lejía
+- Buena calidad de tejido suave y liso
 - Material: 90% poliester y 10%spandex.
+- Ideal para fiestas o cualquier otra ocasión
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07ZD4LN93/?tag=tolees-21)
