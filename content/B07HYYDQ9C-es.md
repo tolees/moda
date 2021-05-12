@@ -28,10 +28,10 @@ Tienes [HAWKERS · CLASSIC · Burgundy Pink · Dark · Gafas de sol para hombre 
 
 🔎:
 
-- Montura en TR90 de calidad y acero inoxidable
-- Lentes categoría 13
-- Incluye: Funda en microfibra personalizada, caja personalizada y set de pegatinas decorativas
-- Lentes triacetato con tecnología Anti­Scratch con protección UV410
 - Medidas: Frontal 13.8 cm, Alto 4.9 cm, Patillas 14 cm
+- Incluye: Funda en microfibra personalizada, caja personalizada y set de pegatinas decorativas
+- Lentes categoría 13
+- Lentes triacetato con tecnología Anti­Scratch con protección UV410
+- Montura en TR90 de calidad y acero inoxidable
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07HYYDQ9C/?tag=tolees-21)
