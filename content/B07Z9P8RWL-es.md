@@ -28,8 +28,8 @@ En este momento está [O NEILL LM 3Ple Camiseta Sin Mangas Tanktop para Hombre  
 
 🔎:
 
-- Algodón orgánico
 - Triple logo Frontal
+- Algodón orgánico
 - Regular fit
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07Z9P8RWL/?tag=tolees-21)

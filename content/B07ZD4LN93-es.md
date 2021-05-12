@@ -28,10 +28,10 @@ En este momento está [Furein Leggins para Mujer Elásticos Cómodos Acabado Col
 
 🔎:
 
+- Material: 90% poliester y 10%spandex.
 - Se adaptan a la forma de tu cuerpo, admiten infinidad de looks
 - Lavado a mano fría. No utilizar lejía
-- Buena calidad de tejido suave y liso
-- Material: 90% poliester y 10%spandex.
 - Ideal para fiestas o cualquier otra ocasión
+- Buena calidad de tejido suave y liso
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07ZD4LN93/?tag=tolees-21)
