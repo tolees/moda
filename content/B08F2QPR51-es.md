@@ -28,10 +28,10 @@ Está [Disney Princess Muñeca de Rapunzel Royal Shimmer  muñeca con Falda y Ac
 
 ℹ️:
 
-- FALDA Y CORSÉ CON BRILLOS. El corsé de la muñeca de Disney brilla con facetas inspiradas en gemas que destellan espléndidamente junto con su falda brillante.
 - LARGUÍSIMOS CABELLOS RUBIOS. La muñeca de Disney Princess tiene unos cabellos rubios larguísimos, inspirados en el estilo mágico de su personaje de espíritu libre de la película Enredados de Disney
-- COLECCIÓN DE MUÑECAS DE DISNEY. Colecciona las muñecas Royal Shimmer Ariel, Aurora, Bella, Cenicienta, Jasmín, Mérida, Vaiana, Mulán, Pocahontas, Blancanieves y Tiana. Se venden por separado. Sujeto a disponibilidad
+- FALDA Y CORSÉ CON BRILLOS. El corsé de la muñeca de Disney brilla con facetas inspiradas en gemas que destellan espléndidamente junto con su falda brillante.
 - JUGUETE PARA NIÑAS A PARTIR DE 3 AÑOS. Este juguete de Disney es el regalo perfecto de cumpleaños o Navidad para los niños y niñas
+- COLECCIÓN DE MUÑECAS DE DISNEY. Colecciona las muñecas Royal Shimmer Ariel, Aurora, Bella, Cenicienta, Jasmín, Mérida, Vaiana, Mulán, Pocahontas, Blancanieves y Tiana. Se venden por separado. Sujeto a disponibilidad
 - FALDA DE MUÑECA Y ACCESORIOS. La muñeca de Rapunzel Royal Shimmer incluye una falda, zapatos y tiara con matices de su característico color morado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08F2QPR51/?tag=tolees-21)
