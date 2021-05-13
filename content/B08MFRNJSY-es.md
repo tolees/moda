@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vans Left Chest Logo tee Camiseta  Casca con un 39.51 % de descuento'
-date: 2021-04-27 07:04:13
+date: 2021-05-13 14:20:30
 image: 'https://m.media-amazon.com/images/I/31gFy61Y3kL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -30,7 +30,7 @@ En este momento está [Vans Left Chest Logo tee Camiseta  Cascada Blk  M para Ho
 
 - Sudadera de forro polar con logotipos serigrafiados
 - Tipo de tamaño especial: estándar
-- Camiseta de 185 g
 - Corte entallado
+- Camiseta de 185 g
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08MFRNJSY/?tag=tolees-21)
