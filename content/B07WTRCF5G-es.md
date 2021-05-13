@@ -28,10 +28,10 @@ Tienes [Skechers Tresmen Hirano  Sandalias de Punta Descubierta Hombre  Marrón 
 
 ℹ️:
 
-- Cushioned fabric strap linings. Luxe Foam cushioned and contoured footbed with textured finish.
-- Relaxed Fit design for a roomy comfortable fit. Supportive shock absorbing midsole.
 - Flexible traction rubber outsole.
-- Contrast coloured stitching and edging trim on straps. Adjustable toe, instep and heel straps for customized fit.
 - Smooth durable synthetic upper with leather-look finish. Sporty trail style casual comfort sandal design.
+- Relaxed Fit design for a roomy comfortable fit. Supportive shock absorbing midsole.
+- Cushioned fabric strap linings. Luxe Foam cushioned and contoured footbed with textured finish.
+- Contrast coloured stitching and edging trim on straps. Adjustable toe, instep and heel straps for customized fit.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07WTRCF5G/?tag=tolees-21)
