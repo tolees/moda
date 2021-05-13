@@ -29,9 +29,9 @@ Ahora mismo tienes [Tommy Jeans - Tommy Jeans Tjm Original Jersey Tee  Camiseta 
 🔎:
 
 - Logo de Tommy Jeans bordado en el pecho
-- Detalles distintivos de Tommy Jeans
 - Punto de puro algodón orgánico
-- Corte slim
 - Cuello redondo
+- Detalles distintivos de Tommy Jeans
+- Corte slim
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0776XY7SS/?tag=tolees-21)

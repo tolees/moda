@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Heritage Single Breasted  al 35.49 % de descuento'
-date: 2021-05-12 13:02:33
+date: 2021-05-13 13:07:18
 image: 'https://m.media-amazon.com/images/I/41bljzGupqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Tommy Hilfiger'
 buyurl: 'https://www.amazon.es/dp/B07PCZQ6KM/?tag=tolees-21'
 descuento: '35.49'
-average: '159.97'
+average: '163.974'
 ---
 
 Está [Tommy Hilfiger Heritage Single Breasted Trench Abrigo  Beige  Medium Taupe 055   XS  Talla fabricante: XS  para Mujer](https://www.amazon.es/dp/B07PCZQ6KM/?tag=tolees-21) con 35.49 de descuento por 179.99 EUR (original: 279.0 EUR) en el siguiente enlace!
