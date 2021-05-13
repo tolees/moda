@@ -28,10 +28,10 @@ Está [Barbie Extra Muñeca articulada con pelo azul rizado  accesorios de moda 
 
 ℹ️:
 
-- En lo referente a la moda, la actitud de las muñecas Barbie Extra es la de "más es más", con 15 artículos que incluyen ropa y accesorios de moda, además de una mascota y accesorios para ella.
 - Un look divertido y alegre con un estilo desenfadado que incluye una blusa teñida y pantalones cortos de color blanco combinados con una chaqueta bomber azul con forro naranja y cremallera que funciona de verdad.
-- La muñeca Barbie está ahora más rellenita que la muñeca original y luce una melena extralarga con voluminoso cabello azul rizado con un moderno recogido en un moño.
 - Los 2 gatitos blancos también son muy, pero que muy EXTRA, con coronas doradas y una expresión divertida. Además, ¡también pueden montar en el monopatín!
+- En lo referente a la moda, la actitud de las muñecas Barbie Extra es la de "más es más", con 15 artículos que incluyen ropa y accesorios de moda, además de una mascota y accesorios para ella.
+- La muñeca Barbie está ahora más rellenita que la muñeca original y luce una melena extralarga con voluminoso cabello azul rizado con un moderno recogido en un moño.
 - Los accesorios de la muñeca Barbie: un monopatín con la palabra "Malibu" y ruedas de color rosa, una riñonera en verde neón, gafas de sol plateadas, pendientes con el mensaje "Girl Power", auriculares y zapatillas en verde neón, añaden un toque de personalidad y momentos inesperados de diversión para la narración de historias.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08HFWD5Y6/?tag=tolees-21)
