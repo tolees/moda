@@ -28,10 +28,10 @@ En este momento está [Liny - Mono Impermeable Niño - Chaqueta con Capucha Traj
 
 🔎:
 
-- 【Excelente para】:Abeto para niños de 3 a 10 años (consulte la tabla de tallas en la imagen).
-- 【Atentamente Servicio】:Si no está 100% satisfecho con nuestro producto,contáctenos,lo reembolsaremos o lo reemplazaremos.
 - 【Material】:Tejido de poliéster de alta calidad y duradero,seguro para el medio ambiente,cómodo/transpirable/impermeable etc.
+- 【Atentamente Servicio】:Si no está 100% satisfecho con nuestro producto,contáctenos,lo reembolsaremos o lo reemplazaremos.
 - 【Solicite】:Peso ligero y portátil,ideal para empacar los niños en su mochila en caso de que llueva repentinamente. Sería un buen compañero para jugar al aire libre, viajar, acampar, caminar, etc.
 - 【Diseño】:Diseño de dibujos animados lindo con colores vivos, encantador y elegante.Chaquetas impermeables con cremallera de alta calidad y protección especial.
+- 【Excelente para】:Abeto para niños de 3 a 10 años (consulte la tabla de tallas en la imagen).
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07J4N8RJX/?tag=tolees-21)
