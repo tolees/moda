@@ -28,8 +28,8 @@ Tienes [Geox J Kalispera Girl I  Zapatillas Niñas  Azul  Dk Navy C4021   33 EU]
 
 ℹ️:
 
-- Material exterior: Sintético
 - Revestimiento: Sintético
+- Material exterior: Sintético
 - Material de la suela: Caucho
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0825PWDBY/?tag=tolees-21)
