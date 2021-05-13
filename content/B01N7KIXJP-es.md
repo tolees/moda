@@ -28,12 +28,12 @@ Ahora mismo tienes [Crocs Classic Clog Kids Roomy fit Zuecos Unisex niños  Azul
 
 🔎:
 
-- Anchura del zapato: Normal
-- Cierre: Sin cordones
 - Material de la suela: EVA
-- Material exterior: Espuma
-- Tipo de tacón: Plano
+- Cierre: Sin cordones
 - Composición: Espuma
+- Material exterior: Espuma
 - Revestimiento: Sin forro
+- Tipo de tacón: Plano
+- Anchura del zapato: Normal
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01N7KIXJP/?tag=tolees-21)
