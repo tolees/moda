@@ -28,11 +28,11 @@ Tienes [Crocs Swiftwater Sandal Women  Chanclas para Mujer  Negro  Black/White  
 
 ℹ️:
 
-- Composición: Sintético
-- Revestimiento: Sin forro
 - Material exterior: Espuma
-- Tipo de tacón: Plano
+- Revestimiento: Sin forro
 - Cierre: Sin cordones
 - Material de la suela: EVA
+- Composición: Sintético
+- Tipo de tacón: Plano
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01H70LNIS/?tag=tolees-21)
