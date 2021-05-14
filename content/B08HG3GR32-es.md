@@ -28,10 +28,10 @@ Ahora mismo tienes [Barbie Extra Muñeca articulada con trenzas de colores  acce
 
 🔎:
 
-- La figura del perrito también es muy, pero que muy EXTRA, con una expresión divertida y su propio coche rosa brillante.
-- Los accesorios de la muñeca Barbie, como un bolso para el móvil, gafas de sol, joyas, calcetines verdes y botas marrones, añaden un toque de personalidad y momentos inesperados de diversión para la narración de historias.
-- Un look divertido y alegre con un estilo desenfadado que incluye una camiseta con estampado, unos vaqueros cortos con bolsillos reales por capas y una chaqueta vaquera con estampado de llamas y flecos ultralargos en los brazos.
 - En lo referente a la moda, la actitud de las muñecas Barbie Extra es la de "más es más", con 15 artículos que incluyen ropa y accesorios de moda, además de una mascota y accesorios para ella.
+- Los accesorios de la muñeca Barbie, como un bolso para el móvil, gafas de sol, joyas, calcetines verdes y botas marrones, añaden un toque de personalidad y momentos inesperados de diversión para la narración de historias.
+- La figura del perrito también es muy, pero que muy EXTRA, con una expresión divertida y su propio coche rosa brillante.
+- Un look divertido y alegre con un estilo desenfadado que incluye una camiseta con estampado, unos vaqueros cortos con bolsillos reales por capas y una chaqueta vaquera con estampado de llamas y flecos ultralargos en los brazos.
 - La muñeca​Barbie luce un peinado con 2 trenzas gruesas con los colores del arcoíris.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08HG3GR32/?tag=tolees-21)
