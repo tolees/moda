@@ -28,7 +28,7 @@ Tienes [Clarks Hero  Zapatos de Cordones Brogue Mujer  Gris  Grey Snake Grey Sna
 
 🔎:
 
-- Único material: Caucho
 - Color exacto: Gris de la serpiente
+- Único material: Caucho
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07TMX4X9Q/?tag=tolees-21)
