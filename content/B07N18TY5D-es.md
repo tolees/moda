@@ -28,9 +28,9 @@ Tienes [G-STAR RAW 3301 Straight Jeans Vaqueros  Blu  Authentic Faded Blue B631-
 
 ℹ️:
 
-- Cierre: Boton y cierre
 - Lavar a máquina - agua fría (30 ° max)
 - 98% Algodón, 2% Elastano
 - Usado
+- Cierre: Boton y cierre
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07N18TY5D/?tag=tolees-21)
