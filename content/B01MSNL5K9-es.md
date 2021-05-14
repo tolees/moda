@@ -28,7 +28,7 @@ Tienes [PUMA Epic Flip V2  Chanclas Unisex Adulto  Azul  Peacoat White   35.5 EU
 
 🔎:
 
-- adulto
 - Multicolor
+- adulto
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01MSNL5K9/?tag=tolees-21)
