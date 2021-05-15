@@ -28,8 +28,8 @@ En este momento está [adidas Adilette Shower  Chanclas para Hombre  Azul  Colle
 
 🔎:
 
-- Cuentan con una suela de goma
 - Con una plantilla de forma anatómica
+- Cuentan con una suela de goma
 - Chanclas adecuadas para hombres
 - Tienen un diseño deportivo
 
