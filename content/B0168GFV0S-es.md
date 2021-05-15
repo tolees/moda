@@ -28,13 +28,13 @@ Tienes [Havaianas Brasil Logo Chanclas Unisex Niños  Multicolor  Red   33/34 EU
 
 ℹ️:
 
-- Tipo de tacón: Plano
-- Material exterior: Caucho
-- Material de la suela: Goma
 - Composición: Goma
+- Material de la suela: Goma
+- Cierre: Sin cordones
 - Anchura del zapato: Normal
 - Resistente al agua
-- Cierre: Sin cordones
 - Fabricado en Brasil. Nota: El tamaño marcado en las chanclas es de tamaño brasileño.
+- Tipo de tacón: Plano
+- Material exterior: Caucho
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0168GFV0S/?tag=tolees-21)
