@@ -28,8 +28,8 @@ Ahora mismo tienes [Jack & Jones Jjiliam Jjoriginal Am 816 Noos Vaqueros Skinny 
 
 🔎:
 
-- Pantalones vaqueros
 - elástico
 - ajuste delgado
+- Pantalones vaqueros
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07L1R3SD2/?tag=tolees-21)

@@ -28,10 +28,10 @@ Está [Tommy Jeans TJM Chest Logo tee Camiseta  Azul  Twilight Navy   Medium par
 
 ℹ️:
 
-- Cinta distintiva en el interior del cuello
 - Cuello abotonado
-- Bandera de Tommy Hilfiger bordada en el pecho
 - Algodón Oxford elástico
+- Cinta distintiva en el interior del cuello
 - Corte entallado
+- Bandera de Tommy Hilfiger bordada en el pecho
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07W1VVD6X/?tag=tolees-21)
