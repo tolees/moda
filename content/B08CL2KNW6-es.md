@@ -28,10 +28,10 @@ Está [G-STAR RAW Box Logo Pocket Tweater Sudadera  Dk Black C584-6484  XL para 
 
 ℹ️:
 
-- Bajo recto con borde acanalado
 - Cuello redondo acanalado
-- Raya gráfica estampada en la parte alta de la espalda y en las mangas
 - Bolsillo estilo canguro con cierres de cremallera oculta
+- Bajo recto con borde acanalado
+- Raya gráfica estampada en la parte alta de la espalda y en las mangas
 - Manga larga recta insertada y puños de canalé
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08CL2KNW6/?tag=tolees-21)

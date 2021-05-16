@@ -28,8 +28,8 @@ Ahora mismo tienes [Vero Moda Vmmaxi My LS Soft Long U-Neck Noos Camisa Manga La
 
 🔎:
 
+- Vmmaxi My LS Soft Long U-Neck Noos Camisa Manga Larga
 - Gris (Light Grey Melange)
 - 36 (Talla del Fabricante: Small) para Mujer
-- Vmmaxi My LS Soft Long U-Neck Noos Camisa Manga Larga
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B072JM7MCV/?tag=tolees-21)
