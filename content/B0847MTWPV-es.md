@@ -28,10 +28,10 @@ Ahora mismo tienes [Cerdá Pijama Niño 2 Años de Mickey Mouse-Camiseta + Panta
 
 🔎:
 
-- Pijama corto para las noches de verano, permite que descanse correctamente, junto a su personaje favorito, sin que pase mucho calor durante las noches
-- Lavar a máquina - agua fría (30 ° max), planchar a baja temperatura (max 110°c)
-- Talla idónea para niños entre 1 - 2 años
 - Pijama de verano compuesto por una camiseta de tirantes y un pantalón corto con cintura elástica para mayor comodidad y ajuste, 100% algodón
+- Lavar a máquina - agua fría (30 ° max), planchar a baja temperatura (max 110°c)
+- Pijama corto para las noches de verano, permite que descanse correctamente, junto a su personaje favorito, sin que pase mucho calor durante las noches
 - Pijamas infantiles con licencia oficial disney mickey mouse
+- Talla idónea para niños entre 1 - 2 años
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0847MTWPV/?tag=tolees-21)
