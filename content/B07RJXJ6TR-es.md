@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ONLY Carmakoma NOS Caremmy Faux Leather  al 61.81 % de descuento'
-date: 2021-04-30 16:56:40
+date: 2021-05-17 13:46:17
 image: 'https://m.media-amazon.com/images/I/41-h6iWm2yL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ Está [ONLY Carmakoma NOS Caremmy Faux Leather Biker Noos Chaqueta  Negro  Black
 
 ℹ️:
 
-- Faux leather jacket
 - Leather jacket with biker style
+- Faux leather jacket
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07RJXJ6TR/?tag=tolees-21)
