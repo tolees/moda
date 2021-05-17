@@ -30,8 +30,8 @@ Tienes [NIKE  Dri-Fit Academy 21  Manga Corta Jersey](https://www.amazon.es/dp/B
 
 - Tipo de fábrica: 100% Poliéster Reciclado
 - Las suaves y elásticos tejido se mueve el sudor de la piel
-- Tipo de deporte: Fútbol
 - Paneles de malla mantienen fresco para que pueda centrarse en jugar su mejor
 - Este producto está hecho con fibras de poliéster reciclado el 100%
+- Tipo de deporte: Fútbol
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08NYKC9QS/?tag=tolees-21)
