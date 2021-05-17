@@ -28,10 +28,10 @@ Tienes [DeFacto Pantalón Mujer Gris](https://www.amazon.es/dp/B08FCH14SZ/?tag=t
 
 🔎:
 
-- Pantalones Mujer Gris
 - Pantalones
+- Pantalones Mujer Gris
 - Ajuste: pierna ancha
-- Poliéster, 63 % viscosa, 34 % elastano, 3 %
 - Fabricado en Turquía
+- Poliéster, 63 % viscosa, 34 % elastano, 3 %
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08FCH14SZ/?tag=tolees-21)
