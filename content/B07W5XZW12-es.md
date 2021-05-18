@@ -30,7 +30,7 @@ Ahora mismo tienes [NIKE M Nk Dry Park VII JSY SS Camiseta de Manga Corta  Hombr
 
 - Camiseta de fútbol para hombre
 - Detalles distintivos de la marca
-- Con cuello redondo
 - Fabricada en tejido transpirable que mantiene la piel fresca y seca
+- Con cuello redondo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07W5XZW12/?tag=tolees-21)
