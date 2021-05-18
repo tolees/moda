@@ -28,10 +28,10 @@ Tienes [Columbia Zero Rules  Camiseta de manga corta  Hombre  Gris  Columbia Gre
 
 ℹ️:
 
-- Tejido refrigerante Omni-freeze zero activado por el sudor para mantenerte fresco cuando más sudes
-- Contenido: 1x Columbia Zero Rules Camiseta de manga corta para hombre, Gris (Columbia Grey Heather), XXL, 1533313
 - Adecuado para actividades al aire libre, Puede ser usado todo el año
-- La tecnología Omni-wick extrae la humedad del cuerpo
+- Contenido: 1x Columbia Zero Rules Camiseta de manga corta para hombre, Gris (Columbia Grey Heather), XXL, 1533313
 - Camiseta de manga corta para hombres
+- La tecnología Omni-wick extrae la humedad del cuerpo
+- Tejido refrigerante Omni-freeze zero activado por el sudor para mantenerte fresco cuando más sudes
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00TIM9GQ0/?tag=tolees-21)
