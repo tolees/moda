@@ -28,8 +28,8 @@ En este momento está [Vans Classic Boys Camiseta  Negro azafrán  M para Niños
 
 🔎:
 
-- Cuello redondo de forro polar de 320 g con logotipo bordado en el pecho izquierdo
 - Camiseta de 145 g
+- Cuello redondo de forro polar de 320 g con logotipo bordado en el pecho izquierdo
 - Corte clásico
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08MFSBWC3/?tag=tolees-21)

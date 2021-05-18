@@ -28,8 +28,8 @@ Está [Joma Combi Camiseta Manga Corta  Hombre  Naranja  L](https://www.amazon.e
 
 ℹ️:
 
-- Tejido transpirable
 - Comodidad
 - Durabilidad
+- Tejido transpirable
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00L36TRBS/?tag=tolees-21)
