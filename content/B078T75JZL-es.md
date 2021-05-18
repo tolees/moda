@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 34.13 % en Tommy Hilfiger Essential TH Beach Sandal'
-date: 2021-04-28 14:01:23
+date: 2021-05-18 08:01:02
 image: 'https://m.media-amazon.com/images/I/41+Tq2wSgoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [Tommy Hilfiger Essential TH Beach Sandal  Chanclas Hombre  Azul  Midnigh
 
 ℹ️:
 
-- Estación: SIEMPRE DISPONIBLE
-- Material: Poliéster
 - Color: noche
-- Artículo: FM0FM01369 ESSENTIAL TH
+- Estación: SIEMPRE DISPONIBLE
 - Designer: TOMMY HILFIGER
+- Artículo: FM0FM01369 ESSENTIAL TH
+- Material: Poliéster
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B078T75JZL/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clarks Un Karely Sun  Chanclas Sandalias con un 58.70 % de descuento'
-date: 2021-05-17 08:03:52
+date: 2021-05-18 08:08:38
 image: 'https://m.media-amazon.com/images/I/31-ZF1fqVNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Clarks'
 buyurl: 'https://www.amazon.es/dp/B07FR3TS48/?tag=tolees-21'
 descuento: '58.70'
-average: '42.005'
+average: '42.4942857142857'
 ---
 
 En este momento está [Clarks Un Karely Sun  Chanclas Sandalias Flip-Flop  Negro  Black Nubuck-   41 EU](https://www.amazon.es/dp/B07FR3TS48/?tag=tolees-21) a 45.43 EUR (original: 110.0 EUR) (58.70 %  de descuento) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [Clarks Un Karely Sun  Chanclas Sandalias Flip-Flop  Negro
 
 🔎:
 
-- Material exterior: piel (nobuck)
-- Suela: goma
 - Cierre: cierre de velcro
+- Suela: goma
 - Material interior: piel
+- Material exterior: piel (nobuck)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07FR3TS48/?tag=tolees-21)
