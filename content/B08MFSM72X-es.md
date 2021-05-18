@@ -28,8 +28,8 @@ Ahora mismo tienes [Vans Classic Boys Camiseta  Negro azafrán  L para Niños](h
 
 🔎:
 
-- Camiseta de 145 g
 - Corte clásico
+- Camiseta de 145 g
 - Camiseta sin mangas 100% algodón 185 g 20/1 cardado hilado en anillo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08MFSM72X/?tag=tolees-21)

@@ -28,9 +28,9 @@ Ahora mismo tienes [Hurley W Jenna Dress Vestido  Mujer  Black Palm  M](https://
 
 🔎:
 
-- Vestido sin mangas con pantalón corto y dobladillo recto
-- 100% rayón
 - Etiqueta Hurley en el lado izquierdo
+- 100% rayón
+- Vestido sin mangas con pantalón corto y dobladillo recto
 - Ajuste holgado
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0823VWP2P/?tag=tolees-21)
