@@ -28,7 +28,7 @@ En este momento está [Wrangler CLAIC Americana Camiseta  Color Negro  M para Ho
 
 🔎:
 
-- Knits.
 - Ajuste regular.
+- Knits.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CVL7QR8/?tag=tolees-21)
