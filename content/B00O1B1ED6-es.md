@@ -28,7 +28,7 @@ Está [Only 15095808 Camiseta sin Mangas  Negro  Black Black   42  Talla del Fab
 
 ℹ️:
 
-- Basic top
 - Top e of sustainable cotton
+- Basic top
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00O1B1ED6/?tag=tolees-21)

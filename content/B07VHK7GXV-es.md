@@ -29,7 +29,7 @@ Ahora mismo tienes [Hackett London Garment Dye LN BS Camisa de oficina  Amarillo
 🔎:
 
 - manga larga
-- Lino
 - Corte estándar
+- Lino
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VHK7GXV/?tag=tolees-21)
