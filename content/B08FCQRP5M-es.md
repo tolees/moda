@@ -29,8 +29,8 @@ Tienes [adidas Madrid Temporada 2020/21 Real A SHO Pantalón Corto Segunda equip
 ℹ️:
 
 - Sensación ligera y transpirable.
-- Ajuste holgado
 - Pantalones cortos de rendimiento para los fanáticos de james harden.
+- Ajuste holgado
 - Cintura elástica con cordón
 - Esta prenda está hecha con Primegreen, una serie de materiales reciclados de alto rendimiento.
 
