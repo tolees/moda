@@ -28,10 +28,10 @@ Ahora mismo tienes [Tommy Hilfiger Jewelry Collar con colgante Hombre acero inox
 
 🔎:
 
-- Collar fino con placa para hombre
 - Longitud: 55,8cm
-- Logotipo de TH con detalle a rayas en los colores de Tommy Hilfiger en la placa
 - Cierre: mosquetón
+- Collar fino con placa para hombre
 - Collar de cadena de acero inoxidable
+- Logotipo de TH con detalle a rayas en los colores de Tommy Hilfiger en la placa
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VFHRRFV/?tag=tolees-21)
