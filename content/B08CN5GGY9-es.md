@@ -30,7 +30,7 @@ Tienes [Desigual TS Santorini Camiseta  Azul  L para Mujer](https://www.amazon.e
 
 - Estampado de cenefas con cactus, elefantes, mandalas y flores
 - Cuello redondo profundo
-- Lavar a máquina con agua fría del revés, lavado suave
 - 100% VISCOSE
+- Lavar a máquina con agua fría del revés, lavado suave
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08CN5GGY9/?tag=tolees-21)

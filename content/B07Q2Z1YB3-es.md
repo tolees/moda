@@ -30,8 +30,8 @@ En este momento está [Fossil Collar para Mujer JF03161710](https://www.amazon.e
 
 - Color principal: Oro
 - Se presenta en caja de regalo Fossil
-- Medidas: 40.64cm + 5.08cm Extension Chain
-- Cierre:Cierre de mosquetón
 - Material: Acero inoxidable
+- Cierre:Cierre de mosquetón
+- Medidas: 40.64cm + 5.08cm Extension Chain
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07Q2Z1YB3/?tag=tolees-21)
