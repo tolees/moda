@@ -28,7 +28,7 @@ Ahora mismo tienes [Lacoste TH6709 Camiseta  Groseillier  L para Hombre](https:/
 
 🔎:
 
-- Regular fit
 - Punto liso de algodón Pima
+- Regular fit
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08B3RB2BH/?tag=tolees-21)
