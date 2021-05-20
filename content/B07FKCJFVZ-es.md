@@ -28,9 +28,9 @@ Ahora mismo tienes [NIKE W NP Tank All Over Mesh Camiseta sin Mangas  Mujer  Bla
 
 🔎:
 
-- Tejido elástico para alta movilidad
-- Composición del material 92% Poliéster, 8% Elastano
-- Costuras consolidadas para un alto confort
 - El tejido Dri-FIT absorbe el sudor para mantenerte seco y cómodo
+- Tejido elástico para alta movilidad
+- Costuras consolidadas para un alto confort
+- Composición del material 92% Poliéster, 8% Elastano
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07FKCJFVZ/?tag=tolees-21)

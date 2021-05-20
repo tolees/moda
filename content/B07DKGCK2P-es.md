@@ -30,7 +30,7 @@ Ahora mismo tienes [Puma Active T Camiseta  Hombre  Negro Black  M](https://www.
 
 - dryCELL: La composición de alto rendimiento aleja la transpiración de la piel y ayuda a mantenerte seco y cómodo durante el ejercicio
 - Corte recto
-- Cuello redondo en canalé
 - Logotipo N.º 1 estampado con pigmentos (colores: 1, 2, 3, 5, 6, 1); logotipo del felino estampado con pigmentos (colores: 21, 22, 23, 25, 26, 3)
+- Cuello redondo en canalé
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DKGCK2P/?tag=tolees-21)
