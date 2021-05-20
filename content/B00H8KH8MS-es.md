@@ -28,14 +28,14 @@ En este momento está [Geox JR Agata A  School Uniform Shoe  Negro  Black C9999 
 
 🔎:
 
-- Altura del tacón: 2.5 centímetros
-- Tipo de talla: Los zapatos Geox son holgados
-- Tipo de tacón: Bloque
-- Cierre: Sin cierre
 - Material de la suela: Caucho
-- Material exterior: Charol
-- Revestimiento: Sintético
 - Composición: Cuero
 - Anchura del zapato: Normal
+- Material exterior: Charol
+- Tipo de tacón: Bloque
+- Altura del tacón: 2.5 centímetros
+- Cierre: Sin cierre
+- Revestimiento: Sintético
+- Tipo de talla: Los zapatos Geox son holgados
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00H8KH8MS/?tag=tolees-21)

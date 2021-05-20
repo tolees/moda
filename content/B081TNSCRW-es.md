@@ -28,9 +28,9 @@ Está [adidas Selección Española Temporada 2020/21 Camiseta Primera equipació
 
 ℹ️:
 
+- Ajuste regular
 - Tiene el logo de la marca en el pecho
 - Con escote de pico acanalado
-- Ajuste regular
 - Camiseta de fútbol para los aficionados de España
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B081TNSCRW/?tag=tolees-21)
