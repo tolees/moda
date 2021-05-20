@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pepe Jeans Original Basic S/S PM503835 C al 37.55 % de descuento'
-date: 2021-05-12 19:36:18
+date: 2021-05-20 11:15:22
 image: 'https://m.media-amazon.com/images/I/31gO3hjplJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pepe Jeans'
 buyurl: 'https://www.amazon.es/dp/B06XTMN1DM/?tag=tolees-21'
 descuento: '37.55'
-average: '12.082'
+average: '12.15'
 ---
 
 Está [Pepe Jeans Original Basic S/S PM503835 Camiseta  Negro  Black 999   Large para Hombre](https://www.amazon.es/dp/B06XTMN1DM/?tag=tolees-21) con 37.55 de descuento por 12.49 EUR (original: 20.0 EUR) en el siguiente enlace!
