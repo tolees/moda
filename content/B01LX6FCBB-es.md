@@ -28,7 +28,7 @@ Está [ONLY & SONS onsALBERT NEW SS TEE NOOS  Camiseta Hombre  Blanco  White   M
 
 ℹ️:
 
-- Sin ella, falta algo en tu armario. Puedes llevar este artículo con todo. Se adaptan a todos los atuendos. Estamos hablando naturalmente de Basics.
 - Son sencillas, fáciles y se pueden llevar una y otra vez. Son imprescindibles. Son versátiles. Completa tu atuendo.
+- Sin ella, falta algo en tu armario. Puedes llevar este artículo con todo. Se adaptan a todos los atuendos. Estamos hablando naturalmente de Basics.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01LX6FCBB/?tag=tolees-21)
