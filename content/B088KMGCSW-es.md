@@ -28,10 +28,10 @@ En este momento está [SPYDER Tripoint GTX Chaqueta  Hombre  Abyss  M](https://w
 
 🔎:
 
-- Costuras totalmente selladas
 - Sistema de ventilación en el cuerpo
 - Cremalleras ykk
 - Capucha desmontable compatible con casco y con abertura ajustable
 - Cremallera ykk aquaguard en la parte frontal central y en los bolsillos para manos y del pecho
+- Costuras totalmente selladas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B088KMGCSW/?tag=tolees-21)
