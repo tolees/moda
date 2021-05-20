@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Havaianas Top Tiras  Chanclas para Mujer al 44.77 % de descuento'
-date: 2021-05-18 10:02:04
+date: 2021-05-20 18:01:29
 image: 'https://m.media-amazon.com/images/I/31aDFZzAFhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Havaianas'
 buyurl: 'https://www.amazon.es/dp/B01L412ODO/?tag=tolees-21'
 descuento: '44.77'
-average: '11.5614285714286'
+average: '11.49'
 ---
 
 Ahora mismo tienes [Havaianas Top Tiras  Chanclas para Mujer  Dorado  Rose Gold   37/38 EU](https://www.amazon.es/dp/B01L412ODO/?tag=tolees-21) a 10.99 EUR (original: 19.9 EUR) (44.77 %  de descuento) en el siguiente enlace!

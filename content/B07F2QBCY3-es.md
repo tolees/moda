@@ -28,8 +28,8 @@ En este momento está [Helly Hansen HH Logo Crew Sudadera  Hombre  Gris  XL](htt
 
 🔎:
 
-- De la marca Helly Hansen.
 - De alta calidad.
+- De la marca Helly Hansen.
 - Felpa francesa de algodón | Logotipo de HH estampado | Cuello redondo | Canalé en el bajo y en las mangas | Corte recto | Fabricada en Europa
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07F2QBCY3/?tag=tolees-21)
