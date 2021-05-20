@@ -28,8 +28,8 @@ Tienes [Jack & Jones JJARID tee SS Crew Neck Camiseta  Denim/Ajuste: reg  L para
 
 🔎:
 
+- Camiseta con logotipo.
 - Estilo jersey.
 - Camiseta de algodón.
-- Camiseta con logotipo.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08LPN9JXB/?tag=tolees-21)
