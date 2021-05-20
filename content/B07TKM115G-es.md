@@ -28,10 +28,10 @@ Tienes [HAWKERS X Paula ECHEVARRIA · Lauper Gafas de sol  Azul electrico  One S
 
 ℹ️:
 
-- Modelo para hombre y mujer: Unisex
-- Lentes de TR18 con el sello de Eastman, uno de los líderes mundiales en tecnología de copoliéster proporciona un equilibrio único entre claridad y resistencia; lentes categoría 3 y protección uv400
 - Producto oficial Hawkers
-- Montura en acetato de celulosa de alta calidad que aporta resistencia y durabilidad; almohadillas de TR90 para una sujeción más cómoda
 - Bisagra de 5 barras para un mayor agarre y durabilidad
+- Modelo para hombre y mujer: Unisex
+- Montura en acetato de celulosa de alta calidad que aporta resistencia y durabilidad; almohadillas de TR90 para una sujeción más cómoda
+- Lentes de TR18 con el sello de Eastman, uno de los líderes mundiales en tecnología de copoliéster proporciona un equilibrio único entre claridad y resistencia; lentes categoría 3 y protección uv400
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07TKM115G/?tag=tolees-21)

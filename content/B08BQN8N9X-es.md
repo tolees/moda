@@ -29,9 +29,9 @@ Tienes [HAWKERS Core Gafas de sol  Negro  One Size Unisex Adulto](https://www.am
 🔎:
 
 - Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores
-- Lentes categoría 3 y protección uv400
-- Modelo Core
-- Modelo para hombre y mujer: Unisex
 - Lente de policarbonato de alta resistencia a los golpes que proporciona comodidad por su flexibilidad y ligereza
+- Modelo para hombre y mujer: Unisex
+- Modelo Core
+- Lentes categoría 3 y protección uv400
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08BQN8N9X/?tag=tolees-21)
