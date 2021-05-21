@@ -28,8 +28,8 @@ Tienes [Lee Luke Vaqueros  Blueblack Night Jjhs  33W / 34L para Hombre](https://
 
 🔎:
 
+- Presentan 5 bolsillos
 - Vaqueros para hombre
 - Tienen bordado una etiqueta con la marca Lee
-- Presentan 5 bolsillos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B072QWDBT4/?tag=tolees-21)
