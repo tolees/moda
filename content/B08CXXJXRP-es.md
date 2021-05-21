@@ -28,8 +28,8 @@ En este momento está [Lee Extreme Motion Straight Vaqueros  Brady  42W / 32L pa
 
 🔎:
 
-- STRAIGHT FIT MVP
 - Recycled Fabrics
 - Tejido vaquero elástico
+- STRAIGHT FIT MVP
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CXXJXRP/?tag=tolees-21)
