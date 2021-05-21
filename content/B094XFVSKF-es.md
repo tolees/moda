@@ -28,10 +28,10 @@ Tienes [S.CHARMA Pijamas Mujer Verano Corto Sexy Sin Mangas Conjunto de Pijama C
 
 🔎:
 
-- ♛♛[Tamaño] S-2XL, la versión es suelta y ajustable, elija el tamaño más adecuado de acuerdo con la tabla de tallas que proporcionamos
-- ♛♛ [Material de alta calidad]: está hecho de una mezcla de poliéster y spandex de alta calidad, suave al tacto, muy fresco en verano. Sencillo, sexy y fácil de cuidar.
-- ♛♛ [Servicio postventa]: si tiene alguna pregunta sobre los productos de nuestra tienda, no dude en contactarnos por correo electrónico y haremos todo lo posible para resolverlo por usted.
 - ♛♛ [Regalo perfecto]: el pijama de esta dama es muy cómodo y holgado, lo que te permitirá relajarte por completo cuando duermas. Puedes usarlo en primavera y verano. Este pijama es un regalo perfecto para el Día de San Valentín y el Día de la Madre.
+- ♛♛ [Material de alta calidad]: está hecho de una mezcla de poliéster y spandex de alta calidad, suave al tacto, muy fresco en verano. Sencillo, sexy y fácil de cuidar.
 - ♛♛ [2 Piezas Estilo Sexy Design]: Conjunto de pijama de dos piezas, que incluye top de pijama sin mangas y shorts ajustables elásticos, diseñado con tirantes ajustables sin mangas sexy, shorts con banda elástica, escote en pico decorado con encaje floral. Estilo muy clásico, que no quedará desactualizado y lucirá tu figura perfecta.
+- ♛♛ [Servicio postventa]: si tiene alguna pregunta sobre los productos de nuestra tienda, no dude en contactarnos por correo electrónico y haremos todo lo posible para resolverlo por usted.
+- ♛♛[Tamaño] S-2XL, la versión es suelta y ajustable, elija el tamaño más adecuado de acuerdo con la tabla de tallas que proporcionamos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B094XFVSKF/?tag=tolees-21)
