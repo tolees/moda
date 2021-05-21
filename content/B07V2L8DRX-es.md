@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Superdry Classic Trunk Triple Pack Bóxer con un 48.59 % de descuento'
-date: 2021-05-01 10:33:58
+date: 2021-05-21 13:31:09
 image: 'https://m.media-amazon.com/images/I/41Yl+3LH1cL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
