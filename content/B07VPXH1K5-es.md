@@ -28,8 +28,8 @@ Tienes [Lee Malone Vaqueros  Dark del Rey RN  27W / 32L para Hombre](https://www
 
 ℹ️:
 
-- Vaqueros para hombre
 - Tienen un parche de piel en la parte trasera con la marca Lee
 - Presentan 5 bolsillos
+- Vaqueros para hombre
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07VPXH1K5/?tag=tolees-21)
