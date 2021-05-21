@@ -28,9 +28,9 @@ Ahora mismo tienes [Joma Combi Camiseta Manga Corta  Hombre  Gris  Melange Oscur
 
 🔎:
 
-- Camiseta de manga corta
-- Composición 100 % poliéster
 - Conserva su forma y colores durante toda la temporada
 - Diseñado para la práctica ocasional del deporte
+- Camiseta de manga corta
+- Composición 100 % poliéster
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01ERZ7SYY/?tag=tolees-21)

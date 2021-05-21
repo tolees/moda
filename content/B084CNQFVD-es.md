@@ -28,10 +28,10 @@ Tienes [HAWKERS · WARWICK XS · Black · Dark · Gafas de sol para hombre y muj
 
 🔎:
 
-- Almohadillas de silicona antideslizantes y anti-alérgicas, fijadas con un distintivo exclusivo de Hawkers en acero inoxidable; acabado con diseño de líneas geométricas
 - Modelo Warwick
 - Modelo para hombre y mujer: Unisex
-- Lentes de Nylon que ofrecen mayor nitidez y resistencia para un gran rendimiento óptico; lentes categoría 3 y protección uv400 que ofrecen una gran protección antideslumbrante
+- Almohadillas de silicona antideslizantes y anti-alérgicas, fijadas con un distintivo exclusivo de Hawkers en acero inoxidable; acabado con diseño de líneas geométricas
 - Producto oficial Hawkers
+- Lentes de Nylon que ofrecen mayor nitidez y resistencia para un gran rendimiento óptico; lentes categoría 3 y protección uv400 que ofrecen una gran protección antideslumbrante
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B084CNQFVD/?tag=tolees-21)
