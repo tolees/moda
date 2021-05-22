@@ -28,13 +28,13 @@ Ahora mismo tienes [Columbia Peakfreak Venture Waterproof  Zapatos Impermeables 
 
 🔎:
 
-- Altura del tacón: 1 centímetros
-- Composición: Cuero/Malla
-- Material exterior: Cuero
-- Revestimiento: Sintético
-- Cierre: Cordones
-- Material de la suela: Caucho
-- Tipo de tacón: Plano
 - Anchura del zapato: Normal
+- Cierre: Cordones
+- Revestimiento: Sintético
+- Composición: Cuero/Malla
+- Material de la suela: Caucho
+- Material exterior: Cuero
+- Altura del tacón: 1 centímetros
+- Tipo de tacón: Plano
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00Q7EUKKI/?tag=tolees-21)
