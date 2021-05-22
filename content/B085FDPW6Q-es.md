@@ -29,9 +29,9 @@ Está [HAWKERS Resort Gafas de sol  Marrón  One Size Unisex Adulto](https://www
 ℹ️:
 
 - Lentes marrones en TR18, con reducción de brillos y con gran equilibrio entre claridad y protección. Lente de categoría 3 con protección UV400. Resistencia muy alta.
-- Gafas de sol en estampado habana con acabado brillante. Un diseño que se inspira en las clásicas monturas estilo pantos y añade toques sutiles cat eye. Incorpora lentes marrones categoría 3 con protección 100% UV400.
 - Montura fabricada en acetato de celulosa que dota a las gafas de gran ligereza, flexibilidad y resistencia. Muy resistente a altas y bajas temperaturas.
-- Modelo Unisex. Frontal 13,8 cm; Alto 5,19 cm; Diámetro lente 5,2 cm; Puente 1,9 cm; Patillas 14 cm
 - Producto original Hawkers. La caja incluye funda, caja y set de pegatinas decorativas.
+- Modelo Unisex. Frontal 13,8 cm; Alto 5,19 cm; Diámetro lente 5,2 cm; Puente 1,9 cm; Patillas 14 cm
+- Gafas de sol en estampado habana con acabado brillante. Un diseño que se inspira en las clásicas monturas estilo pantos y añade toques sutiles cat eye. Incorpora lentes marrones categoría 3 con protección 100% UV400.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B085FDPW6Q/?tag=tolees-21)
