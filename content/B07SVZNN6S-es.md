@@ -28,8 +28,8 @@ Está [Roxy Viva  Zapatos de Playa y Piscina para Mujer  Plateado  Silver 1 Sl1 
 
 ℹ️:
 
-- __plantilla:__plantilla de goma con textura
 - __Parte superior:__ Parte superior de goma con pin metálico ROXY
 - __Suela exterior:__ suela exterior de goma
+- __plantilla:__plantilla de goma con textura
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07SVZNN6S/?tag=tolees-21)
