@@ -28,7 +28,7 @@ Ahora mismo tienes [Clarks Stanford Limit  Zapatos de Cordones Derby Hombre  Neg
 
 🔎:
 
-- Color exacto: Cuero Negro
 - Material de la suela: TR
+- Color exacto: Cuero Negro
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TLP7Z7S/?tag=tolees-21)

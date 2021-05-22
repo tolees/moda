@@ -28,10 +28,10 @@ En este momento está [Clarks Stanford Limit  Zapatos de Cordones Derby Hombre  
 
 🔎:
 
-- Ancho: G (estándar)
-- Suela: Tr
 - Parte Superior: Cuero
+- Ancho: G (estándar)
 - Fijación: Encaje
 - Forro: Textil
+- Suela: Tr
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07TNVW3ZM/?tag=tolees-21)
