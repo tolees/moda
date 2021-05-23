@@ -28,8 +28,8 @@ Ahora mismo tienes [Burton Covert Chaqueta De Snowboard  Hombre  Bog Heather  M]
 
 🔎:
 
-- Capucha fulltime Contour renovada compatible con un casco y ajuste de Una tirada
-- Impermeabilidad: tejido de sarga denim de poliéster con 2-capas DRYRIDE dura Shell
 - Bolsillo exterior en el pecho de acceso a dispositivos digitales con funda segura para audio
+- Impermeabilidad: tejido de sarga denim de poliéster con 2-capas DRYRIDE dura Shell
+- Capucha fulltime Contour renovada compatible con un casco y ajuste de Una tirada
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SHJDZ27/?tag=tolees-21)
