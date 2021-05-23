@@ -28,9 +28,9 @@ Tienes [Pepe Jeans Eggo PM500465 Camiseta  Negro  Black 999   X-Large para Hombr
 
 ℹ️:
 
-- Manga corta
 - Camiseta básica para hombre
 - Fabricada en tejido suave
 - Logo estampado en el pecho
+- Manga corta
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00DGUZLLO/?tag=tolees-21)
