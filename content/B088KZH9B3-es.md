@@ -28,9 +28,9 @@ En este momento está [Kappa Corezo Courir Camiseta  Hombre  Negro  M](https://w
 
 🔎:
 
+- Comodidad y durabilidad
 - Omini en el pecho
 - Banda Kappa en mangas
-- Comodidad y durabilidad
 - Un must have de la marca
 - Estilo made in Kappa
 
