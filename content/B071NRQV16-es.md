@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Sportswear Logo Graphic - Camiset al 18.04 % de descuento'
-date: 2021-05-22 05:22:15
+date: 2021-05-23 11:46:12
 image: 'https://m.media-amazon.com/images/I/41xr+7quJ0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B071NRQV16/?tag=tolees-21'
 descuento: '18.04'
-average: '19.83203125'
+average: '19.8421538461538'
 ---
 
 Está [Levi s Sportswear Logo Graphic - Camiseta para Hombre  Blanco  84 Sportswear Logo White 0000   Medium](https://www.amazon.es/dp/B071NRQV16/?tag=tolees-21) con 18.04 de descuento por 20.49 EUR (original: 25.0 EUR) en el siguiente enlace!
