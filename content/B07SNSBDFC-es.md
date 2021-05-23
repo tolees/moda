@@ -29,7 +29,7 @@ Ahora mismo tienes [Burton Vault Sudadera  Hombre  True Black  S](https://www.am
 🔎:
 
 - Puños y dobladillo de canalé
-- 60 % algodón; 40 % poliéster
 - Mangas raglán
+- 60 % algodón; 40 % poliéster
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SNSBDFC/?tag=tolees-21)

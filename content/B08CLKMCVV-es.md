@@ -28,10 +28,10 @@ En este momento está [Burton Oak Sudadera  Mujer  True Black Heather  XXS](http
 
 🔎:
 
+- El ajuste regular es perfecto: no demasiado apretado ni demasiado holgado
 - Bolsillo de canguro con puerto de medios dentro
 - Tejido de secado rápido y muy transpirable.
-- Tejido de felpa de poliéster francés cepillado
 - Los puños con orificio para el pulgar mantienen las mangas en su lugar
-- El ajuste regular es perfecto: no demasiado apretado ni demasiado holgado
+- Tejido de felpa de poliéster francés cepillado
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CLKMCVV/?tag=tolees-21)
