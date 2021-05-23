@@ -28,10 +28,10 @@ Ahora mismo tienes [HAWKERS Lauper Gafas de sol  Rosa  One Size Unisex Adulto](h
 
 🔎:
 
-- Modelo Fuchsia LAUPER
+- Montura en acetato de celulosa de alta calidad que aporta resistencia y durabilidad; almohadillas de acetato para una sujeción más cómoda
 - Montura rectangular slim en color fucsia transparente en acabado brillante y lentes cosméticas verdes; una apuesta por la tendencia neón de la temporada primavera-verano
 - Lentes de TR18 con el sello de Eastman que proporciona un equilibrio entre claridad y resistencia; lentes cosméticas categoría 1 y protección uv400
 - Modelo para mujer
-- Montura en acetato de celulosa de alta calidad que aporta resistencia y durabilidad; almohadillas de acetato para una sujeción más cómoda
+- Modelo Fuchsia LAUPER
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TKM12JC/?tag=tolees-21)

@@ -28,10 +28,10 @@ Ahora mismo tienes [PUMA Cup Training Jersey Jersey  Hombre  Alpine Green-Pepper
 
 🔎:
 
-- Logo del felino de Puma en el lado derecho del pecho
 - Gráficos de sublimación en toda la prenda en las mangas y en la parte posterior
+- Logo de dryCELL en la parte izquierda del dobladillo
 - Corte Slim
 - Drycell: el diseño de Puma con propiedades que absorben la humedad para ayudar a mantenerte seco y cómodo
-- Logo de dryCELL en la parte izquierda del dobladillo
+- Logo del felino de Puma en el lado derecho del pecho
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07NGPWTKH/?tag=tolees-21)
