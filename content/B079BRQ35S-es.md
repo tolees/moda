@@ -30,7 +30,7 @@ Tienes [Jack & Jones Jjecorp Logo tee SS Crew Neck Noos Camiseta  Azul  Navy Bla
 
 - Escote: Cuello redondo.
 - Jack & Jones - Camiseta de manga corta para hombre.
-- Compatibilidad: Corte entallado.
 - Tipo de manga: Manga corta.
+- Compatibilidad: Corte entallado.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B079BRQ35S/?tag=tolees-21)
