@@ -28,10 +28,10 @@ En este momento está [DEWEL Collar Antiparasitos Perro y Gato contra Pulgas Gar
 
 🔎:
 
-- 【Garantía】 ：Si tiene cualquier problema sobre el producto, puede conectarnos de inmediato. Estamos a su disposición en todo momento.
-- 【Tamaño】La longitud del collar es 63.5cm/25in. Cuando lo utiliza, puede cortarlo hasta la longitud adecuada.
-- 【Impermeable】No tiene que quitarlo cuando lavar su mascota o nadar por que el collar es impermeable.
 - 【 Versión Mejorada 】Se produce con aceites esenciales naturales.La duración de cada collar contra pulgas y garrapatas es 8 meses.
 - 【Nota】Si su mascota aparece síntomas de alergia, deja de utilizarlo y quitarlo, por favor. Porque cada mascota tiene diferente sensibilidad de piel.
+- 【Garantía】 ：Si tiene cualquier problema sobre el producto, puede conectarnos de inmediato. Estamos a su disposición en todo momento.
+- 【Impermeable】No tiene que quitarlo cuando lavar su mascota o nadar por que el collar es impermeable.
+- 【Tamaño】La longitud del collar es 63.5cm/25in. Cuando lo utiliza, puede cortarlo hasta la longitud adecuada.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07RZRHL3Z/?tag=tolees-21)

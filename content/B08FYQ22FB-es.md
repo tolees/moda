@@ -28,9 +28,9 @@ Ahora mismo tienes [Havaianas Top Camu  Chanclas Hombre  Verde Oliva  39/40 EU](
 
 🔎:
 
-- Cómodo.
-- Resistente al agua.
 - Fabricado en Brasil.
+- Resistente al agua.
 - Antideslizante.
+- Cómodo.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08FYQ22FB/?tag=tolees-21)
