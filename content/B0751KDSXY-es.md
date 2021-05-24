@@ -28,7 +28,7 @@ Está [Vero Moda Vmhot SOYA LS Jacket Mix Noos Chaqueta  Azul  Light Blue Denim 
 
 ℹ️:
 
-- chest pockets and little stand-up collar
 - jeans jacket with silver buttons
+- chest pockets and little stand-up collar
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0751KDSXY/?tag=tolees-21)
