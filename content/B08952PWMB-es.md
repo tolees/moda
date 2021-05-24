@@ -28,9 +28,9 @@ Ahora mismo tienes [Geox UOMO City A  Oxford Hombre  Cognac  42 EU](https://www.
 
 🔎:
 
+- Material superior: Cuero,Material interno: Tela,Suela exterior: Goma,Suela de cubierta: transpirable,antibacteriano,antishock
+- Geox UOMO CITY U0469A Hombre,de caballero Zapatos con cordones,Zapatos deportivos con cordones,Calzado,zapato con cordones,calzado de exterior,Derby cordón,deportivo,Ocio,COGNAC (Marrón)
 - Cierre: Cordones,Resistencia al agua: No resistente al agua
 - Tipo de talón: Plataforma,Altura del talón: 0 cm,Tipo de caña: tobillo
-- Geox UOMO CITY U0469A Hombre,de caballero Zapatos con cordones,Zapatos deportivos con cordones,Calzado,zapato con cordones,calzado de exterior,Derby cordón,deportivo,Ocio,COGNAC (Marrón)
-- Material superior: Cuero,Material interno: Tela,Suela exterior: Goma,Suela de cubierta: transpirable,antibacteriano,antishock
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08952PWMB/?tag=tolees-21)
