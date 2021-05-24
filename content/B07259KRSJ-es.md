@@ -28,8 +28,8 @@ Tienes [G-STAR RAW Base R T L/S 1-Pack Camisa Manga Larga  Negro  Black 990   Sm
 
 🔎:
 
+- Ver descripción del producto para obtener más información.
 - A estrenar y genuina. Somos un vendedor autorizado de G-Star.
 - G-Star Negro Playera de manga larga con logo
-- Ver descripción del producto para obtener más información.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07259KRSJ/?tag=tolees-21)

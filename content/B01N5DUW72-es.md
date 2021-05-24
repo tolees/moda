@@ -28,8 +28,8 @@ Ahora mismo tienes [G-STAR RAW Eyben Slim V T Wmn S/s Camiseta  Blanco  White 11
 
 🔎:
 
-- Cuello de pico
 - Corte ajustado
+- Cuello de pico
 - Marca en el pecho
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01N5DUW72/?tag=tolees-21)
