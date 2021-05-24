@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HAWKERS Gafas de Sol Carbono  para Hombr al 42.87 % de descuento'
-date: 2021-05-22 11:15:00
+date: 2021-05-23 23:33:58
 image: 'https://m.media-amazon.com/images/I/31pHFRETQlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [HAWKERS Gafas de Sol Carbono  para Hombre y Mujer  con Montura Negra Mate
 
 ℹ️:
 
-- Montura fabricada en TR90, que dota a las gafas de gran ligereza, flexibilidad y resistencia, muy resistente a altas y bajas temperaturas.
-- Lente oscura fabricada en TR18, con reducción de brillos y con gran equilibrio entre claridad y protección. Lente de categoría 3 con protección UV400. Resistencia muy alta
+- Producto original Hawkers. La caja incluye funda de microfibra, caja y set de pegatinas decorativas.
 - Icónico modelo Hawkers One Carbono, Unisex, con montura Carbon Black mate con trama lineal y lente oscura
 - Medidas: Frente: 14cm, Altura: 5cm, Varillas: 14cm
-- Producto original Hawkers. La caja incluye funda de microfibra, caja y set de pegatinas decorativas.
+- Montura fabricada en TR90, que dota a las gafas de gran ligereza, flexibilidad y resistencia, muy resistente a altas y bajas temperaturas.
+- Lente oscura fabricada en TR18, con reducción de brillos y con gran equilibrio entre claridad y protección. Lente de categoría 3 con protección UV400. Resistencia muy alta
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07JN16DCM/?tag=tolees-21)
