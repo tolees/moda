@@ -28,7 +28,7 @@ Tienes [Jack & Jones NOS Jjiglenn Jjoriginal Am 816 Noos Vaqueros slim  Negro Bl
 
 🔎:
 
-- black skinny jeans
 - elastic cotton mixture
+- black skinny jeans
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07JQB9S94/?tag=tolees-21)
