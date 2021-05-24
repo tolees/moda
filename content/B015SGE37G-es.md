@@ -28,13 +28,13 @@ Ahora mismo tienes [Havaianas Brasil Logo Chanclas Unisex Adulto  Multicolor  Re
 
 🔎:
 
+- Resistente al agua
 - Cierre: Sin cordones
+- Material exterior: Caucho
+- Material de la suela: Goma
 - Anchura del zapato: Normal
+- Tipo de tacón: Plano
 - Composición: Goma
 - Fabricado en Brasil. Nota: El tamaño marcado en las chanclas es de tamaño brasileño.
-- Material de la suela: Goma
-- Tipo de tacón: Plano
-- Resistente al agua
-- Material exterior: Caucho
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B015SGE37G/?tag=tolees-21)
