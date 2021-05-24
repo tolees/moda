@@ -28,10 +28,10 @@ Ahora mismo tienes [HAWKERS Lauper Gafas de sol  Verde  One Size Unisex Adulto](
 
 🔎:
 
-- Lentes de TR18 con el sello de Eastman, uno de los líderes mundiales en tecnología de copoliéster; proporciona un equilibrio único entre claridad y resistencia
-- Estas gafas de sol con montura cuadrada estrecha, son una combinación ácida de colores verde limón en acabado brillante transparente y lentes cosméticas color púrpura
-- Modelo para hombre y mujer: Unisex
-- Lentes de TR18 con el sello de Eastman que proporciona un equilibrio entre claridad y resistencia; lentes cosméticas categoría 1 y protección uv400
 - Modelo Acid LAUPER
+- Modelo para hombre y mujer: Unisex
+- Lentes de TR18 con el sello de Eastman, uno de los líderes mundiales en tecnología de copoliéster; proporciona un equilibrio único entre claridad y resistencia
+- Lentes de TR18 con el sello de Eastman que proporciona un equilibrio entre claridad y resistencia; lentes cosméticas categoría 1 y protección uv400
+- Estas gafas de sol con montura cuadrada estrecha, son una combinación ácida de colores verde limón en acabado brillante transparente y lentes cosméticas color púrpura
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07RQ8L2BL/?tag=tolees-21)
