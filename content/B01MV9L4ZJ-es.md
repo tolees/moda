@@ -28,7 +28,7 @@ Tienes [Lacoste TH6709  Camiseta para Hombre  Azul  Marine   S  Talla del fabric
 
 🔎:
 
-- Regular fit
 - Punto liso de algodón Pima
+- Regular fit
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01MV9L4ZJ/?tag=tolees-21)
