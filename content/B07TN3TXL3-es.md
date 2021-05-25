@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'JACK & JONES 12152840 Sudadera con capuc con un 30.01 % de descuento'
-date: 2021-05-10 08:36:42
-image: 'https://m.media-amazon.com/images/I/41kZTlh+3ES._SL500_._SL400_.jpg'
+date: 2021-05-25 08:45:06
+image: 'https://m.media-amazon.com/images/I/419RS9sKqpS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,17 +19,17 @@ flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B07TN3TXL3/?tag=tolees-21'
 descuento: '30.01'
-average: '17.64'
+average: '17.8633333333333'
 ---
 
 En este momento está [JACK & JONES 12152840 Sudadera con capucha  Gris  Light Melange   M para Hombre](https://www.amazon.es/dp/B07TN3TXL3/?tag=tolees-21) a 20.99 EUR (original: 29.99 EUR) (30.01 %  de descuento) en el siguiente enlace!
 
-[![JACK & JONES 12152840 Sudadera con capuc](https://m.media-amazon.com/images/I/41kZTlh+3ES._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07TN3TXL3/?tag=tolees-21)
+[![JACK & JONES 12152840 Sudadera con capuc](https://m.media-amazon.com/images/I/419RS9sKqpS._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07TN3TXL3/?tag=tolees-21)
 
 🔎:
 
-- Mezcla de algodón
-- Talla/Tamaño: Medium
 - Jersey con logo
+- Talla/Tamaño: Medium
+- Mezcla de algodón
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07TN3TXL3/?tag=tolees-21)
