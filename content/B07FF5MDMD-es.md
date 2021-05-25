@@ -28,7 +28,7 @@ Tienes [Only Onllillo L/s Dress Knt Noos Vestido  Multicolor  Night Sky White   
 
 ℹ️:
 
-- Colorblocking knit dress
 - Loose fit knit dress
+- Colorblocking knit dress
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07FF5MDMD/?tag=tolees-21)

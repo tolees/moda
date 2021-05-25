@@ -28,7 +28,7 @@ Está [Only Onlwinner SL Maxidress Noos Wvn Vestido  Multicolor  Cloud Dancer AO
 
 ℹ️:
 
-- Maxi dress with thin straps
 - Fluent fabric
+- Maxi dress with thin straps
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07PZMV26B/?tag=tolees-21)
