@@ -30,8 +30,8 @@ Está [Columbia Saturday Trail  Falda pantalón  Mujer  Beige  Fossil   Talla 4]
 
 - Mayor protección solar para la piel incluso en los días más soleados
 - Una falda femenina, elegante y práctica, Adecuado para caminar y hacer excursiones
-- Tejido elástico para un confort óptimo
 - Contenido: 1x Columbia Saturday Trail, Falda pantalón para mujer, Fibra sintética, Beige (Fossil), 4, 1710551
+- Tejido elástico para un confort óptimo
 - Tejido resistente a las manchas y al agua gracias a la tecnología de Omni-shield
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01N6IAWHG/?tag=tolees-21)

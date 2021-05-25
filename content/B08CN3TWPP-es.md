@@ -29,7 +29,7 @@ En este momento está [G-STAR RAW Base-S Camiseta  Dark Candy 336-c235  M para H
 🔎:
 
 - Bordado de G-Star RAW en el pecho
-- Bajo recto
 - Cuello redondo
+- Bajo recto
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CN3TWPP/?tag=tolees-21)
