@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jjecorp Logo tee SS Crew Ne al 40.04 % de rebaja'
-date: 2021-05-23 11:35:33
+date: 2021-05-24 23:59:00
 image: 'https://m.media-amazon.com/images/I/41VbNe8l77L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ Tienes [Jack & Jones Jjecorp Logo tee SS Crew Neck Noos Camiseta  Gris  Light Gr
 🔎:
 
 - Compatibilidad: Corte entallado.
+- Jack & Jones - Camiseta de manga corta para hombre.
 - Tipo de manga: Manga corta.
 - Escote: Cuello redondo.
-- Jack & Jones - Camiseta de manga corta para hombre.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B079BNBYFC/?tag=tolees-21)
