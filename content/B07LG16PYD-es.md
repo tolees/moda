@@ -28,13 +28,13 @@ Está [Geox Women s D NEW ANNYA MID A Closed Toe Heels  Blue  Navy C4002  7 UK](
 
 ℹ️:
 
-- Revestimiento: Sintético
-- Altura del tacón: 5.5 centímetros
-- Anchura del zapato: Normal
 - Tipo de tacón: Tacón ancho
 - Cierre: Sin cierre
-- Material de la suela: Sintético
-- Tipo de talla: Los zapatos Geox son holgados
 - Material exterior: Cuero
+- Material de la suela: Sintético
+- Anchura del zapato: Normal
+- Altura del tacón: 5.5 centímetros
+- Tipo de talla: Los zapatos Geox son holgados
+- Revestimiento: Sintético
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07LG16PYD/?tag=tolees-21)

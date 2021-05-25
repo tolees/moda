@@ -1,32 +1,33 @@
 ---
 layout: post
-title: 'Descuento del 52.06 % en Clarks Tilden Walk  Zapatos de Cordones '
-date: 2020-06-25 21:22:34
-image: 'https://m.media-amazon.com/images/I/317iihs9d1L._SL400_.jpg'
+title: 'Descuento del 58.32 % en Clarks Tilden Walk  Zapatos de Cordones '
+date: 2021-05-25 01:20:08
+image: 'https://m.media-amazon.com/images/I/418J9OJsDYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B00TTJETUA-es Clarks Tilden Walk Zapatos de Cordones Derby Negro Black...'
+slug: 'B00TTJETUA-es Clarks Tilden Walk Zapatos de Cordones Derby Hombre Negro...'
 sku: 'B00TTJETUA-es'
-tags: [ 'zapatos', ]
-actualPrice: 38.33 EUR
+tags: [ 'Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','clarks','zapatos', ]
+actualPrice: 33.32 EUR
 currency: EUR
-price: 38.33
+price: 33.32
 comparePrice: 79.95 EUR
-prodname: 'Clarks Tilden Walk  Zapatos de Cordones Derby  Negro  Black Leather-   47 EU'
+prodname: 'Clarks Tilden Walk  Zapatos de Cordones Derby Hombre  Negro  Black Leather-   47 EU'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Clarks'
 buyurl: 'https://www.amazon.es/dp/B00TTJETUA/?tag=tolees-21'
-descuento: '52.06'
-average: '38.33'
+descuento: '58.32'
+average: '36.66'
 ---
 
-Tienes [Clarks Tilden Walk  Zapatos de Cordones Derby  Negro  Black Leather-   47 EU](https://www.amazon.es/dp/B00TTJETUA/?tag=tolees-21) con un 52.06 % de descuento con precio de oferta de 38.33 EUR (original: 79.95 EUR) en el siguiente enlace!
+Tienes [Clarks Tilden Walk  Zapatos de Cordones Derby Hombre  Negro  Black Leather-   47 EU](https://www.amazon.es/dp/B00TTJETUA/?tag=tolees-21) con un 58.32 % de descuento con precio de oferta de 33.32 EUR (original: 79.95 EUR) en el siguiente enlace!
 
-[![Clarks Tilden Walk  Zapatos de Cordones ](https://m.media-amazon.com/images/I/317iihs9d1L._SL400_.jpg)](https://www.amazon.es/dp/B00TTJETUA/?tag=tolees-21)
+[![Clarks Tilden Walk  Zapatos de Cordones ](https://m.media-amazon.com/images/I/418J9OJsDYL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B00TTJETUA/?tag=tolees-21)
 
 ℹ️:
 
+- cuero
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00TTJETUA/?tag=tolees-21)
