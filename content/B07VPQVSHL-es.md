@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Tommy Hilfiger Stretch Slim Fit tee Cami al 31.24 % de descuento'
-date: 2020-06-10 10:28:07
-image: 'https://m.media-amazon.com/images/I/41JVuMMwDoL._SL400_.jpg'
+title: 'Tommy Hilfiger Hombre Stretch Slim Fit t al 50.54 % de descuento'
+date: 2021-05-25 19:26:45
+image: 'https://m.media-amazon.com/images/I/41JVuMMwDoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07VPQVSHL-es Tommy Hilfiger Stretch Slim Fit tee Camiseta Deporte...'
+slug: 'B07VPQVSHL-es Tommy Hilfiger Hombre Stretch Slim Fit tee Camiseta...'
 sku: 'B07VPQVSHL-es'
-tags: [ 'camiseta', ]
-actualPrice: 26.26 EUR
+tags: [ 'Camisetas para hombre','Camisetas, polos y camisas para hombre','Ropa','Ropa para hombre','camiseta','tommy hilfiger', ]
+actualPrice: 18.89 EUR
 currency: EUR
-price: 26.26
+price: 18.89
 comparePrice: 38.19 EUR
-prodname: 'Tommy Hilfiger Stretch Slim Fit tee Camiseta Deporte  Desert Sky/White  XXX-Large para Hombre'
+prodname: 'Tommy Hilfiger Hombre Stretch Slim Fit tee Camiseta Deporte Not Applicable  Azul  Desert Sky/White A   XXX-Large'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Tommy Hilfiger'
 buyurl: 'https://www.amazon.es/dp/B07VPQVSHL/?tag=tolees-21'
-descuento: '31.24'
-average: '26.26'
+descuento: '50.54'
+average: '23.8033333333333'
 ---
 
-Ahora mismo tienes [Tommy Hilfiger Stretch Slim Fit tee Camiseta Deporte  Desert Sky/White  XXX-Large para Hombre](https://www.amazon.es/dp/B07VPQVSHL/?tag=tolees-21) a 26.26 EUR (original: 38.19 EUR) (31.24 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Tommy Hilfiger Hombre Stretch Slim Fit tee Camiseta Deporte Not Applicable  Azul  Desert Sky/White A   XXX-Large](https://www.amazon.es/dp/B07VPQVSHL/?tag=tolees-21) a 18.89 EUR (original: 38.19 EUR) (50.54 %  de descuento) en el siguiente enlace!
 
-[![Tommy Hilfiger Stretch Slim Fit tee Cami](https://m.media-amazon.com/images/I/41JVuMMwDoL._SL400_.jpg)](https://www.amazon.es/dp/B07VPQVSHL/?tag=tolees-21)
+[![Tommy Hilfiger Hombre Stretch Slim Fit t](https://m.media-amazon.com/images/I/41JVuMMwDoL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07VPQVSHL/?tag=tolees-21)
 
 🔎:
 
+- Logo de Tommy Hilfiger bordado en el pecho
+- Detalles distintivos de Tommy Hilfiger
+- Cuello redondo
+- Algodón orgánico elástico
+- Corte slim
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VPQVSHL/?tag=tolees-21)

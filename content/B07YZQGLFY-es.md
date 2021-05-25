@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JACK & JONES Jjiliam Jjoriginal Agi 002  al 50.01 % de descuento'
-date: 2021-05-21 22:09:41
+date: 2021-05-25 19:13:21
 image: 'https://m.media-amazon.com/images/I/41uizhqs9-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ Ahora mismo tienes [JACK & JONES Jjiliam Jjoriginal Agi 002 Noos Vaqueros skinny
 
 🔎:
 
-- elastic cotton
 - skinny fit jeans
+- elastic cotton
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07YZQGLFY/?tag=tolees-21)
