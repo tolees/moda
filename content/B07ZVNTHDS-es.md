@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Presidio Packable Jacket Chaqueta al 68.39 % de descuento'
-date: 2021-05-21 07:01:17
+date: 2021-05-25 20:12:23
 image: 'https://m.media-amazon.com/images/I/41SSe3suARL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

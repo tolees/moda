@@ -28,10 +28,10 @@ Tienes [Jack & Jones JJEBASIC Sweat Hood Noos Sudadera con Capucha  Sedona Sage 
 
 ℹ️:
 
-- Jersey sencillo
-- Sudadera con capucha
-- Sudadera con capucha de color liso
 - Sudadera con capucha de material sostenible
+- Sudadera con capucha
 - Sudadera con capucha de algodón
+- Jersey sencillo
+- Sudadera con capucha de color liso
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08KXXY5BK/?tag=tolees-21)
