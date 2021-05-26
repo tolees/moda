@@ -1,32 +1,38 @@
 ---
 layout: post
-title: 'Descuento del 72.11 % en Geox U Nebula Y A  Zapatillas para Hombr'
-date: 2020-08-23 06:04:54
-image: 'https://m.media-amazon.com/images/I/312KFdHfLSL._SL400_.jpg'
+title: 'Descuento del 46.50 % en Geox U Nebula Y A  Zapatillas Hombre  Az'
+date: 2021-05-26 04:16:16
+image: 'https://m.media-amazon.com/images/I/312KFdHfLSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07T5NKYSF-es Geox U Nebula Y A Zapatillas para Hombre Azul Lt AVI O...'
+slug: 'B07T5NKYSF-es Geox U Nebula Y A Zapatillas Hombre Azul Lt AVI O C4348 39 EU'
 sku: 'B07T5NKYSF-es'
-tags: [ 'geox', ]
-actualPrice: 36.23 EUR
+tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','geox', ]
+actualPrice: 69.5 EUR
 currency: EUR
-price: 36.23
+price: 69.5
 comparePrice: 129.9 EUR
-prodname: 'Geox U Nebula Y A  Zapatillas para Hombre  Azul  Lt AVI O C4348   39 EU'
+prodname: 'Geox U Nebula Y A  Zapatillas Hombre  Azul  Lt AVI O C4348   39 EU'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B07T5NKYSF/?tag=tolees-21'
-descuento: '72.11'
-average: '36.23'
+descuento: '46.50'
+average: '47.32'
 ---
 
-Tienes [Geox U Nebula Y A  Zapatillas para Hombre  Azul  Lt AVI O C4348   39 EU](https://www.amazon.es/dp/B07T5NKYSF/?tag=tolees-21) con un 72.11 % de descuento con precio de oferta de 36.23 EUR (original: 129.9 EUR) en el siguiente enlace!
+Tienes [Geox U Nebula Y A  Zapatillas Hombre  Azul  Lt AVI O C4348   39 EU](https://www.amazon.es/dp/B07T5NKYSF/?tag=tolees-21) con un 46.50 % de descuento con precio de oferta de 69.5 EUR (original: 129.9 EUR) en el siguiente enlace!
 
-[![Geox U Nebula Y A  Zapatillas para Hombr](https://m.media-amazon.com/images/I/312KFdHfLSL._SL400_.jpg)](https://www.amazon.es/dp/B07T5NKYSF/?tag=tolees-21)
+[![Geox U Nebula Y A  Zapatillas Hombre  Az](https://m.media-amazon.com/images/I/312KFdHfLSL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07T5NKYSF/?tag=tolees-21)
 
 ℹ️:
 
+- Tipo de tacón: Plano
+- Revestimiento: Tela
+- Material de la suela: Sintético
+- Cierre: Cordones
+- Material exterior: Tela
+- Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07T5NKYSF/?tag=tolees-21)
