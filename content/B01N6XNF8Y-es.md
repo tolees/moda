@@ -28,7 +28,7 @@ En este momento está [Vero Moda Vmmaxi My Soft Long Tank Top Noos Camiseta sin 
 
 🔎:
 
-- Camiseta elástica de algodón en bonitos colores.
 - Gracias a su forma que acentúa la figura, la camiseta también se puede llevar bajo chaqueta y suéter en otoño e invierno.
+- Camiseta elástica de algodón en bonitos colores.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01N6XNF8Y/?tag=tolees-21)
