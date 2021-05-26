@@ -28,11 +28,11 @@ Tienes [Geox U Nebula Y A  Zapatillas Hombre  Azul  Lt AVI O C4348   39 EU](http
 
 ℹ️:
 
-- Tipo de tacón: Plano
-- Revestimiento: Tela
-- Material de la suela: Sintético
-- Cierre: Cordones
 - Material exterior: Tela
+- Material de la suela: Sintético
+- Tipo de tacón: Plano
+- Cierre: Cordones
 - Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
+- Revestimiento: Tela
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07T5NKYSF/?tag=tolees-21)
