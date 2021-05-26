@@ -29,8 +29,8 @@ Ahora mismo tienes [DeFacto Jersey de punto para mujer con cuello en V  100% pol
 🔎:
 
 - Fabricado en Turquía
-- Color: D.INDIGO
-- DeFacto
 - Acrílico 100%
+- DeFacto
+- Color: D.INDIGO
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08HM92MB7/?tag=tolees-21)
