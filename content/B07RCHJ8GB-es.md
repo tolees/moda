@@ -28,11 +28,11 @@ En este momento está [Champion Mujer - Sudadera Classic Logo - Negro  S](https:
 
 🔎:
 
-- Lavar a máquina en frío (30°máx)
-- Logo grande bordado en el pecho y logo "C" en la manga izquierda
-- 78% algodón, 22% poliéster
-- Sudadera con cuello redondo
-- Número de modelo: 109699
 - Bolsillo lateral
+- 78% algodón, 22% poliéster
+- Número de modelo: 109699
+- Lavar a máquina en frío (30°máx)
+- Sudadera con cuello redondo
+- Logo grande bordado en el pecho y logo "C" en la manga izquierda
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07RCHJ8GB/?tag=tolees-21)
