@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox D New ANNYA Mid A  Zapatos con Tacó al 51.13 % de descuento'
-date: 2021-05-24 22:45:29
+date: 2021-05-25 23:36:46
 image: 'https://m.media-amazon.com/images/I/31Iqn4FrYpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B07LFYY1QG/?tag=tolees-21'
 descuento: '51.13'
-average: '35.2590000000001'
+average: '35.904761904762'
 ---
 
 Está [Geox D New ANNYA Mid A  Zapatos con Tacón para Mujer  Negro  Black C9997   36 5 EU](https://www.amazon.es/dp/B07LFYY1QG/?tag=tolees-21) con 51.13 de descuento por 48.82 EUR (original: 99.9 EUR) en el siguiente enlace!
@@ -28,13 +28,13 @@ Está [Geox D New ANNYA Mid A  Zapatos con Tacón para Mujer  Negro  Black C9997
 
 ℹ️:
 
-- Tipo de talla: Los zapatos Geox son holgados
+- Anchura del zapato: Normal
 - Tipo de tacón: Tacón ancho
+- Material exterior: Cuero
 - Cierre: Sin cierre
 - Material de la suela: Sintético
-- Altura del tacón: 5.5 centímetros
-- Anchura del zapato: Normal
-- Material exterior: Cuero
 - Revestimiento: Sintético
+- Tipo de talla: Los zapatos Geox son holgados
+- Altura del tacón: 5.5 centímetros
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07LFYY1QG/?tag=tolees-21)
