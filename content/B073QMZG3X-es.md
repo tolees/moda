@@ -1,32 +1,35 @@
 ---
 layout: post
-title: 'Levi s Plus Size Pl tee Camiseta  Blanco con un 35.40 % de descuento'
-date: 2020-04-03 17:46:38
-image: 'https://m.media-amazon.com/images/I/416oUNWQsOL._SL400_.jpg'
+title: 'Levi s Plus Size Pl tee Camiseta  Plus B con un 49.64 % de descuento'
+date: 2021-05-26 19:15:48
+image: 'https://m.media-amazon.com/images/I/41717epbM7S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B073QMZG3X-es Levi s Plus Size Pl tee Camiseta Blanco Plus Batwing White...'
+slug: 'B073QMZG3X-es Levi s Plus Size Pl tee Camiseta Plus Batwing White 1X...'
 sku: 'B073QMZG3X-es'
-tags: [ 'camiseta', ]
-actualPrice: 16.15 EUR
+tags: [ 'Camisetas para mujer','Camisetas, tops y blusas para mujer','Ropa','Ropa para mujer','camiseta','levis plus size', ]
+actualPrice: 12.59 EUR
 currency: EUR
-price: 16.15
+price: 12.59
 comparePrice: 25.0 EUR
-prodname: 'Levi s Plus Size Pl tee Camiseta  Blanco  Plus Batwing White 0000   X-Large para Mujer'
+prodname: 'Levi s Plus Size Pl tee Camiseta  Plus Batwing White  1X para Mujer'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Levis Plus Size'
 buyurl: 'https://www.amazon.es/dp/B073QMZG3X/?tag=tolees-21'
-descuento: '35.40'
-average: '15.143333333333333'
+descuento: '49.64'
+average: '14.505'
 ---
 
-En este momento está [Levi s Plus Size Pl tee Camiseta  Blanco  Plus Batwing White 0000   X-Large para Mujer](https://www.amazon.es/dp/B073QMZG3X/?tag=tolees-21) a 16.15 EUR (original: 25.0 EUR) (35.40 %  de descuento) en el siguiente enlace!
+En este momento está [Levi s Plus Size Pl tee Camiseta  Plus Batwing White  1X para Mujer](https://www.amazon.es/dp/B073QMZG3X/?tag=tolees-21) a 12.59 EUR (original: 25.0 EUR) (49.64 %  de descuento) en el siguiente enlace!
 
-[![Levi s Plus Size Pl tee Camiseta  Blanco](https://m.media-amazon.com/images/I/416oUNWQsOL._SL400_.jpg)](https://www.amazon.es/dp/B073QMZG3X/?tag=tolees-21)
+[![Levi s Plus Size Pl tee Camiseta  Plus B](https://m.media-amazon.com/images/I/41717epbM7S._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B073QMZG3X/?tag=tolees-21)
 
 🔎:
 
+- Modelo casual
+- Elaborada en punto suave
+- Con un logo Levis en horizontal en el pecho
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B073QMZG3X/?tag=tolees-21)
