@@ -28,8 +28,8 @@ En este momento está [NIKE Club19 Camiseta de Manga Corta  Hombre  Black/White 
 
 🔎:
 
-- Three-button closure
 - Nike Dry fabric
+- Three-button closure
 - Regular fit
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07KL3FJVY/?tag=tolees-21)

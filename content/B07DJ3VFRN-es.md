@@ -31,7 +31,7 @@ En este momento está [Geox D Jaysen A  Zapatillas  Negro  Gun/Black C1223   35 
 - Cierre: cordones.
 - Interior: textil.
 - Exterior: piel.
-- Tacón: plano.
 - Suela: sintética.
+- Tacón: plano.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07DJ3VFRN/?tag=tolees-21)
