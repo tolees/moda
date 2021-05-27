@@ -28,8 +28,8 @@ Tienes [Tommy Hilfiger Cotton cn tee SS Icon Camiseta  Classic White 100  M para
 
 ℹ️:
 
+- Tommy Hilfiger Blanco Camiseta Icon
 - A estrenar y genuina. Somos un vendedor autorizado de Tommy Hilfiger.
 - Ver descripción del producto para obtener más información.
-- Tommy Hilfiger Blanco Camiseta Icon
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00UBONFGG/?tag=tolees-21)
