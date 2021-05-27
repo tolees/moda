@@ -28,10 +28,10 @@ En este momento está [adidas M MHS Aero FZHD Sudadera  Hombre  Negro  XS](https
 
 🔎:
 
-- Punto doble 100% poliéster
+- Corte holgado
 - Tacto suave
 - Chaqueta con capucha
-- Corte holgado
+- Punto doble 100% poliéster
 - Tejido AEROREADY que mantiene la piel seca
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CJ4Y58R/?tag=tolees-21)
