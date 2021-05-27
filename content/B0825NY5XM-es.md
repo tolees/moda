@@ -28,13 +28,13 @@ Tienes [Geox D Nebula E  Zapatillas Mujer  Gris  Sand Lt Avio   37 EU](https://w
 
 ℹ️:
 
-- Cierre: Elástico
-- Anchura del zapato: Normal
-- Material de la suela: Sintético
-- Altura del tacón: 3 centímetros
 - Tipo de talla: Los zapatos Geox son holgados
-- Revestimiento: Sintético
-- Material exterior: Sintético
 - Tipo de tacón: Plano
+- Altura del tacón: 3 centímetros
+- Anchura del zapato: Normal
+- Revestimiento: Sintético
+- Cierre: Elástico
+- Material de la suela: Sintético
+- Material exterior: Sintético
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0825NY5XM/?tag=tolees-21)
