@@ -28,10 +28,10 @@ En este momento está [Quiksilver Molokai Nubuck II  Zapatos de Playa y Piscina 
 
 🔎:
 
-- Forro de punto jersey hecho de poliéster reciclado Soft REPREVE
-- Separador recubierto de nailon para los dedos, fabricado con fibras de nailon regeneradas econyl
-- Suela intermedia y externa desplazadas en goma multi capa con ranuras Laser Grip para una mejor tracción
 - Parte superior y plantilla de cuero sintético nubuk resistente al agua
 - Cubierta con detalles de costuras y acolchado con espuma de memoria
+- Suela intermedia y externa desplazadas en goma multi capa con ranuras Laser Grip para una mejor tracción
+- Forro de punto jersey hecho de poliéster reciclado Soft REPREVE
+- Separador recubierto de nailon para los dedos, fabricado con fibras de nailon regeneradas econyl
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07SX48JDX/?tag=tolees-21)
