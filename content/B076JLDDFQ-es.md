@@ -28,7 +28,7 @@ Está [Crocs LiteRide Slide  Sandalias de Punta Descubierta Unisex Adulto  Negro
 
 ℹ️:
 
-- adulto
 - Negro
+- adulto
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B076JLDDFQ/?tag=tolees-21)
