@@ -28,7 +28,7 @@ Tienes [Crocs Crocband Flip  Zapatos de Playa y Piscinanisex Adulto  Azul  Navy 
 
 🔎:
 
-- Navy
 - 100%croslite
+- Navy
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B074HTLDFF/?tag=tolees-21)

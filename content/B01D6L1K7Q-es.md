@@ -28,7 +28,7 @@ Ahora mismo tienes [Oxypas oxyvaj3601nav Oxyva Slip On SRC - Zuecos Cómodos  Tu
 
 🔎:
 
-- Zueco de enfermería.
 - Calzad de sala de operaciones.
+- Zueco de enfermería.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01D6L1K7Q/?tag=tolees-21)
