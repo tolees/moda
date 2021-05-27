@@ -28,10 +28,10 @@ Está [Under Armour Qualifier Speedpocket Pantalón  Mujer  Rosa  MD](https://ww
 
 ℹ️:
 
-- Confección con tejido elástico en 4 direcciones que permite una óptima movilidad
-- Tejido elástico y duradero que ofrece comodidad y protección
-- Inserciones de malla para óptima transpirabilidad
 - Bolsillo central extensible en la cintura que es resistente al agua y mantiene el teléfono seguro
 - Material que capilariza el sudor y se seca rápidamente
+- Confección con tejido elástico en 4 direcciones que permite una óptima movilidad
+- Inserciones de malla para óptima transpirabilidad
+- Tejido elástico y duradero que ofrece comodidad y protección
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07SKX5J6B/?tag=tolees-21)

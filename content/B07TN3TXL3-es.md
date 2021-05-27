@@ -28,8 +28,8 @@ En este momento está [JACK & JONES 12152840 Sudadera con capucha  Gris  Light M
 
 🔎:
 
+- Talla/Tamaño: Medium
 - Mezcla de algodón
 - Jersey con logo
-- Talla/Tamaño: Medium
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07TN3TXL3/?tag=tolees-21)
