@@ -28,8 +28,8 @@ En este momento está [Iris & Lilly Belk029m2 Chaleco  Beige  48  Pack de 2](htt
 
 🔎:
 
-- Una marca de Amazon
 - Adornado con encaje que se asienta cómodamente sobre la piel y ofrece un acabado suave
+- Una marca de Amazon
 - Confeccionado en algodón suave, transpirable e hipoalergénico diseñado para una comodidad duradera
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08LJZVDKG/?tag=tolees-21)
