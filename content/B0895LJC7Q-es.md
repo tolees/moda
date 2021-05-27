@@ -28,9 +28,9 @@ Ahora mismo tienes [DC Shoes Downing - Sudadera para Hombre Sudadera  Hombre  Bl
 
 🔎:
 
-- Cinta de punto jersey de algodón en la parte trasera del cuello
-- Bordado en el pecho
 - Tejido: tejido polar cepillado de gramaje medio
+- Cinta de punto jersey de algodón en la parte trasera del cuello
 - Corte: Corte ceñido
+- Bordado en el pecho
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0895LJC7Q/?tag=tolees-21)
