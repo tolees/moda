@@ -28,10 +28,10 @@ En este momento está [adidas Madrid Temporada 2020/21 Real A SHO Pantalón Cort
 
 🔎:
 
-- Sus llamativos shorts le agregan vitalidad
-- Absorbe la humedad para mantenerte cómodo
 - Rendimiento más electrizante
-- Pantalón corto equipación visitante
 - Creada para mantener a sus seguidores jóvenes secos y cómodos
+- Pantalón corto equipación visitante
+- Absorbe la humedad para mantenerte cómodo
+- Sus llamativos shorts le agregan vitalidad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08FCPN18G/?tag=tolees-21)
