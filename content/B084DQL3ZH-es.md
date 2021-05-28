@@ -29,7 +29,7 @@ En este momento está [Clarks Kendra Sienna  Zapatos de Vestir par Uniforme Muje
 🔎:
 
 - Material interior: sintético
-- Suela: piel y goma
 - Material exterior: piel lisa
+- Suela: piel y goma
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B084DQL3ZH/?tag=tolees-21)
