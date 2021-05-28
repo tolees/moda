@@ -28,8 +28,8 @@ Tienes [mustang Adrian C Print Camiseta  Verde Oscuro  M para Hombre](https://ww
 
 ℹ️:
 
-- Cuello redondo
-- Camiseta de manga larga estampada
 - Corte recto
+- Camiseta de manga larga estampada
+- Cuello redondo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08D3JF5SB/?tag=tolees-21)
