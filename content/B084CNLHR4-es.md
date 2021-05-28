@@ -28,10 +28,10 @@ Tienes [HAWKERS · KARAT CLEAR BLUE LAX · Karat · Clear blue · Gafas de sol p
 
 🔎:
 
-- Lentes categoría 3 y protección uv400 que ofrecen una gran protección antideslumbrante
-- Las gafas de sol LAX con montura de metal dorado y lente espejo azul turquesa son el must have de esta temporada
-- Modelo Karat Clear Blue LAX
-- Modelo para hombre y mujer: UNISEX
 - Montura en acero inoxidable libre de níquel que las hace altamente resistentes a la corrosión y más fuertes
+- Lentes categoría 3 y protección uv400 que ofrecen una gran protección antideslumbrante
+- Modelo para hombre y mujer: UNISEX
+- Modelo Karat Clear Blue LAX
+- Las gafas de sol LAX con montura de metal dorado y lente espejo azul turquesa son el must have de esta temporada
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B084CNLHR4/?tag=tolees-21)

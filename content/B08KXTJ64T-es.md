@@ -28,10 +28,10 @@ Tienes [Jack & Jones JJEORGANIC Basic tee SS O-Neck Noos Camiseta  True Red/Deta
 
 🔎:
 
-- Material sostenible
-- Camiseta de color liso
 - Camiseta de algodón
-- Camiseta de corte recto
+- Camiseta de color liso
 - Camiseta con cuello redondo
+- Material sostenible
+- Camiseta de corte recto
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08KXTJ64T/?tag=tolees-21)
