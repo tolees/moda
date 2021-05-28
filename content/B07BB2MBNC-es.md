@@ -28,8 +28,8 @@ Ahora mismo tienes [Levi s tee Camiseta  Caviar  XXS para Mujer](https://www.ama
 
 🔎:
 
-- Elaborada en punto suave
 - Con un discreto logo en el pecho
 - Modelo casual
+- Elaborada en punto suave
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07BB2MBNC/?tag=tolees-21)

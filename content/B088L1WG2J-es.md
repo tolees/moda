@@ -28,10 +28,10 @@ Ahora mismo tienes [Kappa Corezo Courir Camiseta  Hombre  Blanco  XL](https://ww
 
 🔎:
 
-- Estilo made in Kappa
-- Un must have de la marca
 - Omini en el pecho
-- Comodidad y durabilidad
 - Banda Kappa en mangas
+- Un must have de la marca
+- Estilo made in Kappa
+- Comodidad y durabilidad
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B088L1WG2J/?tag=tolees-21)

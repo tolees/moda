@@ -28,7 +28,7 @@ Está [Geox U Adrien E  Oxford Flat Hombre  Negro  41 EU](https://www.amazon.es/
 
 ℹ️:
 
-- Tipo de tela: Smo.Lea
 - Transpirable
+- Tipo de tela: Smo.Lea
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0825NN1XD/?tag=tolees-21)
