@@ -28,10 +28,10 @@ Ahora mismo tienes [PUMA Studio Metallic LS Top Camiseta  Mujer  Burgundy  L](ht
 
 🔎:
 
-- Tejido repelente de la humedad
 - Corte ceñido
-- dryCELL: La denominación de PUMA para las propiedades repelentes de la humedad que ayudan a que la piel permanezca seca y cómoda
+- Tejido repelente de la humedad
 - Nudo para atar para un mayor ajuste
 - Mangas raglan para una mayor libertad de movimiento
+- dryCELL: La denominación de PUMA para las propiedades repelentes de la humedad que ayudan a que la piel permanezca seca y cómoda
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B086P8DY7D/?tag=tolees-21)
