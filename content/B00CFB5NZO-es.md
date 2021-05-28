@@ -29,8 +29,8 @@ Tienes [Boland - Conejo de Pascua vestido de lujo atractivo Instant Kit - incluy
 ℹ️:
 
 - El juego incluye orejas de conejo tiara, cuello, puños y cola
-- Vestido de noche de gallina
 - Cuello de satén blanco con pajarita negra
+- Vestido de noche de gallina
 - Para un conejito de Playboy
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00CFB5NZO/?tag=tolees-21)

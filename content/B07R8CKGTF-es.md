@@ -31,7 +31,7 @@ En este momento está [URAQT Disfraz Unicornio Niña  Vestidos Unicornio Niña  
 - Material suave: hecho de material de mezcla de poliéster y algodón de alta calidad, diseñado para la delicada piel de tu chica ángel. Atractivo aspecto: longitud de piso sin tirantes, elemento popular, elegante disfraz de unicornio, diseño de estampado, que le da a su hijas un buen humor.
 - Consejos tibios: lávelos por separado para evitar manchas con agua limpia en temperaturas normales. No lavar con agua caliente; Colgar para secar.
 - Vestido adorable: el mejor vestido de cumpleaños, carnaval, bautizo, disfraz de unicornio o Navidad, etc.
-- Diseño: Este es un carnaval de disfraces de lujo muy popular. Lindo vestido de verano con lindas flores de costura de unicornio, falda de arco iris en el dobladillo de tul, lo que lo convierte en un lindo vestido de princesa de unicornio para realizar el sueño de princesa de tu hija.
 - Ocasión: prefecto para ocasiones especiales, fotografía, boda, juegos de rol, damas de honor, rituales, actuaciones, vacaciones, baile de graduación, etc.
+- Diseño: Este es un carnaval de disfraces de lujo muy popular. Lindo vestido de verano con lindas flores de costura de unicornio, falda de arco iris en el dobladillo de tul, lo que lo convierte en un lindo vestido de princesa de unicornio para realizar el sueño de princesa de tu hija.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07R8CKGTF/?tag=tolees-21)
