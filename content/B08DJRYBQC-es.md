@@ -28,8 +28,8 @@ En este momento está [Kappa Angat 4 Betis Camiseta  Hombre  Gris/Verde  S](http
 
 🔎:
 
-- Temporada 2020/2021
 - Prenda imprescindible para cualquier aficionado del club verdiblanco
 - Oficial Real Betis Balompié
+- Temporada 2020/2021
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08DJRYBQC/?tag=tolees-21)
