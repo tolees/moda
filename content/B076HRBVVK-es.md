@@ -28,9 +28,9 @@ Está [Adidas Core18 Pre Jkt Chaqueta de Deporte  Hombre  Negro  Negro/Blanco   
 
 ℹ️:
 
-- Cómodo forro textil.
-- Plantilla con contorno para una comodidad duradera.
 - Suela externa con relieve para favorecer el agarre.
+- Cómodo forro textil.
 - Tiene el logo de Adidas en el pecho
+- Plantilla con contorno para una comodidad duradera.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B076HRBVVK/?tag=tolees-21)

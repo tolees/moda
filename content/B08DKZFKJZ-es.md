@@ -28,9 +28,9 @@ En este momento está [Jack & Jones JJSURE Parka Jacket Chaqueta  Negro  XXL par
 
 🔎:
 
-- Camiseta
+- Paquete doble
 - algodón
 - Estampado
-- Paquete doble
+- Camiseta
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08DKZFKJZ/?tag=tolees-21)

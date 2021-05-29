@@ -28,9 +28,9 @@ Está [PUMA ESS Track FL Sudadera  Mujer  Negro  Cotton Black   XS](https://www.
 
 ℹ️:
 
-- Corte recto
+- Logotipo N.º 1 estampado con pigmentos en relieve
 - Bolsillo de canguro para que lleves tus cosas contigo
 - Bajo y puños de canalé
-- Logotipo N.º 1 estampado con pigmentos en relieve
+- Corte recto
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07DFVSC6V/?tag=tolees-21)
