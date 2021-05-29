@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HAWKERS Gafas de sol  Negro mate  One Si al 50.02 % de descuento'
-date: 2021-05-26 18:01:51
+date: 2021-05-29 17:44:54
 image: 'https://m.media-amazon.com/images/I/317o5OLfXRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HAWKERS'
 buyurl: 'https://www.amazon.es/dp/B07QNYB2BX/?tag=tolees-21'
 descuento: '50.02'
-average: '22.2907692307693'
+average: '22.0203703703704'
 ---
 
 Ahora mismo tienes [HAWKERS Gafas de sol  Negro mate  One Size Unisex-Adult](https://www.amazon.es/dp/B07QNYB2BX/?tag=tolees-21) a 14.99 EUR (original: 29.99 EUR) (50.02 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [HAWKERS Gafas de sol  Negro mate  One Size Unisex-Adult](htt
 
 🔎:
 
-- Medidas: Frente: 14cm, Altura: 5cm, Varillas: 14cm
 - Icónico modelo Hawkers One, Unisex, con montura Carbon Black mate y lente oscura
-- Montura fabricada en TR90, que dota a las gafas de gran ligereza, flexibilidad y resistencia, muy resistente a altas y bajas temperaturas.
+- Medidas: Frente: 14cm, Altura: 5cm, Varillas: 14cm
 - Producto original Hawkers. La caja incluye funda de microfibra, caja y set de pegatinas decorativas.
+- Montura fabricada en TR90, que dota a las gafas de gran ligereza, flexibilidad y resistencia, muy resistente a altas y bajas temperaturas.
 - Lente oscura fabricada en TR18, con reducción de brillos y con gran equilibrio entre claridad y protección. Lente de categoría 3 con protección UV400. Resistencia muy alta
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07QNYB2BX/?tag=tolees-21)
