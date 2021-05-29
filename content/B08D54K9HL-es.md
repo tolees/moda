@@ -29,7 +29,7 @@ Tienes [Levi s Graphic Camiseta  Sportswear Logo Star Sapphire  S para Hombre](h
 🔎:
 
 - Con el logotipo deportivo de Levis
-- Modelo casual
 - Fabricada en tejido ligero
+- Modelo casual
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08D54K9HL/?tag=tolees-21)

@@ -28,8 +28,8 @@ Ahora mismo tienes [Tommy Hilfiger Stretch Slim FIT tee Camiseta  Azul Bio  XS p
 
 🔎:
 
-- Para más información sobre Tommy Hilfiger / Tommy Jeans se puede encontrar en la descripción del producto.
 - Tommy Hilfiger - Camisetas para hombre
 - Producto original y auténtico Tommy Hilfiger/ Tommy Jeans.
+- Para más información sobre Tommy Hilfiger / Tommy Jeans se puede encontrar en la descripción del producto.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CCWT9F7/?tag=tolees-21)
