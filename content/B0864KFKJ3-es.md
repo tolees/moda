@@ -28,8 +28,8 @@ En este momento está [Jack & Jones Jjesheridan Shirt S/s STS Camisa  Denim Azul
 
 🔎:
 
-- Marca: JACK&JONES
 - Modelo: 12159371 JJESHERIDAN SHIRT S/S STS
+- Marca: JACK&JONES
 - Camisa de manga corta de color azul. Cierre con corchetes. Dos bolsillos.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0864KFKJ3/?tag=tolees-21)

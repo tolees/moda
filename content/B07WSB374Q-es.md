@@ -28,10 +28,10 @@ Tienes [HOMCOM Perchero de Pie Perchero Metálico Zapatero 3 Estantes 8 Ganchos 
 
 🔎:
 
-- ✅PATAS REGULABLES. Los pies de sus patas se regulan en altura para adaptarse a suelos irregulares.
 - ✅SISTEMA ANTI-VUELCO. Incluye el sistema para anclar el zapatero con perchero a la pared.
-- ✅MEDIDAS: 72x34x185cm (LxANxAL). Peso máximo que soporta: 100 kg. Peso máximo que soporta el banco zapatero: 80 kg.
 - ✅ZAPATERO CON PERCHERO Y BANCO. Un mueble de estilo industrial, perfecto para mantener ordenados zapatos, abrigos y bolsos.
 - ✅MATERIALES RESISTENTES. Estructura metálica y tableros en MDF de grado E1.
+- ✅MEDIDAS: 72x34x185cm (LxANxAL). Peso máximo que soporta: 100 kg. Peso máximo que soporta el banco zapatero: 80 kg.
+- ✅PATAS REGULABLES. Los pies de sus patas se regulan en altura para adaptarse a suelos irregulares.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07WSB374Q/?tag=tolees-21)

@@ -28,7 +28,7 @@ En este momento está [Jack & Jones NOS Jjiglenn Jjoriginal Am 816 Noos Vaqueros
 
 🔎:
 
-- black skinny jeans
 - elastic cotton mixture
+- black skinny jeans
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07JQBY8CM/?tag=tolees-21)
