@@ -28,8 +28,8 @@ Tienes [Clarks Sunder Cross  Sandalias Punta Cerrada Hombre  Marrón  British Ta
 
 🔎:
 
-- Suela: EVA
 - Exterior: piel
 - Material interior: sintético
+- Suela: EVA
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07TQWFMZ9/?tag=tolees-21)

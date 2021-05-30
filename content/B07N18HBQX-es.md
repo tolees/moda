@@ -28,10 +28,10 @@ En este momento está [G-STAR RAW Lynn Mid Skinny Vaqueros  Gris  Dusty Grey B47
 
 🔎:
 
+- Usado
 - Skinny
 - Lavar a máquina - agua fría (30 ° max)
-- Cierre: Boton y cierre
 - 92% Algodón, 7% Poliéster, 1% Elastano
-- Usado
+- Cierre: Boton y cierre
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07N18HBQX/?tag=tolees-21)
