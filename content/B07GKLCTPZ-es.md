@@ -30,8 +30,8 @@ Ahora mismo tienes [Inateck Bolso Bandolera para Ordenador Portátil de 14 Pulga
 
 - Espacio de Almacenamiento Expandido:Incluye compartimentos con cremallera adicionales para maximizar el espacio de almacenamiento, organiza sus accesorios y proporciona una protección adicional a sus dispositivos individuales.
 - Protección de Cinco Capas: Cinco capas de material probado y respetuoso del medio ambiente proporcionan a su portátil una protección de 360 ° a prueba de los golpes, mientras que el interior de del bolso de la material franela revestimiento suave proporciona una protección contra a los arañazos y abolladuras.
-- Resistente a Derrames:El exterior tejido utiliza tela de poliéster resistente al desgaste 600D resistente a líquidos para proteger su dispositivo contra a los derrames accidentales.
-- Correa de Acolchada Ajustable: Una almohadilla de material EPE suave y el diseño de correa fácil de ajustar significa un ajuste perfecto y el máximo confort para todos, independientemente de su altura o peso. La correa también es desmontable, lo que le permite cambiar entre ser una bolsa de mano o una funda.
 - Dimensiones Internas: 35.5 x 24.1 x 2.5cm(14 x 9.5 x 1 in); Dimensiones Externas:38 x 26.5 x 4cm. Una gracia del diseño para adaptarse cómodamente a la mayoría de las laptops, notbooks, ultrabooks, Compatible con netbooks de 14 pulgadas y 15 surface laptop 3, MacBook Pro 2016/2017/2018.
+- Correa de Acolchada Ajustable: Una almohadilla de material EPE suave y el diseño de correa fácil de ajustar significa un ajuste perfecto y el máximo confort para todos, independientemente de su altura o peso. La correa también es desmontable, lo que le permite cambiar entre ser una bolsa de mano o una funda.
+- Resistente a Derrames:El exterior tejido utiliza tela de poliéster resistente al desgaste 600D resistente a líquidos para proteger su dispositivo contra a los derrames accidentales.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07GKLCTPZ/?tag=tolees-21)
