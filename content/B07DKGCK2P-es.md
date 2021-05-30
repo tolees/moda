@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Puma Active T Camiseta  Hombre  Negro Bl al 44.91 % de descuento'
-date: 2021-05-20 08:20:37
+date: 2021-05-30 20:45:56
 image: 'https://m.media-amazon.com/images/I/41Vssq+KvbS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -30,7 +30,7 @@ Ahora mismo tienes [Puma Active T Camiseta  Hombre  Negro Black  M](https://www.
 
 - Cuello redondo en canalé
 - Logotipo N.º 1 estampado con pigmentos (colores: 1, 2, 3, 5, 6, 1); logotipo del felino estampado con pigmentos (colores: 21, 22, 23, 25, 26, 3)
-- Corte recto
 - dryCELL: La composición de alto rendimiento aleja la transpiración de la piel y ayuda a mantenerte seco y cómodo durante el ejercicio
+- Corte recto
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DKGCK2P/?tag=tolees-21)

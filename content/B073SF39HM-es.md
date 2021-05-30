@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HAWKERS Gafas de Sol Venm Hybrid Dark  H al 43.78 % de rebaja'
-date: 2021-05-29 11:47:07
+date: 2021-05-30 20:39:55
 image: 'https://m.media-amazon.com/images/I/31AMt9k2QKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HAWKERS'
 buyurl: 'https://www.amazon.es/dp/B073SF39HM/?tag=tolees-21'
 descuento: '43.78'
-average: '28.996'
+average: '28.4045454545455'
 ---
 
 Tienes [HAWKERS Gafas de Sol Venm Hybrid Dark  Hombre y Mujer  con montura negra acabado brillo y lente  Protección UV400  One Size Unisex adulto](https://www.amazon.es/dp/B073SF39HM/?tag=tolees-21) con precio final de  22.49 EUR (original: 40.0 EUR) (43.78 %  de rebaja) aqui!
@@ -28,10 +28,10 @@ Tienes [HAWKERS Gafas de Sol Venm Hybrid Dark  Hombre y Mujer  con montura negra
 
 🔎:
 
-- Mono lente gris con efecto espejo fabricada en TR18, con reducción de brillos y con gran equilibrio entre claridad y protección; lente de categoría 3 con protección UV402
-- Montura fabricada en TR90, que dota a las gafas de gran ligereza, flexibilidad y resistencia; muy resistente a altas y bajas temperaturas
-- Este modelo es un atrevido rediseño del icónico modelo Hawkers ONE; mantiene las formas y curvas de la montura del clásico, pero introduciendo una lente de máscara gris espejada, montada sobre una montura negra con acabado brillo
-- Medidas: Frente 14 cm, Altura 5 cm, Varillas 14 cm
 - Producto original Hawkers; la caja incluye funda de microfibra, caja y set de pegatinas decorativas
+- Este modelo es un atrevido rediseño del icónico modelo Hawkers ONE; mantiene las formas y curvas de la montura del clásico, pero introduciendo una lente de máscara gris espejada, montada sobre una montura negra con acabado brillo
+- Montura fabricada en TR90, que dota a las gafas de gran ligereza, flexibilidad y resistencia; muy resistente a altas y bajas temperaturas
+- Mono lente gris con efecto espejo fabricada en TR18, con reducción de brillos y con gran equilibrio entre claridad y protección; lente de categoría 3 con protección UV402
+- Medidas: Frente 14 cm, Altura 5 cm, Varillas 14 cm
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B073SF39HM/?tag=tolees-21)
