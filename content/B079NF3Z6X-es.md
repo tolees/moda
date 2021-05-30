@@ -28,7 +28,7 @@ Está [Vero Moda Vmverodona LS Jacket Noos Abrigo  Gris  Light Grey Melange Ligh
 
 ℹ️:
 
-- With a Large hood for more comfort on COOL Days
 - Cleaner chic with a slightly tailored fit and two front pockets
+- With a Large hood for more comfort on COOL Days
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B079NF3Z6X/?tag=tolees-21)

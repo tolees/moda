@@ -28,10 +28,10 @@ Está [Columbia Powder Lite  Chaqueta de longitud media  Mujer  Verde  Olive Gre
 
 ℹ️:
 
-- Especialmente cálida gracias a la tecnología Omni-Heat con revestimiento Termoreflectante, Material repelente al agua para una óptima protección contra la humedad
-- Aislamiento térmico para mayor protección contra el frío, Ajuste óptimo gracias al cordón de ajuste en el dobladillo y el cuello
-- Contenido: 1x Columbia Chaqueta repelente al agua Powder Lite, Material: 100 % Poliéster, Color: vERDE , Talla XS, 1748311
-- Chaqueta repelente al agua para mujer, Adecuado para los días fríos de invierno en la ciudad, para practicar senderismo y otras actividades al aire libre, Ajuste activo
 - Práctica cremallera completa bidireccional, 2 bolsillos con cremallera para mantener las manos cálidas y protegidas, Bolsillo interior de seguridad para objetos de valor
+- Aislamiento térmico para mayor protección contra el frío, Ajuste óptimo gracias al cordón de ajuste en el dobladillo y el cuello
+- Chaqueta repelente al agua para mujer, Adecuado para los días fríos de invierno en la ciudad, para practicar senderismo y otras actividades al aire libre, Ajuste activo
+- Contenido: 1x Columbia Chaqueta repelente al agua Powder Lite, Material: 100 % Poliéster, Color: vERDE , Talla XS, 1748311
+- Especialmente cálida gracias a la tecnología Omni-Heat con revestimiento Termoreflectante, Material repelente al agua para una óptima protección contra la humedad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07RCP6NBJ/?tag=tolees-21)
