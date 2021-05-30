@@ -28,8 +28,8 @@ Está [Tommy Hilfiger Core Stretch Slim Vneck tee Camiseta  Azul  Navy Blazer 41
 
 ℹ️:
 
-- Tommy Hilfiger Azul Core Stretch Slim camiseta con cuello en V
 - A estrenar y genuina. Somos un vendedor autorizado de Tommy Hilfiger.
+- Tommy Hilfiger Azul Core Stretch Slim camiseta con cuello en V
 - Ver descripción del producto para obtener más información.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B076RHYYVH/?tag=tolees-21)
