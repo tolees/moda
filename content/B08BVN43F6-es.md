@@ -28,10 +28,10 @@ Está [adidas B A.R. P JSY Camiseta  Niños  Tinley/apnase  140  9/10 años ](ht
 
 ℹ️:
 
-- Detalles reflectantes brillan en las carreras al amanecer y al anochecer.
 - Corte clásico
-- AEROREADY absorbe la humedad y te hace sentir seco
-- El poliéster reciclado tiene una sensación suave contra tu piel.
+- Detalles reflectantes brillan en las carreras al amanecer y al anochecer.
 - Cuello redondo
+- El poliéster reciclado tiene una sensación suave contra tu piel.
+- AEROREADY absorbe la humedad y te hace sentir seco
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08BVN43F6/?tag=tolees-21)

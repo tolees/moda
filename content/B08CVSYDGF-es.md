@@ -28,8 +28,8 @@ En este momento está [Lee Rider Jacket Chaqueta vaquera  Light Alton  M para Ho
 
 🔎:
 
+- Con 2 bolsillos en el pecho
 - Chaqueta para hombre
 - Tiene una etiqueta con el logotipo de la marca Lee
-- Con 2 bolsillos en el pecho
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CVSYDGF/?tag=tolees-21)
