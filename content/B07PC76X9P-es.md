@@ -29,8 +29,8 @@ Tienes [Karactermania Diseny Icons Daisy-Bolso Cadena Wide Bolso Bandolera  20 c
 🔎:
 
 - Dimensiones: 19 x 20, 5 x 3cm (12cm de diámetro sin la silueta frontal)
+- Correa al hombro de cadena de 102cm
 - Forro interior
 - Pequeño bolso bandolera de un único compartimento cerrado con cremallera
-- Correa al hombro de cadena de 102cm
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07PC76X9P/?tag=tolees-21)

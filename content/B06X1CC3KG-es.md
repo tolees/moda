@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vans Colorblock tee - Camiseta para Homb con un 32.04 % de descuento'
-date: 2021-05-24 14:34:24
+date: 2021-05-30 09:44:16
 image: 'https://m.media-amazon.com/images/I/416dghS1TxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Vans'
 buyurl: 'https://www.amazon.es/dp/B06X1CC3KG/?tag=tolees-21'
 descuento: '32.04'
-average: '16.39'
+average: '16.45'
 ---
 
 En este momento está [Vans Colorblock tee - Camiseta para Hombre   Negro  Black/athletic Heather   Medium](https://www.amazon.es/dp/B06X1CC3KG/?tag=tolees-21) a 16.99 EUR (original: 25.0 EUR) (32.04 %  de descuento) en el siguiente enlace!
