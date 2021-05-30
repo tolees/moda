@@ -28,8 +28,8 @@ Ahora mismo tienes [Levi s 512 Slim Taper Vaqueros  Biologia ADV  29W / 32L para
 
 🔎:
 
-- Corte ajustado en los muslos
 - Apertura de pierna pitillo
+- Corte ajustado en los muslos
 - Diseño de cinco bolsillos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SFG9KF7/?tag=tolees-21)
