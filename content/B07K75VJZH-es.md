@@ -1,0 +1,35 @@
+---
+layout: post
+title: 'Descuento del 41.78 % en Levi s Essential Tank Camiseta Deportiva'
+date: 2021-05-31 17:44:35
+image: 'https://m.media-amazon.com/images/I/31cfcNTWctS._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B07K75VJZH-es Levi s Essential Tank Camiseta Deportiva de Tirantes White...'
+sku: 'B07K75VJZH-es'
+tags: [ 'Camisetas sin mangas para mujer','Camisetas, tops y blusas para mujer','Ropa','Ropa para mujer','camiseta','levis', ]
+actualPrice: 10.48 EUR
+currency: EUR
+price: 10.48
+comparePrice: 18.0 EUR
+prodname: 'Levi s Essential Tank Camiseta Deportiva de Tirantes  White +  XS para Mujer'
+country: 'es'
+flag: '🇪🇸'
+brand: 'Levis'
+buyurl: 'https://www.amazon.es/dp/B07K75VJZH/?tag=tolees-21'
+descuento: '41.78'
+average: '10.215'
+---
+
+Tienes [Levi s Essential Tank Camiseta Deportiva de Tirantes  White +  XS para Mujer](https://www.amazon.es/dp/B07K75VJZH/?tag=tolees-21) con un 41.78 % de descuento con precio de oferta de 10.48 EUR (original: 18.0 EUR) en el siguiente enlace!
+
+[![Levi s Essential Tank Camiseta Deportiva](https://m.media-amazon.com/images/I/31cfcNTWctS._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07K75VJZH/?tag=tolees-21)
+
+ℹ️:
+
+- Con un discreto logo en el pecho
+- Elaborada en punto suave
+- Modelo casual
+
+[🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07K75VJZH/?tag=tolees-21)

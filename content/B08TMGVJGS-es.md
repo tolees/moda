@@ -29,8 +29,8 @@ En este momento está [HAWKERS LAX Gafas  Negro polarizado  Adulto Unisex](https
 🔎:
 
 - Montura en acero inoxidable libre de níquel que las hace altamente resistentes a la corrosión y mucho más fuertes.
-- Gafas de sol polarizadas: otorga una visión sin reflejos, y contraste naturales de colores. Lentes categoría 3 y protección uv400 que ofrecen una protección antideslumbrante superior
 - Producto original Hawkers. La caja incluye funda de microfibra, caja y set de pegatinas decorativas.
+- Gafas de sol polarizadas: otorga una visión sin reflejos, y contraste naturales de colores. Lentes categoría 3 y protección uv400 que ofrecen una protección antideslumbrante superior
 - Modelo unisex. Medidas: Frontal 140 mm; Alto 47 mm; Patillas 140 mm; Puente 14 mm; Diámetro de lente 57 mm
 - Las gafas de sol LAX con montura metálica dorada mate, lentes polarizadas negras y terminales negros son un modelo clásico de estilo aviador esencial para cada temporada.
 
