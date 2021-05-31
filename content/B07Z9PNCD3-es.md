@@ -28,8 +28,8 @@ En este momento está [O NEILL LM T-Shirt Camiseta Manga Corta para Hombre  Wint
 
 🔎:
 
-- Regular fit
 - Logo lateral
+- Regular fit
 - Algodón orgánico
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07Z9PNCD3/?tag=tolees-21)
