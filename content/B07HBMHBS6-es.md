@@ -28,10 +28,10 @@ Está [HAWKERS LS Gafas de sol  Azul/Gris  One Size Unisex Adulto](https://www.a
 
 ℹ️:
 
-- Gafas de Sol ONE LS, unisex, este modelo es un rediseño del icónico modelo Hawkers ONE, buque insignia de la marca, con montura negra en acabado mate y lentes espejadas amarillas
-- Lentes con efecto espejo amarillas fabricadas en TR18, con reducción de brillos y con gran equilibrio entre claridad y protección; lente de categoría 3 con protección UV405
-- Producto original Hawkers; la caja incluye funda de microfibra, caja y set de pegatinas decorativas
-- Medidas: Frente: 13,95 cm, Altura: 4,9 cm, Puente: 1,5 cm; Varillas: 14,8 cm
 - Montura fabricada en TR90, que dota a las gafas de gran ligereza, flexibilidad y resistencia, muy resistente a altas y bajas temperaturas
+- Lentes con efecto espejo amarillas fabricadas en TR18, con reducción de brillos y con gran equilibrio entre claridad y protección; lente de categoría 3 con protección UV405
+- Medidas: Frente: 13,95 cm, Altura: 4,9 cm, Puente: 1,5 cm; Varillas: 14,8 cm
+- Gafas de Sol ONE LS, unisex, este modelo es un rediseño del icónico modelo Hawkers ONE, buque insignia de la marca, con montura negra en acabado mate y lentes espejadas amarillas
+- Producto original Hawkers; la caja incluye funda de microfibra, caja y set de pegatinas decorativas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07HBMHBS6/?tag=tolees-21)
