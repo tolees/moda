@@ -28,10 +28,10 @@ Ahora mismo tienes [Under Armour Woven Graphic Pantalón Corto  Hombre  Gris  St
 
 🔎:
 
-- Transpirables y robustos: Estos pantalones para correr son óptimoes para entrenar porque su suave tejido de algodón es transpirable y se seca rápido
 - Pantalones ultraligeros: Gracias a que son anchos y al material ultraligero con el que están fabricados, estos pantalones de deporte son muy cómodos
-- Diseño ancho: Estos pantalones cortos deportivos son anchos, por lo que proporcionan una gran movilidad y resultan muy cómodos de llevar
+- Transpirables y robustos: Estos pantalones para correr son óptimoes para entrenar porque su suave tejido de algodón es transpirable y se seca rápido
 - Material y forma: Pantalones cortos de hombre con logotipo Under Armour UA, entrepierna: 20 cm, forma: ancha, material 100% de poliéster
 - Prácticos y elegantes: Estos pantalones para hombre tienen bolsillos laterales, cintura elástica revestida, cordón ajustable y un logotipo lateral
+- Diseño ancho: Estos pantalones cortos deportivos son anchos, por lo que proporcionan una gran movilidad y resultan muy cómodos de llevar
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B077XP8DP2/?tag=tolees-21)

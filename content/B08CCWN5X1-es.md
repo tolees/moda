@@ -29,7 +29,7 @@ Está [Tommy Hilfiger Circular Logo tee Camiseta  Blanco  M para Hombre](https:/
 ℹ️:
 
 - Este es un producto auténtico y original de Tommy Hilfiger.
-- Este producto ha sido fabricado de forma sostenible con materiales sostenibles
 - Para más información sobre Tommy Hilfiger, consulta la sección de descripción del producto a continuación.
+- Este producto ha sido fabricado de forma sostenible con materiales sostenibles
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08CCWN5X1/?tag=tolees-21)
