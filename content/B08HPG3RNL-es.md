@@ -28,10 +28,10 @@ En este momento está [cotton division WOTBOYSTS004 Camiseta  Antracita  M para 
 
 🔎:
 
-- 100% algodón.
-- Camiseta para mujer The Boys – Season2. Licencia oficial.
 - Todos nuestros productos son nuevos y en su embalaje original.
 - Antracita.
+- 100% algodón.
 - The Boys
+- Camiseta para mujer The Boys – Season2. Licencia oficial.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08HPG3RNL/?tag=tolees-21)
