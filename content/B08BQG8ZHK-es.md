@@ -29,9 +29,9 @@ En este momento está [HAWKERS CITYLIFE Gafas de sol  Transparente  One Size Uni
 🔎:
 
 - Producto original Hawkers; la caja incluye funda de microfibra, caja y set de pegatinas decorativas
-- Lentes con efecto cromado grises, fabricadas en TR18, con reducción de brillos y con gran equilibrio entre claridad y protección; lente de categoría 3 con protección UV400
-- Gafas de Sol Citylife, unisex, de diseño híbrido con estructura de acero inoxidable dorado, terminales y marcos de acetato translúcidos crystal frosted y lentes cromadas grises
-- Montura híbrida fabricada en acero inoxidable y TR90, de gran resistencia y flexibilidad; su estructura completa es de acero y está recubierta por TR90 tanto en los aros como en los terminales; tiene almohadillas de silicona antideslizantes y anti-alérgicas
 - Medidas: Frente: 13.3 cm, Altura: 4.8 cm, Diámetro de la lente: 4.9 cm, Puente: 2.3 cm; Varillas: 14 cm
+- Gafas de Sol Citylife, unisex, de diseño híbrido con estructura de acero inoxidable dorado, terminales y marcos de acetato translúcidos crystal frosted y lentes cromadas grises
+- Lentes con efecto cromado grises, fabricadas en TR18, con reducción de brillos y con gran equilibrio entre claridad y protección; lente de categoría 3 con protección UV400
+- Montura híbrida fabricada en acero inoxidable y TR90, de gran resistencia y flexibilidad; su estructura completa es de acero y está recubierta por TR90 tanto en los aros como en los terminales; tiene almohadillas de silicona antideslizantes y anti-alérgicas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08BQG8ZHK/?tag=tolees-21)
