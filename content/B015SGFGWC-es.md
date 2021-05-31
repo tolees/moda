@@ -28,11 +28,11 @@ Tienes [Havaianas Luna  Sandalias para Mujer  Azul  Navy Blue   37/38 EU](https:
 
 ℹ️:
 
-- 39/40 EU (37/38 Brazilian)
+- Tipo de tacón: Plano
 - Material exterior: Caucho
 - Cierre: Sin cordones
 - Revestimiento: Sin forro
+- 39/40 EU (37/38 Brazilian)
 - Material de la suela: Goma
-- Tipo de tacón: Plano
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B015SGFGWC/?tag=tolees-21)

@@ -28,8 +28,8 @@ Ahora mismo tienes [Lee Luke Vaqueros Slim  Azul  Dark Stonewash 46   W26/L32  T
 
 🔎:
 
-- Vaqueros para hombre
 - Presentan 5 bolsillos
 - Tienen un parche en la parte trasera con la marca Lee
+- Vaqueros para hombre
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VMV177R/?tag=tolees-21)
