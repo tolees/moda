@@ -28,12 +28,12 @@ Tienes [GEOX U LEVICO B ABX C BROWNCOTTO/DK COFFEE Men s Trainers Hi-Top Trainer
 
 ℹ️:
 
-- Suela: goma
-- Ancho del zapato: estrecho
 - Material exterior: sintético
+- Ancho del zapato: estrecho
 - Resistente al agua
-- Cierre: cordones
 - Material interior: sintético
+- Cierre: cordones
+- Suela: goma
 - Nota sobre la talla: Ten en cuenta que los zapatos Geox tienen un ajuste cómodo, por lo que recomendamos elegir media talla
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0825NLPQT/?tag=tolees-21)
