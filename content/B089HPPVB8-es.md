@@ -28,10 +28,10 @@ En este momento está [RFEF - Camiseta oficial conmemorativa final Mundial Sudá
 
 🔎:
 
-- 100% poliester
-- Dorsal 10 en la espalda, recordando los 10 años desde la final
 - Edición coleccionista en caja exclusiva y prendas de serie limitada y numerada
 - Regular Fit
+- Dorsal 10 en la espalda, recordando los 10 años desde la final
 - Logo RFEF, escudo de la RFEF y estrella de campeones del mundo bordados en el pecho
+- 100% poliester
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B089HPPVB8/?tag=tolees-21)

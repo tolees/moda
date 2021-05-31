@@ -28,8 +28,8 @@ Tienes [Lee Pocket tee Camiseta  Beige  Ecru NQ   Large para Hombre](https://www
 
 🔎:
 
-- Vestido para mujer
 - Con banda elástica en la cintura
+- Vestido para mujer
 - Detalle con puños abotonados
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07VMV1G4V/?tag=tolees-21)
