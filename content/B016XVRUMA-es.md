@@ -28,7 +28,7 @@ Está [Vero Moda VMMAXI MY SS Soft U-Neck Noos Camiseta  Negro  M para Mujer](ht
 
 ℹ️:
 
-- Un ajuste ajustado al cuerpo y adaptable, así como el cuello en U completan el aspecto versátil combinable.
 - Un modelo básico que no puede faltar en ningún armario. Esta camiseta de la casa Vero Moda. La parte superior de manga corta está hecha de un jersey suave y elástico con un porcentaje elástico.
+- Un ajuste ajustado al cuerpo y adaptable, así como el cuello en U completan el aspecto versátil combinable.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B016XVRUMA/?tag=tolees-21)
