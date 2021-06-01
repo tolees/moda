@@ -28,7 +28,7 @@ Tienes [JACK & JONES JJEWASHED Sweat Hood Noos Sudadera con capucha  Negro  L pa
 
 ℹ️:
 
-- Sudadera básica con capucha de color liso
 - Sudadera con capucha de mezcla de algodón
+- Sudadera básica con capucha de color liso
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B089NGLR5H/?tag=tolees-21)

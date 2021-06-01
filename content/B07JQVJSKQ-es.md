@@ -28,8 +28,8 @@ Ahora mismo tienes [Tommy Hilfiger Logo T-Shirt Camiseta Informal  Blanco  Snow 
 
 🔎:
 
-- Logo de Tommy Hilfiger bordado en la manga
 - Logo de Tommy Hilfiger en el pecho
+- Logo de Tommy Hilfiger bordado en la manga
 - Cinta distintiva en el cuello
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07JQVJSKQ/?tag=tolees-21)
