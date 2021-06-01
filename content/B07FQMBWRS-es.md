@@ -1,32 +1,33 @@
 ---
 layout: post
-title: 'Clarks Step Urban Mix  Zapatos de Cordon al 30.02 % de descuento'
-date: 2020-08-07 08:51:55
-image: 'https://m.media-amazon.com/images/I/41idQjYWmpL._SL400_.jpg'
+title: 'Clarks Step Urban Mix  Zapatos de Cordon al 61.40 % de descuento'
+date: 2021-06-01 15:45:13
+image: 'https://m.media-amazon.com/images/I/31D9fCNMsyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07FQMBWRS-es Clarks Step Urban Mix Zapatos de Cordones Derby para...'
+slug: 'B07FQMBWRS-es Clarks Step Urban Mix Zapatos de Cordones Derby Hombre...'
 sku: 'B07FQMBWRS-es'
-tags: [ 'zapatos', ]
-actualPrice: 48.95 EUR
+tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','clarks','zapatos', ]
+actualPrice: 27.0 EUR
 currency: EUR
-price: 48.95
+price: 27.0
 comparePrice: 69.95 EUR
-prodname: 'Clarks Step Urban Mix  Zapatos de Cordones Derby para Hombre  Azul  Navy-   42 EU'
+prodname: 'Clarks Step Urban Mix  Zapatos de Cordones Derby Hombre  Azul  Navy-   42 EU'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Clarks'
 buyurl: 'https://www.amazon.es/dp/B07FQMBWRS/?tag=tolees-21'
-descuento: '30.02'
-average: '42.942857142857136'
+descuento: '61.40'
+average: '41.88'
 ---
 
-Ahora mismo tienes [Clarks Step Urban Mix  Zapatos de Cordones Derby para Hombre  Azul  Navy-   42 EU](https://www.amazon.es/dp/B07FQMBWRS/?tag=tolees-21) a 48.95 EUR (original: 69.95 EUR) (30.02 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Clarks Step Urban Mix  Zapatos de Cordones Derby Hombre  Azul  Navy-   42 EU](https://www.amazon.es/dp/B07FQMBWRS/?tag=tolees-21) a 27.0 EUR (original: 69.95 EUR) (61.40 %  de descuento) en el siguiente enlace!
 
-[![Clarks Step Urban Mix  Zapatos de Cordon](https://m.media-amazon.com/images/I/41idQjYWmpL._SL400_.jpg)](https://www.amazon.es/dp/B07FQMBWRS/?tag=tolees-21)
+[![Clarks Step Urban Mix  Zapatos de Cordon](https://m.media-amazon.com/images/I/31D9fCNMsyL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07FQMBWRS/?tag=tolees-21)
 
 🔎:
 
+- cuero
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07FQMBWRS/?tag=tolees-21)

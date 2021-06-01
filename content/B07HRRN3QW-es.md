@@ -28,10 +28,10 @@ En este momento está [HAWKERS Gafas de sol  Azul  One Size Unisex Adulto](https
 
 🔎:
 
-- Producto original Hawkers; la caja incluye funda de microfibra, caja y set de pegatinas decorativas
-- Gafas de Sol Faster, Unisex, diseño deportivo rectangular curvado con montura negro mate y con lente verde y morado con efecto espejo
 - Medidas: Frente: 14,2 cm, Altura: 4,9 cm, Diámetro de la lente: 5,75 cm; Puente: 2,5 cm; Varillas: 14 cm
 - Montura fabricada en TR90 que dota a las gafas de gran ligereza, flexibilidad y resistencia; muy resistente a altas y bajas temperaturas
+- Producto original Hawkers; la caja incluye funda de microfibra, caja y set de pegatinas decorativas
 - Lente cromada en verde y morado con efecto espejo, fabricada en TR18, con reducción de brillos y con gran equilibrio entre claridad y protección; lente de categoría 3 con protección UV400
+- Gafas de Sol Faster, Unisex, diseño deportivo rectangular curvado con montura negro mate y con lente verde y morado con efecto espejo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07HRRN3QW/?tag=tolees-21)
