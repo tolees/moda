@@ -28,10 +28,10 @@ Tienes [Camper Right  Sandalias con Punta Abierta Mujer  Rosa  Black 1   37 EU](
 
 🔎:
 
-- Forro:
 - Empeine: Piel (Piel vacuna) / Tejido técnico
-- Color: Negro
-- Suela/Características: Tiras elásticas para un fácil ajuste
 - 42% Piel porcina 40% Tejido (60% Nailon - 40% Goma) 18% Tejido (60% Nailon - 40% PU)
+- Forro:
+- Suela/Características: Tiras elásticas para un fácil ajuste
+- Color: Negro
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07HHD5W4Y/?tag=tolees-21)
