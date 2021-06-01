@@ -29,9 +29,9 @@ Está [Sandalias Mujer MTNG | Sandalias Palmira 58351 | MTNG Mujer | Sandalias R
 ℹ️:
 
 - Material principal Sintetico
-- Material de la suela De goma
-- Tipo de cierre Cordones
 - Altura Tacón Bajo (de 1 A 3 cm)
+- Material de la suela De goma
 - Tipo de tacón Plano
+- Tipo de cierre Cordones
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07YNBP1CV/?tag=tolees-21)
