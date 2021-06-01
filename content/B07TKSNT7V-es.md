@@ -28,7 +28,7 @@ Ahora mismo tienes [Clarks Laina55 Court  Zapatos de Tacón Mujer  Negro  Black 
 
 🔎:
 
-- Color exacto: ante negro.
 - Material de la suela: goma de resina.
+- Color exacto: ante negro.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TKSNT7V/?tag=tolees-21)

@@ -30,8 +30,8 @@ En este momento está [G-STAR RAW Lynn Mid Waist Skinny Vaqueros  Azul  Dk Aged 
 
 - Lavar a máquina - agua fría (30 ° max)
 - 92% Algodón, 7% Poliéster, 1% Elastano
-- Cierre: Boton y cierre
 - Usado
 - Skinny
+- Cierre: Boton y cierre
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07N18KYRX/?tag=tolees-21)
