@@ -28,8 +28,8 @@ Ahora mismo tienes [Levi s 511 Slim Vaqueros  Negro  Caboose Adv   29W / 32L par
 
 🔎:
 
-- Diseño de cinco bolsillos
-- Estilo esbelto con confort añadido
 - Corte ajustado de la cadera al tobillo
+- Estilo esbelto con confort añadido
+- Diseño de cinco bolsillos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07ZVQVFTS/?tag=tolees-21)

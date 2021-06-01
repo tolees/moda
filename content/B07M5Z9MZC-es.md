@@ -29,9 +29,9 @@ Tienes [G-STAR RAW Revend Skinny Vaqueros  Lt Indigo Aged 8968-8436  34W / 36L p
 🔎:
 
 - Lavar a máquina - agua fría (30 ° max)
-- Cierre: Boton y cierre
-- Skinny
 - 91% Algodón, 7% Elastomultiéster, 2% Elastano
 - Usado
+- Skinny
+- Cierre: Boton y cierre
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07M5Z9MZC/?tag=tolees-21)
