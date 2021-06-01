@@ -28,10 +28,10 @@ Está [Sandalias Mujer MTNG | Sandalias Damas 58693 | MTNG Mujer | Sandalias Tir
 
 ℹ️:
 
-- Tipo de tacón Plano
 - Tipo de cierre Hebilla
-- Altura Tacón Bajo (de 1 A 3 cm)
-- Material principal Sintetico
 - Material de la suela De goma
+- Material principal Sintetico
+- Tipo de tacón Plano
+- Altura Tacón Bajo (de 1 A 3 cm)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07YN9W6BX/?tag=tolees-21)
