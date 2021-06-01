@@ -28,7 +28,7 @@ Ahora mismo tienes [Wrangler Texas Vaqueros Slim  Azul  Dark Rinse 90a   30W / 3
 
 🔎:
 
-- Slim
 - 5 bolsillos
+- Slim
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TXRKQSW/?tag=tolees-21)
