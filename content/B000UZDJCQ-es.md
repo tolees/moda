@@ -28,9 +28,9 @@ Tienes [Timberland 6 Inch Premium Waterproof  Botas Chukka Mujer  Amarillo Wheat
 
 ℹ️:
 
-- Exterior: piel
 - Cierre: cordones
 - Forma del tacón: plano
 - Composición del material: ver descripción
+- Exterior: piel
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000UZDJCQ/?tag=tolees-21)

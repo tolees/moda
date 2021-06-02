@@ -28,7 +28,7 @@ Tienes [CONVERSE Chuck 70 HIG Zapatos Deportivos Beige 162053C](https://www.amaz
 
 🔎:
 
-- Detalles modernos
 - La tapa de goma del dedo del pie
+- Detalles modernos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B077C9WGQY/?tag=tolees-21)
