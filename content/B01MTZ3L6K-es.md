@@ -28,9 +28,9 @@ Está [G-STAR RAW Eyben Slim R T Wmn S/s Camiseta  Blanco  White 110   M para Mu
 
 ℹ️:
 
-- Mangas casquillo
-- Corte ajustado
 - Marca en el pecho
 - Cuello redondo
+- Corte ajustado
+- Mangas casquillo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01MTZ3L6K/?tag=tolees-21)

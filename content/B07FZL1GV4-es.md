@@ -29,7 +29,7 @@ Tienes [adidas TIRO19 AW JKT Chaqueta de Deporte  Hombre  Black/White  XS](https
 🔎:
 
 - Soccer jacket
-- Full zip
 - Soft fabric
+- Full zip
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07FZL1GV4/?tag=tolees-21)

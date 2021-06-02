@@ -28,8 +28,8 @@ Está [Crocs Classic  Zuecos Unisex Adulto  Electric Pink  37/38 EU](https://www
 
 ℹ️:
 
-- Calzado crocs
 - Chanclas Tiempo libre y sportwear Unisex Adulto
+- Calzado crocs
 - Classic (10001)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07SDHRBW6/?tag=tolees-21)
