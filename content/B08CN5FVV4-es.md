@@ -28,8 +28,8 @@ Tienes [Desigual TS BOKAN Camiseta  Negro  S para Mujer](https://www.amazon.es/d
 
 🔎:
 
-- Zapatillas de correr bordadas
 - Floral Camouflage
+- Zapatillas de correr bordadas
 - Refuerzo en el talón y la puntera
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08CN5FVV4/?tag=tolees-21)

@@ -29,8 +29,8 @@ En este momento está [adidas Selección Española Temporada 2020/21 Camiseta Pr
 🔎:
 
 - Ajuste regular
-- Con escote de pico acanalado
-- Tiene el logo de la marca en el pecho
 - Camiseta de fútbol para los aficionados de España
+- Tiene el logo de la marca en el pecho
+- Con escote de pico acanalado
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B081TMWW3M/?tag=tolees-21)

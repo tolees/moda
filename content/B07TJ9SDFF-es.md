@@ -28,8 +28,8 @@ Tienes [Levi s Barstow Western Standard Camisa  Blue  Red Cast Rinse Marbled T2 
 
 🔎:
 
-- Modelo casual
-- Dos bolsillos con botón en el pecho
 - Camisa denim clásica de manga larga Western Shirt
+- Dos bolsillos con botón en el pecho
+- Modelo casual
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07TJ9SDFF/?tag=tolees-21)
