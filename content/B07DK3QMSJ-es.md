@@ -29,9 +29,9 @@ En este momento está [Geox J Borealis Boy B  Sandalias Punta Cerrada Niños  Gr
 🔎:
 
 - Tipo de tacón: Plano
-- Cierre: Velcro
 - Material exterior: Sintético
 - Revestimiento: Malla
 - Material de la suela: Goma
+- Cierre: Velcro
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07DK3QMSJ/?tag=tolees-21)

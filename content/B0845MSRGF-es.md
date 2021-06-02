@@ -28,10 +28,10 @@ Tienes [PUMA teamGOAL 23 Training Jersey W Camiseta  Mujer  Pepper Green/Power G
 
 ℹ️:
 
-- Manga corta
-- dryCELL: tecnología de PUMA con propiedades que alejan la humedad de la piel y te ayudan a mantenerte seco y cómodo
 - Cuello redondo
-- Bloques de color en hombros y dobladillo
+- Manga corta
 - Logotipo del felino PUMA en la parte derecha del pecho
+- dryCELL: tecnología de PUMA con propiedades que alejan la humedad de la piel y te ayudan a mantenerte seco y cómodo
+- Bloques de color en hombros y dobladillo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0845MSRGF/?tag=tolees-21)
