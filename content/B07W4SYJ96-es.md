@@ -28,9 +28,9 @@ Está [NIKE M Nk Dry Park VII JSY SS Camiseta de Manga Corta  Hombre  Verde  Pin
 
 ℹ️:
 
-- Fabricada en tejido transpirable que mantiene la piel fresca y seca
 - Camiseta de fútbol para hombre
-- Con cuello redondo
+- Fabricada en tejido transpirable que mantiene la piel fresca y seca
 - Detalles distintivos de la marca
+- Con cuello redondo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07W4SYJ96/?tag=tolees-21)

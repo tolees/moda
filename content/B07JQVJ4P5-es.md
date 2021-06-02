@@ -28,8 +28,8 @@ Tienes [Tommy Hilfiger Flag tee  Camisa Deportiva Hombre  Blanco  Snow White 118
 
 ℹ️:
 
-- Logo de Tommy Hilfiger en el pecho
 - Logo de Tommy Hilfiger bordado en la manga
 - Cinta distintiva en el cuello
+- Logo de Tommy Hilfiger en el pecho
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07JQVJ4P5/?tag=tolees-21)

@@ -28,9 +28,9 @@ Tienes [PUMA Liga Jersey Camiseta  Hombre  Azul  Electric Blue Lemonade/White   
 
 🔎:
 
-- Tejido exterior de los puños en color contrastante
+- dryCELL: propiedades de absorción de la humedad que te ayudan a estar seco y cómodo
 - Transferencia térmica
 - Cuello redondo
-- dryCELL: propiedades de absorción de la humedad que te ayudan a estar seco y cómodo
+- Tejido exterior de los puños en color contrastante
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0786M9QWB/?tag=tolees-21)
