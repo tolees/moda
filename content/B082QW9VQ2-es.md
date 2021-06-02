@@ -28,10 +28,10 @@ Ahora mismo tienes [AMAYGA Seguridad Chaleco Reflectante Set + Dos Bandas Ajusta
 
 🔎:
 
-- ★ Uso versátil: nuestro conjunto reflectante es imprescindible para ciclistas, motociclistas, corredores, corredores o caminantes. Se puede usar sobre abrigos,chaquetas,puentes,etc.un artículo muy efectivo y necesario.
 - ★ Ligero y cómodo: calidad superior,durabilidad y comodidad.El chaleco utiliza hebillas de alta resistencia (ajuste fácil),ergonómico,clip de acceso rápido (fácil de poner y quitar).
 - ★ Tiras reflectantes duales: las tiras reflectantes dobles mejoradas son claramente visibles por la noche.Los materiales especiales reflejan la luz desde todos los lados,haciendo que nuestro viaje sea más seguro.
-- ★ Tamaño-Tamaño ajustable se puede ajustar de acuerdo con sus propias condiciones, adecuado para personas de diferentes tamaños.
 - ★ Bandas reflectantes para los brazos del chaleco:cada uno de nuestros paquetes contiene 2 chalecos reflectantes y 4 bandas para los brazos reflectantes,lo que garantiza una alta visibilidad y seguridad por la noche, en cualquier condición climática,fácil de usar para todas las edades y tamaños.
+- ★ Tamaño-Tamaño ajustable se puede ajustar de acuerdo con sus propias condiciones, adecuado para personas de diferentes tamaños.
+- ★ Uso versátil: nuestro conjunto reflectante es imprescindible para ciclistas, motociclistas, corredores, corredores o caminantes. Se puede usar sobre abrigos,chaquetas,puentes,etc.un artículo muy efectivo y necesario.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082QW9VQ2/?tag=tolees-21)

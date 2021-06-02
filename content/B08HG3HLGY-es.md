@@ -28,10 +28,10 @@ En este momento está [Barbie Fashionista Muñeca morena con vestido estampado d
 
 🔎:
 
+- Su pelo largo moreno tiene un peinado con ondas para darle un look moderno.
 - ¡La nueva línea de Barbie Fashionistas incluye muñecas con 5 tipos de cuerpo, 10 tonos de piel, 8 colores de ojos, 19 colores de pelo, 19 peinados y un montón de conjuntos de última tendencia!
+- La muñeca Barbie es más alta que la original y lleva un vestido gris estampado con ratones con mangas fruncidas.
 - Las botas rosas y las geniales gafas de sol completan el conjunto.
 - Es un regalo ideal para niñas a partir de 3 años. Podrán jugar con estilo, crear historias y descubrir el mundo de Barbie.
-- Su pelo largo moreno tiene un peinado con ondas para darle un look moderno.
-- La muñeca Barbie es más alta que la original y lleva un vestido gris estampado con ratones con mangas fruncidas.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08HG3HLGY/?tag=tolees-21)
