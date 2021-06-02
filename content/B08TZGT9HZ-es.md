@@ -28,10 +28,10 @@ Tienes [Le sure - Lesure Arnés Perro Antitirones Grande - Dog Harness Large  Pe
 
 🔎:
 
-- Cojín acolchado transpirable mantiene la frescura del aminal durante cualquier actividad al aire libre.
-- Arnés pecho perro antitirones ayuda a repartir proporcionadamente el tirón causado por su amigo.
 - Dog harness deportivo y reflectante garantiza un paseo seguro tanto de día como de noche con líneas reflectantes para su mascota.
 - Chaleco perro antiescape para adiestramiento evita que su cachorro sufra asfixia y jalones con cuatro correas ajustables.
+- Cojín acolchado transpirable mantiene la frescura del aminal durante cualquier actividad al aire libre.
 - Pechera perro ajustable y divertido permite mayor facilidad de quitarse y vestirse con hebilla de cierre rápido.
+- Arnés pecho perro antitirones ayuda a repartir proporcionadamente el tirón causado por su amigo.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08TZGT9HZ/?tag=tolees-21)

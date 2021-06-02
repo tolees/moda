@@ -29,8 +29,8 @@ En este momento está [Nike Wmns Air MAX OKETO  Zapatos para Correr para Mujer  
 🔎:
 
 - Entresuela de espuma/suela exterior ofrece amortiguación ligera y tracción.
-- La parte superior mínima cuenta con malla transpirable con superposiciones sintéticas.
 - La unidad Max Air proporciona comodidad bajo los pies.
 - El talón hace referencia al aire Max 90; las muescas en la entresuela hacen referencia al aire Max 1
+- La parte superior mínima cuenta con malla transpirable con superposiciones sintéticas.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07HKY63SG/?tag=tolees-21)

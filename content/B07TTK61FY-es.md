@@ -28,8 +28,8 @@ Está [Wrangler Pique Camisa Polo  Azul  Navy 114   Small para Hombre](https://w
 
 ℹ️:
 
-- Tamaños grandes
 - 100% algodón piqué
+- Tamaños grandes
 - Logotipo clásico en el pecho
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07TTK61FY/?tag=tolees-21)
