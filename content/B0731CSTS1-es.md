@@ -28,11 +28,11 @@ Está [Champion Hombre - Sudadera Classic Small Logo - Gris  S](https://www.amaz
 
 ℹ️:
 
+- Lavar a máquina en frío (30°máx)
+- Logo pequeño impreso en el lado izquierdo del pecho
 - Número de modelo: 210741
 - Sudadera con cuello redondo
 - Puños elasticos
 - 60% algodón, 40% poliéster
-- Lavar a máquina en frío (30°máx)
-- Logo pequeño impreso en el lado izquierdo del pecho
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0731CSTS1/?tag=tolees-21)
