@@ -28,9 +28,9 @@ En este momento está [G-STAR RAW Revend Skinny Vaqueros  Dk Aged 6590-89  29W /
 
 🔎:
 
-- Cierre de botones y cremallera
-- Tiro medio
 - Cinturilla ajustada
+- Cierre de botones y cremallera
 - Prenda ajustada de arriba abajo
+- Tiro medio
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00SF8F7Y8/?tag=tolees-21)

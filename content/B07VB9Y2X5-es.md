@@ -28,7 +28,7 @@ Tienes [Marca Amazon - find. Stitch Cardigan - chaqueta punto Mujer  Negro  Blac
 
 ℹ️:
 
-- La modelo lleva la talla XS
 - Costilla de punto en un hilo suave con elástico
+- La modelo lleva la talla XS
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07VB9Y2X5/?tag=tolees-21)
