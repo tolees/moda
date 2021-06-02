@@ -28,10 +28,10 @@ En este momento está [Workwear Tucano - Conjuntos Uniformes Sanitarios Blanco U
 
 🔎:
 
-- ¡sensación ligera y transpirable! descubra nuestra colección de colores: eche un vistazo a nuestra elegante colección de felpa y explore nuestra gran variedad de colores
-- características principales: manga corta, cuello en v, aberturas laterales, 65% poliéster, 35% algodón, popelina. lavado sin problemas: simplemente arroje la prenda en la lavadora y deje que ésta haga el resto. ¡sin decoloración, ni encogimiento!
-- lavados seguros: gracias al tratamiento sanforizado nuestros uniformes resisten al lavado industrial y garantizan restriñimiento máximo inferior al 2,5%, distinguiéndose asi de otros productos presentes en el mercado
 - la camiseta adecuada para todos: encuentre el tamaño correcto en nuestra tabla y disfrute de un ajuste perfecto. ¡ideal para enfermeras y todos los profesionales de la salud y la belleza! cómodo y ligero durante todo el día: ¡facilite su trabajo y siéntase cómodo
 - descripción del producto: uniforme unisex compuesto por casaca de manga corta con cuello a v , bolsillo para bolígrafos y bolsillos frontales. pantalón con bolsillo trasero , lazos y goma en la cintura por la máxima confort.
+- características principales: manga corta, cuello en v, aberturas laterales, 65% poliéster, 35% algodón, popelina. lavado sin problemas: simplemente arroje la prenda en la lavadora y deje que ésta haga el resto. ¡sin decoloración, ni encogimiento!
+- ¡sensación ligera y transpirable! descubra nuestra colección de colores: eche un vistazo a nuestra elegante colección de felpa y explore nuestra gran variedad de colores
+- lavados seguros: gracias al tratamiento sanforizado nuestros uniformes resisten al lavado industrial y garantizan restriñimiento máximo inferior al 2,5%, distinguiéndose asi de otros productos presentes en el mercado
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08TX6H43M/?tag=tolees-21)
