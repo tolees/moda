@@ -29,9 +29,9 @@ Tienes [Geox D Nebula C  Zapatillas Mujer  Negro  Gun C1357   36 EU](https://www
 🔎:
 
 - Diseñador: Geox
-- Artículo: D621Ec 0Ew22
-- Estación: Primavera / Verano
-- De Color Negro
 - Material: Tejido
+- Artículo: D621Ec 0Ew22
+- De Color Negro
+- Estación: Primavera / Verano
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07DJ8G99V/?tag=tolees-21)
