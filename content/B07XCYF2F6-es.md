@@ -28,7 +28,7 @@ Está [Esprit Daytonah Beach Acc Tunic Vestido  Negro  Black 001   40  Talla del
 
 ℹ️:
 
-- Vestido túnica con estampado minimalista, ideal para la playa, escote amplio redondo con abertura larga y cintas finas para ajustar, mangas de tres cuartos anchas con pespuntes en los remates, bajo irregular redondeado con aberturas laterales
 - Tejido fluido y suave muy ligero de viscosa pura con tacto muy agradable, corte recto y holgado
+- Vestido túnica con estampado minimalista, ideal para la playa, escote amplio redondo con abertura larga y cintas finas para ajustar, mangas de tres cuartos anchas con pespuntes en los remates, bajo irregular redondeado con aberturas laterales
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07XCYF2F6/?tag=tolees-21)
