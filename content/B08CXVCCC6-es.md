@@ -28,10 +28,10 @@ Está [Kipling KI4707TQ9 - Bolso de tela de sintético para mujer Rojo coral tal
 
 ℹ️:
 
+- 0,44 kg.
 - Hembra.
+- Peso ligero.
 - Mono robot de silicona
 - 62% poliéster, 38% poliéster reciclado.
-- Peso ligero.
-- 0,44 kg.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08CXVCCC6/?tag=tolees-21)
