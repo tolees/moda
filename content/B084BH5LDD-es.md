@@ -28,8 +28,8 @@ Tienes [Levi s Orig Hm Vneck Camiseta  Two Color Dress Blues  X-Small para Hombr
 
 ℹ️:
 
+- Elaborada en punto suave
 - Con un discreto logo en el pecho
 - Modelo casual
-- Elaborada en punto suave
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B084BH5LDD/?tag=tolees-21)
