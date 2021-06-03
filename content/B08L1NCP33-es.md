@@ -28,7 +28,7 @@ En este momento está [Jack & Jones JJEJEANS tee SS Crew Neck Noos 20/21 Camiset
 
 🔎:
 
-- Tejido jaspeado, gran comodidad gracias a su fabricación de 100% algodón
 - Camiseta informal de corte entallado con cuello redondo y mangas cortas, logotipo grande en la parte delantera
+- Tejido jaspeado, gran comodidad gracias a su fabricación de 100% algodón
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08L1NCP33/?tag=tolees-21)

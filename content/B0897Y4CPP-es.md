@@ -28,8 +28,8 @@ Tienes [Levi s Housemark Graphic tee Camiseta  Green  Ssnl Hm Garment Dye Forest
 
 🔎:
 
-- Ofrece comodidad todo el día
 - Modelo casual
+- Ofrece comodidad todo el día
 - Tiene estampado el logotipo de Levis
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0897Y4CPP/?tag=tolees-21)
