@@ -28,13 +28,13 @@ Ahora mismo tienes [Geox Pumps D New Annya M. A - Nappa schwarz 36](https://www.
 
 🔎:
 
-- Revestimiento: Sintético
 - Cierre: Sin cierre
 - Tipo de talla: Los zapatos Geox son holgados
-- Material de la suela: Sintético
+- Revestimiento: Sintético
+- Material exterior: Cuero
 - Anchura del zapato: Normal
 - Altura del tacón: 5.5 centímetros
-- Material exterior: Cuero
+- Material de la suela: Sintético
 - Tipo de tacón: Tacón ancho
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07LFRMVSG/?tag=tolees-21)
