@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HAWKERS Gafas de sol  Negro/Azul eléctri al 40.01 % de descuento'
-date: 2021-05-30 07:39:20
+date: 2021-06-03 06:17:48
 image: 'https://m.media-amazon.com/images/I/31PoNbGdbSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HAWKERS'
 buyurl: 'https://www.amazon.es/dp/B07H1BHCWR/?tag=tolees-21'
 descuento: '40.01'
-average: '22.3736363636364'
+average: '22.0083333333334'
 ---
 
 Está [HAWKERS Gafas de sol  Negro/Azul eléctrico  One Size Unisex-Adult](https://www.amazon.es/dp/B07H1BHCWR/?tag=tolees-21) con 40.01 de descuento por 17.99 EUR (original: 29.99 EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [HAWKERS Gafas de sol  Negro/Azul eléctrico  One Size Unisex-Adult](https
 
 ℹ️:
 
-- Icónico modelo Hawkers One, Unisex, con montura Carbon Black mate y lente azul efecto espejo
-- Lente azul con efecto espejo fabricada en TR18, con reducción de brillos y con gran equilibrio entre claridad y protección. Lente de categoría 3 con protección UV400. Resistencia muy alta
-- Producto original Hawkers. La caja incluye funda de microfibra, caja y set de pegatinas decorativas.
-- Montura fabricada en TR90, que dota a las gafas de gran ligereza, flexibilidad y resistencia, muy resistente a altas y bajas temperaturas.
 - Medidas: Frente: 14cm, Altura: 5cm, Varillas: 14cm
+- Lente azul con efecto espejo fabricada en TR18, con reducción de brillos y con gran equilibrio entre claridad y protección. Lente de categoría 3 con protección UV400. Resistencia muy alta
+- Icónico modelo Hawkers One, Unisex, con montura Carbon Black mate y lente azul efecto espejo
+- Montura fabricada en TR90, que dota a las gafas de gran ligereza, flexibilidad y resistencia, muy resistente a altas y bajas temperaturas.
+- Producto original Hawkers. La caja incluye funda de microfibra, caja y set de pegatinas decorativas.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07H1BHCWR/?tag=tolees-21)
