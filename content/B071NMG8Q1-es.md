@@ -28,8 +28,8 @@ Está [G-STAR RAW Base R T Wmn L/s Camisa Manga Larga  Gris  White 110   M para 
 
 ℹ️:
 
-- Bajo recto
 - Cuello redondo
+- Bajo recto
 - Bordado de G-Star RAW en el pecho
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B071NMG8Q1/?tag=tolees-21)

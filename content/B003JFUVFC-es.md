@@ -28,8 +28,8 @@ En este momento está [Ray-Ban New Wayfarer  Gafas de Sol Unisex adulto  Negro  
 
 🔎:
 
-- Materiales de alta calidad y logotipo grabado en el lente
 - Tamaño: 52/18/145
+- Materiales de alta calidad y logotipo grabado en el lente
 - Ray-Ban combina el estilo excepcional con lo último en innovación científica
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B003JFUVFC/?tag=tolees-21)

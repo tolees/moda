@@ -28,11 +28,11 @@ Ahora mismo tienes [ECCO FLOWTW  Sandalias con Punta Abierta Mujer  Beige  Grey 
 
 🔎:
 
-- Revestimiento: Cuero
-- Material de la suela: Caucho
-- Material exterior: Cuero
 - Tipo de tacón: Plano
+- Material de la suela: Caucho
 - Altura del tacón: 2 centímetros
 - Cierre: Velcro
+- Revestimiento: Cuero
+- Material exterior: Cuero
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07V9PFQZ2/?tag=tolees-21)
