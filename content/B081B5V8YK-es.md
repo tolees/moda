@@ -28,9 +28,9 @@ En este momento está [Columbia CSC Basic Logo Camiseta de Manga Corta  Hombre  
 
 🔎:
 
-- Tipo de fábrica: Jersey 100% algodón
-- Columbia CSC basic camiseta estampada de manga corta
 - Talla: S
 - Color: black
+- Tipo de fábrica: Jersey 100% algodón
+- Columbia CSC basic camiseta estampada de manga corta
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B081B5V8YK/?tag=tolees-21)

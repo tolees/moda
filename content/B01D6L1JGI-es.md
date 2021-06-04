@@ -28,7 +28,7 @@ Está [Oxypas oxyvaj3801wht Oxyva - Slip On SRC cómodo zuecos  37/38 EU  White]
 
 ℹ️:
 
-- Para enfermería.
 - Calzado de quirófano.
+- Para enfermería.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01D6L1JGI/?tag=tolees-21)

@@ -29,9 +29,9 @@ Tienes [Arena The One Gafas de Natación  Unisex Adulto  Azul  Light Blue/Blue/B
 🔎:
 
 - También aptas para triatlón y aguas abiertas
-- 50% policarbonato, 30% caucho termoplástico, 20% silicona
-- Lentes duras con protección UV y película antivaho.
 - Cómodas gafas de natación para entrenamiento con ajuste universal y sellado suave.
 - Puente de nariz autoajustable, correa dividida, sin PVC
+- Lentes duras con protección UV y película antivaho.
+- 50% policarbonato, 30% caucho termoplástico, 20% silicona
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07F2VQQ4G/?tag=tolees-21)
