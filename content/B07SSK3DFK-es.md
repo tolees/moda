@@ -28,10 +28,10 @@ En este momento está [Geox D Sandal Vega A  Sandalias con Punta Abierta Mujer  
 
 🔎:
 
+- Material exterior: Sintético
 - Tipo de tacón: Plano
 - Revestimiento: Sintético
-- Material exterior: Sintético
-- Cierre: Velcro
 - Material de la suela: Goma
+- Cierre: Velcro
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07SSK3DFK/?tag=tolees-21)
