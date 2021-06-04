@@ -28,8 +28,8 @@ En este momento está [Vans Flying V Crew tee Camiseta  Negro  Black Blk   34  T
 
 🔎:
 
-- Ajuste clásico
 - 100 % algodón
 - Camiseta de punto de algodón pesado con gráfico en la parte delantera
+- Ajuste clásico
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07MZ1X8XH/?tag=tolees-21)
