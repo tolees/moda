@@ -28,10 +28,10 @@ Ahora mismo tienes [Clarks Tealite Grace  Sandalias con Tira Vertical para Mujer
 
 🔎:
 
+- Ideal para la ropa de sport todos los días y días de fiesta
+- Gancho de fijación de bucle
 - artificial Suela
 - Superior de cuero
-- Gancho de fijación de bucle
 - Sintético / forro de cuero
-- Ideal para la ropa de sport todos los días y días de fiesta
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07JBCHHBB/?tag=tolees-21)
