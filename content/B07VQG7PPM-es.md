@@ -28,8 +28,8 @@ Ahora mismo tienes [Hackett London Delave Linen Hopsack Chaqueta  Azul  595NAVY 
 
 🔎:
 
-- Manga larga
-- 100% lino
 - Forma del cuello: Kent
+- 100% lino
+- Manga larga
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VQG7PPM/?tag=tolees-21)
