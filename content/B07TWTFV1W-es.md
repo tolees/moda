@@ -29,7 +29,7 @@ Está [Wrangler SS 1 Pkt Shirt Camisa  Blanco  White 989   Large para Hombre](ht
 ℹ️:
 
 - Cuenta con bolsillo en el pecho
-- Fabricada en material cómodo
 - Camisa casual para hombre
+- Fabricada en material cómodo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07TWTFV1W/?tag=tolees-21)
