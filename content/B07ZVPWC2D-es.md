@@ -28,8 +28,8 @@ Ahora mismo tienes [Levi s Type 3 Chaqueta  Fable Sherpa Trucker  3XL para Hombr
 
 🔎:
 
+- Bajo ajustable en el lateral
 - Manga larga con cierre de botón en los puños
 - Bolsillos de parche en el pecho con solapa y cierre de botón automático
-- Bajo ajustable en el lateral
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07ZVPWC2D/?tag=tolees-21)
