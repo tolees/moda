@@ -28,10 +28,10 @@ Tienes [Mister Tee Camiseta para Hombre Pray tee – Blanco – XS](https://www.
 
 ℹ️:
 
+- Disponible en los colores blanco y negro, cada uno en las tallas XS, S, M, L, XL y XXL
+- El diseño de Pray también está disponible como una cómoda sudadera con capucha y como un suéter de cuello redondo
 - Una de las camisetas más populares de Mister Tee con el moderno diseño de Pray
 - Camiseta de manga corta Streetwear con cuello redondo y estampado frontal de Pray Hands
-- El diseño de Pray también está disponible como una cómoda sudadera con capucha y como un suéter de cuello redondo
-- Disponible en los colores blanco y negro, cada uno en las tallas XS, S, M, L, XL y XXL
 - Las famosas manos rezando con el texto de Pray en una camiseta de alta calidad de algodón 100%
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0123QWV5K/?tag=tolees-21)

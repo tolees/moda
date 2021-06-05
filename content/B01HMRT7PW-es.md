@@ -28,10 +28,10 @@ Ahora mismo tienes [The North Face T92TX5 Camiseta De Manga Corta Simple Dome  H
 
 🔎:
 
-- Adecuada para cualquier atuendo
-- Tiene estampado el logotipo de la marca
-- Tiene cuello redondo y mangas cortas
-- Camiseta con diseño clásico para hombres
 - Suave y cómoda en contacto con la piel
+- Tiene cuello redondo y mangas cortas
+- Tiene estampado el logotipo de la marca
+- Camiseta con diseño clásico para hombres
+- Adecuada para cualquier atuendo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01HMRT7PW/?tag=tolees-21)
