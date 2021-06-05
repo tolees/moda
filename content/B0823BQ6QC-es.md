@@ -28,8 +28,8 @@ Está [Levi s Type 3 Chaqueta de Jean  Roadster Sherpa Trucker  XX-Large para Ho
 
 ℹ️:
 
-- Bolsillos de parche en el pecho con solapa y cierre de botón automático
 - Manga larga con cierre de botón en los puños
+- Bolsillos de parche en el pecho con solapa y cierre de botón automático
 - Bajo ajustable en el lateral
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0823BQ6QC/?tag=tolees-21)
