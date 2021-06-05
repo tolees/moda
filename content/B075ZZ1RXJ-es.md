@@ -28,7 +28,7 @@ Está [JACK & JONES JACBASIC TANKTOP 2 PACK Camiseta sin mangas  Negro  Black Bl
 
 ℹ️:
 
-- Set de dos camisetas de cuello redondo
 - Cómodo tejido de algodón
+- Set de dos camisetas de cuello redondo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B075ZZ1RXJ/?tag=tolees-21)
