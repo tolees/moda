@@ -28,10 +28,10 @@ Tienes [Geox D Myria B  Zapatillas Altas para Mujer  Negro  Black C9999   40 EU]
 
 🔎:
 
-- Revestimiento: Malla
-- Material exterior: Cuero
-- Cierre: Cremallera
 - Tipo de tacón: Plano
 - Material de la suela: Goma
+- Cierre: Cremallera
+- Material exterior: Cuero
+- Revestimiento: Malla
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07SRKB1Z4/?tag=tolees-21)
