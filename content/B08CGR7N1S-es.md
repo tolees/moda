@@ -28,8 +28,8 @@ Está [Calvin Klein Braguita de Bikini  Tetera Azul  S para Mujer](https://www.a
 
 ℹ️:
 
-- Punto de microfibra
 - Tiro medio
 - Ribete de encaje en la pierna
+- Punto de microfibra
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08CGR7N1S/?tag=tolees-21)
