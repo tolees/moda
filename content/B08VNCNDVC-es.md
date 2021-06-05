@@ -28,8 +28,8 @@ En este momento está [Jack & Jones JJEPAULOS Polo SS Noos Camisa  Gris Oscuro/D
 
 🔎:
 
-- Polo para hombre con cuello de polo, tira de botones corta y mangas cortas, corte ligeramente más largo en la parte trasera, ajuste ajustado, emblema bordado en el pecho izquierdo
-- Borde del cuello, tira de botones y puños con rayas de colores de contraste, gran comodidad gracias al tejido piqué de algodón 100%
 - El algodón de apoyo es un miembro de la iniciativa Better Cotton Initiative. Por comprar productos de algodón de EE.UU., te ayudarán a añadir más sustainable a la granja de algodón. El algodón se suministra con un sistema de equilibrio de masa.
+- Borde del cuello, tira de botones y puños con rayas de colores de contraste, gran comodidad gracias al tejido piqué de algodón 100%
+- Polo para hombre con cuello de polo, tira de botones corta y mangas cortas, corte ligeramente más largo en la parte trasera, ajuste ajustado, emblema bordado en el pecho izquierdo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08VNCNDVC/?tag=tolees-21)

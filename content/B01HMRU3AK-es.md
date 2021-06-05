@@ -28,8 +28,8 @@ En este momento está [The North Face T92TX3 Camiseta Easy  Hombre  Blanco  Tnf 
 
 🔎:
 
-- Es de la marca The North Face
 - Estampado prensado en plastisol en la parte delantera y trasera
+- Es de la marca The North Face
 - Camiseta clásica de manga corta con cuello redondo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01HMRU3AK/?tag=tolees-21)
