@@ -28,9 +28,9 @@ Está [Mister Tee NASA S Wormlogo EMB Rocket Tape Crewneck Sudadera  Blanco  XL 
 
 ℹ️:
 
-- Diseño impreso en una tela de alta calidad
 - Tejido exterior: 100% algodón Baby Terry 240 g/m²
 - Mister Tee ofrece una gran comodidad gracias a los textiles de alta calidad
 - Jersey de manga larga NASA Streetwear
+- Diseño impreso en una tela de alta calidad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07L13PT1W/?tag=tolees-21)
