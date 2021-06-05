@@ -28,9 +28,9 @@ Tienes [Only onlROYAL REG SKINNY JEANS PIM504 NOOS - Vaqueros Mujer  Azul  Mediu
 
 ℹ️:
 
-- Su talla habitual es 26
-- Nuestro modelo lleva una talla S
 - Nuestro modelo mide 1m78 cm
 - Consejos de cuidado: lavado a máquina a 30°C
+- Nuestro modelo lleva una talla S
+- Su talla habitual es 26
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00OBH04Y0/?tag=tolees-21)
