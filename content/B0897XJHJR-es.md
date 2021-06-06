@@ -28,8 +28,8 @@ Ahora mismo tienes [Levi s The tee Camiseta  New Logo II White+  S para Mujer](h
 
 🔎:
 
-- Tiene estampado la marca Levis
 - Modelo casual
 - Con tacto suave de forro polar
+- Tiene estampado la marca Levis
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0897XJHJR/?tag=tolees-21)
