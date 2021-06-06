@@ -28,8 +28,8 @@ Tienes [GEOX Man U NEW DAMON MOCCASINS BLACK 39 EU](https://www.amazon.es/dp/B01
 
 ℹ️:
 
-- Revestimiento: Cuero
 - Material exterior: Cuero
+- Revestimiento: Cuero
 - Material de la suela: Caucho
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01GWX255Q/?tag=tolees-21)
