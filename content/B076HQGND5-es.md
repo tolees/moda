@@ -28,9 +28,9 @@ Tienes [adidas CORE18 Hoody Sudadera con Capucha  Hombre  Azul  Azul/Blanco   L]
 
 ℹ️:
 
-- Es adecuada para el futbol
-- Sudadera adecuada para hombres
-- Cuenta con un bolsillo de tipo canguro
 - Tiene una capucha ajustable con cordón
+- Es adecuada para el futbol
+- Cuenta con un bolsillo de tipo canguro
+- Sudadera adecuada para hombres
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B076HQGND5/?tag=tolees-21)

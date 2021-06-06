@@ -28,8 +28,8 @@ En este momento está [GEOX Man U NEW DAMON B SHOES DK BROWN 43 5 EU](https://ww
 
 🔎:
 
-- Material exterior: Cuero
 - Revestimiento: Cuero
 - Material de la suela: Caucho
+- Material exterior: Cuero
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01GWX233A/?tag=tolees-21)
