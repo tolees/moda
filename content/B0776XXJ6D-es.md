@@ -29,9 +29,9 @@ Está [Tommy Jeans Original Rib Camisa  Negro  Tommy Black 078   X-Small para Ho
 ℹ️:
 
 - Cuello redondo
+- Diseño ajustado
 - Logotipo Tommy Jeans bordado en el pecho
 - Algodón orgánico puro
-- Diseño ajustado
 - Logotipo Tommy Jeans
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0776XXJ6D/?tag=tolees-21)

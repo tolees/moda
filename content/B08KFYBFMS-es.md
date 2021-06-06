@@ -28,8 +28,8 @@ En este momento está [Only ONLVIC SS AOP Top Noos WVN Camiseta  Black/AOP:Graph
 
 🔎:
 
-- Hombros cortados
-- Camiseta holgada
 - Estampado
+- Camiseta holgada
+- Hombros cortados
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08KFYBFMS/?tag=tolees-21)

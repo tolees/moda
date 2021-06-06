@@ -28,8 +28,8 @@ En este momento está [Levi s The Jacket Chaqueta vaquera  Dark Horse Trucker  M
 
 🔎:
 
-- Bolsillos de parche en el pecho con solapa y cierre de botón automático
 - Bajo ajustable en el lateral
+- Bolsillos de parche en el pecho con solapa y cierre de botón automático
 - Manga larga con cierre de botón en los puños
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07ZVPWJJ3/?tag=tolees-21)
