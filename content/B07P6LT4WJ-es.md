@@ -29,9 +29,9 @@ Tienes [Hackett London Slim Fit Logo Camisa Polo  Azul  Navy 595   3XL para Homb
 🔎:
 
 - Estilo del cuello: Polo
-- Cuello y puños elásticos
 - 100% Algodón
-- Suave y cómodo en la piel
 - Lavar a máquina agua fría (30 ° max)
+- Suave y cómodo en la piel
+- Cuello y puños elásticos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07P6LT4WJ/?tag=tolees-21)

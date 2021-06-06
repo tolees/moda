@@ -28,13 +28,13 @@ En este momento está [GEOX Woman D NEW ANNYA A SHOES NAVY 39 5 EU](https://www.
 
 🔎:
 
-- Anchura del zapato: Normal
-- Cierre: Sin cierre
 - Material exterior: Cuero
 - Altura del tacón: 7.5 centímetros
-- Revestimiento: Sintético
-- Tipo de talla: Los zapatos Geox son holgados
-- Material de la suela: Sintético
 - Tipo de tacón: Bloque
+- Material de la suela: Sintético
+- Tipo de talla: Los zapatos Geox son holgados
+- Anchura del zapato: Normal
+- Revestimiento: Sintético
+- Cierre: Sin cierre
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07LFV93XY/?tag=tolees-21)
