@@ -1,40 +1,40 @@
 ---
 layout: post
-title: 'Geox D New ANNYA A  Zapatos de Tacón Muj al 55.29 % de descuento'
-date: 2021-05-27 11:02:55
+title: 'GEOX Woman D NEW ANNYA A SHOES BLACK 39  al 67.49 % de descuento'
+date: 2021-06-06 21:56:34
 image: 'https://m.media-amazon.com/images/I/31hoRRr6PEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07LFYL1YD-es Geox D New ANNYA A Zapatos de Tacón Mujer Negro Black...'
+slug: 'B07LFYL1YD-es GEOX Woman D NEW ANNYA A SHOES BLACK 39 EU'
 sku: 'B07LFYL1YD-es'
-tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','geox','zapatos', ]
-actualPrice: 44.67 EUR
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','geox', ]
+actualPrice: 32.48 EUR
 currency: EUR
-price: 44.67
+price: 32.48
 comparePrice: 99.9 EUR
-prodname: 'Geox D New ANNYA A  Zapatos de Tacón Mujer  Negro  Black C9997   39 EU'
+prodname: 'GEOX Woman D NEW ANNYA A SHOES BLACK 39 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B07LFYL1YD/?tag=tolees-21'
-descuento: '55.29'
-average: '42.305652173913'
+descuento: '67.49'
+average: '41.89625'
 ---
 
-Está [Geox D New ANNYA A  Zapatos de Tacón Mujer  Negro  Black C9997   39 EU](https://www.amazon.es/dp/B07LFYL1YD/?tag=tolees-21) con 55.29 de descuento por 44.67 EUR (original: 99.9 EUR) en el siguiente enlace!
+Está [GEOX Woman D NEW ANNYA A SHOES BLACK 39 EU](https://www.amazon.es/dp/B07LFYL1YD/?tag=tolees-21) con 67.49 de descuento por 32.48 EUR (original: 99.9 EUR) en el siguiente enlace!
 
-[![Geox D New ANNYA A  Zapatos de Tacón Muj](https://m.media-amazon.com/images/I/31hoRRr6PEL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07LFYL1YD/?tag=tolees-21)
+[![GEOX Woman D NEW ANNYA A SHOES BLACK 39 ](https://m.media-amazon.com/images/I/31hoRRr6PEL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07LFYL1YD/?tag=tolees-21)
 
 ℹ️:
 
+- Tipo de tacón: Bloque
+- Material exterior: Cuero
+- Cierre: Sin cierre
+- Anchura del zapato: Normal
+- Revestimiento: Sintético
 - Tipo de talla: Los zapatos Geox son holgados
 - Altura del tacón: 7.5 centímetros
-- Revestimiento: Sintético
-- Anchura del zapato: Normal
 - Material de la suela: Sintético
-- Cierre: Sin cierre
-- Material exterior: Cuero
-- Tipo de tacón: Bloque
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07LFYL1YD/?tag=tolees-21)
