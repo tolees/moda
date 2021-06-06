@@ -28,10 +28,10 @@ Está [Camper - Micro  Sandalias con Cuña Mujer  Negro  Black 005   38 EU](http
 
 ℹ️:
 
-- Forro:
 - Suela/Características: TPU con un agarre extraordinario
+- Forro:
+- Color: Negro
 - Empeine: Piel (Piel vacuna)
 - Sistema de cierre de Velcro para un fácil ajuste
-- Color: Negro
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B011BD6SUK/?tag=tolees-21)

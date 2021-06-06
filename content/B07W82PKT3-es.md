@@ -29,8 +29,8 @@ En este momento está [NIKE M Nk Trophy IV JSY SS Camiseta Jersey  Hombre  Gris 
 🔎:
 
 - Tiene cuello con botón
-- Con tecnología Nike Dri-FIT para eliminar el sudor de la piel y para una evaporación rápida
 - Presenta corte regular
+- Con tecnología Nike Dri-FIT para eliminar el sudor de la piel y para una evaporación rápida
 - Cuenta con el logo de la marca en el pecho
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07W82PKT3/?tag=tolees-21)

@@ -28,7 +28,7 @@ Ahora mismo tienes [Clarks Tri Walk  Sandalias Mujer  Rojo  Berry Combi Berry Co
 
 🔎:
 
-- Material de la suela: goma
 - Color exacto: Berry Combi
+- Material de la suela: goma
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07NS3NX7C/?tag=tolees-21)

@@ -29,8 +29,8 @@ En este momento está [Nike M Nk Trophy Iv Jsy Ss  Camiseta Jersey  Hombre  Rojo
 🔎:
 
 - Con tecnología Nike Dri-FIT para eliminar el sudor de la piel y para una evaporación rápida
-- Presenta corte regular
 - Cuenta con el logo de la marca en el pecho
 - Tiene cuello con botón
+- Presenta corte regular
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07WC673YW/?tag=tolees-21)

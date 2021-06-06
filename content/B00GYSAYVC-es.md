@@ -29,8 +29,8 @@ Tienes [Nike K Tiempo Premier SS Camiseta  Unisex-Niños  Azul  University Blue/
 ℹ️:
 
 - País de origen: China
-- Ajuste estándar
 - Tecnología lista para instalar
 - Máxima comodidad
+- Ajuste estándar
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00GYSAYVC/?tag=tolees-21)
