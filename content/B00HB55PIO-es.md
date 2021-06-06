@@ -28,11 +28,11 @@ Tienes [Crocs Classic  Zuecos Unisex Adulto  Pepper  42/43 EU](https://www.amazo
 
 ℹ️:
 
-- Material de la suela: Sintético
-- Cierre: Tira de tobillo
 - Material exterior: Espuma
-- Composición: Sintético
+- Cierre: Tira de tobillo
 - Revestimiento: Sin forro
 - Tipo de tacón: Plano
+- Composición: Sintético
+- Material de la suela: Sintético
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00HB55PIO/?tag=tolees-21)

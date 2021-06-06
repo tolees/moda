@@ -28,8 +28,8 @@ Ahora mismo tienes [adidas TABELA 18 JSY Camiseta de Manga Corta  Hombre  Dark B
 
 🔎:
 
-- Slim fit
 - Climalite anti-humidity fabric
+- Slim fit
 - V-neck
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07JMLVZSC/?tag=tolees-21)
