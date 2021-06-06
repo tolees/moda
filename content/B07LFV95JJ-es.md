@@ -28,14 +28,14 @@ Tienes [GEOX Woman D ANNYTAH D SHOES NAVY 38 5 EU](https://www.amazon.es/dp/B07L
 
 ℹ️:
 
-- Tipo de tacón: Plano
 - Composición: Cuero
-- Material de la suela: Sintético
 - Anchura del zapato: Normal
 - Material exterior: Cuero
+- Material de la suela: Sintético
+- Altura del tacón: 2 centímetros
 - Cierre: Sin cierre
 - Tipo de talla: Los zapatos Geox son holgados
 - Revestimiento: Sintético
-- Altura del tacón: 2 centímetros
+- Tipo de tacón: Plano
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07LFV95JJ/?tag=tolees-21)
