@@ -28,11 +28,11 @@ Ahora mismo tienes [Moon & Back by Hanna Andersson Juego de Pijama Corto de 2 Pi
 
 🔎:
 
-- Elástico en la cintura, costuras planas lisas
-- Tejido prelavado para mayor suavidad y mínima contracción.
 - Entregame la calidad
 - Una marca de Amazon
-- Fabricado de manera responsable, certificado libre de más de 100 productos químicos nocivos de Oeko-Tex Standard 100.
 - Para mayor seguridad, la ropa de dormir debe ser resistente al fuego o ajustada, este artículo es ceñido.
+- Fabricado de manera responsable, certificado libre de más de 100 productos químicos nocivos de Oeko-Tex Standard 100.
+- Tejido prelavado para mayor suavidad y mínima contracción.
+- Elástico en la cintura, costuras planas lisas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07ZR2K2BF/?tag=tolees-21)

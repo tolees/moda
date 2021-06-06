@@ -28,8 +28,8 @@ En este momento está [Levi s Type 3 Chaqueta  Fable Sherpa Trucker  L para Homb
 
 🔎:
 
-- Bolsillos de parche en el pecho con solapa y cierre de botón automático
 - Manga larga con cierre de botón en los puños
+- Bolsillos de parche en el pecho con solapa y cierre de botón automático
 - Bajo ajustable en el lateral
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07ZVP4J3M/?tag=tolees-21)
