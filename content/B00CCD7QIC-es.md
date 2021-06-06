@@ -28,8 +28,8 @@ Ahora mismo tienes [GEOX Man UOMO SYMBOL SHOES BLACK 45 EU](https://www.amazon.e
 
 🔎:
 
-- Revestimiento: Sintético
 - Material exterior: Cuero
 - Material de la suela: Goma
+- Revestimiento: Sintético
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00CCD7QIC/?tag=tolees-21)
