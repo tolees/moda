@@ -28,11 +28,11 @@ En este momento está [Geox J Kilwi Girl B  Zapatillas Niñas  Beige  39 EU](htt
 
 🔎:
 
-- Material exterior: Sintético
-- Revestimiento: Sintético
-- Cierre: Cremallera
-- Tipo de talla: Los zapatos Geox son holgados
-- Tipo de tacón: Plano
 - Material de la suela: Goma
+- Revestimiento: Sintético
+- Tipo de talla: Los zapatos Geox son holgados
+- Material exterior: Sintético
+- Cierre: Cremallera
+- Tipo de tacón: Plano
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08BLMXFVC/?tag=tolees-21)
