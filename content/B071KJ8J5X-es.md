@@ -28,9 +28,9 @@ Tienes [adidas Entrada 86 Camiseta de Fútbol para Hombre de Cuello Redondo en C
 
 ℹ️:
 
-- Tiene el logotipo de Adidas en el pecho
-- Ofrece libertad de movimiento
-- Con tecnología Climalite que elimina el sudor
 - Camiseta de manga corta para hombre
+- Tiene el logotipo de Adidas en el pecho
+- Con tecnología Climalite que elimina el sudor
+- Ofrece libertad de movimiento
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B071KJ8J5X/?tag=tolees-21)
