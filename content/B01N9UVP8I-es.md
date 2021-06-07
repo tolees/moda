@@ -28,8 +28,8 @@ En este momento está [GEOX Man UOMO SYMBOL SHOES BLACK 39 EU](https://www.amazo
 
 🔎:
 
-- smooth leather
 - Black
 - adulto
+- smooth leather
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01N9UVP8I/?tag=tolees-21)
