@@ -28,10 +28,10 @@ Tienes [Camper Micro  Sandalias con Punta Abierta Mujer  Rosa  Medium Red 610   
 
 ℹ️:
 
-- Sistema de cierre de Velcro para un fácil ajuste
-- Color: Rojo
 - Empeine: Piel (Piel vacuna)
 - Suela/Características: TPU con un agarre extraordinario
+- Sistema de cierre de Velcro para un fácil ajuste
+- Color: Rojo
 - Forro:
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07NBH2N5Q/?tag=tolees-21)
