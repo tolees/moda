@@ -28,8 +28,8 @@ Ahora mismo tienes [GEOX Man U CALGARY D SHOES BLACK 41 EU](https://www.amazon.e
 
 🔎:
 
+- Material exterior: Cuero
 - Revestimiento: Cuero
 - Material de la suela: Sintético
-- Material exterior: Cuero
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DJ2XHCM/?tag=tolees-21)
