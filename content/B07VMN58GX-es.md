@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'G-STAR RAW Weir Utility Loose Camiseta   con un 44.62 % de descuento'
-date: 2021-05-15 21:38:44
+title: 'G-STAR RAW Weir Utility Loose Camiseta   con un 72.58 % de descuento'
+date: 2021-06-07 06:34:24
 image: 'https://m.media-amazon.com/images/I/31K11JeA8oL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B07VMN58GX-es G-STAR RAW Weir Utility Loose Camiseta Beige Milk 9297-111...'
 sku: 'B07VMN58GX-es'
 tags: [ 'Camisetas para mujer','Camisetas, tops y blusas para mujer','Ropa','Ropa para mujer','camiseta','g-star raw', ]
-actualPrice: 24.92 EUR
+actualPrice: 12.34 EUR
 currency: EUR
-price: 24.92
+price: 12.34
 comparePrice: 45.0 EUR
 prodname: 'G-STAR RAW Weir Utility Loose Camiseta  Beige  Milk 9297-111   S para Mujer'
 country: 'es'
 flag: '🇪🇸'
 brand: 'G-STAR RAW'
 buyurl: 'https://www.amazon.es/dp/B07VMN58GX/?tag=tolees-21'
-descuento: '44.62'
-average: '18.4514285714286'
+descuento: '72.58'
+average: '17.6875'
 ---
 
-En este momento está [G-STAR RAW Weir Utility Loose Camiseta  Beige  Milk 9297-111   S para Mujer](https://www.amazon.es/dp/B07VMN58GX/?tag=tolees-21) a 24.92 EUR (original: 45.0 EUR) (44.62 %  de descuento) en el siguiente enlace!
+En este momento está [G-STAR RAW Weir Utility Loose Camiseta  Beige  Milk 9297-111   S para Mujer](https://www.amazon.es/dp/B07VMN58GX/?tag=tolees-21) a 12.34 EUR (original: 45.0 EUR) (72.58 %  de descuento) en el siguiente enlace!
 
 [![G-STAR RAW Weir Utility Loose Camiseta  ](https://m.media-amazon.com/images/I/31K11JeA8oL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07VMN58GX/?tag=tolees-21)
 
