@@ -28,8 +28,8 @@ Tienes [Wilson Kaos Comp 2.0  Zapatilla de Tenis para Todo Tipo de Terreno  teni
 
 🔎:
 
-- Color: Copen Blue/Peacoat/Gold Fusion
 - KAOS COMP 2.0 Copen Blue/Peacoat/Gol 6.5
+- Color: Copen Blue/Peacoat/Gold Fusion
 - Número de modelo: wrs326160
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B083X3G4NT/?tag=tolees-21)

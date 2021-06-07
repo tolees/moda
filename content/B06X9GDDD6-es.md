@@ -28,8 +28,8 @@ Está [Black Diamond Mont Blanc Guantes  Unisex Adulto  Small](https://www.amazo
 
 ℹ️:
 
-- Carcasa elástica resistente a la intemperie
 - Puntas digitales para la funcionalidad de la pantalla táctil con guantes
 - Palma elástica transpirable con agarre de silicona estampada
+- Carcasa elástica resistente a la intemperie
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06X9GDDD6/?tag=tolees-21)

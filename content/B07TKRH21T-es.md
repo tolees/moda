@@ -28,9 +28,9 @@ Está [Clarks Abigail Daisy  Sandalias con Tira Vertical Mujer  Plateado  Metall
 
 ℹ️:
 
-- Suela: goma
-- Altura del tacón: 4 cm
 - Interior: textil
 - Exterior: piel
+- Altura del tacón: 4 cm
+- Suela: goma
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07TKRH21T/?tag=tolees-21)
