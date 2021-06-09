@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FILA Strada wmn zapatilla Mujer  negro   con un 31.31 % de descuento'
-date: 2021-05-23 08:35:35
+date: 2021-06-08 08:05:20
 image: 'https://m.media-amazon.com/images/I/41-6D9+UHoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ En este momento está [FILA Strada wmn zapatilla Mujer  negro  Black   38 EU](ht
 
 🔎:
 
-- Brand: Fila
 - Talla/Tamaño: 38 EU
 - Color: Negro (Black 25Y)
+- Brand: Fila
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07N6LS3NG/?tag=tolees-21)

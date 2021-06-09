@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas CORE18 RN JKT Chaqueta de Deporte al 27.66 % de descuento'
-date: 2021-06-03 08:49:29
+date: 2021-06-07 17:15:07
 image: 'https://m.media-amazon.com/images/I/41l7ZMx+AgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076HSFK76/?tag=tolees-21'
 descuento: '27.66'
-average: '28.925'
+average: '28.9166666666667'
 ---
 
 Está [adidas CORE18 RN JKT Chaqueta de Deporte  Hombre  Black/White  XS](https://www.amazon.es/dp/B076HSFK76/?tag=tolees-21) con 27.66 de descuento por 28.9 EUR (original: 39.95 EUR) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [adidas CORE18 RN JKT Chaqueta de Deporte  Hombre  Black/White  XS](https:
 
 ℹ️:
 
-- Tiene cierre completo con cremallera
-- Capucha desmontable con cordón
 - Tiene dos bolsillos laterales para las manos
+- Capucha desmontable con cordón
+- Tiene cierre completo con cremallera
 - Cremallera de larga duración y solapa de tormenta adicional con cierre de velcro
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B076HSFK76/?tag=tolees-21)

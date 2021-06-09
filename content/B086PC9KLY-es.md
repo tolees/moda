@@ -28,9 +28,9 @@ Tienes [PUMA Ftblnxt Graphic Shirt Camiseta  Hombre  Black/Shocking Orange  M](h
 
 🔎:
 
-- Ayuda a mantenerte seco y cómodo
-- Viene con logotipo de la marca
-- Es adecuado para entrenamiento
 - Tiene un tejido ligero
+- Ayuda a mantenerte seco y cómodo
+- Es adecuado para entrenamiento
+- Viene con logotipo de la marca
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B086PC9KLY/?tag=tolees-21)

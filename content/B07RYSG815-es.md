@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 46.19 % en Jack & Jones Jjeorganic Basic tee SS O-N'
-date: 2021-06-04 16:04:17
+date: 2021-06-08 09:45:40
 image: 'https://m.media-amazon.com/images/I/31Ww3y9WEvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ Tienes [Jack & Jones Jjeorganic Basic tee SS O-Neck Noos Camiseta  Negro  Black 
 
 ℹ️:
 
-- Cotton fabric for a soft and comfortable wear
 - Short-sleeved tee with o-neck
+- Cotton fabric for a soft and comfortable wear
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07RYSG815/?tag=tolees-21)

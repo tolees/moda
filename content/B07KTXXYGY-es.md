@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'adidas Essentials Linear Logo Camiseta   al 64.19 % de descuento'
-date: 2021-06-01 10:46:26
+title: 'adidas Essentials Linear Logo Camiseta   al 66.60 % de descuento'
+date: 2021-06-08 13:03:08
 image: 'https://m.media-amazon.com/images/I/31DpcJe6yCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,17 +12,17 @@ tags: [ 'Camisetas de manga corta para niño','Camisetas, polos y camisas para n
 actualPrice: 5.01 EUR
 currency: EUR
 price: 5.01
-comparePrice: 13.99 EUR
+comparePrice: 15.0 EUR
 prodname: 'adidas Essentials Linear Logo Camiseta  Niños  Blanco  White/Black   140'
 country: 'es'
 flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B07KTXXYGY/?tag=tolees-21'
-descuento: '64.19'
-average: '10.0'
+descuento: '66.60'
+average: '8.33666666666667'
 ---
 
-Ahora mismo tienes [adidas Essentials Linear Logo Camiseta  Niños  Blanco  White/Black   140](https://www.amazon.es/dp/B07KTXXYGY/?tag=tolees-21) a 5.01 EUR (original: 13.99 EUR) (64.19 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [adidas Essentials Linear Logo Camiseta  Niños  Blanco  White/Black   140](https://www.amazon.es/dp/B07KTXXYGY/?tag=tolees-21) a 5.01 EUR (original: 15.0 EUR) (66.60 %  de descuento) en el siguiente enlace!
 
 [![adidas Essentials Linear Logo Camiseta  ](https://m.media-amazon.com/images/I/31DpcJe6yCL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07KTXXYGY/?tag=tolees-21)
 
