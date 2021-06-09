@@ -28,10 +28,10 @@ En este momento está [Marca Amazon - find. Toallitas desmaquilladoras con Carb�
 
 🔎:
 
-- Contenido del paquete: 6x25 toallitas(150 toallitas)
 - Es ideal para todo tipo de pieles. Ideales para pieles grasas Dermatológicamente testado
+- Contenido del paquete: 6x25 toallitas(150 toallitas)
+- Con Carbón Vegetal: obtenido a partir de la cáscara de coco, con propiedades absorbentes y desintoxicantes
 - Acción 3 en 1: desmaquillante, limpiadora y revitalizante. No requiere enjuagado
 - 98,5% de ingredientes de origen natura
-- Con Carbón Vegetal: obtenido a partir de la cáscara de coco, con propiedades absorbentes y desintoxicantes
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07RD6T3TC/?tag=tolees-21)
