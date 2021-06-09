@@ -28,10 +28,10 @@ Tienes [Camper 1913  Zapatos de Cordones Derby Hombre  Gris Medium Gray 30  44 E
 
 ℹ️:
 
-- Forro:
-- Empeine: Nobuck (Piel vacuna)
-- Suela/Características: Goma con un agarre extraordinario
-- 60% Algodón 25% Sintético (70% Poliuretano - 30% Poliéster) 15% Tejido (65% Nailon - 35% Poliuretano)
 - Color: Beige
+- Forro:
+- 60% Algodón 25% Sintético (70% Poliuretano - 30% Poliéster) 15% Tejido (65% Nailon - 35% Poliuretano)
+- Suela/Características: Goma con un agarre extraordinario
+- Empeine: Nobuck (Piel vacuna)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07VRYGZ5K/?tag=tolees-21)
