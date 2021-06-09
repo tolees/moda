@@ -28,10 +28,10 @@ En este momento está [MICASE Funda con Cuerda para iPhone 11  Carcasa Transpare
 
 🔎:
 
-- 【Compatibilidad】 : Carcasa para iPhone 11, Los orificios precisos le permiten acceder fácilmente a todas las funciones, Lleva tu móvil de forma segura con este práctico case con cordón para colgar en el cuello
 - 【Bolsas de aire】 : Carcasa esquinas tienen bolsas de aire, pueden reforzar la protección del teléfono cuando cae en el suelo, puede mitigar con eficacia daños en el teléfono
-- 【Material de TPU suave】 : Hecha de material TPU suave y resistente a los arañazos, la capa de TPU resistente al desgaste es muy duradera, la buena textura hace que las personas se sientan cómodas, Además al ser traslúcida conservarás el diseño original de tu teléfono inteligente
 - 【Cuerda de PPM】 : Tiene una longitud de 1,5 m, cuerda de PPM (paracord), muy resistente, no absorbe humedad / inodoro y seco. una correa ajustable permiten que cuelgue perfectamente a tu lado cuando lo llevas cruzado, Cuando la cuerda necesita ser limpiada, puedes quitar y poner la correa fácilmente
+- 【Compatibilidad】 : Carcasa para iPhone 11, Los orificios precisos le permiten acceder fácilmente a todas las funciones, Lleva tu móvil de forma segura con este práctico case con cordón para colgar en el cuello
+- 【Material de TPU suave】 : Hecha de material TPU suave y resistente a los arañazos, la capa de TPU resistente al desgaste es muy duradera, la buena textura hace que las personas se sientan cómodas, Además al ser traslúcida conservarás el diseño original de tu teléfono inteligente
 - 【Practico y Estiloso】 : Mantener tu móvil suspendido sobre un cordón significa que no se te caerá, lateral o frontal. Ideal para viajes, salidas de día y de noche, fiestas, familias con sus manos llenas, Además es ideal para usarlo en festivales y conciertos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07X143LSW/?tag=tolees-21)

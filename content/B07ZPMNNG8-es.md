@@ -29,9 +29,9 @@ En este momento está [Cyxus Gafas fotocromáticas con filtro de luz azul  gafas
 🔎:
 
 - Cyxus a diario: son más que un simple par de gafas es su par de gafas esenciales para el día a día y hacen cosas que otras gafas no pueden.
-- Tecnología anti-luz azul de sustrato de absorción HEV: ese es el nombre de nuestra tecnología anti-luz azul en las lentes de Cyxus. Puede absorber directamente longitudes de onda de luz azul de 380 nm a 450 nm y radiación ultravioleta de 10 nm a 400 nm.
 - Diferente: ¿quieres que sea sencillo? ¡Pensamos en ti y sin compromiso! Manteniendo todas las capacidades de nuestras lentes, creamos Cyxus Lenses, dándote la posibilidad de elegir entre nuestras lentes transparentes y gafas de sol.
-- Lentes inteligentes: al utilizar las lentes más avanzadas de Cyxus, estas se adaptan a su estilo de vida, luz y entorno. Presenta diferentes niveles de de coloración en diferentes entornos, las lentes difuminadas se ajustan instantáneamente de claro a oscuro pasando todos los tonos intermedios, por lo que la vida se percibe mucho más víva, vibrante y verdadera.
 - Material superior: materiales impecables, diseño de lujo y las últimas nanotecnologías para lentes se combinan en las distinguidas y versátiles gafas Cyxus.
+- Lentes inteligentes: al utilizar las lentes más avanzadas de Cyxus, estas se adaptan a su estilo de vida, luz y entorno. Presenta diferentes niveles de de coloración en diferentes entornos, las lentes difuminadas se ajustan instantáneamente de claro a oscuro pasando todos los tonos intermedios, por lo que la vida se percibe mucho más víva, vibrante y verdadera.
+- Tecnología anti-luz azul de sustrato de absorción HEV: ese es el nombre de nuestra tecnología anti-luz azul en las lentes de Cyxus. Puede absorber directamente longitudes de onda de luz azul de 380 nm a 450 nm y radiación ultravioleta de 10 nm a 400 nm.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07ZPMNNG8/?tag=tolees-21)

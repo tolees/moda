@@ -28,10 +28,10 @@ Ahora mismo tienes [Columbia Autumn Rise Chaqueta Mid  Mujer  Negro  XS](https:/
 
 🔎:
 
-- Contenido: 1x Columbia Autumn Rise Chaqueta Mid para mujer, Exterior: sarga Reflex Stretch 100% poliéster; Forro: 100% poliéster; Aislamiento: plumón sintético 100% poliéster, Color: Negro, Talla: XS, Art.No 1748231
-- Chaqueta impermeable y de longitud media para mujer, optimo para pasear por la ciudad o para relajarse en el campo
 - La tecnología Omni-Tech de sellado de costuras combina la impermeabilidad y la transpiración al más alto nivel No importa cuál sea el terreno, te mantienes fresco y seco
 - Los bolsillos con cremallera te dan versatilidad Mantén tus manos calientes cuando lo necesites o guarda tu teléfono y otros accesorios sin temor a que se caigan
+- Contenido: 1x Columbia Autumn Rise Chaqueta Mid para mujer, Exterior: sarga Reflex Stretch 100% poliéster; Forro: 100% poliéster; Aislamiento: plumón sintético 100% poliéster, Color: Negro, Talla: XS, Art.No 1748231
+- Chaqueta impermeable y de longitud media para mujer, optimo para pasear por la ciudad o para relajarse en el campo
 - Una mayor protección contra los elementos gracias a la capucha ajustable
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0711Q2VRV/?tag=tolees-21)

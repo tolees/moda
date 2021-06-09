@@ -30,8 +30,8 @@ Está [Helly Hansen Coastal 2 Parka Chaqueta Impermeable  Cortaviento y Transpir
 
 - La elegante Parka COASTAL 2 PARKA de Helly Hansen para hombre brinda un tratamiento de impermeabilidad duradera y está recubierta por un tejido aislante
 - Adecuada para las actividades de la vida urbana y desplazamientos diarios; esta parka posee ofrece un aislamiento total
+- Contenido de envío: 1 x Helly Hansen COASTAL 2 PARKA para hombre, adecuada para el uso diario y el invierno, color azul marino, talla XL
 - Disfruta de los beneficios de aislamiento e impermeabilidad; una chaqueta cortavientos y transpirable fabricada en un tejido con forro a cuadros YD
 - Esta parka transpirable tiene tanto bolsillos interiores y exteriores como una capucha y cintura ajustables para evitar para evitar los climas más fríos
-- Contenido de envío: 1 x Helly Hansen COASTAL 2 PARKA para hombre, adecuada para el uso diario y el invierno, color azul marino, talla XL
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01EOX01WU/?tag=tolees-21)

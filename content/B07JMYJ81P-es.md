@@ -28,8 +28,8 @@ Está [adidas Entrada 49 Camiseta de Fútbol para Hombre de Cuello Redondo en Co
 
 ℹ️:
 
+- Climalite anti-humidity fabric
 - Adidas logo on the front
 - Regular fit
-- Climalite anti-humidity fabric
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07JMYJ81P/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Entrada 35 Camiseta de Fútbol par al 22.01 % de rebaja'
-date: 2021-06-08 02:56:15
+date: 2021-06-09 08:50:38
 image: 'https://m.media-amazon.com/images/I/31DSFf1A8iL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B07JN7NF54/?tag=tolees-21'
 descuento: '22.01'
-average: '12.225'
+average: '12.8166666666667'
 ---
 
 Tienes [adidas Entrada 35 Camiseta de Fútbol para Hombre de Cuello Redondo en Contraste  Azul  Bold Blue/White   XS](https://www.amazon.es/dp/B07JN7NF54/?tag=tolees-21) con precio final de  14.0 EUR (original: 17.95 EUR) (22.01 %  de rebaja) aqui!
