@@ -28,8 +28,8 @@ Ahora mismo tienes [Hackett London Mlt Coloured Chk Camisa  Verde  6aigreen/Pink
 
 🔎:
 
+- algodón
 - manga larga
 - Corte estándar
-- algodón
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VKXLTGY/?tag=tolees-21)
