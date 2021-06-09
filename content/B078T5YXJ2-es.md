@@ -28,10 +28,10 @@ Ahora mismo tienes [Tommy Hilfiger Essential TH Beach Sandal  Chanclas Hombre  N
 
 🔎:
 
-- Material: Poliéster
-- Designer: TOMMY HILFIGER
-- Color: BLACK
-- Estación: SIEMPRE DISPONIBLE
 - Artículo: FM0FM01369 ESSENTIAL TH
+- Material: Poliéster
+- Estación: SIEMPRE DISPONIBLE
+- Color: BLACK
+- Designer: TOMMY HILFIGER
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B078T5YXJ2/?tag=tolees-21)

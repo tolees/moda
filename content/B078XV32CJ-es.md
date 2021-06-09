@@ -28,10 +28,10 @@ Ahora mismo tienes [Ryze Dji Tello Mini Dron Ideal para Videos Cortos con Tomas 
 
 🔎:
 
-- Funciones fantásticas: gracias a toda la tecnología incorporada en el tello, como el controlador de vuelo de dji, puedes realizar asombrosas y complicadas acrobacias con sólo tocar la pantalla
-- Los drones son algo nuevo para ti? volar con el tello no podría ser más fácil; sólo tiens que sacar tu teléfono y podrás volar en cualquier parte con unos controles intuitivos
-- Diviértete: nuestro ojectivo era crear el dron más divertido que se hubiera hecho nunca y el resultado fue tello: un impresionante pequeño dron para niños y adultos que es divertidísimo de volar
 - Captura geniales fotos y vídeos: gracias a su procesador de imágenes de gran calidad, tello hace unas fotos y vídeos increíbles
+- Los drones son algo nuevo para ti? volar con el tello no podría ser más fácil; sólo tiens que sacar tu teléfono y podrás volar en cualquier parte con unos controles intuitivos
+- Funciones fantásticas: gracias a toda la tecnología incorporada en el tello, como el controlador de vuelo de dji, puedes realizar asombrosas y complicadas acrobacias con sólo tocar la pantalla
+- Diviértete: nuestro ojectivo era crear el dron más divertido que se hubiera hecho nunca y el resultado fue tello: un impresionante pequeño dron para niños y adultos que es divertidísimo de volar
 - Mira el mundo desde el cielo: ya estés en el parque, en la oficina o en tu casa, puedes volar siempre y ver el mundo desde increíbles nuevas perspectivas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B078XV32CJ/?tag=tolees-21)

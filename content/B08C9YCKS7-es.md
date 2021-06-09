@@ -28,8 +28,8 @@ Ahora mismo tienes [Tommy Hilfiger Simon 33D  Chanclas Hombre  Cielo del Desiert
 
 🔎:
 
-- Este es un producto auténtico y original de Tommy Hilfiger.
 - Tommy Hilfiger- Sandalias y chanclas para hombre
+- Este es un producto auténtico y original de Tommy Hilfiger.
 - Para más información sobre Tommy Jeans, consulta la sección de descripción del producto a continuación
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08C9YCKS7/?tag=tolees-21)

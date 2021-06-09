@@ -28,9 +28,9 @@ Tienes [Havaianas Urban Basic II  Chanclas para Hombre  Negro  Black 0090   37/3
 
 🔎:
 
-- Material exterior: Caucho
 - Revestimiento: Sin forro
 - Cierre: Sin cierre
 - Material de la suela: Caucho
+- Material exterior: Caucho
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07SKWMG94/?tag=tolees-21)

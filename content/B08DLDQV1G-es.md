@@ -28,8 +28,8 @@ Está [Puma VCF Home Shirt Replica Camiseta  Hombre  White Black  XL](https://ww
 
 ℹ️:
 
-- Cuello redondo
 - Logotipo de bwin en la parte frontal
 - Ribetes de las mangas acanalados
+- Cuello redondo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08DLDQV1G/?tag=tolees-21)

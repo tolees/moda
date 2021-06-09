@@ -28,8 +28,8 @@ Tienes [adidas Entrada 35 Camiseta de Fútbol para Hombre de Cuello Redondo en C
 
 🔎:
 
-- Climalite anti-humidity fabric
 - Regular fit
+- Climalite anti-humidity fabric
 - Adidas logo on the front
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07JN7NF54/?tag=tolees-21)

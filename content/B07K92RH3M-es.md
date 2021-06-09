@@ -28,10 +28,10 @@ En este momento está [Crocs Crocband Unisex  Zuecos con Correa Adulto  Azul  Br
 
 🔎:
 
-- Altura del tacón: 1.5 pulgadas
-- Cierre: Sin cordones
-- Material de la suela: Goma
 - Material exterior: Espuma
+- Material de la suela: Goma
+- Altura del tacón: 1.5 pulgadas
 - Revestimiento: Sintético
+- Cierre: Sin cordones
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07K92RH3M/?tag=tolees-21)

@@ -28,8 +28,8 @@ Tienes [Speedo Electricstripe Allover Hipster Brief Bikini  Mujer  Black/White/G
 
 🔎:
 
-- Bikini Natación Mujer
 - Electric STRIPE Allover Hipster brief AF (8-11706D772)
 - Ropa deportiva Speedo
+- Bikini Natación Mujer
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0849CPNTY/?tag=tolees-21)

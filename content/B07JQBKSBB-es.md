@@ -28,7 +28,7 @@ Ahora mismo tienes [Jack & Jones Jjiliam Jjoriginal Am 792 50sps Noos Vaqueros S
 
 🔎:
 
-- jeans with skinny fit
 - blue washing
+- jeans with skinny fit
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07JQBKSBB/?tag=tolees-21)

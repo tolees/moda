@@ -28,10 +28,10 @@ Ahora mismo tienes [Arvok 15-15.6 Pulgadas Funda para Portátiles/Maletín Funda
 
 🔎:
 
-- Slim-diseño de la línea permite que este caso se lleve a solas o en forma en su bolso favorito.
 - Compatible con Acer Aspire E1/E5/E15/ Acer Chromebook 15 CB5/ ASUS X551MA//X550/K501/F555 ASUS ROG / Dell 5555/Dell Inspiron i3531/i3543/i3542/i3541/i5547/ i5558/i7559/Lenovo Thinkpad E550/Lenovo G50/HP Pavilion 15/Samsung ATIV Book 2 NP270E5E/RV510/Toshiba Satellite C55
 - Adecuado para más popular MacBooks / laptops / notebooks / Ultrabooks con pantalla de 15-15.6 pulgadas
 - El material de tela exterior de lona con estilo clásico ofrece un diseño moderno y una protección superior. El interior acolchado suave y grueso protege el portátil / netbook del polvo, golpes, golpes, rasguños y rasguños, derrames.
 - Espesor: 0.25 pulgada/0.6 cm; Dimensiones internas: 15" x 1.2" x 11" / 38 cm x 3 cm x 28 cm (L x W x H); Dimensiones Externo: 16.125" x 1.25" x 12.5" / 41 cm x 3.1 cm x 31.5 cm(L x W x H)
+- Slim-diseño de la línea permite que este caso se lleve a solas o en forma en su bolso favorito.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01C8CBB7S/?tag=tolees-21)

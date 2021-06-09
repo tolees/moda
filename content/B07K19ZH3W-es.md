@@ -28,8 +28,8 @@ En este momento está [adidas ESTRO 19 JSY Camiseta de Manga Corta  Niños  Whit
 
 🔎:
 
+- Climalite anti-humidity fabric
 - Regular fit
 - Adidas logo on the front
-- Climalite anti-humidity fabric
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07K19ZH3W/?tag=tolees-21)

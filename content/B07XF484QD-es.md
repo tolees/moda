@@ -28,7 +28,7 @@ Tienes [Amazon Essentials Regular-Fit Short-Sleeve Shirt Camisa  Aqua pequeñas 
 
 🔎:
 
-- Esta camiseta clásica y versátil proporciona un aspecto limpio y abotonado perfecto para cualquier ocasión.
 - Mejor elaboración: escuchamos los comentarios de los clientes y afinamos cada detalle para garantizar calidad, ajuste y comodidad.
+- Esta camiseta clásica y versátil proporciona un aspecto limpio y abotonado perfecto para cualquier ocasión.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07XF484QD/?tag=tolees-21)

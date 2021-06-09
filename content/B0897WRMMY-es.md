@@ -28,8 +28,8 @@ Ahora mismo tienes [Levi s SS Original Hm tee Camiseta  Coral Quartz  XS para Ho
 
 🔎:
 
-- Logotipo pequeño de Levis en el pecho
-- Adecuada para el día a día
 - Modelo casual
+- Adecuada para el día a día
+- Logotipo pequeño de Levis en el pecho
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0897WRMMY/?tag=tolees-21)
