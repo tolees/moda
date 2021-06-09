@@ -28,12 +28,12 @@ Está [Crocs Crocband Clog K  Zuecos  Azul  Navy/Red   30/31 EU](https://www.ama
 
 ℹ️:
 
-- Material de la suela: EVA
-- Composición: Espuma
 - Tipo de tacón: Plano
-- Anchura del zapato: Normal
+- Composición: Espuma
+- Material exterior: Espuma
 - Cierre: Sin cordones
 - Revestimiento: Sin forro
-- Material exterior: Espuma
+- Anchura del zapato: Normal
+- Material de la suela: EVA
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01HEXESFI/?tag=tolees-21)
