@@ -29,7 +29,7 @@ Ahora mismo tienes [Burton Jet Set Chaqueta De Snowboard  Mujer  Dress Blue  XS]
 🔎:
 
 - Cuello con diseño libre de enganchones
-- Bolsillo para dispositivos digitales/ máscaras
 - Acabado impermeable: tejido flameado de efecto lino de 2 capas DRYRIDE dura Shell
+- Bolsillo para dispositivos digitales/ máscaras
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SHJDRBK/?tag=tolees-21)

@@ -28,8 +28,8 @@ En este momento está [Burton Profile Underglove Guantes de Snowboard  Hombre  N
 
 🔎:
 
-- Diseño pre-curvado
 - Aislante thermacore
+- Diseño pre-curvado
 - Tejido DRYRIDE Durashell de 2-Capas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00E3S6NS8/?tag=tolees-21)

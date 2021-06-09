@@ -28,8 +28,8 @@ Está [Burton Horizontal Mountain Camiseta  Hombre  True Black  XS](https://www.
 
 ℹ️:
 
-- Corte clásico
-- Prelavado
 - Logo estampado en el pecho
+- Prelavado
+- Corte clásico
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07SJHYN96/?tag=tolees-21)
