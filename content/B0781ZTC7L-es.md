@@ -29,7 +29,7 @@ Ahora mismo tienes [Puma 655606 02  Sudadera Para Hombre  Azul  Electric Blue Le
 🔎:
 
 - Cremallera oculta 1/4
-- Drycell: propiedades de absorción de la humedad que ayudan a estar seco y cómodo durante el ejercicio
 - Logotipo del felino PUMA en la parte derecha del pecho
+- Drycell: propiedades de absorción de la humedad que ayudan a estar seco y cómodo durante el ejercicio
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0781ZTC7L/?tag=tolees-21)
