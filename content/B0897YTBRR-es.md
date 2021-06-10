@@ -28,8 +28,8 @@ Ahora mismo tienes [Levi s SS Original Hm tee Camiseta  Olive Night  M para Homb
 
 🔎:
 
-- Adecuada para el día a día
 - Modelo casual
 - Logotipo pequeño de Levis en el pecho
+- Adecuada para el día a día
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0897YTBRR/?tag=tolees-21)
