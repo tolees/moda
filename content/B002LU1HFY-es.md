@@ -28,7 +28,7 @@ Está [Lacoste L1212  Camisa de Polo para Hombre  Negro  Noir   M](https://www.a
 
 ℹ️:
 
-- Bajo recto con aberturas laterales
 - Classic fit
+- Bajo recto con aberturas laterales
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B002LU1HFY/?tag=tolees-21)
