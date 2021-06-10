@@ -28,7 +28,7 @@ En este momento está [FILA Disruptor wmn zapatilla Mujer  blanco  White   36 EU
 
 🔎:
 
-- Blanco
 - adulto
+- Blanco
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078WQ3ZDL/?tag=tolees-21)

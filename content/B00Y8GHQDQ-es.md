@@ -28,10 +28,10 @@ En este momento está [Spiuk Spicy - Gafas de Ciclismo Unisex  Color Blanco/Negr
 
 🔎:
 
+- Muy ligeras. Tan solo 24 g de peso
 - Patillas de alta flexibilidad que aportan gran estabilidad y confort
 - Lentes polarizadas de Categoría 3 combinadas con efecto espejo de colores variados
 - Forma envolvente y ergonómica, que se adapta a una gran variedad de fisonomías
 - Fabricadas en Grilamid TR90, material de extraordinaria resistencia y elasticidad, combinado mediante doble inyección con goma Rubber XT en puente nasal y terminales de las patillas
-- Muy ligeras. Tan solo 24 g de peso
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00Y8GHQDQ/?tag=tolees-21)
