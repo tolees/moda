@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sandalias Mujer MTNG | Sandalias PLEXY 5 con un 30.01 % de descuento'
-date: 2021-05-15 13:52:14
+date: 2021-06-10 08:39:06
 image: 'https://m.media-amazon.com/images/I/41c5mQ1dBrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ En este momento está [Sandalias Mujer MTNG | Sandalias PLEXY 58831 | MTNG Mujer
 
 🔎:
 
-- Tipo de tacón Bloque
 - Tipo de cierre Hebilla
 - Material principal Sintetico
 - Altura Tacón Alto (de 5 A 9 cm)
 - Material de la suela De goma
+- Tipo de tacón Bloque
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07YN9CJD8/?tag=tolees-21)

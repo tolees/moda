@@ -28,9 +28,9 @@ Está [Crocs Swiftwater River Sandals 203965-06  Sandalias para Hombre  Negro  B
 
 ℹ️:
 
-- Material: Croslite
-- Estilo: Sandalia
 - NÃºmero del fabricante: 203965-060
 - Color: negro
+- Material: Croslite
+- Estilo: Sandalia
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01H6NYZSG/?tag=tolees-21)
