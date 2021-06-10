@@ -28,9 +28,9 @@ Tienes [NIKE Y Nk Rpl Park20 RN Jkt W Chaqueta de Deporte  Unisex niños  Black/
 
 🔎:
 
-- Presenta bolsillos laterales
-- Chaqueta de deporte
-- Con tecnología Nike Dri-FIT para eliminar el sudor de la piel y para una evaporación rápida
 - Tiene ajuste regular
+- Con tecnología Nike Dri-FIT para eliminar el sudor de la piel y para una evaporación rápida
+- Chaqueta de deporte
+- Presenta bolsillos laterales
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07WC44RGM/?tag=tolees-21)

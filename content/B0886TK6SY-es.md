@@ -28,10 +28,10 @@ Está [Helly Hansen Verglas Hooded Down Insulator Chaqueta  Hombre  Black  XL](h
 
 ℹ️:
 
-- Una pieza esencial en el paquete de cualquiera; un aislante ligero, listo para tu próxima aventura.
-- La versatilidad de la chaqueta aislante con capucha verglas significa que se puede usar durante todo el año como una chaqueta independiente y como una pieza de capas debajo de un caparazón.
-- Gancho para colgar en el cuello interno
 - The versatility of the verglas HOODED Down Insulator Jacket means it CAN be used year Round both AS a standalone Jacket and AS a LAYERING PIECE beneath a Shell.
+- Gancho para colgar en el cuello interno
+- La versatilidad de la chaqueta aislante con capucha verglas significa que se puede usar durante todo el año como una chaqueta independiente y como una pieza de capas debajo de un caparazón.
+- Una pieza esencial en el paquete de cualquiera; un aislante ligero, listo para tu próxima aventura.
 - La tela liviana y el aislamiento de ganso europeo le brindan una excelente relación calor-peso y las características adicionales de un bolsillo interior en el pecho
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0886TK6SY/?tag=tolees-21)
