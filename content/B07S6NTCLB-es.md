@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'PUMA Popcat 20  Zapatos de Playa y Pisci al 19.85 % de descuento'
-date: 2021-05-30 09:49:34
-image: 'https://m.media-amazon.com/images/I/31AsNoWD+BL._SL500_._SL400_.jpg'
+date: 2021-06-10 19:40:41
+image: 'https://m.media-amazon.com/images/I/31BN7CENfBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,12 +19,12 @@ flag: '🇪🇸'
 brand: 'PUMA'
 buyurl: 'https://www.amazon.es/dp/B07S6NTCLB/?tag=tolees-21'
 descuento: '19.85'
-average: '14.97'
+average: '15.072'
 ---
 
 Está [PUMA Popcat 20  Zapatos de Playa y Piscina  Negro Black White  35.5 EU](https://www.amazon.es/dp/B07S6NTCLB/?tag=tolees-21) con 19.85 de descuento por 15.99 EUR (original: 19.95 EUR) en el siguiente enlace!
 
-[![PUMA Popcat 20  Zapatos de Playa y Pisci](https://m.media-amazon.com/images/I/31AsNoWD+BL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07S6NTCLB/?tag=tolees-21)
+[![PUMA Popcat 20  Zapatos de Playa y Pisci](https://m.media-amazon.com/images/I/31BN7CENfBL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07S6NTCLB/?tag=tolees-21)
 
 ℹ️:
 
