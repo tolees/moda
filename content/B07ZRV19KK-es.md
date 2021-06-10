@@ -28,8 +28,8 @@ Tienes [Marca Amazon - AURIQUE Mallas de Deporte Cortas sin Costuras Mujer  Verd
 
 🔎:
 
-- El diseño a prueba de sentadillas garantiza que el tejido no se transparente al hacer ejercicio
 - Una marca de Amazon
 - Tejido transpirable y sin costuras que absorbe la humedad y reduce los roces
+- El diseño a prueba de sentadillas garantiza que el tejido no se transparente al hacer ejercicio
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07ZRV19KK/?tag=tolees-21)

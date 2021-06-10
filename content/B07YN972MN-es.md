@@ -29,9 +29,9 @@ Ahora mismo tienes [Sandalias Mujer MTNG | Sandalias PLEXY 58831 | MTNG Mujer | 
 🔎:
 
 - Material principal Sintetico
-- Altura Tacón Alto (de 5 A 9 cm)
-- Material de la suela De goma
 - Tipo de cierre Hebilla
+- Material de la suela De goma
+- Altura Tacón Alto (de 5 A 9 cm)
 - Tipo de tacón Bloque
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07YN972MN/?tag=tolees-21)

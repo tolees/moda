@@ -28,10 +28,10 @@ Ahora mismo tienes [Kipling KI714989S - Bolso de Tela de sintético para Mujer G
 
 🔎:
 
-- Peso ligero.
+- 0,34 kg.
 - 100% poliamida.
+- Peso ligero.
 - Mono robot de silicona
 - Hembra.
-- 0,34 kg.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CXB67H2/?tag=tolees-21)
