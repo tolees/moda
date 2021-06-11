@@ -28,10 +28,10 @@ En este momento está [Grupo Erik - ERIK - Carpeta 4 anillas troquelada premium 
 
 🔎:
 
-- Erik - Especializados en papelería, merchandising y póster con las licencias más actuales del mercado. Calidad y diseño es lo que nos caracteriza
-- Tiene un tamaño de 26 x 32 cm, con lomo de 2 cm y cuatro anillas de 35mm de diámetro
-- Disfruta de cada asignatura y organizate de la mejor forma con esta carpeta de 4 anillas de Harry Potter
 - Diseñada con compresor metálico, siendo mas fácil archivar y manipular cualquier documento, con el interior personalizado acorde con el diseño del exterior y cierre con banda elástica de 9 mm
+- Erik - Especializados en papelería, merchandising y póster con las licencias más actuales del mercado. Calidad y diseño es lo que nos caracteriza
 - Fabricada con tapa dura de cartón rígida, lo que la hace más resistente y duradera; y forrada con papel laminado en mate
+- Disfruta de cada asignatura y organizate de la mejor forma con esta carpeta de 4 anillas de Harry Potter
+- Tiene un tamaño de 26 x 32 cm, con lomo de 2 cm y cuatro anillas de 35mm de diámetro
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B086TD7W3Q/?tag=tolees-21)
