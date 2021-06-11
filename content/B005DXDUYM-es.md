@@ -1,37 +1,37 @@
 ---
 layout: post
-title: 'Descuento del 63.10 % en Geox U Federico V  Zapatos de Cordones D'
-date: 2021-05-31 10:56:14
+title: 'Descuento del 50.40 % en GEOX Man UOMO FEDERICO SHOES BLACK 41 EU'
+date: 2021-06-11 15:29:50
 image: 'https://m.media-amazon.com/images/I/31GrvR8E-KL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B005DXDUYM-es Geox U Federico V Zapatos de Cordones Derby Hombre Negro...'
+slug: 'B005DXDUYM-es GEOX Man UOMO FEDERICO SHOES BLACK 41 EU'
 sku: 'B005DXDUYM-es'
-tags: [ 'Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','geox','zapatos', ]
-actualPrice: 40.55 EUR
+tags: [ 'Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','geox', ]
+actualPrice: 54.51 EUR
 currency: EUR
-price: 40.55
+price: 54.51
 comparePrice: 109.9 EUR
-prodname: 'Geox U Federico V  Zapatos de Cordones Derby Hombre  Negro  Black C9999   41 EU'
+prodname: 'GEOX Man UOMO FEDERICO SHOES BLACK 41 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B005DXDUYM/?tag=tolees-21'
-descuento: '63.10'
-average: '48.9'
+descuento: '50.40'
+average: '49.250625'
 ---
 
-Tienes [Geox U Federico V  Zapatos de Cordones Derby Hombre  Negro  Black C9999   41 EU](https://www.amazon.es/dp/B005DXDUYM/?tag=tolees-21) con un 63.10 % de descuento con precio de oferta de 40.55 EUR (original: 109.9 EUR) en el siguiente enlace!
+Tienes [GEOX Man UOMO FEDERICO SHOES BLACK 41 EU](https://www.amazon.es/dp/B005DXDUYM/?tag=tolees-21) con un 50.40 % de descuento con precio de oferta de 54.51 EUR (original: 109.9 EUR) en el siguiente enlace!
 
-[![Geox U Federico V  Zapatos de Cordones D](https://m.media-amazon.com/images/I/31GrvR8E-KL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B005DXDUYM/?tag=tolees-21)
+[![GEOX Man UOMO FEDERICO SHOES BLACK 41 EU](https://m.media-amazon.com/images/I/31GrvR8E-KL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B005DXDUYM/?tag=tolees-21)
 
 ℹ️:
 
 - Hochwertiges Leder ist strapazierfähig und langlebig
-- Der U Federico V für Herren von Geox ist ein atmungsaktiver Schnür-Halbschuh für Beruf und Alltag.
-- Perforierte Sohle mit einer inneren Membran – sorgt für Atmungsaktivität und ist wasserundurchlässig
 - Anlass: Business
+- Der U Federico V für Herren von Geox ist ein atmungsaktiver Schnür-Halbschuh für Beruf und Alltag.
 - Komfortable Innensohle
+- Perforierte Sohle mit einer inneren Membran – sorgt für Atmungsaktivität und ist wasserundurchlässig
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B005DXDUYM/?tag=tolees-21)

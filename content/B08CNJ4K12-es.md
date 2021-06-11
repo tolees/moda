@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HUGO Dolive212 10229761 01 Camiseta  Neg al 25.03 % de descuento'
-date: 2021-06-10 15:44:41
+date: 2021-06-11 16:39:18
 image: 'https://m.media-amazon.com/images/I/41nKl3BB5yS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
