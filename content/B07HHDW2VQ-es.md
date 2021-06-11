@@ -28,10 +28,10 @@ Ahora mismo tienes [Camper Right  Sandalias con Punta Abierta  Rosa  Black 1   3
 
 🔎:
 
-- 42% Piel porcina 40% Tejido (60% Nailon - 40% Goma) 18% Tejido (60% Nailon - 40% PU)
-- Empeine: Piel (Piel vacuna) / Tejido técnico
-- Color: Negro
 - Suela/Características: Tiras elásticas para un fácil ajuste
+- 42% Piel porcina 40% Tejido (60% Nailon - 40% Goma) 18% Tejido (60% Nailon - 40% PU)
 - Forro:
+- Color: Negro
+- Empeine: Piel (Piel vacuna) / Tejido técnico
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07HHDW2VQ/?tag=tolees-21)
