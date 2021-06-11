@@ -28,8 +28,8 @@ En este momento está [Levi s tee Camiseta  Pink  Peach Blush 0076   Large para 
 
 🔎:
 
-- Con un discreto logo en el pecho
 - Modelo casual
+- Con un discreto logo en el pecho
 - Elaborada en punto suave
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07TRMT28X/?tag=tolees-21)

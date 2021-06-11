@@ -28,10 +28,10 @@ En este momento está [G-STAR RAW Revend Skinny Vaqueros  Faded Industrial Grey 
 
 🔎:
 
-- Talle medio
-- Cierre de botones y cremallera
-- Prenda ajustada de arriba abajo
-- Construcción con cinco bolsillos y remaches de refuerzo
 - Tiro bajo en la parte delantera y tiro regular en la parte trasera
+- Prenda ajustada de arriba abajo
+- Cierre de botones y cremallera
+- Talle medio
+- Construcción con cinco bolsillos y remaches de refuerzo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07VQVV3NP/?tag=tolees-21)
