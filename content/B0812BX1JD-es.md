@@ -28,9 +28,9 @@ Está [Marca Amazon - IRIS & LILLY Parte de Arriba de Bikini asimetrico Mujer  M
 
 ℹ️:
 
-- Una marca de Amazon
-- Confeccionado en suave poliamida elástica que retiene la forma
 - Con detalles de diseño de tiras
+- Confeccionado en suave poliamida elástica que retiene la forma
+- Una marca de Amazon
 - Diseñado con un cierre de gancho de cisne para un ajuste cómodo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0812BX1JD/?tag=tolees-21)
