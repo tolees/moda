@@ -28,10 +28,10 @@ Ahora mismo tienes [Camper Right  Sandalias con Punta Abierta Mujer  Rosa  Multi
 
 🔎:
 
-- Material principal: Nobuck
-- Muy flexible.
 - Leather Working Group certificado
-- Forro: 83 % Piel porcina 17 % Textil (60% Nailon - 40% PU)
+- Muy flexible.
 - Color: gris
+- Forro: 83 % Piel porcina 17 % Textil (60% Nailon - 40% PU)
+- Material principal: Nobuck
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07HHF7VQN/?tag=tolees-21)
