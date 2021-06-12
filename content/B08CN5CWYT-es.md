@@ -28,10 +28,10 @@ Tienes [G-STAR RAW Raw Camiseta  Sartho Blue 336-6067  L para Hombre](https://ww
 
 ℹ️:
 
-- Bajo recto
 - Cuello redondo acanalado
+- Manga corta recta insertada
 - Etiqueta de G-Star RAW Originals tejida en el lateral inferior
 - Gráfico de RAW estampado en la parte delantera
-- Manga corta recta insertada
+- Bajo recto
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08CN5CWYT/?tag=tolees-21)

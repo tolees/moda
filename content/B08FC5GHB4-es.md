@@ -29,10 +29,10 @@ Tienes [Tommy Jeans TJM Slim Jaspe C Neck Camiseta  Blanco  M para Hombre](https
 🔎:
 
 - Marca Tommy Jeans
+- Corte entallado
+- Cuello redondo
 - Parche de la bandera de Tommy Jeans en el pecho
 - Dobladillo redondeado en la parte trasera
-- Cuello redondo
-- Corte entallado
 - Mezcla de algodón orgánico
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08FC5GHB4/?tag=tolees-21)

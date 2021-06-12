@@ -28,8 +28,8 @@ Está [Jack & Jones Jprnon Iron Shirt L/s Noos Camisa  Blanco  White Fit:Slim Fi
 
 ℹ️:
 
+- Marca: Jack&Jones
 - Modelo: 12125792 JPRNON IRON SHIRT L/S NOOS WHITE/SLIM FIT
 - Camisa de manga larga de color blanco. Cierre con botones. Corte slim fit.
-- Marca: Jack&Jones
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B072NC66WQ/?tag=tolees-21)
