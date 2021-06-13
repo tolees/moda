@@ -28,10 +28,10 @@ Tienes [GEOX Man U WELLS SNEAKERS DK NAVY 40 EU](https://www.amazon.es/dp/B076X4
 
 🔎:
 
-- Piel y tela
 - Material exterior: piel y textil. Material interior: malla. Suela: goma
-- Cierre: no especificado
 - He_Sho_Schnuerschuhe_T
+- Piel y tela
+- Cierre: no especificado
 - malla
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B076X4LDCB/?tag=tolees-21)
