@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JACK & JONES JCOBORO TEE SS CREW NECK  C al 53.24 % de rebaja'
-date: 2021-06-03 17:18:14
+date: 2021-06-13 17:25:05
 image: 'https://m.media-amazon.com/images/I/31+wN0Gw-NL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
