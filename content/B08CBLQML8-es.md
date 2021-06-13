@@ -28,9 +28,9 @@ En este momento está [adidas M20 Short 2IN1 Pantalón Corto  Mujer  azuleg  XS3
 
 🔎:
 
-- Tejido doble 100% poliéster reciclado
-- Aeroready absorbente de humedad
 - AEROREADY absorbe la humedad y te hace sentir seco
+- Aeroready absorbente de humedad
+- Tejido doble 100% poliéster reciclado
 - Detalles reflectantes brillan en las carreras al amanecer y al anochecer.
 - Cordón en la cintura elástica
 
