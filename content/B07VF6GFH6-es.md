@@ -28,8 +28,8 @@ Está [Hackett London Continuity WSH/Oxford Camisa  Azul  Sky 513   37  Talla de
 
 ℹ️:
 
+- Está diseñado con un bordado retro
 - Fabricado con algodón de calidad
 - Este jersey es para un estilo clásico
-- Está diseñado con un bordado retro
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07VF6GFH6/?tag=tolees-21)

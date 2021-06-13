@@ -28,8 +28,8 @@ En este momento está [Hackett London SS Logo tee Camiseta  Blanco  White 800   
 
 🔎:
 
-- Sudadera
 - 100% algodón
 - Cuello redondo
+- Sudadera
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07P6LTGJ8/?tag=tolees-21)

@@ -28,8 +28,8 @@ En este momento está [Hackett London Continuity WSH/Oxford Camisa  Blanco  Whit
 
 🔎:
 
-- Este jersey es para un estilo clásico
-- Fabricado con algodón de calidad
 - Está diseñado con un bordado retro
+- Fabricado con algodón de calidad
+- Este jersey es para un estilo clásico
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07VHDM3SM/?tag=tolees-21)
