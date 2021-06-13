@@ -29,7 +29,7 @@ Está [Lee Daren Button Fly Vaqueros  Azul Rinse A36  40W / 32L para Hombre](htt
 ℹ️:
 
 - DENIM STRETCH
-- 5 bolsillos.
 - Regular Straight
+- 5 bolsillos.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07XD391DY/?tag=tolees-21)
