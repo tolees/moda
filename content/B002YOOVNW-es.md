@@ -28,8 +28,8 @@ Ahora mismo tienes [Levi s 501 Original  Vaqueros  Stonewash 80684  28W / 32L pa
 
 🔎:
 
-- Diseño de cinco bolsillos
-- Pernera recta y cierre de botones
 - Ajuste normal en los muslos
+- Pernera recta y cierre de botones
+- Diseño de cinco bolsillos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B002YOOVNW/?tag=tolees-21)

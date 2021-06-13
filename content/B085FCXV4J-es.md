@@ -29,8 +29,8 @@ Tienes [HAWKERS Core Gafas de sol  Gris  One Size Unisex Adulto](https://www.ama
 🔎:
 
 - Lentes categoría 3 y protección uv400
-- Modelo Core
 - Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores
+- Modelo Core
 - Modelo para hombre y mujer: Unisex
 - Lente de policarbonato de alta resistencia a los golpes que proporciona comodidad por su flexibilidad y ligereza
 
