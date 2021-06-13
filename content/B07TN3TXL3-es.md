@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JACK & JONES 12152840 Sudadera con capuc con un 41.68 % de descuento'
-date: 2021-06-03 08:58:21
+date: 2021-06-13 08:40:45
 image: 'https://m.media-amazon.com/images/I/419RS9sKqpS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B07TN3TXL3/?tag=tolees-21'
 descuento: '41.68'
-average: '17.8435294117647'
+average: '17.8238888888889'
 ---
 
 En este momento está [JACK & JONES 12152840 Sudadera con capucha  Gris  Light Melange   M para Hombre](https://www.amazon.es/dp/B07TN3TXL3/?tag=tolees-21) a 17.49 EUR (original: 29.99 EUR) (41.68 %  de descuento) en el siguiente enlace!

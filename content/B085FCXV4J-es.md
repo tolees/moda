@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HAWKERS Core Gafas de sol  Gris  One Siz al 17.21 % de rebaja'
-date: 2021-06-11 20:04:34
+date: 2021-06-13 10:11:54
 image: 'https://m.media-amazon.com/images/I/31pDcN47XjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HAWKERS'
 buyurl: 'https://www.amazon.es/dp/B085FCXV4J/?tag=tolees-21'
 descuento: '17.21'
-average: '18.926'
+average: '19.91'
 ---
 
 Tienes [HAWKERS Core Gafas de sol  Gris  One Size Unisex Adulto](https://www.amazon.es/dp/B085FCXV4J/?tag=tolees-21) con precio final de  24.83 EUR (original: 29.99 EUR) (17.21 %  de rebaja) aqui!
@@ -28,10 +28,10 @@ Tienes [HAWKERS Core Gafas de sol  Gris  One Size Unisex Adulto](https://www.ama
 
 🔎:
 
+- Lentes categoría 3 y protección uv400
+- Modelo Core
 - Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores
 - Modelo para hombre y mujer: Unisex
-- Modelo Core
-- Lentes categoría 3 y protección uv400
 - Lente de policarbonato de alta resistencia a los golpes que proporciona comodidad por su flexibilidad y ligereza
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B085FCXV4J/?tag=tolees-21)
