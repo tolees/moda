@@ -28,8 +28,8 @@ Está [Arena Boy T-Shirt Camiseta Niño con Protección UV  Niños  Army-Shiny G
 
 ℹ️:
 
-- Ideal para natación y otras actividades en la piscina y la playa
 - Ofrece protección UV UPF 50+
+- Ideal para natación y otras actividades en la piscina y la playa
 - Tejido MaxFit arena: resistente al cloro y al agua salada, de secado rápido y ajuste perfecto
 - Camiseta con protección solar para niño
 
