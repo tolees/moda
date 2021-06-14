@@ -29,9 +29,9 @@ Tienes [Columbia Zero Rules Camiseta Polo  Hombre  Carbon Heather  S](https://ww
 🔎:
 
 - Incluye la tecnología Omni-Wick para ayudar a alejar la humedad del cuerpo para que el sudor se evapore rápidamente
-- Tecnología Omni-Freeze Zero, que refrigera activamente el sudor.
 - Contenido: 1x Columbia Zero Rules Camiseta Polo, Hombre, Carbon Heather, S
-- Mayor protección contra el sol en días calurosos
 - Tratamiento antimicrobiano para eliminar los malos olores.
+- Mayor protección contra el sol en días calurosos
+- Tecnología Omni-Freeze Zero, que refrigera activamente el sudor.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B019Z04MWC/?tag=tolees-21)
