@@ -28,7 +28,7 @@ Tienes [REPLAY New Luz Vaqueros Skinny  Azul  Dark Blue 7   No Aplica /L32  Tall
 
 🔎:
 
-- sostenibilidad ecológica
 - sin productos químicos nocivos para el medio ambiente
+- sostenibilidad ecológica
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07SWT6D4F/?tag=tolees-21)

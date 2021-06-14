@@ -28,13 +28,13 @@ Tienes [Havaianas Brasil Mix  Chanclas Unisex Adulto  Multicolor  Blue   41/42 E
 
 ℹ️:
 
-- Cierre: Sin cordones
 - Material exterior: Goma
 - Revestimiento: Sin forro
 - Tipo de tacón: Plano
+- Altura del tacón: 1 centímetros
+- Cierre: Sin cordones
 - Composición: Caucho
 - Material de la suela: Goma
-- Altura del tacón: 1 centímetros
 - Anchura del zapato: Normal
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B015SGE5EM/?tag=tolees-21)
