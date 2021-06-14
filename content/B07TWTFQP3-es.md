@@ -28,8 +28,8 @@ En este momento está [Wrangler Slim Western Shirt Blusa  Azul  Mid Indigo X8E  
 
 🔎:
 
-- Camisa para mujer
 - Con 2 bolsillos en el pecho
 - Presenta cierre con botones a presión
+- Camisa para mujer
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07TWTFQP3/?tag=tolees-21)
