@@ -28,10 +28,10 @@ En este momento está [Burton Midweight Camiseta termica  Mujer  True Black  XXS
 
 🔎:
 
-- Costuras softlock sin roce para mayor comodidad; clasificado UPF 50+
-- Slim fit se siente cerca del cuerpo, con espacio para que la prenda se mueva contigo
-- El tejido DRYRIDE Ultrawick de peso medio elimina la humedad de la piel
-- Fabricación elástica en cuatro direcciones para mejorar la movilidad
 - Los acabados no biocidas aprobados por bluesign mantienen a raya los olores
+- Slim fit se siente cerca del cuerpo, con espacio para que la prenda se mueva contigo
+- Fabricación elástica en cuatro direcciones para mejorar la movilidad
+- El tejido DRYRIDE Ultrawick de peso medio elimina la humedad de la piel
+- Costuras softlock sin roce para mayor comodidad; clasificado UPF 50+
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CSFLL8Y/?tag=tolees-21)
