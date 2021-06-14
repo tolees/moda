@@ -28,9 +28,9 @@ Tienes [Panama Jack Salman  Sandalias con Punta Abierta Hombre  Marrón  Marron 
 
 ℹ️:
 
-- Sandalias Panama Jack Men Marron / Brown
 - Fabricado en España
-- Altura del tacón: 4,00 cm
 - Material principal: napa. Material de la suela: poliuretano
+- Sandalias Panama Jack Men Marron / Brown
+- Altura del tacón: 4,00 cm
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07KYHZ8F5/?tag=tolees-21)
