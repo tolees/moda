@@ -28,7 +28,7 @@ En este momento está [Clarks Un Karely Sun  Chanclas Sandalias Flip-Flop  Negro
 
 🔎:
 
-- Color exacto: negro nobuck
 - Material de la suela: EVA
+- Color exacto: negro nobuck
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07FQP8THX/?tag=tolees-21)
