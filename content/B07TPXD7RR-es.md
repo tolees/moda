@@ -28,8 +28,8 @@ Ahora mismo tienes [HAWKERS · HYPNOSE · Acid · Gafas de sol para hombre y muj
 
 🔎:
 
-- Producto oficial Hawkers
 - Modelo para hombre y mujer: Unisex
+- Producto oficial Hawkers
 - Montura en acetato de celulosa super black Mazzucchelli de calidad que aporta una adecuada resistencia y durabilidad; almohadillas de acetato para una sujeción mucho más cómoda
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TPXD7RR/?tag=tolees-21)

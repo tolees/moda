@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jjecorp Logo tee SS Crew Ne al 50.05 % de descuento'
-date: 2021-06-11 15:30:47
+date: 2021-06-14 19:08:27
 image: 'https://m.media-amazon.com/images/I/31YI1-HbgNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B079BVP1FJ/?tag=tolees-21'
 descuento: '50.05'
-average: '7.11083333333334'
+average: '7.06755102040817'
 ---
 
 Está [Jack & Jones Jjecorp Logo tee SS Crew Neck Noos Camiseta  Azul  Navy Blazer Detail: Slim Fit   X-Small para Hombre](https://www.amazon.es/dp/B079BVP1FJ/?tag=tolees-21) con 50.05 de descuento por 4.99 EUR (original: 9.99 EUR) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [Jack & Jones Jjecorp Logo tee SS Crew Neck Noos Camiseta  Azul  Navy Blaz
 
 ℹ️:
 
-- Tipo de manga: Manga corta.
-- Compatibilidad: Corte entallado.
 - Escote: Cuello redondo.
 - Jack & Jones - Camiseta de manga corta para hombre.
+- Compatibilidad: Corte entallado.
+- Tipo de manga: Manga corta.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B079BVP1FJ/?tag=tolees-21)
