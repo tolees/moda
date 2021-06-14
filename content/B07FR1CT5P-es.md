@@ -29,8 +29,8 @@ Tienes [Clarks Step Beat Sun  Sandalias Punta Abierta Hombre  Negro  Black   41 
 ℹ️:
 
 - Plantilla: sintético
-- Suela: sintético
 - Ancho: Normal
+- Suela: sintético
 - Revestimiento: forro frío o ninguno
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07FR1CT5P/?tag=tolees-21)
