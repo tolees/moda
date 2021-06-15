@@ -28,7 +28,7 @@ Tienes [Only & Sons onsMATT Longy SS tee Noos Camiseta  Blanco  White White   S 
 
 ℹ️:
 
-- Camiseta básica para cualquier ocasión
 - Agradable comodidad gracias al algodón puro
+- Camiseta básica para cualquier ocasión
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07NQ55K5V/?tag=tolees-21)
