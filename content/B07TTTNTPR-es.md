@@ -28,8 +28,8 @@ Ahora mismo tienes [Lee Carol Jeans Vaqueros  Azul  Mid Bellevue Gx   24W / 31L 
 
 🔎:
 
+- Vaqueros de pernera recta para mujer
 - Lucen un parche con el logo de la marca en la parte trasera de la cintura
 - Con un diseño de cinco bolsillos
-- Vaqueros de pernera recta para mujer
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TTTNTPR/?tag=tolees-21)
