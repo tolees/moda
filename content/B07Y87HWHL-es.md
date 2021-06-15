@@ -28,7 +28,7 @@ Ahora mismo tienes [Only 15174274 Chaqueta Punto  Beige  Beige Detail: W. Melang
 
 🔎:
 
-- Cardigan
 - Knit jacket
+- Cardigan
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07Y87HWHL/?tag=tolees-21)
