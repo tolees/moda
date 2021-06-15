@@ -28,9 +28,9 @@ En este momento está [Jack & Jones JJSURE Parka Jacket Chaqueta  Verde oliva  L
 
 🔎:
 
-- Paquete doble
-- Camiseta
 - algodón
+- Camiseta
 - Estampado
+- Paquete doble
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08DKYZDST/?tag=tolees-21)
