@@ -28,8 +28,8 @@ En este momento está [GEOX U IACOPO C BLACK Men s Derbys  Oxfords and Monk Shoe
 
 🔎:
 
+- Material de la suela: Caucho
 - Revestimiento: Cuero
 - Material exterior: Cuero
-- Material de la suela: Caucho
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07SSJW7S8/?tag=tolees-21)
