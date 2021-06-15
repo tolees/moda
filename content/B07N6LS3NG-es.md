@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FILA Strada wmn zapatilla Mujer  negro   con un 31.31 % de descuento'
-date: 2021-06-08 08:05:20
+date: 2021-06-15 09:26:39
 image: 'https://m.media-amazon.com/images/I/41-6D9+UHoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
