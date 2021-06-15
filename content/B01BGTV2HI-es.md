@@ -28,8 +28,8 @@ Ahora mismo tienes [G-STAR RAW Midge Saddle Mid Waist Straight Vaqueros  Dk Aged
 
 🔎:
 
-- Auténtica ropa de trabajo con un ajuste que favorece la figura
 - Cintura normal
 - Esta versión de los vaqueros G-Star Midge está inspirada en un ajuste recto y cintura alta.
+- Auténtica ropa de trabajo con un ajuste que favorece la figura
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01BGTV2HI/?tag=tolees-21)
