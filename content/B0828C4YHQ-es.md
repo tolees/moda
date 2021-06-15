@@ -28,13 +28,13 @@ Tienes [Geox D Chloo Mid B  Pump Mujer  Negro  39.5 EU](https://www.amazon.es/dp
 
 🔎:
 
-- Tipo de tacón: Bloque
-- Material de la suela: Sintético
-- Altura del tacón: 4 centímetros
-- Material exterior: Cuero
-- Revestimiento: Cuero
 - Cierre: Sin cierre
 - Anchura del zapato: Normal
+- Altura del tacón: 4 centímetros
+- Material de la suela: Sintético
 - Tipo de talla: Los zapatos Geox son holgados
+- Tipo de tacón: Bloque
+- Material exterior: Cuero
+- Revestimiento: Cuero
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0828C4YHQ/?tag=tolees-21)
