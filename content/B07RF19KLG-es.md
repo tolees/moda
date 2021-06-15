@@ -28,7 +28,7 @@ Tienes [G-STAR RAW 3301 Mid Waist Skinny Vaqueros  Faded Indigo Destroyed 8968-A
 
 🔎:
 
-- Nuestros jeans pitillo son femeninos y favorecedores.
 - G-Star 3301: vaquero clásico neutro con 5 bolsillos. 
+- Nuestros jeans pitillo son femeninos y favorecedores.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07RF19KLG/?tag=tolees-21)
