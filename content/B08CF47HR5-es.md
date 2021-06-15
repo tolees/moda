@@ -28,7 +28,7 @@ Tienes [BOSS tee Gold 3 10213473 01 Camiseta  White100  S para Hombre](https://w
 
 ℹ️:
 
-- Acabado de alta calidad
 - Jersey básico
+- Acabado de alta calidad
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08CF47HR5/?tag=tolees-21)
