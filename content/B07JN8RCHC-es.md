@@ -28,10 +28,10 @@ En este momento está [HAWKERS Gafas de sol  Negro/Gris  One Size Unisex-Adult](
 
 🔎:
 
-- Lente plateada con efecto espejo fabricada en TR18, con reducción de brillos y con gran equilibrio entre claridad y protección. Lente de categoría 3 con protección UV400. Resistencia muy alta
-- Montura fabricada con la característica trama de las gafas de carbono en TR90, que dota a las gafas de gran ligereza, flexibilidad y resistencia, muy resistente a altas y bajas temperaturas.
 - Medidas: Frente: 14cm, Altura: 5cm, Varillas: 14cm
+- Lente plateada con efecto espejo fabricada en TR18, con reducción de brillos y con gran equilibrio entre claridad y protección. Lente de categoría 3 con protección UV400. Resistencia muy alta
 - Icónico modelo Hawkers One, Unisex, con montura Carbon Black mate y lente plata efecto espejo
+- Montura fabricada con la característica trama de las gafas de carbono en TR90, que dota a las gafas de gran ligereza, flexibilidad y resistencia, muy resistente a altas y bajas temperaturas.
 - Producto original Hawkers. La caja incluye funda de microfibra, caja y set de pegatinas decorativas.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07JN8RCHC/?tag=tolees-21)
