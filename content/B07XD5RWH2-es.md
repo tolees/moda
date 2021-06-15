@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Kids Lvb Batwing Tee Camiseta Whi al 28.89 % de descuento'
-date: 2021-06-14 03:25:57
+date: 2021-06-15 03:48:34
 image: 'https://m.media-amazon.com/images/I/21b-mEXUtNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis kids'
 buyurl: 'https://www.amazon.es/dp/B07XD5RWH2/?tag=tolees-21'
 descuento: '28.89'
-average: '14.0555555555555'
+average: '14.0359374999999'
 ---
 
 Ahora mismo tienes [Levi s Kids Lvb Batwing Tee Camiseta White para Niños](https://www.amazon.es/dp/B07XD5RWH2/?tag=tolees-21) a 12.8 EUR (original: 18.0 EUR) (28.89 %  de descuento) en el siguiente enlace!
