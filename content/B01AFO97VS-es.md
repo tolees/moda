@@ -28,7 +28,7 @@ Ahora mismo tienes [Diesel CREW NECK ESSENTIAL  Camiseta para Hombre  Multicolor
 
 🔎:
 
-- De la marca Diesel.
 - Muy cómodo de llevar.
+- De la marca Diesel.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01AFO97VS/?tag=tolees-21)

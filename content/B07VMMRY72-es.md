@@ -29,7 +29,7 @@ Ahora mismo tienes [G-STAR RAW Base-s r t s/s Camiseta  Azul  Delft 336-825   XS
 🔎:
 
 - Bajo recto
-- Bordado de G-Star RAW en el pecho
 - Cuello redondo
+- Bordado de G-Star RAW en el pecho
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VMMRY72/?tag=tolees-21)

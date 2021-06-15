@@ -28,7 +28,7 @@ En este momento está [FILA Disruptor N wmn zapatilla Mujer  blanco  White/Leopa
 
 🔎:
 
-- Suela exterior gruesa
 - Malla estampada de leopardo
+- Suela exterior gruesa
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08FNCXQWJ/?tag=tolees-21)
