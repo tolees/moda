@@ -28,7 +28,7 @@ Tienes [Lacoste TH9654 Camiseta  Black  XS para Hombre](https://www.amazon.es/dp
 
 🔎:
 
-- Cuello redondo acanalado
 - Cocodrilo 3D y estampado de red
+- Cuello redondo acanalado
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08B3T9GCL/?tag=tolees-21)
