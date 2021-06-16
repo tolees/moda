@@ -28,10 +28,10 @@ Ahora mismo tienes [GRACE KARIN - Mujer Vestido sin Espalda de Noche sin Mangas 
 
 🔎:
 
-- ¡GRACE KARIN Vestido Elegante con Vuelo Cuello V sin Mangas,totalmente es un diseño maravilloso pata ti!
 - Perfecto para día normal, fiesta, danza, cóctel, noche y otras ocasiones especiales como ceremonia, citas, cumpleaños, boda, etc
-- Consejos de lavado: lavar a mano en agua fría, lavado en seco o lavable a máquina
-- Por favor compruebe la tabla de medidas ofrecida en la parte de descripción del producto, la de Amazon no es aplicable. ¡Muchas Gracias!
 - Le recomendamos que se ponga una falda tutú dentro del vestido para hacerlo más suelto y perfecto
+- Por favor compruebe la tabla de medidas ofrecida en la parte de descripción del producto, la de Amazon no es aplicable. ¡Muchas Gracias!
+- Consejos de lavado: lavar a mano en agua fría, lavado en seco o lavable a máquina
+- ¡GRACE KARIN Vestido Elegante con Vuelo Cuello V sin Mangas,totalmente es un diseño maravilloso pata ti!
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07R38YHZ7/?tag=tolees-21)
