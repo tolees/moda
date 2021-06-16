@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Superdry OL Vintage Emb Crew Camiseta  N al 48.02 % de descuento'
-date: 2021-06-08 08:48:24
+date: 2021-06-16 14:35:15
 image: 'https://m.media-amazon.com/images/I/41tjiYvqbDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Superdry'
 buyurl: 'https://www.amazon.es/dp/B07TJGHRD1/?tag=tolees-21'
 descuento: '48.02'
-average: '12.8454545454545'
+average: '12.8517391304347'
 ---
 
 Está [Superdry OL Vintage Emb Crew Camiseta  Naranja  Volcanic Orange Space Dye T1s   XS para Hombre](https://www.amazon.es/dp/B07TJGHRD1/?tag=tolees-21) con 48.02 de descuento por 12.99 EUR (original: 24.99 EUR) en el siguiente enlace!

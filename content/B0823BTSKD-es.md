@@ -29,9 +29,9 @@ En este momento está [JACK & JONES Boxershorts Bóxer  Detalle: Negro-Negro-Neg
 🔎:
 
 - Ropa interior lisa y elegante con la marca Jack Jones estampada en la goma.
-- Disponible en color azul marino/gris oscuro.
-- Pack de 3 calzoncillos tipo bóxer Jack & Jones.
 - Tallas: de la S a la XL.
+- Pack de 3 calzoncillos tipo bóxer Jack & Jones.
 - Material: algodón.
+- Disponible en color azul marino/gris oscuro.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0823BTSKD/?tag=tolees-21)
