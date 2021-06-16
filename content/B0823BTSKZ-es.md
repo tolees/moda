@@ -29,9 +29,9 @@ En este momento está [JACK & JONES Boxershorts Bóxer  Detalle: Lapis Blue-Deep
 🔎:
 
 - Pack de 3 calzoncillos tipo bóxer Jack & Jones.
-- Tallas: de la S a la XL.
-- Disponible en color azul marino/gris oscuro.
 - Ropa interior lisa y elegante con la marca Jack Jones estampada en la goma.
+- Disponible en color azul marino/gris oscuro.
 - Material: algodón.
+- Tallas: de la S a la XL.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0823BTSKZ/?tag=tolees-21)

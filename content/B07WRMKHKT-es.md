@@ -28,8 +28,8 @@ Ahora mismo tienes [Skechers Sargo Reyon  Chanclas Hombre  Negro  Black Canvas B
 
 🔎:
 
-- casual verano ponerse fashion comfortable
 - exterior goma cuero velcro camino transpirable
+- casual verano ponerse fashion comfortable
 - correa sandalias mula ducha gimnasio gimnasio deportes
 - Primavera-Verano 2018
 - baño ropa deportiva ropa activa pantuflas interior
