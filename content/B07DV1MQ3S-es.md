@@ -28,9 +28,9 @@ En este momento está [Lacoste Croco Slide 119 1 CMA  Sandalias de Punta Descubi
 
 🔎:
 
-- Cocodrilo de color oversized a contraste
 - Empeine de material sintético
-- Suela de PU
 - Tiras de goma hidrófuga
+- Cocodrilo de color oversized a contraste
+- Suela de PU
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07DV1MQ3S/?tag=tolees-21)

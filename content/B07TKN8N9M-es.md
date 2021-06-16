@@ -28,9 +28,9 @@ Tienes [Clarks Un Bali Trek  Sandalias de Talón Abierto Mujer  Gris  Stone Comb
 
 🔎:
 
-- Suela: goma
+- Altura del tacón: 3,5 cm
 - Exterior: piel
 - Interior: textil
-- Altura del tacón: 3,5 cm
+- Suela: goma
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07TKN8N9M/?tag=tolees-21)
