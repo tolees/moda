@@ -28,8 +28,8 @@ Tienes [Wilson Kaos Comp 2.0 CC  Zapatilla de Tenis para Tierra Batida  tenistas
 
 🔎:
 
+- Kaos comp 2.0 cc copen blue/peacoat/go 8
 - Color: copen blue/peacoat/gold fusion
 - Número de modelo: wrs326570
-- Kaos comp 2.0 cc copen blue/peacoat/go 8
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B083QHHH4S/?tag=tolees-21)
