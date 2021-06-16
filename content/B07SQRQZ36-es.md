@@ -29,7 +29,7 @@ Está [Roxy Viva Stamp  Zapatos de Playa y Piscina para Mujer  Negro Black  40 E
 ℹ️:
 
 - __suela exterior:__suela exterior de goma con estampado ROXY vintage
-- __Plantilla:__ Plantilla de goma texturizada con gráfico
 - __Parte superior:__ Parte superior de goma con pin metálico ROXY
+- __Plantilla:__ Plantilla de goma texturizada con gráfico
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07SQRQZ36/?tag=tolees-21)
