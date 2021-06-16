@@ -28,7 +28,7 @@ Tienes [IRIS & LILLY Camiseta de Tirantes de Algodón para Mujer  Pack de 2  2 x
 
 ℹ️:
 
-- Confeccionado en algodón suave, transpirable e hipoalergénico diseñado para una comodidad duradera
 - Una marca de Amazon
+- Confeccionado en algodón suave, transpirable e hipoalergénico diseñado para una comodidad duradera
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01N51VQN0/?tag=tolees-21)

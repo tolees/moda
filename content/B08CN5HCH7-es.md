@@ -28,8 +28,8 @@ Ahora mismo tienes [Desigual TS Estambul Camiseta  Negro  M para Mujer](https://
 
 🔎:
 
-- Floral Camouflage
-- Zapatillas de correr bordadas
 - Refuerzo en el talón y la puntera
+- Zapatillas de correr bordadas
+- Floral Camouflage
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CN5HCH7/?tag=tolees-21)
