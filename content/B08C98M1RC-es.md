@@ -28,8 +28,8 @@ Está [Tommy Jeans TJM Essential Jersey Polo Camisa  Negro Htr  M para Hombre](h
 
 ℹ️:
 
-- Este producto ha sido fabricado de forma sostenible con materiales sostenibles
 - Para más información sobre Tommy Jeans, consulta la sección de descripción del producto a continuación
 - Este es un producto auténtico y original Tommy Jeans.
+- Este producto ha sido fabricado de forma sostenible con materiales sostenibles
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08C98M1RC/?tag=tolees-21)
