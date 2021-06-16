@@ -29,7 +29,7 @@ Está [GEOX Man U NEBULA Y A SHOES WHITE 40 EU](https://www.amazon.es/dp/B07MQ36
 ℹ️:
 
 - Material exterior: Cuero
-- Material de la suela: Sintético
 - Revestimiento: Sintético
+- Material de la suela: Sintético
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07MQ36NYH/?tag=tolees-21)
