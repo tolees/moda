@@ -28,8 +28,8 @@ Tienes [Desigual TS Dublin Camiseta  Azul  M para Mujer](https://www.amazon.es/d
 
 ℹ️:
 
-- Zapatillas de correr bordadas
 - Floral Camouflage
+- Zapatillas de correr bordadas
 - Refuerzo en el talón y la puntera
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08CN5NFZX/?tag=tolees-21)
