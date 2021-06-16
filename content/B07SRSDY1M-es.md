@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Geox D Sandal Hiver A  Sandalias con Pun al 66.36 % de descuento'
-date: 2020-08-10 21:23:45
-image: 'https://m.media-amazon.com/images/I/41VRS0XCYkL._SL400_.jpg'
+title: 'Geox D Sandal Hiver A  Sandalias con Pun al 50.00 % de descuento'
+date: 2021-06-16 21:57:47
+image: 'https://m.media-amazon.com/images/I/41BvjYu5IwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07SRSDY1M-es Geox D Sandal Hiver A Sandalias con Punta Abierta para...'
 sku: 'B07SRSDY1M-es'
-tags: [ 'geox','sandalias', ]
-actualPrice: 30.24 EUR
+tags: [ 'Sandalias de vestir para mujer','Sandalias y palas de mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','geox','sandalias', ]
+actualPrice: 44.95 EUR
 currency: EUR
-price: 30.24
+price: 44.95
 comparePrice: 89.9 EUR
 prodname: 'Geox D Sandal Hiver A  Sandalias con Punta Abierta para Mujer  Dorado  Dk Gold/Cognac C2e6n   35 EU'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B07SRSDY1M/?tag=tolees-21'
-descuento: '66.36'
-average: '31.595'
+descuento: '50.00'
+average: '34.266'
 ---
 
-Está [Geox D Sandal Hiver A  Sandalias con Punta Abierta para Mujer  Dorado  Dk Gold/Cognac C2e6n   35 EU](https://www.amazon.es/dp/B07SRSDY1M/?tag=tolees-21) con 66.36 de descuento por 30.24 EUR (original: 89.9 EUR) en el siguiente enlace!
+Está [Geox D Sandal Hiver A  Sandalias con Punta Abierta para Mujer  Dorado  Dk Gold/Cognac C2e6n   35 EU](https://www.amazon.es/dp/B07SRSDY1M/?tag=tolees-21) con 50.00 de descuento por 44.95 EUR (original: 89.9 EUR) en el siguiente enlace!
 
-[![Geox D Sandal Hiver A  Sandalias con Pun](https://m.media-amazon.com/images/I/41VRS0XCYkL._SL400_.jpg)](https://www.amazon.es/dp/B07SRSDY1M/?tag=tolees-21)
+[![Geox D Sandal Hiver A  Sandalias con Pun](https://m.media-amazon.com/images/I/41BvjYu5IwL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07SRSDY1M/?tag=tolees-21)
 
 ℹ️:
 
+- Revestimiento: Sintético
+- Cierre: Hebilla
+- Material exterior: Sintético
+- Material de la suela: Sintético
+- Tipo de tacón: Plano
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07SRSDY1M/?tag=tolees-21)
