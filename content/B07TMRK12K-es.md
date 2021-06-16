@@ -28,8 +28,8 @@ Ahora mismo tienes [Clarks Orinoco Strap  Sandalias de Talón Abierto Mujer  Bla
 
 🔎:
 
-- Exterior: piel
-- Material interior: sintético
 - Suela: goma
+- Material interior: sintético
+- Exterior: piel
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TMRK12K/?tag=tolees-21)
