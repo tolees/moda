@@ -28,7 +28,7 @@ Está [BOSS Piro 10231995 01 Camisa de Polo  Black2  S para Hombre](https://www.
 
 ℹ️:
 
-- Rendimiento de piqué fino.
 - Acabados excelentes.
+- Rendimiento de piqué fino.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08CF1KW1C/?tag=tolees-21)
