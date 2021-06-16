@@ -28,11 +28,11 @@ En este momento está [Hevea - Guantes desechables de vinilo sin polvo pack 1 x 
 
 🔎:
 
-- Sin polvo. No deja residuos en tus manos ni en tu ropa
-- Máximo comfort
-- Protege tus manos
-- Suaves y resistentes
-- Especial para alérgicos al látex
 - Multiusos
+- Máximo comfort
+- Suaves y resistentes
+- Sin polvo. No deja residuos en tus manos ni en tu ropa
+- Protege tus manos
+- Especial para alérgicos al látex
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07T8TR8DW/?tag=tolees-21)

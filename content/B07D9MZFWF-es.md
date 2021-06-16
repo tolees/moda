@@ -28,10 +28,10 @@ Tienes [Tommy Hilfiger Bikini Braguita  Azul  Navy Blazer 416   36  Talla del Fa
 
 🔎:
 
-- Designer: TOMMY HILFIGER
 - Artículo: UW0UW01030 BIKINI
-- Estación: SIEMPRE DISPONIBLE
-- Material: Algodón elástico
 - Color: NAVY BLAZER
+- Designer: TOMMY HILFIGER
+- Material: Algodón elástico
+- Estación: SIEMPRE DISPONIBLE
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07D9MZFWF/?tag=tolees-21)
