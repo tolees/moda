@@ -28,8 +28,8 @@ Ahora mismo tienes [THQ NORDIC - Bob Esponja Battle for Bikini Bottom - Rehydrat
 
 🔎:
 
-- Frustra el malvado plan de Plankton para hacerse con Fondo de Bikini con su ejercito de alocados robots
 - Juega como Bob Esponja, Patricio y Arenita y usa sus habilidades únicas
 - Conoce a los personajes de la amada serie
+- Frustra el malvado plan de Plankton para hacerse con Fondo de Bikini con su ejercito de alocados robots
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SY2XJM2/?tag=tolees-21)
