@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'G-STAR RAW Base-s r t s/s Camiseta  Negr con un 36.04 % de descuento'
-date: 2021-06-16 09:51:10
+date: 2021-06-17 10:05:59
 image: 'https://m.media-amazon.com/images/I/41TKtEfAMCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'G-STAR RAW'
 buyurl: 'https://www.amazon.es/dp/B07VPQB88S/?tag=tolees-21'
 descuento: '36.04'
-average: '16.24'
+average: '16.1566666666667'
 ---
 
 En este momento está [G-STAR RAW Base-s r t s/s Camiseta  Negro  Dk Black 336-6484   M para Hombre](https://www.amazon.es/dp/B07VPQB88S/?tag=tolees-21) a 15.99 EUR (original: 25.0 EUR) (36.04 %  de descuento) en el siguiente enlace!
@@ -28,8 +28,8 @@ En este momento está [G-STAR RAW Base-s r t s/s Camiseta  Negro  Dk Black 336-6
 
 🔎:
 
-- Bordado de G-Star RAW en el pecho
 - Cuello redondo
+- Bordado de G-Star RAW en el pecho
 - Bajo recto
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07VPQB88S/?tag=tolees-21)

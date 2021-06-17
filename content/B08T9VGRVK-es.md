@@ -28,9 +28,9 @@ Tienes [Only ONLBERA Back Lace UP S/S Dress JRS Noos Vestido  Black 6  M para Mu
 
 🔎:
 
-- Elástico
-- Vestido
 - Cordones en la espalda
+- Vestido
 - Cómodo
+- Elástico
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08T9VGRVK/?tag=tolees-21)

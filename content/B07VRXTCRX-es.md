@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'G-STAR RAW Base-s r t s/s Camiseta  Blan al 20.01 % de descuento'
-date: 2021-06-16 09:50:46
+date: 2021-06-17 10:31:44
 image: 'https://m.media-amazon.com/images/I/31UUD0ZaS3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
