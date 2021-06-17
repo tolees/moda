@@ -29,7 +29,7 @@ Está [NIKE M Nk Dry Acd20 Jkt K Chaqueta de Deporte  Hombre  Anthracite/Green S
 ℹ️:
 
 - Full-length frontal zip and Side pockets
-- Dri-fit Technology
 - Regular fit
+- Dri-fit Technology
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07W82RG6W/?tag=tolees-21)

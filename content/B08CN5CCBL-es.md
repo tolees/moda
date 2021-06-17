@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 49.99 % en Desigual Vest WASHINTONG Vestido Casual '
-date: 2021-06-16 10:02:47
+date: 2021-06-17 15:44:49
 image: 'https://m.media-amazon.com/images/I/41p0XEMStFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,6 +28,6 @@ Tienes [Desigual Vest WASHINTONG Vestido Casual  Negro  L para Mujer](https://ww
 
 ℹ️:
 
-- Diseño; para mujer; vestido de manga corta; blanca; lavado.
+- Desigual; Woman; Dress Short Sleeve; Black; wasrückong
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08CN5CCBL/?tag=tolees-21)

@@ -28,8 +28,8 @@ En este momento está [Salomon Zapatilla de hombre XA PRO 3D v8 con 3D Advanced 
 
 🔎:
 
-- Color: Grape Leaf/Peat/Shadow
-- Salomon
 - Xa PRO 3D V8
+- Salomon
+- Color: Grape Leaf/Peat/Shadow
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07WJHQX3Y/?tag=tolees-21)
