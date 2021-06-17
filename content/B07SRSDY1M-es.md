@@ -28,10 +28,10 @@ Está [Geox D Sandal Hiver A  Sandalias con Punta Abierta para Mujer  Dorado  Dk
 
 ℹ️:
 
-- Material de la suela: Sintético
 - Material exterior: Sintético
-- Cierre: Hebilla
 - Revestimiento: Sintético
+- Cierre: Hebilla
 - Tipo de tacón: Plano
+- Material de la suela: Sintético
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07SRSDY1M/?tag=tolees-21)
