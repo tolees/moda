@@ -29,9 +29,9 @@ Ahora mismo tienes [Adidas Real Madrid Temporada 2020/21 Pantalón Corto Primera
 🔎:
 
 - Pantalón corto REAL H SHO Y BLANCO
-- Pantalón corto para practicar Tiempo libre y sportwear de Niño
 - Ropa deportiva fabricada con materiales de primera calidad que se adaptan a cualquier actividad deportiva
-- Los productos deportivos de la marca Adidas están diseñados para que disfrutes de tu deporte favorito sin preocuparte de nada más que rendir al máximo.
 - Ropa deportiva Blanco de la marca Adidas
+- Los productos deportivos de la marca Adidas están diseñados para que disfrutes de tu deporte favorito sin preocuparte de nada más que rendir al máximo.
+- Pantalón corto para practicar Tiempo libre y sportwear de Niño
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CBMM482/?tag=tolees-21)
