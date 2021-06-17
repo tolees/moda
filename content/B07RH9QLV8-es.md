@@ -28,10 +28,10 @@ En este momento está [Marca Amazon - find. Toallitas desmaquilladoras con Aceit
 
 🔎:
 
-- Con Aceite de Almendras dulces y Vitamina E
 - 86,5% de ingredientes de origen natural
+- Con Aceite de Almendras dulces y Vitamina E
 - Elimina suavemente todos los restos de maquillaje, sin efecto graso
-- Contenido del paquete: 6x25 toallitas(150 toallitas)
 - Es ideal para todo tipo de pieles. Dermatológicamente testado
+- Contenido del paquete: 6x25 toallitas(150 toallitas)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07RH9QLV8/?tag=tolees-21)

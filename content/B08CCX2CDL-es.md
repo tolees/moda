@@ -28,8 +28,8 @@ Ahora mismo tienes [Tommy Hilfiger Global Stripe Chest tee Camiseta  Negro    L 
 
 🔎:
 
-- Este producto ha sido fabricado de manera sostenible con materiales sostenibles.
 - Para obtener más información sobre Tommy Hilfiger, consulte la sección de descripción del producto a continuación.
+- Este producto ha sido fabricado de manera sostenible con materiales sostenibles.
 - Este es un producto auténtico y original de Tommy Hilfiger.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CCX2CDL/?tag=tolees-21)
