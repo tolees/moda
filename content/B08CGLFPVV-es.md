@@ -28,7 +28,7 @@ En este momento está [Calvin Klein S/S Short Set Juego de Pijama  Parte Superio
 
 🔎:
 
-- Este es un producto auténtico y original de Calvin Klein.
 - Para más información sobre Calvin Klein, consulta la sección de descripción del producto a continuación.
+- Este es un producto auténtico y original de Calvin Klein.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CGLFPVV/?tag=tolees-21)

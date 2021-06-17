@@ -28,7 +28,7 @@ Está [Vans Hombre SPICOLI 4 SHADES Gafas de sol  Negro  BLACK-WHITE ](https://w
 
 ℹ️:
 
-- Material: Montura: 100% Policarbonato Lentes: 100% Policarbonato
 - Las Spicoli 4 son unas gafas de sol 100 % policarbonato con cristales con protección UV y el logotipo de Vans grabado en la patilla
+- Material: Montura: 100% Policarbonato Lentes: 100% Policarbonato
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01HKISWWM/?tag=tolees-21)
