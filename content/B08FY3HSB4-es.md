@@ -28,9 +28,9 @@ Tienes [TIMOTEI - TRESemmé Organizador De Bolso - Set Hidración Profunda Champ
 
 🔎:
 
-- Tresemmé acondicionador Hidratación Intensa 235ml
 - Tresemmé champú Hidratación intensa 500ml
-- Tresemmé mascarilla Hidratación Intensa 500ml
 - Producto fabricado pensando en sus necesidades
+- Tresemmé mascarilla Hidratación Intensa 500ml
+- Tresemmé acondicionador Hidratación Intensa 235ml
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08FY3HSB4/?tag=tolees-21)
