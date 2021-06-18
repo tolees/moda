@@ -28,12 +28,12 @@ Ahora mismo tienes [Crocs Crocband Flip  Chanclas Unisex Adulto  Gris  Graphite/
 
 🔎:
 
-- Altura del tacón: 1 centímetro
-- Material exterior: Espuma
 - Composición: Sintético
 - Cierre: Sin cordones
-- Revestimiento: Sin forro
+- Altura del tacón: 1 centímetro
 - Material de la suela: Goma
+- Revestimiento: Sin forro
 - Tipo de tacón: Plano
+- Material exterior: Espuma
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01N4GC5O7/?tag=tolees-21)
