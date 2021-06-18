@@ -28,8 +28,8 @@ Ahora mismo tienes [Tommy Hilfiger Logo T-Shirt Camiseta Informal  Azul  Sky Cap
 
 🔎:
 
+- Logo de Tommy Hilfiger en el pecho
 - Logo de Tommy Hilfiger bordado en la manga
 - Cinta distintiva en el cuello
-- Logo de Tommy Hilfiger en el pecho
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07JYT37GW/?tag=tolees-21)

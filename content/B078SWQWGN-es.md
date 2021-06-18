@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Timberland Malibu Waves Ankle  Sandalias con un 38.84 % de descuento'
-date: 2021-06-10 21:38:05
+title: 'Timberland Malibu Waves Ankle  Sandalias con un 40.06 % de descuento'
+date: 2021-06-17 23:43:48
 image: 'https://m.media-amazon.com/images/I/41ZPO9CL47L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,27 +9,27 @@ author: 'tole.es'
 slug: 'B078SWQWGN-es Timberland Malibu Waves Ankle Sandalias Mujer Negro Black...'
 sku: 'B078SWQWGN-es'
 tags: [ 'Sandalias de vestir para mujer','Sandalias y palas de mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','sandalias','timberland', ]
-actualPrice: 51.99 EUR
+actualPrice: 50.95 EUR
 currency: EUR
-price: 51.99
+price: 50.95
 comparePrice: 85.0 EUR
 prodname: 'Timberland Malibu Waves Ankle  Sandalias Mujer  Negro Black Nubuck  36 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Timberland'
 buyurl: 'https://www.amazon.es/dp/B078SWQWGN/?tag=tolees-21'
-descuento: '38.84'
-average: '50.47'
+descuento: '40.06'
+average: '50.63'
 ---
 
-En este momento está [Timberland Malibu Waves Ankle  Sandalias Mujer  Negro Black Nubuck  36 EU](https://www.amazon.es/dp/B078SWQWGN/?tag=tolees-21) a 51.99 EUR (original: 85.0 EUR) (38.84 %  de descuento) en el siguiente enlace!
+En este momento está [Timberland Malibu Waves Ankle  Sandalias Mujer  Negro Black Nubuck  36 EU](https://www.amazon.es/dp/B078SWQWGN/?tag=tolees-21) a 50.95 EUR (original: 85.0 EUR) (40.06 %  de descuento) en el siguiente enlace!
 
 [![Timberland Malibu Waves Ankle  Sandalias](https://m.media-amazon.com/images/I/41ZPO9CL47L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B078SWQWGN/?tag=tolees-21)
 
 🔎:
 
-- Cuero
-- Tela
 - Hebilla
+- Tela
+- Cuero
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078SWQWGN/?tag=tolees-21)
