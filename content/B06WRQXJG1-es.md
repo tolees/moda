@@ -28,7 +28,7 @@ Está [Lacoste TH6709  Camiseta para Hombre  Blanco  Blanc   S  Talla del fabric
 
 ℹ️:
 
-- Regular fit
 - Punto liso de algodón Pima
+- Regular fit
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06WRQXJG1/?tag=tolees-21)

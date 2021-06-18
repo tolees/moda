@@ -28,9 +28,9 @@ Tienes [adidas ESTRO 19 JSY Camiseta de Manga Corta  Niños  White  XS](https://
 
 🔎:
 
-- Fácil de usar
-- Camiseta Fútbol Hombre
-- Ropa deportiva Adidas
 - Estro 19 Jsy (Dp3234)
+- Ropa deportiva Adidas
+- Camiseta Fútbol Hombre
+- Fácil de usar
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07K1BNCL4/?tag=tolees-21)
