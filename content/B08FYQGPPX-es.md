@@ -28,9 +28,9 @@ En este momento está [Havaianas Luna  Sandalias Planas Mujer  Porcelana Rosa  3
 
 🔎:
 
-- Fabricado en Brasil.
-- Resistente al agua.
-- Cómodo.
 - Antideslizante.
+- Resistente al agua.
+- Fabricado en Brasil.
+- Cómodo.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08FYQGPPX/?tag=tolees-21)

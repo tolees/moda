@@ -28,7 +28,7 @@ En este momento está [FILA Disruptor F wmn zapatilla Mujer  plata  Silver   40 
 
 🔎:
 
-- Parte superior Silver Tyvek
 - Suela exterior gruesa
+- Parte superior Silver Tyvek
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08GT8FKP8/?tag=tolees-21)
