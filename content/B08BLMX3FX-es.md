@@ -28,11 +28,11 @@ En este momento está [Geox J Rebecca Girl B  Zapatillas Niñas  Blanco Y Rojo 2
 
 🔎:
 
+- Material de la suela: Sintético
 - Material exterior: Sintético
 - Revestimiento: Malla
-- Material de la suela: Sintético
-- Cierre: Cremallera
 - Tipo de tacón: Plano
+- Cierre: Cremallera
 - Tipo de talla: Los zapatos Geox son holgados
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08BLMX3FX/?tag=tolees-21)
