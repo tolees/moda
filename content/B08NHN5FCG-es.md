@@ -29,7 +29,7 @@ Tienes [Jack & Jones JCOALPHA Sweat Hood FST Sudadera con Capucha  Rojo Ocre  XX
 ℹ️:
 
 - Sudadera con capucha con cordón en la capucha
-- Cómodos puños elásticos en la cintura y las muñecas
 - Logotipo grande y oblicuo en la parte delantera
+- Cómodos puños elásticos en la cintura y las muñecas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08NHN5FCG/?tag=tolees-21)

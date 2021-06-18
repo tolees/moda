@@ -28,8 +28,8 @@ Tienes [Geox J HADRIEL Girl I  Merceditas  Negro  Black C9999   35 EU](https://w
 
 🔎:
 
-- Material de la suela: Caucho
 - Revestimiento: Sintético
+- Material de la suela: Caucho
 - Material exterior: Cuero
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07MJCX4RZ/?tag=tolees-21)
