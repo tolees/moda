@@ -28,8 +28,8 @@ Tienes [Clarks Oakland Craft  Zapatos de Cordones Derby Hombre  Beige  Dark Sand
 
 🔎:
 
-- Exterior: piel
 - Suela: goma
+- Exterior: piel
 - Interior: textil
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07TJK9MZP/?tag=tolees-21)
