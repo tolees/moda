@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Havaianas Luna  Sandalias de Talón Abier con un 45.65 % de descuento'
-date: 2021-05-19 12:01:15
+date: 2021-06-18 08:31:20
 image: 'https://m.media-amazon.com/images/I/511p1AnYWNS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,12 +28,12 @@ En este momento está [Havaianas Luna  Sandalias de Talón Abierto para Mujer  R
 
 🔎:
 
-- Revestimiento: Sin forro
 - Anchura del zapato: Normal
-- Material exterior: Caucho
-- Material de la suela: Goma
-- Altura del tacón: 1 centímetros
-- Tipo de tacón: Plano
 - Cierre: Sin cordones
+- Tipo de tacón: Plano
+- Material de la suela: Goma
+- Material exterior: Caucho
+- Revestimiento: Sin forro
+- Altura del tacón: 1 centímetros
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07SLZL3PH/?tag=tolees-21)

@@ -28,8 +28,8 @@ Está [Tommy Hilfiger Core Twill Classic Shirt Camisa  Azul  410   37 para Hombr
 
 ℹ️:
 
-- Costuras a contraste en el botón final
 - Cinta distintiva en el interior del cuello
+- Costuras a contraste en el botón final
 - Modelo con cuello levantado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01BEXHZWW/?tag=tolees-21)
