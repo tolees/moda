@@ -28,8 +28,8 @@ En este momento está [Vans Left Chest Logo tee Camiseta  Amarillo Suave  M para
 
 🔎:
 
-- Camiseta de 185 g
-- Forro polar de 320 g con logotipo impreso
 - Corte entallado
+- Forro polar de 320 g con logotipo impreso
+- Camiseta de 185 g
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08MFRSG3X/?tag=tolees-21)
