@@ -28,9 +28,9 @@ Ahora mismo tienes [Timberland 6 Inch Premium Waterproof  Botas Chukka Mujer  Am
 
 🔎:
 
-- Composición del material: ver descripción
-- Cierre: cordones
 - Exterior: piel
 - Forma del tacón: plano
+- Cierre: cordones
+- Composición del material: ver descripción
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B008EWME32/?tag=tolees-21)
