@@ -29,8 +29,8 @@ En este momento está [Jack & Jones Jjecorp Logo tee SS Crew Neck Noos Camiseta 
 🔎:
 
 - Escote: Cuello redondo.
-- Compatibilidad: Corte entallado.
 - Tipo de manga: Manga corta.
+- Compatibilidad: Corte entallado.
 - Jack & Jones - Camiseta de manga corta para hombre.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B079BNC3KN/?tag=tolees-21)
