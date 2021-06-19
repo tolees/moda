@@ -28,11 +28,11 @@ En este momento está [Crocs Classic Clog Zuecos Unisex Adulto Azul  Navy  36-37
 
 🔎:
 
-- Tipo de tacón: Plano
-- Composición: Sintético
-- Revestimiento: Sin forro
-- Cierre: Tira de tobillo
-- Material exterior: Espuma
 - Material de la suela: Sintético
+- Cierre: Tira de tobillo
+- Tipo de tacón: Plano
+- Material exterior: Espuma
+- Revestimiento: Sin forro
+- Composición: Sintético
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0014C3WXK/?tag=tolees-21)
