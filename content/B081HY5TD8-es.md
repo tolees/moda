@@ -28,9 +28,9 @@ En este momento está [adidas Selección Española Temporada 2020/21 Camiseta Pr
 
 🔎:
 
-- Diseño de ajuste estándar y cuello de pico de canalé
 - Camiseta de fútbol para hombre
-- Luce un estampado abstracto diseñado a mano que rinde homenaje a la bandera Española
+- Diseño de ajuste estándar y cuello de pico de canalé
 - Fabricada en tejido transpirable que mantiene la piel fresca y seca
+- Luce un estampado abstracto diseñado a mano que rinde homenaje a la bandera Española
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B081HY5TD8/?tag=tolees-21)

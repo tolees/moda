@@ -28,9 +28,9 @@ Ahora mismo tienes [adidas Core18 PES Jkt Chaqueta de Deporte  Hombre  Rojo  Pow
 
 🔎:
 
-- Cuello altamente cerrable
 - Puños con puños elásticos
-- Material 100% poliéster
+- Cuello altamente cerrable
 - Chaqueta con bolsillos con cremallera
+- Material 100% poliéster
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B076PFD27Y/?tag=tolees-21)
