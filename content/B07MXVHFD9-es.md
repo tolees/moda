@@ -28,10 +28,10 @@ Tienes [Zhao Xuan Trade Jersey Bulls Masculino Campeón de la NBA Vintage Michae
 
 🔎:
 
-- Nombre y números: cosido.
-- Costura de alta calidad en la parte delantera / trasera de Jersey
 - Características: Transpirable, Secado rápido.
+- Costura de alta calidad en la parte delantera / trasera de Jersey
 - Estilo: camiseta de baloncesto sin mangas. Jersey perfecto para la fiesta de los 90, fiesta de jersey, Halloween y la vida diaria. Aviso: El tamaño es más grande de lo normal.
 - 100% poliéster, excelente tela
+- Nombre y números: cosido.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07MXVHFD9/?tag=tolees-21)

@@ -28,7 +28,7 @@ Está [Vero Moda Vmhot Nine HW Dnm Pencil Skirt Mix Noos Falda  Azul  Medium Blu
 
 ℹ️:
 
-- pencilskirt- elastic
 - high-waist denim skirt
+- pencilskirt- elastic
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B075Z5JG1J/?tag=tolees-21)
