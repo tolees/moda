@@ -28,12 +28,12 @@ Tienes [Geox U Renan A  Zapatillas Hombre  Azul  Navy C4002   43 EU](https://www
 
 🔎:
 
-- Revestimiento: Malla
-- Cierre: Cordones
-- Tipo de tacón: Plano
 - Material de la suela: Goma
-- Material exterior: Sintético
-- Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
+- Cierre: Cordones
 - Altura del tacón: 2.5 centímetros
+- Material exterior: Sintético
+- Tipo de tacón: Plano
+- Revestimiento: Malla
+- Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07SWSYMB4/?tag=tolees-21)
