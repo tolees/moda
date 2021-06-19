@@ -28,8 +28,8 @@ En este momento está [Lee Basic Zip Through Hoodie Sudadera con Capucha  Azul M
 
 🔎:
 
-- Corte regular
-- Manga larga
 - KnITS
+- Manga larga
+- Corte regular
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CVPDSHX/?tag=tolees-21)

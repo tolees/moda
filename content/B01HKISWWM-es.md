@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vans Hombre SPICOLI 4 SHADES Gafas de so al 40.33 % de descuento'
-date: 2021-06-18 11:15:16
+date: 2021-06-19 14:07:21
 image: 'https://m.media-amazon.com/images/I/31PGxHNq51L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Vans'
 buyurl: 'https://www.amazon.es/dp/B01HKISWWM/?tag=tolees-21'
 descuento: '40.33'
-average: '12.58'
+average: '11.975'
 ---
 
 Está [Vans Hombre SPICOLI 4 SHADES Gafas de sol  Negro  BLACK-WHITE ](https://www.amazon.es/dp/B01HKISWWM/?tag=tolees-21) con 40.33 de descuento por 8.95 EUR (original: 15.0 EUR) en el siguiente enlace!
