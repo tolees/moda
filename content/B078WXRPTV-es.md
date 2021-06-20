@@ -28,7 +28,7 @@ En este momento está [Only NOS Onlblush Mid SK ANK Raw Rea0730 Vaqueros  White 
 
 🔎:
 
-- elastic cotton quality
 - white jeans in ankle length
+- elastic cotton quality
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078WXRPTV/?tag=tolees-21)
