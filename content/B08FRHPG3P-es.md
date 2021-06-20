@@ -28,7 +28,7 @@ En este momento está [Jack & Jones JJELOGO tee SS O-Neck 2 Col SS21 Noos Camise
 
 🔎:
 
-- Corte ajustado, gran comodidad gracias a su fabricación de 100% algodón
 - Camiseta informal con cuello redondo y mangas cortas, logotipo de estilo vintage grande en la parte delantera
+- Corte ajustado, gran comodidad gracias a su fabricación de 100% algodón
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08FRHPG3P/?tag=tolees-21)
