@@ -28,10 +28,10 @@ Está [Inateck Funda Portátil Compatible con Surface Pro X/7/6/5/4  Maletín Pr
 
 ℹ️:
 
-- 5 Capas de Protección: 5 capas de protección de 360 ° evitan a los golpes, un forro interior resistente a arañazos y una correa elástica de PU fácil de llevar.
-- Dimensión interno:30,5×21,5×2 cm(12x8.5x0.8), Dimensión externo:33 x 24 x 4 cm(13x9.5x1.6), Gran compatible con Surface Pro X/ 7/6/5/4/3, 13 pulgadasMacBook Pro 2020-2016 (A2251/A2289A2159/A1989/A1706 /A1708),13 pulgadas MacBook Air 2020-2018 (A2179/A1932).
-- Un compartimiento lateral de accesorios como rató ns, revistas, libros, MP3, móviles
-- Las protecciones en los rincones internos no sólo protegen el portátil de los daños que la cremallera puede causar al abrirse o cerrarse, sino que también lo mantienen firme
 - A Prueba de Líquidos: El exterior tejido utiliza la prueba del líquido 600D resistente al desgaste para proteger su dispositivo contra derrames accidentales.
+- Las protecciones en los rincones internos no sólo protegen el portátil de los daños que la cremallera puede causar al abrirse o cerrarse, sino que también lo mantienen firme
+- Un compartimiento lateral de accesorios como rató ns, revistas, libros, MP3, móviles
+- Dimensión interno:30,5×21,5×2 cm(12x8.5x0.8), Dimensión externo:33 x 24 x 4 cm(13x9.5x1.6), Gran compatible con Surface Pro X/ 7/6/5/4/3, 13 pulgadasMacBook Pro 2020-2016 (A2251/A2289A2159/A1989/A1706 /A1708),13 pulgadas MacBook Air 2020-2018 (A2179/A1932).
+- 5 Capas de Protección: 5 capas de protección de 360 ° evitan a los golpes, un forro interior resistente a arañazos y una correa elástica de PU fácil de llevar.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B071FQCLHR/?tag=tolees-21)
