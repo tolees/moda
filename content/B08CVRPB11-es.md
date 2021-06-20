@@ -28,8 +28,8 @@ Está [Tommy Hilfiger 1985 Slim Polo  Camisa de polo Hombre  Oxígeno  M](https:
 
 ℹ️:
 
-- Modelo de corte slim
 - Con detalles distintivos de Tommy Hilfiger
 - Logo de Tommy Hilfiger bordado en el pecho
+- Modelo de corte slim
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08CVRPB11/?tag=tolees-21)

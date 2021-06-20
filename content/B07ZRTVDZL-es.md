@@ -28,7 +28,7 @@ Ahora mismo tienes [Vero Moda Vmawardsif HW Short Coated Skirt Falda  Negro  Bla
 
 🔎:
 
-- Leather skirt
 - Skirt with fake Leather
+- Leather skirt
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07ZRTVDZL/?tag=tolees-21)
