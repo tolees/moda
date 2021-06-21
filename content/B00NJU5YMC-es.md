@@ -28,8 +28,8 @@ Tienes [Arena CRUISER SOFT JR Gafas de natación  Infantil  Azul  clear/blue/blu
 
 ℹ️:
 
+- Gafas de natación Natación Unisex Adulto
 - cruiser soft jr (000001e002)
 - Material duro arena
-- Gafas de natación Natación Unisex Adulto
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00NJU5YMC/?tag=tolees-21)

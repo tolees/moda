@@ -28,10 +28,10 @@ Está [Clarks Maritsa Lara  Sandalias de Talón Abierto Mujer  Rosa  Fuchsia Sue
 
 ℹ️:
 
-- Forro: Cuero
-- Superiores: Ante
-- Suela: Sintética
 - Fijación: Riptape
 - Altura Del Talón: 7.5cm
+- Superiores: Ante
+- Suela: Sintética
+- Forro: Cuero
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07TLP4D1M/?tag=tolees-21)
