@@ -28,8 +28,8 @@ Tienes [JACK & JONES SENSE TRUNKS 3-PACK Bóxer  Blanco  X-Large  Pack de 3  par
 
 ℹ️:
 
-- Estiramiento
 - Paquete Triple
+- Estiramiento
 - Conjunto De Calzoncillos Boxer
 - Pretina Ancha
 

@@ -28,15 +28,15 @@ Está [Helly Hansen Logo Hoodie HH Sudadera con Capucha  Hombre  Azul Marino  M]
 
 ℹ️:
 
-- 70% algodón, 30% poliéster
+- Hh logo hoodie
+- Sudadera ajustable para hombres, confeccionada con suave felpa francesa; imprescindible para las noches de verano o para usar debajo de una chaqueta en invierno
+- No aplicable
 - Multipack: 1
-- Closure: zipper; tipo de deporte: sportswear; tipo de fábrica: Compuesto; tipo de deporte: Sportswear
 - Cuenta con el logotipo de Helly Hansen estampado en el pecho, con una capucha ajustable con cordón grueso y con un forro en jersey para mayor protección
 - Multipack: 1
-- Closure: zipper
-- Sudadera ajustable para hombres, confeccionada con suave felpa francesa; imprescindible para las noches de verano o para usar debajo de una chaqueta en invierno
-- Hh logo hoodie
+- Closure: zipper; tipo de deporte: sportswear; tipo de fábrica: Compuesto; tipo de deporte: Sportswear
 - 70% algodón, 30% poliéster
-- No aplicable
+- 70% algodón, 30% poliéster
+- Closure: zipper
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B073RNYJM6/?tag=tolees-21)

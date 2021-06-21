@@ -28,8 +28,8 @@ Está [Havaianas Brasil Logo  Chanclas Unisex Adulto Flip-Flop  BLU Navy Blue  4
 
 ℹ️:
 
+- Chanclas tiempo libre y sportwear unisex adulto
 - Calzado havaianas
 - Hav; brasil logo (4110850)
-- Chanclas tiempo libre y sportwear unisex adulto
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07TCD41GJ/?tag=tolees-21)
