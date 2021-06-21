@@ -29,8 +29,8 @@ Tienes [camel active 4096445T26 Camiseta  Asfalto  L para Hombre](https://www.am
 🔎:
 
 - Cuello redondo
-- 100 % algodón
 - Logotipo de Camel Active bordado en las mangas
+- 100 % algodón
 - Estampado frontal colocado
 - Corte estándar
 
