@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Only & Sons Onsmatt Longy SS tee Noos Ca al 62.31 % de descuento'
-date: 2021-06-16 14:39:15
+date: 2021-06-21 11:54:28
 image: 'https://m.media-amazon.com/images/I/31ab6sO5plS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Only & Sons'
 buyurl: 'https://www.amazon.es/dp/B01EXFEWSS/?tag=tolees-21'
 descuento: '62.31'
-average: '6.98333333333333'
+average: '6.79285714285714'
 ---
 
 Está [Only & Sons Onsmatt Longy SS tee Noos Camiseta  Blanco  White White   Medium para Hombre](https://www.amazon.es/dp/B01EXFEWSS/?tag=tolees-21) con 62.31 de descuento por 5.65 EUR (original: 14.99 EUR) en el siguiente enlace!
