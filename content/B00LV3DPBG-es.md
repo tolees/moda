@@ -29,9 +29,9 @@ En este momento está [Helly Hansen HH QD Cargo Shorts 11 - Pantalón corto para
 🔎:
 
 - Mosca de cremallera con cierre de cintura de botón plano simple para un volumen mínimo. Bolsillos de cadera inclinados. Dos bolsillos de carga con cierre oculto. Bolsillo trasero seguro con cierre de cremallera YKK. Hebillas de cinturon. UPF 40+
-- Estos pantalones cortos están hechos de material de estiramiento rápido y seco para mayor comodidad y ajuste perfecto y tienen todos los bolsillos que necesita para transportar todos sus elementos esenciales.
 - Bolsillos forrados con malla. Gusset de entrepierna para la libertad de movimiento. Logotipo HH impreso en la solapa del bolsillo del muslo
-- Poliamida de secado rápido, de secado rápido, de 140 g / m²
 - Pantalones cortos de carga al aire libre resistentes diseñados para todas sus aventuras al aire libre.
+- Poliamida de secado rápido, de secado rápido, de 140 g / m²
+- Estos pantalones cortos están hechos de material de estiramiento rápido y seco para mayor comodidad y ajuste perfecto y tienen todos los bolsillos que necesita para transportar todos sus elementos esenciales.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00LV3DPBG/?tag=tolees-21)
