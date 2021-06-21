@@ -28,9 +28,9 @@ Está [Polaroid P4314 Y2 A4X 63 Gafas de sol  Gris  Gun/Grey Polarized   Hombre]
 
 ℹ️:
 
-- Lentes no Polarizados
-- Montura completa
-- Gafas de sol Rectangular
 - Almohadillas moldeadas para la nariz
+- Montura completa
+- Lentes no Polarizados
+- Gafas de sol Rectangular
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00I7OBFO6/?tag=tolees-21)
