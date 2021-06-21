@@ -28,8 +28,8 @@ Ahora mismo tienes [Pepe Jeans Regent Emerald Vaqueros Pitillo  Azul  Denim 000 
 
 🔎:
 
-- Diseño de cuatro bolsillos
 - Vaqueros para hombre
+- Diseño de cuatro bolsillos
 - Tienen un parche de cuero con el logo de la marca
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07X1LN9N2/?tag=tolees-21)
