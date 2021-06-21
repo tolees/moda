@@ -28,8 +28,8 @@ Ahora mismo tienes [PUMA Men s Spacedye Stripe Boxer  2 Pack  Ropa Interior  Azu
 
 🔎:
 
-- Yarn teñido con rayas de contraste.
 - Cintura con logotipo de Puma.
 - Bóxer clásico
+- Yarn teñido con rayas de contraste.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B089QM1NG7/?tag=tolees-21)
