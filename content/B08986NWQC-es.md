@@ -28,9 +28,9 @@ Está [Hurley M One&Only Pullover Sudadera  Hombre  Black  S](https://www.amazon
 
 ℹ️:
 
-- Ajuste normal
-- Etiqueta tejida One & Only
-- 80% algodón, 20% poliéster
 - Serigrafía en el parte delantera
+- Etiqueta tejida One & Only
+- Ajuste normal
+- 80% algodón, 20% poliéster
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08986NWQC/?tag=tolees-21)
