@@ -29,9 +29,9 @@ Está [Crocs Baya  Zuecos Unisex Adulto  Marrón  Espresso   41/42 EU](https://w
 ℹ️:
 
 - Tipo de tacón: Plano
-- Material de la suela: Goma
 - Cierre: Sin cordones
-- Revestimiento: Sin forro
 - Material exterior: Espuma
+- Revestimiento: Sin forro
+- Material de la suela: Goma
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01MYDXTCN/?tag=tolees-21)
