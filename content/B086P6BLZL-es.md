@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Manchester City Temporada 2020/21-H al 31.68 % de descuento'
-date: 2021-06-12 16:44:21
+date: 2021-06-22 10:43:13
 image: 'https://m.media-amazon.com/images/I/51dNrFIDjgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -13,7 +13,7 @@ actualPrice: 47.79 EUR
 currency: EUR
 price: 47.79
 comparePrice: 69.95 EUR
-prodname: 'PUMA Manchester City Temporada 2020/21-HOME Shirt Replica SS Kids with SP Camiseta Primera Equipación  Niño  Team Light Blue-Peacoat  128'
+prodname: 'PUMA Manchester City Temporada 2020/21-HOME Shirt Replica SS Kids with SP Camiseta Primera Equipación  Unisex niños  Team Light Blue-Peacoat  128'
 country: 'es'
 flag: '🇪🇸'
 brand: 'PUMA'
@@ -22,16 +22,16 @@ descuento: '31.68'
 average: '47.79'
 ---
 
-Está [PUMA Manchester City Temporada 2020/21-HOME Shirt Replica SS Kids with SP Camiseta Primera Equipación  Niño  Team Light Blue-Peacoat  128](https://www.amazon.es/dp/B086P6BLZL/?tag=tolees-21) con 31.68 de descuento por 47.79 EUR (original: 69.95 EUR) en el siguiente enlace!
+Está [PUMA Manchester City Temporada 2020/21-HOME Shirt Replica SS Kids with SP Camiseta Primera Equipación  Unisex niños  Team Light Blue-Peacoat  128](https://www.amazon.es/dp/B086P6BLZL/?tag=tolees-21) con 31.68 de descuento por 47.79 EUR (original: 69.95 EUR) en el siguiente enlace!
 
 [![PUMA Manchester City Temporada 2020/21-H](https://m.media-amazon.com/images/I/51dNrFIDjgL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B086P6BLZL/?tag=tolees-21)
 
 ℹ️:
 
-- Corte normal
-- Medio cuello redondo acanalado
-- Escudo oficial del Manchester City tejido en relieve en la parte izquierda del pecho
 - Construcción combinada con Formstrip PUMA en los hombros y el panel trasero
+- Corte normal
+- Escudo oficial del Manchester City tejido en relieve en la parte izquierda del pecho
 - Logotipo del PUMA en la parte derecha del pecho y en las mangas
+- Medio cuello redondo acanalado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B086P6BLZL/?tag=tolees-21)
