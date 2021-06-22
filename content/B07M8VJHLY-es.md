@@ -28,8 +28,8 @@ En este momento está [Lee Logo SWS Sudadera  Rojo  Warp Red KG   Small para Muj
 
 🔎:
 
+- Acogedor con puños, cuello y dobladillo de canalé
 - Sudadera para mujer
 - Con el logo de la marca estampado en el pecho
-- Acogedor con puños, cuello y dobladillo de canalé
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07M8VJHLY/?tag=tolees-21)
