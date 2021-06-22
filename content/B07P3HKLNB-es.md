@@ -28,10 +28,10 @@ En este momento está [Camper Micro  Sandalias con Punta Abierta Mujer  Rosa  Li
 
 🔎:
 
-- Sistema de cierre de Velcro para un fácil ajuste
 - Empeine: Piel (Piel vacuna)
+- Color: Blanco roto
+- Sistema de cierre de Velcro para un fácil ajuste
 - Suela/Características: TPU con un agarre extraordinario
 - Forro:
-- Color: Blanco roto
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07P3HKLNB/?tag=tolees-21)
