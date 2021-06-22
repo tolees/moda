@@ -28,7 +28,7 @@ Está [FILA Disruptor A kids zapatilla Unisex niños  beige  Marshmallow   32 EU
 
 ℹ️:
 
-- Suela exterior gruesa
 - Leopard mesh
+- Suela exterior gruesa
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08FNBVNK6/?tag=tolees-21)

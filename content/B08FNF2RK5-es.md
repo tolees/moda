@@ -28,7 +28,7 @@ Tienes [FILA Disruptor F kids zapatilla Unisex niños  negro  Black   38 EU](htt
 
 ℹ️:
 
-- Suela exterior gruesa
 - Piel sintética de serpiente
+- Suela exterior gruesa
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08FNF2RK5/?tag=tolees-21)

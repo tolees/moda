@@ -28,8 +28,8 @@ Está [G-STAR RAW Holorn R T S/S Camiseta  Negro  Black 990   Large para Hombre]
 
 ℹ️:
 
+- Corte regular
 - Gráfico estampado
 - Cuello acanalado
-- Corte regular
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B076ZWVRHC/?tag=tolees-21)
