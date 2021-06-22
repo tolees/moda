@@ -32,7 +32,7 @@ Tienes [Havaianas You Metallic  Sandalias para Mujer  Plateado  Steel Grey   39/
 - Tipo de talla: talla estándar
 - Cierre: Sin cordones
 - Material exterior: Caucho
-- Tipo de tacón: plano
 - Revestimiento: Caucho
+- Tipo de tacón: plano
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B015SGHF5S/?tag=tolees-21)
