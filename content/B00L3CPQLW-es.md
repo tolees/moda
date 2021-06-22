@@ -28,10 +28,10 @@ En este momento está [Camper Nautico  Zapatos para Hombre  Marrón  Medium Brow
 
 🔎:
 
+- Costura a lo largo de todo el borde para mayor durabilidad
+- Color: Marrón
 - Empeine: Piel (Piel vacuna)
 - Forro:
 - Suela/Características: Goma con un agarre extraordinario
-- Color: Marrón
-- Costura a lo largo de todo el borde para mayor durabilidad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00L3CPQLW/?tag=tolees-21)
