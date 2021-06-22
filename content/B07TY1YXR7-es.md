@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lee Luke Jeans Vaqueros  Black Rinse 47  al 27.75 % de descuento'
-date: 2021-06-21 04:56:40
+date: 2021-06-22 08:16:33
 image: 'https://m.media-amazon.com/images/I/31Xs8cQ2uLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Ahora mismo tienes [Lee Luke Jeans Vaqueros  Black Rinse 47  27W / 32L para Homb
 
 🔎:
 
+- Vaqueros para hombre
 - Estilo 5 bolsillos
 - Tienen un parche de piel en la parte trasera con la marca Lee
-- Vaqueros para hombre
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TY1YXR7/?tag=tolees-21)
