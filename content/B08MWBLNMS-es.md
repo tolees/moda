@@ -28,10 +28,10 @@ En este momento está [Morgan Robe AJUSTEE Col V EPAULEE 211-RAFFY.F Vestido  Ne
 
 🔎:
 
-- Cuello en V
-- hombro
 - Corte ajustado
-- Manga corta
+- hombro
 - Vestido ajustado, cuello en V, para mujer
+- Cuello en V
+- Manga corta
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08MWBLNMS/?tag=tolees-21)
