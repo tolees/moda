@@ -28,10 +28,10 @@ Ahora mismo tienes [Morgan Robe Trench RISETTE Vestido Informal  Chamoix  36 par
 
 🔎:
 
-- Vestido corto
-- Corte cartera
-- Vestido de cartera
-- Cuello de chal efecto cruzado
 - Vestido piping de piel sintética en contraste con cuello de chal
+- Cuello de chal efecto cruzado
+- Vestido de cartera
+- Corte cartera
+- Vestido corto
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08C7XTJLD/?tag=tolees-21)

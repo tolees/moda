@@ -29,9 +29,9 @@ Tienes [Morgan Robe AJUSTEE Ceinture Decorative 211-RDOTIE.F Vestido  Negro  38 
 🔎:
 
 - Vestido ajustado con cinturón decorativo.
-- Corte ajustado.
-- Cuello en V.
-- Cinturón para joyas.
 - Manga corta.
+- Corte ajustado.
+- Cinturón para joyas.
+- Cuello en V.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08MWBW1Q4/?tag=tolees-21)
