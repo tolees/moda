@@ -28,10 +28,10 @@ Tienes [Kipling Creativity XL  Accesorio Billetera de Viaje para Mujer  Coral  T
 
 🔎:
 
+- Ligero
+- 0,1 kg
 - Mono robot de silicona - pequeño
 - 62% poliéster, 38% poliéster reciclado
 - Femenino
-- Ligero
-- 0,1 kg
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08CX78ZH9/?tag=tolees-21)

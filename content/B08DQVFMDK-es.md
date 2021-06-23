@@ -28,10 +28,10 @@ En este momento está [Lonheo Grifo Cocina Negro con Sensor Táctil de Alta Tecn
 
 🔎:
 
-- 𝐆𝐚𝐫𝐚𝐧𝐭í𝐚 𝐋𝐨𝐧𝐠𝐞𝐯𝐚: Todos los grifos tienen una garantía de 3 años, si se aparece alguno problema, conéctanos en cualquier tiempo por favor.
-- 𝐀𝐥𝐭𝐚 𝐂𝐚𝐥𝐢𝐝𝐚𝐝: Nuestros productos se hacen de Acero Inoxidable 304 resistente a la corroción y al óxido, se trata de sano y saludable para su salud.
-- 𝐅á𝐜𝐢𝐥 𝐈𝐧𝐬𝐭𝐚𝐥𝐚𝐜𝐢ó𝐧: Cada artículo se contiene un paquete de instrucciones de manual comprensible y detallada aquí, por lo que esto no debería ser un problema.
 - 𝐒𝐞𝐧𝐬𝐨𝐫 𝐓á𝐜𝐭𝐢𝐥: Puede salir y detener el flujo de agua con tocar el área del tubo en U del grifo, es muy conveniente a utilizar.(Se requieren 4 pilas AA, no incluidas).
+- 𝐆𝐚𝐫𝐚𝐧𝐭í𝐚 𝐋𝐨𝐧𝐠𝐞𝐯𝐚: Todos los grifos tienen una garantía de 3 años, si se aparece alguno problema, conéctanos en cualquier tiempo por favor.
+- 𝐅á𝐜𝐢𝐥 𝐈𝐧𝐬𝐭𝐚𝐥𝐚𝐜𝐢ó𝐧: Cada artículo se contiene un paquete de instrucciones de manual comprensible y detallada aquí, por lo que esto no debería ser un problema.
+- 𝐀𝐥𝐭𝐚 𝐂𝐚𝐥𝐢𝐝𝐚𝐝: Nuestros productos se hacen de Acero Inoxidable 304 resistente a la corroción y al óxido, se trata de sano y saludable para su salud.
 - 𝐍𝐨𝐭𝐚 𝐝𝐞 𝐀𝐭𝐞𝐧𝐜𝐢ó𝐧: Cuando está a un nivel de alta temperatura, el sensor va a suspender funcionar para evitar que usted y su familia se queman.Se pone a normal después de enfriarse.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08DQVFMDK/?tag=tolees-21)
