@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox J FLEXYPER Boy C  Zapatillas  Negro con un 50.00 % de descuento'
-date: 2021-06-20 13:30:39
+date: 2021-06-23 11:17:46
 image: 'https://m.media-amazon.com/images/I/413EruqHf0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

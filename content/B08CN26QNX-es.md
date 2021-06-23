@@ -28,7 +28,7 @@ Está [Desigual Fabric Shoulder Bag  Bolso bandolera. para Mujer  verde  U](http
 
 ℹ️:
 
-- 55% JUTE 35% COTTON 8% VISCOSE 2% LYOCELL
 - Estampado floral sobre loneta caqui
+- 55% JUTE 35% COTTON 8% VISCOSE 2% LYOCELL
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08CN26QNX/?tag=tolees-21)

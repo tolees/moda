@@ -28,9 +28,9 @@ Ahora mismo tienes [cotton division T-Shirt Venom Camiseta  Negro  S para Hombre
 
 🔎:
 
-- 100% algodón
-- Todos nuestros productos son nuevos y en su embalaje original.
 - negro
+- 100% algodón
 - Camiseta Venom Marvel - We Are Venom Licencia oficial
+- Todos nuestros productos son nuevos y en su embalaje original.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07Q74GT7C/?tag=tolees-21)
