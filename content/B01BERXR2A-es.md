@@ -28,10 +28,10 @@ Ahora mismo tienes [Vans Doheny  Sneaker Hombre  Vestido de Lona Azul Blanco  48
 
 🔎:
 
-- Ojales de metal
-- Construcción vulcanizada
-- Parte superior de doble costura para mayor durabilidad
 - Suela original de waffle
+- Ojales de metal
+- Parte superior de doble costura para mayor durabilidad
 - Lengüeta y cuello acolchados
+- Construcción vulcanizada
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01BERXR2A/?tag=tolees-21)
