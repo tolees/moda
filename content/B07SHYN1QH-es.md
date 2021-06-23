@@ -28,8 +28,8 @@ Está [Levi s June L  Chanclas Hombre  Negro  R Black 59   40 EU](https://www.am
 
 ℹ️:
 
-- Levis Negro Deslizadores de junio
 - Ver descripción del producto para obtener más información.
+- Levis Negro Deslizadores de junio
 - A estrenar y genuina. Somos un vendedor autorizado de Levis.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07SHYN1QH/?tag=tolees-21)

@@ -28,11 +28,11 @@ Tienes [Crocs Classic  Zuecos Unisex Adulto  Navy  43/44 EU](https://www.amazon.
 
 ℹ️:
 
-- Revestimiento: Sin forro
-- Material de la suela: Sintético
-- Composición: Sintético
 - Cierre: Tira de tobillo
+- Material de la suela: Sintético
+- Revestimiento: Sin forro
 - Material exterior: Espuma
+- Composición: Sintético
 - Tipo de tacón: Plano
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0014C5USU/?tag=tolees-21)
