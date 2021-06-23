@@ -29,8 +29,8 @@ Ahora mismo tienes [Clarks Un Maui Lace  Zapatos de Cordones Derby  Beige  Nude 
 🔎:
 
 - Suela: goma.
-- Material exterior: piel lisa.
-- Suela: poliuretano.
 - Material interior: piel.
+- Suela: poliuretano.
+- Material exterior: piel lisa.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07FSPZRPL/?tag=tolees-21)

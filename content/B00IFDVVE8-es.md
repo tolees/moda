@@ -28,9 +28,9 @@ En este momento está [Zapatilla Soft Negro Paredes Estrella - Cordones - Talla 
 
 🔎:
 
-- FLEXIBILIDAD Suela de poliuretano que amortigua la pisada y consigue máxima ligereza y flexibilidad
 - HORMA ANCHA Zona de pisada anatómica que reproduce la forma del pie desnudo
-- LARGA DURACIÓN Corte en piel flor de alta calidad que aportan resistencia y durabilidad al zapato
 - TRANSPIRABLE Las perforaciones en el corte del zapato facilitan la transpiración del pie
+- FLEXIBILIDAD Suela de poliuretano que amortigua la pisada y consigue máxima ligereza y flexibilidad
+- LARGA DURACIÓN Corte en piel flor de alta calidad que aportan resistencia y durabilidad al zapato
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00IFDVVE8/?tag=tolees-21)

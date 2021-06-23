@@ -29,7 +29,7 @@ Tienes [Roxy Viva Stamp  Zapatos de Playa y Piscina para Mujer  Plateado  Silver
 🔎:
 
 - __Plantilla:__ Plantilla de goma texturizada con gráfico
-- __Parte superior:__ Parte superior de goma con pin metálico ROXY
 - __suela exterior:__suela exterior de goma con estampado ROXY vintage
+- __Parte superior:__ Parte superior de goma con pin metálico ROXY
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07SRV879M/?tag=tolees-21)
