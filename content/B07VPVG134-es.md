@@ -29,9 +29,9 @@ Tienes [GHYUGR Sudadera con Capucha Hombre Contraste con Bolsillo Otoño Inviern
 🔎:
 
 - Hecho de alta calidad, suave, cómodo y con buena permeabilidad al aire.
-- El estilo clásico no es fácil de pasar de moda,se puede combinar con jeans y todo tipo de abrigos.
 - Sudaderas con capucha unisex
-- ATENCIÓN: asegúrese de elegir "Vendido por GHYUGR" ANTES de agregarlo al carrito. ¡O recibirá una FALSA CHAQUETA Y PÉRDIDA de dinero!
 - Detalles:mangas largas,enorme bolsillo frontal,cuello redondo.
+- ATENCIÓN: asegúrese de elegir "Vendido por GHYUGR" ANTES de agregarlo al carrito. ¡O recibirá una FALSA CHAQUETA Y PÉRDIDA de dinero!
+- El estilo clásico no es fácil de pasar de moda,se puede combinar con jeans y todo tipo de abrigos.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07VPVG134/?tag=tolees-21)
