@@ -28,8 +28,8 @@ Ahora mismo tienes [Columbia CSC Basic Youth Camiseta Estampada De Manga Corta  
 
 🔎:
 
-- Color: negro negro shark heather
-- Columbia CSC basic YOUTH camiseta estampada de manga corta
 - Talla: XS
+- Columbia CSC basic YOUTH camiseta estampada de manga corta
+- Color: negro negro shark heather
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B081B6F7RT/?tag=tolees-21)
