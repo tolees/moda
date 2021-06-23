@@ -28,8 +28,8 @@ Tienes [BOSS Trunk CO/EL Bóxer  Multicolor  Assorted Pre-Pack 999   Medium 3 pa
 
 🔎:
 
-- Con el logo de Hugo Boss en la cintura
 - Con cintura elástica
 - Calzoncillos bóxer para hombre
+- Con el logo de Hugo Boss en la cintura
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01JZD9TLI/?tag=tolees-21)
