@@ -28,7 +28,7 @@ En este momento está [Esprit North Beach H.Shorts Braguita de Bikini  Azul  Dar
 
 🔎:
 
-- Mezcla de tejidos elástica de secado rápido, perneras algo recortadas
 - Culotte de bikini con lazada, corte ajustado a la cadera, en un solo color con lazada a rayas
+- Mezcla de tejidos elástica de secado rápido, perneras algo recortadas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07XCYF6M3/?tag=tolees-21)
