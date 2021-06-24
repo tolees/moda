@@ -29,7 +29,7 @@ Está [Tommy Hilfiger Tommy Logo tee Camiseta  Negro  Jet Black Base   Small par
 ℹ️:
 
 - Logo de Tommy Hilfiger en el pecho
-- Cinta distintiva en el cuello
 - Logo de Tommy Hilfiger bordado en la manga
+- Cinta distintiva en el cuello
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07QR6VHKC/?tag=tolees-21)
