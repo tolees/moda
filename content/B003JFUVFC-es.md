@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Ray-Ban New Wayfarer  Gafas de Sol Unise con un 31.85 % de descuento'
-date: 2021-06-22 01:44:43
+title: 'Ray-Ban New Wayfarer  Gafas de Sol Unise con un 33.21 % de descuento'
+date: 2021-06-24 01:32:09
 image: 'https://m.media-amazon.com/images/I/211-Qtq0GUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,27 +9,27 @@ author: 'tole.es'
 slug: 'B003JFUVFC-es Ray-Ban New Wayfarer Gafas de Sol Unisex adulto Negro...'
 sku: 'B003JFUVFC-es'
 tags: [ 'Accesorios para hombre','Gafas de sol para hombre','Gafas y accesorios para hombre','Ropa','Ropa para hombre','gafas','ray-ban', ]
-actualPrice: 89.96 EUR
+actualPrice: 88.16 EUR
 currency: EUR
-price: 89.96
+price: 88.16
 comparePrice: 132.0 EUR
 prodname: 'Ray-Ban New Wayfarer  Gafas de Sol Unisex adulto  Negro  Matte Black 622   52 mm'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Ray-Ban'
 buyurl: 'https://www.amazon.es/dp/B003JFUVFC/?tag=tolees-21'
-descuento: '31.85'
-average: '90.4044444444444'
+descuento: '33.21'
+average: '90.1799999999999'
 ---
 
-En este momento está [Ray-Ban New Wayfarer  Gafas de Sol Unisex adulto  Negro  Matte Black 622   52 mm](https://www.amazon.es/dp/B003JFUVFC/?tag=tolees-21) a 89.96 EUR (original: 132.0 EUR) (31.85 %  de descuento) en el siguiente enlace!
+En este momento está [Ray-Ban New Wayfarer  Gafas de Sol Unisex adulto  Negro  Matte Black 622   52 mm](https://www.amazon.es/dp/B003JFUVFC/?tag=tolees-21) a 88.16 EUR (original: 132.0 EUR) (33.21 %  de descuento) en el siguiente enlace!
 
 [![Ray-Ban New Wayfarer  Gafas de Sol Unise](https://m.media-amazon.com/images/I/211-Qtq0GUL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B003JFUVFC/?tag=tolees-21)
 
 🔎:
 
-- Materiales de alta calidad y logotipo grabado en el lente
 - Ray-Ban combina el estilo excepcional con lo último en innovación científica
 - Tamaño: 52/18/145
+- Materiales de alta calidad y logotipo grabado en el lente
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B003JFUVFC/?tag=tolees-21)

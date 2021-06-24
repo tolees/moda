@@ -28,10 +28,10 @@ Ahora mismo tienes [Camper Neuman Zapatos Oxford  Hombre  Marrón  Dark Brown 20
 
 🔎:
 
-- EXTRALIGHT XL para una mayor ligereza y amortiguación
 - Suela/Características: EVA con cortes verticales y una ligereza extraordinaria
-- Empeine: Piel (Piel vacuna)
-- Color: Marrón oscuro
 - Forro:
+- Color: Marrón oscuro
+- EXTRALIGHT XL para una mayor ligereza y amortiguación
+- Empeine: Piel (Piel vacuna)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01MTERBG2/?tag=tolees-21)
