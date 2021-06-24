@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 15.11 % en Levi s LS Battery HM Shirt Slim Camisa  '
-date: 2021-06-21 23:08:32
+date: 2021-06-24 10:46:43
 image: 'https://m.media-amazon.com/images/I/31eUnjI45pL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07ZVQK4L5/?tag=tolees-21'
 descuento: '15.11'
-average: '29.86'
+average: '29.865625'
 ---
 
 Tienes [Levi s LS Battery HM Shirt Slim Camisa  Dusky Citron  S para Hombre](https://www.amazon.es/dp/B07ZVQK4L5/?tag=tolees-21) con un 15.11 % de descuento con precio de oferta de 29.95 EUR (original: 35.28 EUR) en el siguiente enlace!
