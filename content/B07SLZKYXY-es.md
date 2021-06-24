@@ -28,11 +28,11 @@ Ahora mismo tienes [Havaianas Luna  Sandalias de Talón Abierto para Niñas  Ros
 
 🔎:
 
-- Material exterior: Caucho
-- Cierre: Sin cordones
-- Revestimiento: Sin forro
-- Tipo de tacón: Plano
-- Material de la suela: Caucho
 - Anchura del zapato: Normal
+- Material exterior: Caucho
+- Material de la suela: Caucho
+- Tipo de tacón: Plano
+- Revestimiento: Sin forro
+- Cierre: Sin cordones
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SLZKYXY/?tag=tolees-21)

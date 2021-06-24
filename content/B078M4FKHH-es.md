@@ -28,12 +28,12 @@ Tienes [Havaianas Luna  Sandalias de Talón Abierto para Mujer  Gris  Steel Gray
 
 🔎:
 
-- Tipo de tacón: Plano
-- Revestimiento: Sin forro
-- Cierre: Sin cordones
-- Altura del tacón: 2 centímetros
-- Material de la suela: Goma
 - Material exterior: Caucho
+- Cierre: Sin cordones
 - Anchura del zapato: Normal
+- Material de la suela: Goma
+- Altura del tacón: 2 centímetros
+- Revestimiento: Sin forro
+- Tipo de tacón: Plano
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B078M4FKHH/?tag=tolees-21)
