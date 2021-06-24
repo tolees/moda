@@ -28,10 +28,10 @@ Ahora mismo tienes [Timberland Newport Bay 2 Strap Oxford  Toddler   Zapatillas 
 
 🔎:
 
+- Timberland
+- Newport Bay 2-Strap Oxford
 - Bajo-top
 - Tela superior
 - Cierre Bucle de gancho
-- Newport Bay 2-Strap Oxford
-- Timberland
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07T6N2DBZ/?tag=tolees-21)
