@@ -28,8 +28,8 @@ Tienes [Tommy Hilfiger Tommy Hilfiger Logo T-Shirt  Camiseta Informal Hombre  Bl
 
 🔎:
 
+- Logo de Tommy Hilfiger bordado en la manga
 - Cinta distintiva en el cuello
 - Logo de Tommy Hilfiger en el pecho
-- Logo de Tommy Hilfiger bordado en la manga
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07JYRK4WY/?tag=tolees-21)

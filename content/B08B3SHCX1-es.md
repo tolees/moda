@@ -28,7 +28,7 @@ Está [Lacoste TH6709 Camiseta  Cerfeuil  XS para Hombre](https://www.amazon.es/
 
 ℹ️:
 
-- Punto liso de algodón Pima
 - Regular fit
+- Punto liso de algodón Pima
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08B3SHCX1/?tag=tolees-21)

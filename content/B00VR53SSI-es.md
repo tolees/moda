@@ -28,8 +28,8 @@ En este momento está [Skechers Stamina-Cutback  Zapatilla Deportiva con Cordone
 
 🔎:
 
+- Mens Stamina Cutback Low Top Sneaker Shoes
 - Style Number: 51286
 - Trubuck durable leather upper. Synthetic overlays. Mesh fabric panels for cooling effect. Lace up athletic training sneaker design. Stitching accents. Durable synthetic toe and heel bumper overlays. Reflective synthetic edging trim. Breathable cordura mes
-- Mens Stamina Cutback Low Top Sneaker Shoes
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00VR53SSI/?tag=tolees-21)

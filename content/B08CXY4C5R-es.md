@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.03 % en Lee Luke Jeans Vaqueros  Mid Stone Wash '
-date: 2021-06-23 18:27:14
+date: 2021-06-24 20:41:01
 image: 'https://m.media-amazon.com/images/I/41Xr745NkJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [Lee Luke Jeans Vaqueros  Mid Stone Wash  33W / 34L para Hombre](https://
 
 ℹ️:
 
-- Tejido vaquero elástico
 - Tapizado fino
 - Transparente
+- Tejido vaquero elástico
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08CXY4C5R/?tag=tolees-21)

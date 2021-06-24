@@ -28,8 +28,8 @@ En este momento está [Levi s Vneck Camiseta  Annalise Stripe Sepia Rose  XS par
 
 🔎:
 
-- Con suave tejido y el corte clásico
 - Tiene bordado en el pecho la marca Levis
+- Con suave tejido y el corte clásico
 - Modelo casual
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07ZVQ98HY/?tag=tolees-21)
