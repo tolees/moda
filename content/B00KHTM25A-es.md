@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Descuento del 48.37 % en Under Armour UA Heatgear Short Sleeve Ca'
-date: 2020-06-24 01:41:32
-image: 'https://m.media-amazon.com/images/I/41Q9U60nDyL._SL400_.jpg'
+title: 'Descuento del 20.33 % en Under Armour UA Heatgear Short Sleeve Ca'
+date: 2021-06-25 18:40:36
+image: 'https://m.media-amazon.com/images/I/31d4Gs19+yL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B00KHTM25A-es Under Armour UA Heatgear Short Sleeve Camiseta Hombre...'
 sku: 'B00KHTM25A-es'
-tags: [ 'camiseta', ]
-actualPrice: 15.49 EUR
+tags: [ 'Camisetas deportivas para hombre','Ropa','Ropa deportiva para hombre','Ropa para hombre','camiseta','under armour', ]
+actualPrice: 23.9 EUR
 currency: EUR
-price: 15.49
+price: 23.9
 comparePrice: 30.0 EUR
-prodname: 'Under Armour UA Heatgear Short Sleeve Camiseta  Hombre  Negro  Black/Steel 001   M'
+prodname: 'Under Armour UA Heatgear Short Sleeve Camiseta  Hombre  Negro  Black/Steel   M'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Under Armour'
 buyurl: 'https://www.amazon.es/dp/B00KHTM25A/?tag=tolees-21'
-descuento: '48.37'
-average: '18.077142857142857'
+descuento: '20.33'
+average: '18.805'
 ---
 
-Tienes [Under Armour UA Heatgear Short Sleeve Camiseta  Hombre  Negro  Black/Steel 001   M](https://www.amazon.es/dp/B00KHTM25A/?tag=tolees-21) con un 48.37 % de descuento con precio de oferta de 15.49 EUR (original: 30.0 EUR) en el siguiente enlace!
+Tienes [Under Armour UA Heatgear Short Sleeve Camiseta  Hombre  Negro  Black/Steel   M](https://www.amazon.es/dp/B00KHTM25A/?tag=tolees-21) con un 20.33 % de descuento con precio de oferta de 23.9 EUR (original: 30.0 EUR) en el siguiente enlace!
 
-[![Under Armour UA Heatgear Short Sleeve Ca](https://m.media-amazon.com/images/I/41Q9U60nDyL._SL400_.jpg)](https://www.amazon.es/dp/B00KHTM25A/?tag=tolees-21)
+[![Under Armour UA Heatgear Short Sleeve Ca](https://m.media-amazon.com/images/I/31d4Gs19+yL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B00KHTM25A/?tag=tolees-21)
 
 ℹ️:
 
+- Material y forma: Camiseta de hombre Under Armour UA HeatGear Armour, camiseta ajustada con malla, forma: de compresión, material: HeatGear
+- Muy ajustada: Esta cómoda camiseta para correr tiene todas las ventajas de la tecnología de compresión de UA, así que puede llevarse todo el día
+- Protección solar 30+: Por su FPS 30+, esta camiseta deportiva protege la piel del sol;Su tejido elástico multidireccional otorga gran movilidad
+- Tejido HeatGear: Esta camiseta de manga corta está hecha con material de calidad;Su sistema de distribución de la humedad elimina mejor el sudor
+- Tecnología antiolor: Gracias a la tecnología antiolor, se evita la proliferación de bacterias y el mal olor en esta camiseta para entrenar
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00KHTM25A/?tag=tolees-21)
