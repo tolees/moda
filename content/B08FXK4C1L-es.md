@@ -28,8 +28,8 @@ Está [Jack & Jones JJPANNEL Knit Crew Neck Jersey de Punto  Sky Captain  L para
 
 ℹ️:
 
-- Jersey de punto
 - Clásico
 - Cuello redondo
+- Jersey de punto
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08FXK4C1L/?tag=tolees-21)
