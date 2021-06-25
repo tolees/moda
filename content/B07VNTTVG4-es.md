@@ -28,8 +28,8 @@ Tienes [Lee Daren Zip Fly Vaqueros  Azul  Dk Worn Foam If   42W / 32L para Hombr
 
 🔎:
 
-- Tienen un parche de piel en la parte trasera con la marca Lee
-- Vaqueros para hombre
 - Estilo 5 bolsillos
+- Vaqueros para hombre
+- Tienen un parche de piel en la parte trasera con la marca Lee
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07VNTTVG4/?tag=tolees-21)
