@@ -28,13 +28,13 @@ Está [Geox JR Shadow B  School Uniform Shoe  Negro  Black C9999   33 EU](https:
 
 ℹ️:
 
-- Anchura del zapato: Normal
+- Cierre: Velcro
 - Revestimiento: Sintético
-- Altura del tacón: 2 centímetros
-- Material exterior: Cuero
 - Material de la suela: Caucho
+- Material exterior: Cuero
+- Altura del tacón: 2 centímetros
+- Anchura del zapato: Normal
 - Tipo de tacón: Plano
 - Tipo de talla: Los zapatos Geox son holgados
-- Cierre: Velcro
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0792FW1HJ/?tag=tolees-21)
