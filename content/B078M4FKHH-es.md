@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Havaianas Luna  Sandalias de Talón Abier al 33.10 % de rebaja'
-date: 2021-06-24 10:41:07
+date: 2021-06-25 10:44:46
 image: 'https://m.media-amazon.com/images/I/31BAi5iZhxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,12 +28,12 @@ Tienes [Havaianas Luna  Sandalias de Talón Abierto para Mujer  Gris  Steel Gray
 
 🔎:
 
-- Material exterior: Caucho
-- Cierre: Sin cordones
-- Anchura del zapato: Normal
-- Material de la suela: Goma
-- Altura del tacón: 2 centímetros
 - Revestimiento: Sin forro
+- Altura del tacón: 2 centímetros
+- Cierre: Sin cordones
+- Material de la suela: Goma
 - Tipo de tacón: Plano
+- Material exterior: Caucho
+- Anchura del zapato: Normal
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B078M4FKHH/?tag=tolees-21)
