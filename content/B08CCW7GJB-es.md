@@ -28,8 +28,8 @@ Ahora mismo tienes [Tommy Hilfiger Patchwork Floral Print Shirt S/S Camisa  Negr
 
 🔎:
 
+- Este es un producto auténtico y original de Tommy Hilfiger.
 - Para más información sobre Tommy Hilfiger, consulta la sección de descripción del producto a continuación.
 - Este producto ha sido fabricado de forma sostenible con materiales sostenibles
-- Este es un producto auténtico y original de Tommy Hilfiger.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CCW7GJB/?tag=tolees-21)
