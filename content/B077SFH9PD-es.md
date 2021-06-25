@@ -28,10 +28,10 @@ Tienes [PUMA Liga Training Jersey W Camiseta  Mujer  Black/White  M](https://www
 
 🔎:
 
-- Dobladillo delantero recto
+- Corte recto
+- Panel bajo las mangas
 - 100 % poliéster con un acabado absorbente de base biológica
 - Logotipo del felino puma en la parte derecha del pecho
-- Panel bajo las mangas
-- Corte recto
+- Dobladillo delantero recto
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B077SFH9PD/?tag=tolees-21)

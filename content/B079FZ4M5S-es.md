@@ -29,9 +29,9 @@ Tienes [Under Armour Sportstyle Cotton Logo  Pantalón Corto Hombre  Academy/Whi
 ℹ️:
 
 - Ligeros y transpirables: La ligera mezcla de algodón de estos pantalones para correr asegura la óptima comodidad y, además, es transpirable
-- Prácticos: Estos elegantes pantalones de deporte cuentan con bolsillos laterales, cintura elástica recubierta, cordón interior y logotipo lateral
-- Material y forma: Pantalones cortos de algodón Under Armour Sportstyle, forma: ancha, material: 57% de algodón/38% de poliéster/5% de elastano
 - Elásticos: El tejido elástico multidireccional de la cómoda prenda de ropa deportiva para hombre ofrece una gran movilidad en cualquier dirección
+- Material y forma: Pantalones cortos de algodón Under Armour Sportstyle, forma: ancha, material: 57% de algodón/38% de poliéster/5% de elastano
 - Ultraligeros: Estos pantalones cortos deportivos están hechos de una ligera mezcla de algodón y, como son anchos, son extremadamente cómodos
+- Prácticos: Estos elegantes pantalones de deporte cuentan con bolsillos laterales, cintura elástica recubierta, cordón interior y logotipo lateral
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B079FZ4M5S/?tag=tolees-21)
