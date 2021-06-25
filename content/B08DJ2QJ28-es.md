@@ -29,9 +29,9 @@ En este momento está [Pulchram - Traje de Baño Mujer Cintura Alta，Sujetador 
 🔎:
 
 - ♥Hecha de Poliamida suave y transpirable para que mantener la piel en situación cómoda sin herirla. Material:82%Poliamida,18%Elastano está lleno de elasticidad, proporciona el estiramiento. fácil de limpiar y secar rápidamente.
+- ♥El bikini conjunto hay estilo bonito y colorido, el diseño de la braga en alto aplana el abdomen, el top con los volantes, tiene relleno en el sujetador, pero se puede retirar
+- ♥Refiere a nuestra detallada del tamaño antes de que usted compre,Porfavor.(No duda en contactarnos si usted tiene cualquier confusión sobre la selección del tamaño).
 - ♥Diseño: volante fruncido con doble pliegue, lazos ajustables en el cuello y la espalda, parte superior de bikini acolchada Push Up removible, fondos estampados, parte inferior con forro no transparente
 - ♥Perfecto para nadar, vacaciones tropicales, verano, playa y piscina, el traje de baño Retro te hará recuperar la confianza y mostrar tus curvas fabulosamente.
-- ♥Refiere a nuestra detallada del tamaño antes de que usted compre,Porfavor.(No duda en contactarnos si usted tiene cualquier confusión sobre la selección del tamaño).
-- ♥El bikini conjunto hay estilo bonito y colorido, el diseño de la braga en alto aplana el abdomen, el top con los volantes, tiene relleno en el sujetador, pero se puede retirar
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08DJ2QJ28/?tag=tolees-21)
