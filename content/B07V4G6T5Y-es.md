@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.71 % en FILA Orbit wmn zapatilla Mujer  negro  B'
-date: 2021-06-25 11:13:08
+date: 2021-06-26 12:33:21
 image: 'https://m.media-amazon.com/images/I/41gxkvhngrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Fila'
 buyurl: 'https://www.amazon.es/dp/B07V4G6T5Y/?tag=tolees-21'
 descuento: '30.71'
-average: '35.475'
+average: '35.1866666666667'
 ---
 
 Tienes [FILA Orbit wmn zapatilla Mujer  negro  Black   42 EU](https://www.amazon.es/dp/B07V4G6T5Y/?tag=tolees-21) con un 30.71 % de descuento con precio de oferta de 34.61 EUR (original: 49.95 EUR) en el siguiente enlace!
