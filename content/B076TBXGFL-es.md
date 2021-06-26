@@ -28,7 +28,7 @@ Está [Lacoste L1212  Camisa de Polo para Hombre  Rojo  Rouge   6XL](https://www
 
 ℹ️:
 
-- Bajo recto con aberturas laterales
 - Classic fit
+- Bajo recto con aberturas laterales
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B076TBXGFL/?tag=tolees-21)

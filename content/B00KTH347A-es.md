@@ -28,10 +28,10 @@ Ahora mismo tienes [Under Armour Tech Short Sleeve V-Solid Camiseta  Mujer  Gris
 
 🔎:
 
-- Material y forma: Camiseta de mujer Under Armour UA Tech, camiseta transpirable con cuello de pico, forma: ancha, material: 100% de poliéster
-- Muy cómoda: El tejido UA Tech otorga suavidad a esta camiseta para hacer deporte y su tejido elástico asegura una gran movilidad
-- Elegante: Esta ligera camiseta deportiva mantiene seca a la atleta, ofrece mucha movilidad y elimina el mal olor;¡Es óptimo para correr o entrenar!
 - Secado rápido: El novedoso sistema de distribución de la humedad de esta camiseta de gimnasia elimina el sudor y asegura un secado más rápido
+- Material y forma: Camiseta de mujer Under Armour UA Tech, camiseta transpirable con cuello de pico, forma: ancha, material: 100% de poliéster
 - Tecnología antiolor: La tecnología antiolor de esta prenda de ropa deportiva de mujer elimina los malos olores, manteniéndola fresca más tiempo
+- Elegante: Esta ligera camiseta deportiva mantiene seca a la atleta, ofrece mucha movilidad y elimina el mal olor;¡Es óptimo para correr o entrenar!
+- Muy cómoda: El tejido UA Tech otorga suavidad a esta camiseta para hacer deporte y su tejido elástico asegura una gran movilidad
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00KTH347A/?tag=tolees-21)

@@ -28,8 +28,8 @@ En este momento está [Lee Daren Zip Fly Vaqueros  Dark Sidney Cno  42W / 34L pa
 
 🔎:
 
-- Cuerda regular
 - SUSTAINABLE SELVAGE
 - Tejido vaquero elástico
+- Cuerda regular
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CXWGFZV/?tag=tolees-21)
