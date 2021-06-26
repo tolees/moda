@@ -28,8 +28,8 @@ Ahora mismo tienes [Lee Daren Zip Fly Vaqueros  Mid Stone Wash  33W / 30L para H
 
 🔎:
 
-- Regular Straight
-- DENIM STRETCH
 - Transparente.
+- DENIM STRETCH
+- Regular Straight
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CXTQ97C/?tag=tolees-21)

@@ -28,7 +28,7 @@ En este momento está [Tommy Hilfiger TH Stretch Slim Fit tee Camiseta  Rosa Cla
 
 🔎:
 
-- Este producto ha sido fabricado de forma sostenible con materiales sostenibles
 - Este es un producto auténtico y original de Tommy Hilfiger
+- Este producto ha sido fabricado de forma sostenible con materiales sostenibles
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CCXHZSW/?tag=tolees-21)
