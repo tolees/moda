@@ -28,8 +28,8 @@ Está [Columbia South Canyon Chaqueta Impermeable  Mujer  Rojo  Dusty Crimson   
 
 ℹ️:
 
+- Chaqueta impermeable para la lluvia, óptima para deportes al aire libre o para recorrer la ciudad
 - Contenido: 1x Columbia South Canyon, Chaqueta impermeable, Mujer, Poliéster, Rojo (Dusty Crimson), XS, Art. 1886724
 - Impermeable y transpirable gracias a la tecnología Omni-Tech con costuras termoselladas
-- Chaqueta impermeable para la lluvia, óptima para deportes al aire libre o para recorrer la ciudad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B081B5WK6B/?tag=tolees-21)
