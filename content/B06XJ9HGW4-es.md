@@ -28,8 +28,8 @@ Tienes [Timberland Seabury Classic 2-Eye  Youth   Náuticos  Azul MD Blue Full G
 
 🔎:
 
+- Tela
 - Cordones
 - Cuero
-- Tela
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B06XJ9HGW4/?tag=tolees-21)
