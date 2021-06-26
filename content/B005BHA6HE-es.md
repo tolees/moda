@@ -28,10 +28,10 @@ Está [ECCO Offroad 82  Sandalias Mujer  Multicolor  Multicolor Volluto 51827   
 
 ℹ️:
 
+- Material exterior: Cuero
+- Revestimiento: Tela
 - Tipo de tacón: Fornido
 - Cierre: Velcro
-- Material exterior: Cuero
 - Material de la suela: Goma
-- Revestimiento: Tela
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B005BHA6HE/?tag=tolees-21)
