@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Desigual Fabric Shoulder Bag  Bolso band al 52.40 % de descuento'
-date: 2021-06-23 10:48:40
+date: 2021-06-26 14:01:06
 image: 'https://m.media-amazon.com/images/I/41+17Giy6JL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
