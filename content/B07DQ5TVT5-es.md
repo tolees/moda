@@ -28,8 +28,8 @@ Tienes [Levi s 720 Hirise Super Skinny  Vaqueros Mujer  Black Galaxy  25W / 32L]
 
 ℹ️:
 
-- Tienen un parche de cuero en la parte posterior de la cintura
 - Con corte entallado en la cadera y el muslo
 - Vaqueros para mujer
+- Tienen un parche de cuero en la parte posterior de la cintura
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07DQ5TVT5/?tag=tolees-21)
