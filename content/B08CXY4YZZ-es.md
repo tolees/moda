@@ -28,8 +28,8 @@ Tienes [Lee Luke Jeans Vaqueros  Mid Soho  36W / 34L para Hombre](https://www.am
 
 🔎:
 
-- Algodón orgánico.
 - DENIM STRETCH
 - TAPERED
+- Algodón orgánico.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08CXY4YZZ/?tag=tolees-21)

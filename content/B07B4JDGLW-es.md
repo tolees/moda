@@ -29,8 +29,8 @@ Tienes [Columbia Carson Pass II  Chaqueta impermeable  Mujer  Azul  Geyser   Tal
 🔎:
 
 - Contenido: 1x Columbia Chaqueta impermeable con capucha para mujer, CARSON PASS II JACKET, Material: Nylon/Poliéster, Color: Gris (Flint Grey), Talla: XS, WL4117
+- Transpirable e impermeable gracias a la tecnología Omni-Tech con costuras completamente termoselladas
 - Práctica cremallera completa, Capucha ajustable para lluvia, 2 bolsillos con cremallera para mantener las manos cálidas y protegidas, Bolsillo con cremallera en el pecho, Bolsillo para documentos de viaje y reproductor multimedia, Puños cómodos, Pelo sintético extraíble
 - Especialmente cálida gracias a la tecnología Omni-Heat con forro termorreflectante
-- Transpirable e impermeable gracias a la tecnología Omni-Tech con costuras completamente termoselladas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07B4JDGLW/?tag=tolees-21)
