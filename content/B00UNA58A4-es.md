@@ -29,7 +29,7 @@ Tienes [Lacoste TH7618  Camiseta para Hombre  Negro  Noir   XXXX-Large  Talla de
 🔎:
 
 - Logo ultra dry en la parte inferior de la espalda
-- Camiseta para hombres, marca Lacoste
 - Cocodrilo verde bordado en el pecho
+- Camiseta para hombres, marca Lacoste
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00UNA58A4/?tag=tolees-21)
