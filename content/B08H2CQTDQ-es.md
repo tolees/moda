@@ -28,7 +28,7 @@ Ahora mismo tienes [Jack & Jones – Jersey de punto con cuello en V Azul  Insig
 
 🔎:
 
-- Un clásico que se adapta a todos los días
 - Parte de punto de corte regular para hombre.
+- Un clásico que se adapta a todos los días
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08H2CQTDQ/?tag=tolees-21)
