@@ -28,9 +28,9 @@ En este momento está [Dr. Martens 1460  Zapatos de Vestir Unisex Adulto  Negro 
 
 🔎:
 
-- Botas || Materiales de larga duración || Altura del tacón: /
 - Tu nuevo merchandising favorito
-- Botas con las siguientes características:
 - Merch para fans y divertido
+- Botas || Materiales de larga duración || Altura del tacón: /
+- Botas con las siguientes características:
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00BC3VDJG/?tag=tolees-21)
