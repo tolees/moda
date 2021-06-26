@@ -28,10 +28,10 @@ Tienes [Occffy Leggings Mujer Deporte Cintura Alta Mallas Pantalones Deportivos 
 
 🔎:
 
-- 😍 BUENA TRANSPIRABLE - Costuras están reforzadasen, secado rápido, transpirable y no transparente. un termino medio ni fina ni gruesa por lo que nos servirá para todas las estaciones del año.
 - 😍 CONTORNO - Cintura alta, contornea sus curvas y resalta su forma natural.
-- 😍 SUPER ESTIRABLE CON GRAN FLEXIBILIDAD - Perfecto para yoga, fitness, crossfit, cualquier otro tipo de entrenamiento o simple uso diario.
-- 😍 CUATRO VÍAS - Tejido elástico de cuatro vías, secado rápido, transpirable y no transparente.
 - 😍 Diseñado para reducir al máximo el desplazo, que además ayudará a mantener sus llaves, tarjetas o monedas en su pequeño bolsillo sin riesgo a perderlas durante su ejercicio.
+- 😍 BUENA TRANSPIRABLE - Costuras están reforzadasen, secado rápido, transpirable y no transparente. un termino medio ni fina ni gruesa por lo que nos servirá para todas las estaciones del año.
+- 😍 CUATRO VÍAS - Tejido elástico de cuatro vías, secado rápido, transpirable y no transparente.
+- 😍 SUPER ESTIRABLE CON GRAN FLEXIBILIDAD - Perfecto para yoga, fitness, crossfit, cualquier otro tipo de entrenamiento o simple uso diario.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07FFSB5Y9/?tag=tolees-21)
