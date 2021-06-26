@@ -28,7 +28,7 @@ En este momento está [Jack & Jones Jjialvin Jjjacket Sa 002 Noos Chaqueta de je
 
 🔎:
 
-- elastic cotton quality
 - Denim Jacket
+- elastic cotton quality
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07N8MNVZW/?tag=tolees-21)

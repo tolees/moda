@@ -28,8 +28,8 @@ Tienes [Levi s 720 Hirise Super Skinny  Vaqueros Mujer  Indigo Daze  28W / 30L](
 
 🔎:
 
+- Con corte entallado en la cadera y el muslo
 - Vaqueros para mujer
 - Tienen un parche de cuero en la parte posterior de la cintura
-- Con corte entallado en la cadera y el muslo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08D4Y4DNM/?tag=tolees-21)

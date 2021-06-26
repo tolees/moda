@@ -28,7 +28,7 @@ En este momento está [Lacoste SH1505 Sudadera  Blanc/Blanc  XXL para Hombre](ht
 
 🔎:
 
-- Acabados acanalados en los puños y en el bajo de la prenda y media luna de tafetán diamantado (tejido suave y muy ligero con un acabado delicadamente brillante)
 - Felpa de algodón cepillado
+- Acabados acanalados en los puños y en el bajo de la prenda y media luna de tafetán diamantado (tejido suave y muy ligero con un acabado delicadamente brillante)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B083JWFSQD/?tag=tolees-21)
