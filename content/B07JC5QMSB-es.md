@@ -28,10 +28,10 @@ Tienes [Clarks Tealite Grace  Sandalias con Tira Vertical para Mujer  Gris  Grau
 
 ℹ️:
 
-- Superior de cuero
-- artificial Suela
 - Sintético / forro de cuero
-- Gancho de fijación de bucle
+- artificial Suela
+- Superior de cuero
 - Ideal para la ropa de sport todos los días y días de fiesta
+- Gancho de fijación de bucle
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07JC5QMSB/?tag=tolees-21)

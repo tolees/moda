@@ -28,9 +28,9 @@ Tienes [Speedo Swedish Gafas de Natación  Unisex  Blanco  Talla única](https:/
 
 ℹ️:
 
-- El kit con automontaje permite un ajuste a medida
-- Correa de cabeza doble de látex para un ajuste seguro
-- Cristales de espejo para reducir el brillo y los reflejos. Ideales para competir y para nadar al aire libre
 - Cristales con revestimiento antivaho con 100 % protección UV
+- El kit con automontaje permite un ajuste a medida
+- Cristales de espejo para reducir el brillo y los reflejos. Ideales para competir y para nadar al aire libre
+- Correa de cabeza doble de látex para un ajuste seguro
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000VKK0FY/?tag=tolees-21)
