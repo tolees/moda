@@ -28,10 +28,10 @@ Tienes [Desigual JERS DINANT Sudadera  Negro  M para Mujer](https://www.amazon.e
 
 ℹ️:
 
-- Jersey de punto fino con bordado
-- Cuello redondo
-- Bordado de flores multicolor y pequeñas lentejuelas
 - Corte estándar
+- Bordado de flores multicolor y pequeñas lentejuelas
 - Jersey de punto grueso para mujer
+- Cuello redondo
+- Jersey de punto fino con bordado
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08CN2LZ5L/?tag=tolees-21)

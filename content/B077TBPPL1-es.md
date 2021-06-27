@@ -29,7 +29,7 @@ Está [Fossil Collar para Mujer JF02856998](https://www.amazon.es/dp/B077TBPPL1/
 ℹ️:
 
 - Cierre de mosquetón
-- Medidas: 40.6 cm x 5.1 cm
 - Color plata, oro rosado, oro
+- Medidas: 40.6 cm x 5.1 cm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B077TBPPL1/?tag=tolees-21)
