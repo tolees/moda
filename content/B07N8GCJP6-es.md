@@ -28,7 +28,7 @@ Está [Jack & Jones Jjialvin Jjjacket Sa 002 Noos Chaqueta de jean  Azul  Denim 
 
 ℹ️:
 
-- Denim Jacket
 - elastic cotton quality
+- Denim Jacket
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07N8GCJP6/?tag=tolees-21)
