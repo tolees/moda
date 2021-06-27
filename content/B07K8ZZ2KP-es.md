@@ -28,10 +28,10 @@ Ahora mismo tienes [Crocs Crocband Unisex  Zuecos con Correa Adulto  Azul  Brigh
 
 🔎:
 
-- Cierre: Sin cordones
-- Revestimiento: Sintético
 - Altura del tacón: 1.5 pulgadas
-- Material de la suela: Goma
 - Material exterior: Espuma
+- Revestimiento: Sintético
+- Cierre: Sin cordones
+- Material de la suela: Goma
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07K8ZZ2KP/?tag=tolees-21)
