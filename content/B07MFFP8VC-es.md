@@ -28,10 +28,10 @@ En este momento está [Vans Flying V Muscle Scoop Camiseta  Blanco  White White 
 
 🔎:
 
-- VN0A3UL5WHT1
-- Camiseta Tirantes (Tank Top)
 - Vans
 - Flying V Muscle
+- Camiseta Tirantes (Tank Top)
 - Mujer
+- VN0A3UL5WHT1
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07MFFP8VC/?tag=tolees-21)

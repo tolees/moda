@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jjialvin Jjjacket Sa 002 No al 40.01 % de descuento'
-date: 2021-06-26 15:41:14
+date: 2021-06-27 19:16:26
 image: 'https://m.media-amazon.com/images/I/41EMDcj3rML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B07N8GCJP6/?tag=tolees-21'
 descuento: '40.01'
-average: '31.8081818181818'
+average: '31.6566666666667'
 ---
 
 Está [Jack & Jones Jjialvin Jjjacket Sa 002 Noos Chaqueta de jean  Azul  Denim   M para Hombre](https://www.amazon.es/dp/B07N8GCJP6/?tag=tolees-21) con 40.01 de descuento por 29.99 EUR (original: 49.99 EUR) en el siguiente enlace!

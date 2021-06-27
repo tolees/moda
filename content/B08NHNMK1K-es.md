@@ -28,9 +28,9 @@ Está [Jack & Jones JCOART tee SS Crew Neck Camiseta  Color Blanco  L para Hombr
 
 ℹ️:
 
-- Imprimir
 - convenientemente situado en
-- Algodón
+- Imprimir
 - T-Shirt
+- Algodón
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08NHNMK1K/?tag=tolees-21)

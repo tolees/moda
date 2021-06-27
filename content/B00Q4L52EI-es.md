@@ -29,7 +29,7 @@ Ahora mismo tienes [Lacoste TH7618  Camiseta para Hombre  Blanco  Blanc   Large 
 🔎:
 
 - Cocodrilo verde bordado en el pecho
-- Camiseta para hombres, marca Lacoste
 - Logo ultra dry en la parte inferior de la espalda
+- Camiseta para hombres, marca Lacoste
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00Q4L52EI/?tag=tolees-21)

@@ -28,8 +28,8 @@ Ahora mismo tienes [Levi s Housemark Graphic tee Camiseta  White  Ssnl Hm Fish F
 
 🔎:
 
-- Modelo casual
-- Ofrece comodidad todo el día
 - Tiene estampado el logotipo de Levis
+- Ofrece comodidad todo el día
+- Modelo casual
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0897Y7MYP/?tag=tolees-21)
