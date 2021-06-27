@@ -28,9 +28,9 @@ Está [Pepe Jeans Eggo PM500465 Camiseta  Blanco  White 800   X-Small para Hombr
 
 ℹ️:
 
-- Fabricada en tejido suave
-- Camiseta básica para hombre
 - Manga corta
+- Camiseta básica para hombre
 - Logo estampado en el pecho
+- Fabricada en tejido suave
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00I46FDGS/?tag=tolees-21)
