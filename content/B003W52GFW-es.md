@@ -1,32 +1,39 @@
 ---
 layout: post
-title: 'Timberland Classic 2-Eye  Náuticos para  al 43.50 % de descuento'
-date: 2020-07-20 00:57:20
-image: 'https://m.media-amazon.com/images/I/41+alPWKw9L._SL400_.jpg'
+title: 'Timberland Classic 2-Eye  Náuticos  Azul al 48.79 % de descuento'
+date: 2021-06-27 04:35:33
+image: 'https://m.media-amazon.com/images/I/413m1B48cJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B003W52GFW-es Timberland Classic 2-Eye Náuticos para Mujer Azul MD Blue...'
+slug: 'B003W52GFW-es Timberland Classic 2-Eye Náuticos Azul MD Blue Full Grain...'
 sku: 'B003W52GFW-es'
-tags: [ 'timberland', ]
-actualPrice: 79.1 EUR
+tags: [ 'Náuticos para mujer','Zapatos','Zapatos para mujer','Zapatos planos de mujer','Zapatos y complementos','timberland', ]
+actualPrice: 71.69 EUR
 currency: EUR
-price: 79.1
+price: 71.69
 comparePrice: 140.0 EUR
-prodname: 'Timberland Classic 2-Eye  Náuticos para Mujer  Azul  MD Blue Full Grain   35.5 EU'
+prodname: 'Timberland Classic 2-Eye  Náuticos  Azul MD Blue Full Grain  35.5 EU'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Timberland'
 buyurl: 'https://www.amazon.es/dp/B003W52GFW/?tag=tolees-21'
-descuento: '43.50'
-average: '75.55'
+descuento: '48.79'
+average: '74.778'
 ---
 
-Ahora mismo tienes [Timberland Classic 2-Eye  Náuticos para Mujer  Azul  MD Blue Full Grain   35.5 EU](https://www.amazon.es/dp/B003W52GFW/?tag=tolees-21) a 79.1 EUR (original: 140.0 EUR) (43.50 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Timberland Classic 2-Eye  Náuticos  Azul MD Blue Full Grain  35.5 EU](https://www.amazon.es/dp/B003W52GFW/?tag=tolees-21) a 71.69 EUR (original: 140.0 EUR) (48.79 %  de descuento) en el siguiente enlace!
 
-[![Timberland Classic 2-Eye  Náuticos para ](https://m.media-amazon.com/images/I/41+alPWKw9L._SL400_.jpg)](https://www.amazon.es/dp/B003W52GFW/?tag=tolees-21)
+[![Timberland Classic 2-Eye  Náuticos  Azul](https://m.media-amazon.com/images/I/413m1B48cJL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B003W52GFW/?tag=tolees-21)
 
 🔎:
 
+- Revestimiento: Cuero
+- Tipo de talla: talla estándar
+- Tipo de tacón: Plano
+- Composición: Cuero
+- Material de la suela: Goma
+- Material exterior: Cuero
+- Cierre: Cordones
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B003W52GFW/?tag=tolees-21)
