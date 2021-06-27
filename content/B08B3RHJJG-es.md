@@ -28,7 +28,7 @@ En este momento está [Lacoste DH9605 Camisa de Polo  Rubis/Blanc-Marine  L para
 
 🔎:
 
-- Piqué ultra-dry resistente y transpirable
 - Paneles de malla sin costuras en los hombros
+- Piqué ultra-dry resistente y transpirable
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08B3RHJJG/?tag=tolees-21)
