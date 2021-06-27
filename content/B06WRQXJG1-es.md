@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lacoste TH6709  Camiseta para Hombre  Bl al 34.56 % de descuento'
-date: 2021-06-18 19:49:14
+date: 2021-06-27 16:14:17
 image: 'https://m.media-amazon.com/images/I/31jvk2ivN0S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lacoste'
 buyurl: 'https://www.amazon.es/dp/B06WRQXJG1/?tag=tolees-21'
 descuento: '34.56'
-average: '34.21'
+average: '34.566'
 ---
 
 Está [Lacoste TH6709  Camiseta para Hombre  Blanco  Blanc   S  Talla del fabricante: 3 ](https://www.amazon.es/dp/B06WRQXJG1/?tag=tolees-21) con 34.56 de descuento por 35.99 EUR (original: 55.0 EUR) en el siguiente enlace!
@@ -28,7 +28,7 @@ Está [Lacoste TH6709  Camiseta para Hombre  Blanco  Blanc   S  Talla del fabric
 
 ℹ️:
 
-- Punto liso de algodón Pima
 - Regular fit
+- Punto liso de algodón Pima
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06WRQXJG1/?tag=tolees-21)
