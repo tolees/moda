@@ -28,10 +28,10 @@ Ahora mismo tienes [BOSS T-Shirt VN 2P CO/EL Camiseta  Negro  Black 1   M  Pack 
 
 🔎:
 
-- slim Fit
+- Fundamentos diarias
 - V-cuello
 - monocromo
-- Fundamentos diarias
 - HUGO BOSS 2pack Slim Fit Camiseta
+- slim Fit
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01M29X2SJ/?tag=tolees-21)
