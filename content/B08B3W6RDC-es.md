@@ -28,7 +28,7 @@ Está [Lacoste TH9654 Camiseta  Argent Chine  XS para Hombre](https://www.amazon
 
 ℹ️:
 
-- Cuello redondo acanalado
 - Cocodrilo 3D y estampado de red
+- Cuello redondo acanalado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08B3W6RDC/?tag=tolees-21)

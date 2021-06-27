@@ -29,8 +29,8 @@ Tienes [GEOX Man U BRANDOLF C SHOES BLACK 40 EU](https://www.amazon.es/dp/B07V4G
 🔎:
 
 - Transpirable
-- País de origen: en
 - Cantidad: 1 unidad
 - Marca: Geox
+- País de origen: en
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07V4GVZL9/?tag=tolees-21)
