@@ -28,8 +28,8 @@ Está [Adidas Core18 Sw Top Sudadera  Hombre  Gris  Gris/Negro   XS](https://www
 
 ℹ️:
 
-- Presenta ajuste regular
 - Mangas con ribetes en contraste
+- Presenta ajuste regular
 - Cuenta con un pequeño logotipo de Adidas bordado en el pecho
 - Puños y dobladillo de canalé
 
