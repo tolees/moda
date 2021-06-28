@@ -28,9 +28,9 @@ Está [Arena Python Gafas de Natación  Unisex Adulto  Azul  Blue Mirror   Talla
 
 ℹ️:
 
-- Sellado ideal y ajuste perfecto gracias al ajuste manual del tamaño (longitud de la cinta) y 3 puentes nasales diferentes para un ajuste cómodo. Material libre de PVC y plastificantes
-- Instrucciones de cuidado: enjuagar las gafas de natación con agua limpia después de cada uso y dejar secar al aire. Nunca toques ni limpies el interior de las lentes. Guarda las gafas de natación en una bolsa de microfibra para protegerlas
 - Lentes duras y curvadas con protección UV y recubrimiento antivaho (no se empañan las lentes), perfil pequeño del marco, junta de silicona suave y cómoda, tres puentes nasales intercambiables, banda doble para la cabeza (ajustable), libre de PVC
 - Cómodas gafas de competición y entrenamiento unisex con espejo para nadadores activos
+- Instrucciones de cuidado: enjuagar las gafas de natación con agua limpia después de cada uso y dejar secar al aire. Nunca toques ni limpies el interior de las lentes. Guarda las gafas de natación en una bolsa de microfibra para protegerlas
+- Sellado ideal y ajuste perfecto gracias al ajuste manual del tamaño (longitud de la cinta) y 3 puentes nasales diferentes para un ajuste cómodo. Material libre de PVC y plastificantes
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01MQNPDKC/?tag=tolees-21)
