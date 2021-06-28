@@ -28,8 +28,8 @@ Ahora mismo tienes [BILLABONG Unity T Camiseta de Manga Corta con Estampado  Hom
 
 🔎:
 
-- Tiene estampado en la parte delantera
 - Adecuada para uso diario
+- Tiene estampado en la parte delantera
 - Hecha con un material ligero y cómodo
 - Ofrece libertad de movimiento
 
