@@ -28,8 +28,8 @@ Está [Vero Moda Vmmaxi My LS Soft Long U-Neck Noos Camisa Manga Larga  Gris  Li
 
 ℹ️:
 
+- Gris (Light Grey Melange)
 - 38 (Talla del fabricante: Medium) para Mujer
 - Vmmaxi My Ls Soft Long U-neck Noos Camisa Manga Larga
-- Gris (Light Grey Melange)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B071JDSQG1/?tag=tolees-21)

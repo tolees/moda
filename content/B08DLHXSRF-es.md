@@ -29,7 +29,7 @@ En este momento está [Puma VCF 3rd Shirt Replica Jr Camiseta  Unisex niños  He
 🔎:
 
 - Bajos acanalados
-- Cuello en V
 - Tejido estructurado
+- Cuello en V
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08DLHXSRF/?tag=tolees-21)
