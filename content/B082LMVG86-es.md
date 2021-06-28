@@ -28,8 +28,8 @@ Está [Levi s 720 Hirise Super Skinny  Vaqueros Mujer  Deep Serenity  30W / 32L]
 
 ℹ️:
 
-- Vaqueros para mujer
 - Con corte entallado en la cadera y el muslo
+- Vaqueros para mujer
 - Tienen un parche de cuero en la parte posterior de la cintura
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B082LMVG86/?tag=tolees-21)
