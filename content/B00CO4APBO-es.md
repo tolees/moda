@@ -29,9 +29,9 @@ Tienes [Cressi Ninja Ultra Flex Gafas de Sol  Ultra Flex Talla Única  Negro](ht
 🔎:
 
 - Marco duradero y flexible
-- Diseño italiano
-- 100% u v protección
 - Gafas de sol polarizadas
+- Diseño italiano
 - Envuelva en torno al diseño
+- 100% u v protección
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00CO4APBO/?tag=tolees-21)
