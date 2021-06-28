@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger TH Stretch Slim Fit tee C al 50.00 % de rebaja'
-date: 2021-06-26 10:52:41
+date: 2021-06-28 07:26:23
 image: 'https://m.media-amazon.com/images/I/311BM7BVQhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
