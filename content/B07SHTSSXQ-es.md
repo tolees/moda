@@ -30,10 +30,10 @@ Ahora mismo tienes [Havaianas Luna  Sandalias de Talón Abierto para Mujer  Rosa
 
 - Material de la suela: Goma
 - Revestimiento: Sin forro
-- Cierre: Sin cordones
+- Anchura del zapato: Normal
 - Altura del tacón: 1 centímetros
 - Material exterior: Caucho
+- Cierre: Sin cordones
 - Tipo de tacón: Plano
-- Anchura del zapato: Normal
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SHTSSXQ/?tag=tolees-21)

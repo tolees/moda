@@ -29,9 +29,9 @@ En este momento está [Skevic Gafas de Sol Hombre Mujer Polarizadas TR90 - Gafas
 🔎:
 
 - ☑️GARANTÍA SKEVIC - 60 DÍAS DE DEVOLUCIÓN y GARANTÍA DE 2 AÑOS. Si por cualquier razón no ha quedado satisfecho con su compra, envíenos un mensaje y le emitiremos un reembolso o un reemplazo - lo que desee. ¡No hay riesgo de probar!
-- ★DISEÑO ELEGANTE - La montura tiene un diseño elegante que crea un aspecto estéticamente agradable. El material de soporte de policarbonato resistente proporciona la máxima protección y comodidad.
-- ★LENTES POLARIZADAS - Protección 100% UV400. Las gafas de sol polarizadas Skevic protegen al 100% contra los dañinos rayos de sol UVA y UVB. Además reducen el deslumbramiento y proporcionan una visión de alta calidad tanto de día como de noche.
 - ★AJUSTE PERFECTO - El diseño liviano y superligero se adapta cómodamente a la cara y están especialmente diseñadas para adaptarse a las orejas tanto de hombres como de mujeres.
 - ★COMODIDAD - Ligeras y flexibles, la almohadilla suave de goma se ajusta perfectamente a la nariz. El marco TR90 liviano y portátil, con un peso de solo 21 g permite llevar las gafas sin apenas notarlas.
+- ★LENTES POLARIZADAS - Protección 100% UV400. Las gafas de sol polarizadas Skevic protegen al 100% contra los dañinos rayos de sol UVA y UVB. Además reducen el deslumbramiento y proporcionan una visión de alta calidad tanto de día como de noche.
+- ★DISEÑO ELEGANTE - La montura tiene un diseño elegante que crea un aspecto estéticamente agradable. El material de soporte de policarbonato resistente proporciona la máxima protección y comodidad.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B089NS9JS3/?tag=tolees-21)

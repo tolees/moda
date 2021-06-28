@@ -28,9 +28,9 @@ Tienes [JACK & JONES SENSE TRUNKS 3-PACK Bóxer  Gris  Light Grey Melange   Larg
 
 ℹ️:
 
-- Paquete Triple
-- Conjunto De Calzoncillos Boxer
 - Pretina Ancha
+- Conjunto De Calzoncillos Boxer
+- Paquete Triple
 - Estiramiento
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00WWPEPNY/?tag=tolees-21)
