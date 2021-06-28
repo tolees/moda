@@ -29,7 +29,7 @@ En este momento está [Crocs - Swiftwater Expedition Sandal W  Sandalias para Mu
 🔎:
 
 - Gamuza / malla superior
-- Suela de goma
 - acolchado de espuma ligera de EVA en la entresuela y aumenta la comodidad del talón
+- Suela de goma
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07SR52VR8/?tag=tolees-21)
