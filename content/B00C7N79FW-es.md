@@ -28,10 +28,10 @@ Tienes [Lee Brooklyn Straight Vaqueros  Negro  Clean Black   30W / 34L para Homb
 
 🔎:
 
-- Entallado
-- Regular Fit
-- confort-estrech-vaquero
-- pierna recta
 - Altura Altura Cuerpo
+- Regular Fit
+- pierna recta
+- confort-estrech-vaquero
+- Entallado
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00C7N79FW/?tag=tolees-21)
