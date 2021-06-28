@@ -29,8 +29,8 @@ Ahora mismo tienes [Joma Combi Camiseta Manga Corta  Hombre  Gris  Melange Claro
 🔎:
 
 - Camiseta con manga corta para hombres
-- Con el logotipo Joma en la parte derecha del pecho
 - Esta hecha de poliéster transpirable
 - La camiseta tiene el cuello redondo
+- Con el logotipo Joma en la parte derecha del pecho
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01ERZ92UC/?tag=tolees-21)
