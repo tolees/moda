@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FILA Disruptor wmn zapatilla Mujer  blan con un 32.00 % de descuento'
-date: 2021-06-10 18:46:35
+date: 2021-06-29 09:46:50
 image: 'https://m.media-amazon.com/images/I/41+FgQPGBjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Fila'
 buyurl: 'https://www.amazon.es/dp/B078WQF58M/?tag=tolees-21'
 descuento: '32.00'
-average: '63.6806060606061'
+average: '63.8076470588236'
 ---
 
 En este momento está [FILA Disruptor wmn zapatilla Mujer  blanco  White   37 EU](https://www.amazon.es/dp/B078WQF58M/?tag=tolees-21) a 68.0 EUR (original: 100.0 EUR) (32.00 %  de descuento) en el siguiente enlace!
