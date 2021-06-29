@@ -28,8 +28,8 @@ Tienes [Réplica oficial camiseta segunda equipación rfef 2020](https://www.ama
 
 ℹ️:
 
-- Logo del conmemorativo del centenario de la selección en el cuello.
-- Producto oficial Licenciado
 - Escudo y estrella de campeones del mundo bordadas.
+- Producto oficial Licenciado
+- Logo del conmemorativo del centenario de la selección en el cuello.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B085PHWWKW/?tag=tolees-21)

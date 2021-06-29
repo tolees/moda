@@ -28,8 +28,8 @@ Ahora mismo tienes [Lee Brooklyn Straight Vaqueros  Azul  Mid Stonewash   33W / 
 
 🔎:
 
-- Tienen bordado una etiqueta con la marca Lee
 - Vaqueros para hombre
 - Presentan 5 bolsillos
+- Tienen bordado una etiqueta con la marca Lee
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B005YBQL2Q/?tag=tolees-21)
