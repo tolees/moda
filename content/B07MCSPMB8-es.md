@@ -28,10 +28,10 @@ En este momento está [Napapijri Aerons WOM ST Chaqueta  Rosa  Pink Blush P79   
 
 🔎:
 
-- Color: rosa
 - Designer: NAPAPIJRI
-- Material: Nylon
+- Color: rosa
 - Artículo: AERONS WOM ST NP000IXG
 - Estación: Otoño/Invierno
+- Material: Nylon
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07MCSPMB8/?tag=tolees-21)
