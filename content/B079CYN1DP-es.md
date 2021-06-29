@@ -28,9 +28,9 @@ Está [PUMA Liga Sideline Chaqueta de Entrenamiento  Hombre  Cyber Yellow / Blac
 
 ℹ️:
 
-- Logotipo de PUMA en el pecho
 - Dispone de dos bolsillos laterales
-- Dobladillo delantero recto
+- Logotipo de PUMA en el pecho
 - Tiene corte recto
+- Dobladillo delantero recto
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B079CYN1DP/?tag=tolees-21)

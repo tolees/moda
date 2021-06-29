@@ -28,8 +28,8 @@ Está [Element Vertical SS Boy Camiseta de Manga Corta  Niños  Negro  Flint Bla
 
 ℹ️:
 
-- Element logo
-- 100% algodon
 - Crew neck
+- 100% algodon
+- Element logo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07KRJ8B6M/?tag=tolees-21)

@@ -28,8 +28,8 @@ En este momento está [Levi s 512 Slim Taper Vaqueros  Rock Cod  26W / 30L para 
 
 🔎:
 
+- Corte ajustado en los muslos
 - Diseño de cinco bolsillos
 - Con apertura de pierna pitillo
-- Corte ajustado en los muslos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07H1GFCK3/?tag=tolees-21)

@@ -29,7 +29,7 @@ Ahora mismo tienes [Dockers Logo Tee  Camiseta Hombre  Colman Slate Desert  S](h
 🔎:
 
 - Modelo ceñido para un look de líneas limpias
-- Ajuste slim
 - El diseño ajustado de la marca no es tan ajustado
+- Ajuste slim
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B089T7GVZK/?tag=tolees-21)
