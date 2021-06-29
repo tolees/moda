@@ -28,10 +28,10 @@ Tienes [Columbia Triple Canyon II Camisa lisa de manga corta para hombre](https:
 
 🔎:
 
-- Camisa de manga corta para hombre, Óptimo para el día a día
 - Ajuste y comodidad óptimos gracias al material elástico de 4 vías
-- Contenido: 1 x Columbia Triple Canyon II Camisa lisa de manga corta para hombre, Tejido: 88% poliéster/ 12% elastano, Color: Azul (Petrol Blue), Talla: S, Art.No. 1930382
 - Omni-Wick elimina la humedad del cuerpo y permite que la transpiración se evapore más rápidamente, lo que te mantiene seco y cómodo
+- Contenido: 1 x Columbia Triple Canyon II Camisa lisa de manga corta para hombre, Tejido: 88% poliéster/ 12% elastano, Color: Azul (Petrol Blue), Talla: S, Art.No. 1930382
+- Camisa de manga corta para hombre, Óptimo para el día a día
 - Bolsillo con cremallera en el pecho para guardar sus pertenencias
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08CJ4XJCY/?tag=tolees-21)
