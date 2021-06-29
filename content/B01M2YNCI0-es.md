@@ -28,10 +28,10 @@ Tienes [Skechers Hobbes-Frat  Zapatos de Seguridad Hombre  Negro  BLK Black Leat
 
 ℹ️:
 
+- Código Del Fabricante: 77036ec
+- Forros: Textil
+- Ajuste De Anchura: Medio
 - Uppers: Cuero
 - Fastenings: Encaje
-- Ajuste De Anchura: Medio
-- Forros: Textil
-- Código Del Fabricante: 77036ec
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01M2YNCI0/?tag=tolees-21)
