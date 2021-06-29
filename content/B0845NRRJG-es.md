@@ -28,8 +28,8 @@ Tienes [Hurley M Have Fun S/S Camiseta  Hombre  dk Grey Heather  S](https://www.
 
 ℹ️:
 
+- Tejido de algodón suave al tacto para un ajuste cómodo.
 - 150 g
 - Serigrafiado suave al tacto
-- Tejido de algodón suave al tacto para un ajuste cómodo.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0845NRRJG/?tag=tolees-21)
