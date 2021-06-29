@@ -28,9 +28,9 @@ En este momento está [Pepe Jeans Eggo  Camiseta Para Hombre  Azul  Navy   X-Sma
 
 🔎:
 
-- Camiseta básica para hombre
-- Fabricada en tejido suave
 - Manga corta
 - Logo estampado en el pecho
+- Fabricada en tejido suave
+- Camiseta básica para hombre
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00KF1TA3W/?tag=tolees-21)
