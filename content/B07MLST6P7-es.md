@@ -28,9 +28,9 @@ Ahora mismo tienes [Clarks Ronnie Limit  Zapatos de Cordones Brogue  Marrón Osc
 
 🔎:
 
-- Ajuste: (g) Estándar
-- Superiores: Cuero
 - Forro: Textil
 - Suela: Tr
+- Superiores: Cuero
+- Ajuste: (g) Estándar
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MLST6P7/?tag=tolees-21)
