@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clarks Tilden Plain Zapatos de cordones  al 28.71 % de descuento'
-date: 2021-06-27 23:09:48
+date: 2021-06-29 04:52:52
 image: 'https://m.media-amazon.com/images/I/31XXTy1kUHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Clarks'
 buyurl: 'https://www.amazon.es/dp/B06XBZ7S82/?tag=tolees-21'
 descuento: '28.71'
-average: '47.7522222222222'
+average: '48.677'
 ---
 
 Ahora mismo tienes [Clarks Tilden Plain Zapatos de cordones derby Hombre  Marrón  Dark Tan Lea   41](https://www.amazon.es/dp/B06XBZ7S82/?tag=tolees-21) a 57.0 EUR (original: 79.95 EUR) (28.71 %  de descuento) en el siguiente enlace!
