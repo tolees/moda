@@ -29,9 +29,9 @@ Tienes [G-STAR RAW Base V T S/s 2-Pack Camiseta  Negro  Solid Black 2019   XXS p
 🔎:
 
 - Primavera verano
-- Llanura
 - Adivinar
-- Verde
+- Llanura
 - vneck
+- Verde
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B072F2QK4G/?tag=tolees-21)

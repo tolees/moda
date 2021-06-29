@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Havaianas Luna  Sandalias de Talón Abier con un 34.72 % de descuento'
-date: 2021-06-28 08:54:07
+date: 2021-06-29 12:02:01
 image: 'https://m.media-amazon.com/images/I/511p1AnYWNS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ En este momento está [Havaianas Luna  Sandalias de Talón Abierto para Niñas  
 
 🔎:
 
-- Tipo de tacón: Plano
-- Cierre: Sin cordones
 - Anchura del zapato: Normal
 - Revestimiento: Sin forro
+- Cierre: Sin cordones
+- Tipo de tacón: Plano
 - Material de la suela: Caucho
 - Material exterior: Caucho
 
