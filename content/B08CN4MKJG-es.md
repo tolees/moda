@@ -29,9 +29,9 @@ Tienes [Desigual Vest Las Vegas Vestido Casual  Azul  S para Mujer](https://www.
 🔎:
 
 - 94% viscosa, 6% elastano
-- Corte cómodo
-- Cuello redondo
-- Estampado floral en el hombro y dobladillo opuesto en diagonal
 - Lavar a máquina con agua fría del revés
+- Cuello redondo
+- Corte cómodo
+- Estampado floral en el hombro y dobladillo opuesto en diagonal
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08CN4MKJG/?tag=tolees-21)
