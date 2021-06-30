@@ -28,9 +28,9 @@ En este momento está [Clarks Un Bali Trek  Sandalias de Talón Abierto Mujer  G
 
 🔎:
 
-- Altura del tacón: 3,5 cm
 - Exterior: piel
 - Suela: goma
+- Altura del tacón: 3,5 cm
 - Interior: textil
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07TJK3YLC/?tag=tolees-21)
