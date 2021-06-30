@@ -28,7 +28,7 @@ Tienes [JACK & JONES JCOBORO TEE SS CREW NECK  Camiseta Hombre  Negro  Black   M
 
 ℹ️:
 
-- Esta camiseta de la marca Jack & Jones se ha reducido a lo esencial; el modelo está fabricado en un algodón agradable y suave y equipado con un cuello redondo
 - Gracias al diseño minimalista, la camiseta de manga corta se puede combinar con todo
+- Esta camiseta de la marca Jack & Jones se ha reducido a lo esencial; el modelo está fabricado en un algodón agradable y suave y equipado con un cuello redondo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01E1BERC0/?tag=tolees-21)
