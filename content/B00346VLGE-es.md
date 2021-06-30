@@ -28,8 +28,8 @@ Está [Ray-Ban Clubmaster - Gafas de sol para hombre  Marrón  Marco: Marrón To
 
 ℹ️:
 
+- Protective case included
 - Color del producto es marrón (marco: marrón tortoise glas: verde w0366)
 - Producto de alta calidad de la marca RAY-BAN
-- Protective case included
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00346VLGE/?tag=tolees-21)

@@ -28,8 +28,8 @@ Ahora mismo tienes [Levi s LS Battery Hm Shirt Slim Camisa  White  White 0002   
 
 🔎:
 
-- Con faldón curvado
-- Minilogotipo de Levis en el pecho
 - Modelo casual
+- Minilogotipo de Levis en el pecho
+- Con faldón curvado
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TXDVMRF/?tag=tolees-21)
