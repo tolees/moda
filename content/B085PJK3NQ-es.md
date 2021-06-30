@@ -28,8 +28,8 @@ En este momento está [Réplica oficial camiseta primera equipación rfef 2020](
 
 🔎:
 
-- Logo del conmemorativo del centenario de la selección en el cuello.
 - Escudo y estrella de campeones del mundo bordadas.
+- Logo del conmemorativo del centenario de la selección en el cuello.
 - Producto oficial Licenciado
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B085PJK3NQ/?tag=tolees-21)

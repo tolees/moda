@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.71 % en Clarks Cotrell Edge  Zapatos de Cordones'
-date: 2021-06-27 09:45:50
+date: 2021-06-30 08:40:40
 image: 'https://m.media-amazon.com/images/I/31ezk5VAURL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
