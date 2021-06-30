@@ -29,8 +29,8 @@ Tienes [Jack & Jones JJDELIGHT tee SS Crew Neck Camiseta  Aqua/Ajuste: reg  L pa
 🔎:
 
 - T-Shirt
+- Imprimir
 - Algodón
 - convenientemente situado en
-- Imprimir
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08MV4ZNPD/?tag=tolees-21)

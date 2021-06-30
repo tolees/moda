@@ -29,7 +29,7 @@ En este momento está [Levi s 2Pack Camiseta  2 Pack tee White +/Smokestack Htr 
 🔎:
 
 - Con un logo Levis en el bajo
-- Elaboradas en punto suave
 - Modelos casual
+- Elaboradas en punto suave
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07KF3BNBJ/?tag=tolees-21)

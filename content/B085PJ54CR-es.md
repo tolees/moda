@@ -29,8 +29,8 @@ Tienes [RFEF - Camiseta réplica oficial de la primera equipación de la selecci
 🔎:
 
 - Escudo y estrella de campeones del mundo bordadas.
-- 100% poliester
 - Producto oficial Licenciado
 - Logo del conmemorativo del centenario de la selección en el cuello.
+- 100% poliester
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B085PJ54CR/?tag=tolees-21)

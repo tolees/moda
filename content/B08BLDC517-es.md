@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Geox D BULMYA B  Zapatillas Mujer  Negro al 59.67 % de descuento'
-date: 2021-06-06 00:04:12
+title: 'Geox D BULMYA B  Zapatillas Mujer  Negro al 52.15 % de descuento'
+date: 2021-06-30 09:18:11
 image: 'https://m.media-amazon.com/images/I/410QibawDcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B08BLDC517-es Geox D BULMYA B Zapatillas Mujer Negro 38 EU'
 sku: 'B08BLDC517-es'
 tags: [ 'Zapatillas casual para mujer','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','geox', ]
-actualPrice: 32.22 EUR
+actualPrice: 38.23 EUR
 currency: EUR
-price: 32.22
+price: 38.23
 comparePrice: 79.9 EUR
 prodname: 'Geox D BULMYA B  Zapatillas Mujer  Negro  38 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B08BLDC517/?tag=tolees-21'
-descuento: '59.67'
-average: '32.395'
+descuento: '52.15'
+average: '34.34'
 ---
 
-Ahora mismo tienes [Geox D BULMYA B  Zapatillas Mujer  Negro  38 EU](https://www.amazon.es/dp/B08BLDC517/?tag=tolees-21) a 32.22 EUR (original: 79.9 EUR) (59.67 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Geox D BULMYA B  Zapatillas Mujer  Negro  38 EU](https://www.amazon.es/dp/B08BLDC517/?tag=tolees-21) a 38.23 EUR (original: 79.9 EUR) (52.15 %  de descuento) en el siguiente enlace!
 
 [![Geox D BULMYA B  Zapatillas Mujer  Negro](https://m.media-amazon.com/images/I/410QibawDcL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08BLDC517/?tag=tolees-21)
 
