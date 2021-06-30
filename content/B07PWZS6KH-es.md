@@ -28,10 +28,10 @@ Está [Camper Micro  Sandalias con Punta Abierta Mujer  Rosa  Medium Brown 210  
 
 ℹ️:
 
-- Empeine: Piel (Piel vacuna)
 - Sistema de cierre de Velcro para un fácil ajuste
-- Forro:
+- Empeine: Piel (Piel vacuna)
 - Suela/Características: TPU con un agarre extraordinario
+- Forro:
 - Color: Marrón claro
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07PWZS6KH/?tag=tolees-21)
