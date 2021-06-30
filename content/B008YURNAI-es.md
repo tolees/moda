@@ -28,8 +28,8 @@ En este momento está [Geox U Drive Snake N  Mocasines Hombre  Beige  Taupe C602
 
 🔎:
 
-- Artículo: U2202N00022
 - Diseñador: Geox.
+- Artículo: U2202N00022
 - Color:
 - Temporada: primavera, verano.
 
