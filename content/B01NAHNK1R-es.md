@@ -1,0 +1,35 @@
+---
+layout: post
+title: 'G-STAR RAW Eyben V-Neck Slim Camiseta  M al 37.39 % de descuento'
+date: 2021-06-30 20:25:22
+image: 'https://m.media-amazon.com/images/I/31NbxMtdmWL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B01NAHNK1R-es G-STAR RAW Eyben V-Neck Slim Camiseta Mujer Negro Black L'
+sku: 'B01NAHNK1R-es'
+tags: [ 'Camisetas para mujer','Camisetas, tops y blusas para mujer','Ropa','Ropa para mujer','camiseta','g-star raw', ]
+actualPrice: 12.49 EUR
+currency: EUR
+price: 12.49
+comparePrice: 19.95 EUR
+prodname: 'G-STAR RAW Eyben V-Neck Slim Camiseta  Mujer  Negro  Black   L'
+country: 'es'
+flag: '🇪🇸'
+brand: 'G-STAR RAW'
+buyurl: 'https://www.amazon.es/dp/B01NAHNK1R/?tag=tolees-21'
+descuento: '37.39'
+average: '12.49'
+---
+
+Está [G-STAR RAW Eyben V-Neck Slim Camiseta  Mujer  Negro  Black   L](https://www.amazon.es/dp/B01NAHNK1R/?tag=tolees-21) con 37.39 de descuento por 12.49 EUR (original: 19.95 EUR) en el siguiente enlace!
+
+[![G-STAR RAW Eyben V-Neck Slim Camiseta  M](https://m.media-amazon.com/images/I/31NbxMtdmWL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B01NAHNK1R/?tag=tolees-21)
+
+ℹ️:
+
+- Cuello de pico
+- Marca en el pecho
+- Corte ajustado
+
+[🛒 Ver la oferta!!](https://www.amazon.es/dp/B01NAHNK1R/?tag=tolees-21)

@@ -28,9 +28,9 @@ En este momento está [Desigual Crewneck Tie Dye Sudadera  Azul  L para Mujer](h
 
 🔎:
 
-- Corte estándar
 - Cuello redondo
 - Camiseta tropical de algodón
 - Estampado de paisaje tropical por la noche
+- Corte estándar
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CL1RN93/?tag=tolees-21)
