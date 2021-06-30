@@ -28,7 +28,7 @@ Tienes [Vero Moda Vmimagine LS O-Neck Knit VMA suéter  Rojo  Birch Birch   44  
 
 🔎:
 
-- Knit Pullover mad of wool
 - Knit Pullover with ReBound neck
+- Knit Pullover mad of wool
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07TB4NSNH/?tag=tolees-21)
