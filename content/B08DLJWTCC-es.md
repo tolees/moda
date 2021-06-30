@@ -29,7 +29,7 @@ En este momento está [Puma ACM Home Shirt Replica Jr Camiseta  Unisex niños  T
 🔎:
 
 - Construcción combinada con Formstrip PUMA en los hombros y el panel trasero
-- Cuello redondo acanalado
 - Corte normal
+- Cuello redondo acanalado
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08DLJWTCC/?tag=tolees-21)

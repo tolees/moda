@@ -28,9 +28,9 @@ Tienes [Roxy Livia  Chanclas para Mujer  Amarillo  Mustard Mu0   38 EU](https://
 
 🔎:
 
-- Suela de goma
-- Tira trenzada y detalle con tachuela
 - Parte superior de piel sintética
+- Suela de goma
 - Plantilla pulida con ROXY bordado en relieve
+- Tira trenzada y detalle con tachuela
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07SX4YZHL/?tag=tolees-21)

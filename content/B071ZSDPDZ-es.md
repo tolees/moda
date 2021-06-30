@@ -29,7 +29,7 @@ Está [Jack & Jones Jjiliam Jjoriginal Am 502 Lid STS Vaqueros Skinny  Negro  Bl
 ℹ️:
 
 - Modelo: 12126504 JJILIAM JJORIGINAL AM 502 50 SPS NOOS BLACK DENIM
-- Marca: Jack&Jones
 - Jeans de color negro. Cierre con cremallera y botón. Corte skinny fit. Cinco bolsillos. Acabado con rotos.
+- Marca: Jack&Jones
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B071ZSDPDZ/?tag=tolees-21)
