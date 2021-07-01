@@ -28,10 +28,10 @@ Está [DC Shoes Spectrum - Chaqueta Para Nieve Para Hombre Chaqueta Para La Niev
 
 ℹ️:
 
-- Chaqueta de esquí/snowboard para hombre
-- Tratamiento impermeable sympatex 10K WEATHER Defence [10.000 mm/5000G]
-- Índice térmico: 1/1, Tejido interior de punto reforzado
-- Tejido elástico reforzado en mezcla de poliéster, diseño softshell
 - Sistema de ajuste con cordón de zapatilla.
+- Índice térmico: 1/1, Tejido interior de punto reforzado
+- Tratamiento impermeable sympatex 10K WEATHER Defence [10.000 mm/5000G]
+- Chaqueta de esquí/snowboard para hombre
+- Tejido elástico reforzado en mezcla de poliéster, diseño softshell
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07TTLQWY1/?tag=tolees-21)
