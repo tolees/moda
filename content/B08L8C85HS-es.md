@@ -28,8 +28,8 @@ Tienes [Tommy Hilfiger TH Stretch Slim Fit tee Camiseta  Verde Perenne Helado  L
 
 ℹ️:
 
-- Tommy Hilfiger hombres S/S camisetas
 - Este es un producto original y auténtico de Tommy Hilfiger.
 - Este producto se produce de forma sostenible
+- Tommy Hilfiger hombres S/S camisetas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08L8C85HS/?tag=tolees-21)
