@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Desigual Sweat ERIS Sudadera  Blue  13/1 con un 50.05 % de descuento'
-date: 2021-06-21 16:37:42
+date: 2021-07-01 16:48:11
 image: 'https://m.media-amazon.com/images/I/41f9bMHQVyS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
