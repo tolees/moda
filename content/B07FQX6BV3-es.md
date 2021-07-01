@@ -28,8 +28,8 @@ En este momento está [Clarks Un Maui Lace  Zapatos de Cordones Derby Mujer  Bei
 
 🔎:
 
-- Material interior: piel
 - Material exterior: piel lisa
+- Material interior: piel
 - Cierre: cordones
 - Suela: poliuretano
 
