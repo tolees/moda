@@ -29,9 +29,9 @@ Ahora mismo tienes [Skechers 51834   Sandalias de Punta Descubierta Hombre  Marr
 🔎:
 
 - Soft stretch mesh fabric edging and centre panel. Closed toe casual comfort sporty fisherman style sandal design.
-- Slip on design with slide lock for adjustable fit. Memory Foam full length cushioned comfort insole.
-- Supportive shock absorbing midsole.
-- Open side panels with contrast coloured edging. Stretch bungee laced front panel for slip on comfort.
 - Soft neoprene fabric strap edging trim. Closed toe front.
+- Slip on design with slide lock for adjustable fit. Memory Foam full length cushioned comfort insole.
+- Open side panels with contrast coloured edging. Stretch bungee laced front panel for slip on comfort.
+- Supportive shock absorbing midsole.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07532SSVV/?tag=tolees-21)
