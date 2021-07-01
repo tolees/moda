@@ -28,7 +28,7 @@ En este momento está [FILA Sandblast C wmn zapatilla Mujer  violeta  Light Lila
 
 🔎:
 
-- Platform outsole
 - Lona
+- Platform outsole
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08FNDJBCH/?tag=tolees-21)

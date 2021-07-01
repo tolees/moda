@@ -28,10 +28,10 @@ En este momento está [TIUTIU Vaqueros De Moto Para Caballero  Con 4 Almohadilla
 
 🔎:
 
-- Material: Denim, 97% algodón + 3% elastano.
 - Diseño elegante y seguridad de conducción, 4 rodilleras y protectores de cadera, muy adecuados para motocicletas y para la conducción diaria.
-- Incluyendo la certificación CE EN1621-1 de la Unión Europea: equipo de protección de motocicleta 1997, módulo de protección de esponja X2 de rodilla y cadera X2.
 - Diseño de rodilla y pliegue trasero: puede dar a los caballeros más flexibilidad, tejido funcional retráctil de alta tecnología y alta ergonomía.
+- Material: Denim, 97% algodón + 3% elastano.
 - Cuando no está en uso, se puede quitar rápidamente, lo que es diferente de las almohadillas de protección para pantalones a prueba de golpes que generalmente se compran en el mercado.
+- Incluyendo la certificación CE EN1621-1 de la Unión Europea: equipo de protección de motocicleta 1997, módulo de protección de esponja X2 de rodilla y cadera X2.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0878NPXJ8/?tag=tolees-21)
