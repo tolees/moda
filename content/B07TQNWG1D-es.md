@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Housemark Graphic tee Camiseta  G al 53.37 % de descuento'
-date: 2021-06-28 13:54:50
+date: 2021-07-01 21:16:27
 image: 'https://m.media-amazon.com/images/I/410pxI+HUYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07TQNWG1D/?tag=tolees-21'
 descuento: '53.37'
-average: '17.81'
+average: '17.4916666666667'
 ---
 
 Está [Levi s Housemark Graphic tee Camiseta  Green  Hm Ssnl Emb Aloe 0250   Small para Hombre](https://www.amazon.es/dp/B07TQNWG1D/?tag=tolees-21) con 53.37 de descuento por 13.99 EUR (original: 30.0 EUR) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [Levi s Housemark Graphic tee Camiseta  Green  Hm Ssnl Emb Aloe 0250   Sma
 
 ℹ️:
 
-- Modelo casual
 - Tiene estampado el logotipo de Levis
 - Ofrece comodidad todo el día
+- Modelo casual
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07TQNWG1D/?tag=tolees-21)
