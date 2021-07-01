@@ -28,8 +28,8 @@ En este momento está [Skechers TOCKER  Sandalias deslizantes Hombre  Gris  40 E
 
 🔎:
 
-- Percha opcional
 - Lavable a máquina
 - Espuma viscoelástica
+- Percha opcional
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08LDCSNLH/?tag=tolees-21)
