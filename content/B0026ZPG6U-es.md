@@ -28,12 +28,12 @@ Está [Converse - Todos los Zapatos Deportivos Star Ox Bordeaux](https://www.ama
 
 ℹ️:
 
-- Material interior: tela
 - Talla: 35
-- La estación ideal: para todas las estaciones
 - Material exterior: lona
+- Material interior: tela
+- La estación ideal: para todas las estaciones
 - Cierre: cordones
-- Adecuado para: unisex (adultos)
 - Estilo: zapatillas clásicas
+- Adecuado para: unisex (adultos)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0026ZPG6U/?tag=tolees-21)
