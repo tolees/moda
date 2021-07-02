@@ -28,9 +28,9 @@ Ahora mismo tienes [G-STAR RAW 3301 Straight Jeans Vaqueros  Antic Charcoal B479
 
 🔎:
 
-- Cierre: Boton y cierre
 - Usado
 - Lavar a máquina - agua fría (30 ° max)
+- Cierre: Boton y cierre
 - 98% Algodón, 2% Elastano
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07RH2CKTP/?tag=tolees-21)
