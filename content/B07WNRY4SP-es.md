@@ -28,7 +28,7 @@ Tienes [Skechers Sargo Reyon  Chanclas Hombre  Negro  Black Canvas Black   39.5 
 
 🔎:
 
-- Espuma viscoelástica
 - Ajuste holgado
+- Espuma viscoelástica
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07WNRY4SP/?tag=tolees-21)
