@@ -28,7 +28,7 @@ En este momento está [GEOX U FEDERICO V BLACK Men s Derbys  Oxfords and Monk Sh
 
 🔎:
 
-- adulto
 - Negro
+- adulto
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B005DXDV3C/?tag=tolees-21)
