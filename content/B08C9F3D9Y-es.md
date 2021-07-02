@@ -28,8 +28,8 @@ Tienes [Tommy Jeans TJM Essential Casual Bomber Chaqueta  Azul Cobalto  M para H
 
 🔎:
 
-- Para más información sobre Tommy Jeans, consulta la sección de descripción del producto a continuación
-- Este es un producto auténtico y original Tommy Jeans.
 - Este producto ha sido fabricado de forma sostenible con materiales sostenibles
+- Este es un producto auténtico y original Tommy Jeans.
+- Para más información sobre Tommy Jeans, consulta la sección de descripción del producto a continuación
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08C9F3D9Y/?tag=tolees-21)
