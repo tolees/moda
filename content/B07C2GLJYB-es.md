@@ -28,8 +28,8 @@ Ahora mismo tienes [Marca Amazon - Truth & Fable Vestido Dama de Honor Maxi Muje
 
 🔎:
 
-- De corte largo a ras del suelo para un efecto espectacular
-- Una marca de Amazon
 - Prenda confeccionada en chifón semitransparente, ligero y fluido
+- Una marca de Amazon
+- De corte largo a ras del suelo para un efecto espectacular
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07C2GLJYB/?tag=tolees-21)
