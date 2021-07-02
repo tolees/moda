@@ -28,9 +28,9 @@ Tienes [G-STAR RAW Base-S Camiseta  Berge 336-4244  L para Hombre](https://www.a
 
 ℹ️:
 
-- Bajo recto
-- Manga corta
-- Cuello redondo
 - Bordado de G-Star RAW en el pecho
+- Bajo recto
+- Cuello redondo
+- Manga corta
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08CN2K5KM/?tag=tolees-21)

@@ -28,8 +28,8 @@ Tienes [Helly Hansen HP Racing Prueba De Viento Y Respirable Cuello Forro Polar 
 
 🔎:
 
-- Helly Tech Performance: altamente impermeable y extra transpirable
 - Construcción completamente estirada para una máxima libertad de movimiento.
+- Helly Tech Performance: altamente impermeable y extra transpirable
 - Protección total de los elementos a la vez que cómoda en el interior.
 - Polartec cuello cómodo forrado con vellón
 

@@ -28,8 +28,8 @@ Tienes [BOSS Tales Camiseta  Azul  Dark Blue 404   X-Large para Hombre](https://
 
 🔎:
 
-- Corte estándar.
 - 100% algodón.
+- Corte estándar.
 - Corte normal.
 - Instrucciones de cuidado: lavar a máquina en frío (30 ° máx.).
 
