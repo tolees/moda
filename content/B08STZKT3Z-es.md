@@ -28,10 +28,10 @@ En este momento está [DeFacto Pijama de punto para hombre  de ajuste ajustado  
 
 🔎:
 
-- Instrucciones de lavado: lavar por separado. Producto de lavado desde el interior hacia el exterior. Utilice el detergente recomendado para pintura. Planchado. No lo dejes mojado. Por favor, sécala mientras se coloca en un suelo plano. Debido a la construcción de hilos especiales, la ropa puede ser rugosa.
 - Alta calidad: los pantalones de chándal DeFacto Lace-Up Slim Fit están hechos de tela de algodón, que proporciona un uso cómodo. Cintura con cordones ajustables. Será un ambiente moderno y dinámico a tu estilo con su elegante diseño, para añadir ahora y disfrutar del producto de tu casa.
-- Tamaño: el tamaño es de Estados Unidos. Por favor, lee la información de tallas en la descripción del producto para elegir tu propio tamaño
 - ✅ Ocasión: con el modelo dinámico puedes crear combinaciones elegantes con sudaderas, camisas y sudaderas.
+- Instrucciones de lavado: lavar por separado. Producto de lavado desde el interior hacia el exterior. Utilice el detergente recomendado para pintura. Planchado. No lo dejes mojado. Por favor, sécala mientras se coloca en un suelo plano. Debido a la construcción de hilos especiales, la ropa puede ser rugosa.
 - ✅ Material: pantalones DeFacto para hombre hechos de algodón 50 % otras fibras 5 % poliéster 45 %. Tejido transpirable, cómodo en la piel.
+- Tamaño: el tamaño es de Estados Unidos. Por favor, lee la información de tallas en la descripción del producto para elegir tu propio tamaño
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08STZKT3Z/?tag=tolees-21)

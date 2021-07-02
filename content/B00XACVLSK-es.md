@@ -28,10 +28,10 @@ Tienes [Scholl  Desodorante Pies Fresh Step anti-transpirante  elimina el olor y
 
 ℹ️:
 
+- MODO DE USO: Agitar bien antes de usar. Mantén el spray a 10-15 cm de distancia y aplica el spray abundantemente sobre la piel seca y limpia. Insiste en la planta del pie y entre los dedos, donde se concentra más el sudor
 - SCHOLL FRESH STEP ANTI-TRANSPIRANTE DESODORANTE DE PIES: Especialmente desarrollado con la fórmula Tri-Active
 - ELIMINA INSTÁNTANEAMENTE EL OLOR y OFRECE 24H DE PROTECCIÓN: Proporciona a los pies 24h de protección contra el olor
 - REDUCE LA HUMEDAD CON ACCIÓN SECANTE
-- MODO DE USO: Agitar bien antes de usar. Mantén el spray a 10-15 cm de distancia y aplica el spray abundantemente sobre la piel seca y limpia. Insiste en la planta del pie y entre los dedos, donde se concentra más el sudor
 - CON UNA LIGERA FRAGANCIA QUE MANTIENE LOS PIES FRESCOS TODO EL DÍA: Quítate los zapatos sin sentirte incómodo gracias a la ligera fragancia del Spray Anti-Transpirante de Scholl que previene el olor y mantiene los pies frescos todo el día. Dermatológicamente testado
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00XACVLSK/?tag=tolees-21)

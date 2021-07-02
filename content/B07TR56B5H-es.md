@@ -28,10 +28,10 @@ Tienes [David Jones - Bolso de Mano Trabajo Mujer - Shopper Tote Bag PU Piel - G
 
 ℹ️:
 
-- MATERIAL & DETALLES: Piel sintética estriada en Saffiano en relieve. Elementos metálicos plateados. 4 remaches de protección debajo del fondo del bolso. Totalizador estilo maletín con muchos bolsillos.
-- MARCA DAVID JONES: Bolsos para niña, señora, mujer. Diseñado en París Francia - Fabricado con piel sintética de primera calidad. Detalles y acabados de calidad.
-- DESIGN & TIPO DE BOLSOS: Gran bolso de mano con bolsillo frontal y asa superior. Chic y elegante shopper tote, perfecto para diario vida, el trabajo, la escuela, ciudad, oficina. A4 formato conveniente.
 - BANDOLERA: Ajustable y desprendible, usada sobre el hombro o cruzado. BOLSILLOS: Interior: 2 bolsillos para teléfono móvil, 2 bolsillos con cremallera, exterior: 1 bolsillo frontal y trasero con cremallera.
+- DESIGN & TIPO DE BOLSOS: Gran bolso de mano con bolsillo frontal y asa superior. Chic y elegante shopper tote, perfecto para diario vida, el trabajo, la escuela, ciudad, oficina. A4 formato conveniente.
+- MARCA DAVID JONES: Bolsos para niña, señora, mujer. Diseñado en París Francia - Fabricado con piel sintética de primera calidad. Detalles y acabados de calidad.
 - CIERRE & DIMENSIONES: Cierre con cremallera. Longitud 33 x Altura 27 x Ancho 13 cm. Gran capacidad satchel para ordenador portátil de 13 pulgadas, tableta grande, documentos A4, clasificador, billetera, teléfono. La carpeta no caben en la bolsa.
+- MATERIAL & DETALLES: Piel sintética estriada en Saffiano en relieve. Elementos metálicos plateados. 4 remaches de protección debajo del fondo del bolso. Totalizador estilo maletín con muchos bolsillos.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07TR56B5H/?tag=tolees-21)
