@@ -28,10 +28,10 @@ En este momento está [Skechers C-Flex Sandal 2.0 Heat Blast  Sandalias para Pes
 
 🔎:
 
-- Cierre Bucle de gancho
-- Sintético superior
 - Ninguno
-- Pescador Sandalias
+- Sintético superior
 - Skechers
+- Pescador Sandalias
+- Cierre Bucle de gancho
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07XDYSKM3/?tag=tolees-21)

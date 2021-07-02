@@ -28,8 +28,8 @@ Está [Lee Daren Zip Fly Vaqueros  Indian Teal  29W / 34L para Hombre](https://w
 
 ℹ️:
 
+- Regular Straight
 - 5 bolsillos.
 - Alargador OTHER FLATS STRETCH
-- Regular Straight
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08CXJRHV1/?tag=tolees-21)
