@@ -28,8 +28,8 @@ Ahora mismo tienes [Jack & Jones Jjeholmen Sweat Zip Hood Noos Sudadera  Negro  
 
 🔎:
 
+- Sudadera con capucha de manga larga de color negro. Cierre con cremallera. Dos bolsillos exteriores. Detalle bordado.
 - Modelo: 12136884 JJEHOLMEN SWEAT ZIP HOOD NOOS
 - Marca: JACK&JONES
-- Sudadera con capucha de manga larga de color negro. Cierre con cremallera. Dos bolsillos exteriores. Detalle bordado.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07B67ZK2P/?tag=tolees-21)

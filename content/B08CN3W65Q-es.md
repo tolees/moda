@@ -28,9 +28,9 @@ Tienes [G-STAR RAW Originals Stripe Logo Camiseta  Amarillo Cab 336-3749  M para
 
 ℹ️:
 
-- Estampado gráfico de caucho en el pecho
-- Cuello redondo de canalé
 - Manga corta
 - Bajo recto
+- Cuello redondo de canalé
+- Estampado gráfico de caucho en el pecho
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08CN3W65Q/?tag=tolees-21)
