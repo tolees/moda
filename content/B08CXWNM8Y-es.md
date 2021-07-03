@@ -28,9 +28,9 @@ En este momento está [Lee Daren Zip Fly Vaqueros  Bleached Dale  31W / 34L para
 
 🔎:
 
-- Denim Stretch
-- Tejido vaquero elástico
 - 5 bolsillos
+- Tejido vaquero elástico
 - Regular Straight
+- Denim Stretch
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CXWNM8Y/?tag=tolees-21)

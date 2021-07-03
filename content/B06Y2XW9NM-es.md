@@ -28,7 +28,7 @@ Tienes [New Balance ML574V2  Zapatilla Baja Hombre  Black Iris  49 EU](https://w
 
 🔎:
 
-- Material exterior: Cuero
 - Revestimiento: Tela
+- Material exterior: Cuero
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B06Y2XW9NM/?tag=tolees-21)
