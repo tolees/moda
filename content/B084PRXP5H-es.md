@@ -28,8 +28,8 @@ Tienes [FM London Antonio Rossi Fitted Boxer para Hombre  Gris  Blanco y Negro  
 
 ℹ️:
 
-- FM London
 - Paquete de 12 calzoncillos hipster para hombre.
 - Mezcla de 95 % algodón y 5 % elastano.
+- FM London
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B084PRXP5H/?tag=tolees-21)
