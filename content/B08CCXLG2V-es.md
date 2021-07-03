@@ -28,7 +28,7 @@ Ahora mismo tienes [Tommy Hilfiger All Over Hawaiian Print tee Camiseta  Blanco/
 
 🔎:
 
-- Para más información sobre Tommy Hilfiger, consulta la sección de descripción del producto a continuación.
 - Este es un producto auténtico y original de Tommy Hilfiger.
+- Para más información sobre Tommy Hilfiger, consulta la sección de descripción del producto a continuación.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CCXLG2V/?tag=tolees-21)
