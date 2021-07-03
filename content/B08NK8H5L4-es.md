@@ -29,8 +29,8 @@ Tienes [Vans Spicoli 4 Shades Gafas  Cyber Yellow Translucent  Talla Única para
 🔎:
 
 - Alta calidad
-- De la marca Vans
 - Diseno funcional
+- De la marca Vans
 - Materiales resistentes
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08NK8H5L4/?tag=tolees-21)
