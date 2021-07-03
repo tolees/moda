@@ -28,8 +28,8 @@ Tienes [Amazon Essentials Sleeveless Linen Dress Vestido  Rayas Azules francesas
 
 ℹ️:
 
-- Una marca de Amazon
 - Corte cómodo y fluido
+- Una marca de Amazon
 - Tessuto in lino leggero e fresco per un effetto comodo, soffice e traspirante
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07YLJGWC5/?tag=tolees-21)
