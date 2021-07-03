@@ -28,9 +28,9 @@ Está [G-STAR RAW Chest Graphic Slim Camiseta  Dk Black 336-6484  XS para Hombre
 
 ℹ️:
 
-- Manga corta
 - Bajo recto
-- Escote de pico acanalado, pegado al cuello
+- Manga corta
 - Gráfico estampado en el pecho
+- Escote de pico acanalado, pegado al cuello
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08CN3FZ91/?tag=tolees-21)

@@ -28,8 +28,8 @@ En este momento está [Desigual TS Dublin Camiseta  Azul  S para Mujer](https://
 
 🔎:
 
-- Refuerzo en el talón y la puntera
 - Floral Camouflage
+- Refuerzo en el talón y la puntera
 - Zapatillas de correr bordadas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CN5R1Z8/?tag=tolees-21)
