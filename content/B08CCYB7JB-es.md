@@ -28,7 +28,7 @@ Ahora mismo tienes [Tommy Hilfiger Essential Tommy tee Camiseta  Gris Medio  XS 
 
 🔎:
 
-- Este producto ha sido fabricado de forma sostenible con materiales sostenibles
 - Este es un producto auténtico y original de Tommy Hilfiger
+- Este producto ha sido fabricado de forma sostenible con materiales sostenibles
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CCYB7JB/?tag=tolees-21)
