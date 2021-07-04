@@ -29,8 +29,8 @@ En este momento está [Element Vertical Camiseta de Manga Corta para Hombre](htt
 🔎:
 
 - El material absorbe el calor y se seca rápidamente
+- Ofrece una comodidad óptima
 - Tejido de punto de algodón
 - Estampado en parte delantera
-- Ofrece una comodidad óptima
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08TC723ZC/?tag=tolees-21)
