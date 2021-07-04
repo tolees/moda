@@ -28,10 +28,10 @@ En este momento está [Pepe Jeans New Brooke Vaqueros  Black 999  24W / 32L para
 
 🔎:
 
-- Tiro medio
-- Fit ajustado
-- Tejido denim medio
 - Pierna ajustada
 - Vaqueros estilo 5 bolsillos
+- Tejido denim medio
+- Tiro medio
+- Fit ajustado
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B008IEOCRM/?tag=tolees-21)
