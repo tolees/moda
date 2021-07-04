@@ -28,10 +28,10 @@ Tienes [Asics Patriot 12  Zapatos para Correr Mujer  Negro  Black/Hot Pink   39 
 
 🔎:
 
-- Amortiguación de gel
 - Tecnología FLYTEFOAM
 - Refuerzos en los dedos de los pies
-- Innovador material de malla
 - Amortiguación EVA
+- Innovador material de malla
+- Amortiguación de gel
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08PG11RH9/?tag=tolees-21)
