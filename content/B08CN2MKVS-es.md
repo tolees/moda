@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'G-STAR RAW Base-S Camiseta  Dark Candy 3 al 54.60 % de descuento'
-date: 2021-07-02 22:14:33
+date: 2021-07-04 17:20:19
 image: 'https://m.media-amazon.com/images/I/41grpEYrEhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

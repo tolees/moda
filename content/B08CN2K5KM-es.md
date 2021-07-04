@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.00 % en G-STAR RAW Base-S Camiseta  Berge 336-42'
-date: 2021-07-02 13:33:33
+date: 2021-07-04 17:20:13
 image: 'https://m.media-amazon.com/images/I/31HKKFA7nfS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [G-STAR RAW Base-S Camiseta  Berge 336-4244  L para Hombre](https://www.a
 
 ℹ️:
 
-- Bordado de G-Star RAW en el pecho
-- Bajo recto
-- Cuello redondo
 - Manga corta
+- Bordado de G-Star RAW en el pecho
+- Cuello redondo
+- Bajo recto
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08CN2K5KM/?tag=tolees-21)

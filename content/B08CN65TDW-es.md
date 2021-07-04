@@ -29,7 +29,7 @@ Tienes [Desigual TS Ocean Camiseta  marrón  S para Mujer](https://www.amazon.es
 ℹ️:
 
 - Floral Camouflage
-- Zapatillas de correr bordadas
 - Refuerzo en el talón y la puntera
+- Zapatillas de correr bordadas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08CN65TDW/?tag=tolees-21)
