@@ -28,7 +28,7 @@ Tienes [Clarks Un Karely Sun  Chanclas Mujer  Dorado  Gold Metallic-   35 EU](ht
 
 ℹ️:
 
-- Material de la suela: EVA
 - Color exacto: Sage Nubuck
+- Material de la suela: EVA
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07FR5FNVJ/?tag=tolees-21)
