@@ -28,10 +28,10 @@ Ahora mismo tienes [Cerdá Pijama Niña de Elsa Disney Frozen 2-Camiseta + Panta
 
 🔎:
 
-- Pijamas infantiles con licencia oficial Elsa Frozen 2
-- Lavar a máquina - agua fría (30 ° max) | Planchar a baja temperatura (max 110ºC)
-- Talla idónea para niños entre 4 - 5 años
-- Pijama de verano compuesto por una camiseta de tirantes y un pantalón corto con cintura con cordon para mayor comodidad y ajuste | 100% algodón
 - Pijama corto para las noches de verano | Permite que descanse correctamente sin que pase mucho calor durante las noches
+- Pijama de verano compuesto por una camiseta de tirantes y un pantalón corto con cintura con cordon para mayor comodidad y ajuste | 100% algodón
+- Lavar a máquina - agua fría (30 ° max) | Planchar a baja temperatura (max 110ºC)
+- Pijamas infantiles con licencia oficial Elsa Frozen 2
+- Talla idónea para niños entre 4 - 5 años
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0847MJYMJ/?tag=tolees-21)

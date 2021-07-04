@@ -28,10 +28,10 @@ En este momento está [G-STAR RAW 3301 Straight Jeans Vaqueros  Faded Riverblue 
 
 🔎:
 
-- Talle medio
-- Corte recto del muslo a los bajos
 - Construcción con cinco bolsillos
+- Talle medio
 - Bragueta de botones sin ojal
+- Corte recto del muslo a los bajos
 - Corte recto del muslo a los bajos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CGL3LNK/?tag=tolees-21)
