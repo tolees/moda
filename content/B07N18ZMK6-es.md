@@ -29,9 +29,9 @@ Está [G-STAR RAW Lynn Mid Skinny Vaqueros  Azul  Medium Aged 6132-071   23W / 3
 ℹ️:
 
 - Usado
-- Cierre: Boton y cierre
-- Skinny
 - Lavar a máquina - agua fría (30 ° max)
+- Skinny
 - 92% Algodón, 7% Poliéster, 1% Elastano
+- Cierre: Boton y cierre
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07N18ZMK6/?tag=tolees-21)
