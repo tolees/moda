@@ -28,7 +28,7 @@ Ahora mismo tienes [Only Onlsilvery S/S V Neck Lurex Top Jrs Noos Camiseta  Rosa
 
 🔎:
 
-- plain basic t-shirt
 - v-neck
+- plain basic t-shirt
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07PBXJHGF/?tag=tolees-21)
