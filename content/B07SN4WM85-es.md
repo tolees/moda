@@ -28,12 +28,12 @@ Tienes [Havaianas Luna  Sandalias de Talón Abierto para Mujer  Rosa  Crocus Ros
 
 ℹ️:
 
-- Material exterior: Caucho
 - Cierre: Sin cordones
-- Revestimiento: Sin forro
-- Altura del tacón: 1 centímetros
-- Material de la suela: Goma
-- Anchura del zapato: Normal
 - Tipo de tacón: Plano
+- Material exterior: Caucho
+- Material de la suela: Goma
+- Revestimiento: Sin forro
+- Anchura del zapato: Normal
+- Altura del tacón: 1 centímetros
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07SN4WM85/?tag=tolees-21)
