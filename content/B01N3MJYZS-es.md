@@ -28,7 +28,7 @@ En este momento está [Only onlSILVERY S/S V Neck Lurex Top JRS Noos Camiseta  N
 
 🔎:
 
-- Añade un toque de glamour a tu look diario con esta camiseta. La camiseta ligera de Only tiene un cuello en V que acentúa tu escote.
 - La camiseta ligera de viscosa tiene un acabado brillante gracias a un porcentaje de fibras metálicas.
+- Añade un toque de glamour a tu look diario con esta camiseta. La camiseta ligera de Only tiene un cuello en V que acentúa tu escote.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01N3MJYZS/?tag=tolees-21)
