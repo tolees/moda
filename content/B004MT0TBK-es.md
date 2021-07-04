@@ -28,8 +28,8 @@ Tienes [Ray-Ban - Gafas de sol Aviador Aviator Large Metal Aviator metal  Silver
 
 ℹ️:
 
-- Color del producto es silver
 - Producto de alta calidad de la marca RAY-BAN
 - Tamaño: 58/14/135
+- Color del producto es silver
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B004MT0TBK/?tag=tolees-21)
