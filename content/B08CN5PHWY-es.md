@@ -28,8 +28,8 @@ Tienes [Desigual TS Leaves Camiseta  Negro  S para Mujer](https://www.amazon.es/
 
 ℹ️:
 
-- Refuerzo en el talón y la puntera
-- Zapatillas de correr bordadas
 - Floral Camouflage
+- Zapatillas de correr bordadas
+- Refuerzo en el talón y la puntera
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08CN5PHWY/?tag=tolees-21)
