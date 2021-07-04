@@ -29,8 +29,8 @@ Ahora mismo tienes [G-STAR RAW Eyben Slim Camiseta  Lavender Pink 2757-c340-Lave
 🔎:
 
 - Cuello de pico acanalado
-- Estampado de G-Star RAW en el pecho
-- Bajo recto
 - Manga corta recta insertada
+- Bajo recto
+- Estampado de G-Star RAW en el pecho
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CN2NSZ7/?tag=tolees-21)

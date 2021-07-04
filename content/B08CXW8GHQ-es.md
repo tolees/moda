@@ -28,8 +28,8 @@ En este momento está [Desigual TS Ocean Camiseta  marrón  L para Mujer](https:
 
 🔎:
 
-- Floral Camouflage
 - Zapatillas de correr bordadas
+- Floral Camouflage
 - Refuerzo en el talón y la puntera
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CXW8GHQ/?tag=tolees-21)

@@ -28,8 +28,8 @@ En este momento está [G-STAR RAW Eyben V-Neck Slim Camiseta  Mujer  Blanco  Whi
 
 🔎:
 
-- Cuello de pico
 - Marca en el pecho
 - Corte ajustado
+- Cuello de pico
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01N7GNO8E/?tag=tolees-21)

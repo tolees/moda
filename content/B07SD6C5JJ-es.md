@@ -28,7 +28,7 @@ Tienes [Only ONLSILVERY S/S V Neck Lurex Top JRS Noos Camiseta  Rojo  Wax Henna 
 
 ℹ️:
 
-- Plain basic t-shirt material
 - V-neck
+- Plain basic t-shirt material
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07SD6C5JJ/?tag=tolees-21)
