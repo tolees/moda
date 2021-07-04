@@ -28,7 +28,7 @@ Ahora mismo tienes [BOSS tee 7 10223985 01 Camiseta  Light/Pastel Grey59  S para
 
 🔎:
 
-- Jersey ligero elástico
 - Acabado de alta calidad
+- Jersey ligero elástico
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CF2RX2M/?tag=tolees-21)
