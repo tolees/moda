@@ -29,8 +29,8 @@ En este momento está [G-STAR RAW Originals Stripe Logo Camiseta  Sartho Blue 33
 🔎:
 
 - Manga corta
-- Cuello redondo de canalé
 - Bajo recto
+- Cuello redondo de canalé
 - Estampado gráfico de caucho en el pecho
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CN2DLQ3/?tag=tolees-21)
