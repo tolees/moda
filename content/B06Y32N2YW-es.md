@@ -28,7 +28,7 @@ Ahora mismo tienes [New Balance ML574V2  Zapatilla Baja Hombre  Grey  37 EU](htt
 
 🔎:
 
-- Material exterior: Cuero
 - Revestimiento: Tela
+- Material exterior: Cuero
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B06Y32N2YW/?tag=tolees-21)

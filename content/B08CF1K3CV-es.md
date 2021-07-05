@@ -28,7 +28,7 @@ En este momento está [BOSS Pauletech 1 10233462 01 Camisa de Polo  Navy410  L p
 
 🔎:
 
-- Acabado de alta calidad
 - Melange Tech
+- Acabado de alta calidad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CF1K3CV/?tag=tolees-21)

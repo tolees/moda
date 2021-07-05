@@ -28,7 +28,7 @@ Ahora mismo tienes [BOSS Pauletech 1 10233462 01 Camisa de Polo  Negro1  S para 
 
 🔎:
 
-- Tech Melange.
 - Acabados excelentes.
+- Tech Melange.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CF2PHTP/?tag=tolees-21)

@@ -28,8 +28,8 @@ Ahora mismo tienes [Levi s tee Camiseta  Lemon Meringue  S para Mujer](https://w
 
 🔎:
 
-- Elaborada en punto suave
 - Modelo casual
+- Elaborada en punto suave
 - Con un discreto logo en el pecho
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07ZVPW2JL/?tag=tolees-21)

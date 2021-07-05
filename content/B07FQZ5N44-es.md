@@ -28,8 +28,8 @@ Tienes [Clarks Un Maui Lace  Zapatos de Cordones Derby Mujer  Beige  Nude Leathe
 
 🔎:
 
-- Suela: Base de poliuretano.
 - Material interior: Piel.
+- Suela: Base de poliuretano.
 - Empeine: Piel suave.
 - Cierre: Cordones.
 
