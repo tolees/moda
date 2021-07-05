@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New Balance ML574V2  Zapatilla Baja Homb al 33.39 % de rebaja'
-date: 2021-07-04 17:57:49
+date: 2021-07-05 18:20:11
 image: 'https://m.media-amazon.com/images/I/41Un7vMKtpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'New Balance'
 buyurl: 'https://www.amazon.es/dp/B06Y2XW9NM/?tag=tolees-21'
 descuento: '33.39'
-average: '60.2966666666667'
+average: '60.21'
 ---
 
 Tienes [New Balance ML574V2  Zapatilla Baja Hombre  Black Iris  49 EU](https://www.amazon.es/dp/B06Y2XW9NM/?tag=tolees-21) con precio final de  59.95 EUR (original: 90.0 EUR) (33.39 %  de rebaja) aqui!
