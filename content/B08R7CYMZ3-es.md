@@ -28,9 +28,9 @@ En este momento está [Quiksilver - Pantalón de Chándal para Adulto](https://w
 
 🔎:
 
+- Bolsillos laterales y bolsillo trasero
 - Cierre con cordón ajustable
 - Corte: corte normal, clásico, cómodo
-- Bolsillos laterales y bolsillo trasero
 - tejido:tejido de gramaje medio mezcla de algodón y poliéster
 - Estampado Quiksilver en la parte frontal
 

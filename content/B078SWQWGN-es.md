@@ -28,8 +28,8 @@ En este momento está [Timberland Malibu Waves Ankle  Sandalias Mujer  Negro Bla
 
 🔎:
 
-- Hebilla
 - Cuero
+- Hebilla
 - Tela
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078SWQWGN/?tag=tolees-21)
