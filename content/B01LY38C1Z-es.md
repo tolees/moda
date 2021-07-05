@@ -28,7 +28,7 @@ Está [Skechers Graceful-Get Connected  Zapatilla Baja Mujer  Gris  CCGR Black M
 
 ℹ️:
 
-- Peso ligero
 - Suela flexible
+- Peso ligero
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01LY38C1Z/?tag=tolees-21)

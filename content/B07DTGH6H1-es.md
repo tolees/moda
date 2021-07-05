@@ -28,9 +28,9 @@ Está [Lacoste Croco Slide 119 1 CMA  Sandalias de Punta Descubierta Hombre  Whi
 
 ℹ️:
 
-- Tiras de goma hidrófuga
-- Empeine de material sintético
-- Cocodrilo de color oversized a contraste
 - Suela de PU
+- Tiras de goma hidrófuga
+- Cocodrilo de color oversized a contraste
+- Empeine de material sintético
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07DTGH6H1/?tag=tolees-21)
