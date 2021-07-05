@@ -1,38 +1,36 @@
 ---
 layout: post
-title: 'adidas CORE18 SW Top Sudadera  Hombre  R al 35.11 % de descuento'
-date: 2021-06-23 16:21:11
+title: 'adidas Core18 Sw Top Sudadera  Hombre  R al 35.11 % de descuento'
+date: 2021-07-05 09:15:41
 image: 'https://m.media-amazon.com/images/I/41NkKbsR8hL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B076HQZQ92-es adidas CORE18 SW Top Sudadera Hombre Rojo Rojo/Blanco L'
+slug: 'B076HQZQ92-es adidas Core18 Sw Top Sudadera Hombre Rojo Rojo/Blanco L'
 sku: 'B076HQZQ92-es'
 tags: [ 'Jerséis, cárdigans y sudaderas para hombre','Ropa','Ropa para hombre','Sudaderas para hombre','Sudaderas sin capucha para hombre','adidas','sudadera', ]
 actualPrice: 25.95 EUR
 currency: EUR
 price: 25.95
 comparePrice: 39.99 EUR
-prodname: 'adidas CORE18 SW Top Sudadera  Hombre  Rojo  Rojo/Blanco   L'
+prodname: 'adidas Core18 Sw Top Sudadera  Hombre  Rojo  Rojo/Blanco   L'
 country: 'es'
 flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076HQZQ92/?tag=tolees-21'
 descuento: '35.11'
-average: '25.6433333333334'
+average: '25.6669230769231'
 ---
 
-Ahora mismo tienes [adidas CORE18 SW Top Sudadera  Hombre  Rojo  Rojo/Blanco   L](https://www.amazon.es/dp/B076HQZQ92/?tag=tolees-21) a 25.95 EUR (original: 39.99 EUR) (35.11 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [adidas Core18 Sw Top Sudadera  Hombre  Rojo  Rojo/Blanco   L](https://www.amazon.es/dp/B076HQZQ92/?tag=tolees-21) a 25.95 EUR (original: 39.99 EUR) (35.11 %  de descuento) en el siguiente enlace!
 
-[![adidas CORE18 SW Top Sudadera  Hombre  R](https://m.media-amazon.com/images/I/41NkKbsR8hL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B076HQZQ92/?tag=tolees-21)
+[![adidas Core18 Sw Top Sudadera  Hombre  R](https://m.media-amazon.com/images/I/41NkKbsR8hL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B076HQZQ92/?tag=tolees-21)
 
 🔎:
 
-- Mangas con ribete en contraste.
-- Cuenta con un pequeño logotipo de Adidas en el pecho
-- Corte clásico más ancho y silueta recta.
-- Manga raglán.
-- Puños y dobladillo de canalé.
-- Logotipo de adidas bordado en el pecho.
+- Mangas con ribetes en contraste
+- Cuenta con un pequeño logotipo de Adidas bordado en el pecho
+- Puños y dobladillo de canalé
+- Presenta ajuste regular
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B076HQZQ92/?tag=tolees-21)

@@ -28,7 +28,7 @@ En este momento está [Jack & Jones Jjerocky Jacket Noos chaqueta  Negro azabach
 
 🔎:
 
-- Chaqueta de piel sintética.
 - Detalles clásicos de ciclistas.
+- Chaqueta de piel sintética.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0848LZBTM/?tag=tolees-21)
