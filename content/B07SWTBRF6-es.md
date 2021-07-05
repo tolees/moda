@@ -28,10 +28,10 @@ Está [Geox U Eolo A  Zapatillas para Hombre  Marrón  Taupe C6029   40 EU](http
 
 ℹ️:
 
-- Tipo de tacón: Plano
 - Material exterior: Cuero
+- Tipo de tacón: Plano
 - Cierre: Cordones
-- Material de la suela: Goma
 - Revestimiento: Malla
+- Material de la suela: Goma
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07SWTBRF6/?tag=tolees-21)
