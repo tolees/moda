@@ -28,8 +28,8 @@ En este momento está [Esprit 100EE2G312 Chaqueta  010/Anthracite  S para Hombre
 
 🔎:
 
-- Abrigo de invierno de poliéster reciclado
-- I am sustainable: poliéster reciclado
 - Tipo de tamaño especial: estándar
+- I am sustainable: poliéster reciclado
+- Abrigo de invierno de poliéster reciclado
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08L5VRD73/?tag=tolees-21)

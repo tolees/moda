@@ -28,8 +28,8 @@ Ahora mismo tienes [Clarks Oliver Lace  Zapatos de Cordones Derby Hombre  Marró
 
 🔎:
 
-- Ajuste: (g) Estándar
 - Superiores: Cuero
+- Ajuste: (g) Estándar
 - Forro: Textil
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MLSSCXH/?tag=tolees-21)
