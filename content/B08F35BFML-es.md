@@ -28,8 +28,8 @@ Tienes [NIKE FC Barcelona Temporada 2020/21-FCB Y NK BRT STAD JSY SS HMCD4500-45
 
 ℹ️:
 
+- Stretch fabric
 - Soccer shirt
 - Short sleeves
-- Stretch fabric
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08F35BFML/?tag=tolees-21)
