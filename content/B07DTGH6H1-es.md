@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lacoste Croco Slide 119 1 CMA  Sandalias al 44.12 % de descuento'
-date: 2021-06-14 19:54:30
+date: 2021-07-05 20:11:23
 image: 'https://m.media-amazon.com/images/I/31OnqhrGa3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ Está [Lacoste Croco Slide 119 1 CMA  Sandalias de Punta Descubierta Hombre  Whi
 ℹ️:
 
 - Tiras de goma hidrófuga
-- Suela de PU
 - Empeine de material sintético
 - Cocodrilo de color oversized a contraste
+- Suela de PU
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07DTGH6H1/?tag=tolees-21)
