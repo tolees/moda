@@ -28,8 +28,8 @@ Ahora mismo tienes [Tommy Hilfiger New V-Neck tee Camiseta sin Mangas para bebé
 
 🔎:
 
-- Este producto ha sido fabricado de forma sostenible con materiales sostenibles
-- Para más información sobre Tommy Hilfiger, desplázate hacia abajo a la sección de descripción del producto.
 - Este es un producto auténtico y original de Tommy Hilfiger. Para más información sobre Tommy Hilfiger, consulta la sección de descripción del producto a continuación
+- Para más información sobre Tommy Hilfiger, desplázate hacia abajo a la sección de descripción del producto.
+- Este producto ha sido fabricado de forma sostenible con materiales sostenibles
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08C7FNM2F/?tag=tolees-21)
