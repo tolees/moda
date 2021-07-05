@@ -29,7 +29,7 @@ Está [Levi s Housemark Graphic tee Camiseta  Grey  Ssnl Hm Forge Iron 0248   X-
 ℹ️:
 
 - Modelo casual
-- Tiene estampado el logotipo de Levis
 - Ofrece comodidad todo el día
+- Tiene estampado el logotipo de Levis
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07RXL1C1P/?tag=tolees-21)
