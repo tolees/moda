@@ -28,10 +28,10 @@ Tienes [Converse - CTAS Platform Layer HI Zapatos Deportivos Mujer Blanco 563971
 
 🔎:
 
-- Estación: Primavera/Verano
-- Designer: Converse
-- Material: Tejido
-- Artículo: 563971C
 - Color: Blanco
+- Artículo: 563971C
+- Material: Tejido
+- Designer: Converse
+- Estación: Primavera/Verano
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07NBK14GN/?tag=tolees-21)

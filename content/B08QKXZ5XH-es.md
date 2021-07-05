@@ -28,8 +28,8 @@ Tienes [Springfield Camiseta básica Logo Camisa  Azul Medio V1  M para Hombre](
 
 ℹ️:
 
-- Camiseta manga corta
 - Regular fit
+- Camiseta manga corta
 - Con logo bordado en el pecho
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08QKXZ5XH/?tag=tolees-21)
