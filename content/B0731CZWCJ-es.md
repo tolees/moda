@@ -28,11 +28,11 @@ Está [Champion Hombre - Sudadera Classic Small Logo - Negro  XL](https://www.am
 
 ℹ️:
 
+- Número de modelo: 210741
+- Sudadera con cuello redondo
+- 60% algodón, 40% poliéster
 - Lavar a máquina en frío (30°máx)
 - Logo pequeño impreso en el lado izquierdo del pecho
-- Sudadera con cuello redondo
-- Número de modelo: 210741
-- 60% algodón, 40% poliéster
 - Puños elasticos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0731CZWCJ/?tag=tolees-21)

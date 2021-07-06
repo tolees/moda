@@ -28,10 +28,10 @@ Está [Kickers Ana  Sandalias de Punta Descubierta Mujer  Negro  Noir 8   37 EU]
 
 ℹ️:
 
-- Material: piel
-- Color: negro
 - Talla: 37
-- Cierre: con hebillas
 - Temporada: primavera, verano
+- Color: negro
+- Cierre: con hebillas
+- Material: piel
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07FKWS6FJ/?tag=tolees-21)

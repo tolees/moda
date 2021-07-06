@@ -28,8 +28,8 @@ Está [Levi s tee Camiseta  Raita Stripe Caviar  X-Large para Mujer](https://www
 
 ℹ️:
 
-- Con un discreto logo en el pecho
-- Elaborada en punto suave
 - Modelo casual
+- Elaborada en punto suave
+- Con un discreto logo en el pecho
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B084BH6WHF/?tag=tolees-21)
