@@ -28,7 +28,7 @@ Está [GEOX Man U ADRIEN E SHOES BLACK 41 EU](https://www.amazon.es/dp/B0825NN1X
 
 ℹ️:
 
-- Tipo de tela: Smo.Lea
 - Transpirable
+- Tipo de tela: Smo.Lea
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0825NN1XD/?tag=tolees-21)

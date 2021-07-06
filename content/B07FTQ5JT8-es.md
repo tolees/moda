@@ -28,8 +28,8 @@ En este momento está [Lee Brooklyn Straight Vaqueros  Azul  Dark Stone Xg   38W
 
 🔎:
 
-- Vaqueros para hombre
-- Tienen bordado una etiqueta con la marca Lee
 - Presentan 5 bolsillos
+- Tienen bordado una etiqueta con la marca Lee
+- Vaqueros para hombre
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07FTQ5JT8/?tag=tolees-21)
