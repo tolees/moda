@@ -29,7 +29,7 @@ Está [Kipling Asseni Mini Top Handle Bags - Bolso de Mano  Talla única   Color
 ℹ️:
 
 - Para mujer
-- Classics
 - TOTE
+- Classics
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B083YDK61M/?tag=tolees-21)
