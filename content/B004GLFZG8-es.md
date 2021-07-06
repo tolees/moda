@@ -28,8 +28,8 @@ En este momento está [TOPEAK TrunkBag DXP Strap Bolso para Bici Ciclismo  Adult
 
 🔎:
 
-- Material duro Topeak
 - Trunkbag dxp strap (tt9643b)
 - Bolso para bici ciclismo unisex adulto
+- Material duro Topeak
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B004GLFZG8/?tag=tolees-21)
