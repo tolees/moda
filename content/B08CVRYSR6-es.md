@@ -28,8 +28,8 @@ Está [Lee Wrap Ribbed tee Camiseta  Negro  L para Mujer](https://www.amazon.es/
 
 ℹ️:
 
-- Manga corta
 - KnITS
 - Corte ajustado
+- Manga corta
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08CVRYSR6/?tag=tolees-21)
