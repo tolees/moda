@@ -28,8 +28,8 @@ Está [Pepe Jeans Flag Logo Camiseta  Multicolor  583thames   Small para Hombre]
 
 ℹ️:
 
-- Camiseta para hombre
 - Fabricada en tejido ligero que ofrece comodidad
+- Camiseta para hombre
 - Tiene estampado en el pecho la marca Pepe Jeans
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08D6YWLHX/?tag=tolees-21)
