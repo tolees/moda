@@ -28,9 +28,9 @@ Está [Lee Daren Zip Fly Vaqueros  Azul Oscuro  30W / 30L para Hombre](https://w
 
 ℹ️:
 
-- Regular Straight
-- INDIGOOD
 - Tejido vaquero
+- INDIGOOD
 - DENIM STRETCH
+- Regular Straight
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08CXTL61H/?tag=tolees-21)
