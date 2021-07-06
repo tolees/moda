@@ -28,10 +28,10 @@ Está [PUMA Teamgoal 23 Camiseta de Entrenamiento  Hombre  Verde  Pepper Green/P
 
 ℹ️:
 
-- Manga corta
-- dryCELL: Tecnología de PUMA con propiedades que alejan la humedad de la piel y te ayudan a mantenerte seco y cómodo
-- Cuello redondo
 - 100 % poliéster
+- Cuello redondo
+- Manga corta
 - Logotipo del felino PUMA en la parte derecha del pecho
+- dryCELL: Tecnología de PUMA con propiedades que alejan la humedad de la piel y te ayudan a mantenerte seco y cómodo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0845XPY6R/?tag=tolees-21)
