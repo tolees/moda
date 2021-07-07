@@ -28,9 +28,9 @@ Ahora mismo tienes [G-STAR RAW Base-S V-Neck Camiseta  Delta Blue 336-1852  XS p
 
 🔎:
 
+- Bajo recto
 - Cuello de pico
 - Manga corta
-- Bajo recto
 - Bordado de G-Star RAW en el pecho
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CN4NXC2/?tag=tolees-21)
