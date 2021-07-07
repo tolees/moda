@@ -1,32 +1,33 @@
 ---
 layout: post
-title: 'Vans Colorblock tee - Camiseta para Homb al 35.40 % de descuento'
-date: 2020-09-15 17:50:08
-image: 'https://m.media-amazon.com/images/I/41yLp9RCU2L._SL400_.jpg'
+title: 'Vans Colorblock tee - Camiseta para Homb al 32.04 % de descuento'
+date: 2021-07-07 19:04:43
+image: 'https://m.media-amazon.com/images/I/416dghS1TxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B06VWWNBTJ-es Vans Colorblock tee - Camiseta para Hombre Negro...'
 sku: 'B06VWWNBTJ-es'
-tags: [ 'camiseta', ]
-actualPrice: 16.15 EUR
+tags: [ 'Camisetas para hombre','Camisetas, polos y camisas para hombre','Ropa','Ropa para hombre','camiseta','vans', ]
+actualPrice: 16.99 EUR
 currency: EUR
-price: 16.15
+price: 16.99
 comparePrice: 25.0 EUR
 prodname: 'Vans Colorblock tee - Camiseta para Hombre   Negro  Black/athletic Heather   Small'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Vans'
 buyurl: 'https://www.amazon.es/dp/B06VWWNBTJ/?tag=tolees-21'
-descuento: '35.40'
-average: '16.779999999999998'
+descuento: '32.04'
+average: '16.618'
 ---
 
-Está [Vans Colorblock tee - Camiseta para Hombre   Negro  Black/athletic Heather   Small](https://www.amazon.es/dp/B06VWWNBTJ/?tag=tolees-21) con 35.40 de descuento por 16.15 EUR (original: 25.0 EUR) en el siguiente enlace!
+Está [Vans Colorblock tee - Camiseta para Hombre   Negro  Black/athletic Heather   Small](https://www.amazon.es/dp/B06VWWNBTJ/?tag=tolees-21) con 32.04 de descuento por 16.99 EUR (original: 25.0 EUR) en el siguiente enlace!
 
-[![Vans Colorblock tee - Camiseta para Homb](https://m.media-amazon.com/images/I/41yLp9RCU2L._SL400_.jpg)](https://www.amazon.es/dp/B06VWWNBTJ/?tag=tolees-21)
+[![Vans Colorblock tee - Camiseta para Homb](https://m.media-amazon.com/images/I/416dghS1TxL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B06VWWNBTJ/?tag=tolees-21)
 
 ℹ️:
 
+- Ajuste clásico.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06VWWNBTJ/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lee Wrap Ribbed tee Camiseta  Negro  L p al 72.12 % de descuento'
-date: 2021-07-06 18:10:52
+date: 2021-07-07 19:04:40
 image: 'https://m.media-amazon.com/images/I/41CKC3jpVfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [Lee Wrap Ribbed tee Camiseta  Negro  L para Mujer](https://www.amazon.es/
 
 ℹ️:
 
+- Manga corta
 - KnITS
 - Corte ajustado
-- Manga corta
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08CVRYSR6/?tag=tolees-21)
