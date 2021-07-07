@@ -28,7 +28,7 @@ En este momento está [Only Onlwinner SL Maxidress Noos Wvn Vestido  Multicolor 
 
 🔎:
 
-- Maxi dress with thin straps
 - Fluent fabric
+- Maxi dress with thin straps
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07Q1QHQ8P/?tag=tolees-21)

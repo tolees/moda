@@ -28,8 +28,8 @@ En este momento está [Jack & Jones - JACK&JONES JJEPAULOS Polo SS Noos Camisa  
 
 🔎:
 
-- Marca: JACK&JONES
-- Polo de manga corta de color azul marino. Cierre con botones. Corte slim fit. Detalle bordado.
 - Modelo: 12136668 JJEPAULOS POLO SS NOOS
+- Polo de manga corta de color azul marino. Cierre con botones. Corte slim fit. Detalle bordado.
+- Marca: JACK&JONES
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08VNC3LSC/?tag=tolees-21)
