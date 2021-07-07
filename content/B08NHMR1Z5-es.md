@@ -28,9 +28,9 @@ Tienes [Jack & Jones JCOALPHA tee SS FST Camiseta  Navy Blazer/Fit: Slim  XL par
 
 ℹ️:
 
-- Estampado
-- Cómodo
 - Camiseta
 - algodón
+- Estampado
+- Cómodo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08NHMR1Z5/?tag=tolees-21)

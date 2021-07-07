@@ -28,7 +28,7 @@ Ahora mismo tienes [BOSS Paddy 4 10234067 01 Camisa de Polo  Talla Mediana Red61
 
 🔎:
 
-- Acabados excelentes.
 - Tejido de algodón Oxford.
+- Acabados excelentes.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CF2TLTN/?tag=tolees-21)

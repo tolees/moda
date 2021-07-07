@@ -28,9 +28,9 @@ En este momento está [Nike Court Vision Mid  Zapatos de Baloncesto Hombre  Mult
 
 🔎:
 
-- El diseño con relieve y el logotipo en la parte superior aportan estilo e interés visual.
-- piel, piel sintética y diseño de goma inspirado en las zapatillas de baloncesto de mediados de los años 80.
 - El material exterior de piel y piel sintética es resistente.
 - Entresuela de goma para mayor durabilidad y tracción.
+- piel, piel sintética y diseño de goma inspirado en las zapatillas de baloncesto de mediados de los años 80.
+- El diseño con relieve y el logotipo en la parte superior aportan estilo e interés visual.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07NN1BGG8/?tag=tolees-21)
