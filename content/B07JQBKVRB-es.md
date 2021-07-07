@@ -29,7 +29,7 @@ Ahora mismo tienes [Jack & Jones Jjiliam Jjoriginal Am 792 50sps Noos Vaqueros S
 🔎:
 
 - ajuste delgado
-- Pantalones vaqueros
 - elástico
+- Pantalones vaqueros
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07JQBKVRB/?tag=tolees-21)
