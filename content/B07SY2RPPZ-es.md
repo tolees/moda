@@ -28,10 +28,10 @@ Ahora mismo tienes [Geox D Sandal Hiver A  Sandalias con Punta Abierta para Muje
 
 🔎:
 
+- Material de la suela: Sintético
 - Material exterior: Sintético
+- Tipo de tacón: Plano
 - Cierre: Hebilla
 - Revestimiento: Sintético
-- Tipo de tacón: Plano
-- Material de la suela: Sintético
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SY2RPPZ/?tag=tolees-21)

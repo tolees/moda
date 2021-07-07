@@ -29,7 +29,7 @@ Ahora mismo tienes [Levi s tee Camiseta  Benitoite Cloud Dancer  Large para Muje
 🔎:
 
 - Con un discreto logo en el pecho
-- Elaborada en punto suave
 - Modelo casual
+- Elaborada en punto suave
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07ZVPTFTD/?tag=tolees-21)
