@@ -29,9 +29,9 @@ Está [hicoosee Gafas Luz Azul Gafas Filtro Antifatiga Anti-luz Azul Gafas Montu
 ℹ️:
 
 - Patas de anteojos flexibles: diseño de montura clásica, ultraligero, tamaño universal que se adapta a la mayoría de las formas faciales.
-- Lente transparente: ideal para trabajos cercanos cuando desea ver detalles. Ilumina el molesto resplandor para mayor seguridad al conducir. Ideal para pasear y disfrutar del aire libre.
-- Marco ultraligero: los marcos están hechos de plástico de alta calidad que es liviano, duradero y flexible. Nuestras lentes de policarbonato bloquean eficazmente la luz HEV, protegiendo sus ojos de la dañina luz azul de sus pantallas digitales.
 - Almohadillas nasales integradas: Las gafas se pueden fijar bien en la nariz, y es cómodo sin dejar marcas.
 - Anti-luz azul: estas gafas vienen con tecnología de lentes de filtrado de luz azul, que evita que la luz visible de alta energía emitida por todas las pantallas digitales afecte sus patrones de sueño y salud ocular.
+- Lente transparente: ideal para trabajos cercanos cuando desea ver detalles. Ilumina el molesto resplandor para mayor seguridad al conducir. Ideal para pasear y disfrutar del aire libre.
+- Marco ultraligero: los marcos están hechos de plástico de alta calidad que es liviano, duradero y flexible. Nuestras lentes de policarbonato bloquean eficazmente la luz HEV, protegiendo sus ojos de la dañina luz azul de sus pantallas digitales.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08RD466DY/?tag=tolees-21)

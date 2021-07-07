@@ -28,8 +28,8 @@ En este momento está [bollé Rooke Gafas de sol Adultos unisex Matte Amber Artw
 
 🔎:
 
-- Lentes: brown gradient
 - Categoría de la lente: 3
+- Lentes: brown gradient
 - Tratamiento antirreflejos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07K3CBXNC/?tag=tolees-21)
