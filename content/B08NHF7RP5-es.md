@@ -28,8 +28,8 @@ Tienes [Jack & Jones JCOART Sweat Hood Sudadera con Capucha  Melange Light Grey/
 
 ℹ️:
 
-- Sudadera con capucha con cordón en la capucha y puños de punto cómodos en la cintura y las muñecas
 - Capucha de doble capa, capa interior de tela oscura
 - Logotipo grande en la parte delantera, con estilo de camuflaje ligero
+- Sudadera con capucha con cordón en la capucha y puños de punto cómodos en la cintura y las muñecas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08NHF7RP5/?tag=tolees-21)

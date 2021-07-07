@@ -28,10 +28,10 @@ En este momento está [Quiksilver - Pantalón de Chándal para Adulto](https://w
 
 🔎:
 
-- tejido:tejido de gramaje medio mezcla de algodón y poliéster
 - Estampado Quiksilver en la parte frontal
-- Cierre con cordón ajustable
-- Corte: corte normal, clásico, cómodo
 - Bolsillos laterales y bolsillo trasero
+- tejido:tejido de gramaje medio mezcla de algodón y poliéster
+- Corte: corte normal, clásico, cómodo
+- Cierre con cordón ajustable
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08R7CYMZ3/?tag=tolees-21)

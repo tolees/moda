@@ -28,7 +28,7 @@ Ahora mismo tienes [BOSS Teeonic 10209546 01 Camiseta  Navy410  S para Hombre](h
 
 🔎:
 
-- Recycle Single Jersey
 - Acabados excelentes.
+- Recycle Single Jersey
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CF2FQFM/?tag=tolees-21)

@@ -28,8 +28,8 @@ Está [FM London Antonio Rossi Fitted Boxer para Hombre  Mulitcolor  S  Pack of 
 
 ℹ️:
 
-- Paquete de 12 calzoncillos hipster para hombre.
-- Mezcla de 95 % algodón y 5 % elastano.
 - FM London
+- Mezcla de 95 % algodón y 5 % elastano.
+- Paquete de 12 calzoncillos hipster para hombre.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01GNEXVKW/?tag=tolees-21)
