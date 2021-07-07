@@ -28,8 +28,8 @@ Está [Levi s June L  Chanclas Hombre  Rojo  R Red 87   42 EU](https://www.amazo
 
 ℹ️:
 
+- Ver descripción del producto para obtener más información.
 - A estrenar y genuina. Somos un vendedor autorizado de Levis.
 - Levis Azul Deslizadores de junio
-- Ver descripción del producto para obtener más información.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07SCB1LXJ/?tag=tolees-21)

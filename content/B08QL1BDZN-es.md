@@ -28,8 +28,8 @@ Está [Springfield Camiseta Algodón Orgánico  Azul Medio  M para Mujer](https:
 
 ℹ️:
 
-- Camiseta de manga corta con cuello redondo
 - Proyecto reconsider: El algodón orgánico está cultivado con métodos sostenibles con el medio ambiente reduciendo el consumo de agua y pesticidas.
 - Detalle de logo
+- Camiseta de manga corta con cuello redondo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08QL1BDZN/?tag=tolees-21)
