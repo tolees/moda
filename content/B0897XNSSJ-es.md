@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s 514 Straight  Vaqueros Hombre  La al 50.50 % de descuento'
-date: 2021-06-26 13:44:20
+date: 2021-07-07 21:25:43
 image: 'https://m.media-amazon.com/images/I/41mmOQOw-vL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
