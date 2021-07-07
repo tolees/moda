@@ -28,8 +28,8 @@ En este momento está [G-STAR RAW Base-S V-Neck Camiseta  Delta Blue 336-1852  M
 
 🔎:
 
-- Cuello de pico
 - Manga corta
+- Cuello de pico
 - Bordado de G-Star RAW en el pecho
 - Bajo recto
 

@@ -28,10 +28,10 @@ Está [Pepe Jeans New Brooke Vaqueros  10Oz Str 8Dip Royal Dk  29W / 30L para Mu
 
 ℹ️:
 
-- Vaqueros estilo 5 bolsillos
-- Pierna ajustada
-- Fit ajustado
-- Tiro medio
 - Tejido denim medio
+- Tiro medio
+- Vaqueros estilo 5 bolsillos
+- Fit ajustado
+- Pierna ajustada
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06XCKBYMX/?tag=tolees-21)

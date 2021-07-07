@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Only Onlwinner SL Maxidress Noos Wvn Ves con un 44.30 % de descuento'
-date: 2021-07-03 13:25:35
+date: 2021-07-07 12:48:34
 image: 'https://m.media-amazon.com/images/I/41oRWLARh-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
