@@ -28,7 +28,7 @@ Tienes [Jack & Jones Jjecurved tee SS O-Neck Noos Camiseta  Blanco  White Fit: R
 
 ℹ️:
 
-- Tee with crew neck
 - Soft organinc cotton fabric for high wearing comfort
+- Tee with crew neck
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07Z49MTS5/?tag=tolees-21)

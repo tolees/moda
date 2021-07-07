@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox UOMO City A  Oxford Hombre  Negro   con un 59.07 % de descuento'
-date: 2021-07-04 02:38:48
+date: 2021-07-07 10:18:43
 image: 'https://m.media-amazon.com/images/I/31kCWuh1Y9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B08BKYDRW8/?tag=tolees-21'
 descuento: '59.07'
-average: '34.3025'
+average: '33.982'
 ---
 
 En este momento está [Geox UOMO City A  Oxford Hombre  Negro  39 EU](https://www.amazon.es/dp/B08BKYDRW8/?tag=tolees-21) a 32.7 EUR (original: 79.9 EUR) (59.07 %  de descuento) en el siguiente enlace!

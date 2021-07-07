@@ -29,7 +29,7 @@ Tienes [Springfield Vestido Midi Cruzado Estampado  Azul Claro  S para Mujer](ht
 ℹ️:
 
 - Bajo asimétrico y estampado
-- Con cruce en la parte delantera
 - Vestido de manga 7/8s, con escote en uve
+- Con cruce en la parte delantera
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08QJRP5JM/?tag=tolees-21)

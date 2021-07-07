@@ -28,8 +28,8 @@ Está [Jack & Jones JJHEROS Sweat Hood Capucha  Blanco/Fit: Sudadera  M para Hom
 
 ℹ️:
 
-- Gran bolsillo de canguro en la parte delantera
 - La capucha tiene un cordón para ajustar, puños de punto en la cintura y los brazos largos
+- Gran bolsillo de canguro en la parte delantera
 - Sudadera con capucha con logotipo grande en la parte delantera
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08MV66YZX/?tag=tolees-21)

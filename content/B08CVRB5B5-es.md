@@ -28,8 +28,8 @@ Tienes [Lee Plain Hoodie Sudadera con Capucha  Crudo  M para Hombre](https://www
 
 ℹ️:
 
+- Corte regular
 - Manga larga
 - KnITS
-- Corte regular
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08CVRB5B5/?tag=tolees-21)
