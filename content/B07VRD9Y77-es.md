@@ -28,8 +28,8 @@ Ahora mismo tienes [Levi s LEVIS MEN SPRTSWR LOGO BOXER BRIEF 2P  Multicolor  Bl
 
 🔎:
 
-- Algodón elástico suave
-- Los bordes de las perneras se mantienen en su sitio
 - Cinturilla elástica cómoda con detalles distintivos
+- Los bordes de las perneras se mantienen en su sitio
+- Algodón elástico suave
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VRD9Y77/?tag=tolees-21)

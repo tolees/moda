@@ -28,9 +28,9 @@ Tienes [adidas CL ORG S  Organizador para bolso Hombres  NEGRO/ROSSEN  Multicolo
 
 ℹ️:
 
-- Tejido técnico 100% poliéster reciclado
-- Dimensiones: 12 cm x 17 cm x 3 cm
 - Bolsillo frontal con cremallera
+- Dimensiones: 12 cm x 17 cm x 3 cm
+- Tejido técnico 100% poliéster reciclado
 - Bolso compacto y resistente para llevar al hombro
 - Tira ajustable para el hombro
 
