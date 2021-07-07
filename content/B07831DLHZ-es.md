@@ -28,7 +28,7 @@ Está [New Balance ML574V2  Zapatilla Baja Hombre  Black  Triple Black   38.5 EU
 
 ℹ️:
 
-- Revestimiento: Sintético
 - Material exterior: Cuero
+- Revestimiento: Sintético
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07831DLHZ/?tag=tolees-21)

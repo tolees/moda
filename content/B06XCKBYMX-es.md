@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Pepe Jeans New Brooke Vaqueros  Azul  10 al 55.80 % de descuento'
-date: 2020-01-11 09:07:16
-image: 'https://images-eu.ssl-images-amazon.com/images/I/415MaCHSa7L._SL400_.jpg'
+title: 'Pepe Jeans New Brooke Vaqueros  10Oz Str al 40.01 % de descuento'
+date: 2021-07-07 11:55:30
+image: 'https://m.media-amazon.com/images/I/415MaCHSa7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B06XCKBYMX-es Pepe Jeans New Brooke Vaqueros Azul 10Oz Str 8Dip Royal Dk...'
+slug: 'B06XCKBYMX-es Pepe Jeans New Brooke Vaqueros 10Oz Str 8Dip Royal Dk 29W...'
 sku: 'B06XCKBYMX-es'
-tags: [ 'vaqueros', ]
-actualPrice: 41.99 EUR
+tags: [ 'Ropa','Ropa para mujer','Vaqueros para mujer','pepe jeans','vaqueros', ]
+actualPrice: 56.99 EUR
 currency: EUR
-price: 41.99
-comparePrice: 95 EUR
-prodname: 'Pepe Jeans New Brooke Vaqueros  Azul  10Oz Str 8Dip Royal Dk   29W/30L para Mujer'
+price: 56.99
+comparePrice: 95.0 EUR
+prodname: 'Pepe Jeans New Brooke Vaqueros  10Oz Str 8Dip Royal Dk  29W / 30L para Mujer'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Pepe Jeans'
 buyurl: 'https://www.amazon.es/dp/B06XCKBYMX/?tag=tolees-21'
-descuento: '55.80'
-average: '52.72'
+descuento: '40.01'
+average: '54.1433333333333'
 ---
 
-Está [Pepe Jeans New Brooke Vaqueros  Azul  10Oz Str 8Dip Royal Dk   29W/30L para Mujer](https://www.amazon.es/dp/B06XCKBYMX/?tag=tolees-21) con 55.80 de descuento por 41.99 EUR (original: 95 EUR) en el siguiente enlace!
+Está [Pepe Jeans New Brooke Vaqueros  10Oz Str 8Dip Royal Dk  29W / 30L para Mujer](https://www.amazon.es/dp/B06XCKBYMX/?tag=tolees-21) con 40.01 de descuento por 56.99 EUR (original: 95.0 EUR) en el siguiente enlace!
 
-[![Pepe Jeans New Brooke Vaqueros  Azul  10](https://images-eu.ssl-images-amazon.com/images/I/415MaCHSa7L._SL400_.jpg)](https://www.amazon.es/dp/B06XCKBYMX/?tag=tolees-21)
+[![Pepe Jeans New Brooke Vaqueros  10Oz Str](https://m.media-amazon.com/images/I/415MaCHSa7L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B06XCKBYMX/?tag=tolees-21)
 
 ℹ️:
 
+- Vaqueros estilo 5 bolsillos
+- Pierna ajustada
+- Fit ajustado
+- Tiro medio
+- Tejido denim medio
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06XCKBYMX/?tag=tolees-21)
