@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BOSS Teeonic 10209546 01 Camiseta  Brigh con un 29.94 % de descuento'
-date: 2021-07-01 00:07:09
+date: 2021-07-07 06:47:57
 image: 'https://m.media-amazon.com/images/I/31kCDCIfj-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
