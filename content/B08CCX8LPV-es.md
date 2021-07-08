@@ -29,7 +29,7 @@ En este momento está [Tommy Hilfiger Baby Poplin Collar Body L/S Camiseta sin M
 🔎:
 
 - Este es un producto auténtico y original de Tommy Hilfiger.
-- Este producto ha sido fabricado de forma sostenible con materiales sostenibles
 - Para más información sobre Tommy Hilfiger, consulta la sección de descripción del producto a continuación.
+- Este producto ha sido fabricado de forma sostenible con materiales sostenibles
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CCX8LPV/?tag=tolees-21)

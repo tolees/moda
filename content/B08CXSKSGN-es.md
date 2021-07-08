@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Desigual TS Praga Camiseta  Negro  S par con un 50.06 % de descuento'
-date: 2021-07-07 09:15:41
+date: 2021-07-08 12:30:58
 image: 'https://m.media-amazon.com/images/I/51XtLOrHkAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ En este momento está [Desigual TS Praga Camiseta  Negro  S para Mujer](https://
 
 🔎:
 
-- Floral Camouflage
 - Zapatillas de correr bordadas
+- Floral Camouflage
 - Refuerzo en el talón y la puntera
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CXSKSGN/?tag=tolees-21)
