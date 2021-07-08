@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 38.04 % en Pepe Jeans Original Stretch Camiseta  Gr'
-date: 2021-06-21 18:04:17
+date: 2021-07-08 07:45:57
 image: 'https://m.media-amazon.com/images/I/41d77aQchNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pepe Jeans'
 buyurl: 'https://www.amazon.es/dp/B00BN5NKQC/?tag=tolees-21'
 descuento: '38.04'
-average: '14.4066666666667'
+average: '14.5614285714286'
 ---
 
 Tienes [Pepe Jeans Original Stretch Camiseta  Gris  Grey Marl 933   Small para Hombre](https://www.amazon.es/dp/B00BN5NKQC/?tag=tolees-21) con un 38.04 % de descuento con precio de oferta de 15.49 EUR (original: 25.0 EUR) en el siguiente enlace!
