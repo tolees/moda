@@ -28,10 +28,10 @@ Está [Clarks Charton Mix  Zapatos de Cordones Derby Hombre  Marrón  Dark Brown
 
 ℹ️:
 
-- Ancho: G (estándar)
 - Parte Superior: Cuero
-- Forro: Tela
-- Suela: Eva
 - Fijación: Encaje
+- Suela: Eva
+- Ancho: G (estándar)
+- Forro: Tela
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B014VG1N6I/?tag=tolees-21)
