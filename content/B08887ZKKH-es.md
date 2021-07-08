@@ -28,9 +28,9 @@ Ahora mismo tienes [Jack & Jones Jjerocky Jacket Noos Chaqueta de cuero sinttico
 
 🔎:
 
-- Chaqueta para hombre
-- Detalles clásicos de motoristas
-- Composición del material: material exterior: 100% poliéster, forro: 100% poliéster
 - Dobladillo ajustable en la espalda
+- Composición del material: material exterior: 100% poliéster, forro: 100% poliéster
+- Detalles clásicos de motoristas
+- Chaqueta para hombre
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08887ZKKH/?tag=tolees-21)
