@@ -28,7 +28,7 @@ Tienes [PUMA Purecat  Sandalias deslizantes Unisex Adulto  Peacoat-White  39 EU]
 
 ℹ️:
 
-- adulto
 - Multicolor
+- adulto
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B011V50GYW/?tag=tolees-21)
