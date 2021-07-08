@@ -28,8 +28,8 @@ Tienes [Timberland Malibu Waves Ankle  Sandalias Mujer  Marrón Brown Rust Nubuc
 
 🔎:
 
-- Brown
-- leather
 - adulto
+- leather
+- Brown
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B078SX5R9V/?tag=tolees-21)
