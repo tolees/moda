@@ -28,8 +28,8 @@ En este momento está [Dockers Logo Tee  Camiseta Hombre  Azul Claro  S](https:/
 
 🔎:
 
-- Ajuste slim
 - Modelo ceñido para un look de líneas limpias
 - El diseño ajustado de la marca no es tan ajustado
+- Ajuste slim
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B089T8KKVL/?tag=tolees-21)
