@@ -28,8 +28,8 @@ Está [Tommy Hilfiger T Camiseta Básica de Manga Corta  Blanco  Bright White   
 
 ℹ️:
 
-- Logo de la marca bordado en el pecho
 - Camiseta básica de Tommy Hilfiger
+- Logo de la marca bordado en el pecho
 - Adecuada para completar cualquier atuendo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07DX9LL91/?tag=tolees-21)
