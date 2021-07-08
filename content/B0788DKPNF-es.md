@@ -28,15 +28,15 @@ En este momento está [PUMA Liga Casuals Hoody  Sudadera con Capucha para Hombre
 
 🔎:
 
-- Closure: con cordones
-- Bolsillo delantero con acceso a bolsillo en la costura
 - Puños y dobladillos elásticos
-- Lavar a máquina
-- Bajo delantero liso; Tipo de deporte: Fútbol
-- Capucha con cordones
-- Manga larga
-- Liga casuals hoody
 - Felino de puma bordado en la parte derecha del pecho
 - 68% algodón, 32% poliéster
+- Bolsillo delantero con acceso a bolsillo en la costura
+- Lavar a máquina
+- Closure: con cordones
+- Capucha con cordones
+- Liga casuals hoody
+- Bajo delantero liso; Tipo de deporte: Fútbol
+- Manga larga
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0788DKPNF/?tag=tolees-21)

@@ -29,7 +29,7 @@ En este momento está [Levi s 720 Hirise Super Skinny  Vaqueros Mujer  Smoked Ou
 🔎:
 
 - Tienen un parche de cuero en la parte posterior de la cintura
-- Vaqueros para mujer
 - Con corte entallado en la cadera y el muslo
+- Vaqueros para mujer
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0886VVPJ8/?tag=tolees-21)

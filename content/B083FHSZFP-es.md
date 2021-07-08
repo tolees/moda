@@ -28,7 +28,7 @@ En este momento está [Lacoste TH6709 Camiseta  Guepe  XL para Hombre](https://w
 
 🔎:
 
-- Regular fit
 - Punto liso de algodón Pima
+- Regular fit
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B083FHSZFP/?tag=tolees-21)

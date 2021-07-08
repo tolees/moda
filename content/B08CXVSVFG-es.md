@@ -28,8 +28,8 @@ En este momento está [Lee Daren Zip Fly Vaqueros  Mid Visual Cody  34W / 30L pa
 
 🔎:
 
-- Cuerda regular
-- Tejido vaquero elástico
 - Transparente
+- Tejido vaquero elástico
+- Cuerda regular
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CXVSVFG/?tag=tolees-21)

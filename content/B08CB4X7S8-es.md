@@ -28,10 +28,10 @@ En este momento está [Salomon Zapatilla de mujer XA PRO 3D v8 W con 3D Advanced
 
 🔎:
 
+- EnergyCell
 - 3D Advanced Chassis
 - Situado entre la suela y la entresuela, este chasis de perfil bajo ayuda a optimizar el control de los movimientos y la gestión de la energía. También ofrece un plus de protección para que disfrutes de una pisada precisa, estable y reactiva.
-- EnergyCell
-- Situado entre la suela y la entresuela, este chasis de perfil bajo ayuda a optimizar el control de los movimientos y la gestión de la energía. También ofrece un plus de protección para que disfrutes de una pisada precisa, estable y reactiva.
 - Contagrip MA
+- Situado entre la suela y la entresuela, este chasis de perfil bajo ayuda a optimizar el control de los movimientos y la gestión de la energía. También ofrece un plus de protección para que disfrutes de una pisada precisa, estable y reactiva.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CB4X7S8/?tag=tolees-21)

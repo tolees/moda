@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 38.04 % en Pepe Jeans Original Stretch Camiseta  Az'
-date: 2021-06-29 09:41:27
+date: 2021-07-08 19:50:30
 image: 'https://m.media-amazon.com/images/I/41r+HUn2QFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pepe Jeans'
 buyurl: 'https://www.amazon.es/dp/B00BN5NHHO/?tag=tolees-21'
 descuento: '38.04'
-average: '16.7953333333334'
+average: '16.7137500000001'
 ---
 
 Tienes [Pepe Jeans Original Stretch Camiseta  Azul  Navy 595   Medium para Hombre](https://www.amazon.es/dp/B00BN5NHHO/?tag=tolees-21) con un 38.04 % de descuento con precio de oferta de 15.49 EUR (original: 25.0 EUR) en el siguiente enlace!
