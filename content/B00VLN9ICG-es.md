@@ -28,8 +28,8 @@ Tienes [Levi s Graphic Set-In Neck  Camiseta para Hombre  Blanco  C18978 Graphic
 
 🔎:
 
-- Elaborada en punto suave
 - Modelo casual
+- Elaborada en punto suave
 - Con un logo Levis en horizontal en el pecho
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00VLN9ICG/?tag=tolees-21)
