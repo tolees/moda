@@ -28,13 +28,13 @@ Está [GEOX Woman D NEW ANNYA MID A SHOES NAVY 42 EU](https://www.amazon.es/dp/B
 
 ℹ️:
 
-- Anchura del zapato: Normal
-- Material de la suela: Sintético
-- Revestimiento: Sintético
 - Cierre: Sin cierre
 - Tipo de tacón: Tacón ancho
-- Altura del tacón: 5.5 centímetros
 - Tipo de talla: Los zapatos Geox son holgados
+- Material de la suela: Sintético
+- Altura del tacón: 5.5 centímetros
+- Revestimiento: Sintético
+- Anchura del zapato: Normal
 - Material exterior: Cuero
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07LG1WZT1/?tag=tolees-21)

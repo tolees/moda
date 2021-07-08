@@ -28,8 +28,8 @@ En este momento está [Geox D Ischia Corda C  Sandalias con Punta Abierta Mujer 
 
 🔎:
 
-- Diseño de correa con cordones cruzados, correas ajustables en el tobillo delantero
-- Diseño de cinturón con cordones cruzados, correas ajustables en los nudillos
 - Plantilla de espuma viscoelástica para un nivel de comodidad sin peerlos.
+- Diseño de cinturón con cordones cruzados, correas ajustables en los nudillos
+- Diseño de correa con cordones cruzados, correas ajustables en el tobillo delantero
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07SQPZX3D/?tag=tolees-21)
