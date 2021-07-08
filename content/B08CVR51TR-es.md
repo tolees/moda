@@ -28,8 +28,8 @@ Está [Tommy Hilfiger 1985 Slim Polo  Camisa de polo Hombre  Azul Dulce  L](http
 
 ℹ️:
 
-- Con detalles distintivos de Tommy Hilfiger
 - Logo de Tommy Hilfiger bordado en el pecho
+- Con detalles distintivos de Tommy Hilfiger
 - Modelo de corte slim
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08CVR51TR/?tag=tolees-21)

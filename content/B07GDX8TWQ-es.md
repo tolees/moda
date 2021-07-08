@@ -28,8 +28,8 @@ En este momento está [Levi s Housemark Graphic tee Camiseta  Hm Ssnl Tech Olive
 
 🔎:
 
-- Ofrece comodidad todo el día
-- Modelo casual
 - Tiene estampado el logotipo de Levis
+- Modelo casual
+- Ofrece comodidad todo el día
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07GDX8TWQ/?tag=tolees-21)
