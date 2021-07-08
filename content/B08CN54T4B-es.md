@@ -28,10 +28,10 @@ Tienes [G-STAR RAW Badge Logo+ Camiseta  para Hombre  Verde  Combat C336-723   L
 
 🔎:
 
-- Aplicación con insignia gráfica en el pecho
 - Bajo recto
+- Aplicación con insignia gráfica en el pecho
+- Manga corta recta insertada
 - Cuello redondo
 - Estampado de G-Star RAW en la parte superior trasera del cuello
-- Manga corta recta insertada
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08CN54T4B/?tag=tolees-21)

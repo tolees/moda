@@ -29,9 +29,9 @@ En este momento está [Eastpak The One Bolso Bandolera  21 Cm  2.5 L  Gris  Blac
 🔎:
 
 - Mantén todo en orden con los bolsillos con cremallera en las partes delantera, trasera e interior
-- Amplio compartimento principal, adecuado para todo lo que necesitas en un viaje de un día
 - Altura: 21 cm, Ancho: 16.5 cm, Fondo: 5.5 cm
-- Fabricada con 60 % nylon y 40 % poliéster
+- Amplio compartimento principal, adecuado para todo lo que necesitas en un viaje de un día
 - La correa ajustable para el hombro hace a The One más cómoda de llevar
+- Fabricada con 60 % nylon y 40 % poliéster
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00MGOR2B8/?tag=tolees-21)
