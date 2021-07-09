@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ray-Ban Clubmaster RB3016 W0365 - Gafas  con un 28.87 % de descuento'
-date: 2021-07-04 04:03:57
+date: 2021-07-09 01:57:24
 image: 'https://m.media-amazon.com/images/I/21H4IEZxweL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ray-Ban'
 buyurl: 'https://www.amazon.es/dp/B002Q5NC8Y/?tag=tolees-21'
 descuento: '28.87'
-average: '96.5309090909091'
+average: '96.9033333333334'
 ---
 
 En este momento está [Ray-Ban Clubmaster RB3016 W0365 - Gafas de sol para hombre  Negro  Ebony/Arista W0365   51](https://www.amazon.es/dp/B002Q5NC8Y/?tag=tolees-21) a 101.0 EUR (original: 142.0 EUR) (28.87 %  de descuento) en el siguiente enlace!
