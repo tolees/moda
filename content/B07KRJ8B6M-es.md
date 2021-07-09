@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Element Vertical SS Boy Camiseta de Mang al 50.50 % de descuento'
-date: 2021-06-29 17:03:07
+date: 2021-07-09 15:35:57
 image: 'https://m.media-amazon.com/images/I/418yuI7c1PL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [Element Vertical SS Boy Camiseta de Manga Corta  Niños  Negro  Flint Bla
 
 ℹ️:
 
-- Crew neck
 - 100% algodon
+- Crew neck
 - Element logo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07KRJ8B6M/?tag=tolees-21)
