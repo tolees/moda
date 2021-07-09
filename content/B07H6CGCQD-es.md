@@ -28,7 +28,7 @@ Está [Skechers Ultra Flex-Neon Star  Sandalias de Punta Descubierta Mujer  Azul
 
 ℹ️:
 
-- Diseño de sandalia deportiva e informal con tiras al estilo sandalia de río; muy cómoda.
 - Plantilla de confort con amortiguación Yoga Foam
+- Diseño de sandalia deportiva e informal con tiras al estilo sandalia de río; muy cómoda.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07H6CGCQD/?tag=tolees-21)
