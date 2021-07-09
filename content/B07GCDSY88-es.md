@@ -30,8 +30,8 @@ En este momento está [Puma Essentials LG T Camiseta de Manga Corta  Hombre  Neg
 
 - La camiseta con el logo de Puma es un básico imprescindible en el armario: camiseta de algodón de aspecto sencillo manga corta y cuello redondo.
 - Esta t-shirt está disponible en varios colores y es ideal para hombres que llevan un estilo de vida casual y deportivo y que se preocupan por estar a la última.
-- Complemento para cada ocasión: la camiseta deportiva para hombre se puede usar para ir al gimnasio, para jugar fútbol o para usar en el día a día dando un look casual y moderno.
-- Confeccionada con fibras de algodón, esta cómoda camiseta deportiva se ajusta al cuerpo haciendola el accesorio ideal para hombres modernos con un estilo de vida activo.
 - Con estas camisetas deportivas se pueden crear multitud de outfits, desde casual hasta sport; sencillas de combinar con la gama de colores de los leggings de Puma.
+- Confeccionada con fibras de algodón, esta cómoda camiseta deportiva se ajusta al cuerpo haciendola el accesorio ideal para hombres modernos con un estilo de vida activo.
+- Complemento para cada ocasión: la camiseta deportiva para hombre se puede usar para ir al gimnasio, para jugar fútbol o para usar en el día a día dando un look casual y moderno.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07GCDSY88/?tag=tolees-21)
