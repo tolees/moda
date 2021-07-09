@@ -28,10 +28,10 @@ Tienes [G-STAR RAW Raw Sudadera  Sartho Blue A971-6067  XS para Hombre](https://
 
 ℹ️:
 
-- Manga larga recta insertada y puños de canalé
-- Bajo recto con borde acanalado
 - Bajo recto con borde acanalado
 - Cuello redondo acanalado
 - Estampado gráfico de RAW en el pecho
+- Bajo recto con borde acanalado
+- Manga larga recta insertada y puños de canalé
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08CK5JMNW/?tag=tolees-21)

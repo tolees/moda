@@ -30,8 +30,8 @@ Ahora mismo tienes [Salomon Zapatilla de hombre ALPHACROSS BLAST con tejido Rips
 
 - Tejido ripstop
 - Para conseguir una tracción máxima en terreno mixto y gran durabilidad, Contagrip TD combina un agresivo patrón de tacos profundos con nuestro compuesto más resistente.
-- Contagrip TD
 - Para conseguir una tracción máxima en terreno mixto y gran durabilidad, Contagrip TD combina un agresivo patrón de tacos profundos con nuestro compuesto más resistente.
 - EnergyCell
+- Contagrip TD
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08C81S7TF/?tag=tolees-21)

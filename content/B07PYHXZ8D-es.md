@@ -28,7 +28,7 @@ En este momento está [Only Onlwinner SL Maxidress Noos Wvn Vestido  Negro  Blac
 
 🔎:
 
-- Maxi dress with thin straps
 - Fluent fabric
+- Maxi dress with thin straps
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07PYHXZ8D/?tag=tolees-21)

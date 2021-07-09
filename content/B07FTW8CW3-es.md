@@ -28,8 +28,8 @@ En este momento está [Lee Daren Zip Fly Vaqueros  Azul  Broken Blue Sx   30W / 
 
 🔎:
 
-- Estilo 5 bolsillos
 - Tienen un parche de piel en la parte trasera con la marca Lee
 - Vaqueros para hombre
+- Estilo 5 bolsillos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07FTW8CW3/?tag=tolees-21)

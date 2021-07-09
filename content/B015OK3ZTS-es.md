@@ -28,7 +28,7 @@ En este momento está [PUMA Purecat  Sandalias deslizantes Unisex Adulto  Peacoa
 
 🔎:
 
-- adulto
 - Multicolor
+- adulto
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B015OK3ZTS/?tag=tolees-21)

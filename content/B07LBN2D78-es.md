@@ -28,10 +28,10 @@ En este momento está [Helly Hansen Paramount Resistente Al Agua Y Al Viento Y R
 
 🔎:
 
+- Cremalleras YKK de mano, pecho y frente.
 - Resistente al agua, a prueba de viento y transpirable.
+- Dobladillo ajustable
 - Tejido softshell cómodo y ligero con membrana.
 - Construcción de tela Softshell
-- Cremalleras YKK de mano, pecho y frente.
-- Dobladillo ajustable
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07LBN2D78/?tag=tolees-21)

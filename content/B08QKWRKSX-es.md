@@ -28,8 +28,8 @@ En este momento está [Springfield Camiseta Regular Rayas Reconsider  Azul Medio
 
 🔎:
 
-- Colección RECONSIDER.
-- El algodón empleado en esta prenda es orgánico.
 - Camiseta regular fit de manga corta con raya estampada.
+- El algodón empleado en esta prenda es orgánico.
+- Colección RECONSIDER.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08QKWRKSX/?tag=tolees-21)
