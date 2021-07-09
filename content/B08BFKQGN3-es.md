@@ -29,9 +29,9 @@ En este momento está [HP Reverb G2 + 2 Controladores - Gafas de Realidad Virtua
 🔎:
 
 - Resolución de 4320 x 2160 (2160 x 2160 por ojo), subpixel RGB, frecuencia de refresco 90 Hz
-- Lentes ajustables diseñadas por Valve, 100 % compatible con SteamVR y Windows Mixed Reality, sin necesidad de complejas instalaciones
-- Bluetooth integrado con controladores pre configurados, DisplayPort 1.3, USB-C 3.0
-- Audio espacial 3 D integrado; 4 cámaras: 2 frontales y 2 laterales
 - Amplio campo de visión: 114 grados para una imagen periférica que permite una inmersión más profunda
+- Audio espacial 3 D integrado; 4 cámaras: 2 frontales y 2 laterales
+- Bluetooth integrado con controladores pre configurados, DisplayPort 1.3, USB-C 3.0
+- Lentes ajustables diseñadas por Valve, 100 % compatible con SteamVR y Windows Mixed Reality, sin necesidad de complejas instalaciones
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08BFKQGN3/?tag=tolees-21)

@@ -28,8 +28,8 @@ En este momento está [Lee Extreme Motion Straight Vaqueros  Azul Marino  46W / 
 
 🔎:
 
-- Otro elástico plano
 - 5 bolsillos
 - STRAIGHT FIT XM
+- Otro elástico plano
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CXSGTNF/?tag=tolees-21)
