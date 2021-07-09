@@ -28,10 +28,10 @@ Tienes [Tommy Hilfiger Essential TH Beach Sandal  Chanclas Hombre  Azul  Midnigh
 
 ℹ️:
 
-- Material: Poliéster
 - Artículo: FM0FM01369 ESSENTIAL TH
-- Color: noche
 - Designer: TOMMY HILFIGER
+- Color: noche
 - Estación: SIEMPRE DISPONIBLE
+- Material: Poliéster
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B078T75JZL/?tag=tolees-21)
