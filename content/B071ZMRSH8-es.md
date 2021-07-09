@@ -28,10 +28,10 @@ En este momento está [Fluchos | Zapato de Hombre | Clipper 9579 Cidacos Negro Z
 
 🔎:
 
+- CUIDADO DEL PRODUCTO: Lavado con paño húmedo. Es aconsejable utilizar cremas incoloras que no modifiquen el color natural de la piel. No utilizar productos agresivos con la piel, ni betún de color, pueden ser muy perjudiciales.
+- CIERRE: Cordones
 - MATERIALES: Piel de ternera de primera calidad y Piso de goma personalizado
 - COLOR: Negro
 - TACÓN: Plano
-- CIERRE: Cordones
-- CUIDADO DEL PRODUCTO: Lavado con paño húmedo. Es aconsejable utilizar cremas incoloras que no modifiquen el color natural de la piel. No utilizar productos agresivos con la piel, ni betún de color, pueden ser muy perjudiciales.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B071ZMRSH8/?tag=tolees-21)

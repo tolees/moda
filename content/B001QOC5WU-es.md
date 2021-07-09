@@ -29,7 +29,7 @@ Tienes [Levi s 501 Original Fit Jeans Vaqueros  Black 0165  31W / 34L para Hombr
 ℹ️:
 
 - Lavar del revés y secar con colores similares, se recomienda usar detergente líquido, encoger en la ropa aprox 10%
-- Corte normal en los muslos
 - Pierna recta y cierre de botón
+- Corte normal en los muslos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B001QOC5WU/?tag=tolees-21)

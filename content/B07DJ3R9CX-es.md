@@ -1,32 +1,39 @@
 ---
 layout: post
-title: 'Geox D New Annya A  Zapatos de Tacón par al 56.55 % de rebaja'
-date: 2020-04-20 11:02:47
-image: 'https://m.media-amazon.com/images/I/31BHG5phgaL._SL400_.jpg'
+title: 'Geox D New ANNYA A  Zapatos de Tacón Muj al 54.88 % de rebaja'
+date: 2021-07-09 22:22:44
+image: 'https://m.media-amazon.com/images/I/31BHG5phgaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07DJ3R9CX-es Geox D New Annya A Zapatos de Tacón para Mujer Negro Black...'
+slug: 'B07DJ3R9CX-es Geox D New ANNYA A Zapatos de Tacón Mujer Negro Black C999...'
 sku: 'B07DJ3R9CX-es'
-tags: [ 'geox','zapatos', ]
-actualPrice: 43.41 EUR
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','geox','zapatos', ]
+actualPrice: 45.07 EUR
 currency: EUR
-price: 43.41
+price: 45.07
 comparePrice: 99.9 EUR
-prodname: 'Geox D New Annya A  Zapatos de Tacón para Mujer  Negro  Black C9999   36 EU'
+prodname: 'Geox D New ANNYA A  Zapatos de Tacón Mujer  Negro  Black C999   36 EU'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B07DJ3R9CX/?tag=tolees-21'
-descuento: '56.55'
-average: '43.41'
+descuento: '54.88'
+average: '44.7866666666667'
 ---
 
-Tienes [Geox D New Annya A  Zapatos de Tacón para Mujer  Negro  Black C9999   36 EU](https://www.amazon.es/dp/B07DJ3R9CX/?tag=tolees-21) con precio final de  43.41 EUR (original: 99.9 EUR) (56.55 %  de rebaja) aqui!
+Tienes [Geox D New ANNYA A  Zapatos de Tacón Mujer  Negro  Black C999   36 EU](https://www.amazon.es/dp/B07DJ3R9CX/?tag=tolees-21) con precio final de  45.07 EUR (original: 99.9 EUR) (54.88 %  de rebaja) aqui!
 
-[![Geox D New Annya A  Zapatos de Tacón par](https://m.media-amazon.com/images/I/31BHG5phgaL._SL400_.jpg)](https://www.amazon.es/dp/B07DJ3R9CX/?tag=tolees-21)
+[![Geox D New ANNYA A  Zapatos de Tacón Muj](https://m.media-amazon.com/images/I/31BHG5phgaL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07DJ3R9CX/?tag=tolees-21)
 
 🔎:
 
+- Material de la suela: EVA
+- Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
+- Material exterior: Cuero
+- Cierre: Ponerse
+- Tipo de tacón: Tacón ancho
+- Altura del tacón: 7.5 centímetros
+- Revestimiento: Sintético
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07DJ3R9CX/?tag=tolees-21)
