@@ -28,7 +28,7 @@ Está [Jack & Jones JJELOGO tee SS O-Neck 2 Col SS21 Noos Camiseta  True Red/Fit
 
 ℹ️:
 
-- Corte ajustado, gran comodidad gracias a su fabricación de 100% algodón
 - Camiseta informal con cuello redondo y mangas cortas, logotipo de estilo vintage grande en la parte delantera
+- Corte ajustado, gran comodidad gracias a su fabricación de 100% algodón
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08FRHSLP1/?tag=tolees-21)
