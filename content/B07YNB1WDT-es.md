@@ -28,10 +28,10 @@ Está [Sandalias Mujer MTNG | Sandalias PLEXY 58831 | MTNG Mujer | Sandalias Tir
 
 ℹ️:
 
-- Tipo de tacón Bloque
-- Altura Tacón Alto (de 5 A 9 cm)
-- Tipo de cierre Hebilla
 - Material de la suela De goma
+- Tipo de cierre Hebilla
 - Material principal Sintetico
+- Altura Tacón Alto (de 5 A 9 cm)
+- Tipo de tacón Bloque
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07YNB1WDT/?tag=tolees-21)
