@@ -28,8 +28,8 @@ Ahora mismo tienes [Clarks Grandin Plain  Zapatos de Cordones Derby Hombre  Piel
 
 🔎:
 
-- Interior: textil
 - Suela: goma
+- Interior: textil
 - Exterior: piel
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MLSS8R7/?tag=tolees-21)
