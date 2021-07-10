@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Housemark Polo  Camiseta para Hom al 40.02 % de rebaja'
-date: 2021-07-06 18:21:25
+date: 2021-07-10 09:16:34
 image: 'https://m.media-amazon.com/images/I/41i36CR0tlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B013V6O4WY/?tag=tolees-21'
 descuento: '40.02'
-average: '28.9566666666668'
+average: '28.8105882352942'
 ---
 
 Tienes [Levi s Housemark Polo  Camiseta para Hombre  Azul  104 DRESS BLUES X 3   Small](https://www.amazon.es/dp/B013V6O4WY/?tag=tolees-21) con precio final de  23.99 EUR (original: 40.0 EUR) (40.02 %  de rebaja) aqui!

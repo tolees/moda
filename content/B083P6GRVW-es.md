@@ -28,8 +28,8 @@ Está [Havaianas Flash Urban  Chanclas Mujer  Negro  37/38](https://www.amazon.e
 
 ℹ️:
 
-- Hav flash urban black (4000039)
 - Sandalias tiempo libre y sportwear mujer
+- Hav flash urban black (4000039)
 - Calzado havaianas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B083P6GRVW/?tag=tolees-21)

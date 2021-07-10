@@ -28,10 +28,10 @@ Ahora mismo tienes [Geox J Sandal Coralie Gir  Sandalias con Punta Abierta Niño
 
 🔎:
 
+- Tipo de talla: Los zapatos Geox son holgados
+- Revestimiento: Sintético
 - Material de la suela: Etilvinilacetato
 - Cierre: Velcro
-- Revestimiento: Sintético
 - Material exterior: Lona
-- Tipo de talla: Los zapatos Geox son holgados
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SWSQ3T2/?tag=tolees-21)
