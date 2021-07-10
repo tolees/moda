@@ -28,10 +28,10 @@ Está [Crocs Crocband U  Zuecos Unisex Adulto  Rojo  Pepper   43-44 EU](https://
 
 ℹ️:
 
-- Revestimiento: Sintético
-- Material de la suela: Goma
 - Altura del tacón: 1.5 pulgadas
 - Cierre: Sin cordones
+- Revestimiento: Sintético
+- Material de la suela: Goma
 - Material exterior: Espuma
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01HQAMFD6/?tag=tolees-21)
