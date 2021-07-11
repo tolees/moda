@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox J Sandal COSTAREI GI  Sandalia  Pla con un 54.91 % de descuento'
-date: 2021-07-10 07:55:58
+date: 2021-07-11 19:21:33
 image: 'https://m.media-amazon.com/images/I/31phuRsWMkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
