@@ -28,10 +28,10 @@ Tienes [Joma Pantalón Corto Lycra Running  Niños  Rojo-31  10-12](https://www.
 
 🔎:
 
-- Tamaño Pecho (pulgadas); UK6 – 10: 30 – 35, UK12: 35 – 37, talla: 37 – 39, UK16: 39 – 40
-- Logo de Joma muestra en la pierna inferior izquierda de.
-- Proporciona Stretch para un ajuste cómodo y optimizado
 - Diseño ultra Fino que mejora la flexibilidad y athletic salida
+- Tamaño Pecho (pulgadas); UK6 – 10: 30 – 35, UK12: 35 – 37, talla: 37 – 39, UK16: 39 – 40
 - Muy ligero y resistente, con suciedad y resistencia química perfecta para prendas de entrenamiento
+- Proporciona Stretch para un ajuste cómodo y optimizado
+- Logo de Joma muestra en la pierna inferior izquierda de.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00HD9WDUG/?tag=tolees-21)

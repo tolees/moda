@@ -28,8 +28,8 @@ Ahora mismo tienes [Vans Classic Camiseta  Vestido Blues-Blanco  S para Hombre](
 
 🔎:
 
-- 185 g ringspun camiseta
 - Ajuste entallado.
 - 100% algodón.
+- 185 g ringspun camiseta
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08MFP2VT7/?tag=tolees-21)
