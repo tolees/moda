@@ -28,8 +28,8 @@ Está [Skechers TOCKER  Sandalias deslizantes Hombre  Gris  43 EU](https://www.a
 
 ℹ️:
 
-- ESPUMA DE MEMORIA
 - PERCHA OPCIONAL
 - Lavable a máquina.
+- ESPUMA DE MEMORIA
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08LDBP6M1/?tag=tolees-21)
