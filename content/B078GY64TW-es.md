@@ -28,7 +28,7 @@ Tienes [Vero Moda Vmapril SS Short Dress Ga Noos Vestido  Negro  Black Black   3
 
 🔎:
 
-- basic dress with hidden front pockets
 - T-shirt dress made of organic cotton
+- basic dress with hidden front pockets
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B078GY64TW/?tag=tolees-21)
