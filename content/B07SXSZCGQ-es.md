@@ -28,10 +28,10 @@ Ahora mismo tienes [Geox J ALBEN Boy C  Zapatillas Niños  Azul  Navy/Red C0735 
 
 🔎:
 
-- Tipo de talla: Los zapatos Geox son holgados
 - Cierre: Velcro
 - Revestimiento: Malla
 - Material exterior: Sintético
 - Material de la suela: Goma
+- Tipo de talla: Los zapatos Geox son holgados
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SXSZCGQ/?tag=tolees-21)
