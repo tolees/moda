@@ -28,7 +28,7 @@ Ahora mismo tienes [BOSS Paddy 3 10233811 01 Camisa de Polo  Navy410  XL para Ho
 
 🔎:
 
-- Piqué
 - Acabado de alta calidad
+- Piqué
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CF2YXWL/?tag=tolees-21)

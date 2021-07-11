@@ -28,8 +28,8 @@ En este momento está [Vans Classic Camiseta  Vestido Blues-Blanco  M para Hombr
 
 🔎:
 
-- Ajuste entallado.
-- 185 g ringspun camiseta
 - 100% algodón.
+- 185 g ringspun camiseta
+- Ajuste entallado.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08MFT1WM3/?tag=tolees-21)
