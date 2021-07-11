@@ -28,7 +28,7 @@ En este momento está [BOSS Paddy 5 10234712 01 Camisa de Polo  Talla Mediana  S
 
 🔎:
 
-- Tela Oxford de rayas
 - Acabado de alta calidad
+- Tela Oxford de rayas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CF1W7W8/?tag=tolees-21)
