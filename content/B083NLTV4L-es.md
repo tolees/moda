@@ -28,10 +28,10 @@ Tienes [PUMA teamGOAL 23 Training Jacket W Chaqueta De Entrenamiento  Mujer  Pep
 
 🔎:
 
-- Logotipo del felino PUMA en la parte derecha del pecho
 - dryCELL: Tecnología de PUMA con propiedades que alejan la humedad de la piel y te ayudan a mantenerte seco y cómodo
 - Bolsillos laterales
 - Cierre de cremallera completa
+- Logotipo del felino PUMA en la parte derecha del pecho
 - 100 % poliéster
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B083NLTV4L/?tag=tolees-21)
