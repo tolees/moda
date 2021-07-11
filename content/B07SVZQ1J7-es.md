@@ -29,7 +29,7 @@ Ahora mismo tienes [Roxy Viva  Zapatos de Playa y Piscina para Mujer  Azul  Blue
 🔎:
 
 - __plantilla:__plantilla de goma con textura
-- __Parte superior:__ Parte superior de goma con pin metálico ROXY
 - __Suela exterior:__ suela exterior de goma
+- __Parte superior:__ Parte superior de goma con pin metálico ROXY
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SVZQ1J7/?tag=tolees-21)

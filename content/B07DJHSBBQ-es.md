@@ -28,7 +28,7 @@ Ahora mismo tienes [Geox D ANNYTAH Moc B  Mocasines Mujer  Negro  Black C9999   
 
 🔎:
 
-- Italiana perforada suela impermeable y respirable patentado
 - suela desmontable
+- Italiana perforada suela impermeable y respirable patentado
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DJHSBBQ/?tag=tolees-21)

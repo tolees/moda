@@ -28,10 +28,10 @@ En este momento está [Roxy - Camiseta con Tejido orgánico para Mujer](https://
 
 🔎:
 
-- tejido: tejido ligero en algodón orgánico
-- Corte: Ajuste ligeramente holgado
 - Punto canalé en el cuello
-- Cuello: cuello redondo
 - Mangas enrollables
+- Corte: Ajuste ligeramente holgado
+- Cuello: cuello redondo
+- tejido: tejido ligero en algodón orgánico
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08R13DPWS/?tag=tolees-21)

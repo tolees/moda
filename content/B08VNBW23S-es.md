@@ -28,7 +28,7 @@ En este momento está [Jack & Jones JJEPAULOS Polo SS Noos Camisa  Forest Night/
 
 🔎:
 
-- Polo de manga corta para hombre
 - Corte entallado, con contraste en el cuello y las mangas, gran comodidad gracias a su fabricación de 100% algodón
+- Polo de manga corta para hombre
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08VNBW23S/?tag=tolees-21)
