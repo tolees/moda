@@ -28,8 +28,8 @@ En este momento está [Vans Classic Camiseta  Semilla Perla-Negro  M para Hombre
 
 🔎:
 
-- 100% algodón.
 - Ajuste entallado.
+- 100% algodón.
 - 185 g ringspun camiseta
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08MFQX8KX/?tag=tolees-21)
