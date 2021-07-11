@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tous K Shock  Bolso de Mano para Mujer   al 50.36 % de descuento'
-date: 2021-07-05 06:45:22
+date: 2021-07-11 11:11:18
 image: 'https://m.media-amazon.com/images/I/412etzA-xeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TOUS'
 buyurl: 'https://www.amazon.es/dp/B01MTKD6RU/?tag=tolees-21'
 descuento: '50.36'
-average: '85.005'
+average: '83.938'
 ---
 
 Está [Tous K Shock  Bolso de Mano para Mujer   Negro 695890118   32x25x15 cm  W x H x L ](https://www.amazon.es/dp/B01MTKD6RU/?tag=tolees-21) con 50.36 de descuento por 69.0 EUR (original: 139.0 EUR) en el siguiente enlace!
