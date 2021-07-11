@@ -28,7 +28,7 @@ Ahora mismo tienes [Camper Balloon  Sandalias con Tira Vertical Mujer  Rosa  Med
 
 🔎:
 
-- Fácil de montar.
 - Peso ligero.
+- Fácil de montar.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07HHFD7FN/?tag=tolees-21)
