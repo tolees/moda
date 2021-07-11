@@ -28,10 +28,10 @@ Ahora mismo tienes [Jack & Jones JJECORP Logo tee SS O-Neck Noos Camiseta  Blanc
 
 🔎:
 
-- Camiseta
-- Manga corta
 - Cuello redondo
-- 100% algodón
+- Camiseta
 - Logotipo impreso en la parte delantera
+- 100% algodón
+- Manga corta
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08JH2RHMN/?tag=tolees-21)

@@ -28,7 +28,7 @@ Está [Jack & Jones JCOBERG Turk tee SS Crew Neck Camiseta  Deep Lichen Green/Fi
 
 ℹ️:
 
-- Camiseta ajustada con cuello redondo y mangas cortas, logotipo de color en la parte delantera, con 68% de algodón orgánico
 - Tela de mezcla, escote de colores
+- Camiseta ajustada con cuello redondo y mangas cortas, logotipo de color en la parte delantera, con 68% de algodón orgánico
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08RP6NSVJ/?tag=tolees-21)

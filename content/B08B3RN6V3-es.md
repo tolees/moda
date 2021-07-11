@@ -28,7 +28,7 @@ En este momento está [Lacoste TH6709 Camiseta  Amaryllis  XL para Hombre](https
 
 🔎:
 
-- Regular fit
 - Punto liso de algodón Pima
+- Regular fit
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08B3RN6V3/?tag=tolees-21)
