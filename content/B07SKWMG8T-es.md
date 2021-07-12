@@ -29,8 +29,8 @@ En este momento está [Havaianas Urban Basic II  Chanclas para Hombre  Gris  Ice
 🔎:
 
 - Cierre: Sin cierre
-- Revestimiento: Sin forro
 - Material exterior: Caucho
 - Material de la suela: Caucho
+- Revestimiento: Sin forro
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07SKWMG8T/?tag=tolees-21)

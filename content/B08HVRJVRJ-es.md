@@ -28,10 +28,10 @@ En este momento está [Zapatos Hombre mustang | Zapatos BELIO 84666 | mustang Ho
 
 🔎:
 
+- Altura Tacón Bajo (de 1 A 3 cm)
+- Material principal Textil
 - Tipo de tacón Plano
 - Tipo de cierre Cordones
-- Material principal Textil
 - Material de la suela De goma
-- Altura Tacón Bajo (de 1 A 3 cm)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08HVRJVRJ/?tag=tolees-21)
