@@ -28,10 +28,10 @@ En este momento está [Havaianas Marvel  Chanclas Unisex Adulto  Azul Marino y B
 
 🔎:
 
-- Fabricado en Brasil
-- Resistente al agua
 - Cómodo
 - Antideslizante
 - Se adapta a verdad
+- Resistente al agua
+- Fabricado en Brasil
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08FYP8LFZ/?tag=tolees-21)

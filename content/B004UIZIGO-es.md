@@ -28,11 +28,11 @@ Tienes [Havaianas Top  Chanclas para Unisex Adulto  Blanco  White   25/26 EU  23
 
 🔎:
 
-- Material exterior: Goma
-- Cierre: Sin cordones
-- Tipo de tacón: Plano
 - Material de la suela: Goma
 - Composición: Goma
+- Tipo de tacón: Plano
 - Revestimiento: Sin forro
+- Cierre: Sin cordones
+- Material exterior: Goma
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B004UIZIGO/?tag=tolees-21)

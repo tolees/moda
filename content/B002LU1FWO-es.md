@@ -28,7 +28,7 @@ Está [Lacoste L1212  Camisa de Polo para Hombre  Azul  Ruisseau   M](https://ww
 
 ℹ️:
 
-- Classic fit
 - Bajo recto con aberturas laterales
+- Classic fit
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B002LU1FWO/?tag=tolees-21)
