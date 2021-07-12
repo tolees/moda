@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Salomon Zapatilla de hombre TRAILSTER 2  al 30.01 % de descuento'
-date: 2021-07-08 09:05:22
+date: 2021-07-12 08:06:33
 image: 'https://m.media-amazon.com/images/I/41TWUSyqzIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
