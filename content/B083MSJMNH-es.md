@@ -28,10 +28,10 @@ En este momento está [Helly Hansen Rigging Coat Abrigo  Hombre  Navy  S](https:
 
 🔎:
 
-- Chaqueta exterior: Tejido de protección Helly Tech tejido impermeable, resistente al viento y transpirable
+- Use them together for the optima combination of waterproofness and warmth, o separate. The Choice isa yours.
+- Un clásico superventas de HH. La capa Rigging está construida como una capa 3 en 1 con una capa exterior 100% impermeable y una chaqueta interior con aislamiento ligero
 - Úselos juntos para la combinación óptima de impermeabilidad y calidez, o por separado. La decisión es tuya.
 - Chaqueta interior: 100% bolsillos para manos con aislamiento PrimaLoft Negro.
-- Un clásico superventas de HH. La capa Rigging está construida como una capa 3 en 1 con una capa exterior 100% impermeable y una chaqueta interior con aislamiento ligero
-- Use them together for the optima combination of waterproofness and warmth, o separate. The Choice isa yours.
+- Chaqueta exterior: Tejido de protección Helly Tech tejido impermeable, resistente al viento y transpirable
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B083MSJMNH/?tag=tolees-21)

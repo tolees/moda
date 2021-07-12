@@ -28,10 +28,10 @@ Tienes [PUMA Nu-Tility tee Camiseta  Hombre  Aquamarine  M](https://www.amazon.e
 
 ℹ️:
 
-- Confeccionada en algodón de Better Cotton Initiative
-- Confeccionada con estampado Quality en la parte izquierda del pecho
-- Logotipo de PUMA n.º 2 en la parte derecha del pecho
 - BCI: PUMA colabora con Better Cotton Initiative para mejorar el cultivo de algodón en todo el mundo
 - Cuello redondo de canalé
+- Logotipo de PUMA n.º 2 en la parte derecha del pecho
+- Confeccionada en algodón de Better Cotton Initiative
+- Confeccionada con estampado Quality en la parte izquierda del pecho
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07X8PBYP5/?tag=tolees-21)

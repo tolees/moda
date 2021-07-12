@@ -28,7 +28,7 @@ En este momento está [Only Onlcoral Superlow SK JNS BB Crya041 Noos Vaqueros Sk
 
 🔎:
 
-- Skinny ankle Jeans
 - Denim with super low waist
+- Skinny ankle Jeans
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07S8PT33J/?tag=tolees-21)
