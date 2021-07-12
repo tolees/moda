@@ -28,11 +28,11 @@ Ahora mismo tienes [Duruss Rock 001 Falda Técnica  Mujer  Rojo  S](https://www.
 
 🔎:
 
-- Dispone de una colección completa Duruss a juego. Chándal, chaqueta, leggins, camiseta, conjunto, etc
-- Multifuncional: Pádel, tenis, badmintón, fitness, gimnasio. Se adapta perfectamente al cuerpo.
 - Tipo de fábrica: 87% poliéster 13% spandex
-- Falda de deporte técnica con short interior de la firma Duruss. Elástica y transpirable. Diseño exclusivo. Alta calidad.
+- Multifuncional: Pádel, tenis, badmintón, fitness, gimnasio. Se adapta perfectamente al cuerpo.
 - Materiales y costuras de máxima calidad. Muy resistente y ligera. Ideal para uso diario.
 - Composición 87% Micropolyester Interlock 13 % Elastano. Máxima elasticidad.
+- Falda de deporte técnica con short interior de la firma Duruss. Elástica y transpirable. Diseño exclusivo. Alta calidad.
+- Dispone de una colección completa Duruss a juego. Chándal, chaqueta, leggins, camiseta, conjunto, etc
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01MXO2DII/?tag=tolees-21)

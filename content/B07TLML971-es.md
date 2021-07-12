@@ -28,10 +28,10 @@ Está [HAWKERS Runway Gafas de sol  Negro  One Size Unisex Adulto](https://www.a
 
 ℹ️:
 
-- Modelo para hombre y mujer: Unisex
 - Estas gafas de sol polarizadas de estilo oversize incorporan lentes negras sobre una montura en acabado brillante del mismo color
-- Lente de policarbonato de alta resistencia a los golpes que proporciona máxima comodidad por su flexibilidad y ligereza; lentes categoría 3 y protección uv400
 - Modelo Polarized Black RUNWAY
+- Lente de policarbonato de alta resistencia a los golpes que proporciona máxima comodidad por su flexibilidad y ligereza; lentes categoría 3 y protección uv400
+- Modelo para hombre y mujer: Unisex
 - Gafas de sol polarizadas: otorga una visión sin reflejos y contraste naturales de colores
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07TLML971/?tag=tolees-21)
