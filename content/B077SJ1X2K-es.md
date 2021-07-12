@@ -28,10 +28,10 @@ Ahora mismo tienes [PUMA Liga LS Goalkeeper JSY Jersey Fútbol  Hombre  Azul  Aq
 
 🔎:
 
+- DryCELL: material altamente funcional que evacúa el sudor
+- Puños de color en contraste en tejido de membrana y cinta en el dobladillo de la nuca
 - Apliques de tira de PUMA y aplique de malla bajo las axilas
 - Logotipos del felino de PUMA estampados por termograbado en la parte derecha del pecho y en las mangas
 - Costura única sin sisa
-- Puños de color en contraste en tejido de membrana y cinta en el dobladillo de la nuca
-- DryCELL: material altamente funcional que evacúa el sudor
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B077SJ1X2K/?tag=tolees-21)
