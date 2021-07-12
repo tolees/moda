@@ -28,7 +28,7 @@ En este momento está [BOSS Teeonic 10209546 01 Camiseta  Bright Blue438  M para
 
 🔎:
 
-- Acabado de alta calidad
 - Jersey reciclado
+- Acabado de alta calidad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CF2N4D3/?tag=tolees-21)
