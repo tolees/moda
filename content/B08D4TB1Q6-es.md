@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Graphic Camiseta  Sportswear Logo al 25.60 % de descuento'
-date: 2021-07-11 11:03:44
+date: 2021-07-12 18:12:14
 image: 'https://m.media-amazon.com/images/I/41xLV-YPHoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [Levi s Graphic Camiseta  Sportswear Logo Star Sapphire  L para Hombre](ht
 
 ℹ️:
 
-- Con el logotipo deportivo de Levis
 - Modelo casual
 - Fabricada en tejido ligero
+- Con el logotipo deportivo de Levis
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08D4TB1Q6/?tag=tolees-21)
