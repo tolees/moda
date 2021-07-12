@@ -28,8 +28,8 @@ Tienes [Roxy South Beach  Zapatos de Playa y Piscina para Mujer  Negro  Black 3 
 
 ℹ️:
 
-- __Plantilla:__ Plantilla de EVA moldeada con estilo de alpargata
 - __Parte superior:__ parte superior suave con TPR estampado y pin metálico con logo
+- __Plantilla:__ Plantilla de EVA moldeada con estilo de alpargata
 - __Suela:__ Suela de EVA con detalles ROXY
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07SY3R4Z5/?tag=tolees-21)

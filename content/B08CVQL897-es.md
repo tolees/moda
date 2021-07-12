@@ -28,8 +28,8 @@ Ahora mismo tienes [Lee Pique Polo Camiseta  Rojo Lavado  L para Hombre](https:/
 
 🔎:
 
-- KnITS
 - Manga corta
 - Corte regular
+- KnITS
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CVQL897/?tag=tolees-21)
