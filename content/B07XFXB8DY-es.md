@@ -28,10 +28,10 @@ En este momento está [PUMA Öfb DNA tee Camiseta  Hombre  White  XL](https://ww
 
 🔎:
 
-- 100 % algodón
-- 0
-- Gráfico de la ÖFB de Austria de tamaño grande en la parte delantera
 - Cuello redondo
 - Manga corta
+- Gráfico de la ÖFB de Austria de tamaño grande en la parte delantera
+- 0
+- 100 % algodón
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07XFXB8DY/?tag=tolees-21)

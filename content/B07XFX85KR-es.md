@@ -28,10 +28,10 @@ Tienes [PUMA Öfb DNA tee Camiseta  Hombre  Black  S](https://www.amazon.es/dp/B
 
 ℹ️:
 
-- Manga corta
-- Cuello redondo
-- Gráfico de la ÖFB de Austria de tamaño grande en la parte delantera
 - 0
+- Manga corta
+- Gráfico de la ÖFB de Austria de tamaño grande en la parte delantera
 - 100 % algodón
+- Cuello redondo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07XFX85KR/?tag=tolees-21)

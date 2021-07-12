@@ -28,13 +28,13 @@ Tienes [GEOX Woman D NEW ANNYA A SHOES BLACK 38 5 EU](https://www.amazon.es/dp/B
 
 ℹ️:
 
+- Altura del tacón: 7.5 centímetros
 - Cierre: Sin cierre
+- Material exterior: Cuero
 - Material de la suela: Sintético
 - Revestimiento: Sintético
 - Tipo de tacón: Bloque
-- Altura del tacón: 7.5 centímetros
-- Tipo de talla: Los zapatos Geox son holgados
 - Anchura del zapato: Normal
-- Material exterior: Cuero
+- Tipo de talla: Los zapatos Geox son holgados
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07LFV95KX/?tag=tolees-21)
