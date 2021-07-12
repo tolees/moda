@@ -28,8 +28,8 @@ En este momento está [Helly Hansen Jacke W Loke  Chaqueta Deportiva para Mujer 
 
 🔎:
 
-- Resistente tratamiento de repelencia al agua (dwr) con reverso impreso.
 - Construcción de tejido de 2,5 capas, costuras totalmente selladas.
+- Resistente tratamiento de repelencia al agua (dwr) con reverso impreso.
 - Rendimiento Helly Tech impermeable, resistente al viento y transpirable.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00KYV34Z8/?tag=tolees-21)
