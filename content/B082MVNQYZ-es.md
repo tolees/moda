@@ -28,9 +28,9 @@ Ahora mismo tienes [Havaianas Baby Minecraft  Chanclas Unisex Niños  Blanco  29
 
 🔎:
 
-- Revestimiento: Sin forro
-- Cierre: Sin cierre
-- Material de la suela: Caucho
 - Material exterior: Caucho
+- Material de la suela: Caucho
+- Cierre: Sin cierre
+- Revestimiento: Sin forro
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082MVNQYZ/?tag=tolees-21)

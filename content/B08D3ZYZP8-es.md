@@ -28,8 +28,8 @@ En este momento está [Levi s Graphic Camiseta  Sportswear Logo Star Sapphire  X
 
 🔎:
 
-- Fabricada en tejido ligero
 - Con el logotipo deportivo de Levis
 - Modelo casual
+- Fabricada en tejido ligero
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08D3ZYZP8/?tag=tolees-21)
