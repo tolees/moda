@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'G-STAR RAW Eyben V-Neck Slim Camiseta  M al 37.39 % de descuento'
-date: 2021-06-30 20:25:22
+date: 2021-07-13 15:25:39
 image: 'https://m.media-amazon.com/images/I/31NbxMtdmWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [G-STAR RAW Eyben V-Neck Slim Camiseta  Mujer  Negro  Black   L](https://w
 
 ℹ️:
 
+- Marca en el pecho
 - Corte ajustado
 - Cuello de pico
-- Marca en el pecho
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01NAHNK1R/?tag=tolees-21)
