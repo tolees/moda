@@ -28,9 +28,9 @@ Tienes [cotton division METBOYSTS014 Camiseta  Anthracite Chiné  XL para Hombre
 
 ℹ️:
 
-- Todos nuestros productos son nuevos y en su embalaje original.
-- Antracita china.
 - Camiseta The Boys - Season 2. Licencia oficial.
+- Todos nuestros productos son nuevos y en su embalaje original.
 - The Boys
+- Antracita china.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08HNKT55H/?tag=tolees-21)

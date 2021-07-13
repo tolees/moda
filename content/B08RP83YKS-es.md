@@ -28,7 +28,7 @@ En este momento está [Jack & Jones JCOJENSON tee SS Crew Neck Camiseta  Red Och
 
 🔎:
 
-- Gran comodidad gracias a la producción sostenible de 100% algodón orgánico
 - Camiseta de corte entallado con cuello redondo y mangas cortas, logotipo grande impreso en la parte delantera
+- Gran comodidad gracias a la producción sostenible de 100% algodón orgánico
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08RP83YKS/?tag=tolees-21)
