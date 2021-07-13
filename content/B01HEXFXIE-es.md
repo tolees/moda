@@ -28,7 +28,7 @@ Está [Crocs Crocband Clog K  Zuecos Unisex Niños  19/20 EU  Negro  Black ](htt
 
 ℹ️:
 
-- Las tallas de los zapatos de Cross se realizan en las tallas de los Estados Unidos.
 - Las tallas de la suela son tallas estadounidenses. La etiqueta muestra el tamaño del Reino Unido. M = Hombre, W = Mujer
+- Las tallas de los zapatos de Cross se realizan en las tallas de los Estados Unidos.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01HEXFXIE/?tag=tolees-21)
