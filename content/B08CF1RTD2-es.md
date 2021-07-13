@@ -28,7 +28,7 @@ Ahora mismo tienes [BOSS Paddy 1 10210510 01 Camisa de Polo  White100  XXL para 
 
 🔎:
 
-- Acabado de alta calidad
 - Algodón de lujo
+- Acabado de alta calidad
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CF1RTD2/?tag=tolees-21)
