@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HAWKERS Hybrid Gafas de sol  Negro/Gris  con un 43.88 % de descuento'
-date: 2021-07-08 08:48:40
+date: 2021-07-13 14:13:23
 image: 'https://m.media-amazon.com/images/I/31+tgQl88QL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HAWKERS'
 buyurl: 'https://www.amazon.es/dp/B073SF93SZ/?tag=tolees-21'
 descuento: '43.88'
-average: '24.84'
+average: '24.4985714285714'
 ---
 
 En este momento está [HAWKERS Hybrid Gafas de sol  Negro/Gris  One Size Unisex Adulto](https://www.amazon.es/dp/B073SF93SZ/?tag=tolees-21) a 22.45 EUR (original: 40.0 EUR) (43.88 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [HAWKERS Hybrid Gafas de sol  Negro/Gris  One Size Unisex 
 
 🔎:
 
+- Producto original Hawkers; la caja incluye funda de microfibra, caja y set de pegatinas decorativas
+- Este modelo es un atrevido rediseño del icónico modelo Hawkers ONE; mantiene las formas y curvas de la montura del clásico, pero introduciendo una lente de máscara gris espejada, montada sobre una montura negra con acabado brillo
 - Mono lente gris con efecto espejo fabricada en TR18, con reducción de brillos y con gran equilibrio entre claridad y protección; lente de categoría 3 con protección UV401
 - Medidas: Frente 14 cm, Altura 5 cm, Varillas 14 cm
-- Producto original Hawkers; la caja incluye funda de microfibra, caja y set de pegatinas decorativas
 - Montura fabricada en TR90, que dota a las gafas de gran ligereza, flexibilidad y resistencia; muy resistente a altas y bajas temperaturas
-- Este modelo es un atrevido rediseño del icónico modelo Hawkers ONE; mantiene las formas y curvas de la montura del clásico, pero introduciendo una lente de máscara gris espejada, montada sobre una montura negra con acabado brillo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B073SF93SZ/?tag=tolees-21)
