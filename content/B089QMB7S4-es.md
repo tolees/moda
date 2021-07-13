@@ -28,8 +28,8 @@ Tienes [PUMA Men s Gradient Stripe Boxer  2 Pack  Ropa Interior  Negro/Azul  S p
 
 🔎:
 
-- Bóxer clásico
 - Cintura cómoda.
 - Rayas teñidas Yarn.
+- Bóxer clásico
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B089QMB7S4/?tag=tolees-21)
