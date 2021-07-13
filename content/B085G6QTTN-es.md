@@ -28,8 +28,8 @@ Está [Timberland Malibu Waves 2 Band  Sandalias Mujer  Negro Black Nubuck  36 E
 
 ℹ️:
 
-- Sintético, Cuero Sintético, Hebilla 3.0, Sandalias
-- Altura del tacón: 3 cm
 - Ancho del zapato: medio
+- Altura del tacón: 3 cm
+- Sintético, Cuero Sintético, Hebilla 3.0, Sandalias
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B085G6QTTN/?tag=tolees-21)
