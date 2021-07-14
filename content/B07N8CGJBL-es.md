@@ -28,7 +28,7 @@ En este momento está [Vero Moda Vmnineteen HR Loose Shorts Mix Noos Pantalones 
 
 🔎:
 
-- jeans shorts with high waist
 - short denim pants with raw edges
+- jeans shorts with high waist
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07N8CGJBL/?tag=tolees-21)

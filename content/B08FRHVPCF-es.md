@@ -29,9 +29,9 @@ En este momento está [Jack & Jones JJEMULTI Quilted Jacket Noos Chaqueta  azul 
 🔎:
 
 - Chaqueta monocolor.
+- Chaqueta con cremallera.
 - Chaqueta con capucha.
 - Chaqueta de diferentes materiales.
-- Chaqueta con cremallera.
 - Chaqueta funcional.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08FRHVPCF/?tag=tolees-21)
