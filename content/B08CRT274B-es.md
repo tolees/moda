@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'G-STAR RAW Lash Straight Fit Camiseta de al 50.02 % de rebaja'
-date: 2021-07-03 14:15:55
+date: 2021-07-14 11:02:12
 image: 'https://m.media-amazon.com/images/I/41osMo3LkCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [G-STAR RAW Lash Straight Fit Camiseta de Manga Corta  Combat GD 2653-c24
 
 🔎:
 
-- Etiqueta de G-Star RAW Originals tejida en la costura lateral
 - Cuello redondo de canalé
+- Etiqueta de G-Star RAW Originals tejida en la costura lateral
+- Bajo redondeado
 - Manga corta recta insertada con vuelta fija
 - Estampado de G-Star RAW de alta densidad en el pecho
-- Bajo redondeado
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08CRT274B/?tag=tolees-21)

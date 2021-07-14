@@ -29,7 +29,7 @@ Está [HUGO T-Shirt RN Twin Pack Camiseta  Blanco  White 100   Small 2 para Homb
 ℹ️:
 
 - Modelo clásico
-- Incluyen un toque sutil en forma de logo vertical en rojo
 - Adecuados para uso diario
+- Incluyen un toque sutil en forma de logo vertical en rojo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07L61QLF6/?tag=tolees-21)
