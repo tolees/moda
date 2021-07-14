@@ -28,8 +28,8 @@ Tienes [Dockers Garment Dyed Oxford Shirt  Camisa Hombre  Crown Blue  L](https:/
 
 ℹ️:
 
-- Una camisa oxford clásica simplificada
 - Confeccionado con técnicas Water<Less, que reducen el consumo de agua durante el proceso de acabado
 - Teñida en prenda para una sensación usada
+- Una camisa oxford clásica simplificada
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B089T8NS5J/?tag=tolees-21)
