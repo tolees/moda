@@ -29,8 +29,8 @@ En este momento está [Joma Combi Camiseta Manga Corta  Hombres  Morado  Violeta
 🔎:
 
 - Realizada en poliéster, para una mayor resistencia
-- Camiseta de manga corta indicada para deportistas que buscan la máxima comodidad y transpirabilidad
 - Esta camiseta destaca por un tacto muy suave, por su secado rápido y sin arrugas
+- Camiseta de manga corta indicada para deportistas que buscan la máxima comodidad y transpirabilidad
 - El tejido Interlock es muy elástico, dirigido a ropa deportiva
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00JTX88BW/?tag=tolees-21)

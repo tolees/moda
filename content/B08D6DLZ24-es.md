@@ -28,11 +28,11 @@ Tienes [Pepe Jeans West Sir Camiseta  545bright Blue  4 para Hombre](https://www
 
 🔎:
 
-- Fit slim
-- Efecto desgastado
-- Logo impreso delante
 - Manga corta
-- Cuello redondo
+- Fit slim
 - Camiseta de algodón
+- Logo impreso delante
+- Cuello redondo
+- Efecto desgastado
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08D6DLZ24/?tag=tolees-21)
