@@ -29,9 +29,9 @@ Tienes [G-STAR RAW Lash Straight Fit Camiseta de Manga Corta  Combat GD 2653-c24
 🔎:
 
 - Cuello redondo de canalé
+- Estampado de G-Star RAW de alta densidad en el pecho
 - Etiqueta de G-Star RAW Originals tejida en la costura lateral
 - Bajo redondeado
 - Manga corta recta insertada con vuelta fija
-- Estampado de G-Star RAW de alta densidad en el pecho
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08CRT274B/?tag=tolees-21)

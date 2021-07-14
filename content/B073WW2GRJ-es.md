@@ -28,10 +28,10 @@ Ahora mismo tienes [Vans Ward  Zapatilla Baja Hombre  Negro  Canvas/Black 186   
 
 🔎:
 
-- Material exterior: Cuero
-- Material de la suela: Goma
-- Tipo de tacón: Plano
 - Revestimiento: Tela
 - Cierre: Cordones
+- Material de la suela: Goma
+- Material exterior: Cuero
+- Tipo de tacón: Plano
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B073WW2GRJ/?tag=tolees-21)
