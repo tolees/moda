@@ -28,12 +28,12 @@ Está [Havaianas Top Mix  Chanclas Unisex Adulto  Hydro Verde  39/40 EU](https:/
 
 ℹ️:
 
-- Altura del tacón: 1 centímetros
-- Anchura del zapato: Normal
-- Tipo de tacón: Plano
 - Revestimiento: Sin forro
 - Material exterior: Caucho
 - Material de la suela: Caucho
+- Altura del tacón: 1 centímetros
 - Cierre: Sin cierre
+- Anchura del zapato: Normal
+- Tipo de tacón: Plano
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B085YRPZ6K/?tag=tolees-21)

@@ -28,8 +28,8 @@ Está [Trango Bolso Expedicion 80 Mochila  Unisex  Rojo/Negro  L](https://www.am
 
 ℹ️:
 
-- Bolso de viaje Tiempo libre y sportwear Unisex Adulto
 - Mochilas Trango
+- Bolso de viaje Tiempo libre y sportwear Unisex Adulto
 - Bolso expedicion 80 (pc000046)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01CYMLDL6/?tag=tolees-21)
