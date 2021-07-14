@@ -29,7 +29,7 @@ En este momento está [Jack & Jones JCORAIN tee SS Crew Neck Camiseta  Negro/Aju
 🔎:
 
 - Algodón de apoyo para cama de algodón. Somos una proud de la iniciativa Better Cotton Initiative. Por comprar productos de algodón de EE.UU., te ayudarán a tener una granja de algodón sostenible. Better Cotton is sourced a través de un sistema de masa de equilibrio.
-- Gran logotipo impreso en la parte delantera, 100% algodón
 - Camiseta de corte entallado con cuello redondo y mangas cortas
+- Gran logotipo impreso en la parte delantera, 100% algodón
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08S43CLL3/?tag=tolees-21)

@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Havaianas Marvel  Chanclas Unisex Adulto con un 50.10 % de descuento'
-date: 2021-07-12 13:16:27
+date: 2021-07-14 16:53:57
 image: 'https://m.media-amazon.com/images/I/51k6Z4Trc2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B08FYQJVFJ-es Havaianas Marvel Chanclas Unisex Adulto Azul Marino y...'
 sku: 'B08FYQJVFJ-es'
-tags: [ 'Sandalias de dedo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas','havaianas', ]
+tags: [ 'Sandalias de dedo para mujer','Sandalias y palas de mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','chanclas','havaianas', ]
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95
