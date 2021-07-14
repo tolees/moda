@@ -29,9 +29,9 @@ En este momento está [G-STAR RAW Text Graphic Slim Camiseta  Bright Carrot 336/
 🔎:
 
 - Estampados gráficos en el pecho y en las mangas
-- Bajo recto
-- Etiqueta de G-Star Originals tejida en la costura lateral inferior
-- Manga corta recta insertada
 - Cuello redondo acanalado
+- Bajo recto
+- Manga corta recta insertada
+- Etiqueta de G-Star Originals tejida en la costura lateral inferior
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B088CC7DW8/?tag=tolees-21)

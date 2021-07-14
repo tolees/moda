@@ -28,8 +28,8 @@ En este momento está [Springfield Camiseta Contraste  Azules  M para Hombre](ht
 
 🔎:
 
-- Regular fit
 - Camiseta manga corta
 - De rayas
+- Regular fit
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08QJSHT8Z/?tag=tolees-21)

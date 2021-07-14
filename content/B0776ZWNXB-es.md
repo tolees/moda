@@ -28,10 +28,10 @@ Está [Tommy Jeans Regular C Camiseta con Cuello Redondo  Blanco  Classic White 
 
 ℹ️:
 
-- Diseño ajustado
+- Cuello redondo
 - Detalles distintivos de Tommy Jeans
 - Logotipo bordado en el pecho
-- Cuello redondo
+- Diseño ajustado
 - Punto de puro algodón orgánico
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0776ZWNXB/?tag=tolees-21)
