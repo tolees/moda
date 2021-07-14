@@ -28,9 +28,9 @@ Ahora mismo tienes [Adidas Real Madrid Temporada 2020/21 Pantalón Corto Entrena
 
 🔎:
 
-- Presenta una cintura elástica
-- El tejido ligero ofrece comodidad
-- Pantalón corto adecuado para tiempo libre
 - Con rayas en contraste en el lateral
+- El tejido ligero ofrece comodidad
+- Presenta una cintura elástica
+- Pantalón corto adecuado para tiempo libre
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CJLJXC7/?tag=tolees-21)
