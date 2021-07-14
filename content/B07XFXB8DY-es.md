@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Öfb DNA tee Camiseta  Hombre  White con un 47.49 % de descuento'
-date: 2021-07-11 21:46:52
+date: 2021-07-14 19:27:47
 image: 'https://m.media-amazon.com/images/I/41z7pxNmP0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ En este momento está [PUMA Öfb DNA tee Camiseta  Hombre  White  XL](https://ww
 
 🔎:
 
-- Cuello redondo
-- Manga corta
 - Gráfico de la ÖFB de Austria de tamaño grande en la parte delantera
 - 0
+- Manga corta
 - 100 % algodón
+- Cuello redondo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07XFXB8DY/?tag=tolees-21)

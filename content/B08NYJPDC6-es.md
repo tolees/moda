@@ -28,10 +28,10 @@ Está [NIKE Dri-FIT Academy 21  Pantalones Cortos de Jersey Unisex Niños  Opaci
 
 ℹ️:
 
-- Ropa deportiva Azul de la marca Nike
-- Los productos deportivos de la marca Nike están diseñados para que disfrutes de tu deporte favorito sin preocuparte de nada más que rendir al máximo
 - Camiseta Nike Dri-FIT Academy OBSIDIAN/WHITE/WHITE/WHITE
 - Camiseta para practicar Tiempo libre y sportwear de unisex adulto
+- Ropa deportiva Azul de la marca Nike
+- Los productos deportivos de la marca Nike están diseñados para que disfrutes de tu deporte favorito sin preocuparte de nada más que rendir al máximo
 - Ropa deportiva fabricada con materiales de primera calidad que se adaptan a cualquier actividad deportiva
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08NYJPDC6/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [Crocs Classic  Zuecos Unisex Adulto  Black  45/46 EU](https://www.amazon
 
 🔎:
 
-- Revestimiento: Sin forro
+- Material exterior: Espuma
 - Tipo de tacón: Plano
 - Cierre: Tira de tobillo
-- Material exterior: Espuma
+- Revestimiento: Sin forro
 - Material de la suela: Sintético
 - Composición: Sintético
 
