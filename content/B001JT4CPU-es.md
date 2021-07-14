@@ -28,7 +28,7 @@ Tienes [Urban Classics Tall Tee  Camiseta para Hombre  Azul  Royal 205   5XL](ht
 
 🔎:
 
-- Como el nombre ya verrät significa que esta camiseta tiene un corte algo más largo.
 - La camiseta para hombre es de 100% algodón para la máxima comodidad (excepción: carcoal: 60% algodón, 40% poliéster y gris: 90% algodón, 10% poliéster).
+- Como el nombre ya verrät significa que esta camiseta tiene un corte algo más largo.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B001JT4CPU/?tag=tolees-21)

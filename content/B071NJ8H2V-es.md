@@ -28,10 +28,10 @@ Ahora mismo tienes [Tommy Hilfiger Poppy Small Tote  Bolso totes para Mujer  Neg
 
 🔎:
 
+- Dos asas cortas.
+- Extraíble y correa ajustable y asa.
 - Un compartimento interior con cremallera
 - Parche de logo en la parte delantera
-- Extraíble y correa ajustable y asa.
-- Dos asas cortas.
 - Compartimento principal con cremallera
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B071NJ8H2V/?tag=tolees-21)
