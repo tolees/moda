@@ -30,8 +30,8 @@ En este momento está [Under Armour UA Heatgear Short Sleeve Camiseta  Hombre  B
 
 - Muy ajustada: Esta cómoda camiseta para correr tiene todas las ventajas de la tecnología de compresión de UA, así que puede llevarse todo el día
 - Tejido HeatGear: Esta camiseta de manga corta está hecha con material de calidad;Su sistema de distribución de la humedad elimina mejor el sudor
-- Protección solar 30+: Por su FPS 30+, esta camiseta deportiva protege la piel del sol;Su tejido elástico multidireccional otorga gran movilidad
-- Material y forma: Camiseta de hombre Under Armour UA HeatGear Armour, camiseta ajustada con malla, forma: de compresión, material: HeatGear
 - Tecnología antiolor: Gracias a la tecnología antiolor, se evita la proliferación de bacterias y el mal olor en esta camiseta para entrenar
+- Material y forma: Camiseta de hombre Under Armour UA HeatGear Armour, camiseta ajustada con malla, forma: de compresión, material: HeatGear
+- Protección solar 30+: Por su FPS 30+, esta camiseta deportiva protege la piel del sol;Su tejido elástico multidireccional otorga gran movilidad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00KHTM68I/?tag=tolees-21)
