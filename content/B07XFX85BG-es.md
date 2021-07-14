@@ -29,9 +29,9 @@ Tienes [PUMA Öfb DNA tee Camiseta  Hombre  Chili Pepper  S](https://www.amazon.
 ℹ️:
 
 - 100 % algodón
-- Gráfico de la ÖFB de Austria de tamaño grande en la parte delantera
-- Cuello redondo
 - Manga corta
 - 0
+- Gráfico de la ÖFB de Austria de tamaño grande en la parte delantera
+- Cuello redondo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07XFX85BG/?tag=tolees-21)

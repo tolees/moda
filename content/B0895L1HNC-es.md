@@ -28,10 +28,10 @@ Está [DC Shoes Turner Puffer - Chaqueta Aislante Con Capucha Para Hombre Chaque
 
 ℹ️:
 
-- Tejido: tejido de poliéster teñido con hilo de poliéster; corte: corte ceñido
-- Ribete suave y elástico en dobladillo y puños
+- Cierre: #5 visión cremallera integral
 - Capucha: capucha fija de 3 paneles; tejido interior: Forro de tafetán de poliéster con un relleno de 280G de plumón sintético
 - Bolsillos: bolsillos para las manos con cremallera visible
-- Cierre: #5 visión cremallera integral
+- Tejido: tejido de poliéster teñido con hilo de poliéster; corte: corte ceñido
+- Ribete suave y elástico en dobladillo y puños
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0895L1HNC/?tag=tolees-21)
