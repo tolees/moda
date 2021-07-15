@@ -28,10 +28,10 @@ Ahora mismo tienes [MOVERV-Gorra - Moda Media Malla Transpirable Gorra Deportiva
 
 🔎:
 
-- ⚽Tipo de Correa:Cierre de hebilla de metal ajustable, ideal para la mayoría de los tamaños de cabeza.
-- ⚾Aplicar al género: Neutral / masculino o femenino. Nuevo diseño de moda, muy popular.
 - 🏈Amplia aplicación perfectamente adecuada para diversas ocasiones,Adecuado para camping, senderismo, pesca, caza, ciclismo, tenis, béisbol, golf y así sucesivamente.
-- 🏀Talla única.Ajuste para la circunferencia de la cabeza: 53-70cm (ajustable).
+- ⚾Aplicar al género: Neutral / masculino o femenino. Nuevo diseño de moda, muy popular.
 - 🏉Es ideal para corredores, golfistas, tenistas y cualquier actividad interior o exterior. Gorra de vacaciones de ocio realmente adecuado para viajes y vocación.
+- 🏀Talla única.Ajuste para la circunferencia de la cabeza: 53-70cm (ajustable).
+- ⚽Tipo de Correa:Cierre de hebilla de metal ajustable, ideal para la mayoría de los tamaños de cabeza.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B089W4T7LF/?tag=tolees-21)
