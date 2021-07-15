@@ -28,8 +28,8 @@ Tienes [Lee Daren Zip Fly Vaqueros  Mid Stone Wash  31W / 32L para Hombre](https
 
 ℹ️:
 
-- Tejido vaquero elástico
-- Cuerda regular
 - Transparente
+- Cuerda regular
+- Tejido vaquero elástico
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08CXTNQ25/?tag=tolees-21)
