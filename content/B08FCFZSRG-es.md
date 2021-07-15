@@ -28,10 +28,10 @@ En este momento está [DeFacto Vestido Mujer Indigo](https://www.amazon.es/dp/B0
 
 🔎:
 
-- Viscosa 100%
-- Ajuste: ajuste regular
-- Fabricado en Egipto
 - Vestido
+- Ajuste: ajuste regular
+- Viscosa 100%
 - Vestido de mujer índigo
+- Fabricado en Egipto
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08FCFZSRG/?tag=tolees-21)
