@@ -28,9 +28,9 @@ En este momento está [Columbia Windgates Insulated Chaqueta Impermeable con Cap
 
 🔎:
 
-- Los bolsillos con cremallera te dan versatilidad Mantén tus manos calientes cuando lo necesites o guarda tu teléfono y otros accesorios sin temor a que se caigan
 - La tecnología Omni-Tech de sellado de costuras combina la impermeabilidad y la transpiración al más alto nivel No importa cuál sea el terreno, te mantienes fresco y seco
 - Contenido: 1x Columbia Windgates Chaqueta aislante para mujer, Exterior: sarga Reflex Stretch 100% poliéster; Forro: Forro reflectante Omni-Heat 100% poliéster; Aislamiento: Thermarator 100% poliéster, Color: Azul (Fjord Blue), Talla: XS, Art.No 1860321
+- Los bolsillos con cremallera te dan versatilidad Mantén tus manos calientes cuando lo necesites o guarda tu teléfono y otros accesorios sin temor a que se caigan
 - La tecnología reflectante Omni-Heat de la chaqueta ofrece un mayor aislamiento para mantenerte caliente incluso en los días más fríos
 - Chaqueta con capucha repelente al agua y muy elegante para mujer con protector de barbilla incorporado para que puedas desafiar lo que los elementos te deparen
 
