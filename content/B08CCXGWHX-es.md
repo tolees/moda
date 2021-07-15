@@ -28,8 +28,8 @@ En este momento está [Tommy Hilfiger Logo Box Stripe tee Camiseta  Negro  XS pa
 
 🔎:
 
-- Este es un producto auténtico y original de Tommy Hilfiger.
 - Este producto ha sido fabricado de manera sostenible con materiales sostenibles.
+- Este es un producto auténtico y original de Tommy Hilfiger.
 - Para obtener más información sobre Tommy Hilfiger, consulte la sección de descripción del producto a continuación.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CCXGWHX/?tag=tolees-21)
