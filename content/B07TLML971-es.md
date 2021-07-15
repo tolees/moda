@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HAWKERS Runway Gafas de sol  Negro  One  al 52.09 % de descuento'
-date: 2021-07-12 13:29:30
+date: 2021-07-15 15:43:10
 image: 'https://m.media-amazon.com/images/I/31YcmB6d1lL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [HAWKERS Runway Gafas de sol  Negro  One Size Unisex Adulto](https://www.a
 
 ℹ️:
 
-- Estas gafas de sol polarizadas de estilo oversize incorporan lentes negras sobre una montura en acabado brillante del mismo color
-- Modelo Polarized Black RUNWAY
 - Lente de policarbonato de alta resistencia a los golpes que proporciona máxima comodidad por su flexibilidad y ligereza; lentes categoría 3 y protección uv400
+- Modelo Polarized Black RUNWAY
 - Modelo para hombre y mujer: Unisex
 - Gafas de sol polarizadas: otorga una visión sin reflejos y contraste naturales de colores
+- Estas gafas de sol polarizadas de estilo oversize incorporan lentes negras sobre una montura en acabado brillante del mismo color
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07TLML971/?tag=tolees-21)

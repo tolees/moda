@@ -28,10 +28,10 @@ Ahora mismo tienes [Eastpak Delegate + Bolso Bandolera  39 Cm  20 Litros  Negro 
 
 🔎:
 
-- Diseñada para durar: hecha en 100 % nailon
-- Con un amplio compartimento principal y un bolsillo oculto en la solapa
-- Alto: 30.5 cm, ancho: 38.5 cm, fondo: 13 cm
-- Para que sea más cómoda, tiene una correa para el hombro ajustable y extraíble
 - Lleva toda la tecnología contigo: su funda acolchada tiene capacidad para portátiles de hasta 17 pulgadas
+- Alto: 30.5 cm, ancho: 38.5 cm, fondo: 13 cm
+- Con un amplio compartimento principal y un bolsillo oculto en la solapa
+- Diseñada para durar: hecha en 100 % nailon
+- Para que sea más cómoda, tiene una correa para el hombro ajustable y extraíble
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KY927NT/?tag=tolees-21)
