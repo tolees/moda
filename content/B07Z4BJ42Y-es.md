@@ -28,8 +28,8 @@ Ahora mismo tienes [G-STAR RAW D-STAQ 3D Slim Jeans Vaqueros  Vintage Striking B
 
 🔎:
 
-- Bolsillos laterales como los de los chinos
 - Talle medio
+- Bolsillos laterales como los de los chinos
 - Bolsillo para monedas colocado hacia la parte delantera
 - Bolsillos laterales como los de los chinos
 - Costuras con forma en la parte interior de la rodilla

@@ -1,30 +1,30 @@
 ---
 layout: post
-title: 'Tommy Hilfiger Essential TH Beach Sandal al 39.86 % de descuento'
-date: 2020-04-22 08:28:51
-image: 'https://m.media-amazon.com/images/I/31Noc4BxwXL._SL400_.jpg'
+title: 'Tommy Hilfiger Essential TH Beach Sandal al 35.56 % de descuento'
+date: 2021-07-15 13:14:11
+image: 'https://m.media-amazon.com/images/I/31Noc4BxwXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07DJDPPQL-es Tommy Hilfiger Essential TH Beach Sandal Chanclas para...'
+slug: 'B07DJDPPQL-es Tommy Hilfiger Essential TH Beach Sandal Chanclas Hombre...'
 sku: 'B07DJDPPQL-es'
-tags: [ 'chanclas', ]
-actualPrice: 20.99 EUR
+tags: [ 'Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas','tommy hilfiger', ]
+actualPrice: 22.49 EUR
 currency: EUR
-price: 20.99
+price: 22.49
 comparePrice: 34.9 EUR
-prodname: 'Tommy Hilfiger Essential TH Beach Sandal  Chanclas para Hombre  Negro  Black 990   39 EU'
+prodname: 'Tommy Hilfiger Essential TH Beach Sandal  Chanclas Hombre  Negro  Black 990   39 EU'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Tommy Hilfiger'
 buyurl: 'https://www.amazon.es/dp/B07DJDPPQL/?tag=tolees-21'
-descuento: '39.86'
-average: '24.455'
+descuento: '35.56'
+average: '23.8'
 ---
 
-Ahora mismo tienes [Tommy Hilfiger Essential TH Beach Sandal  Chanclas para Hombre  Negro  Black 990   39 EU](https://www.amazon.es/dp/B07DJDPPQL/?tag=tolees-21) a 20.99 EUR (original: 34.9 EUR) (39.86 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Tommy Hilfiger Essential TH Beach Sandal  Chanclas Hombre  Negro  Black 990   39 EU](https://www.amazon.es/dp/B07DJDPPQL/?tag=tolees-21) a 22.49 EUR (original: 34.9 EUR) (35.56 %  de descuento) en el siguiente enlace!
 
-[![Tommy Hilfiger Essential TH Beach Sandal](https://m.media-amazon.com/images/I/31Noc4BxwXL._SL400_.jpg)](https://www.amazon.es/dp/B07DJDPPQL/?tag=tolees-21)
+[![Tommy Hilfiger Essential TH Beach Sandal](https://m.media-amazon.com/images/I/31Noc4BxwXL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07DJDPPQL/?tag=tolees-21)
 
 🔎:
 
