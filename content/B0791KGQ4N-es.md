@@ -28,10 +28,10 @@ Tienes [Clarks Arla Jacory  Sandalias de Talón Abierto Mujer  Negro  Black-   3
 
 🔎:
 
-- Suela: Tpr
-- Altura Del Talón: 40mm
-- Fijación: Riptape
 - Forro: Textil
+- Fijación: Riptape
 - Superior: Textil
+- Altura Del Talón: 40mm
+- Suela: Tpr
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0791KGQ4N/?tag=tolees-21)
