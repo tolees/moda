@@ -28,8 +28,8 @@ Ahora mismo tienes [Havaianas Brasil Logo  Chanclas Hombre  Verde  37/38 EU](htt
 
 🔎:
 
-- Hav brasil logo green olive (4110850)
 - Calzado havaianas
+- Hav brasil logo green olive (4110850)
 - Chanclas tiempo libre y sportwear unisex adulto
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B083P5NW2F/?tag=tolees-21)

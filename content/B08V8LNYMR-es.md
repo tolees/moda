@@ -28,10 +28,10 @@ En este momento está [Thombase Niño You Looking So Sus Bro Impostor Among Us S
 
 🔎:
 
-- Tamaño: consulte el tamaño en la tabla de tallas anterior o la descripción del producto.
+- Sugerencia de lavado: lavar en agua fría y colgar para secar, lavar a máquina. Se recomienda lavar a mano.
 - Esta sudadera con capucha está inspirada en el videojuego Among Us. Sudadera casual con capucha con cordón ajustable, manga larga.
 - Ocasiones: ideal para uso diario, estilo callejero, al aire libre, deportes, fiesta de juegos. Un regalo perfecto para niños o niñas de juegos.
 - Material: poliéster. Tejido suave, cómodo y elástico que le brinda una experiencia de uso cómoda y transpirable.
-- Sugerencia de lavado: lavar en agua fría y colgar para secar, lavar a máquina. Se recomienda lavar a mano.
+- Tamaño: consulte el tamaño en la tabla de tallas anterior o la descripción del producto.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08V8LNYMR/?tag=tolees-21)
