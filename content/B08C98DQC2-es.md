@@ -28,8 +28,8 @@ Ahora mismo tienes [Tommy Jeans TJM Tonal Box Logo Tank Camiseta  Negro Htr  L p
 
 🔎:
 
-- Este es un producto auténtico y original Tommy Jeans.
 - Para más información sobre Tommy Jeans, consulta la sección de descripción del producto a continuación
+- Este es un producto auténtico y original Tommy Jeans.
 - Este producto ha sido fabricado de forma sostenible con materiales sostenibles
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08C98DQC2/?tag=tolees-21)
