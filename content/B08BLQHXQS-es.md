@@ -28,9 +28,9 @@ En este momento está [Geox J Adriel Girl C  Sandalia  White Sky  28 EU](https:/
 
 🔎:
 
-- Geox
-- J158MC0NFQD
 - Geox J Adriel C Sandalia, Blanco/Sky, 28 EU
 - J Adriel Girl C
+- Geox
+- J158MC0NFQD
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08BLQHXQS/?tag=tolees-21)
