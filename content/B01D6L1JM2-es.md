@@ -28,9 +28,9 @@ Ahora mismo tienes [Oxypas oxyvaj4201lic Oxyva - Slip On SRC cómodo zuecos  41/
 
 🔎:
 
-- Zapatos de trabajo
-- Antideslizante
 - Transpirable forro interior de Coolmax
+- Antideslizante
+- Zapatos de trabajo
 - Abeba – Zapatos para cuidado personal
 - Se adapta a cualquier forma del pie
 

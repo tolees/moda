@@ -28,8 +28,8 @@ Está [Uvex Sportstyle 507 Gafas Deportivas  Niños  Negro  Talla Única](https:
 
 ℹ️:
 
-- Protección 100% contra los rayos UVA.
 - Acabado reflectante litemirror, con antireflejos y filtro i-r.
 - Montura flexible. Correa para gafas. Almohadillado de goma en patillas.
+- Protección 100% contra los rayos UVA.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00J1D6TMK/?tag=tolees-21)

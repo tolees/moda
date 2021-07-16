@@ -28,9 +28,9 @@ Ahora mismo tienes [Timberland Ashwood Park Leather   Botas Chukka Hombre  Amari
 
 🔎:
 
-- Botas para hombre.
-- Marca: Timberland.
-- Zapatillas para hombre.
 - Botas de invierno para hombre
+- Marca: Timberland.
+- Botas para hombre.
+- Zapatillas para hombre.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VR49RQ2/?tag=tolees-21)
