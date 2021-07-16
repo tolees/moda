@@ -28,10 +28,10 @@ Ahora mismo tienes [Geox D Borealis A  Sandalia con Pulsera para Mujer  Gris  Lt
 
 🔎:
 
-- Tipo de tacón: Plano
+- Material exterior: Sintético
+- Revestimiento: Malla
 - Cierre: Velcro
 - Material de la suela: Goma
-- Revestimiento: Malla
-- Material exterior: Sintético
+- Tipo de tacón: Plano
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07STLXXSY/?tag=tolees-21)
