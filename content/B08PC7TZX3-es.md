@@ -28,7 +28,7 @@ En este momento está [Wrangler Pride Tank Camiseta  Blanco  L para Mujer](https
 
 🔎:
 
-- 100% algodón
 - Corte regular
+- 100% algodón
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08PC7TZX3/?tag=tolees-21)

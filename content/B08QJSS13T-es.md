@@ -28,8 +28,8 @@ En este momento está [Springfield Vestido Corto Estampado Flores  Negro  M para
 
 🔎:
 
-- Vestido de manga larga, con escote en uve
 - Con volante en el bajo y estampado
 - Con cruce en la parte delantera
+- Vestido de manga larga, con escote en uve
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08QJSS13T/?tag=tolees-21)
