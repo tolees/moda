@@ -29,7 +29,7 @@ Tienes [Geox U New Damon A  Mocasines Hombre  Marrón  Dk Brown C6006   45 EU](h
 ℹ️:
 
 - Material de la suela: Caucho
-- Material exterior: Cuero
 - Revestimiento: Cuero
+- Material exterior: Cuero
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01GWX1R0A/?tag=tolees-21)
