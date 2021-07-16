@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers Bregman SELONE  Zapatos de Cord al 41.28 % de descuento'
-date: 2021-07-01 04:05:19
+date: 2021-07-16 02:53:16
 image: 'https://m.media-amazon.com/images/I/31WcY+HdQcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
