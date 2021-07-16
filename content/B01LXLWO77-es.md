@@ -28,7 +28,7 @@ Ahora mismo tienes [Lonsdale Hounslow Camisa  Azul Marino  S para Hombre](https:
 
 🔎:
 
-- Azul
 - adulto
+- Azul
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01LXLWO77/?tag=tolees-21)
