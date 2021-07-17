@@ -28,8 +28,8 @@ Está [Springfield Polo Algodón Orgánico Camiseta  Rosa  L para Mujer](https:/
 
 ℹ️:
 
-- Polo de manga corta
 - Con abertura en el escote con botones y con detalle de logo.
+- Polo de manga corta
 - Proyecto reconsider: El algodón orgánico está cultivado con métodos sostenibles con el medio ambiente reduciendo el consumo de agua y pesticidas.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08QKZC56F/?tag=tolees-21)
