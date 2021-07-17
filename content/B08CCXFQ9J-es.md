@@ -28,7 +28,7 @@ Tienes [Tommy Hilfiger TH Stretch Slim Fit tee Camiseta  Rosa Claro  M para Homb
 
 🔎:
 
-- Este producto ha sido fabricado de forma sostenible con materiales sostenibles
 - Este es un producto auténtico y original de Tommy Hilfiger
+- Este producto ha sido fabricado de forma sostenible con materiales sostenibles
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08CCXFQ9J/?tag=tolees-21)
