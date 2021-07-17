@@ -29,9 +29,9 @@ En este momento está [G-STAR RAW Midge Saddle Mid Waist Straight Vaqueros  Mult
 🔎:
 
 - 35% Algodón, 35% Lyocell, 28% Poliéster, 2% Elastano
-- Usado
-- Skinny
 - Lavar a máquina - caliente (mayor de 30 °)
 - Cierre: Boton y cierre
+- Usado
+- Skinny
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07BJHHZB8/?tag=tolees-21)

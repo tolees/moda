@@ -28,8 +28,8 @@ Ahora mismo tienes [adidas Camiseta Modelo M BL SJ T Marca](https://www.amazon.e
 
 🔎:
 
-- El material ofrece una comodidad óptima
 - Marca del producto: Adidas
+- El material ofrece una comodidad óptima
 - El material absorbe el calor y se seca rápidamente
 - Cuello redondo
 

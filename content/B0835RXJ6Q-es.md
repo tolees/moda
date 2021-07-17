@@ -28,8 +28,8 @@ Está [Jack & Jones Jjerush Bomber Noos Chaqueta  Blazer Azul Marino  L para Hom
 
 ℹ️:
 
-- Marca: Jack&Jones
-- Cazadora de manga larga de color azul marino. Cierre con cremallera. Tres bolsillos.
 - Modelo: 12165203 JJERUSH BOMBER NOOS NAVY BLAZER
+- Cazadora de manga larga de color azul marino. Cierre con cremallera. Tres bolsillos.
+- Marca: Jack&Jones
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0835RXJ6Q/?tag=tolees-21)
