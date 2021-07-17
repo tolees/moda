@@ -28,8 +28,8 @@ En este momento está [Levi s 2Pk Crewneck 1 Camiseta  2 Pack Slim Crew White/Me
 
 🔎:
 
-- Elaboradas en punto suave
 - Con un logo Levis en el bajo
+- Elaboradas en punto suave
 - Modelos casual
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07LF8NCXZ/?tag=tolees-21)
