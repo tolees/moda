@@ -30,7 +30,7 @@ Ahora mismo tienes [Clarks Arla Jacory  Sandalias de Talón Abierto Mujer  Verde
 
 - Material exterior: lona
 - Cierre: cierre de velcro
-- Altura del tacón: 4 cm
 - Suela: sintética
+- Altura del tacón: 4 cm
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07FQP92TF/?tag=tolees-21)
