@@ -28,10 +28,10 @@ Tienes [Tommy Hilfiger Core Stretch Slim Poplin Shirt Camisa  Negro  Flag Black 
 
 🔎:
 
-- Artículo: 0867894704 STRETCH POPLIN
-- Color: negro
-- Estación: Primavera/Verano
 - Material: Algodón elástico
+- Estación: Primavera/Verano
+- Artículo: 0867894704 STRETCH POPLIN
 - Designer: TOMMY HILFIGER
+- Color: negro
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B016QM4TDE/?tag=tolees-21)
