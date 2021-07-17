@@ -28,8 +28,8 @@ En este momento está [Clarks Ronnie Limit  Zapatos de Cordones Brogue  Piel Neg
 
 🔎:
 
-- Forro: Textil
 - Ajuste: (g) Estándar
+- Forro: Textil
 - Suela: Tr
 - Superiores: Cuero
 
