@@ -29,7 +29,7 @@ Ahora mismo tienes [Desigual TS Colombia Camiseta  Rojo  M para Mujer](https://w
 🔎:
 
 - Floral Camouflage
-- Zapatillas de correr bordadas
 - Refuerzo en el talón y la puntera
+- Zapatillas de correr bordadas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CN57N7L/?tag=tolees-21)
