@@ -29,10 +29,10 @@ Está [Superdry Classic Rookie Jacket Chaqueta  negro lavado  XS para Hombre](ht
 ℹ️:
 
 - Puños con cierre de botón a presión
-- Cierre de botón a
+- Dobladillo ajustable con botones de presión
 - La chaqueta de lana Sherpa de Highwayman con forro de sherpa te mantiene caliente esta temporada
 - Cuello y forro de sherpa
 - Lleva una sudadera clásica y un vaquero
-- Dobladillo ajustable con botones de presión
+- Cierre de botón a
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08D1YPDD6/?tag=tolees-21)

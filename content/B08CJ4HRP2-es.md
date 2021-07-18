@@ -28,10 +28,10 @@ Ahora mismo tienes [Columbia Lakeside Camisa de manga corta para hombre](https:/
 
 🔎:
 
-- Camisa de hombre ligera y ventilada, Un básico imprescindible para el verano
-- Disponible en una gran variedad de colores a la moda
-- Contenido: 1 x Columbia Lakeside Camisa de manga corta para hombre, Tejido: 53% Modal Polinósico, 47% Poliéster, Color: Marrón a cuadros (Safari Window Plaid), Talla: S, Art.No. 1931964
 - Óptimo para llevar a diario
 - Bolsillo en el pecho para guardar el teléfono y otros accesorios sin temor a que se caigan
+- Contenido: 1 x Columbia Lakeside Camisa de manga corta para hombre, Tejido: 53% Modal Polinósico, 47% Poliéster, Color: Marrón a cuadros (Safari Window Plaid), Talla: S, Art.No. 1931964
+- Disponible en una gran variedad de colores a la moda
+- Camisa de hombre ligera y ventilada, Un básico imprescindible para el verano
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CJ4HRP2/?tag=tolees-21)
