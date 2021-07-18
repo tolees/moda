@@ -29,9 +29,9 @@ Está [G-STAR RAW Raw Drawcord Raglan Crewneck Sudadera  Grege Green A970-3767  
 ℹ️:
 
 - Estampado gráfico de RAW en relieve en el pecho
-- Manga larga y puños acanalados
-- Cordón en la cintura
-- Cuello redondo acanalado
 - Bajo recto con borde acanalado
+- Cuello redondo acanalado
+- Cordón en la cintura
+- Manga larga y puños acanalados
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08KTN3N1V/?tag=tolees-21)
