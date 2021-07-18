@@ -29,7 +29,7 @@ En este momento está [Desigual Chaq CAMOASIS Chaqueta  Verde  40 para Mujer](ht
 🔎:
 
 - Floral Camouflage
-- Zapatillas de correr bordadas
 - Refuerzo en el talón y la puntera
+- Zapatillas de correr bordadas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CN5C8G3/?tag=tolees-21)

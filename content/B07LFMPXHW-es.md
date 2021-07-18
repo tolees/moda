@@ -29,7 +29,7 @@ Ahora mismo tienes [Levi s Original Trucker Chaqueta vaquera  Negro  Black Rose 
 🔎:
 
 - Trabillas ajustables en la parte posterior de la cinturilla
-- Un básico versátil para completar cualquier conjunto
 - Bolsillos de parche en el pecho con solapa y corchete
+- Un básico versátil para completar cualquier conjunto
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07LFMPXHW/?tag=tolees-21)
