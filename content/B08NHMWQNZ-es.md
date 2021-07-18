@@ -28,9 +28,9 @@ En este momento está [Jack & Jones JCOART tee SS Crew Neck Camiseta  Navy Blaze
 
 🔎:
 
-- convenientemente situado en
 - T-Shirt
-- Imprimir
 - Algodón
+- convenientemente situado en
+- Imprimir
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08NHMWQNZ/?tag=tolees-21)
