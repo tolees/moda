@@ -28,8 +28,8 @@ Está [Tommy Hilfiger TH Cool ESS Slim Round-NK SS Camiseta sin Mangas para beb�
 
 ℹ️:
 
+- Este producto ha sido fabricado de forma sostenible con materiales sostenibles
 - Este es un producto auténtico y original de Tommy Hilfiger. Para más información sobre Tommy Hilfiger, consulta la sección de descripción del producto a continuación
 - Para más información sobre Tommy Hilfiger, desplázate hacia abajo a la sección de descripción del producto.
-- Este producto ha sido fabricado de forma sostenible con materiales sostenibles
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08C736WPK/?tag=tolees-21)

@@ -29,8 +29,8 @@ Tienes [Roxy Epic Afternoon - Camiseta para Mujer Camiseta  Mujer  Anthracite  S
 ℹ️:
 
 - Corte normal, clásico, cómodo
-- Punto canalé en el cuello
 - Punto jersey de algodón ligero
+- Punto canalé en el cuello
 - Bajo en curva y mangas enrollables
 - Cuello con escote redondo abierto
 
