@@ -29,8 +29,8 @@ Tienes [BOSS BIADO R 10233753 01 Camisa  Medium Green315  S para Hombre](https:/
 🔎:
 
 - Acabado de alta calidad
-- libertad de movimiento
-- Mezcla de algodón que regula la humedad
 - Logotipo curvado en contraste
+- Mezcla de algodón que regula la humedad
+- libertad de movimiento
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08CF1LP9S/?tag=tolees-21)

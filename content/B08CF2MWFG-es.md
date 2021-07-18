@@ -28,9 +28,9 @@ Ahora mismo tienes [BOSS BIADO R 10233753 01 Camisa  Azul  L para Hombre](https:
 
 🔎:
 
-- libertad de movimiento
-- Logotipo curvado en contraste
 - Acabado de alta calidad
+- Logotipo curvado en contraste
+- libertad de movimiento
 - Mezcla de algodón que regula la humedad
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CF2MWFG/?tag=tolees-21)
