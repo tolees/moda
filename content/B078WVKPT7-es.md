@@ -28,10 +28,10 @@ Ahora mismo tienes [Quiksilver Molokai Youth  Zapatos de Playa y Piscina Niños 
 
 🔎:
 
-- Correa de goma sintética flexible en 3 puntos
 - Líneas finas en colores pop coordinados en el lateral de la suela
-- Suela exterior de goma adherente con logos en muescas multi-ángulo para mayor tracción
+- Correa de goma sintética flexible en 3 puntos
 - Marca Quiksilver y logo fino moldeado con la montaña y la ola
+- Suela exterior de goma adherente con logos en muescas multi-ángulo para mayor tracción
 - Plantilla con textura antideslizante
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B078WVKPT7/?tag=tolees-21)

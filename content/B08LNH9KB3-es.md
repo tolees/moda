@@ -28,9 +28,9 @@ En este momento está [Jack & Jones JJFLOCK Sweat Hood Sudadera con Capucha  Gri
 
 🔎:
 
-- Pie de imprenta
 - Algodón
-- Sudadera con capucha
 - suave
+- Sudadera con capucha
+- Pie de imprenta
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08LNH9KB3/?tag=tolees-21)
