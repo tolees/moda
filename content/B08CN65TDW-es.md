@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.05 % en Desigual TS Ocean Camiseta  marrón  S pa'
-date: 2021-07-04 16:16:04
+date: 2021-07-18 09:45:35
 image: 'https://m.media-amazon.com/images/I/41va4iSmQZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [Desigual TS Ocean Camiseta  marrón  S para Mujer](https://www.amazon.es
 
 ℹ️:
 
-- Floral Camouflage
 - Refuerzo en el talón y la puntera
 - Zapatillas de correr bordadas
+- Floral Camouflage
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08CN65TDW/?tag=tolees-21)
