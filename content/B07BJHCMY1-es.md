@@ -29,9 +29,9 @@ Está [G-STAR RAW Midge Mid Waist Straight Vaqueros  Multicolor  Medium Indigo A
 ℹ️:
 
 - Usado
+- Skinny
 - Cierre: Boton y cierre
 - 35% Algodón, 35% Lyocell, 28% Poliéster, 2% Elastano
 - Lavar a máquina - caliente (mayor de 30 °)
-- Skinny
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07BJHCMY1/?tag=tolees-21)
