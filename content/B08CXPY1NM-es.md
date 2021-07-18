@@ -28,8 +28,8 @@ Está [Lee Daren Zip Fly Vaqueros  Service Arena  31W / 34L para Hombre](https:/
 
 ℹ️:
 
-- Cuerda regular
 - Otro elástico plano
 - 5 bolsillos
+- Cuerda regular
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08CXPY1NM/?tag=tolees-21)
