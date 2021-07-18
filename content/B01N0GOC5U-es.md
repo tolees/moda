@@ -28,10 +28,10 @@ Tienes [Duruss Vestido con Tirantes y Minishort  Mujeres  Negro  XS](https://www
 
 ℹ️:
 
-- Materiales y costuras de máxima calidad. Muy resistente y ligera. Ideal para uso diario.
-- Dispone de una colección completa Duruss a juego. Chándal, chaqueta, leggins, camiseta, etc
 - Multifuncional: Pádel, tenis, badmintón, fitness, gimnasio. Se adapta perfectamente al cuerpo.
 - Composición 87% Micropolyester Interlock 13 % Elastano. Máxima elasticidad.
+- Materiales y costuras de máxima calidad. Muy resistente y ligera. Ideal para uso diario.
 - Vestido de deporte técnico con short interior de la firma Duruss. Elástica y transpirable. Diseño exclusivo. Alta calidad.
+- Dispone de una colección completa Duruss a juego. Chándal, chaqueta, leggins, camiseta, etc
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01N0GOC5U/?tag=tolees-21)

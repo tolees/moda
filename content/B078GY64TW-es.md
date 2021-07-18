@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vero Moda Vmapril SS Short Dress Ga Noos al 43.36 % de rebaja'
-date: 2021-07-11 14:26:06
+date: 2021-07-18 13:13:28
 image: 'https://m.media-amazon.com/images/I/31DOkReaNuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

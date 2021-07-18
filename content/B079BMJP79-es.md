@@ -28,7 +28,7 @@ Tienes [Jack & Jones Jjepocket tee SS O-Neck Noos Camiseta  Blanco  White Detail
 
 🔎:
 
-- Camiseta básica con cuello redondo.
 - Algodón bio para mayor comodidad.
+- Camiseta básica con cuello redondo.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B079BMJP79/?tag=tolees-21)

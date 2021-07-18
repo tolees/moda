@@ -28,8 +28,8 @@ En este momento está [Vans Left Chest Logo tee Camiseta  Avena-Negro  S para Ho
 
 🔎:
 
-- Corte clásico
 - 100 % algodón (color negro jaspeado atlético es 90 % algodón 10 % poliéster)
 - Camiseta de manga corta de 185 g
+- Corte clásico
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B094NWYC58/?tag=tolees-21)

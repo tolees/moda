@@ -28,7 +28,7 @@ En este momento está [Tommy Hilfiger Baby Essential tee S/S Camisa  Rosa exóti
 
 🔎:
 
-- Este producto ha sido fabricado de forma sostenible con materiales sostenibles
 - Este es un producto auténtico y original de Tommy Hilfiger
+- Este producto ha sido fabricado de forma sostenible con materiales sostenibles
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CBPW278/?tag=tolees-21)
