@@ -28,7 +28,7 @@ Ahora mismo tienes [BOSS Teeonic 10209546 01 Camiseta  White100  S para Hombre](
 
 🔎:
 
-- Jersey reciclado
 - Acabado de alta calidad
+- Jersey reciclado
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CF2GNHZ/?tag=tolees-21)

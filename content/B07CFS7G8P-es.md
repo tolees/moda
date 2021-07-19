@@ -28,7 +28,7 @@ En este momento está [Only Onlbase Faux Leather Skirt Otw Falda  Negro  Black B
 
 🔎:
 
-- Falda de piel
 - Minifalda con cremallera
+- Falda de piel
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07CFS7G8P/?tag=tolees-21)

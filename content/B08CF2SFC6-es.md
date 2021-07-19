@@ -28,7 +28,7 @@ Está [BOSS Teeonic 10209546 01 Camiseta  Navy410  L para Hombre](https://www.am
 
 ℹ️:
 
-- Acabado de alta calidad
 - Jersey reciclado
+- Acabado de alta calidad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08CF2SFC6/?tag=tolees-21)
