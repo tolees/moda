@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BOSS Teeonic 10209546 01 Camiseta  Rojo  al 18.28 % de descuento'
-date: 2021-07-12 01:31:12
+date: 2021-07-19 14:55:49
 image: 'https://m.media-amazon.com/images/I/415pEQFhMGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'BOSS'
 buyurl: 'https://www.amazon.es/dp/B08CF3G6GK/?tag=tolees-21'
 descuento: '18.28'
-average: '43.565'
+average: '45.3733333333333'
 ---
 
 Está [BOSS Teeonic 10209546 01 Camiseta  Rojo  S para Hombre](https://www.amazon.es/dp/B08CF3G6GK/?tag=tolees-21) con 18.28 de descuento por 48.99 EUR (original: 59.95 EUR) en el siguiente enlace!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Only Onlbase Faux Leather Skirt Otw Fald con un 68.73 % de descuento'
-date: 2021-06-27 07:35:12
+date: 2021-07-19 14:09:42
 image: 'https://m.media-amazon.com/images/I/31eFHwbnFUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Only'
 buyurl: 'https://www.amazon.es/dp/B07CFS7G8P/?tag=tolees-21'
 descuento: '68.73'
-average: '10.125'
+average: '9.35'
 ---
 
 En este momento está [Only Onlbase Faux Leather Skirt Otw Falda  Negro  Black Black   34 para Mujer](https://www.amazon.es/dp/B07CFS7G8P/?tag=tolees-21) a 6.25 EUR (original: 19.99 EUR) (68.73 %  de descuento) en el siguiente enlace!
