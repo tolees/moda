@@ -29,9 +29,9 @@ Está [PUMA Liga LS Goalkeeper JSY Jersey Fútbol  Hombre  Verde  Bright Green W
 ℹ️:
 
 - Costura única sin sisa
-- Puños de color en contraste en tejido de membrana y cinta en el dobladillo de la nuca
 - DryCELL: material altamente funcional que evacúa el sudor
 - Apliques de tira de PUMA y aplique de malla bajo las axilas
+- Puños de color en contraste en tejido de membrana y cinta en el dobladillo de la nuca
 - Logotipos del felino de PUMA estampados por termograbado en la parte derecha del pecho y en las mangas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B077SPG1FC/?tag=tolees-21)

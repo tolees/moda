@@ -28,8 +28,8 @@ Ahora mismo tienes [Izas Chaqueta de Pluma Florenz](https://www.amazon.es/dp/B07
 
 🔎:
 
+- Chaqueta de pluma
 - Prenda funcional y técnica
 - Proporciona calor y confort
-- Chaqueta de pluma
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B071LB7DDK/?tag=tolees-21)

@@ -28,9 +28,9 @@ Tienes [Quiksilver Molokai Vacancy  Zapatos de Playa y Piscina Hombre  Multicolo
 
 ℹ️:
 
-- Correa de goma sintética flexible en 3 puntos
 - Plantilla con textura anti-deslizante
 - Líneas finas en colores pop coordinados en el lateral de la suela
+- Correa de goma sintética flexible en 3 puntos
 - Suela exterior de goma inflada con muescas multi-ángulo con logo para mayor tracción
 - Marca Quiksilver y logo fino moldeado con la montaña y la ola
 

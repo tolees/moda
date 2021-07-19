@@ -28,9 +28,9 @@ Tienes [Geox J Adriel Girl C  Sandalia. Bebé-Niñas  White Sky  24 EU](https://
 
 🔎:
 
-- Marca: Geox
-- Tipo de tela: Pearl SYNT.LEA+GLIT.SYNT.LEA
-- Transpirable
 - Nombre del departamento: bebé - niña
+- Tipo de tela: Pearl SYNT.LEA+GLIT.SYNT.LEA
+- Marca: Geox
+- Transpirable
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08BLQLK9P/?tag=tolees-21)
