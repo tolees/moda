@@ -28,8 +28,8 @@ Ahora mismo tienes [Cherry Beach Mabibi Beach Parte Superior de Bikini  Negro  9
 
 🔎:
 
-- Impresión étnica sobre fondo negro
 - Diadema con fundas y aros
+- Impresión étnica sobre fondo negro
 - Correas extraíbles
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B083YLCQ97/?tag=tolees-21)
