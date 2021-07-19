@@ -28,7 +28,7 @@ Está [BOSS Teeonic 10209546 01 Camiseta  Rojo  S para Hombre](https://www.amazo
 
 ℹ️:
 
-- Acabado de alta calidad
 - Jersey reciclado
+- Acabado de alta calidad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08CF3G6GK/?tag=tolees-21)
