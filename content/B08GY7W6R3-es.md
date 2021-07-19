@@ -28,12 +28,12 @@ En este momento está [Hurley M Ace Trucker  Sudadera  Black  S](https://www.ama
 
 🔎:
 
-- Caída por detrás; puños de tipo canalé
-- Solapa delantera central de snap
-- Instrucciones de cuidado: Lavar a máquina
 - Nombre de departamento: Hombre
-- 100 % poliéster
-- Cuerpo de tejido acolchado con relleno de 80 gsm; brazos y capucha de vellón 300 gsm
+- Solapa delantera central de snap
+- Caída por detrás; puños de tipo canalé
 - Bolsillos laterales con cierre a presión ocultos
+- 100 % poliéster
+- Instrucciones de cuidado: Lavar a máquina
+- Cuerpo de tejido acolchado con relleno de 80 gsm; brazos y capucha de vellón 300 gsm
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08GY7W6R3/?tag=tolees-21)
