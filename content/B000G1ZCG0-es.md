@@ -28,10 +28,10 @@ Tienes [Timberland Classic 2 Eye  Náuticos Hombre  Marrón Rootbeer Smooth  41.
 
 ℹ️:
 
-- Revestimiento: Cuero
+- Tipo de tacón: Plano
+- Material de la suela: Goma
 - Material exterior: Cuero
 - Cierre: Cordones
-- Material de la suela: Goma
-- Tipo de tacón: Plano
+- Revestimiento: Cuero
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000G1ZCG0/?tag=tolees-21)
