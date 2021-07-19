@@ -1,0 +1,36 @@
+---
+layout: post
+title: 'Descuento del 20.35 % en Joma Combi Camiseta Manga Corta  Hombres'
+date: 2021-07-19 03:03:26
+image: 'https://m.media-amazon.com/images/I/31CfQkHeB4L._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B00W3SXNV0-es Joma Combi Camiseta Manga Corta Hombres Negro 6XS-5XS'
+sku: 'B00W3SXNV0-es'
+tags: [ 'Camisetas deportivas para hombre','Ropa','Ropa deportiva para hombre','Ropa para hombre','camiseta','joma', ]
+actualPrice: 6.85 EUR
+currency: EUR
+price: 6.85
+comparePrice: 8.6 EUR
+prodname: 'Joma Combi Camiseta Manga Corta  Hombres  Negro  6XS-5XS'
+country: 'es'
+flag: '🇪🇸'
+brand: 'Joma'
+buyurl: 'https://www.amazon.es/dp/B00W3SXNV0/?tag=tolees-21'
+descuento: '20.35'
+average: '6.85'
+---
+
+Tienes [Joma Combi Camiseta Manga Corta  Hombres  Negro  6XS-5XS](https://www.amazon.es/dp/B00W3SXNV0/?tag=tolees-21) con un 20.35 % de descuento con precio de oferta de 6.85 EUR (original: 8.6 EUR) en el siguiente enlace!
+
+[![Joma Combi Camiseta Manga Corta  Hombres](https://m.media-amazon.com/images/I/31CfQkHeB4L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B00W3SXNV0/?tag=tolees-21)
+
+ℹ️:
+
+- El tejido Interlock es muy elástico, dirigido a ropa deportiva
+- Esta camiseta destaca por un tacto muy suave, por su secado rápido y sin arrugas
+- Camiseta de manga corta indicada para deportistas que buscan la máxima comodidad y transpirabilidad
+- Realizada en poliéster, para una mayor resistencia
+
+[🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00W3SXNV0/?tag=tolees-21)
