@@ -28,7 +28,7 @@ Tienes [Only Onlbase Faux Leather Skirt Otw Falda  Negro  Black Black   36 para 
 
 🔎:
 
-- Minifalda con cremallera
 - Falda de piel
+- Minifalda con cremallera
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07C42YP4R/?tag=tolees-21)
