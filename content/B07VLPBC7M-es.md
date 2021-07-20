@@ -29,7 +29,7 @@ Ahora mismo tienes [Lee Brooklyn Straight Vaqueros  Azul  Light Stonewash 66   3
 🔎:
 
 - Tienen bordado una etiqueta con la marca Lee
-- Presentan 5 bolsillos
 - Vaqueros para hombre
+- Presentan 5 bolsillos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VLPBC7M/?tag=tolees-21)

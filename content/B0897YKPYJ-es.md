@@ -29,7 +29,7 @@ Ahora mismo tienes [Levi s The tee Camiseta  New Logo II Caviar  M para Mujer](h
 🔎:
 
 - Tiene estampado la marca Levis
-- Con tacto suave de forro polar
 - Modelo casual
+- Con tacto suave de forro polar
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0897YKPYJ/?tag=tolees-21)
