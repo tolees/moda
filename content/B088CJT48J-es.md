@@ -30,8 +30,8 @@ En este momento está [G-STAR RAW G Raw Hooded Sudadera con Capucha  Dk Black A9
 
 - Bolsillo estilo canguro
 - Manga larga recta insertada
-- Puños y cintura acanalados
 - Estampado de G-Star RAW en el pecho, etiqueta de caucho en la parte superior de la manga
+- Puños y cintura acanalados
 - Capucha con parte delantera cruzada y cordones ajustables
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B088CJT48J/?tag=tolees-21)
