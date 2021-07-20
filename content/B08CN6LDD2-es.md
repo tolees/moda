@@ -28,8 +28,8 @@ Ahora mismo tienes [Desigual TS Mandragora Camiseta  Azul  L para Mujer](https:/
 
 🔎:
 
-- Refuerzo en el talón y la puntera
 - Floral Camouflage
 - Zapatillas de correr bordadas
+- Refuerzo en el talón y la puntera
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CN6LDD2/?tag=tolees-21)

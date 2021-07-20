@@ -28,10 +28,10 @@ Ahora mismo tienes [Columbia Peak to Point II  Camiseta sin mangas  Mujer](https
 
 🔎:
 
-- Disponible en varios y vibrantes colores
 - Contenido: 1 x Columbia Peak to Point II, Camiseta sin mangas, Mujer, Material: 90% poliéster / 10% elastano, Tejido: 93% poliéster, 7% elastano, Color: Rosa (Blossom Pink Heather), Talla: M, Art.No. 1885452
 - La tecnología Omni-wick extrae la humedad del cuerpo
-- Ajuste óptimo gracias a su tejido elástico
 - Camiseta sin mangas para mujer, Óptimo para actividades al aire libre
+- Ajuste óptimo gracias a su tejido elástico
+- Disponible en varios y vibrantes colores
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CJ56C2X/?tag=tolees-21)
