@@ -29,7 +29,7 @@ En este momento está [Lee Brooklyn Straight Vaqueros  Mid Worn In Ray  32W / 34
 🔎:
 
 - Diseño clásico
-- Tejido vaquero elástico
 - Algodón orgánico
+- Tejido vaquero elástico
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CXTWQH8/?tag=tolees-21)
