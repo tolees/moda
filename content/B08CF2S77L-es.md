@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BOSS Teeonic 10209546 01 Camiseta  Brigh al 36.15 % de descuento'
-date: 2021-07-19 03:28:29
+date: 2021-07-20 09:01:06
 image: 'https://m.media-amazon.com/images/I/31kCDCIfj-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'BOSS'
 buyurl: 'https://www.amazon.es/dp/B08CF2S77L/?tag=tolees-21'
 descuento: '36.15'
-average: '37.19'
+average: '37.3716666666667'
 ---
 
 Ahora mismo tienes [BOSS Teeonic 10209546 01 Camiseta  Bright Blue438  S para Hombre](https://www.amazon.es/dp/B08CF2S77L/?tag=tolees-21) a 38.28 EUR (original: 59.95 EUR) (36.15 %  de descuento) en el siguiente enlace!
