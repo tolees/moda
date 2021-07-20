@@ -28,9 +28,9 @@ Ahora mismo tienes [Geox D Sandal Vega A  Sandalias con Punta Abierta Mujer  Bei
 
 🔎:
 
-- Sandalias
 - Tipo de tejido: sintético
 - Género: femenino
+- Sandalias
 - Material de la suela: goma
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SWTYHBG/?tag=tolees-21)
