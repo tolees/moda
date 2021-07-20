@@ -28,10 +28,10 @@ Ahora mismo tienes [G-STAR RAW Badge Logo+ Camiseta  para Hombre  Gris  Grey Htr
 
 🔎:
 
-- Manga corta recta insertada
-- Bajo recto
+- Cuello redondo
 - Estampado de G-Star RAW en la parte superior trasera del cuello
 - Aplicación con insignia gráfica en el pecho
-- Cuello redondo
+- Manga corta recta insertada
+- Bajo recto
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B088C9DQX7/?tag=tolees-21)

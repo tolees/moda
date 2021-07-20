@@ -28,8 +28,8 @@ Está [TEX - Pantalón Corto Estampado de Niña  Amarillo Plátano  7-8 años](h
 
 ℹ️:
 
+- Nuestros artículos están elaborados de forma que se adapten a las necesidades del día a día de cada persona. Te ofrecemos una amplia gama de ropa versátil, moderna y cómoda con todo tipo de tallas y colores diseñadas para todas las edades
 - En TEX estamos comprometidos con ofrecer a nuestros clientes productos de alta calidad. Nuestra amplia selección de moda está 100% diseñada en España, y cuenta con gran calidad en materiales y tejidos
 - Pantalón corto de niña con estampado. Tiene cinco bolsillos, cierre de botón automático y cremallera
-- Nuestros artículos están elaborados de forma que se adapten a las necesidades del día a día de cada persona. Te ofrecemos una amplia gama de ropa versátil, moderna y cómoda con todo tipo de tallas y colores diseñadas para todas las edades
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0881PHWJF/?tag=tolees-21)
