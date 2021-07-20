@@ -30,7 +30,7 @@ En este momento está [Geox D BRIONIA F  Sandalia. Mujer  Blanco  36 EU](https:/
 
 - País de origen: ES
 - Transpirable
-- Color: blanco
 - Marca: Geox
+- Color: blanco
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08BLCDDKZ/?tag=tolees-21)
