@@ -28,9 +28,9 @@ Ahora mismo tienes [Lee Scarlett High Jeans Vaqueros  Enjuague  26W / 31L para M
 
 🔎:
 
+- 5 bolsillos
 - Tejido vaquero
 - Denim Stretch
-- 5 bolsillos
 - Skinny High Waist
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CVT5X17/?tag=tolees-21)
