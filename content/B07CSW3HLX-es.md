@@ -28,10 +28,10 @@ En este momento está [Vbestlife 5 unids 8mm eje bloqueo collar T8 tornillo bloq
 
 🔎:
 
-- 【T8】 Adecuado para tornillos de avance T8 de 8 mm.
 - 【5 piezas】 Total de 5 piezas en un paquete.
-- 【Acero inoxidable】 Material de acero inoxidable de alta calidad, duradero, duradero y sin óxido.
+- 【T8】 Adecuado para tornillos de avance T8 de 8 mm.
 - 【Para impresora 3D】 Tamaño (mm): 8 (ID) * 14 (OD) * 7 (Ancho).
+- 【Acero inoxidable】 Material de acero inoxidable de alta calidad, duradero, duradero y sin óxido.
 - 【Bloqueo de tornillo de avance】 100% nuevo y de alta calidad.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07CSW3HLX/?tag=tolees-21)

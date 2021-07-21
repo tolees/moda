@@ -28,9 +28,9 @@ Tienes [Joma Combi Camiseta Manga Corta  Hombres  Negro  6XS-5XS](https://www.am
 
 ℹ️:
 
-- Esta camiseta destaca por un tacto muy suave, por su secado rápido y sin arrugas
-- Realizada en poliéster, para una mayor resistencia
 - Camiseta de manga corta indicada para deportistas que buscan la máxima comodidad y transpirabilidad
 - El tejido Interlock es muy elástico, dirigido a ropa deportiva
+- Realizada en poliéster, para una mayor resistencia
+- Esta camiseta destaca por un tacto muy suave, por su secado rápido y sin arrugas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00W3SXNV0/?tag=tolees-21)

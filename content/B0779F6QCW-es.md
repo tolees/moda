@@ -28,9 +28,9 @@ Está [adidas Entrada 43 Camiseta de Fútbol para Hombre de Cuello Redondo en Co
 
 ℹ️:
 
-- Tres rayas en contraste en el hombro
-- Sutiles rayas diagonales en la parte delantera
 - Con cuello en V acanalado
+- Sutiles rayas diagonales en la parte delantera
+- Tres rayas en contraste en el hombro
 - El ajuste apretado garantiza un ajuste óptimo y un alto confort de uso
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0779F6QCW/?tag=tolees-21)

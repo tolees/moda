@@ -29,8 +29,8 @@ Ahora mismo tienes [Geox JR Wader A  Sandalias Deportivas  Azul Marino  37 EU](h
 🔎:
 
 - Jr Wader A
-- Geox
 - J1530A00014
 - Geox JR WADER A Sport Sandal, azul marino/naranja, 37 EU
+- Geox
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08BLPMT2W/?tag=tolees-21)
