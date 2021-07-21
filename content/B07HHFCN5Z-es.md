@@ -28,10 +28,10 @@ Tienes [Camper Right  Sandalias con Punta Abierta Mujer  Rosa  Multi/Assorted 99
 
 ℹ️:
 
-- Leather Working Group certificado
-- Color: gris
 - Muy flexible.
+- Color: gris
 - Forro: 83 % Piel porcina 17 % Textil (60% Nailon - 40% PU)
 - Material principal: Nobuck
+- Leather Working Group certificado
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07HHFCN5Z/?tag=tolees-21)
