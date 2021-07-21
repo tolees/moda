@@ -28,8 +28,8 @@ Tienes [Walimex Pro - Maletín de Transporte con Carretilla o Bolso de Estudio  
 
 ℹ️:
 
-- Dimensiones interiores de 71 x 23 x 20 cm
 - Interior acolchado para proteger tus dispositivos
+- Dimensiones interiores de 71 x 23 x 20 cm
 - Para trípodes de luz, flashes y otras
 - Ruedas robustas con rodamiento de bolas
 

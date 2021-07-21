@@ -28,13 +28,13 @@ En este momento está [Timberland Bradstreet Leather Sensorflex Chukka Stiefel  
 
 🔎:
 
-- Composición: Cuero
-- Anchura del zapato: Normal
 - Tipo de tacón: Plano
-- Revestimiento: Tela
-- Material exterior: Cuero
+- Composición: Cuero
+- Altura del tacón: 2 centímetros
 - Cierre: Cordones
 - Material de la suela: Caucho
-- Altura del tacón: 2 centímetros
+- Anchura del zapato: Normal
+- Revestimiento: Tela
+- Material exterior: Cuero
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01AZ73AIQ/?tag=tolees-21)
