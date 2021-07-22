@@ -28,9 +28,9 @@ Tienes [Tommy Hilfiger 3P Boxer Brief Ropa Interior  Neo Mint/Cielo del Desierto
 
 ℹ️:
 
+- Algodón elástico
+- Cintura elástica con logotipo de Tommy Hilfiger
 - Cinta a lo largo de la cintura
 - Tres unidades
-- Cintura elástica con logotipo de Tommy Hilfiger
-- Algodón elástico
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08CG5CYHT/?tag=tolees-21)

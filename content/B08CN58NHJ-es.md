@@ -30,7 +30,7 @@ En este momento está [Desigual TS CRACOVIA Camiseta  Blanco  S para Mujer](http
 
 - Cuello de pico cruzado
 - 95% VISCOSE 5% ELASTANE
-- Estampado de flores con cenefas boho
 - Pinza frontal en el pecho
+- Estampado de flores con cenefas boho
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CN58NHJ/?tag=tolees-21)

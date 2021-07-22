@@ -28,8 +28,8 @@ Tienes [Jack & Jones Jones - Camiseta de manga corta con cuello redondo para hom
 
 ℹ️:
 
+- Marca: JACK&JONES
 - Camiseta de manga corta de color blanco. Cuello redondo.
 - Modelo: 12058529 BASIC O-NECK TEE SS NOOS
-- Marca: JACK&JONES
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0085SFYQE/?tag=tolees-21)
