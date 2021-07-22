@@ -28,8 +28,8 @@ Tienes [Desigual TS CRACOVIA Camiseta  Blanco  L para Mujer](https://www.amazon.
 
 ℹ️:
 
-- Refuerzo en el talón y la puntera
 - Zapatillas de correr bordadas
 - Floral Camouflage
+- Refuerzo en el talón y la puntera
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08CN5FCZW/?tag=tolees-21)
