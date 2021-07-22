@@ -28,11 +28,11 @@ Ahora mismo tienes [GEOX Woman D NEW ANNYA MID A SHOES BLACK 36 EU](https://www.
 
 🔎:
 
-- Fácil de llevar para un confort optimo
-- Calzado ligero para una libertad de movimiento
-- Los sistemas patentados Geox ofrecen la transpirabilidad de la suela y el bienestar del pie
-- Calzado que ofrece una amortiguación óptima y protege contra choques y esfuerzos
-- Calzado sin cierre
 - Altura del tacón: 5.5 cm / 2.2 inch
+- Calzado ligero para una libertad de movimiento
+- Fácil de llevar para un confort optimo
+- Los sistemas patentados Geox ofrecen la transpirabilidad de la suela y el bienestar del pie
+- Calzado sin cierre
+- Calzado que ofrece una amortiguación óptima y protege contra choques y esfuerzos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07LFRMVSG/?tag=tolees-21)
