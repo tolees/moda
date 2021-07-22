@@ -28,10 +28,10 @@ Ahora mismo tienes [Zapatos Hombre mustang | Zapatos BEQUIO 84667 | mustang Homb
 
 🔎:
 
-- Material principal Textil
+- Tipo de tacón Plano
 - Altura Tacón Bajo (de 1 A 3 cm)
 - Material de la suela De goma
 - Tipo de cierre Cordones
-- Tipo de tacón Plano
+- Material principal Textil
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08HVH62TS/?tag=tolees-21)
