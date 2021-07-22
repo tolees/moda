@@ -28,13 +28,13 @@ En este momento está [Tommy Hilfiger Hoody Ls Hwk  Top de pijama Hombre  Azul  
 
 🔎:
 
-- Capucha con cordón
-- Detalles distintivos de Tommy Hilfiger
-- Corte regular
-- Logo de Tommy Hilfiger bordado en el pecho
-- Felpa francesa mezcla de algodón
 - Diseño con capucha
 - Cierre de cremallera
+- Felpa francesa mezcla de algodón
+- Detalles distintivos de Tommy Hilfiger
+- Corte regular
 - Dos bolsillos delanteros ribeteados
+- Logo de Tommy Hilfiger bordado en el pecho
+- Capucha con cordón
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0788BNRNH/?tag=tolees-21)
