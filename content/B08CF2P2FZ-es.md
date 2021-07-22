@@ -28,7 +28,7 @@ Ahora mismo tienes [BOSS Paule 4 10234774 01 Camisa de Polo  Negro1  S para Homb
 
 🔎:
 
-- Oxford Pique
 - Acabado de alta calidad
+- Oxford Pique
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CF2P2FZ/?tag=tolees-21)
