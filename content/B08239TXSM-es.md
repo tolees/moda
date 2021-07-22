@@ -29,9 +29,9 @@ Tienes [HAWKERS · HOWLIN · Grey · Marble Blue · Gafas de sol para hombre y m
 🔎:
 
 - Ste diseño pertenece a la colección It club, hand-made in Italy, lo más exclusivo de hawkers
-- Montura de acetato hecho a mano por la prestigiosa empresa mazzucchelli 1849 en el norte de Italia
-- Modelo grey marble blue howlin
 - Lentes categoría 3 y protección UV400
 - Gafas de sol clásicas con montura cuadrada de acetato pulido artesanal mazzucchelli 1849 color mármol gris y lentes azul crepuscular
+- Montura de acetato hecho a mano por la prestigiosa empresa mazzucchelli 1849 en el norte de Italia
+- Modelo grey marble blue howlin
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08239TXSM/?tag=tolees-21)
