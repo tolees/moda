@@ -28,9 +28,9 @@ Ahora mismo tienes [Joma Combi Camiseta  Hombres  Royal-700  4XS-3XS](https://ww
 
 🔎:
 
-- Cuenta con tecnología DRY MIX para controlar la transpiración
-- Material ligero y suave en la piel
 - Camiseta sin magas con cuello en V
 - Composición de 100% poliéster
+- Material ligero y suave en la piel
+- Cuenta con tecnología DRY MIX para controlar la transpiración
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01ERY12UG/?tag=tolees-21)

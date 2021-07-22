@@ -28,10 +28,10 @@ Ahora mismo tienes [Top Top VESTUVIERAS Vestido  Coral  3-4 para Niñas](https:/
 
 🔎:
 
-- Composición: 100% algodón
 - Tabla de tallas: 2-3: niña altura 98cm / 3-4: niña 104 cm / 4-5: niña 110 cm / 5-6: niña 116 cm / 6-7: niña 122 cm / 7-8: niña 128 cm / 9-10: niña 140 cm / 11-12: niña 152 cm / 13-14: niña 159 cm
-- Vestido de niña color coral; modelo de top top vestuvieras ref. 78730-107
-- Colección top top: fruits picnic
 - Tejido: sarga
+- Colección top top: fruits picnic
+- Vestido de niña color coral; modelo de top top vestuvieras ref. 78730-107
+- Composición: 100% algodón
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B083X57DPQ/?tag=tolees-21)
