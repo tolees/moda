@@ -28,9 +28,9 @@ Está [GEOX Woman D NEW ANNYA MID A SHOES BLACK 36 5 EU](https://www.amazon.es/d
 
 ℹ️:
 
-- Fácil de llevar para un confort optimo
-- Calzado que ofrece una amortiguación óptima y protege contra choques y esfuerzos
 - Altura del tacón: 5.5 cm / 2.2 inch
+- Calzado que ofrece una amortiguación óptima y protege contra choques y esfuerzos
+- Fácil de llevar para un confort optimo
 - Los sistemas patentados Geox ofrecen la transpirabilidad de la suela y el bienestar del pie
 - Calzado sin cierre
 - Calzado ligero para una libertad de movimiento
