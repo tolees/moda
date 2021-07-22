@@ -28,12 +28,12 @@ En este momento está [Geox U Wells C  Zapatillas Hombre  Gris  Lt Grey C1010   
 
 🔎:
 
-- Material de la suela: Goma
-- Altura del tacón: 2 centímetros
-- Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
-- Tipo de tacón: Plano
 - Cierre: Cordones
-- Revestimiento: Malla
+- Material de la suela: Goma
+- Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
 - Material exterior: Cuero
+- Tipo de tacón: Plano
+- Revestimiento: Malla
+- Altura del tacón: 2 centímetros
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07STLQ3BF/?tag=tolees-21)

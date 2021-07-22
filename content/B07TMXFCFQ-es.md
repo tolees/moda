@@ -29,9 +29,9 @@ Ahora mismo tienes [Clarks Maritsa Lara  Sandalias de Talón Abierto Mujer  Rosa
 🔎:
 
 - Altura Del Talón: 7.5cm
-- Superiores: Ante
 - Fijación: Riptape
 - Suela: Sintética
+- Superiores: Ante
 - Forro: Cuero
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TMXFCFQ/?tag=tolees-21)
