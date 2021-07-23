@@ -29,8 +29,8 @@ Ahora mismo tienes [Desigual Hoodie NO Zip Swiss EMBOI Sudadera  Negro  L para M
 🔎:
 
 - Estampado de paisaje tropical por la noche
-- Camiseta tropical de algodón
-- Corte estándar
 - Cuello redondo
+- Corte estándar
+- Camiseta tropical de algodón
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CL17GVC/?tag=tolees-21)

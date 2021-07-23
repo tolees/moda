@@ -29,10 +29,10 @@ Tienes [adidas Core 18 T Camiseta  Hombre  Negro  Bllack/White   XL](https://www
 🔎:
 
 - Costura lateral adelantada para un ajuste más cómodo y una mayor libertad de movimiento.
+- Cuello redondo.
 - Logotipo de adidas en el pecho.
-- Con tecnología Climalite que elimina el sudor
 - Corte clásico más ancho y silueta recta.
 - Ribetes en contraste.
-- Cuello redondo.
+- Con tecnología Climalite que elimina el sudor
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B076HRF8X9/?tag=tolees-21)

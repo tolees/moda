@@ -28,9 +28,9 @@ En este momento está [Champion Legacy Classic Small Logo Sudadera con Capucha  
 
 🔎:
 
-- Detalle metálico del cordón de ajuste con logotipo
-- Bolsillo canguro
-- Cintura y puños elásticos
 - Logotipo pequeño clásico impreso en el pecho y "C" en la manga izquierda
+- Cintura y puños elásticos
+- Bolsillo canguro
+- Detalle metálico del cordón de ajuste con logotipo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08VNJGVS8/?tag=tolees-21)
