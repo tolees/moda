@@ -28,8 +28,8 @@ Ahora mismo tienes [Tommy Hilfiger Tommy Hilfiger Logo T-Shirt  Camiseta Informa
 
 🔎:
 
-- Logo de Tommy Hilfiger bordado en la manga
 - Cinta distintiva en el cuello
+- Logo de Tommy Hilfiger bordado en la manga
 - Logo de Tommy Hilfiger en el pecho
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07JYFTXYC/?tag=tolees-21)
