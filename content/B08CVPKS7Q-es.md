@@ -28,8 +28,8 @@ Ahora mismo tienes [Lee Stripe tee Camiseta  Negro  L para Hombre](https://www.a
 
 🔎:
 
-- Algodón orgánico
 - KnITS
+- Algodón orgánico
 - Corte regular
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CVPKS7Q/?tag=tolees-21)
