@@ -28,7 +28,7 @@ Está [BOSS Paddy 2 10204701 01 Camisa de Polo  Bright Blue438  M para Hombre](h
 
 ℹ️:
 
-- Acabado de alta calidad
 - Jaquard Pique
+- Acabado de alta calidad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08CF1TQCW/?tag=tolees-21)

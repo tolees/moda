@@ -28,7 +28,7 @@ Ahora mismo tienes [BOSS Paule 1 10210510 01 Camisa de Polo  Talla Mediana Red61
 
 🔎:
 
-- Algodón de lujo
 - Acabados excelentes.
+- Algodón de lujo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CF2FSGK/?tag=tolees-21)

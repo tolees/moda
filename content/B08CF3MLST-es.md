@@ -28,7 +28,7 @@ En este momento está [BOSS Paule 1 10210510 01 Camisa de Polo  Light/Pastel Gre
 
 🔎:
 
-- Acabado de alta calidad
 - Algodón de lujo
+- Acabado de alta calidad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CF3MLST/?tag=tolees-21)
