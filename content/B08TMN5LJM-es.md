@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 60.00 % en Tuc Tuc Vestido Punto Lemonade  Azul  8A'
-date: 2021-07-23 15:02:20
+date: 2021-07-24 15:07:15
 image: 'https://m.media-amazon.com/images/I/51sF9Oc9zES._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
