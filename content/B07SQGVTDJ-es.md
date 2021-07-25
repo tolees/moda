@@ -28,13 +28,13 @@ Ahora mismo tienes [Geox D Leelu  E 522  Zapatillas Mujer  Blanco  White/Off Whi
 
 🔎:
 
-- Altura del tacón: 2.5 centímetros
-- Anchura del zapato: Normal
-- Tipo de tacón: Plano
 - Material exterior: Cuero
+- Anchura del zapato: Normal
+- Material de la suela: Sintético
+- Altura del tacón: 2.5 centímetros
+- Tipo de tacón: Plano
+- Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
 - Revestimiento: Malla
 - Cierre: Cordones
-- Material de la suela: Sintético
-- Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SQGVTDJ/?tag=tolees-21)

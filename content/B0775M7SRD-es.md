@@ -30,7 +30,7 @@ Ahora mismo tienes [Amazon Essentials 2-Pack Tank Camisa  Multicolor  Black/Whit
 
 - Tessuto lavorato a maglia a coste traspirante, leggero, morbido ed elasticizzato
 - Dobladillo recto
-- Una marca de Amazon
 - Corte ligeramente entallado en la cintura
+- Una marca de Amazon
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0775M7SRD/?tag=tolees-21)
