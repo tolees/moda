@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox J Skylin Girl I  Zapatillas  Azul M con un 50.00 % de descuento'
-date: 2021-07-24 13:17:45
+date: 2021-07-25 20:59:24
 image: 'https://m.media-amazon.com/images/I/41XEpc5rcHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

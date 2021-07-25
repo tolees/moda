@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox J Sandal Lipari Boy B  Sandalias co al 28.57 % de descuento'
-date: 2021-07-24 11:20:54
+date: 2021-07-25 20:57:53
 image: 'https://m.media-amazon.com/images/I/41J42bs8XdS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
