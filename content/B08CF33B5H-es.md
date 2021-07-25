@@ -28,7 +28,7 @@ Tienes [BOSS Paddy 10212415 01 Camisa de Polo  Natural107  S para Hombre](https:
 
 ℹ️:
 
-- Acabados excelentes.
 - Algodón piqué básico.
+- Acabados excelentes.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08CF33B5H/?tag=tolees-21)
