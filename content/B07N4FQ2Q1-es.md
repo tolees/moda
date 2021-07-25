@@ -28,8 +28,8 @@ Está [Clarks Ronnie Walk GTX  Zapatos de Cordones Derby Hombre  Piel  Piel Negr
 
 ℹ️:
 
-- Interior: textil
 - Suela: goma
+- Interior: textil
 - Exterior: piel
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07N4FQ2Q1/?tag=tolees-21)
