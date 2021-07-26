@@ -28,11 +28,11 @@ En este momento está [Philips Lumea Advanced SC1999/00 - Depiladora Luz Pulsada
 
 🔎:
 
-- 5 posiciones de intensidad para adaptarse a los distintos tonos de piel
-- Tecnología IPL (luz pulsada intensa) profesional desarrollada por dermatólogos para uso doméstico de forma segura, sencilla y eficaz
-- Reduce el 85% del vello en tan sólo 3 sesiones*
-- Con Sensor de tono de piel integrado que mide la complexión de la piel
 - Gran ventana de tratamiento para una aplicación rápida: 8 min para pierna, 1 min. para axilas, 1 min para linea del bikini
+- Tecnología IPL (luz pulsada intensa) profesional desarrollada por dermatólogos para uso doméstico de forma segura, sencilla y eficaz
 - Incluye 3 accesorios específicos para cara, ingles& axilas y cuerpo para un tratamiento más efectivo
+- 5 posiciones de intensidad para adaptarse a los distintos tonos de piel
+- Con Sensor de tono de piel integrado que mide la complexión de la piel
+- Reduce el 85% del vello en tan sólo 3 sesiones*
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B017BP58KS/?tag=tolees-21)
