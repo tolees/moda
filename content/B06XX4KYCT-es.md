@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New Balance ML574V2  Zapatilla Baja Homb al 50.00 % de rebaja'
-date: 2021-07-24 16:15:43
+date: 2021-07-26 02:35:37
 image: 'https://m.media-amazon.com/images/I/41hH41avSxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'New Balance'
 buyurl: 'https://www.amazon.es/dp/B06XX4KYCT/?tag=tolees-21'
 descuento: '50.00'
-average: '56.995'
+average: '55.9045454545454'
 ---
 
 Tienes [New Balance ML574V2  Zapatilla Baja Hombre  Olive Night  42 EU](https://www.amazon.es/dp/B06XX4KYCT/?tag=tolees-21) con precio final de  45.0 EUR (original: 90.0 EUR) (50.00 %  de rebaja) aqui!
