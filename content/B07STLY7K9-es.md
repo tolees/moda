@@ -28,8 +28,8 @@ Tienes [Geox D Pontoise D  Zapatillas Mujer  Plateado  Silver C1007   35 EU](htt
 
 🔎:
 
-- Material exterior: piel lisa.
 - Suela: sintética.
+- Material exterior: piel lisa.
 - Material interior: malla.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07STLY7K9/?tag=tolees-21)
