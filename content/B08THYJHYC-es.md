@@ -28,8 +28,8 @@ En este momento está [Vero Moda Vmapril SS Short Dress Ga Noos Vestido  Navy Bl
 
 🔎:
 
-- Bonito vestido Vero Moda para mujer con manga corta y cuello redondo, ajuste cómodo y excelente comodidad.
 - Sostenible
+- Bonito vestido Vero Moda para mujer con manga corta y cuello redondo, ajuste cómodo y excelente comodidad.
 - Material y cuidado: 100% algodón. Lavable a máquina
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08THYJHYC/?tag=tolees-21)
