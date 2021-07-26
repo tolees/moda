@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Havaianas Slim Chanclas Mujer  Oro  Sand al 26.06 % de descuento'
-date: 2020-09-08 08:00:52
-image: 'https://m.media-amazon.com/images/I/31MsiKHPD9L._SL400_.jpg'
+title: 'Havaianas Slim  Chanclas Mujer  Oro  37/ al 36.33 % de descuento'
+date: 2021-07-26 08:01:01
+image: 'https://m.media-amazon.com/images/I/217Px8AZjlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B002A6WWC6-es Havaianas Slim Chanclas Mujer Oro SandGrey/Light Golden...'
+slug: 'B002A6WWC6-es Havaianas Slim Chanclas Mujer Oro 37/38'
 sku: 'B002A6WWC6-es'
-tags: [ 'chanclas', ]
-actualPrice: 19.15 EUR
+tags: [ 'Sandalias de dedo para mujer','Sandalias y palas de mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','chanclas','havaianas', ]
+actualPrice: 16.49 EUR
 currency: EUR
-price: 19.15
+price: 16.49
 comparePrice: 25.9 EUR
-prodname: 'Havaianas Slim Chanclas Mujer  Oro  SandGrey/Light Golden   37/38 EU'
+prodname: 'Havaianas Slim  Chanclas Mujer  Oro  37/38'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Havaianas'
 buyurl: 'https://www.amazon.es/dp/B002A6WWC6/?tag=tolees-21'
-descuento: '26.06'
-average: '16.32857142857143'
+descuento: '36.33'
+average: '16.34875'
 ---
 
-Está [Havaianas Slim Chanclas Mujer  Oro  SandGrey/Light Golden   37/38 EU](https://www.amazon.es/dp/B002A6WWC6/?tag=tolees-21) con 26.06 de descuento por 19.15 EUR (original: 25.9 EUR) en el siguiente enlace!
+Está [Havaianas Slim  Chanclas Mujer  Oro  37/38](https://www.amazon.es/dp/B002A6WWC6/?tag=tolees-21) con 36.33 de descuento por 16.49 EUR (original: 25.9 EUR) en el siguiente enlace!
 
-[![Havaianas Slim Chanclas Mujer  Oro  Sand](https://m.media-amazon.com/images/I/31MsiKHPD9L._SL400_.jpg)](https://www.amazon.es/dp/B002A6WWC6/?tag=tolees-21)
+[![Havaianas Slim  Chanclas Mujer  Oro  37/](https://m.media-amazon.com/images/I/217Px8AZjlL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B002A6WWC6/?tag=tolees-21)
 
 ℹ️:
 
+- Revestimiento: Sin forro
+- Cierre: Sin cordones
+- Material de la suela: Goma
+- Material exterior: Caucho
+- Tipo de tacón: Plano
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B002A6WWC6/?tag=tolees-21)

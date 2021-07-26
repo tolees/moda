@@ -28,10 +28,10 @@ Está [Crocs Crocband Flip  Zapatos de Playa y Piscina Unisex Adulto  Azul  Navy
 
 ℹ️:
 
-- Estilo: Chancla
+- Color: azul marino
 - MÃ¡s informaciÃ³n: CROCSONE
+- Estilo: Chancla
 - Material: Croslite
 - NÃºmero del fabricante: 11033-410
-- Color: azul marino
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B074FJ41GG/?tag=tolees-21)

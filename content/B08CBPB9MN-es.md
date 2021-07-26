@@ -28,8 +28,8 @@ Tienes [Tommy Hilfiger Essential CTTN tee S/S Camisa  Sour Lime  86 cm para Niñ
 
 🔎:
 
-- Este producto ha sido fabricado de manera sostenible con materiales sostenibles.
 - Este es un producto auténtico y original de Tommy Hilfiger.
+- Este producto ha sido fabricado de manera sostenible con materiales sostenibles.
 - Para obtener más información sobre Tommy Hilfiger, consulte la sección de descripción del producto a continuación.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08CBPB9MN/?tag=tolees-21)
