@@ -28,12 +28,12 @@ Tienes [Geox U Mondello A  Alpargata Hombre  Gris  Grey C1006   40 EU](https://w
 
 🔎:
 
-- Forma del tacón: plano
-- Nota sobre la talla: Ten en cuenta que los zapatos Geox tienen un ajuste cómodo, por lo que recomendamos elegir media talla
-- Suela: goma
+- Ancho del zapato: estrecho
+- Cierre: deslizante
 - Material interior: malla
 - Material exterior: sintético
-- Cierre: deslizante
-- Ancho del zapato: estrecho
+- Forma del tacón: plano
+- Suela: goma
+- Nota sobre la talla: Ten en cuenta que los zapatos Geox tienen un ajuste cómodo, por lo que recomendamos elegir media talla
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07SQGP9FQ/?tag=tolees-21)

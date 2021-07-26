@@ -28,10 +28,10 @@ En este momento está [Crocs Swiftwater Expedition Molded W  Sandalias de Punta 
 
 🔎:
 
-- Las tallas de la suela son estadounidenses. La etiqueta muestra el Reino Unido. M = hombre W = mujer
-- Ligeras: estas sandalias de gladiador para mujer son increíblemente ligeras y divertidas de llevar. El material flexible es ideal para cuando estás en movimiento o simplemente para pasar el rato
 - Ligeras, deportivas y aventureras: las sandalias Swiftwater para mujer se centran en la comodidad y la funcionalidad. El diseño deportivo y minimalista te permite moverte rápidamente a través de la vida
 - Comodidad icónica: desde el lago hasta una cita por la noche, estas sandalias para mujer son flexibles y están hechas de material Croslite para la comodidad icónica de Crocs. Correas suaves y flexibles fabricadas para que sean fáciles de poner y quitar
+- Las tallas de la suela son estadounidenses. La etiqueta muestra el Reino Unido. M = hombre W = mujer
+- Ligeras: estas sandalias de gladiador para mujer son increíblemente ligeras y divertidas de llevar. El material flexible es ideal para cuando estás en movimiento o simplemente para pasar el rato
 - Resistentes al agua: estas sandalias para mujer son resistentes al agua y están diseñadas para canalizar el agua. No hace falta decir que si estás cerca del agua, querrás tener estas sandalias contigo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B089KFYT3L/?tag=tolees-21)
