@@ -28,11 +28,11 @@ Ahora mismo tienes [Pepe Jeans West Sir Camiseta  545bright Blue  14 para Hombre
 
 🔎:
 
+- Manga corta
+- Cuello redondo
 - Logo impreso delante
 - Fit slim
 - Camiseta de algodón
-- Manga corta
-- Cuello redondo
 - Efecto desgastado
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08D6YLM17/?tag=tolees-21)
