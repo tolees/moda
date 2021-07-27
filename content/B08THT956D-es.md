@@ -28,8 +28,8 @@ Está [Vero Moda Vmapril SS Short Dress Ga Noos Vestido  Navy Blazer/Stripes:Kat
 
 ℹ️:
 
-- Material y cuidado: 100% algodón. Lavable a máquina
 - Sostenible
+- Material y cuidado: 100% algodón. Lavable a máquina
 - Bonito vestido Vero Moda para mujer con manga corta y cuello redondo, ajuste cómodo y excelente comodidad.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08THT956D/?tag=tolees-21)

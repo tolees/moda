@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox Uomo Sandal Strada D  Sandalia con  al 30.90 % de descuento'
-date: 2021-07-25 21:52:28
+date: 2021-07-26 22:05:28
 image: 'https://m.media-amazon.com/images/I/41BSp2iny2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ Está [Geox Uomo Sandal Strada D  Sandalia con Pulsera para Hombre  Gris  Stone/
 ℹ️:
 
 - Material exterior: Sintético
-- Tipo de tacón: Plano
-- Cierre: Velcro
-- Revestimiento: Malla
 - Material de la suela: Goma
+- Tipo de tacón: Plano
+- Revestimiento: Malla
+- Cierre: Velcro
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B076X6GTCM/?tag=tolees-21)

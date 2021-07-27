@@ -28,7 +28,7 @@ Ahora mismo tienes [Geox Uomo Sandal Strada D  Sandalia con Pulsera Hombre  Beig
 
 🔎:
 
-- beige.
 - Adulto
+- beige.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B075TC7HC7/?tag=tolees-21)
