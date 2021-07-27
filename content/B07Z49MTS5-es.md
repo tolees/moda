@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 55.03 % en Jack & Jones Jjecurved tee SS O-Neck Noo'
-date: 2021-07-07 08:51:03
+date: 2021-07-27 09:15:12
 image: 'https://m.media-amazon.com/images/I/219j7O7gbrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ Tienes [Jack & Jones Jjecurved tee SS O-Neck Noos Camiseta  Blanco  White Fit: R
 
 ℹ️:
 
-- Soft organinc cotton fabric for high wearing comfort
 - Tee with crew neck
+- Soft organinc cotton fabric for high wearing comfort
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07Z49MTS5/?tag=tolees-21)
