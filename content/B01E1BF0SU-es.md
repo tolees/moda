@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 43.21 % en JACK & JONES JCOBORO TEE SS CREW NECK  C'
-date: 2021-07-04 10:52:22
+title: 'Descuento del 46.56 % en JACK & JONES JCOBORO TEE SS CREW NECK  C'
+date: 2021-07-27 07:13:39
 image: 'https://m.media-amazon.com/images/I/31+wN0Gw-NL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B01E1BF0SU-es JACK & JONES JCOBORO TEE SS CREW NECK Camiseta Hombre...'
 sku: 'B01E1BF0SU-es'
 tags: [ 'Camisetas para hombre','Camisetas, polos y camisas para hombre','Ropa','Ropa para hombre','camiseta','jack & jones', ]
-actualPrice: 8.49 EUR
+actualPrice: 7.99 EUR
 currency: EUR
-price: 8.49
+price: 7.99
 comparePrice: 14.95 EUR
 prodname: 'JACK & JONES JCOBORO TEE SS CREW NECK  Camiseta Hombre  Negro  Black   Large'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B01E1BF0SU/?tag=tolees-21'
-descuento: '43.21'
-average: '10.1566666666667'
+descuento: '46.56'
+average: '9.61500000000003'
 ---
 
-Tienes [JACK & JONES JCOBORO TEE SS CREW NECK  Camiseta Hombre  Negro  Black   Large](https://www.amazon.es/dp/B01E1BF0SU/?tag=tolees-21) con un 43.21 % de descuento con precio de oferta de 8.49 EUR (original: 14.95 EUR) en el siguiente enlace!
+Tienes [JACK & JONES JCOBORO TEE SS CREW NECK  Camiseta Hombre  Negro  Black   Large](https://www.amazon.es/dp/B01E1BF0SU/?tag=tolees-21) con un 46.56 % de descuento con precio de oferta de 7.99 EUR (original: 14.95 EUR) en el siguiente enlace!
 
 [![JACK & JONES JCOBORO TEE SS CREW NECK  C](https://m.media-amazon.com/images/I/31+wN0Gw-NL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B01E1BF0SU/?tag=tolees-21)
 
