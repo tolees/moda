@@ -28,7 +28,7 @@ Tienes [Dockers tee Camiseta  Blanco  Logo Paper White 0082   Large para Hombre]
 
 ℹ️:
 
-- BCI
 - Logo Tee
+- BCI
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07G2NR75Z/?tag=tolees-21)

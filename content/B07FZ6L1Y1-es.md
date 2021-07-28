@@ -28,7 +28,7 @@ Está [Ray-Ban 0RB4314N Gafas de Sol  Black  53 para Mujer](https://www.amazon.e
 
 ℹ️:
 
-- Ray-Ban combina el estilo excepcional con lo último en innovación científica.
 - Materiales de alta calidad y logotipo grabado en el lente.
+- Ray-Ban combina el estilo excepcional con lo último en innovación científica.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07FZ6L1Y1/?tag=tolees-21)
