@@ -28,10 +28,10 @@ Tienes [Helly Hansen Logr 2.0 - Chaqueta para hombre  Hombre  Chaqueta para homb
 
 🔎:
 
-- Una chaqueta softshell para hombres con DWR libre de PFC y telas aprobadas por bluesign
+- Incluye: 1x Logr Jacket 2.0 Chaqueta Color Verde - Talla: S
 - Waterproof, Windproof and breathable HELLY TECH Performance fabric
 - Tejido de 2,5L 100% aprobado por bluesign con laminado 100% de poliuretano situado en la capucha, el cuerpo delantero, la manga superior, el puño y el canesú de la espalda
+- Una chaqueta softshell para hombres con DWR libre de PFC y telas aprobadas por bluesign
 - Una construcción de softshell de 4 vías para la comodidad y el rendimiento HELLY TECH para mantenerte caliente, seco y cómodo en el camino
-- Incluye: 1x Logr Jacket 2.0 Chaqueta Color Verde - Talla: S
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B082FP9RYH/?tag=tolees-21)

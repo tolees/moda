@@ -28,8 +28,8 @@ Tienes [Esprit 120EE1G305 Chaqueta  044/Gris Claro 5  S para Mujer](https://www.
 
 ℹ️:
 
-- Esprit Chaqueta para mujer 120EE1G305, 044/Light Grey 5, S
-- Esprit
 - Bonito abrigo de algodón de alta calidad
+- Esprit
+- Esprit Chaqueta para mujer 120EE1G305, 044/Light Grey 5, S
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08NXD4GR5/?tag=tolees-21)

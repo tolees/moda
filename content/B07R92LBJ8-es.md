@@ -28,10 +28,10 @@ En este momento está [Columbia Columbia Lodge  Chaqueta sudadera  Hombre  Verde
 
 🔎:
 
-- Tejido resistente al agua que te protege de los chubascos y la niebla, Ajuste óptimo gracias al dobladillo ajustable con cordón
-- Los bolsillos con cremallera te dan versatilidad Mantén tus manos calientes cuando lo necesites o guarda tu teléfono y otros accesorios sin temor a que se caigan
-- Contenido: 1x Columbia Columbia Lodge Chaqueta sudadera para hombre, Cubierta: 100% poliéster; Forro: 100% poliéster; Aislamiento: Termostato 100% poliéster, Color: Verde, Negro (Olive Green), Talla: S, Art.No 1864422
-- Chaqueta tipo sudadera para hombre con el elegante logotipo de Columbia y sistema de entrada lateral, optimo para el uso diario
 - El forro termorreflectante para mantener la temperatura interior sin sobrecalentamiento
+- Los bolsillos con cremallera te dan versatilidad Mantén tus manos calientes cuando lo necesites o guarda tu teléfono y otros accesorios sin temor a que se caigan
+- Chaqueta tipo sudadera para hombre con el elegante logotipo de Columbia y sistema de entrada lateral, optimo para el uso diario
+- Tejido resistente al agua que te protege de los chubascos y la niebla, Ajuste óptimo gracias al dobladillo ajustable con cordón
+- Contenido: 1x Columbia Columbia Lodge Chaqueta sudadera para hombre, Cubierta: 100% poliéster; Forro: 100% poliéster; Aislamiento: Termostato 100% poliéster, Color: Verde, Negro (Olive Green), Talla: S, Art.No 1864422
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07R92LBJ8/?tag=tolees-21)

@@ -28,7 +28,7 @@ Tienes [Geox M VINCIT SHORT JKT JACKET  Hombre  BLUE NIGHTS](https://www.amazon.
 
 🔎:
 
-- Chaqueta corta de hombre, funcional y versátil, de estilo urbano y formal, ideal para el uso cotidiano
 - Sistema de transpiración patentado por Geox
+- Chaqueta corta de hombre, funcional y versátil, de estilo urbano y formal, ideal para el uso cotidiano
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07TZRM89N/?tag=tolees-21)
