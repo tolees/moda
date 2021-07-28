@@ -29,7 +29,7 @@ Tienes [Hackett London Continuity WSH/Oxford Camisa  Azul  Marino   X-Small para
 ℹ️:
 
 - Este jersey es para un estilo clásico
-- Está diseñado con un bordado retro
 - Fabricado con algodón de calidad
+- Está diseñado con un bordado retro
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08F7W5JQT/?tag=tolees-21)

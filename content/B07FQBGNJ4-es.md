@@ -28,8 +28,8 @@ Tienes [Jack & Jones Jjitim Jjoriginal Am 782 50sps Noos Vaqueros Slim  Azul  Bl
 
 🔎:
 
-- Pierna delgada
 - Vaqueros elásticos
 - Cinco bolsillos
+- Pierna delgada
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07FQBGNJ4/?tag=tolees-21)

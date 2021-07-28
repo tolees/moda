@@ -28,9 +28,9 @@ Tienes [Vans Classic Camiseta  Golden Glow-Black  M para Hombre](https://www.ama
 
 🔎:
 
-- Camiseta de manga corta de 185 g
-- Corte clásico
 - Peso del paquete: 0,381 kg
 - 100% algodón (El color jaspeado atlético es 90% algodón 10% poliéster)
+- Camiseta de manga corta de 185 g
+- Corte clásico
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B094NXPMRJ/?tag=tolees-21)

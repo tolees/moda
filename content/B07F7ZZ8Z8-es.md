@@ -28,10 +28,10 @@ En este momento está [Luanvi Pol Camiseta de Deportes Manga Corta  Hombre  Azul
 
 🔎:
 
-- Logotipo de marca estampado con printing de alta calidad
-- Tejidos estampados mediante el proceso de sublima- ción. Sistema que consigue que a través del calor se transfiera y se fije la tinta al tejido.
 - Tejido Transpirable que absorbe la sudoración y la evacua hacia el exterior para mayor comodidad
+- Logotipo de marca estampado con printing de alta calidad
 - Tecnología Cool-Skin para una regulación de la temperatura corporal
+- Tejidos estampados mediante el proceso de sublima- ción. Sistema que consigue que a través del calor se transfiera y se fije la tinta al tejido.
 - Confeccionada en multifilamento para una mayor resitencia y comodidad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07F7ZZ8Z8/?tag=tolees-21)
