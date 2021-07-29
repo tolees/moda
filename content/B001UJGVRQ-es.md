@@ -28,7 +28,7 @@ Está [Calvin Klein Cotton Stretch Trunk 3Pk Bóxer  Multicolor  Black/White/Gre
 
 ℹ️:
 
-- Mezcla de algodón y elastano
 - Tiro medio
+- Mezcla de algodón y elastano
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B001UJGVRQ/?tag=tolees-21)

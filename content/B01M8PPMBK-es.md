@@ -28,10 +28,10 @@ En este momento está [COTOP Guantes de moto  guantes de pantalla táctil de nud
 
 🔎:
 
-- GARANTÍA: Proporcionamos un reemplazo gratuito de 6 meses si hay algún problema de calidad con los guantes. Si tiene algún problema con el producto, contáctenos sin dudarlo.
 - Adecuado para múltiples deportes al aire libre: guantes de moto, guantes de ciclismo, guantes de montar, guantes de deportes al aire libre, guantes de caza, guantes de alpinismo, etc.
+- GARANTÍA: Proporcionamos un reemplazo gratuito de 6 meses si hay algún problema de calidad con los guantes. Si tiene algún problema con el producto, contáctenos sin dudarlo.
+- El spandex elástico hace que las partes de la muñeca y los nudillos tengan más elasticidad, puede curvarse de forma natural y fácil, lo que proporciona una flexibilidad excepcional.
 - El material de poliuretano antideslizante en la palma para un mejor agarre y el material de cuero para los dedos pueden tocar la pantalla directamente, con correa de muñeca con velcro, fácil de ajustar la tensión para la fijación.
 - Material de alta calidad, ultra resistente a la abrasión, refuerzo de palma, protección contra impactos y abrasión con suficiente protección de trabajo.
-- El spandex elástico hace que las partes de la muñeca y los nudillos tengan más elasticidad, puede curvarse de forma natural y fácil, lo que proporciona una flexibilidad excepcional.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01M8PPMBK/?tag=tolees-21)

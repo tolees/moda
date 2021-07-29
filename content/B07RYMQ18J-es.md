@@ -28,8 +28,8 @@ En este momento está [Levi s 502 Taper Vaqueros  Stonewash Stretch T2  34W / 32
 
 🔎:
 
+- Con ajuste estándar en el muslo
 - Modelo que se asienta debajo de la cintura
 - Diseño de cinco bolsillos
-- Con ajuste estándar en el muslo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07RYMQ18J/?tag=tolees-21)
