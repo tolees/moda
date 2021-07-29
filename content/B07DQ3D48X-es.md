@@ -28,7 +28,7 @@ En este momento está [Vero Moda Vmeva HR Loose Paperbag Pant Noos Ki Pantalones
 
 🔎:
 
-- high rise pants with loose fit
 - elegant pants with loose fit
+- high rise pants with loose fit
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07DQ3D48X/?tag=tolees-21)
