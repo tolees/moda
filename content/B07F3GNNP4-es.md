@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox Uomo Sandal Strada D  Sandalias con al 20.00 % de rebaja'
-date: 2021-07-27 16:01:07
+date: 2021-07-28 22:12:05
 image: 'https://m.media-amazon.com/images/I/41zQtWPEhxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
