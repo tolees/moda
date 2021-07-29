@@ -28,8 +28,8 @@ Ahora mismo tienes [Levi s The Original tee Camiseta  Grey  Cotton + Patch Mediu
 
 🔎:
 
-- Fabricada en tejido de punto con tacto suave
 - Logotipo pequeño de Levis en el pecho
+- Fabricada en tejido de punto con tacto suave
 - Modelo casual
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TKDNDJX/?tag=tolees-21)
