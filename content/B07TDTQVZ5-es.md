@@ -28,9 +28,9 @@ Tienes [Kappa Krus  Chanclas Hombre  Rojo  Red/White 2010   45 EU](https://www.a
 
 ℹ️:
 
-- Sintético
-- rojo
-- 242794
 - Kappa
+- 242794
+- rojo
+- Sintético
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07TDTQVZ5/?tag=tolees-21)
