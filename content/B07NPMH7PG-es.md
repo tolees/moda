@@ -28,7 +28,7 @@ Ahora mismo tienes [Only Onlmay S/s Dress Noos Vestido  Multicolor  Black Stripe
 
 🔎:
 
-- jersey dress
 - soft cotton quality
+- jersey dress
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07NPMH7PG/?tag=tolees-21)
