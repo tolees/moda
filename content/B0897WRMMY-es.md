@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s SS Original Hm tee Camiseta  Cora al 27.48 % de descuento'
-date: 2021-07-28 22:16:15
+date: 2021-07-30 16:44:54
 image: 'https://m.media-amazon.com/images/I/41-LiYgTJjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B0897WRMMY/?tag=tolees-21'
 descuento: '27.48'
-average: '20.832244897959'
+average: '20.7781999999998'
 ---
 
 Ahora mismo tienes [Levi s SS Original Hm tee Camiseta  Coral Quartz  XS para Hombre](https://www.amazon.es/dp/B0897WRMMY/?tag=tolees-21) a 18.13 EUR (original: 25.0 EUR) (27.48 %  de descuento) en el siguiente enlace!
@@ -28,8 +28,8 @@ Ahora mismo tienes [Levi s SS Original Hm tee Camiseta  Coral Quartz  XS para Ho
 
 🔎:
 
-- Modelo casual
 - Adecuada para el día a día
 - Logotipo pequeño de Levis en el pecho
+- Modelo casual
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0897WRMMY/?tag=tolees-21)
