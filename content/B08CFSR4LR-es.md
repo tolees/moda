@@ -28,8 +28,8 @@ Tienes [Tommy Hilfiger 2P Print Bikini Estilo Ropa Interior  Klu/Multi/Star/AOP/
 
 🔎:
 
-- Logo de Tommy Hilfiger bordado en la cintura
 - Con cintura elástica
+- Logo de Tommy Hilfiger bordado en la cintura
 - Se pueden llevar a diario
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08CFSR4LR/?tag=tolees-21)

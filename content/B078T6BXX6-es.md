@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Tommy Hilfiger Essential TH Beach Sandal al 20.00 % de descuento'
-date: 2020-04-15 18:08:50
-image: 'https://m.media-amazon.com/images/I/41ZlTwsoqhL._SL400_.jpg'
+title: 'Tommy Hilfiger Essential TH Beach Sandal al 35.56 % de descuento'
+date: 2021-07-30 13:58:39
+image: 'https://m.media-amazon.com/images/I/41+Tq2wSgoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B078T6BXX6-es Tommy Hilfiger Essential TH Beach Sandal Chanclas para...'
+slug: 'B078T6BXX6-es Tommy Hilfiger Essential TH Beach Sandal Chanclas Hombre...'
 sku: 'B078T6BXX6-es'
-tags: [ 'chanclas', ]
-actualPrice: 27.92 EUR
+tags: [ 'Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas','tommy hilfiger', ]
+actualPrice: 22.49 EUR
 currency: EUR
-price: 27.92
+price: 22.49
 comparePrice: 34.9 EUR
-prodname: 'Tommy Hilfiger Essential TH Beach Sandal  Chanclas para Hombre  Azul  Midnight 403   46 EU'
+prodname: 'Tommy Hilfiger Essential TH Beach Sandal  Chanclas Hombre  Azul  Midnight 403   46 EU'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Tommy Hilfiger'
 buyurl: 'https://www.amazon.es/dp/B078T6BXX6/?tag=tolees-21'
-descuento: '20.00'
-average: '26.76'
+descuento: '35.56'
+average: '25.3366666666667'
 ---
 
-Está [Tommy Hilfiger Essential TH Beach Sandal  Chanclas para Hombre  Azul  Midnight 403   46 EU](https://www.amazon.es/dp/B078T6BXX6/?tag=tolees-21) con 20.00 de descuento por 27.92 EUR (original: 34.9 EUR) en el siguiente enlace!
+Está [Tommy Hilfiger Essential TH Beach Sandal  Chanclas Hombre  Azul  Midnight 403   46 EU](https://www.amazon.es/dp/B078T6BXX6/?tag=tolees-21) con 35.56 de descuento por 22.49 EUR (original: 34.9 EUR) en el siguiente enlace!
 
-[![Tommy Hilfiger Essential TH Beach Sandal](https://m.media-amazon.com/images/I/41ZlTwsoqhL._SL400_.jpg)](https://www.amazon.es/dp/B078T6BXX6/?tag=tolees-21)
+[![Tommy Hilfiger Essential TH Beach Sandal](https://m.media-amazon.com/images/I/41+Tq2wSgoL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B078T6BXX6/?tag=tolees-21)
 
 ℹ️:
 
+- Tommy Hilfiger - Chanclas para hombre con logo y detalles de logotipo, color azul oscuro
+- Color: azul oscuro
+- Diseño: liso
+- Talla: 46
+- Línea: Tommy Hilfiger
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B078T6BXX6/?tag=tolees-21)
