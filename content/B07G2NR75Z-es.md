@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 52.00 % en Dockers tee Camiseta  Blanco  Logo Paper'
-date: 2021-07-28 06:44:59
+date: 2021-07-30 11:10:01
 image: 'https://m.media-amazon.com/images/I/31VMS0QdrGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ Tienes [Dockers tee Camiseta  Blanco  Logo Paper White 0082   Large para Hombre]
 
 ℹ️:
 
-- Logo Tee
 - BCI
+- Logo Tee
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07G2NR75Z/?tag=tolees-21)
