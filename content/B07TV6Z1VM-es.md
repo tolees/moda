@@ -30,8 +30,8 @@ Está [Levi s Graphic tee Camiseta  Blue  Boxtab SS T2 Dress Blues 0001   XS par
 
 - 85785-0001
 - Camiseta
-- LEVIS
 - Boxtab Graphic
 - Hombre
+- LEVIS
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07TV6Z1VM/?tag=tolees-21)

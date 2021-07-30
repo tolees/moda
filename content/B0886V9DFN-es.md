@@ -28,8 +28,8 @@ Tienes [Levi s 720 Hirise Super Skinny  Vaqueros Mujer  Smoked Out  25W / 32L](h
 
 🔎:
 
-- Con corte entallado en la cadera y el muslo
 - Vaqueros para mujer
+- Con corte entallado en la cadera y el muslo
 - Tienen un parche de cuero en la parte posterior de la cintura
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0886V9DFN/?tag=tolees-21)
