@@ -28,8 +28,8 @@ Tienes [Iris & Lilly BELK427M4 Bikinis & Brasil  Rosa Magenta Viejo  40  Pack de
 
 ℹ️:
 
-- La cintura y la pernera tienen un acabado con ribete elástico para ofrecer mejor sujeción y un ajuste flexible
 - Con un encaje elástico y transparente que se asienta suavemente sobre la piel
+- La cintura y la pernera tienen un acabado con ribete elástico para ofrecer mejor sujeción y un ajuste flexible
 - Una marca de Amazon
 - Diseñado con un corte bajo y un silueta sugerente que favorece tus curvas
 
