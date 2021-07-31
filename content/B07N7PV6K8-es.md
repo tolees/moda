@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FILA Strada wmn zapatilla Mujer  blanco  con un 40.12 % de descuento'
-date: 2021-07-22 07:31:04
+date: 2021-07-31 07:25:38
 image: 'https://m.media-amazon.com/images/I/41e1XsgEehL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Fila'
 buyurl: 'https://www.amazon.es/dp/B07N7PV6K8/?tag=tolees-21'
 descuento: '40.12'
-average: '46.8423529411766'
+average: '46.9011111111112'
 ---
 
 En este momento está [FILA Strada wmn zapatilla Mujer  blanco  White   38 EU](https://www.amazon.es/dp/B07N7PV6K8/?tag=tolees-21) a 47.9 EUR (original: 80.0 EUR) (40.12 %  de descuento) en el siguiente enlace!

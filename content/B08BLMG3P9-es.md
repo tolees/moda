@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Geox J Alben Boy A  Zapatillas Niños  Az al 50.09 % de rebaja'
-date: 2021-07-28 07:56:58
+date: 2021-07-31 07:21:23
 image: 'https://m.media-amazon.com/images/I/41pfnw1u3JL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B08BLMG3P9-es Geox J Alben Boy A Zapatillas Niños Azul Royal Lime 33 EU'
 sku: 'B08BLMG3P9-es'
-tags: [ 'Zapatillas casual para niño','Zapatillas y calzado deportivo para Niño','Zapatos','Zapatos para niños pequeños','Zapatos y complementos','geox', ]
+tags: [ 'Zapatillas casual para niño','Zapatillas y calzado deportivo para Niño','Zapatos','Zapatos para niños','Zapatos y complementos','geox', ]
 actualPrice: 27.45 EUR
 currency: EUR
 price: 27.45
