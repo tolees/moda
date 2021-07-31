@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Core Stretch Slim Cneck t al 50.00 % de descuento'
-date: 2021-07-29 11:20:25
-image: 'https://m.media-amazon.com/images/I/31vTVb8gwoS._SL500_._SL400_.jpg'
+date: 2021-07-31 10:20:02
+image: 'https://m.media-amazon.com/images/I/41XGmc2xOSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -24,7 +24,7 @@ average: '19.95'
 
 Está [Tommy Hilfiger Core Stretch Slim Cneck tee Camiseta  Azul  Navy Blazer 416   M para Hombre](https://www.amazon.es/dp/B016QM56AE/?tag=tolees-21) con 50.00 de descuento por 19.95 EUR (original: 39.9 EUR) en el siguiente enlace!
 
-[![Tommy Hilfiger Core Stretch Slim Cneck t](https://m.media-amazon.com/images/I/31vTVb8gwoS._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B016QM56AE/?tag=tolees-21)
+[![Tommy Hilfiger Core Stretch Slim Cneck t](https://m.media-amazon.com/images/I/41XGmc2xOSL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B016QM56AE/?tag=tolees-21)
 
 ℹ️:
 
