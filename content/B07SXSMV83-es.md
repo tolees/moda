@@ -28,8 +28,8 @@ En este momento está [Geox J Sandal Karly Girl  Sandalias Con Tira Vertical Ni�
 
 🔎:
 
-- Suela: sintética
 - Material exterior: sintético
 - Interior: textil
+- Suela: sintética
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07SXSMV83/?tag=tolees-21)

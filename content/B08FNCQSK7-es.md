@@ -28,7 +28,7 @@ Ahora mismo tienes [FILA City Hiking L wmn zapatilla Mujer  negro  Black   36 EU
 
 🔎:
 
-- Suela exterior de plataforma
 - Parte superior de piel suave
+- Suela exterior de plataforma
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08FNCQSK7/?tag=tolees-21)
