@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Desigual Vest Nadia Vestido Casual  Blan al 50.04 % de rebaja'
-date: 2021-07-29 16:50:59
+date: 2021-08-01 10:11:56
 image: 'https://m.media-amazon.com/images/I/518Sfgo2ZpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
