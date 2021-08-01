@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HAWKERS Runway Gafas de Sol  Marrón  One al 55.11 % de descuento'
-date: 2021-07-30 18:10:15
+date: 2021-08-01 20:24:06
 image: 'https://m.media-amazon.com/images/I/31Vk6lOGpCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Ahora mismo tienes [HAWKERS Runway Gafas de Sol  Marrón  One Size Unisex Adulto
 
 🔎:
 
+- Modelo Champagne RUNWAY
 - Lentes de TR18 con el sello de Eastman, uno de los líderes mundiales en tecnología de copoliéster proporciona un equilibrio único entre claridad y resistencia; lentes categoría 3 y protección uv400
+- Modelo para hombre y mujer: Unisex
 - Gafas de sol Hawkers con montura oversize de color champagne transparente en acabado brillo y lentes marrones degradadas categoría 3
 - Producto oficial Hawkers
-- Modelo Champagne RUNWAY
-- Modelo para hombre y mujer: Unisex
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TQVJKTN/?tag=tolees-21)
