@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Housemark Graphic tee Camiseta  G con un 43.37 % de descuento'
-date: 2021-07-30 16:15:55
+date: 2021-08-01 04:38:42
 image: 'https://m.media-amazon.com/images/I/31AiXMmddgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07RXKZV3X/?tag=tolees-21'
 descuento: '43.37'
-average: '17.1566666666667'
+average: '17.1328571428572'
 ---
 
 En este momento está [Levi s Housemark Graphic tee Camiseta  Grey  Ssnl Hm Forge Iron 0248   Large para Hombre](https://www.amazon.es/dp/B07RXKZV3X/?tag=tolees-21) a 16.99 EUR (original: 30.0 EUR) (43.37 %  de descuento) en el siguiente enlace!
