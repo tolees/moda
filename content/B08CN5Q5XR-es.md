@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.04 % en Desigual Vest Petals Vestido Casual  Bla'
-date: 2021-07-21 17:03:09
+date: 2021-08-02 09:46:46
 image: 'https://m.media-amazon.com/images/I/41SVMCHLj+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Desigual'
 buyurl: 'https://www.amazon.es/dp/B08CN5Q5XR/?tag=tolees-21'
 descuento: '50.04'
-average: '45.0266666666667'
+average: '42.5075'
 ---
 
 Tienes [Desigual Vest Petals Vestido Casual  Blanco  M para Mujer](https://www.amazon.es/dp/B08CN5Q5XR/?tag=tolees-21) con un 50.04 % de descuento con precio de oferta de 34.95 EUR (original: 69.95 EUR) en el siguiente enlace!
