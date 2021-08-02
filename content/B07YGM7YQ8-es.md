@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazon Essentials Vestido de Manga Corta con un 40.04 % de descuento'
-date: 2021-07-28 19:12:50
+date: 2021-08-02 16:53:13
 image: 'https://m.media-amazon.com/images/I/313nZY0eiVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
