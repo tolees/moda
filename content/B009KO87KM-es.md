@@ -28,8 +28,8 @@ Ahora mismo tienes [Joma Classic Camiseta térmica de Manga Larga  Unisex niños
 
 🔎:
 
-- Ideal para conservar una temperatura corporal constante
 - Camiseta sin costuras y transpirable
+- Ideal para conservar una temperatura corporal constante
 - Se ajusta perfectamente a la complexión del cuerpo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B009KO87KM/?tag=tolees-21)
