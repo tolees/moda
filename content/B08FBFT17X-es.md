@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Kids LVB SS GRAPHIC TEE D413 Cami al 50.00 % de descuento'
-date: 2021-07-23 18:02:24
+date: 2021-08-03 14:50:18
 image: 'https://m.media-amazon.com/images/I/210D1JJZivL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
