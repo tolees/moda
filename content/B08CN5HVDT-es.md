@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.04 % en Desigual Vest Las Vegas Vestido Casual  '
-date: 2021-07-17 16:45:16
+date: 2021-08-03 20:57:26
 image: 'https://m.media-amazon.com/images/I/41hcTfNcO9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
