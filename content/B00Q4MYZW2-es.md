@@ -29,7 +29,7 @@ Ahora mismo tienes [Lacoste TH7618  Camiseta para Hombre  Negro  Noir   Medium  
 🔎:
 
 - Camiseta para hombres, marca Lacoste
-- Logo ultra dry en la parte inferior de la espalda
 - Cocodrilo verde bordado en el pecho
+- Logo ultra dry en la parte inferior de la espalda
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00Q4MYZW2/?tag=tolees-21)

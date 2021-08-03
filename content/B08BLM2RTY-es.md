@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox B ALBEN Boy B  Zapatillas Bebé-Niña al 50.00 % de descuento'
-date: 2021-07-30 07:10:27
+date: 2021-08-03 08:27:08
 image: 'https://m.media-amazon.com/images/I/41N36l8o4iL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
