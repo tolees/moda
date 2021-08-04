@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clarks Un Bali Trek  Sandalias de Talón  al 49.99 % de descuento'
-date: 2021-07-24 22:29:08
+date: 2021-08-03 23:02:26
 image: 'https://m.media-amazon.com/images/I/31ACrhV1kHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Ahora mismo tienes [Clarks Un Bali Trek  Sandalias de Talón Abierto Mujer  Gris
 
 🔎:
 
-- Exterior: piel
-- Suela: goma
 - Interior: textil
 - Altura del tacón: 3,5 cm
+- Suela: goma
+- Exterior: piel
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TJPQFSF/?tag=tolees-21)
