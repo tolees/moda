@@ -28,7 +28,7 @@ Ahora mismo tienes [FILA Sandblast C wmn zapatilla Mujer  beige  Marshmallow   3
 
 🔎:
 
-- lona
 - Suela exterior de plataforma
+- lona
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08FNDHWB2/?tag=tolees-21)

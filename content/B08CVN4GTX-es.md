@@ -28,7 +28,7 @@ Tienes [Wrangler Mid Length Skirt Falda  Beige  M para Mujer](https://www.amazon
 
 🔎:
 
-- Falda
 - Tejido vaquero elástico
+- Falda
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08CVN4GTX/?tag=tolees-21)
