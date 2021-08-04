@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tous City Hold  Bolso Bolera para Mujer  al 49.97 % de descuento'
-date: 2021-07-26 16:58:37
+date: 2021-08-04 10:05:43
 image: 'https://m.media-amazon.com/images/I/31yef7AdNrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [Tous City Hold  Bolso Bolera para Mujer   Negro   27x18x9.5 cm  W x H x L
 
 ℹ️:
 
-- City hold negro (bolso)
-- Certificado autenticidad tous
 - Tous
+- Certificado autenticidad tous
+- City hold negro (bolso)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07NC1LXWY/?tag=tolees-21)
