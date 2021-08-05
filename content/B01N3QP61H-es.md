@@ -28,7 +28,7 @@ Está [Only onlSILVERY S/S V Neck Lurex Top JRS Noos Camiseta  Dorado  Gold Colo
 
 ℹ️:
 
-- V-neck
 - Plain basic t-shirt material
+- V-neck
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01N3QP61H/?tag=tolees-21)
