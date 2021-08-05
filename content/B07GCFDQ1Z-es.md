@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Camper Atom Work Zapatos de cordones Oxf al 42.16 % de descuento'
-date: 2021-07-25 00:13:05
+date: 2021-08-05 07:08:34
 image: 'https://m.media-amazon.com/images/I/31ZJjm9fcKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Camper'
 buyurl: 'https://www.amazon.es/dp/B07GCFDQ1Z/?tag=tolees-21'
 descuento: '42.16'
-average: '69.64'
+average: '69.5633333333333'
 ---
 
 Está [Camper Atom Work Zapatos de cordones Oxford  para Hombre  Marrón  40 EU](https://www.amazon.es/dp/B07GCFDQ1Z/?tag=tolees-21) con 42.16 de descuento por 69.41 EUR (original: 120.0 EUR) en el siguiente enlace!
