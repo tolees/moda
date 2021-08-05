@@ -28,12 +28,12 @@ Tienes [Levi s LS Battery Hm Shirt Camisa  White  S para Hombre](https://www.ama
 
 🔎:
 
-- Lavado a máquina, máximo 30 °C
 - Número de modelo: 74389
-- manga larga
-- Programa para prendas
-- Corte estándar
-- Instrucciones de cuidado: lavar a máquina en frío (30° máx.)
+- Lavado a máquina, máximo 30 °C
 - 100% algodón
+- manga larga
+- Corte estándar
+- Programa para prendas
+- Instrucciones de cuidado: lavar a máquina en frío (30° máx.)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07GDZZ4KP/?tag=tolees-21)

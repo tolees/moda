@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Clarks Laurieann Kay  Sandalias Planas M con un 19.88 % de descuento'
-date: 2021-07-19 00:03:55
+title: 'Clarks Laurieann Kay  Sandalias Planas M con un 33.84 % de descuento'
+date: 2021-08-04 23:15:35
 image: 'https://m.media-amazon.com/images/I/41y1z-pcJKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B08CB8WQGB-es Clarks Laurieann Kay Sandalias Planas Mujer Black Leather...'
 sku: 'B08CB8WQGB-es'
 tags: [ 'Sandalias de vestir para mujer','Sandalias y palas de mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','clarks','sandalias', ]
-actualPrice: 30.22 EUR
+actualPrice: 24.2 EUR
 currency: EUR
-price: 30.22
-comparePrice: 37.72 EUR
+price: 24.2
+comparePrice: 36.58 EUR
 prodname: 'Clarks Laurieann Kay  Sandalias Planas Mujer  Black Leather  36 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Clarks'
 buyurl: 'https://www.amazon.es/dp/B08CB8WQGB/?tag=tolees-21'
-descuento: '19.88'
-average: '34.676'
+descuento: '33.84'
+average: '32.93'
 ---
 
-En este momento está [Clarks Laurieann Kay  Sandalias Planas Mujer  Black Leather  36 EU](https://www.amazon.es/dp/B08CB8WQGB/?tag=tolees-21) a 30.22 EUR (original: 37.72 EUR) (19.88 %  de descuento) en el siguiente enlace!
+En este momento está [Clarks Laurieann Kay  Sandalias Planas Mujer  Black Leather  36 EU](https://www.amazon.es/dp/B08CB8WQGB/?tag=tolees-21) a 24.2 EUR (original: 36.58 EUR) (33.84 %  de descuento) en el siguiente enlace!
 
 [![Clarks Laurieann Kay  Sandalias Planas M](https://m.media-amazon.com/images/I/41y1z-pcJKL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08CB8WQGB/?tag=tolees-21)
 
