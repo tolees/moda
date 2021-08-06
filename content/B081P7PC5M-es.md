@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 44.44 % en Levi s Kids Lvb Triple Batwing Overlap C'
-date: 2021-08-01 16:02:22
+date: 2021-08-06 22:01:51
 image: 'https://m.media-amazon.com/images/I/41jC5h4NpZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
