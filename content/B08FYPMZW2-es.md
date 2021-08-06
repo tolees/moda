@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Havaianas Grafitti  Chanclas Unisex Niño al 35.56 % de descuento'
-date: 2021-08-03 17:35:29
+date: 2021-08-06 11:50:53
 image: 'https://m.media-amazon.com/images/I/61Aiy76Xf9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B08FYPMZW2-es Havaianas Grafitti Chanclas Unisex Niños Blue Star 29/30'
 sku: 'B08FYPMZW2-es'
-tags: [ 'Sandalias y chanclas para niño','Zapatos','Zapatos para niños','Zapatos y complementos','chanclas','havaianas', ]
+tags: [ 'Sandalias y chanclas para niño','Zapatos','Zapatos - Niños','Zapatos y complementos','chanclas','havaianas', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99
