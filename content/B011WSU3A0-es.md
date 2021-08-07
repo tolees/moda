@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 38.04 % en Pepe Jeans Original Stretch Camiseta  Az'
-date: 2021-07-10 16:34:31
+date: 2021-08-07 14:47:35
 image: 'https://m.media-amazon.com/images/I/41r+HUn2QFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
