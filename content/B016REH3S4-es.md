@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Parma 16 Sho - Pantalón corto par al 16.67 % de rebaja'
-date: 2021-08-04 17:21:10
+date: 2021-08-07 23:56:22
 image: 'https://m.media-amazon.com/images/I/41KiscX0HcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B016REH3S4/?tag=tolees-21'
 descuento: '16.67'
-average: '15.70963562753'
+average: '15.7039357429715'
 ---
 
 Tienes [adidas Parma 16 Sho - Pantalón corto para Niños  Azul  Bold Blue/White   116](https://www.amazon.es/dp/B016REH3S4/?tag=tolees-21) con precio final de  15.0 EUR (original: 18.0 EUR) (16.67 %  de rebaja) aqui!
