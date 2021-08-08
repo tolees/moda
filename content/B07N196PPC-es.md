@@ -28,8 +28,8 @@ Está [G-STAR RAW 5620 3D Vaqueros Slim  Azul  Dry Waxed Cobler 8968/A887   26W 
 
 ℹ️:
 
+- Slim
 - 98% Algodón, 2% Elastano
 - Normal
-- Slim
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07N196PPC/?tag=tolees-21)
