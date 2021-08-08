@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Core18 TR Pantalón  Sin género  M al 23.37 % de descuento'
-date: 2021-07-26 14:52:30
+date: 2021-08-08 20:11:30
 image: 'https://m.media-amazon.com/images/I/31YWwcMLQmS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076HQZQ7Y/?tag=tolees-21'
 descuento: '23.37'
-average: '22.4433333333333'
+average: '22.52'
 ---
 
 Ahora mismo tienes [adidas Core18 TR Pantalón  Sin género  Multicolor  M](https://www.amazon.es/dp/B076HQZQ7Y/?tag=tolees-21) a 22.98 EUR (original: 29.99 EUR) (23.37 %  de descuento) en el siguiente enlace!
