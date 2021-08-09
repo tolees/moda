@@ -28,7 +28,7 @@ En este momento está [Tommy Hilfiger Pique Polo Dress S/S  Vestido Niñas  Azul
 
 🔎:
 
-- Este es un producto auténtico de Tommy Hilfiger
 - Este producto ha sido fabricado de forma sostenible con materiales sostenibles
+- Este es un producto auténtico de Tommy Hilfiger
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CBMHWZC/?tag=tolees-21)
