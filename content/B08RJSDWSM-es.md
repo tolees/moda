@@ -28,10 +28,10 @@ En este momento está [women secret - Women  Secret Pijama Rayas Estampado Snoop
 
 🔎:
 
-- Pijama de dos piezas 100% algodón con estampado de Snoopy
-- Camiseta de manga corta con lazada frontal con brillo y print de rayas
 - Pantalón tipo Capri con cinturilla elástica a conjunto
-- Estampado Snoopy Pantalón Capri
+- Camiseta de manga corta con lazada frontal con brillo y print de rayas
 - Pijama de manga corta 100% algodón
+- Pijama de dos piezas 100% algodón con estampado de Snoopy
+- Estampado Snoopy Pantalón Capri
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08RJSDWSM/?tag=tolees-21)

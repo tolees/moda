@@ -28,9 +28,9 @@ Tienes [Crocs Crocband Clog K  Zuecos Unisex Niños  33/34 EU  Gris  Smoke/Navy 
 
 ℹ️:
 
-- Estilo: Zueco con correa de talón
 - NÃºmero del fabricante: 204537-05H
-- Color: gris
 - Material: Croslite
+- Estilo: Zueco con correa de talón
+- Color: gris
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01HEXF10O/?tag=tolees-21)

@@ -28,8 +28,8 @@ Está [Lee Western Shirt Camisa  Skyway Blue  M para Hombre](https://www.amazon.
 
 ℹ️:
 
-- Corte ajustado
 - WOVENS
+- Corte ajustado
 - Manga larga
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08CVR16Z1/?tag=tolees-21)
