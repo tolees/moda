@@ -28,10 +28,10 @@ Está [Mizuno Wave Lightning Z6  Zapatos de Voleibol Unisex Adulto  Negro  Black
 
 ℹ️:
 
-- Suela: goma
-- Material exterior: tela
 - Ancho del zapato: mediano
-- Material interior: textil
+- Material exterior: tela
 - Cierre: cordones
+- Suela: goma
+- Material interior: textil
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07SWDJR1J/?tag=tolees-21)
