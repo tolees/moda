@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Timberland Malibu Waves Ankle  Sandalias con un 30.59 % de descuento'
-date: 2021-07-15 00:32:09
+date: 2021-08-10 01:42:24
 image: 'https://m.media-amazon.com/images/I/41ZPO9CL47L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
