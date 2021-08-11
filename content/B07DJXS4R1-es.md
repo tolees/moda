@@ -28,9 +28,9 @@ Está [Tommy Hilfiger Essential TH Beach Sandal  Chanclas Hombre  Azul  Midnight
 
 ℹ️:
 
-- Temporada: primavera/verano
-- Diseñador: Tommy hilfiger
 - Material: sintético
+- Diseñador: Tommy hilfiger
+- Temporada: primavera/verano
 - Artículo: FM0FM01369
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07DJXS4R1/?tag=tolees-21)

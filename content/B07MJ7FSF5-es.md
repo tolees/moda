@@ -28,8 +28,8 @@ Tienes [Clarks Ronnie Limit  Zapatos de Cordones Brogue Hombre  Marrón Oscuro C
 
 ℹ️:
 
-- Parte superior: piel
 - Suela: TR
+- Parte superior: piel
 - Ajuste: (g) estándar
 - Forro: textil
 
