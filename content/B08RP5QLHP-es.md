@@ -28,7 +28,7 @@ Tienes [Jack & Jones JCOJENSON tee SS Crew Neck Camiseta  Deep Lichen Green/Fit:
 
 ℹ️:
 
-- Camiseta de corte entallado con cuello redondo y mangas cortas, logotipo grande impreso en la parte delantera
 - Gran comodidad gracias a la producción sostenible de 100% algodón orgánico
+- Camiseta de corte entallado con cuello redondo y mangas cortas, logotipo grande impreso en la parte delantera
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08RP5QLHP/?tag=tolees-21)
