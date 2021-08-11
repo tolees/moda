@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Essential TH Beach Sandal al 35.56 % de descuento'
-date: 2021-08-04 16:52:46
+date: 2021-08-10 23:42:48
 image: 'https://m.media-amazon.com/images/I/41+Tq2wSgoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07DJXS4R1-es Tommy Hilfiger Essential TH Beach Sandal Chanclas Hombre...'
 sku: 'B07DJXS4R1-es'
-tags: [ 'Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas','tommy hilfiger', ]
+tags: [ 'Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Sandalias de dedo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas','tommy hilfiger', ]
 actualPrice: 22.49 EUR
 currency: EUR
 price: 22.49
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Tommy Hilfiger'
 buyurl: 'https://www.amazon.es/dp/B07DJXS4R1/?tag=tolees-21'
 descuento: '35.56'
-average: '25.8576923076923'
+average: '25.6171428571428'
 ---
 
 Está [Tommy Hilfiger Essential TH Beach Sandal  Chanclas Hombre  Azul  Midnight 403   39 EU](https://www.amazon.es/dp/B07DJXS4R1/?tag=tolees-21) con 35.56 de descuento por 22.49 EUR (original: 34.9 EUR) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [Tommy Hilfiger Essential TH Beach Sandal  Chanclas Hombre  Azul  Midnight
 
 ℹ️:
 
-- Diseñador: Tommy hilfiger
 - Temporada: primavera/verano
-- Artículo: FM0FM01369
+- Diseñador: Tommy hilfiger
 - Material: sintético
+- Artículo: FM0FM01369
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07DJXS4R1/?tag=tolees-21)
