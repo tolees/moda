@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas CORE18 Hoody Sudadera  Hombre  Ve al 27.53 % de descuento'
-date: 2021-08-09 23:32:06
+date: 2021-08-12 05:32:52
 image: 'https://m.media-amazon.com/images/I/417QJ9PpVQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B07XCNZJHP/?tag=tolees-21'
 descuento: '27.53'
-average: '31.548'
+average: '31.12'
 ---
 
 Ahora mismo tienes [adidas CORE18 Hoody Sudadera  Hombre  Verde  S](https://www.amazon.es/dp/B07XCNZJHP/?tag=tolees-21) a 28.98 EUR (original: 39.99 EUR) (27.53 %  de descuento) en el siguiente enlace!
@@ -28,8 +28,8 @@ Ahora mismo tienes [adidas CORE18 Hoody Sudadera  Hombre  Verde  S](https://www.
 
 🔎:
 
-- Regular fit
-- Kangaroo pocket
 - Hood with lanyard
+- Kangaroo pocket
+- Regular fit
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07XCNZJHP/?tag=tolees-21)
