@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clarks Step Urban Mix  Zapatos de Cordon con un 50.04 % de descuento'
-date: 2021-08-05 20:02:33
+date: 2021-08-11 23:19:42
 image: 'https://m.media-amazon.com/images/I/31D9fCNMsyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Clarks'
 buyurl: 'https://www.amazon.es/dp/B07FR3JPKP/?tag=tolees-21'
 descuento: '50.04'
-average: '32.15'
+average: '32.6166666666667'
 ---
 
 En este momento está [Clarks Step Urban Mix  Zapatos de Cordones Derby Hombre  Azul  Navy-   40 EU](https://www.amazon.es/dp/B07FR3JPKP/?tag=tolees-21) a 34.95 EUR (original: 69.95 EUR) (50.04 %  de descuento) en el siguiente enlace!
