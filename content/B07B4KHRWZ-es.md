@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Timberland Adventure 2.0 Cupsole Alpine  al 58.03 % de rebaja'
-date: 2021-08-11 00:01:52
+title: 'Timberland Adventure 2.0 Cupsole Alpine  al 58.61 % de rebaja'
+date: 2021-08-12 09:15:05
 image: 'https://m.media-amazon.com/images/I/313CV4EHlCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B07B4KHRWZ-es Timberland Adventure 2.0 Cupsole Alpine Oxford Zapatillas...'
 sku: 'B07B4KHRWZ-es'
 tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','timberland', ]
-actualPrice: 46.17 EUR
+actualPrice: 45.53 EUR
 currency: EUR
-price: 46.17
+price: 45.53
 comparePrice: 110.0 EUR
 prodname: 'Timberland Adventure 2.0 Cupsole Alpine Oxford  Zapatillas Bajas Hombre  Blanco White Full Grain  45 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Timberland'
 buyurl: 'https://www.amazon.es/dp/B07B4KHRWZ/?tag=tolees-21'
-descuento: '58.03'
-average: '46.17'
+descuento: '58.61'
+average: '45.85'
 ---
 
-Tienes [Timberland Adventure 2.0 Cupsole Alpine Oxford  Zapatillas Bajas Hombre  Blanco White Full Grain  45 EU](https://www.amazon.es/dp/B07B4KHRWZ/?tag=tolees-21) con precio final de  46.17 EUR (original: 110.0 EUR) (58.03 %  de rebaja) aqui!
+Tienes [Timberland Adventure 2.0 Cupsole Alpine Oxford  Zapatillas Bajas Hombre  Blanco White Full Grain  45 EU](https://www.amazon.es/dp/B07B4KHRWZ/?tag=tolees-21) con precio final de  45.53 EUR (original: 110.0 EUR) (58.61 %  de rebaja) aqui!
 
 [![Timberland Adventure 2.0 Cupsole Alpine ](https://m.media-amazon.com/images/I/313CV4EHlCL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07B4KHRWZ/?tag=tolees-21)
 
