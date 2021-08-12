@@ -29,8 +29,8 @@ Ahora mismo tienes [NIKE Y Nk Dry Park20 TRK Jkt K Chaqueta de Deporte  Unisex n
 🔎:
 
 - Soccer jacket
-- Unisex niños
 - Nike Dry Fabric
+- Unisex niños
 - Full-Length Frontal Zip And Side Pockets
 - Tipo de fábrica: 100% Polyester
 
