@@ -28,8 +28,8 @@ Ahora mismo tienes [Roxy RG Sandy  Zapatos de Playa y Piscina para Niñas  Negro
 
 🔎:
 
+- __Suela exterior:__ suela exterior de goma
 - __Plantilla:__ Plantilla de goma texturizada con gráfico
 - __parte superior:__parte superior de TPU moldeado con pin ROXY
-- __Suela exterior:__ suela exterior de goma
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SQRRVPN/?tag=tolees-21)

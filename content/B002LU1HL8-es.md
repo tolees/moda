@@ -28,7 +28,7 @@ En este momento está [Lacoste L1212  Camisa de Polo para Hombre  Azul  Marine  
 
 🔎:
 
-- Bajo recto con aberturas laterales
 - Classic fit
+- Bajo recto con aberturas laterales
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B002LU1HL8/?tag=tolees-21)
