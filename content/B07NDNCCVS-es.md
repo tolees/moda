@@ -29,10 +29,10 @@ Ahora mismo tienes [G-STAR RAW 3301 Slim Fit Jeans Vaqueros  Pitch Black  26W / 
 🔎:
 
 - Vaqueros slim
-- 99% Algodón, 1% Elastano
-- Normal
 - Lavar a máquina - caliente (mayor de 30 °)
+- Normal
 - Usado
+- 99% Algodón, 1% Elastano
 - Cierre: Boton y cierre
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07NDNCCVS/?tag=tolees-21)
