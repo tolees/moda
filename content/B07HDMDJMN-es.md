@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Only Onltia Dnm Jacket BB MB Bex02 Noos  al 25.01 % de descuento'
-date: 2021-08-11 23:49:35
+date: 2021-08-12 23:51:42
 image: 'https://m.media-amazon.com/images/I/51u7tSNxSxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ Ahora mismo tienes [Only Onltia Dnm Jacket BB MB Bex02 Noos Chaqueta Vaquera  Az
 
 🔎:
 
-- jeans jacket in medium blue washing
 - collar and long sleeves
+- jeans jacket in medium blue washing
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07HDMDJMN/?tag=tolees-21)
