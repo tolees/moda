@@ -28,8 +28,8 @@ En este momento está [Levi s Housemark Graphic tee Camiseta  Grey  Ssnl Hm Forg
 
 🔎:
 
+- Modelo casual
 - Tiene estampado el logotipo de Levis
 - Ofrece comodidad todo el día
-- Modelo casual
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07RXKZV3X/?tag=tolees-21)
