@@ -28,7 +28,7 @@ Tienes [Only Onlmay S/s Dress Noos Vestido  Multicolor  Black Stripes: Double Yo
 
 🔎:
 
-- soft cotton quality
 - jersey dress
+- soft cotton quality
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07PZ34FPB/?tag=tolees-21)
