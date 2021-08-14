@@ -28,10 +28,10 @@ Ahora mismo tienes [Merrell District Mendi Backstrap  Sandalias de Talón Abiert
 
 🔎:
 
-- Suela con M SelectGRIP de tracción duradera que se agarra donde y cuando lo necesitas, peso 340 g
 - La cámara de aire merrell en el talón absorbe los impactos y aumenta la estabilidad
-- Cierre ajustable de velcro
+- Suela con M SelectGRIP de tracción duradera que se agarra donde y cuando lo necesitas, peso 340 g
 - Plantilla eva con revestimiento de microfibra que sigue el contorno del pie
 - Pala de tejido
+- Cierre ajustable de velcro
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DYNRDKQ/?tag=tolees-21)

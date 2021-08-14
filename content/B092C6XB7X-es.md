@@ -28,10 +28,10 @@ Ahora mismo tienes [LARNMERN Zapatos de Seguridad Hombre Mujer Zapatillas de Seg
 
 🔎:
 
-- Material de la suela: caucho, el diseño único de la suela tiene una excelente portabilidad y comodidad, lo que hace que los zapatos pesen alrededor de 0,5 kg.
 - Anti-aplastamiento: la punta de acero estándar europea puede soportar impactos de 200J, proteger sus pies y reducir la fricción y las lesiones en los pies.
 - Calzado de trabajo multifuncional: muy adecuado para obras de construcción, almacenes, cerrajería o fábricas.
-- Los zapatos de trabajo están hechos de malla tejida en la parte superior para garantizar ligereza y transpirabilidad.
 - Cumple con las normas de compresión y choque EN ISO 20345: 2011
+- Los zapatos de trabajo están hechos de malla tejida en la parte superior para garantizar ligereza y transpirabilidad.
+- Material de la suela: caucho, el diseño único de la suela tiene una excelente portabilidad y comodidad, lo que hace que los zapatos pesen alrededor de 0,5 kg.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B092C6XB7X/?tag=tolees-21)
