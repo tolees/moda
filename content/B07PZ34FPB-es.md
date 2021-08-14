@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Only Onlmay S/s Dress Noos Vestido  Mult al 42.34 % de rebaja'
-date: 2021-07-31 17:35:30
+date: 2021-08-14 12:35:45
 image: 'https://m.media-amazon.com/images/I/412EBJioikS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Only'
 buyurl: 'https://www.amazon.es/dp/B07PZ34FPB/?tag=tolees-21'
 descuento: '42.34'
-average: '9.03'
+average: '8.645'
 ---
 
 Tienes [Only Onlmay S/s Dress Noos Vestido  Multicolor  Black Stripes: Double Yolk Yellow/Cl. Dancer   36  Talla del Fabricante: X-Small  para Mujer](https://www.amazon.es/dp/B07PZ34FPB/?tag=tolees-21) con precio final de  7.49 EUR (original: 12.99 EUR) (42.34 %  de rebaja) aqui!

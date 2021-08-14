@@ -28,10 +28,10 @@ En este momento está [Jack & Jones JJEBASIC Sweat Crew Neck Noos Sudadera  Negr
 
 🔎:
 
-- Sudadera de color liso
-- Sudadera simple
 - Sudadera con cuello redondo
-- Sudadera básica
+- Sudadera simple
 - Sudadera de material sostenible
+- Sudadera básica
+- Sudadera de color liso
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08KXVGYVZ/?tag=tolees-21)
