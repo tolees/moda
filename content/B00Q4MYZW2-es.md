@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lacoste TH7618  Camiseta para Hombre  Ne al 40.00 % de descuento'
-date: 2021-08-14 06:23:58
+date: 2021-08-15 08:37:01
 image: 'https://m.media-amazon.com/images/I/31kPLEQ3btL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lacoste'
 buyurl: 'https://www.amazon.es/dp/B00Q4MYZW2/?tag=tolees-21'
 descuento: '40.00'
-average: '36.8169047619045'
+average: '36.5886046511625'
 ---
 
 Ahora mismo tienes [Lacoste TH7618  Camiseta para Hombre  Negro  Noir   Medium  Talla del fabricante: 4 ](https://www.amazon.es/dp/B00Q4MYZW2/?tag=tolees-21) a 27.0 EUR (original: 45.0 EUR) (40.00 %  de descuento) en el siguiente enlace!
@@ -28,8 +28,8 @@ Ahora mismo tienes [Lacoste TH7618  Camiseta para Hombre  Negro  Noir   Medium  
 
 🔎:
 
+- Cocodrilo verde bordado en el pecho
 - Logo ultra dry en la parte inferior de la espalda
 - Camiseta para hombres, marca Lacoste
-- Cocodrilo verde bordado en el pecho
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00Q4MYZW2/?tag=tolees-21)
