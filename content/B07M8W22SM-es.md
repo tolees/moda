@@ -28,8 +28,8 @@ Ahora mismo tienes [Wrangler Logo tee Camiseta  Negro  Black 100   Medium para H
 
 🔎:
 
-- Tejido ligero primaveral
 - Corte cómodo e informal
+- Tejido ligero primaveral
 - Estampado frontal con el logo de Wrangler
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07M8W22SM/?tag=tolees-21)
