@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas CORE18 Hoody Sudadera con Capucha al 37.61 % de descuento'
-date: 2021-08-15 00:16:35
+date: 2021-08-16 00:19:21
 image: 'https://m.media-amazon.com/images/I/31OcIAjyHkS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076HPWK6H/?tag=tolees-21'
 descuento: '37.61'
-average: '27.7893137254903'
+average: '27.7617475728156'
 ---
 
 Está [adidas CORE18 Hoody Sudadera con Capucha  Hombre  Negro  Negro/Blanco   L](https://www.amazon.es/dp/B076HPWK6H/?tag=tolees-21) con 37.61 de descuento por 24.95 EUR (original: 39.99 EUR) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [adidas CORE18 Hoody Sudadera con Capucha  Hombre  Negro  Negro/Blanco   L
 
 ℹ️:
 
+- Tiene una capucha ajustable con cordón
+- Cuenta con un bolsillo de tipo canguro
 - Es adecuada para el futbol
 - Sudadera adecuada para hombres
-- Cuenta con un bolsillo de tipo canguro
-- Tiene una capucha ajustable con cordón
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B076HPWK6H/?tag=tolees-21)
