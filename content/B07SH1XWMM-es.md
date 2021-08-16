@@ -28,7 +28,7 @@ Está [Levi s 721 High Rise Skinny  Vaqueros  Long Shot  26W / 32L para Mujer](h
 
 ℹ️:
 
-- Vaqueros para mujer
 - Con corte entallado en la cadera y el muslo
+- Vaqueros para mujer
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07SH1XWMM/?tag=tolees-21)
