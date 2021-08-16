@@ -28,9 +28,9 @@ Está [BOSS BIADO R 10233753 01 Camisa  Azul  S para Hombre](https://www.amazon.
 
 ℹ️:
 
-- Acabado de alta calidad
 - Mezcla de algodón que regula la humedad
-- libertad de movimiento
+- Acabado de alta calidad
 - Logotipo curvado en contraste
+- libertad de movimiento
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08CF381CL/?tag=tolees-21)

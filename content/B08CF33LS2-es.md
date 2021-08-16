@@ -28,9 +28,9 @@ Ahora mismo tienes [BOSS Biado r 10233753 01 Camisa  Navy410  S para Hombre](htt
 
 🔎:
 
-- Puños cuadrados
-- Longitud estándar
 - Cuello abotonado
+- Puños cuadrados
 - Corte estándar
+- Longitud estándar
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CF33LS2/?tag=tolees-21)
