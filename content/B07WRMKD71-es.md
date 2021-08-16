@@ -30,8 +30,8 @@ Está [Skechers Sargo Reyon  Chanclas Hombre  Marrón  Chocolate Canvas Chocolat
 
 - Diseño de sandalia de chancleta casual y cómoda, panel central con detalles de costura
 - Parte superior de tela de lona suave – Detalle de borde de correa cosida
-- Sintético
-- Detalle de costuras de colores en contraste en las correas. Puntera de tela suave
 - Detalles de costuras: etiqueta del logotipo de Skechers en el panel central
+- Detalle de costuras de colores en contraste en las correas. Puntera de tela suave
+- Sintético
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07WRMKD71/?tag=tolees-21)
