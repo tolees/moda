@@ -28,10 +28,10 @@ Ahora mismo tienes [Clarks Lexi Carmen  Sandalias de Talón Abierto Mujer  Negro
 
 🔎:
 
+- Altura Del Talón: 6cm
 - Suela: Eva
 - Forro: Textil
 - Superiores: Cuero
-- Altura Del Talón: 6cm
 - Fijación: Cinta De Rasgadura
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TKRX2DR/?tag=tolees-21)
