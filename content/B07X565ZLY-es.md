@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Descuento del 36.66 % en Sandalias Niña Pablosky Blanco 483800 27'
-date: 2021-08-03 17:04:20
+date: 2021-08-16 15:02:19
 image: 'https://m.media-amazon.com/images/I/31YUUCCNtiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07X565ZLY-es Sandalias Niña Pablosky Blanco 483800 27'
 sku: 'B07X565ZLY-es'
-tags: [ 'Sandalias de vestir para niña','Zapatos','Zapatos para niñas','Zapatos y complementos','pablosky','sandalias', ]
+tags: [ 'Sandalias de vestir para niña','Zapatos','Zapatos - Niñas','Zapatos y complementos','pablosky','sandalias', ]
 actualPrice: 20.27 EUR
 currency: EUR
 price: 20.27
