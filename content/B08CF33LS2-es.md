@@ -1,36 +1,36 @@
 ---
 layout: post
-title: 'BOSS BIADO R 10233753 01 Camisa  Navy410 al 25.06 % de descuento'
-date: 2021-07-18 09:00:05
+title: 'BOSS Biado r 10233753 01 Camisa  Navy410 al 60.71 % de descuento'
+date: 2021-08-16 06:26:52
 image: 'https://m.media-amazon.com/images/I/31tFLKJfwoS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B08CF33LS2-es BOSS BIADO R 10233753 01 Camisa Navy410 S para Hombre'
+slug: 'B08CF33LS2-es BOSS Biado r 10233753 01 Camisa Navy410 S para Hombre'
 sku: 'B08CF33LS2-es'
 tags: [ 'Camisas casual para hombre','Camisetas, polos y camisas para hombre','Ropa','Ropa para hombre','boss','camisa', ]
-actualPrice: 82.4 EUR
+actualPrice: 43.2 EUR
 currency: EUR
-price: 82.4
+price: 43.2
 comparePrice: 109.95 EUR
-prodname: 'BOSS BIADO R 10233753 01 Camisa  Navy410  S para Hombre'
+prodname: 'BOSS Biado r 10233753 01 Camisa  Navy410  S para Hombre'
 country: 'es'
 flag: '🇪🇸'
 brand: 'BOSS'
 buyurl: 'https://www.amazon.es/dp/B08CF33LS2/?tag=tolees-21'
-descuento: '25.06'
-average: '82.4'
+descuento: '60.71'
+average: '62.8'
 ---
 
-Ahora mismo tienes [BOSS BIADO R 10233753 01 Camisa  Navy410  S para Hombre](https://www.amazon.es/dp/B08CF33LS2/?tag=tolees-21) a 82.4 EUR (original: 109.95 EUR) (25.06 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [BOSS Biado r 10233753 01 Camisa  Navy410  S para Hombre](https://www.amazon.es/dp/B08CF33LS2/?tag=tolees-21) a 43.2 EUR (original: 109.95 EUR) (60.71 %  de descuento) en el siguiente enlace!
 
-[![BOSS BIADO R 10233753 01 Camisa  Navy410](https://m.media-amazon.com/images/I/31tFLKJfwoS._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08CF33LS2/?tag=tolees-21)
+[![BOSS Biado r 10233753 01 Camisa  Navy410](https://m.media-amazon.com/images/I/31tFLKJfwoS._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08CF33LS2/?tag=tolees-21)
 
 🔎:
 
-- libertad de movimiento
-- Logotipo curvado en contraste
-- Mezcla de algodón que regula la humedad
-- Acabado de alta calidad
+- Puños cuadrados
+- Longitud estándar
+- Cuello abotonado
+- Corte estándar
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CF33LS2/?tag=tolees-21)
