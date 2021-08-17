@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jcorocky Jacket Noos Chaque al 41.67 % de descuento'
-date: 2021-08-14 07:33:46
+date: 2021-08-17 14:40:19
 image: 'https://m.media-amazon.com/images/I/41Ced+Ag4jL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B07JZXLYZB/?tag=tolees-21'
 descuento: '41.67'
-average: '37.0489300411523'
+average: '37.0404918032787'
 ---
 
 Ahora mismo tienes [Jack & Jones Jcorocky Jacket Noos Chaqueta  Negro  Black Pattern: PU   Medium para Hombre](https://www.amazon.es/dp/B07JZXLYZB/?tag=tolees-21) a 34.99 EUR (original: 59.99 EUR) (41.67 %  de descuento) en el siguiente enlace!
