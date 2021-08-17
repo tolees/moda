@@ -1,30 +1,30 @@
 ---
 layout: post
-title: 'Levi s Graphic Set-In Neck  Camiseta par al 20.25 % de descuento'
-date: 2021-08-09 11:41:21
+title: 'Levi s Set-In Neck Camiseta  Graphic H21 al 15.05 % de descuento'
+date: 2021-08-17 18:27:44
 image: 'https://m.media-amazon.com/images/I/41BCii13rLS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B01KZLVXNQ-es Levi s Graphic Set-In Neck Camiseta para Hombre Gris...'
+slug: 'B01KZLVXNQ-es Levi s Set-In Neck Camiseta Graphic H215 Midtone Htr Grey...'
 sku: 'B01KZLVXNQ-es'
 tags: [ 'Camisetas para hombre','Camisetas, polos y camisas para hombre','Ropa','Ropa para hombre','camiseta','levis', ]
-actualPrice: 15.95 EUR
+actualPrice: 16.99 EUR
 currency: EUR
-price: 15.95
+price: 16.99
 comparePrice: 20.0 EUR
-prodname: 'Levi s Graphic Set-In Neck  Camiseta para Hombre  Gris  C18976 Graphic H215 Midtone Htr Grey Graphic H215-Hm 36.2 138   XX-Small'
+prodname: 'Levi s Set-In Neck Camiseta  Graphic H215 Midtone Htr Grey  XXS para Hombre'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B01KZLVXNQ/?tag=tolees-21'
-descuento: '20.25'
-average: '16.45'
+descuento: '15.05'
+average: '16.4990909090909'
 ---
 
-Está [Levi s Graphic Set-In Neck  Camiseta para Hombre  Gris  C18976 Graphic H215 Midtone Htr Grey Graphic H215-Hm 36.2 138   XX-Small](https://www.amazon.es/dp/B01KZLVXNQ/?tag=tolees-21) con 20.25 de descuento por 15.95 EUR (original: 20.0 EUR) en el siguiente enlace!
+Está [Levi s Set-In Neck Camiseta  Graphic H215 Midtone Htr Grey  XXS para Hombre](https://www.amazon.es/dp/B01KZLVXNQ/?tag=tolees-21) con 15.05 de descuento por 16.99 EUR (original: 20.0 EUR) en el siguiente enlace!
 
-[![Levi s Graphic Set-In Neck  Camiseta par](https://m.media-amazon.com/images/I/41BCii13rLS._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B01KZLVXNQ/?tag=tolees-21)
+[![Levi s Set-In Neck Camiseta  Graphic H21](https://m.media-amazon.com/images/I/41BCii13rLS._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B01KZLVXNQ/?tag=tolees-21)
 
 ℹ️:
 

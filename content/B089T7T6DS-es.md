@@ -29,7 +29,7 @@ Está [Dockers Logo Tee  Camiseta Hombre  Estate Blue  XL](https://www.amazon.es
 ℹ️:
 
 - Ajuste slim
-- El diseño ajustado de la marca no es tan ajustado
 - Modelo ceñido para un look de líneas limpias
+- El diseño ajustado de la marca no es tan ajustado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B089T7T6DS/?tag=tolees-21)

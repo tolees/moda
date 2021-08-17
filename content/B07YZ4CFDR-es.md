@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BRONAX Zapatos para Correr Hombre Zapati al 25.63 % de rebaja'
-date: 2021-08-16 06:24:38
+date: 2021-08-17 18:23:19
 image: 'https://m.media-amazon.com/images/I/41tLPrK21KL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
