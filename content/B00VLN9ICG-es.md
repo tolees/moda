@@ -1,35 +1,35 @@
 ---
 layout: post
-title: 'Levi s Graphic Set-In Neck  Camiseta par al 15.05 % de rebaja'
-date: 2021-07-19 09:20:34
-image: 'https://m.media-amazon.com/images/I/41La7aqt50L._SL500_._SL400_.jpg'
+title: 'Levi s Set-In Neck Camiseta  Hm Graphic  al 20.25 % de rebaja'
+date: 2021-08-17 12:02:33
+image: 'https://m.media-amazon.com/images/I/312DvI0f8uL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B00VLN9ICG-es Levi s Graphic Set-In Neck Camiseta para Hombre Blanco...'
+slug: 'B00VLN9ICG-es Levi s Set-In Neck Camiseta Hm Graphic White L para Hombre'
 sku: 'B00VLN9ICG-es'
 tags: [ 'Camisetas para hombre','Camisetas, polos y camisas para hombre','Ropa','Ropa para hombre','camiseta','levis', ]
-actualPrice: 16.99 EUR
+actualPrice: 15.95 EUR
 currency: EUR
-price: 16.99
+price: 15.95
 comparePrice: 20.0 EUR
-prodname: 'Levi s Graphic Set-In Neck  Camiseta para Hombre  Blanco  C18978 Graphic H215-Hm White Graphic H215-Hm 36.4 140   Large'
+prodname: 'Levi s Set-In Neck Camiseta  Hm Graphic White  L para Hombre'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B00VLN9ICG/?tag=tolees-21'
-descuento: '15.05'
-average: '19.7655555555558'
+descuento: '20.25'
+average: '19.7375000000002'
 ---
 
-Tienes [Levi s Graphic Set-In Neck  Camiseta para Hombre  Blanco  C18978 Graphic H215-Hm White Graphic H215-Hm 36.4 140   Large](https://www.amazon.es/dp/B00VLN9ICG/?tag=tolees-21) con precio final de  16.99 EUR (original: 20.0 EUR) (15.05 %  de rebaja) aqui!
+Tienes [Levi s Set-In Neck Camiseta  Hm Graphic White  L para Hombre](https://www.amazon.es/dp/B00VLN9ICG/?tag=tolees-21) con precio final de  15.95 EUR (original: 20.0 EUR) (20.25 %  de rebaja) aqui!
 
-[![Levi s Graphic Set-In Neck  Camiseta par](https://m.media-amazon.com/images/I/41La7aqt50L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B00VLN9ICG/?tag=tolees-21)
+[![Levi s Set-In Neck Camiseta  Hm Graphic ](https://m.media-amazon.com/images/I/312DvI0f8uL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B00VLN9ICG/?tag=tolees-21)
 
 🔎:
 
 - Modelo casual
-- Con un logo Levis en horizontal en el pecho
 - Elaborada en punto suave
+- Con un logo Levis en horizontal en el pecho
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00VLN9ICG/?tag=tolees-21)
