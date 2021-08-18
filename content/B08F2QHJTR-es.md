@@ -28,10 +28,10 @@ Ahora mismo tienes [Disney Princess Muñeca de Aurora Royal Shimmer  muñeca con
 
 🔎:
 
-- FALDA DE MUÑECA Y ACCESORIOS. La muñeca de Aurora Royal Shimmer incluye una falda, zapatos y tiara con matices de su característico color rosa
-- FALDA Y CORSÉ CON BRILLOS. El corsé de la muñeca de Disney brilla con facetas inspiradas en gemas que destellan espléndidamente junto con su falda brillante.
-- COLECCIÓN DE MUÑECAS DE DISNEY. Colecciona las muñecas Royal Shimmer Ariel, Bella, Cenicienta, Jasmín, Mérida, Vaiana, Mulán, Pocahontas, Rapunzel, Blancanieves y Tiana Se venden por separado. Sujeto a disponibilidad
-- JUGUETE PARA NIÑOS A PARTIR DE 3 AÑOS. Este juguete de Disney es el regalo perfecto de cumpleaños o Navidad para los niños y niñas
 - CABELLO RUBIO LARGO. La muñeca de Disney Princess tiene largo cabello rubio, inspirado en su inolvidable estilo en la película La bella durmiente de Disney
+- FALDA Y CORSÉ CON BRILLOS. El corsé de la muñeca de Disney brilla con facetas inspiradas en gemas que destellan espléndidamente junto con su falda brillante.
+- FALDA DE MUÑECA Y ACCESORIOS. La muñeca de Aurora Royal Shimmer incluye una falda, zapatos y tiara con matices de su característico color rosa
+- JUGUETE PARA NIÑOS A PARTIR DE 3 AÑOS. Este juguete de Disney es el regalo perfecto de cumpleaños o Navidad para los niños y niñas
+- COLECCIÓN DE MUÑECAS DE DISNEY. Colecciona las muñecas Royal Shimmer Ariel, Bella, Cenicienta, Jasmín, Mérida, Vaiana, Mulán, Pocahontas, Rapunzel, Blancanieves y Tiana Se venden por separado. Sujeto a disponibilidad
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08F2QHJTR/?tag=tolees-21)
