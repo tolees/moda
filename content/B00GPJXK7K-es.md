@@ -28,10 +28,10 @@ Ahora mismo tienes [Kappa Peleot  Camiseta Deportiva para Hombre  Blanco  S](htt
 
 🔎:
 
+- Con logotipo de Kappa bordado en el lado derecho del pecho
+- Tira de botón corto con 3 botones
+- Camisa de manga corta con cuello de polo
 - Hecha de material de 100% algodón
 - Ya sea para el deporte o para el ocio, el Poloshirt Peleot es sinónimo de durabilidad, comodidad y un ajuste perfecto
-- Camisa de manga corta con cuello de polo
-- Tira de botón corto con 3 botones
-- Con logotipo de Kappa bordado en el lado derecho del pecho
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00GPJXK7K/?tag=tolees-21)

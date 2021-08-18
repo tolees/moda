@@ -28,10 +28,10 @@ Tienes [G-STAR RAW 1 Reflective Graphic Camiseta  Dk Black 336-6484  M para Homb
 
 🔎:
 
+- Cuello redondo acanalado
 - Bajo recto
+- Etiqueta de G-Star RAW Originals tejida en el lateral inferior
 - Estampado gráfico reflectante que cruza el pecho y la parte superior de la manga
 - Manga corta recta insertada
-- Etiqueta de G-Star RAW Originals tejida en el lateral inferior
-- Cuello redondo acanalado
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08CN4LFJV/?tag=tolees-21)

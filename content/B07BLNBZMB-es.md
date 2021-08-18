@@ -28,11 +28,11 @@ Ahora mismo tienes [Havaianas Luna Sandalias  Niñas  Dorado  Rose Gold/Rose Gol
 
 🔎:
 
-- Revestimiento: Sin forro
-- Anchura del zapato: Normal
-- Tipo de tacón: Plano
-- Material exterior: Caucho
 - Cierre: Sin cordones
+- Anchura del zapato: Normal
+- Revestimiento: Sin forro
 - Material de la suela: Caucho
+- Material exterior: Caucho
+- Tipo de tacón: Plano
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07BLNBZMB/?tag=tolees-21)

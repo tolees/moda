@@ -28,13 +28,13 @@ Ahora mismo tienes [Crocs Crocband Clogs  Zuecos Unisex Adulto  Azul Navy 0001  
 
 🔎:
 
-- Revestimiento: Sintético
-- Material de la suela: Goma
 - Material exterior: Espuma
-- Composición: Sintético
-- Cierre: Sin cordones
-- Tipo de tacón: Plano
 - Tipo de talla: talla estándar
+- Material de la suela: Goma
+- Tipo de tacón: Plano
+- Composición: Sintético
 - Altura del tacón: 1 centímetro
+- Cierre: Sin cordones
+- Revestimiento: Sintético
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B002JCSSYW/?tag=tolees-21)
