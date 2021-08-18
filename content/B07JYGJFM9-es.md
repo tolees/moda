@@ -28,10 +28,10 @@ Tienes [Jané Epic - Cochecito de bebe 2 piezas  capazo plegable y silla de pase
 
 🔎:
 
-- Anclaje Pro-fix compatible con capazos y portabebés Jané
 - Ruedas traseras con suspensión independiente
-- Manillar de PU leather regulable en 7 posiciones
 - Chasis ligero en aluminio
+- Manillar de PU leather regulable en 7 posiciones
+- Anclaje Pro-fix compatible con capazos y portabebés Jané
 - Hamaca reversible
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07JYGJFM9/?tag=tolees-21)

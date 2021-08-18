@@ -28,7 +28,7 @@ En este momento está [Vero Moda Vmeva Mr Loose String Coated Pant Pantalones  N
 
 🔎:
 
-- Pants with elastic Band
 - Loose fit Pants in Leather optic
+- Pants with elastic Band
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07TB4R8CP/?tag=tolees-21)

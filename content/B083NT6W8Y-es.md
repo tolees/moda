@@ -28,9 +28,9 @@ En este momento está [Vans Rays FOR Daze Sunglasses Gafas  Tortoise/Sunset Mirr
 
 🔎:
 
-- Material: estructura: 69% policarbonato, 31% cuproníquel de cobre, lentes: 100% policarbonato.
-- Protección completa UV400/CE.
 - Lentes de policarbonato 100 %.
+- Protección completa UV400/CE.
+- Material: estructura: 69% policarbonato, 31% cuproníquel de cobre, lentes: 100% policarbonato.
 - Mitad sin bordes.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B083NT6W8Y/?tag=tolees-21)
