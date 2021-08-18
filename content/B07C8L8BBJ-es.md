@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vans Spicoli 4 Shades Gafas de Sol  Marr con un 26.67 % de descuento'
-date: 2021-08-16 17:10:36
+date: 2021-08-18 07:22:24
 image: 'https://m.media-amazon.com/images/I/31d3TtSJooL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Vans'
 buyurl: 'https://www.amazon.es/dp/B07C8L8BBJ/?tag=tolees-21'
 descuento: '26.67'
-average: '10.65'
+average: '10.7375'
 ---
 
 En este momento está [Vans Spicoli 4 Shades Gafas de Sol  Marrón  Cheetah Tortoise   50 para Hombre](https://www.amazon.es/dp/B07C8L8BBJ/?tag=tolees-21) a 11.0 EUR (original: 15.0 EUR) (26.67 %  de descuento) en el siguiente enlace!
