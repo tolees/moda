@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox Uomo Sandal Strada D  Sandalia con  al 30.04 % de descuento'
-date: 2021-08-16 06:20:20
+date: 2021-08-18 12:20:07
 image: 'https://m.media-amazon.com/images/I/417os6q-pCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B075TC7HC7/?tag=tolees-21'
 descuento: '30.04'
-average: '46.5691666666666'
+average: '46.7484615384615'
 ---
 
 Ahora mismo tienes [Geox Uomo Sandal Strada D  Sandalia con Pulsera Hombre  Beige  Sand/Navy   41 EU](https://www.amazon.es/dp/B075TC7HC7/?tag=tolees-21) a 48.9 EUR (original: 69.9 EUR) (30.04 %  de descuento) en el siguiente enlace!
