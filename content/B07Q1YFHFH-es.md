@@ -28,7 +28,7 @@ Está [Only NOS Onlmoon SL Top Noos Wvn Camiseta sin Mangas  Verde  Kalamata Kal
 
 ℹ️:
 
-- top with adjustable straps
 - detail at back
+- top with adjustable straps
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07Q1YFHFH/?tag=tolees-21)
