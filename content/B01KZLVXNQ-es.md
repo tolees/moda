@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Set-In Neck Camiseta  Graphic H21 al 15.05 % de descuento'
-date: 2021-08-17 18:27:44
+date: 2021-08-20 12:30:29
 image: 'https://m.media-amazon.com/images/I/41BCii13rLS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B01KZLVXNQ/?tag=tolees-21'
 descuento: '15.05'
-average: '16.4990909090909'
+average: '16.54'
 ---
 
 Está [Levi s Set-In Neck Camiseta  Graphic H215 Midtone Htr Grey  XXS para Hombre](https://www.amazon.es/dp/B01KZLVXNQ/?tag=tolees-21) con 15.05 de descuento por 16.99 EUR (original: 20.0 EUR) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [Levi s Set-In Neck Camiseta  Graphic H215 Midtone Htr Grey  XXS para Homb
 
 ℹ️:
 
-- Con un logo Levis en horizontal en el pecho
-- Elaborada en punto suave
 - Modelo casual
+- Elaborada en punto suave
+- Con un logo Levis en horizontal en el pecho
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01KZLVXNQ/?tag=tolees-21)
