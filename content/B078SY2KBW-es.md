@@ -28,8 +28,8 @@ Ahora mismo tienes [Timberland Gateway Pier Casual  Zapatos de Cordones Oxford H
 
 🔎:
 
+- Tela
 - Cuero/Tela
 - Cordones
-- Tela
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B078SY2KBW/?tag=tolees-21)
