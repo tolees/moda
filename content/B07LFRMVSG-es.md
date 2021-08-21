@@ -1,38 +1,38 @@
 ---
 layout: post
-title: 'GEOX Woman D NEW ANNYA MID A SHOES BLACK al 61.01 % de descuento'
-date: 2021-07-25 21:53:08
+title: 'Geox D New Annya Mid A  Zapatos con Tacó al 53.88 % de descuento'
+date: 2021-08-21 12:14:03
 image: 'https://m.media-amazon.com/images/I/31Iqn4FrYpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07LFRMVSG-es GEOX Woman D NEW ANNYA MID A SHOES BLACK 36 EU'
+slug: 'B07LFRMVSG-es Geox D New Annya Mid A Zapatos con Tacón Mujer Negro Black...'
 sku: 'B07LFRMVSG-es'
-tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','geox', ]
-actualPrice: 38.95 EUR
+tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','geox','zapatos', ]
+actualPrice: 46.07 EUR
 currency: EUR
-price: 38.95
+price: 46.07
 comparePrice: 99.9 EUR
-prodname: 'GEOX Woman D NEW ANNYA MID A SHOES BLACK 36 EU'
+prodname: 'Geox D New Annya Mid A  Zapatos con Tacón Mujer  Negro  Black C9997   36 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B07LFRMVSG/?tag=tolees-21'
-descuento: '61.01'
-average: '31.2261538461538'
+descuento: '53.88'
+average: '32.2864285714285'
 ---
 
-Ahora mismo tienes [GEOX Woman D NEW ANNYA MID A SHOES BLACK 36 EU](https://www.amazon.es/dp/B07LFRMVSG/?tag=tolees-21) a 38.95 EUR (original: 99.9 EUR) (61.01 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Geox D New Annya Mid A  Zapatos con Tacón Mujer  Negro  Black C9997   36 EU](https://www.amazon.es/dp/B07LFRMVSG/?tag=tolees-21) a 46.07 EUR (original: 99.9 EUR) (53.88 %  de descuento) en el siguiente enlace!
 
-[![GEOX Woman D NEW ANNYA MID A SHOES BLACK](https://m.media-amazon.com/images/I/31Iqn4FrYpL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07LFRMVSG/?tag=tolees-21)
+[![Geox D New Annya Mid A  Zapatos con Tacó](https://m.media-amazon.com/images/I/31Iqn4FrYpL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07LFRMVSG/?tag=tolees-21)
 
 🔎:
 
 - Los sistemas patentados Geox ofrecen la transpirabilidad de la suela y el bienestar del pie
 - Fácil de llevar para un confort optimo
-- Altura del tacón: 5.5 cm / 2.2 inch
 - Calzado sin cierre
 - Calzado que ofrece una amortiguación óptima y protege contra choques y esfuerzos
+- Altura del tacón: 5.5 cm / 2.2 inch
 - Calzado ligero para una libertad de movimiento
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07LFRMVSG/?tag=tolees-21)
