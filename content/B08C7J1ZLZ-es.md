@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BOSS T-Shirt RN Camiseta  Blanco  XS par al 59.58 % de descuento'
-date: 2021-08-20 13:44:10
+date: 2021-08-21 18:18:15
 image: 'https://m.media-amazon.com/images/I/31-avFwaBAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'BOSS'
 buyurl: 'https://www.amazon.es/dp/B08C7J1ZLZ/?tag=tolees-21'
 descuento: '59.58'
-average: '17.2666666666667'
+average: '17.3957142857143'
 ---
 
 Está [BOSS T-Shirt RN Camiseta  Blanco  XS para Hombre](https://www.amazon.es/dp/B08C7J1ZLZ/?tag=tolees-21) con 59.58 de descuento por 18.17 EUR (original: 44.95 EUR) en el siguiente enlace!
