@@ -28,9 +28,9 @@ Ahora mismo tienes [Geox D Vega Moc A  Mocasines Mujer  Azul  36 EU](https://www
 
 🔎:
 
-- D Vega Moc A
-- D92DNA00022
 - Geox
+- D92DNA00022
+- D Vega Moc A
 - Transpirable
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08BLB2FYG/?tag=tolees-21)
