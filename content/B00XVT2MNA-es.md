@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dockers 23DA005 - Zapatos de cordones de al 53.09 % de descuento'
-date: 2021-08-13 11:53:36
+date: 2021-08-21 16:44:23
 image: 'https://m.media-amazon.com/images/I/41a7YAPQXTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
