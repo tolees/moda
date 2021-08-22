@@ -28,8 +28,8 @@ Tienes [Pepe Jeans Waldo Camiseta  Gris  Lt Grey Marl 913   14 años para Niños
 
 🔎:
 
+- Tiene estampado la marca Pepe Jeans
 - Fabricada en tejido ligero que ofrece comodidad
 - Camiseta para niños
-- Tiene estampado la marca Pepe Jeans
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0779JJGRM/?tag=tolees-21)
