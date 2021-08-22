@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'GEOX Man UOMO HIGH LIFE B SHOES BLACK 39 al 62.78 % de descuento'
-date: 2021-08-20 03:26:17
+title: 'GEOX Man UOMO HIGH LIFE B SHOES BLACK 39 al 66.42 % de descuento'
+date: 2021-08-22 08:23:16
 image: 'https://m.media-amazon.com/images/I/31YD4hCHA2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B07V4GY1YF-es GEOX Man UOMO HIGH LIFE B SHOES BLACK 39 EU'
 sku: 'B07V4GY1YF-es'
 tags: [ 'Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','geox', ]
-actualPrice: 37.18 EUR
+actualPrice: 33.55 EUR
 currency: EUR
-price: 37.18
+price: 33.55
 comparePrice: 99.9 EUR
 prodname: 'GEOX Man UOMO HIGH LIFE B SHOES BLACK 39 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B07V4GY1YF/?tag=tolees-21'
-descuento: '62.78'
-average: '42.6966666666667'
+descuento: '66.42'
+average: '40.41'
 ---
 
-Está [GEOX Man UOMO HIGH LIFE B SHOES BLACK 39 EU](https://www.amazon.es/dp/B07V4GY1YF/?tag=tolees-21) con 62.78 de descuento por 37.18 EUR (original: 99.9 EUR) en el siguiente enlace!
+Está [GEOX Man UOMO HIGH LIFE B SHOES BLACK 39 EU](https://www.amazon.es/dp/B07V4GY1YF/?tag=tolees-21) con 66.42 de descuento por 33.55 EUR (original: 99.9 EUR) en el siguiente enlace!
 
 [![GEOX Man UOMO HIGH LIFE B SHOES BLACK 39](https://m.media-amazon.com/images/I/31YD4hCHA2L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07V4GY1YF/?tag=tolees-21)
 
