@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Quiksilver Rivi Wordmark Slide  Chanclas al 60.02 % de rebaja'
-date: 2021-08-20 12:45:32
+date: 2021-08-22 07:25:20
 image: 'https://m.media-amazon.com/images/I/31XltumOsyS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
