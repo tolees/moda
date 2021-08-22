@@ -29,7 +29,7 @@ En este momento está [Tommy Hilfiger Logo T-Shirt Camiseta  Negro  Jet Black Ba
 🔎:
 
 - Logo de Tommy Hilfiger en el pecho
-- Logo de Tommy Hilfiger bordado en la manga
 - Cinta distintiva en el cuello
+- Logo de Tommy Hilfiger bordado en la manga
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07QSC2YY8/?tag=tolees-21)
