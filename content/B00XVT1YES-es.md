@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dockers 23DA005 - Zapatos de cordones de al 53.09 % de descuento'
-date: 2021-08-13 11:56:09
+date: 2021-08-23 14:46:05
 image: 'https://m.media-amazon.com/images/I/41a7YAPQXTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Está [Dockers 23DA005 - Zapatos de cordones de cuero para hombre  color negro  
 
 ℹ️:
 
-- Leder ist langlebig und strapazierfähig
 - Gepolsterter Schaft und Lasche für hohen Tragekomfort
 - Der Halbschuh für Herren von Dockers by Gerli ist der ideale Begleiter für Alltag und Freizeit.
+- Leder ist langlebig und strapazierfähig
 - Verstärkte Ferse für guten Halt
 - Anlass: Casual
 
