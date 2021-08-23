@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Set-In Neck Camiseta  Hm Graphic  al 20.25 % de rebaja'
-date: 2021-08-22 12:30:27
+date: 2021-08-23 12:35:06
 image: 'https://m.media-amazon.com/images/I/41nd4Cy-NfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B00VLN9ICG/?tag=tolees-21'
 descuento: '20.25'
-average: '19.7098540145987'
+average: '19.6826086956523'
 ---
 
 Tienes [Levi s Set-In Neck Camiseta  Hm Graphic White  L para Hombre](https://www.amazon.es/dp/B00VLN9ICG/?tag=tolees-21) con precio final de  15.95 EUR (original: 20.0 EUR) (20.25 %  de rebaja) aqui!
