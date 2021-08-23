@@ -28,9 +28,9 @@ Tienes [BOSS Biado r 10233753 01 Camisa  Medium Green315  XL para Hombre](https:
 
 🔎:
 
+- Longitud estándar
 - Corte estándar
 - Puños cuadrados
-- Longitud estándar
 - Cuello abotonado
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08CF259KH/?tag=tolees-21)

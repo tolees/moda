@@ -28,7 +28,7 @@ Está [Vero Moda Vmnanna SL Ancle Dress Ga Vestido  Negro  Black Black   X-Small
 
 ℹ️:
 
-- Summery maxi dress
 - Cotton blend
+- Summery maxi dress
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07QHXZF6B/?tag=tolees-21)

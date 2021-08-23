@@ -29,9 +29,9 @@ Está [Tommy Jeans Regular C Camiseta con Cuello Redondo  Negro  Tommy Black   S
 ℹ️:
 
 - Cuello redondo
-- Diseño ajustado
 - Logotipo bordado en el pecho
-- Punto de puro algodón orgánico
+- Diseño ajustado
 - Detalles distintivos de Tommy Jeans
+- Punto de puro algodón orgánico
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0776XXJMS/?tag=tolees-21)
