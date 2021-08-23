@@ -29,7 +29,7 @@ Está [Dockers 23DA005 - Zapatos de cordones de cuero para hombre  color negro  
 ℹ️:
 
 - Suela flexible
-- cuero auténtico
 - suave comodidad al caminar
+- cuero auténtico
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00XVT1MWM/?tag=tolees-21)
