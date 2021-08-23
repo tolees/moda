@@ -28,8 +28,8 @@ Está [Levi s Set-In Neck Camiseta  Hm Graphic White  XXS para Hombre](https://w
 
 ℹ️:
 
+- Elaborada en punto suave
 - Con un logo Levis en horizontal en el pecho
 - Modelo casual
-- Elaborada en punto suave
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01KZLU31O/?tag=tolees-21)
