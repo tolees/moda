@@ -28,8 +28,8 @@ Está [Joma 100521.102 Pantalón Portero  Hombre  Negro  3XS](https://www.amazon
 
 ℹ️:
 
-- Cintura elástica
-- Protecciones en rodilla y costado
 - Pantalón largo
+- Protecciones en rodilla y costado
+- Cintura elástica
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01ERVWPNC/?tag=tolees-21)
