@@ -28,8 +28,8 @@ Tienes [Tommy Jeans TJM Contrast Pocket tee Camiseta  Gris Claro Htr  S para Hom
 
 🔎:
 
-- Este producto ha sido fabricado de forma sostenible con materiales sostenibles
 - Este es un producto auténtico y original Tommy Jeans.
+- Este producto ha sido fabricado de forma sostenible con materiales sostenibles
 - Para más información sobre Tommy Jeans, consulta la sección de descripción del producto a continuación
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08C9KJH14/?tag=tolees-21)
