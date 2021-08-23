@@ -28,9 +28,9 @@ Tienes [Under Armour Coldgear Reactor Performance Jacket Chaqueta  Mujer  Blanco
 
 🔎:
 
-- Tecnología UA Storm que repele el agua sin sacrificar la transpirabilidad
+- Logotipo estampado
 - Bolsillos laterales
 - Aislamiento ColdGear Reactor que se adapta a cualquier actividad para ofrecer comodidad y versatilidad
-- Logotipo estampado
+- Tecnología UA Storm que repele el agua sin sacrificar la transpirabilidad
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07L6LWR4F/?tag=tolees-21)

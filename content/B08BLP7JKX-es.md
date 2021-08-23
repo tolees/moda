@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox B044DD08522 Bebé-Niñas  White/Dk Bl al 50.00 % de descuento'
-date: 2021-07-31 12:11:42
+date: 2021-08-23 08:33:27
 image: 'https://m.media-amazon.com/images/I/419ifs09oUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

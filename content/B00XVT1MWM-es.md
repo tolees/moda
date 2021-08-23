@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dockers 23DA005 - Zapatos de cordones de al 53.09 % de descuento'
-date: 2021-08-13 22:35:52
+date: 2021-08-23 09:57:14
 image: 'https://m.media-amazon.com/images/I/41a7YAPQXTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Dockers'
 buyurl: 'https://www.amazon.es/dp/B00XVT1MWM/?tag=tolees-21'
 descuento: '53.09'
-average: '77.3766666666667'
+average: '75.4577272727273'
 ---
 
 Está [Dockers 23DA005 - Zapatos de cordones de cuero para hombre  color negro  talla 40](https://www.amazon.es/dp/B00XVT1MWM/?tag=tolees-21) con 53.09 de descuento por 35.16 EUR (original: 74.95 EUR) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [Dockers 23DA005 - Zapatos de cordones de cuero para hombre  color negro  
 
 ℹ️:
 
+- Suela flexible
 - cuero auténtico
 - suave comodidad al caminar
-- Suela flexible
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00XVT1MWM/?tag=tolees-21)
