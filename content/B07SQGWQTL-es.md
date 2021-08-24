@@ -1,32 +1,39 @@
 ---
 layout: post
-title: 'Geox Vega W  Zapatillas para Mujer  Blan al 82.99 % de descuento'
-date: 2020-08-21 18:09:15
-image: 'https://m.media-amazon.com/images/I/31SMWkxNL1L._SL400_.jpg'
+title: 'Geox D Vega A  Zapatillas  Blanco  Off W al 41.26 % de descuento'
+date: 2021-08-24 02:26:54
+image: 'https://m.media-amazon.com/images/I/31SMWkxNL1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07SQGWQTL-es Geox Vega W Zapatillas para Mujer Blanco Off White and...'
+slug: 'B07SQGWQTL-es Geox D Vega A Zapatillas Blanco Off White and White C1209...'
 sku: 'B07SQGWQTL-es'
-tags: [ 'geox', ]
-actualPrice: 20.4 EUR
+tags: [ 'Zapatos','Zapatos y complementos','geox', ]
+actualPrice: 70.43 EUR
 currency: EUR
-price: 20.4
+price: 70.43
 comparePrice: 119.9 EUR
-prodname: 'Geox Vega W  Zapatillas para Mujer  Blanco  Off White and White C1209   35 EU'
+prodname: 'Geox D Vega A  Zapatillas  Blanco  Off White and White C1209   35 EU'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B07SQGWQTL/?tag=tolees-21'
-descuento: '82.99'
-average: '19.25'
+descuento: '41.26'
+average: '29.486'
 ---
 
-Ahora mismo tienes [Geox Vega W  Zapatillas para Mujer  Blanco  Off White and White C1209   35 EU](https://www.amazon.es/dp/B07SQGWQTL/?tag=tolees-21) a 20.4 EUR (original: 119.9 EUR) (82.99 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Geox D Vega A  Zapatillas  Blanco  Off White and White C1209   35 EU](https://www.amazon.es/dp/B07SQGWQTL/?tag=tolees-21) a 70.43 EUR (original: 119.9 EUR) (41.26 %  de descuento) en el siguiente enlace!
 
-[![Geox Vega W  Zapatillas para Mujer  Blan](https://m.media-amazon.com/images/I/31SMWkxNL1L._SL400_.jpg)](https://www.amazon.es/dp/B07SQGWQTL/?tag=tolees-21)
+[![Geox D Vega A  Zapatillas  Blanco  Off W](https://m.media-amazon.com/images/I/31SMWkxNL1L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07SQGWQTL/?tag=tolees-21)
 
 🔎:
 
+- Revestimiento: Sintético
+- Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
+- Material exterior: Ante
+- Material de la suela: Goma
+- Tipo de tacón: Plano
+- Altura del tacón: 2 centímetros
+- Cierre: Cordones
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SQGWQTL/?tag=tolees-21)
