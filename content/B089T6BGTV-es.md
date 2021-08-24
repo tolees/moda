@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BOSS T-Shirt RN Camiseta  Rosa  XS para  al 31.06 % de descuento'
-date: 2021-08-21 18:22:06
+date: 2021-08-24 06:26:35
 image: 'https://m.media-amazon.com/images/I/41o-zWdSCnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
