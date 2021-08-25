@@ -28,10 +28,10 @@ Está [Fossil Collar Navette Tricolor para Mujer JF02779998](https://www.amazon.
 
 ℹ️:
 
-- Color: tritono, dorado, plateado, rosa dorado
-- Material: acero inoxidable y circonita
 - Medidas: Largo: 18 cm + 19 cm
 - Fossil
+- Material: acero inoxidable y circonita
+- Color: tritono, dorado, plateado, rosa dorado
 - Cierre: cierre de mosquetón
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B074VCKB6K/?tag=tolees-21)
