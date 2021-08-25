@@ -28,7 +28,7 @@ Ahora mismo tienes [Only Onltia Dnm Jacket BB MB Bex02 Noos Chaqueta Vaquera  Az
 
 🔎:
 
-- jeans jacket in medium blue washing
 - collar and long sleeves
+- jeans jacket in medium blue washing
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07HDMDJMN/?tag=tolees-21)
