@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Essential Fleece-Hoodie w con un 46.54 % de descuento'
-date: 2021-08-17 13:24:47
+date: 2021-08-25 19:35:15
 image: 'https://m.media-amazon.com/images/I/31C+BAHO2jL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ En este momento está [Tommy Hilfiger Essential Fleece-Hoodie with Logo Sudadera
 
 🔎:
 
-- WW0WW26410
-- Tommy Hilfiger
-- blu
 - Felpa
+- WW0WW26410
+- blu
+- Tommy Hilfiger
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07VT33DVZ/?tag=tolees-21)
