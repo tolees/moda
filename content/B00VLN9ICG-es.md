@@ -28,8 +28,8 @@ Tienes [Levi s Set-In Neck Camiseta  Hm Graphic White  L para Hombre](https://ww
 
 🔎:
 
-- Modelo casual
 - Con un logo Levis en horizontal en el pecho
+- Modelo casual
 - Elaborada en punto suave
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00VLN9ICG/?tag=tolees-21)

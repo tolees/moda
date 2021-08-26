@@ -28,8 +28,8 @@ Ahora mismo tienes [Geox Uomo Sandal Strada D  Sandalias con Punta Abierta Hombr
 
 🔎:
 
-- adulto
 - synthetic
 - Brown
+- adulto
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07F3BZK37/?tag=tolees-21)

@@ -28,7 +28,7 @@ Tienes [Geox Uomo Sandal Strada D  Sandalias con Punta Abierta Hombre  Negro  Bl
 
 🔎:
 
-- adulto
 - Negro
+- adulto
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07F3GNNP4/?tag=tolees-21)
