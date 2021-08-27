@@ -28,10 +28,10 @@ Tienes [Tommy Hilfiger Essential TH Beach Sandal  Chanclas Hombre  Azul  Midnigh
 
 🔎:
 
-- Color: azul oscuro
-- Tommy Hilfiger - Chanclas para hombre con logo y detalles de logotipo, color azul oscuro
-- Talla: 40
-- Diseño: liso
 - Línea: Tommy Hilfiger
+- Color: azul oscuro
+- Diseño: liso
+- Talla: 40
+- Tommy Hilfiger - Chanclas para hombre con logo y detalles de logotipo, color azul oscuro
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B078T5J9TH/?tag=tolees-21)
