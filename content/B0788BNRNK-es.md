@@ -1,32 +1,36 @@
 ---
 layout: post
-title: 'Tommy Hilfiger Logo Tape Hoody Sudadera  con un 25.69 % de descuento'
-date: 2020-06-11 06:07:10
-image: 'https://m.media-amazon.com/images/I/41mEEBqGAJL._SL400_.jpg'
+title: 'Tommy Hilfiger Logo Tape Hoody Sudadera  con un 29.97 % de descuento'
+date: 2021-08-27 20:17:34
+image: 'https://m.media-amazon.com/images/I/41mEEBqGAJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B0788BNRNK-es Tommy Hilfiger Logo Tape Hoody Sudadera con Capucha y...'
 sku: 'B0788BNRNK-es'
-tags: [ 'sudadera', ]
-actualPrice: 59.37 EUR
+tags: [ 'Jerséis, cárdigans y sudaderas para hombre','Ropa','Ropa para hombre','Sudaderas con capucha para hombre','Sudaderas para hombre','sudadera','tommy hilfiger', ]
+actualPrice: 55.95 EUR
 currency: EUR
-price: 59.37
+price: 55.95
 comparePrice: 79.9 EUR
 prodname: 'Tommy Hilfiger Logo Tape Hoody Sudadera con Capucha y Cinta Distintiva  Gris  Grey Heather   Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Tommy Hilfiger'
 buyurl: 'https://www.amazon.es/dp/B0788BNRNK/?tag=tolees-21'
-descuento: '25.69'
-average: '55.18'
+descuento: '29.97'
+average: '55.334'
 ---
 
-En este momento está [Tommy Hilfiger Logo Tape Hoody Sudadera con Capucha y Cinta Distintiva  Gris  Grey Heather   Small para Hombre](https://www.amazon.es/dp/B0788BNRNK/?tag=tolees-21) a 59.37 EUR (original: 79.9 EUR) (25.69 %  de descuento) en el siguiente enlace!
+En este momento está [Tommy Hilfiger Logo Tape Hoody Sudadera con Capucha y Cinta Distintiva  Gris  Grey Heather   Small para Hombre](https://www.amazon.es/dp/B0788BNRNK/?tag=tolees-21) a 55.95 EUR (original: 79.9 EUR) (29.97 %  de descuento) en el siguiente enlace!
 
-[![Tommy Hilfiger Logo Tape Hoody Sudadera ](https://m.media-amazon.com/images/I/41mEEBqGAJL._SL400_.jpg)](https://www.amazon.es/dp/B0788BNRNK/?tag=tolees-21)
+[![Tommy Hilfiger Logo Tape Hoody Sudadera ](https://m.media-amazon.com/images/I/41mEEBqGAJL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B0788BNRNK/?tag=tolees-21)
 
 🔎:
 
+- Logotipo de Tommy Hilfiger en los brazos
+- Sudadera de manga larga con cremallera
+- Ajuste cómodo
+- Multicolor
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0788BNRNK/?tag=tolees-21)
