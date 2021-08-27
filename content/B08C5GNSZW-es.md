@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 50.91 % en Clarks Serena Kellyn  Zapatos Tipo Balle'
-date: 2021-08-15 22:48:49
+title: 'Descuento del 36.50 % en Clarks Serena Kellyn  Zapatos Tipo Balle'
+date: 2021-08-26 23:28:53
 image: 'https://m.media-amazon.com/images/I/31DufPrCcNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B08C5GNSZW-es Clarks Serena Kellyn Zapatos Tipo Ballet Mujer Azul Marino...'
 sku: 'B08C5GNSZW-es'
 tags: [ 'Mocasines para mujer','Zapatos','Zapatos para mujer','Zapatos planos de mujer','Zapatos y complementos','clarks','zapatos', ]
-actualPrice: 15.83 EUR
+actualPrice: 20.48 EUR
 currency: EUR
-price: 15.83
+price: 20.48
 comparePrice: 32.25 EUR
 prodname: 'Clarks Serena Kellyn  Zapatos Tipo Ballet Mujer  Azul Marino  Ante  37 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Clarks'
 buyurl: 'https://www.amazon.es/dp/B08C5GNSZW/?tag=tolees-21'
-descuento: '50.91'
-average: '15.83'
+descuento: '36.50'
+average: '18.155'
 ---
 
-Tienes [Clarks Serena Kellyn  Zapatos Tipo Ballet Mujer  Azul Marino  Ante  37 EU](https://www.amazon.es/dp/B08C5GNSZW/?tag=tolees-21) con un 50.91 % de descuento con precio de oferta de 15.83 EUR (original: 32.25 EUR) en el siguiente enlace!
+Tienes [Clarks Serena Kellyn  Zapatos Tipo Ballet Mujer  Azul Marino  Ante  37 EU](https://www.amazon.es/dp/B08C5GNSZW/?tag=tolees-21) con un 36.50 % de descuento con precio de oferta de 20.48 EUR (original: 32.25 EUR) en el siguiente enlace!
 
 [![Clarks Serena Kellyn  Zapatos Tipo Balle](https://m.media-amazon.com/images/I/31DufPrCcNL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08C5GNSZW/?tag=tolees-21)
 
