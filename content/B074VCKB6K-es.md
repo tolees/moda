@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fossil Collar Navette Tricolor para Muje al 25.00 % de descuento'
-date: 2021-08-25 13:55:08
+date: 2021-08-28 15:15:21
 image: 'https://m.media-amazon.com/images/I/31n2c3L6giL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ Está [Fossil Collar Navette Tricolor para Mujer JF02779998](https://www.amazon.
 ℹ️:
 
 - Medidas: Largo: 18 cm + 19 cm
-- Fossil
-- Material: acero inoxidable y circonita
 - Color: tritono, dorado, plateado, rosa dorado
 - Cierre: cierre de mosquetón
+- Fossil
+- Material: acero inoxidable y circonita
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B074VCKB6K/?tag=tolees-21)
