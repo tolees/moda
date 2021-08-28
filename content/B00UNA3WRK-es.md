@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lacoste TH7618  Camiseta para Hombre  Ne con un 40.00 % de descuento'
-date: 2021-08-23 15:49:16
+date: 2021-08-28 20:50:19
 image: 'https://m.media-amazon.com/images/I/31kPLEQ3btL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ En este momento está [Lacoste TH7618  Camiseta para Hombre  Negro  Noir   X-Sma
 
 🔎:
 
-- Cocodrilo verde bordado en el pecho
-- Camiseta para hombres, marca Lacoste
 - Logo ultra dry en la parte inferior de la espalda
+- Camiseta para hombres, marca Lacoste
+- Cocodrilo verde bordado en el pecho
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00UNA3WRK/?tag=tolees-21)
