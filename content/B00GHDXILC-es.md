@@ -28,10 +28,10 @@ Tienes [Logoshirt Camiseta para niño Flash - Logotipo  DC Comics - Flash - Logo
 
 ℹ️:
 
-- Impresión: serigrafía de alta calidad y prolongada vida útil con aspecto retro
 - Material: 100% de suave y cómodo algodón de alta calidad
 - Diseño original con licencia
-- Corte: recto, muy combinable
 - Tratamiento previo contra el encogimiento: la camiseta mantiene su forma incluso después de muchos lavados
+- Impresión: serigrafía de alta calidad y prolongada vida útil con aspecto retro
+- Corte: recto, muy combinable
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00GHDXILC/?tag=tolees-21)
