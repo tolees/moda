@@ -28,8 +28,8 @@ En este momento está [Lee Daren Zip Fly Vaqueros  Clean Dk Ray  31W / 30L para 
 
 🔎:
 
-- Cuerda regular
 - Tejido vaquero elástico
+- Cuerda regular
 - Algodón orgánico
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CXWNDRN/?tag=tolees-21)

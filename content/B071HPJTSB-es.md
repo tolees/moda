@@ -28,10 +28,10 @@ Está [Tommy Hilfiger Core Stretch Slim Vneck tee  Camiseta Hombre  Azul  Navy B
 
 ℹ️:
 
-- Corte slim
+- Logo de Tommy Hilfiger bordado en el pecho
 - Cuello de pico
 - Algodón elástico
 - Cinta distintiva en el interior del cuello
-- Logo de Tommy Hilfiger bordado en el pecho
+- Corte slim
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B071HPJTSB/?tag=tolees-21)
