@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 41.98 % en Polaroid PLD 7005/S RC YYV 63 Gafas de S'
-date: 2021-08-27 14:29:52
+date: 2021-08-29 08:36:17
 image: 'https://m.media-amazon.com/images/I/31MuF2QJrAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

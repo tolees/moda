@@ -28,10 +28,10 @@ Tienes [ZENOTTIC Gafas Infantiles de Bloqueo de Luz Azul para Ordenadores Gafas 
 
 🔎:
 
-- Marco resistente y liviano - el marco de PC de alta resistencia garantiza una gran resistencia a la compresión, por lo que las gafas permanecen intactas cuando se caen. Adecuado para niños animados.
 - Bloquea la luz azul y reduce la fatiga visual - protege los ojos de niños de la luz azul cuando usan sus ordenadores, móviles inteligentes, televisores y videojuegos. Las gafas bloqueadoras de luz azul Zenottic bloquean más del 90% de la luz azul dañina, reducen la fatiga visual y protegen la visión de los niños.
+- Excelente servicio al cliente - garantía de 100% satisfacción. Si tiene alguna pregunta, comuníquese con nosotros primero y nos comprometemos a proporcionar un reemplazo o reembolso.
 - Clásico y cómodo - el marco cuadrado clásico es muy cómodo. Disponible en 3 colores: azul, negro, rosa, adecuado para niños de 3 a 10 años.
 - NOTA - Estimado cliente, lo sentimos mucho, debido al error del producto, el color del producto que recibió puede estar equivocado. Si recibió el producto incorrecto, puede contactarnos y le entregaremos el producto correcto.
-- Excelente servicio al cliente - garantía de 100% satisfacción. Si tiene alguna pregunta, comuníquese con nosotros primero y nos comprometemos a proporcionar un reemplazo o reembolso.
+- Marco resistente y liviano - el marco de PC de alta resistencia garantiza una gran resistencia a la compresión, por lo que las gafas permanecen intactas cuando se caen. Adecuado para niños animados.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07R7PD9CR/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'G-STAR RAW D19897 Camiseta  Dk Shamrock  al 54.02 % de rebaja'
-date: 2021-08-27 10:28:09
+date: 2021-08-29 08:20:19
 image: 'https://m.media-amazon.com/images/I/41E4q6UG5SS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

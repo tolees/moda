@@ -29,9 +29,9 @@ Tienes [Element Topaz C3  Zapatilla de Deporte Hombre  Azul Navy  47](https://ww
 🔎:
 
 - Estilo icónico de Element
-- Cordones de algodón orgánico
+- Adhesivos al agua
 - Empeine de cuero y ante con suela exterior de goma reciclada
 - Interior de malla hecha de poliéster reciclado
-- Adhesivos al agua
+- Cordones de algodón orgánico
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B083PJLD4P/?tag=tolees-21)
