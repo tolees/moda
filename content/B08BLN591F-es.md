@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox B Kilwi Girl F  Zapatillas Bebé-Niñ al 54.64 % de descuento'
-date: 2021-08-22 16:47:21
+date: 2021-08-29 18:01:28
 image: 'https://m.media-amazon.com/images/I/41TKGKOCkGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
