@@ -28,8 +28,8 @@ Está [Clarks Un Trek Part  Sandalias de Talón Abierto Hombre  Negro  Black Lea
 
 ℹ️:
 
+- Suela acolchada
 - Producto de alta calidad
 - Ancho PLUS:
-- Suela acolchada
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0756DPXFN/?tag=tolees-21)
