@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lee Scarlett High Jeans Vaqueros  Dark D con un 52.18 % de descuento'
-date: 2021-08-27 08:19:35
+date: 2021-08-30 14:39:52
 image: 'https://m.media-amazon.com/images/I/416bcNdv7gL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ En este momento está [Lee Scarlett High Jeans Vaqueros  Dark De Niro  30W / 31L
 
 🔎:
 
-- Tejido vaquero elástico
 - Skinny High WAIST
 - 5 bolsillos
+- Tejido vaquero elástico
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B082XSFL8Y/?tag=tolees-21)
