@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pepe Jeans Sylvia Camiseta  Blanco  Whit con un 60.00 % de descuento'
-date: 2021-08-13 16:59:12
+date: 2021-08-30 09:02:05
 image: 'https://m.media-amazon.com/images/I/311fxlqGPyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
