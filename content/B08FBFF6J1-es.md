@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Kids LVB SS GRAPHIC TEE C814 Cami al 50.00 % de descuento'
-date: 2021-08-22 11:46:39
+date: 2021-08-31 16:01:03
 image: 'https://m.media-amazon.com/images/I/31GNsGGqvgS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
