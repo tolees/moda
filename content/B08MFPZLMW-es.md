@@ -29,8 +29,8 @@ En este momento está [Vans Flying V Crew tee Camiseta  Violeta orquídea  L par
 🔎:
 
 - Ideal para cualquier ocasión
-- 100 % algodón
 - Camiseta de algodón pesado con gráfico en la parte delantera
+- 100 % algodón
 - Corte clásico
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08MFPZLMW/?tag=tolees-21)

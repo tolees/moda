@@ -28,9 +28,9 @@ Está [Vans Flying V Crew tee Camiseta  Violeta orquídea  M para Mujer](https:/
 
 ℹ️:
 
-- Tipo de tamaño especial: estándar
-- Ajuste clásico
 - Camiseta de algodón pesado con gráfico en la parte delantera
 - 100% popelina de algodón estampada
+- Ajuste clásico
+- Tipo de tamaño especial: estándar
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08MFSH21X/?tag=tolees-21)
