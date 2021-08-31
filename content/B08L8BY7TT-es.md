@@ -28,7 +28,7 @@ Ahora mismo tienes [Tommy Hilfiger TH Stretch Slim Fit tee Camiseta  Rojo  Prima
 
 🔎:
 
-- Con detalles distintivos de Tommy Hilfiger
 - Tiene el cuello redondo
+- Con detalles distintivos de Tommy Hilfiger
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08L8BY7TT/?tag=tolees-21)
