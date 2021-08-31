@@ -28,10 +28,10 @@ Tienes [Arena REN Bikini Deportivo  Niñas  Negro/Azul  pix  / Turquoise  8-9](h
 
 🔎:
 
-- Bikini deportivo con protección UV para niña
-- 80% poliamida, 20% elastano
-- Tejido arena MaxFit: resistente al cloro y al agua salada, protección UV UPF 50+, secado rápido
 - Bustier con espalda de corredor para un ajuste estable, braguita de bikini con cordón interno
+- 80% poliamida, 20% elastano
 - Para fitness y natación recreativa
+- Bikini deportivo con protección UV para niña
+- Tejido arena MaxFit: resistente al cloro y al agua salada, protección UV UPF 50+, secado rápido
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B079FHG4PL/?tag=tolees-21)
