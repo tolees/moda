@@ -28,9 +28,9 @@ Tienes [Jack & Jones Jjitim Jjoriginal Am 782 50sps Noos Vaqueros Slim  Azul  Bl
 
 🔎:
 
+- Composición: 75% algodón, 13% poliéster, 10% algodón orgánico, 2% elastano
 - Super-Stretch 50% es excepcionalmente flexible
 - Pantalones vaqueros ajustados: no demasiado apretados, ni demasiado sueltos
-- Composición: 75% algodón, 13% poliéster, 10% algodón orgánico, 2% elastano
 - Aspecto clásico azul vaquero gracias a las costuras Tobacco
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07FQ49B9F/?tag=tolees-21)

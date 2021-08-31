@@ -28,8 +28,8 @@ Ahora mismo tienes [Spiuk Jifter Gafas  Unisex Adulto  Blanco  Blue Mirror   Tal
 
 🔎:
 
-- Diseño ergonómico y deportivo. Geometría totalmente envolvente
 - Amplia variedad de lentes y colores de monturas. Estuche rígido de protección. Funda especial de microfibra
 - Terminales antideslizantes en patillas en Rubber XT. Alta calidad óptica en su pantalla inastillable
+- Diseño ergonómico y deportivo. Geometría totalmente envolvente
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B074JN32PV/?tag=tolees-21)

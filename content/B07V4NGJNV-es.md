@@ -28,10 +28,10 @@ Tienes [Billabong Tides 73 Stripe  Chanclas Hombre  Multicolor  Neon 5628   42 E
 
 🔎:
 
+- Logo serigrafiado en la parte superior de la suela
 - Tira en el empeine con "Billabong" escrito en relieve
-- Parte superior de la suela estampada
+- Logo serigrafiado en la parte superior de la suela
 - Suela con el logo de la ola
-- Logo serigrafiado en la parte superior de la suela
-- Logo serigrafiado en la parte superior de la suela
+- Parte superior de la suela estampada
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07V4NGJNV/?tag=tolees-21)

@@ -29,8 +29,8 @@ En este momento está [Marca Amazon - find. Vestido Midi Evasé de Lino Mujer  M
 🔎:
 
 - Lavar a máquina a 30 °C, planchar a temperatura media
-- Regular
 - 87% algodón, 13% lino
+- Regular
 - Sin mangas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07WG3RVJH/?tag=tolees-21)
