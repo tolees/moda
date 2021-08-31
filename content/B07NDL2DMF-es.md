@@ -28,11 +28,11 @@ Ahora mismo tienes [G-STAR RAW 3301 Vaqueros Slim  Negro  Pitch Black B964/A810 
 
 🔎:
 
-- Lavar a máquina - caliente (mayor de 30 °)
-- Vaqueros slim
 - Normal
-- Cierre: Boton y cierre
-- 99% Algodón, 1% Elastano
+- Lavar a máquina - caliente (mayor de 30 °)
 - Usado
+- Cierre: Boton y cierre
+- Vaqueros slim
+- 99% Algodón, 1% Elastano
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07NDL2DMF/?tag=tolees-21)
