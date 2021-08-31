@@ -28,9 +28,9 @@ Tienes [Clarks Tri Sporty  Sandalias de Talón Abierto para Mujer  Beige  Navy T
 
 🔎:
 
-- Material interior: piel.
+- Material exterior: sintético.
 - Suela: goma.
 - Altura del tacón: 3,5 cm.
-- Material exterior: sintético.
+- Material interior: piel.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07TLSYTB4/?tag=tolees-21)
