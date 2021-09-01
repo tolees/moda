@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Essential TH Beach Sandal al 31.23 % de descuento'
-date: 2021-08-31 06:52:09
+date: 2021-09-01 19:06:42
 image: 'https://m.media-amazon.com/images/I/31Noc4BxwXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Tommy Hilfiger'
 buyurl: 'https://www.amazon.es/dp/B078T61YQN/?tag=tolees-21'
 descuento: '31.23'
-average: '22.8674999999999'
+average: '22.8951219512194'
 ---
 
 Está [Tommy Hilfiger Essential TH Beach Sandal  Chanclas Hombre  Negro  Black 990   42 EU](https://www.amazon.es/dp/B078T61YQN/?tag=tolees-21) con 31.23 de descuento por 24.0 EUR (original: 34.9 EUR) en el siguiente enlace!
