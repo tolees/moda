@@ -28,10 +28,10 @@ Está [Clarks Tri Alexia  Sandalias de Talón Abierto Mujer  Beige  Stone Stone 
 
 ℹ️:
 
-- Mezcla de materiales
-- Tejido resistente
 - Suela de perfil
 - Suela flexible
+- Tejido resistente
 - Correa ajustable
+- Mezcla de materiales
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07TLP4HS6/?tag=tolees-21)
