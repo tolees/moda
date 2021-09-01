@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BOSS Paule 2 10196402 01 Camisa de Polo  con un 35.29 % de descuento'
-date: 2021-08-30 19:01:14
+date: 2021-09-01 06:54:10
 image: 'https://m.media-amazon.com/images/I/31scV5ShKJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'BOSS'
 buyurl: 'https://www.amazon.es/dp/B08CF12MP3/?tag=tolees-21'
 descuento: '35.29'
-average: '69.41'
+average: '67.8333333333333'
 ---
 
 En este momento está [BOSS Paule 2 10196402 01 Camisa de Polo  Navy410  S para Hombre](https://www.amazon.es/dp/B08CF12MP3/?tag=tolees-21) a 64.68 EUR (original: 99.95 EUR) (35.29 %  de descuento) en el siguiente enlace!
