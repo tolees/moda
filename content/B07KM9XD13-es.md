@@ -28,7 +28,7 @@ En este momento está [Clarks Tri Walk  Sandalias  Negro  Black Combi Black Comb
 
 🔎:
 
-- Color exacto: combinación negra.
 - Material de la suela: goma.
+- Color exacto: combinación negra.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07KM9XD13/?tag=tolees-21)
