@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tom Tailor Denim  NOS  1008171 Camiseta  al 49.95 % de descuento'
-date: 2021-09-01 07:33:18
+date: 2021-09-02 12:34:15
 image: 'https://m.media-amazon.com/images/I/41MHsmXLt2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ Está [Tom Tailor Denim  NOS  1008171 Camiseta  Azul  Sky Captain Blue 10668   M
 ℹ️:
 
 - Gran comodidad
-- Calidad probada Tom Tailor Denim
-- De jersey
 - Con un gran estampado en la parte delantera
+- De jersey
+- Calidad probada Tom Tailor Denim
 - Manga corta, con cuello redondo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07KCTVGD1/?tag=tolees-21)
