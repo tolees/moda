@@ -28,10 +28,10 @@ Tienes [Helly Hansen Vertex 51810  Sudadera con capucha para hombre  talla M   c
 
 🔎:
 
-- Estructura de panal de abeja, de secado rápido
 - Bolsillo en el pecho
+- Capucha ajustada
+- Estructura de panal de abeja, de secado rápido
 - Con orificios para los pulgar
 - Costuras planas para un peso ligero
-- Capucha ajustada
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07D4RNDRP/?tag=tolees-21)
