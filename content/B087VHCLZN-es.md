@@ -31,7 +31,7 @@ Ahora mismo tienes [Columbia Pike Lake II Insulated Chaqueta Aislante con Capuch
 - La tecnología reflectante Omni-Heat de la chaqueta ofrece un mayor aislamiento para mantenerte caliente incluso en los días más fríos
 - Chaqueta de mujer resistente al agua con aislamiento térmico, Para más estilo y comodidad
 - Contenido: 1x Columbia Pike Lake II Chaqueta aislante para mujer, Exterior: Storm-Lite DP II 100% poliéster; Exterior: 100% nailon, Forro: Omni-Heat Reflective Forro 100% poliéster; Aislamiento: Thermarator 100% poliéster, Color: Negro, Talla: M, Art.No. 1909283
-- Los bolsillos con cremallera te dan versatilidad Mantén tus manos calientes cuando lo necesites o guarda tu teléfono y otros accesorios sin temor a que se caigan
 - Capucha integrada y ajustable para una mayor protección contra los elementos
+- Los bolsillos con cremallera te dan versatilidad Mantén tus manos calientes cuando lo necesites o guarda tu teléfono y otros accesorios sin temor a que se caigan
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B087VHCLZN/?tag=tolees-21)
