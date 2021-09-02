@@ -28,10 +28,10 @@ Tienes [FILA Disruptor men zapatilla Hombre  blanco  White   44 EU](https://www.
 
 🔎:
 
+- Color: blanco
+- Estación: Otoño/Invierno
 - Artículo: 1010262.1FG
 - Designer: FILA
-- Estación: Otoño/Invierno
 - Material: Cuero ecológico
-- Color: blanco
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07B3Z29JC/?tag=tolees-21)

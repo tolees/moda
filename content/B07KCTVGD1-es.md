@@ -28,10 +28,10 @@ Está [Tom Tailor Denim  NOS  1008171 Camiseta  Azul  Sky Captain Blue 10668   M
 
 ℹ️:
 
+- Manga corta, con cuello redondo
 - Gran comodidad
 - Con un gran estampado en la parte delantera
-- De jersey
 - Calidad probada Tom Tailor Denim
-- Manga corta, con cuello redondo
+- De jersey
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07KCTVGD1/?tag=tolees-21)
