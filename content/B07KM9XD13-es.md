@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Clarks Tri Walk  Sandalias  Negro  Black con un 69.73 % de descuento'
-date: 2021-09-01 02:38:49
+title: 'Clarks Tri Walk  Sandalias  Negro  Black con un 71.24 % de descuento'
+date: 2021-09-02 16:25:42
 image: 'https://m.media-amazon.com/images/I/311-PHWo21L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,26 +9,26 @@ author: 'tole.es'
 slug: 'B07KM9XD13-es Clarks Tri Walk Sandalias Negro Black Combi Black Combi 35 EU'
 sku: 'B07KM9XD13-es'
 tags: [ 'Calzado deportivo para mujer','Sandalias deportivas de mujer','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','clarks','sandalias', ]
-actualPrice: 33.3 EUR
+actualPrice: 31.64 EUR
 currency: EUR
-price: 33.3
+price: 31.64
 comparePrice: 110.0 EUR
 prodname: 'Clarks Tri Walk  Sandalias  Negro  Black Combi Black Combi   35 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Clarks'
 buyurl: 'https://www.amazon.es/dp/B07KM9XD13/?tag=tolees-21'
-descuento: '69.73'
-average: '29.5881818181819'
+descuento: '71.24'
+average: '29.6773913043479'
 ---
 
-En este momento está [Clarks Tri Walk  Sandalias  Negro  Black Combi Black Combi   35 EU](https://www.amazon.es/dp/B07KM9XD13/?tag=tolees-21) a 33.3 EUR (original: 110.0 EUR) (69.73 %  de descuento) en el siguiente enlace!
+En este momento está [Clarks Tri Walk  Sandalias  Negro  Black Combi Black Combi   35 EU](https://www.amazon.es/dp/B07KM9XD13/?tag=tolees-21) a 31.64 EUR (original: 110.0 EUR) (71.24 %  de descuento) en el siguiente enlace!
 
 [![Clarks Tri Walk  Sandalias  Negro  Black](https://m.media-amazon.com/images/I/311-PHWo21L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07KM9XD13/?tag=tolees-21)
 
 🔎:
 
-- Material de la suela: goma.
 - Color exacto: combinación negra.
+- Material de la suela: goma.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07KM9XD13/?tag=tolees-21)
