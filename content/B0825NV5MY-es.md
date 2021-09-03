@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.00 % en GEOX D PONTOISE F POWDER Women s Trainer'
-date: 2021-08-30 05:57:03
+date: 2021-09-03 15:21:36
 image: 'https://m.media-amazon.com/images/I/41G6d1SyTcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

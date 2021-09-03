@@ -28,10 +28,10 @@ Tienes [HOMCOM Saco de Boxeo para Niños Altura Ajustable con Guantes Soporte Es
 
 🔎:
 
-- PERA DE BOXEO INFANTIL: ideal para practicar ejercicio incluso sin salir de casa. Rellena su base se con agua o arena para una estabilidad óptima.
 - MEDIDAS: 38x38x78-120 cm (LxANxAL).
+- PERA DE BOXEO INFANTIL: ideal para practicar ejercicio incluso sin salir de casa. Rellena su base se con agua o arena para una estabilidad óptima.
+- GUANTES: se incluyen unos guantes de regalo con la pera de boxeo infantil.
 - ALTURA REGULABLE: se puede ajustar de 78 a 120 cm para ajustarse a varios usuarios o para regularlo a medida que tu hijo crezca.
 - RESORTE DE 360°: perfecto para ejercitar la velocidad de reacción y la coordinación mano-ojo de los niños.
-- GUANTES: se incluyen unos guantes de regalo con la pera de boxeo infantil.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08C29SZRQ/?tag=tolees-21)

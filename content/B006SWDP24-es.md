@@ -28,9 +28,9 @@ Tienes [Helly Hansen Crew Chaqueta  Hombre  Azul  Azul Navy   L](https://www.ama
 
 🔎:
 
-- Bolsillos con cremallera
+- Dobladillo ajustable con cordón
 - Chaqueta versátil, impermeable y cortavientos
 - Costuras totalmente selladas
-- Dobladillo ajustable con cordón
+- Bolsillos con cremallera
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B006SWDP24/?tag=tolees-21)
