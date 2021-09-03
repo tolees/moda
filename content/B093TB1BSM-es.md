@@ -29,9 +29,9 @@ Está [POLO CLUB Camiseta Azul con Logo Bordado](https://www.amazon.es/dp/B093TB
 ℹ️:
 
 - Polo Club os trae su nueva colección de polos para mujer bajo su propio sello de calidad y originalidad.
-- Las prendas clásicas, como el polo de manga corta Miss Rigby, siempre son una opción segura para acertar. Confeccionado en algodón introduce, como detalle distintivo, el logo bordado a color contraste a la altura del pecho izquierdo.
-- Cuello estilo Polo, con cierre frontal con tapeta de 3 botones y terminación elástica. Pequeñas aberturas en los extremos de las costuras laterales.
 - Diseño custom fit; que se adapta a la figura manteniendo su comodidad. Confeccionado con un tejido 100% algodón trenzado de gran calidad.
 - Perfecta para todo tipo de looks
+- Las prendas clásicas, como el polo de manga corta Miss Rigby, siempre son una opción segura para acertar. Confeccionado en algodón introduce, como detalle distintivo, el logo bordado a color contraste a la altura del pecho izquierdo.
+- Cuello estilo Polo, con cierre frontal con tapeta de 3 botones y terminación elástica. Pequeñas aberturas en los extremos de las costuras laterales.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B093TB1BSM/?tag=tolees-21)
