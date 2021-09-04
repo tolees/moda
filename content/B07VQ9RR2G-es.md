@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lee V Neck tee Camiseta  Blanco  Bright  al 50.98 % de descuento'
-date: 2021-08-27 14:27:05
+date: 2021-09-04 12:24:36
 image: 'https://m.media-amazon.com/images/I/3124ixePmIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lee'
 buyurl: 'https://www.amazon.es/dp/B07VQ9RR2G/?tag=tolees-21'
 descuento: '50.98'
-average: '12.3233333333333'
+average: '12.9125'
 ---
 
 Ahora mismo tienes [Lee V Neck tee Camiseta  Blanco  Bright White LJ   X-Small para Mujer](https://www.amazon.es/dp/B07VQ9RR2G/?tag=tolees-21) a 14.68 EUR (original: 29.95 EUR) (50.98 %  de descuento) en el siguiente enlace!
