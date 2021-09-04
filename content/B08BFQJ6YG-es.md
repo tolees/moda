@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HP 1N0T4AA Reverb G2 - Gafas de Realidad al 49.04 % de descuento'
-date: 2021-08-31 09:58:49
+date: 2021-09-04 09:20:36
 image: 'https://m.media-amazon.com/images/I/318ubouyDZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,12 +28,12 @@ Está [HP 1N0T4AA Reverb G2 - Gafas de Realidad Virtual SteamVR  WMR  resolució
 
 ℹ️:
 
-- Desarrolladas en colaboración con Valve y Microsoft. Nuevas lentes ajustables diseñadas por Valve; 100% compatible con SteamVR y Windows Mixed Reality, sin necesidad de complejas instalaciones
-- Ultraligeras, peso 550 gramos
-- Resolución de 4320 x 2160 (2160 x 2160 por ojo), Subpixel RGB, Frecuencia de refresco 90 Hz
-- Almohadilla frontal extraíble; correas ajustables y ventilaciones para reducir el calor y el sudor
 - Amplio campo de visión: 114 grados para una imagen periférica que permite una inmersión más profunda
 - Bluetooth integrado con controladores preconfigurados; DisplayPort 1.3; USB-C 3.0
+- Resolución de 4320 x 2160 (2160 x 2160 por ojo), Subpixel RGB, Frecuencia de refresco 90 Hz
+- Desarrolladas en colaboración con Valve y Microsoft. Nuevas lentes ajustables diseñadas por Valve; 100% compatible con SteamVR y Windows Mixed Reality, sin necesidad de complejas instalaciones
 - Audio espacial 3D integrado; 4 cámaras: 2 frontales y 2 laterales
+- Almohadilla frontal extraíble; correas ajustables y ventilaciones para reducir el calor y el sudor
+- Ultraligeras, peso 550 gramos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08BFQJ6YG/?tag=tolees-21)
