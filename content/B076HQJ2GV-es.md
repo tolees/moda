@@ -28,9 +28,9 @@ Ahora mismo tienes [adidas CORE18 Camiseta Polo  Hombre  Bold Blue/White  3XL](h
 
 🔎:
 
-- Es necesario inflarlo.
 - Climalite anti-humidity fabric
 - Logotipo de adidas estampado.
 - Cámara de butilo para una mejor retención del aire.
+- Es necesario inflarlo.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B076HQJ2GV/?tag=tolees-21)
