@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Descuento del 52.64 % en Pepe Jeans Original Stretch Camiseta  Bl'
-date: 2021-08-31 05:49:05
-image: 'https://m.media-amazon.com/images/I/4195nY3t1jL._SL500_._SL400_.jpg'
+date: 2021-09-04 16:12:29
+image: 'https://m.media-amazon.com/images/I/31Li04GBJeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -24,7 +24,7 @@ average: '11.84'
 
 Tienes [Pepe Jeans Original Stretch Camiseta  Blanco  White 800   X-Large para Hombre](https://www.amazon.es/dp/B00BN5NKLW/?tag=tolees-21) con un 52.64 % de descuento con precio de oferta de 11.84 EUR (original: 25.0 EUR) en el siguiente enlace!
 
-[![Pepe Jeans Original Stretch Camiseta  Bl](https://m.media-amazon.com/images/I/4195nY3t1jL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B00BN5NKLW/?tag=tolees-21)
+[![Pepe Jeans Original Stretch Camiseta  Bl](https://m.media-amazon.com/images/I/31Li04GBJeL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B00BN5NKLW/?tag=tolees-21)
 
 ℹ️:
 
