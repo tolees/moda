@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.01 % en Lee Resort Shirt Camisa  Fairway  L para'
-date: 2021-08-31 16:53:48
+date: 2021-09-05 01:58:18
 image: 'https://m.media-amazon.com/images/I/51rwH7i-5mS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [Lee Resort Shirt Camisa  Fairway  L para Hombre](https://www.amazon.es/d
 
 ℹ️:
 
-- Manga corta
 - Ajuste relajado
+- Manga corta
 - WOVENS
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08CVRNP5N/?tag=tolees-21)

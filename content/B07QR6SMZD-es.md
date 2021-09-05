@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Logo T-Shirt Camiseta  Ne al 19.92 % de descuento'
-date: 2021-09-03 07:23:39
+date: 2021-09-05 01:15:23
 image: 'https://m.media-amazon.com/images/I/318K4sKb-WS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Tommy Hilfiger'
 buyurl: 'https://www.amazon.es/dp/B07QR6SMZD/?tag=tolees-21'
 descuento: '19.92'
-average: '33.2470731707317'
+average: '33.2161904761905'
 ---
 
 Está [Tommy Hilfiger Logo T-Shirt Camiseta  Negro  Jet Black Base   XS para Hombre](https://www.amazon.es/dp/B07QR6SMZD/?tag=tolees-21) con 19.92 de descuento por 31.95 EUR (original: 39.9 EUR) en el siguiente enlace!
