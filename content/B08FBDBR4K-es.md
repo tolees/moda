@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Kids LVG NEON CAP SS BABY TEE SHI al 45.65 % de rebaja'
-date: 2021-08-29 13:47:16
+date: 2021-09-05 14:46:34
 image: 'https://m.media-amazon.com/images/I/31soJ3bkm5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
