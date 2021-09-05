@@ -28,10 +28,10 @@ Tienes [PUMA Epic Flip v2  Chanclas Unisex Adulto  Elektro Blue-Poppy Red  42 EU
 
 🔎:
 
+- Suela de EVA antideslizante para mayor agarre
 - Correa de tela de punto
 - Logotipo de PUMA en la puntera
-- Suela de EVA antideslizante para mayor agarre
-- Logo de PUMA No. 1 en la plantilla
 - Plantilla de EVA acolchada para mayor comodidad
+- Logo de PUMA No. 1 en la plantilla
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B088RJ6PY9/?tag=tolees-21)

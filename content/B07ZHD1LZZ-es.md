@@ -28,8 +28,8 @@ Está [Marca Amazon - find. Camisa Oxford de Manga Corta Hombre  Rosa  Pink   XX
 
 ℹ️:
 
+- Corte entallado
 - Manga corta
 - Material tejido Chambray
-- Corte entallado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07ZHD1LZZ/?tag=tolees-21)
