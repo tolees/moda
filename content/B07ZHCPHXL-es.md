@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Marca Amazon - find. Camisa de Lino de M al 44.62 % de descuento'
-date: 2021-08-31 18:20:32
+date: 2021-09-05 07:27:14
 image: 'https://m.media-amazon.com/images/I/31d732CT48L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
