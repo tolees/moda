@@ -28,8 +28,8 @@ Está [Lee Slim Button Down Camisa  Cloudburst Grey  S para Hombre](https://www.
 
 ℹ️:
 
-- WOVENS
-- Algodón orgánico
 - Corte ajustado
+- Algodón orgánico
+- WOVENS
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08CVS1GPY/?tag=tolees-21)
