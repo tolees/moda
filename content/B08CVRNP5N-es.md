@@ -28,8 +28,8 @@ Tienes [Lee Resort Shirt Camisa  Fairway  L para Hombre](https://www.amazon.es/d
 
 ℹ️:
 
-- Ajuste relajado
 - Manga corta
+- Ajuste relajado
 - WOVENS
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08CVRNP5N/?tag=tolees-21)

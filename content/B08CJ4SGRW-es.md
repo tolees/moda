@@ -30,8 +30,8 @@ Tienes [Columbia Triple Canyon Camisa de manga corta para hombre](https://www.am
 
 - Contenido: 1 x Columbia Triple Canyon Camisa de manga corta para hombre, Material: 89% Poliéster, 11% Elastano, Color: Azul (Collegiate Navy Hickory Stripe), Talla: S, Art.No. 1883304
 - Cómodo bolsillo en el pecho izquierdo para guardar los objetos esenciales y de valor
-- Posibilidad de doblar el cuello para proteger la nuca
 - Fresco, seco y refrescante gracias al sistema de gestión de la transpiración y el sudor de Omni-Wick
 - Una camisa elástica y fresca, Manga corta para aventuras en temperaturas cálidas y excursiones activas al aire libre
+- Posibilidad de doblar el cuello para proteger la nuca
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08CJ4SGRW/?tag=tolees-21)
