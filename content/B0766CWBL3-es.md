@@ -29,8 +29,8 @@ En este momento está [Geox D Faviola C  Pump Mujer  Negro  Black   36 EU](https
 🔎:
 
 - Altura del tacón: 9 cm / 3.5 inch
+- Fácil de llevar para un confort optimo
 - Calzado sin cierre
 - Los sistemas patentados Geox ofrecen la transpirabilidad de la suela y el bienestar del pie
-- Fácil de llevar para un confort optimo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0766CWBL3/?tag=tolees-21)
