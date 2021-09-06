@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Kids LVG SS FLUTTER SLEEVE C684 C con un 50.00 % de descuento'
-date: 2021-08-29 13:47:06
+date: 2021-09-06 15:11:38
 image: 'https://m.media-amazon.com/images/I/31Y3O+IMpSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
