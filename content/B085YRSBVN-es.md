@@ -28,13 +28,13 @@ Tienes [Havaianas Brasil Logo   Chanclas Unisex Adulto  Nuevo Grafito  39/40 EU]
 
 ℹ️:
 
-- Cierre: Sin cordones
-- Fabricado en Brasil. Nota: El tamaño marcado en las chanclas es de tamaño brasileño.
-- Resistente al agua
-- Composición: Goma
 - Tipo de tacón: Plano
+- Composición: Goma
 - Material exterior: Caucho
-- Material de la suela: Goma
 - Anchura del zapato: Normal
+- Resistente al agua
+- Fabricado en Brasil. Nota: El tamaño marcado en las chanclas es de tamaño brasileño.
+- Material de la suela: Goma
+- Cierre: Sin cordones
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B085YRSBVN/?tag=tolees-21)
