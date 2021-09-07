@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Kids LVB S/S MODERN VINTAGE TEE C al 50.00 % de descuento'
-date: 2021-08-25 10:30:18
+date: 2021-09-07 17:46:31
 image: 'https://m.media-amazon.com/images/I/21emqcveA8S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
