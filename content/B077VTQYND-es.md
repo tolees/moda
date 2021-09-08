@@ -28,8 +28,8 @@ Ahora mismo tienes [Levi s Perfect tee Camiseta  White Cn-100Xx  S para Mujer](h
 
 🔎:
 
-- Con un discreto logo en el pecho
 - Modelo casual
+- Con un discreto logo en el pecho
 - Elaborada en punto suave
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B077VTQYND/?tag=tolees-21)
