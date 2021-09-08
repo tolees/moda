@@ -28,8 +28,8 @@ Tienes [Goodthreads Slim-Fit Long-Sleeve Solid Oxford Shirt Camisa  Morado  Purp
 
 ℹ️:
 
-- Corte ajustado: cerca del cuerpo al nivel del pecho, ligeramente acampanado en la cintura para un look sofisticado
-- Esta camisa clásica y elegante está hecha de nuestro algodón moteado para un resultado suave y robusto
 - El modelo mide 1m85 y lleva una talla mediana.
+- Esta camisa clásica y elegante está hecha de nuestro algodón moteado para un resultado suave y robusto
+- Corte ajustado: cerca del cuerpo al nivel del pecho, ligeramente acampanado en la cintura para un look sofisticado
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B06W53LR5W/?tag=tolees-21)

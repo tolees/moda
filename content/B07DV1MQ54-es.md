@@ -28,9 +28,9 @@ Tienes [Lacoste Croco Slide 119 3 CFA  Sandalias de Punta Descubierta Mujer  Whi
 
 🔎:
 
-- Empeine de material sintético
-- Práctico acabado hidrófugo en las tiras de goma
-- Práctico acabado hidrófugo en las tiras de goma
 - Suela de goma
+- Práctico acabado hidrófugo en las tiras de goma
+- Práctico acabado hidrófugo en las tiras de goma
+- Empeine de material sintético
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07DV1MQ54/?tag=tolees-21)
