@@ -29,9 +29,9 @@ Está [Sandalias Bebé Niña Pablosky Blanco 096602 24](https://www.amazon.es/dp
 ℹ️:
 
 - Piel natural de primera calidad que garantiza la correcta transpiración del pie;
-- Calzado de la linea StepEasy, Sensación Pies Descalzos, diseñado para favorecer que tu bebé de sus primeros pasos. Utiliza horma fisiológica para el correcto desarrollo del pie.
-- Cuenta con la garantía de calidad de Pablosky, que incorpora:
 - Plantilla amortiguadora superabsorbente y antibacterias;
+- Cuenta con la garantía de calidad de Pablosky, que incorpora:
+- Calzado de la linea StepEasy, Sensación Pies Descalzos, diseñado para favorecer que tu bebé de sus primeros pasos. Utiliza horma fisiológica para el correcto desarrollo del pie.
 - Forro inTech sin costuras, una microfibra 7 veces más absorbente que la piel, neutro y resistente al roce;
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08HJLC71R/?tag=tolees-21)

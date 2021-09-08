@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Marca Amazon - find. Camisa Oxford de Ma al 71.13 % de descuento'
-date: 2021-09-05 18:46:59
+date: 2021-09-08 09:12:59
 image: 'https://m.media-amazon.com/images/I/21rPJ9hLGZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [Marca Amazon - find. Camisa Oxford de Manga Corta Hombre  Rosa  Pink   XX
 
 ℹ️:
 
-- Corte entallado
 - Manga corta
+- Corte entallado
 - Material tejido Chambray
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07ZHD1LZZ/?tag=tolees-21)
