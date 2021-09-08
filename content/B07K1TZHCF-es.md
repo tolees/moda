@@ -28,10 +28,10 @@ Está [Under Armour UA Tech 2.0 SS Tee Novelty  camiseta para gimnasio  camiseta
 
 ℹ️:
 
+- Camiseta de manga corta – Esta camiseta de poliéster ha sido diseñada para entrenar, para ir al gimnasio, correr o hacer otras actividades deportivas
+- Ligera y transpirable – El tejido UA Tech de esta prenda de ropa deportiva es muy ligero, transpirable, suave, de tacto natural y de secado rápido.
+- Tecnología antiolor – La camiseta para correr elimina el sudor del cuerpo y la tecnología antiolor evita la proliferación de microbios y malos olores.
 - Cómoda – Gracias a su corte suelto y a su bajo contorneado, esta camiseta de hombre de mangas cortas es muy cómoda y proporciona mucha movilidad.
 - Material y forma – Camiseta de deporte de manga corta Under Armour UA Tech 2.0 SS Tee Novelty para hombre, material – 100% de poliéster, forma – ancha
-- Camiseta de manga corta – Esta camiseta de poliéster ha sido diseñada para entrenar, para ir al gimnasio, correr o hacer otras actividades deportivas
-- Tecnología antiolor – La camiseta para correr elimina el sudor del cuerpo y la tecnología antiolor evita la proliferación de microbios y malos olores.
-- Ligera y transpirable – El tejido UA Tech de esta prenda de ropa deportiva es muy ligero, transpirable, suave, de tacto natural y de secado rápido.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07K1TZHCF/?tag=tolees-21)
