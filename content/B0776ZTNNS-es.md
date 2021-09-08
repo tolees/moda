@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Tommy Hilfiger Original Jersey Camiseta  al 30.76 % de descuento'
-date: 2020-04-25 16:34:01
-image: 'https://m.media-amazon.com/images/I/41KTrRDfhkL._SL400_.jpg'
+title: 'Tommy Jeans Original Jersey Camiseta  Gr al 35.62 % de descuento'
+date: 2021-09-08 13:42:29
+image: 'https://m.media-amazon.com/images/I/41yslC9PZlS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0776ZTNNS-es Tommy Hilfiger Original Jersey Camiseta Gris Lt Grey Htr...'
+slug: 'B0776ZTNNS-es Tommy Jeans Original Jersey Camiseta Gris Lt Grey Htr 038...'
 sku: 'B0776ZTNNS-es'
-tags: [ 'camiseta','jersey', ]
-actualPrice: 20.08 EUR
+tags: [ 'Camisetas para hombre','Camisetas, polos y camisas para hombre','Ropa','Ropa para hombre','camiseta','jersey','tommy jeans', ]
+actualPrice: 19.25 EUR
 currency: EUR
-price: 20.08
-comparePrice: 29.0 EUR
-prodname: 'Tommy Hilfiger Original Jersey Camiseta  Gris  Lt Grey Htr 038   X-Small para Hombre'
+price: 19.25
+comparePrice: 29.9 EUR
+prodname: 'Tommy Jeans Original Jersey Camiseta  Gris  Lt Grey Htr 038   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Tommy Jeans'
 buyurl: 'https://www.amazon.es/dp/B0776ZTNNS/?tag=tolees-21'
-descuento: '30.76'
-average: '19.615'
+descuento: '35.62'
+average: '19.4807692307692'
 ---
 
-Está [Tommy Hilfiger Original Jersey Camiseta  Gris  Lt Grey Htr 038   X-Small para Hombre](https://www.amazon.es/dp/B0776ZTNNS/?tag=tolees-21) con 30.76 de descuento por 20.08 EUR (original: 29.0 EUR) en el siguiente enlace!
+Está [Tommy Jeans Original Jersey Camiseta  Gris  Lt Grey Htr 038   X-Small para Hombre](https://www.amazon.es/dp/B0776ZTNNS/?tag=tolees-21) con 35.62 de descuento por 19.25 EUR (original: 29.9 EUR) en el siguiente enlace!
 
-[![Tommy Hilfiger Original Jersey Camiseta ](https://m.media-amazon.com/images/I/41KTrRDfhkL._SL400_.jpg)](https://www.amazon.es/dp/B0776ZTNNS/?tag=tolees-21)
+[![Tommy Jeans Original Jersey Camiseta  Gr](https://m.media-amazon.com/images/I/41yslC9PZlS._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B0776ZTNNS/?tag=tolees-21)
 
 ℹ️:
 
+- Ajuste: Regular Fit
+- Longitud del brazo: manga corta
+- Línea: Tommy Jeans
+- Talla: XS
+- Tommy Jeans - Camiseta de media manga con cuello en V, mezcla de algodón puro, color gris claro
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0776ZTNNS/?tag=tolees-21)

@@ -28,10 +28,10 @@ Está [Ray-Ban Aviator Large Metal - Gafas de sol unisex  SILVER  55](https://ww
 
 ℹ️:
 
-- Protección segura de los rayos solares
-- Con un diseño original
-- Protective case included
-- Gafas de sol
 - Accesorio moderno y elegante
+- Con un diseño original
+- Gafas de sol
+- Protective case included
+- Protección segura de los rayos solares
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B002QJHD1C/?tag=tolees-21)
