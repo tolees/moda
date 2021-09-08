@@ -28,8 +28,8 @@ Está [Lee Luke Jeans Vaqueros  Light Ray  30W / 32L para Hombre](https://www.am
 
 ℹ️:
 
+- Algodón orgánico
 - Tejido vaquero elástico
 - Tapizado fino
-- Algodón orgánico
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08CXTTB6N/?tag=tolees-21)
