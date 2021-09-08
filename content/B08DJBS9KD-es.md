@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BOSS TLogo 21 10232834 01 Camiseta  Whit al 50.99 % de rebaja'
-date: 2021-09-06 13:30:00
+date: 2021-09-08 07:39:49
 image: 'https://m.media-amazon.com/images/I/31T3KOTfhdS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
