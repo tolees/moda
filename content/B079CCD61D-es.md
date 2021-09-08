@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jjebasic Polo SS Noos - Cam al 19.68 % de descuento'
-date: 2021-08-30 19:02:13
+date: 2021-09-08 19:40:29
 image: 'https://m.media-amazon.com/images/I/31dZ4WoRntL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B079CCD61D/?tag=tolees-21'
 descuento: '19.68'
-average: '11.0336723163841'
+average: '11.0393258426965'
 ---
 
 Está [Jack & Jones Jjebasic Polo SS Noos - Camiseta para Hombre  Azul  Navy Blazer   Talla XL](https://www.amazon.es/dp/B079CCD61D/?tag=tolees-21) con 19.68 de descuento por 12.04 EUR (original: 14.99 EUR) en el siguiente enlace!
