@@ -28,11 +28,11 @@ Tienes [Carhartt Core Logo Workwear Short-Sleeve T-Shirt Camiseta  Black  L para
 
 ℹ️:
 
-- Camiseta
-- Manga corta
-- Consulte la guía de tallas para encontrar la adecuada para usted
-- Costuras planas de dos agujas
-- Construcción de costura lateral que minimiza la torsión
 - Cuello redondo de canalé
+- Costuras planas de dos agujas
+- Manga corta
+- Construcción de costura lateral que minimiza la torsión
+- Consulte la guía de tallas para encontrar la adecuada para usted
+- Camiseta
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07DV9TRJ5/?tag=tolees-21)
