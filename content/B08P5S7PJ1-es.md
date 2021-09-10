@@ -28,10 +28,10 @@ Está [ARENA Bikini Bodylift Mujer IDA Copa B](https://www.amazon.es/dp/B08P5S7P
 
 ℹ️:
 
-- 68% poliamida, 32% elastano
-- Artículo ideal para la natación y las actividades de fitness en el agua
 - Tirantes ajustables, sostén con copas extraíbles y clip en la espalda, copa B
 - Tejido Sensitive arena: resistente al cloro, de secado rápido, extremadamente cómodo
+- Artículo ideal para la natación y las actividades de fitness en el agua
+- 68% poliamida, 32% elastano
 - Moldeador: la tecnología Bodylift proporciona el máximo confort esculpiendo y aportando una sujeción natural al cuerpo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08P5S7PJ1/?tag=tolees-21)

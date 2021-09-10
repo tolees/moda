@@ -28,8 +28,8 @@ Ahora mismo tienes [Tommy Hilfiger Logo T-Shirt Camiseta  Blanco  Snow White 118
 
 🔎:
 
-- Cinta distintiva en el cuello
 - Logo de Tommy Hilfiger bordado en la manga
 - Logo de Tommy Hilfiger en el pecho
+- Cinta distintiva en el cuello
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07JYFR2RX/?tag=tolees-21)

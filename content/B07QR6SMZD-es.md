@@ -28,8 +28,8 @@ Está [Tommy Hilfiger Logo T-Shirt Camiseta  Negro  Jet Black Base   XS para Hom
 
 ℹ️:
 
-- Cinta distintiva en el cuello
-- Logo de Tommy Hilfiger bordado en la manga
 - Logo de Tommy Hilfiger en el pecho
+- Logo de Tommy Hilfiger bordado en la manga
+- Cinta distintiva en el cuello
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07QR6SMZD/?tag=tolees-21)
