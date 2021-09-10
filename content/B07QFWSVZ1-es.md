@@ -28,9 +28,9 @@ Está [Forever Ninette Forever Ninette Bicycle-Sac à Bandoulière Doctor Bolso 
 
 ℹ️:
 
-- Bolso bandolera estilo maletín médico retro
-- Dimensiones: 16 x 20 x 12cm
 - Forro interior con un bolsillo cerrado y uno abierto
+- Dimensiones: 16 x 20 x 12cm
 - Correa al hombro regulable de 130 cm y asa corta
+- Bolso bandolera estilo maletín médico retro
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07QFWSVZ1/?tag=tolees-21)
