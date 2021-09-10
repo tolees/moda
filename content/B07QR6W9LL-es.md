@@ -28,8 +28,8 @@ Tienes [Tommy Hilfiger Logo T-Shirt Camiseta  Negro  Jet Black Base   M para Hom
 
 🔎:
 
-- Cinta distintiva en el cuello
-- Logo de Tommy Hilfiger en el pecho
 - Logo de Tommy Hilfiger bordado en la manga
+- Logo de Tommy Hilfiger en el pecho
+- Cinta distintiva en el cuello
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07QR6W9LL/?tag=tolees-21)
