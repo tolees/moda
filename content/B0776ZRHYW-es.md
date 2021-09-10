@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Jeans Original Jersey Camiseta  Ne al 33.28 % de descuento'
-date: 2021-09-08 13:28:16
+date: 2021-09-10 01:45:09
 image: 'https://m.media-amazon.com/images/I/311cOr2HInL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Tommy Jeans'
 buyurl: 'https://www.amazon.es/dp/B0776ZRHYW/?tag=tolees-21'
 descuento: '33.28'
-average: '19.9390909090909'
+average: '19.94'
 ---
 
 Está [Tommy Jeans Original Jersey Camiseta  Negro  Tommy Black 078   X-Small para Hombre](https://www.amazon.es/dp/B0776ZRHYW/?tag=tolees-21) con 33.28 de descuento por 19.95 EUR (original: 29.9 EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [Tommy Jeans Original Jersey Camiseta  Negro  Tommy Black 078   X-Small pa
 
 ℹ️:
 
+- Talla: XS
+- Ajuste: Regular Fit
 - Tommy Jeans - Camiseta de media manga con cuello en V, algodón puro, color negro
 - Longitud del brazo: manga corta
 - Línea: Tommy Jeans
-- Talla: XS
-- Ajuste: Regular Fit
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0776ZRHYW/?tag=tolees-21)
