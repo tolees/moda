@@ -28,10 +28,10 @@ Está [Tommy Jeans Original Jersey Camiseta  Gris  Lt Grey Htr 038   X-Small par
 
 ℹ️:
 
-- Talla: XS
-- Tommy Jeans - Camiseta de media manga con cuello en V, mezcla de algodón puro, color gris claro
-- Línea: Tommy Jeans
-- Ajuste: Regular Fit
 - Longitud del brazo: manga corta
+- Línea: Tommy Jeans
+- Tommy Jeans - Camiseta de media manga con cuello en V, mezcla de algodón puro, color gris claro
+- Ajuste: Regular Fit
+- Talla: XS
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0776ZTNNS/?tag=tolees-21)

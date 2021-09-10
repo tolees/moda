@@ -28,10 +28,10 @@ Está [Tommy Jeans Original Jersey Camiseta  Negro  Tommy Black 078   X-Small pa
 
 ℹ️:
 
-- Talla: XS
-- Ajuste: Regular Fit
 - Tommy Jeans - Camiseta de media manga con cuello en V, algodón puro, color negro
 - Longitud del brazo: manga corta
+- Talla: XS
 - Línea: Tommy Jeans
+- Ajuste: Regular Fit
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0776ZRHYW/?tag=tolees-21)
