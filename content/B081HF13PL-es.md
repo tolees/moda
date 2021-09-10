@@ -28,10 +28,10 @@ En este momento está [Fútbol Club Barcelona - FCB Conjunto Camiseta y Pantaló
 
 🔎:
 
-- Equipación Color Azulgrana con verde Ter Stegen
 - Tejido 100% poliéster.
+- Conjunto compuesto por camiseta y pantalón 1 Equipación 2019-2020 FC Barcelonad.
+- Equipación Color Azulgrana con verde Ter Stegen
 - Producto Oficial Licenciado. Cada etiqueta tiene un holograma con un número de serie único que garantizan la legalidad del producto.
 - MUY IMPORTANTE: En la guia de talla puede consultar las medidas de la camiseta para que pueda elegir la talla correcta y evitar posibles cambios.
-- Conjunto compuesto por camiseta y pantalón 1 Equipación 2019-2020 FC Barcelonad.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B081HF13PL/?tag=tolees-21)

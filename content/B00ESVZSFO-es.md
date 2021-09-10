@@ -28,7 +28,7 @@ Tienes [Ray-Ban Justin RB4165 - Gafas de sol Unisex  Negro  Green Classic 601/71
 
 ℹ️:
 
-- Justin RB4165
 - Negro (Green Classic 601/71)
+- Justin RB4165
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00ESVZSFO/?tag=tolees-21)
