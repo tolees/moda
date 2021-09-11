@@ -29,7 +29,7 @@ Tienes [Levi s LS Battery Hm Shirt Slim Camisa Casual  Blue  Allure 0005   Small
 🔎:
 
 - Minilogotipo de Levis en el pecho
-- Con faldón curvado
 - Modelo casual
+- Con faldón curvado
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07TJ9R8C4/?tag=tolees-21)

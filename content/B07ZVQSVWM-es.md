@@ -28,8 +28,8 @@ Ahora mismo tienes [Levi s LS Battery HM Shirt Slim Camisa Casual  Harbor Gray  
 
 🔎:
 
-- Minilogotipo de Levis en el pecho
 - Modelo casual
 - Con faldón curvado
+- Minilogotipo de Levis en el pecho
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07ZVQSVWM/?tag=tolees-21)

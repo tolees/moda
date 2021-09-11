@@ -29,7 +29,7 @@ Está [Levi s LS Battery HM Shirt Slim Camisa Casual  Dusky Citron  M para Hombr
 ℹ️:
 
 - Con faldón curvado
-- Modelo casual
 - Minilogotipo de Levis en el pecho
+- Modelo casual
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07ZVR1CYV/?tag=tolees-21)
