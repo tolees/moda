@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Ray-Ban New Wayfarer  Gafas de Sol Unise con un 33.72 % de descuento'
-date: 2021-08-24 12:11:40
-image: 'https://m.media-amazon.com/images/I/211-Qtq0GUL._SL500_._SL400_.jpg'
+date: 2021-09-11 12:20:54
+image: 'https://m.media-amazon.com/images/I/31mIIuFRDKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,17 +19,17 @@ flag: '🇪🇸'
 brand: 'Ray-Ban'
 buyurl: 'https://www.amazon.es/dp/B003JFUVFC/?tag=tolees-21'
 descuento: '33.72'
-average: '89.6615384615384'
+average: '89.5064285714285'
 ---
 
 En este momento está [Ray-Ban New Wayfarer  Gafas de Sol Unisex adulto  Negro  Matte Black 622   52 mm](https://www.amazon.es/dp/B003JFUVFC/?tag=tolees-21) a 87.49 EUR (original: 132.0 EUR) (33.72 %  de descuento) en el siguiente enlace!
 
-[![Ray-Ban New Wayfarer  Gafas de Sol Unise](https://m.media-amazon.com/images/I/211-Qtq0GUL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B003JFUVFC/?tag=tolees-21)
+[![Ray-Ban New Wayfarer  Gafas de Sol Unise](https://m.media-amazon.com/images/I/31mIIuFRDKL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B003JFUVFC/?tag=tolees-21)
 
 🔎:
 
-- Ray-Ban combina el estilo excepcional con lo último en innovación científica
-- Tamaño: 52/18/145
 - Materiales de alta calidad y logotipo grabado en el lente
+- Tamaño: 52/18/145
+- Ray-Ban combina el estilo excepcional con lo último en innovación científica
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B003JFUVFC/?tag=tolees-21)
