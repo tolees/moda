@@ -28,8 +28,8 @@ Tienes [Kappa Accio Hoodie Sudadera de Capucha  Hombre  Rojo/Negro/Blanco  S](ht
 
 🔎:
 
-- Sudadera con capucha
 - Adecuada para un look deportivo y confortable
+- Sudadera con capucha
 - Puños acanalados en las mangas
 - Letra de Kappa bordada en el pecho y Omini Kappa bordado en los hombros
 

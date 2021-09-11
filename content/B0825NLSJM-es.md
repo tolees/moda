@@ -28,10 +28,10 @@ Tienes [Quiksilver First Fire tee M Camiseta  Hombre  Amarillo  Charlock   S](ht
 
 ℹ️:
 
-- Camiseta Para hombre
-- Corte normal
 - Cuello redondo y serigrafía en parte delantera
+- Corte normal
 - Clásico
+- Camiseta Para hombre
 - Cómodo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0825NLSJM/?tag=tolees-21)
