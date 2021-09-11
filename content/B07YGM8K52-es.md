@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazon Essentials Kimono Vestido Envolve al 42.89 % de descuento'
-date: 2021-09-05 07:38:15
+date: 2021-09-11 20:05:17
 image: 'https://m.media-amazon.com/images/I/31EdzR-nwaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

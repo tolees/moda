@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Marca Amazon - find. Camisa Hombre  Rosa con un 67.85 % de descuento'
-date: 2021-08-31 18:21:26
+date: 2021-09-11 19:37:26
 image: 'https://m.media-amazon.com/images/I/41hDNXd3P3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ En este momento está [Marca Amazon - find. Camisa Hombre  Rosa  Watermelon   L 
 🔎:
 
 - Tejido ligero de lino
+- Cuello ancho con botones
 - Corte casual
 - Estampado de pequeños cuadros
-- Cuello ancho con botones
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B06XG73NT3/?tag=tolees-21)

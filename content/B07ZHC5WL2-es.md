@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Marca Amazon - find. Camisa de Lino de M al 44.44 % de descuento'
-date: 2021-08-31 18:21:48
-image: 'https://m.media-amazon.com/images/I/31h-3Rs7WrL._SL500_._SL400_.jpg'
+date: 2021-09-11 19:38:33
+image: 'https://m.media-amazon.com/images/I/41F8c3R8KjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -24,7 +24,7 @@ average: '15.5'
 
 Ahora mismo tienes [Marca Amazon - find. Camisa de Lino de Manga Corta Hombre  Blue  Navy     XXS  Label: XXS](https://www.amazon.es/dp/B07ZHC5WL2/?tag=tolees-21) a 15.5 EUR (original: 27.9 EUR) (44.44 %  de descuento) en el siguiente enlace!
 
-[![Marca Amazon - find. Camisa de Lino de M](https://m.media-amazon.com/images/I/31h-3Rs7WrL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07ZHC5WL2/?tag=tolees-21)
+[![Marca Amazon - find. Camisa de Lino de M](https://m.media-amazon.com/images/I/41F8c3R8KjL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07ZHC5WL2/?tag=tolees-21)
 
 🔎:
 
