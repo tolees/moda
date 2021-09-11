@@ -28,9 +28,9 @@ En este momento está [Marca Amazon - IRIS & LILLY Braguita de Talle Alto Algod�
 
 🔎:
 
-- Tejido suave que se adapta al cuerpo
-- Refuerzo de algodón
 - Ribete elástico en los bordes
+- Refuerzo de algodón
+- Tejido suave que se adapta al cuerpo
 - Corte por encima de la cadera
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01LXAB8YF/?tag=tolees-21)

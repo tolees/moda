@@ -28,9 +28,9 @@ Tienes [Crocs Crocband Sandal Kids Sandalias  Unisex Niños  Rosa  Ballerina Pin
 
 ℹ️:
 
+- Croslite material heel strap for a secure fit.
 - Holes for jibbitz shoe charms for personalisation.
 - Crocs Girls Crocband Slip On Molded Croslite Anklestrap Sandals Pink Fully Moulded Croslite Material Construction For Maximum Lightweight Cushioning. Sporty Midsole Band Inspired By The Classic Vulcanised Style. Croslite Material
-- Croslite material heel strap for a secure fit.
 - Fully moulded Croslite material construction for maximum lightweight cushioning.
 - Sporty midsole band inspired by the classic vulcanised style.
 

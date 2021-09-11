@@ -29,7 +29,7 @@ Ahora mismo tienes [adidas Tiro 19 Training Top Sudadera  Hombre  Azul  Bold Blu
 🔎:
 
 - Ribbed collar and cuffs
-- Regular fit
 - Climacool technology
+- Regular fit
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07K7JSPPW/?tag=tolees-21)
