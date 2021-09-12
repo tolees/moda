@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox B ALBEN Boy B  Zapatillas  Navy/AVI con un 54.09 % de descuento'
-date: 2021-09-05 12:44:42
+date: 2021-09-12 09:46:11
 image: 'https://m.media-amazon.com/images/I/41N36l8o4iL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B08BLPQKFZ/?tag=tolees-21'
 descuento: '54.09'
-average: '38.7'
+average: '34.9666666666667'
 ---
 
 En este momento está [Geox B ALBEN Boy B  Zapatillas  Navy/AVI O  26 EU](https://www.amazon.es/dp/B08BLPQKFZ/?tag=tolees-21) a 27.5 EUR (original: 59.9 EUR) (54.09 %  de descuento) en el siguiente enlace!

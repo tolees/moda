@@ -28,10 +28,10 @@ En este momento está [Sandalias Niña Pablosky Blanco 401400 37](https://www.am
 
 🔎:
 
-- Forro inTech sin costuras, una microfibra 7 veces más absorbente que la piel, neutro y resistente al roce;
-- Piel natural de primera calidad que garantiza la correcta transpiración del pie;
 - Cuenta con la garantía de calidad de Pablosky, que incorpora:
-- Calzado de diseño intemporal que le acompañará en múltiples situaciones; comodidad, durabilidad y versatilidad de un calzado 100% español.
 - Plantilla amortiguadora superabsorbente y antibacterias;
+- Piel natural de primera calidad que garantiza la correcta transpiración del pie;
+- Calzado de diseño intemporal que le acompañará en múltiples situaciones; comodidad, durabilidad y versatilidad de un calzado 100% español.
+- Forro inTech sin costuras, una microfibra 7 veces más absorbente que la piel, neutro y resistente al roce;
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08HJLP68Q/?tag=tolees-21)

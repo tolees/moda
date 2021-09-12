@@ -28,8 +28,8 @@ Ahora mismo tienes [Levi s 510 Skinny Vaqueros  Whoop  27W / 32L para Hombre](ht
 
 🔎:
 
-- Estilo contemporáneo
-- Diseño de cinco bolsillos
 - Corte ceñido de la cadera al tobillo
+- Diseño de cinco bolsillos
+- Estilo contemporáneo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0897YWNZH/?tag=tolees-21)
