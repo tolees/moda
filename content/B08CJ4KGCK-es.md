@@ -28,10 +28,10 @@ Tienes [Columbia Rapid Ridge II Camiseta estampada para hombre](https://www.amaz
 
 🔎:
 
-- Disponible en una gran variedad de colores a la moda
-- Contenido: 1 x Columbia Rapid Ridge II Camiseta estampada para hombre, Tejido: 100% Algodón orgánico, Color: Blanco (White Summit Seeker), Talla: S, Art.No. 1934824
-- Diseño del logotipo de Columbia en la espalda con colores vivos
-- Óptimo para el día a día con unos vaqueros o unos pantalones cortos
 - Camiseta estampada para hombre, Ligera y ventilada, Un básico imprescindible para el verano
+- Diseño del logotipo de Columbia en la espalda con colores vivos
+- Contenido: 1 x Columbia Rapid Ridge II Camiseta estampada para hombre, Tejido: 100% Algodón orgánico, Color: Blanco (White Summit Seeker), Talla: S, Art.No. 1934824
+- Óptimo para el día a día con unos vaqueros o unos pantalones cortos
+- Disponible en una gran variedad de colores a la moda
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08CJ4KGCK/?tag=tolees-21)

@@ -29,8 +29,8 @@ En este momento está [Sandalias Niña Pablosky Blanco 401400 37](https://www.am
 🔎:
 
 - Cuenta con la garantía de calidad de Pablosky, que incorpora:
-- Plantilla amortiguadora superabsorbente y antibacterias;
 - Piel natural de primera calidad que garantiza la correcta transpiración del pie;
+- Plantilla amortiguadora superabsorbente y antibacterias;
 - Calzado de diseño intemporal que le acompañará en múltiples situaciones; comodidad, durabilidad y versatilidad de un calzado 100% español.
 - Forro inTech sin costuras, una microfibra 7 veces más absorbente que la piel, neutro y resistente al roce;
 
