@@ -28,8 +28,8 @@ Está [Geographical Norway PARKA HOMBRE BOOMERANG ASS B 068 ROL 7.](https://www.
 
 ℹ️:
 
-- Bolsillos
 - Capucha
+- Bolsillos
 - Cierre cremallera parte central
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B081CMN6QP/?tag=tolees-21)
