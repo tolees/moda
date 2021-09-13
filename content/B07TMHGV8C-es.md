@@ -28,7 +28,7 @@ En este momento está [Levi s 2pk Crewneck Graphic Camiseta  White  2pack tee Wh
 
 🔎:
 
-- 2 PK Crewneck Graphic
 - Tamaño del paquete: 4,85 x 31,81 x 21,16 cm
+- 2 PK Crewneck Graphic
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07TMHGV8C/?tag=tolees-21)

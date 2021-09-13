@@ -28,8 +28,8 @@ Tienes [Lee Rider Jacket Chaqueta de Jean  Azul  Light BAYBRIDGE IL   Small para
 
 🔎:
 
-- Cierre con botones
 - Chaqueta para mujer
+- Cierre con botones
 - Presenta 2 bolsillos en el pecho
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07VQ9LJWB/?tag=tolees-21)

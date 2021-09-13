@@ -29,8 +29,8 @@ Está [GEOX B ALBEN BOY C BLACK/ORANGE Baby Boys  Trainers Low-Top Trainers size
 ℹ️:
 
 - Cierre: Strap + Elastic Lace
+- Revestimiento: Sintético
 - Material exterior: Ante
 - Material de la suela: Caucho
-- Revestimiento: Sintético
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0825PGBZ6/?tag=tolees-21)
