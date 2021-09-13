@@ -1,0 +1,37 @@
+---
+layout: post
+title: 'Geox U Sandal Strada B  Sandalias Punta  al 32.15 % de descuento'
+date: 2021-09-13 01:51:33
+image: 'https://m.media-amazon.com/images/I/41XM4oxnE4L._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B07F3FSB91-es Geox U Sandal Strada B Sandalias Punta Cerrada Hombre...'
+sku: 'B07F3FSB91-es'
+tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','geox','sandalias', ]
+actualPrice: 54.21 EUR
+currency: EUR
+price: 54.21
+comparePrice: 79.9 EUR
+prodname: 'Geox U Sandal Strada B  Sandalias Punta Cerrada Hombre  Negro  Black C9999   42 EU'
+country: 'es'
+flag: '🇪🇸'
+brand: 'Geox'
+buyurl: 'https://www.amazon.es/dp/B07F3FSB91/?tag=tolees-21'
+descuento: '32.15'
+average: '55.1378571428571'
+---
+
+Está [Geox U Sandal Strada B  Sandalias Punta Cerrada Hombre  Negro  Black C9999   42 EU](https://www.amazon.es/dp/B07F3FSB91/?tag=tolees-21) con 32.15 de descuento por 54.21 EUR (original: 79.9 EUR) en el siguiente enlace!
+
+[![Geox U Sandal Strada B  Sandalias Punta ](https://m.media-amazon.com/images/I/41XM4oxnE4L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07F3FSB91/?tag=tolees-21)
+
+ℹ️:
+
+- Die U S.Strada B für Herren von Geox ist eine komfortable Sling Sandale für warme Sommertage.
+- Verstellbarer Fersenriemen für individuelle Passform und festen Halt
+- Perforierte Sohle mit einer inneren Membran – sorgt für Atmungsaktivität und ist wasserundurchlässig
+- Leder ist langlebig und strapazierfähig
+- Schnellschnürsystem und Klettverschluss für einfaches An- und Ausziehen
+
+[🛒 Ver la oferta!!](https://www.amazon.es/dp/B07F3FSB91/?tag=tolees-21)
