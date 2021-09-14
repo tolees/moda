@@ -28,8 +28,8 @@ Está [Desigual Fabric Shoulder Bag  Bolso Bandolera. para Mujer  Verde  U](http
 
 ℹ️:
 
-- Bordado de pequeñas lentejuelas sobre los bolsillos frontales
 - 100% COTTON
 - La parte superior y frontal estampada con mandalas de diferentes tamaños
+- Bordado de pequeñas lentejuelas sobre los bolsillos frontales
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08CN72M6L/?tag=tolees-21)
