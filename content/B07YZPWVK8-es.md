@@ -28,7 +28,7 @@ En este momento está [JACK & JONES Jjiliam Jjoriginal Agi 002 Noos Vaqueros ski
 
 🔎:
 
-- Elastic cotton
 - Skinny fit Jeans
+- Elastic cotton
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07YZPWVK8/?tag=tolees-21)
