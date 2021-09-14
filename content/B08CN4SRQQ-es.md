@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Desigual Vest Noemi Vestido Casual  Whit al 50.05 % de rebaja'
-date: 2021-09-07 14:10:51
+date: 2021-09-14 19:02:17
 image: 'https://m.media-amazon.com/images/I/51bEZd9Qn-S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
