@@ -1,32 +1,36 @@
 ---
 layout: post
-title: 'Descuento del 63.69 % en Clarks Un Karely Sun  Chanclas para Muje'
-date: 2020-05-13 16:06:49
-image: 'https://m.media-amazon.com/images/I/31F8Y7xD72L._SL400_.jpg'
+title: 'Descuento del 66.97 % en Clarks Un Karely Sun  Chanclas Sandalias'
+date: 2021-09-14 02:37:42
+image: 'https://m.media-amazon.com/images/I/41gHmOOU-JL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07FSCB385-es Clarks Un Karely Sun Chanclas para Mujer Negro Black...'
+slug: 'B07FSCB385-es Clarks Un Karely Sun Chanclas Sandalias Flip-Flop Negro...'
 sku: 'B07FSCB385-es'
-tags: [ 'chanclas', ]
-actualPrice: 39.94 EUR
+tags: [ 'Sandalias de vestir para mujer','Sandalias y palas de mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','chanclas','clarks','sandalias', ]
+actualPrice: 36.33 EUR
 currency: EUR
-price: 39.94
+price: 36.33
 comparePrice: 110.0 EUR
-prodname: 'Clarks Un Karely Sun  Chanclas para Mujer  Negro  Black Nubuck-   36 EU'
+prodname: 'Clarks Un Karely Sun  Chanclas Sandalias Flip-Flop  Negro  Black Nubuck-   36 EU'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Clarks'
 buyurl: 'https://www.amazon.es/dp/B07FSCB385/?tag=tolees-21'
-descuento: '63.69'
-average: '39.94'
+descuento: '66.97'
+average: '38.7366666666667'
 ---
 
-Tienes [Clarks Un Karely Sun  Chanclas para Mujer  Negro  Black Nubuck-   36 EU](https://www.amazon.es/dp/B07FSCB385/?tag=tolees-21) con un 63.69 % de descuento con precio de oferta de 39.94 EUR (original: 110.0 EUR) en el siguiente enlace!
+Tienes [Clarks Un Karely Sun  Chanclas Sandalias Flip-Flop  Negro  Black Nubuck-   36 EU](https://www.amazon.es/dp/B07FSCB385/?tag=tolees-21) con un 66.97 % de descuento con precio de oferta de 36.33 EUR (original: 110.0 EUR) en el siguiente enlace!
 
-[![Clarks Un Karely Sun  Chanclas para Muje](https://m.media-amazon.com/images/I/31F8Y7xD72L._SL400_.jpg)](https://www.amazon.es/dp/B07FSCB385/?tag=tolees-21)
+[![Clarks Un Karely Sun  Chanclas Sandalias](https://m.media-amazon.com/images/I/41gHmOOU-JL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07FSCB385/?tag=tolees-21)
 
 ℹ️:
 
+- Suela: goma
+- Material exterior: piel (nobuck)
+- Cierre: velcro
+- Material interior: piel
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07FSCB385/?tag=tolees-21)
