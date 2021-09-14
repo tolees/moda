@@ -29,8 +29,8 @@ En este momento está [Columbia Delta Ridge  Chaqueta de plumas con capucha  Muj
 🔎:
 
 - Contenido: 1x Columbia Chaqueta de plumas con capucha Delta Ridge, Material: Poliéster/Plumón certificado RDS, Color: Gris, Talla S, 1875932
-- Chaqueta repelente al agua con capucha para mujer, Adecuado para los días fríos de invierno en la ciudad, para practicar senderismo y otras actividades al aire libre, Ajuste Activo
 - Especialmente cálida gracias a la tecnología Omni-Heat con revestimiento Termoreflectante, Material repelente al agua para una óptima protección contra la humedad
+- Chaqueta repelente al agua con capucha para mujer, Adecuado para los días fríos de invierno en la ciudad, para practicar senderismo y otras actividades al aire libre, Ajuste Activo
 - Cintura con cordón para un uso cómodo, Protector de mentón, Capucha de buceo, Aislamiento de plumas de 650 cuin
 - Práctica, Cremallera completa, 2 bolsillos con cremallera para mantener las manos calientes y seguras, Dobladillo en puños y capucha
 

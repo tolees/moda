@@ -28,10 +28,10 @@ En este momento está [Luanvi Pol Camiseta de Deportes Manga Corta  Azul  4XS pa
 
 🔎:
 
-- Tejidos estampados mediante el proceso de sublima- ción. Sistema que consigue que a través del calor se transfiera y se fije la tinta al tejido.
-- Logotipo de marca estampado con printing de alta calidad
-- Tecnología Cool-Skin para una regulación de la temperatura corporal
-- Confeccionada en multifilamento para una mayor resitencia y comodidad
 - Tejido Transpirable que absorbe la sudoración y la evacua hacia el exterior para mayor comodidad
+- Confeccionada en multifilamento para una mayor resitencia y comodidad
+- Tecnología Cool-Skin para una regulación de la temperatura corporal
+- Logotipo de marca estampado con printing de alta calidad
+- Tejidos estampados mediante el proceso de sublima- ción. Sistema que consigue que a través del calor se transfiera y se fije la tinta al tejido.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07F7ZZ8Z8/?tag=tolees-21)
