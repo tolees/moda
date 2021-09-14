@@ -28,7 +28,7 @@ En este momento está [Clarks Un Karely Sun  Chanclas Mujer  Dorado  Gold Metall
 
 🔎:
 
-- Material de la suela: EVA
 - Color exacto: dorado metálico
+- Material de la suela: EVA
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07FSDYJ28/?tag=tolees-21)
