@@ -28,8 +28,8 @@ Está [Tommy Hilfiger TH ESS Hilfiger Hoodie LS Sudadera con Capucha  Azul  Dese
 
 ℹ️:
 
+- Tiene el logo de Tommy Hilfiger bordado en la parte delantera
 - De estilo informal
 - Dispone de un bolsillo canguro
-- Tiene el logo de Tommy Hilfiger bordado en la parte delantera
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07VLQSR1X/?tag=tolees-21)
