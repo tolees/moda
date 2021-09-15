@@ -28,7 +28,7 @@ Tienes [BOSS Paule 2 10196402 01 Camisa de Polo  White100  S para Hombre](https:
 
 🔎:
 
-- Pique elástico fino
 - Acabado de alta calidad
+- Pique elástico fino
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08CF1TJL9/?tag=tolees-21)

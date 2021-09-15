@@ -28,10 +28,10 @@ Está [Jack & Jones Jjeholmen Sweat Zip Hood Noos Sudadera  Gris  Dark Grey Mela
 
 ℹ️:
 
-- Color: Gris oscuro
-- Material: Algodón
+- Designer: JACK&JONES
 - Artículo: 12136884
 - Estación: Continua
-- Designer: JACK&JONES
+- Material: Algodón
+- Color: Gris oscuro
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07B61KDWJ/?tag=tolees-21)
