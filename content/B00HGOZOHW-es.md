@@ -28,8 +28,8 @@ Tienes [Joma Gladiator  Pantalón largo deportivo para niños  Negro   14 años]
 
 ℹ️:
 
-- Pantalón sin bolsillos
 - Pantalón largo pitillo
 - Cremallera en la zona inferior
+- Pantalón sin bolsillos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00HGOZOHW/?tag=tolees-21)
