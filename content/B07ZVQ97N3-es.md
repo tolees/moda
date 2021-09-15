@@ -28,8 +28,8 @@ En este momento está [Levi s The Perfect tee Camiseta  Batwing Poppy Red  XS pa
 
 🔎:
 
-- Tiene estampado la marca Levis
-- Con tacto suave de forro polar
 - Modelo casual
+- Con tacto suave de forro polar
+- Tiene estampado la marca Levis
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07ZVQ97N3/?tag=tolees-21)
