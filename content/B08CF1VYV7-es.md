@@ -28,7 +28,7 @@ Ahora mismo tienes [BOSS Paule 2 10196402 01 Camisa de Polo  Talla Mediana Red61
 
 🔎:
 
-- Acabado de alta calidad
 - Pique elástico fino
+- Acabado de alta calidad
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CF1VYV7/?tag=tolees-21)
