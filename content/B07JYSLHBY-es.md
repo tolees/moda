@@ -28,8 +28,8 @@ Ahora mismo tienes [Tommy Hilfiger Tommy Logo Hoody 0752 Sudadera con Capucha  A
 
 🔎:
 
-- Ver descripción del producto para obtener más información.
 - A estrenar y genuina. Somos un vendedor autorizado de Tommy Hilfiger.
+- Ver descripción del producto para obtener más información.
 - Tommy Hilfiger Azul Core Logo Hoodie
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07JYSLHBY/?tag=tolees-21)

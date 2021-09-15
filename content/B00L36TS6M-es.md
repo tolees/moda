@@ -29,8 +29,8 @@ Está [Joma Combi Camiseta Manga Corta  Hombre  Naranja  XL](https://www.amazon.
 ℹ️:
 
 - Comodidad
-- Durabilidad
-- Paqueteage Dimensiones: 3.4 L x 27.0 H x 18.0 W (centimeters)
 - Tejido transpirable
+- Paqueteage Dimensiones: 3.4 L x 27.0 H x 18.0 W (centimeters)
+- Durabilidad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00L36TS6M/?tag=tolees-21)
