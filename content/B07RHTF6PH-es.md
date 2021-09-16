@@ -29,7 +29,7 @@ Está [adidas Streetcheck  Zapatos de Baloncesto Hombre  Multicolor  Core Black/
 ℹ️:
 
 - Zapatillas de running
-- Amortiguación
 - Empeine de malla.
+- Amortiguación
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07RHTF6PH/?tag=tolees-21)
