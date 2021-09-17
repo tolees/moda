@@ -28,11 +28,11 @@ Está [Pepe Jeans West Sir Camiseta  Rosa  325pink   XS para Hombre](https://www
 
 ℹ️:
 
-- Cuello redondo
-- Logo impreso delante
-- Efecto desgastado
-- Fit slim
 - Manga corta
+- Efecto desgastado
+- Logo impreso delante
+- Cuello redondo
+- Fit slim
 - Camiseta de algodón
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08D71GNPS/?tag=tolees-21)
