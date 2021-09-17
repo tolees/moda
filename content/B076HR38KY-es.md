@@ -28,9 +28,9 @@ En este momento está [adidas CORE18 tee Camiseta de Manga Corta  Hombre  Dark B
 
 🔎:
 
-- Adidas logo on the front
-- Climalite anti-humidity fabric
-- Regular fit
 - 100% algodón
+- Regular fit
+- Climalite anti-humidity fabric
+- Adidas logo on the front
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B076HR38KY/?tag=tolees-21)
