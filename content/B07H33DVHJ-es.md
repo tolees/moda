@@ -28,8 +28,8 @@ En este momento está [Joma Combi Camiseta Manga Corta  Hombre  Burdeos  6XS-5XS
 
 🔎:
 
-- Training
-- Camisetas equip; m/c
 - Burdeos
+- Camisetas equip; m/c
+- Training
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07H33DVHJ/?tag=tolees-21)
