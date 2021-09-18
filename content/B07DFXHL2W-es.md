@@ -28,8 +28,8 @@ Ahora mismo tienes [ONLY Onlsedona Boucle Wool Coat Otw Noos Abrigo  Negro  Blac
 
 🔎:
 
-- Con capucha extragrande
 - a la moda. Clásico abrigo corto de la marca Only
 - Lana de gran calidad con aspecto jaspeado
+- Con capucha extragrande
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DFXHL2W/?tag=tolees-21)
