@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 41427 Friends Tienda de Moda de Emm al 18.47 % de descuento'
-date: 2021-09-05 01:22:37
+title: 'LEGO 41427 Friends Tienda de Moda de Emm al 15.37 % de descuento'
+date: 2021-09-18 08:09:30
 image: 'https://m.media-amazon.com/images/I/51kqkf4J3TL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B0813RPSV6-es LEGO 41427 Friends Tienda de Moda de Emma Juguete de...'
 sku: 'B0813RPSV6-es'
 tags: [ 'Casas de muñecas','Juegos de construcción para niños','Juguetes','Juguetes y juegos','Muñecas y accesorios','lego','moda', ]
-actualPrice: 24.45 EUR
+actualPrice: 25.38 EUR
 currency: EUR
-price: 24.45
+price: 25.38
 comparePrice: 29.99 EUR
 prodname: 'LEGO 41427 Friends Tienda de Moda de Emma Juguete de Construcción para Niños y Niñas de +6 años Boutique con Mini Muñecas'
 country: 'es'
 flag: '🇪🇸'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.es/dp/B0813RPSV6/?tag=tolees-21'
-descuento: '18.47'
-average: '25.3046236559137'
+descuento: '15.37'
+average: '25.3796039603957'
 ---
 
-Está [LEGO 41427 Friends Tienda de Moda de Emma Juguete de Construcción para Niños y Niñas de +6 años Boutique con Mini Muñecas](https://www.amazon.es/dp/B0813RPSV6/?tag=tolees-21) con 18.47 de descuento por 24.45 EUR (original: 29.99 EUR) en el siguiente enlace!
+Está [LEGO 41427 Friends Tienda de Moda de Emma Juguete de Construcción para Niños y Niñas de +6 años Boutique con Mini Muñecas](https://www.amazon.es/dp/B0813RPSV6/?tag=tolees-21) con 15.37 de descuento por 25.38 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![LEGO 41427 Friends Tienda de Moda de Emm](https://m.media-amazon.com/images/I/51kqkf4J3TL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B0813RPSV6/?tag=tolees-21)
 
