@@ -28,8 +28,8 @@ Está [Geox D BULMYA A  Zapatillas Mujer  Color Blanco  36 EU](https://www.amazo
 
 ℹ️:
 
-- Material exterior: sintético
 - Cierre: cordones
+- Material exterior: sintético
 - Material interior: sintético
 - Suela: goma
 
