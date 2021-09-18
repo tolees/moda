@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s T2 Relaxed Graphic Sudadera  Mv L al 35.36 % de descuento'
-date: 2021-09-17 02:17:34
+date: 2021-09-18 20:56:02
 image: 'https://m.media-amazon.com/images/I/31pq6grXXtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B0897XZZDB/?tag=tolees-21'
 descuento: '35.36'
-average: '26.8731578947369'
+average: '27.9535000000001'
 ---
 
 Ahora mismo tienes [Levi s T2 Relaxed Graphic Sudadera  Mv Logo Po White  XXL para Hombre](https://www.amazon.es/dp/B0897XZZDB/?tag=tolees-21) a 48.48 EUR (original: 75.0 EUR) (35.36 %  de descuento) en el siguiente enlace!
