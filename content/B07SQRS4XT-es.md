@@ -28,8 +28,8 @@ Tienes [Roxy Viva  Chanclas Mujer  Rosa  Pink Pnk   38 EU](https://www.amazon.es
 
 🔎:
 
-- Suela: suela exterior de goma
 - Material exterior: exterior de goma con pasador de metal Roxy
 - Plantilla: Plantilla de goma estructurada
+- Suela: suela exterior de goma
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07SQRS4XT/?tag=tolees-21)
