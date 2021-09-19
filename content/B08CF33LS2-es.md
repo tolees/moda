@@ -29,8 +29,8 @@ Ahora mismo tienes [BOSS Biado r 10233753 01 Camisa  Navy410  S para Hombre](htt
 🔎:
 
 - Acabado de alta calidad
-- Logotipo curvado en contraste
 - Mezcla de algodón que regula la humedad
 - libertad de movimiento
+- Logotipo curvado en contraste
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CF33LS2/?tag=tolees-21)

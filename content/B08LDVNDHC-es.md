@@ -28,7 +28,7 @@ En este momento está [Esprit 041ee1k334 Camiseta  370/verde  M para Mujer](http
 
 🔎:
 
-- Tamaño del paquete: 29 x 3279 x 249 cm
 - Con diafragma estrecho
+- Tamaño del paquete: 29 x 3279 x 249 cm
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08LDVNDHC/?tag=tolees-21)

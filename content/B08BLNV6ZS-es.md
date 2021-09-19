@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox J Sandal Haiti Girl  Sandalia  Blan al 54.91 % de descuento'
-date: 2021-09-12 08:46:30
+date: 2021-09-19 16:02:31
 image: 'https://m.media-amazon.com/images/I/41ciQlTSiZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
