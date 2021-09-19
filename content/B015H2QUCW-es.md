@@ -28,10 +28,10 @@ Ahora mismo tienes [Carhartt Maddock Short-Sleeve T-Shirt Camiseta  White  XL pa
 
 🔎:
 
-- Etiqueta Carhartt en el dobladillo.
-- La construcción lateral de costuras minimiza el twisting.
-- Cuello redondo.
 - Carhartt es una marca de ropa de trabajo, con un ajuste más amplio en el pecho y los hombros. Si prefiere un ajuste más adaptado al cuerpo, escoja una talla más baja.
+- Cuello redondo.
+- La construcción lateral de costuras minimiza el twisting.
+- Etiqueta Carhartt en el dobladillo.
 - Costuras planas de dos puntas.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B015H2QUCW/?tag=tolees-21)
