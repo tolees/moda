@@ -28,8 +28,8 @@ Está [BOSS Biado r 10233753 01 Camisa  Azul  S para Hombre](https://www.amazon.
 
 ℹ️:
 
-- libertad de movimiento
 - Acabado de alta calidad
+- libertad de movimiento
 - Mezcla de algodón que regula la humedad
 - Logotipo curvado en contraste
 

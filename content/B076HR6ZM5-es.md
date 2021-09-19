@@ -28,9 +28,9 @@ Tienes [adidas Core18 PES Jkt Chaqueta  Hombre  Azul  Dark Blue/White   XS](http
 
 ℹ️:
 
-- Material 100% poliéster
 - Chaqueta con bolsillos con cremallera
 - Puños con puños elásticos
 - Cuello altamente cerrable
+- Material 100% poliéster
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B076HR6ZM5/?tag=tolees-21)
