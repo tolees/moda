@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Fef H Jsy W Camiseta  Unisex Niño al 50.00 % de descuento'
-date: 2021-09-10 15:03:04
+date: 2021-09-19 09:11:05
 image: 'https://m.media-amazon.com/images/I/41VinuxV+eL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B081HHKCYB/?tag=tolees-21'
 descuento: '50.00'
-average: '35.58125'
+average: '35.5166666666667'
 ---
 
 Está [adidas Fef H Jsy W Camiseta  Unisex Niños  Rojo  152](https://www.amazon.es/dp/B081HHKCYB/?tag=tolees-21) con 50.00 de descuento por 35.0 EUR (original: 70.0 EUR) en el siguiente enlace!
@@ -29,8 +29,8 @@ Está [adidas Fef H Jsy W Camiseta  Unisex Niños  Rojo  152](https://www.amazon
 ℹ️:
 
 - Ajuste regular
-- Camiseta de fútbol para los aficionados de España
 - Con escote de pico acanalado
+- Camiseta de fútbol para los aficionados de España
 - Tiene el logo de la marca en el pecho
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B081HHKCYB/?tag=tolees-21)
