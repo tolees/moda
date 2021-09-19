@@ -28,9 +28,9 @@ Tienes [G-STAR RAW Revend Skinny Jeans  Vaqueros  Antic Faded Monaco Blue Destro
 
 🔎:
 
-- Cinturilla ajustada
-- Cierre de botones y cremallera
 - Prenda ajustada de arriba abajo
 - Tiro medio
+- Cinturilla ajustada
+- Cierre de botones y cremallera
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08KS934TC/?tag=tolees-21)

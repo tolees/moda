@@ -28,9 +28,9 @@ En este momento está [BOSS Biado r 10233753 01 Camisa  Bright Blue438  M para H
 
 🔎:
 
+- Mezcla de algodón que regula la humedad
+- libertad de movimiento
 - Logotipo curvado en contraste
 - Acabado de alta calidad
-- libertad de movimiento
-- Mezcla de algodón que regula la humedad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CF24G8Q/?tag=tolees-21)
