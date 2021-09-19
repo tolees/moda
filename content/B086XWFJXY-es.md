@@ -28,10 +28,10 @@ Está [FM London - Camiseta para hombre  100 % algodón  peso medio  entallada  
 
 ℹ️:
 
-- 100 % algodón
+- Paquete de 3 camisetas lisas de cuello redondo
 - Algodón peinado suave al tacto.
 - Peso medio: 180 g/m²
-- Paquete de 3 camisetas lisas de cuello redondo
+- 100 % algodón
 - Estilo ligeramente ajustado con algodón elástico
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B086XWFJXY/?tag=tolees-21)
