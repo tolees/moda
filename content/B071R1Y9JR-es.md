@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dim Coton Stretch X6 Bóxer de algodón el al 45.37 % de rebaja'
-date: 2021-09-18 07:55:24
+date: 2021-09-19 20:57:05
 image: 'https://m.media-amazon.com/images/I/413knDF75+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
