@@ -28,7 +28,7 @@ Tienes [Lacoste L1212  Camisa de Polo para Hombre  Rojo  Bordeaux   3XL](https:/
 
 🔎:
 
-- Classic fit
 - Bajo recto con aberturas laterales
+- Classic fit
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B004UJD9KA/?tag=tolees-21)
