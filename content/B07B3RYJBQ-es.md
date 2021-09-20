@@ -28,9 +28,9 @@ En este momento está [PUMA Liga Jersey Hooped Jr Camiseta  Unisex niños  Puma 
 
 🔎:
 
-- Corte regular
 - Escote redondo
-- dryCELL: propiedades de absorción de la humedad que te ayudan a estar seco y cómodo
 - Cinta en el dobladillo del cuello
+- Corte regular
+- dryCELL: propiedades de absorción de la humedad que te ayudan a estar seco y cómodo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07B3RYJBQ/?tag=tolees-21)

@@ -28,9 +28,9 @@ En este momento está [adidas Camiseta Modelo B Camo T Marca](https://www.amazon
 
 🔎:
 
-- Diseño transpirable
 - Tejido calado 100% poliéster reciclado
 - Cuello redondo de canalé
 - Manga corta
+- Diseño transpirable
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08S3M3FBR/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ray-Ban Clubmaster - Gafas de sol para h al 33.11 % de descuento'
-date: 2021-09-01 16:23:00
+date: 2021-09-20 20:22:35
 image: 'https://m.media-amazon.com/images/I/21iujRbmK6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ray-Ban'
 buyurl: 'https://www.amazon.es/dp/B001GNBJQY/?tag=tolees-21'
 descuento: '33.11'
-average: '96.0157142857143'
+average: '95.8875'
 ---
 
 Está [Ray-Ban Clubmaster - Gafas de sol para hombre  Marrón  Marco: Havana  Vidrio: Verde Clásico W0366   49 milímetros](https://www.amazon.es/dp/B001GNBJQY/?tag=tolees-21) con 33.11 de descuento por 94.99 EUR (original: 142.0 EUR) en el siguiente enlace!
