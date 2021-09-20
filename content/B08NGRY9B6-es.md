@@ -28,7 +28,7 @@ Está [cotton division Meswmants047 Camiseta  Negro  XXL para Hombre](https://ww
 
 ℹ️:
 
-- Camiseta de hombre Star Wars – The Mando Armor – Camiseta de manga larga – Color negro
 - Con licencia 100% oficial
+- Camiseta de hombre Star Wars – The Mando Armor – Camiseta de manga larga – Color negro
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08NGRY9B6/?tag=tolees-21)

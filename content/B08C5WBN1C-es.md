@@ -28,7 +28,7 @@ Está [Iris & Lilly Ns2506 Camisón  Burdeos  40](https://www.amazon.es/dp/B08C5
 
 ℹ️:
 
-- Una marca de Amazon
 - Confeccionado en un tejido de punto suave y ligero para un tacto y un ajuste cómodos
+- Una marca de Amazon
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08C5WBN1C/?tag=tolees-21)

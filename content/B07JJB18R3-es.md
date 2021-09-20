@@ -28,10 +28,10 @@ En este momento está [Timberland Davis Square TD Eurosprint  Toddler   Zapatill
 
 🔎:
 
-- Articolo: Polacco
-- Marca: Timberland
-- Color: negro
-- Tipologia: Bambino
 - Modelo: TBA282E
+- Articolo: Polacco
+- Color: negro
+- Marca: Timberland
+- Tipologia: Bambino
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07JJB18R3/?tag=tolees-21)

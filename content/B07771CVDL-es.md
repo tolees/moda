@@ -28,10 +28,10 @@ Está [Tommy Jeans Original Rib Camisa  Blanco  Classic White 100   Medium para 
 
 ℹ️:
 
-- Ajuste: Slim Fit
-- Talla: M
-- Longitud de la manga: manga larga - normal
-- Línea: Tommy Jeans
 - Tommy Jeans - Camiseta ajustada de manga larga de algodón puro con logotipo bordado y cuello redondo, color azul oscuro
+- Línea: Tommy Jeans
+- Ajuste: Slim Fit
+- Longitud de la manga: manga larga - normal
+- Talla: M
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07771CVDL/?tag=tolees-21)
