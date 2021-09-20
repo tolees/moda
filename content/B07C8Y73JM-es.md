@@ -29,9 +29,9 @@ En este momento está [Vans Ward Canvas  Zapatilla Baja Hombre  Azul  Dress Blue
 🔎:
 
 - Cierre: Cordones
-- Material exterior: Cuero
-- Material de la suela: Goma
 - Tipo de tacón: Plano
+- Material exterior: Cuero
 - Revestimiento: Tela
+- Material de la suela: Goma
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07C8Y73JM/?tag=tolees-21)
