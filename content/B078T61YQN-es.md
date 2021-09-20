@@ -28,10 +28,10 @@ Está [Tommy Hilfiger Essential TH Beach Sandal  Chanclas Hombre  Negro  Black 9
 
 ℹ️:
 
-- Color: negro
 - Talla: 42
+- Color: negro
 - Diseño: liso
-- Línea: Tommy Hilfiger
 - Tommy Hilfiger - Chanclas para hombre, color negro
+- Línea: Tommy Hilfiger
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B078T61YQN/?tag=tolees-21)
