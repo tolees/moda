@@ -28,7 +28,7 @@ Tienes [Berydale Für Sport & Freizeit  Rundhalsausschnitt Camisa Manga Larga  M
 
 ℹ️:
 
-- Fácil de combinar
 - Prenda básica imprescindible
+- Fácil de combinar
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07NLHJN5X/?tag=tolees-21)
