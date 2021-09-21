@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Superdry Sports Puffer Chaqueta  Azul  I al 44.01 % de descuento'
-date: 2021-09-17 10:33:27
+date: 2021-09-21 12:45:00
 image: 'https://m.media-amazon.com/images/I/41hvBvFlboL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Superdry'
 buyurl: 'https://www.amazon.es/dp/B07P4HXWD7/?tag=tolees-21'
 descuento: '44.01'
-average: '49.235'
+average: '51.4833333333333'
 ---
 
 Ahora mismo tienes [Superdry Sports Puffer Chaqueta  Azul  Ink 34t   M para Hombre](https://www.amazon.es/dp/B07P4HXWD7/?tag=tolees-21) a 55.98 EUR (original: 99.99 EUR) (44.01 %  de descuento) en el siguiente enlace!
