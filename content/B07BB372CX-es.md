@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s tee Camiseta  White Cn-100Xx  XXS al 30.25 % de descuento'
-date: 2021-09-10 16:42:13
+date: 2021-09-22 16:50:01
 image: 'https://m.media-amazon.com/images/I/41QhFNQMJFS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07BB372CX/?tag=tolees-21'
 descuento: '30.25'
-average: '14.18'
+average: '14.1225'
 ---
 
 Ahora mismo tienes [Levi s tee Camiseta  White Cn-100Xx  XXS para Mujer](https://www.amazon.es/dp/B07BB372CX/?tag=tolees-21) a 13.95 EUR (original: 20.0 EUR) (30.25 %  de descuento) en el siguiente enlace!
@@ -28,8 +28,8 @@ Ahora mismo tienes [Levi s tee Camiseta  White Cn-100Xx  XXS para Mujer](https:/
 
 🔎:
 
-- Con un discreto logo en el pecho
 - Elaborada en punto suave
+- Con un discreto logo en el pecho
 - Modelo casual
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07BB372CX/?tag=tolees-21)
