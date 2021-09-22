@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Salomon ALPHACROSS 3 GTX Zapatilla de ho con un 33.19 % de descuento'
-date: 2021-09-21 14:27:52
+date: 2021-09-22 14:43:35
 image: 'https://m.media-amazon.com/images/I/41OqbnWdmNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
