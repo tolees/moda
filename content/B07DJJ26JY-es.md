@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox D Vega Moc A  Mocasines  Beige  Lt  al 48.78 % de descuento'
-date: 2021-09-12 08:21:35
+date: 2021-09-22 08:45:26
 image: 'https://m.media-amazon.com/images/I/41KfLZeGG+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B07DJJ26JY/?tag=tolees-21'
 descuento: '48.78'
-average: '46.075'
+average: '46.0666666666667'
 ---
 
 Está [Geox D Vega Moc A  Mocasines  Beige  Lt Taupe C6738   35 EU](https://www.amazon.es/dp/B07DJJ26JY/?tag=tolees-21) con 48.78 de descuento por 46.05 EUR (original: 89.9 EUR) en el siguiente enlace!
