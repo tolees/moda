@@ -28,9 +28,9 @@ Ahora mismo tienes [NIKE Y Nk Dry Park20 TRK Jkt K Chaqueta de Deporte  Unisex n
 
 🔎:
 
-- Full-length frontal zip and side pockets
-- Producto de alta calidad
 - Soccer jacket
+- Producto de alta calidad
+- Full-length frontal zip and side pockets
 - Nike dry fabric
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07W82SFLV/?tag=tolees-21)

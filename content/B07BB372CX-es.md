@@ -28,8 +28,8 @@ Ahora mismo tienes [Levi s tee Camiseta  White Cn-100Xx  XXS para Mujer](https:/
 
 🔎:
 
-- Elaborada en punto suave
-- Con un discreto logo en el pecho
 - Modelo casual
+- Con un discreto logo en el pecho
+- Elaborada en punto suave
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07BB372CX/?tag=tolees-21)
