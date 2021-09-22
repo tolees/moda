@@ -28,8 +28,8 @@ En este momento está [Amazon Essentials - Sudadera de rizo francés y forro pol
 
 🔎:
 
-- Corte cómodo y fluido
 - Pile di French Terry comodo e morbido
 - Una marca de Amazon
+- Corte cómodo y fluido
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07BJ8GVFJ/?tag=tolees-21)
