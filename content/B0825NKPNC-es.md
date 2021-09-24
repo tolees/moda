@@ -28,15 +28,15 @@ Tienes [Geox U Errico B  Moccasin Hombre  Azul  Marino  45 EU](https://www.amazo
 
 ℹ️:
 
-- 13 centímetros
-- Cierre: cordones
-- Altura del tacón: 0 cm
+- 21,5 cm
+- Resistente al agua
 - Forma del tacón: 0
+- Cierre: cordones
+- 13 centímetros
 - Suela: sintética
 - Material exterior: ante
-- 21,5 cm
-- Ajuste: Ten en cuenta que los zapatos Geox tienen un ajuste cómodo, por lo que recomendamos elegir media talla
 - Material interior: sintético
-- Resistente al agua
+- Altura del tacón: 0 cm
+- Ajuste: Ten en cuenta que los zapatos Geox tienen un ajuste cómodo, por lo que recomendamos elegir media talla
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0825NKPNC/?tag=tolees-21)
