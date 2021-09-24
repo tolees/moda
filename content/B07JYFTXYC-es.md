@@ -28,8 +28,8 @@ Ahora mismo tienes [Tommy Hilfiger Logo T-Shirt Camiseta  Gris  Cloud Htr 501   
 
 🔎:
 
-- Logo de Tommy Hilfiger bordado en la manga
 - Logo de Tommy Hilfiger en el pecho
+- Logo de Tommy Hilfiger bordado en la manga
 - Cinta distintiva en el cuello
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07JYFTXYC/?tag=tolees-21)
