@@ -29,8 +29,8 @@ Ahora mismo tienes [NIKE Sudadera Park 20 para Mujer  Mujer  Capucha  CW6957  Ca
 🔎:
 
 - Tamaño: carbón jaspeado/blanco/blanco
-- Peso del paquete: 0,47 kg
 - Tipo de deporte: fútbol
+- Peso del paquete: 0,47 kg
 - Marca: Nike
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08QYJQRM2/?tag=tolees-21)
