@@ -28,8 +28,8 @@ Tienes [Hackett London Continuity WSH/Oxford Camisa  Rosa  Pink 325   40  Talla 
 
 🔎:
 
+- Fabricado con algodón de calidad
 - Este jersey es para un estilo clásico
 - Está diseñado con un bordado retro
-- Fabricado con algodón de calidad
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07VF6J54V/?tag=tolees-21)
