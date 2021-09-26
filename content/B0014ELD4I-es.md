@@ -28,8 +28,8 @@ Tienes [Timberland 6 In Classic Boot FTC 6 In Classic Boot - botas de cuero Niñ
 
 🔎:
 
-- Cuero
-- Cuero
 - Cordones
+- Cuero
+- Cuero
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0014ELD4I/?tag=tolees-21)

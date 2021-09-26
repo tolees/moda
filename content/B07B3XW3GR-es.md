@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FILA Disruptor men zapatilla Hombre  bla con un 43.00 % de descuento'
-date: 2021-09-16 10:47:16
+date: 2021-09-26 11:02:07
 image: 'https://m.media-amazon.com/images/I/41ys3qWjvCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Fila'
 buyurl: 'https://www.amazon.es/dp/B07B3XW3GR/?tag=tolees-21'
 descuento: '43.00'
-average: '48.8888888888889'
+average: '49.7'
 ---
 
 En este momento está [FILA Disruptor men zapatilla Hombre  blanco  White   41 EU](https://www.amazon.es/dp/B07B3XW3GR/?tag=tolees-21) a 57.0 EUR (original: 100.0 EUR) (43.00 %  de descuento) en el siguiente enlace!
