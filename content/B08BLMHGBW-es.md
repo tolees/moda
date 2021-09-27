@@ -28,7 +28,7 @@ En este momento está [Geox J DJROCK Girl F  Mocasín  Negro  34 EU](https://www
 
 🔎:
 
-- Forma anatómica que se adapta a tus pies
 - Diseño ligero y flexible que ofrece comodidad
+- Forma anatómica que se adapta a tus pies
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08BLMHGBW/?tag=tolees-21)

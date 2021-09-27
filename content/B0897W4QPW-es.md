@@ -28,7 +28,7 @@ Tienes [Levi s SS Relaxed Fit tee Camiseta  Ssnl Mv Logo White  L para Hombre](h
 
 🔎:
 
-- estándar
 - Tamaño del paquete: 32 x 156 x 132 cm
+- estándar
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0897W4QPW/?tag=tolees-21)
