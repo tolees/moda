@@ -28,10 +28,10 @@ Tienes [Quiksilver - Ocean of Night Camiseta para Adulto](https://www.amazon.es/
 
 ℹ️:
 
-- Cuello: cuello redondo
-- Etiqueta Quiksilver de tela
 - Tejido: punto jersey de algodón ligero
-- corte: corte normal
+- Cuello: cuello redondo
 - Serigrafía estampada en el pecho
+- Etiqueta Quiksilver de tela
+- corte: corte normal
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08TFD45KJ/?tag=tolees-21)
