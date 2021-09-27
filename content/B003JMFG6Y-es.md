@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Geox J Savage G  Zapatillas para Niños   al 49.77 % de descuento'
-date: 2020-06-27 09:37:03
-image: 'https://m.media-amazon.com/images/I/41Mi1K3zDqL._SL400_.jpg'
+title: 'Geox J Savage G  Zapatillas para Niños   al 29.13 % de descuento'
+date: 2021-09-27 20:16:59
+image: 'https://m.media-amazon.com/images/I/41on71jVc4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B003JMFG6Y-es Geox J Savage G Zapatillas para Niños Negro Black C9999 27 EU'
 sku: 'B003JMFG6Y-es'
-tags: [ 'geox', ]
-actualPrice: 19.7 EUR
+tags: [ 'Zapatillas casual para niño','Zapatillas y calzado deportivo para Niño','Zapatos','Zapatos - Niños','Zapatos y complementos','geox', ]
+actualPrice: 38.98 EUR
 currency: EUR
-price: 19.7
-comparePrice: 39.22 EUR
+price: 38.98
+comparePrice: 55.0 EUR
 prodname: 'Geox J Savage G  Zapatillas para Niños  Negro  Black C9999   27 EU'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B003JMFG6Y/?tag=tolees-21'
-descuento: '49.77'
-average: '21.248'
+descuento: '29.13'
+average: '24.2033333333333'
 ---
 
-Está [Geox J Savage G  Zapatillas para Niños  Negro  Black C9999   27 EU](https://www.amazon.es/dp/B003JMFG6Y/?tag=tolees-21) con 49.77 de descuento por 19.7 EUR (original: 39.22 EUR) en el siguiente enlace!
+Está [Geox J Savage G  Zapatillas para Niños  Negro  Black C9999   27 EU](https://www.amazon.es/dp/B003JMFG6Y/?tag=tolees-21) con 29.13 de descuento por 38.98 EUR (original: 55.0 EUR) en el siguiente enlace!
 
-[![Geox J Savage G  Zapatillas para Niños  ](https://m.media-amazon.com/images/I/41Mi1K3zDqL._SL400_.jpg)](https://www.amazon.es/dp/B003JMFG6Y/?tag=tolees-21)
+[![Geox J Savage G  Zapatillas para Niños  ](https://m.media-amazon.com/images/I/41on71jVc4L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B003JMFG6Y/?tag=tolees-21)
 
 ℹ️:
 
+- Revestimiento: Malla
+- Material exterior: Cuero
+- Material de la suela: Goma
+- Altura del tacón: 2 centímetros
+- Cierre: Velcro
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B003JMFG6Y/?tag=tolees-21)
