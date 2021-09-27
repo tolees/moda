@@ -28,8 +28,8 @@ Ahora mismo tienes [Timberland Killington  Zapatillas Hombre  Negro Black Nubuck
 
 🔎:
 
-- Material de la suela: goma.
-- Cierre: con cordones.
 - Forro: tela.
+- Cierre: con cordones.
+- Material de la suela: goma.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01KL1L12I/?tag=tolees-21)

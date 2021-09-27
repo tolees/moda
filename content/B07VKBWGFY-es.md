@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvin Klein 3p Boxer Brief Ropa Interio al 44.59 % de descuento'
-date: 2021-09-21 09:56:53
+date: 2021-09-27 08:01:46
 image: 'https://m.media-amazon.com/images/I/51Z1IPX4m6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
