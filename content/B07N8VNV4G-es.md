@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvin Klein J20J207879 Camiseta  038  M al 50.17 % de rebaja'
-date: 2021-09-25 13:41:47
+date: 2021-09-27 15:11:30
 image: 'https://m.media-amazon.com/images/I/41DqaKcILNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [Calvin Klein J20J207879 Camiseta  038  M para Mujer](https://www.amazon.
 
 🔎:
 
-- 100% algodón.
 - Corte ajustado.
+- 100% algodón.
 - Cuello redondo.
 - Instrucciones de cuidado: lavar a máquina en frío (30 ° máx.).
 - Logotipo impreso en la parte delantera.
