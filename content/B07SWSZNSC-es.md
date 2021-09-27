@@ -28,13 +28,13 @@ Ahora mismo tienes [Geox B Each Boy B  Zapatillas Bebé-Niños  Azul  Lt Jeans/N
 
 🔎:
 
-- Material exterior: Sintético
-- Altura del tacón: 2 centímetros
 - Revestimiento: Cuero
-- Tipo de talla: Los zapatos Geox son holgados
 - Material de la suela: Sintético
-- Anchura del zapato: Normal
 - Tipo de tacón: Plano
+- Altura del tacón: 2 centímetros
+- Material exterior: Sintético
 - Cierre: Cremallera
+- Anchura del zapato: Normal
+- Tipo de talla: Los zapatos Geox son holgados
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SWSZNSC/?tag=tolees-21)
