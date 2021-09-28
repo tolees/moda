@@ -28,9 +28,9 @@ Está [adidas Core18 Sw Top Sudadera  Hombre  Negro  Negro/Blanco   L](https://w
 
 ℹ️:
 
-- Puños y dobladillo de canalé
-- Cuenta con un pequeño logotipo de Adidas bordado en el pecho
 - Mangas con ribetes en contraste
+- Cuenta con un pequeño logotipo de Adidas bordado en el pecho
+- Puños y dobladillo de canalé
 - Presenta ajuste regular
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B076HP6SDL/?tag=tolees-21)
