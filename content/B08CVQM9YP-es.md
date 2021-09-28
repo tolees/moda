@@ -28,9 +28,9 @@ Tienes [Tommy Hilfiger 1985 Regular Polo  Camisa de polo Hombre  Cielo del Desie
 
 🔎:
 
-- Con tapeta de dos botones
 - Logo de Tommy Hilfiger bordado en el pecho
-- Un producto auténtico de Tommy Hilfiger
 - Tiene dobladillo asimétrico
+- Un producto auténtico de Tommy Hilfiger
+- Con tapeta de dos botones
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08CVQM9YP/?tag=tolees-21)

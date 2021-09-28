@@ -29,7 +29,7 @@ Tienes [Levi s Set-In Neck Camiseta  Graphic H215 Midtone Htr Grey  XS para Homb
 ℹ️:
 
 - Con un logo Levis en horizontal en el pecho
-- Elaborada en punto suave
 - Modelo casual
+- Elaborada en punto suave
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00WU5RBAK/?tag=tolees-21)

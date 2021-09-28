@@ -30,8 +30,8 @@ Tienes [Salomon Trailster 2 Mujer Zapatos de trail running  Azul  Little Boy Blu
 
 - Contagrip MD se centra en el uso a largo plazo. Utiliza el compuesto más duradero y dispone de un patrón de tacos que funciona igual de bien en superficies duras, lisas, blandas o resbaladizas.
 - Contagrip MD
-- Puntera protectora
-- EnergyCell
 - Contagrip MD se centra en el uso a largo plazo. Utiliza el compuesto más duradero y dispone de un patrón de tacos que funciona igual de bien en superficies duras, lisas, blandas o resbaladizas.
+- EnergyCell
+- Puntera protectora
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08CB1VM9L/?tag=tolees-21)
