@@ -28,10 +28,10 @@ En este momento está [Clarks Hero  Zapatos de Cordones Brogue Mujer  Gris  Ston
 
 🔎:
 
-- Forro: textil
-- Suela: goma
-- Altura del talón: 35 mm
-- Fijación: ninguna
 - Material exterior: piel
+- Fijación: ninguna
+- Altura del talón: 35 mm
+- Suela: goma
+- Forro: textil
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07TLP43XJ/?tag=tolees-21)

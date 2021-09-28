@@ -28,8 +28,8 @@ Ahora mismo tienes [Levi s 2Pk Crewneck Graphic Camiseta  2 Pack Hm White/Mid To
 
 🔎:
 
-- Modelos casual
 - Con un logo Levis en el bajo
+- Modelos casual
 - Elaboradas en punto suave
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07LF5RF22/?tag=tolees-21)
