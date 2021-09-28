@@ -28,7 +28,7 @@ Está [Jack & Jones Sudadera JJECORP Old Logo 12137054 Negro Negro](https://www.
 
 ℹ️:
 
-- Mezcla de algodón.
 - Sudadera con logotipo.
+- Mezcla de algodón.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07C61C6ZS/?tag=tolees-21)
