@@ -28,8 +28,8 @@ Ahora mismo tienes [Springfield Vestido Lace Volantes  Beige  S para Mujer](http
 
 🔎:
 
-- Volantes en los hombros y en el bajo
 - Abertura en la espalda en forma de lágrima con cierre de botón
+- Volantes en los hombros y en el bajo
 - Vestido de manga 7/8s, con cuello redondo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08QJRX2K7/?tag=tolees-21)
