@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lacoste Croco Slide 119 3 CFA  Sandalias al 25.12 % de rebaja'
-date: 2021-09-18 21:31:50
+date: 2021-09-29 21:39:07
 image: 'https://m.media-amazon.com/images/I/31gpNxlpE-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lacoste'
 buyurl: 'https://www.amazon.es/dp/B07DV1MQ54/?tag=tolees-21'
 descuento: '25.12'
-average: '26.945'
+average: '27.9466666666667'
 ---
 
 Tienes [Lacoste Croco Slide 119 3 CFA  Sandalias de Punta Descubierta Mujer  White/Light Pink  35.5 EU](https://www.amazon.es/dp/B07DV1MQ54/?tag=tolees-21) con precio final de  29.95 EUR (original: 40.0 EUR) (25.12 %  de rebaja) aqui!
@@ -28,9 +28,9 @@ Tienes [Lacoste Croco Slide 119 3 CFA  Sandalias de Punta Descubierta Mujer  Whi
 
 🔎:
 
+- Práctico acabado hidrófugo en las tiras de goma
+- Práctico acabado hidrófugo en las tiras de goma
 - Empeine de material sintético
-- Práctico acabado hidrófugo en las tiras de goma
-- Práctico acabado hidrófugo en las tiras de goma
 - Suela de goma
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07DV1MQ54/?tag=tolees-21)
