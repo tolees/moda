@@ -28,10 +28,10 @@ Está [Burton Durable Goods Camiseta  Hombre  Stout White  XXS](https://www.amaz
 
 ℹ️:
 
-- Logo serigrafiado con tacto suave
 - El ajuste regular es perfecto: no demasiado apretado ni demasiado holgado
 - Pre-encogido
-- Cuello acanalado
 - Contiene algodón orgánico peruano (varía según el color)
+- Cuello acanalado
+- Logo serigrafiado con tacto suave
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07VX1YMJP/?tag=tolees-21)
