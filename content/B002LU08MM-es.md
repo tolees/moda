@@ -28,7 +28,7 @@ En este momento está [Lacoste L1212  Camisa de Polo para Hombre  Verde  Vert   
 
 🔎:
 
-- Classic fit
 - Bajo recto con aberturas laterales
+- Classic fit
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B002LU08MM/?tag=tolees-21)
