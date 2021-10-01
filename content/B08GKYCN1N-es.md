@@ -28,7 +28,7 @@ Está [Esprit 021EE2G301 Chaqueta  271/Beige 2  L para Hombre](https://www.amazo
 
 ℹ️:
 
-- Chaqueta clásica y cómoda hecha de 100% poliéster reciclado
 - I am sustainable: poliéster reciclado
+- Chaqueta clásica y cómoda hecha de 100% poliéster reciclado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08GKYCN1N/?tag=tolees-21)

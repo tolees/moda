@@ -28,9 +28,9 @@ Está [Columbia Silver Ridge 2.0 Camisa de manga larga  Mujer  Rouge Pink  XS](h
 
 ℹ️:
 
-- Trabillas para recoger las mangas enrollables
 - Usos: senderismo, actividades urbanas
-- Tejido hidroabsorbente Omni-Wick
 - Bolsillo de seguridad con cremallera
+- Tejido hidroabsorbente Omni-Wick
+- Trabillas para recoger las mangas enrollables
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08HMXT1KH/?tag=tolees-21)

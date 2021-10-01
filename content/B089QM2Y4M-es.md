@@ -28,9 +28,9 @@ Tienes [PUMA Placed Logo Boxer 2P Ropa Interior  Blue/Black  S para Hombre](http
 
 🔎:
 
-- Como expertos en ropa interior, ropa corporal y ropa de vestir, la atención al detalle y la comodidad son clave para el éxito. Sé valiente. Sé segura. Sé decidido. Diviértete
 - Cintura ancha y elástica
 - PUMA PLACED LOGO BOXER 2P
+- Como expertos en ropa interior, ropa corporal y ropa de vestir, la atención al detalle y la comodidad son clave para el éxito. Sé valiente. Sé segura. Sé decidido. Diviértete
 - Logotipo de Puma en el centro de la cintura
 - Independientemente del producto que sea, Puma es la marca deportiva más rápida del mundo, siempre estamos pensando en el progreso
 

@@ -28,8 +28,8 @@ Está [URAQT Disfraz de Unicornio  Vestido de Princesa Unicornio para Niñas  Ve
 
 ℹ️:
 
-- 🦄 【Limpieza fácil】 El lavado a mano recomienda que sea menos probable que encoja su ropa o altere los colores. El lavado a máquina puede engancharse con otra ropa en la lavadora y dañarlos.
 - 🦄 【Disfraces】 Este traje de disfraces de unicornio para disfraces, fiestas de cumpleaños, concursos, cake smash, sesión de fotos, show, fiesta de festivales, vacaciones, día de la familia, uso diario y fiesta de bodas, y otras ocasiones especiales.
+- 🦄 【Limpieza fácil】 El lavado a mano recomienda que sea menos probable que encoja su ropa o altere los colores. El lavado a máquina puede engancharse con otra ropa en la lavadora y dañarlos.
 - 🦄【Elección perfecta】 El elegante vestido de unicornio URAQT incluye vestido, collar y un adorable sombrero. Por favor revise nuestra información de tamaño antes de ordenar, contáctenos si está confundido con los tamaños.
 - 🦄 【Alta calidad】 Este hermoso vestido confeccionado para una comodidad excepcional, hecho de Poliéster + Organza + algodón, incluye 4 capas de un forro interior de algodón suave, un segundo forro similar a la seda y 2 mallas exteriores suaves, que son transpirables y cómodas.
 
