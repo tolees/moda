@@ -1,28 +1,28 @@
 ---
 layout: post
-title: 'adidas Terrex Climacool Jawpaw II  Zapat al 33.28 % de descuento'
-date: 2021-09-28 18:09:11
+title: 'adidas Terrex Climacool Jawpaw II  Zapat al 41.62 % de descuento'
+date: 2021-10-01 21:29:34
 image: 'https://m.media-amazon.com/images/I/419D0OByiUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B077FTLSSQ-es adidas Terrex Climacool Jawpaw II Zapatos de Low Rise...'
 sku: 'B077FTLSSQ-es'
-tags: [ 'Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','adidas','zapatos', ]
-actualPrice: 40.0 EUR
+tags: [ 'Calzado deportivo para hombre','Calzados de running para hombre','Calzados para correr en asfalto para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','adidas','zapatos', ]
+actualPrice: 35.0 EUR
 currency: EUR
-price: 40.0
+price: 35.0
 comparePrice: 59.95 EUR
 prodname: 'adidas Terrex Climacool Jawpaw II  Zapatos de Low Rise Senderismo Hombre  Negro  Cblack Cblack/Cblack/Cblack   42 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B077FTLSSQ/?tag=tolees-21'
-descuento: '33.28'
-average: '40.0'
+descuento: '41.62'
+average: '37.5'
 ---
 
-Ahora mismo tienes [adidas Terrex Climacool Jawpaw II  Zapatos de Low Rise Senderismo Hombre  Negro  Cblack Cblack/Cblack/Cblack   42 EU](https://www.amazon.es/dp/B077FTLSSQ/?tag=tolees-21) a 40.0 EUR (original: 59.95 EUR) (33.28 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [adidas Terrex Climacool Jawpaw II  Zapatos de Low Rise Senderismo Hombre  Negro  Cblack Cblack/Cblack/Cblack   42 EU](https://www.amazon.es/dp/B077FTLSSQ/?tag=tolees-21) a 35.0 EUR (original: 59.95 EUR) (41.62 %  de descuento) en el siguiente enlace!
 
 [![adidas Terrex Climacool Jawpaw II  Zapat](https://m.media-amazon.com/images/I/419D0OByiUL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B077FTLSSQ/?tag=tolees-21)
 

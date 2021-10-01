@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 46.00 % en GEOX D TABELYA A BLACK Women s Trainers '
-date: 2021-09-20 22:11:02
+date: 2021-10-01 21:50:13
 image: 'https://m.media-amazon.com/images/I/41Uhc-1sP4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
