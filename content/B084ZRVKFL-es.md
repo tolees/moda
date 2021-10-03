@@ -28,7 +28,7 @@ Tienes [Esprit 990ee2g302 Chaqueta  300/Verde Oscuro  M para Hombre](https://www
 
 🔎:
 
-- Estándar
 - I am sustainable: poliamida reciclada
+- Estándar
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B084ZRVKFL/?tag=tolees-21)
