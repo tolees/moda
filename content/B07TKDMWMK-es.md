@@ -28,8 +28,8 @@ Ahora mismo tienes [Levi s LS Battery Hm Shirt Slim Camisa Casual  Blue  Redcast
 
 🔎:
 
-- Modelo casual
-- Con faldón curvado
 - Minilogotipo de Levis en el pecho
+- Con faldón curvado
+- Modelo casual
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TKDMWMK/?tag=tolees-21)
