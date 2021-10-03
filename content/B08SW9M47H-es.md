@@ -28,9 +28,9 @@ Ahora mismo tienes [adidas Sudadera Modelo M BL FT HD Marca](https://www.amazon.
 
 🔎:
 
-- Bolsillo canguro
-- Capucha con cordón ajustable
 - Puños y dobladillo de canalé
 - Felpa 53% algodón / 36% poliéster reciclado / 11% viscosa
+- Bolsillo canguro
+- Capucha con cordón ajustable
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08SW9M47H/?tag=tolees-21)

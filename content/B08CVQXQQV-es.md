@@ -28,8 +28,8 @@ En este momento está [Lee Workwear Camisa de Lana  Grey Bala  M/Tall para Hombr
 
 🔎:
 
-- Algodón orgánico
 - Ajuste relajado
+- Algodón orgánico
 - Denim Rigid
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CVQXQQV/?tag=tolees-21)
