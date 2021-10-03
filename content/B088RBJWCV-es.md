@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Joma Combi Camiseta Manga Corta  Hombre  con un 26.84 % de descuento'
-date: 2021-09-29 13:02:52
+date: 2021-10-03 08:55:44
 image: 'https://m.media-amazon.com/images/I/31r8Ayee2PL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B088RBJWCV-es Joma Combi Camiseta Manga Corta Hombre Naranja L'
 sku: 'B088RBJWCV-es'
-tags: [ 'Camisetas para hombre','Camisetas, polos y camisas para hombre','Ropa','Ropa para hombre','camiseta','joma', ]
+tags: [ 'Camisetas deportivas para hombre','Ropa','Ropa deportiva para hombre','Ropa para hombre','camiseta','joma', ]
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95
