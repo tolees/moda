@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.02 % en Only Onlvenedig Paperbag Long Skirt Wvn '
-date: 2021-10-02 14:44:49
+date: 2021-10-04 06:36:22
 image: 'https://m.media-amazon.com/images/I/31EEglaGwqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ Tienes [Only Onlvenedig Paperbag Long Skirt Wvn Noos Falda  Rojo  Henna Henna   
 
 ℹ️:
 
-- maxi skirt
 - soft viscose
+- maxi skirt
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07PH1ZXX5/?tag=tolees-21)
