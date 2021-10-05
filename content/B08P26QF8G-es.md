@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Salomon Alphacross 3 Gore-Tex  impermeab con un 38.19 % de descuento'
-date: 2021-10-02 17:12:23
+date: 2021-10-05 14:29:26
 image: 'https://m.media-amazon.com/images/I/41OqbnWdmNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SALOMON'
 buyurl: 'https://www.amazon.es/dp/B08P26QF8G/?tag=tolees-21'
 descuento: '38.19'
-average: '71.1328571428572'
+average: '70.7400000000001'
 ---
 
 En este momento está [Salomon Alphacross 3 Gore-Tex  impermeable  Hombre Zapatos de trail running  Negro  Black/Black/Black   44 ⅔ EU](https://www.amazon.es/dp/B08P26QF8G/?tag=tolees-21) a 67.99 EUR (original: 110.0 EUR) (38.19 %  de descuento) en el siguiente enlace!

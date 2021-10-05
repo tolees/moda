@@ -28,7 +28,7 @@ Está [Timberland Davis Square  Botas para Senderismo Unisex Adulto  Navy Nubuck
 
 ℹ️:
 
-- Material superior: piel
 - Sostenibilidad: contenido reciclado
+- Material superior: piel
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07V1GKMLG/?tag=tolees-21)
