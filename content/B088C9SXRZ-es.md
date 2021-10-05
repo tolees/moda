@@ -28,10 +28,10 @@ Tienes [G-STAR RAW Badge Logo+ Camiseta  para Hombre  Negro  Dk Black C336-6484 
 
 🔎:
 
-- Estampado de G-Star RAW en la parte superior trasera del cuello
 - Cuello redondo
+- Manga corta recta insertada
+- Estampado de G-Star RAW en la parte superior trasera del cuello
 - Bajo recto
 - Aplicación con insignia gráfica en el pecho
-- Manga corta recta insertada
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B088C9SXRZ/?tag=tolees-21)
