@@ -28,9 +28,9 @@ Tienes [Adidas Regista 18 Track Top Chaqueta Deportiva  Hombre  Negro  Black/Whi
 
 🔎:
 
-- Cierre de cremallera
-- Diseño ligero.
 - La tecnología Climalite expulsa el sudor de la piel.
+- Cierre de cremallera
 - Cintura elástica con cordón.
+- Diseño ligero.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B076HQQ34F/?tag=tolees-21)

@@ -28,7 +28,7 @@ Ahora mismo tienes [Wrangler Logo tee Camiseta  Rococco Red  XXXL para Hombre](h
 
 🔎:
 
-- Corte regular
 - KnITS
+- Corte regular
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CVLHFM7/?tag=tolees-21)

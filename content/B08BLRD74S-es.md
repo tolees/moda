@@ -28,7 +28,7 @@ Tienes [Geox J Sandal DEAPHNE Gir  Sandalia  Blanco  31 EU](https://www.amazon.e
 
 🔎:
 
-- Diseño ligero y flexible que ofrece comodidad
 - Forma anatómica que se adapta a tus pies
+- Diseño ligero y flexible que ofrece comodidad
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08BLRD74S/?tag=tolees-21)

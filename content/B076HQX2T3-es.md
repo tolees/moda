@@ -28,9 +28,9 @@ En este momento está [adidas CORE18 Camiseta Polo  Hombre  Dark Blue/White  L](
 
 🔎:
 
-- Escote redondo y espalda deportiva de malla de doble capa.
 - Cuello redondo.
-- Climalite anti-humidity fabric
+- Escote redondo y espalda deportiva de malla de doble capa.
 - Diseño envolvente para una total libertad de movimiento.
+- Climalite anti-humidity fabric
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B076HQX2T3/?tag=tolees-21)
