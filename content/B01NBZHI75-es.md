@@ -28,9 +28,9 @@ Tienes [Tommy Hilfiger SS tee Print Camiseta  Blanco  White 100   M para Mujer](
 
 ℹ️:
 
-- Camiseta de manga corta
 - Presenta una cinta distintiva en el interior del cuello
-- Tiene estampado la marca Tommy en el pecho
+- Camiseta de manga corta
 - Con cuello redondo
+- Tiene estampado la marca Tommy en el pecho
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01NBZHI75/?tag=tolees-21)
