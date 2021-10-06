@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 20.95 % en Converse - CTAS OX ZAPATOS DEPORTIVOS BA'
-date: 2021-10-05 14:13:23
+date: 2021-10-06 16:38:04
 image: 'https://m.media-amazon.com/images/I/41vZWykDWBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Converse'
 buyurl: 'https://www.amazon.es/dp/B00IXWJRQU/?tag=tolees-21'
 descuento: '20.95'
-average: '32.425'
+average: '32.3042857142857'
 ---
 
 Tienes [Converse - CTAS OX ZAPATOS DEPORTIVOS BAJOS NEGRO 7J235C](https://www.amazon.es/dp/B00IXWJRQU/?tag=tolees-21) con un 20.95 % de descuento con precio de oferta de 31.58 EUR (original: 39.95 EUR) en el siguiente enlace!
