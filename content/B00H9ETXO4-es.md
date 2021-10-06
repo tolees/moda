@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Rome Heritage Straight Le al 41.31 % de rebaja'
-date: 2021-10-03 07:13:10
+date: 2021-10-06 07:57:29
 image: 'https://m.media-amazon.com/images/I/31oUMbNI4SS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
