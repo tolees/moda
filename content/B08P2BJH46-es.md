@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Salomon ALPHACROSS 3 W Zapatilla de muje al 25.56 % de descuento'
-date: 2021-10-04 06:36:57
+date: 2021-10-06 15:08:06
 image: 'https://m.media-amazon.com/images/I/41C39Fk10bS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SALOMON'
 buyurl: 'https://www.amazon.es/dp/B08P2BJH46/?tag=tolees-21'
 descuento: '25.56'
-average: '60.495'
+average: '63.7475'
 ---
 
 Está [Salomon ALPHACROSS 3 W Zapatilla de mujer con EnergyCell y suela Contagrip para running en terrenos blandos o enfangados](https://www.amazon.es/dp/B08P2BJH46/?tag=tolees-21) con 25.56 de descuento por 67.0 EUR (original: 90.0 EUR) en el siguiente enlace!

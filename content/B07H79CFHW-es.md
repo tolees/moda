@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vila Clothes Viril L/s Open Knit Cardiga al 50.02 % de rebaja'
-date: 2021-10-04 17:36:00
+date: 2021-10-06 15:28:26
 image: 'https://m.media-amazon.com/images/I/41plhSLkXTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
