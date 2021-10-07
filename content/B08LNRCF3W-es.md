@@ -28,8 +28,8 @@ En este momento está [Vero Moda Vmhot SOYA LS Jacket Mix Ga Noos Chaqueta  Medi
 
 🔎:
 
-- Corte clásico
-- Algodón orgánico
 - Chaqueta vaquera sostenible
+- Algodón orgánico
+- Corte clásico
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08LNRCF3W/?tag=tolees-21)

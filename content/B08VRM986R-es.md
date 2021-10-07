@@ -28,8 +28,8 @@ Está [adidas Sudadera Modelo SQ21 SW Top Marca](https://www.amazon.es/dp/B08VRM
 
 ℹ️:
 
-- Puños y dobladillo de canalé
 - Felpa 70% Algodón, 30% Poliéster Reciclado
+- Puños y dobladillo de canalé
 - Cuello redondo
 - Las icónicas 3 rayas en las mangas le dan un aspecto deportivo
 

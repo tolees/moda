@@ -1,32 +1,38 @@
 ---
 layout: post
-title: 'Crocs Classic Clog  Zuecos Unisex Adulto con un 19.98 % de descuento'
-date: 2020-01-11 09:44:21
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31T%2Bteljs%2BL._SL400_.jpg'
+title: 'Crocs Classic Clog Unisex Adulta Zuecos  con un 17.50 % de descuento'
+date: 2021-10-07 04:29:20
+image: 'https://m.media-amazon.com/images/I/31zJhEezOjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0014C3UDW-es Crocs Classic Clog Zuecos Unisex Adulto Verde Army Green...'
+slug: 'B0014C3UDW-es Crocs Classic Clog Unisex Adulta Zuecos Verde Army Green...'
 sku: 'B0014C3UDW-es'
-tags: [ 'zuecos', ]
-actualPrice: 28 EUR
+tags: [ 'Zapatos','Zapatos para hombre','Zapatos y complementos','Zuecos y mules para hombre','crocs','zuecos', ]
+actualPrice: 32.99 EUR
 currency: EUR
-price: 28
-comparePrice: 34.99 EUR
-prodname: 'Crocs Classic Clog  Zuecos Unisex Adulto  Verde  Army Green 309   41/42 EU'
+price: 32.99
+comparePrice: 39.99 EUR
+prodname: 'Crocs Classic Clog Unisex Adulta Zuecos  Verde  Army Green   41/42 EU'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Crocs'
 buyurl: 'https://www.amazon.es/dp/B0014C3UDW/?tag=tolees-21'
-descuento: '19.98'
-average: '28'
+descuento: '17.50'
+average: '31.3266666666667'
 ---
 
-En este momento está [Crocs Classic Clog  Zuecos Unisex Adulto  Verde  Army Green 309   41/42 EU](https://www.amazon.es/dp/B0014C3UDW/?tag=tolees-21) a 28 EUR (original: 34.99 EUR) (19.98 %  de descuento) en el siguiente enlace!
+En este momento está [Crocs Classic Clog Unisex Adulta Zuecos  Verde  Army Green   41/42 EU](https://www.amazon.es/dp/B0014C3UDW/?tag=tolees-21) a 32.99 EUR (original: 39.99 EUR) (17.50 %  de descuento) en el siguiente enlace!
 
-[![Crocs Classic Clog  Zuecos Unisex Adulto](https://images-eu.ssl-images-amazon.com/images/I/31T%2Bteljs%2BL._SL400_.jpg)](https://www.amazon.es/dp/B0014C3UDW/?tag=tolees-21)
+[![Crocs Classic Clog Unisex Adulta Zuecos ](https://m.media-amazon.com/images/I/31zJhEezOjL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B0014C3UDW/?tag=tolees-21)
 
 🔎:
 
+- Material de la suela: Sintético
+- Material exterior: Espuma
+- Cierre: Tira de tobillo
+- Tipo de tacón: Plano
+- Revestimiento: Sin forro
+- Composición: Sintético
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0014C3UDW/?tag=tolees-21)

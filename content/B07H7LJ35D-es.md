@@ -28,7 +28,7 @@ Tienes [Vila Clothes Viril L/s Open Knit Cardigan-Noos Chaqueta Punto  Beige  Na
 
 ℹ️:
 
-- ultra-soft touch
 - big pockets
+- ultra-soft touch
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07H7LJ35D/?tag=tolees-21)
