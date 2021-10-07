@@ -28,10 +28,10 @@ Ahora mismo tienes [Farmacell Man 418  Blanco  S  Camiseta de algodón para Homb
 
 🔎:
 
-- Efecto del cuerpo más delgado, esbelto y equilibrado - El articulo luce como una camiseta normal de algodón sin mangas
-- Para ELEGIR EL LA TALLA CORRECTA, Ver tabla de tallas publicada en las imágenes haciendo referencia al punto A y C (pecho/cintura)
 - Algodón en contacto con la piel y costuras suaves y cómodas.
+- Para ELEGIR EL LA TALLA CORRECTA, Ver tabla de tallas publicada en las imágenes haciendo referencia al punto A y C (pecho/cintura)
 - Camiseta reductora con efecto en el vientre y las caderas.
+- Efecto del cuerpo más delgado, esbelto y equilibrado - El articulo luce como una camiseta normal de algodón sin mangas
 - Efecto de contención y reducción del pecho.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00L2KUWZA/?tag=tolees-21)
