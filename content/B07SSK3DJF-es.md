@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Geox D TABELYA A  Zapatillas  Negro  Bla con un 62.38 % de descuento'
-date: 2021-10-04 01:11:15
+title: 'Geox D TABELYA A  Zapatillas  Negro  Bla con un 66.30 % de descuento'
+date: 2021-10-07 06:06:44
 image: 'https://m.media-amazon.com/images/I/41hKAxXB7UL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,31 +9,31 @@ author: 'tole.es'
 slug: 'B07SSK3DJF-es Geox D TABELYA A Zapatillas Negro Black/Gun C9b1g 35 EU'
 sku: 'B07SSK3DJF-es'
 tags: [ 'Zapatos','Zapatos y complementos','geox', ]
-actualPrice: 47.03 EUR
+actualPrice: 42.12 EUR
 currency: EUR
-price: 47.03
+price: 42.12
 comparePrice: 125.0 EUR
 prodname: 'Geox D TABELYA A  Zapatillas  Negro  Black/Gun C9b1g   35 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B07SSK3DJF/?tag=tolees-21'
-descuento: '62.38'
-average: '50.324'
+descuento: '66.30'
+average: '48.3457142857143'
 ---
 
-En este momento está [Geox D TABELYA A  Zapatillas  Negro  Black/Gun C9b1g   35 EU](https://www.amazon.es/dp/B07SSK3DJF/?tag=tolees-21) a 47.03 EUR (original: 125.0 EUR) (62.38 %  de descuento) en el siguiente enlace!
+En este momento está [Geox D TABELYA A  Zapatillas  Negro  Black/Gun C9b1g   35 EU](https://www.amazon.es/dp/B07SSK3DJF/?tag=tolees-21) a 42.12 EUR (original: 125.0 EUR) (66.30 %  de descuento) en el siguiente enlace!
 
 [![Geox D TABELYA A  Zapatillas  Negro  Bla](https://m.media-amazon.com/images/I/41hKAxXB7UL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07SSK3DJF/?tag=tolees-21)
 
 🔎:
 
-- Altura del tacón: 4 centímetros
-- Material de la suela: Goma
-- Tipo de tacón: Plano
-- Material exterior: Cuero
-- Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
 - Revestimiento: Malla
 - Cierre: Cordones
+- Tipo de tacón: Plano
+- Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
+- Material de la suela: Goma
+- Material exterior: Cuero
+- Altura del tacón: 4 centímetros
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07SSK3DJF/?tag=tolees-21)
