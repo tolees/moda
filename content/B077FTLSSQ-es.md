@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Terrex Climacool Jawpaw II  Zapat al 41.62 % de descuento'
-date: 2021-10-06 11:39:43
+date: 2021-10-07 12:17:11
 image: 'https://m.media-amazon.com/images/I/419D0OByiUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B077FTLSSQ/?tag=tolees-21'
 descuento: '41.62'
-average: '36.25'
+average: '36.0'
 ---
 
 Ahora mismo tienes [adidas Terrex Climacool Jawpaw II  Zapatos de Low Rise Senderismo Hombre  Negro  Cblack Cblack/Cblack/Cblack   42 EU](https://www.amazon.es/dp/B077FTLSSQ/?tag=tolees-21) a 35.0 EUR (original: 59.95 EUR) (41.62 %  de descuento) en el siguiente enlace!
