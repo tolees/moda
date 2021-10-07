@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Puma Divecat v2  Zapatos de Playa y Pisc al 40.80 % de descuento'
-date: 2021-09-18 17:28:41
+date: 2021-10-07 21:35:12
 image: 'https://m.media-amazon.com/images/I/31kYxFhaeCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
