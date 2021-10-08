@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Logo Graphic Camiseta  Sportswear al 48.45 % de descuento'
-date: 2021-10-07 02:55:06
+date: 2021-10-08 14:16:24
 image: 'https://m.media-amazon.com/images/I/41guU5xsasS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
