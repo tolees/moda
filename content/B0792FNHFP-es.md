@@ -28,10 +28,10 @@ Ahora mismo tienes [Geox D Felicity D  Botas Altas Mujer  Negro  Black C9999   3
 
 🔎:
 
-- Calzado que ofrece una amortiguación óptima y protege contra choques y esfuerzos
-- Plantilla desmontable
-- Los sistemas patentados Geox ofrecen la transpirabilidad de la suela y el bienestar del pie
-- Plantilla antibacteriana
 - Fácil de llevar para un confort optimo
+- Plantilla desmontable
+- Calzado que ofrece una amortiguación óptima y protege contra choques y esfuerzos
+- Plantilla antibacteriana
+- Los sistemas patentados Geox ofrecen la transpirabilidad de la suela y el bienestar del pie
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0792FNHFP/?tag=tolees-21)

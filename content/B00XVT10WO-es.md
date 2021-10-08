@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 36.37 % en Dockers 23DA005 - Zapatos de cordones de'
-date: 2021-10-03 12:51:56
+title: 'Descuento del 36.53 % en Dockers 23DA005 - Zapatos de cordones de'
+date: 2021-10-07 23:55:45
 image: 'https://m.media-amazon.com/images/I/41v4R8NOwAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B00XVT10WO-es Dockers 23DA005 - Zapatos de cordones de cuero para hombre...'
 sku: 'B00XVT10WO-es'
 tags: [ 'Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','dockers','zapatos', ]
-actualPrice: 47.69 EUR
+actualPrice: 47.57 EUR
 currency: EUR
-price: 47.69
+price: 47.57
 comparePrice: 74.95 EUR
 prodname: 'Dockers 23DA005 - Zapatos de cordones de cuero para hombre  color marrón  golden tan 910   talla 41'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Dockers'
 buyurl: 'https://www.amazon.es/dp/B00XVT10WO/?tag=tolees-21'
-descuento: '36.37'
-average: '53.9968965517244'
+descuento: '36.53'
+average: '53.9601714285717'
 ---
 
-Tienes [Dockers 23DA005 - Zapatos de cordones de cuero para hombre  color marrón  golden tan 910   talla 41](https://www.amazon.es/dp/B00XVT10WO/?tag=tolees-21) con un 36.37 % de descuento con precio de oferta de 47.69 EUR (original: 74.95 EUR) en el siguiente enlace!
+Tienes [Dockers 23DA005 - Zapatos de cordones de cuero para hombre  color marrón  golden tan 910   talla 41](https://www.amazon.es/dp/B00XVT10WO/?tag=tolees-21) con un 36.53 % de descuento con precio de oferta de 47.57 EUR (original: 74.95 EUR) en el siguiente enlace!
 
 [![Dockers 23DA005 - Zapatos de cordones de](https://m.media-amazon.com/images/I/41v4R8NOwAL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B00XVT10WO/?tag=tolees-21)
 
