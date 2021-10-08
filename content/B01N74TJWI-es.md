@@ -28,11 +28,11 @@ Tienes [UMBRO Pantalón Deportivo Loyal Junior  Niño  Azul Marino Oscuro  12Y](
 
 🔎:
 
-- Tipo de deporte: Fútbol
-- 100% poliéster, 100% poliéster
 - Pantalón deportivo loyal azul junior
 - No va forrado
 - Flexible, cómodo, poliéster de máxima calidad, goma elástica en la cintura; sencillo lavado y secado
 - Cremallera abierto, goma elástica en puños, capucha ajustable con opción de guardar dentro con velcros
+- Tipo de deporte: Fútbol
+- 100% poliéster, 100% poliéster
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01N74TJWI/?tag=tolees-21)
