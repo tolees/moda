@@ -28,8 +28,8 @@ Tienes [Lee Brooklyn Straight Vaqueros  Azul  Blue Black   30W / 34L para Hombre
 
 ℹ️:
 
-- Vaqueros para hombre
 - Tienen bordado una etiqueta con la marca Lee
+- Vaqueros para hombre
 - Presentan 5 bolsillos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B005YBQQYO/?tag=tolees-21)
