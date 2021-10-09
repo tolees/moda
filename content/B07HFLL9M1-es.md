@@ -28,7 +28,7 @@ Está [Only Onlsky Reg Dnm Skirt BB Pim992 Noos Falda  Mezclilla De Color Azul C
 
 ℹ️:
 
-- Light blue wash
 - Denimskirt with raw edge at hemline
+- Light blue wash
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07HFLL9M1/?tag=tolees-21)
