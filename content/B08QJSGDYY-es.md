@@ -28,8 +28,8 @@ En este momento está [Springfield Camiseta Hogwarts  Marfil  S para Hombre](htt
 
 🔎:
 
+- Camiseta de manga corta
 - Regular fit
 - Estampado de Harry Potter.
-- Camiseta de manga corta
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08QJSGDYY/?tag=tolees-21)

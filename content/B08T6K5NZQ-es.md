@@ -28,8 +28,8 @@ Tienes [Tommy Hilfiger Organic Cotton Logo T-Shirt Camiseta  Brookwood  L para H
 
 ℹ️:
 
-- Ofrece un confort óptimo
 - Cuenta con un diseño casual
+- Ofrece un confort óptimo
 - Logotipo de la marca estampado en el pecho
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08T6K5NZQ/?tag=tolees-21)
