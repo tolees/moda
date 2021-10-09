@@ -28,10 +28,10 @@ Ahora mismo tienes [PUMA ESS Small Logo tee Camiseta  Hombre  Black/Cat  M](http
 
 🔎:
 
-- Cuello redondo acanalado
 - Corte normal
+- Cuello redondo acanalado
 - Marca PUMA en la parte izquierda del pecho
-- Algodón y elastano
 - BCI: Al comprar productos de algodón de PUMA, apoyas una producción más sostenible de algodón mediante la Iniciativa del Mejor Algodón (Better Cotton Initiative). Más información en: bettercotton.org/massbalance
+- Algodón y elastano
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B089Z7YGBC/?tag=tolees-21)

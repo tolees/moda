@@ -28,8 +28,8 @@ Tienes [Joma Combi Camiseta Manga Corta  Hombre  Burdeos  XL](https://www.amazon
 
 🔎:
 
+- Burdeos
 - Camisetas equip; m/c
 - Training
-- Burdeos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07P5JL9GQ/?tag=tolees-21)

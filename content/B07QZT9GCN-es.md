@@ -29,8 +29,8 @@ Tienes [Under Armour Mk1 Warmup Po Hood Sudadera  Hombre  Verde  LG](https://www
 🔎:
 
 - Corte completo para ofrecer comodidad
-- Material que capilariza el sudor y se seca rápidamente
 - Correas cruzadas con detalle de agujero femenino
+- Material que capilariza el sudor y se seca rápidamente
 - Tejido de doble punto ligero, transpirable y elástico para ofrecer movilidad
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07QZT9GCN/?tag=tolees-21)
