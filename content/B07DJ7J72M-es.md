@@ -28,14 +28,14 @@ Ahora mismo tienes [Geox D Jaysen A  Zapatillas Mujer  Plateado  Silver/Navy C06
 
 🔎:
 
-- Material de la suela: Sintético
-- Anchura del zapato: Normal
-- Material exterior: Cuero
+- Altura del tacón: 3 centímetros
 - Composición: Cuero
 - Tipo de talla: Los zapatos Geox son holgados
+- Material exterior: Cuero
 - Tipo de tacón: Plano
-- Revestimiento: Malla
+- Material de la suela: Sintético
 - Cierre: Cordones
-- Altura del tacón: 3 centímetros
+- Anchura del zapato: Normal
+- Revestimiento: Malla
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DJ7J72M/?tag=tolees-21)
