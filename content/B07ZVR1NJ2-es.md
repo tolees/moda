@@ -28,7 +28,7 @@ Ahora mismo tienes [Levi s 721 High Rise Skinny  Vaqueros  Shady Acres  27W / 32
 
 🔎:
 
-- Vaqueros para mujer
 - Con corte entallado en la cadera y el muslo
+- Vaqueros para mujer
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07ZVR1NJ2/?tag=tolees-21)
