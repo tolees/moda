@@ -28,12 +28,12 @@ Tienes [Merrell Kahuna III  Sandalias de Senderismo Mujer  Marrã N  37 EU](http
 
 🔎:
 
-- Composición: Cuero
 - Revestimiento: Malla
 - Material exterior: Cuero
-- Tipo de tacón: Plano
 - Precio mínimo ofrecido por este vendedor en los 30 días anteriores a la oferta: 95.95€
-- Material de la suela: Goma
 - Cierre: Velcro
+- Tipo de tacón: Plano
+- Composición: Cuero
+- Material de la suela: Goma
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B004D9G4UO/?tag=tolees-21)

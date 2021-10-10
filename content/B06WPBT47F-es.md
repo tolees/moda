@@ -28,9 +28,9 @@ Ahora mismo tienes [Tommy Hilfiger SS tee Print Camiseta  Gris  Grey Heather 004
 
 🔎:
 
-- Con cuello redondo
 - Camiseta de manga corta
-- Tiene estampado la marca Tommy en el pecho
 - Presenta una cinta distintiva en el interior del cuello
+- Con cuello redondo
+- Tiene estampado la marca Tommy en el pecho
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B06WPBT47F/?tag=tolees-21)
