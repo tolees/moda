@@ -28,8 +28,8 @@ Tienes [Levi s Relaxed Graphic Crew Sudadera  Better Batwing Sweatshirt White  M
 
 🔎:
 
-- Modelo con forro polar suave
 - Un jersey clásico de ajuste relajado que aporta un aire informal
+- Modelo con forro polar suave
 - Con emblemático logotipo de Levis
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0765TMP4T/?tag=tolees-21)
