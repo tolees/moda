@@ -28,7 +28,7 @@ Tienes [Geox D LAUDARA C  Sandalias de cuña Mujer  Plata  37 EU](https://www.am
 
 🔎:
 
-- Forma anatómica que se adapta a tus pies
 - Diseño ligero y flexible que ofrece comodidad
+- Forma anatómica que se adapta a tus pies
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08BLBW9ST/?tag=tolees-21)
