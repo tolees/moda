@@ -28,8 +28,8 @@ Tienes [adidas Entrada 106 Camiseta de Fútbol para Hombre de Cuello Redondo en 
 
 🔎:
 
+- Climalite anti-humidity fabric
 - Regular fit
 - Adidas logo on the front
-- Climalite anti-humidity fabric
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07JMC2G4S/?tag=tolees-21)
