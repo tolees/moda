@@ -28,9 +28,9 @@ En este momento está [adidas Selección Española Temporada 2020/21 Camiseta Se
 
 🔎:
 
-- Presenta tecnología Aeroready para  la absorción de la humedad
-- Con escote de pico acanalado
 - Corte regular
+- Presenta tecnología Aeroready para  la absorción de la humedad
 - Camiseta de fútbol para los aficionados de España
+- Con escote de pico acanalado
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B081TQRL13/?tag=tolees-21)

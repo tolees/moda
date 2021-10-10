@@ -28,8 +28,8 @@ Está [adidas Runr Tank W Camiseta De Tirantes  Mujer  maract  XS](https://www.a
 
 ℹ️:
 
-- Corte entallado que se ajusta al tronco y los brazos
 - Camiseta de tirantes running Mujer
 - Camiseta de tirantes color Maract ( DZ2434 )
+- Corte entallado que se ajusta al tronco y los brazos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07T7H6SZQ/?tag=tolees-21)

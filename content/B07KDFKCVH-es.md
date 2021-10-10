@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas TIRO19 PRE JKT Chaqueta  Hombre   al 57.80 % de descuento'
-date: 2021-09-29 01:22:12
+date: 2021-10-10 10:00:11
 image: 'https://m.media-amazon.com/images/I/41v-GZBxKlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B07KDFKCVH/?tag=tolees-21'
 descuento: '57.80'
-average: '27.158'
+average: '26.8483333333333'
 ---
 
 Ahora mismo tienes [adidas TIRO19 PRE JKT Chaqueta  Hombre  Azul  Bold Blue/Dark Blue/White   L](https://www.amazon.es/dp/B07KDFKCVH/?tag=tolees-21) a 25.3 EUR (original: 59.95 EUR) (57.80 %  de descuento) en el siguiente enlace!

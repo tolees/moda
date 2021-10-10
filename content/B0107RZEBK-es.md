@@ -28,10 +28,10 @@ Ahora mismo tienes [Joma Brama Classic - Camiseta térmica para niños  color mo
 
 🔎:
 
-- Diseño con Jacquard para aumentar su transpiración
-- Resistente al sudor, ligera, suave y flexible
-- No tiene costuras para evitar rozamientos
-- Proporciona protección y comodidad gracias a sus características de impermeabilidad y transpirabilidad contra todas las condiciones meteorológicas
 - Se caracteriza por otorgar una gran libertad de movimientos, así como por su sujeción y confort
+- Diseño con Jacquard para aumentar su transpiración
+- Proporciona protección y comodidad gracias a sus características de impermeabilidad y transpirabilidad contra todas las condiciones meteorológicas
+- No tiene costuras para evitar rozamientos
+- Resistente al sudor, ligera, suave y flexible
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0107RZEBK/?tag=tolees-21)
