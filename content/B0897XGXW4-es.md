@@ -28,7 +28,7 @@ Tienes [Levi s Graphic Standard Sudadera  Hoodie New Logo II Caviar  XXS para Mu
 
 🔎:
 
-- Estándar
 - Tamaño del paquete: 6,0 x 33,6 x 33,29 cm
+- Estándar
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0897XGXW4/?tag=tolees-21)
