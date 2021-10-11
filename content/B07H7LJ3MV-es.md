@@ -28,7 +28,7 @@ En este momento está [Vila Clothes Viril L/s Open Knit Cardigan-Noos Chaqueta P
 
 🔎:
 
-- ultra-soft touch
 - big pockets
+- ultra-soft touch
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07H7LJ3MV/?tag=tolees-21)
