@@ -29,7 +29,7 @@ Ahora mismo tienes [Spalding Move Pantalón Corto de Entrenamiento de Baloncesto
 🔎:
 
 - Tejido Tipo Rejilla Cerrada, Ligera Y Transpirable
-- Características:, Corte De Mujer
 - Spalding Impreso Según Normativa Fiba
+- Características:, Corte De Mujer
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B06XDW7NGQ/?tag=tolees-21)
