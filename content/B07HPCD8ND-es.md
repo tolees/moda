@@ -28,10 +28,10 @@ En este momento está [FILA Disruptor kids zapatilla Unisex niños  blanco  Whit
 
 🔎:
 
-- Estación: Otoño/Invierno
-- Designer: FILA
 - Material: cuero de imitación
+- Designer: FILA
 - Artículo: 1010567.1FG
 - Color: blanco
+- Estación: Otoño/Invierno
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07HPCD8ND/?tag=tolees-21)
