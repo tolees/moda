@@ -28,10 +28,10 @@ En este momento está [PUMA Rebel Shorts TR G Falda  Niñas  Black  164](https:/
 
 🔎:
 
-- Corte normal
 - Estampado gráfico de goma con la marca denominativa de PUMA
-- BCI: Al comprar productos de algodón de PUMA, apoyas una producción más sostenible de algodón mediante la Iniciativa del Mejor Algodón (Better Cotton Initiative). Más información en: bettercotton.org/massbalance
 - Cinturilla acanalada con cordón regulable exterior para un ajuste personalizado
 - Bolsillos laterales
+- Corte normal
+- BCI: Al comprar productos de algodón de PUMA, apoyas una producción más sostenible de algodón mediante la Iniciativa del Mejor Algodón (Better Cotton Initiative). Más información en: bettercotton.org/massbalance
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08FFGPYMN/?tag=tolees-21)
