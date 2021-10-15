@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Marca Amazon - Goodthreads - Jersey de a al 25.00 % de descuento'
-date: 2021-10-13 14:21:52
+date: 2021-10-15 09:22:20
 image: 'https://m.media-amazon.com/images/I/41l-R9cuGUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

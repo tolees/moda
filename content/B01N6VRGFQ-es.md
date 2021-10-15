@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger SS tee Print Camiseta  Az al 50.00 % de descuento'
-date: 2021-10-13 09:03:37
+date: 2021-10-15 09:32:06
 image: 'https://m.media-amazon.com/images/I/414sYNCtlxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ Está [Tommy Hilfiger SS tee Print Camiseta  Azul  Navy Blazer 416   M para Muje
 ℹ️:
 
 - Camiseta de manga corta
-- Presenta una cinta distintiva en el interior del cuello
 - Tiene estampado la marca Tommy en el pecho
 - Con cuello redondo
+- Presenta una cinta distintiva en el interior del cuello
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01N6VRGFQ/?tag=tolees-21)
