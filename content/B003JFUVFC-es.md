@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ray-Ban New Wayfarer  Gafas de Sol Unise con un 35.64 % de descuento'
-date: 2021-10-12 06:54:24
+date: 2021-10-15 15:25:45
 image: 'https://m.media-amazon.com/images/I/31mIIuFRDKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ray-Ban'
 buyurl: 'https://www.amazon.es/dp/B003JFUVFC/?tag=tolees-21'
 descuento: '35.64'
-average: '88.9044444444443'
+average: '88.6963157894735'
 ---
 
 En este momento está [Ray-Ban New Wayfarer  Gafas de Sol Unisex adulto  Negro  Matte Black 622   52 mm](https://www.amazon.es/dp/B003JFUVFC/?tag=tolees-21) a 84.95 EUR (original: 132.0 EUR) (35.64 %  de descuento) en el siguiente enlace!
