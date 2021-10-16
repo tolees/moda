@@ -28,12 +28,12 @@ Tienes [FILA Disruptor kids zapatilla Unisex niños  rosa  Sepia Rose   34 EU](h
 
 🔎:
 
-- Closure: encaje
 - Shoe width: normale
+- Heel height: 10 milímetros
+- Closure: encaje
+- Material composition: pelle
+- Sole material: caucho
 - Lining: sintético
 - Outer material: sintético
-- Material composition: pelle
-- Heel height: 10 milímetros
-- Sole material: caucho
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08D3Y4WTZ/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Inside 9SFD34 Camiseta  66  L para Mujer al 38.66 % de rebaja'
-date: 2021-10-12 01:14:39
+date: 2021-10-16 19:09:46
 image: 'https://m.media-amazon.com/images/I/41q0b+48LHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Inside'
 buyurl: 'https://www.amazon.es/dp/B084ZRQNMJ/?tag=tolees-21'
 descuento: '38.66'
-average: '5.675'
+average: '5.67555555555556'
 ---
 
 Tienes [Inside 9SFD34 Camiseta  66  L para Mujer](https://www.amazon.es/dp/B084ZRQNMJ/?tag=tolees-21) con precio final de  5.68 EUR (original: 9.26 EUR) (38.66 %  de rebaja) aqui!
