@@ -28,8 +28,8 @@ Está [Jack & Jones JPRBLUWIN Polo SS STS Camiseta  Bleu Indigo  S para Hombre](
 
 ℹ️:
 
+- Cuello a rayas
 - Polo
 - Con bordado
-- Cuello a rayas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08126XHLN/?tag=tolees-21)
