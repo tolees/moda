@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 20.20 % en Pepe Jeans New Virginia PL502711 Camiset'
-date: 2021-10-15 06:59:49
+date: 2021-10-16 13:35:28
 image: 'https://m.media-amazon.com/images/I/417XCdYe7gL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

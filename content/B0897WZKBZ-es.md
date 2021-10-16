@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s SS Original Hm tee Camiseta  Chis al 16.04 % de descuento'
-date: 2021-10-15 07:08:09
+date: 2021-10-16 13:39:06
 image: 'https://m.media-amazon.com/images/I/41+P5uCKOIS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Ahora mismo tienes [Levi s SS Original Hm tee Camiseta  Chisel Grey Heather  L p
 
 🔎:
 
+- Logotipo pequeño de Levis en el pecho
 - Modelo casual
 - Adecuada para el día a día
-- Logotipo pequeño de Levis en el pecho
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0897WZKBZ/?tag=tolees-21)
