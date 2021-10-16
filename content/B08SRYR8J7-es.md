@@ -28,9 +28,9 @@ Ahora mismo tienes [The Drop Vestido para Mujer  Maxi  de Manga Larga  con Cuell
 
 🔎:
 
-- Hecho de un tejido ligero, semitransparente, suave y no elástico, con un forro de poliéster no elástico
-- Sarah mide 166 cm y lleva una talla S. Este vestido mide 132 cm de largo.
 - Ajuste regular: acompaña al movimiento, ni muy suelto ni muy ajustado
 - Este vestido presenta botones decorativos y un cordón de ajuste en la cintura. Tiene los puños de las mangas fruncidos y un escote que se puede cerrar. Viene con un forro lencero separado.
+- Hecho de un tejido ligero, semitransparente, suave y no elástico, con un forro de poliéster no elástico
+- Sarah mide 166 cm y lleva una talla S. Este vestido mide 132 cm de largo.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08SRYR8J7/?tag=tolees-21)

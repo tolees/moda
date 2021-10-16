@@ -28,7 +28,7 @@ En este momento está [Geox D KANDER A  Zapatillas Mujer  Color Gris  36 EU](htt
 
 🔎:
 
-- Diseño ligero y flexible que ofrece comodidad
 - Forma anatómica que se adapta a tus pies
+- Diseño ligero y flexible que ofrece comodidad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08BLCCTZ8/?tag=tolees-21)

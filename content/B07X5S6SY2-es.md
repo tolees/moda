@@ -28,9 +28,9 @@ Ahora mismo tienes [Crocs Classic Clog K Unisex Niños Zuecos  Rosa  Electric Pi
 
 🔎:
 
-- Customizable with Jibbitz charms.
 - Iconic Crocs comfort, lightweight, flexible and 360 degree comfort.
 - Easy to clean.
+- Customizable with Jibbitz charms.
 - Pivoting heel straps for a more secure fit.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07X5S6SY2/?tag=tolees-21)

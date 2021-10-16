@@ -28,9 +28,9 @@ Ahora mismo tienes [Lacoste TH0123 Camiseta  Marine  L para Hombre](https://www.
 
 🔎:
 
-- Cocodrilo verde bordado en el pecho
 - Camiseta para hombre, marca Lacoste
 - El puño de la blusa está doblado
 - Ajuste regular
+- Cocodrilo verde bordado en el pecho
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B071HN7CKY/?tag=tolees-21)

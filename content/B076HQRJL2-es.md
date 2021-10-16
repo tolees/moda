@@ -28,8 +28,8 @@ Ahora mismo tienes [Adidas Core18 Sw Top Sudadera  Hombre  Azul  Azul/Blanco   X
 
 🔎:
 
-- Puños y dobladillo de canalé
 - Mangas con ribetes en contraste
+- Puños y dobladillo de canalé
 - Cuenta con un pequeño logotipo de Adidas bordado en el pecho
 - Presenta ajuste regular
 
