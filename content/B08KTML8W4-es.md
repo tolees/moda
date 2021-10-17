@@ -28,10 +28,10 @@ Tienes [G-STAR RAW Premium Core Sudadera con Capucha  Crudo C235-159  S para Hom
 
 🔎:
 
-- Manga larga recta insertada con borde redondeado
 - Capucha con parte delantera cruzada, triángulo de canalé insertado y cordones ajustables
+- Manga larga recta insertada con borde redondeado
+- Bordado de G-Star RAW en el pecho
 - Bolsillo estilo canguro
 - Paneles laterales, puños y cintura acanalados
-- Bordado de G-Star RAW en el pecho
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08KTML8W4/?tag=tolees-21)
