@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Marca Amazon - Goodthreads - Jersey de a al 25.00 % de descuento'
-date: 2021-10-15 09:22:20
+date: 2021-10-17 11:30:42
 image: 'https://m.media-amazon.com/images/I/41l-R9cuGUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [Marca Amazon - Goodthreads - Jersey de algodón suave de punto trenzado c
 
 ℹ️:
 
-- Una marca de Amazon
-- Filato mediamente pesante in fibra naturale super morbido
 - Holgado en el pecho y entallado en la cintura
+- Filato mediamente pesante in fibra naturale super morbido
+- Una marca de Amazon
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07P3NQ6CM/?tag=tolees-21)
