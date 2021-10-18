@@ -28,8 +28,8 @@ Ahora mismo tienes [Levi s Standard Hoodie Sudadera  Azul  M para Mujer](https:/
 
 🔎:
 
-- Un jersey clásico
-- Sudadera con capucha estándar
 - Ofrece comodidad todo el día
+- Sudadera con capucha estándar
+- Un jersey clásico
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08PDJMMW2/?tag=tolees-21)

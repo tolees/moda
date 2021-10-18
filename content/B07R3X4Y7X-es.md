@@ -28,7 +28,7 @@ Ahora mismo tienes [Esprit Jayla T-Shirt Top de Pijama  Azul  Navy 400   42  Tal
 
 🔎:
 
-- jersey de viscosa agradable con caída suave y componente elástico, ideal para combinar con cualquier pantalón de pijama
 - Camiseta con diseño deportivo a rayas, amplio escote redondo
+- jersey de viscosa agradable con caída suave y componente elástico, ideal para combinar con cualquier pantalón de pijama
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07R3X4Y7X/?tag=tolees-21)
