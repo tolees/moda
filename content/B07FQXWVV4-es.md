@@ -28,10 +28,10 @@ Tienes [Carhartt Maddock Strong Graphic Pocket Short-Sleeve T-Shirt Camiseta  Bl
 
 🔎:
 
+- Bolsillo izquierdo en el pecho con gráficos de Carhartt
 - Maddock Jersey
+- Cuello redondo de canalé
 - Consulte la guía de tallas para encontrar la adecuada para usted
 - Estampado gráfico en el bolsillo trasero y en el pecho
-- Cuello redondo de canalé
-- Bolsillo izquierdo en el pecho con gráficos de Carhartt
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07FQXWVV4/?tag=tolees-21)

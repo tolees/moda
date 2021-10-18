@@ -28,11 +28,11 @@ Está [Champion Hombre - Camiseta Classic Small Logo - Blanco  M](https://www.am
 
 ℹ️:
 
-- Manga corta
-- Camiseta con cuello redondo
-- 100% Algodón
-- Número de modelo: 209830
 - Logo pequeño impreso en el lado izquierdo del pecho
 - Lavar a máquina en frío (30°máx)
+- Número de modelo: 209830
+- Manga corta
+- 100% Algodón
+- Camiseta con cuello redondo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07RDZ21FD/?tag=tolees-21)

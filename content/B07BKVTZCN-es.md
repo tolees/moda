@@ -28,7 +28,7 @@ Ahora mismo tienes [Marca Amazon - Goodthreads - Rebeca de lana merino para homb
 
 🔎:
 
-- Bolsillos frontales ribeteados y ribete de punto en los puños, la cintura y la tira de abotonado.
 - Un lujo cómodo y ligero, esta rebeca de lana merino 100 % es versátil y se puede llevar todo el año, encima de una camisa o como capa adicional debajo de una chaqueta blazer o un abrigo.
+- Bolsillos frontales ribeteados y ribete de punto en los puños, la cintura y la tira de abotonado.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07BKVTZCN/?tag=tolees-21)
