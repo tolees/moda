@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pepe Jeans New Virginia  Camiseta Para M al 24.08 % de rebaja'
-date: 2021-10-16 13:37:28
+date: 2021-10-18 11:14:03
 image: 'https://m.media-amazon.com/images/I/31xmrrW9BbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
