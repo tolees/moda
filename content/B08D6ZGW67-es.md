@@ -28,9 +28,9 @@ Ahora mismo tienes [Pepe Jeans Amersham Camiseta  933grey Marl  XS para Hombre](
 
 🔎:
 
-- Crew Neck
 - Tamaño especial: estándar
 - Tipo de tejido: 100% algodón
+- Crew Neck
 - Lavar a mano
 - Tipo de ajuste: normal
 
