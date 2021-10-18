@@ -28,10 +28,10 @@ Está [PUMA Studio Layered Crop Top Camiseta De Tirantes  Mujer  Cloud Pink  L](
 
 ℹ️:
 
-- Top con corte por encima de la cintura
 - Logotipo del PUMA en el pecho
-- Textura acanalada con malla en el interior
+- Top con corte por encima de la cintura
 - Sin mangas
+- Textura acanalada con malla en el interior
 - dryCELL: La denominación de PUMA para las propiedades repelentes de la humedad que ayudan a que la piel permanezca seca y cómoda
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B089Z7M1YD/?tag=tolees-21)
