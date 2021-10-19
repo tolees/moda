@@ -28,9 +28,9 @@ Está [adidas Fef H JSY Y Camiseta Primera equipación  Mujer  Victory Red  M](h
 
 ℹ️:
 
-- Camiseta de fútbol para los aficionados de España
-- Con escote de pico acanalado
 - Tiene el logo de la marca en el pecho
+- Con escote de pico acanalado
+- Camiseta de fútbol para los aficionados de España
 - Ajuste regular
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B081TNSCRW/?tag=tolees-21)
