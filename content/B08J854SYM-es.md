@@ -28,8 +28,8 @@ Tienes [Only Onlfeel Life L/S Hood Swt Noos Sudadera con Capucha  Negro  Small p
 
 🔎:
 
-- Sudadera con capucha y bolsillo tipo canguro
 - Estándar
+- Sudadera con capucha y bolsillo tipo canguro
 - Tamaño del paquete: 4,2 x 36,5 x 27,7 cm
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08J854SYM/?tag=tolees-21)

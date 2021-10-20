@@ -28,8 +28,8 @@ En este momento está [Marca Amazon - find. Camisa Oxford de Manga Corta Hombre 
 
 🔎:
 
-- Corte entallado
 - Manga corta
+- Corte entallado
 - Material tejido Chambray
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07ZHC94W8/?tag=tolees-21)

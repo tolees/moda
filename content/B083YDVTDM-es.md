@@ -28,10 +28,10 @@ En este momento está [Kipling Bolso bandolera para mujer Superworker Luggage](h
 
 🔎:
 
+- 100% Poliéster
 - Bolsa de trabajo con bandolera amovible
 - 29 altura x 41 ancho x 16 profundidad cm
-- 100% Poliéster
-- 0.81kg peso x 18.5L volumen
 - Hidrófugo
+- 0.81kg peso x 18.5L volumen
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B083YDVTDM/?tag=tolees-21)

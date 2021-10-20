@@ -28,9 +28,9 @@ En este momento está [Marca Amazon - find. Camisa Hombre  Rosa  Watermelon   L 
 
 🔎:
 
-- Corte casual
-- Cuello ancho con botones
-- Tejido ligero de lino
 - Estampado de pequeños cuadros
+- Tejido ligero de lino
+- Cuello ancho con botones
+- Corte casual
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B06XG73NT3/?tag=tolees-21)

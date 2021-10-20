@@ -28,9 +28,9 @@ Tienes [find. Regular fit Linen Shirt Camisa  Azul  Sky Blue   L](https://www.am
 
 ℹ️:
 
+- Estilo casual y contemporáneo
+- Cuello con botones
 - Corte recto
 - Tejido de lino con textura
-- Cuello con botones
-- Estilo casual y contemporáneo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01MU0XVGH/?tag=tolees-21)

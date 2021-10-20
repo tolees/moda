@@ -30,7 +30,7 @@ Está [Reef One Slide  Sandalias deslizantes Hombre  Negro  40 EU](https://www.a
 
 - Plantilla EVA moldeada por inyección impermeable
 - Suela EVA moldeada por inyección sin marca
-- Correa sintética resistente al agua
 - Eco-One Enhanced Biodegadability
+- Correa sintética resistente al agua
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07CZ5H5P1/?tag=tolees-21)
