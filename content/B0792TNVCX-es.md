@@ -28,8 +28,8 @@ Ahora mismo tienes [Marca Amazon - MERAKI Camisa de Vestir Regular Fit Estilo Ó
 
 🔎:
 
+- Prenda confeccionada en algodón elástico acanalado, cómodo y suave
 - Regular fit
 - Una marca de Amazon
-- Prenda confeccionada en algodón elástico acanalado, cómodo y suave
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0792TNVCX/?tag=tolees-21)
