@@ -28,8 +28,8 @@ Tienes [Goodthreads Soft Cotton Shawl Cardigan Sweater Sudadera  Azul  Washed Na
 
 🔎:
 
-- Holgado en el pecho y entallado en la cintura
 - Filato mediamente pesante in fibra naturale super morbido
 - Una marca de Amazon
+- Holgado en el pecho y entallado en la cintura
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07DZZRQ9Z/?tag=tolees-21)
