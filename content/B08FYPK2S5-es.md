@@ -28,12 +28,12 @@ Tienes [Havaianas Marvel  Chanclas Unisex Niños  Navy/Navy/White  31/32](https:
 
 ℹ️:
 
-- Tipo de talla: Tamaño real
-- Material de la suela: Caucho
-- Composición: Caucho
-- Tipo de tacón: Plano
-- Material exterior: Caucho
-- Cierre: Sin cordones
 - Revestimiento: Caucho
+- Tipo de talla: Tamaño real
+- Tipo de tacón: Plano
+- Material de la suela: Caucho
+- Cierre: Sin cordones
+- Material exterior: Caucho
+- Composición: Caucho
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08FYPK2S5/?tag=tolees-21)

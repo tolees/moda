@@ -28,8 +28,8 @@ Tienes [Springfield Polo BÁSICO Contraste Camiseta  Rosa  M para Hombre](https:
 
 🔎:
 
-- Polo regular fit de piqué
 - Bordado de árbol en el pecho
 - Con cuello y puños a contraste
+- Polo regular fit de piqué
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08NWBL8R4/?tag=tolees-21)

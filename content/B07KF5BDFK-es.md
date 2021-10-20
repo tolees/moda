@@ -29,7 +29,7 @@ Tienes [Levi s The Jacket Chaqueta Vaquera  Killebrew Trucker  XS para Hombre](h
 ℹ️:
 
 - Bolsillos de parche en el pecho con solapa y cierre de botón automático
-- Manga larga con cierre de botón en los puños
 - Bajo ajustable en el lateral
+- Manga larga con cierre de botón en los puños
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07KF5BDFK/?tag=tolees-21)

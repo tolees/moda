@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pepe Jeans Original Stretch Camiseta  Ne al 20.20 % de descuento'
-date: 2021-10-07 02:48:41
+date: 2021-10-20 19:07:29
 image: 'https://m.media-amazon.com/images/I/41s0LylTwHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pepe Jeans'
 buyurl: 'https://www.amazon.es/dp/B00BN5NLQ6/?tag=tolees-21'
 descuento: '20.20'
-average: '16.1990163934426'
+average: '16.2295121951219'
 ---
 
 Está [Pepe Jeans Original Stretch Camiseta  Negro  Black 999   Medium para Hombre](https://www.amazon.es/dp/B00BN5NLQ6/?tag=tolees-21) con 20.20 de descuento por 19.95 EUR (original: 25.0 EUR) en el siguiente enlace!
