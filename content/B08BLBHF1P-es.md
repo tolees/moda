@@ -28,8 +28,8 @@ Está [Geox D ABYES C  Sandalias Deportivas. Mujer  Negro  40 EU](https://www.am
 
 ℹ️:
 
-- Material exterior: sintético
 - Cierre: tres correas
+- Material exterior: sintético
 - Suela: goma
 - Material interior: sintético
 
