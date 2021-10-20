@@ -28,9 +28,9 @@ Está [edc by Esprit Basic Rundhals Camiseta  100/Color  M para Hombre](https://
 
 ℹ️:
 
-- Jersey suave de algodón orgánico 100%
-- Algodón orgánico: algodón de cultivo ecológico
 - I am sustainable: algodón orgánico
+- Algodón orgánico: algodón de cultivo ecológico
+- Jersey suave de algodón orgánico 100%
 - Cuello redondo
 - El esencial perfecto de algodón orgánico especialmente valioso
 
