@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Vans Colorblock tee Camiseta  Multicolor al 50.00 % de descuento'
-date: 2021-09-21 09:17:15
-image: 'https://m.media-amazon.com/images/I/41xT5nuHoQS._SL500_._SL400_.jpg'
+date: 2021-10-20 08:52:18
+image: 'https://m.media-amazon.com/images/I/31TsBOWYCML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,12 +19,12 @@ flag: '🇪🇸'
 brand: 'Vans'
 buyurl: 'https://www.amazon.es/dp/B07YBHGMGS/?tag=tolees-21'
 descuento: '50.00'
-average: '14.994'
+average: '14.5783333333333'
 ---
 
 Ahora mismo tienes [Vans Colorblock tee Camiseta  Multicolor  Black/White Y28   Medium para Hombre](https://www.amazon.es/dp/B07YBHGMGS/?tag=tolees-21) a 12.5 EUR (original: 25.0 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
-[![Vans Colorblock tee Camiseta  Multicolor](https://m.media-amazon.com/images/I/41xT5nuHoQS._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07YBHGMGS/?tag=tolees-21)
+[![Vans Colorblock tee Camiseta  Multicolor](https://m.media-amazon.com/images/I/31TsBOWYCML._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07YBHGMGS/?tag=tolees-21)
 
 🔎:
 
