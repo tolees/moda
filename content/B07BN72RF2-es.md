@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazon Essentials - Chaqueta acolchada   al 15.00 % de descuento'
-date: 2021-10-18 18:55:48
+date: 2021-10-20 14:04:25
 image: 'https://m.media-amazon.com/images/I/41lGogpAJ0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
