@@ -28,9 +28,9 @@ Tienes [Pepe Jeans Tony Chaqueta  0aamulti  S para Hombre](https://www.amazon.es
 
 ℹ️:
 
-- Tipo de tejido: 100% poliéster
-- Hooded Jacket
-- Lavar a mano
 - Tamaño especial: estándar
+- Tipo de tejido: 100% poliéster
+- Lavar a mano
+- Hooded Jacket
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08D5XDLZT/?tag=tolees-21)
