@@ -28,10 +28,10 @@ Tienes [NIKE Sudadera Modelo Dri-FIT Academy Marca](https://www.amazon.es/dp/B08
 
 ℹ️:
 
+- Los productos deportivos de la marca Nike están diseñados para que disfrutes de tu deporte favorito sin preocuparte de nada más que rendir al máximo
 - Ropa deportiva Azul de la marca Nike
+- Sudadera para practicar Tiempo libre y sportwear de hombre
 - Ropa deportiva fabricada con materiales de primera calidad que se adaptan a cualquier actividad deportiva
 - Sudadera Nike Dri-FIT Academy OBSIDIAN/WHITE/WHITE/WHITE
-- Sudadera para practicar Tiempo libre y sportwear de hombre
-- Los productos deportivos de la marca Nike están diseñados para que disfrutes de tu deporte favorito sin preocuparte de nada más que rendir al máximo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08Y5NTCHQ/?tag=tolees-21)
