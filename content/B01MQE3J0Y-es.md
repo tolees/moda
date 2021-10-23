@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Descuento del 23.72 % en Skechers Reggae Slim-Vacay  Sandalias de'
-date: 2021-10-05 02:07:52
-image: 'https://m.media-amazon.com/images/I/41UQWIrfOEL._SL500_._SL400_.jpg'
+date: 2021-10-22 23:54:24
+image: 'https://m.media-amazon.com/images/I/41DBLNpcqcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,12 +19,12 @@ flag: '🇪🇸'
 brand: 'Skechers'
 buyurl: 'https://www.amazon.es/dp/B01MQE3J0Y/?tag=tolees-21'
 descuento: '23.72'
-average: '41.53'
+average: '40.3866666666667'
 ---
 
 Tienes [Skechers Reggae Slim-Vacay  Sandalias de Talón Abierto Mujer  Negro  Choc Black Duraleather/Webbing   36 EU](https://www.amazon.es/dp/B01MQE3J0Y/?tag=tolees-21) con un 23.72 % de descuento con precio de oferta de 38.1 EUR (original: 49.95 EUR) en el siguiente enlace!
 
-[![Skechers Reggae Slim-Vacay  Sandalias de](https://m.media-amazon.com/images/I/41UQWIrfOEL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B01MQE3J0Y/?tag=tolees-21)
+[![Skechers Reggae Slim-Vacay  Sandalias de](https://m.media-amazon.com/images/I/41DBLNpcqcL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B01MQE3J0Y/?tag=tolees-21)
 
 ℹ️:
 

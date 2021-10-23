@@ -28,7 +28,7 @@ Tienes [Levi s Relaxed Graphic Hoodie Sudadera  Negro  Boxtab Pop Mineral Black 
 
 ℹ️:
 
-- Estándar
 - Tamaño del paquete: 5,0 x 32,8 x 31,0 cm
+- Estándar
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07TMHGSR5/?tag=tolees-21)
