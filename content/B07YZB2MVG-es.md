@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Marca Amazon - find. Cotton Canvas Chaqu al 72.91 % de descuento'
-date: 2021-10-20 18:58:00
+date: 2021-10-25 21:33:40
 image: 'https://m.media-amazon.com/images/I/31ewgTk4LIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'find.'
 buyurl: 'https://www.amazon.es/dp/B07YZB2MVG/?tag=tolees-21'
 descuento: '72.91'
-average: '15.454'
+average: '15.3116666666667'
 ---
 
 Ahora mismo tienes [Marca Amazon - find. Cotton Canvas Chaqueta bomber para Hombre  beige  topo   M  Label: M](https://www.amazon.es/dp/B07YZB2MVG/?tag=tolees-21) a 14.6 EUR (original: 53.9 EUR) (72.91 %  de descuento) en el siguiente enlace!
