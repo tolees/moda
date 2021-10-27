@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Converse - Canvas Colour Chuck Taylor Al al 23.78 % de descuento'
-date: 2021-10-17 06:02:32
+date: 2021-10-27 06:12:22
 image: 'https://m.media-amazon.com/images/I/31OkilxjLmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Converse'
 buyurl: 'https://www.amazon.es/dp/B08PKJS1RR/?tag=tolees-21'
 descuento: '23.78'
-average: '58.465'
+average: '59.3033333333333'
 ---
 
 Está [Converse - Canvas Colour Chuck Taylor All Star Move Low Top Zapatos Deportivos para Mujer Negro 570256C](https://www.amazon.es/dp/B08PKJS1RR/?tag=tolees-21) con 23.78 de descuento por 60.98 EUR (original: 80.0 EUR) en el siguiente enlace!
