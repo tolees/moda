@@ -29,7 +29,7 @@ En este momento está [Salomon X Reveal Hombre Zapatos de trekking  Negro  Black
 🔎:
 
 - Zapatillas de hiking montañismo, alpinismo y trekking hombre
-- Shoes x reveal (l41042000)
 - Calzado salomon
+- Shoes x reveal (l41042000)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07RHPQ3KF/?tag=tolees-21)
