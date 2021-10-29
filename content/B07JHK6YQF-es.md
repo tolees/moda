@@ -29,7 +29,7 @@ Está [Levi s The Perfect Camiseta  Holiday tee Black  XS para Mujer](https://ww
 ℹ️:
 
 - Modelo casual
-- Con tacto suave de forro polar
 - Tiene estampado la marca Levis
+- Con tacto suave de forro polar
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07JHK6YQF/?tag=tolees-21)

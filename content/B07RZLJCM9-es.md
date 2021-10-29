@@ -28,8 +28,8 @@ Tienes [Levi s The tee Camiseta  Black  90 S Serif Perfect T2 Caviar 0783   Muje
 
 🔎:
 
-- Modelo casual
 - Con tacto suave de forro polar
+- Modelo casual
 - Tiene estampado la marca Levis
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07RZLJCM9/?tag=tolees-21)
