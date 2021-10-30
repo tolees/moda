@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox B Djrock Girl C  Zapatillas Bebé-Ni al 39.90 % de descuento'
-date: 2021-10-01 19:54:57
+date: 2021-10-30 13:05:09
 image: 'https://m.media-amazon.com/images/I/41G-UCAqqWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
