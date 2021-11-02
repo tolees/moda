@@ -28,10 +28,10 @@ Ahora mismo tienes [Smiffy s - Smiffys- Graveyard Disfraz de Novia de Cementerio
 
 🔎:
 
-- Smiffys es un proveedor líder de disfraces y una empresa familiar con una herencia de 123 años en disfraces, pelucas, maquillaje y accesorios
 - Nuestro equipo interno de seguridad asegura que todos nuestros productos son manufaturados y rigurosamente testados para cumplir con los estándares y regulamentos europeos y americanos de seguridad
-- Busto 37-385" / cintura 29-305" / cadera 395-41" / entrepiernas 3275"
 - Tenga en cuenta que todos nuestros productos Smiffys siempre vienen en un empaque completo con la marca Smiffys
+- Busto 37-385" / cintura 29-305" / cadera 395-41" / entrepiernas 3275"
 - Incluye Disfraz de novia de cementerio, con vestido y velo con rosas
+- Smiffys es un proveedor líder de disfraces y una empresa familiar con una herencia de 123 años en disfraces, pelucas, maquillaje y accesorios
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00TSBH32A/?tag=tolees-21)
