@@ -29,7 +29,7 @@ Ahora mismo tienes [Skechers Equalizer 4.0 Serasa  Chanclas Hombre  Marrón Marr
 🔎:
 
 - Tallas disponibles: 6 a 10
-- Descripción del color: marrón
 - Ajuste: medio
+- Descripción del color: marrón
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07XJ62XQP/?tag=tolees-21)
