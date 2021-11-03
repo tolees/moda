@@ -30,8 +30,8 @@ Está [Morgan Robe saharienne Sans Manches RYEL Vestido Informal  211-ryel/Thym 
 
 - Vestido recto con botones y cinturón
 - Vestido corto
-- Vestido saharaui sin mangas con cinturón
 - Cuello acanalado en el reverso
+- Vestido saharaui sin mangas con cinturón
 - Corte recto
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08C7WF76Y/?tag=tolees-21)
