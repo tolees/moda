@@ -28,9 +28,9 @@ Tienes [GEOX Woman D ELIDIA A SHOES NAVY 35 EU](https://www.amazon.es/dp/B0825NJ
 
 ℹ️:
 
-- Altura del tacón: 2 cm / 0.8 inch
 - Calzado sin cierre
-- Los sistemas patentados Geox ofrecen la transpirabilidad de la suela y el bienestar del pie
 - Fácil de llevar para un confort optimo
+- Altura del tacón: 2 cm / 0.8 inch
+- Los sistemas patentados Geox ofrecen la transpirabilidad de la suela y el bienestar del pie
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0825NJTMR/?tag=tolees-21)
