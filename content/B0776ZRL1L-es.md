@@ -28,9 +28,9 @@ Está [Tommy Jeans Original Rib Camisa  Azul  Black Iris 002   Medium para Hombr
 
 ℹ️:
 
-- Talla: M
-- Longitud de la manga: manga larga - normal
 - Tommy Jeans - Camiseta ajustada de manga larga de algodón puro con logotipo bordado y cuello redondo, color azul oscuro
+- Longitud de la manga: manga larga - normal
+- Talla: M
 - Línea: Tommy Jeans
 - Ajuste: Slim Fit
 
