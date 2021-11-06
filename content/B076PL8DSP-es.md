@@ -28,9 +28,9 @@ En este momento está [adidas Core 18 Hoody Sudadera con Capucha  Hombre  Rojo  
 
 🔎:
 
-- Tiene una capucha ajustable con cordón
 - Ventilación Climacool.
 - Sin mangas.
 - Escote redondo.
+- Tiene una capucha ajustable con cordón
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B076PL8DSP/?tag=tolees-21)
