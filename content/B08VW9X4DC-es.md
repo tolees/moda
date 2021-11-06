@@ -28,9 +28,9 @@ Tienes [adidas Boys Jersey  Short Sleeve  Squad 21 JSY Y  White/White/Black  GN5
 
 🔎:
 
-- Una camiseta con cuello redondo para un rendimiento óptimo
 - Escote redondo
-- Tecnología AEROREADY absorbente de humedad
 - Corte regular
+- Tecnología AEROREADY absorbente de humedad
+- Una camiseta con cuello redondo para un rendimiento óptimo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08VW9X4DC/?tag=tolees-21)

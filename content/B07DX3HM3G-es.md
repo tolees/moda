@@ -28,8 +28,8 @@ En este momento está [Tommy Hilfiger Niños Boys Basic Vn Knit S/s Camiseta Not
 
 🔎:
 
-- Logo de Tommy Hilfiger bordado en el pecho
 - Punto de puro algodón orgánico
 - Cuello de pico
+- Logo de Tommy Hilfiger bordado en el pecho
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07DX3HM3G/?tag=tolees-21)
