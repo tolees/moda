@@ -29,7 +29,7 @@ Ahora mismo tienes [Nike Star Runner 3  Zapatos de Tenis Unisex niños  Juego Ro
 🔎:
 
 - Zapatillas deportivas
-- Zapatos versátiles y transpirables
 - Parte superior de malla
+- Zapatos versátiles y transpirables
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B098PBRG2H/?tag=tolees-21)

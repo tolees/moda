@@ -28,9 +28,9 @@ En este momento está [Vans VANS CLASSIC TANK - Camiseta de tirantes para hombre
 
 🔎:
 
+- Top tirante ancho con las siguientes características:
 - Tu nuevo merchandising favorito
 - Camiseta Tirantes || Muy cómodo
 - Material: Baumwolle
-- Top tirante ancho con las siguientes características:
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B012EJ1Q3O/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Salomon Alphacross 3 Gore-Tex  impermeab con un 38.19 % de descuento'
-date: 2021-10-12 01:24:13
+date: 2021-11-06 14:46:18
 image: 'https://m.media-amazon.com/images/I/41OqbnWdmNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
