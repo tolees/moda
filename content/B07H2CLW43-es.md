@@ -29,7 +29,7 @@ En este momento está [Joma Combi Camiseta Manga Corta  Hombre  Burdeos  M](http
 🔎:
 
 - Camisetas equip; m/c
-- Burdeos
 - Training
+- Burdeos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07H2CLW43/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Kids Lvb Batwing Tee Camiseta Gre al 24.72 % de rebaja'
-date: 2021-10-27 22:03:03
+date: 2021-11-06 18:17:12
 image: 'https://m.media-amazon.com/images/I/41LTxky7JDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis kids'
 buyurl: 'https://www.amazon.es/dp/B07YB4WSNT/?tag=tolees-21'
 descuento: '24.72'
-average: '13.2083333333333'
+average: '13.2346153846154'
 ---
 
 Tienes [Levi s Kids Lvb Batwing Tee Camiseta Grey Heather para Niños](https://www.amazon.es/dp/B07YB4WSNT/?tag=tolees-21) con precio final de  13.55 EUR (original: 18.0 EUR) (24.72 %  de rebaja) aqui!

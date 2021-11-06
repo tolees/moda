@@ -28,7 +28,7 @@ Ahora mismo tienes [Levi s HR Decon Iconic BF Skirt Falda  Regular Programming  
 
 🔎:
 
-- Ofrece comodidad y libertad de movimiento
 - Tiene detalles distintivos de la marca
+- Ofrece comodidad y libertad de movimiento
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07ZVRCQXY/?tag=tolees-21)

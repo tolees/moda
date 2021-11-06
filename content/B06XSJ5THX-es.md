@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 22.08 % en Pepe Jeans New Virginia PL502711 Camiset'
-date: 2021-11-02 01:04:39
+date: 2021-11-06 18:17:09
 image: 'https://m.media-amazon.com/images/I/417XCdYe7gL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pepe Jeans'
 buyurl: 'https://www.amazon.es/dp/B06XSJ5THX/?tag=tolees-21'
 descuento: '22.08'
-average: '19.8325'
+average: '19.7933333333333'
 ---
 
 Tienes [Pepe Jeans New Virginia PL502711 Camiseta  Gris  Grey Marl 933   Medium para Mujer](https://www.amazon.es/dp/B06XSJ5THX/?tag=tolees-21) con un 22.08 % de descuento con precio de oferta de 19.48 EUR (original: 25.0 EUR) en el siguiente enlace!
