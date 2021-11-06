@@ -28,8 +28,8 @@ En este momento está [Springfield Polo Estampado All Over Camiseta  Azul Medio 
 
 🔎:
 
-- Polo de piqué regular fit.
-- Con estampado all over.
 - Bordado en el pecho.
+- Con estampado all over.
+- Polo de piqué regular fit.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08QJS7T8C/?tag=tolees-21)
