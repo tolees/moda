@@ -28,8 +28,8 @@ Está [Levi s The Jacket Chaqueta Vaquera  Mayze Trucker  M para Hombre](https:/
 
 ℹ️:
 
-- Bajo ajustable en el lateral
 - Manga larga con cierre de botón en los puños
 - Bolsillos de parche en el pecho con solapa y cierre de botón automático
+- Bajo ajustable en el lateral
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07M7WSWB1/?tag=tolees-21)
