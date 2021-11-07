@@ -28,7 +28,7 @@ Tienes [Tommy Hilfiger Lightweight Bomber Chaqueta  Cielo del Desierto  XS para 
 
 🔎:
 
-- Para más información sobre Tommy Hilfiger, consulta la sección de descripción del producto a continuación.
 - Este es un producto auténtico y original de Tommy Hilfiger.
+- Para más información sobre Tommy Hilfiger, consulta la sección de descripción del producto a continuación.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08CD4NZBV/?tag=tolees-21)
