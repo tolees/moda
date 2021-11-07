@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas CORE18 TR Top Sudadera  Hombre  B al 62.95 % de descuento'
-date: 2021-10-16 10:41:47
+date: 2021-11-07 19:36:43
 image: 'https://m.media-amazon.com/images/I/41TaHkFunRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076HPY1R2/?tag=tolees-21'
 descuento: '62.95'
-average: '15.5058333333333'
+average: '15.3092307692307'
 ---
 
 Ahora mismo tienes [adidas CORE18 TR Top Sudadera  Hombre  Bold Blue/White  2XL](https://www.amazon.es/dp/B076HPY1R2/?tag=tolees-21) a 12.95 EUR (original: 34.95 EUR) (62.95 %  de descuento) en el siguiente enlace!
