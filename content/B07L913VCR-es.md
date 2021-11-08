@@ -28,8 +28,8 @@ En este momento está [NIKE Essential Hoodie FZ FLC Sudadera con Capucha y Crema
 
 🔎:
 
-- Hood with lanyard
 - Soft fabric
 - Regular fit
+- Hood with lanyard
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07L913VCR/?tag=tolees-21)
