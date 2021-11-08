@@ -28,10 +28,10 @@ Tienes [Top Top VOTERILLA Vestido  Estampado  18-24 para Bebés](https://www.ama
 
 🔎:
 
+- Tejido: Punto Melange
 - Vestido casual marga larga bebé niña estampado, 77557 VOTERILLA
+- Composición: 95% Algodón 5% Viscosa
 - Tabla de tallas bebé: 0-0: altura 56 cm / 0-3: 56-62 cm / 3-6: 62-68 cm / 6-9: 68-71 cm / 9-12: 71-74 cm / 12-18: 74-80 cm / 18-24: 80-86 cm / 24-36: 86-92 cm
 - Colección TOP TOP Refugio campestre
-- Tejido: Punto Melange
-- Composición: 95% Algodón 5% Viscosa
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B094VTHR94/?tag=tolees-21)
