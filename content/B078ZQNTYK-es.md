@@ -28,10 +28,10 @@ En este momento está [PUMA Liga Training Jr Jersey Camiseta Niños  Cyber Yello
 
 🔎:
 
-- Bajo delantero liso
+- Logotipo del felino PUMA en la parte derecha del pecho
 - Panel bajo la axila
 - Costura lateral hacia atrás
-- Logotipo del felino PUMA en la parte derecha del pecho
+- Bajo delantero liso
 - Corte recto
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078ZQNTYK/?tag=tolees-21)

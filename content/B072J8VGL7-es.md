@@ -28,8 +28,8 @@ Ahora mismo tienes [Dainese 1896745-N42-L Camiseta  Melage Gris  L](https://www.
 
 🔎:
 
+- Mangas cortas
 - Camiseta para adultos
 - 100% Algodón
-- Mangas cortas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B072J8VGL7/?tag=tolees-21)
