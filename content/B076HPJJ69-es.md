@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Core18 Sw Top Sudadera  Hombre  R al 27.41 % de rebaja'
-date: 2021-11-07 23:38:40
+date: 2021-11-09 05:35:26
 image: 'https://m.media-amazon.com/images/I/41NkKbsR8hL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076HPJJ69/?tag=tolees-21'
 descuento: '27.41'
-average: '25.96375'
+average: '26.3011111111111'
 ---
 
 Tienes [adidas Core18 Sw Top Sudadera  Hombre  Rojo  Rojo/Blanco   XL](https://www.amazon.es/dp/B076HPJJ69/?tag=tolees-21) con precio final de  29.0 EUR (original: 39.95 EUR) (27.41 %  de rebaja) aqui!
