@@ -28,8 +28,8 @@ Está [adidas CORE18 Hoody Sudadera con Capucha  Hombre  Negro  Negro/Blanco   L
 
 ℹ️:
 
-- Tiene una capucha ajustable con cordón
 - Cuenta con un bolsillo de tipo canguro
+- Tiene una capucha ajustable con cordón
 - Sudadera adecuada para hombres
 - Es adecuada para el futbol
 

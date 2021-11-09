@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 20.00 % en Levi s Kids Lvb Batwing Tee Camiseta Dre'
-date: 2021-11-08 05:26:26
+date: 2021-11-09 06:17:29
 image: 'https://m.media-amazon.com/images/I/31WlX2ApKXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
