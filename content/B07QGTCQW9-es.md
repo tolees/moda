@@ -28,10 +28,10 @@ Tienes [TRANGO Pant. Largo ORBAYU Pantalón Deportivo  Gris Pizarra  M para Homb
 
 🔎:
 
-- PANT. LARGO ORBAYU
-- Tejido ultraligero
-- Protección uv
 - Repelente al agua
+- Protección uv
+- Tejido ultraligero
 - Tejido bielástico maximiza confort y libertad de movimiento
+- PANT. LARGO ORBAYU
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07QGTCQW9/?tag=tolees-21)
