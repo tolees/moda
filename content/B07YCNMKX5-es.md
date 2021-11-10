@@ -28,7 +28,7 @@ Tienes [Levi s Kids Lvb Batwing Tee Camiseta Dress Blues para Niños](https://ww
 
 ℹ️:
 
-- Tiene logotipo de la marca impreso en el pecho
 - Ofrece comodidad y libertad de movimiento
+- Tiene logotipo de la marca impreso en el pecho
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07YCNMKX5/?tag=tolees-21)

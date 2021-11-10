@@ -28,7 +28,7 @@ Tienes [JACK & JONES Jachuey Trunks 7 Pack Bóxer  Negro  Black Detail: Blacak/B
 
 🔎:
 
-- Boxer short with logo
 - Elastic cotton quality
+- Boxer short with logo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07T6TK29K/?tag=tolees-21)
