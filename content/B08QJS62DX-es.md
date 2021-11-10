@@ -28,8 +28,8 @@ Ahora mismo tienes [Springfield Vestido Corto Estampado Ikat  Azul Medio  L para
 
 🔎:
 
-- Vestido de manga larga, con cuello redondo con detalle de crochet.
-- Con estampado ikat
 - Con abertura en la espalda en forma de lágrima con cierre de botón
+- Con estampado ikat
+- Vestido de manga larga, con cuello redondo con detalle de crochet.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08QJS62DX/?tag=tolees-21)

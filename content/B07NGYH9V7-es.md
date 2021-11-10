@@ -28,10 +28,10 @@ Ahora mismo tienes [Bebés Llorones Lena - Muñeca interactiva que llora de verd
 
 🔎:
 
-- Esta es Lena, un adorable Bebé Llorón con pijamita de lama. Los Bebes Llorónes son unas muñecas monísimas que lloran lágrimas de verdad.
-- Al quitarle el chupete tu Bebé Llorón llora lágrimas de verdad. Pónselo otra vez o no dejará de llorar y cada vez lo hará más fuerte. Puedes acomodarla en tus brazos para calmarla.
+- Los Bebés Llorónes ofrecen una divertida forma de inculcar valores de respeto, responsabilidad y afecto por los demás; tamaño aproximado: 30,5 cm; edad recomendada: a partir de 18 meses
 - Incluye chupete y pijama; funciona con 2 pilas AAA.
 - Los Bebes Llorónés visten divertidos pijamas con alegres colores y estampados basados en sus inseparables mascotas. Los pijamas se pueden intercambiar entre las muñecas.
-- Los Bebés Llorónes ofrecen una divertida forma de inculcar valores de respeto, responsabilidad y afecto por los demás; tamaño aproximado: 30,5 cm; edad recomendada: a partir de 18 meses
+- Esta es Lena, un adorable Bebé Llorón con pijamita de lama. Los Bebes Llorónes son unas muñecas monísimas que lloran lágrimas de verdad.
+- Al quitarle el chupete tu Bebé Llorón llora lágrimas de verdad. Pónselo otra vez o no dejará de llorar y cada vez lo hará más fuerte. Puedes acomodarla en tus brazos para calmarla.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07NGYH9V7/?tag=tolees-21)

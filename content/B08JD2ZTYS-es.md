@@ -28,10 +28,10 @@ Ahora mismo tienes [Billabong Stacked - Camiseta - Hombre - XL - Blanco](https:/
 
 🔎:
 
+- Manga corta
 - Corte: corte normal
 - Parche de tela en el bolsillo
-- Manga corta
-- Bolsillo en el pecho
 - Tejido: Tejido en punto jersey peinado
+- Bolsillo en el pecho
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08JD2ZTYS/?tag=tolees-21)

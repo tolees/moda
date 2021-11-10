@@ -28,9 +28,9 @@ Tienes [Helly Hansen Loke - Chaqueta para hombre  color naranja patrulla  talla 
 
 🔎:
 
-- Es posible obtener un corte y confort óptimos para las actividades al aire libre durante todo el año
-- Impermeable, cortaviento y transpirable
-- Bolsillos laterales
 - Práctica para diversas condiciones meteorológicas
+- Bolsillos laterales
+- Impermeable, cortaviento y transpirable
+- Es posible obtener un corte y confort óptimos para las actividades al aire libre durante todo el año
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08M2HZB9N/?tag=tolees-21)

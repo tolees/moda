@@ -28,7 +28,7 @@ Está [Levi s Kids Lvb Batwing Tee Camiseta White para Niños](https://www.amazo
 
 ℹ️:
 
-- Ofrece comodidad y libertad de movimiento
 - Tiene logotipo de la marca impreso en el pecho
+- Ofrece comodidad y libertad de movimiento
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07XC2WM6F/?tag=tolees-21)

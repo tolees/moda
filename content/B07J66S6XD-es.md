@@ -28,8 +28,8 @@ Está [Lee Extreme Motion Straight Vaqueros  Maddox  32W / 32L para Hombre](http
 
 ℹ️:
 
-- Tejido elástico
-- Cintura flexible
 - Clasico botón tipo “donut”
+- Cintura flexible
+- Tejido elástico
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07J66S6XD/?tag=tolees-21)

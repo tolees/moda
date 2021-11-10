@@ -28,8 +28,8 @@ Tienes [NIKE Y NK Dry Legend JSY SS Camiseta de Manga Corta  Unisex niños  Whit
 
 🔎:
 
-- Dri-Fit Technology
-- V-neck
 - Regular fit
+- V-neck
+- Dri-Fit Technology
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B005C8QC4S/?tag=tolees-21)
