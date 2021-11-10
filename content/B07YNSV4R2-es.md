@@ -28,8 +28,8 @@ Ahora mismo tienes [Marca Amazon - find. Gumsole Chelsea Botas  Grau  Almond Sue
 
 🔎:
 
-- Laterales elásticos.
 - Piel de napa.
 - Suela de goma cosida.
+- Laterales elásticos.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07YNSV4R2/?tag=tolees-21)
