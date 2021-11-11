@@ -28,9 +28,9 @@ Ahora mismo tienes [G-STAR RAW Revend Skinny Jeans  Vaqueros  White  36W / 32L p
 
 🔎:
 
-- Adecuados para múltiples ocasiones
 - Ajuste regular
 - Elasticidad añadida para mayor libertad de movimiento
 - Contenido del paquete: una unidad
+- Adecuados para múltiples ocasiones
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CGWJ7YN/?tag=tolees-21)
