@@ -28,8 +28,8 @@ Ahora mismo tienes [oodji Ultra Mujer Pijama con Pantalones y Estampado Gatito  
 
 🔎:
 
-- Las prendas de colección oodji Ultra tienen la talla más pequeña de lo normal, te recomendamos que elijas una talla superior a tu talla habitual o que consultes la tabla de tallas de oodji. Modelo: Talla S. Medidas: 85/65/90. Altura/peso: 175cm/52kg
 - Este maravilloso pijama destaca por su delicado estampado
+- Las prendas de colección oodji Ultra tienen la talla más pequeña de lo normal, te recomendamos que elijas una talla superior a tu talla habitual o que consultes la tabla de tallas de oodji. Modelo: Talla S. Medidas: 85/65/90. Altura/peso: 175cm/52kg
 - Bonito pijama formado por una camiseta de manga corta y unos pantalones
 - Perfecto para relajarse en casa y dormir con total comodidad
 
