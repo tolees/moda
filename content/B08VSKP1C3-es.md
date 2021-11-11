@@ -28,9 +28,9 @@ En este momento está [adidas Sudadera Modelo SQ21 SW Top Marca](https://www.ama
 
 🔎:
 
-- Felpa 70% Algodón, 30% Poliéster Reciclado
-- Cuello redondo
-- Puños y dobladillo de canalé
 - Las icónicas 3 rayas en las mangas le dan un aspecto deportivo
+- Puños y dobladillo de canalé
+- Cuello redondo
+- Felpa 70% Algodón, 30% Poliéster Reciclado
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08VSKP1C3/?tag=tolees-21)

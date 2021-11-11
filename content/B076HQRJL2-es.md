@@ -28,9 +28,9 @@ Ahora mismo tienes [Adidas Core18 Sw Top Sudadera  Hombre  Azul  Azul/Blanco   X
 
 🔎:
 
+- Mangas con ribetes en contraste
+- Presenta ajuste regular
 - Cuenta con un pequeño logotipo de Adidas bordado en el pecho
 - Puños y dobladillo de canalé
-- Presenta ajuste regular
-- Mangas con ribetes en contraste
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B076HQRJL2/?tag=tolees-21)
