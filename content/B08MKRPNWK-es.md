@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geographical Norway - Parka Mujer Boomer con un 40.40 % de descuento'
-date: 2021-11-09 22:04:49
+date: 2021-11-12 16:52:13
 image: 'https://m.media-amazon.com/images/I/41i0TgzCJLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
