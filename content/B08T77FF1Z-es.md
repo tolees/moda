@@ -28,7 +28,7 @@ Está [Amazon Essentials Polar Fleece Full-Zip Mock Jackets Chaqueta  Estampado 
 
 ℹ️:
 
-- Una marca de Amazon
 - Tessuto in pile termico mediamente pesante, lanuginoso, caldo e morbido
+- Una marca de Amazon
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08T77FF1Z/?tag=tolees-21)
