@@ -29,7 +29,7 @@ En este momento está [Lee Austin Jeans Vaqueros  Azul Claro  34W / 30L para Hom
 🔎:
 
 - Tapado regular
-- Indigood
 - Tejido vaquero elástico
+- Indigood
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CWPRLYW/?tag=tolees-21)

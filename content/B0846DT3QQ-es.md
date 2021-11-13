@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pepe Jeans Anita Vestido  Negro  999   1 con un 35.65 % de descuento'
-date: 2021-10-31 12:24:29
+date: 2021-11-13 20:46:13
 image: 'https://m.media-amazon.com/images/I/41pfnVD4hgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

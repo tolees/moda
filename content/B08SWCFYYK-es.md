@@ -28,12 +28,12 @@ En este momento está [Geox W ASHLEEY Long JKT Chaqueta  Azul gótico  44 para M
 
 🔎:
 
-- Exclusivo sistema transpirante patentado Geox
-- Capuchón desmontable y con jareta
+- Calce: regular
 - Longitud: 78 cm
 - Tejido hidrófugo y suave
-- Relleno ecológico de pluma sintética reciclada Ecologic Warm
-- Calce: regular
 - Bolsillos con forro abrigado
+- Relleno ecológico de pluma sintética reciclada Ecologic Warm
+- Exclusivo sistema transpirante patentado Geox
+- Capuchón desmontable y con jareta
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08SWCFYYK/?tag=tolees-21)
