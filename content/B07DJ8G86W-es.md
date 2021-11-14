@@ -28,12 +28,12 @@ Está [Geox D New ANNYA Mid A  Zapatos de Tacón Mujer  Beige  Lt Taupe C6738   
 
 ℹ️:
 
-- Material exterior: Cuero
-- Material de la suela: Sintético
-- Cierre: Sin cordones
 - Altura del tacón: 5.5 centímetros
 - Tipo de tacón: Tacón ancho
-- Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
 - Revestimiento: Sintético
+- Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
+- Cierre: Sin cordones
+- Material de la suela: Sintético
+- Material exterior: Cuero
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07DJ8G86W/?tag=tolees-21)
