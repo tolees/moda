@@ -29,7 +29,7 @@ Está [NIKE Team Fall Jkt Chaqueta Deportiva  Unisex niños  Negro  Black/Anthra
 ℹ️:
 
 - Capuccio
-- Logotipo de Nike en el pecho
 - Dos bolsillos
+- Logotipo de Nike en el pecho
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00VAYQO96/?tag=tolees-21)
