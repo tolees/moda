@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Polaroid PLD 2052/S M9 807 51 Gafas de S con un 39.55 % de descuento'
-date: 2021-11-09 08:51:00
+date: 2021-11-15 08:45:49
 image: 'https://m.media-amazon.com/images/I/317VEP28J8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
