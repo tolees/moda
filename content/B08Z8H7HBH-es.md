@@ -28,9 +28,9 @@ Ahora mismo tienes [Joma Sudadera con Capucha Championship IV Royal Blanco](http
 
 🔎:
 
-- Material resistente y duradero
 - Marca del producto: Joma
 - El material ofrece una comodidad óptima
+- Material resistente y duradero
 - Diseño ligero
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08Z8H7HBH/?tag=tolees-21)

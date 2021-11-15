@@ -28,7 +28,7 @@ Ahora mismo tienes [Levi s Mile High Super Skinny Vaqueros  Azul  Venice For Rea
 
 🔎:
 
-- Estándar
 - Tamaño del paquete: 7,7 x 44 x 27,1 cm
+- Estándar
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08PFC1P7X/?tag=tolees-21)
