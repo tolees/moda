@@ -28,8 +28,8 @@ En este momento está [Geox Woman D BLOMIEE C SNEAKERS DK GREY 35 EU](https://ww
 
 🔎:
 
-- Fácil de llevar para un confort optimo
 - Los sistemas patentados Geox ofrecen la transpirabilidad de la suela y el bienestar del pie
+- Fácil de llevar para un confort optimo
 - Calce fácil y regulable con cremallera y cordones
 - Altura del tacón: 2.5 cm / 1 inch
 
