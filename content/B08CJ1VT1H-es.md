@@ -28,9 +28,9 @@ Está [Element Vertical - Sudadera con capucha para Hombre Sudadera con capucha 
 
 ℹ️:
 
-- Corte: corte normal
-- Estampado en el pecho
 - Marca: Element
+- Corte: corte normal
 - Tejido: Tejido suave cepillado de algodón y poliéster
+- Estampado en el pecho
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08CJ1VT1H/?tag=tolees-21)

@@ -28,10 +28,10 @@ Ahora mismo tienes [Element Blazin - Sudadera para Hombre Sudadera  Hombre  Grey
 
 🔎:
 
-- Corte: corte normal
 - Cuello redondo
 - Tejido: tejido suave cepillado de algodón y poliéster
 - Estampado en el pecho
 - Tipo de fábrica: 60% Poliéster 40% Algodón
+- Corte: corte normal
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CJ28KC7/?tag=tolees-21)
