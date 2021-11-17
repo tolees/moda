@@ -31,7 +31,7 @@ Ahora mismo tienes [Crocs Crocband  Zuecos Unisex Adulto  Negro  Black 11016-001
 - A lo largo de los materiales de goma ligeros
 - Unidad suela de caucho flexible
 - Respirable suave sin forro Inners
-- Cocodrilos Croc Logo
 - Adultos Unisex Crocs Classic Clog
+- Cocodrilos Croc Logo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B074RBKQG2/?tag=tolees-21)
