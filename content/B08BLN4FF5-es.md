@@ -28,11 +28,11 @@ Tienes [Geox Jr Ciak Girl D  Zapatilla Baja Niñas  Blanco  White Sky   33 EU](h
 
 ℹ️:
 
-- Tipo de tacón: Plano
+- Material exterior: Sintético
 - Revestimiento: Tela
-- Cierre: Cremallera
 - Tipo de talla: Los zapatos Geox son holgados
 - Material de la suela: Sintético
-- Material exterior: Sintético
+- Cierre: Cremallera
+- Tipo de tacón: Plano
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08BLN4FF5/?tag=tolees-21)

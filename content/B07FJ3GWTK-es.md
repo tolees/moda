@@ -29,8 +29,8 @@ En este momento está [Only & Sons Onsmatt Longy SS tee Noos Camiseta  Blanco  W
 🔎:
 
 - Cuello redondo.
-- Extra largo.
 - Composición: 100% algodón
 - Camiseta de manga corta.
+- Extra largo.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07FJ3GWTK/?tag=tolees-21)
