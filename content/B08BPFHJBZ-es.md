@@ -29,9 +29,9 @@ En este momento está [Shima RUSH Chaqueta Moto Hombre -Toda Estaciones Cazadora
 🔎:
 
 - COMODIDAD - múltiples ajustes de anchura en las mangas y en el lateral de la chaqueta; impermeable, con guantes y dos bolsillos exteriores.
-- FUNCIONALIDAD - la membrana impermeable extraíble y la capa de calefacción hacen que esta chaqueta sea perfecta para todas las condiciones meteorológicas.
-- VENTILACIÓN - las rejillas de ventilación con cremallera en los hombros, los antebrazos, los laterales y la espalda aumentan el flujo de aire cuando hace calor.
 - PROTECCIÓN - Protectores de espalda, hombros y codos con certificación CE y tejido extra resistente al desgaste en hombros y codos, costuras dobles reforzadas.
 - COMPROBAR LA TABLA DE TALLAS: para un mejor ajuste, por favor, compruebe la tabla de tallas en la galería, si usted mide entre las tallas le sugerimos que pida una talla más grande.
+- FUNCIONALIDAD - la membrana impermeable extraíble y la capa de calefacción hacen que esta chaqueta sea perfecta para todas las condiciones meteorológicas.
+- VENTILACIÓN - las rejillas de ventilación con cremallera en los hombros, los antebrazos, los laterales y la espalda aumentan el flujo de aire cuando hace calor.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08BPFHJBZ/?tag=tolees-21)
