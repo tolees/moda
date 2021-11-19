@@ -28,12 +28,12 @@ Ahora mismo tienes [Helly Hansen Driftline Camiseta Tipo Polo de Manga Corta con
 
 🔎:
 
-- Contenido del envío: 1x Helly Hansen Driftline Polo, camiseta tipo polo para hombre, de manga corta, color blanco, talla XL
+- El polo técnico está dirigido al hombre moderno, con corte clásico y el logo de Helly Hansen en el pecho; una pieza para todo el año
+- Corte recto - Tactel de secado rápido
 - Uso durante todo el año, ya sea en deportes marítimos, en la vida urbana o en el gimnasio, este polo es el fiel compañero para cualquier momento
-- Tira en el cuello
 - Con aberturas laterales, puños y cuello de canalé y un corte clásico actualizado, es una camiseta con gran versatilidad de uso; con FPS 30+ para mayor protección
 - Gran versatilidad de uso, ya que combina con tu prenda deportiva favorita o con tu outfit del día a día / Ligera y hecha con un tejido de secado rápido para mantenerte fresco y seco
-- Corte recto - Tactel de secado rápido
-- El polo técnico está dirigido al hombre moderno, con corte clásico y el logo de Helly Hansen en el pecho; una pieza para todo el año
+- Tira en el cuello
+- Contenido del envío: 1x Helly Hansen Driftline Polo, camiseta tipo polo para hombre, de manga corta, color blanco, talla XL
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B004FJJF2Q/?tag=tolees-21)

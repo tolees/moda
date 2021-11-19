@@ -28,10 +28,10 @@ Tienes [Helly Hansen W Aden Long Abrigo  Mujer  Black  S](https://www.amazon.es/
 
 ℹ️:
 
-- Forro de secado rápido
 - Tratamiento de repelencia al agua duradero (DWR)
+- Forro de secado rápido
 - Construcción de tejido de 2 capas
-- A prueba de viento y transpirable
 - Costura completa sellada
+- A prueba de viento y transpirable
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01ET4MTV0/?tag=tolees-21)
