@@ -28,10 +28,10 @@ En este momento está [BOSS T-shirt Rn 3p Co  Camiseta  para Hombre  Multicolor 
 
 🔎:
 
-- unicolor
 - Estilo clásico, Cuello redondo
-- 100% algodón
-- Hugo Boss camisetas
 - 3 paquetes
+- unicolor
+- Hugo Boss camisetas
+- 100% algodón
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01LWOI8T8/?tag=tolees-21)

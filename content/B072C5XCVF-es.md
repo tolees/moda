@@ -28,10 +28,10 @@ Tienes [Nancy - Un día de Moto en Londres  la muñeca Incluye Scooter roja con 
 
 ℹ️:
 
-- Incluye una Scooter o moto para Nancy con ruedas móviles, maletero en el asiento y otros accesorios. Motocicleta no eléctrica
 - Nancy es una muñeca de 42 centímetros con las piernas articuladas indicada para niños y niñas a partir de 3 años
-- Vestida con ropa de inspiración londinense intercambiable con otros modelos de Nancy y accesorios como un casco y unas gafas
 - Incluye varias pegatinas para personalizar la scooter
+- Vestida con ropa de inspiración londinense intercambiable con otros modelos de Nancy y accesorios como un casco y unas gafas
+- Incluye una Scooter o moto para Nancy con ruedas móviles, maletero en el asiento y otros accesorios. Motocicleta no eléctrica
 - Nancy se puede sentar fácilmente en la scooter y moverla manualmente
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B072C5XCVF/?tag=tolees-21)
