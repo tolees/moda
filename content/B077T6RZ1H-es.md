@@ -28,8 +28,8 @@ Está [Puma Liga Casuals Hoody  Sudadera con Capucha para Hombre  Gris  Medium G
 
 ℹ️:
 
-- Sudadera
-- Medium Gray Heather-Puma Black
 - LIGA Casuals Hoody
+- Medium Gray Heather-Puma Black
+- Sudadera
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B077T6RZ1H/?tag=tolees-21)
