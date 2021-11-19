@@ -28,10 +28,10 @@ Está [Columbia Arcadia  Chaqueta de lluvia  Niña  Azul oscuro  Nocturnal   S](
 
 ℹ️:
 
-- Contenido: 1x Columbia Arcadia, Chaqueta de lluvia, Niña, Fibra sintética, Azul oscuro (Nocturnal), S, Art. 1580631
-- Impermeable al viento y al agua, transpirable gracias a las costuras termoselladas y a la tecnología Omni-Tech
 - Seguridad en la oscuridad gracias a los detalles reflectantes, capucha fija para la lluvia y ajustable para un gran ajuste y protección contra la lluvia
 - Chaqueta impermeable para niñas, óptima para paseos por la ciudad, excursiones y otras actividades al aire libre
 - Práctica cremallera de longitud completa, bolsillos con cremallera para las manos cálidas y seguras, puños ajustables
+- Impermeable al viento y al agua, transpirable gracias a las costuras termoselladas y a la tecnología Omni-Tech
+- Contenido: 1x Columbia Arcadia, Chaqueta de lluvia, Niña, Fibra sintética, Azul oscuro (Nocturnal), S, Art. 1580631
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07K6QFLDT/?tag=tolees-21)

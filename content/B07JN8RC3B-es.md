@@ -28,10 +28,10 @@ En este momento está [HAWKERS · Gafas de sol ONE para hombre y mujer · CAREY 
 
 🔎:
 
+- Icónico modelo Hawkers One, Unisex, con montura Carey y lente oscura
+- Producto original Hawkers. La caja incluye funda de microfibra, caja y set de pegatinas decorativas.
+- Montura fabricada en TR90, que dota a las gafas de gran ligereza, flexibilidad y resistencia, muy resistente a altas y bajas temperaturas.
 - Lente oscura fabricada en TR18, con reducción de brillos y con gran equilibrio entre claridad y protección. Lente de categoría 3 con protección UV400. Resistencia muy alta
 - Medidas: Frente: 14cm, Altura: 5cm, Varillas: 14cm
-- Montura fabricada en TR90, que dota a las gafas de gran ligereza, flexibilidad y resistencia, muy resistente a altas y bajas temperaturas.
-- Producto original Hawkers. La caja incluye funda de microfibra, caja y set de pegatinas decorativas.
-- Icónico modelo Hawkers One, Unisex, con montura Carey y lente oscura
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07JN8RC3B/?tag=tolees-21)
