@@ -29,9 +29,9 @@ En este momento está [Barbie Extra Muñeca articulada con pelo púrpura  acceso
 🔎:
 
 - Un look divertido y juguetón muestra su estilo desenfadado con un pantalón vaquero corto con estampado de ositos de peluche rosa combinado con una chaqueta a juego con mangas con abundante pelo.
-- La figura del bulldog mascota también es INCREÍBLE, con un gorro de quita y pon decorado con oso, collar con pinchos y expresión adorablemente gruñona.
-- Los accesorios de la muñeca Barbie —un bolso de cono de helado, anillo de placa de identificación Barbie, gafas de sol en forma de corazón y muchas joyas, incluido un collar, añaden expresión personal y momentos inesperados de diversión para contar aventuras cargadas de acción.
-- En lo referente a la moda, la actitud de las muñecas Barbie Extra es la de "más es más", con 15 artículos que incluyen ropa y accesorios de moda, además de una mascota y accesorios para ella.
 - El pelo de la muñeca Barbie es espectacular, con una larga melena añil en un peinado mitad recogido, mitad suelto muy actual.
+- La figura del bulldog mascota también es INCREÍBLE, con un gorro de quita y pon decorado con oso, collar con pinchos y expresión adorablemente gruñona.
+- En lo referente a la moda, la actitud de las muñecas Barbie Extra es la de "más es más", con 15 artículos que incluyen ropa y accesorios de moda, además de una mascota y accesorios para ella.
+- Los accesorios de la muñeca Barbie —un bolso de cono de helado, anillo de placa de identificación Barbie, gafas de sol en forma de corazón y muchas joyas, incluido un collar, añaden expresión personal y momentos inesperados de diversión para contar aventuras cargadas de acción.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08TZYNGW8/?tag=tolees-21)

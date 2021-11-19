@@ -28,10 +28,10 @@ En este momento está [ROTTO Maillot Ciclismo Hombre Camiseta Ciclismo Manga Cor
 
 🔎:
 
-- Peso ligero: esta camiseta de ciclismo pesa solo unos 210 g. Se compone de 100% poliéster y es muy suave y ligero. Especialmente adecuado para el verano.
 - Transpirable: todo el maillot de ciclismo está cubierto con una malla de rayas ultrafina, que proporciona una mayor transpirabilidad y también ayuda a la disipación del calor y a un secado rápido.
+- Sencillo: color degradado, diseño simple. Adecuado para la mayoría de los entusiastas del ciclismo normal y para deportistas al aire libre.
 - Elasticidad: toda la tela tiene cierta elasticidad y es plana y ajustada. El borde inferior de la prenda está engarzado con un cordón elástico, de modo que el borde inferior queda ajustado al cuerpo.
 - Humanización: cremallera invisible, totalmente abierta. En la parte posterior hay tres bolsillos para hervidores, teléfonos móviles, aperitivos, etc. Debajo de la bolsa se encuentra una tira reflectante de 9,17 cm de largo. Al mismo tiempo, el logotipo de la marca también es un diseño reflectante.
-- Sencillo: color degradado, diseño simple. Adecuado para la mayoría de los entusiastas del ciclismo normal y para deportistas al aire libre.
+- Peso ligero: esta camiseta de ciclismo pesa solo unos 210 g. Se compone de 100% poliéster y es muy suave y ligero. Especialmente adecuado para el verano.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CRQTJ8M/?tag=tolees-21)

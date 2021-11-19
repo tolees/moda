@@ -28,8 +28,8 @@ En este momento está [Helly Hansen Hp Fleece Jacket  Chaqueta deportiva para Ho
 
 🔎:
 
-- Manga raglán que brinda libertad de movimiento
 - Cremalleras YKK en el delantero y los bolsillos
+- Manga raglán que brinda libertad de movimiento
 - Polar en poliéster de acabado brillante, 285 g/m²
 - Forro polar con estructura en el panel posterior
 

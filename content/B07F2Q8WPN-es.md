@@ -29,8 +29,8 @@ En este momento está [Helly Hansen Hp Fleece Jacket  Chaqueta deportiva para Ho
 🔎:
 
 - Cremallera delantera YKK y dos bolsillos para las manos con cremallera
-- Con motivos de inspiración marinera
 - Forro polar con estructura en el panel posterior
 - Manga raglán que brinda libertad de movimiento
+- Con motivos de inspiración marinera
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07F2Q8WPN/?tag=tolees-21)

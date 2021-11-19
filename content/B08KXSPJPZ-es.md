@@ -29,9 +29,9 @@ En este momento está [Jack & Jones Jjerush Bomber Noos Chaqueta  Crockery  XL p
 🔎:
 
 - Chaqueta con cuello
-- Chaqueta bomber
 - Chaqueta con cremallera
-- Chaqueta lisa
 - Chaqueta informal
+- Chaqueta bomber
+- Chaqueta lisa
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08KXSPJPZ/?tag=tolees-21)
