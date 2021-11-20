@@ -28,8 +28,8 @@ Tienes [Marca Amazon - find. Abrigo Hombre  Gris  Grey Hb Long Line Coat   S  La
 
 🔎:
 
+- Línea larga
 - Bolsillos delanteros
 - Botonadura simple
-- Línea larga
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07MC3X4LX/?tag=tolees-21)
