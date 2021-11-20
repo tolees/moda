@@ -30,8 +30,8 @@ En este momento está [Under Armour Tech 1/2 Zip - Twist  ligera camiseta de man
 
 - Moderna ropa para correr: Esta elegante camiseta para mujer de manga larga tiene cremallera media y su ajuste ceñido aporta comodidad al entrenar
 - Fresca y seca: La camiseta de deporte para mujer elimina el sudor del cuerpo y la tecnología antiolor evita la aparición de microbios y malos olores
-- Elegante camiseta de efecto difuminado: La camiseta ancha tiene mangas raglán y costuras laterales enrolladas hacia delante para un ajuste óptimizado
 - Secado rápido: Esta camiseta deportiva está fabricada con un tejido que se seca muy rápido y mantiene el sudor y la humedad alejados del cuerpo
 - Material y forma: Camiseta con cremallera 1/2 Under Armour Tech Twist, ropa deportiva para mujer, material: 100% de poliéster, forma: ancha
+- Elegante camiseta de efecto difuminado: La camiseta ancha tiene mangas raglán y costuras laterales enrolladas hacia delante para un ajuste óptimizado
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07JVC73SZ/?tag=tolees-21)
