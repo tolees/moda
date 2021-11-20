@@ -29,7 +29,7 @@ En este momento está [THE INDIAN FACE Gafas de Sol - Tarifa Tortoise/Blue](http
 🔎:
 
 - Gafas de Sol Polarizadas Tarifa Marron The Indian Face para hombre y mujer
-- Gafas de Sol - Tarifa Tortoise / Blue
 - Gafas de Sol
+- Gafas de Sol - Tarifa Tortoise / Blue
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B082PGJGX3/?tag=tolees-21)

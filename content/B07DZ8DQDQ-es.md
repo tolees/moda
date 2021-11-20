@@ -28,10 +28,10 @@ En este momento está [Columbia Cascade Ridge II Chaqueta Softshell para hombre]
 
 🔎:
 
-- Contenido: 1x Columbia Cascade Ridge II Chaqueta Softshell para hombre, 100% Poliéster, Color: Gris (Charcoal Heather), Talla: M, Art.No. 1516251
-- Combina con otros productos Columbia para conseguir el nivel perfecto de calidez y repelencia al agua
 - Repelente al agua y la suciedad gracias a la tecnología Omni-Shield para mayor movilidad y comodidad en todos los deportes
 - Práctica cremallera completa, Dos bolsillos con cremallera para manos calientes y seguras, Bolsillo en el pecho con cremallera, Capucha amovible, Dobladillo ajustable con cordón
+- Contenido: 1x Columbia Cascade Ridge II Chaqueta Softshell para hombre, 100% Poliéster, Color: Gris (Charcoal Heather), Talla: M, Art.No. 1516251
 - Chaqueta Softshell resistente al viento para hombre, Puede usarse como chaqueta de entretiempo o como capa media para el invierno, de ajuste activo
+- Combina con otros productos Columbia para conseguir el nivel perfecto de calidez y repelencia al agua
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07DZ8DQDQ/?tag=tolees-21)
