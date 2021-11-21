@@ -29,9 +29,9 @@ Ahora mismo tienes [Desigual Vest alejandrita Vestido Casual  Negro  7-8 Años p
 🔎:
 
 - Desigual Kids - Vestido corto con estampado boho de flores
-- Estampados florales en franjas horizontales
-- Machine Wash Cold Inside Out, Mild Wash
 - Silueta trapecio avolantada
+- Machine Wash Cold Inside Out, Mild Wash
 - Vestido corto trapecio negro con manga larga abullonada y estampados florales boho. Nueva colección Kids OI21 Desigual.
+- Estampados florales en franjas horizontales
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08THGF337/?tag=tolees-21)
