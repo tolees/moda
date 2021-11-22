@@ -28,8 +28,8 @@ Está [Marca Amazon – Goodthreads – Cárdigan de algodón suave para hombre 
 
 ℹ️:
 
-- Una marca de Amazon
 - Filato mediamente pesante in fibra naturale super morbido
+- Una marca de Amazon
 - Holgado en el pecho y entallado en la cintura
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07DZWJW6V/?tag=tolees-21)
