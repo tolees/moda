@@ -28,13 +28,13 @@ Ahora mismo tienes [Geox D KAULA B ABX D Snow Boot Mujer  Negro  Black C9999   3
 
 🔎:
 
+- Tipo de talla: Los zapatos Geox son holgados
+- Cierre: Cordones
 - Tipo de tacón: Plano
 - Revestimiento: Sintético
-- Cierre: Cordones
-- Anchura del zapato: Normal
-- Tipo de talla: Los zapatos Geox son holgados
-- Material de la suela: Sintético
-- Material exterior: Cuero
 - Altura del tacón: 4.5 centímetros
+- Material exterior: Cuero
+- Anchura del zapato: Normal
+- Material de la suela: Sintético
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0792FNMRX/?tag=tolees-21)
