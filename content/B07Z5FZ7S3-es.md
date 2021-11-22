@@ -28,7 +28,7 @@ En este momento está [Salomon Speedcross Bungee unisex-niños Zapatos de trail 
 
 🔎:
 
-- Número: 30
 - Speedcross bungee k Red Dahlia/Cherry Tomato/Vanilla Ice
+- Número: 30
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07Z5FZ7S3/?tag=tolees-21)

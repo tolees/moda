@@ -28,8 +28,8 @@ En este momento está [Amazon Essentials 4-Pack Camisole Blusa  Paquete de 4 Neu
 
 🔎:
 
-- Una marca de Amazon
-- Misto cotone e jersey leggero ed elasticizzato
 - Corte ligeramente entallado en la cintura
+- Misto cotone e jersey leggero ed elasticizzato
+- Una marca de Amazon
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08XQZDCMN/?tag=tolees-21)

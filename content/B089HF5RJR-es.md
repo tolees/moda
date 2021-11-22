@@ -29,7 +29,7 @@ Tienes [Joma Essential II Chaqueta Y Chaleco Cabal  Hombre  Marino Blanco  M](ht
 ℹ️:
 
 - Chaqueta de Chandal abierta
-- Fabricada en poliéster interlock 255 gr
 - Chaqueta de paseo
+- Fabricada en poliéster interlock 255 gr
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B089HF5RJR/?tag=tolees-21)
