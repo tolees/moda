@@ -28,10 +28,10 @@ Tienes [Desigual Vest Ariadna Vestido Casual  Negro  7-8 Años para Niñas](http
 
 🔎:
 
-- Vestido trapecio negro de manga larga con parte superior de canalé y falda corta avolantada con estampado floral. Nueva colección Kids OI21 Desigual.
 - Desigual Kids - Vestido trapecio corto con estampado floral
-- Machine Cold Wash Inside Out
-- Parte superior de tejido acanalado
 - Estampado floral
+- Vestido trapecio negro de manga larga con parte superior de canalé y falda corta avolantada con estampado floral. Nueva colección Kids OI21 Desigual.
+- Parte superior de tejido acanalado
+- Machine Cold Wash Inside Out
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08THF4LD9/?tag=tolees-21)
