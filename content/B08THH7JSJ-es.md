@@ -28,9 +28,9 @@ Ahora mismo tienes [Desigual Vest reme Vestido Casual  Azul  11-12 Años para Ni
 
 🔎:
 
+- Desigual Kids – Vestido corto con parches de terciopelo floral
 - Vestido azul con mangas largas, falda corta, parches de terciopelo con estampado floral y encaje de seda floral. Colección infantil Desigual HW21.
 - Lavar a máquina en agua fría, muy suave
-- Desigual Kids – Vestido corto con parches de terciopelo floral
 - Bandas verticales de encaje floral de seda
 - Parches con estampado floral
 

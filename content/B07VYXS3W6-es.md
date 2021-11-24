@@ -28,9 +28,9 @@ Está [Jack & Jones Jjesheridan Shirt L/S Noos Camisa Vaquera  Azul  Dark Navy F
 
 ℹ️:
 
-- Composición: 100% algodón
-- El modelo mide 184 cm y lleva la talla L
 - Muy cómodo de llevar
 - Camisa vaquera para hombre
+- Composición: 100% algodón
+- El modelo mide 184 cm y lleva la talla L
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07VYXS3W6/?tag=tolees-21)
