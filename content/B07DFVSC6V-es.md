@@ -28,8 +28,8 @@ Está [PUMA ESS Track FL Sudadera  Mujer  Negro  Cotton Black   XS](https://www.
 
 ℹ️:
 
-- ESS Track Jacket FL
 - Cotton Black
+- ESS Track Jacket FL
 - Sudadera
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07DFVSC6V/?tag=tolees-21)
