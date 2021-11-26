@@ -28,8 +28,8 @@ En este momento está [Tommy Hilfiger Organic Cotton Logo T-Shirt Camiseta  Cres
 
 🔎:
 
+- Cuenta con un diseño casual
 - Ofrece un confort óptimo
 - Logotipo de la marca estampado en el pecho
-- Cuenta con un diseño casual
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08T6G5Y8D/?tag=tolees-21)
