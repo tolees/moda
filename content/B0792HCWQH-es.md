@@ -28,7 +28,7 @@ Ahora mismo tienes [Geox D TABELYA A  Zapatillas Mujer  Verde  Dk Forest C3019  
 
 🔎:
 
-- Forma anatómica que se adapta a tus pies
 - Diseño ligero y flexible que ofrece comodidad
+- Forma anatómica que se adapta a tus pies
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0792HCWQH/?tag=tolees-21)
