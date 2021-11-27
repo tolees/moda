@@ -28,8 +28,8 @@ Tienes [Levi s 501 Crop T-Shirt Camisa Manga Larga  Black  Caviar 0014   Large p
 
 🔎:
 
+- Elaborada en punto suave
 - Modelo casual
 - Con un discreto logo en el pecho
-- Elaborada en punto suave
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07S4WSQC9/?tag=tolees-21)
