@@ -29,8 +29,8 @@ Ahora mismo tienes [Helly Hansen K Champ Reversible - Jersey para niños de 4 a�
 🔎:
 
 - Diseño practico y óptima resistencia
-- Marca: Helly Hansen
-- Hecho con materiales que proporciona comodidad durante todo el día
 - Explore nuestra gama de productos
+- Hecho con materiales que proporciona comodidad durante todo el día
+- Marca: Helly Hansen
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08M4G62CT/?tag=tolees-21)

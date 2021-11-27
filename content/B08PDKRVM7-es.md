@@ -28,7 +28,7 @@ Ahora mismo tienes [Levi s Classic 1 Pkt Standard Camisa  Dholak Peacoat  L para
 
 🔎:
 
-- Estándar
 - Tamaño del paquete: 28 x 340 x 254 cm
+- Estándar
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08PDKRVM7/?tag=tolees-21)
