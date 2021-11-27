@@ -28,9 +28,9 @@ Ahora mismo tienes [Pepe Jeans EGGO PM500465 Camiseta para Hombre  Negro  Black 
 
 🔎:
 
-- Logo estampado en el pecho
 - Camiseta básica para hombre
 - Manga corta
+- Logo estampado en el pecho
 - Fabricada en tejido suave
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00DGUZI12/?tag=tolees-21)

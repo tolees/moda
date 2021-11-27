@@ -28,7 +28,7 @@ Ahora mismo tienes [Amazon Essentials - Chaqueta acolchada  ligera  resistente a
 
 🔎:
 
-- Vestirse con un clima frío es fácil con esta chaqueta versátil, acolchada, ligera y resistente al agua que cuenta con una cremallera completa frontal y un cuello alto.
 - Cuello alto, bolsillos con cremallera, puños elásticos.
+- Vestirse con un clima frío es fácil con esta chaqueta versátil, acolchada, ligera y resistente al agua que cuenta con una cremallera completa frontal y un cuello alto.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07BN7G9J2/?tag=tolees-21)

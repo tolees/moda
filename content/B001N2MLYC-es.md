@@ -28,13 +28,13 @@ Ahora mismo tienes [Helly Hansen - Camiseta deportiva para Hombre  Manga Larga  
 
 🔎:
 
-- Manga Larga
+- Ofrece control de la humedad durante las actividades aeróbicas y es óptima para la escalada el esquí la vela y el entrenamiento deportivo
+- Hh Lifa Stripe Crew
+- lavar a máquina - agua fría (30 ° max)
 - Compuesto
 - Diseño icónico con la raya clásica a lo largo de la manga, puños y corte estándar
 - Con costuras de bloqueo planas, cómodos y funcionales, como una capa aislante
-- Ofrece control de la humedad durante las actividades aeróbicas y es óptima para la escalada el esquí la vela y el entrenamiento deportivo
-- lavar a máquina - agua fría (30 ° max)
 - Construcción HHDry con 100% Lifa es una capa de base de alto rendimiento de secado rápido, transpirable y súper-ligero
-- Hh Lifa Stripe Crew
+- Manga Larga
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B001N2MLYC/?tag=tolees-21)

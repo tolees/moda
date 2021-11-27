@@ -28,8 +28,8 @@ En este momento está [Lee Straight Fit XM Vaqueros para Hombre  Azul  Trip   30
 
 🔎:
 
-- Tejido elástico
 - Cintura flexible
+- Tejido elástico
 - Clasico botón tipo “donut”
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07JB73L8D/?tag=tolees-21)

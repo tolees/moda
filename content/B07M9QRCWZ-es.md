@@ -28,8 +28,8 @@ Tienes [Lee Daren Zip Fly Jeans Vaqueros  Black Rinse 47  30W / 34L para Hombre]
 
 🔎:
 
-- Estilo 5 bolsillos
-- Vaqueros para hombre
 - Tienen un parche en la parte trasera con la marca Lee
+- Vaqueros para hombre
+- Estilo 5 bolsillos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07M9QRCWZ/?tag=tolees-21)

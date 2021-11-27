@@ -28,11 +28,11 @@ Ahora mismo tienes [Helly Hansen Crew Hooded Jacket Chaqueta para Hombre  Negro 
 
 🔎:
 
-- Ropa náutica
 - Tipo de deporte: Deportes acuáticos
-- Tipo de fábrica: 100% Poliéster
-- Impermeable y transpirable
-- Instrucciones de cuidado: Lavar a máquina
 - Chaqueta técnica navegación
+- Impermeable y transpirable
+- Tipo de fábrica: 100% Poliéster
+- Instrucciones de cuidado: Lavar a máquina
+- Ropa náutica
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01N7F2DGS/?tag=tolees-21)
