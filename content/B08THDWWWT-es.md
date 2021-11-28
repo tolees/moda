@@ -29,9 +29,9 @@ En este momento está [Desigual Vest Laura Vestido Casual  Amarillo  9-10 Años 
 🔎:
 
 - Animal print de leopardo con dibujos ocultos
-- Machine Wash Cold Inside Out, Mild Wash
-- Vestido trapecio corto con manga larga y animal print de leopardo amarillo. Versión Mini Me de una prenda de la colección de mujer. Nueva colección Kids OI21 Desigual.
 - Desigual Kids - Vestido trapecio con animal print de leopardo
+- Vestido trapecio corto con manga larga y animal print de leopardo amarillo. Versión Mini Me de una prenda de la colección de mujer. Nueva colección Kids OI21 Desigual.
 - Silueta avolantada
+- Machine Wash Cold Inside Out, Mild Wash
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08THDWWWT/?tag=tolees-21)

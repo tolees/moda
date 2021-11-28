@@ -29,9 +29,9 @@ En este momento está [Desigual Vest ACROITA Vestido Casual  Verde  5-6 Años pa
 🔎:
 
 - Machine Wash in Cold Water
+- Vestido de volantes con manga corta avolantada y estampado arty. Es la versión Mini Me de una prenda de la colección de mujer. Nueva colección Kids OI21 Desigual.
 - Estampado arty
 - Ribetes ondulados separando los volantes
 - Desigual Kids - Vestido de volantes con estampado arty
-- Vestido de volantes con manga corta avolantada y estampado arty. Es la versión Mini Me de una prenda de la colección de mujer. Nueva colección Kids OI21 Desigual.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08THG673N/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [Desigual Vest opala Vestido Casual  Negro  3-4 Años para Niñas](https:
 
 ℹ️:
 
-- Machine Wash Cold Inside Out, Mild Wash
-- Vestido corto negro de talle alto con manga larga y estampado floral. Confeccionado en tejido de algodón con un punto de elastano. Nueva colección Kids OI21 Desigual.
-- Desigual Kids - Vestido de talle alto con estampado floral
 - Silueta avolantada
+- Vestido corto negro de talle alto con manga larga y estampado floral. Confeccionado en tejido de algodón con un punto de elastano. Nueva colección Kids OI21 Desigual.
 - Estampado floral
+- Machine Wash Cold Inside Out, Mild Wash
+- Desigual Kids - Vestido de talle alto con estampado floral
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08THBR1P5/?tag=tolees-21)
