@@ -28,8 +28,8 @@ Ahora mismo tienes [adidas Adilette Shower Stripes  Chanclas Hombre  Core Black 
 
 🔎:
 
-- Con una plantilla de forma anatómica
 - Cuentan con una suela de goma
+- Con una plantilla de forma anatómica
 - Chanclas adecuadas para hombres
 - Tienen un diseño deportivo
 
