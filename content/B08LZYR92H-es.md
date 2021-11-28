@@ -28,8 +28,8 @@ Ahora mismo tienes [Helly Hansen W Adore Ins Rain - Chaqueta para mujer  color n
 
 🔎:
 
-- Hecho con materiales que proporciona comodidad durante todo el día
-- Marca: Helly Hansen
 - Diseño practico y óptima resistencia
+- Marca: Helly Hansen
+- Hecho con materiales que proporciona comodidad durante todo el día
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08LZYR92H/?tag=tolees-21)
