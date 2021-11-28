@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Adidas Core18 Sw Top Sudadera  Hombre  A al 27.48 % de descuento'
-date: 2021-11-27 02:39:38
+title: 'Adidas Core18 Sw Top Sudadera  Hombre  A al 27.53 % de descuento'
+date: 2021-11-28 02:49:37
 image: 'https://m.media-amazon.com/images/I/41tXMycABsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B076HQRJL2-es Adidas Core18 Sw Top Sudadera Hombre Azul Azul/Blanco XS'
 sku: 'B076HQRJL2-es'
 tags: [ 'Jerséis, cárdigans y sudaderas para hombre','Ropa','Ropa para hombre','Sudaderas para hombre','Sudaderas sin capucha para hombre','adidas','sudadera', ]
-actualPrice: 29.0 EUR
+actualPrice: 28.98 EUR
 currency: EUR
-price: 29.0
+price: 28.98
 comparePrice: 39.99 EUR
 prodname: 'Adidas Core18 Sw Top Sudadera  Hombre  Azul  Azul/Blanco   XS'
 country: 'es'
 flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076HQRJL2/?tag=tolees-21'
-descuento: '27.48'
-average: '27.5191666666666'
+descuento: '27.53'
+average: '27.5312396694214'
 ---
 
-Ahora mismo tienes [Adidas Core18 Sw Top Sudadera  Hombre  Azul  Azul/Blanco   XS](https://www.amazon.es/dp/B076HQRJL2/?tag=tolees-21) a 29.0 EUR (original: 39.99 EUR) (27.48 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Adidas Core18 Sw Top Sudadera  Hombre  Azul  Azul/Blanco   XS](https://www.amazon.es/dp/B076HQRJL2/?tag=tolees-21) a 28.98 EUR (original: 39.99 EUR) (27.53 %  de descuento) en el siguiente enlace!
 
 [![Adidas Core18 Sw Top Sudadera  Hombre  A](https://m.media-amazon.com/images/I/41tXMycABsL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B076HQRJL2/?tag=tolees-21)
 
