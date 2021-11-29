@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 32.04 % en Pepe Jeans New Virginia  Camiseta Para M'
-date: 2021-11-28 14:42:44
+date: 2021-11-29 15:23:37
 image: 'https://m.media-amazon.com/images/I/41yO9+pPV+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pepe Jeans'
 buyurl: 'https://www.amazon.es/dp/B06XSTB235/?tag=tolees-21'
 descuento: '32.04'
-average: '18.8233333333333'
+average: '18.365'
 ---
 
 Tienes [Pepe Jeans New Virginia  Camiseta Para Mujer  Negro  Black 2711   XX-Small](https://www.amazon.es/dp/B06XSTB235/?tag=tolees-21) con un 32.04 % de descuento con precio de oferta de 16.99 EUR (original: 25.0 EUR) en el siguiente enlace!

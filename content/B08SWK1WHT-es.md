@@ -28,12 +28,12 @@ Está [Geox W ZOSMA Chaqueta Mujer  Rojo  Red Dahlia   42](https://www.amazon.es
 
 ℹ️:
 
-- Capuchón desmontable y con jareta
-- Tejido hidrófugo y suave
-- Longitud: 67 cm
-- Exclusivo sistema transpirante patentado Geox
-- Calce: regular
 - Bolsillos con forro abrigado
+- Exclusivo sistema transpirante patentado Geox
 - Relleno ecológico de pluma sintética reciclada Ecologic Warm
+- Tejido hidrófugo y suave
+- Capuchón desmontable y con jareta
+- Longitud: 67 cm
+- Calce: regular
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08SWK1WHT/?tag=tolees-21)

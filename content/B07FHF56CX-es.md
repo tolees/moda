@@ -28,9 +28,9 @@ Está [Helly Hansen Moss Outdoor Chaqueta Impermeable  Hombre  Amarillo Esencial
 
 ℹ️:
 
-- Viene con un kit de reparación de PU para reparar fácilmente las mellas y los enganches y aumentar la longevidad del producto
-- Construcción de tela de PU
 - Dos bolsillos delanteros
+- Construcción de tela de PU
+- Viene con un kit de reparación de PU para reparar fácilmente las mellas y los enganches y aumentar la longevidad del producto
 - Las costuras soldadas mantienen el agua fuera donde no se quiere
 - Cremallera frontal completa
 

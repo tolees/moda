@@ -28,9 +28,9 @@ Tienes [SSC Napoli Casa Camiseta Replica Home 2020/21  Unisex Adulto  Azure-Blue
 
 🔎:
 
-- REGULAR FIT
 - Manga corta raglan, cuello redondo, gráfica en imprenta sublimática
-- Incluye 1 transfer símbolo celebración Coppa Italia 2020 aplicable con calor
+- REGULAR FIT
 - Réplica oficial de la camiseta de juego KOMBAT para hombre en tejido interlock.
+- Incluye 1 transfer símbolo celebración Coppa Italia 2020 aplicable con calor
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08C8DF9FX/?tag=tolees-21)
