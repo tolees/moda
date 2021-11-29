@@ -29,8 +29,8 @@ En este momento está [ZIPPY ZB0101 488 4 Chaleco  Azul  Regular Chicos](https:/
 🔎:
 
 - Brand: ZIPPY
-- Tipo de tejido: Tejido
 - Alta calidad
 - Chaleco acolchado azul oscuro para niño, con forro polar. Cierre con cremallera oculta. Dos bolsillos delante. Etiqueta en el interior para colocar la identificación del niño.
+- Tipo de tejido: Tejido
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B097NFH8RV/?tag=tolees-21)

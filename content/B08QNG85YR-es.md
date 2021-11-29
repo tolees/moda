@@ -28,9 +28,9 @@ Tienes [POLO CLUB Sudadera Orgánica Color Azul Marino con Capucha  Cierre Crema
 
 ℹ️:
 
-- Regular fit para todo tipo de estilos
 - Nuestros productos Organics están certificados. Exigimos materiales de procendica verificada y de carácter biológico.
 - Presenta cierre de cremallera metálica, capucha ajustable con cordón y bolsillo canguro
+- Regular fit para todo tipo de estilos
 - Sudadera Orgánica Color Azul Marino con Cierre de Cremallera y Bordado a Contraste para Hombre
 - 80% Algodón Orgánico - 20% poliéster reciclado
 

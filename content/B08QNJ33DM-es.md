@@ -28,10 +28,10 @@ En este momento está [POLO CLUB Sudadera Orgánica Color Crudo con Capucha  Cie
 
 🔎:
 
-- Regular fit para todo tipo de estilos
-- 80% Algodón Orgánico - 20% poliéster reciclado
-- Nuestros productos Organics están certificados. Exigimos materiales de procendica verificada y de carácter biológico.
 - Sudadera Orgánica Color Crudo con Capucha y Bolsillos Delanteros para Hombre
+- Nuestros productos Organics están certificados. Exigimos materiales de procendica verificada y de carácter biológico.
+- 80% Algodón Orgánico - 20% poliéster reciclado
+- Regular fit para todo tipo de estilos
 - Presenta capucha ajustable, dos bolsillos delanteros y terminaciones acanaladas en puños y bajo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08QNJ33DM/?tag=tolees-21)

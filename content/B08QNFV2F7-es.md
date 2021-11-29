@@ -28,9 +28,9 @@ Ahora mismo tienes [POLO CLUB Sudadera Orgánica Color Negro con Capucha  Cierre
 
 🔎:
 
-- 80% Algodón Orgánico - 20% poliéster reciclado
 - Nuestros productos Organics están certificados. Exigimos materiales de procendica verificada y de carácter biológico.
-- Regular fit para todo tipo de estilos
 - Presenta cierre de cremallera metálica, capucha ajustable con cordón y bolsillo canguro
+- 80% Algodón Orgánico - 20% poliéster reciclado
+- Regular fit para todo tipo de estilos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08QNFV2F7/?tag=tolees-21)
