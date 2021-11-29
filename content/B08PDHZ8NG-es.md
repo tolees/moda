@@ -29,7 +29,7 @@ En este momento está [Levi s Type 3 Sherpa Chaqueta de Camionero  Picante Truck
 🔎:
 
 - Bolsillos de parche en el pecho con solapa y cierre de botón automático
-- Bajo ajustable en el lateral
 - Manga larga con cierre de botón en los puños
+- Bajo ajustable en el lateral
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08PDHZ8NG/?tag=tolees-21)

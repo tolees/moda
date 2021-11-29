@@ -29,7 +29,7 @@ Ahora mismo tienes [Lee Straight Fit XM Vaqueros para Hombre  Azul  Maddox   36W
 🔎:
 
 - Tejido elástico
-- Clasico botón tipo “donut”
 - Cintura flexible
+- Clasico botón tipo “donut”
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07JBYZNSB/?tag=tolees-21)
