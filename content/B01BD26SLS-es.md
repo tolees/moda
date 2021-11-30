@@ -28,10 +28,10 @@ Está [Urban Classics Light Bomber Jacket Chaqueta  Verde  Olive   Medium para H
 
 ℹ️:
 
+- Instrucciones de cuidado: lavado en seco
 - Material: 100% nylon
+- Chaquetas de clásicos urbanos clásicos
 - sensación cómoda de usar
 - Ajuste estándar (regular fit)
-- Instrucciones de cuidado: lavado en seco
-- Chaquetas de clásicos urbanos clásicos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01BD26SLS/?tag=tolees-21)
