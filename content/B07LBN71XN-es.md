@@ -29,9 +29,9 @@ Está [Helly Hansen Aden Larga Impermeable Chaqueta De Invierno  Mujer  Azul Mar
 ℹ️:
 
 - Protección Helly Tech: totalmente impermeable, a prueba de viento y transpirable
+- La capucha puede guardarse en el collar para cuando no llueva.
 - Forrado para la comodidad
 - Protección total de los elementos a la vez que cómoda en el interior.
-- La capucha puede guardarse en el collar para cuando no llueva.
 - Múltiples bolsillos externos en el pecho y en la mano.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07LBN71XN/?tag=tolees-21)
