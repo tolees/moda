@@ -28,7 +28,7 @@ Ahora mismo tienes [Levi s New Original Hoodie Sudadera con capucha  Mineral Bla
 
 🔎:
 
-- Ofrece comodidad y libertad de movimiento
 - Tiene detalles distintivos de la marca
+- Ofrece comodidad y libertad de movimiento
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07ZVPWMSL/?tag=tolees-21)
