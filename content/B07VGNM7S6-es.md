@@ -28,7 +28,7 @@ Está [Marca Amazon - find. Stitch Cardigan - chaqueta punto Mujer  Gris  Soft G
 
 ℹ️:
 
-- Punto de canalé en hilo suave con elástico
 - La modelo lleva la talla XS
+- Punto de canalé en hilo suave con elástico
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07VGNM7S6/?tag=tolees-21)
