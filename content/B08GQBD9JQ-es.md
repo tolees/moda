@@ -28,10 +28,10 @@ Tienes [Element Men s Topaz C3 Shoe  Zapatilla Hombre  Azul Eclipse Navy  39 EU]
 
 🔎:
 
-- Parte superior: sintético
-- Tipo de tacón: plano
-- Material de la suela: Caucho
-- Altura del tacón: 05 cm
 - Forro: sintético
+- Altura del tacón: 05 cm
+- Tipo de tacón: plano
+- Parte superior: sintético
+- Material de la suela: Caucho
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08GQBD9JQ/?tag=tolees-21)
