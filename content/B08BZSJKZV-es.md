@@ -28,7 +28,7 @@ En este momento está [Levi s 511 Slim Vaqueros  Poncho and Righty ADV  34W / 34
 
 🔎:
 
-- Tamaño del paquete: 3,0 x 36,6 x 30,2 cm
 - Estándar
+- Tamaño del paquete: 3,0 x 36,6 x 30,2 cm
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08BZSJKZV/?tag=tolees-21)
