@@ -28,10 +28,10 @@ En este momento está [Desigual Vest Alicia Vestido Casual  Negro  11-12 Años p
 
 🔎:
 
-- Machine Wash in Cold Water
 - Desigual Kids - Vestido de talle alto con estampado de flores
+- Vestido azul de talle alto con manga larga semitransparente, falda corta avolantada y estampado floral. Nueva colección Kids OI21 Desigual.
 - Capa exterior de tul
 - Estampado floral
-- Vestido azul de talle alto con manga larga semitransparente, falda corta avolantada y estampado floral. Nueva colección Kids OI21 Desigual.
+- Machine Wash in Cold Water
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08THLBJF8/?tag=tolees-21)

@@ -28,11 +28,11 @@ En este momento está [Superdry Classic Rookie Jacket Chaqueta  Caqui Lavado  M 
 
 🔎:
 
-- Puños con cierre de botón a presión
 - Dobladillo ajustable con botones de presión
-- Cuello y forro de sherpa
-- La chaqueta de lana Sherpa de Highwayman con forro de sherpa te mantiene caliente esta temporada
-- Cierre de botón a
 - Lleva una sudadera clásica y un vaquero
+- Cuello y forro de sherpa
+- Cierre de botón a
+- Puños con cierre de botón a presión
+- La chaqueta de lana Sherpa de Highwayman con forro de sherpa te mantiene caliente esta temporada
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08D3KDYJS/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [Desigual Vest alejandrita Vestido Casual  Negro  9-10 Años para Niñas]
 
 🔎:
 
-- Desigual Kids - Vestido corto con estampado boho de flores
-- Machine Wash Cold Inside Out, Mild Wash
-- Vestido corto trapecio negro con manga larga abullonada y estampados florales boho. Nueva colección Kids OI21 Desigual.
 - Silueta trapecio avolantada
+- Desigual Kids - Vestido corto con estampado boho de flores
 - Estampados florales en franjas horizontales
+- Vestido corto trapecio negro con manga larga abullonada y estampados florales boho. Nueva colección Kids OI21 Desigual.
+- Machine Wash Cold Inside Out, Mild Wash
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08THD4QMQ/?tag=tolees-21)
