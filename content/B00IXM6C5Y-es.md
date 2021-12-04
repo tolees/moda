@@ -28,9 +28,9 @@ Tienes [Joma Suez - Pantalón para niños de 4 años  Color Rojo](https://www.am
 
 ℹ️:
 
+- Bolsillos laterales
 - Puño en al zona inferior
 - Pantalón largo
-- Bolsillos laterales
 - Hecho en 100% poliéster
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00IXM6C5Y/?tag=tolees-21)

@@ -28,11 +28,11 @@ Tienes [Nenuco - Boutique  Tienda de Moda para bebés con 30 Accesorios y Ropa p
 
 ℹ️:
 
-- Tu disfrutará jugando a las tiendas de ropa con todos los accesorios incluidos en esta boutique
-- Ayuda a su desarrollo afectivo y emocional, y fomenta la destreza manual. Juguete recomendado a niños a partir de 3 años
-- Pilas del juguete incluidas en la caja
-- Producto no indicado para jugar en el agua por su sistema electrónico, el muñeco si se puede meter en el agua
 - Incluye un muñeco Nenuco de cuerpo duro de 35 centímetros con pelo rubio y ropa intercambiable, con más de 30 accesorios y ropitas diferentes
 - Tiene todo lo necesario para simular el juego en una tienda: una caja registradora con escáner de luz sonido, monedas y billetes, una barrera de seguridad que pita, perchas y compartimentos para los accesorios
+- Producto no indicado para jugar en el agua por su sistema electrónico, el muñeco si se puede meter en el agua
+- Tu disfrutará jugando a las tiendas de ropa con todos los accesorios incluidos en esta boutique
+- Pilas del juguete incluidas en la caja
+- Ayuda a su desarrollo afectivo y emocional, y fomenta la destreza manual. Juguete recomendado a niños a partir de 3 años
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B088MTV45P/?tag=tolees-21)
