@@ -28,7 +28,7 @@ Está [Element Men s Pitch Shoe  Zapatilla Hombre  Negro Black Gum Red  41 EU](h
 
 ℹ️:
 
-- Género: hombre
 - Dimensiones del embalaje del artículo: 11,0 x 30,9 x 20,6 W
+- Género: hombre
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08GQC78C6/?tag=tolees-21)
