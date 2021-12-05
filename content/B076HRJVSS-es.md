@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Core18 Sw Top Sudadera  Hombre  G al 27.48 % de descuento'
-date: 2021-12-04 21:29:30
+date: 2021-12-05 21:40:38
 image: 'https://m.media-amazon.com/images/I/516q61AOW2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076HRJVSS/?tag=tolees-21'
 descuento: '27.48'
-average: '27.4458823529413'
+average: '27.4639534883722'
 ---
 
 Está [adidas Core18 Sw Top Sudadera  Hombre  Gris  Gris/Negro   XS](https://www.amazon.es/dp/B076HRJVSS/?tag=tolees-21) con 27.48 de descuento por 29.0 EUR (original: 39.99 EUR) en el siguiente enlace!
@@ -29,8 +29,8 @@ Está [adidas Core18 Sw Top Sudadera  Hombre  Gris  Gris/Negro   XS](https://www
 ℹ️:
 
 - Cuenta con un pequeño logotipo de Adidas bordado en el pecho
-- Mangas con ribetes en contraste
 - Presenta ajuste regular
+- Mangas con ribetes en contraste
 - Puños y dobladillo de canalé
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B076HRJVSS/?tag=tolees-21)

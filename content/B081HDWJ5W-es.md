@@ -28,10 +28,10 @@ Tienes [FCB Conjunto Camiseta y Pantalón Primera Equipación Infantil TER Stege
 
 ℹ️:
 
-- MUY IMPORTANTE: Las medidas de la camiseta Talla 14 son: Alto 65 cm desde el hombro hasta el bajo. Ancho a la altura del pecho 48 cm. Largo de la manga 17 cm. Las medidas del Pantalón Talla 14 son: Largo total: 39 cm. Cintura en reposo: 29 cm. Cintura estirada: 48 cm Así puede usted elegir la talla correcta y evitar posibles cambios.
 - Conjunto compuesto por camiseta y pantalón 1 Equipación 2019-2020 FC Barcelonad.
-- Tejido 100% poliéster.
 - Equipación Color Azulgrana con verde Ter Stegen
+- MUY IMPORTANTE: Las medidas de la camiseta Talla 14 son: Alto 65 cm desde el hombro hasta el bajo. Ancho a la altura del pecho 48 cm. Largo de la manga 17 cm. Las medidas del Pantalón Talla 14 son: Largo total: 39 cm. Cintura en reposo: 29 cm. Cintura estirada: 48 cm Así puede usted elegir la talla correcta y evitar posibles cambios.
 - Producto Oficial Licenciado. Cada etiqueta tiene un holograma con un número de serie único que garantizan la legalidad del producto.
+- Tejido 100% poliéster.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B081HDWJ5W/?tag=tolees-21)
