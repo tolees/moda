@@ -28,8 +28,8 @@ Está [Levi s 724 High Rise Straight Vaqueros  Spill The Tea  23W / 28L para Muj
 
 ℹ️:
 
-- Tienen un parche de cuero en la parte posterior de la cintura
 - Vaqueros para mujer
 - Con tejido elástico desarrollado para esculpir la silueta
+- Tienen un parche de cuero en la parte posterior de la cintura
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08PFBGR6Q/?tag=tolees-21)
