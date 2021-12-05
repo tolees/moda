@@ -28,9 +28,9 @@ Tienes [adidas Core18 Sw Top Sudadera  Hombre  Rojo  Rojo/Blanco   XL](https://w
 
 🔎:
 
-- Presenta ajuste regular
-- Mangas con ribetes en contraste
 - Puños y dobladillo de canalé
 - Cuenta con un pequeño logotipo de Adidas bordado en el pecho
+- Mangas con ribetes en contraste
+- Presenta ajuste regular
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B076HPJJ69/?tag=tolees-21)
