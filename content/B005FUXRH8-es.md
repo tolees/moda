@@ -28,9 +28,9 @@ En este momento está [Brandit Lord Canterbury Hooded Chaqueta  Negro con Capuch
 
 🔎:
 
-- Clásica chaqueta Harrington para hombre – Versión con capucha
-- 65% poliéster, 35% algodón, forro: 100% poliacrílico, forro de los brazos: 100% poliéster, puños: 69% poliacrílico, 31% poliéster
-- Puños y cintura acanalados
 - Forro de tartán Fraser.
+- Puños y cintura acanalados
+- 65% poliéster, 35% algodón, forro: 100% poliacrílico, forro de los brazos: 100% poliéster, puños: 69% poliacrílico, 31% poliéster
+- Clásica chaqueta Harrington para hombre – Versión con capucha
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B005FUXRH8/?tag=tolees-21)

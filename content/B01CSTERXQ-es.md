@@ -28,9 +28,9 @@ Está [Joma Combi Woman M/C Camiseta Deportiva para Mujer de Manga Corta y Cuell
 
 ℹ️:
 
-- Esta fabricada en 100% poliéster
+- Combina un diseño de cuello redondo con manga corta
 - Con DRY MX, una tecnología capaz de controlar la humedad corporal
 - Mantiene la piel fresca y seca
-- Combina un diseño de cuello redondo con manga corta
+- Esta fabricada en 100% poliéster
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01CSTERXQ/?tag=tolees-21)
