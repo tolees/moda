@@ -28,9 +28,9 @@ Ahora mismo tienes [Joma Berna Chaqueta  Hombre  Marino  S](https://www.amazon.e
 
 🔎:
 
-- Tipo de fábrica: Poliéster
-- Chaquetas
-- Resto textil
 - Berna capucha marino
+- Chaquetas
+- Tipo de fábrica: Poliéster
+- Resto textil
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07FKPRSF2/?tag=tolees-21)
