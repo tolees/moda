@@ -28,8 +28,8 @@ Está [Lee Elly Jeans Vaqueros  Mid Worn Martha  28W / 31L para Mujer](https://w
 
 ℹ️:
 
-- Transparente.
 - Slim.
 - DENIM STRETCH
+- Transparente.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08CXWH56S/?tag=tolees-21)
