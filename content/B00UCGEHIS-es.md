@@ -28,10 +28,10 @@ Tienes [Arppe 2240014501 Collar Nylon Basic  Rojo](https://www.amazon.es/dp/B00U
 
 ℹ️:
 
-- Coloque el collar alrededor del cuello, ajuste la medida con el regulador y abroche el cierre de forma que no quede ni muy apretado ni muy holgado
-- Regulable
-- Controle periódicamente el estado del producto antes de uso para mayor seguridad
 - Mida el contorno del cuello del perro, para ajustar la elección de la talla adecuada, teniendo en cuenta el largo, el ancho y las medidas de uso del collar
+- Coloque el collar alrededor del cuello, ajuste la medida con el regulador y abroche el cierre de forma que no quede ni muy apretado ni muy holgado
+- Controle periódicamente el estado del producto antes de uso para mayor seguridad
 - Con cierre de clip, rápido y cómodo de abrochar
+- Regulable
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00UCGEHIS/?tag=tolees-21)
