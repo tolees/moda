@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s 511 Slim Fit Vaqueros  Paul Adapt al 20.00 % de descuento'
-date: 2021-12-06 15:23:10
+date: 2021-12-07 15:32:51
 image: 'https://m.media-amazon.com/images/I/41H6i6SPWrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

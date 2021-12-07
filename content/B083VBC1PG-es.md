@@ -28,8 +28,8 @@ Está [Desigual Jers Bergen Sudadera  Multicolor  XS para Mujer](https://www.ama
 
 ℹ️:
 
-- Jersey de corte regular con cuello en V.
 - Cuello de pico.
+- Jersey de corte regular con cuello en V.
 - 70 % viscosa
 - Cenefas y flores en color beige.
 
