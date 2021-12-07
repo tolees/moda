@@ -28,10 +28,10 @@ Está [Regatta Stormbreak - Chaqueta para hombre  tamaño M  color azul marino](
 
 ℹ️:
 
-- Protección para la lluvia, cortaviento, transpirable, impermeable
-- Lavar a máquina a 40°C, no utilizar secadora
-- Material exterior y interior 100% poliéster, de composición Hardshell
-- Aperturas de ventilación en parte trasera y cremallera frontal completa, cubierto
 - Cuello con capucha, costuras selladas, puños elásticas
+- Protección para la lluvia, cortaviento, transpirable, impermeable
+- Material exterior y interior 100% poliéster, de composición Hardshell
+- Lavar a máquina a 40°C, no utilizar secadora
+- Aperturas de ventilación en parte trasera y cremallera frontal completa, cubierto
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B001FKULQW/?tag=tolees-21)
