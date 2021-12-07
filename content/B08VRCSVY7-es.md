@@ -28,9 +28,9 @@ Ahora mismo tienes [adidas Sudadera Modelo SQ21 SW Hood Marca](https://www.amazo
 
 🔎:
 
-- Puños y dobladillo de canalé
-- Bolsillo canguro
 - Felpa 70% algodón / 30% poliéster reciclado
 - Capucha con cordón ajustable
+- Bolsillo canguro
+- Puños y dobladillo de canalé
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08VRCSVY7/?tag=tolees-21)
