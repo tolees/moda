@@ -28,7 +28,7 @@ Ahora mismo tienes [Levi s Standard Crew Sudadera  Caviar  M para Mujer](https:/
 
 🔎:
 
-- Tiene detalles distintivos de la marca
 - Ofrece comodidad y libertad de movimiento
+- Tiene detalles distintivos de la marca
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07ZVPBTLK/?tag=tolees-21)
