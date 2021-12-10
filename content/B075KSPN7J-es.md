@@ -28,8 +28,8 @@ Ahora mismo tienes [Amazon Essentials Hooded Fleece Sweatshirt sudadera  Gris  C
 
 🔎:
 
-- Holgado en el pecho y entallado en la cintura
 - Pile mediamente pesante, comodissimo, caldo e morbido con retro spazzolato
 - Una marca de Amazon
+- Holgado en el pecho y entallado en la cintura
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B075KSPN7J/?tag=tolees-21)
