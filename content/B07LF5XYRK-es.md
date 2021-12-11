@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 24.42 % en Levi s Barstow Western Camisa Vaquera  N'
+title: 'Levi s Barstow Western Camisa Vaquera  Negro  Bruised Indigo Mid 0318   Medium para Hombre'
 date: 2020-01-07 12:09:01
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Shsw8ZkLL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '24.42'
 average: '60.46'
 ---
 
-Tienes [Levi s Barstow Western Camisa Vaquera  Negro  Bruised Indigo Mid 0318   Medium para Hombre](https://www.amazon.es/dp/B07LF5XYRK/?tag=tolees-21) con un 24.42 % de descuento con precio de oferta de 60.46 EUR (original: 80 EUR) en el siguiente enlace!
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Levi s Barstow Western Camisa Vaquera  N](https://images-eu.ssl-images-amazon.com/images/I/41Shsw8ZkLL._SL400_.jpg)](https://www.amazon.es/dp/B07LF5XYRK/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07LF5XYRK/?tag=tolees-21)
+[🛒 Accede a la oferta!!]({{< param buyurl >}})

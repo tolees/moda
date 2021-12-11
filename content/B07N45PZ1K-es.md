@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tommy Hilfiger Corp Long Slv tee Camiset al 39.98 % de descuento'
+title: 'Tommy Hilfiger Corp Long Slv tee Camiseta de Manga Larga  Blanco  Bright White Yaf   Medium para Hombre'
 date: 2020-01-03 09:09:24
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31pCrOrYrQL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '39.98'
 average: '29.95'
 ---
 
-Está [Tommy Hilfiger Corp Long Slv tee Camiseta de Manga Larga  Blanco  Bright White Yaf   Medium para Hombre](https://www.amazon.es/dp/B07N45PZ1K/?tag=tolees-21) con 39.98 de descuento por 29.95 EUR (original: 49.9 EUR) en el siguiente enlace!
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Tommy Hilfiger Corp Long Slv tee Camiset](https://images-eu.ssl-images-amazon.com/images/I/31pCrOrYrQL._SL400_.jpg)](https://www.amazon.es/dp/B07N45PZ1K/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Ver la oferta!!](https://www.amazon.es/dp/B07N45PZ1K/?tag=tolees-21)
+[🛒 Ver la oferta!!]({{< param buyurl >}})

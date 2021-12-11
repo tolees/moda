@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Springfield 6BA Polo Basico Reg T5 Jerse al 62.07 % de descuento'
+title: 'Springfield 6BA Polo Basico Reg T5 Jersey  Gama Verdes 21  Small  Tamaño del Fabricante:S  para Hombre'
 date: 2020-01-07 13:19:40
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41GVgxg0mwL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '62.07'
 average: '11.72'
 ---
 
-Está [Springfield 6BA Polo Basico Reg T5 Jersey  Gama Verdes 21  Small  Tamaño del Fabricante:S  para Hombre](https://www.amazon.es/dp/B07KZ296HV/?tag=tolees-21) con 62.07 de descuento por 8.72 EUR (original: 22.99 EUR) en el siguiente enlace!
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Springfield 6BA Polo Basico Reg T5 Jerse](https://images-eu.ssl-images-amazon.com/images/I/41GVgxg0mwL._SL400_.jpg)](https://www.amazon.es/dp/B07KZ296HV/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Ver la oferta!!](https://www.amazon.es/dp/B07KZ296HV/?tag=tolees-21)
+[🛒 Ver la oferta!!]({{< param buyurl >}})

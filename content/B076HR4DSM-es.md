@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Adidas Regista 18 Track Top Chaqueta Dep al 30.50 % de rebaja'
+title: 'Adidas Regista 18 Track Top Chaqueta Deportiva  Hombre  Negro  Black/White   S'
 date: 2020-01-06 13:14:43
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41NxAOFpcwL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.50'
 average: '26.269999999999996'
 ---
 
-Tienes [Adidas Regista 18 Track Top Chaqueta Deportiva  Hombre  Negro  Black/White   S](https://www.amazon.es/dp/B076HR4DSM/?tag=tolees-21) con precio final de  20.49 EUR (original: 29.48 EUR) (30.50 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![Adidas Regista 18 Track Top Chaqueta Dep](https://images-eu.ssl-images-amazon.com/images/I/41NxAOFpcwL._SL400_.jpg)](https://www.amazon.es/dp/B076HR4DSM/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B076HR4DSM/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Marion Vaqueros Straight  Azul  Mid  al 51.13 % de descuento'
+title: 'Lee Marion Vaqueros Straight  Azul  Mid Gordo CV   W31/L35 para Mujer'
 date: 2020-01-04 18:06:24
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41OB8aROOjL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '51.13'
 average: '48.85'
 ---
 
-Ahora mismo tienes [Lee Marion Vaqueros Straight  Azul  Mid Gordo CV   W31/L35 para Mujer](https://www.amazon.es/dp/B07MMVYXRN/?tag=tolees-21) a 48.85 EUR (original: 99.95 EUR) (51.13 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Lee Marion Vaqueros Straight  Azul  Mid ](https://images-eu.ssl-images-amazon.com/images/I/41OB8aROOjL._SL400_.jpg)](https://www.amazon.es/dp/B07MMVYXRN/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Visítala!!!](https://www.amazon.es/dp/B07MMVYXRN/?tag=tolees-21)
+[🛒 Visítala!!!]({{< param buyurl >}})

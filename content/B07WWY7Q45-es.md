@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 50.07 % en Charles Wilson Originals Sudadera Algodó'
+title: 'Charles Wilson Originals Sudadera Algodón Ligera Capucha Cremallera  X-Small  Olive  0819  '
 date: 2020-01-03 17:06:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/415hfUTuJcL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.07'
 average: '18.95'
 ---
 
-Tienes [Charles Wilson Originals Sudadera Algodón Ligera Capucha Cremallera  X-Small  Olive  0819  ](https://www.amazon.es/dp/B07WWY7Q45/?tag=tolees-21) con un 50.07 % de descuento con precio de oferta de 18.95 EUR (original: 37.95 EUR) en el siguiente enlace!
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Charles Wilson Originals Sudadera Algodó](https://images-eu.ssl-images-amazon.com/images/I/415hfUTuJcL._SL400_.jpg)](https://www.amazon.es/dp/B07WWY7Q45/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07WWY7Q45/?tag=tolees-21)
+[🛒 Accede a la oferta!!]({{< param buyurl >}})

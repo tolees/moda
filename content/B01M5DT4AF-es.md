@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour UA HG Printedy Pantalón Cor al 24.60 % de rebaja'
+title: 'Under Armour UA HG Printedy Pantalón Corto  Mujer  Gris  M'
 date: 2020-01-07 11:25:43
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41iLbD6VcAL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '24.60'
 average: '24.49'
 ---
 
-Tienes [Under Armour UA HG Printedy Pantalón Corto  Mujer  Gris  M](https://www.amazon.es/dp/B01M5DT4AF/?tag=tolees-21) con precio final de  24.49 EUR (original: 32.48 EUR) (24.60 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![Under Armour UA HG Printedy Pantalón Cor](https://images-eu.ssl-images-amazon.com/images/I/41iLbD6VcAL._SL400_.jpg)](https://www.amazon.es/dp/B01M5DT4AF/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B01M5DT4AF/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ternua Corno Pants Pantalón  Hombre  Neg al 34.90 % de descuento'
+title: 'Ternua Corno Pants Pantalón  Hombre  Negro  Black   M'
 date: 2020-01-08 18:59:56
 image: 'https://images-eu.ssl-images-amazon.com/images/I/314XAr8QR2L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '34.90'
 average: '63.11'
 ---
 
-Ahora mismo tienes [Ternua Corno Pants Pantalón  Hombre  Negro  Black   M](https://www.amazon.es/dp/B07FQZVCYH/?tag=tolees-21) a 63.11 EUR (original: 96.95 EUR) (34.90 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Ternua Corno Pants Pantalón  Hombre  Neg](https://images-eu.ssl-images-amazon.com/images/I/314XAr8QR2L._SL400_.jpg)](https://www.amazon.es/dp/B07FQZVCYH/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Visítala!!!](https://www.amazon.es/dp/B07FQZVCYH/?tag=tolees-21)
+[🛒 Visítala!!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Vero Moda Vmsimone Aw19 Hoody Short Jack con un 40.01 % de descuento'
+title: 'Vero Moda Vmsimone Aw19 Hoody Short Jacket Boos Chaqueta  Rojo Chinese Red  40  Talla del Fabricante: Medium  para Mujer'
 date: 2020-01-01 17:04:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41s5cEhQ2dL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '40.01'
 average: '21.84'
 ---
 
-En este momento está [Vero Moda Vmsimone Aw19 Hoody Short Jacket Boos Chaqueta  Rojo Chinese Red  40  Talla del Fabricante: Medium  para Mujer](https://www.amazon.es/dp/B07T93YY8Q/?tag=tolees-21) a 20.99 EUR (original: 34.99 EUR) (40.01 %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Vero Moda Vmsimone Aw19 Hoody Short Jack](https://images-eu.ssl-images-amazon.com/images/I/41s5cEhQ2dL._SL400_.jpg)](https://www.amazon.es/dp/B07T93YY8Q/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Aquí!!!](https://www.amazon.es/dp/B07T93YY8Q/?tag=tolees-21)
+[🛒 Aquí!!!]({{< param buyurl >}})

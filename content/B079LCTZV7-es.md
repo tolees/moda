@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lacoste TH6709  Camiseta para Hombre  Az al 36.70 % de descuento'
+title: 'Lacoste TH6709  Camiseta para Hombre  Azul  Bleu 001   5XL  Talla del fabricante: 10 '
 date: 2020-01-03 18:25:43
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31p2BpSsXmL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '36.70'
 average: '33.22'
 ---
 
-Ahora mismo tienes [Lacoste TH6709  Camiseta para Hombre  Azul  Bleu 001   5XL  Talla del fabricante: 10 ](https://www.amazon.es/dp/B079LCTZV7/?tag=tolees-21) a 34.99 EUR (original: 55.28 EUR) (36.70 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Lacoste TH6709  Camiseta para Hombre  Az](https://images-eu.ssl-images-amazon.com/images/I/31p2BpSsXmL._SL400_.jpg)](https://www.amazon.es/dp/B079LCTZV7/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Visítala!!!](https://www.amazon.es/dp/B079LCTZV7/?tag=tolees-21)
+[🛒 Visítala!!!]({{< param buyurl >}})

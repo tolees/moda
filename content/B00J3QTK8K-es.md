@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'uhlsport Match Classic De Mujer Chaqueta con un 53.64 % de descuento'
+title: 'uhlsport Match Classic De Mujer Chaqueta De Entrenamiento  Azul Marino/Blanco  XL'
 date: 2020-01-03 11:47:00
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41d8J%2B7vf0L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '53.64'
 average: '9.99'
 ---
 
-En este momento está [uhlsport Match Classic De Mujer Chaqueta De Entrenamiento  Azul Marino/Blanco  XL](https://www.amazon.es/dp/B00J3QTK8K/?tag=tolees-21) a 9.99 EUR (original: 21.55 EUR) (53.64 %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![uhlsport Match Classic De Mujer Chaqueta](https://images-eu.ssl-images-amazon.com/images/I/41d8J%2B7vf0L._SL400_.jpg)](https://www.amazon.es/dp/B00J3QTK8K/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Aquí!!!](https://www.amazon.es/dp/B00J3QTK8K/?tag=tolees-21)
+[🛒 Aquí!!!]({{< param buyurl >}})

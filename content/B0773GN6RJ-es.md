@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DCCN 3 Pcs Canvas Bolsas Escolares Mochi al 50.00 % de descuento'
+title: 'DCCN 3 Pcs Canvas Bolsas Escolares Mochila niños niñas Adolescentes Mochila Escolar + Bolsa De Hombro + Billetera + Bolso de Pluma'
 date: 2020-01-07 12:55:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/61ZYPYPDrlL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.00'
 average: '22.18'
 ---
 
-Está [DCCN 3 Pcs Canvas Bolsas Escolares Mochila niños niñas Adolescentes Mochila Escolar + Bolsa De Hombro + Billetera + Bolso de Pluma](https://www.amazon.es/dp/B0773GN6RJ/?tag=tolees-21) con 50.00 de descuento por 21.38 EUR (original: 42.76 EUR) en el siguiente enlace!
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![DCCN 3 Pcs Canvas Bolsas Escolares Mochi](https://images-eu.ssl-images-amazon.com/images/I/61ZYPYPDrlL._SL400_.jpg)](https://www.amazon.es/dp/B0773GN6RJ/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Ver la oferta!!](https://www.amazon.es/dp/B0773GN6RJ/?tag=tolees-21)
+[🛒 Ver la oferta!!]({{< param buyurl >}})

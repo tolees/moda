@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Button Down Camisa  Azul  Beyond Blu al 60.28 % de rebaja'
+title: 'Lee Button Down Camisa  Azul  Beyond Blue   Medium para Hombre'
 date: 2020-01-03 12:58:06
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41UbVRybNCL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '60.28'
 average: '26.12'
 ---
 
-Tienes [Lee Button Down Camisa  Azul  Beyond Blue   Medium para Hombre](https://www.amazon.es/dp/B07N18WY4D/?tag=tolees-21) con precio final de  25.82 EUR (original: 65 EUR) (60.28 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![Lee Button Down Camisa  Azul  Beyond Blu](https://images-eu.ssl-images-amazon.com/images/I/41UbVRybNCL._SL400_.jpg)](https://www.amazon.es/dp/B07N18WY4D/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B07N18WY4D/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})

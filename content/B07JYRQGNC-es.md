@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tommy Jeans Mujer Essential Hooded Down  al 32.08 % de descuento'
+title: 'Tommy Jeans Mujer Essential Hooded Down Jacket Chaqueta   Negro  Tommy Black 078  X-Small'
 date: 2020-01-05 10:43:00
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41qeAXxbnSL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '32.08'
 average: '141.95'
 ---
 
-Ahora mismo tienes [Tommy Jeans Mujer Essential Hooded Down Jacket Chaqueta   Negro  Tommy Black 078  X-Small](https://www.amazon.es/dp/B07JYRQGNC/?tag=tolees-21) a 141.95 EUR (original: 209 EUR) (32.08 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Tommy Jeans Mujer Essential Hooded Down ](https://images-eu.ssl-images-amazon.com/images/I/41qeAXxbnSL._SL400_.jpg)](https://www.amazon.es/dp/B07JYRQGNC/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Visítala!!!](https://www.amazon.es/dp/B07JYRQGNC/?tag=tolees-21)
+[🛒 Visítala!!!]({{< param buyurl >}})

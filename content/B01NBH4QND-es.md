@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Realer - Bolso de asas de sintético para al 67.62 % de rebaja'
+title: 'Realer - Bolso de asas de sintético para mujer negro negro'
 date: 2020-01-01 09:43:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51kFyBjFWKL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '67.62'
 average: '22.99'
 ---
 
-Tienes [Realer - Bolso de asas de sintético para mujer negro negro](https://www.amazon.es/dp/B01NBH4QND/?tag=tolees-21) con precio final de  22.99 EUR (original: 70.99 EUR) (67.62 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![Realer - Bolso de asas de sintético para](https://images-eu.ssl-images-amazon.com/images/I/51kFyBjFWKL._SL400_.jpg)](https://www.amazon.es/dp/B01NBH4QND/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B01NBH4QND/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})

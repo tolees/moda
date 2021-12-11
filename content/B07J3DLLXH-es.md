@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour UA Streaker 2.0 Longsleeve  con un 35.03 % de descuento'
+title: 'Under Armour UA Streaker 2.0 Longsleeve Camiseta de Manga Larga  Hombre  Negro  Black/Black/Reflective 001   M'
 date: 2020-01-10 08:52:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31xlzILr1gL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '35.03'
 average: '25.99'
 ---
 
-En este momento está [Under Armour UA Streaker 2.0 Longsleeve Camiseta de Manga Larga  Hombre  Negro  Black/Black/Reflective 001   M](https://www.amazon.es/dp/B07J3DLLXH/?tag=tolees-21) a 25.99 EUR (original: 40 EUR) (35.03 %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Under Armour UA Streaker 2.0 Longsleeve ](https://images-eu.ssl-images-amazon.com/images/I/31xlzILr1gL._SL400_.jpg)](https://www.amazon.es/dp/B07J3DLLXH/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Aquí!!!](https://www.amazon.es/dp/B07J3DLLXH/?tag=tolees-21)
+[🛒 Aquí!!!]({{< param buyurl >}})

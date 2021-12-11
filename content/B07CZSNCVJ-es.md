@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Sportstyle Logo LS Camiseta al 28.34 % de descuento'
+title: 'Under Armour Sportstyle Logo LS Camiseta  Hombre  Azul  Academy/White 408   L'
 date: 2020-01-10 09:32:02
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31AAUUwUZBL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '28.34'
 average: '19.03'
 ---
 
-Ahora mismo tienes [Under Armour Sportstyle Logo LS Camiseta  Hombre  Azul  Academy/White 408   L](https://www.amazon.es/dp/B07CZSNCVJ/?tag=tolees-21) a 21.49 EUR (original: 29.99 EUR) (28.34 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Under Armour Sportstyle Logo LS Camiseta](https://images-eu.ssl-images-amazon.com/images/I/31AAUUwUZBL._SL400_.jpg)](https://www.amazon.es/dp/B07CZSNCVJ/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Visítala!!!](https://www.amazon.es/dp/B07CZSNCVJ/?tag=tolees-21)
+[🛒 Visítala!!!]({{< param buyurl >}})

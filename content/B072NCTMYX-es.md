@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas ESS Lin Fzhoodb Sudadera  Hombre  al 49.99 % de descuento'
+title: 'adidas ESS Lin Fzhoodb Sudadera  Hombre  Azul  Maruni/Blanco   XS'
 date: 2020-01-07 13:21:23
 image: 'None._SL400_'
 comments: true
@@ -22,11 +22,11 @@ descuento: '49.99'
 average: '29.98'
 ---
 
-Ahora mismo tienes [adidas ESS Lin Fzhoodb Sudadera  Hombre  Azul  Maruni/Blanco   XS](https://www.amazon.es/dp/B072NCTMYX/?tag=tolees-21) a 29.98 EUR (original: 59.95 EUR) (49.99 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![adidas ESS Lin Fzhoodb Sudadera  Hombre ](None._SL400_)](https://www.amazon.es/dp/B072NCTMYX/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Visítala!!!](https://www.amazon.es/dp/B072NCTMYX/?tag=tolees-21)
+[🛒 Visítala!!!]({{< param buyurl >}})

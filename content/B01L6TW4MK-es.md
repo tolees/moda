@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Rider Jeans Vaqueros  Black Rinse Yc al 50.03 % de rebaja'
+title: 'Lee Rider Jeans Vaqueros  Black Rinse Yc47  38W / 30L para Hombre'
 date: 2020-01-04 21:21:52
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31KSZCEhtAL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.03'
 average: '43.335'
 ---
 
-Tienes [Lee Rider Jeans Vaqueros  Black Rinse Yc47  38W / 30L para Hombre](https://www.amazon.es/dp/B01L6TW4MK/?tag=tolees-21) con precio final de  44.95 EUR (original: 89.95 EUR) (50.03 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![Lee Rider Jeans Vaqueros  Black Rinse Yc](https://images-eu.ssl-images-amazon.com/images/I/31KSZCEhtAL._SL400_.jpg)](https://www.amazon.es/dp/B01L6TW4MK/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B01L6TW4MK/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})

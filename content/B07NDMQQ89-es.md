@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BOSS Debelt Vestido  Plateado  Silver 04 al 67.07 % de rebaja'
+title: 'BOSS Debelt Vestido  Plateado  Silver 040   Large para Mujer'
 date: 2020-01-08 17:23:11
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31v4CYY4fZL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '67.07'
 average: '55.65'
 ---
 
-Tienes [BOSS Debelt Vestido  Plateado  Silver 040   Large para Mujer](https://www.amazon.es/dp/B07NDMQQ89/?tag=tolees-21) con precio final de  55.65 EUR (original: 169 EUR) (67.07 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![BOSS Debelt Vestido  Plateado  Silver 04](https://images-eu.ssl-images-amazon.com/images/I/31v4CYY4fZL._SL400_.jpg)](https://www.amazon.es/dp/B07NDMQQ89/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B07NDMQQ89/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})

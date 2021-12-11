@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia Triple Canyon Fall Pantalón de  al 41.12 % de rebaja'
+title: 'Columbia Triple Canyon Fall Pantalón de Senderismo  Poliéster  Negro  W32/L32'
 date: 2020-01-02 07:36:14
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31aqhUP7jrL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '41.12'
 average: '52.99'
 ---
 
-Tienes [Columbia Triple Canyon Fall Pantalón de Senderismo  Poliéster  Negro  W32/L32](https://www.amazon.es/dp/B07DYWQH54/?tag=tolees-21) con precio final de  52.99 EUR (original: 89.99 EUR) (41.12 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![Columbia Triple Canyon Fall Pantalón de ](https://images-eu.ssl-images-amazon.com/images/I/31aqhUP7jrL._SL400_.jpg)](https://www.amazon.es/dp/B07DYWQH54/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B07DYWQH54/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})

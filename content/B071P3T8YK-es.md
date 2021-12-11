@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The North Face T93BRK Chaqueta Parka  Mu con un 41.68 % de descuento'
+title: 'The North Face T93BRK Chaqueta Parka  Mujer  TNF Black  L'
 date: 2020-01-06 14:17:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41de8g3jhuL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '41.68'
 average: '145.79'
 ---
 
-En este momento está [The North Face T93BRK Chaqueta Parka  Mujer  TNF Black  L](https://www.amazon.es/dp/B071P3T8YK/?tag=tolees-21) a 145.79 EUR (original: 250 EUR) (41.68 %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![The North Face T93BRK Chaqueta Parka  Mu](https://images-eu.ssl-images-amazon.com/images/I/41de8g3jhuL._SL400_.jpg)](https://www.amazon.es/dp/B071P3T8YK/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Aquí!!!](https://www.amazon.es/dp/B071P3T8YK/?tag=tolees-21)
+[🛒 Aquí!!!]({{< param buyurl >}})

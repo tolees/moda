@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'edc by Esprit 019cc1f005 Blusa  Blanco   al 69.72 % de descuento'
+title: 'edc by Esprit 019cc1f005 Blusa  Blanco  Off White 110   Large para Mujer'
 date: 2020-01-10 10:18:20
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51rlQIccryL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '69.72'
 average: '12.11'
 ---
 
-Ahora mismo tienes [edc by Esprit 019cc1f005 Blusa  Blanco  Off White 110   Large para Mujer](https://www.amazon.es/dp/B07KFVQKGH/?tag=tolees-21) a 12.11 EUR (original: 39.99 EUR) (69.72 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![edc by Esprit 019cc1f005 Blusa  Blanco  ](https://images-eu.ssl-images-amazon.com/images/I/51rlQIccryL._SL400_.jpg)](https://www.amazon.es/dp/B07KFVQKGH/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Visítala!!!](https://www.amazon.es/dp/B07KFVQKGH/?tag=tolees-21)
+[🛒 Visítala!!!]({{< param buyurl >}})

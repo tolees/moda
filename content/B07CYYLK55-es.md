@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 46.80 % en Levi s Graphic Set-in Neck  Camiseta par'
+title: 'Levi s Graphic Set-in Neck  Camiseta para Hombre  Negro  Levis Logo Black 0427   M'
 date: 2020-01-07 15:32:39
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41MDPLsTKJL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '46.80'
 average: '13.3'
 ---
 
-Tienes [Levi s Graphic Set-in Neck  Camiseta para Hombre  Negro  Levis Logo Black 0427   M](https://www.amazon.es/dp/B07CYYLK55/?tag=tolees-21) con un 46.80 % de descuento con precio de oferta de 13.3 EUR (original: 25 EUR) en el siguiente enlace!
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Levi s Graphic Set-in Neck  Camiseta par](https://images-eu.ssl-images-amazon.com/images/I/41MDPLsTKJL._SL400_.jpg)](https://www.amazon.es/dp/B07CYYLK55/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07CYYLK55/?tag=tolees-21)
+[🛒 Accede a la oferta!!]({{< param buyurl >}})

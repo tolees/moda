@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pepe Jeans Elia Camiseta  Negro  Black 9 al 36.49 % de descuento'
+title: 'Pepe Jeans Elia Camiseta  Negro  Black 999   Medium para Mujer'
 date: 2020-01-04 13:05:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/416xGpYYCVL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '36.49'
 average: '18.99'
 ---
 
-Ahora mismo tienes [Pepe Jeans Elia Camiseta  Negro  Black 999   Medium para Mujer](https://www.amazon.es/dp/B07NCBPJNF/?tag=tolees-21) a 18.99 EUR (original: 29.9 EUR) (36.49 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Pepe Jeans Elia Camiseta  Negro  Black 9](https://images-eu.ssl-images-amazon.com/images/I/416xGpYYCVL._SL400_.jpg)](https://www.amazon.es/dp/B07NCBPJNF/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Visítala!!!](https://www.amazon.es/dp/B07NCBPJNF/?tag=tolees-21)
+[🛒 Visítala!!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas W E Lin Slim T Camiseta de Manga  al 34.89 % de descuento'
+title: 'adidas W E Lin Slim T Camiseta de Manga Corta  Mujer  Blanco  White/Black   2XL'
 date: 2020-01-05 19:34:20
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31fwZonYvTL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '34.89'
 average: '12.48'
 ---
 
-Ahora mismo tienes [adidas W E Lin Slim T Camiseta de Manga Corta  Mujer  Blanco  White/Black   2XL](https://www.amazon.es/dp/B07LFZG92K/?tag=tolees-21) a 12.99 EUR (original: 19.95 EUR) (34.89 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![adidas W E Lin Slim T Camiseta de Manga ](https://images-eu.ssl-images-amazon.com/images/I/31fwZonYvTL._SL400_.jpg)](https://www.amazon.es/dp/B07LFZG92K/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Visítala!!!](https://www.amazon.es/dp/B07LFZG92K/?tag=tolees-21)
+[🛒 Visítala!!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 72.59 % en Tom Tailor Denim Print Camiseta  Azul  S'
+title: 'Tom Tailor Denim Print Camiseta  Azul  Slate Blue/Green 12335   M para Hombre'
 date: 2020-01-09 07:06:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Y34XdDs8L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '72.59'
 average: '3.56'
 ---
 
-Tienes [Tom Tailor Denim Print Camiseta  Azul  Slate Blue/Green 12335   M para Hombre](https://www.amazon.es/dp/B07V5HQTWZ/?tag=tolees-21) con un 72.59 % de descuento con precio de oferta de 3.56 EUR (original: 12.99 EUR) en el siguiente enlace!
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Tom Tailor Denim Print Camiseta  Azul  S](https://images-eu.ssl-images-amazon.com/images/I/41Y34XdDs8L._SL400_.jpg)](https://www.amazon.es/dp/B07V5HQTWZ/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07V5HQTWZ/?tag=tolees-21)
+[🛒 Accede a la oferta!!]({{< param buyurl >}})

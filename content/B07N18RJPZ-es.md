@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-STAR RAW Lynn Mid-Waist Skinny Vaquero con un 70.75 % de descuento'
+title: 'G-STAR RAW Lynn Mid-Waist Skinny Vaqueros  Faded Blue 6553-A889  22W / 30L para Mujer'
 date: 2019-12-31 15:31:49
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41WwF4E8inL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '70.75'
 average: '29.24'
 ---
 
-En este momento está [G-STAR RAW Lynn Mid-Waist Skinny Vaqueros  Faded Blue 6553-A889  22W / 30L para Mujer](https://www.amazon.es/dp/B07N18RJPZ/?tag=tolees-21) a 29.24 EUR (original: 99.95 EUR) (70.75 %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![G-STAR RAW Lynn Mid-Waist Skinny Vaquero](https://images-eu.ssl-images-amazon.com/images/I/41WwF4E8inL._SL400_.jpg)](https://www.amazon.es/dp/B07N18RJPZ/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Aquí!!!](https://www.amazon.es/dp/B07N18RJPZ/?tag=tolees-21)
+[🛒 Aquí!!!]({{< param buyurl >}})

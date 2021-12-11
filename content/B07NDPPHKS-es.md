@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-STAR RAW Graphic 22 Optic Slim Round N al 40.07 % de descuento'
+title: 'G-STAR RAW Graphic 22 Optic Slim Round Neck Camiseta  Naranja  Dusty Royal Orange A489   XX-Small para Mujer'
 date: 2020-01-04 10:51:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41WiaL95m9L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '40.07'
 average: '17.95'
 ---
 
-Ahora mismo tienes [G-STAR RAW Graphic 22 Optic Slim Round Neck Camiseta  Naranja  Dusty Royal Orange A489   XX-Small para Mujer](https://www.amazon.es/dp/B07NDPPHKS/?tag=tolees-21) a 17.95 EUR (original: 29.95 EUR) (40.07 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![G-STAR RAW Graphic 22 Optic Slim Round N](https://images-eu.ssl-images-amazon.com/images/I/41WiaL95m9L._SL400_.jpg)](https://www.amazon.es/dp/B07NDPPHKS/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Visítala!!!](https://www.amazon.es/dp/B07NDPPHKS/?tag=tolees-21)
+[🛒 Visítala!!!]({{< param buyurl >}})

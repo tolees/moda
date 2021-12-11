@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 38.52 % en Superdry Tech Hood Pop Zip SD-Windcheate'
+title: 'Superdry Tech Hood Pop Zip SD-Windcheater Chaqueta  Multicolor  Black/Raspberry 27b   38  Talla del Fabricante: 10  para Mujer'
 date: 2020-01-09 05:12:32
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41oSq59CB4L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '38.52'
 average: '61.47'
 ---
 
-Tienes [Superdry Tech Hood Pop Zip SD-Windcheater Chaqueta  Multicolor  Black/Raspberry 27b   38  Talla del Fabricante: 10  para Mujer](https://www.amazon.es/dp/B077XJLF15/?tag=tolees-21) con un 38.52 % de descuento con precio de oferta de 61.47 EUR (original: 99.99 EUR) en el siguiente enlace!
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Superdry Tech Hood Pop Zip SD-Windcheate](https://images-eu.ssl-images-amazon.com/images/I/41oSq59CB4L._SL400_.jpg)](https://www.amazon.es/dp/B077XJLF15/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Accede a la oferta!!](https://www.amazon.es/dp/B077XJLF15/?tag=tolees-21)
+[🛒 Accede a la oferta!!]({{< param buyurl >}})

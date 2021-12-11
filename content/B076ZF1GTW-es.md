@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'IRIS & LILLY  Camiseta de Manga Larga pa al 28.51 % de descuento'
+title: 'IRIS & LILLY  Camiseta de Manga Larga para Mujer  Gris  Grey Marl   Medium'
 date: 2020-01-02 09:00:48
 image: 'https://images-eu.ssl-images-amazon.com/images/I/416EXIeac1L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '28.51'
 average: '8.5'
 ---
 
-Está [IRIS & LILLY  Camiseta de Manga Larga para Mujer  Gris  Grey Marl   Medium](https://www.amazon.es/dp/B076ZF1GTW/?tag=tolees-21) con 28.51 de descuento por 8.5 EUR (original: 11.89 EUR) en el siguiente enlace!
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![IRIS & LILLY  Camiseta de Manga Larga pa](https://images-eu.ssl-images-amazon.com/images/I/416EXIeac1L._SL400_.jpg)](https://www.amazon.es/dp/B076ZF1GTW/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Ver la oferta!!](https://www.amazon.es/dp/B076ZF1GTW/?tag=tolees-21)
+[🛒 Ver la oferta!!]({{< param buyurl >}})

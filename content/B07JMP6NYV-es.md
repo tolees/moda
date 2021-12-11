@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'XTI 49105  Sandalias con Plataforma para al 65.31 % de descuento'
+title: 'XTI 49105  Sandalias con Plataforma para Mujer  Azul Jeans  39 EU'
 date: 2020-01-06 12:18:39
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51DgueaunIL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '65.31'
 average: '15.553333333333335'
 ---
 
-Está [XTI 49105  Sandalias con Plataforma para Mujer  Azul Jeans  39 EU](https://www.amazon.es/dp/B07JMP6NYV/?tag=tolees-21) con 65.31 de descuento por 12.14 EUR (original: 35 EUR) en el siguiente enlace!
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![XTI 49105  Sandalias con Plataforma para](https://images-eu.ssl-images-amazon.com/images/I/51DgueaunIL._SL400_.jpg)](https://www.amazon.es/dp/B07JMP6NYV/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Ver la oferta!!](https://www.amazon.es/dp/B07JMP6NYV/?tag=tolees-21)
+[🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'find. D7832 vestido fiesta mujer  Rojo   al 62.50 % de rebaja'
+title: 'find. D7832 vestido fiesta mujer  Rojo  Rot   36  Talla del Fabricante: X-Small '
 date: 2020-01-06 20:08:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/417PHWtpJbL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '62.50'
 average: '11.4'
 ---
 
-Tienes [find. D7832 vestido fiesta mujer  Rojo  Rot   36  Talla del Fabricante: X-Small ](https://www.amazon.es/dp/B073JHFY4D/?tag=tolees-21) con precio final de  11.4 EUR (original: 30.4 EUR) (62.50 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![find. D7832 vestido fiesta mujer  Rojo  ](https://images-eu.ssl-images-amazon.com/images/I/417PHWtpJbL._SL400_.jpg)](https://www.amazon.es/dp/B073JHFY4D/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B073JHFY4D/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})

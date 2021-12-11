@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JACK & JONES Camiseta de Manga Larga T-S al 20.05 % de rebaja'
+title: 'JACK & JONES Camiseta de Manga Larga T-Shirt Longsleeve Shirt Top Streetwear  XX-Large  Port Royale '
 date: 2020-01-06 17:42:33
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41c7qgxhDmL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '20.05'
 average: '19.98'
 ---
 
-Tienes [JACK & JONES Camiseta de Manga Larga T-Shirt Longsleeve Shirt Top Streetwear  XX-Large  Port Royale ](https://www.amazon.es/dp/B07J5J6P9C/?tag=tolees-21) con precio final de  19.98 EUR (original: 24.99 EUR) (20.05 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![JACK & JONES Camiseta de Manga Larga T-S](https://images-eu.ssl-images-amazon.com/images/I/41c7qgxhDmL._SL400_.jpg)](https://www.amazon.es/dp/B07J5J6P9C/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B07J5J6P9C/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})

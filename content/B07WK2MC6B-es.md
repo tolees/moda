@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ropa Interior Térmica Hombre  Camiseta T al 52.01 % de descuento'
+title: 'Ropa Interior Térmica Hombre  Camiseta Térmica Hombre Deportes Ropa Interior Funcional Conjuntos Térmicos Termo Invierno Otoño con muy elástica para Running Esquí Montaña Ciclismo Fitness Negro L'
 date: 2020-01-04 10:53:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41-aN0rwQgL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '52.01'
 average: '19.19'
 ---
 
-Está [Ropa Interior Térmica Hombre  Camiseta Térmica Hombre Deportes Ropa Interior Funcional Conjuntos Térmicos Termo Invierno Otoño con muy elástica para Running Esquí Montaña Ciclismo Fitness Negro L](https://www.amazon.es/dp/B07WK2MC6B/?tag=tolees-21) con 52.01 de descuento por 19.19 EUR (original: 39.99 EUR) en el siguiente enlace!
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Ropa Interior Térmica Hombre  Camiseta T](https://images-eu.ssl-images-amazon.com/images/I/41-aN0rwQgL._SL400_.jpg)](https://www.amazon.es/dp/B07WK2MC6B/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Ver la oferta!!](https://www.amazon.es/dp/B07WK2MC6B/?tag=tolees-21)
+[🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'KRISP Vestido Mujer Tallas Grandes Largo al 36.38 % de descuento'
+title: 'KRISP Vestido Mujer Tallas Grandes Largo Casual Ibicenco De Día Ropa Hippie Online Ofertas   Negro  3269   40 EU  12 UK    3269-BLK-12'
 date: 2020-01-08 01:49:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31ypKA3vm0L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '36.38'
 average: '13.99'
 ---
 
-Está [KRISP Vestido Mujer Tallas Grandes Largo Casual Ibicenco De Día Ropa Hippie Online Ofertas   Negro  3269   40 EU  12 UK    3269-BLK-12](https://www.amazon.es/dp/B0156ZMLKA/?tag=tolees-21) con 36.38 de descuento por 13.99 EUR (original: 21.99 EUR) en el siguiente enlace!
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![KRISP Vestido Mujer Tallas Grandes Largo](https://images-eu.ssl-images-amazon.com/images/I/31ypKA3vm0L._SL400_.jpg)](https://www.amazon.es/dp/B0156ZMLKA/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Ver la oferta!!](https://www.amazon.es/dp/B0156ZMLKA/?tag=tolees-21)
+[🛒 Ver la oferta!!]({{< param buyurl >}})

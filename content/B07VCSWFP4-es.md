@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Reebok Boxer para Hombre  Multicolor  Sm al 50.97 % de rebaja'
+title: 'Reebok Boxer para Hombre  Multicolor  Small  pack de 4 '
 date: 2020-01-05 19:19:27
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41fAecDmVML._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.97'
 average: '14.66'
 ---
 
-Tienes [Reebok Boxer para Hombre  Multicolor  Small  pack de 4 ](https://www.amazon.es/dp/B07VCSWFP4/?tag=tolees-21) con precio final de  14.66 EUR (original: 29.9 EUR) (50.97 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![Reebok Boxer para Hombre  Multicolor  Sm](https://images-eu.ssl-images-amazon.com/images/I/41fAecDmVML._SL400_.jpg)](https://www.amazon.es/dp/B07VCSWFP4/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B07VCSWFP4/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})

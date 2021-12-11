@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'find. Sudadera Estampada para Hombre  Az al 52.38 % de rebaja'
+title: 'find. Sudadera Estampada para Hombre  Azul  Navy   Large'
 date: 2020-01-08 17:03:31
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41z6lXCzVLL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '52.38'
 average: '8.4'
 ---
 
-Tienes [find. Sudadera Estampada para Hombre  Azul  Navy   Large](https://www.amazon.es/dp/B074FW6T9Q/?tag=tolees-21) con precio final de  8.4 EUR (original: 17.64 EUR) (52.38 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![find. Sudadera Estampada para Hombre  Az](https://images-eu.ssl-images-amazon.com/images/I/41z6lXCzVLL._SL400_.jpg)](https://www.amazon.es/dp/B074FW6T9Q/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B074FW6T9Q/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Trangoworld PC008106 Pantalón Largo  Muj con un 16.84 % de descuento'
+title: 'Trangoworld PC008106 Pantalón Largo  Mujer  Verde Caza  M'
 date: 2020-01-08 15:26:16
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31yrIWETJpL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '16.84'
 average: '41.99'
 ---
 
-En este momento está [Trangoworld PC008106 Pantalón Largo  Mujer  Verde Caza  M](https://www.amazon.es/dp/B07FKZCJV8/?tag=tolees-21) a 41.99 EUR (original: 50.49 EUR) (16.84 %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Trangoworld PC008106 Pantalón Largo  Muj](https://images-eu.ssl-images-amazon.com/images/I/31yrIWETJpL._SL400_.jpg)](https://www.amazon.es/dp/B07FKZCJV8/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Aquí!!!](https://www.amazon.es/dp/B07FKZCJV8/?tag=tolees-21)
+[🛒 Aquí!!!]({{< param buyurl >}})

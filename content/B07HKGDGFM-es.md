@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour UA Lockdown 4  Zapatos de B al 31.03 % de descuento'
+title: 'Under Armour UA Lockdown 4  Zapatos de Baloncesto para Hombre  Negro  Black 001   50.5 EU'
 date: 2020-01-08 10:42:38
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31JSbarI5gL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '31.03'
 average: '48.28'
 ---
 
-Ahora mismo tienes [Under Armour UA Lockdown 4  Zapatos de Baloncesto para Hombre  Negro  Black 001   50.5 EU](https://www.amazon.es/dp/B07HKGDGFM/?tag=tolees-21) a 48.28 EUR (original: 70 EUR) (31.03 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Under Armour UA Lockdown 4  Zapatos de B](https://images-eu.ssl-images-amazon.com/images/I/31JSbarI5gL._SL400_.jpg)](https://www.amazon.es/dp/B07HKGDGFM/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Visítala!!!](https://www.amazon.es/dp/B07HKGDGFM/?tag=tolees-21)
+[🛒 Visítala!!!]({{< param buyurl >}})

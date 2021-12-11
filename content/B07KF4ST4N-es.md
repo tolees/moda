@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s 510 Skinny Fit  Vaqueros para Hom al 63.65 % de rebaja'
+title: 'Levi s 510 Skinny Fit  Vaqueros para Hombre  Azul  Ivy Adv 0941   W28/L30'
 date: 2020-01-06 19:11:24
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31OOKVbTGUL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '63.65'
 average: '39.99'
 ---
 
-Tienes [Levi s 510 Skinny Fit  Vaqueros para Hombre  Azul  Ivy Adv 0941   W28/L30](https://www.amazon.es/dp/B07KF4ST4N/?tag=tolees-21) con precio final de  39.99 EUR (original: 110 EUR) (63.65 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![Levi s 510 Skinny Fit  Vaqueros para Hom](https://images-eu.ssl-images-amazon.com/images/I/31OOKVbTGUL._SL400_.jpg)](https://www.amazon.es/dp/B07KF4ST4N/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B07KF4ST4N/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})

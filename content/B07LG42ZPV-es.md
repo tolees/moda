@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Geox J Kalispera Girl A  Zapatillas Alta al 40.92 % de descuento'
+title: 'Geox J Kalispera Girl A  Zapatillas Altas para Niñas  Rosa  Lt Prune C8023   26 EU'
 date: 2020-01-03 08:43:10
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41TY3YSOGVL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '40.92'
 average: '38.4'
 ---
 
-Ahora mismo tienes [Geox J Kalispera Girl A  Zapatillas Altas para Niñas  Rosa  Lt Prune C8023   26 EU](https://www.amazon.es/dp/B07LG42ZPV/?tag=tolees-21) a 38.4 EUR (original: 65 EUR) (40.92 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Geox J Kalispera Girl A  Zapatillas Alta](https://images-eu.ssl-images-amazon.com/images/I/41TY3YSOGVL._SL400_.jpg)](https://www.amazon.es/dp/B07LG42ZPV/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Visítala!!!](https://www.amazon.es/dp/B07LG42ZPV/?tag=tolees-21)
+[🛒 Visítala!!!]({{< param buyurl >}})

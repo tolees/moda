@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Trangoworld Sieber Complet Chaqueta  Hom con un 33.61 % de descuento'
+title: 'Trangoworld Sieber Complet Chaqueta  Hombre  Kaki  XL'
 date: 2020-01-07 15:10:38
 image: 'https://images-eu.ssl-images-amazon.com/images/I/316NkJV8FNL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '33.61'
 average: '160.99'
 ---
 
-En este momento está [Trangoworld Sieber Complet Chaqueta  Hombre  Kaki  XL](https://www.amazon.es/dp/B075R9KRD8/?tag=tolees-21) a 160.99 EUR (original: 242.49 EUR) (33.61 %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Trangoworld Sieber Complet Chaqueta  Hom](https://images-eu.ssl-images-amazon.com/images/I/316NkJV8FNL._SL400_.jpg)](https://www.amazon.es/dp/B075R9KRD8/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Aquí!!!](https://www.amazon.es/dp/B075R9KRD8/?tag=tolees-21)
+[🛒 Aquí!!!]({{< param buyurl >}})

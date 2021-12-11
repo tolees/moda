@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Napapijri Rainforest W WINT 3 Chaqueta   al 41.59 % de descuento'
+title: 'Napapijri Rainforest W WINT 3 Chaqueta  Azul  BLU Marine 176   M para Mujer'
 date: 2020-01-07 20:34:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31i%2B7Uh-MsL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '41.59'
 average: '114.94'
 ---
 
-Está [Napapijri Rainforest W WINT 3 Chaqueta  Azul  BLU Marine 176   M para Mujer](https://www.amazon.es/dp/B07MCSPP6G/?tag=tolees-21) con 41.59 de descuento por 116.23 EUR (original: 199 EUR) en el siguiente enlace!
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Napapijri Rainforest W WINT 3 Chaqueta  ](https://images-eu.ssl-images-amazon.com/images/I/31i%2B7Uh-MsL._SL400_.jpg)](https://www.amazon.es/dp/B07MCSPP6G/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Ver la oferta!!](https://www.amazon.es/dp/B07MCSPP6G/?tag=tolees-21)
+[🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 50.24 % en Wrangler LS Western Shirt Camisa  Rojo  '
+title: 'Wrangler LS Western Shirt Camisa  Rojo  Red X47   Small para Hombre'
 date: 2020-01-01 17:05:05
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41PPbHL5djL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.24'
 average: '29.83'
 ---
 
-Tienes [Wrangler LS Western Shirt Camisa  Rojo  Red X47   Small para Hombre](https://www.amazon.es/dp/B07M5F5MRV/?tag=tolees-21) con un 50.24 % de descuento con precio de oferta de 29.83 EUR (original: 59.95 EUR) en el siguiente enlace!
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Wrangler LS Western Shirt Camisa  Rojo  ](https://images-eu.ssl-images-amazon.com/images/I/41PPbHL5djL._SL400_.jpg)](https://www.amazon.es/dp/B07M5F5MRV/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07M5F5MRV/?tag=tolees-21)
+[🛒 Accede a la oferta!!]({{< param buyurl >}})

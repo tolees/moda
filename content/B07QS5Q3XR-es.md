@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia 1420421  Chaqueta Forro Polar H con un 60.47 % de descuento'
+title: 'Columbia 1420421  Chaqueta Forro Polar Hombre  Rojo  Red Jasper  Dark Mountain   S'
 date: 2020-01-06 16:10:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41mKSB3-4cL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '60.47'
 average: '21.495'
 ---
 
-En este momento está [Columbia 1420421  Chaqueta Forro Polar Hombre  Rojo  Red Jasper  Dark Mountain   S](https://www.amazon.es/dp/B07QS5Q3XR/?tag=tolees-21) a 19.76 EUR (original: 49.99 EUR) (60.47 %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Columbia 1420421  Chaqueta Forro Polar H](https://images-eu.ssl-images-amazon.com/images/I/41mKSB3-4cL._SL400_.jpg)](https://www.amazon.es/dp/B07QS5Q3XR/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Aquí!!!](https://www.amazon.es/dp/B07QS5Q3XR/?tag=tolees-21)
+[🛒 Aquí!!!]({{< param buyurl >}})

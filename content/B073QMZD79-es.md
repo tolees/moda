@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'find. Chaqueta Biker Hombre  Gris  Grau  al 52.38 % de rebaja'
+title: 'find. Chaqueta Biker Hombre  Gris  Grau   Large'
 date: 2020-01-10 10:23:20
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41wpBCgU8EL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '52.38'
 average: '19.5'
 ---
 
-Tienes [find. Chaqueta Biker Hombre  Gris  Grau   Large](https://www.amazon.es/dp/B073QMZD79/?tag=tolees-21) con precio final de  19.5 EUR (original: 40.95 EUR) (52.38 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![find. Chaqueta Biker Hombre  Gris  Grau ](https://images-eu.ssl-images-amazon.com/images/I/41wpBCgU8EL._SL400_.jpg)](https://www.amazon.es/dp/B073QMZD79/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B073QMZD79/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})

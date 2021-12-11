@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 35.03 % en Reebok Classic Nylon Zapatilla de Runnin'
+title: 'Reebok Classic Nylon Zapatilla de Running Hombre  Blanco  White / Light Grey   42'
 date: 2020-01-08 13:45:16
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ydw0C4u4L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '35.03'
 average: '45.45'
 ---
 
-Tienes [Reebok Classic Nylon Zapatilla de Running Hombre  Blanco  White / Light Grey   42](https://www.amazon.es/dp/B000AP0SAM/?tag=tolees-21) con un 35.03 % de descuento con precio de oferta de 45.45 EUR (original: 69.95 EUR) en el siguiente enlace!
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Reebok Classic Nylon Zapatilla de Runnin](https://images-eu.ssl-images-amazon.com/images/I/41ydw0C4u4L._SL400_.jpg)](https://www.amazon.es/dp/B000AP0SAM/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000AP0SAM/?tag=tolees-21)
+[🛒 Accede a la oferta!!]({{< param buyurl >}})

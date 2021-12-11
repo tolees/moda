@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 28.88 % en Under Armour Heatgear Armour Pantalón Co'
+title: 'Under Armour Heatgear Armour Pantalón Corto  Mujer  Negro  Breathtaking Blue/Metallic Silver 005   M'
 date: 2020-01-10 08:52:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41VJ24xpgkL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '28.88'
 average: '18.49'
 ---
 
-Tienes [Under Armour Heatgear Armour Pantalón Corto  Mujer  Negro  Breathtaking Blue/Metallic Silver 005   M](https://www.amazon.es/dp/B07L9B25KQ/?tag=tolees-21) con un 28.88 % de descuento con precio de oferta de 18.49 EUR (original: 26 EUR) en el siguiente enlace!
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Under Armour Heatgear Armour Pantalón Co](https://images-eu.ssl-images-amazon.com/images/I/41VJ24xpgkL._SL400_.jpg)](https://www.amazon.es/dp/B07L9B25KQ/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07L9B25KQ/?tag=tolees-21)
+[🛒 Accede a la oferta!!]({{< param buyurl >}})

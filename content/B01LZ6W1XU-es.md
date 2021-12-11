@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Indicode Glenn Camisa  Azul  Sky Way   X al 71.90 % de descuento'
+title: 'Indicode Glenn Camisa  Azul  Sky Way   XL para Hombre'
 date: 2020-01-02 16:19:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/410YHg6xbQL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '71.90'
 average: '11.43'
 ---
 
-Está [Indicode Glenn Camisa  Azul  Sky Way   XL para Hombre](https://www.amazon.es/dp/B01LZ6W1XU/?tag=tolees-21) con 71.90 de descuento por 11.43 EUR (original: 40.67 EUR) en el siguiente enlace!
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Indicode Glenn Camisa  Azul  Sky Way   X](https://images-eu.ssl-images-amazon.com/images/I/410YHg6xbQL._SL400_.jpg)](https://www.amazon.es/dp/B01LZ6W1XU/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Ver la oferta!!](https://www.amazon.es/dp/B01LZ6W1XU/?tag=tolees-21)
+[🛒 Ver la oferta!!]({{< param buyurl >}})

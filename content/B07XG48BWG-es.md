@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'edc by Esprit 109cc1k023 Camisa Manga La con un 50.03 % de descuento'
+title: 'edc by Esprit 109cc1k023 Camisa Manga Larga  Negro  Black 001   Small para Mujer'
 date: 2020-01-01 21:26:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51PzVT%2BmsPL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.03'
 average: '9.99'
 ---
 
-En este momento está [edc by Esprit 109cc1k023 Camisa Manga Larga  Negro  Black 001   Small para Mujer](https://www.amazon.es/dp/B07XG48BWG/?tag=tolees-21) a 9.99 EUR (original: 19.99 EUR) (50.03 %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![edc by Esprit 109cc1k023 Camisa Manga La](https://images-eu.ssl-images-amazon.com/images/I/51PzVT%2BmsPL._SL400_.jpg)](https://www.amazon.es/dp/B07XG48BWG/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Aquí!!!](https://www.amazon.es/dp/B07XG48BWG/?tag=tolees-21)
+[🛒 Aquí!!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour UA SC 3ZER0 III  Zapatos de al 61.63 % de descuento'
+title: 'Under Armour UA SC 3ZER0 III  Zapatos de Baloncesto para Hombre  Blanco  White/Mod Gray/Mod Gray  100  100   48 EU'
 date: 2020-01-06 17:34:32
 image: 'https://images-eu.ssl-images-amazon.com/images/I/416HezLnHGL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '61.63'
 average: '33.144999999999996'
 ---
 
-Ahora mismo tienes [Under Armour UA SC 3ZER0 III  Zapatos de Baloncesto para Hombre  Blanco  White/Mod Gray/Mod Gray  100  100   48 EU](https://www.amazon.es/dp/B07K2VCXPB/?tag=tolees-21) a 38.37 EUR (original: 100 EUR) (61.63 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Under Armour UA SC 3ZER0 III  Zapatos de](https://images-eu.ssl-images-amazon.com/images/I/416HezLnHGL._SL400_.jpg)](https://www.amazon.es/dp/B07K2VCXPB/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Visítala!!!](https://www.amazon.es/dp/B07K2VCXPB/?tag=tolees-21)
+[🛒 Visítala!!!]({{< param buyurl >}})

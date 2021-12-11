@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BOSS Ivelna  vestido Mujer  Azul  Medium al 57.90 % de descuento'
+title: 'BOSS Ivelna  vestido Mujer  Azul  Medium Blue 422   Large'
 date: 2020-01-08 17:06:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/414zeh%2BL7BL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '57.90'
 average: '96.41'
 ---
 
-Está [BOSS Ivelna  vestido Mujer  Azul  Medium Blue 422   Large](https://www.amazon.es/dp/B07K39VNJ6/?tag=tolees-21) con 57.90 de descuento por 96.41 EUR (original: 229 EUR) en el siguiente enlace!
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![BOSS Ivelna  vestido Mujer  Azul  Medium](https://images-eu.ssl-images-amazon.com/images/I/414zeh%2BL7BL._SL400_.jpg)](https://www.amazon.es/dp/B07K39VNJ6/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Ver la oferta!!](https://www.amazon.es/dp/B07K39VNJ6/?tag=tolees-21)
+[🛒 Ver la oferta!!]({{< param buyurl >}})

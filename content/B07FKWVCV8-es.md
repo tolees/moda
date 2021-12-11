@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Trangoworld Helens Complet Chaqueta  Muj con un 26.73 % de descuento'
+title: 'Trangoworld Helens Complet Chaqueta  Mujer  Sombra Oscura  XL'
 date: 2020-01-08 15:27:31
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31DRSqb3fCL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '26.73'
 average: '127.49'
 ---
 
-En este momento está [Trangoworld Helens Complet Chaqueta  Mujer  Sombra Oscura  XL](https://www.amazon.es/dp/B07FKWVCV8/?tag=tolees-21) a 127.49 EUR (original: 173.99 EUR) (26.73 %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Trangoworld Helens Complet Chaqueta  Muj](https://images-eu.ssl-images-amazon.com/images/I/31DRSqb3fCL._SL400_.jpg)](https://www.amazon.es/dp/B07FKWVCV8/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Aquí!!!](https://www.amazon.es/dp/B07FKWVCV8/?tag=tolees-21)
+[🛒 Aquí!!!]({{< param buyurl >}})

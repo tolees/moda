@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pepe Jeans Stanley Vaqueros Straight  Az con un 33.34 % de descuento'
+title: 'Pepe Jeans Stanley Vaqueros Straight  Azul  Medium Destroy Wiser Wash Denim Wy2   38W / 32L para Hombre'
 date: 2020-01-01 16:05:14
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Q1An6Oy8L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '33.34'
 average: '65.99'
 ---
 
-En este momento está [Pepe Jeans Stanley Vaqueros Straight  Azul  Medium Destroy Wiser Wash Denim Wy2   38W / 32L para Hombre](https://www.amazon.es/dp/B07NC7MN3H/?tag=tolees-21) a 65.99 EUR (original: 99 EUR) (33.34 %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Pepe Jeans Stanley Vaqueros Straight  Az](https://images-eu.ssl-images-amazon.com/images/I/41Q1An6Oy8L._SL400_.jpg)](https://www.amazon.es/dp/B07NC7MN3H/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Aquí!!!](https://www.amazon.es/dp/B07NC7MN3H/?tag=tolees-21)
+[🛒 Aquí!!!]({{< param buyurl >}})

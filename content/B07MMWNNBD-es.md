@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Wrangler 80\u00b4s Retro Sweat Sudadera  al 49.99 % de descuento'
+title: 'Wrangler 80\u00b4s Retro Sweat Sudadera  Blanco  White 989   Large para Mujer'
 date: 2020-01-07 14:07:06
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31o9nePv4lL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '49.99'
 average: '32.48'
 ---
 
-Ahora mismo tienes [Wrangler 80\u00b4s Retro Sweat Sudadera  Blanco  White 989   Large para Mujer](https://www.amazon.es/dp/B07MMWNNBD/?tag=tolees-21) a 32.48 EUR (original: 64.95 EUR) (49.99 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Wrangler 80\u00b4s Retro Sweat Sudadera ](https://images-eu.ssl-images-amazon.com/images/I/31o9nePv4lL._SL400_.jpg)](https://www.amazon.es/dp/B07MMWNNBD/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Visítala!!!](https://www.amazon.es/dp/B07MMWNNBD/?tag=tolees-21)
+[🛒 Visítala!!!]({{< param buyurl >}})

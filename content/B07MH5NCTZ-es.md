@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 17.14 % en Nike Court Borough Low VF  GS   Zapatos '
+title: 'Nike Court Borough Low VF  GS   Zapatos de Baloncesto para Niñas  Multicolor  Black/Pale Ivory/Pink Tint 001   38 EU'
 date: 2020-01-04 16:43:46
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41WC%2BqWEHlL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '17.14'
 average: '37.28'
 ---
 
-Tienes [Nike Court Borough Low VF  GS   Zapatos de Baloncesto para Niñas  Multicolor  Black/Pale Ivory/Pink Tint 001   38 EU](https://www.amazon.es/dp/B07MH5NCTZ/?tag=tolees-21) con un 17.14 % de descuento con precio de oferta de 37.28 EUR (original: 44.99 EUR) en el siguiente enlace!
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Nike Court Borough Low VF  GS   Zapatos ](https://images-eu.ssl-images-amazon.com/images/I/41WC%2BqWEHlL._SL400_.jpg)](https://www.amazon.es/dp/B07MH5NCTZ/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07MH5NCTZ/?tag=tolees-21)
+[🛒 Accede a la oferta!!]({{< param buyurl >}})

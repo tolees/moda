@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'find. Vestido Camisero con Estampado de  con un 39.73 % de descuento'
+title: 'find. Vestido Camisero con Estampado de Rayas y Volantes para Mujer   Azul  Blue Stripe   38  Talla del Fabricante: Small '
 date: 2020-01-06 13:13:36
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41cgqQFeHtL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '39.73'
 average: '13.5'
 ---
 
-En este momento está [find. Vestido Camisero con Estampado de Rayas y Volantes para Mujer   Azul  Blue Stripe   38  Talla del Fabricante: Small ](https://www.amazon.es/dp/B06XCRK3FY/?tag=tolees-21) a 13.5 EUR (original: 22.4 EUR) (39.73 %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![find. Vestido Camisero con Estampado de ](https://images-eu.ssl-images-amazon.com/images/I/41cgqQFeHtL._SL400_.jpg)](https://www.amazon.es/dp/B06XCRK3FY/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Aquí!!!](https://www.amazon.es/dp/B06XCRK3FY/?tag=tolees-21)
+[🛒 Aquí!!!]({{< param buyurl >}})

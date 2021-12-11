@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s Graphic Set-in Neck  Camiseta par con un 40.04 % de descuento'
+title: 'Levi s Graphic Set-in Neck  Camiseta para Hombre  Blanco  501 T2 White 0548   M'
 date: 2020-01-07 13:36:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41H%2BG01YC-L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '40.04'
 average: '15.854999999999999'
 ---
 
-En este momento está [Levi s Graphic Set-in Neck  Camiseta para Hombre  Blanco  501 T2 White 0548   M](https://www.amazon.es/dp/B07KF4TP3Z/?tag=tolees-21) a 14.99 EUR (original: 25 EUR) (40.04 %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Levi s Graphic Set-in Neck  Camiseta par](https://images-eu.ssl-images-amazon.com/images/I/41H%2BG01YC-L._SL400_.jpg)](https://www.amazon.es/dp/B07KF4TP3Z/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Aquí!!!](https://www.amazon.es/dp/B07KF4TP3Z/?tag=tolees-21)
+[🛒 Aquí!!!]({{< param buyurl >}})

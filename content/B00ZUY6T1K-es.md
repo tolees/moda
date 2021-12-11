@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'REEF Fanning  Sandalias Flip-Flop para H al 16.69 % de descuento'
+title: 'REEF Fanning  Sandalias Flip-Flop para Hombre  Negro  Black / Silver   42 EU  8 UK '
 date: 2020-01-08 18:36:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31OHKcm5WGL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '16.69'
 average: '27.575000000000003'
 ---
 
-Está [REEF Fanning  Sandalias Flip-Flop para Hombre  Negro  Black / Silver   42 EU  8 UK ](https://www.amazon.es/dp/B00ZUY6T1K/?tag=tolees-21) con 16.69 de descuento por 24.95 EUR (original: 29.95 EUR) en el siguiente enlace!
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![REEF Fanning  Sandalias Flip-Flop para H](https://images-eu.ssl-images-amazon.com/images/I/31OHKcm5WGL._SL400_.jpg)](https://www.amazon.es/dp/B00ZUY6T1K/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Ver la oferta!!](https://www.amazon.es/dp/B00ZUY6T1K/?tag=tolees-21)
+[🛒 Ver la oferta!!]({{< param buyurl >}})

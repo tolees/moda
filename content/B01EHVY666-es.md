@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Antony Morato Camicia con Contrasto Coll al 45.44 % de descuento'
+title: 'Antony Morato Camicia con Contrasto Collo E Interno Finta Camisa  Azul Vivo  46 para Hombre'
 date: 2020-01-08 17:41:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41TM0kYynYL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '45.44'
 average: '24'
 ---
 
-Está [Antony Morato Camicia con Contrasto Collo E Interno Finta Camisa  Azul Vivo  46 para Hombre](https://www.amazon.es/dp/B01EHVY666/?tag=tolees-21) con 45.44 de descuento por 24 EUR (original: 43.99 EUR) en el siguiente enlace!
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Antony Morato Camicia con Contrasto Coll](https://images-eu.ssl-images-amazon.com/images/I/41TM0kYynYL._SL400_.jpg)](https://www.amazon.es/dp/B01EHVY666/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Ver la oferta!!](https://www.amazon.es/dp/B01EHVY666/?tag=tolees-21)
+[🛒 Ver la oferta!!]({{< param buyurl >}})

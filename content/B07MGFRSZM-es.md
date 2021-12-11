@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Napapijri BOVES C Sudadera  Azul  BLU Ma al 54.96 % de descuento'
+title: 'Napapijri BOVES C Sudadera  Azul  BLU Marine 176   XL para Hombre'
 date: 2020-01-10 07:22:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41y5v4cSwRL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '54.96'
 average: '40.09'
 ---
 
-Ahora mismo tienes [Napapijri BOVES C Sudadera  Azul  BLU Marine 176   XL para Hombre](https://www.amazon.es/dp/B07MGFRSZM/?tag=tolees-21) a 40.09 EUR (original: 89 EUR) (54.96 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Napapijri BOVES C Sudadera  Azul  BLU Ma](https://images-eu.ssl-images-amazon.com/images/I/41y5v4cSwRL._SL400_.jpg)](https://www.amazon.es/dp/B07MGFRSZM/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Visítala!!!](https://www.amazon.es/dp/B07MGFRSZM/?tag=tolees-21)
+[🛒 Visítala!!!]({{< param buyurl >}})

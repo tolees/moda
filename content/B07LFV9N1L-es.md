@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Geox U Kristof A  Zapatillas para Hombre al 65.70 % de descuento'
+title: 'Geox U Kristof A  Zapatillas para Hombre  Negro  Black C9999   40 EU'
 date: 2020-01-07 17:57:46
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31sAzicCcLL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '65.70'
 average: '39.44'
 ---
 
-Está [Geox U Kristof A  Zapatillas para Hombre  Negro  Black C9999   40 EU](https://www.amazon.es/dp/B07LFV9N1L/?tag=tolees-21) con 65.70 de descuento por 39.44 EUR (original: 115 EUR) en el siguiente enlace!
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Geox U Kristof A  Zapatillas para Hombre](https://images-eu.ssl-images-amazon.com/images/I/31sAzicCcLL._SL400_.jpg)](https://www.amazon.es/dp/B07LFV9N1L/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Ver la oferta!!](https://www.amazon.es/dp/B07LFV9N1L/?tag=tolees-21)
+[🛒 Ver la oferta!!]({{< param buyurl >}})

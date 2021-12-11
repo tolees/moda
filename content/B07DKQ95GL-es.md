@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 73.31 % en Dickies Farnham Chaqueta  Marrón  Medium'
+title: 'Dickies Farnham Chaqueta  Marrón  Medium  Talla del Fabricante:  para Hombre'
 date: 2020-01-09 15:55:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/416Nr9LZnsL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '73.31'
 average: '39.77'
 ---
 
-Tienes [Dickies Farnham Chaqueta  Marrón  Medium  Talla del Fabricante:  para Hombre](https://www.amazon.es/dp/B07DKQ95GL/?tag=tolees-21) con un 73.31 % de descuento con precio de oferta de 39.77 EUR (original: 149 EUR) en el siguiente enlace!
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Dickies Farnham Chaqueta  Marrón  Medium](https://images-eu.ssl-images-amazon.com/images/I/416Nr9LZnsL._SL400_.jpg)](https://www.amazon.es/dp/B07DKQ95GL/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07DKQ95GL/?tag=tolees-21)
+[🛒 Accede a la oferta!!]({{< param buyurl >}})

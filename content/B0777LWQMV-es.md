@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JACK & JONES Jjifred Jjoriginal CR 033 S al 59.99 % de descuento'
+title: 'JACK & JONES Jjifred Jjoriginal CR 033 STS Vaqueros Relaxed  Azul  Blue Denim Blue Denim   W31/L30  Talla del Fabricante: 31  para Hombre'
 date: 2020-01-01 15:01:32
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41GWxe8hgAL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '59.99'
 average: '24'
 ---
 
-Ahora mismo tienes [JACK & JONES Jjifred Jjoriginal CR 033 STS Vaqueros Relaxed  Azul  Blue Denim Blue Denim   W31/L30  Talla del Fabricante: 31  para Hombre](https://www.amazon.es/dp/B0777LWQMV/?tag=tolees-21) a 24 EUR (original: 59.99 EUR) (59.99 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![JACK & JONES Jjifred Jjoriginal CR 033 S](https://images-eu.ssl-images-amazon.com/images/I/41GWxe8hgAL._SL400_.jpg)](https://www.amazon.es/dp/B0777LWQMV/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Visítala!!!](https://www.amazon.es/dp/B0777LWQMV/?tag=tolees-21)
+[🛒 Visítala!!!]({{< param buyurl >}})

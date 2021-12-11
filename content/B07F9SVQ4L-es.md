@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Esprit Kids RM1039307 Camiseta  Blanco   al 55.66 % de rebaja'
+title: 'Esprit Kids RM1039307 Camiseta  Blanco  White 010    Talla del Fabricante: 116+  para Niñas'
 date: 2020-01-07 12:00:18
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31XXseVsr4L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '55.66'
 average: '7.09'
 ---
 
-Tienes [Esprit Kids RM1039307 Camiseta  Blanco  White 010    Talla del Fabricante: 116+  para Niñas](https://www.amazon.es/dp/B07F9SVQ4L/?tag=tolees-21) con precio final de  7.09 EUR (original: 15.99 EUR) (55.66 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![Esprit Kids RM1039307 Camiseta  Blanco  ](https://images-eu.ssl-images-amazon.com/images/I/31XXseVsr4L._SL400_.jpg)](https://www.amazon.es/dp/B07F9SVQ4L/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B07F9SVQ4L/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})

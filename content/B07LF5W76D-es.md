@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s Slim 2pk Crewneck 1 Camiseta  Mul al 67.40 % de descuento'
+title: 'Levi s Slim 2pk Crewneck 1 Camiseta  Multicolor  2 Pack Pine Grove/Warm Cabernet 0004   X-Large para Hombre'
 date: 2020-01-04 16:51:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31V3jrwwylL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '67.40'
 average: '12.215'
 ---
 
-Está [Levi s Slim 2pk Crewneck 1 Camiseta  Multicolor  2 Pack Pine Grove/Warm Cabernet 0004   X-Large para Hombre](https://www.amazon.es/dp/B07LF5W76D/?tag=tolees-21) con 67.40 de descuento por 11.41 EUR (original: 35 EUR) en el siguiente enlace!
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Levi s Slim 2pk Crewneck 1 Camiseta  Mul](https://images-eu.ssl-images-amazon.com/images/I/31V3jrwwylL._SL400_.jpg)](https://www.amazon.es/dp/B07LF5W76D/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Ver la oferta!!](https://www.amazon.es/dp/B07LF5W76D/?tag=tolees-21)
+[🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'find. Parka Ligera Hombre  Beige  Stone  con un 61.91 % de descuento'
+title: 'find. Parka Ligera Hombre  Beige  Stone   Large'
 date: 2020-01-06 17:05:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41s-gnQ4EOL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '61.91'
 average: '19.5'
 ---
 
-En este momento está [find. Parka Ligera Hombre  Beige  Stone   Large](https://www.amazon.es/dp/B07B9L3XPJ/?tag=tolees-21) a 19.5 EUR (original: 51.19 EUR) (61.91 %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![find. Parka Ligera Hombre  Beige  Stone ](https://images-eu.ssl-images-amazon.com/images/I/41s-gnQ4EOL._SL400_.jpg)](https://www.amazon.es/dp/B07B9L3XPJ/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Aquí!!!](https://www.amazon.es/dp/B07B9L3XPJ/?tag=tolees-21)
+[🛒 Aquí!!!]({{< param buyurl >}})

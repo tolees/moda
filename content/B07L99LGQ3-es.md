@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Spiuk Altube MTB Zapatilla  Unisex Adult con un 46.73 % de descuento'
+title: 'Spiuk Altube MTB Zapatilla  Unisex Adulto  Amarillo Flúor Mate  48'
 date: 2020-01-01 20:50:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41lulpuMmGL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '46.73'
 average: '59.88'
 ---
 
-En este momento está [Spiuk Altube MTB Zapatilla  Unisex Adulto  Amarillo Flúor Mate  48](https://www.amazon.es/dp/B07L99LGQ3/?tag=tolees-21) a 59.88 EUR (original: 112.41 EUR) (46.73 %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Spiuk Altube MTB Zapatilla  Unisex Adult](https://images-eu.ssl-images-amazon.com/images/I/41lulpuMmGL._SL400_.jpg)](https://www.amazon.es/dp/B07L99LGQ3/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Aquí!!!](https://www.amazon.es/dp/B07L99LGQ3/?tag=tolees-21)
+[🛒 Aquí!!!]({{< param buyurl >}})

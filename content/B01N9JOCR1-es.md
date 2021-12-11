@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'find. Falda Plisada de Encaje para Mujer al 40.00 % de descuento'
+title: 'find. Falda Plisada de Encaje para Mujer   Negro  Black   46  Talla del Fabricante: XX-Large '
 date: 2020-01-07 12:00:08
 image: 'https://images-eu.ssl-images-amazon.com/images/I/410%2BPDwU6fL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '40.00'
 average: '10.5'
 ---
 
-Está [find. Falda Plisada de Encaje para Mujer   Negro  Black   46  Talla del Fabricante: XX-Large ](https://www.amazon.es/dp/B01N9JOCR1/?tag=tolees-21) con 40.00 de descuento por 10.5 EUR (original: 17.5 EUR) en el siguiente enlace!
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![find. Falda Plisada de Encaje para Mujer](https://images-eu.ssl-images-amazon.com/images/I/410%2BPDwU6fL._SL400_.jpg)](https://www.amazon.es/dp/B01N9JOCR1/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Ver la oferta!!](https://www.amazon.es/dp/B01N9JOCR1/?tag=tolees-21)
+[🛒 Ver la oferta!!]({{< param buyurl >}})

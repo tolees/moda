@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Superdry O L Vintage Emb S/s Vee tee Cam al 23.64 % de descuento'
+title: 'Superdry O L Vintage Emb S/s Vee tee Camiseta de Tirantes  Blanco  Optic White 26C   XX-Large  Talla del Fabricante: 2XL  para Hombre'
 date: 2020-01-09 06:28:08
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31ek8tJdYBL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '23.64'
 average: '16.99'
 ---
 
-Ahora mismo tienes [Superdry O L Vintage Emb S/s Vee tee Camiseta de Tirantes  Blanco  Optic White 26C   XX-Large  Talla del Fabricante: 2XL  para Hombre](https://www.amazon.es/dp/B07FL7YLQT/?tag=tolees-21) a 16.99 EUR (original: 22.25 EUR) (23.64 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Superdry O L Vintage Emb S/s Vee tee Cam](https://images-eu.ssl-images-amazon.com/images/I/31ek8tJdYBL._SL400_.jpg)](https://www.amazon.es/dp/B07FL7YLQT/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Visítala!!!](https://www.amazon.es/dp/B07FL7YLQT/?tag=tolees-21)
+[🛒 Visítala!!!]({{< param buyurl >}})

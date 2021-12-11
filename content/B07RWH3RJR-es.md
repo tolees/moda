@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Esprit 079ee2k016 Camisa Manga Larga  Az con un 51.99 % de descuento'
+title: 'Esprit 079ee2k016 Camisa Manga Larga  Azul  Navy 400   Medium para Hombre'
 date: 2020-01-07 09:38:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41vKCBjT63L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '51.99'
 average: '6.99'
 ---
 
-En este momento está [Esprit 079ee2k016 Camisa Manga Larga  Azul  Navy 400   Medium para Hombre](https://www.amazon.es/dp/B07RWH3RJR/?tag=tolees-21) a 6.99 EUR (original: 14.56 EUR) (51.99 %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Esprit 079ee2k016 Camisa Manga Larga  Az](https://images-eu.ssl-images-amazon.com/images/I/41vKCBjT63L._SL400_.jpg)](https://www.amazon.es/dp/B07RWH3RJR/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Aquí!!!](https://www.amazon.es/dp/B07RWH3RJR/?tag=tolees-21)
+[🛒 Aquí!!!]({{< param buyurl >}})

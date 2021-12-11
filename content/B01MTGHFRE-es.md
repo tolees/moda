@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Timberland Adventure 2.0 Cupsole  Zapati al 53.61 % de descuento'
+title: 'Timberland Adventure 2.0 Cupsole  Zapatillas Altas para Hombre  Negro  Black Full Grain   39 EU'
 date: 2020-01-08 10:52:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Q%2BS8%2BTCyL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '53.61'
 average: '78.97'
 ---
 
-Está [Timberland Adventure 2.0 Cupsole  Zapatillas Altas para Hombre  Negro  Black Full Grain   39 EU](https://www.amazon.es/dp/B01MTGHFRE/?tag=tolees-21) con 53.61 de descuento por 64.95 EUR (original: 140 EUR) en el siguiente enlace!
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Timberland Adventure 2.0 Cupsole  Zapati](https://images-eu.ssl-images-amazon.com/images/I/41Q%2BS8%2BTCyL._SL400_.jpg)](https://www.amazon.es/dp/B01MTGHFRE/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Ver la oferta!!](https://www.amazon.es/dp/B01MTGHFRE/?tag=tolees-21)
+[🛒 Ver la oferta!!]({{< param buyurl >}})

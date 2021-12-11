@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Geographical Norway Parka Hombre Boomera al 34.34 % de descuento'
+title: 'Geographical Norway Parka Hombre Boomerang A Gris Oscuro S'
 date: 2020-01-02 08:34:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41BCScGwpJL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '34.34'
 average: '65.0'
 ---
 
-Está [Geographical Norway Parka Hombre Boomerang A Gris Oscuro S](https://www.amazon.es/dp/B081CPGTGX/?tag=tolees-21) con 34.34 de descuento por 65 EUR (original: 99 EUR) en el siguiente enlace!
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Geographical Norway Parka Hombre Boomera](https://images-eu.ssl-images-amazon.com/images/I/41BCScGwpJL._SL400_.jpg)](https://www.amazon.es/dp/B081CPGTGX/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Ver la oferta!!](https://www.amazon.es/dp/B081CPGTGX/?tag=tolees-21)
+[🛒 Ver la oferta!!]({{< param buyurl >}})

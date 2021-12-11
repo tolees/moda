@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-STAR RAW Rovic Wrap Cargo Falda  Gris  con un 78.73 % de descuento'
+title: 'G-STAR RAW Rovic Wrap Cargo Falda  Gris  Asfalt B436-995   XXS para Mujer'
 date: 2020-01-05 19:11:49
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31Cw1lO9mLL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '78.73'
 average: '19.13'
 ---
 
-En este momento está [G-STAR RAW Rovic Wrap Cargo Falda  Gris  Asfalt B436-995   XXS para Mujer](https://www.amazon.es/dp/B07NDL6Z8G/?tag=tolees-21) a 19.13 EUR (original: 89.95 EUR) (78.73 %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![G-STAR RAW Rovic Wrap Cargo Falda  Gris ](https://images-eu.ssl-images-amazon.com/images/I/31Cw1lO9mLL._SL400_.jpg)](https://www.amazon.es/dp/B07NDL6Z8G/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Aquí!!!](https://www.amazon.es/dp/B07NDL6Z8G/?tag=tolees-21)
+[🛒 Aquí!!!]({{< param buyurl >}})

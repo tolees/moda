@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 34.01 % en AURIQUE Half Zip Sports Chaqueta  Rojo  '
+title: 'AURIQUE Half Zip Sports Chaqueta  Rojo  Port Royale   44  Talla del Fabricante: X-Large '
 date: 2020-01-09 14:12:16
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41fIY6nPxoL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '34.01'
 average: '15'
 ---
 
-Tienes [AURIQUE Half Zip Sports Chaqueta  Rojo  Port Royale   44  Talla del Fabricante: X-Large ](https://www.amazon.es/dp/B07G28N5KR/?tag=tolees-21) con un 34.01 % de descuento con precio de oferta de 15 EUR (original: 22.73 EUR) en el siguiente enlace!
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![AURIQUE Half Zip Sports Chaqueta  Rojo  ](https://images-eu.ssl-images-amazon.com/images/I/41fIY6nPxoL._SL400_.jpg)](https://www.amazon.es/dp/B07G28N5KR/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07G28N5KR/?tag=tolees-21)
+[🛒 Accede a la oferta!!]({{< param buyurl >}})

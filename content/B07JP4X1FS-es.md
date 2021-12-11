@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Amazon Essentials - Pantalón de chándal  al 20.00 % de descuento'
+title: 'Amazon Essentials - Pantalón de chándal pirata de algodón terry para mujer  Gris claro  US M  EU M - L '
 date: 2020-01-05 12:24:58
 image: 'https://images-eu.ssl-images-amazon.com/images/I/311MYoPafyL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '20.00'
 average: '8.8'
 ---
 
-Está [Amazon Essentials - Pantalón de chándal pirata de algodón terry para mujer  Gris claro  US M  EU M - L ](https://www.amazon.es/dp/B07JP4X1FS/?tag=tolees-21) con 20.00 de descuento por 8.8 EUR (original: 11 EUR) en el siguiente enlace!
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Amazon Essentials - Pantalón de chándal ](https://images-eu.ssl-images-amazon.com/images/I/311MYoPafyL._SL400_.jpg)](https://www.amazon.es/dp/B07JP4X1FS/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Ver la oferta!!](https://www.amazon.es/dp/B07JP4X1FS/?tag=tolees-21)
+[🛒 Ver la oferta!!]({{< param buyurl >}})

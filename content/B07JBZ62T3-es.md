@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia Powder Lite Jacket Chaqueta  Ho con un 41.00 % de descuento'
+title: 'Columbia Powder Lite Jacket Chaqueta  Hombre  Amarillo  Burnished Amber/Shark   XL'
 date: 2019-12-31 15:51:15
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41WGY02KjSL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '41.00'
 average: '58.99'
 ---
 
-En este momento está [Columbia Powder Lite Jacket Chaqueta  Hombre  Amarillo  Burnished Amber/Shark   XL](https://www.amazon.es/dp/B07JBZ62T3/?tag=tolees-21) a 58.99 EUR (original: 99.99 EUR) (41.00 %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Columbia Powder Lite Jacket Chaqueta  Ho](https://images-eu.ssl-images-amazon.com/images/I/41WGY02KjSL._SL400_.jpg)](https://www.amazon.es/dp/B07JBZ62T3/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Aquí!!!](https://www.amazon.es/dp/B07JBZ62T3/?tag=tolees-21)
+[🛒 Aquí!!!]({{< param buyurl >}})

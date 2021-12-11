@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Calvin Klein Jeans Sonnenbrille Ckj510S  al 84.81 % de rebaja'
+title: 'Calvin Klein Jeans Sonnenbrille Ckj510S 0 Gafas de sol  Blanco  Weiß   52.0 para Mujer'
 date: 2020-01-03 13:06:24
 image: 'https://images-eu.ssl-images-amazon.com/images/I/21iOeLmyCLL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '84.81'
 average: '30.130000000000003'
 ---
 
-Tienes [Calvin Klein Jeans Sonnenbrille Ckj510S 0 Gafas de sol  Blanco  Weiß   52.0 para Mujer](https://www.amazon.es/dp/B07MR16RF9/?tag=tolees-21) con precio final de  25.06 EUR (original: 165 EUR) (84.81 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![Calvin Klein Jeans Sonnenbrille Ckj510S ](https://images-eu.ssl-images-amazon.com/images/I/21iOeLmyCLL._SL400_.jpg)](https://www.amazon.es/dp/B07MR16RF9/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B07MR16RF9/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})

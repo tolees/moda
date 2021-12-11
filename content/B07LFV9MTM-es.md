@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Geox U HALLSON A  Botas Chukka para Homb al 60.94 % de rebaja'
+title: 'Geox U HALLSON A  Botas Chukka para Hombre  Amarillo  Curry C2021   43 EU'
 date: 2020-01-01 20:28:18
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31ZqZ4C%2B1kL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '60.94'
 average: '54.65'
 ---
 
-Tienes [Geox U HALLSON A  Botas Chukka para Hombre  Amarillo  Curry C2021   43 EU](https://www.amazon.es/dp/B07LFV9MTM/?tag=tolees-21) con precio final de  54.65 EUR (original: 139.9 EUR) (60.94 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![Geox U HALLSON A  Botas Chukka para Homb](https://images-eu.ssl-images-amazon.com/images/I/31ZqZ4C%2B1kL._SL400_.jpg)](https://www.amazon.es/dp/B07LFV9MTM/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B07LFV9MTM/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})

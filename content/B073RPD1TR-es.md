@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Helly Hansen HH Tech Crew Camiseta Depor al 31.64 % de descuento'
+title: 'Helly Hansen HH Tech Crew Camiseta Deportiva Manga Larga  Mujer  Ebony  S'
 date: 2020-01-07 10:42:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41T%2B6Vs0YFL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '31.64'
 average: '17.09'
 ---
 
-Está [Helly Hansen HH Tech Crew Camiseta Deportiva Manga Larga  Mujer  Ebony  S](https://www.amazon.es/dp/B073RPD1TR/?tag=tolees-21) con 31.64 de descuento por 17.09 EUR (original: 25 EUR) en el siguiente enlace!
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Helly Hansen HH Tech Crew Camiseta Depor](https://images-eu.ssl-images-amazon.com/images/I/41T%2B6Vs0YFL._SL400_.jpg)](https://www.amazon.es/dp/B073RPD1TR/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Ver la oferta!!](https://www.amazon.es/dp/B073RPD1TR/?tag=tolees-21)
+[🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 40.86 % en Pepe Jeans Spike Vaqueros  Azul  11oz St'
+title: 'Pepe Jeans Spike Vaqueros  Azul  11oz Streaky Stretch Med   W38/L34 para Hombre'
 date: 2019-12-31 19:32:51
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41JGFNs%2BmPL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '40.86'
 average: '44.95'
 ---
 
-Tienes [Pepe Jeans Spike Vaqueros  Azul  11oz Streaky Stretch Med   W38/L34 para Hombre](https://www.amazon.es/dp/B013H2KE0S/?tag=tolees-21) con un 40.86 % de descuento con precio de oferta de 44.95 EUR (original: 76 EUR) en el siguiente enlace!
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Pepe Jeans Spike Vaqueros  Azul  11oz St](https://images-eu.ssl-images-amazon.com/images/I/41JGFNs%2BmPL._SL400_.jpg)](https://www.amazon.es/dp/B013H2KE0S/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Accede a la oferta!!](https://www.amazon.es/dp/B013H2KE0S/?tag=tolees-21)
+[🛒 Accede a la oferta!!]({{< param buyurl >}})

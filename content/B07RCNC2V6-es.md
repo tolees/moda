@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia 1420421  Chaqueta Forro Polar H al 57.57 % de descuento'
+title: 'Columbia 1420421  Chaqueta Forro Polar Hombre  Azul  Collegiate Navy   S'
 date: 2020-01-08 23:02:10
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Yy3nHderL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '57.57'
 average: '21.21'
 ---
 
-Está [Columbia 1420421  Chaqueta Forro Polar Hombre  Azul  Collegiate Navy   S](https://www.amazon.es/dp/B07RCNC2V6/?tag=tolees-21) con 57.57 de descuento por 21.21 EUR (original: 49.99 EUR) en el siguiente enlace!
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Columbia 1420421  Chaqueta Forro Polar H](https://images-eu.ssl-images-amazon.com/images/I/41Yy3nHderL._SL400_.jpg)](https://www.amazon.es/dp/B07RCNC2V6/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Ver la oferta!!](https://www.amazon.es/dp/B07RCNC2V6/?tag=tolees-21)
+[🛒 Ver la oferta!!]({{< param buyurl >}})

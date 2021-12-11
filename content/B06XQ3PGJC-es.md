@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'RED WAGON Vaqueros Niños  Azul  Blue   9 con un 59.18 % de descuento'
+title: 'RED WAGON Vaqueros Niños  Azul  Blue   9 años'
 date: 2020-01-03 15:40:50
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51dr-lEIWeL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '59.18'
 average: '11.1'
 ---
 
-En este momento está [RED WAGON Vaqueros Niños  Azul  Blue   9 años](https://www.amazon.es/dp/B06XQ3PGJC/?tag=tolees-21) a 11.1 EUR (original: 27.19 EUR) (59.18 %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![RED WAGON Vaqueros Niños  Azul  Blue   9](https://images-eu.ssl-images-amazon.com/images/I/51dr-lEIWeL._SL400_.jpg)](https://www.amazon.es/dp/B06XQ3PGJC/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Aquí!!!](https://www.amazon.es/dp/B06XQ3PGJC/?tag=tolees-21)
+[🛒 Aquí!!!]({{< param buyurl >}})

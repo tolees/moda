@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 65.60 % en Kempa Pantalón Deporte Core Modern Gris '
+title: 'Kempa Pantalón Deporte Core Modern Gris Jaspeado 2XS'
 date: 2020-01-06 08:51:05
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41aDJHLuHrL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '65.60'
 average: '13.99'
 ---
 
-Tienes [Kempa Pantalón Deporte Core Modern Gris Jaspeado 2XS](https://www.amazon.es/dp/B00V5LSQYU/?tag=tolees-21) con un 65.60 % de descuento con precio de oferta de 13.99 EUR (original: 40.67 EUR) en el siguiente enlace!
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Kempa Pantalón Deporte Core Modern Gris ](https://images-eu.ssl-images-amazon.com/images/I/41aDJHLuHrL._SL400_.jpg)](https://www.amazon.es/dp/B00V5LSQYU/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00V5LSQYU/?tag=tolees-21)
+[🛒 Accede a la oferta!!]({{< param buyurl >}})

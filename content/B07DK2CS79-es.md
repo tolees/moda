@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Geox B Verred a  Sandalias para Bebés  W al 64.93 % de rebaja'
+title: 'Geox B Verred a  Sandalias para Bebés  White C1000  25 EU'
 date: 2020-01-08 17:25:12
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41x-slpLPQL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '64.93'
 average: '19.29'
 ---
 
-Tienes [Geox B Verred a  Sandalias para Bebés  White C1000  25 EU](https://www.amazon.es/dp/B07DK2CS79/?tag=tolees-21) con precio final de  19.29 EUR (original: 55 EUR) (64.93 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![Geox B Verred a  Sandalias para Bebés  W](https://images-eu.ssl-images-amazon.com/images/I/41x-slpLPQL._SL400_.jpg)](https://www.amazon.es/dp/B07DK2CS79/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B07DK2CS79/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})

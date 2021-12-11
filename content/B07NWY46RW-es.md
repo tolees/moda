@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Joma Cairo II Sudadera  Hombre  Royal  S al 26.49 % de descuento'
+title: 'Joma Cairo II Sudadera  Hombre  Royal  S'
 date: 2020-01-04 10:24:38
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31qTg4Hfd%2BL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '26.49'
 average: '12.49'
 ---
 
-Está [Joma Cairo II Sudadera  Hombre  Royal  S](https://www.amazon.es/dp/B07NWY46RW/?tag=tolees-21) con 26.49 de descuento por 12.49 EUR (original: 16.99 EUR) en el siguiente enlace!
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Joma Cairo II Sudadera  Hombre  Royal  S](https://images-eu.ssl-images-amazon.com/images/I/31qTg4Hfd%2BL._SL400_.jpg)](https://www.amazon.es/dp/B07NWY46RW/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Ver la oferta!!](https://www.amazon.es/dp/B07NWY46RW/?tag=tolees-21)
+[🛒 Ver la oferta!!]({{< param buyurl >}})
