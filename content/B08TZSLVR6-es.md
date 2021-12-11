@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CUIDADO DE LA PRENDA: Lavar a máquina o a mano con agua fría, colgar o secar al aire, no usar lejía.
-- OCASIONES: Casual / Hogar / Trabajo / Vacaciones / Playa, esta camisa tipo túnica con dobladillo oscilante cubre muy bien.
 - PAREJA CON: Combina este plus túnica con jeans, Leggings en primavera, otoño o invierno.
-- CARACTERÍSTICAS: Túnica para mujer / Manga corta / Camisa con cuello en V Henley con botones para mujer / Tops sólidos, y los detalles sueltos y de volantes en el medio pueden ocultar la parte superior del muffin perfectamente.
 - MATERIAL: Las blusas de túnica para mujer están hechas de faric suave y cómodo, tiene una cantidad de elasticidad, informal, liviana, transpirable y no se ve a través.
+- OCASIONES: Casual / Hogar / Trabajo / Vacaciones / Playa, esta camisa tipo túnica con dobladillo oscilante cubre muy bien.
+- CARACTERÍSTICAS: Túnica para mujer / Manga corta / Camisa con cuello en V Henley con botones para mujer / Tops sólidos, y los detalles sueltos y de volantes en el medio pueden ocultar la parte superior del muffin perfectamente.
+- CUIDADO DE LA PRENDA: Lavar a máquina o a mano con agua fría, colgar o secar al aire, no usar lejía.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

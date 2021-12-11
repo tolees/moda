@@ -29,7 +29,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tessuto in lino leggero e fresco per un effetto comodo, soffice e traspirante
-- Corte estrecho y cómodo que permite el movimiento
 - Una marca de Amazon
+- Corte estrecho y cómodo que permite el movimiento
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

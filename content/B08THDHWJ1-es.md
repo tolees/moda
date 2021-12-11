@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Desigual Kids – Sudadera de gran tamaño con patines en línea
+- Lavar a máquina en agua fría, muy suave
+- Patines en línea impresos que cuelgan del cuello y estrellas brillantes
 - Tejido acanalado elástico en cuello, dobladillo y puños
 - Suéter de gran tamaño con estrellas brillantes en todas partes y patines en línea impresos que parecen caer del cuello. Colección infantil Desigual HW21.
-- Patines en línea impresos que cuelgan del cuello y estrellas brillantes
-- Lavar a máquina en agua fría, muy suave
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
