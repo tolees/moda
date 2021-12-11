@@ -28,8 +28,8 @@ Ahora mismo tienes [JACK & JONES JACLICHFIELD TRUNKS 3 PACK  Bóxer Hombre  Mult
 
 🔎:
 
-- Estiramiento
 - Paquete Triple
+- Estiramiento
 - Pretina Ancha
 - Conjunto De Calzoncillos Boxer
 
