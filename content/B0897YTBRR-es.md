@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Levi s SS Original Hm tee Camiseta  Oliv al 50.20 % de descuento'
-date: 2021-12-11 11:49:31
+title: 'Levi s SS Original Hm tee Camiseta  Olive Night  M para Hombre'
+date: 2021-12-13 08:00:35
 image: 'https://m.media-amazon.com/images/I/31POwfqKEwS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,17 +19,17 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B0897YTBRR/?tag=tolees-21'
 descuento: '50.20'
-average: '14.885'
+average: '14.5371428571429'
 ---
 
-Ahora mismo tienes [Levi s SS Original Hm tee Camiseta  Olive Night  M para Hombre](https://www.amazon.es/dp/B0897YTBRR/?tag=tolees-21) a 12.45 EUR (original: 25.0 EUR) (50.20 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Levi s SS Original Hm tee Camiseta  Oliv](https://m.media-amazon.com/images/I/31POwfqKEwS._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B0897YTBRR/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
-- Modelo casual
-- Logotipo pequeño de Levis en el pecho
 - Adecuada para el día a día
+- Logotipo pequeño de Levis en el pecho
+- Modelo casual
 
-[🛒 Visítala!!!](https://www.amazon.es/dp/B0897YTBRR/?tag=tolees-21)
+[🛒 Visítala!!!]({{< param buyurl >}})
