@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bóxers con tejido suave para hombres
-- Cintura elástica con el logo en contraste
 - Ofrecen comodidad durante el uso
 - Tienen costuras que hacen contraste
+- Bóxers con tejido suave para hombres
+- Cintura elástica con el logo en contraste
 
 [🛒 Aquí!!!]({{< param buyurl >}})
