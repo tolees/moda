@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Jewelry Collar de cadena para Mujer en Acero Inoxidable   2780078'
-date: 2021-12-13 04:41:32
+date: 2021-12-14 04:56:31
 image: 'https://m.media-amazon.com/images/I/31iTi4s7KqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Collar con dos dijes de aro y cristales
 - Cristales en el círculo grande y bandera esmaltada en el círculo pequeño
 - Longitud: 45.72 cm
-- Cierre: mosquetón
-- Collar con dos dijes de aro y cristales
 - Oro rosado claro
+- Cierre: mosquetón
 
 [🛒 Visítala!!!]({{< param buyurl >}})
