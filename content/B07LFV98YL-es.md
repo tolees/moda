@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Geox D FAVIOLA C Pump Mujer  Negro  Black   36 EU'
-date: 2021-12-14 19:33:23
-image: 'https://m.media-amazon.com/images/I/31kKc1aEmeL._SL500_._SL400_.jpg'
+title: 'GEOX Woman D BIBBIANA A SHOES BLACK 38 5 EU'
+date: 2021-12-14 21:31:33
+image: 'https://m.media-amazon.com/images/I/31BYumKrYYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0766CWBL3-es Geox D FAVIOLA C Pump Mujer Negro Black 36 EU'
-sku: 'B0766CWBL3-es'
+slug: 'B07LFV98YL-es GEOX Woman D BIBBIANA A SHOES BLACK 38 5 EU'
+sku: 'B07LFV98YL-es'
 tags: [ 'Zapatos','Zapatos de tacón','Zapatos para mujer','Zapatos y complementos','geox', ]
-actualPrice: 36.5 EUR
+actualPrice: 52.04 EUR
 currency: EUR
-price: 36.5
+price: 52.04
 comparePrice: 119.9 EUR
-prodname: 'Geox D FAVIOLA C Pump Mujer  Negro  Black   36 EU'
+prodname: 'GEOX Woman D BIBBIANA A SHOES BLACK 38 5 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Geox'
-buyurl: 'https://www.amazon.es/dp/B0766CWBL3/?tag=tolees-21'
-descuento: '69.56'
-average: '49.255'
+buyurl: 'https://www.amazon.es/dp/B07LFV98YL/?tag=tolees-21'
+descuento: '56.60'
+average: '30.892'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Calzado sin cierre
-- Altura del tacón: 9 cm / 3.5 inch
 - Los sistemas patentados Geox ofrecen la transpirabilidad de la suela y el bienestar del pie
+- Altura del tacón: 6.5 cm / 2.6 inch
 - Fácil de llevar para un confort optimo
+- Calzado sin cierre
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s SS Original Hm tee Camiseta  Olive Night  M para Hombre'
-date: 2021-12-13 08:00:35
+date: 2021-12-14 21:40:31
 image: 'https://m.media-amazon.com/images/I/31POwfqKEwS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B0897YTBRR/?tag=tolees-21'
 descuento: '50.20'
-average: '14.5371428571429'
+average: '14.27625'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Modelo casual
-- Logotipo pequeño de Levis en el pecho
 - Adecuada para el día a día
+- Logotipo pequeño de Levis en el pecho
+- Modelo casual
 
 [🛒 Visítala!!!]({{< param buyurl >}})
