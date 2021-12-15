@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Media cremallera
 - Logotipo de la marca en la zona central delantera
 - Bolsillo
+- Media cremallera
 - Cordones ajustables
 - Con capucha
 

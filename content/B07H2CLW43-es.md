@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Burdeos
 - Camisetas equip; m/c
 - Training
-- Burdeos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

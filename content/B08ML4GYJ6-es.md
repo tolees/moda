@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Brand: TIMBERLAND
 - Tipologia: UOMO
-- Colore: SOIL
 - Articolo: POLACCO
+- Colore: SOIL
 - Modello: TBA2KSX
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
