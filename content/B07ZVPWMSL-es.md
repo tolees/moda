@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s New Original Hoodie Sudadera con capucha  Mineral Black  L para Hombre'
-date: 2021-12-11 16:26:28
+date: 2021-12-15 05:10:12
 image: 'https://m.media-amazon.com/images/I/41APFYNuhZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07ZVPWMSL/?tag=tolees-21'
 descuento: '31.13'
-average: '46.5818181818183'
+average: '46.7175000000001'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
