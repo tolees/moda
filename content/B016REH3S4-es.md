@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Parma 16 Sho - Pantalón corto para Niños  Azul  Bold Blue/White   116'
-date: 2021-12-12 16:16:46
+date: 2021-12-15 11:20:14
 image: 'https://m.media-amazon.com/images/I/41KiscX0HcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B016REH3S4/?tag=tolees-21'
 descuento: '33.61'
-average: '14.9785329341317'
+average: '14.9605059523809'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cintura elástica con cordón
 - Piqué 100% poliéster
 - La tecnología Climalite aleja el sudor de la piel
 - Logotipo de Adidas bordado
+- Cintura elástica con cordón
 
 [🛒 Comprar!!!]({{< param buyurl >}})
