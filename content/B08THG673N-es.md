@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Machine Wash in Cold Water
 - Vestido de volantes con manga corta avolantada y estampado arty. Es la versión Mini Me de una prenda de la colección de mujer. Nueva colección Kids OI21 Desigual.
+- Machine Wash in Cold Water
+- Desigual Kids - Vestido de volantes con estampado arty
 - Estampado arty
 - Ribetes ondulados separando los volantes
-- Desigual Kids - Vestido de volantes con estampado arty
 
 [🛒 Aquí!!!]({{< param buyurl >}})

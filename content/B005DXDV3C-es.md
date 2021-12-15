@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox U FEDERICO V Oxford Hombre  Negro  Black   40 EU'
-date: 2021-12-14 20:32:42
+date: 2021-12-15 21:02:04
 image: 'https://m.media-amazon.com/images/I/31Zx6ek85yL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B005DXDV3C/?tag=tolees-21'
 descuento: '64.85'
-average: '52.2433333333333'
+average: '50.2985714285714'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
