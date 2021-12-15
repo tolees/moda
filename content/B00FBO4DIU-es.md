@@ -29,7 +29,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Camiseta básica para hombre
-- Tiene estampado en el pecho la marca Pepe Jeans
 - Fabricada en tejido suave que ofrece comodidad
+- Tiene estampado en el pecho la marca Pepe Jeans
 
 [🛒 Comprar!!!]({{< param buyurl >}})
