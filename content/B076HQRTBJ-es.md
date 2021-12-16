@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Core18 TR Pantalón  Sin género  Negro  S'
-date: 2021-12-14 23:13:52
+date: 2021-12-16 00:04:56
 image: 'https://m.media-amazon.com/images/I/3103mysVnFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076HQRTBJ/?tag=tolees-21'
 descuento: '33.37'
-average: '23.6433333333334'
+average: '23.4972000000001'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
