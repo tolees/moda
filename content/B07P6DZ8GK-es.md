@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fossil Collar con colgante para Mujer JF03097998'
-date: 2021-12-14 17:01:54
+date: 2021-12-16 05:44:41
 image: 'https://m.media-amazon.com/images/I/21L311k3UQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Material: Acero inoxidable
-- Medidas: 40.64cm + 5.08cm
 - Se presenta en caja de regalo Fossil.
+- Medidas: 40.64cm + 5.08cm
 - Color principal: Oro rosado, Plata
 - Cierre: Cierre de mosquetón
 
