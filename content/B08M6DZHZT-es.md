@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geographical Norway - Sudadera DE Hombre GYMCLASS Negro L'
-date: 2021-12-15 11:32:43
+date: 2021-12-16 13:00:33
 image: 'https://m.media-amazon.com/images/I/41IJe7sgtTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Geographical Norway'
 buyurl: 'https://www.amazon.es/dp/B08M6DZHZT/?tag=tolees-21'
 descuento: '25.00'
-average: '37.9733333333334'
+average: '37.4281250000001'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Con capucha
 - Logotipo de la marca en la zona central delantera
 - Bolsillo
-- Media cremallera
 - Cordones ajustables
-- Con capucha
+- Media cremallera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
