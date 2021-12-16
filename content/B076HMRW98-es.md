@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Es adecuada para el futbol
 - Sudadera adecuada para hombres
-- Tiene una capucha ajustable con cordón
 - Cuenta con un bolsillo de tipo canguro
+- Es adecuada para el futbol
+- Tiene una capucha ajustable con cordón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
