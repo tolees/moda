@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Logo T-Shirt Camiseta  Gris  Cloud Htr 501   L para Hombre'
-date: 2021-12-15 11:24:06
+date: 2021-12-17 00:29:42
 image: 'https://m.media-amazon.com/images/I/41zD3A5GqSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Tommy Hilfiger'
 buyurl: 'https://www.amazon.es/dp/B07JYFQZRY/?tag=tolees-21'
 descuento: '37.92'
-average: '27.377'
+average: '27.5485714285714'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
