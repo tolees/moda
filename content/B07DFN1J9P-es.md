@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s SS Original Hm tee Camiseta  Cotton + Patch Black  XS para Hombre'
-date: 2021-12-16 17:54:50
+date: 2021-12-18 00:05:41
 image: 'https://m.media-amazon.com/images/I/31OQ1TYmc0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07DFN1J9P/?tag=tolees-21'
 descuento: '29.80'
-average: '17.064566210046'
+average: '17.0667727272731'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Adecuada para el día a día
 - Logotipo pequeño de Levis en el pecho
 - Modelo casual
-- Adecuada para el día a día
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Costuras en W en los bolsillos traseros
 - Parche de cuero con el logo de la marca
+- Costuras en W en los bolsillos traseros
 - Modelo con presillas para un óptimo confort cuando lleves cinturón
 
 [🛒 Aquí!!!]({{< param buyurl >}})

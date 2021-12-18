@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Core18 Hoody Sudadera  Hombre  Bold Green  XS'
-date: 2021-12-16 18:16:21
+date: 2021-12-18 00:04:16
 image: 'https://m.media-amazon.com/images/I/417QJ9PpVQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07X8HXWXY-es adidas Core18 Hoody Sudadera Hombre Bold Green XS'
 sku: 'B07X8HXWXY-es'
 tags: [ 'Jerséis, cárdigans y sudaderas para hombre','Ropa','Ropa para hombre','Sudaderas con capucha para hombre','Sudaderas para hombre','adidas','sudadera', ]
-actualPrice: 33.0 EUR
+actualPrice: 31.06 EUR
 currency: EUR
-price: 33.0
+price: 31.06
 comparePrice: 39.99 EUR
 prodname: 'adidas Core18 Hoody Sudadera  Hombre  Bold Green  XS'
 country: 'es'
 flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B07X8HXWXY/?tag=tolees-21'
-descuento: '17.48'
-average: '30.1100000000001'
+descuento: '22.33'
+average: '30.1311111111112'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,7 +29,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Kangaroo pocket
-- Regular fit
 - Hood with lanyard
+- Regular fit
 
 [🛒 Aquí!!!]({{< param buyurl >}})
