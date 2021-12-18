@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello redondo
-- Estampado gráfico G-Star RAW en el pecho
 - Mangas largas, puños acanalados
+- Cuello redondo
 - Dobladillo recto
+- Estampado gráfico G-Star RAW en el pecho
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
