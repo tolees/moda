@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Teamgoal 23 Causals Hoody Sudadera  Hombre  Electric Blue Lemonade  S'
-date: 2021-12-18 00:08:05
+date: 2021-12-19 06:13:28
 image: 'https://m.media-amazon.com/images/I/41u73H415CL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PUMA'
 buyurl: 'https://www.amazon.es/dp/B07XBSTWLQ/?tag=tolees-21'
 descuento: '21.30'
-average: '30.0384615384616'
+average: '30.1385714285715'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
