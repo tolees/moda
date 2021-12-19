@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Logo T-Shirt Camiseta  Blanco  Snow White 118   L para Hombre'
-date: 2021-12-18 00:38:18
+date: 2021-12-19 00:48:50
 image: 'https://m.media-amazon.com/images/I/31eyYDvRNtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Tommy Hilfiger'
 buyurl: 'https://www.amazon.es/dp/B07JYFR2RX/?tag=tolees-21'
 descuento: '43.99'
-average: '27.4965853658539'
+average: '27.5020481927713'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s SS Original Hm tee Camiseta  Cotton + Patch Dress Blues  XS para Hombre'
-date: 2021-12-18 00:30:15
+date: 2021-12-19 00:48:59
 image: 'https://m.media-amazon.com/images/I/31x-e1pQGoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07K76XD3B/?tag=tolees-21'
 descuento: '23.48'
-average: '18.6888405797103'
+average: '18.695142857143'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Adecuada para el día a día
 - Logotipo pequeño de Levis en el pecho
 - Modelo casual
-- Adecuada para el día a día
 
 [🛒 Aquí!!!]({{< param buyurl >}})

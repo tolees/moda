@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Core18 Sw Top Sudadera  Hombre  Gris  Gris/Negro   XS'
-date: 2021-12-18 00:50:39
+date: 2021-12-19 01:16:53
 image: 'https://m.media-amazon.com/images/I/516q61AOW2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076HRJVSS/?tag=tolees-21'
 descuento: '27.48'
-average: '27.5780208333332'
+average: '27.592680412371'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

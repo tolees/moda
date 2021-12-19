@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s The Original tee Camiseta  Gris  Cotton + Patch Medium Grey Heather Emb 0015   X-Small para Hombre'
-date: 2021-12-18 00:38:52
+date: 2021-12-19 00:56:46
 image: 'https://m.media-amazon.com/images/I/41MT-ujTvMS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07TNLXT4M/?tag=tolees-21'
 descuento: '16.08'
-average: '17.9094845360826'
+average: '17.9408163265307'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Modelo casual
-- Logotipo pequeño de Levis en el pecho
 - Fabricada en tejido de punto con tacto suave
+- Logotipo pequeño de Levis en el pecho
+- Modelo casual
 
 [🛒 Comprar!!!]({{< param buyurl >}})
