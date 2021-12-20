@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bebés Llorones Hello Kitty - Muñeca interactiva que llora de verdad con chupete y pijama de Hello Kitty'
-date: 2021-12-19 07:38:05
+date: 2021-12-20 08:05:04
 image: 'https://m.media-amazon.com/images/I/41Qje5QofbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Bebés Llorones'
 buyurl: 'https://www.amazon.es/dp/B089MKVZMG/?tag=tolees-21'
 descuento: '40.04'
-average: '22.735'
+average: '23.15'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
