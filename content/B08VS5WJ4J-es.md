@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Sudadera Modelo SQ21 TR Top Y Marca'
-date: 2021-12-18 12:25:51
+date: 2021-12-20 12:56:03
 image: 'https://m.media-amazon.com/images/I/41XTysGJGtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B08VS5WJ4J/?tag=tolees-21'
 descuento: '34.51'
-average: '22.9333333333333'
+average: '22.93'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cremallera hasta el pecho y cuello alzado
-- Tejido transpirable
-- Puños elásticos
-- Punto doble 100% poliéster reciclado
 - Primegreen
+- Punto doble 100% poliéster reciclado
+- Cremallera hasta el pecho y cuello alzado
+- Puños elásticos
+- Tejido transpirable
 
 [🛒 Comprar!!!]({{< param buyurl >}})
