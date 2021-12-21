@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Geox D Nebula C Womens Slip On Trainers
 - Geox
 - garantía de reembolso satisfacción
+- Geox D Nebula C Womens Slip On Trainers
 
 [🛒 Comprar!!!]({{< param buyurl >}})
