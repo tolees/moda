@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger T Camiseta Básica de Manga Corta  Blanco  Bright White   176  Talla del Fabricante: 16  para Niños'
-date: 2021-12-12 16:48:09
+date: 2021-12-21 17:45:51
 image: 'https://m.media-amazon.com/images/I/11RWrpzosRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Tommy Hilfiger'
 buyurl: 'https://www.amazon.es/dp/B07F3L1SK9/?tag=tolees-21'
 descuento: '39.95'
-average: '12.325'
+average: '12.25'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Logo de la marca bordado en el pecho
-- Camiseta básica de Tommy Hilfiger
 - Adecuada para completar cualquier atuendo
+- Camiseta básica de Tommy Hilfiger
+- Logo de la marca bordado en el pecho
 
 [🛒 Comprar!!!]({{< param buyurl >}})
