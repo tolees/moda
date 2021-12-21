@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Cuello redondo con terminación acanalada
+- Polo Club os trae su nueva colección de camisetas para mujer bajo su propio sello de calidad y originalidad.
 - Perfecta para todo tipo de looks
 - Siente el espíritu Polo Club con la camiseta de manga corta Polo Title. Confeccionada en algodón presenta una estampación gráfica a dos tonos a la altura del pecho.
-- Polo Club os trae su nueva colección de camisetas para mujer bajo su propio sello de calidad y originalidad.
 - Diseño custom fit; combina una silueta que se adapta al cuerpo conservando siempre la comodidad como requisito imprescindible. Confeccionado con un tejido 100% algodón de gran calidad.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

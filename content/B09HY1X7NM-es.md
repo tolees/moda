@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Capucha fija
+- Bolsillos tipo canguro
 - Cordón ajustable
 - Diseñado para aguantar bajas temperaturas
-- Bolsillos tipo canguro
 - Apertura central en cremallera
-- Capucha fija
 
 [🛒 Visítala!!!]({{< param buyurl >}})
