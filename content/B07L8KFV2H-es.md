@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vero Moda Vmria FAV Short Faux Leather Jacket Noos Chaqueta  Negro  Black Black   44  Talla del Fabricante: X-Large  para Mujer'
-date: 2021-12-18 08:14:21
+date: 2021-12-22 06:36:55
 image: 'https://m.media-amazon.com/images/I/41qTkrDGRVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,13 +12,13 @@ tags: [ 'Chaquetas para mujer','Ropa','Ropa de abrigo para mujer','Ropa para muj
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99
-comparePrice: 28.79 EUR
+comparePrice: 27.99 EUR
 prodname: 'Vero Moda Vmria FAV Short Faux Leather Jacket Noos Chaqueta  Negro  Black Black   44  Talla del Fabricante: X-Large  para Mujer'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Vero Moda'
 buyurl: 'https://www.amazon.es/dp/B07L8KFV2H/?tag=tolees-21'
-descuento: '30.57'
+descuento: '28.58'
 average: '19.99'
 ---
 
