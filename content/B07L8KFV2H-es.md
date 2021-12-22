@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Imitation Leather in a slightly glossy material mix
 - Cool Leather biker jacket by vero moda
+- Imitation Leather in a slightly glossy material mix
 
 [🛒 Visítala!!!]({{< param buyurl >}})

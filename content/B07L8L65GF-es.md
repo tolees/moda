@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Imitation Leather in a slightly glossy material mix
 - Cool Leather biker jacket by vero moda
+- Imitation Leather in a slightly glossy material mix
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
