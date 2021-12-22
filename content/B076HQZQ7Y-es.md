@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Core18 TR Pantalón  Sin género  Multicolor  M'
-date: 2021-12-21 01:21:01
+date: 2021-12-22 01:42:52
 image: 'https://m.media-amazon.com/images/I/31yrt61Mm8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B076HQZQ7Y-es adidas Core18 TR Pantalón Sin género Multicolor M'
 sku: 'B076HQZQ7Y-es'
 tags: [ 'Ropa','Ropa deportiva para hombre','Ropa para hombre','adidas','pantalón', ]
-actualPrice: 20.5 EUR
+actualPrice: 24.0 EUR
 currency: EUR
-price: 20.5
+price: 24.0
 comparePrice: 29.95 EUR
 prodname: 'adidas Core18 TR Pantalón  Sin género  Multicolor  M'
 country: 'es'
 flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076HQZQ7Y/?tag=tolees-21'
-descuento: '31.55'
-average: '21.2484999999999'
+descuento: '19.87'
+average: '21.3795238095237'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
