@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- A estrenar y genuina. Somos un vendedor autorizado de Calvin Klein Jeans.
 - Ver descripción del producto para obtener más información.
+- A estrenar y genuina. Somos un vendedor autorizado de Calvin Klein Jeans.
 - Calvin Klein Jeans Gris Sudadera Iconic Monogram
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
