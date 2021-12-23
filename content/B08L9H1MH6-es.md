@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Se adapta perfectamente a vaqueros, chinos y bermudas
-- Collage de fotos de colores veraniegos en la parte delantera
 - Tamaño del paquete: 5,6 x 18,7 x 15,0 W
+- Collage de fotos de colores veraniegos en la parte delantera
+- Se adapta perfectamente a vaqueros, chinos y bermudas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

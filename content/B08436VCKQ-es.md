@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Bolsillo trasero con la letra omega bordada
 - Diseño de cinco bolsillos
 - Herrajes de Calvin Klein e insignia de cuero
-- Bolsillo trasero con la letra omega bordada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
