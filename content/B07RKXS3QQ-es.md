@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Calzado salomon
 - Zapatillas de hiking montañismo, alpinismo y trekking mujer
+- Calzado salomon
 - Shoes x reveal gtx (l40971100)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
