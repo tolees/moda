@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Modelo unisex. Medidas: Frente: 14,3cm, Altura: 4,34cm, Diámetro de la lente: 5,6cm, Puente: 1,7cm; Varillas: 14cm en el interior del terminal de la patilla para un mejor agarre
-- Producto original Hawkers. La caja incluye funda, caja y set de pegatinas decorativas.
 - Montura fabricada en TR90 que dota a las gafas de gran ligereza, flexibilidad y resistencia. Muy resistente a altas y bajas temperaturas.
-- Gafas de sol cuadradas all black mate y lentes negras. La combinación de líneas geométricas y curvas del frontal hacen de este diseño una fusión de estilo sportswear y lifestyle. La bisagra ligeramente situada ya entrada en la patilla proporciona una sensación envolvente.
 - Lentes negras, fabricadas en TR18, con reducción de brillos y con gran equilibrio entre claridad y protección. Lente de categoría 3 con protección UV400. Resistencia muy alta.
+- Modelo unisex. Medidas: Frente: 14,3cm, Altura: 4,34cm, Diámetro de la lente: 5,6cm, Puente: 1,7cm; Varillas: 14cm en el interior del terminal de la patilla para un mejor agarre
+- Gafas de sol cuadradas all black mate y lentes negras. La combinación de líneas geométricas y curvas del frontal hacen de este diseño una fusión de estilo sportswear y lifestyle. La bisagra ligeramente situada ya entrada en la patilla proporciona una sensación envolvente.
+- Producto original Hawkers. La caja incluye funda, caja y set de pegatinas decorativas.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

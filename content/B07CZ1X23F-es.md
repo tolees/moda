@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ofrecen comodidad y movimiento durante todo el día
 - Ajustados en la cadera y los muslos
+- Ofrecen comodidad y movimiento durante todo el día
 - Marcados con parche de cuero de Levis en la parte trasera de la cintura
 
 [🛒 Aquí!!!]({{< param buyurl >}})

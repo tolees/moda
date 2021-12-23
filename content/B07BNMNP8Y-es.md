@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- CONJUNTO DE BELLEZA Y MODA: perfecto para los peques con creatividad e imaginación, interesados en el maquillaje y estilismo. Incluye accesorios.
+- RECOMENDACIONES Y ADVERTENCIAS: No es adecuado para menores de 3 años. Para ser utilizado bajo la supervisión directa de un adulto.
 - BENEFICIOS: Un juego recreativo donde los peques dejan correr libre su creatividad e imaginación mientras narran una historia que ellos mismos improvisan.
 - MATERIAL: Todos los accesorios son de imitación. El maquillaje y productos son artificiales. Fabricados en plástico.
-- RECOMENDACIONES Y ADVERTENCIAS: No es adecuado para menores de 3 años. Para ser utilizado bajo la supervisión directa de un adulto.
+- CONJUNTO DE BELLEZA Y MODA: perfecto para los peques con creatividad e imaginación, interesados en el maquillaje y estilismo. Incluye accesorios.
 - CONTENIDOS: El juego incluye bolso de mano, gafas de sol, llaves, cámara, teléfono, pintalabios, espejo, esponjita de maquillaje y tarjetas de negocio.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

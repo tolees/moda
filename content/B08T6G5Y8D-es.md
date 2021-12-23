@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Ofrece un confort óptimo
 - Logotipo de la marca estampado en el pecho
 - Cuenta con un diseño casual
-- Ofrece un confort óptimo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

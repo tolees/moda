@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con escote en pico y componente elástico
 - Camiseta básica de manga larga en algodón de alta calidad procedente de cultivo ecológico
+- Con escote en pico y componente elástico
 
 [🛒 Visítala!!!]({{< param buyurl >}})
