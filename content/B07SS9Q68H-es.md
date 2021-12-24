@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Classic coat
 - Long coat
+- Classic coat
 
 [🛒 Aquí!!!]({{< param buyurl >}})
