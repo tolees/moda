@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Chaqueta para hombre
-- Composición del material: material exterior: 88% poliéster, 12% viscosa; forro: 100% poliéster; material de relleno: 100% poliéster
 - Dobladillo ajustable en la espalda
+- Composición del material: material exterior: 88% poliéster, 12% viscosa; forro: 100% poliéster; material de relleno: 100% poliéster
 - Detalles clásicos de motoristas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
