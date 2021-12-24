@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tejido transpirable
-- Primegreen
-- Punto doble 100% poliéster reciclado
 - Puños elásticos
+- Tejido transpirable
+- Punto doble 100% poliéster reciclado
+- Primegreen
 - Cremallera hasta el pecho y cuello alzado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
