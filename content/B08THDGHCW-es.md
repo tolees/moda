@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Capa exterior de tul
-- Vestido rojo de talle alto con manga larga semitransparente, falda corta avolantada y estampado floral. Nueva colección Kids OI21 Desigual.
 - Machine Wash in Cold Water
-- Estampado floral
 - Desigual Kids - Vestido de talle alto con estampado de flores
+- Estampado floral
+- Vestido rojo de talle alto con manga larga semitransparente, falda corta avolantada y estampado floral. Nueva colección Kids OI21 Desigual.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
