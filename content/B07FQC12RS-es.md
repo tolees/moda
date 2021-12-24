@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Costuras marrones para un look denim auténtico
 - Corte slim fit ni muy ceñido ni muy holgado
+- Costuras marrones para un look denim auténtico
 
 [🛒 Visítala!!!]({{< param buyurl >}})
