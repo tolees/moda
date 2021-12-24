@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Camiseta sin mangas con cuello redondo y estampado frontal central
 - Ajuste normal
 - 56 cm
+- Camiseta sin mangas con cuello redondo y estampado frontal central
 - 100% algodón
 
 [🛒 Comprar!!!]({{< param buyurl >}})
