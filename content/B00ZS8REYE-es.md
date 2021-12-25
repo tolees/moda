@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Cómodas y elegantes
+- Zapatillas ultraconfortables para el día a día
 - Diseño informal
 - Estilo deportivo
-- Zapatillas ultraconfortables para el día a día
 
 [🛒 Aquí!!!]({{< param buyurl >}})

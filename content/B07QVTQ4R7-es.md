@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Logo T-Shirt Camiseta  Negro  Jet Black Base   L para Hombre'
-date: 2021-12-23 20:23:43
+date: 2021-12-25 08:10:57
 image: 'https://m.media-amazon.com/images/I/41y8KE7RGEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Tommy Hilfiger'
 buyurl: 'https://www.amazon.es/dp/B07QVTQ4R7/?tag=tolees-21'
 descuento: '43.99'
-average: '28.5899999999999'
+average: '28.5579999999999'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
