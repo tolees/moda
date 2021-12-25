@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tipo de tacón: plano
-- Material de la suela: goma
-- Forro: sintético
 - Parte superior: sintético
+- Forro: sintético
+- Material de la suela: goma
+- Tipo de tacón: plano
 
 [🛒 Aquí!!!]({{< param buyurl >}})
