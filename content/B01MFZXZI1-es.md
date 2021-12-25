@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Instrucciones de cuidado: Lavar a máquina
 - Tipo de deporte: Deportes acuáticos
 - Tipo de fábrica: Compuesto
+- Instrucciones de cuidado: Lavar a máquina
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
