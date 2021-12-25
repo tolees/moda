@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Modelo casual
-- Tiene estampado el logotipo de Levis
 - Ofrece comodidad todo el día
+- Tiene estampado el logotipo de Levis
+- Modelo casual
 
 [🛒 Aquí!!!]({{< param buyurl >}})
