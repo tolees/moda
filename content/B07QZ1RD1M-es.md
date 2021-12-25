@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CARE OF by PUMA Chaqueta acolchada impermeable para hombre  Negro  Black   S  Label: S'
-date: 2021-12-19 21:33:51
+date: 2021-12-25 17:12:37
 image: 'https://m.media-amazon.com/images/I/4184N1XZh+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

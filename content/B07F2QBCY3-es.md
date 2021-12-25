@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Corte recto
+- Logotipo de Helly Hansen en el pecho
 - Cuello redondo
 - Canalé en el bajo y en las mangas
-- Logotipo de Helly Hansen en el pecho
-- Corte recto
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con detalle de lace en espalda y en hombros
 - Con cuello redondo
+- Con detalle de lace en espalda y en hombros
 - Blusa de manga corta
 
 [🛒 Comprar!!!]({{< param buyurl >}})
