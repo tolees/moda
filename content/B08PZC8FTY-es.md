@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tipo de tejido: 50% algodón, 50% poliéster, 65% algodón, 35% poliéster
 - Se puede lavar a máquina
+- Tipo de tejido: 50% algodón, 50% poliéster, 65% algodón, 35% poliéster
 
 [🛒 Aquí!!!]({{< param buyurl >}})
