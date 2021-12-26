@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s SS Original Hm tee Camiseta  Cotton + Patch White  XXL para Hombre'
-date: 2021-12-24 02:05:43
+date: 2021-12-26 02:34:12
 image: 'https://m.media-amazon.com/images/I/31+3PCS0-lL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Adecuada para el día a día
 - Modelo casual
+- Adecuada para el día a día
 - Logotipo pequeño de Levis en el pecho
 
 [🛒 Visítala!!!]({{< param buyurl >}})
