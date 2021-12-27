@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- The North Face Negro Camiseta gráfica fácil
 - Ver descripción del producto para obtener más información.
+- The North Face Negro Camiseta gráfica fácil
 - A estrenar y genuina. Somos un vendedor autorizado de The North Face.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

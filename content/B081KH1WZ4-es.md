@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Salomon
 - Color: Urban Chic/Black/Lime Punch
 - Xa PRO 3D V8 GTX
+- Salomon
 
 [🛒 Comprar!!!]({{< param buyurl >}})
