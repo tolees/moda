@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Stradas Big Sister con capa inferior irritante
 - Potente unidad de suela para complementar la parte superior
 - Tejido como lazeloops
+- Stradas Big Sister con capa inferior irritante
 
 [🛒 Comprar!!!]({{< param buyurl >}})
