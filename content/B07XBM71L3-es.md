@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Core18 Hoody Sudadera  Hombre  Blanco  XL'
-date: 2021-12-26 14:17:34
+date: 2021-12-27 21:06:19
 image: 'https://m.media-amazon.com/images/I/31+kIZUEFoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B07XBM71L3/?tag=tolees-21'
 descuento: '30.44'
-average: '25.5453846153846'
+average: '25.7057142857143'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Regular fit
 - Hood with lanyard
 - Kangaroo pocket
+- Regular fit
 
 [🛒 Aquí!!!]({{< param buyurl >}})

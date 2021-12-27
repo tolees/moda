@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Construcción de costura lateral que minimiza la torsión
-- Camiseta
 - Consulte la guía de tallas para encontrar la adecuada para usted
+- Camiseta
 - Costuras planas de dos agujas
+- Construcción de costura lateral que minimiza la torsión
 - Cuello redondo de canalé
 
 [🛒 Aquí!!!]({{< param buyurl >}})

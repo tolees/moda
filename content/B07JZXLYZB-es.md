@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jcorocky Jacket Noos Chaqueta  Negro  Black Pattern: PU   Medium para Hombre'
-date: 2021-12-24 02:06:58
+date: 2021-12-27 20:35:07
 image: 'https://m.media-amazon.com/images/I/41Ced+Ag4jL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07JZXLYZB-es Jack & Jones Jcorocky Jacket Noos Chaqueta Negro Black...'
 sku: 'B07JZXLYZB-es'
 tags: [ 'Chaquetas para hombre','Ropa','Ropa de abrigo para hombre','Ropa para hombre','chaqueta','jack & jones', ]
-actualPrice: 42.42 EUR
+actualPrice: 41.99 EUR
 currency: EUR
-price: 42.42
+price: 41.99
 comparePrice: 59.99 EUR
 prodname: 'Jack & Jones Jcorocky Jacket Noos Chaqueta  Negro  Black Pattern: PU   Medium para Hombre'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B07JZXLYZB/?tag=tolees-21'
-descuento: '29.29'
-average: '37.1861660079052'
+descuento: '30.01'
+average: '37.2050787401575'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

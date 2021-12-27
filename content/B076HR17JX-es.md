@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Chaqueta con bolsillos con cremallera
-- Puños con puños elásticos
-- Cuello altamente cerrable
 - Material 100% poliéster
+- Puños con puños elásticos
+- Chaqueta con bolsillos con cremallera
+- Cuello altamente cerrable
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Core18 PES Jkt Chaqueta  Hombre  Rojo  Power Red/White   L'
-date: 2021-12-26 14:13:09
+date: 2021-12-27 20:40:47
 image: 'https://m.media-amazon.com/images/I/41owJI+aqsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076HPL9ZT/?tag=tolees-21'
 descuento: '34.88'
-average: '19.6999999999999'
+average: '19.6285714285713'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Chaqueta con bolsillos con cremallera
-- Cuello altamente cerrable
 - Puños con puños elásticos
 - Material 100% poliéster
+- Cuello altamente cerrable
+- Chaqueta con bolsillos con cremallera
 
 [🛒 Comprar!!!]({{< param buyurl >}})
