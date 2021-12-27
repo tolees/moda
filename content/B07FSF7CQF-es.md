@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Suela: Goma
 - Ajuste: (d) Estándar
+- Suela: Goma
 - Forro: Cuero
 - Superiores: Cuero
 
