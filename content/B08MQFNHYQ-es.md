@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geographical Norway - Chaqueta Hombre Boker AZUL MARINO M'
-date: 2021-12-23 17:27:12
+date: 2021-12-26 23:03:34
 image: 'https://m.media-amazon.com/images/I/41HvBTdCkRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Geographical Norway'
 buyurl: 'https://www.amazon.es/dp/B08MQFNHYQ/?tag=tolees-21'
 descuento: '34.35'
-average: '60.6483333333333'
+average: '60.8768421052631'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
