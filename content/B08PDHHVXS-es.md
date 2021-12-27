@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Modelo: 041CC2F305
 - Ajuste: normal
+- Modelo: 041CC2F305
 
 [🛒 Aquí!!!]({{< param buyurl >}})
