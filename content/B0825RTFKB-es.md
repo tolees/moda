@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño ligero y flexible que ofrece comodidad
 - Material resistente y duradero
+- Diseño ligero y flexible que ofrece comodidad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
