@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tejido transpirable aeroready
-- Tejido técnico 100% poliéster reciclado
 - Pantalón corto con inserciones de malla
 - Cintura elástica con cordón
+- Tejido técnico 100% poliéster reciclado
+- Tejido transpirable aeroready
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

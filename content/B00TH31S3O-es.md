@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lower East Camiseta de manga larga con cuello redondo de 100 % algodón  Hombres  Blanco  paquete de 5   M'
-date: 2021-12-26 21:41:37
+date: 2021-12-27 23:17:39
 image: 'https://m.media-amazon.com/images/I/31ur3RovKrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Corte recto y buena adaptación
 - La camiseta básica perfecta para el deporte y el ocio
+- Corte recto y buena adaptación
 
 [🛒 Aquí!!!]({{< param buyurl >}})
