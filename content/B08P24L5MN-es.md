@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Article number: 414360
 - XA PRO V8 J Legion Blue/NIGHT SKY/AUTUMN BLAZE
+- Article number: 414360
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Marca Amazon - Iris & Lilly Braguita Mujer  Pack de 3  Multicolor  Soft Pink/Print   M  Label: M'
-date: 2021-12-27 13:19:11
+date: 2021-12-28 21:28:36
 image: 'https://m.media-amazon.com/images/I/31Sx8kbJgjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Iris & Lilly'
 buyurl: 'https://www.amazon.es/dp/B01LXXT1QW/?tag=tolees-21'
 descuento: '60.12'
-average: '5.645'
+average: '5.57857142857143'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

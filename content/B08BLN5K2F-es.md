@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material resistente y duradero
 - Diseño ligero y flexible que ofrece comodidad
+- Material resistente y duradero
 
 [🛒 Visítala!!!]({{< param buyurl >}})
