@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Punto de canalé en hilo suave con elástico
 - La modelo lleva la talla XS
+- Punto de canalé en hilo suave con elástico
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
