@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello redondo.
 - Ribetes en contraste.
-- Corte clásico más ancho y silueta recta.
 - Costura lateral adelantada para un ajuste más cómodo y una mayor libertad de movimiento.
-- Tiene un material de algodón altamente funcional
 - Logotipo de adidas en el pecho.
+- Tiene un material de algodón altamente funcional
+- Corte clásico más ancho y silueta recta.
+- Cuello redondo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
