@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Lentes de TR18 con el sello de Eastman , uno de los líderes mundiales en tecnología de copoliéster. Respetuoso con el medio ambiente y proporciona un equilibrio único entre claridad y resistencia
 - Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia
-- Modelo Unisex. Medidas: Frontal 141 mm, Patillas 145 mm, Puente 21 mm, Diámetro de Lente 52 mm
 - Incluye: caja de cartón reciclada y reciclable, pegatinas y funda de microfibra
 - TOX - POLARIZED BLACK ROSE GOLD
+- Lentes de TR18 con el sello de Eastman , uno de los líderes mundiales en tecnología de copoliéster. Respetuoso con el medio ambiente y proporciona un equilibrio único entre claridad y resistencia
+- Modelo Unisex. Medidas: Frontal 141 mm, Patillas 145 mm, Puente 21 mm, Diámetro de Lente 52 mm
 
 [🛒 Visítala!!!]({{< param buyurl >}})
