@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas CORE18 Hoody Sudadera con Capucha  Hombre  Gris  Gris/Negro   S'
-date: 2021-12-21 13:09:36
+date: 2021-12-29 02:46:42
 image: 'https://m.media-amazon.com/images/I/41KNh7YcEbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B076HR2XB6-es adidas CORE18 Hoody Sudadera con Capucha Hombre Gris...'
 sku: 'B076HR2XB6-es'
 tags: [ 'Jerséis, cárdigans y sudaderas para hombre','Ropa','Ropa para hombre','Sudaderas con capucha para hombre','Sudaderas para hombre','adidas','sudadera', ]
-actualPrice: 25.87 EUR
+actualPrice: 26.29 EUR
 currency: EUR
-price: 25.87
+price: 26.29
 comparePrice: 39.95 EUR
 prodname: 'adidas CORE18 Hoody Sudadera con Capucha  Hombre  Gris  Gris/Negro   S'
 country: 'es'
 flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076HR2XB6/?tag=tolees-21'
-descuento: '35.24'
-average: '24.187105263158'
+descuento: '34.19'
+average: '24.2410256410257'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
