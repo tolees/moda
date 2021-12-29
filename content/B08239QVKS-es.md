@@ -29,7 +29,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Bolsillos de parche en el pecho con solapa y cierre de botón automático
-- Bajo ajustable en el lateral
 - Manga larga con cierre de botón en los puños
+- Bajo ajustable en el lateral
 
 [🛒 Comprar!!!]({{< param buyurl >}})

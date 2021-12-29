@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Adidas Core18 Sw Top Sudadera  Hombre  Gris  Gris/Negro   XL'
-date: 2021-12-27 20:58:28
+date: 2021-12-29 20:52:28
 image: 'https://m.media-amazon.com/images/I/516q61AOW2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Presenta ajuste regular
 - Cuenta con un pequeño logotipo de Adidas bordado en el pecho
 - Mangas con ribetes en contraste
+- Presenta ajuste regular
 - Puños y dobladillo de canalé
 
 [🛒 Aquí!!!]({{< param buyurl >}})
