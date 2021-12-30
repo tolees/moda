@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pepe Jeans Eggo PM500465 Camiseta  Blanco  White 800   M para Hombre'
-date: 2021-12-21 01:13:11
+date: 2021-12-30 15:28:08
 image: 'https://m.media-amazon.com/images/I/31TANKsHa-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pepe Jeans'
 buyurl: 'https://www.amazon.es/dp/B00EANTU0O/?tag=tolees-21'
 descuento: '20.00'
-average: '15.5672413793104'
+average: '15.7150000000001'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Manga corta
 - Logo estampado en el pecho
 - Fabricada en tejido suave
+- Manga corta
 - Camiseta básica para hombre
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

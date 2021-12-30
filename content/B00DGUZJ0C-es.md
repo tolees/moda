@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pepe Jeans Eggo PM500465 Camiseta  Negro  Black 999   M para Hombre'
-date: 2021-12-21 01:01:35
+date: 2021-12-30 15:16:04
 image: 'https://m.media-amazon.com/images/I/41xvtiDh7BL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pepe Jeans'
 buyurl: 'https://www.amazon.es/dp/B00DGUZJ0C/?tag=tolees-21'
 descuento: '23.20'
-average: '18.2993750000001'
+average: '18.3523529411766'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Manga corta
 - Camiseta básica para hombre
 - Fabricada en tejido suave
-- Manga corta
 - Logo estampado en el pecho
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

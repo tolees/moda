@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre: cierre de mosquetón
+- Fossil
 - Material: acero inoxidable y circonita
 - Color: tritono, dorado, plateado, rosa dorado
 - Medidas: Largo: 18 cm + 19 cm
-- Fossil
+- Cierre: cierre de mosquetón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Material exterior: sintético
 - Material interior: sintético
 - Cierre: cremallera + cordones
-- Material exterior: sintético
 - Suela: goma
 
 [🛒 Comprar!!!]({{< param buyurl >}})
