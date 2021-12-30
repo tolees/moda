@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Colaboramos con la organización Better Cotton Initiative para favorecer el cultivo de algodón orgánico
+- Capucha con cordón ajustable
 - Corte clásico más ancho y silueta recta
 - Manga raglán
+- Bolsillo canguro
 - Puños y dobladillo de canalé
 - Felpa 70% algodón / 30% poliéster
-- Bolsillo canguro
-- Capucha con cordón ajustable
-- Colaboramos con la organización Better Cotton Initiative para favorecer el cultivo de algodón orgánico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
