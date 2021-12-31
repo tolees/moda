@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cinta en el dobladillo del cuello
-- Corte regular
-- dryCELL: propiedades de absorción de la humedad que te ayudan a estar seco y cómodo
 - Escote redondo
+- dryCELL: propiedades de absorción de la humedad que te ayudan a estar seco y cómodo
+- Corte regular
+- Cinta en el dobladillo del cuello
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
