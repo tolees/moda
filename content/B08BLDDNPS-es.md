@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Cierre: cordones
 - Resistente al agua
+- 1 centímetros, 1 centímetros
 - Material interior: sintético
 - Material exterior: sintético
 - Suela: sintética
-- Cierre: cordones
-- 1 centímetros, 1 centímetros
 
 [🛒 Aquí!!!]({{< param buyurl >}})
