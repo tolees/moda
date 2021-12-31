@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Marca Amazon - find. Gumsole Chelsea Botas  Blau  Pale Blue   38 EU'
-date: 2021-12-28 14:54:47
+date: 2021-12-31 21:05:31
 image: 'https://m.media-amazon.com/images/I/41Jhh0Uh5ZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'find.'
 buyurl: 'https://www.amazon.es/dp/B07YNT941X/?tag=tolees-21'
 descuento: '60.53'
-average: '35.1242857142857'
+average: '33.7775'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Laterales elásticos.
 - Suela de goma cosida.
 - Piel de napa.
+- Laterales elásticos.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

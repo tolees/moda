@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Marca Amazon - find. Gumsole Chelsea Botas  Grau  Almond Suede   38 EU'
-date: 2021-12-28 14:50:23
+date: 2021-12-31 20:58:53
 image: 'https://m.media-amazon.com/images/I/31Ndwvw5l-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Piel de napa.
 - Laterales elásticos.
+- Piel de napa.
 - Suela de goma cosida.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
