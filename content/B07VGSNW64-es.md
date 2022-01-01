@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Marca lateral Vans
+- Pared lateral vulcanizada progresiva con talón moleteado y protectores de dedos
 - Suela original de waffle
 - Cuello y lengüeta acolchados
-- Marca lateral Vans
 - Parte superior de varios paneles
-- Pared lateral vulcanizada progresiva con talón moleteado y protectores de dedos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
