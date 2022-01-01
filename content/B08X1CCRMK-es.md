@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'edc by Esprit 991CC1E308 Vestido  001/negro  S para Mujer'
-date: 2021-12-20 09:35:04
+date: 2022-01-01 18:02:53
 image: 'https://m.media-amazon.com/images/I/314-N-3nfxS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
