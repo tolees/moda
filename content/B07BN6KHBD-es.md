@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazon Essentials - Chaqueta con capucha acolchada  ligera  resistente al agua y plegable para hombre  Gris  Charcoal Heather   US XL  EU XL - XXL '
-date: 2021-12-26 10:45:28
+date: 2022-01-01 19:14:10
 image: 'https://m.media-amazon.com/images/I/41g9MkJB9kL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Holgado en el pecho y entallado en la cintura
 - Una marca de Amazon
+- Holgado en el pecho y entallado en la cintura
 - Tessuto durevole e resistente all’acqua con imbottitura che garantisce calore
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

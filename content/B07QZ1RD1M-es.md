@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'CARE OF by PUMA Chaqueta acolchada impermeable para hombre  Negro  Black   S  Label: S'
-date: 2021-12-25 17:12:37
+date: 2022-01-01 19:32:25
 image: 'https://m.media-amazon.com/images/I/4184N1XZh+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07QZ1RD1M-es CARE OF by PUMA Chaqueta acolchada impermeable para hombre...'
 sku: 'B07QZ1RD1M-es'
-tags: [ 'Chaquetas deportivas para hombre','Ropa','Ropa deportiva para hombre','Ropa para hombre','care of by puma','chaqueta', ]
+tags: [ 'Chaquetas de acampada y marcha para hombre','Chaquetas de pluma para acampada y marcha para hombre','Chaquetas deportivas para hombre','Ropa','Ropa de acampada','Ropa de acampada para hombre','Ropa deportiva para hombre','Ropa específica deportiva','Ropa para hombre','care of by puma','chaqueta', ]
 actualPrice: 38.2 EUR
 currency: EUR
 price: 38.2
