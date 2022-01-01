@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Core18 TR Pantalón  Sin género  Multicolor  M'
-date: 2021-12-31 03:13:45
+date: 2022-01-01 03:21:48
 image: 'https://m.media-amazon.com/images/I/31yrt61Mm8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076HQZQ7Y/?tag=tolees-21'
 descuento: '31.55'
-average: '21.1840740740741'
+average: '21.1596428571429'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
