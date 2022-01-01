@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Piel de napa.
-- Suela de goma cosida.
 - Laterales elásticos.
+- Suela de goma cosida.
+- Piel de napa.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
