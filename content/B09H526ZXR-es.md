@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- zapatilla urbana impermeable
 - sin costuras
-- Suela Gravity
-- Suela antideslizante
 - plantilla extraible
+- Suela antideslizante
+- Suela Gravity
+- zapatilla urbana impermeable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
