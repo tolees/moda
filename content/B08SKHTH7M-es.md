@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Goodthreads Boucle Half-Cardigan Stitch Balloon-Sleeve Sweater Suéter  Lila Mezcla  M'
-date: 2021-12-31 12:05:27
+date: 2022-01-02 13:02:46
 image: 'https://m.media-amazon.com/images/I/31q6BJ5YfHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
