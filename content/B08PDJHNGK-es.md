@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s SS Original Hm tee Camiseta  Blue Surf  XXL para Hombre'
-date: 2022-01-01 03:20:57
+date: 2022-01-02 09:58:03
 image: 'https://m.media-amazon.com/images/I/31Mn4K05VdS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Camisetas para hombre','Camisetas, polos y camisas para hombre','Ropa',
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5
-comparePrice: 17.5 EUR
+comparePrice: 14.95 EUR
 prodname: 'Levi s SS Original Hm tee Camiseta  Blue Surf  XXL para Hombre'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B08PDJHNGK/?tag=tolees-21'
-descuento: '28.57'
-average: '16.7642857142857'
+descuento: '16.39'
+average: '16.23125'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
