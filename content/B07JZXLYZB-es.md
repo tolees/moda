@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jcorocky Jacket Noos Chaqueta  Negro  Black Pattern: PU   Medium para Hombre'
-date: 2022-01-01 20:50:47
+date: 2022-01-02 20:58:43
 image: 'https://m.media-amazon.com/images/I/41Ced+Ag4jL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B07JZXLYZB/?tag=tolees-21'
 descuento: '31.69'
-average: '37.2288372093023'
+average: '37.2433204633204'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
