@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazon Essentials Lightweight Water-Resistant Packable Hooded Puffer Jacket Chaqueta Aislante  Verde  Camuflaje  S'
-date: 2021-12-29 07:31:17
+date: 2022-01-03 19:28:19
 image: 'https://m.media-amazon.com/images/I/51RDIpVzfML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tessuto durevole e resistente all’acqua con imbottitura che garantisce calore
-- Una marca de Amazon
 - Corte ligeramente entallado en la cintura
+- Una marca de Amazon
+- Tessuto durevole e resistente all’acqua con imbottitura che garantisce calore
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
