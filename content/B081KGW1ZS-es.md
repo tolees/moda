@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Salomon XA Pro 3D V8 Mujer Zapatos de trail running  Gris  Aqua Gray/Urban Chic/Tropical Peach   45 ⅓ EU'
-date: 2021-12-24 17:07:28
+date: 2022-01-03 17:30:45
 image: 'https://m.media-amazon.com/images/I/4169E4J3vaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SALOMON'
 buyurl: 'https://www.amazon.es/dp/B081KGW1ZS/?tag=tolees-21'
 descuento: '34.17'
-average: '79.2666666666667'
+average: '80.835'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
