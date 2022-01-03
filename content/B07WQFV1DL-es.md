@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kuako Zapatillas de Estar por casa con Forro de vellón para Mujer Antideslizantes Espuma de Memoria para Interiores Zapatos cálidos acogedores de la casa'
-date: 2022-01-01 12:02:17
+date: 2022-01-02 21:39:13
 image: 'https://m.media-amazon.com/images/I/4183dMLxfFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Kuako'
 buyurl: 'https://www.amazon.es/dp/B07WQFV1DL/?tag=tolees-21'
 descuento: '15.01'
-average: '17.2733333333333'
+average: '17.415'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
