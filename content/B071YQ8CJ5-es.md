@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Honey Med Tote  Bolso Totes para Mujer  Azul  Tommy Navy   14x27x40 cm  W x H x L '
-date: 2021-12-31 03:07:31
+date: 2022-01-03 09:18:50
 image: 'https://m.media-amazon.com/images/I/315AJq691AL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Diseñador: Tommy Hilfiger
+- Temporada: Otoño/Invierno
 - Artículo: aw0aw04547 Honey Med Tote
 - Material: Saffiano
-- Temporada: Otoño/Invierno
-- Diseñador: Tommy Hilfiger
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
