@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material exterior: ante
-- Suela: goma
 - Material interior: sintético
+- Suela: goma
+- Material exterior: ante
 
 [🛒 Comprar!!!]({{< param buyurl >}})
