@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s New Original Crew Sudadera  Dress Blues  M para Hombre'
-date: 2022-01-03 02:56:28
+date: 2022-01-04 03:17:39
 image: 'https://m.media-amazon.com/images/I/315D3GnidXS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07ZVPQ85L/?tag=tolees-21'
 descuento: '35.38'
-average: '41.72'
+average: '41.79'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- New Original Crew
 - Estándar
+- New Original Crew
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
