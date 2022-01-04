@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s New Original Crew Sudadera  White  M para Hombre'
-date: 2022-01-03 03:39:23
+date: 2022-01-04 21:06:17
 image: 'https://m.media-amazon.com/images/I/2146xtH2r9S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07ZVPDT3Q/?tag=tolees-21'
 descuento: '27.72'
-average: '41.8733333333333'
+average: '42.6028571428571'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
