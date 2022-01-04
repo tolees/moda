@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvin Klein Iconic Monogram SS Slim tee Camiseta  Negro  CK Black Bae   L para Hombre'
-date: 2021-12-28 08:05:00
+date: 2022-01-04 11:19:22
 image: 'https://m.media-amazon.com/images/I/319ZANbEoqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Piezas de procedencia animal: no
-- Instrucciones de cuidado: planchar a baja temperatura; no limpiar en seco; secar en el tendedero a la sombra; lavado especial para prendas delicadas a 40 grados; no usar lejía
 - Material exterior: 100% algodón
+- Instrucciones de cuidado: planchar a baja temperatura; no limpiar en seco; secar en el tendedero a la sombra; lavado especial para prendas delicadas a 40 grados; no usar lejía
+- Piezas de procedencia animal: no
 
 [🛒 Comprar!!!]({{< param buyurl >}})
