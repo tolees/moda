@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Desigual Vest Cameron Vestido Casual  Negro  S para Mujer'
-date: 2022-01-02 17:39:00
+date: 2022-01-04 14:45:56
 image: 'https://m.media-amazon.com/images/I/41nyAyFsZ3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Machine Wash in Cold Water
+- Estampado arty
+- Desigual - Vestido slim de mujer con falda midi y estampado arty
 - Capa exterior de tul con semitransparencia en manga y falda
 - Vestido slim midi negro de manga corta con estampado arty. Capa exterior con semitransparencia en falda y manga. Nueva colección Mujer OI21 Desigual.
-- Estampado arty
-- Machine Wash in Cold Water
-- Desigual - Vestido slim de mujer con falda midi y estampado arty
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
