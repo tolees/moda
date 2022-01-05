@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cuello, Puños y bajo de canalé
-- Punto de felpa de algodón
 - Ajuste relaxed
+- Punto de felpa de algodón
 - Cuello redondo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
