@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s 2pk Crewneck Graphic Camiseta  Multicolor  2 Pack Hm White/Mid Tone Grey Heather 0001   Medium  Pack de 2  para Hombre'
-date: 2022-01-04 03:32:44
+date: 2022-01-05 09:10:22
 image: 'https://m.media-amazon.com/images/I/318UCcFaUBS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07LFDMCLZ-es Levi s 2pk Crewneck Graphic Camiseta Multicolor 2 Pack Hm...'
 sku: 'B07LFDMCLZ-es'
 tags: [ 'Camisetas para hombre','Camisetas, polos y camisas para hombre','Ropa','Ropa para hombre','camiseta','levis', ]
-actualPrice: 27.45 EUR
+actualPrice: 29.48 EUR
 currency: EUR
-price: 27.45
+price: 29.48
 comparePrice: 35.0 EUR
 prodname: 'Levi s 2pk Crewneck Graphic Camiseta  Multicolor  2 Pack Hm White/Mid Tone Grey Heather 0001   Medium  Pack de 2  para Hombre'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07LFDMCLZ/?tag=tolees-21'
-descuento: '21.57'
-average: '25.4627777777779'
+descuento: '15.77'
+average: '25.6742105263159'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

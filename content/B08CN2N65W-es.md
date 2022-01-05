@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Desigual Fabric Shoulder Bag  Bolso Bandolera. para Mujer  Negro  U'
-date: 2022-01-03 09:20:37
+date: 2022-01-05 09:06:43
 image: 'https://m.media-amazon.com/images/I/51+373tHwZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
