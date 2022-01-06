@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Revestimiento: Sin forro
-- Anchura del zapato: Normal
 - Cierre: Velcro
 - Material exterior: Tela
-- Tipo de tacón: Plano
+- Revestimiento: Sin forro
+- Anchura del zapato: Normal
 - Material de la suela: Goma
+- Tipo de tacón: Plano
 
 [🛒 Comprar!!!]({{< param buyurl >}})
