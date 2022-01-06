@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Timberland Graydon Botas de moda para Hombre  Verde  Olive Nubuck   41.5 EU'
-date: 2021-12-26 03:49:32
+date: 2022-01-06 11:05:30
 image: 'https://m.media-amazon.com/images/I/31t1nSchRTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08QW4P7B8-es Timberland Graydon Botas de moda para Hombre Verde Olive...'
 sku: 'B08QW4P7B8-es'
 tags: [ 'Botas para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','moda','timberland', ]
-actualPrice: 71.7 EUR
+actualPrice: 84.74 EUR
 currency: EUR
-price: 71.7
+price: 84.74
 comparePrice: 120.0 EUR
 prodname: 'Timberland Graydon Botas de moda para Hombre  Verde  Olive Nubuck   41.5 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Timberland'
 buyurl: 'https://www.amazon.es/dp/B08QW4P7B8/?tag=tolees-21'
-descuento: '40.25'
-average: '72.13'
+descuento: '29.38'
+average: '78.445'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
