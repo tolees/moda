@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Desigual mujer - Chaqueta biker de mujer tartán y piel sintética
 - Do Not Wash
+- La combinación de texturas es frontal y en diagonal dejando el resto de la prenda y la espalda lisa
+- Desigual mujer - Chaqueta biker de mujer tartán y piel sintética
 - Chaqueta biker bimateria de tejido lanoso de tartán rojo combinado con piel sintética negra.
 - Prenda bimateria que combina lana en tartán rojo y PU negra
-- La combinación de texturas es frontal y en diagonal dejando el resto de la prenda y la espalda lisa
 
 [🛒 Comprar!!!]({{< param buyurl >}})
