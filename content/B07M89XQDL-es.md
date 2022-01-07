@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Estampado frontal con el logo de Wrangler
 - Corte cómodo e informal
+- Estampado frontal con el logo de Wrangler
 - Tejido ligero primaveral
 
 [🛒 Comprar!!!]({{< param buyurl >}})

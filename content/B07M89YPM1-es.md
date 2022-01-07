@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tejido ligero primaveral
-- Corte cómodo e informal
 - Estampado frontal con el logo de Wrangler
+- Corte cómodo e informal
+- Tejido ligero primaveral
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
