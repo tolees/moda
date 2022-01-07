@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 1 bolsillo en el pecho
 - Buena transpirabilidad
 - Secado rápido
 - Tejido 85 % poliéster, 15 % viscosa
+- 1 bolsillo en el pecho
 
 [🛒 Aquí!!!]({{< param buyurl >}})

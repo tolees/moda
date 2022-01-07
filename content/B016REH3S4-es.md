@@ -30,7 +30,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Logotipo de Adidas bordado
 - Piqué 100% poliéster
-- La tecnología Climalite aleja el sudor de la piel
 - Cintura elástica con cordón
+- La tecnología Climalite aleja el sudor de la piel
 
 [🛒 Comprar!!!]({{< param buyurl >}})
