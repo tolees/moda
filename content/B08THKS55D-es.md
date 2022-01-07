@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Desigual Kids - Vestido de volantes con estampado arty
-- Ribetes ondulados separando los volantes
-- Machine Wash in Cold Water
 - Estampado arty
+- Machine Wash in Cold Water
+- Ribetes ondulados separando los volantes
 - Vestido de volantes con manga corta avolantada y estampado arty. Es la versión Mini Me de una prenda de la colección de mujer. Nueva colección Kids OI21 Desigual.
+- Desigual Kids - Vestido de volantes con estampado arty
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Parche con logotipo en el dobladillo
 - Sudadera básica con capucha con logotipo impreso frontal
+- Parche con logotipo en el dobladillo
 - Loopback para un calor eficaz y circulación del aire
 - Composición: 70% algodón, 30% poliéster
 
