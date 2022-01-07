@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Wrangler Logo Tee  Camiseta  Hombre  Blanco  White 989   XX-Large'
-date: 2022-01-06 12:46:33
+date: 2022-01-07 12:50:20
 image: 'https://m.media-amazon.com/images/I/41iNWpWk4rS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
