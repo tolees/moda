@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pepe Jeans New Virginia T-Shirt Mit Logo Camiseta  Blanco  White 800   Medium para Mujer'
-date: 2022-01-06 21:26:02
+date: 2022-01-07 22:03:16
 image: 'https://m.media-amazon.com/images/I/31xmrrW9BbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pepe Jeans'
 buyurl: 'https://www.amazon.es/dp/B06XT35S2C/?tag=tolees-21'
 descuento: '15.40'
-average: '17.3848780487805'
+average: '17.4745238095238'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
