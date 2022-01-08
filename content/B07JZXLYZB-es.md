@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jcorocky Jacket Noos Chaqueta  Negro  Black   M para Hombre'
-date: 2022-01-07 15:54:31
+date: 2022-01-08 16:17:14
 image: 'https://m.media-amazon.com/images/I/41Ced+Ag4jL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B07JZXLYZB/?tag=tolees-21'
 descuento: '26.69'
-average: '37.3069083969466'
+average: '37.3322813688213'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
