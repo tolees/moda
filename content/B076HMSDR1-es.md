@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Lavar a la maquina
+- Ajuste regular
 - Bolsillo canguro
 - Capucha con cordón
-- Ajuste regular
-- Lavar a la maquina
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
