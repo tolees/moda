@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con costuras planas para evitar fricciones
-- Ofrece libertad de movimiento
 - Camiseta confeccionada en tejido elástico
 - Cuenta con el logotipo serigrafiado
+- Con costuras planas para evitar fricciones
+- Ofrece libertad de movimiento
 
 [🛒 Comprar!!!]({{< param buyurl >}})
