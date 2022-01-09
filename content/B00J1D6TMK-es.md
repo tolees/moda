@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Uvex Sportstyle 507 Gafas Deportivas  Niños  Negro  Talla Única'
-date: 2021-12-27 14:54:55
+date: 2022-01-09 16:59:51
 image: 'https://m.media-amazon.com/images/I/31m7M5YXFgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Uvex'
 buyurl: 'https://www.amazon.es/dp/B00J1D6TMK/?tag=tolees-21'
 descuento: '21.55'
-average: '15.775'
+average: '15.75'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Protección 100% contra los rayos UVA.
 - Montura flexible. Correa para gafas. Almohadillado de goma en patillas.
+- Protección 100% contra los rayos UVA.
 - Acabado reflectante litemirror, con antireflejos y filtro i-r.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
