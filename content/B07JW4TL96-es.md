@@ -1,25 +1,25 @@
 ---
 layout: post
 title: 'Columbia Powder Lite   Chaqueta Hombre  Negro  BLACK   L'
-date: 2021-12-25 14:02:02
-image: 'https://m.media-amazon.com/images/I/41vs3JYPPXL._SL500_._SL400_.jpg'
+date: 2022-01-09 04:16:26
+image: 'https://m.media-amazon.com/images/I/41HouQ3V5aS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07JW4TL96-es Columbia Powder Lite Chaqueta Hombre Negro BLACK L'
 sku: 'B07JW4TL96-es'
 tags: [ 'Chaquetas de acampada y marcha para hombre','Chaquetas de pluma para acampada y marcha para hombre','Ropa','Ropa de acampada','Ropa de acampada para hombre','Ropa específica deportiva','chaqueta','columbia', ]
-actualPrice: 72.95 EUR
+actualPrice: 73.8 EUR
 currency: EUR
-price: 72.95
+price: 73.8
 comparePrice: 99.99 EUR
 prodname: 'Columbia Powder Lite   Chaqueta Hombre  Negro  BLACK   L'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Columbia'
 buyurl: 'https://www.amazon.es/dp/B07JW4TL96/?tag=tolees-21'
-descuento: '27.04'
-average: '64.4995744680852'
+descuento: '26.19'
+average: '64.6933333333334'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Chaqueta de hombre optimo para las excursiones de alta montaña gracias a su forro termorreflectante para mantenerte caliente y a gusto
-- La tecnología reflectante Omni-Heat de la chaqueta ofrece un mayor aislamiento para mantenerte caliente incluso en los días más fríos
 - Los bolsillos con cremallera te dan versatilidad Mantén tus manos calientes cuando lo necesites o guarda tu teléfono y otros accesorios sin temor a que se caigan
+- La tecnología reflectante Omni-Heat de la chaqueta ofrece un mayor aislamiento para mantenerte caliente incluso en los días más fríos
 - Tejido resistente al agua que te protege de los chubascos y la niebla, Ajuste óptimo gracias al dobladillo ajustable con cordón
 - Contenido: 1x Columbia Powder Lite Chaqueta para hombre, Exterior: Storm-Lite DP II 100% poliéster; Forro: Omni-Heat Reflective Forro 100% poliéster; Aislamiento: Thermarator 100% poliéster, Color: Negro, Talla: L, Art.No.1698001
 
