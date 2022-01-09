@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ofrece comodidad todo el día
-- Modelo de ajuste relajado que aporta un aire informal
 - Un jersey clásico
+- Modelo de ajuste relajado que aporta un aire informal
+- Ofrece comodidad todo el día
 
 [🛒 Visítala!!!]({{< param buyurl >}})
