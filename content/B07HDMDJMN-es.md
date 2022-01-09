@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- jeans jacket in medium blue washing
 - collar and long sleeves
+- jeans jacket in medium blue washing
 
 [🛒 Visítala!!!]({{< param buyurl >}})
