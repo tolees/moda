@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Joya de encaje metálico para un brillo extra.
 - Unique Disruptor square lace loops, logotipo de Fila bordado y una bandera de fieltro abierta.
+- Joya de encaje metálico para un brillo extra.
 - Visera con logotipo metálico abierto y talón.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
