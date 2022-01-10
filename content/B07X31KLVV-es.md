@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Un par en azul mate suave, un par en suave mate fusia rosa, un par en liso mate morado y un par en liso mate musgo verde acabado.
 - Fuerza +3,50.
-- Bisagras resorte. Fácil de limpiar. Resistente a los arañazos. Ajuste cómodo.
 - Hombres / mujeres / unisex.
+- Bisagras resorte. Fácil de limpiar. Resistente a los arañazos. Ajuste cómodo.
 - Cuatro pares de elegantes retro redondo frame gafas de lectura.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
