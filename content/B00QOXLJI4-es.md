@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- De cuero
 - También es adecuado para el ocio
+- De cuero
 
 [🛒 Comprar!!!]({{< param buyurl >}})
