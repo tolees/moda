@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Core Stretch Slim Poplin Shirt Camisa  Blanco  Bright White 100   Medium para Hombre'
-date: 2022-01-07 15:53:54
+date: 2022-01-10 12:44:49
 image: 'https://m.media-amazon.com/images/I/31vxiU43PQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Tommy Hilfiger'
 buyurl: 'https://www.amazon.es/dp/B016QM4SVM/?tag=tolees-21'
 descuento: '50.00'
-average: '68.2224438902739'
+average: '68.1645522388056'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
