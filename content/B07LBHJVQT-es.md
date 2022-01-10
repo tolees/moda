@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Protección total de los elementos a la vez que cómoda en el interior.
 - Impermeabilidad de 10.000 mm y permeabilidad al vapor de humedad de 10.000 g
-- Impermeable, cortavientos y transpirable Helly Tech Performance, con tejido de Bluesign de 2, 5 capas 100% poliéster con laminado de poliuretano 100%.
 - Tejido excepcional con un diseño exterior clásico y activo.
+- Protección total de los elementos a la vez que cómoda en el interior.
+- Impermeable, cortavientos y transpirable Helly Tech Performance, con tejido de Bluesign de 2, 5 capas 100% poliéster con laminado de poliuretano 100%.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

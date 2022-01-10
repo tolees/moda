@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Salomon XA Pro V8 Mid Climasalomon Waterproof  impermeable  unisex-niños Zapatos de trail running  Negro  Black/Monument/Hawaiian Ocean   33 EU'
-date: 2022-01-04 11:39:52
+date: 2022-01-10 14:08:17
 image: 'https://m.media-amazon.com/images/I/41-NiDPWIUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
