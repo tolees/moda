@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Crew Sudadera  Marsala  S para Hombre'
-date: 2022-01-08 08:32:26
+date: 2022-01-10 18:38:46
 image: 'https://m.media-amazon.com/images/I/3134k-v74LL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B08PDH36X4/?tag=tolees-21'
 descuento: '46.91'
-average: '39.335'
+average: '37.7233333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Estándar
 - Modelo: New Original Crew
+- Estándar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
