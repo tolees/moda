@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Geox Woman D LEELU  SNEAKERS BLACK 37 EU'
-date: 2022-01-10 00:33:51
-image: 'https://m.media-amazon.com/images/I/418vP-bteBL._SL500_._SL400_.jpg'
+title: 'Geox Woman D LEELU  SNEAKERS WHITE/OFF WHITE 37 EU'
+date: 2022-01-10 00:52:34
+image: 'https://m.media-amazon.com/images/I/41LKaJTCx+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B08QN8TZHR-es Geox Woman D LEELU SNEAKERS BLACK 37 EU'
-sku: 'B08QN8TZHR-es'
+slug: 'B08QNF138M-es Geox Woman D LEELU SNEAKERS WHITE/OFF WHITE 37 EU'
+sku: 'B08QNF138M-es'
 tags: [ 'Zapatillas casual para mujer','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','geox', ]
-actualPrice: 28.68 EUR
+actualPrice: 39.58 EUR
 currency: EUR
-price: 28.68
+price: 39.58
 comparePrice: 109.9 EUR
-prodname: 'Geox Woman D LEELU  SNEAKERS BLACK 37 EU'
+prodname: 'Geox Woman D LEELU  SNEAKERS WHITE/OFF WHITE 37 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Geox'
-buyurl: 'https://www.amazon.es/dp/B08QN8TZHR/?tag=tolees-21'
-descuento: '73.90'
-average: '30.03'
+buyurl: 'https://www.amazon.es/dp/B08QNF138M/?tag=tolees-21'
+descuento: '63.99'
+average: '39.58'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Los sistemas patentados Geox ofrecen la transpirabilidad de la suela y el bienestar del pie
+- Plantilla desmontable
 - Calce fácil de regular gracias al cierre con cordones
 - Altura del tacón: 3 cm / 1.2 inch
-- Plantilla desmontable
-- Los sistemas patentados Geox ofrecen la transpirabilidad de la suela y el bienestar del pie
 
 [🛒 Aquí!!!]({{< param buyurl >}})
