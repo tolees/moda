@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre: cordones rápidos
 - Material interior: piel
 - Material exterior: piel lisa
+- Cierre: cordones rápidos
 - Suela: piel y goma
 
 [🛒 Visítala!!!]({{< param buyurl >}})
