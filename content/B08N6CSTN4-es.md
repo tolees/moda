@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Logotipo de Fila de dos tonos
-- Anillos en D con aspecto de metal para guiar los cordones
 - Zapatillas Fila para mujer con el típico DNA Fila
+- Anillos en D con aspecto de metal para guiar los cordones
+- Logotipo de Fila de dos tonos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
