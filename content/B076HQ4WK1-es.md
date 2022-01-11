@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas CORE18 tee Camiseta de Manga Corta  Hombre  Dark Grey Heather/Black  2XL'
-date: 2022-01-10 10:37:09
+date: 2022-01-11 10:57:04
 image: 'https://m.media-amazon.com/images/I/41384Q+iDfS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076HQ4WK1/?tag=tolees-21'
 descuento: '29.96'
-average: '15.995'
+average: '15.8415384615385'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello redondo.
 - Tiene un material de algodón altamente funcional
-- Costura lateral adelantada para un ajuste más cómodo y una mayor libertad de movimiento.
-- Logotipo de adidas en el pecho.
 - Ribetes en contraste.
+- Logotipo de adidas en el pecho.
 - Corte clásico más ancho y silueta recta.
+- Cuello redondo.
+- Costura lateral adelantada para un ajuste más cómodo y una mayor libertad de movimiento.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
