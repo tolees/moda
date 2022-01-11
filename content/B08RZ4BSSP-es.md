@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Dobladillo recto
-- Cuello redondo
-- Manga corta
-- 2 unidades
 - Bordado G-Star RAW en el pecho
+- Cuello redondo
+- 2 unidades
+- Manga corta
+- Dobladillo recto
 
 [🛒 Comprar!!!]({{< param buyurl >}})

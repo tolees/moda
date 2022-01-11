@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Chaqueta
-- Chaqueta de forro polar
-- 100 % poliéster
 - Cálida
+- 100 % poliéster
+- Chaqueta de forro polar
 - Diseño danés
+- Chaqueta
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

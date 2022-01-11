@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Geox J ALFIER BOY A Zapatillas Niños  Azul  Navy/Dk Grey   31 EU'
-date: 2021-12-27 18:46:49
-image: 'https://m.media-amazon.com/images/I/31tQRvjSbzL._SL500_._SL400_.jpg'
+title: 'GEOX Junior Boy J SHAYLAX BOY SHOES NAVY 26 EU'
+date: 2022-01-11 19:11:46
+image: 'https://m.media-amazon.com/images/I/315wBhMMkwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0825PWD4P-es Geox J ALFIER BOY A Zapatillas Niños Azul Navy/Dk Grey 31 EU'
-sku: 'B0825PWD4P-es'
+slug: 'B08QNH9SX9-es GEOX Junior Boy J SHAYLAX BOY SHOES NAVY 26 EU'
+sku: 'B08QNH9SX9-es'
 tags: [ 'Zapatillas casual para niño','Zapatillas y calzado deportivo para Niño','Zapatos','Zapatos - Niños','Zapatos y complementos','geox', ]
-actualPrice: 26.86 EUR
+actualPrice: 27.5 EUR
 currency: EUR
-price: 26.86
+price: 27.5
 comparePrice: 55.0 EUR
-prodname: 'Geox J ALFIER BOY A Zapatillas Niños  Azul  Navy/Dk Grey   31 EU'
+prodname: 'GEOX Junior Boy J SHAYLAX BOY SHOES NAVY 26 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Geox'
-buyurl: 'https://www.amazon.es/dp/B0825PWD4P/?tag=tolees-21'
-descuento: '51.16'
-average: '26.86'
+buyurl: 'https://www.amazon.es/dp/B08QNH9SX9/?tag=tolees-21'
+descuento: '50.00'
+average: '27.5'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -29,10 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Fácil de llevar para un confort optimo
-- Calce fácil y regulable con un velcro y cierre con cordón elástico
-- Plantilla desmontable
 - Plantilla antibacteriana
-- Plantilla de piel atóxica sin cromo
+- Calzado que ofrece una amortiguación óptima y protege contra choques y esfuerzos
 - Los sistemas patentados Geox ofrecen la transpirabilidad de la suela y el bienestar del pie
+- Plantilla desmontable
 
 [🛒 Comprar!!!]({{< param buyurl >}})
