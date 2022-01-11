@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s 2pk Crewneck Graphic Camiseta  Multicolor  2 Pack Hm White/Mid Tone Grey Heather 0001   Medium  Pack de 2  para Hombre'
-date: 2022-01-10 16:46:55
+date: 2022-01-11 17:09:13
 image: 'https://m.media-amazon.com/images/I/318UCcFaUBS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07LFDMCLZ/?tag=tolees-21'
 descuento: '15.77'
-average: '26.4670833333334'
+average: '26.5876000000001'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con un logo Levis en el bajo
 - Modelos casual
+- Con un logo Levis en el bajo
 - Elaboradas en punto suave
 
 [🛒 Visítala!!!]({{< param buyurl >}})

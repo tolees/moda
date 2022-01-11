@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pepe Jeans New Virginia T-Shirt Mit Logo Camiseta  Gris  Grey Marl 933   Medium para Mujer'
-date: 2022-01-10 16:47:14
+date: 2022-01-11 17:01:37
 image: 'https://m.media-amazon.com/images/I/417XCdYe7gL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pepe Jeans'
 buyurl: 'https://www.amazon.es/dp/B06XSJ5THX/?tag=tolees-21'
 descuento: '50.20'
-average: '16.2673809523809'
+average: '16.1786046511627'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

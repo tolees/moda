@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pepe Jeans New Virginia T-Shirt Mit Logo Camiseta  Negro  Black 999   XX-Small para Mujer'
-date: 2022-01-10 16:52:27
+date: 2022-01-11 17:09:36
 image: 'https://m.media-amazon.com/images/I/41yO9+pPV+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pepe Jeans'
 buyurl: 'https://www.amazon.es/dp/B06XSTB235/?tag=tolees-21'
 descuento: '16.04'
-average: '19.7833333333333'
+average: '19.904'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
