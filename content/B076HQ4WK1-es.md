@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiene un material de algodón altamente funcional
-- Ribetes en contraste.
 - Logotipo de adidas en el pecho.
 - Corte clásico más ancho y silueta recta.
+- Tiene un material de algodón altamente funcional
+- Ribetes en contraste.
 - Cuello redondo.
 - Costura lateral adelantada para un ajuste más cómodo y una mayor libertad de movimiento.
 
