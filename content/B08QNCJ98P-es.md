@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Geox Woman D MYRIA SNEAKERS OFF WHITE 37 EU'
-date: 2022-01-11 23:43:04
-image: 'https://m.media-amazon.com/images/I/41f8ykQQvyL._SL500_._SL400_.jpg'
+title: 'Geox Woman D MYRIA SNEAKERS NAVY/BLUE 35 EU'
+date: 2022-01-12 00:20:50
+image: 'https://m.media-amazon.com/images/I/41aw898qymL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B08QNFPRMR-es Geox Woman D MYRIA SNEAKERS OFF WHITE 37 EU'
-sku: 'B08QNFPRMR-es'
+slug: 'B08QNCJ98P-es Geox Woman D MYRIA SNEAKERS NAVY/BLUE 35 EU'
+sku: 'B08QNCJ98P-es'
 tags: [ 'Zapatillas casual para mujer','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','geox', ]
-actualPrice: 35.27 EUR
+actualPrice: 41.41 EUR
 currency: EUR
-price: 35.27
-comparePrice: 109.9 EUR
-prodname: 'Geox Woman D MYRIA SNEAKERS OFF WHITE 37 EU'
+price: 41.41
+comparePrice: 99.9 EUR
+prodname: 'Geox Woman D MYRIA SNEAKERS NAVY/BLUE 35 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Geox'
-buyurl: 'https://www.amazon.es/dp/B08QNFPRMR/?tag=tolees-21'
-descuento: '67.91'
-average: '41.78'
+buyurl: 'https://www.amazon.es/dp/B08QNCJ98P/?tag=tolees-21'
+descuento: '58.55'
+average: '41.41'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Plantilla desmontable
-- Calce fácil y regulable con cremallera y cordones
-- Los sistemas patentados Geox ofrecen la transpirabilidad de la suela y el bienestar del pie
-- Fácil de llevar para un confort optimo
 - Altura del tacón: 3 cm / 1.2 inch
+- Los sistemas patentados Geox ofrecen la transpirabilidad de la suela y el bienestar del pie
+- Calce fácil y regulable con cremallera y cordones
+- Plantilla desmontable
+- Fácil de llevar para un confort optimo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
