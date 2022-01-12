@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 92% Algodón, 7% Poliéster, 1% Elastano
+- Cierre: Boton y cierre
 - Lavar a máquina - agua fría (30 ° max)
 - Skinny
 - Usado
-- Cierre: Boton y cierre
+- 92% Algodón, 7% Poliéster, 1% Elastano
 
 [🛒 Aquí!!!]({{< param buyurl >}})
