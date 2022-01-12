@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox B Rishon Girl A  Zapatillas  White/Silver  24 EU'
-date: 2022-01-05 16:24:12
+date: 2022-01-12 19:13:46
 image: 'https://m.media-amazon.com/images/I/41fknayvzGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
