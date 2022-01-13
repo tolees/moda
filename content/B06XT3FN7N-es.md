@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pepe Jeans New Virginia T-Shirt Mit Logo Camiseta  Azul  Navy 595   Medium para Mujer'
-date: 2022-01-11 17:25:50
+date: 2022-01-13 18:03:09
 image: 'https://m.media-amazon.com/images/I/41OZ5laWhNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pepe Jeans'
 buyurl: 'https://www.amazon.es/dp/B06XT3FN7N/?tag=tolees-21'
 descuento: '20.20'
-average: '17.75'
+average: '17.9944444444445'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
