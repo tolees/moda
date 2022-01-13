@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s 2pk Crewneck Graphic Camiseta  Multicolor  2 Pack Sw White/Mineral Black 0000   XXX-Large  Pack de 2  para Hombre'
-date: 2022-01-11 20:44:37
+date: 2022-01-13 09:26:06
 image: 'https://m.media-amazon.com/images/I/41A9E14P4tL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07LFG2SS9/?tag=tolees-21'
 descuento: '33.14'
-average: '21.54875'
+average: '21.7544444444444'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -29,7 +29,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Modelos casual
-- Elaboradas en punto suave
 - Con un logo Levis en el bajo
+- Elaboradas en punto suave
 
 [🛒 Comprar!!!]({{< param buyurl >}})
