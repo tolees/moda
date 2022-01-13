@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvin Klein Modern tee Camiseta  Negro  Black/White Lg 930   152 centimeters  Talla del fabricante: 10-12  para Niños'
-date: 2022-01-11 06:56:14
+date: 2022-01-13 07:31:49
 image: 'https://m.media-amazon.com/images/I/31rdfwD7mlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
