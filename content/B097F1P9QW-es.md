@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Cómodo
 - Elástico
-- Con capucha
 - algodón
 - Suave
+- Con capucha
 
 [🛒 Comprar!!!]({{< param buyurl >}})
