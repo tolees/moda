@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Estación: Otoño/Invierno
 - Color: Beige
 - Artículo: UGKCLACN1017703K
-- Estación: Otoño/Invierno
 
 [🛒 Visítala!!!]({{< param buyurl >}})
