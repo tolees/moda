@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Champion Legacy Classic C-Logo Camiseta  Gris Jaspeado Claro & Azul  13-14 Años  Pack de 2  para Niños'
-date: 2021-12-31 18:47:18
+date: 2022-01-15 14:05:20
 image: 'https://m.media-amazon.com/images/I/41WRpVTHZYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
