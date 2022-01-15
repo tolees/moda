@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Only Bandit PU Biker Chaqueta  Negro  Black C N 010   36  S  para Mujer'
-date: 2022-01-14 14:20:27
+date: 2022-01-15 15:30:54
 image: 'https://m.media-amazon.com/images/I/51g9CIj6jsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Only'
 buyurl: 'https://www.amazon.es/dp/B00DVI6UZW/?tag=tolees-21'
 descuento: '29.91'
-average: '25.3266666666667'
+average: '25.995'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bolsillos laterales
 - Interior con efecto cepillado suave
+- Bolsillos laterales
 - Cordón de 13 cm
-- Con acanalado en todos los dobladillos
 - Pantalón de chándal con cintura ajustable
+- Con acanalado en todos los dobladillos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
