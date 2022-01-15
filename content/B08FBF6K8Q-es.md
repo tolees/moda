@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Kids LVB L/S BATWING CHESTHIT TEE C706 Camiseta negro para Niños'
-date: 2022-01-06 09:13:56
+date: 2022-01-15 18:15:36
 image: 'https://m.media-amazon.com/images/I/31nRirIdgOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
