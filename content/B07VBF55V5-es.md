@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Serie: Rhapsody Deva
+- Asa de transporte
 - Tipo de cierre: cremallera
 - Volumen en L aprox. : 11-20
-- Asa de transporte
+- Serie: Rhapsody Deva
 - Características: bolsillo con cremallera, bolsillo interior
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
