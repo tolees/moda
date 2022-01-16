@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'edc by Esprit Jeggings Skinny Fit Vaqueros  Azul  902/Blue Medium Wash   26W / 32L para Mujer'
-date: 2022-01-14 19:55:33
+date: 2022-01-16 10:35:23
 image: 'https://m.media-amazon.com/images/I/41j8qsVHDOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
