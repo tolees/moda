@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Core18 Hoody Sudadera  Hombre  White  L'
-date: 2022-01-14 18:05:01
+date: 2022-01-15 23:45:00
 image: 'https://m.media-amazon.com/images/I/31+kIZUEFoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07XDLG46V-es adidas Core18 Hoody Sudadera Hombre White L'
 sku: 'B07XDLG46V-es'
 tags: [ 'Jerséis, cárdigans y sudaderas para hombre','Ropa','Ropa para hombre','Sudaderas con capucha para hombre','Sudaderas para hombre','adidas','sudadera', ]
-actualPrice: 22.05 EUR
+actualPrice: 23.1 EUR
 currency: EUR
-price: 22.05
+price: 23.1
 comparePrice: 39.99 EUR
 prodname: 'adidas Core18 Hoody Sudadera  Hombre  White  L'
 country: 'es'
 flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B07XDLG46V/?tag=tolees-21'
-descuento: '44.86'
-average: '29.7416666666667'
+descuento: '42.24'
+average: '29.5274193548387'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Regular fit
-- Kangaroo pocket
 - Hood with lanyard
+- Kangaroo pocket
+- Regular fit
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

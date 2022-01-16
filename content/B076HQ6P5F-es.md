@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Adidas CORE18 Hoody Sudadera con Capucha  Hombre  Gris  Gris/Negro   L'
-date: 2022-01-14 17:44:32
+date: 2022-01-15 23:41:19
 image: 'https://m.media-amazon.com/images/I/41KNh7YcEbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076HQ6P5F/?tag=tolees-21'
 descuento: '35.31'
-average: '26.4575'
+average: '26.4489855072464'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Etiqueta sobre el dobladillo izquierdo.
 - Bolsillo canguro
+- Etiqueta sobre el dobladillo izquierdo.
 - Costuras laterales abiertas para una mayor libertad de movimiento.
 - Logotipo de adidas a la derecha del pecho.
 
