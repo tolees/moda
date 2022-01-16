@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cordón de ajuste bicolor
+- Cintura y puños elásticos
 - Bolsillo canguro
 - Logotipo clásico impreso en el pecho y "C" en la manga izquierda
-- Cintura y puños elásticos
+- Cordón de ajuste bicolor
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

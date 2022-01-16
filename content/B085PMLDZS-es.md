@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Juego de calzoncillos de algodón cómodos.
 - Cinturón y acabados extraplanos.
+- Juego de calzoncillos de algodón cómodos.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

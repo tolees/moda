@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lacoste Sport TH7618  Camiseta para Hombre  Negro  Noir   Medium  Talla del fabricante: 4 '
-date: 2022-01-15 16:06:25
+date: 2022-01-16 18:56:04
 image: 'https://m.media-amazon.com/images/I/31hnFk4vw4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lacoste'
 buyurl: 'https://www.amazon.es/dp/B00Q4MYZW2/?tag=tolees-21'
 descuento: '20.10'
-average: '39.8457541899442'
+average: '39.8463333333334'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Logo ultra dry en la parte inferior de la espalda
 - Camiseta para hombres, marca Lacoste
 - Cocodrilo verde bordado en el pecho
+- Logo ultra dry en la parte inferior de la espalda
 
 [🛒 Visítala!!!]({{< param buyurl >}})
