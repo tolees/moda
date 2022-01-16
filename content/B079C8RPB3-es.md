@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jjeplain tee SS V-Neck Noos Camiseta  Blanco  White Detail: Slim Fit   Medium para Hombre'
-date: 2022-01-13 20:24:33
+date: 2022-01-16 09:07:45
 image: 'https://m.media-amazon.com/images/I/31hEPSzZVsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B079C8RPB3/?tag=tolees-21'
 descuento: '50.45'
-average: '5.98428571428572'
+average: '5.855'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
