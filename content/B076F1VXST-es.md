@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Only Onljana L/s Cowlneck Dress Wool Knt Vestido  Gris  Dark Grey Melange Dark Grey Melange   38  Talla del Fabricante: Small  para Mujer'
-date: 2022-01-15 20:45:41
+date: 2022-01-16 21:12:32
 image: 'https://m.media-amazon.com/images/I/41mST94pk3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

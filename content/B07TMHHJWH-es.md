@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Logotipo pequeño de Levis en el pecho
 - Modelo casual
 - Fabricada en tejido de punto con tacto suave
+- Logotipo pequeño de Levis en el pecho
 
 [🛒 Visítala!!!]({{< param buyurl >}})

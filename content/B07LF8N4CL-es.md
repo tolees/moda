@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Modelos casual
 - Con un logo Levis en el bajo
+- Modelos casual
 - Elaboradas en punto suave
 
 [🛒 Comprar!!!]({{< param buyurl >}})
