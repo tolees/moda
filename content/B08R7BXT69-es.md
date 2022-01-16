@@ -31,7 +31,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 - Serigrafía estampada en el pecho
 - Etiqueta con leyenda «I am the next surf hero» en el interior
 - Cuello: cuello redondo
-- Tejido: punto jersey de algodón ligero
 - Corte: corte normal, clásico, cómodo
+- Tejido: punto jersey de algodón ligero
 
 [🛒 Comprar!!!]({{< param buyurl >}})

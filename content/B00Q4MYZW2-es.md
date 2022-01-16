@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Camiseta para hombres, marca Lacoste
 - Cocodrilo verde bordado en el pecho
+- Camiseta para hombres, marca Lacoste
 - Logo ultra dry en la parte inferior de la espalda
 
 [🛒 Visítala!!!]({{< param buyurl >}})

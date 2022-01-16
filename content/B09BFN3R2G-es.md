@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Vestido de mujer cálido y holgado
 - Vestido de punto monocolor para mujer con mangas largas y cuello alto
+- Vestido de mujer cálido y holgado
 
 [🛒 Visítala!!!]({{< param buyurl >}})

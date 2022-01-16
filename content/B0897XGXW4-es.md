@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Modelo: Graphic Standard
 - Estándar
+- Modelo: Graphic Standard
 
 [🛒 Comprar!!!]({{< param buyurl >}})
