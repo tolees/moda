@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Se recomienda elegir un número más que el de Adidas.
 - Zapatillas cómodas y cómodas
 - Distribuidor Auorizado Fila
+- Se recomienda elegir un número más que el de Adidas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
