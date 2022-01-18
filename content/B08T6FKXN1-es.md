@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Logotipo de la marca estampado en el pecho
 - Ofrece un confort óptimo
+- Logotipo de la marca estampado en el pecho
 - Cuenta con un diseño casual
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
