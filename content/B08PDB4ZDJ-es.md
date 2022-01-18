@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Estándar
 - Ajuste: normal
+- Estándar
 
 [🛒 Comprar!!!]({{< param buyurl >}})

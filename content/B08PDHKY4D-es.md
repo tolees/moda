@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Un jersey clásico
-- Sudadera con capucha estándar
 - Ofrece comodidad todo el día
+- Sudadera con capucha estándar
+- Un jersey clásico
 
 [🛒 Comprar!!!]({{< param buyurl >}})

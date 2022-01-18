@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sudadera con capucha estándar
 - Ofrece comodidad todo el día
 - Un jersey clásico
+- Sudadera con capucha estándar
 
 [🛒 Visítala!!!]({{< param buyurl >}})
