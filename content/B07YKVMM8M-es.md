@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pantalón chino clásico elástico
 - Con algodón de alta calidad procedente de cultivo ecológico
+- Pantalón chino clásico elástico
 
 [🛒 Aquí!!!]({{< param buyurl >}})

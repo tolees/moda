@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello redondo ribeteado
-- Etiqueta de G-Star RAW tejida en la parte delantera inferior
-- Bajo recto
 - Sin mangas; sisas ribeteadas
+- Cuello redondo ribeteado
+- Bajo recto
+- Etiqueta de G-Star RAW tejida en la parte delantera inferior
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
