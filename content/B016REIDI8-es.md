@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cintura elástica con cordón
 - Logotipo de Adidas bordado
 - La tecnología Climalite aleja el sudor de la piel
 - Piqué 100% poliéster
+- Cintura elástica con cordón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
