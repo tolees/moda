@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Adidas Core18 Sw Top Sudadera  Hombre  Azul  Azul/Blanco   XL'
-date: 2022-01-15 23:48:57
+date: 2022-01-19 12:23:33
 image: 'https://m.media-amazon.com/images/I/41tXMycABsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B076HPLCXF-es Adidas Core18 Sw Top Sudadera Hombre Azul Azul/Blanco XL'
 sku: 'B076HPLCXF-es'
 tags: [ 'Jerséis, cárdigans y sudaderas para hombre','Ropa','Ropa para hombre','Sudaderas para hombre','Sudaderas sin capucha para hombre','adidas','sudadera', ]
-actualPrice: 28.0 EUR
+actualPrice: 29.0 EUR
 currency: EUR
-price: 28.0
+price: 29.0
 comparePrice: 39.95 EUR
 prodname: 'Adidas Core18 Sw Top Sudadera  Hombre  Azul  Azul/Blanco   XL'
 country: 'es'
 flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076HPLCXF/?tag=tolees-21'
-descuento: '29.91'
-average: '28.4854166666667'
+descuento: '27.41'
+average: '29.0018518518519'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Presenta ajuste regular
 - Puños y dobladillo de canalé
 - Cuenta con un pequeño logotipo de Adidas bordado en el pecho
 - Mangas con ribetes en contraste
+- Presenta ajuste regular
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

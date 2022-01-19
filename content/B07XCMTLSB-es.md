@@ -29,7 +29,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Kangaroo pocket
-- Regular fit
 - Hood with lanyard
+- Regular fit
 
 [🛒 Visítala!!!]({{< param buyurl >}})
