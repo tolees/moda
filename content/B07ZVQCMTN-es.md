@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Standard Crew Sudadera  Smokestack Heather  XXS para Mujer'
-date: 2022-01-05 19:58:31
+date: 2022-01-18 22:21:16
 image: 'https://m.media-amazon.com/images/I/41nR6XXIk9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07ZVQCMTN/?tag=tolees-21'
 descuento: '46.92'
-average: '37.645'
+average: '37.1957142857143'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
