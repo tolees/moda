@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SELECTED HOMME Slhslimflex-Park LS B Noos-Camiseta Camisa  Blanco Brillante 1  M para Hombre'
-date: 2022-01-17 10:56:14
+date: 2022-01-19 10:46:00
 image: 'https://m.media-amazon.com/images/I/21ayhqjrLwS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- De algodón orgánico
+- Composición: 98% algodón orgánico, 2% elastano
 - Camisa de manga larga clásica y suave
 - Tejido de popelín ligero y suave
-- Composición: 98% algodón orgánico, 2% elastano
-- De algodón orgánico
 
 [🛒 Comprar!!!]({{< param buyurl >}})
