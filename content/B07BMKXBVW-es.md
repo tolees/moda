@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Las costuras contorneadas aportan una forma ajustada a este abrigo acolchado ligero y resistente al agua.
 - Bolsillos con cremallera, cuello alto, puños elásticos.
+- Las costuras contorneadas aportan una forma ajustada a este abrigo acolchado ligero y resistente al agua.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

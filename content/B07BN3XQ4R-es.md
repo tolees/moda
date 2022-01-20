@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Vestirse con un clima frío es fácil con esta chaqueta versátil, acolchada, ligera y resistente al agua que cuenta con una cremallera completa frontal y un cuello alto.
 - Cuello alto, bolsillos con cremallera, puños elásticos.
+- Vestirse con un clima frío es fácil con esta chaqueta versátil, acolchada, ligera y resistente al agua que cuenta con una cremallera completa frontal y un cuello alto.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

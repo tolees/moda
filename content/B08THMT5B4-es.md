@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Estampado de mensajes y dibujos en inspiración bolimaníaca
-- Machine Wash Cold Inside Out, Mild Wash
-- Cuello redondo
-- Desigual - Camiseta de mujer en tejido 100% algodón con estampado bolimaníaco
 - Camiseta blanca de manga corta en tejido 100% algodón con estampado de mensajes y dibujos en inspiración bolimaníaca. Nueva colección Mujer OI21 Desigual.
+- Machine Wash Cold Inside Out, Mild Wash
+- Estampado de mensajes y dibujos en inspiración bolimaníaca
+- Desigual - Camiseta de mujer en tejido 100% algodón con estampado bolimaníaco
+- Cuello redondo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Confeccionado en algodón suave, transpirable e hipoalergénico diseñado para una comodidad duradera
 - Una marca de Amazon
+- Confeccionado en algodón suave, transpirable e hipoalergénico diseñado para una comodidad duradera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
