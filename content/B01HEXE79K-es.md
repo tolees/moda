@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Número del fabricante: 204537-6IB
 - Estilo: Zueco con correa de talón
-- Color: rojo
 - Material: Croslite
+- Número del fabricante: 204537-6IB
+- Color: rojo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

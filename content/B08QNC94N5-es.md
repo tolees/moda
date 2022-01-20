@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox Woman D AIRELL SNEAKERS DK BEIGE 40 EU'
-date: 2022-01-19 01:43:11
+date: 2022-01-20 22:58:38
 image: 'https://m.media-amazon.com/images/I/41Ux9t2OPgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08QNC94N5-es Geox Woman D AIRELL SNEAKERS DK BEIGE 40 EU'
 sku: 'B08QNC94N5-es'
 tags: [ 'Zapatillas casual para mujer','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','geox', ]
-actualPrice: 62.31 EUR
+actualPrice: 55.91 EUR
 currency: EUR
-price: 62.31
+price: 55.91
 comparePrice: 89.9 EUR
 prodname: 'Geox Woman D AIRELL SNEAKERS DK BEIGE 40 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B08QNC94N5/?tag=tolees-21'
-descuento: '30.69'
-average: '53.1366666666667'
+descuento: '37.81'
+average: '53.83'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

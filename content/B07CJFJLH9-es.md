@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Padded outdoor jacket
 - Quilted jacket with hood
+- Padded outdoor jacket
 
 [🛒 Comprar!!!]({{< param buyurl >}})
