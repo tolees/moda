@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas CORE18 Hoody Sudadera con Capucha  Hombre  Azul  Azul/Blanco   XL'
-date: 2022-01-19 06:23:29
+date: 2022-01-21 05:40:51
 image: 'https://m.media-amazon.com/images/I/41mhREm7UQS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076HMS3JF/?tag=tolees-21'
 descuento: '28.79'
-average: '25.3893548387096'
+average: '25.4849999999999'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Lavar a la maquina
-- Bolsillo canguro
-- Ajuste regular
 - Capucha con cordón
+- Lavar a la maquina
+- Ajuste regular
+- Bolsillo canguro
 
 [🛒 Aquí!!!]({{< param buyurl >}})
