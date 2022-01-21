@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geographical Norway - Parka De Hombre Boomerang NEGRO S'
-date: 2022-01-11 17:43:49
+date: 2022-01-21 19:31:43
 image: 'https://m.media-amazon.com/images/I/41IfVnKvLvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Geographical Norway'
 buyurl: 'https://www.amazon.es/dp/B07YCW1V53/?tag=tolees-21'
 descuento: '30.30'
-average: '69.6'
+average: '69.45'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

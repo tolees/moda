@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Está hecho con nuestra piel de flor, que mejora con el paso del tiempo y adquiere un suave acabado
 - Guarda tus tarjetas más importantes en este tarjetero de inspiración clásica plegado y con la emblemática imagen de los dos caballos
+- Está hecho con nuestra piel de flor, que mejora con el paso del tiempo y adquiere un suave acabado
 
 [🛒 Visítala!!!]({{< param buyurl >}})

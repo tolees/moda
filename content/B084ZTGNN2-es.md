@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Efectos sutiles de lavado con bigotes
 - Tiene cintura con trabillas para cinturón, botones y cremallera oculta
+- Efectos sutiles de lavado con bigotes
 
 [🛒 Visítala!!!]({{< param buyurl >}})

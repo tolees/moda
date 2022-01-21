@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Adecuada para el día a día
 - Modelo casual
 - Logotipo pequeño de Levis en el pecho
-- Adecuada para el día a día
 
 [🛒 Visítala!!!]({{< param buyurl >}})
