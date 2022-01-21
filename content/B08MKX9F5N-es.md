@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geographical Norway - Parka Hombre Boomerang Ass B 068 Rol 7 AZUL ELÉCTRICO S'
-date: 2022-01-11 17:39:13
+date: 2022-01-21 18:02:36
 image: 'https://m.media-amazon.com/images/I/41KmFhUKLlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Geographical Norway'
 buyurl: 'https://www.amazon.es/dp/B08MKX9F5N/?tag=tolees-21'
 descuento: '30.30'
-average: '66.995'
+average: '67.6633333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
