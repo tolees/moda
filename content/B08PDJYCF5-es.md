@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s The tee Camiseta  Seasonal Sptwr Logo Plein Air  L para Mujer'
-date: 2022-01-21 19:28:08
+date: 2022-01-22 19:58:41
 image: 'https://m.media-amazon.com/images/I/41mqYJzekJS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Modelo casual
-- Tiene estampado la marca Levis
 - Con tacto suave de forro polar
+- Tiene estampado la marca Levis
+- Modelo casual
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
