@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con cuello redondo
 - Ofrece comodidad y libertad de movimiento
+- Con cuello redondo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
