@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuello acanalado
-- Cuello clásico
--  elastano96% algodón 4% elastano
 - Puños contrastantes
+- Cuello clásico
+- Cuello acanalado
+-  elastano96% algodón 4% elastano
 
 [🛒 Aquí!!!]({{< param buyurl >}})
