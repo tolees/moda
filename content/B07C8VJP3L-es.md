@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bolsillos con cremallera, cuello alto, puños elásticos.
 - Las costuras contorneadas aportan una forma ajustada a este abrigo acolchado ligero y resistente al agua.
+- Bolsillos con cremallera, cuello alto, puños elásticos.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
