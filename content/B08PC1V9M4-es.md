@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 100% algodón
 - Corte regular
+- 100% algodón
 
 [🛒 Comprar!!!]({{< param buyurl >}})
