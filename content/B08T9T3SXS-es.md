@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lee Puffer Jacket  Chaqueta  Hombre  Azul  Navy   Large'
-date: 2022-01-11 21:29:22
+date: 2022-01-23 14:32:32
 image: 'https://m.media-amazon.com/images/I/41F5NyhxwxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

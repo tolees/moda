@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Only Onltahoe Hood Jacket Otw Noos Chaqueta  Negro  Black Black   Medium para Mujer'
-date: 2022-01-21 19:26:35
+date: 2022-01-23 14:16:31
 image: 'https://m.media-amazon.com/images/I/41pgyiS1TgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Only'
 buyurl: 'https://www.amazon.es/dp/B07CJLJ6H1/?tag=tolees-21'
 descuento: '39.61'
-average: '30.6208695652173'
+average: '30.6029166666666'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

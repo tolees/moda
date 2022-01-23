@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tejido UA Tech de secado rápido, ultrasuave y de tacto más natural
 - Material que capilariza el sudor y se seca rápidamente
+- Tejido UA Tech de secado rápido, ultrasuave y de tacto más natural
 
 [🛒 Visítala!!!]({{< param buyurl >}})
