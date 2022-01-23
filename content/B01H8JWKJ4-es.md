@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Todas las sandalias de agua Keen son lavables a máquina. Utiliza una pequeña cantidad de detergente, lávala con un ciclo suave y déjala secar al aire.
-- Entresuela de poliuretano, suela exterior de goma no marcada.
 - Material: tela de poliéster lavable. Suela exterior de goma antihuellas. Entresuela de poliuretano. Forro de malla impermeable.
+- Entresuela de poliuretano, suela exterior de goma no marcada.
 - Parte superior de tela de poliéster lavable.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

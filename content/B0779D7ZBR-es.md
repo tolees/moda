@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Esta hecha de 100% poliéster
 - Camiseta de futbol para hombres
-- Cuenta con mangas cortas
-- Con el cuello redondeado
+- Esta hecha de 100% poliéster
 - Tiene un pequeño logotipo de Adidas impreso en el pecho
+- Con el cuello redondeado
+- Cuenta con mangas cortas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
