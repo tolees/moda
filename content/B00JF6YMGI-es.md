@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fossil Collar para Mujer JF01301791'
-date: 2022-01-21 20:01:44
+date: 2022-01-23 11:33:50
 image: 'https://m.media-amazon.com/images/I/215Cu7bMA7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Fossil'
 buyurl: 'https://www.amazon.es/dp/B00JF6YMGI/?tag=tolees-21'
 descuento: '29.02'
-average: '30.805'
+average: '30.9311111111111'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
