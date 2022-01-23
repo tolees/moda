@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Vaqueros para mujer
-- Con tejido elástico desarrollada para esculpir la silueta
 - Tienen una parche de cuero en la parte posterior de la cintura
+- Con tejido elástico desarrollada para esculpir la silueta
+- Vaqueros para mujer
 
 [🛒 Visítala!!!]({{< param buyurl >}})
