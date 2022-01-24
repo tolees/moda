@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Desigual TS cracovia Camiseta  Blanco  S para Mujer'
-date: 2022-01-18 09:37:21
+date: 2022-01-24 17:02:27
 image: 'https://m.media-amazon.com/images/I/51nywl6j+LL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Desigual'
 buyurl: 'https://www.amazon.es/dp/B08CN58NHJ/?tag=tolees-21'
 descuento: '70.09'
-average: '15.95'
+average: '13.95'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Estampado de flores con cenefas boho
 - 95% VISCOSE 5% ELASTANE
 - Cuello de pico cruzado
 - Pinza frontal en el pecho
-- Estampado de flores con cenefas boho
 
 [🛒 Aquí!!!]({{< param buyurl >}})
