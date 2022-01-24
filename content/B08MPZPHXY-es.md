@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Columbia Powder Lite Chaqueta para hombre'
-date: 2022-01-22 23:42:33
+date: 2022-01-24 06:13:48
 image: 'https://m.media-amazon.com/images/I/41pDN15LuKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Columbia'
 buyurl: 'https://www.amazon.es/dp/B08MPZPHXY/?tag=tolees-21'
 descuento: '15.00'
-average: '82.365'
+average: '82.6036363636364'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
