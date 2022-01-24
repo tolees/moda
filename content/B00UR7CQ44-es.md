@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Only Onlroyal High SK Jeans Pim600 Noos Vaqueros  Black  M / 30L para Mujer'
-date: 2022-01-22 16:42:41
+date: 2022-01-23 23:51:17
 image: 'https://m.media-amazon.com/images/I/31bNzvwXGvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Only'
 buyurl: 'https://www.amazon.es/dp/B00UR7CQ44/?tag=tolees-21'
 descuento: '43.20'
-average: '9.99'
+average: '10.388'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Skinny
 - Cierre: Cremallera
 - Recomendamos adquirir la talla más grande
-- Skinny
 
 [🛒 Comprar!!!]({{< param buyurl >}})
