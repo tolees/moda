@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Corte cómodo e informal
 - Estampado frontal con el logo de Wrangler
 - Tejido ligero primaveral
-- Corte cómodo e informal
 
 [🛒 Visítala!!!]({{< param buyurl >}})

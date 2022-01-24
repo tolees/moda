@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geographical Norway - Parka De Hombre Boomerang VERDE OSCURO XXL'
-date: 2022-01-11 17:43:27
+date: 2022-01-24 19:46:54
 image: 'https://m.media-amazon.com/images/I/41p2mWHcnHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Geographical Norway'
 buyurl: 'https://www.amazon.es/dp/B08ML6FM4M/?tag=tolees-21'
 descuento: '30.30'
-average: '56.2666666666667'
+average: '59.45'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
