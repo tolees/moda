@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tommy Hilfiger hombres S/S camisetas
 - Este es un producto original y auténtico de Tommy Hilfiger.
 - Este producto se produce de forma sostenible
+- Tommy Hilfiger hombres S/S camisetas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
