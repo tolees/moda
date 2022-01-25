@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Geox Man U RENAN E SHOES BLACK 46 EU'
-date: 2022-01-10 01:31:50
+title: 'Geox Man U RENAN E SHOES BLACK 40 EU'
+date: 2022-01-25 03:20:05
 image: 'https://m.media-amazon.com/images/I/41GuBTyedeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B08QMRPKDK-es Geox Man U RENAN E SHOES BLACK 46 EU'
-sku: 'B08QMRPKDK-es'
+slug: 'B08QMKVP38-es Geox Man U RENAN E SHOES BLACK 40 EU'
+sku: 'B08QMKVP38-es'
 tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','geox', ]
-actualPrice: 41.58 EUR
+actualPrice: 40.12 EUR
 currency: EUR
-price: 41.58
+price: 40.12
 comparePrice: 99.9 EUR
-prodname: 'Geox Man U RENAN E SHOES BLACK 46 EU'
+prodname: 'Geox Man U RENAN E SHOES BLACK 40 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Geox'
-buyurl: 'https://www.amazon.es/dp/B08QMRPKDK/?tag=tolees-21'
-descuento: '58.38'
-average: '41.58'
+buyurl: 'https://www.amazon.es/dp/B08QMKVP38/?tag=tolees-21'
+descuento: '59.84'
+average: '40.12'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fácil de llevar para un confort optimo
-- Plantilla desmontable
-- Calce fácil y regulable con cremallera y cordones
 - Los sistemas patentados Geox ofrecen la transpirabilidad de la suela y el bienestar del pie
+- Plantilla desmontable
+- Fácil de llevar para un confort optimo
+- Calce fácil y regulable con cremallera y cordones
 
 [🛒 Aquí!!!]({{< param buyurl >}})
