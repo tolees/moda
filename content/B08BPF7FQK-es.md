@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Composición: 100% algodón
-- Tejido de caña especialmente resistente
 - Camisa
 - De algodón agradable
+- Tejido de caña especialmente resistente
 
 [🛒 Visítala!!!]({{< param buyurl >}})
