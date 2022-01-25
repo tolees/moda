@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Logotipo clásico impreso en el pecho y "C" en la manga izquierda
 - Cintura y puños elásticos
-- Bolsillo canguro
 - Cordón de ajuste bicolor
+- Bolsillo canguro
+- Logotipo clásico impreso en el pecho y "C" en la manga izquierda
 
 [🛒 Aquí!!!]({{< param buyurl >}})

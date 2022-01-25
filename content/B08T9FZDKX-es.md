@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvin Klein Jeans Shrunken Institutional LS Tee  Camiseta para Mujer  Blanco  Hellweiß/Schwarz   M'
-date: 2022-01-22 16:50:47
+date: 2022-01-25 16:34:03
 image: 'https://m.media-amazon.com/images/I/31+WeTjwcYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Calvin Klein'
 buyurl: 'https://www.amazon.es/dp/B08T9FZDKX/?tag=tolees-21'
 descuento: '44.01'
-average: '21.145'
+average: '21.5433333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

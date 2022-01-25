@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- [BASIC FEATURES]: Shell: 100% PU Leather, Lining: 100% Polyester, Front Zip Closure, Long Sleeves, 2 pockets.
-- [CÁLIDO Y CÓMODO]: la suave carcasa de PU puede mantenerte cómodo en otoño y primavera.
 - [CONSEJO DE TALLA]: El tamaño es un poco grande. Recomendamos una talla más pequeña de su talla de ropa habitual Para obtener más información sobre el tamaño, consulte nuestra tabla de tallas. Póngase en contacto con nosotros si tiene alguna pregunta sobre la calidad de nuestro producto o si tiene alguna dificultad con respecto al tamaño y la entrega.
 - [BOLSILLOS]: Dos bolsillos con cremallera con forro de seda son buenos para calentar tus manos y guardar tus pertenencias.
 - [RESISTENTE Y FÁCIL DE CUIDAR]: Hecho de cuero de PU, la chaqueta de moto es fácil de cuidar con el mantenimiento adecuado y esta tela se mantendrá con un aspecto fresco y nuevo. Para que pueda usarlo durante muchos años por su alta calidad y, de estilo clásico atemporal.
+- [CÁLIDO Y CÓMODO]: la suave carcasa de PU puede mantenerte cómodo en otoño y primavera.
+- [BASIC FEATURES]: Shell: 100% PU Leather, Lining: 100% Polyester, Front Zip Closure, Long Sleeves, 2 pockets.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

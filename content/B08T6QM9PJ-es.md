@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fabricadas en tela suave qur proporciona comodidad
 - Cinturilla elástica distintiva de Calvin Klein
+- Fabricadas en tela suave qur proporciona comodidad
 - Pack de 2 braguitas Hipster para niñas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

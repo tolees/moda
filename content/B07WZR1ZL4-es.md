@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- zapatillas deportivas hombre mujer
-- zapatillas trail running hombre mujer
 - zapatillas running hombre mujer
 - zapatillas trekking hombre mujer
+- zapatillas deportivas hombre mujer
+- zapatillas trail running hombre mujer
 - zapatillas casual hombre sneakers hombres mujer
 
 [🛒 Comprar!!!]({{< param buyurl >}})

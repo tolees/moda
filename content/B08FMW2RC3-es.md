@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Logo impreso inspirado en la cómic.
 - Logo clásico impreso en la manga izquierda.
+- Logo impreso inspirado en la cómic.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
