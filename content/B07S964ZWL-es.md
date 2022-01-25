@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Referencia: EE7888-453
 - Marca: Adidas
+- Referencia: EE7888-453
 - Color: blanco
 - Hombre > Zapatos > Zapatillas
 
