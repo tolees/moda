@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 80 Dress & One Piece D3 Woven Dress/One Piece LS Ecovero Twist Dress
 - Una mezcla que contiene ECOVERO de fuentes sostenibles de bosques gestionados de manera responsable certificado por el Consejo de Administración Forestal o el Programa para el Reconocimiento de Certificación Forestal
+- 80 Dress & One Piece D3 Woven Dress/One Piece LS Ecovero Twist Dress
 
 [🛒 Aquí!!!]({{< param buyurl >}})
