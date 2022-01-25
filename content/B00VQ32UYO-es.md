@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Camiseta Abanderado Imperio 300 Pack 2   Ref 2300 '
-date: 2022-01-24 12:04:43
+date: 2022-01-25 18:13:47
 image: 'https://m.media-amazon.com/images/I/31-gHbHgMIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Abanderado'
 buyurl: 'https://www.amazon.es/dp/B00VQ32UYO/?tag=tolees-21'
 descuento: '26.66'
-average: '14.3009090909091'
+average: '14.1934782608696'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
