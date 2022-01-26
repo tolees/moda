@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Revestimiento: Malla
 - Material de la suela: Goma
+- Material exterior: Sintético
 - Cierre: Velcro
 - Tipo de tacón: Plano
-- Material exterior: Sintético
-- Revestimiento: Malla
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
