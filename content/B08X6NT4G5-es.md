@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cómodo y fresco, así es este pijama corto de dos piezas 100% algodón orgánico.
-- Top de tirantes anchos, con escote redondo y botones en nácar el centro.
 - Para estar en casa o para dormir.
 - Pantalón corto con estampado mini hojas y cinturilla ajustable con lazada.
+- Top de tirantes anchos, con escote redondo y botones en nácar el centro.
+- Cómodo y fresco, así es este pijama corto de dos piezas 100% algodón orgánico.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

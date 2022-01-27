@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Only Onlcarrie Bonded Coat Otw Noos Abrigo  Light Grey Melange  XS para Mujer'
-date: 2022-01-26 15:33:21
+date: 2022-01-27 17:22:50
 image: 'https://m.media-amazon.com/images/I/41UvoLdIWQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ajuste: normal
 - Modelo: Onlcarrie Bonded Coat Otw Noos
 - Estándar
+- Ajuste: normal
 
 [🛒 Visítala!!!]({{< param buyurl >}})
