@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'XTI 86561  Bolso de Mujer  Negro  Talla única'
-date: 2022-01-21 14:54:26
+date: 2022-01-27 19:05:51
 image: 'https://m.media-amazon.com/images/I/31o641l9hDS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
