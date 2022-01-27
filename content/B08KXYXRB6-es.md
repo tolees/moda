@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sudadera con capucha
 - Jersey sencillo
+- Sudadera con capucha
 - Sudadera con capucha de material sostenible
 - Sudadera con capucha de color liso
 - Sudadera con capucha de algodón
