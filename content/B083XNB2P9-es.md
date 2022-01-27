@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Esprit 990Ee1B302 Pantalón Chino  Gris  Light Grey 040   32W / 30L para Mujer'
-date: 2022-01-16 19:03:31
-image: 'https://m.media-amazon.com/images/I/31BdqzXHq4L._SL500_._SL400_.jpg'
+date: 2022-01-27 13:44:20
+image: 'https://m.media-amazon.com/images/I/31D9525V8ZS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
