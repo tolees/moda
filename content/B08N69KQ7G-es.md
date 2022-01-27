@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Silueta de correr retro sin edad en una versión de bloqueo de color
 - Cheerfull
+- Silueta de correr retro sin edad en una versión de bloqueo de color
 
 [🛒 Visítala!!!]({{< param buyurl >}})
