@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Parche de fieltro G-Star RAW en el pecho
-- Manga larga – Inserto recto – Puños acanalados
 - Capucha con cordón, escote cruzado en la parte delantera
-- Dobladillo recto, diseño acanalado
 - Bolsillo tipo canguro
+- Dobladillo recto, diseño acanalado
+- Manga larga – Inserto recto – Puños acanalados
 
 [🛒 Comprar!!!]({{< param buyurl >}})

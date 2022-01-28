@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Regular fit
-- Hood with lanyard
 - Kangaroo pocket
+- Hood with lanyard
+- Regular fit
 
 [🛒 Aquí!!!]({{< param buyurl >}})

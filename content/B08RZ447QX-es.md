@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Capucha con cordón, escote cruzado en la parte delantera
-- Parche de fieltro G-Star RAW en el pecho
-- Dobladillo recto, diseño acanalado
 - Bolsillo tipo canguro
 - Manga larga – Inserto recto – Puños acanalados
+- Dobladillo recto, diseño acanalado
+- Capucha con cordón, escote cruzado en la parte delantera
+- Parche de fieltro G-Star RAW en el pecho
 
 [🛒 Visítala!!!]({{< param buyurl >}})
