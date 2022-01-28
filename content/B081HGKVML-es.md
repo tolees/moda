@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Items delivered: 1x Helly Hansen Mens - Driftline Polo Apparel Cherry Tomato S
-- Corte lateral
-- Cuello y puños de canalé
 - Tapeta con botones en la parte delantera
+- Cuello y puños de canalé
+- Corte lateral
 - Piqué panal de Tactel de secado rápido de 195 g/m²
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
