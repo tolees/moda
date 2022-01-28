@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Estilo contemporáneo con una sensación retro.
-- (Detalle de costura en el lado del zig-zag covered by seal)
 - Logotipo de FILA bordado en relieve.
+- (Detalle de costura en el lado del zig-zag covered by seal)
+- Estilo contemporáneo con una sensación retro.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
