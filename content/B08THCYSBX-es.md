@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Desigual Kids - Vestido trapecio con animal print de leopardo
-- Animal print de leopardo con dibujos ocultos
-- Silueta avolantada
-- Machine Wash Cold Inside Out, Mild Wash
 - Vestido trapecio corto con manga larga y animal print de leopardo amarillo. Versión Mini Me de una prenda de la colección de mujer. Nueva colección Kids OI21 Desigual.
+- Machine Wash Cold Inside Out, Mild Wash
+- Desigual Kids - Vestido trapecio con animal print de leopardo
+- Silueta avolantada
+- Animal print de leopardo con dibujos ocultos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

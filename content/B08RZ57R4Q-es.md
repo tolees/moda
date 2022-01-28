@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Manga corta
-- Dobladillo recto
-- Etiqueta original tejida en el pecho
-- Cuello redondo acanalado
 - 2 unidades
+- Dobladillo recto
+- Cuello redondo acanalado
+- Etiqueta original tejida en el pecho
 
 [🛒 Comprar!!!]({{< param buyurl >}})

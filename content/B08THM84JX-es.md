@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Vestido corto azul de talle alto en tul con estampado arty de flores. Versión Mini Me de una prenda de la colección de mujer. Nueva colección Kids OI21 Desigual.
-- Desigual Kids - Vestido de talle alto con estampado de flores arty
-- Machine Wash in Cold Water
-- Capa exterior de tul
 - Estampado arty de flores en estilo acuarela
+- Capa exterior de tul
+- Vestido corto azul de talle alto en tul con estampado arty de flores. Versión Mini Me de una prenda de la colección de mujer. Nueva colección Kids OI21 Desigual.
+- Machine Wash in Cold Water
+- Desigual Kids - Vestido de talle alto con estampado de flores arty
 
 [🛒 Comprar!!!]({{< param buyurl >}})

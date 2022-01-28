@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s 502 Taper Vaqueros  Squeezy Junction  31W / 34L para Hombre'
-date: 2022-01-16 14:03:26
+date: 2022-01-28 17:03:31
 image: 'https://m.media-amazon.com/images/I/41QqLw2Ok2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B08PFBHHJW/?tag=tolees-21'
 descuento: '50.00'
-average: '45.05'
+average: '48.3666666666667'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
