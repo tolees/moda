@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geographical Norway - Chaqueta Hombre Boker NEGRO XL'
-date: 2022-01-26 17:33:03
+date: 2022-01-28 09:39:52
 image: 'https://m.media-amazon.com/images/I/41i1TXOk0sL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Geographical Norway'
 buyurl: 'https://www.amazon.es/dp/B08MQ8KJDB/?tag=tolees-21'
 descuento: '30.30'
-average: '63.8'
+average: '64.45'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
