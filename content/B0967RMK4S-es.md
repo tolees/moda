@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con un colorido diseño y un pin en forma de nuestro famoso Like.
 - Hecho de rPET, un material ecofriendly.
+- Con un colorido diseño y un pin en forma de nuestro famoso Like.
 - Un bonito monedero con cierre de cremallera y un mensaje de amor propio muy potente.
 - Único y con materiales de calidad.
 - Producto original Mr. Wonderful

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 2 bolsillos laterales cerrados
 - Abrigo largo para mujer con cuello de solapa grande
 - Abrigo con mangas largas y dos botones grandes en el centro frontal
-- 2 bolsillos laterales cerrados
 - Composición: 100% poliéster
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
