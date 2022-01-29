@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas CORE18 TR Top Sudadera  Hombre  Power Red/White  2XL'
-date: 2022-01-24 18:08:13
+date: 2022-01-29 18:56:06
 image: 'https://m.media-amazon.com/images/I/41j9+gbB4FS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076HQXKFQ/?tag=tolees-21'
 descuento: '34.91'
-average: '20.8966666666667'
+average: '21.36'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Chaqueta de entrenamiento para hombre
-- Tiene cierre con cremallera hasta el pecho
-- Con tecnología Climalite que elimina el sudor
 - Con el logotipo de Adidas bordado en el pecho
+- Con tecnología Climalite que elimina el sudor
+- Tiene cierre con cremallera hasta el pecho
+- Chaqueta de entrenamiento para hombre
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
