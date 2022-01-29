@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Este es un producto original y auténtico de Tommy Jeans
 - Tommy Jeans Chaquetas de mezclilla para mujer
+- Este es un producto original y auténtico de Tommy Jeans
 
 [🛒 Aquí!!!]({{< param buyurl >}})

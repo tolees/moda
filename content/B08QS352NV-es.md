@@ -29,7 +29,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Original y vintage
-- El acolchado de esta chaqueta está hecho con 100 % poliéster reciclado, cada chaqueta contiene hasta 30 botellas recicladas, esto evita que estas botellas vayan a un vertedero o que contaminen el mar
 - La ropa Superdry está fabricada con el equilibrio adecuado entre estilo y comodidad; recomendamos una talla más grande que las marcas usuales para una experiencia de superdry
+- El acolchado de esta chaqueta está hecho con 100 % poliéster reciclado, cada chaqueta contiene hasta 30 botellas recicladas, esto evita que estas botellas vayan a un vertedero o que contaminen el mar
 
 [🛒 Visítala!!!]({{< param buyurl >}})

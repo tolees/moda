@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Código Superdry
 - Superdry ha recibido la certificación Responsible Down Standard que confirma que nuestros productos rellenos de plumón proceden de fuentes que garantizan el bienestar de los animales
+- Código Superdry
 - La ropa Superdry está fabricada con el equilibrio adecuado entre estilo y comodidad; recomendamos una talla más grande que las marcas usuales para una experiencia de superdry
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

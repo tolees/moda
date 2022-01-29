@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Machine Wash in Cold Water
-- Estampado de mensaje circular en la espalda
-- Desigual - Parka militar de mujer reversible
 - Parka militar de lona verde con bordados y cenefas boho. Es reversible y puede lucirse por una segunda cara de tejido efecto peluche. Nueva colección Mujer OI21 Desigual.
+- Estampado de mensaje circular en la espalda
 - Bordados boho
+- Desigual - Parka militar de mujer reversible
 
 [🛒 Comprar!!!]({{< param buyurl >}})
