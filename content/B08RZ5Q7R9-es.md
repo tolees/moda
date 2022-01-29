@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Manga corta
+- 2 unidades
 - Etiqueta original tejida en el pecho
 - Dobladillo recto
-- 2 unidades
 - Cuello redondo acanalado
+- Manga corta
 
 [🛒 Comprar!!!]({{< param buyurl >}})

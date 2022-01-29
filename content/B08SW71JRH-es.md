@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Calce: regular
-- Longitud: 66 cm
-- Bolsillos con forro abrigado
-- Tejido hidrófugo y suave
-- Capuchón fijo
 - Relleno ecológico de pluma sintética reciclada Ecologic Warm
 - Exclusivo sistema transpirante patentado Geox
+- Bolsillos con forro abrigado
+- Longitud: 66 cm
+- Capuchón fijo
+- Tejido hidrófugo y suave
+- Calce: regular
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
