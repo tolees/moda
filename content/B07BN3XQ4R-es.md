@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazon Essentials - Chaqueta acolchada  ligera  resistente al agua y plegable para hombre  Negro  Black   US XL  EU XL - XXL '
-date: 2022-01-23 18:42:58
+date: 2022-01-30 16:41:06
 image: 'https://m.media-amazon.com/images/I/41T3GuPJSDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
