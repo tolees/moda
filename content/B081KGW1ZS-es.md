@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Xa PRO 3D V8 W
 - Color: Aqua Gray/Urban Chic/Tropical Peach
+- Xa PRO 3D V8 W
 - Salomon
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
