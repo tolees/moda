@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvin Klein J20J207877 Sudadera  Negro  CK Black 099   S para Mujer'
-date: 2022-01-22 18:45:09
+date: 2022-01-30 20:18:00
 image: 'https://m.media-amazon.com/images/I/31KNiDVUmpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -30,7 +30,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Cuello, Puños y bajo de canalé
 - Cuello redondo
-- Punto de felpa de algodón
 - Ajuste relaxed
+- Punto de felpa de algodón
 
 [🛒 Comprar!!!]({{< param buyurl >}})
