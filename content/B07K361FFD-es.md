@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Adilette Aqua Chanclas Unisex Adulto  Core Black Core Black Core Black  37 EU'
-date: 2022-01-21 12:11:25
+date: 2022-01-31 13:58:35
 image: 'https://m.media-amazon.com/images/I/31FfjQLhHVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte regular
 - Cinturón de EVA preformado de una pieza
 - Diseño del Slip-On
+- Corte regular
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
