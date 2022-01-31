@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Punto 100% algodón
-- Corte entallado
 - Ropa deportiva fabricada con materiales de primera calidad que se adaptan a cualquier actividad deportiva
+- Corte entallado
 - Cuello redondo
 - Los productos deportivos de la marca adidas están diseñados para que disfrutes de tu deporte favorito sin preocuparte de nada más que rendir al máximo
 

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bolsillos tipo canguro
 - Cordón ajustable
 - Diseñado para aguantar bajas temperaturas
 - Chaqueta tipo canguro
-- Capucha fija con pelo sinténtico desmontable
 - Tipo de tejido: sarga
+- Bolsillos tipo canguro
+- Capucha fija con pelo sinténtico desmontable
 
 [🛒 Comprar!!!]({{< param buyurl >}})
