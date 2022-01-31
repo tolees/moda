@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s The tee Camiseta  Seasonal Mv Logo Starstruck Heather Grey  M para Mujer'
-date: 2022-01-28 17:07:16
+date: 2022-01-31 09:51:39
 image: 'https://m.media-amazon.com/images/I/41+pnph0ssS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B08PDK7CM9/?tag=tolees-21'
 descuento: '33.03'
-average: '10.4'
+average: '9.9'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tiene estampado la marca Levis
 - Con tacto suave de forro polar
+- Tiene estampado la marca Levis
 - Modelo casual
 
 [🛒 Comprar!!!]({{< param buyurl >}})
