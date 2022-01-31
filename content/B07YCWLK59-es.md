@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geographical Norway Parka de Hombre-Boomerang-Negro-XL  Black'
-date: 2022-01-21 18:02:09
+date: 2022-01-31 17:59:48
 image: 'https://m.media-amazon.com/images/I/31gNI7xnEBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Capucha fija con pelo sinténtico desmontable
 - Bolsillos tipo canguro
 - Cordón ajustable
 - Diseñado para aguantar bajas temperaturas
-- Tipo de tejido: sarga
 - Chaqueta tipo canguro
+- Capucha fija con pelo sinténtico desmontable
+- Tipo de tejido: sarga
 
 [🛒 Comprar!!!]({{< param buyurl >}})
