@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Lavar a la maquina
-- Ajuste regular
 - Bolsillo canguro
 - Capucha con cordón
+- Ajuste regular
+- Lavar a la maquina
 
 [🛒 Aquí!!!]({{< param buyurl >}})
