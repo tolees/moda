@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Altura del tacón: 2 cm / 0.8 inch
 - Fácil de llevar para un confort optimo
+- Altura del tacón: 2 cm / 0.8 inch
 - Calzado ligero para una libertad de movimiento
 - Calzado sin cierre
 - Los sistemas patentados Geox ofrecen la transpirabilidad de la suela y el bienestar del pie
