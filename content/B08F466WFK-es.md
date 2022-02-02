@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Color: black iris
 - Tipo de sudadera: deportiva con capucha rosso larkin
 - Tamaño de la sudadera: s
+- Color: black iris
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -31,8 +31,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - Calzado que ofrece una amortiguación óptima y protege contra choques y esfuerzos
 - Calzado sin cierre
 - Calzado ligero para una libertad de movimiento
-- Fácil de llevar para un confort optimo
 - Altura del tacón: 7.5 cm / 3 inch
+- Fácil de llevar para un confort optimo
 - Los sistemas patentados Geox ofrecen la transpirabilidad de la suela y el bienestar del pie
 
 [🛒 Aquí!!!]({{< param buyurl >}})
