@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Wrangler Logo Tee  Camiseta  Hombre  Negro  Black 100   Small'
-date: 2022-01-20 17:10:52
+date: 2022-02-02 17:39:53
 image: 'https://m.media-amazon.com/images/I/31mmTWsmKLS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Wrangler'
 buyurl: 'https://www.amazon.es/dp/B07M95XMB9/?tag=tolees-21'
 descuento: '49.97'
-average: '10.88'
+average: '10.73'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Corte cómodo e informal
 - Estampado frontal con el logo de Wrangler
 - Tejido ligero primaveral
-- Corte cómodo e informal
 
 [🛒 Comprar!!!]({{< param buyurl >}})
