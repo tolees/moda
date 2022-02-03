@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Camiseta de color liso
-- Camiseta de corte recto
-- Camiseta con cuello redondo
-- Material sostenible
 - Camiseta de algodón
+- Camiseta con cuello redondo
+- Camiseta de corte recto
+- Material sostenible
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s New Original Zip Up Sudadera  olive night  XXL para Hombre'
-date: 2022-01-26 22:39:20
+date: 2022-02-03 18:44:09
 image: 'https://m.media-amazon.com/images/I/41RUJuQiSML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07ZVQB9DM/?tag=tolees-21'
 descuento: '15.73'
-average: '57.85'
+average: '59.6333333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

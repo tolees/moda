@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- <strong>PROTEGE TU MÓVIL</strong>: Carcasa colgante de TPU de alta resistencia. Los bumpers de las esquinas protegen tu móvil de caídas y evitan golpes en la pantalla
 - <strong>EVITA EL BOLSO</strong>: Con nuestro collar para móvil puedes llevar el móvil colgando sin necesidad de cargar con todo el bolso solo para el móvil.
 - <strong>PROTEGE TU ESTILO</strong>: Combina los distintos colores del cordón para completar tu estilo. Detalles en dorado duraderos hechos de latón.
 - <strong>CUERDA RESISTENTE</strong>: De 1,5m y hecha de PPM de calidad; No absorbe humedad; No se deshilacha.
 - <strong>COMODIDAD Y TENDENCIA</strong>: Te preguntarás cómo has vivido antes sin tu funda con cordón. Un complemento de moda práctico y de tendencia
+- <strong>PROTEGE TU MÓVIL</strong>: Carcasa colgante de TPU de alta resistencia. Los bumpers de las esquinas protegen tu móvil de caídas y evitan golpes en la pantalla
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Altura del tacón: 2.0 centímetros
-- Tipo de talla: Los zapatos Geox son holgados
-- Anchura del zapato: Normal
 - Composición: 100% Sintético
-- Cierre: Velcro
-- Tipo de tacón: Plano
 - Material de la suela: Sintético
-- Material exterior: Sintético
+- Anchura del zapato: Normal
+- Altura del tacón: 2.0 centímetros
 - Revestimiento: Malla
+- Tipo de tacón: Plano
+- Tipo de talla: Los zapatos Geox son holgados
+- Material exterior: Sintético
+- Cierre: Velcro
 
 [🛒 Aquí!!!]({{< param buyurl >}})
