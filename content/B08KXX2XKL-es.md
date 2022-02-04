@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones JJEORGANIC Basic tee SS O-Neck Noos Camiseta  Rosa pálida. Detalles: Fino  M para Hombre'
-date: 2022-02-03 14:52:26
+date: 2022-02-04 18:57:14
 image: 'https://m.media-amazon.com/images/I/41yjRbR0oRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Camiseta de color liso
 - Camiseta de corte recto
+- Material sostenible
+- Camiseta de color liso
 - Camiseta de algodón
 - Camiseta con cuello redondo
-- Material sostenible
 
 [🛒 Visítala!!!]({{< param buyurl >}})
