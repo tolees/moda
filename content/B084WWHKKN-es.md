@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox D Sandal Vega B  Sandalia. Mujer  Blanco  35 EU'
-date: 2022-02-02 06:16:42
+date: 2022-02-04 01:59:12
 image: 'https://m.media-amazon.com/images/I/31HWA9ZluzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B084WWHKKN/?tag=tolees-21'
 descuento: '15.21'
-average: '17.0766666666667'
+average: '16.695'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

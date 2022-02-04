@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox Woman D BULMYA A SNEAKERS OLD ROSE 36 EU'
-date: 2022-01-31 02:33:05
+date: 2022-02-04 03:55:01
 image: 'https://m.media-amazon.com/images/I/41z4DFm1RPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08PKTGHSZ-es Geox Woman D BULMYA A SNEAKERS OLD ROSE 36 EU'
 sku: 'B08PKTGHSZ-es'
 tags: [ 'Zapatillas casual para mujer','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','geox', ]
-actualPrice: 43.67 EUR
+actualPrice: 41.28 EUR
 currency: EUR
-price: 43.67
+price: 41.28
 comparePrice: 79.9 EUR
 prodname: 'Geox Woman D BULMYA A SNEAKERS OLD ROSE 36 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B08PKTGHSZ/?tag=tolees-21'
-descuento: '45.34'
-average: '52.095'
+descuento: '48.34'
+average: '48.49'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
