@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s New Original Hoodie Sudadera con capucha  Eco Gray Heather  S para Hombre'
-date: 2022-01-25 18:52:59
+date: 2022-02-04 20:20:57
 image: 'https://m.media-amazon.com/images/I/41CYAZnoMZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07ZVPDT17/?tag=tolees-21'
 descuento: '30.71'
-average: '38.6428571428571'
+average: '39.875'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
