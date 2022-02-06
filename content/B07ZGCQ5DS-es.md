@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvin Klein Jeans CK Essential Slim tee Camiseta  Bright White  M para Hombre'
-date: 2022-02-04 18:45:19
+date: 2022-02-06 01:01:16
 image: 'https://m.media-amazon.com/images/I/31FHIZ4eeoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello redondo
-- Mangas cortas
-- Ribete con raya en el interior del cuello
-- Ajuste slim
 - Algodón orgánico
+- Cuello redondo
+- Ribete con raya en el interior del cuello
+- Mangas cortas
+- Ajuste slim
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
