@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Eastpak Buddy Bolso bandolera  18 cm  Azul  Cloud Navy '
-date: 2022-02-04 21:26:51
+date: 2022-02-05 22:33:19
 image: 'https://m.media-amazon.com/images/I/31PfUu9VzBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'EASTPAK'
 buyurl: 'https://www.amazon.es/dp/B0774H5YCX/?tag=tolees-21'
 descuento: '50.00'
-average: '14.1666666666667'
+average: '13.9285714285715'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Altura: 18 cm, Ancho: 13 cm, Fondo: 2 cm
 - Fabricado 100 % en nylon
+- Altura: 18 cm, Ancho: 13 cm, Fondo: 2 cm
 - Correa de hombro ajustable para que puedas llevarla como quieras
 - Aprovecha el espacio al máximo con el amplio compartimento principal
 

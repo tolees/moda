@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s The tee Camiseta  Sptwr Logo Gradient Starstruck Heather Grey  S para Mujer'
-date: 2022-02-04 21:49:01
+date: 2022-02-05 22:49:14
 image: 'https://m.media-amazon.com/images/I/41X8opTPPJS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Modelo casual
 - Con tacto suave de forro polar
 - Tiene estampado la marca Levis
+- Modelo casual
 
 [🛒 Aquí!!!]({{< param buyurl >}})
