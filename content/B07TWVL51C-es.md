@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'KEEN Clearwater CNX  Sandalias  para Hombre  Verde  Forest Night/Black   42 EU'
-date: 2022-02-07 10:02:32
+date: 2022-02-08 10:54:40
 image: 'https://m.media-amazon.com/images/I/41+MBGwhneL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Keen'
 buyurl: 'https://www.amazon.es/dp/B07TWVL51C/?tag=tolees-21'
 descuento: '39.01'
-average: '64.3233333333333'
+average: '63.49'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
