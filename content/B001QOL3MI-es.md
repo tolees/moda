@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s 501 Original  Vaqueros  Black 80701  31W / 30L para Hombre'
-date: 2022-02-08 10:55:23
+date: 2022-02-09 11:52:04
 image: 'https://m.media-amazon.com/images/I/31xmWNpwJ0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B001QOL3MI/?tag=tolees-21'
 descuento: '25.58'
-average: '65.25'
+average: '65.3941666666667'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
