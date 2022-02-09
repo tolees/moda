@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Adidas CORE18 Hoody Sudadera con Capucha  Hombre  Gris  Gris/Negro   L'
-date: 2022-02-08 16:58:40
+date: 2022-02-09 17:52:23
 image: 'https://m.media-amazon.com/images/I/41KNh7YcEbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B076HQ6P5F-es Adidas CORE18 Hoody Sudadera con Capucha Hombre Gris...'
 sku: 'B076HQ6P5F-es'
 tags: [ 'Jerséis, cárdigans y sudaderas para hombre','Ropa','Ropa para hombre','Sudaderas con capucha para hombre','Sudaderas para hombre','adidas','sudadera', ]
-actualPrice: 24.97 EUR
+actualPrice: 24.95 EUR
 currency: EUR
-price: 24.97
+price: 24.95
 comparePrice: 39.99 EUR
 prodname: 'Adidas CORE18 Hoody Sudadera con Capucha  Hombre  Gris  Gris/Negro   L'
 country: 'es'
 flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076HQ6P5F/?tag=tolees-21'
-descuento: '37.56'
-average: '26.3905681818182'
+descuento: '37.61'
+average: '26.3743820224719'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Costuras laterales abiertas para una mayor libertad de movimiento.
 - Logotipo de adidas a la derecha del pecho.
-- Bolsillo canguro
 - Etiqueta sobre el dobladillo izquierdo.
+- Costuras laterales abiertas para una mayor libertad de movimiento.
+- Bolsillo canguro
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

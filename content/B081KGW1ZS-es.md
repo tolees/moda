@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Salomon XA Pro 3D V8 Mujer Zapatos de trail running  Gris  Aqua Gray/Urban Chic/Tropical Peach   45 ⅓ EU'
-date: 2022-01-30 17:39:17
+date: 2022-02-09 19:34:14
 image: 'https://m.media-amazon.com/images/I/4169E4J3vaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SALOMON'
 buyurl: 'https://www.amazon.es/dp/B081KGW1ZS/?tag=tolees-21'
 descuento: '34.98'
-average: '82.31'
+average: '82.6214285714286'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Color: Aqua Gray/Urban Chic/Tropical Peach
-- Xa PRO 3D V8 W
 - Salomon
+- Xa PRO 3D V8 W
+- Color: Aqua Gray/Urban Chic/Tropical Peach
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

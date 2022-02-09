@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Joma Combi - Camiseta de Manga Corta  Hombre  Naranja  2XL-3XL'
-date: 2022-02-08 17:17:49
+date: 2022-02-09 18:12:12
 image: 'https://m.media-amazon.com/images/I/31i-j06FG9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Joma'
 buyurl: 'https://www.amazon.es/dp/B088RBB3N6/?tag=tolees-21'
 descuento: '15.89'
-average: '11.9376923076922'
+average: '11.8389999999999'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
