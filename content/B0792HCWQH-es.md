@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox D TABELYA A  Zapatillas Mujer  Verde  Dk Forest C3019   35 EU'
-date: 2022-01-31 02:14:48
+date: 2022-02-10 19:47:16
 image: 'https://m.media-amazon.com/images/I/41DDwhzElKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B0792HCWQH/?tag=tolees-21'
 descuento: '35.89'
-average: '61.778'
+average: '65.3616666666667'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
