@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s SS Original Hm tee Camiseta  Pineneedle  S para Hombre'
-date: 2022-02-01 12:06:11
+date: 2022-02-10 11:34:05
 image: 'https://m.media-amazon.com/images/I/31NbBkxvN2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B08PDJ6FSS/?tag=tolees-21'
 descuento: '49.98'
-average: '14.1666666666667'
+average: '13.75'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
