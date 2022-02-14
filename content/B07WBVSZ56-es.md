@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jjesheridan Shirt L/s Noos Camisa  Mezclilla Azul Claro  XXL para Hombre'
-date: 2022-01-31 09:53:40
+date: 2022-02-14 14:47:51
 image: 'https://m.media-amazon.com/images/I/41g9sfSUXmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B07WBVSZ56/?tag=tolees-21'
 descuento: '20.01'
-average: '18.99'
+average: '18.39'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
