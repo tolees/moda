@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Sportswear Graphic Camiseta  Blanco  84 Logo White   3XL para Hombre'
-date: 2022-02-07 19:27:48
+date: 2022-02-14 22:08:32
 image: 'https://m.media-amazon.com/images/I/41t+CGoXG7S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B078WK16SQ-es Levi s Sportswear Graphic Camiseta Blanco 84 Logo White...'
 sku: 'B078WK16SQ-es'
 tags: [ 'Camisetas para hombre','Camisetas, polos y camisas para hombre','Ropa','Ropa para hombre','camiseta','levis', ]
-actualPrice: 19.09 EUR
+actualPrice: 18.48 EUR
 currency: EUR
-price: 19.09
+price: 18.48
 comparePrice: 25.0 EUR
 prodname: 'Levi s Sportswear Graphic Camiseta  Blanco  84 Logo White   3XL para Hombre'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B078WK16SQ/?tag=tolees-21'
-descuento: '23.64'
-average: '19.8375'
+descuento: '26.08'
+average: '19.566'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Con el logotipo deportivo de Levis
 - Modelo casual
 - Fabricada en tejido ligero
-- Con el logotipo deportivo de Levis
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
