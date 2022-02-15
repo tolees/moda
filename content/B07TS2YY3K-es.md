@@ -1,0 +1,35 @@
+---
+layout: post
+title: 'Levi s Housemark Graphic tee Camiseta  Red  Hm Ssnl Tonal Earth Red 0276   XXS para Hombre'
+date: 2022-02-15 18:29:47
+image: 'https://m.media-amazon.com/images/I/41lsZKlq7mL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B07TS2YY3K-es Levi s Housemark Graphic tee Camiseta Red Hm Ssnl Tonal...'
+sku: 'B07TS2YY3K-es'
+tags: [ 'Camisetas para hombre','Camisetas, polos y camisas para hombre','Ropa','Ropa para hombre','camiseta','levis', ]
+actualPrice: 11.44 EUR
+currency: EUR
+price: 11.44
+comparePrice: 30.0 EUR
+prodname: 'Levi s Housemark Graphic tee Camiseta  Red  Hm Ssnl Tonal Earth Red 0276   XXS para Hombre'
+country: 'es'
+flag: '🇪🇸'
+brand: 'Levis'
+buyurl: 'https://www.amazon.es/dp/B07TS2YY3K/?tag=tolees-21'
+descuento: '61.87'
+average: '24.3378947368422'
+---
+
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Tiene estampado el logotipo de Levis
+- Modelo casual
+- Ofrece comodidad todo el día
+
+[🛒 Aquí!!!]({{< param buyurl >}})
