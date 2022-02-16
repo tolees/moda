@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Libro de moda para colorear para adolescentes y adultos: Páginas para colorear con diseños de moda con estilo para niñas y mujeres. Libro de estilo con trajes de moda y más.'
-date: 2022-02-15 02:41:38
+date: 2022-02-16 09:27:55
 image: 'https://m.media-amazon.com/images/I/51ESCdmlmiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09MFQ973L/?tag=tolees-21'
 descuento: '15.23'
-average: '4.23333333333333'
+average: '4.2325'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
