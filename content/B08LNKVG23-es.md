@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Wrangler High Rise Skinny Vaqueros  Marine  30W / 32L para Mujer'
-date: 2022-02-10 09:11:40
+date: 2022-02-17 10:52:10
 image: 'https://m.media-amazon.com/images/I/41Ifl+5tlIS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,13 +12,13 @@ tags: [ 'Ropa','Ropa para mujer','Vaqueros para mujer','vaqueros','wrangler', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99
-comparePrice: 50.0 EUR
+comparePrice: 19.9 EUR
 prodname: 'Wrangler High Rise Skinny Vaqueros  Marine  30W / 32L para Mujer'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Wrangler'
 buyurl: 'https://www.amazon.es/dp/B08LNKVG23/?tag=tolees-21'
-descuento: '70.02'
+descuento: '24.67'
 average: '14.99'
 ---
 
