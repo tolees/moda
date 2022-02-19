@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Tommy Hilfiger Logo T-Shirt Camiseta  Azul  Sky Captain 403   L para Hombre'
-date: 2022-02-19 07:53:11
-image: 'https://m.media-amazon.com/images/I/41+-9RPL0OL._SL500_._SL400_.jpg'
+title: 'Tommy Hilfiger Logo T-Shirt Camiseta  Blanco  Snow White 118   L para Hombre'
+date: 2022-02-19 07:50:03
+image: 'https://m.media-amazon.com/images/I/31eyYDvRNtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07JYSCTYS-es Tommy Hilfiger Logo T-Shirt Camiseta Azul Sky Captain 403...'
-sku: 'B07JYSCTYS-es'
+slug: 'B07JYFR2RX-es Tommy Hilfiger Logo T-Shirt Camiseta Blanco Snow White 118...'
+sku: 'B07JYFR2RX-es'
 tags: [ 'Camisetas deportivas para hombre','Ropa','Ropa deportiva para hombre','Ropa para hombre','camiseta','tommy hilfiger', ]
-actualPrice: 32.25 EUR
+actualPrice: 36.98 EUR
 currency: EUR
-price: 32.25
+price: 36.98
 comparePrice: 49.9 EUR
-prodname: 'Tommy Hilfiger Logo T-Shirt Camiseta  Azul  Sky Captain 403   L para Hombre'
+prodname: 'Tommy Hilfiger Logo T-Shirt Camiseta  Blanco  Snow White 118   L para Hombre'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Tommy Hilfiger'
-buyurl: 'https://www.amazon.es/dp/B07JYSCTYS/?tag=tolees-21'
-descuento: '35.37'
-average: '28.8383333333333'
+buyurl: 'https://www.amazon.es/dp/B07JYFR2RX/?tag=tolees-21'
+descuento: '25.89'
+average: '27.7060606060607'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

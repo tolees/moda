@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox UOMO Sandal Strada B  Fisherman Hombre  marrón  42.5 EU'
-date: 2022-02-12 18:00:46
+date: 2022-02-19 08:02:24
 image: 'https://m.media-amazon.com/images/I/41BG+MXYqnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
