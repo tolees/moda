@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Geox Man U SEGNALE E SHOES BLACK 42 EU'
-date: 2022-02-22 05:29:31
-image: 'https://m.media-amazon.com/images/I/31QFSAb9hyL._SL500_._SL400_.jpg'
+title: 'Geox Man U SEGNALE E SHOES ANTHRACITE 40 EU'
+date: 2022-02-22 05:29:40
+image: 'https://m.media-amazon.com/images/I/31zYBXF2-WL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B08QMT5S6R-es Geox Man U SEGNALE E SHOES BLACK 42 EU'
-sku: 'B08QMT5S6R-es'
+slug: 'B08QMHF36H-es Geox Man U SEGNALE E SHOES ANTHRACITE 40 EU'
+sku: 'B08QMHF36H-es'
 tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','geox', ]
-actualPrice: 39.62 EUR
+actualPrice: 55.4 EUR
 currency: EUR
-price: 39.62
+price: 55.4
 comparePrice: 109.9 EUR
-prodname: 'Geox Man U SEGNALE E SHOES BLACK 42 EU'
+prodname: 'Geox Man U SEGNALE E SHOES ANTHRACITE 40 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Geox'
-buyurl: 'https://www.amazon.es/dp/B08QMT5S6R/?tag=tolees-21'
-descuento: '63.95'
-average: '43.36'
+buyurl: 'https://www.amazon.es/dp/B08QMHF36H/?tag=tolees-21'
+descuento: '49.59'
+average: '55.4'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Plantilla desmontable
 - Los sistemas patentados Geox ofrecen la transpirabilidad de la suela y el bienestar del pie
+- Plantilla desmontable
 - Calce fácil de regular gracias al cierre con cordones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
