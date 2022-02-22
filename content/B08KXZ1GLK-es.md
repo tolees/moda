@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tira de botones
-- algodón
-- Cuello
 - Camisa
 - Suave
+- algodón
+- Cuello
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
