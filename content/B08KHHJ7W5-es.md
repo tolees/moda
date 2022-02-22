@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GEOX Man UOMO CLAUDIO A SHOES DK COFFEE 39 EU'
-date: 2022-02-21 02:56:34
+date: 2022-02-22 19:22:22
 image: 'https://m.media-amazon.com/images/I/31Qji2b7--L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapat
 actualPrice: 18.85 EUR
 currency: EUR
 price: 18.85
-comparePrice: 34.2 EUR
+comparePrice: 28.33 EUR
 prodname: 'GEOX Man UOMO CLAUDIO A SHOES DK COFFEE 39 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B08KHHJ7W5/?tag=tolees-21'
-descuento: '44.88'
-average: '26.795'
+descuento: '33.46'
+average: '25.206'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
