@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Gafas de Sol
 - Gafas de Sol - Expedition Black / Green
 - Gafas de Sol Polarizadas Expedition Negro The Indian Face para hombre y mujer
+- Gafas de Sol
 
 [🛒 Comprar!!!]({{< param buyurl >}})
