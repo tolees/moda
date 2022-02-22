@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvin Klein Jeans Seasonal Institutional SS Tee  Camiseta para Hombre  Blanco  Bright White   M'
-date: 2022-02-12 10:43:15
+date: 2022-02-22 11:58:34
 image: 'https://m.media-amazon.com/images/I/31zat6u0IeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08T9GDBPW-es Calvin Klein Jeans Seasonal Institutional SS Tee Camiseta...'
 sku: 'B08T9GDBPW-es'
 tags: [ 'Camisetas para hombre','Camisetas, polos y camisas para hombre','Ropa','Ropa para hombre','calvin klein','camiseta', ]
-actualPrice: 15.39 EUR
+actualPrice: 19.95 EUR
 currency: EUR
-price: 15.39
+price: 19.95
 comparePrice: 39.9 EUR
 prodname: 'Calvin Klein Jeans Seasonal Institutional SS Tee  Camiseta para Hombre  Blanco  Bright White   M'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Calvin Klein'
 buyurl: 'https://www.amazon.es/dp/B08T9GDBPW/?tag=tolees-21'
-descuento: '61.43'
-average: '15.39'
+descuento: '50.00'
+average: '17.67'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

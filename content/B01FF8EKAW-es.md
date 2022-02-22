@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JACK & JONES JJILIAM Jjoriginal Am 010 Lid Noos Vaqueros  Grey  Grey Denim   28W / 30L para Hombre'
-date: 2022-02-19 11:17:01
+date: 2022-02-22 11:53:35
 image: 'https://m.media-amazon.com/images/I/31ONHEQ8jiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B01FF8EKAW/?tag=tolees-21'
 descuento: '52.85'
-average: '23.5633333333333'
+average: '23.56'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
