@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ladies shorts made of soft flowing quality
 - Summer shorts in loose fit
+- Ladies shorts made of soft flowing quality
 
 [🛒 Aquí!!!]({{< param buyurl >}})
