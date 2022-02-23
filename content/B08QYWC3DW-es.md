@@ -29,7 +29,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Bolsillo canguro en la parte delantera
-- Capucha con cordón que te permite ajustar tu cobertura.
 - Tejido de forro polar suave y cálido.
+- Capucha con cordón que te permite ajustar tu cobertura.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

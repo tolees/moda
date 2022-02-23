@@ -29,7 +29,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Parte superior de serpiente neón
-- Diseño vintage de tenis con logo de caja F bordado en el lateral
 - Banda iridiscente en el lateral para un giro moderno
+- Diseño vintage de tenis con logo de caja F bordado en el lateral
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
