@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Marca Amazon - find. Cotton Canvas Chaqueta bomber para Hombre  Verde  Khaki   S  Label: S'
-date: 2022-02-22 11:58:35
+date: 2022-02-23 12:38:28
 image: 'https://m.media-amazon.com/images/I/41YDcllYpRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'find.'
 buyurl: 'https://www.amazon.es/dp/B07YZB4P2C/?tag=tolees-21'
 descuento: '71.52'
-average: '15.8933333333333'
+average: '15.7575'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
