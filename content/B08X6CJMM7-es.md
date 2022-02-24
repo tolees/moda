@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Pijama corto de cuello redondo y mangas estilo "oversize".
-- Estampado de Mickey.
-- Pantalón con estampado de mini corazones con cintura elástica.
 - Muy cómodo, fresco e ideal para tu verano.
+- Pantalón con estampado de mini corazones con cintura elástica.
 - Con algodón.
+- Estampado de Mickey.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
