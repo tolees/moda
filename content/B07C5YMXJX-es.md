@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jjesheridan Shirt L/s Camisa Vaquera  Negro  Black Denim Fit:Slim   Medium para Hombre'
-date: 2022-02-15 09:18:41
+date: 2022-02-24 18:58:20
 image: 'https://m.media-amazon.com/images/I/31K96qcGbUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B07C5YMXJX/?tag=tolees-21'
 descuento: '50.01'
-average: '22.2111764705882'
+average: '21.9773684210526'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,7 +29,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Diseñador: JACK&JONES
-- Temporada: Primavera-verano.
 - Artículo: 12138115 SHERIDAN
+- Temporada: Primavera-verano.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
