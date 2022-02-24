@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JACK & JONES Jjitim Jjoriginal Am 781 50Sps Vaqueros  Blue Denim  31W / 34L para Hombre'
-date: 2022-02-18 14:47:45
+date: 2022-02-24 10:30:22
 image: 'https://m.media-amazon.com/images/I/41W8DvNHgXS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B07FQC16YN/?tag=tolees-21'
 descuento: '29.51'
-average: '35.146329113924'
+average: '35.1474999999999'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Costuras marrones para un look denim auténtico
 - Corte slim fit ni muy ceñido ni muy holgado
+- Costuras marrones para un look denim auténtico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
