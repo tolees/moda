@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Helly Hansen Crew Hooded Midlayer - Chaqueta Impermeable  Cortavientos y Transpirable  con Forro Polar y Capucha Integrados  Hombre  Negro  990 Black   2XL'
-date: 2022-02-14 22:17:41
+date: 2022-02-24 21:28:20
 image: 'https://m.media-amazon.com/images/I/41MwwdfRwGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Helly Hansen'
 buyurl: 'https://www.amazon.es/dp/B01MTAPB71/?tag=tolees-21'
 descuento: '33.54'
-average: '103.908'
+average: '105.42'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,6 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de fábrica: Compuesto
+- Detalles distintivos de la marca
+- Ofrece comodidad y libertad de movimiento
+- Material de calidad
+- Chaqueta para hombre
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

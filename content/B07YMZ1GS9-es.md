@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Costura lateral doble
 - Hilo teñido
-- 60% algodón, 40% poliéster
-- 150g tejido jersey
 - Bordado en el pecho
+- 150g tejido jersey
+- Costura lateral doble
+- 60% algodón, 40% poliéster
 
 [🛒 Comprar!!!]({{< param buyurl >}})
