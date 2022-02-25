@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pepe Jeans Eggo Long Camiseta de Manga Larga  Blanco  White 800   S para Hombre'
-date: 2022-02-23 16:56:47
+date: 2022-02-25 03:15:51
 image: 'https://m.media-amazon.com/images/I/31LhM+oYwfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pepe Jeans'
 buyurl: 'https://www.amazon.es/dp/B008YES8DK/?tag=tolees-21'
 descuento: '30.00'
-average: '22.2695833333334'
+average: '22.2160000000001'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
