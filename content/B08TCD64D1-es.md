@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clarks Con Cremallera  Botas de Moda Mujer  Gris Oscuro  35.5 EU'
-date: 2022-02-15 23:42:59
+date: 2022-02-25 00:49:27
 image: 'https://m.media-amazon.com/images/I/41zUeFStDYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08TCD64D1-es Clarks Con Cremallera Botas de Moda Mujer Gris Oscuro 35.5 EU'
 sku: 'B08TCD64D1-es'
 tags: [ 'Botas para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','clarks','moda', ]
-actualPrice: 47.04 EUR
+actualPrice: 42.47 EUR
 currency: EUR
-price: 47.04
+price: 42.47
 comparePrice: 110.0 EUR
 prodname: 'Clarks Con Cremallera  Botas de Moda Mujer  Gris Oscuro  35.5 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Clarks'
 buyurl: 'https://www.amazon.es/dp/B08TCD64D1/?tag=tolees-21'
-descuento: '57.24'
-average: '47.04'
+descuento: '61.39'
+average: '44.755'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
