@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Con ajuste estándar en el muslo
 - Modelo que se asienta debajo de la cintura
 - Diseño de cinco bolsillos
-- Con ajuste estándar en el muslo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

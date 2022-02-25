@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Materiales: Este cárdigan de punto para mujer es una chaqueta larga y ligera sin costuras, hecha de 65% algodón y 35% poliéster. La tela es suave y agradable para la piel, y el material es ligero y transpirable, lo que le brinda una experiencia de uso más cómoda.
-- Nota: Antes de pedir este cárdigan para mujer, confirme cuidadosamente la información en la tabla de tallas. Si tiene alguna pregunta, puede contactarnos a través del correo electrónico de Amazon.
 - Diseño: El cárdigan de manga larga es muy suave y ligero, apto para todas las estaciones. Diseño de cárdigan frontal, manga larga, crochet abierto en ambos lados, es un cárdigan ligero adecuado para todas las ocasiones, se puede combinar con jeans y vestidos.
+- Nota: Antes de pedir este cárdigan para mujer, confirme cuidadosamente la información en la tabla de tallas. Si tiene alguna pregunta, puede contactarnos a través del correo electrónico de Amazon.
 - Cuidado: Se recomienda lavar a mano con agua por debajo de 30 ℃.
 - Ocasión: El cárdigan largo de mujer de moda es adecuado para salidas, fiestas, viajes, playas e interiores. Este es el regalo perfecto para familiares y amigos.
+- Materiales: Este cárdigan de punto para mujer es una chaqueta larga y ligera sin costuras, hecha de 65% algodón y 35% poliéster. La tela es suave y agradable para la piel, y el material es ligero y transpirable, lo que le brinda una experiencia de uso más cómoda.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
