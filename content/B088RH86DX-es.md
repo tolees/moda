@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de tela: sintético
-- Deslizamiento
-- Puma White-Spectra Green
+- Piel: sin piel
 - Género: unisex
 - Resistente al agua
-- Piel: sin piel
+- Tipo de tela: sintético
+- Puma White-Spectra Green
+- Deslizamiento
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jjerocky Jacket Noos Chaqueta  Negro Azabache  M para Hombre'
-date: 2022-02-23 12:30:10
+date: 2022-02-25 12:34:40
 image: 'https://m.media-amazon.com/images/I/31IEqXM9QDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B082Y55VMT/?tag=tolees-21'
 descuento: '34.19'
-average: '39.73'
+average: '39.6466666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Incluye su dinomascota Snare, además de un peine y su inconfundible keytar para narrar historias y divertirse cambiando de look.
+- ¡Conoce a Cave Club, un grupo de intrépidas amigas prehistóricas adelantadas a su época! ​
 - ¡Gracias a sus codos, muñecas y rodillas flexibles, las niñas podrán ayudar a Bashley a irse de aventuras en mamut o a dar un recital en un concierto de rock!
+- Incluye su dinomascota Snare, además de un peine y su inconfundible keytar para narrar historias y divertirse cambiando de look.
 - Una apasionada artista musical con habilidades roqueras incuestionables, Bashley es la primera estrella del rock!
 - La muñeca Cave Club Bashley está lista para rocanrolear en un vestido metálico con estampado animal y un tocado en forma de relámpago.
-- ¡Conoce a Cave Club, un grupo de intrépidas amigas prehistóricas adelantadas a su época! ​
 
 [🛒 Comprar!!!]({{< param buyurl >}})
