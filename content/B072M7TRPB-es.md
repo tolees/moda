@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Puños acanalados
 - Bolsillo tipo canguro
+- Puños acanalados
 - Estilo deportivo y comodidad informal
 
 [🛒 Visítala!!!]({{< param buyurl >}})

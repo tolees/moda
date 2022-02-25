@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Botón rojo con forma de D invertida como cierre
-- Ilustraciones vintage de la silueta de Mickey Mouse en un lado e ilustración colorida en el otro
+- Lavar a máquina en agua fría
 - Desigual – Minifalda vaquera con ilustraciones de Mickey Mouse y tartán
 - Minifalda vaquera con diseño de Mickey Mouse y detalles de tartán rojo en contraste con el fondo negro. Nueva colección Desigual para mujer HW21.
-- Lavar a máquina en agua fría
+- Botón rojo con forma de D invertida como cierre
+- Ilustraciones vintage de la silueta de Mickey Mouse en un lado e ilustración colorida en el otro
 
 [🛒 Comprar!!!]({{< param buyurl >}})
