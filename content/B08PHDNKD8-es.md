@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lacoste NF3619YA  Bolso para Mujer  Bordeaux  Talla única'
-date: 2022-02-25 08:31:06
+date: 2022-02-26 16:40:31
 image: 'https://m.media-amazon.com/images/I/31pO-vps-XL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lacoste'
 buyurl: 'https://www.amazon.es/dp/B08PHDNKD8/?tag=tolees-21'
 descuento: '42.22'
-average: '50.05'
+average: '50.7'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre: sin cordones
 - Género: mujer
-- Ancho del zapato: mediano
-- Dimensiones del embalaje del artículo: 5,4 x 30,7 x 20,6 W
 - Parte superior: piel sintética
+- Cierre: sin cordones
+- Dimensiones del embalaje del artículo: 5,4 x 30,7 x 20,6 W
+- Ancho del zapato: mediano
 - Tipo de tejido: 100% poliamida
 
 [🛒 Aquí!!!]({{< param buyurl >}})
