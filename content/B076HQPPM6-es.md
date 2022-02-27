@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Adidas Regista 18 Track Top Chaqueta Deportiva  Hombre  Negro  Black/White   XL'
-date: 2022-02-25 15:56:36
+date: 2022-02-27 16:27:43
 image: 'https://m.media-amazon.com/images/I/31lPqi3S7BL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076HQPPM6/?tag=tolees-21'
 descuento: '34.91'
-average: '24.07'
+average: '23.542'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cintura elástica con cordón.
+- Diseño ligero.
 - Cierre de cremallera
 - La tecnología Climalite expulsa el sudor de la piel.
-- Diseño ligero.
-- Cintura elástica con cordón.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

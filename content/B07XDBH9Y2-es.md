@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- HISTORIAL DE UBICACIONES y HEATMAP: la aplicación de Tractive GPS no solo te muestra la ubicación actual de tu gato, sino todos los lugares donde ha estado. Descúbre sus rincones favoritos con el Heatmap.
-- LIGERO Y COMPATIBLE CON LA MAYORÍA DE COLLARES: Pequeño pero resistente. 100 % impermeable. Fácil de llevar para gatos que pesen más de 4 kg. Viene con un collar HUNTER con mecanismo de liberación para que tu felino no se haga daño si se queda atascado o enganchado con algo.
-- BATERÍA RECARGABLE: la batería del collar localizador gatos dura de 2 a 5 días, y puede recargarse en solo 2 horas.
-- SIN RIESGOS: disfruta de una garantía de reembolso de 30 días en tu subscripción Tractive.
-- RESISTENTE AL AGUA Y A LAS AVENTURAS: localiza a tu gato en sus expediciones, sin límite de distancia. El localizador es robusto y 100% impermeable en caso de que tu felino sea muy aventurero.
-- SEGUIMIENTO DE ACTIVIDAD: el localizador GPS para gatos registra la actividad de tu felino para que sepas cómo de activo es (tanto de día como de noche).
-- LOCALIZACIÓN EN TIEMPO REAL: sigue a tu felino en sus aventuras por Europa y en muchos más lugares; con el modo LIVE Tracking verás la ubicación de tu gato actualizada cada 2-3 segundos directamente en tu móvil o en cualquier navegador.
 - SUBSCRIPCIÓN: por una pequeña tarifa desde solo 4 € / mes (con un plan de dos años) podrás disfrutar de un seguimiento ilimitado de tu gato en más de 150 países en todo el mundo gracias a su tarjeta SIM integrada; durante la activación, podrás elegir entre los diferentes planes de subscripción; en la aplicación Tractive GPS puedes agregar a varias mascotas; la tarifa se aplica por cada GPS para gatos.
+- RESISTENTE AL AGUA Y A LAS AVENTURAS: localiza a tu gato en sus expediciones, sin límite de distancia. El localizador es robusto y 100% impermeable en caso de que tu felino sea muy aventurero.
+- SIN RIESGOS: disfruta de una garantía de reembolso de 30 días en tu subscripción Tractive.
+- HISTORIAL DE UBICACIONES y HEATMAP: la aplicación de Tractive GPS no solo te muestra la ubicación actual de tu gato, sino todos los lugares donde ha estado. Descúbre sus rincones favoritos con el Heatmap.
+- BATERÍA RECARGABLE: la batería del collar localizador gatos dura de 2 a 5 días, y puede recargarse en solo 2 horas.
+- LOCALIZACIÓN EN TIEMPO REAL: sigue a tu felino en sus aventuras por Europa y en muchos más lugares; con el modo LIVE Tracking verás la ubicación de tu gato actualizada cada 2-3 segundos directamente en tu móvil o en cualquier navegador.
+- SEGUIMIENTO DE ACTIVIDAD: el localizador GPS para gatos registra la actividad de tu felino para que sepas cómo de activo es (tanto de día como de noche).
+- LIGERO Y COMPATIBLE CON LA MAYORÍA DE COLLARES: Pequeño pero resistente. 100 % impermeable. Fácil de llevar para gatos que pesen más de 4 kg. Viene con un collar HUNTER con mecanismo de liberación para que tu felino no se haga daño si se queda atascado o enganchado con algo.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
