@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas CORE18 TR Top Sudadera  Hombre  Black/White  2XL'
-date: 2022-02-20 20:53:17
+date: 2022-02-28 21:51:06
 image: 'https://m.media-amazon.com/images/I/41Oy+olwkSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076HMS5DB/?tag=tolees-21'
 descuento: '34.29'
-average: '23.0042857142857'
+average: '23.0025'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
