@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Dr. Martens 1460  Zapatos de Vestir Unisex Adulto  Negro  36'
-date: 2022-02-16 02:58:17
-image: 'https://m.media-amazon.com/images/I/41qzeTtPI6L._SL500_._SL400_.jpg'
+date: 2022-02-28 00:43:11
+image: 'https://m.media-amazon.com/images/I/41mZ9uzNb0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Dr. Martens'
 buyurl: 'https://www.amazon.es/dp/B00BC3VC42/?tag=tolees-21'
 descuento: '30.95'
-average: '160.68'
+average: '154.914285714286'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Botas con las siguientes características:
-- Merch para fans y divertido
 - Tu nuevo merchandising favorito
 - Botas || Materiales de larga duración || Altura del tacón: /
+- Botas con las siguientes características:
+- Merch para fans y divertido
 
 [🛒 Visítala!!!]({{< param buyurl >}})
