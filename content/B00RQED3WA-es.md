@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Para perros medianos y pequeños a base de aceites esenciales repelentes sin insecticidas
-- Eficacia hasta tres meses
-- Su eficacia ha sido testada como repelente del mosquito perteneciente al género Phlebotomus, transmisor de la Leishmaniasis
 - Collar antiparasitario
+- Su eficacia ha sido testada como repelente del mosquito perteneciente al género Phlebotomus, transmisor de la Leishmaniasis
+- Eficacia hasta tres meses
+- Para perros medianos y pequeños a base de aceites esenciales repelentes sin insecticidas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
