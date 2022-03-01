@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ajuste slim
-- Cuello redondo
 - Algodón orgánico
-- Ribete con raya en el interior del cuello
 - Mangas cortas
+- Ribete con raya en el interior del cuello
+- Cuello redondo
+- Ajuste slim
 
 [🛒 Comprar!!!]({{< param buyurl >}})
