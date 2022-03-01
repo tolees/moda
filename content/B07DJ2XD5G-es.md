@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox UOMO SANDAL STRADA A Sandalias Con Punta Abierta Hombre  Negro  Black C9999   41 EU'
-date: 2022-02-24 03:07:27
+date: 2022-03-01 17:51:21
 image: 'https://m.media-amazon.com/images/I/31sgo0S53hL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B07DJ2XD5G/?tag=tolees-21'
 descuento: '40.00'
-average: '50.9175'
+average: '49.122'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de tacón: Plano
 - Material de la suela: Goma
-- Material exterior: Sintético
 - Cierre: Sin cordones
 - Revestimiento: Tela
+- Material exterior: Sintético
+- Tipo de tacón: Plano
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
