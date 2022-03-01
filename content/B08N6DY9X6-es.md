@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Logotipo Iconic F-box en el lateral y la lengua
 - Aguja superior suave para mayor comodidad
+- Logotipo Iconic F-box en el lateral y la lengua
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
