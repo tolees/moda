@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material de la suela: EVA.
 - Color: cuero negro.
+- Material de la suela: EVA.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas CORE18 Hoody Sudadera con Capucha  Hombre  Negro  Negro/Blanco   L'
-date: 2022-03-01 16:58:51
+date: 2022-03-02 17:16:34
 image: 'https://m.media-amazon.com/images/I/31OcIAjyHkS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B076HPWK6H-es adidas CORE18 Hoody Sudadera con Capucha Hombre Negro...'
 sku: 'B076HPWK6H-es'
 tags: [ 'Jerséis, cárdigans y sudaderas para hombre','Ropa','Ropa para hombre','Sudaderas con capucha para hombre','Sudaderas para hombre','adidas','sudadera', ]
-actualPrice: 25.19 EUR
+actualPrice: 26.59 EUR
 currency: EUR
-price: 25.19
+price: 26.59
 comparePrice: 39.99 EUR
 prodname: 'adidas CORE18 Hoody Sudadera con Capucha  Hombre  Negro  Negro/Blanco   L'
 country: 'es'
 flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076HPWK6H/?tag=tolees-21'
-descuento: '37.01'
-average: '27.455984251968'
+descuento: '33.51'
+average: '27.4525882352936'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sudadera adecuada para hombres
-- Tiene una capucha ajustable con cordón
 - Es adecuada para el futbol
+- Tiene una capucha ajustable con cordón
+- Sudadera adecuada para hombres
 - Cuenta con un bolsillo de tipo canguro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

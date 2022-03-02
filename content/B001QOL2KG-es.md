@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s 501 Original  Vaqueros  Stonewash 80684  32W / 30L para Hombre'
-date: 2022-03-01 03:41:27
+date: 2022-03-02 17:14:54
 image: 'https://m.media-amazon.com/images/I/41wLiNzbocL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B001QOL2KG-es Levi s 501 Original Vaqueros Stonewash 80684 32W / 30L...'
 sku: 'B001QOL2KG-es'
 tags: [ 'Ropa','Ropa para hombre','Vaqueros para hombre','levis','vaqueros', ]
-actualPrice: 66.98 EUR
+actualPrice: 64.98 EUR
 currency: EUR
-price: 66.98
+price: 64.98
 comparePrice: 90.0 EUR
 prodname: 'Levi s 501 Original  Vaqueros  Stonewash 80684  32W / 30L para Hombre'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B001QOL2KG/?tag=tolees-21'
-descuento: '25.58'
-average: '62.2106666666667'
+descuento: '27.80'
+average: '62.38375'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
