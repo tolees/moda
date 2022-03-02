@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fabricados en tejido elástico y flexible
 - Vaqueros para hombre
+- Fabricados en tejido elástico y flexible
 - Estilo 5 bolsillos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
