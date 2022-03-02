@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas CORE18 TR Top Sudadera  Hombre  Bold Blue/White  XS'
-date: 2022-02-28 21:37:49
+date: 2022-03-01 22:36:25
 image: 'https://m.media-amazon.com/images/I/41TaHkFunRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076HR1YQ1/?tag=tolees-21'
 descuento: '17.08'
-average: '29.5645454545455'
+average: '29.5158333333334'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cremallera de un cuarto largo
-- Ajuste regular
 - Ofrece comodidad y libertad de movimiento
+- Ajuste regular
 - Tejido transpirable Climalite
+- Cremallera de un cuarto largo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
