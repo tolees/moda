@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s LS Original Hm tee Camisa de Manga Larga  Medium Grey Heather  M para Hombre'
-date: 2022-02-25 11:06:00
+date: 2022-03-02 08:36:47
 image: 'https://m.media-amazon.com/images/I/417MyWnnN8S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07LFG4NJJ/?tag=tolees-21'
 descuento: '48.63'
-average: '20.58'
+average: '20.1466666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Modelo casual
 - Con un discreto logo en el pecho
 - Elaborada en punto suave
+- Modelo casual
 
 [🛒 Comprar!!!]({{< param buyurl >}})
