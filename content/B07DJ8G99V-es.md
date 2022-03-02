@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Artículo: D621Ec 0Ew22
+- Estación: Primavera / Verano
+- De Color Negro
 - Diseñador: Geox
 - Material: Tejido
-- De Color Negro
-- Estación: Primavera / Verano
-- Artículo: D621Ec 0Ew22
 
 [🛒 Comprar!!!]({{< param buyurl >}})
