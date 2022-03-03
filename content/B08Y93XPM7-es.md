@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Forro de piel sintética
-- 3M Scotchgard
 - Vegano
+- 3M Scotchgard
 - Warm Tech MF
 
 [🛒 Visítala!!!]({{< param buyurl >}})

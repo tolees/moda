@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s 501 Original  Vaqueros  Candy Paint  34W / 34L para Hombre'
-date: 2022-02-28 03:49:00
+date: 2022-03-03 03:54:07
 image: 'https://m.media-amazon.com/images/I/41nN5D4ucTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0886TRXCJ-es Levi s 501 Original Vaqueros Candy Paint 34W / 34L para...'
 sku: 'B0886TRXCJ-es'
 tags: [ 'Ropa','Ropa para hombre','Vaqueros para hombre','levis','vaqueros', ]
-actualPrice: 73.98 EUR
+actualPrice: 71.98 EUR
 currency: EUR
-price: 73.98
+price: 71.98
 comparePrice: 100.0 EUR
 prodname: 'Levi s 501 Original  Vaqueros  Candy Paint  34W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B0886TRXCJ/?tag=tolees-21'
-descuento: '26.02'
-average: '75.48'
+descuento: '28.02'
+average: '74.3133333333333'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
