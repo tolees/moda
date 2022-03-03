@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jjeholmen Sweat Zip Hood Noos Sudadera con Capucha  Azul  Navy   L para Hombre'
-date: 2022-03-02 11:05:28
+date: 2022-03-03 11:35:31
 image: 'https://m.media-amazon.com/images/I/31l--O4NMrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B07C269RBB/?tag=tolees-21'
 descuento: '30.01'
-average: '20.0071428571429'
+average: '20.0410344827587'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
