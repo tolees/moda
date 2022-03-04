@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ruleta boa fit system de ajuste milimétrico
 - Nuestras zapatillas tienen un tallaje ajustado, por lo que recomendamos un numero mas o dos del que se utiliza en calzado no deportivo
-- Suela de composite avanzado de fibra de vidrio y poliamida con taqueado de montaña
 - Garganta asimétrica para un mejor reparto del ajuste
 - Zapatilla de ciclismo con boa fit system; enfocadas a entrenamientos y salidas de nivel medio/alto por montaña
+- Ruleta boa fit system de ajuste milimétrico
+- Suela de composite avanzado de fibra de vidrio y poliamida con taqueado de montaña
 
 [🛒 Aquí!!!]({{< param buyurl >}})
