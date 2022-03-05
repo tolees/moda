@@ -29,7 +29,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Core18 tr pnt varios colores m
-- Pantalón adidas pantalón core18 tr pnt azuosc/blanco
 - Fútbol Perfil: hombre unisex, material:, color: azuosc/blanco
+- Pantalón adidas pantalón core18 tr pnt azuosc/blanco
 
 [🛒 Visítala!!!]({{< param buyurl >}})
