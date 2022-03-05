@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tejido suave y peso medio
-- Auténtico diseño de roland
-- 100 % algodón preencogido
 - Estilo de cuello redondo estándar
 - Color: negro
+- 100 % algodón preencogido
+- Auténtico diseño de roland
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

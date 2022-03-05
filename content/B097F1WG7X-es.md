@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - LENOX - BLACK
-- Lentes de TR18 con el sello de Eastman , uno de los líderes mundiales en tecnología de copoliéster. Respetuoso con el medio ambiente y proporciona un equilibrio único entre claridad y resistencia
 - Incluye: caja de cartón reciclada y reciclable, pegatinas y funda de microfibra
+- Lentes de TR18 con el sello de Eastman , uno de los líderes mundiales en tecnología de copoliéster. Respetuoso con el medio ambiente y proporciona un equilibrio único entre claridad y resistencia
 - Modelo Unisex. Medidas: Frontal 141,6 mm, Patillas 145 mm, Puente 20 mm, Diámetro de Lente 55 mm
 - Montura en acero inoxidable libre de níquel que las hace altamente resistentes a la corrosión y mucho más fuertes
 

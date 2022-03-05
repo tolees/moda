@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Machine Wash Cold Inside Out, Very Mild
-- Tejido de punto acanalado
-- Jersey rojo con cuello Perkins confeccionado en tejido de punto acanalado con estampado floral e hilo de lúrex metalizado. Nueva colección Mujer OI21 Desigual.
-- Desigual - Jersey de mujer en tejido de punto con estampado floral
 - Estampado floral
+- Jersey rojo con cuello Perkins confeccionado en tejido de punto acanalado con estampado floral e hilo de lúrex metalizado. Nueva colección Mujer OI21 Desigual.
+- Tejido de punto acanalado
+- Desigual - Jersey de mujer en tejido de punto con estampado floral
+- Machine Wash Cold Inside Out, Very Mild
 
 [🛒 Comprar!!!]({{< param buyurl >}})
