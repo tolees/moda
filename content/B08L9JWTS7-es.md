@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Raíz > acogida > textil para mujer > Camisetas – Polo – Camiseta sin mangas para mujer
-- Camiseta con cuello de pico Calvin Klein Jeans Ref 53856 BEH, color negro, talla S
 - Calvin Klein Jeans
+- Camiseta con cuello de pico Calvin Klein Jeans Ref 53856 BEH, color negro, talla S
 - 8.99
 - Entrega a domicilio contra firmas
+- Raíz > acogida > textil para mujer > Camisetas – Polo – Camiseta sin mangas para mujer
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camiseta básica para hombre
-- Logo estampado en el pecho
-- Fabricada en tejido suave
 - Manga corta
+- Logo estampado en el pecho
+- Camiseta básica para hombre
+- Fabricada en tejido suave
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

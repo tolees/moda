@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parte Superior: Cuero
-- Ajuste: Espacioso (relaxed Fit)
 - Guarnición: Acoplamiento
+- Ajuste: Espacioso (relaxed Fit)
+- Parte Superior: Cuero
 - Suela: Goma
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

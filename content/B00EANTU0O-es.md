@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fabricada en tejido suave
 - Logo estampado en el pecho
+- Fabricada en tejido suave
 - Camiseta básica para hombre
 - Manga corta
 
