@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Machine Wash in Cold Water
 - Cuello redondo
 - Desigual - Camiseta slim de mujer con patch digital de estampados
-- Patch digital con estampados de topos, rayas, flores y animal print
+- Machine Wash in Cold Water
 - Camiseta slim de manga larga con cuello redondo y patch digital con estampados de flores, topos, rayas y animal print. Nueva colección Mujer OI21 Desigual.
+- Patch digital con estampados de topos, rayas, flores y animal print
 
 [🛒 Comprar!!!]({{< param buyurl >}})
