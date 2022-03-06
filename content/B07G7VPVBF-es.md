@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bragueta de botones sin ojal
 - Construcción con cinco bolsillos
 - La prenda se estrecha del muslo a los bajos
+- Bragueta de botones sin ojal
 - Talle medio
 
 [🛒 Visítala!!!]({{< param buyurl >}})
