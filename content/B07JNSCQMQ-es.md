@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HAWKERS · Gafas de sol ONE HYBRID para hombre y mujer · CLEAR BLUE'
-date: 2022-03-04 17:53:51
+date: 2022-03-05 23:36:16
 image: 'https://m.media-amazon.com/images/I/31mQAzTzouL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HAWKERS'
 buyurl: 'https://www.amazon.es/dp/B07JNSCQMQ/?tag=tolees-21'
 descuento: '30.12'
-average: '30.6305882352941'
+average: '30.6423188405797'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Este modelo es un atrevido rediseño del icónico modelo Hawkers ONE; mantiene las formas y curvas de la montura del clásico, pero introduciendo una lente de máscara gris espejada, montada sobre una montura negra con acabado brillo
-- Mono lente gris con efecto espejo fabricada en TR18, con reducción de brillos y con gran equilibrio entre claridad y protección; lente de categoría 3 con protección UV404
-- Medidas: Frente 14 cm, Altura 5 cm, Varillas 14 cm
 - Producto original Hawkers; la caja incluye funda de microfibra, caja y set de pegatinas decorativas
+- Medidas: Frente 14 cm, Altura 5 cm, Varillas 14 cm
+- Mono lente gris con efecto espejo fabricada en TR18, con reducción de brillos y con gran equilibrio entre claridad y protección; lente de categoría 3 con protección UV404
 - Montura fabricada en TR90, que dota a las gafas de gran ligereza, flexibilidad y resistencia; muy resistente a altas y bajas temperaturas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
