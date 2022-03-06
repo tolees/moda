@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Material proveniente de la agricultura biológica
 - Diseño danés
 - 100 % algodón, para dormir orgánica
-- Material proveniente de la agricultura biológica
 
 [🛒 Aquí!!!]({{< param buyurl >}})
