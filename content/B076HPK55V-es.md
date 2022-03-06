@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiene cierre con cremallera hasta el pecho
-- Con tecnología Climalite que elimina el sudor
 - Chaqueta de entrenamiento para hombre
+- Con tecnología Climalite que elimina el sudor
+- Tiene cierre con cremallera hasta el pecho
 - Con el logotipo de Adidas bordado en el pecho
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
