@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nike Court Royale 2  Zapatos de Tenis Hombre  Blanco  43 EU'
-date: 2022-03-03 04:06:33
+date: 2022-03-06 05:18:01
 image: 'https://m.media-amazon.com/images/I/31wrTwN3sOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Suela de goma resistente
-- Zapatillas de baloncesto
 - Estilo retro
 - Fabricado en Italia
+- Zapatillas de baloncesto
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

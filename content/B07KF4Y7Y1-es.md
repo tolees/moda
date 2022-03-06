@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Levi s Type 3 Sherpa Trucker Chaqueta  Azul  Stonebridge   XXL para Hombre'
+title: 'Levi s Type 3 Chaqueta  Negro  Sherpa Trucker   XL para Hombre'
 date: 2022-03-06 06:27:15
-image: 'https://m.media-amazon.com/images/I/411cqdxWNbL._SL500_._SL400_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ihQ6owYZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07DVK1DRB-es Levi s Type 3 Sherpa Trucker Chaqueta Azul Stonebridge XXL...'
-sku: 'B07DVK1DRB-es'
+slug: 'B07KF4Y7Y1-es Levi s Type 3 Chaqueta Negro Sherpa Trucker XL para Hombre'
+sku: 'B07KF4Y7Y1-es'
 tags: [ 'Chaquetas para hombre','Ropa','Ropa de abrigo para hombre','Ropa para hombre','chaqueta','levis', ]
-actualPrice: 55.82 EUR
+actualPrice: 74.65 EUR
 currency: EUR
-price: 55.82
-comparePrice: 140.0 EUR
-prodname: 'Levi s Type 3 Sherpa Trucker Chaqueta  Azul  Stonebridge   XXL para Hombre'
+price: 74.65
+comparePrice: 130.0 EUR
+prodname: 'Levi s Type 3 Chaqueta  Negro  Sherpa Trucker   XL para Hombre'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Levis'
-buyurl: 'https://www.amazon.es/dp/B07DVK1DRB/?tag=tolees-21'
-descuento: '60.13'
-average: '60.5190476190474'
+buyurl: 'https://www.amazon.es/dp/B07KF4Y7Y1/?tag=tolees-21'
+descuento: '42.58'
+average: '78.095'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bajo ajustable en el lateral
 - Bolsillos de parche en el pecho con solapa y cierre de botón automático
+- Bajo ajustable en el lateral
 - Manga larga con cierre de botón en los puños
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
