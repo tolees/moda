@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajuste regular
-- Cremallera de un cuarto largo
-- Tejido transpirable Climalite
 - Ofrece comodidad y libertad de movimiento
+- Ajuste regular
+- Tejido transpirable Climalite
+- Cremallera de un cuarto largo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Calce fácil de regular gracias al cierre con cordones
-- Los sistemas patentados Geox ofrecen la transpirabilidad de la suela y el bienestar del pie
 - Plantilla desmontable
 - Altura del tacón: 3.5 cm / 1.4 inch
+- Los sistemas patentados Geox ofrecen la transpirabilidad de la suela y el bienestar del pie
+- Calce fácil de regular gracias al cierre con cordones
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ventilación Climacool.
-- Sin mangas.
-- Tiene una capucha ajustable con cordón
 - Escote redondo.
+- Tiene una capucha ajustable con cordón
+- Sin mangas.
+- Ventilación Climacool.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
