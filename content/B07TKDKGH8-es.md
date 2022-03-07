@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Hood with lanyard
-- Soft fabric
 - Regular fit
+- Soft fabric
+- Hood with lanyard
 
 [🛒 Aquí!!!]({{< param buyurl >}})
