@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Housemark Polo Camiseta de Manga Corta  White +  S para Hombre'
-date: 2022-03-06 05:18:28
+date: 2022-03-07 06:03:16
 image: 'https://m.media-amazon.com/images/I/31CCAdp7+mL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B013V6O4VA/?tag=tolees-21'
 descuento: '41.30'
-average: '25.2216666666667'
+average: '25.8114285714286'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -29,7 +29,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Con un discreto logo en el pecho
-- Modelo casual
 - Elaborado en punto suave
+- Modelo casual
 
 [🛒 Comprar!!!]({{< param buyurl >}})

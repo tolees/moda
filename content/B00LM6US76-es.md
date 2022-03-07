@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Havaianas Slim  Chanclas  para Mujer  Gris Acero  37/38 EU'
-date: 2022-03-05 10:46:22
+date: 2022-03-07 05:10:19
 image: 'https://m.media-amazon.com/images/I/21lvRLd-ksL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Havaianas'
 buyurl: 'https://www.amazon.es/dp/B00LM6US76/?tag=tolees-21'
 descuento: '38.84'
-average: '14.6775'
+average: '14.91'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Revestimiento: Sin forro
-- Tipo de tacón: Plano
-- Material de la suela: Goma
 - Material exterior: Caucho
 - Cierre: Sin cordones
+- Tipo de tacón: Plano
+- Material de la suela: Goma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
