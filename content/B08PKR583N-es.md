@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Plantilla desmontable
 - Altura del tacón: 3.5 cm / 1.4 inch
 - Los sistemas patentados Geox ofrecen la transpirabilidad de la suela y el bienestar del pie
+- Plantilla desmontable
 - Calce fácil de regular gracias al cierre con cordones
 
 [🛒 Aquí!!!]({{< param buyurl >}})
