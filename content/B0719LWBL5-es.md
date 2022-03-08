@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Only Onlsedona Light Coat Otw Noos Chaqueta  Black Black  L para Mujer'
-date: 2022-02-27 19:10:18
+date: 2022-03-08 16:38:19
 image: 'https://m.media-amazon.com/images/I/31-h84ZSb9S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Only'
 buyurl: 'https://www.amazon.es/dp/B0719LWBL5/?tag=tolees-21'
 descuento: '37.03'
-average: '31.8133333333333'
+average: '31.73'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Abrigo largo de entretiempo.
 - Abrigo de lana con capucha.
+- Abrigo largo de entretiempo.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

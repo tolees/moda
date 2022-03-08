@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cordón
 - Con capucha
+- Cordón
 
 [🛒 Visítala!!!]({{< param buyurl >}})

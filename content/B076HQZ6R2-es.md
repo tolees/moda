@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Bolsillos tipo parche en el pecho.
-- Con bolsillo de tipo canguro
 - Cuello de pico de canalé.
+- Confeccionada parcialmente en tejido reciclado.
+- Con bolsillo de tipo canguro
 - Diseño a rayas del mismo tono.
 - Tejido técnico que acompaña el movimiento natural del cuerpo.
-- Confeccionada parcialmente en tejido reciclado.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
