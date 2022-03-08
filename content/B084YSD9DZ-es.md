@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre de cremallera completa
 - Puños y dobladillo elásticos
+- Cierre de cremallera completa
 - Dos bolsillos en la cadera
-- Paneles en contraste en los hombros
 - dryCELL: Tecnología de PUMA con propiedades que alejan la humedad de la piel y te ayudan a mantenerte seco y cómodo
+- Paneles en contraste en los hombros
 
 [🛒 Comprar!!!]({{< param buyurl >}})

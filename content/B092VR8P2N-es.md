@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 【Nota】: Lea atentamente la tabla de tallas en la imagen antes de comprar.
 - 【falda tenis mujer】: Tiene un pantalón debajo que hace que no sea un problema a la hora de moverse. Trae un bolsillo en el pantalon muy practico para llevar el movil o clave.
-- 【Ocasión】: Esta falda deporte mujer es adecuada para diversas actividades deportivas, como tenis, golf, running, yoga, gimnasio, caminar, correr, andar en bicicleta, hacer ejercicio, etc.
+- 【Nota】: Lea atentamente la tabla de tallas en la imagen antes de comprar.
 - 【Secado Rápido】: Falda pantalon mujer para realizar actividades deportivas. Ideal para verano, es muy transpirable y seca muy rápido lo que la hace perfecta para practicar deporte.
 - 【falda padel mujer】: Tejido: 95% poliéster, 5% spandex. El tejido es suave y elástico, adaptándose bien al cuerpo y comoda de llevar.
+- 【Ocasión】: Esta falda deporte mujer es adecuada para diversas actividades deportivas, como tenis, golf, running, yoga, gimnasio, caminar, correr, andar en bicicleta, hacer ejercicio, etc.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

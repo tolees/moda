@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bolsillo canguro
-- Ajuste regular
-- Capucha con cordón ajustable
 - Puños y dobladillo de canalé
+- Bolsillo canguro
+- Capucha con cordón ajustable
+- Ajuste regular
 
 [🛒 Aquí!!!]({{< param buyurl >}})

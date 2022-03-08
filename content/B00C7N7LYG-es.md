@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pantalones vaqueros para hombre.
 - Cintura redondeada.
 - Tiene un parche de piel en la parte posterior con el logotipo de la marca Lee.
+- Pantalones vaqueros para hombre.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
