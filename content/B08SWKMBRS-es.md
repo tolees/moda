@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Cierre: cremallera
 - 100 % poliéster
 - Lavar a mano
-- Cierre: cremallera
 
 [🛒 Aquí!!!]({{< param buyurl >}})
