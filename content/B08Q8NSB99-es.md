@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Un básico para todos los casos: un todoterreno con un toque deportivo y elegante de algodón orgánico.
 - Elegante escote en U
 - Jersey liso de algodón orgánico 100%
-- Algodón orgánico: algodón de cultivo ecológico
 - Manga 3/4 con solapa y botón decorativo
-- Un básico para todos los casos: un todoterreno con un toque deportivo y elegante de algodón orgánico.
+- Algodón orgánico: algodón de cultivo ecológico
 
 [🛒 Comprar!!!]({{< param buyurl >}})

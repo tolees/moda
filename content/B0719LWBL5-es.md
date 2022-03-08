@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Abrigo de lana con capucha.
 - Abrigo largo de entretiempo.
+- Abrigo de lana con capucha.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
