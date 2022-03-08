@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Salomon Speedcross 4  Zapatos de Trail Running Mujer  Poseidon/Eggshell Blue/Black  39 1/3 EU'
-date: 2022-03-06 05:31:47
+date: 2022-03-08 01:00:33
 image: 'https://m.media-amazon.com/images/I/41BzwzaT9YL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SALOMON'
 buyurl: 'https://www.amazon.es/dp/B073JXDCF5/?tag=tolees-21'
 descuento: '27.35'
-average: '85.68125'
+average: '85.8433333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

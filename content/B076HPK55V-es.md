@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas CORE18 TR Top Camiseta  Hombre  Gris  Piedra/Blanco   XS'
-date: 2022-03-05 23:49:54
+date: 2022-03-08 00:55:48
 image: 'https://m.media-amazon.com/images/I/51jU18EAaVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076HPK55V/?tag=tolees-21'
 descuento: '52.79'
-average: '28.3541666666667'
+average: '27.4423076923077'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Con el logotipo de Adidas bordado en el pecho
 - Chaqueta de entrenamiento para hombre
 - Con tecnología Climalite que elimina el sudor
 - Tiene cierre con cremallera hasta el pecho
-- Con el logotipo de Adidas bordado en el pecho
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
