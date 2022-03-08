@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pepe Jeans Eggo PM500465 Camiseta  Azul  Navy 595   M para Hombre'
-date: 2022-03-05 18:01:27
+date: 2022-03-08 12:05:33
 image: 'https://m.media-amazon.com/images/I/41IFgSYWfmS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pepe Jeans'
 buyurl: 'https://www.amazon.es/dp/B00EANTVO4/?tag=tolees-21'
 descuento: '30.00'
-average: '17.57'
+average: '17.5583333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Manga corta
 - Logo estampado en el pecho
+- Manga corta
 - Fabricada en tejido suave
 - Camiseta básica para hombre
 

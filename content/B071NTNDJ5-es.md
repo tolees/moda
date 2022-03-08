@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lacoste Sport TH0123  Camiseta Hombre  Negro  Noir   M'
-date: 2022-03-06 13:32:59
+date: 2022-03-08 12:47:16
 image: 'https://m.media-amazon.com/images/I/31Wrv7PkaoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lacoste'
 buyurl: 'https://www.amazon.es/dp/B071NTNDJ5/?tag=tolees-21'
 descuento: '40.09'
-average: '37.95'
+average: '37.2357142857143'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
