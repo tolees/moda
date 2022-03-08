@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Manga larga y puños acanalados
 - Etiquetas gráficas estampadas en la parte inferior trasera
-- Bajo recto con borde acanalado
 - Diseño de punto técnico
 - Cuello redondo acanalado
+- Bajo recto con borde acanalado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
