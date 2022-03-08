@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Se puede lavar a máquina
 - Tipo de tejido: 50% algodón, 50% poliéster, 65% algodón, 35% poliéster
 - Camiseta
-- Se puede lavar a máquina
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
