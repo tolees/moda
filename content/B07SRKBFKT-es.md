@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Revestimiento: Malla
+- Material exterior: Cuero
 - Cierre: Cremallera
 - Tipo de tacón: Plano
-- Material exterior: Cuero
 - Material de la suela: Goma
 
 [🛒 Visítala!!!]({{< param buyurl >}})
