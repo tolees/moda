@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vero Moda Vmlefile LS Highneck Dress Noos Vestido  Color Gris  M para Mujer'
-date: 2022-03-08 08:37:53
+date: 2022-03-09 17:15:32
 image: 'https://m.media-amazon.com/images/I/41KYV5wemRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Ropa','Ropa para mujer','Vestidos casual para mujer','Vestidos para muj
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99
-comparePrice: 19.99 EUR
+comparePrice: 16.99 EUR
 prodname: 'Vero Moda Vmlefile LS Highneck Dress Noos Vestido  Color Gris  M para Mujer'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Vero Moda'
 buyurl: 'https://www.amazon.es/dp/B09BFN3R2G/?tag=tolees-21'
-descuento: '35.02'
-average: '15.3233333333333'
+descuento: '23.54'
+average: '14.74'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Vestido de punto monocolor para mujer con mangas largas y cuello alto
 - Vestido de mujer cálido y holgado
+- Vestido de punto monocolor para mujer con mangas largas y cuello alto
 
 [🛒 Visítala!!!]({{< param buyurl >}})
