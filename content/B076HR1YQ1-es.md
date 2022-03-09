@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'adidas CORE18 TR Top Sudadera  Hombre  Bold Blue/White  XS'
-date: 2022-03-07 00:34:25
+date: 2022-03-09 18:01:28
 image: 'https://m.media-amazon.com/images/I/41TaHkFunRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B076HR1YQ1-es adidas CORE18 TR Top Sudadera Hombre Bold Blue/White XS'
 sku: 'B076HR1YQ1-es'
-tags: [ 'Chaquetas deportivas para hombre','Ropa','Ropa deportiva para hombre','Ropa para hombre','adidas','sudadera', ]
+tags: [ 'Jerséis, cárdigans y sudaderas para hombre','Ropa','Ropa para hombre','Sudaderas para hombre','Sudaderas sin capucha para hombre','adidas','sudadera', ]
 actualPrice: 28.98 EUR
 currency: EUR
 price: 28.98
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076HR1YQ1/?tag=tolees-21'
 descuento: '17.08'
-average: '29.381875'
+average: '29.3582352941176'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ofrece comodidad y libertad de movimiento
-- Ajuste regular
 - Tejido transpirable Climalite
+- Ofrece comodidad y libertad de movimiento
 - Cremallera de un cuarto largo
+- Ajuste regular
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

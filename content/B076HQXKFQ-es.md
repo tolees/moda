@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiene cierre con cremallera hasta el pecho
 - Con el logotipo de Adidas bordado en el pecho
 - Chaqueta de entrenamiento para hombre
+- Tiene cierre con cremallera hasta el pecho
 - Con tecnología Climalite que elimina el sudor
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
