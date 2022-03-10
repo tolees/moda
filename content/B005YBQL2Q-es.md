@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Vaqueros para hombre
 - Tienen bordado una etiqueta con la marca Lee
 - Presentan 5 bolsillos
+- Vaqueros para hombre
 
 [🛒 Visítala!!!]({{< param buyurl >}})
