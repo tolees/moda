@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas CORE18 tee Camiseta de Manga Corta  Hombre  Dark Blue/White  S'
-date: 2022-03-09 12:08:06
+date: 2022-03-10 19:17:05
 image: 'https://m.media-amazon.com/images/I/31CLn3CT2OS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Jerséis, cárdigans y sudaderas para hombre','Ropa','Ropa para hombre'
 actualPrice: 11.61 EUR
 currency: EUR
 price: 11.61
-comparePrice: 25.0 EUR
+comparePrice: 20.0 EUR
 prodname: 'adidas CORE18 tee Camiseta de Manga Corta  Hombre  Dark Blue/White  S'
 country: 'es'
 flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076HQW1MB/?tag=tolees-21'
-descuento: '53.56'
-average: '13.9845454545454'
+descuento: '41.95'
+average: '13.881304347826'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 100% algodón
 - Regular fit
-- Climalite anti-humidity fabric
+- 100% algodón
 - Adidas logo on the front
+- Climalite anti-humidity fabric
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
