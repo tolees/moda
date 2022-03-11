@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Camiseta básica para hombre
 - Tiene estampado en el pecho la marca Pepe Jeans
 - Fabricada en tejido suave que ofrece comodidad
+- Camiseta básica para hombre
 
 [🛒 Aquí!!!]({{< param buyurl >}})

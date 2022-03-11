@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cinta distintiva en el cuello
 - Logo de Tommy Hilfiger bordado en la manga
+- Cinta distintiva en el cuello
 - Logo de Tommy Hilfiger en el pecho
 
 [🛒 Visítala!!!]({{< param buyurl >}})

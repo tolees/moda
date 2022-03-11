@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Adulto
 - beige.
+- Adulto
 
 [🛒 Visítala!!!]({{< param buyurl >}})
