@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Ventilación Climacool.
+- Sin mangas.
 - Bolsillo canguro
 - Escote redondo.
-- Sin mangas.
-- Ventilación Climacool.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
