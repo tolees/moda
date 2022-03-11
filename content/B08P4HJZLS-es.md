@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - BELLA VESTIDO MÁGICO: Cambia el estilo de vestir de Bella, de aldeano a su icónica vestimenta amarilla inspirada en la película, con solo apretar sus piernas. La muñeca Bella Vestido mágico mide 27 cm
-- UNE LAS PIERNAS DE LA MUÑECA PARA UN CAMBIO DE FALDA: Al apretar las piernas de la muñeca, ¡su falda girará y su estilo cambiará!
 - LUCES Y SONIDOS: Cuando cambies el look de esta muñeca de Disney, oirás un divertido y mágico sonido. Además, su corpiño se ilumina de amarillo con la falda amarilla.
+- UNE LAS PIERNAS DE LA MUÑECA PARA UN CAMBIO DE FALDA: Al apretar las piernas de la muñeca, ¡su falda girará y su estilo cambiará!
 - BUSCA OTRAS MUÑECAS DISNEY PRINCESS: Añade otros juguetes de Disney a tu colección con personajes como Ariel, Bella, Cenicienta y Mulán. (Se venden por separado. Sujeto a disponibilidad)
 - JUGUETE DISNEY PRINCESS: Inspirado en la película La Bella y la Bestia, este juguete para niños y niñas de 3 años es una gran adición a una colección de juguetes de Disney
 
