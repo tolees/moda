@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Crocs Classic Clog  Zuecos  para Unisex Adulto  Amarillo  Lemon   42/43 EU'
-date: 2022-02-25 18:30:26
+date: 2022-03-11 22:58:27
 image: 'https://m.media-amazon.com/images/I/312Es4jpkHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Crocs'
 buyurl: 'https://www.amazon.es/dp/B010PENIWC/?tag=tolees-21'
 descuento: '55.55'
-average: '22.336'
+average: '22.19'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

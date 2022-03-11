@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tienen bordado una etiqueta con la marca Lee
 - Presentan 5 bolsillos
 - Vaqueros para hombre
+- Tienen bordado una etiqueta con la marca Lee
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
