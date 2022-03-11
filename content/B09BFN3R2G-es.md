@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vero Moda Vmlefile LS Highneck Dress Noos Vestido  Color Gris  M para Mujer'
-date: 2022-03-09 17:15:32
+date: 2022-03-11 10:43:16
 image: 'https://m.media-amazon.com/images/I/41KYV5wemRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Vero Moda'
 buyurl: 'https://www.amazon.es/dp/B09BFN3R2G/?tag=tolees-21'
 descuento: '23.54'
-average: '14.74'
+average: '14.39'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
