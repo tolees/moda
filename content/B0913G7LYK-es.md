@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Medidas: 23 x 15 x 1 cm. Material: Ecopiel simil piel, la cual cumple con los standars ecofriendly. En Lois queremos participar en la conservación del medio ambiente.
-- Bolso bandolera de mujer con asa larga de piel sintética adicional, también con asa de mano de la marca Lois. Diseño original, único y exclusivo de la nueva colección Crysdale.
-- Alta resistencia y durabilidad, estos bolsos son el resultado de la evolución de la marca Lois en su continua búsqueda de la mejor calidad al mejor precio.
-- Materiales y costuras dobles de alta calidad. Resistente al desgaste. Vendido por TOPMALETAS
 - Complemento ideal para usar todos los días, muy combinable y práctico, Disponible en negro para el toque elegante y en azul para un look más casual.
+- Alta resistencia y durabilidad, estos bolsos son el resultado de la evolución de la marca Lois en su continua búsqueda de la mejor calidad al mejor precio.
+- Bolso bandolera de mujer con asa larga de piel sintética adicional, también con asa de mano de la marca Lois. Diseño original, único y exclusivo de la nueva colección Crysdale.
+- Medidas: 23 x 15 x 1 cm. Material: Ecopiel simil piel, la cual cumple con los standars ecofriendly. En Lois queremos participar en la conservación del medio ambiente.
+- Materiales y costuras dobles de alta calidad. Resistente al desgaste. Vendido por TOPMALETAS
 
 [🛒 Visítala!!!]({{< param buyurl >}})
