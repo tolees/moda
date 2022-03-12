@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bolso de hombro Alvar (a través del cuerpo) por kipling. El alvar es un accesorio icónico que anima el bombo. Tiene un tamaño compacto y creativo perfecto para las necesidades cotidianas
 - Con un panel de organización que mantiene el teléfono y otros dispositivos multimedia guardados de forma segura, los dos compartimentos principales se complementan con dos bolsillos frontales para acceso bajo demanda.
+- Bolso de hombro Alvar (a través del cuerpo) por kipling. El alvar es un accesorio icónico que anima el bombo. Tiene un tamaño compacto y creativo perfecto para las necesidades cotidianas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
