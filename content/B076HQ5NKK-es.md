@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Adidas Regista 18 Track Top Chaqueta Deportiva  Hombre  Bold Blue/Black  L'
-date: 2022-03-11 00:29:25
+date: 2022-03-12 07:24:01
 image: 'https://m.media-amazon.com/images/I/31zu3HcfQ+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cierre de cremallera
 - Cintura elástica con cordón.
 - Diseño ligero.
-- Cierre de cremallera
 - La tecnología Climalite expulsa el sudor de la piel.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'PUMA ESS Logo tee Camiseta  Hombre  Blanco  L'
-date: 2022-03-09 12:01:19
-image: 'https://m.media-amazon.com/images/I/31nCGFRfuUL._SL500_._SL400_.jpg'
+date: 2022-03-12 07:04:37
+image: 'https://m.media-amazon.com/images/I/21RtSk9QgsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PUMA'
 buyurl: 'https://www.amazon.es/dp/B089Z5FNQH/?tag=tolees-21'
 descuento: '36.09'
-average: '13.25'
+average: '13.125'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - BCI: Al comprar productos de algodón de PUMA, apoyas una producción más sostenible de algodón mediante la Iniciativa del Mejor Algodón (Better Cotton Initiative). Más información en: bettercotton.org/massbalance
-- Corte normal
-- Estampado del logotipo PUMA N.º 1 de goma en el pecho
 - Cuello redondo acanalado
 - Algodón 100 %
+- Corte normal
+- Estampado del logotipo PUMA N.º 1 de goma en el pecho
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
