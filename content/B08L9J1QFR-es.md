@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Calvin Klein Jeans Camisetas S/S para mujer
 - Este producto ha sido obtenido de forma sostenible
 - Este es un producto original y auténtico de Calvin Klein Jeans
+- Calvin Klein Jeans Camisetas S/S para mujer
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
