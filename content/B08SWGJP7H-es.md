@@ -28,15 +28,15 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Cuello erguido; dos bolsillos con cremallera
+- Tirantes internos con logo desmontables y funcionales, para llevar la chaqueta como si fuera una mochila
 - Bolsillo interno lateral con velcro y bolsillo interno sobre la pechera con cremallera
 - Cierre de cremallera con doble cursor
+- Forro abrigado dentro de los bolsillos; forro de franela
 - Placa Geox de metal aplicada sobre el lado posterior
 - Exclusivo sistema transpirante patentado Geox
 - Puños resistentes al viento
-- Cuello erguido; dos bolsillos con cremallera
-- Forro abrigado dentro de los bolsillos; forro de franela
-- Jareta regulable en el borde inferior
-- Tirantes internos con logo desmontables y funcionales, para llevar la chaqueta como si fuera una mochila
 - Calce: regular; longitud: 70 cm
+- Jareta regulable en el borde inferior
 
 [🛒 Visítala!!!]({{< param buyurl >}})
