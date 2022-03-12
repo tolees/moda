@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Adidas Core 18 Hoody Sudadera con Capucha  Hombre  Rojo  Rojo/Blanco   XL'
-date: 2022-03-10 00:06:10
+date: 2022-03-12 21:45:12
 image: 'https://m.media-amazon.com/images/I/41iU1gKNCaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Jerséis, cárdigans y sudaderas para hombre','Ropa','Ropa para hombre'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99
-comparePrice: 39.99 EUR
+comparePrice: 40.0 EUR
 prodname: 'Adidas Core 18 Hoody Sudadera con Capucha  Hombre  Rojo  Rojo/Blanco   XL'
 country: 'es'
 flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076HMS26D/?tag=tolees-21'
-descuento: '50.01'
-average: '26.6231578947369'
+descuento: '50.03'
+average: '26.453076923077'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -30,7 +30,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Sin mangas.
 - Ventilación Climacool.
-- Escote redondo.
 - Tiene una capucha ajustable con cordón
+- Escote redondo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

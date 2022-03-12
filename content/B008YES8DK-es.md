@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fabricada en tejido suave que ofrece comodidad
 - Tiene estampado en el pecho la marca Pepe Jeans
 - Camiseta básica para hombre
+- Fabricada en tejido suave que ofrece comodidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})

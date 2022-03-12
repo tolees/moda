@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Logotipo de adidas en el pecho.
-- Cuello redondo.
 - Climalite anti-humidity fabric
-- Corte clásico más ancho y silueta recta.
 - Costura lateral adelantada para un ajuste más cómodo y una mayor libertad de movimiento.
+- Cuello redondo.
 - Ribetes en contraste.
+- Corte clásico más ancho y silueta recta.
+- Logotipo de adidas en el pecho.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
