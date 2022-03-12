@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Interior: textil
 - Exterior: piel
 - plano
+- Interior: textil
 
 [🛒 Visítala!!!]({{< param buyurl >}})
