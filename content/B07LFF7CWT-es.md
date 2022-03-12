@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Vaqueros versátiles y cómodos
 - Diseño de cinco bolsillos
 - Ajuste estándar en el trasero y el muslo
-- Vaqueros versátiles y cómodos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
