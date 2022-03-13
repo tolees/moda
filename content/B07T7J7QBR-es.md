@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Carhartt Pocket Short-Sleeve T-Shirt Camiseta  White  M para Hombre'
-date: 2022-03-11 08:24:08
+date: 2022-03-13 09:45:44
 image: 'https://m.media-amazon.com/images/I/415SkxKQleL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Carhartt'
 buyurl: 'https://www.amazon.es/dp/B07T7J7QBR/?tag=tolees-21'
 descuento: '37.40'
-average: '16.525'
+average: '16.35'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Manga corta
-- Costuras planas de dos agujas
-- Consulte la guía de tallas para encontrar la adecuada para usted
-- Bolsillo en el pecho
 - Camiseta
 - Cuello redondo de canalé
+- Consulte la guía de tallas para encontrar la adecuada para usted
+- Manga corta
+- Costuras planas de dos agujas
+- Bolsillo en el pecho
 
 [🛒 Visítala!!!]({{< param buyurl >}})
