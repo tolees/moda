@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Alta resistencia y durabilidad, este producto es el resultado de la evolución de la marca Lois en su continua búsqueda de la mejor calidad al mejor precio.
-- Material exterior: Piel genuina Interior: forro poliéster al tono. Colección equipada con protección RFID , tecnología que bloquea el escaneo no autorizado de tarjetas y documentos de identidad manteniéndolos a salvo. Con caja de regalo
 - Cartera, monedero, billetero y tarjetero de piel genuina para hombre de la firma Lois. Diseño original, único y exclusivo de la marca.
-- Características Especiales: Cartera con lengüeta de cierre a presión. Portamonedas trasero con cierre presión. Con 2 departamentos para billetes. Con capacidad para 9 tarjetas. A destacar la textura de la piel , la estética minimalista y los cursores con el metal a tono con la cremallera.
 - Medidas: 8,5 x 10,5 x 2 cm. Materiales: Piel.
+- Alta resistencia y durabilidad, este producto es el resultado de la evolución de la marca Lois en su continua búsqueda de la mejor calidad al mejor precio.
+- Características Especiales: Cartera con lengüeta de cierre a presión. Portamonedas trasero con cierre presión. Con 2 departamentos para billetes. Con capacidad para 9 tarjetas. A destacar la textura de la piel , la estética minimalista y los cursores con el metal a tono con la cremallera.
+- Material exterior: Piel genuina Interior: forro poliéster al tono. Colección equipada con protección RFID , tecnología que bloquea el escaneo no autorizado de tarjetas y documentos de identidad manteniéndolos a salvo. Con caja de regalo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
