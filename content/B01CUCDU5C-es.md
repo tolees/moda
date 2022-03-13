@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forro con separador interior para organizar tus objetos personales
 - Asa trasera para llevar a mano
+- Forro con separador interior para organizar tus objetos personales
 - Dimensiones: 12 x 24 x 5 cm
 - Bolso bandolera con un único cerrado con cremallera
 - Correa al hombro de cadena de 120 cm
