@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Camiseta
-- Costuras planas de dos agujas
-- Bolsillo en el pecho
-- Cuello redondo de canalé
-- Consulte la guía de tallas para encontrar la adecuada para usted
 - Manga corta
+- Cuello redondo de canalé
+- Bolsillo en el pecho
+- Costuras planas de dos agujas
+- Consulte la guía de tallas para encontrar la adecuada para usted
 
 [🛒 Comprar!!!]({{< param buyurl >}})
