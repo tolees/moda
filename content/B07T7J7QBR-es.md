@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Camiseta
-- Consulte la guía de tallas para encontrar la adecuada para usted
-- Costuras planas de dos agujas
-- Cuello redondo de canalé
-- Manga corta
 - Bolsillo en el pecho
+- Costuras planas de dos agujas
+- Manga corta
+- Consulte la guía de tallas para encontrar la adecuada para usted
+- Camiseta
+- Cuello redondo de canalé
 
 [🛒 Visítala!!!]({{< param buyurl >}})
