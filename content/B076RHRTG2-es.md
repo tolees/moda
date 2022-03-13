@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Efecto desteñido en las caderas y las rodillas
 - Parche con el logo de Tommy Hilfiger en la parte trasera de la cintura
 - Estilo de cinco bolsillos
+- Efecto desteñido en las caderas y las rodillas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
