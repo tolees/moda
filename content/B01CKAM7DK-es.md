@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Antideslizante
 - Calzado
+- Zuecos
 - Hostelería
 - Sanidad
-- Zuecos
+- Antideslizante
 
 [🛒 Visítala!!!]({{< param buyurl >}})
