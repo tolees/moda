@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Core18 PES Jkt Chaqueta  Hombre  Azul  Dark Blue/White   L'
-date: 2022-03-09 01:00:49
+date: 2022-03-14 09:35:20
 image: 'https://m.media-amazon.com/images/I/31wZNpDN1vS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Chaquetas de running para hombre','Jerséis, cárdigans y sudaderas par
 actualPrice: 19.5 EUR
 currency: EUR
 price: 19.5
-comparePrice: 30.0 EUR
+comparePrice: 28.0 EUR
 prodname: 'adidas Core18 PES Jkt Chaqueta  Hombre  Azul  Dark Blue/White   L'
 country: 'es'
 flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076HQ5HJ7/?tag=tolees-21'
-descuento: '35.00'
-average: '19.6518181818182'
+descuento: '30.36'
+average: '19.6452173913044'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Puños con puños elásticos
 - Cuello altamente cerrable
-- Material 100% poliéster
 - Chaqueta con bolsillos con cremallera
+- Material 100% poliéster
+- Puños con puños elásticos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
