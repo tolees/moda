@@ -31,7 +31,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Tipo de tacón: Plano
 - Revestimiento: Tela
 - Material de la suela: Goma
-- Cierre: Sin cordones
 - Material exterior: Sintético
+- Cierre: Sin cordones
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
