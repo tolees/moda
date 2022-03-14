@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Carhartt Pocket Short-Sleeve T-Shirt Camiseta  White  L para Hombre'
-date: 2022-03-13 13:01:54
+date: 2022-03-14 15:34:17
 image: 'https://m.media-amazon.com/images/I/415SkxKQleL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Camiseta
 - Manga corta
 - Cuello redondo de canalé
 - Bolsillo en el pecho
-- Costuras planas de dos agujas
 - Consulte la guía de tallas para encontrar la adecuada para usted
+- Costuras planas de dos agujas
+- Camiseta
 
 [🛒 Comprar!!!]({{< param buyurl >}})
