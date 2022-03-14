@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Manga corta
 - Cuello redondo de canalé
+- Manga corta
 - Bolsillo en el pecho
 - Consulte la guía de tallas para encontrar la adecuada para usted
 - Costuras planas de dos agujas
