@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseñado para ofrecer una excelente experiencia al cliente
 - Diseño funcional
+- Diseñado para ofrecer una excelente experiencia al cliente
 - Tipo de deporte: Triatlón
 - Creado siguiendo los más altos estándares de la marca Sigma
 

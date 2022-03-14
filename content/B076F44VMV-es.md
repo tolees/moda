@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ✔Material:100% poliéster. Utilizamos telas de alta calidad, en comparación con las telas de vestir comunes en el mercado, nuestra elasticidad es más fuerte y no se deforma fácilmente, suave al tacto.Te hace sentir más liviano y cómodo.
-- ✔Consejos: Consulta la tabla de tallas y el mapa del producto que proporcionamos en las fotos antes de comprar. (Diferentes tamaños y diseño para cada ropa).
+- ✔Cómo lavar: Lavar a mano en frío, colgar o secar en línea，lavar con agua por debajo de 30 ° C.
 - ✔Características: Sudaderas con capucha de manga larga con cierre de cremallera, con cordón ajustable, perfecto para diferentes estilos de ropa.
 - ✔Ocasión: Prefecto para mujeres con leggings o jeans en primavera/invierno/otoño. Ideal para la vida cotidiana, fiesta, playa, vacaciones, oficina.
-- ✔Cómo lavar: Lavar a mano en frío, colgar o secar en línea，lavar con agua por debajo de 30 ° C.
+- ✔Material:100% poliéster. Utilizamos telas de alta calidad, en comparación con las telas de vestir comunes en el mercado, nuestra elasticidad es más fuerte y no se deforma fácilmente, suave al tacto.Te hace sentir más liviano y cómodo.
+- ✔Consejos: Consulta la tabla de tallas y el mapa del producto que proporcionamos en las fotos antes de comprar. (Diferentes tamaños y diseño para cada ropa).
 
 [🛒 Comprar!!!]({{< param buyurl >}})
