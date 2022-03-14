@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tiene una capucha ajustable con cordón
-- Cuenta con un bolsillo de tipo canguro
-- Es adecuada para el futbol
 - Sudadera adecuada para hombres
+- Es adecuada para el futbol
+- Cuenta con un bolsillo de tipo canguro
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
