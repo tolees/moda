@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 3 tiras en el empeine
 - Fáciles de poner
 - Zapatillas deportivas
+- 3 tiras en el empeine
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

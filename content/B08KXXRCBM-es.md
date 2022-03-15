@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Sudadera con capucha de color liso
-- Sudadera con capucha de algodón
 - Sudadera con capucha
 - Sudadera con capucha de material sostenible
+- Sudadera con capucha de algodón
 - Jersey sencillo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
