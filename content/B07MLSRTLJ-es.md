@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clarks Becken Lace  Zapatos de Cordones Brogue Hombre  Negro  Black Leather   41.5 EU'
-date: 2022-03-14 02:01:59
+date: 2022-03-15 13:10:16
 image: 'https://m.media-amazon.com/images/I/31gpN4TW+0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Clarks'
 buyurl: 'https://www.amazon.es/dp/B07MLSRTLJ/?tag=tolees-21'
 descuento: '40.00'
-average: '54.107037037037'
+average: '53.8878571428571'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
