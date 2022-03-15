@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Jack & Jones Jjebasic Noos-Sudadera con Capucha y Cremallera Chaqueta  Port Royale  S para Hombre'
-date: 2022-03-02 12:13:30
+date: 2022-03-14 23:35:22
 image: 'https://m.media-amazon.com/images/I/317TljmOq2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B099ZYM2TK-es Jack & Jones Jjebasic Noos-Sudadera con Capucha y...'
 sku: 'B099ZYM2TK-es'
-tags: [ 'Jerséis, cárdigans y sudaderas para hombre','Ropa','Ropa para hombre','Sudaderas con capucha para hombre','Sudaderas para hombre','chaqueta','jack & jones', ]
+tags: [ 'Cárdigans para hombre','Jerséis, cárdigans y sudaderas para hombre','Ropa','Ropa para hombre','Sudaderas con capucha para hombre','Sudaderas para hombre','chaqueta','jack & jones', ]
 actualPrice: 23.7 EUR
 currency: EUR
 price: 23.7
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B099ZYM2TK/?tag=tolees-21'
 descuento: '40.74'
-average: '24.155'
+average: '24.064'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
