@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material exterior: Sintético
-- Material de la suela: Goma
 - Cierre: Velcro
+- Material de la suela: Goma
+- Material exterior: Sintético
 - Tipo de tacón: Plano
 - Revestimiento: Malla
 

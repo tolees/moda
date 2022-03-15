@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Regular fit
 - Hood with lanyard
 - Kangaroo pocket
+- Regular fit
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
