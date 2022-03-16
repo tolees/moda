@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Parte superior de malla abierta para mayor transpirabilidad
 - Calcetines de espuma deportiva para mayor comodidad y transpirabilidad
 - Talón para mayor estabilidad
+- Parte superior de malla abierta para mayor transpirabilidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- elastic cotton quality
 - jeans with used-parts
+- elastic cotton quality
 
 [🛒 Comprar!!!]({{< param buyurl >}})
