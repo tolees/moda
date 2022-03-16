@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Only Onlcoral SL Skinny Fit Jeans Vaqueros  Azul  Light Blue Denim   27W/32L para Mujer'
-date: 2022-03-15 17:36:41
+date: 2022-03-16 19:56:15
 image: 'https://m.media-amazon.com/images/I/31kz50EyIvS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
