@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Material exterior: piel lisa
+- Forma del tacón: velcro
 - Material interior: sintético
 - Suela: goma sintética
-- Forma del tacón: velcro
 
 [🛒 Visítala!!!]({{< param buyurl >}})
