@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Composición: 55% algodón, 31% poliéster, 13% viscosa, 1% elastano
-- 2 bolsillos traseros
 - 2 bolsillos delanteros y un bolsillo para monedas
 - Vaqueros ajustados con cintura normal
+- Composición: 55% algodón, 31% poliéster, 13% viscosa, 1% elastano
+- 2 bolsillos traseros
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

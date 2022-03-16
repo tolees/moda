@@ -29,7 +29,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Talón para mayor estabilidad.
-- Calcetines de espuma deportiva para mayor comodidad y transpirabilidad.
 - Parte superior de malla abierta para mayor transpirabilidad.
+- Calcetines de espuma deportiva para mayor comodidad y transpirabilidad.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- superlow waist skinny jeans
 - elastic cotton blend
+- superlow waist skinny jeans
 
 [🛒 Visítala!!!]({{< param buyurl >}})
