@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Manga raglán
 - Felpa 70% algodón / 30% poliéster
-- Colaboramos con la organización Better Cotton Initiative para favorecer el cultivo de algodón orgánico
 - Puños y dobladillo de canalé
 - Corte clásico más ancho y silueta recta
+- Colaboramos con la organización Better Cotton Initiative para favorecer el cultivo de algodón orgánico
 - Bolsillo canguro
 - Capucha con cordón ajustable
 

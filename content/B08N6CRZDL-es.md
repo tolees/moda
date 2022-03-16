@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diva Pink Insock for a surprising contrast
 - Paneles de pantera en color a juego
 - Silueta de correr retro sin edad con la icónica bandera de Fila
+- Diva Pink Insock for a surprising contrast
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
