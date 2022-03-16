@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Contenido: 1x Columbia Zero Rules Camiseta de manga corta para hombre, Negro (Black), M, 1533313
-- La tecnología Omni-wick extrae la humedad del cuerpo
-- Adecuado para actividades al aire libre, Puede ser usado todo el año
-- Tejido refrigerante Omni-freeze zero activado por el sudor para mantenerte fresco cuando más sudes
 - Camiseta de manga corta para hombres
+- La tecnología Omni-wick extrae la humedad del cuerpo
+- Tejido refrigerante Omni-freeze zero activado por el sudor para mantenerte fresco cuando más sudes
+- Adecuado para actividades al aire libre, Puede ser usado todo el año
+- Contenido: 1x Columbia Zero Rules Camiseta de manga corta para hombre, Negro (Black), M, 1533313
 
 [🛒 Comprar!!!]({{< param buyurl >}})
