@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox U NEW DAMON B Mocasines Hombre  Marrón  Dk Brown   39 EU'
-date: 2022-03-02 01:04:05
+date: 2022-03-15 23:57:37
 image: 'https://m.media-amazon.com/images/I/31sk7PpT0tL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B01GWX20E2/?tag=tolees-21'
 descuento: '40.95'
-average: '68.0625'
+average: '66.248'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
