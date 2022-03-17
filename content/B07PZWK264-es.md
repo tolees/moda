@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- superlow waist skinny jeans
 - elastic cotton blend
+- superlow waist skinny jeans
 
 [🛒 Comprar!!!]({{< param buyurl >}})
