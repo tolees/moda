@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tipo de tejido: 100% algodón
 - Tamaño especial: estándar
-- Cuello de pico
-- Instrucciones de lavado: lavar a mano
 - Dimensiones del embalaje del artículo: 3,8 x 26,6 x 16,9 W
 - Tipo de ajuste: normal
+- Cuello de pico
+- Tipo de tejido: 100% algodón
+- Instrucciones de lavado: lavar a mano
 
 [🛒 Comprar!!!]({{< param buyurl >}})

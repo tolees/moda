@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Estilo deportivo y comodidad informal
 - Puños acanalados
 - Bolsillo tipo canguro
+- Estilo deportivo y comodidad informal
 
 [🛒 Aquí!!!]({{< param buyurl >}})
