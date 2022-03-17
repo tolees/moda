@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño ligero.
 - La tecnología Climalite expulsa el sudor de la piel.
-- Cintura elástica con cordón.
+- Diseño ligero.
 - Cierre de cremallera
+- Cintura elástica con cordón.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
