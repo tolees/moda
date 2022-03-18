@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s The Jacket Chaqueta vaquera  Palmer Trucker  S para Hombre'
-date: 2022-03-06 04:54:43
+date: 2022-03-18 18:03:20
 image: 'https://m.media-amazon.com/images/I/41+nAktCgZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07K4ZFLL4-es Levi s The Jacket Chaqueta vaquera Palmer Trucker S para...'
 sku: 'B07K4ZFLL4-es'
 tags: [ 'Chaquetas para hombre','Ropa','Ropa de abrigo para hombre','Ropa para hombre','chaqueta','levis', ]
-actualPrice: 65.98 EUR
+actualPrice: 76.48 EUR
 currency: EUR
-price: 65.98
+price: 76.48
 comparePrice: 110.0 EUR
 prodname: 'Levi s The Jacket Chaqueta vaquera  Palmer Trucker  S para Hombre'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07K4ZFLL4/?tag=tolees-21'
-descuento: '40.02'
-average: '70.636'
+descuento: '30.47'
+average: '71.61'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Manga larga con cierre de botón en los puños
 - Bolsillos de parche en el pecho con solapa y cierre de botón automático
 - Bajo ajustable en el lateral
-- Manga larga con cierre de botón en los puños
 
 [🛒 Comprar!!!]({{< param buyurl >}})
