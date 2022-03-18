@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Logotipo de Adidas en la parte delantera
 - Tejido antihumedad Climalite
-- El diseño otorga libertad a los movimientos
 - Ajuste regular
+- El diseño otorga libertad a los movimientos
+- Logotipo de Adidas en la parte delantera
 
 [🛒 Aquí!!!]({{< param buyurl >}})

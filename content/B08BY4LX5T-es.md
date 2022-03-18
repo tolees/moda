@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Diseño del deslizamiento
 - Adilette para el uso diario
 - Correa de poliuretano de secado rápido
-- Diseño del deslizamiento
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
