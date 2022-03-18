@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Libro de bocetos de diseños de moda - Plantillas de siluetas femeninas curvilíneas'
-date: 2022-03-15 22:44:03
+date: 2022-03-18 15:32:01
 image: 'https://m.media-amazon.com/images/I/416dQ7hEPJS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B095GDFFDR/?tag=tolees-21'
 descuento: '31.75'
-average: '3.895'
+average: '3.5275'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
