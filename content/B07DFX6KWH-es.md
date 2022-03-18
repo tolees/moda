@@ -29,7 +29,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - a la moda. Clásico abrigo corto de la marca Only
-- Con capucha extragrande
 - Lana de gran calidad con aspecto jaspeado
+- Con capucha extragrande
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

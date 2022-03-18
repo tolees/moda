@@ -30,7 +30,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Una marca de Amazon
 - Misto cotone e jersey leggero ed elasticizzato
-- Corte ligeramente entallado en la cintura
 - Tenga en cuenta que la talla que se encuentra en la etiqueta de cuidado de esta prenda corresponde al tamaño de EE. UU. Utilice las tablas de tallas que se encuentran en la página de detalles del producto para encontrar el tamaño equivalente.
+- Corte ligeramente entallado en la cintura
 
 [🛒 Visítala!!!]({{< param buyurl >}})

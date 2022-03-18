@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Climalite anti-humidity fabric
+- Adidas logo on the front
 - Regular fit
 - 100% algodón
-- Adidas logo on the front
+- Climalite anti-humidity fabric
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
