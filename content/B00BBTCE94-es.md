@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Agradable sensación gracias al material de algodón de suave tacto
 - Peso: aprox. 160 g/m²
+- Agradable sensación gracias al material de algodón de suave tacto
 - Aplicación de logo bordada
-- Corte entallado de mujer
 - El compañero ideal para el deporte y el ocio
+- Corte entallado de mujer
 
 [🛒 Comprar!!!]({{< param buyurl >}})
