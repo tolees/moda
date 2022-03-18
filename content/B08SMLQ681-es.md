@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Camiseta de manga corta
-- Suave y agradable de llevar
-- Cuello y bajo de las mangas en contraste
 - Corte regular / clásico
+- Cuello y bajo de las mangas en contraste
+- Suave y agradable de llevar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
