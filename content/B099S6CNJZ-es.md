@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Modelo Unisex. Medidas: Frontal 141 mm; Patillas 145 mm; Puente 21 mm; Diámetro de lente 52 mm
-- Micas de TR18 con el sello de Eastman, uno de los líderes mundiales en tecnología de copoliéster. Respetuoso con el medio ambiente y proporciona un equilibrio único entre claridad y resistencia
-- Gafas de sol polarizadas: otorga una visión sin reflejos, y contraste naturales de colores. Lentes categoría 3 y protección uv400 que ofrecen una protección antideslumbrante superior
 - El piloto Jorge Martin seleccionó nuestro diseño Tox de SS21 como uno de los dos modelos para su primera colección con Hawkers. Eligió un armazón negro pulido con micas polarizadas rojas y efecto iridiscente, con el logotipo de su número de carreras en la patilla. También trabajó con nuestros diseñadores para crear una impresión única de su logotipo Martinator en el interior de las patillas.
+- Modelo Unisex. Medidas: Frontal 141 mm; Patillas 145 mm; Puente 21 mm; Diámetro de lente 52 mm
 - Incluye: caja de cartón reciclada y reciclable, pegatinas y funda de microfibra
+- Gafas de sol polarizadas: otorga una visión sin reflejos, y contraste naturales de colores. Lentes categoría 3 y protección uv400 que ofrecen una protección antideslumbrante superior
+- Micas de TR18 con el sello de Eastman, uno de los líderes mundiales en tecnología de copoliéster. Respetuoso con el medio ambiente y proporciona un equilibrio único entre claridad y resistencia
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

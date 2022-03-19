@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello alto y un bolsillo oculto en el pecho con cremallera y dos bolsillos con solapa a la altura de la cintura
 - Parka fina de algodón sostenible con capucha desmontable con cordón y cremallera
+- Cuello alto y un bolsillo oculto en el pecho con cremallera y dos bolsillos con solapa a la altura de la cintura
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
