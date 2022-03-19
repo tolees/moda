@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s The Jacket Chaqueta Vaquera  Mayze Trucker  XXL para Hombre'
-date: 2022-03-16 20:29:39
+date: 2022-03-19 10:32:51
 image: 'https://m.media-amazon.com/images/I/51fxn302jlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
