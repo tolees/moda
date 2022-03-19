@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bolsillos para las manos con cremallera YKK
-- Protección total de los elementos a la vez que cómoda en el interior.
 - Cinturon desmontable
+- Protección total de los elementos a la vez que cómoda en el interior.
+- Bolsillos para las manos con cremallera YKK
 - La capucha puede guardarse en el collar para cuando no llueva.
 - Cremallera frontal YKK con cierre de botón a presión de doble botonadura
 
