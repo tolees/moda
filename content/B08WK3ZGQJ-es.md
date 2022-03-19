@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tenga en cuenta que la etiqueta de talla ubicada en el interior del cuello de esta prenda corresponde a la talla de la marca / fabricante. Utilice la tabla de tallas en la página del producto para encontrar el tamaño equivalente.
 - Pile mediamente pesante, comodissimo, caldo e morbido con retro spazzolato
 - Una marca de Amazon
+- Tenga en cuenta que la etiqueta de talla ubicada en el interior del cuello de esta prenda corresponde a la talla de la marca / fabricante. Utilice la tabla de tallas en la página del producto para encontrar el tamaño equivalente.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
