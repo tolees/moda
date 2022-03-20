@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Impresión trasera
 - Manga larga
+- Impresión trasera
 
 [🛒 Comprar!!!]({{< param buyurl >}})

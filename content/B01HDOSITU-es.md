@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Columbia Peakfreak Venture LT  Zapatilla Multideporte Hombre  Negro  Shark/Valencia   42 EU'
-date: 2022-03-17 15:25:22
+date: 2022-03-19 22:48:16
 image: 'https://m.media-amazon.com/images/I/41AMhCvQMSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B01HDOSITU-es Columbia Peakfreak Venture LT Zapatilla Multideporte...'
 sku: 'B01HDOSITU-es'
 tags: [ 'Botas de senderismo para hombre','Calzado de senderismo para hombre','Calzado deportivo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','columbia','zapatilla', ]
-actualPrice: 58.99 EUR
+actualPrice: 57.99 EUR
 currency: EUR
-price: 58.99
+price: 57.99
 comparePrice: 89.99 EUR
 prodname: 'Columbia Peakfreak Venture LT  Zapatilla Multideporte Hombre  Negro  Shark/Valencia   42 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Columbia'
 buyurl: 'https://www.amazon.es/dp/B01HDOSITU/?tag=tolees-21'
-descuento: '34.45'
-average: '54.99'
+descuento: '35.56'
+average: '55.74'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

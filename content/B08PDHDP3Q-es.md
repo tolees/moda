@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Número de modelo: 24688
-- Estándar
 - Instrucciones de cuidado: lavable
-- Cierre: sin cierre
-- 100% algodón
+- Estándar
 - Modelo: estándar Crew
+- 100% algodón
+- Cierre: sin cierre
 - Sudadera
+- Número de modelo: 24688
 
 [🛒 Aquí!!!]({{< param buyurl >}})

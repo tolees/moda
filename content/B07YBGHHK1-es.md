@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Colore: BordoWht
+- Articolo: T-Shirt
 - Modello: VN0A3CZE
 - Gender: Uomo
 - Brand: Vans
-- Colore: BordoWht
-- Articolo: T-Shirt
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

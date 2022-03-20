@@ -29,7 +29,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Camiseta de hombre Lacoste SPORT en algodón con cuello redondo
-- Regular fit
 - Cuello redondo
+- Regular fit
 
 [🛒 Visítala!!!]({{< param buyurl >}})

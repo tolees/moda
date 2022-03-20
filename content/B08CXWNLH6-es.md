@@ -29,7 +29,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Transparente.
-- RELAXED
 - DENIM STRETCH
+- RELAXED
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
