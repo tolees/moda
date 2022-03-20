@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela exterior de goma resistente para mayor tracción y durabilidad.
 - Parte superior de punto con zona para mayor apoyo.
+- Suela exterior de goma resistente para mayor tracción y durabilidad.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
