@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Capucha con cordón ajustable
-- Bolsillo delantero tipo canguro
 - Logotipo del felino PUMA en la parte derecha del pecho
 - Tipo de deporte: Athletic Sports Apparel
-- Manga larga
 - Algodón, poliéster y elastano
+- Bolsillo delantero tipo canguro
+- Manga larga
 
 [🛒 Comprar!!!]({{< param buyurl >}})
