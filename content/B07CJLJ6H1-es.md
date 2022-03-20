@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Only Onltahoe Hood Jacket Otw Noos Chaqueta  Negro  Black Black   Medium para Mujer'
-date: 2022-03-06 20:31:55
+date: 2022-03-20 22:01:12
 image: 'https://m.media-amazon.com/images/I/41pgyiS1TgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07CJLJ6H1-es Only Onltahoe Hood Jacket Otw Noos Chaqueta Negro Black...'
 sku: 'B07CJLJ6H1-es'
 tags: [ 'Chaquetas para mujer','Ropa','Ropa de abrigo para mujer','Ropa para mujer','chaqueta','only', ]
-actualPrice: 34.99 EUR
+actualPrice: 33.98 EUR
 currency: EUR
-price: 34.99
+price: 33.98
 comparePrice: 49.99 EUR
 prodname: 'Only Onltahoe Hood Jacket Otw Noos Chaqueta  Negro  Black Black   Medium para Mujer'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Only'
 buyurl: 'https://www.amazon.es/dp/B07CJLJ6H1/?tag=tolees-21'
-descuento: '30.01'
-average: '30.7783999999999'
+descuento: '32.03'
+average: '30.9015384615384'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
