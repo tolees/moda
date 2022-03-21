@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Only Onlcoral SL Skinny Fit Jeans Vaqueros  Azul  Light Blue Denim   28W/32L para Mujer'
-date: 2022-03-16 10:54:08
+date: 2022-03-21 19:09:52
 image: 'https://m.media-amazon.com/images/I/31kz50EyIvS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- superlow waist skinny jeans
 - elastic cotton blend
+- superlow waist skinny jeans
 
 [🛒 Aquí!!!]({{< param buyurl >}})
