@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Camiseta
-- Consulte la guía de tallas para encontrar la adecuada para usted
 - Puños acanalados
-- Cuello redondo de canalé
-- Construcción de costura lateral que minimiza la torsión
 - Manga larga
+- Consulte la guía de tallas para encontrar la adecuada para usted
+- Camiseta
+- Construcción de costura lateral que minimiza la torsión
+- Cuello redondo de canalé
 
 [🛒 Visítala!!!]({{< param buyurl >}})
