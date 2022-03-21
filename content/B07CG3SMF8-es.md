@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Modelo: 12136884 JJEHOLMEN SWEAT ZIP HOOD NOOS
 - Marca: JACK&JONES
 - Sudadera con capucha de manga larga de color negro. Cierre con cremallera. Dos bolsillos exteriores. Detalle bordado.
+- Modelo: 12136884 JJEHOLMEN SWEAT ZIP HOOD NOOS
 
 [🛒 Aquí!!!]({{< param buyurl >}})
