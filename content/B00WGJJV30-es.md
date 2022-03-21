@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Helly Hansen Oxford  79025 Camiseta Polo  Talla L  Gris'
-date: 2022-03-20 10:41:49
+date: 2022-03-21 15:46:25
 image: 'https://m.media-amazon.com/images/I/41BPx14B5mL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Impermeable/transpirable
 - Protección del frío
+- Impermeable/transpirable
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
