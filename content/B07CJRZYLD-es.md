@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Only Onlroyal Reg SK Dnm Jeans Bj312 Vaqueros  Dark Grey Denim  34 X-Large para Mujer'
-date: 2022-03-19 08:52:07
+date: 2022-03-22 03:51:29
 image: 'https://m.media-amazon.com/images/I/31gOyNEhfSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Only'
 buyurl: 'https://www.amazon.es/dp/B07CJRZYLD/?tag=tolees-21'
 descuento: '33.34'
-average: '20.1995833333333'
+average: '20.1953061224489'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
