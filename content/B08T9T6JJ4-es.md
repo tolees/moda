@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Camiseta Basi Rough Jersey
 - Estampado frontal
+- Camiseta Basi Rough Jersey
 
 [🛒 Comprar!!!]({{< param buyurl >}})

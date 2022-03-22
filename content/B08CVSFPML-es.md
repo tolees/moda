@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Algodón orgánico
-- Slim
 - Tejido vaquero elástico
+- Slim
+- Algodón orgánico
 
 [🛒 Aquí!!!]({{< param buyurl >}})

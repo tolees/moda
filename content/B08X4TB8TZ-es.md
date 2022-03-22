@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Jersey fluido de viscosa especialmente agradable y sostenible
-- Corte recto
 - Cuello de barco
 - LENZING ECOVERO: fibras de viscosa que se obtienen de madera sostenible y celulosa y provienen de fuentes certificadas y controladas
 - Una prenda básica elegante y purista es esta camiseta de manga larga de viscosa sostenible Ecovero con cuello en U.
+- Corte recto
 
 [🛒 Aquí!!!]({{< param buyurl >}})
