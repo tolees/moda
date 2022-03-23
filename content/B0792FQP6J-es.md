@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de talla: Los zapatos Geox son holgados
-- Cierre: Cordones
-- Material exterior: Cuero
-- Material de la suela: Sintético
 - Altura del tacón: 4 centímetros
-- Anchura del zapato: Normal
+- Material exterior: Cuero
 - Revestimiento: Lana
+- Anchura del zapato: Normal
+- Tipo de talla: Los zapatos Geox son holgados
 - Tipo de tacón: Plano
+- Material de la suela: Sintético
+- Cierre: Cordones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
