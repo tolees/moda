@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Ajuste: (g) Estándar
-- Suela: Eva
-- Forro: Textil
 - Superiores: Cuero
+- Forro: Textil
+- Suela: Eva
 
 [🛒 Visítala!!!]({{< param buyurl >}})
