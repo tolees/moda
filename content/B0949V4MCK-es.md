@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corte: Corte raglan normal
 - Cepillado total para mayor suavidad
 - Tejido Orgánico:Tejido mezcla de algodón orgánico y poliéster reciclado (230 g/m2)
+- Corte: Corte raglan normal
 - En bloques de color
 
 [🛒 Comprar!!!]({{< param buyurl >}})

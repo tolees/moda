@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Machine Wash Cold Inside Out, Very Mild
-- Estampado de flores y animales exóticos
-- Vestido camisero corto rojo de manga larga con estampado de flores y animales exóticos. Confeccionado en tejido 100% Lyocell. Nueva colección Kids OI21 Desigual.
-- Desigual Kids - Vestido camisero corto en tejido 100% Lyocell con estampado exótico
 - Cuello camisero
+- Estampado de flores y animales exóticos
+- Desigual Kids - Vestido camisero corto en tejido 100% Lyocell con estampado exótico
+- Vestido camisero corto rojo de manga larga con estampado de flores y animales exóticos. Confeccionado en tejido 100% Lyocell. Nueva colección Kids OI21 Desigual.
+- Machine Wash Cold Inside Out, Very Mild
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Lentes de bajo perfil
 - 3 puentes nasales intercambiables
-- Cinta doble de silicona y sistema de ajuste RFA
 - Protección completa frente a los rayos UV.
 - Lentes con revestimiento de espejo
-- Lentes de bajo perfil
+- Cinta doble de silicona y sistema de ajuste RFA
 - Sellado de silicona cómodo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
