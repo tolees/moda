@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Adilette Aqua Chanclas Unisex Adulto  Blanco Ftwbla Negbás Ftwbla 000  43 EU'
-date: 2022-03-15 00:52:06
+date: 2022-03-25 01:02:17
 image: 'https://m.media-amazon.com/images/I/31s3A6gwCjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B07K2LP5BQ/?tag=tolees-21'
 descuento: '29.87'
-average: '9.5'
+average: '10.9966666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
