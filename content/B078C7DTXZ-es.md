@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Puños y dobladillo de canalé.
-- 70% Algodón/30% Poliéster.
-- Manga raglán.
 - Corte clásico más ancho y silueta recta.
 - Con un pequeño logotipo de Adidas en el pecho
+- 70% Algodón/30% Poliéster.
+- Manga raglán.
 - Capucha con cordón ajustable.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
