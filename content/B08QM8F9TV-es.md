@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Calzado ligero para una libertad de movimiento
 - Calzado que ofrece una amortiguación óptima y protege contra choques y esfuerzos
 - Los sistemas patentados Geox ofrecen la transpirabilidad de la suela y el bienestar del pie
 - Calce fácil de regular gracias al cierre con cordones
+- Calzado ligero para una libertad de movimiento
 
 [🛒 Comprar!!!]({{< param buyurl >}})
