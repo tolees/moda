@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Pepe Jeans Theodore Chaqueta  Rojo  XXL para Hombre'
-date: 2022-03-27 01:55:30
-image: 'https://m.media-amazon.com/images/I/41rYKeczIjL._SL500_._SL400_.jpg'
+title: 'Pepe Jeans Theodore Chaqueta  Verde  S para Hombre'
+date: 2022-03-27 01:54:27
+image: 'https://m.media-amazon.com/images/I/41NM-L2H5BL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B08SWMXXV8-es Pepe Jeans Theodore Chaqueta Rojo XXL para Hombre'
-sku: 'B08SWMXXV8-es'
+slug: 'B08SWPQLMZ-es Pepe Jeans Theodore Chaqueta Verde S para Hombre'
+sku: 'B08SWPQLMZ-es'
 tags: [ 'Chaquetas para hombre','Ropa','Ropa de abrigo para hombre','Ropa para hombre','chaqueta','pepe jeans', ]
-actualPrice: 40.55 EUR
+actualPrice: 35.02 EUR
 currency: EUR
-price: 40.55
+price: 35.02
 comparePrice: 110.0 EUR
-prodname: 'Pepe Jeans Theodore Chaqueta  Rojo  XXL para Hombre'
+prodname: 'Pepe Jeans Theodore Chaqueta  Verde  S para Hombre'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Pepe Jeans'
-buyurl: 'https://www.amazon.es/dp/B08SWMXXV8/?tag=tolees-21'
-descuento: '63.14'
-average: '39.805'
+buyurl: 'https://www.amazon.es/dp/B08SWPQLMZ/?tag=tolees-21'
+descuento: '68.16'
+average: '35.02'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
