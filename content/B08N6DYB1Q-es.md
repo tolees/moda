@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Classic Basketball Low Silhouette
 - Detalles de los logotipos de zigzag bordados y bordados
+- Classic Basketball Low Silhouette
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

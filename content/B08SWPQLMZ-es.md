@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 100% nailon
 - Lavar a mano
+- 100% nailon
 
 [🛒 Aquí!!!]({{< param buyurl >}})

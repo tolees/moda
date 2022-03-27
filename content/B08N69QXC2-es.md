@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Parte superior de punto con zona para mayor apoyo
 - Suela exterior de goma resistente para mayor tracción y durabilidad
+- Parte superior de punto con zona para mayor apoyo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
