@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Camiseta de Manga Corta  diseño con Logotipo de Jjecorp  Blanco. Detalles: play2/Slim Fit  L para Hombre'
-date: 2022-03-25 18:48:07
+date: 2022-03-28 10:31:00
 image: 'https://m.media-amazon.com/images/I/41z9C421q9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
