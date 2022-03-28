@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Converse - CANVAS COLOUR CHUCK TAYLOR ALL STAR MOVE LOW TOP ZAPATOS DEPORTIVOS PARA MUJER NEGRO 570256C'
-date: 2022-03-18 06:10:09
+date: 2022-03-28 05:39:07
 image: 'https://m.media-amazon.com/images/I/31ZP-We7FrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Converse'
 buyurl: 'https://www.amazon.es/dp/B08PKJS1RR/?tag=tolees-21'
 descuento: '23.78'
-average: '59.145'
+average: '59.4071428571429'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
