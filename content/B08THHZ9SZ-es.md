@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Estampado floral
 - Desigual Kids - Vestido de talle alto con estampado floral
-- Machine Wash Cold Inside Out, Mild Wash
 - Vestido corto negro de talle alto con manga larga y estampado floral. Confeccionado en tejido de algodón con un punto de elastano. Nueva colección Kids OI21 Desigual.
 - Silueta avolantada
+- Estampado floral
+- Machine Wash Cold Inside Out, Mild Wash
 
 [🛒 Comprar!!!]({{< param buyurl >}})

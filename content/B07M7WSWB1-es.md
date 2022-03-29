@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s The Jacket Chaqueta Vaquera  Mayze Trucker  M para Hombre'
-date: 2022-03-17 16:59:26
+date: 2022-03-29 10:58:37
 image: 'https://m.media-amazon.com/images/I/51fxn302jlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07M7WSWB1/?tag=tolees-21'
 descuento: '53.35'
-average: '67.06'
+average: '64.29'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Bajo ajustable en el lateral
 - Bolsillos de parche en el pecho con solapa y cierre de botón automático
 - Manga larga con cierre de botón en los puños
-- Bajo ajustable en el lateral
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
