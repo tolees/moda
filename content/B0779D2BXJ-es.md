@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Tejido antihumedad Climalite
-- Ajuste regular
 - El diseño otorga libertad a los movimientos
 - Logotipo de Adidas en la parte delantera
+- Ajuste regular
 
 [🛒 Visítala!!!]({{< param buyurl >}})
