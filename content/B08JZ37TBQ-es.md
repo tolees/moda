@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Omini Kappa
-- Look inconfundible
 - Camiseta cómoda y a la vanguardia
 - Estilo y confort
+- Look inconfundible
 
 [🛒 Visítala!!!]({{< param buyurl >}})
