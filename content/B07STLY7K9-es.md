@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material exterior: piel lisa
 - Material interior: malla
+- Material exterior: piel lisa
 - Suela: sintética
 
 [🛒 Comprar!!!]({{< param buyurl >}})
