@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tejido ligero y transpirable
 - Amplia libertad de movimiento
+- Tejido ligero y transpirable
 - Producto con ajuste regular
 - Detalles distintivos de la marca
 
