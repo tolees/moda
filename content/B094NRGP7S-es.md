@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Contenido del paquete: una unidad
-- Cuello redondo
-- Tejido transpirable
 - Ajuste regular
+- Cuello redondo
+- Contenido del paquete: una unidad
+- Tejido transpirable
 
 [🛒 Visítala!!!]({{< param buyurl >}})
