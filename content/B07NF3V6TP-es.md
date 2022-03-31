@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño ligero que ofrece comodidad
 - Adecuada para diferentes ocasiones
+- Diseño ligero que ofrece comodidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

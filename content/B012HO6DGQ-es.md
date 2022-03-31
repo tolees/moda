@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Adecuados para diferentes ocasiones
 - Estilo clásico con cinco bolsillos
+- Adecuados para diferentes ocasiones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
