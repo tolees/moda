@@ -29,7 +29,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Tejido elástico
-- Camiseta sostenible
 - Hombros cortados
+- Camiseta sostenible
 
 [🛒 Visítala!!!]({{< param buyurl >}})
