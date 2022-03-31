@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La ropa Superdry está fabricada con el equilibrio adecuado entre estilo y comodidad. Recomendamos una talla más grande que las marcas usuales para una experiencia de superdry.
 - Original y vintage
+- La ropa Superdry está fabricada con el equilibrio adecuado entre estilo y comodidad. Recomendamos una talla más grande que las marcas usuales para una experiencia de superdry.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

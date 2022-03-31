@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forro de malla
 - Puños elásticos
 - Bolsillos frontales con cremallera
-- Tejido técnico 57% poliéster / 43% poliéster reciclado
+- Forro de malla
 - Cierre de cremallera y capucha
+- Tejido técnico 57% poliéster / 43% poliéster reciclado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
