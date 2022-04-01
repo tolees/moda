@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vans Camiseta Colorblock  White-Dress Blues  XL para Hombre'
-date: 2022-03-29 10:35:19
+date: 2022-04-01 08:24:52
 image: 'https://m.media-amazon.com/images/I/31E98WHvFAS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Camiseta de manga corta 20/1 cardada hilada en anillo de 185 g
-- Tipo de tejido: tejido
 - 100% algodón (El color negro jaspeado atlético es 95% algodón 5% poliéster)
 - Corte clásico
+- Camiseta de manga corta 20/1 cardada hilada en anillo de 185 g
+- Tipo de tejido: tejido
 
 [🛒 Comprar!!!]({{< param buyurl >}})
