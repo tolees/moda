@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Óptima para mostrar apoyo a tu equipo favorito
-- Tipo de producto: camisa de manga larga
-- Presenta logo fino en el lado izquierdo
 - Proporciona comodidad y libertad de movimiento
+- Presenta logo fino en el lado izquierdo
+- Tipo de producto: camisa de manga larga
 
 [🛒 Visítala!!!]({{< param buyurl >}})

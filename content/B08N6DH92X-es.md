@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Classic Fila - Zapatillas anchas
 - Anillos en D con aspecto de metal para guiar los cordones
 - La suela exterior con burbujas crea un aspecto femenino elevado
+- Classic Fila - Zapatillas anchas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

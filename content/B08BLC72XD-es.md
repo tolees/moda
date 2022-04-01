@@ -30,7 +30,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Material exterior: piel lisa
 - Forma del tacón: sin cordones
-- Suela: sintética
 - Material interior: lana
+- Suela: sintética
 
 [🛒 Visítala!!!]({{< param buyurl >}})
