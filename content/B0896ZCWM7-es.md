@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Grandes bolsillos exteriores con acceso lateral y superior, bolsillos altos para las manos y bolsillo interior en el pecho con cierre de cremallera
-- Los ricos detalles y los logotipos muy visibles harán de este un clásico de Helly Hansen
-- Con capucha impermeable y transpirable con un acabado repelente al agua
-- Una chaqueta de invierno de corte recto, cálida, funcional y favorecedora, construida para soportar los inviernos Polares, pero igualmente en casa en los fríos entornos urbanos
-- Altura: 40.0 centímetros
-- Longitud: 60.0 centímetros
 - Tejido de protección Helly Tech (impermeable, resistente al viento y transpirable)
+- Grandes bolsillos exteriores con acceso lateral y superior, bolsillos altos para las manos y bolsillo interior en el pecho con cierre de cremallera
+- Longitud: 60.0 centímetros
+- Una chaqueta de invierno de corte recto, cálida, funcional y favorecedora, construida para soportar los inviernos Polares, pero igualmente en casa en los fríos entornos urbanos
 - Anchura: 40.0 centímetros
+- Con capucha impermeable y transpirable con un acabado repelente al agua
+- Altura: 40.0 centímetros
+- Los ricos detalles y los logotipos muy visibles harán de este un clásico de Helly Hansen
 
 [🛒 Visítala!!!]({{< param buyurl >}})
