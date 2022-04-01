@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Calvin Klein Camiseta de manga corta para hombre con logotipo producida de forma sostenible en algodón orgánico suave
-- Manga corta
-- Cuello redondo
 - Calvin Klein Estampado Logo
+- Cuello redondo
+- Manga corta
 
 [🛒 Aquí!!!]({{< param buyurl >}})
