@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Levi s Kids Lvb L/S Batwing Tee Camiseta de manga larga Levis Red para Niños'
-date: 2022-03-19 13:02:21
-image: 'https://m.media-amazon.com/images/I/31cf34rAh8L._SL500_._SL400_.jpg'
+title: 'Levi s Kids Lvb L/S Batwing Tee Camiseta de Manga Larga  Niños  Rojo  Levis Red   16 Años'
+date: 2022-04-02 10:45:35
+image: 'https://m.media-amazon.com/images/I/41U4UStmYlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07YCQGYFK-es Levi s Kids Lvb L/S Batwing Tee Camiseta de manga larga...'
+slug: 'B07YCQGYFK-es Levi s Kids Lvb L/S Batwing Tee Camiseta de Manga Larga...'
 sku: 'B07YCQGYFK-es'
 tags: [ 'Camisetas de manga larga para niño','Camisetas, polos y camisas para niño','Ropa','Ropa para niño','camiseta','levis kids', ]
-actualPrice: 15.45 EUR
+actualPrice: 15.3 EUR
 currency: EUR
-price: 15.45
+price: 15.3
 comparePrice: 22.0 EUR
-prodname: 'Levi s Kids Lvb L/S Batwing Tee Camiseta de manga larga Levis Red para Niños'
+prodname: 'Levi s Kids Lvb L/S Batwing Tee Camiseta de Manga Larga  Niños  Rojo  Levis Red   16 Años'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Levis kids'
 buyurl: 'https://www.amazon.es/dp/B07YCQGYFK/?tag=tolees-21'
-descuento: '29.77'
-average: '12.87'
+descuento: '30.45'
+average: '13.275'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
