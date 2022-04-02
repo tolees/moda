@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Lavar a máquina
 - Manga larga
-- Denim
 - 98% Algodón, 2% Elastano
+- Lavar a máquina
 - Estilo del cuello: Clásico
+- Denim
 
 [🛒 Aquí!!!]({{< param buyurl >}})

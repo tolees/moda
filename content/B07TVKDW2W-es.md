@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Con cremallera de garantía
-- Hombre.
-- derecha.
 - El modelo Wrangler más popular
 - Jeans.
+- Hombre.
+- derecha.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
