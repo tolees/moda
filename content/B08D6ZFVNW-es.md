@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Textura suave
-- Tamaño especial: estándar
-- Tipo de tejido: 96% poliéster, 4% elastano
 - Tamaño del paquete del artículo: 3,4 x 24,6 x 12,8 W (centímetros)
 - Instrucciones de cuidado: lavado a mano
+- Tipo de tejido: 96% poliéster, 4% elastano
+- Textura suave
+- Tamaño especial: estándar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
