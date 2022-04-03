@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Manga más corta de lo habitual
-- Talle medio
 - Bajo recto
-- Corte regular
 - Panel trasero de color en contraste
+- Talle medio
+- Manga más corta de lo habitual
+- Corte regular
 
 [🛒 Aquí!!!]({{< param buyurl >}})

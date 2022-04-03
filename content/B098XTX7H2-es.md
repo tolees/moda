@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bolsillos en las costuras y amplios bolsillos con solapa y cierre de velcro en la parte delantera
-- Bolsillo de parche sencillo con cierre de velcro en la parte trasera
-- Cintura elástica con cordón ajustable
 - Corte relajado
+- Cintura elástica con cordón ajustable
+- Bolsillos en las costuras y amplios bolsillos con solapa y cierre de velcro en la parte delantera
 - Talle medio
+- Bolsillo de parche sencillo con cierre de velcro en la parte trasera
 
 [🛒 Visítala!!!]({{< param buyurl >}})

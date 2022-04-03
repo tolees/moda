@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Corte regular
 - Talle medio
-- Bolsillo estilo canguro
+- Corte regular
 - Manga larga recta insertada
 - Puños y cintura acanalados
+- Bolsillo estilo canguro
 
 [🛒 Aquí!!!]({{< param buyurl >}})

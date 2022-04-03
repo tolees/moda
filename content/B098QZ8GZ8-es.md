@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Talle medio
-- Corte recto
-- Forro completo, bolsillo adicional y trabilla en el interior
 - Manga larga y puños acanalados
+- Corte recto
+- Talle medio
+- Forro completo, bolsillo adicional y trabilla en el interior
 - Bolsillos con ribete y cierre a presión oculto en la cintura
 
 [🛒 Aquí!!!]({{< param buyurl >}})

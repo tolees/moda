@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Estampados gráficos por delante y por detrás
-- Corte regular
 - Manga más corta de lo habitual
 - Bajo recto
+- Corte regular
 - Talle medio
 
 [🛒 Aquí!!!]({{< param buyurl >}})

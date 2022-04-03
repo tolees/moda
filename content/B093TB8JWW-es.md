@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Cuello redondo con ribete
 - Manga larga ampliada
 - Bajo recto
 - Estampado de G-Star RAW de alta intensidad en la cintura
-- Cuello redondo con ribete
 
 [🛒 Aquí!!!]({{< param buyurl >}})

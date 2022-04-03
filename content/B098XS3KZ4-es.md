@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bajo recto con borde acanalado
 - Bolsillo estilo canguro
+- Bajo recto con borde acanalado
 - Manga larga y puños acanalados
-- Talle medio
 - Corte regular
+- Talle medio
 
 [🛒 Comprar!!!]({{< param buyurl >}})

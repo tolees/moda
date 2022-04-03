@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estampado de RAW en el pecho
-- Corte ajustado
-- Manga corta recta insertada
 - Talle medio
+- Manga corta recta insertada
+- Estampado de RAW en el pecho
 - Bajo recto
+- Corte ajustado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

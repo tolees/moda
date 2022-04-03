@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Manga corta
-- Corte regular
 - Talle medio
+- Manga corta
 - Paneles laterales de material en contraste
 - Gráficos estampados en el pecho
+- Corte regular
 
 [🛒 Visítala!!!]({{< param buyurl >}})

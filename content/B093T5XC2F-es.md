@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Bajo redondeado
 - Manga corta recta insertada con borde sin rematar
 - Cuello redondo con borde sin rematar
-- Bajo redondeado
 - Gráfico RAW estampado en el pecho
 
 [🛒 Visítala!!!]({{< param buyurl >}})

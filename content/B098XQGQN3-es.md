@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Manga corta
-- Corte holgado
 - Bajo recto
 - Talle medio
+- Corte holgado
+- Manga corta
 - Detalles de cinta tejida en forma de trabilla por detrás
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Detalles de cinta tejida en forma de trabilla por detrás
-- Bajo recto
-- Corte regular
 - Talle medio
+- Detalles de cinta tejida en forma de trabilla por detrás
+- Corte regular
+- Bajo recto
 - Manga larga y puños acanalados
 
 [🛒 Aquí!!!]({{< param buyurl >}})

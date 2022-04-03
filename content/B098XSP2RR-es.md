@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Talle medio
 - Estampado gráfico en el pecho
 - Corte ajustado
-- Bajo recto
+- Talle medio
 - Manga corta
+- Bajo recto
 
 [🛒 Visítala!!!]({{< param buyurl >}})

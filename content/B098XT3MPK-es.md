@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Bajo recto
-- Estampado de alta densidad de G-Star RAW en el pecho
 - Corte holgado
 - Talle medio
+- Estampado de alta densidad de G-Star RAW en el pecho
 - Manga corta recta insertada
 
 [🛒 Aquí!!!]({{< param buyurl >}})

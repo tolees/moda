@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Bajo recto
+- Corte regular
 - Manga corta
 - Paneles en los hombros
-- Corte regular
 - Talle medio
-- Bajo recto
 
 [🛒 Visítala!!!]({{< param buyurl >}})

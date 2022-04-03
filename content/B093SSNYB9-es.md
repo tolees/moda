@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello redondo
 - Estructura de punto con efecto cuadrícula
-- Manga larga recta insertada y puños de canalé continuados
 - Bajo recto continuado con borde de canalé
+- Cuello redondo
+- Manga larga recta insertada y puños de canalé continuados
 - Bordado de G-Star RAW en el pecho
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estampado gráfico en la cinta tejida del pecho
 - Bajo recto
-- Corte regular
-- Talle medio
 - Manga corta recta insertada
+- Estampado gráfico en la cinta tejida del pecho
+- Talle medio
+- Corte regular
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

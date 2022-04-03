@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Bajo recto
-- Manga corta
-- Corte regular
 - Talle medio
 - Estampado de G-Star Originals en el pecho
+- Corte regular
+- Manga corta
 
 [🛒 Aquí!!!]({{< param buyurl >}})

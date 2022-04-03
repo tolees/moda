@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Corte recto
 - Bajo recto con borde acanalado
 - Manga larga y puños acanalados
 - Talle medio
 - Diseño de rayas incorporadas en el punto
-- Corte recto
 
 [🛒 Aquí!!!]({{< param buyurl >}})

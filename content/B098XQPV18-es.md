@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Estampado de RAW en el pecho
 - Manga corta recta insertada
 - Corte ajustado
-- Bajo recto
+- Estampado de RAW en el pecho
 - Talle medio
+- Bajo recto
 
 [🛒 Aquí!!!]({{< param buyurl >}})

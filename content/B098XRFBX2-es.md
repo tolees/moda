@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Corte recto
+- Manga larga raglán insertada, bajo redondeado
 - Talle medio
+- Corte recto
 - Bajo recto
 - Paneles laterales, puños y cintura acanalados
-- Manga larga raglán insertada, bajo redondeado
 
 [🛒 Visítala!!!]({{< param buyurl >}})

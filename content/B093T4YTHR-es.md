@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello falso
 - Manga larga con corte raglán
+- Etiqueta de G-Star Originals tejida en la parte trasera
 - Bajo recto
 - Estampado de G-Star RAW de alta densidad en el pecho
-- Etiqueta de G-Star Originals tejida en la parte trasera
+- Cuello falso
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Manga corta
 - Talle medio
+- Manga corta
 - Bajo recto
 - Estampado gráfico en el pecho
 - Corte regular

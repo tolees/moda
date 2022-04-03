@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Bajo redondeado
-- Manga francesa
 - Panel superior y parte superior de las mangas de color en contraste
 - Talle medio
 - Corte holgado
+- Manga francesa
 
 [🛒 Aquí!!!]({{< param buyurl >}})

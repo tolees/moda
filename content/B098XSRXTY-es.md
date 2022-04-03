@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Talle medio
-- Manga corta
 - Corte holgado
-- Aberturas laterales
 - Bajo recto
+- Manga corta
+- Aberturas laterales
+- Talle medio
 
 [🛒 Aquí!!!]({{< param buyurl >}})

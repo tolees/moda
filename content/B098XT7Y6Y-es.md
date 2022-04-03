@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Talle medio
 - Manga larga con puño y botones a presión
 - Corte holgado
-- Bajo redondeado con aberturas laterales
 - Bolsillos cargo con cierre de botón en el pecho, trabilla encima
+- Bajo redondeado con aberturas laterales
+- Talle medio
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Bajo recto con borde acanalado
-- Manga larga y puños acanalados
-- Ribetes en la parte trasera y las mangas
-- Corte regular
 - Talle medio
+- Ribetes en la parte trasera y las mangas
+- Manga larga y puños acanalados
+- Corte regular
 
 [🛒 Aquí!!!]({{< param buyurl >}})

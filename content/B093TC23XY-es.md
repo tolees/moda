@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bajo curvado
-- Bolsillos estilo Oeste con solapa y cierre de botón a presión
-- Cintas tejidas en el interior de la cintura para acortar el largo
 - Cuello de camisa
+- Bajo curvado
+- Cintas tejidas en el interior de la cintura para acortar el largo
+- Bolsillos estilo Oeste con solapa y cierre de botón a presión
 - Manga larga con cierre a presión en el puño
 
 [🛒 Aquí!!!]({{< param buyurl >}})

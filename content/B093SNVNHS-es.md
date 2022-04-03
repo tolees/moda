@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Manga larga recta insertada y puños de canalé continuados
-- Bordado de G-Star RAW en el pecho
-- Bajo recto continuado con borde de canalé
-- Cuello de cisne
 - Estructura de punto con efecto cuadrícula
+- Bordado de G-Star RAW en el pecho
+- Manga larga recta insertada y puños de canalé continuados
+- Cuello de cisne
+- Bajo recto continuado con borde de canalé
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Talle medio
-- Trabilla de cinta tejida en la parte superior trasera del cuello
-- Corte de gran tamaño
 - Manga larga y puños acanalados
+- Corte de gran tamaño
+- Trabilla de cinta tejida en la parte superior trasera del cuello
 - Bajo recto con borde acanalado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
