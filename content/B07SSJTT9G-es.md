@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre: Cordones
-- Revestimiento: Malla
-- Material de la suela: Goma
-- Material exterior: Cuero
 - Tipo de tacón: Plano
+- Material de la suela: Goma
+- Cierre: Cordones
+- Material exterior: Cuero
+- Revestimiento: Malla
 
 [🛒 Comprar!!!]({{< param buyurl >}})

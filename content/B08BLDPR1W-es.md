@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - U15BPA00022
-- U Tivoli A
 - Geox
+- U Tivoli A
 - Transpirable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
