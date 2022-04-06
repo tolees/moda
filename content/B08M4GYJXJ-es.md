@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Marca: Helly Hansen
-- Hecho con materiales que proporciona comodidad durante todo el día
 - Diseño practico y óptima resistencia
+- Hecho con materiales que proporciona comodidad durante todo el día
 - Brand: Helly Hansen
+- Marca: Helly Hansen
 
 [🛒 Comprar!!!]({{< param buyurl >}})
