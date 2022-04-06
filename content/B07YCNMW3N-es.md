@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Kids Lvb L/S Batwing Tee Camiseta de Manga Larga  Niños  Rojo  Levis Red   12 Años'
-date: 2022-03-30 10:17:07
+date: 2022-04-06 13:45:56
 image: 'https://m.media-amazon.com/images/I/41U4UStmYlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis kids'
 buyurl: 'https://www.amazon.es/dp/B07YCNMW3N/?tag=tolees-21'
 descuento: '30.45'
-average: '14.53'
+average: '14.6583333333333'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
