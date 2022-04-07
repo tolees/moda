@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jjecorp Logo Sweat Hood Noos 12137054 Sudadera con Capucha  Gris  Light Grey Mixed   S para Hombre'
-date: 2022-03-28 08:51:24
+date: 2022-04-07 09:05:37
 image: 'https://m.media-amazon.com/images/I/41uqQQyRnkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B07B69D4PL/?tag=tolees-21'
 descuento: '16.01'
-average: '17.1296551724138'
+average: '17.2583333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
