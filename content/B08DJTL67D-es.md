@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Oficial Real Betis Balompié
-- Logo Omini Kappa
 - Temporada 2020/2021
+- Oficial Real Betis Balompié
 - Prenda imprescindible para cualquier aficionado del club verdiblanco
+- Logo Omini Kappa
 
 [🛒 Visítala!!!]({{< param buyurl >}})
