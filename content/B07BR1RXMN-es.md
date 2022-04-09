@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Resistente al agua
 - Ajuste relajado
+- Resistente al agua
 - Espuma viscoelástica refrigerada por aire
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
