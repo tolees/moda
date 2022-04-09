@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas CORE18 Camiseta Polo  Hombre  Bold Blue/White  S'
-date: 2022-03-30 01:04:07
+date: 2022-04-09 01:18:54
 image: 'https://m.media-amazon.com/images/I/31SGJWkK1AL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076HRGYDF/?tag=tolees-21'
 descuento: '50.18'
-average: '12.962'
+average: '13.1266666666667'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cámara de butilo para una mejor retención del aire.
 - Climalite anti-humidity fabric
 - Es necesario inflarlo.
 - Logotipo de adidas estampado.
+- Cámara de butilo para una mejor retención del aire.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

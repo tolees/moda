@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HAWKERS · Gafas de Sol AUDREY para Mujer.'
-date: 2022-04-03 13:49:41
+date: 2022-04-09 00:35:53
 image: 'https://m.media-amazon.com/images/I/31I-ZaXg6YS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HAWKERS'
 buyurl: 'https://www.amazon.es/dp/B084CNWDHL/?tag=tolees-21'
 descuento: '53.05'
-average: '26.69'
+average: '25.885'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
