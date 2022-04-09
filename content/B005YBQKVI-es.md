@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lee Brooklyn Straight H Vaqueros  Azul  Mid Stonewash   32W / 32L para Hombre'
-date: 2022-04-06 12:00:00
+date: 2022-04-09 19:45:52
 image: 'https://m.media-amazon.com/images/I/4131Ws6QuEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lee'
 buyurl: 'https://www.amazon.es/dp/B005YBQKVI/?tag=tolees-21'
 descuento: '58.20'
-average: '40.7166666666667'
+average: '38.8925'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
