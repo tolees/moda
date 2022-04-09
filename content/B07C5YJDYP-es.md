@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseñador: JACK&JONES
 - Artículo: 12138115 SHERIDAN
+- Diseñador: JACK&JONES
 - Temporada: Primavera-verano.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
