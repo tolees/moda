@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Forma del tacón: cremallera
-- Suela: sintética
-- Material exterior: piel aterciopelada
 - Material interior: forro textil
+- Forma del tacón: cremallera
+- Material exterior: piel aterciopelada
+- Suela: sintética
 
 [🛒 Visítala!!!]({{< param buyurl >}})
