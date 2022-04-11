@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cintura y puños elásticos
-- Logotipo grande clásico impreso en el pecho y "C" logo en la manga izquierda
-- Bolsillo tipo canguro
 - Detalle metálico del cordón de ajuste con logotipo
+- Bolsillo tipo canguro
+- Logotipo grande clásico impreso en el pecho y "C" logo en la manga izquierda
+- Cintura y puños elásticos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
