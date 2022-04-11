@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones JORNEWPORT Puffer Jacket Chaqueta  Navy Blazer/Detalle: Melange  M para Hombre'
-date: 2022-03-29 11:24:33
+date: 2022-04-11 17:20:32
 image: 'https://m.media-amazon.com/images/I/41WeRYaxjDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

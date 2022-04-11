@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseño de alto rendimiento
-- Tejido antifrisado suave con acabado texturizado que no se engancha ni forma bolas
 - FPS 30+ que protege la piel de los nocivos rayos del sol
 - Confección con tejido elástico en 4 direcciones que permite una mayor movilidad
-- Cuello de punto acanalado duradero
 - Material que capilariza el sudor y se seca rápidamente
+- Tejido antifrisado suave con acabado texturizado que no se engancha ni forma bolas
+- Cuello de punto acanalado duradero
+- Diseño de alto rendimiento
 
 [🛒 Comprar!!!]({{< param buyurl >}})
