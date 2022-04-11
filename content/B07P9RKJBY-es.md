@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Bajo con aberturas
 - Cinta distintiva en el interior del cuello
 - Logo de Tommy Hilfiger bordado en el pecho
-- Bajo con aberturas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

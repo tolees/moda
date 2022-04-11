@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lower East LE133 Camiseta de manga larga para Hombre  Blanco/Negro/Azul /Gris/Gris Folkstone  Paquete de 5   L'
-date: 2022-04-10 10:28:23
+date: 2022-04-11 19:35:42
 image: 'https://m.media-amazon.com/images/I/31cXujxL2dL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lower East'
 buyurl: 'https://www.amazon.es/dp/B07P9XP9BQ/?tag=tolees-21'
 descuento: '25.01'
-average: '30.49'
+average: '30.384'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corte recto y buena adaptación
 - La camiseta básica perfecta para el deporte y el ocio
+- Corte recto y buena adaptación
 
 [🛒 Comprar!!!]({{< param buyurl >}})
