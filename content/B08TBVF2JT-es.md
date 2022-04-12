@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lee Slim Button Down  Camisa  Hombre  Gris  Cloudburst Grey   XL'
-date: 2022-04-08 20:57:41
+date: 2022-04-12 14:15:00
 image: 'https://m.media-amazon.com/images/I/41jsgVbrhkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con un bolsillo en el pecho
 - Cuenta con el logotipo Lee
+- Con un bolsillo en el pecho
 
 [🛒 Visítala!!!]({{< param buyurl >}})
