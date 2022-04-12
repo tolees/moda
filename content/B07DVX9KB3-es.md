@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Type 3 Sherpa Chaqueta  Azul  Rockridge Trucker   XL para Hombre'
-date: 2022-04-02 18:02:42
+date: 2022-04-12 17:09:38
 image: 'https://m.media-amazon.com/images/I/41wf5saMfCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07DVX9KB3-es Levi s Type 3 Sherpa Chaqueta Azul Rockridge Trucker XL...'
 sku: 'B07DVX9KB3-es'
 tags: [ 'Chaquetas para hombre','Ropa','Ropa de abrigo para hombre','Ropa para hombre','chaqueta','levis', ]
-actualPrice: 84.28 EUR
+actualPrice: 83.55 EUR
 currency: EUR
-price: 84.28
+price: 83.55
 comparePrice: 130.0 EUR
 prodname: 'Levi s Type 3 Sherpa Chaqueta  Azul  Rockridge Trucker   XL para Hombre'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07DVX9KB3/?tag=tolees-21'
-descuento: '35.17'
-average: '85.8816666666667'
+descuento: '35.73'
+average: '85.5485714285715'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
