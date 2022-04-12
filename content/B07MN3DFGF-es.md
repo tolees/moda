@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Wrangler Logo Tee  Camiseta  Hombre  Blanco  White 989   Medium'
-date: 2022-04-11 07:08:54
+date: 2022-04-12 07:09:50
 image: 'https://m.media-amazon.com/images/I/41iNWpWk4rS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Wrangler'
 buyurl: 'https://www.amazon.es/dp/B07MN3DFGF/?tag=tolees-21'
 descuento: '50.03'
-average: '10.98'
+average: '10.7275'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Corte cómodo e informal
 - Tejido ligero primaveral
 - Estampado frontal con el logo de Wrangler
-- Corte cómodo e informal
 
 [🛒 Aquí!!!]({{< param buyurl >}})
