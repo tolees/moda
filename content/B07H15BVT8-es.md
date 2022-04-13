@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Montura en acetato de celulosa de calidad que aporta una adecuada resistencia y durabilidad
+- Producto original Hawkers; la caja incluye funda en microfibra y set de pegatinas decorativas
 - Gafas de Sol One X Ocean, Unisex, con montura de acetato translúcido color ámbar-naranja con frontal inferior caramelo estriado y lentes azul ocean
 - Medidas: Frontal: 14 cm; Alto: 5 cm; Patillas: 14 cm
-- Producto original Hawkers; la caja incluye funda en microfibra y set de pegatinas decorativas
 - Lentes azul ocean de TR18, con reducción de brillos y con gran equilibrio entre claridad y protección; lentes categoria 3 y protección uv400
-- Montura en acetato de celulosa de calidad que aporta una adecuada resistencia y durabilidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Corte ceñido slim fit
 - Tejido elástico de estilo minimalista
+- Corte ceñido slim fit
 
 [🛒 Aquí!!!]({{< param buyurl >}})

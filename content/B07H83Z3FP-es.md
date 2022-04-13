@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Recortada
-- Estándar
-- Pantalones a cuadros
 - Tamaño del paquete: 6,3 x 30,6 x 24,9 cm
+- Estándar
+- Recortada
+- Pantalones a cuadros
 
 [🛒 Aquí!!!]({{< param buyurl >}})
