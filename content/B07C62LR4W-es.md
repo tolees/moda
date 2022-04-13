@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Jack & Jones Jjesheridan Shirt L/s Camisa Vaquera  Negro  Black Denim Fit:Slim   X-Small para Hombre'
-date: 2022-04-06 15:43:38
+date: 2022-04-13 14:12:06
 image: 'https://m.media-amazon.com/images/I/31K96qcGbUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07C62LR4W-es Jack & Jones Jjesheridan Shirt L/s Camisa Vaquera Negro...'
 sku: 'B07C62LR4W-es'
-tags: [ 'Camisas casual para hombre','Camisetas, polos y camisas para hombre','Ropa','Ropa para hombre','camisa','jack & jones', ]
+tags: [ 'Camisas casual para hombre','Camisetas, polos y camisas para hombre','Ropa','Ropa para hombre','camisa','jack & jones','🇪🇸', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B07C62LR4W/?tag=tolees-21'
 descuento: '50.01'
-average: '22.4388888888889'
+average: '22.194'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -29,7 +29,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Temporada: Primavera-verano.
-- Artículo: 12138115 SHERIDAN
 - Diseñador: JACK&JONES
+- Artículo: 12138115 SHERIDAN
 
 [🛒 Comprar!!!]({{< param buyurl >}})

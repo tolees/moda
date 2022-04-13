@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Vero Moda 10138972  Pantalones para mujer  negro  black/coated   M/32'
-date: 2022-04-06 15:31:19
+date: 2022-04-13 13:41:06
 image: 'https://m.media-amazon.com/images/I/314XgWzs5kL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B00X7VM5Q6-es Vero Moda 10138972 Pantalones para mujer negro...'
 sku: 'B00X7VM5Q6-es'
-tags: [ 'Ropa','Ropa para mujer','Vaqueros para mujer','moda','vero moda', ]
+tags: [ 'Ropa','Ropa para mujer','Vaqueros para mujer','moda','vero moda','🇪🇸', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Vero Moda'
 buyurl: 'https://www.amazon.es/dp/B00X7VM5Q6/?tag=tolees-21'
 descuento: '42.80'
-average: '31.4019999999999'
+average: '30.6887499999999'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Kipling Bolso para mujer Arto S  color  talla 25x21x3 centimeters  B x H x T '
-date: 2022-04-03 14:05:55
+date: 2022-04-13 12:42:30
 image: 'https://m.media-amazon.com/images/I/31EBc6KDpeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B083YCY5NM-es Kipling Bolso para mujer Arto S color talla 25x21x3...'
 sku: 'B083YCY5NM-es'
-tags: [ 'Bolsos','Bolsos bandolera para mujer','Bolsos para mujer','Zapatos y complementos','bolso','kipling', ]
+tags: [ 'Bolsos','Bolsos bandolera para mujer','Bolsos para mujer','Zapatos y complementos','bolso','kipling','🇪🇸', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Classics
 - Unisex
 - Crossbody
-- Classics
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

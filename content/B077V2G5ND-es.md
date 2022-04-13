@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Kipling Creativity L  Monedero para Mujer  Marrón  True Beige   18.5x11x5 cm'
-date: 2022-04-03 14:00:17
+date: 2022-04-13 12:53:59
 image: 'https://m.media-amazon.com/images/I/41sScnPIbtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B077V2G5ND-es Kipling Creativity L Monedero para Mujer Marrón True Beige...'
 sku: 'B077V2G5ND-es'
-tags: [ 'Carteras y monederos para mujer','Carteras, monederos y tarjeteros','Equipaje','Monederos para mujer','kipling','monedero', ]
+tags: [ 'Carteras y monederos para mujer','Carteras, monederos y tarjeteros','Equipaje','Monederos para mujer','kipling','monedero','🇪🇸', ]
 actualPrice: 21.52 EUR
 currency: EUR
 price: 21.52
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Key fob
 - Compartimento principal con cremallera. Tres compartimentos funcionales: una cremallera y dos abiertos
+- Key fob
 - Logotipo redondo basculante
 - Metal robot Monkey
 - D
