@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Modelo Unisex. Frontal: 13,2 cm, Alto 4,5 cm, Patillas 14 cm
 - Montura en acetato de celulosa de alta calidad que aporta una máxima resistencia y durabilidad
 - Lentes doradas fabricadas en TR18, con reducción de brillos y con gran equilibrio entre claridad y protección. Lente de categoría 3 con protección UV400. Resistencia muy alta.
 - Producto original Hawkers. La caja incluye funda, caja y set de pegatinas decorativas.
 - Gafas de Sol Warwick X, Unisex, con montura carey de máxima resistencia y durabilidad y lentes en negro con reducción de reflejos.
+- Modelo Unisex. Frontal: 13,2 cm, Alto 4,5 cm, Patillas 14 cm
 
 [🛒 Aquí!!!]({{< param buyurl >}})

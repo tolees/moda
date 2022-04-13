@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Ajustable
 - Cierre con cremallera en los puños
+- Con capucha
 - Cierre con cremallera
 - W Seven J
-- Ajustable
-- Con capucha
 
 [🛒 Comprar!!!]({{< param buyurl >}})
