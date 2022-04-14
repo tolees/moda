@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'adidas Core 18 Hoody Sudadera con Capucha  Hombre  Rojo  Rojo/Blanco   M'
-date: 2022-04-06 15:43:01
+date: 2022-04-14 17:59:01
 image: 'https://m.media-amazon.com/images/I/41iU1gKNCaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B076PL8DSP-es adidas Core 18 Hoody Sudadera con Capucha Hombre Rojo...'
 sku: 'B076PL8DSP-es'
-tags: [ 'Jerséis, cárdigans y sudaderas para hombre','Ropa','Ropa para hombre','Sudaderas con capucha para hombre','Sudaderas para hombre','adidas','sudadera', ]
+tags: [ 'Jerséis, cárdigans y sudaderas para hombre','Ropa','Ropa para hombre','Sudaderas con capucha para hombre','Sudaderas para hombre','adidas','sudadera','🇪🇸', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076PL8DSP/?tag=tolees-21'
 descuento: '50.03'
-average: '23.4448000000001'
+average: '23.3119230769232'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tiene una capucha ajustable con cordón
 - Ventilación Climacool.
-- Escote redondo.
+- Tiene una capucha ajustable con cordón
 - Sin mangas.
+- Escote redondo.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
