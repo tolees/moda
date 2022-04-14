@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material de la suela: Caucho
 - Revestimiento: Lona
+- Material de la suela: Caucho
 - Material exterior: Lona
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

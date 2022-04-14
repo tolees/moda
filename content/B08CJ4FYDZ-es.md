@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Cintura ajustable con cordón ajustable; marca exterior; detalles con la marca Wolfeboro
 - Bolsillos ribeteados en el pecho; bolsillos para las manos con solapas y cierres automáticos
+- Lona mezcla de algodón y poliéster reciclado REPREVE; revestimiento transparente de PU 1000mm
 - Forro con sherpa natural y acolchado de rombos; tratamiento duradero que repele el agua (DWR)
 - Cremallera metálica vista en la parte central delantera; capucha con visera
-- Lona mezcla de algodón y poliéster reciclado REPREVE; revestimiento transparente de PU 1000mm
-- Cintura ajustable con cordón ajustable; marca exterior; detalles con la marca Wolfeboro
 
 [🛒 Comprar!!!]({{< param buyurl >}})

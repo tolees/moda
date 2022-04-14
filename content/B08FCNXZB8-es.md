@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Para más información sobre Calvin Klein Jeans, consulta la sección de descripción del producto a continuación.
 - Este es un producto auténtico y original de Calvin Klein Jeans.
+- Para más información sobre Calvin Klein Jeans, consulta la sección de descripción del producto a continuación.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
