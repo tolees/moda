@@ -29,7 +29,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Con un discreto logo en el pecho
-- Elaborada en punto suave
 - Modelo casual
+- Elaborada en punto suave
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
