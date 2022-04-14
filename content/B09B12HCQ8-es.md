@@ -1,25 +1,25 @@
 ---
 layout: post
 title: 'Jack & Jones Jjebasic Noos-Sudadera con Capucha y Cremallera Chaqueta  Forest Night  S para Hombre'
-date: 2022-04-04 11:56:28
+date: 2022-04-14 10:56:04
 image: 'https://m.media-amazon.com/images/I/41BfcursxOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B09B12HCQ8-es Jack & Jones Jjebasic Noos-Sudadera con Capucha y...'
 sku: 'B09B12HCQ8-es'
-tags: [ 'Cárdigans para hombre','Jerséis, cárdigans y sudaderas para hombre','Ropa','Ropa para hombre','Sudaderas con capucha para hombre','Sudaderas para hombre','chaqueta','jack & jones', ]
-actualPrice: 20.04 EUR
+tags: [ 'Jerséis, cárdigans y sudaderas para hombre','Ropa','Ropa para hombre','Sudaderas con capucha para hombre','Sudaderas para hombre','chaqueta','jack & jones','🇪🇸', ]
+actualPrice: 20.17 EUR
 currency: EUR
-price: 20.04
+price: 20.17
 comparePrice: 39.99 EUR
 prodname: 'Jack & Jones Jjebasic Noos-Sudadera con Capucha y Cremallera Chaqueta  Forest Night  S para Hombre'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B09B12HCQ8/?tag=tolees-21'
-descuento: '49.89'
-average: '22.4633333333333'
+descuento: '49.56'
+average: '22.1357142857143'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
