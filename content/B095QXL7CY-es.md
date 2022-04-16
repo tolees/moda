@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bolsillo frontal tipo canguro
-- Puños y dobladillo inferior acanalados
-- Forro polar ultrasuave de mezcla de algodón de peso medio con interior cepillado para mayor calidez
-- Mangas raglán
 - Capucha ajustable y cruzada
+- Puños y dobladillo inferior acanalados
+- Bolsillo frontal tipo canguro
+- Mangas raglán
+- Forro polar ultrasuave de mezcla de algodón de peso medio con interior cepillado para mayor calidez
 
 [🛒 Visítala!!!]({{< param buyurl >}})
