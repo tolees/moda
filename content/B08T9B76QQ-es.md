@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Regular
 - Este producto fue producido de forma sostenible con materiales sostenibles
+- Regular
 - Este es un auténtico producto Tommy Hilfiger
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

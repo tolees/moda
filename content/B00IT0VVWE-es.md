@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Lacoste L1212 Camisa Polo  Aerien  M para Hombre'
-date: 2022-04-06 20:38:29
+date: 2022-04-16 20:54:12
 image: 'https://m.media-amazon.com/images/I/41I9EwhZWWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B00IT0VVWE-es Lacoste L1212 Camisa Polo Aerien M para Hombre'
 sku: 'B00IT0VVWE-es'
-tags: [ 'Camisetas, polos y camisas para hombre','Polos para hombre','Ropa','Ropa para hombre','camisa','lacoste', ]
+tags: [ 'Camisetas, polos y camisas para hombre','Polos para hombre','Ropa','Ropa para hombre','camisa','lacoste','🇪🇸', ]
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Classic fit
 - Polo Lacoste Classic Fit L.12.12
 - Bajo recto con aberturas laterales
-- Classic fit
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

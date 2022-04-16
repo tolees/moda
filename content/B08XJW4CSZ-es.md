@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Only Onlelcos 4/5 AOP Top Jrs Noos Camiseta de Manga Larga  Verde  Grape Leaf/Black Animal   S para Mujer'
-date: 2022-04-15 09:26:53
+date: 2022-04-16 20:17:34
 image: 'https://m.media-amazon.com/images/I/41wNWr-nbsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Parte superior de corte holgado para mujer con cuello redondo
+- Parte superior de corte holgado para mujer con cuello redondo
 - Camiseta con mangas 4/5
-- Parte superior de corte holgado para mujer con cuello redondo
-- Parte superior de corte holgado para mujer con cuello redondo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
