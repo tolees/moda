@@ -30,7 +30,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Trabillas para cinturón
 - Composición: 77% viscosa, 20% nailon, 3% elastano
-- Pantalón con revestimiento
 - Estilo de cinco bolsillos
+- Pantalón con revestimiento
 
 [🛒 Visítala!!!]({{< param buyurl >}})
