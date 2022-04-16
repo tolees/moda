@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - De la marca Helly Hansen
-- Composición: 100% Poliéster
-- Hp
-- Polar en poliéster de acabado brillante, 285 g/m² Forro polar con estructura en el panel posterior Cremalleras YKK en el delantero y los bolsillos Manga raglán que brinda libertad de movimiento
 - De alta calidad
+- Polar en poliéster de acabado brillante, 285 g/m² Forro polar con estructura en el panel posterior Cremalleras YKK en el delantero y los bolsillos Manga raglán que brinda libertad de movimiento
+- Hp
+- Composición: 100% Poliéster
 
 [🛒 Aquí!!!]({{< param buyurl >}})
