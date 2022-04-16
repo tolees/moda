@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Recogida Gratis para tus Devoluciones
 - La mejor moda en calzado con las mejores firmas
+- Recogida Gratis para tus Devoluciones
 - Envío en 24 Horas con Correos Express
 
 [🛒 Comprar!!!]({{< param buyurl >}})
