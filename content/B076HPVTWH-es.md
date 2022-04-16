@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Costuras abiertas para una mayor libertad de movimiento.
+- Paneles laterales de felpa para secarse las manos.
 - Corte clásico.
 - Tejido calado 100% poliéster.
 - Logotipo de adidas sobre el dobladillo izquierdo.
 - Puños y dobladillo acanalados
-- Paneles laterales de felpa para secarse las manos.
-- Costuras abiertas para una mayor libertad de movimiento.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
