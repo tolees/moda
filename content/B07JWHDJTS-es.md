@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s The Perfect Camiseta  Holiday tee White  M para Mujer'
-date: 2022-04-14 17:39:13
+date: 2022-04-16 15:15:27
 image: 'https://m.media-amazon.com/images/I/41w77VgIuoS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07JWHDJTS-es Levi s The Perfect Camiseta Holiday tee White M para Mujer'
 sku: 'B07JWHDJTS-es'
 tags: [ 'Camisetas para mujer','Camisetas, tops y blusas para mujer','Ropa','Ropa para mujer','camiseta','levis','🇪🇸', ]
-actualPrice: 16.16 EUR
+actualPrice: 17.86 EUR
 currency: EUR
-price: 16.16
+price: 17.86
 comparePrice: 25.0 EUR
 prodname: 'Levi s The Perfect Camiseta  Holiday tee White  M para Mujer'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07JWHDJTS/?tag=tolees-21'
-descuento: '35.36'
-average: '16.065'
+descuento: '28.56'
+average: '16.6633333333333'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
