@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Suela: sintética
-- Material exterior: ante
 - Cierre: cordones
-- Material interior: sintético
 - Altura del tacón: 3,5 cm
+- Material exterior: ante
+- Material interior: sintético
+- Suela: sintética
 
 [🛒 Aquí!!!]({{< param buyurl >}})
