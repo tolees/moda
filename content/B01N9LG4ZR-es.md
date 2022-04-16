@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cremallera en el tobillo a la barbilla con solapa a presión.
-- Para mayor seguridad, los pijamas deben ser resistentes al fuego o bien ajustados. Nuestra ropa de dormir de poliéster y forro polar es resistente al fuego y libre de tratamientos químicos.
 - Carter’s es la marca líder en ventas de ropa para niños pequeños en los EE. UU. Diferentes generaciones de familias estadounidenses confían en Carters para hacer la vida más fácil, ofreciendo una amplia gama de estilos a un gran precio.
 - Tres juegos de pijamas de pie con divertidos patrones y apliques
 - Forro polar.
+- Cremallera en el tobillo a la barbilla con solapa a presión.
+- Para mayor seguridad, los pijamas deben ser resistentes al fuego o bien ajustados. Nuestra ropa de dormir de poliéster y forro polar es resistente al fuego y libre de tratamientos químicos.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
