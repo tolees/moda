@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Felpa 70% algodón / 30% poliéster.
-- Capucha con cordón ajustable.
-- Puños y dobladillo de canalé.
-- Con bolsillo de tipo canguro
-- Corte clásico más ancho y silueta recta.
 - Manga raglán.
+- Capucha con cordón ajustable.
+- Con bolsillo de tipo canguro
+- Felpa 70% algodón / 30% poliéster.
+- Corte clásico más ancho y silueta recta.
+- Puños y dobladillo de canalé.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

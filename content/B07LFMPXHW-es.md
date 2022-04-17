@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Bolsillos de parche en el pecho con solapa y corchete
 - Un básico versátil para completar cualquier conjunto
 - Trabillas ajustables en la parte posterior de la cinturilla
-- Bolsillos de parche en el pecho con solapa y corchete
 
 [🛒 Visítala!!!]({{< param buyurl >}})
