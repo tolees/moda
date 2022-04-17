@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Sudadera con capucha de material sostenible
+- Sudadera con capucha
+- Sudadera con capucha de color liso
 - Sudadera con capucha de algodón
 - Jersey sencillo
-- Sudadera con capucha de material sostenible
-- Sudadera con capucha de color liso
-- Sudadera con capucha
 
 [🛒 Comprar!!!]({{< param buyurl >}})
