@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s 721 High Rise Skinny  Vaqueros  Dark Indigo-Worn In 529  28W / 30L para Mujer'
-date: 2022-04-16 19:33:40
+date: 2022-04-17 22:13:46
 image: 'https://m.media-amazon.com/images/I/31rvpcNsoiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
