@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Amortiguación de gel
 - Innovador material de malla
+- Amortiguación EVA
 - Tecnología FLYTEFOAM
 - Refuerzos en los dedos de los pies
-- Amortiguación EVA
-- Amortiguación de gel
 
 [🛒 Aquí!!!]({{< param buyurl >}})
