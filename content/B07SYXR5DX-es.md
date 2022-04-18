@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Only Onlkira Lace Singlet 2 Pack Noos Camiseta sin Mangas  Azul  Night Sky Pack: Night Sky/Withered Rose   Medium 2 para Mujer'
-date: 2022-04-16 18:17:21
+date: 2022-04-18 20:06:43
 image: 'https://m.media-amazon.com/images/I/31wSwuKL46L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Only'
 buyurl: 'https://www.amazon.es/dp/B07SYXR5DX/?tag=tolees-21'
 descuento: '30.42'
-average: '11.408'
+average: '11.245'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
