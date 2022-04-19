@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Marca del producto: Helly Hansen
-- El material ofrece una comodidad óptima
 - Impermeable y transpirable
 - Diseño ligero
+- El material ofrece una comodidad óptima
+- Marca del producto: Helly Hansen
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

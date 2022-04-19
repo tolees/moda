@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Negro
 - adulto
+- Negro
 
 [🛒 Comprar!!!]({{< param buyurl >}})

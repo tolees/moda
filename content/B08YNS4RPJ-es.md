@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sistema de cierre de Velcro para un fácil ajuste
 - Suela: EVA y caucho para mayor ligereza y un mejor agarre
+- Sistema de cierre de Velcro para un fácil ajuste
 - Material reciclado
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bolsillos abiertos para las manos.
-- Ligero, ultra cómodo forro polar de mezcla de algodón.
 - Mangas raglán
+- Bolsillos abiertos para las manos.
 - Interior suave y cepillado que atrapa el calor.
 - Puños y dobladillo inferior acanalados.
+- Ligero, ultra cómodo forro polar de mezcla de algodón.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
