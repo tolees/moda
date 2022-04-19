@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'DC Shoes Bolsa SE-Sandalias para Hombre  Chanclas  Negro Blanco  38 EU'
-date: 2022-04-09 08:25:15
+date: 2022-04-19 10:05:48
 image: 'https://m.media-amazon.com/images/I/31vbW1rtHtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B08GM95JBB-es DC Shoes Bolsa SE-Sandalias para Hombre Chanclas Negro...'
 sku: 'B08GM95JBB-es'
-tags: [ 'Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas','dc shoes', ]
+tags: [ 'Calzado deportivo para hombre','Chanclas y sandalias de piscina para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas','dc shoes','🇪🇸', ]
 actualPrice: 15.75 EUR
 currency: EUR
 price: 15.75
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'DC Shoes'
 buyurl: 'https://www.amazon.es/dp/B08GM95JBB/?tag=tolees-21'
 descuento: '47.50'
-average: '19.8163636363636'
+average: '19.4775'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
