@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Interior: textil
 - Exterior: piel
 - Cierre: cordones
 - Suela: goma
-- Interior: textil
 
 [🛒 Aquí!!!]({{< param buyurl >}})
