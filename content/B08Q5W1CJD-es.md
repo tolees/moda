@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fácil de llevar para un confort optimo
-- Calzado sin cierre
 - La suela ofrece las propiedades transpirables e impermeables debido a la patente Geox Cuoio
+- Calzado sin cierre
+- Fácil de llevar para un confort optimo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
