@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Longitud: 106 cm
+- Relleno de pluma 80/20
 - Calce: regular
 - Tejido hidrófugo
-- Longitud: 106 cm
 - Bolsillos con forro abrigado
-- Relleno de pluma 80/20
-- Cuello envolvente y protector
 - Exclusivo sistema transpirante patentado Geox
+- Cuello envolvente y protector
 
 [🛒 Aquí!!!]({{< param buyurl >}})

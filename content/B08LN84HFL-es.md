@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - 100% poliéster
-- El material absorbe el sudor y se seca muy rápidamente
 - Estilo #: 1365409
+- El material absorbe el sudor y se seca muy rápidamente
 - Exterior de punto de punto suave con un interior cepillado para una comodidad suave y calidez
 - Cremallera frontal de ½ para una fácil colocación en capas
 
