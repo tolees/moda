@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Logotipo estampado
-- Bolsillos laterales
 - Aislamiento ColdGear Reactor que se adapta a cualquier actividad para ofrecer comodidad y versatilidad
 - Tecnología UA Storm que repele el agua sin sacrificar la transpirabilidad
+- Logotipo estampado
+- Bolsillos laterales
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
