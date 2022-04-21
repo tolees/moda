@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Vegano
 - 3M Scotchgardd
+- Vegano
 - Warm Tech MF
 - Forro de piel sintética
 
