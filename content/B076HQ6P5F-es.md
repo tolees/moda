@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillo canguro
+- Etiqueta sobre el dobladillo izquierdo.
 - Costuras laterales abiertas para una mayor libertad de movimiento.
 - Logotipo de adidas a la derecha del pecho.
-- Etiqueta sobre el dobladillo izquierdo.
+- Bolsillo canguro
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
