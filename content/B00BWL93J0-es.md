@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de tacón: sin tacón.
 - Forro: tela.
-- Ancho del zapato: normal.
 - Diámetro de la pantorrilla: normal.
+- Ancho del zapato: normal.
+- Tipo de tacón: sin tacón.
 - Material exterior: sintético.
 - Cierre: cordón.
 - Material de la suela: goma.
