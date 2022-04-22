@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Garantía: Devolución garantizada en los próximos 15 días para productos comprados directamente a nuestra marca.
 - 3 en 1: 3 piezas para disfrutar con tu mascota. No hay excusa, no se te olvida nada con este pack. Collar luminoso y cinta de paseo ajustables ; con validez con perros medianos y grandes + Dispensador de bolsas recoge excrementos (con 15 bolsas incluidas)
 - AJUSTABLE Y REFLECTANTE: Localizarás a tu mascota en la oscuridad. Collar de tacto interior suave para un mayor confort de tu perro. Con cinta ajustable de cierre de clic y accesorio metálico para cinta de paseo. Poliéster
+- Garantía: Devolución garantizada en los próximos 15 días para productos comprados directamente a nuestra marca.
 - Para tí que eres un apasionado de los paseos con tu perro. Ideal para Personas que salen a pasear con sus mascotas . Con esto , llevas todo lo necesario para pasear.
 - MUY RESISTENTE: El tejido de poliéster garantiza una resistencia duradera. El mosquetón de metal cromado de la correa se engancha fácilmente al collar del perro y el mosquetón del dispensador, se engancha a la correa.
 
