@@ -30,7 +30,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Cuello y puños acanalados.
 - Cómoda tela de piqué de algodón.
-- Logotipo de HH en la manga.
 - Tapeta con cuello profundo de 4 botones
+- Logotipo de HH en la manga.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
