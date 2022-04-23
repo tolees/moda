@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Superdry Code Everest Bomber Chaqueta  Negro  L para Mujer'
-date: 2022-04-17 07:01:42
+date: 2022-04-23 03:26:07
 image: 'https://m.media-amazon.com/images/I/41owRicF0YL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08QNJCGKJ-es Superdry Code Everest Bomber Chaqueta Negro L para Mujer'
 sku: 'B08QNJCGKJ-es'
 tags: [ 'Chaquetas para mujer','Ropa','Ropa de abrigo para mujer','Ropa para mujer','chaqueta','superdry','🇪🇸', ]
-actualPrice: 40.33 EUR
+actualPrice: 36.39 EUR
 currency: EUR
-price: 40.33
+price: 36.39
 comparePrice: 169.99 EUR
 prodname: 'Superdry Code Everest Bomber Chaqueta  Negro  L para Mujer'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Superdry'
 buyurl: 'https://www.amazon.es/dp/B08QNJCGKJ/?tag=tolees-21'
-descuento: '76.28'
-average: '40.33'
+descuento: '78.59'
+average: '38.36'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
