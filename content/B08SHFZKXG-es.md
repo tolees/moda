@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jjesheridan Noos-Camiseta  Talla L/S  Camisa  Vajilla  XL para Hombre'
-date: 2022-04-22 05:37:07
+date: 2022-04-23 11:42:27
 image: 'https://m.media-amazon.com/images/I/41lYrHJlxxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B08SHFZKXG/?tag=tolees-21'
 descuento: '42.41'
-average: '32.9083333333333'
+average: '31.4971428571428'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

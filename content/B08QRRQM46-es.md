@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Superdry VL AC Colourblock Crew Sweatshirt Sudadera  Enamel Green  S para Hombre'
-date: 2022-04-13 14:21:35
+date: 2022-04-23 11:48:21
 image: 'https://m.media-amazon.com/images/I/41d5dsWm-kL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08QRRQM46-es Superdry VL AC Colourblock Crew Sweatshirt Sudadera Enamel...'
 sku: 'B08QRRQM46-es'
 tags: [ 'Jerséis, cárdigans y sudaderas para hombre','Ropa','Ropa para hombre','Sudaderas para hombre','Sudaderas sin capucha para hombre','sudadera','superdry','🇪🇸', ]
-actualPrice: 20.5 EUR
+actualPrice: 15.94 EUR
 currency: EUR
-price: 20.5
+price: 15.94
 comparePrice: 79.99 EUR
 prodname: 'Superdry VL AC Colourblock Crew Sweatshirt Sudadera  Enamel Green  S para Hombre'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Superdry'
 buyurl: 'https://www.amazon.es/dp/B08QRRQM46/?tag=tolees-21'
-descuento: '74.37'
-average: '22.755'
+descuento: '80.07'
+average: '20.4833333333333'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
