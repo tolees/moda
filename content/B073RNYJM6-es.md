@@ -28,15 +28,15 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Closure: zipper
-- Closure: zipper; tipo de deporte: sportswear; tipo de fábrica: Compuesto; tipo de deporte: Sportswear
-- 70% algodón, 30% poliéster
 - Multipack: 1
-- No aplicable
 - Sudadera ajustable para hombres, confeccionada con suave felpa francesa; imprescindible para las noches de verano o para usar debajo de una chaqueta en invierno
+- Closure: zipper
+- No aplicable
 - Hh logo hoodie
-- Cuenta con el logotipo de Helly Hansen estampado en el pecho, con una capucha ajustable con cordón grueso y con un forro en jersey para mayor protección
-- Multipack: 1
 - 70% algodón, 30% poliéster
+- Cuenta con el logotipo de Helly Hansen estampado en el pecho, con una capucha ajustable con cordón grueso y con un forro en jersey para mayor protección
+- 70% algodón, 30% poliéster
+- Closure: zipper; tipo de deporte: sportswear; tipo de fábrica: Compuesto; tipo de deporte: Sportswear
+- Multipack: 1
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
