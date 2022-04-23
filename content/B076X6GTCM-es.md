@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Geox Uomo Sandal Strada D  Sandalia con Pulsera para Hombre  Gris  Stone/Lt Grey   39 EU'
-date: 2022-04-12 22:30:06
+date: 2022-04-22 22:41:12
 image: 'https://m.media-amazon.com/images/I/41BSp2iny2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B076X6GTCM-es Geox Uomo Sandal Strada D Sandalia con Pulsera para Hombre...'
 sku: 'B076X6GTCM-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','geox', ]
+tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','geox','🇪🇸', ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B076X6GTCM/?tag=tolees-21'
 descuento: '31.34'
-average: '64.9872727272728'
+average: '64.2482608695653'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre: Velcro
 - Material de la suela: Goma
 - Material exterior: Sintético
-- Tipo de tacón: Plano
+- Cierre: Velcro
 - Revestimiento: Malla
+- Tipo de tacón: Plano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
