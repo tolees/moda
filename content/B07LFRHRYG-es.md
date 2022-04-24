@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Altura del tacón: 3 centímetros
-- Revestimiento: Sintético
-- Material de la suela: Sintético
 - Cierre: Cremallera
 - Tipo de tacón: Plano
 - Tipo de talla: Los zapatos Geox son holgados
+- Altura del tacón: 3 centímetros
+- Material de la suela: Sintético
+- Revestimiento: Sintético
 - Anchura del zapato: Normal
 - Material exterior: Sintético
 
