@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Mike Original Jos 411 Vaqueros  Azul Denim  32W / 32L para Hombre'
-date: 2022-04-19 21:17:07
+date: 2022-04-24 12:14:50
 image: 'https://m.media-amazon.com/images/I/41IZCc7L2RL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Added stretch for comfort and flexibility
 - Classic five-pocket jeans
+- Added stretch for comfort and flexibility
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
