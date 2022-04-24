@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tejido cómodo
-- Práctica y apta para cualquier situación
 - Protección solar Omni-Shade UPF 50
+- Práctica y apta para cualquier situación
+- Tejido cómodo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

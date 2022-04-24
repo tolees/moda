@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Algodón orgánico
 - Vaqueros sostenibles
+- Algodón orgánico
 - Elástico
 
 [🛒 Comprar!!!]({{< param buyurl >}})
