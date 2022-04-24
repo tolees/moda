@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AURIQUE Bal1265 Chaqueta  Negro  40'
-date: 2022-04-21 13:59:28
+date: 2022-04-24 22:43:27
 image: 'https://m.media-amazon.com/images/I/31zdSL3oNCS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
