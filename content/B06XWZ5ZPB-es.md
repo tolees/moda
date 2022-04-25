@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia
-- Producto oficial Hakwers
-- Lentes de TR18 con el sello de Eastman, uno de los líderes mundiales en tecnología de copoliéster. Respetuoso con el medio ambiente y proporciona un equilibrio único entre claridad y resistencia. Lentes categoría 3 y protección uv400 que ofrecen una protección antideslumbrante superior
-- Modelo para hombre y mujer: Unisex
 - Medidas: Frontal 14 cm, Alto 5 cm, Patillas 14 cm
+- Producto oficial Hakwers
+- Modelo para hombre y mujer: Unisex
+- Lentes de TR18 con el sello de Eastman, uno de los líderes mundiales en tecnología de copoliéster. Respetuoso con el medio ambiente y proporciona un equilibrio único entre claridad y resistencia. Lentes categoría 3 y protección uv400 que ofrecen una protección antideslumbrante superior
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
