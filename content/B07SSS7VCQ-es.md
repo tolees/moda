@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material de la suela: Sintético
-- Material exterior: Cuero
-- Tipo de tacón: Plano
-- Revestimiento: Sintético
 - Cierre: Hebilla
+- Material de la suela: Sintético
+- Revestimiento: Sintético
+- Tipo de tacón: Plano
+- Material exterior: Cuero
 
 [🛒 Visítala!!!]({{< param buyurl >}})

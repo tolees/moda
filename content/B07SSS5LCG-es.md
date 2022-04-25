@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de tacón: Plano
 - Revestimiento: Sintético
 - Material de la suela: Sintético
 - Material exterior: Cuero
+- Tipo de tacón: Plano
 - Cierre: Hebilla
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

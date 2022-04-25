@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Sarga de poliéster reciclado
-- Colección: inflado largo ajustado
-- Cuello con capucha
 - Acabado repelente al agua
+- Colección: inflado largo ajustado
 - Este es un producto auténtico y original de Calvin Klein Jeans
+- Cuello con capucha
 
 [🛒 Comprar!!!]({{< param buyurl >}})

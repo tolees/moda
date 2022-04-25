@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aberturas laterales con corchetes ajustables
 - Chaqueta acolchada larga confeccionada en tejido de nylon gris perla. Incluye aberturas laterales y capucha con tejido efecto pelo. Nueva colección Mujer OI21 Desigual.
-- Desigual - Chaqueta acolchada larga de mujer con capucha efecto pelo
-- Machine Wash in Cold Water
 - La capucha incluye un borde efecto pelo extraíble
+- Aberturas laterales con corchetes ajustables
+- Machine Wash in Cold Water
+- Desigual - Chaqueta acolchada larga de mujer con capucha efecto pelo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
