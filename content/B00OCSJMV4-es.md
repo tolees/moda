@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Columbia Sun Ridge Polo - Camiseta para Hombre  Multicolor  Talla M'
-date: 2022-04-24 16:32:31
+date: 2022-04-25 18:05:50
 image: 'https://m.media-amazon.com/images/I/41mjrQXIUHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Columbia'
 buyurl: 'https://www.amazon.es/dp/B00OCSJMV4/?tag=tolees-21'
 descuento: '59.29'
-average: '22.4633333333333'
+average: '21.935'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Protección solar Omni-Shade UPF 50
 - Práctica y apta para cualquier situación
 - Tejido cómodo
+- Protección solar Omni-Shade UPF 50
 
 [🛒 Comprar!!!]({{< param buyurl >}})
