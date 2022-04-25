@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Levi s Kids Lvg L/S Batwing Tee Camiseta White para Bebé-Niñas'
-date: 2022-04-12 17:01:35
+date: 2022-04-25 08:01:29
 image: 'https://m.media-amazon.com/images/I/21Ru3l2+UjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07YR3BLLC-es Levi s Kids Lvg L/S Batwing Tee Camiseta White para Bebé-...'
 sku: 'B07YR3BLLC-es'
-tags: [ 'Partes de arriba para bebés niña','Ropa','Ropa para bebés','Ropa para bebés niña','camiseta','levis kids', ]
+tags: [ 'Partes de arriba para bebés niña','Ropa','Ropa para bebés','Ropa para bebés niña','camiseta','levis kids','🇪🇸', ]
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Perforaciones - aumenta la ventilación.
 - Sistema de cordones - bloquea la parte media del pie.
-- Parte superior de cuero - durabilidad y comodidad.
 - Entresuela Abzorb - funciona para absorber golpes e impactos.
+- Perforaciones - aumenta la ventilación.
+- Parte superior de cuero - durabilidad y comodidad.
 - IMEVA - aumenta la amortiguación debajo de los pies.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
