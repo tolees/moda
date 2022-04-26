@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Calvin Klein Trunk 3Pk Boxer  White Black Grey Heather  M  Pack de 3  para Hombre'
-date: 2022-04-22 18:00:48
-image: 'https://m.media-amazon.com/images/I/41Ff5RVmvIL._SL500_._SL400_.jpg'
+date: 2022-04-26 12:32:24
+image: 'https://m.media-amazon.com/images/I/31v8hCQPOCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Calvin Klein'
 buyurl: 'https://www.amazon.es/dp/B08T61BYR7/?tag=tolees-21'
 descuento: '33.23'
-average: '31.6466666666667'
+average: '31.23'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
