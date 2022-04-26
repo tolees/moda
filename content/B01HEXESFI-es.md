@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Revestimiento: Sin forro
-- Material exterior: Espuma
 - Cierre: Sin cordones
-- Composición: Espuma
-- Anchura del zapato: Normal
+- Material exterior: Espuma
 - Material de la suela: EVA
 - Tipo de tacón: Plano
+- Revestimiento: Sin forro
+- Composición: Espuma
+- Anchura del zapato: Normal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

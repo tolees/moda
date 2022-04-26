@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sudadera de gran tamaño y monocolor
 - Sudadera para hombre con mangas largas y cuello redondo
+- Sudadera de gran tamaño y monocolor
 
 [🛒 Visítala!!!]({{< param buyurl >}})
