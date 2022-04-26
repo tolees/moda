@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vero Moda 10138972  Pantalones para mujer  negro  black/coated   M/32'
-date: 2022-04-13 13:41:06
+date: 2022-04-26 07:36:40
 image: 'https://m.media-amazon.com/images/I/314XgWzs5kL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Vero Moda'
 buyurl: 'https://www.amazon.es/dp/B00X7VM5Q6/?tag=tolees-21'
 descuento: '42.80'
-average: '30.6887499999999'
+average: '30.0594117647058'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

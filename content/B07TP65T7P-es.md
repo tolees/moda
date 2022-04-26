@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Piezas de procedencia animal: no
 - Instrucciones de cuidado: planchar a baja temperatura; no limpiar en seco; secar en el tendedero a la sombra; lavado especial para prendas delicadas a 40 grados; no usar lejía
+- Piezas de procedencia animal: no
 - Material exterior: 100% algodón
 
 [🛒 Visítala!!!]({{< param buyurl >}})
