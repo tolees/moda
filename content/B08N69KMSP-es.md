@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Parte superior de punto con zona para mayor apoyo.
 - Talón para mayor estabilidad.
 - Calcetines de espuma deportiva para mayor comodidad y transpirabilidad.
+- Parte superior de punto con zona para mayor apoyo.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
