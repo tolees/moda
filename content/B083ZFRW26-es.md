@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forro: Textil
-- Superiores: Cuero
 - Suela: Eva
+- Superiores: Cuero
+- Forro: Textil
 - Ajuste: (h) Ancho
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
