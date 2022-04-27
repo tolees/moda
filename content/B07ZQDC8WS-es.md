@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Adilette Aqua  Chanclas Unisex Adulto  Footwear White Platin Metallic Footwear White  44.5 EU'
-date: 2022-04-18 10:30:24
+date: 2022-04-27 08:00:21
 image: 'https://m.media-amazon.com/images/I/315g2QH9VPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,13 +12,13 @@ tags: [ 'Calzado deportivo para mujer','Chanclas y sandalias de piscina para muj
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99
-comparePrice: 19.99 EUR
+comparePrice: 20.0 EUR
 prodname: 'adidas Adilette Aqua  Chanclas Unisex Adulto  Footwear White Platin Metallic Footwear White  44.5 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B07ZQDC8WS/?tag=tolees-21'
-descuento: '30.02'
+descuento: '30.05'
 average: '13.99'
 ---
 
