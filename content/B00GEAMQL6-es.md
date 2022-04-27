@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material: cuero PU
-- Placa de metal con el símbolo Konohagure en el dorso de la mano
-- Guantes ninja para aficcionados de Naruto
-- Talla: M
 - perfecto para completar cualquier disfraz cosplay Kakashi
+- Placa de metal con el símbolo Konohagure en el dorso de la mano
+- Talla: M
+- Guantes ninja para aficcionados de Naruto
+- Material: cuero PU
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
