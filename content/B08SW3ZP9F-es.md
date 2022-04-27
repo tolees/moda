@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Exclusivo sistema transpirante patentado Geox
-- Calce: regular
 - Longitud: 78 cm
+- Exclusivo sistema transpirante patentado Geox
+- Cuello envolvente y protector
+- Calce: regular
 - Bolsillos con forro abrigado
 - Relleno con inyección directa de pluma 90/10
-- Cuello envolvente y protector
 
 [🛒 Comprar!!!]({{< param buyurl >}})

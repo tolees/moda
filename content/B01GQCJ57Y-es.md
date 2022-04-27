@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Corto, mangas en diagonal.
+- Cuello redondo.
 - Pequeño Trébol en la manga izquierda.
 - El tejido CLIMALITE elimina el sudor de la piel camino
-- Cuello redondo.
-- Corto, mangas en diagonal.
 - Print de Adidas en la parte frontal
 
 [🛒 Visítala!!!]({{< param buyurl >}})
