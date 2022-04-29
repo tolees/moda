@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- GORE C5 GORE-TEX Active Chaqueta, Talla: S, Color: negro/rojo, 100193
-- Talle recto/Corte específico para bicicletas
-- Tecnología GORE-TEX Active: Impermeable, cortaviento y extremadamente transpirable
-- Sección de la espalda alargada para proteger de salpicaduras, Bolsillo trasero con cremallera, Adecuada para llevar con mochila
 - Versátil chaqueta de hombre para ciclistas en condiciones de bajas temperaturas
+- Sección de la espalda alargada para proteger de salpicaduras, Bolsillo trasero con cremallera, Adecuada para llevar con mochila
+- GORE C5 GORE-TEX Active Chaqueta, Talla: S, Color: negro/rojo, 100193
+- Tecnología GORE-TEX Active: Impermeable, cortaviento y extremadamente transpirable
+- Talle recto/Corte específico para bicicletas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

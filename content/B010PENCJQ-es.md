@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Tipo de tacón: Plano
+- Material de la suela: Sintético
+- Cierre: Tira de tobillo
+- Revestimiento: Sin forro
 - Material exterior: Espuma
 - Composición: Sintético
-- Revestimiento: Sin forro
-- Tipo de tacón: Plano
-- Cierre: Tira de tobillo
-- Material de la suela: Sintético
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
