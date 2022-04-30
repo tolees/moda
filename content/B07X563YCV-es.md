@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Forma anatómica que se adapta a tus pies
 - Diseño ligero y flexible que ofrece comodidad
+- Forma anatómica que se adapta a tus pies
 
 [🛒 Aquí!!!]({{< param buyurl >}})

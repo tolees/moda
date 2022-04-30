@@ -28,15 +28,15 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillos con cierre de cremallera
-- Detalles impresos
-- Materiales mixtos
-- Chaqueta corta
-- Aislamiento Thermo-Fibre reciclado sin plumón
-- Cierre con cremallera
-- Ribeles elásticos
 - Totalmente acolchado
 - Capucha ajustable
+- Chaqueta corta
+- Cierre con cremallera
+- Bolsillos con cierre de cremallera
+- Ribeles elásticos
+- Detalles impresos
 - Bolsillo interior de parche
+- Materiales mixtos
+- Aislamiento Thermo-Fibre reciclado sin plumón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

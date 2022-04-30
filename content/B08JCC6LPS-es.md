@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Conscientes de nuestro tiempo, te traemos nuestra primera colección de estilo sostenible para hombre y mujer bajo nuestro sello propio de calidad y originalidad: Organics
-- De cuello redondo y terminaciones acanaladas en cuello, puños y bajo se convertirá en una prenda imprescindible para tus combinaciones más relajadas.
-- Diseño: Regular fit, corte recto, buscando la máxima comodidad. Ideal para todo tipo de looks.
-- La sudadera Organics está cuidadosamente fabricada en algodón orgánico, cómodo y suave al tacto. Para que no renuncies a tu estilo mientras reduces el impacto sobre el planeta.
 - Logo bordado a color contraste a la altura del pecho izquierdo.
+- Diseño: Regular fit, corte recto, buscando la máxima comodidad. Ideal para todo tipo de looks.
+- De cuello redondo y terminaciones acanaladas en cuello, puños y bajo se convertirá en una prenda imprescindible para tus combinaciones más relajadas.
+- La sudadera Organics está cuidadosamente fabricada en algodón orgánico, cómodo y suave al tacto. Para que no renuncies a tu estilo mientras reduces el impacto sobre el planeta.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
