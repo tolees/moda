@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Lucir deportiva incluso cuando no estás en el gimnasio
 - Pantalones cortos deportivos de felpa francesa suave
 - Cordón de ajuste en cintura elástica
-- Lucir deportiva incluso cuando no estás en el gimnasio
 - Corte ajustado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
