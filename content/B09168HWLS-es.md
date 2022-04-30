@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Contiene material reciclado: Producto elaborado con fibras recicladas. Una de las soluciones de PUMA para reducir el impacto ambiental
 - Cierre de cremallera completo con cuello alzado
-- Logotipo del PUMA tonal en la parte derecha del pecho
 - Malla interior
+- Logotipo del PUMA tonal en la parte derecha del pecho
 - Formstrip PUMA en los hombros
 
 [🛒 Aquí!!!]({{< param buyurl >}})
