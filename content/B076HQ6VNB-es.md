@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas CORE18 PRE JKT Chaqueta de Deporte  Hombre  Negro  Negro/Blanco   S'
-date: 2022-04-19 21:08:37
+date: 2022-04-30 03:12:00
 image: 'https://m.media-amazon.com/images/I/31tsIioRQ5S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076HQ6VNB/?tag=tolees-21'
 descuento: '50.03'
-average: '19.08'
+average: '19.3075'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiene el logo de Adidas en el pecho
 - Plantilla con contorno para una comodidad duradera.
 - Suela externa con relieve para favorecer el agarre.
 - Cómodo forro textil.
+- Tiene el logo de Adidas en el pecho
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
