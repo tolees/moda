@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Exclusivo sistema transpirante patentado Geox
+- Tejido hidrófugo
+- Longitud: 106 cm
 - Cuello envolvente y protector
 - Bolsillos con forro abrigado
 - Relleno de pluma 80/20
-- Longitud: 106 cm
-- Tejido hidrófugo
-- Exclusivo sistema transpirante patentado Geox
 - Calce: regular
 
 [🛒 Aquí!!!]({{< param buyurl >}})
