@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 100% Algodón
-- Sudadera
 - Cuello Redondo
+- Sudadera
+- 100% Algodón
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
