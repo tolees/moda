@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Material de calidad
+- Sudadera sin capucha
 - Ofrece comodidad y libertad de movimiento
 - Detalles distintivos de la marca
-- Sudadera sin capucha
-- Material de calidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cintura normal
-- Detalles destacados
-- Composición del material: 94% algodón, 4% poliéster, 2% elastano
 - Skinny Kn ChelJeans
+- Composición del material: 94% algodón, 4% poliéster, 2% elastano
+- Detalles destacados
+- Cintura normal
 
 [🛒 Aquí!!!]({{< param buyurl >}})

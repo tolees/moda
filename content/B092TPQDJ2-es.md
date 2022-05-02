@@ -30,7 +30,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Corte entallado
 - Tommy Hilfiger Bordado de bandera en el puño
-- Tommy Hilfiger Marca
 - Jersey elástico de algodón orgánico
+- Tommy Hilfiger Marca
 
 [🛒 Visítala!!!]({{< param buyurl >}})
