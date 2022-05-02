@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kare Design Cenicero De Pie Spheric Portacenere Sferico con Falda Chiudibile  Multicolore  Hierro  Plateado  13x13x72cm'
-date: 2022-04-30 13:12:25
+date: 2022-05-02 10:59:01
 image: 'https://m.media-amazon.com/images/I/316-9xgfKTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Kare'
 buyurl: 'https://www.amazon.es/dp/B002T3B4CO/?tag=tolees-21'
 descuento: '20.04'
-average: '24.59'
+average: '23.7233333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
