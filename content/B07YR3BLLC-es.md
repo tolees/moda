@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tagless neck for fuss-free wear
-- Long sleeves
-- The timeless tee with a signature Levis housemark logo at the front
-- Crafted from soft jersey for all-day casual comfort
 - Shoulder snappy tape
+- Crafted from soft jersey for all-day casual comfort
+- Long sleeves
+- Tagless neck for fuss-free wear
+- The timeless tee with a signature Levis housemark logo at the front
 
 [🛒 Aquí!!!]({{< param buyurl >}})
