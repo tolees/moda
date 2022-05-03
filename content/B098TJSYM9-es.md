@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones JCOLOGAN tee SS Crew Noos Camiseta  Marino  L para Hombre'
-date: 2022-05-01 07:53:24
+date: 2022-05-03 12:03:06
 image: 'https://m.media-amazon.com/images/I/41R0fJzGNJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- algodón
 - Camiseta
+- algodón
 
 [🛒 Comprar!!!]({{< param buyurl >}})
