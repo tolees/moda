@@ -29,7 +29,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Tejido suave al tacto
-- Cinturilla cómoda
 - Logotipo icónico PUMA No1 en estampado completo
+- Cinturilla cómoda
 
 [🛒 Comprar!!!]({{< param buyurl >}})
