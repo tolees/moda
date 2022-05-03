@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Kids Lvg L/S Batwing Tee Camiseta White para Bebé-Niñas'
-date: 2022-04-25 08:01:29
+date: 2022-05-03 16:45:59
 image: 'https://m.media-amazon.com/images/I/21Ru3l2+UjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,6 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 100% algodón.
+- Tagless neck for fuss-free wear
+- Long sleeves
+- The timeless tee with a signature Levis housemark logo at the front
+- Crafted from soft jersey for all-day casual comfort
+- Shoulder snappy tape
 
 [🛒 Aquí!!!]({{< param buyurl >}})
