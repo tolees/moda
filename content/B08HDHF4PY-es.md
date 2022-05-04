@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Talla 39/13/138
-- Sin Polarizar
 - Garantía internacional de 2 años
+- Talla 39/13/138
 - gafas moda oakley
+- Sin Polarizar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
