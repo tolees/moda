@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Housemark Graphic tee Camiseta  Ssnl Hm Outline Jet Black  XL para Hombre'
-date: 2022-05-02 16:53:40
+date: 2022-05-04 06:34:39
 image: 'https://m.media-amazon.com/images/I/31R0loD+jQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ofrece comodidad todo el día
 - Modelo casual
+- Ofrece comodidad todo el día
 - Tiene estampado el logotipo de Levis
 
 [🛒 Comprar!!!]({{< param buyurl >}})
