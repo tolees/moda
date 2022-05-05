@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Correa de cadena gold con protector de bola de sintético
-- Mini bag semirrígida de poliuretano
 - Logotipo metálico de color dorado
+- Mini bag semirrígida de poliuretano
+- Correa de cadena gold con protector de bola de sintético
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
