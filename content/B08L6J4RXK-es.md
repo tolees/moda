@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tommy Hilfiger Abrigos tejidos para mujer
 - Este es un producto original y auténtico de Tommy Hilfiger.
+- Tommy Hilfiger Abrigos tejidos para mujer
 
 [🛒 Comprar!!!]({{< param buyurl >}})
