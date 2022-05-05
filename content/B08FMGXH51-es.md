@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - algodón
-- Camiseta
-- Estampado
 - Paquete doble
+- Estampado
+- Camiseta
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

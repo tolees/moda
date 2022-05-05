@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Lente cilíndrica, doble lente, UV 400 y antivaho, FMR, recubrimiento de espuma de 3 capas, espuma de ventilación, lente con sistema de intercambio Speed Snap, campo de visión extremadamente amplio
 - Gafas clásicas con un diseño y una lente extra para días nublados
 - Acción de deportes de invierno con HEAD Performance
-- Lente cilíndrica, doble lente, UV 400 y antivaho, FMR, recubrimiento de espuma de 3 capas, espuma de ventilación, lente con sistema de intercambio Speed Snap, campo de visión extremadamente amplio
 
 [🛒 Aquí!!!]({{< param buyurl >}})
