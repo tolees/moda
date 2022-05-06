@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Pantalones con revestimiento liso
-- Cintura normal
 - Composición: 77% viscosa, 20% nailon, 3% elastano
+- Cintura normal
 - Corte ajustado con elástico
 
 [🛒 Comprar!!!]({{< param buyurl >}})

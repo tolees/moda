@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Slim Fit
 - Ajustado desde el muslo hasta el bajo
 - Cintura ajustada
-- Slim Fit
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
