@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jjepaulos Polo SS Noos Slim Fit Camiseta  Navy Blue Detail 2  M para Hombre'
-date: 2022-05-05 11:59:19
+date: 2022-05-06 13:32:29
 image: 'https://m.media-amazon.com/images/I/318mlP24q8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B08VN6V5GR/?tag=tolees-21'
 descuento: '39.30'
-average: '17.7'
+average: '17.5225'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Punto de pique
-- Ajustado
-- Tapeta de 3 botones
 - Contraste inclinando a las mangas y collar.
+- Punto de pique
+- Tapeta de 3 botones
 - 100% algodón
+- Ajustado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

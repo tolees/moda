@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Timberland Davis Square F/L Chukka Botas de Moda para Hombre  Amarillo  Wheat Nubuck   41.5 EU'
-date: 2022-04-28 09:00:12
+date: 2022-05-06 13:29:32
 image: 'https://m.media-amazon.com/images/I/41u1IJDmZNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Timberland'
 buyurl: 'https://www.amazon.es/dp/B079VVBT6L/?tag=tolees-21'
 descuento: '41.01'
-average: '59.29'
+average: '59.24'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material de la suela: Goma
+- Cierre: Cordones
 - Tipo de tacón: Plano
 - Material exterior: Cuero
-- Cierre: Cordones
+- Material de la suela: Goma
 - Revestimiento: Tela
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
