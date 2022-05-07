@@ -29,7 +29,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Silueta de correr retro sin edad con la icónica bandera de Fila
-- Suela intermedia de EVA con colores vintage para un aspecto y sensación vintage
 - Evergreen
+- Suela intermedia de EVA con colores vintage para un aspecto y sensación vintage
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Corte ajustado con elástico
 - Cintura normal
 - Pantalones con revestimiento liso
 - Composición: 77% viscosa, 20% nailon, 3% elastano
-- Corte ajustado con elástico
 
 [🛒 Comprar!!!]({{< param buyurl >}})
