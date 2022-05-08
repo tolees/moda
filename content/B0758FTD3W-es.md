@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Lombardy (Shs01115)
-- De alta calidad y con diseño deportivo
 - Ropa deportiva ellesse
+- De alta calidad y con diseño deportivo
 - Abrigo Tiempo libre y sportwear Hombre
 
 [🛒 Aquí!!!]({{< param buyurl >}})

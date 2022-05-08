@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ribetes acanalados
-- Logotipo impreso
 - Gráficos impres
 - Prenda lavada
+- Ribetes acanalados
+- Logotipo impreso
 - Sudadera
 
 [🛒 Comprar!!!]({{< param buyurl >}})
