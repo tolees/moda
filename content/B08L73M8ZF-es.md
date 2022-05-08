@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Timberland PRO ofrece una amplia gama de productos que cumplen con los estándares de seguridad mínimos establecidos por la Organización Internacional de Normalización (ISO). La norma actual para zapatos de seguridad en toda Europa (EN) es la EN ISO 20345:2011.ahora
-- Guantes de artesanía industrial
-- Ropa de trabajo
 - Zapatos de trabajo
 - Zapatos de utilidad
+- Guantes de artesanía industrial
+- Ropa de trabajo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

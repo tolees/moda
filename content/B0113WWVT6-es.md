@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tejido denim medio
-- Tejido denim elástico y flexible
-- Tiro medio
-- Estilo 5 bolsillos
-- Fit regular
-- Cierre bragueta con cremallera
 - Pierna recta
+- Fit regular
+- Tiro medio
+- Cierre bragueta con cremallera
+- Tejido denim elástico y flexible
+- Estilo 5 bolsillos
+- Tejido denim medio
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

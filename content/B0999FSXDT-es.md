@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Encaje
 - Minifalda
 - Liso en color negro
-- Slim fit
 - Vestido encaje cremallera
+- Slim fit
+- Encaje
 
 [🛒 Comprar!!!]({{< param buyurl >}})
