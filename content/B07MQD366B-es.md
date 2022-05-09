@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Top simple y elegante para damas, combinarlo con jeans o shorts de mezclilla puede ser más informal y encantador en esta temporada.
-- Ajuste flojo
 - Ideal para toda la temporada, puedes vestir estas camisas fácilmente hacia arriba o hacia abajo.
 - Camisetas estilo cuello relajado, camisetas básicas de manga corta / larga, camisetas de jersey elásticas.
+- Top simple y elegante para damas, combinarlo con jeans o shorts de mezclilla puede ser más informal y encantador en esta temporada.
 - Manga corta / Manga Larga
+- Ajuste flojo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
