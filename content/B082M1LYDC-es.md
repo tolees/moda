@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Lightweight, responsive ULTRA GO cushioning.
 - Sculpted nearly one piece Cali Gear one band slide sandal design.
+- Lightweight, responsive ULTRA GO cushioning.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
