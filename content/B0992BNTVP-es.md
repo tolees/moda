@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvin Klein Low Rise Trunk 3pk Boxer  Black Grey  M  Pack de 3  para Hombre'
-date: 2022-05-09 15:45:58
+date: 2022-05-10 15:58:08
 image: 'https://m.media-amazon.com/images/I/31SUQdRbXPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Calvin Klein'
 buyurl: 'https://www.amazon.es/dp/B0992BNTVP/?tag=tolees-21'
 descuento: '33.23'
-average: '32.265'
+average: '31.5033333333333'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
