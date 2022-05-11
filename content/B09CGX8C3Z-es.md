@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Suave estampado flocado en el pecho
-- Corte extragrande
-- Cuello redondo acanalado
 - Manga corta
+- Cuello redondo acanalado
+- Corte extragrande
+- Suave estampado flocado en el pecho
 - Bajo recto
 
 [🛒 Aquí!!!]({{< param buyurl >}})
