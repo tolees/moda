@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Apoya la iniciativa Better Cotton Initiativa
 - 100% algodón
+- Apoya la iniciativa Better Cotton Initiativa
 
 [🛒 Aquí!!!]({{< param buyurl >}})

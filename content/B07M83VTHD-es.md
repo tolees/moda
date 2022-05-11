@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- short-sleeved polo shirt
 - cotton polo
+- short-sleeved polo shirt
 
 [🛒 Aquí!!!]({{< param buyurl >}})
