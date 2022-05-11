@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Color: blanco
+- Modelo: 20SWTK70
+- Articolo: camiseta
 - Marca: Desigual
 - Tipologia: Donna
-- Color: blanco
-- Articolo: camiseta
-- Modelo: 20SWTK70
 
 [🛒 Visítala!!!]({{< param buyurl >}})
