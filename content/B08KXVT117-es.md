@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuello
+- Suave
 - Camisa
 - Tira de botones
 - algodón
-- Suave
+- Cuello
 
 [🛒 Visítala!!!]({{< param buyurl >}})
