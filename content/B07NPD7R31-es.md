@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camiseta tiempo libre y sportwear mujer
 - Material duradero
-- W nsw tee essntl crp icn ftra (bv6175-010)
 - Ropa deportiva nike
+- Camiseta tiempo libre y sportwear mujer
+- W nsw tee essntl crp icn ftra (bv6175-010)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
