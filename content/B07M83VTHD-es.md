@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jjepaulos Polo SS Noos Slim Fit Camiseta  Grey  XXL para Hombre'
-date: 2022-05-11 10:29:22
+date: 2022-05-13 03:03:11
 image: 'https://m.media-amazon.com/images/I/41XRBCLicfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- cotton polo
 - short-sleeved polo shirt
+- cotton polo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
