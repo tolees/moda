@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lacoste L1212 Camisa Polo para Hombre  Rojo  3XL'
-date: 2022-05-09 16:29:31
+date: 2022-05-12 23:28:40
 image: 'https://m.media-amazon.com/images/I/313DyGi95DL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Classic fit
 - Polo Lacoste Classic Fit L.12.12
 - Bajo recto con aberturas laterales
+- Classic fit
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
