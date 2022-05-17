@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s - LEVIS FOOTWEAR AND ACCESSORIES Vintage Two Horse Bifold  Monedero Unisex Adulto  Negro  2x10x11 cm  W x H x L '
-date: 2022-05-09 16:01:38
+date: 2022-05-17 13:13:47
 image: 'https://m.media-amazon.com/images/I/512kH6euJkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B00JGMK8I2/?tag=tolees-21'
 descuento: '40.00'
-average: '30.1527272727273'
+average: '30.14'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Está hecho con nuestra piel de flor, que mejora con el paso del tiempo y adquiere un suave acabado
 - Guarda tus tarjetas más importantes en este tarjetero de inspiración clásica plegado y con la emblemática imagen de los dos caballos
+- Está hecho con nuestra piel de flor, que mejora con el paso del tiempo y adquiere un suave acabado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
