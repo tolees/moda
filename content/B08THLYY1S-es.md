@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estampado animal (leopardo) con dibujos ocultos
-- Ribetes ondulados en el cuello, el dobladillo y los dobladillos
+- Lavar a máquina en agua fría, muy suave
 - Camiseta de manga larga de color fucsia con estampado animal (leopardo) y ribetes ondulados en el cuello alto, la cintura y los dobladillos. Colección infantil Desigual HW21.
 - Desigual Kids – Camiseta de algodón acanalado con estampado animal (leopardo)
-- Lavar a máquina en agua fría, muy suave
+- Ribetes ondulados en el cuello, el dobladillo y los dobladillos
+- Estampado animal (leopardo) con dibujos ocultos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
