@@ -29,7 +29,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Forro: piel
-- Exterior: piel
 - Material de la suela: goma
+- Exterior: piel
 
 [🛒 Aquí!!!]({{< param buyurl >}})
