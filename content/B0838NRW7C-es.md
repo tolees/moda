@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Dobladillo, puños y cuello acanalados.
-- Composición del material: material exterior: 100% poliéster; forro: 100% poliéster.
 - Bolsillos con cremallera para todas tus cosas.
+- Composición del material: material exterior: 100% poliéster; forro: 100% poliéster.
 - Chaqueta bomber clásica.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
