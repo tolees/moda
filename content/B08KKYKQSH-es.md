@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Superdry Snow Luxe Puffer Chaqueta  Negro  44 para Mujer'
-date: 2022-05-04 09:34:00
+date: 2022-05-18 21:49:56
 image: 'https://m.media-amazon.com/images/I/313siRg+4tL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Dimensiones del paquete: 101 x 96 x 101 cm
-- S1-Ropa de nieve
 - País de origen: China
+- S1-Ropa de nieve
+- Dimensiones del paquete: 101 x 96 x 101 cm
 - El peso del paquete del producto es de 500 g
 
 [🛒 Aquí!!!]({{< param buyurl >}})

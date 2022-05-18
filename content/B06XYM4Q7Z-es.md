@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material: Poliéster
-- Tipo de Cierre: cremallera
-- Dimensión (L x W x H): 19 cm x 10 cm x 2,5 cm
 - Serie: MD20
 - Las ranuras de tarjeta de crédito: 12
+- Tipo de Cierre: cremallera
+- Dimensión (L x W x H): 19 cm x 10 cm x 2,5 cm
+- Material: Poliéster
 
 [🛒 Visítala!!!]({{< param buyurl >}})
