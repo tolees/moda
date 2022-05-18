@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Skinny jeans made of organic Cotton
 - 5-Pocket stretch Jeans
+- Skinny jeans made of organic Cotton
 
 [🛒 Visítala!!!]({{< param buyurl >}})
