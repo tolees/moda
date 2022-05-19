@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CAMPER K200157 TWS  Otras Sandalias Mujer  Amarillo  36 EU'
-date: 2022-05-12 03:40:06
+date: 2022-05-19 09:15:46
 image: 'https://m.media-amazon.com/images/I/41I8V8OtcJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajuste fácil
 - Ligera
 - Flexibilidad
+- Ajuste fácil
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
