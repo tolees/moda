@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 5-Pocket stretch Jeans
 - Skinny jeans made of organic Cotton
+- 5-Pocket stretch Jeans
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
