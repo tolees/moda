@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- IMEVA - aumenta la amortiguación debajo de los pies.
-- Entresuela Abzorb - funciona para absorber golpes e impactos.
-- Parte superior de cuero - durabilidad y comodidad.
-- Sistema de cordones - bloquea la parte media del pie.
 - Perforaciones - aumenta la ventilación.
+- Parte superior de cuero - durabilidad y comodidad.
+- IMEVA - aumenta la amortiguación debajo de los pies.
+- Sistema de cordones - bloquea la parte media del pie.
+- Entresuela Abzorb - funciona para absorber golpes e impactos.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
