@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bolso tote de mujer L.12.12 Concept con cremallera pequeño
 - Marca de cocodrilo verde bordado
+- Bolso tote de mujer L.12.12 Concept con cremallera pequeño
 - Bolsillo interior con cremallera
 
 [🛒 Visítala!!!]({{< param buyurl >}})
