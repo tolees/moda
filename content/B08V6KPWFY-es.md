@@ -30,7 +30,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Adecuado para entrenar
 - Cuello redondo
-- Punto liso speedwick, 53 % Poliéster reciclado, 25 % Viscosa, 22 % Algodón
 - Espalda deportiva
+- Punto liso speedwick, 53 % Poliéster reciclado, 25 % Viscosa, 22 % Algodón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
