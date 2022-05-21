@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Desde 1895, el dominio de la talla del cristal del fundador, Daniel Swarovski, ha definido a la empresa con su constante pasión por la innovación y el diseño
-- Las piezas Fashion Jewelry Swarovski son delicados productos elaborados de manera tradicional, el metal es enchapado y cada cristal se engarza de forma individual; debido a ello necesitan un cuidado especial
 - Eterno romance: los símbolos del amor y el infinito se unen en este collar de Swarovski
 - En esta pieza, que representa una promesa de amor eterno, un corazón de cristal blanco se entrelaza con un símbolo del infinito bañado en tono oro rosa
 - Un regalo óptimo para tu pareja
+- Las piezas Fashion Jewelry Swarovski son delicados productos elaborados de manera tradicional, el metal es enchapado y cada cristal se engarza de forma individual; debido a ello necesitan un cuidado especial
+- Desde 1895, el dominio de la talla del cristal del fundador, Daniel Swarovski, ha definido a la empresa con su constante pasión por la innovación y el diseño
 
 [🛒 Comprar!!!]({{< param buyurl >}})
