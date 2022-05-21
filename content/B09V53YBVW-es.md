@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 🌈Resistente al agua y resistente al desgarro.
 - 🌈Ligero pero práctico: solo pesa 85 g, cómodo de llevar. El material es delgado pero resistente al desgarro.
+- 🌈Resistente al agua y resistente al desgarro.
 - 🌈Gran capacidad 20L.
 - 🌈Correas de hombro ajustables acolchadas con esponja de malla ayudan a aliviar la presión.
 - 🌈Tamaño pequeño y plegado: el tamaño igual al de tu puño, puedes ponerlo en tu bolsillo o bolso. Es conveniente llevarlo afuera.
