@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela flexible de goma
-- Logotipo Crocs Croc
 - Interior suave y transpirable
 - Sandalias Crocs Crocband unisex para niños
 - Materiales de goma ligeros
+- Suela flexible de goma
+- Logotipo Crocs Croc
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Peso ligero.
 - Flexible confort de 360 grados.
+- Peso ligero.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
