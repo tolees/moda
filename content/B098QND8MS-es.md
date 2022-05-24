@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La chaqueta denim original desde 1967
-- Si la llevas en tu talla, lucirás un look que te sentará como un guante y si prefieres una talla más, podrás ponértela cómodamente sobre tu sudadera con capucha favorita
 - Mejora con el paso del tiempo con el desgaste natural, las manchas y los rotos
+- Si la llevas en tu talla, lucirás un look que te sentará como un guante y si prefieres una talla más, podrás ponértela cómodamente sobre tu sudadera con capucha favorita
+- La chaqueta denim original desde 1967
 
 [🛒 Aquí!!!]({{< param buyurl >}})
