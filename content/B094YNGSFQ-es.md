@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Productos formulados sin insecticidas químicos, con ingredientes naturales: MARGOSA, GERANIOL Y LAVANDINO. Además tiene efecto repelente también para todo tipo de mosquitos.
-- CHAMPÚ ANTI INSECTOS 300ml: Si tu perro ya tiene parásitos, con un solo lavado conseguirás desprender cualquier parásito de la piel y pelo de tu mascota.
-- Pack que incluye 4 productos que te ayudarán a proteger y eliminar las pulgas, garrapatas, picaduras de mosquitos o cualquier otro insecto.
-- INCLUYE COLLAR Y PIPETAS: Protegerán de forma regular a nuestra mascota de las infestaciones más típicas como la de las pulgas o garrapatas y de las picaduras de mosquitos.
 - SPRAY ANTI INSECTOS 250ml: El perfecto aliado para cada paseo con tu mascota. Rociándolo por las piernas y la barriga evitarás que las garrapatas trepen hasta su vientre.
+- CHAMPÚ ANTI INSECTOS 300ml: Si tu perro ya tiene parásitos, con un solo lavado conseguirás desprender cualquier parásito de la piel y pelo de tu mascota.
+- INCLUYE COLLAR Y PIPETAS: Protegerán de forma regular a nuestra mascota de las infestaciones más típicas como la de las pulgas o garrapatas y de las picaduras de mosquitos.
+- Pack que incluye 4 productos que te ayudarán a proteger y eliminar las pulgas, garrapatas, picaduras de mosquitos o cualquier otro insecto.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
