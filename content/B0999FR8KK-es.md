@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Desigual TS Mickey Boom Camiseta  Negro  M para Mujer'
-date: 2022-05-23 17:41:04
+date: 2022-05-25 20:01:24
 image: 'https://m.media-amazon.com/images/I/41uRBMMhfCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Manga corta
 - Algodón BCI
-- Regular fit
+- Manga corta
 - Estampación Mickey Mouse
+- Regular fit
 - Camiseta Mickey Mouse
 
 [🛒 Aquí!!!]({{< param buyurl >}})
