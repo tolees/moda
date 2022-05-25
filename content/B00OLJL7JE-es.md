@@ -28,14 +28,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Normativas ce: en 166 (resistencia al impacto probado con partículas de 6 mm de diámetro arrojadas a la velocidad de 45 m/s. > ft)
-- Filtro uv
-- Antivaho
-- Clase óptica: 1 uso continuado
-- Policarbonato
-- Gafas de protección laboral con lente transparente
-- Lente de clase óptica 1 (uso continuado), resistente a la abrasión y con tratamiento anti-vaho
-- Campo de uso: trabajo
 - Resistencia a la abrasión
+- Policarbonato
+- Antivaho
+- Gafas de protección laboral con lente transparente
+- Clase óptica: 1 uso continuado
+- Lente de clase óptica 1 (uso continuado), resistente a la abrasión y con tratamiento anti-vaho
+- Normativas ce: en 166 (resistencia al impacto probado con partículas de 6 mm de diámetro arrojadas a la velocidad de 45 m/s. > ft)
+- Campo de uso: trabajo
+- Filtro uv
 
 [🛒 Visítala!!!]({{< param buyurl >}})
