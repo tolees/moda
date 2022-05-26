@@ -30,7 +30,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Con delicados detalles de encaje
 - Confeccionado en un tejido de punto suave y ligero para un tacto y un ajuste cómodos
-- Una marca de Amazon
 - Tirantes regulables para un ajuste personalizado
+- Una marca de Amazon
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Holgado en el pecho y entallado en la cintura
 - Popeline martellato, avvolgente, durevole e morbido per un immediato effetto vissuto
 - Una marca de Amazon
-- Holgado en el pecho y entallado en la cintura
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

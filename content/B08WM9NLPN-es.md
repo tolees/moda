@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Esta túnica clásica y relajada proporciona un aspecto fácil perfecto para cualquier ocasión
-- La modelo mide 1,80 m y lleva una talla S
-- Echa un vistazo a más suéteres, tops, vaqueros y vestidos de Goodthreads Womens visitando amazon.com/goodthreads
 - Fabricada con 100% algodón, esta túnica es suave y acogedora para darte ese aspecto clásico de franela que es perfecto para los meses más fríos
 - En Goodthreads, tenemos la misión de crear ropa increíble fabricada con cuidado
+- La modelo mide 1,80 m y lleva una talla S
+- Esta túnica clásica y relajada proporciona un aspecto fácil perfecto para cualquier ocasión
+- Echa un vistazo a más suéteres, tops, vaqueros y vestidos de Goodthreads Womens visitando amazon.com/goodthreads
 
 [🛒 Comprar!!!]({{< param buyurl >}})

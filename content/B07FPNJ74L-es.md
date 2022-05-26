@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Look naturalmente desgastado creado a mano
 - Vaqueros slim fit para una silueta estilizada
+- Look naturalmente desgastado creado a mano
 
 [🛒 Comprar!!!]({{< param buyurl >}})
