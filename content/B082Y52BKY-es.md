@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Chaqueta de piel sintética.
 - Detalles clásicos de ciclistas.
+- Chaqueta de piel sintética.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
