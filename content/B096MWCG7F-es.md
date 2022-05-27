@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Estilo: zapatillas bajas
 - Piel de ante
+- Estilo: zapatillas bajas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suéter
-- JERSEY ELASTANE BOTONES
 - Jumper
+- JERSEY ELASTANE BOTONES
+- Suéter
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
