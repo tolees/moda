@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Vestido vaquero para mujer
 - Estilo informal
+- Vestido vaquero para mujer
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
