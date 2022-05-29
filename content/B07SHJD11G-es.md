@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material: 100% algodón orgánico
+- Detalles distintivos de la marca
 - Ajuste regular
 - Manga larga
-- Detalles distintivos de la marca
+- Material: 100% algodón orgánico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
