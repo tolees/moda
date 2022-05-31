@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Lentes de TR18 con el sello de Eastman, uno de los líderes mundiales en tecnología de copoliéster. Respetuoso con el medio ambiente y proporciona un equilibrio único entre claridad y resistencia.Lentes categoría 3 y protección uv400 que ofrecen una protección antideslumbrante superior.
+- Producto original Hawkers. La caja incluye funda, caja y set de pegatinas decorativas.
 - Montura redonda negra en acabado mate y lentes negras.
 - Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia
 - Modelo unisex. Medidas: Frontal 13,4 cm, Alto 4,77 cm, Patillas 14,5 cm, Puente 2,1 cm
-- Producto original Hawkers. La caja incluye funda, caja y set de pegatinas decorativas.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
