@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Empeine de material sintético
 - Cocodrilo de color oversized a contraste
+- Empeine de material sintético
 - Chanclas de hombre Croco de material sintético
 
 [🛒 Comprar!!!]({{< param buyurl >}})
