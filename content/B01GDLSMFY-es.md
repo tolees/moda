@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Irrompibles.
 - Exterior: efecto espejo.
-- Nivel de protección S3.
+- Irrompibles.
 - Protección 100% contra rayos UVA, UVB y UVC.
+- Nivel de protección S3.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
