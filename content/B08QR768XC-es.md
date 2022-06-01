@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Código Superdry
 - La ropa Superdry está fabricada con el equilibrio adecuado entre estilo y comodidad. Recomendamos una talla más grande que las marcas usuales para una experiencia de superdry.
+- Código Superdry
 
 [🛒 Aquí!!!]({{< param buyurl >}})
