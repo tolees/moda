@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela de goma adherente con estampado Pill Pattern registrado por DC
-- Tira con logo de molde fino
 - Plantilla con textura y logo DC
 - Compartimento acolchado para portátil
 - Tres capas de compensación
+- Suela de goma adherente con estampado Pill Pattern registrado por DC
+- Tira con logo de molde fino
 
 [🛒 Comprar!!!]({{< param buyurl >}})
