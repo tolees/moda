@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Essential TH Beach Sandal  Chanclas Hombre  Azul  Midnight 403   43 EU'
-date: 2022-05-31 10:51:42
+date: 2022-06-02 18:01:49
 image: 'https://m.media-amazon.com/images/I/31qZFGtgPdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Tommy Hilfiger'
 buyurl: 'https://www.amazon.es/dp/B078T75JZL/?tag=tolees-21'
 descuento: '31.23'
-average: '22.9083333333333'
+average: '23.0642857142857'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Color: azul oscuro
 - Línea: Tommy Hilfiger
 - Talla: 43
+- Color: azul oscuro
 - Diseño: liso
 - Tommy Hilfiger - Chanclas para hombre con logo y detalles de logotipo, color azul oscuro
 
