@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Grandes flores en efecto pintura
-- A juego con otras prendas de la colección Desigual Kids SS22
 - Mensaje I love me
+- A juego con otras prendas de la colección Desigual Kids SS22
+- Grandes flores en efecto pintura
 - Sostenible: algodón orgánico
 - Camiseta flores pintadas
 

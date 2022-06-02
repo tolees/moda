@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Abertura de pierna que no se sube hacia arriba
 - Algodón elástico supersuave
 - Cómoda cinturilla elástica
-- Abertura de pierna que no se sube hacia arriba
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
