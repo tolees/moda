@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Herramientas de color
 - Parte superior de ante supersuave
+- Herramientas de color
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Agradable y suave al tacto
-- Producto elaborado con fibras recicladas
 - Cuello redondo con escote en V para comodidad
 - Tiene la propiedad de absorber la humedad
+- Producto elaborado con fibras recicladas
+- Agradable y suave al tacto
 
 [🛒 Comprar!!!]({{< param buyurl >}})
