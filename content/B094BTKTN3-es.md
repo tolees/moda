@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- tejido: tejido liso de poliéster
-- Capucha: capucha fija de 3 paneles
-- Corte: corte normal, clásico, cómodo
 - tejido interior: tejido interior de polar en el cuerpo
+- Corte: corte normal, clásico, cómodo
+- tejido: tejido liso de poliéster
 - bolsillos: bolsillo frontal amplio con cierre de corchete metálico
+- Capucha: capucha fija de 3 paneles
 
 [🛒 Aquí!!!]({{< param buyurl >}})
