@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fila Men Oliver Puff Jacket Chaqueta Acolchada  Negro  Rojo y Blanco Brillante  XXL para Hombre'
-date: 2022-05-24 06:44:46
+date: 2022-06-04 08:39:28
 image: 'https://m.media-amazon.com/images/I/41kYBmxb4jL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08WD9K55F-es Fila Men Oliver Puff Jacket Chaqueta Acolchada Negro Rojo...'
 sku: 'B08WD9K55F-es'
 tags: [ 'Chaquetas para hombre','Ropa','Ropa de abrigo para hombre','Ropa para hombre','chaqueta','fila','🇪🇸', ]
-actualPrice: 41.44 EUR
+actualPrice: 37.46 EUR
 currency: EUR
-price: 41.44
+price: 37.46
 comparePrice: 100.0 EUR
 prodname: 'Fila Men Oliver Puff Jacket Chaqueta Acolchada  Negro  Rojo y Blanco Brillante  XXL para Hombre'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Fila'
 buyurl: 'https://www.amazon.es/dp/B08WD9K55F/?tag=tolees-21'
-descuento: '58.56'
-average: '42.884'
+descuento: '62.54'
+average: '41.98'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
