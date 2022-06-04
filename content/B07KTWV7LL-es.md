@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Estilo deportivo cuando no están entrenando
 - Detalles distintivos de la marca
-- Corte clásico que se ajusta al cuerpo cómodamente
 - Cuello redondo de canalé
+- Corte clásico que se ajusta al cuerpo cómodamente
+- Estilo deportivo cuando no están entrenando
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Elaborada en punto suave
 - Un clásico por excelencia que puedes combinar con todo
 - Con el emblemático logotipo Batwing de Levis
-- Elaborada en punto suave
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

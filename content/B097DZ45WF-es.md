@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Amortiguación con tecnología de gel
-- Zapatillas deportivas asics
 - Suave gracias a la plantilla de EVA
+- Zapatillas deportivas asics
+- Amortiguación con tecnología de gel
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
