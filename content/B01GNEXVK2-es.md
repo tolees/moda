@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- FM London
 - Mezcla de 95 % algodón y 5 % elastano.
 - Paquete de 12 calzoncillos hipster para hombre.
+- FM London
 
 [🛒 Visítala!!!]({{< param buyurl >}})
