@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre: Sin cierre
 - Revestimiento: Sin forro
+- Cierre: Sin cierre
 - Material de la suela: Caucho
 - Material exterior: Caucho
 
