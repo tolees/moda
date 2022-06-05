@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox J Aril Girl  Zapatillas  Rosa  36 EU'
-date: 2022-05-28 11:03:12
+date: 2022-06-05 09:03:07
 image: 'https://m.media-amazon.com/images/I/414CCrUW2PL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,5 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Moda: zapatillas
-- Estilo: moderno y casual
-- Patrón: monocolor
 
 [🛒 Visítala!!!]({{< param buyurl >}})
