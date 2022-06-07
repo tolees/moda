@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FM London Antonio Rossi Fitted Boxer para Hombre  Negro  M  Pack de 12'
-date: 2022-06-04 17:30:20
+date: 2022-06-07 17:06:10
 image: 'https://m.media-amazon.com/images/I/41h-XYdzB8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Antonio Rossi'
 buyurl: 'https://www.amazon.es/dp/B07PWHRSRT/?tag=tolees-21'
 descuento: '16.67'
-average: '26.79'
+average: '26.49'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
