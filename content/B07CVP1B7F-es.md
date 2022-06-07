@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Descubre todas las marcas de EMP
-- Pantalones vaqueros con las siguientes características:
 - Básicos, informal, ropa de calle
+- Descubre todas las marcas de EMP
 - Vaqueros || Longitud: largo || Altura de la cintura: media
 - Ajuste: Slim Fit. Material: algodón
+- Pantalones vaqueros con las siguientes características:
 
 [🛒 Visítala!!!]({{< param buyurl >}})
