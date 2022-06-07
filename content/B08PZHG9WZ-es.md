@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Bolsillos laterales con cierre
-- Cómodo cuello alto
 - Acolchado plano, ahorra espacio, ligero
-- Aspecto deportivo
+- Cómodo cuello alto
 - Chaqueta acolchada de la marca danesa Blend
+- Aspecto deportivo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
