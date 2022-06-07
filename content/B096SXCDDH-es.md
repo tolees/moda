@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pre-encogido
-- Construcción de costuras laterales
 - 100% algodón
 - Gráfico personalizado en el interior del cuello
+- Construcción de costuras laterales
+- Pre-encogido
 - Tejido de jersey de peso medio de 150 g / m2 con lavado en prenda
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
