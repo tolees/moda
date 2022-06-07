@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Logo estampado en el pecho
+- Fit regular
 - Camiseta manga larga tejido suave
 - Cuello redondo
-- Fit regular
 
 [🛒 Aquí!!!]({{< param buyurl >}})
