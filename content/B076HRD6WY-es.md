@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas CORE18 SW Top Y Sudadera  Unisex Niños  Negro  Black/White   140'
-date: 2022-05-28 08:44:53
+date: 2022-06-08 01:00:03
 image: 'https://m.media-amazon.com/images/I/41Piq7BMprL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte clásico más ancho y silueta recta.
-- Apertura de la capucha parcialmente elástica para un mejor ajuste.
-- Diseño acolchado para una mayor calidez y comodidad.
 - Prácticas cremalleras a la altura de los tobillos
-- Logotipo de adidas a la derecha del pecho.
+- Apertura de la capucha parcialmente elástica para un mejor ajuste.
 - Cierre de cremallera con capucha.
+- Diseño acolchado para una mayor calidez y comodidad.
+- Logotipo de adidas a la derecha del pecho.
+- Corte clásico más ancho y silueta recta.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

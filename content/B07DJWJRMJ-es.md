@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre: sin cierre
-- Material interior: sintético
 - Material exterior: nobuck
+- Material interior: sintético
+- Cierre: sin cierre
 - Suela: sintética
 
 [🛒 Visítala!!!]({{< param buyurl >}})
