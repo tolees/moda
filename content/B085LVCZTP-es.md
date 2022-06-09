@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Empeine: Piel (80% Piel vacuna) / Nobuck (Piel caprina)
-- Suela/Características: EVA y caucho para mayor ligereza y un mejor agarre
-- Color: Negro
-- EXTRALIGHT XL para una mayor ligereza y amortiguación
 - Sistema de cierre de Velcro para un fácil ajuste
+- Color: Negro
+- Suela/Características: EVA y caucho para mayor ligereza y un mejor agarre
+- EXTRALIGHT XL para una mayor ligereza y amortiguación
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
