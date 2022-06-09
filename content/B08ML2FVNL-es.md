@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geographical Norway - Parka Mujer Boomera AZUL MARINO 1'
-date: 2022-06-06 19:38:50
+date: 2022-06-09 11:34:02
 image: 'https://m.media-amazon.com/images/I/41fbz5Az+3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Geographical Norway'
 buyurl: 'https://www.amazon.es/dp/B08ML2FVNL/?tag=tolees-21'
 descuento: '61.11'
-average: '56.3333333333333'
+average: '53.7857142857143'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
