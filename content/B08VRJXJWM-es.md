@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre de cremallera y capucha
 - Forro de malla
-- Bolsillos frontales con cremallera
-- Tejido técnico 57% poliéster / 43% poliéster reciclado
 - Tejido transpirable
+- Cierre de cremallera y capucha
+- Tejido técnico 57% poliéster / 43% poliéster reciclado
+- Bolsillos frontales con cremallera
 
 [🛒 Aquí!!!]({{< param buyurl >}})

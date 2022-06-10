@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estilo: zapatillas
 - Piel de ante
+- Estilo: zapatillas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BOSS T-Shirt VN 3P CO  Camiseta Hombre  Multicolor  Blue/Black/Grey   S'
-date: 2022-06-04 18:30:37
+date: 2022-06-10 01:04:09
 image: 'https://m.media-amazon.com/images/I/31PUVW6GH4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Modelo clásico
 - Fabricadas en tejido ligero que ofrece comodidad
 - Tiene bordado en el pecho la marca Boss
+- Modelo clásico
 
 [🛒 Visítala!!!]({{< param buyurl >}})
