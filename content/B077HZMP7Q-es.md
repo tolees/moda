@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BOSS T-Shirt VN 3P CO. Camiseta  Multicolor  Miscellaneous 999   XL  Pack de 3  para Hombre'
-date: 2022-06-02 11:12:05
+date: 2022-06-10 02:19:57
 image: 'https://m.media-amazon.com/images/I/21wFyKjlMHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Paquete de tres camisetas interiores
 - Con un logo bordado en la parte izquierda del pecho
 - Corte regular
-- Paquete de tres camisetas interiores
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s 711 Skinny Night IS Vaqueros  Black Sheep  28W / 34L para Mujer'
-date: 2022-06-09 00:43:37
+date: 2022-06-10 02:25:20
 image: 'https://m.media-amazon.com/images/I/41Qj3vzXRNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B015DHMP02/?tag=tolees-21'
 descuento: '45.05'
-average: '53.5966666666667'
+average: '53.935'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

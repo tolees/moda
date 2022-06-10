@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cinturón de EVA preformado de una pieza
 - Diseño del Slip-On
 - Corte regular
-- Cinturón de EVA preformado de una pieza
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
