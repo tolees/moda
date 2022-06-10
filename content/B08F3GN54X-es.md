@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Manga corta
-- Ajuste regular
 - Logo de la marca
-- Tejido transpirable
 - Cuello redondo
+- Ajuste regular
+- Tejido transpirable
 
 [🛒 Comprar!!!]({{< param buyurl >}})
