@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hafiot - Zuecos Hombre Playa Piscina Sanitarios Enfermera Goma Verano Zapatillas de Trabajo Sandalias Negro Azul Amarillo 40-45 Negro 42'
-date: 2022-06-06 16:10:26
+date: 2022-06-09 23:27:21
 image: 'https://m.media-amazon.com/images/I/416I0hHz2pL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Hafiot'
 buyurl: 'https://www.amazon.es/dp/B07B9YB4PD/?tag=tolees-21'
 descuento: '43.35'
-average: '17.59'
+average: '17.5354545454545'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
