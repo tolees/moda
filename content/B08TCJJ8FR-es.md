@@ -29,7 +29,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Tinta
-- 877970-50-81
 - negro
+- 877970-50-81
 
 [🛒 Aquí!!!]({{< param buyurl >}})

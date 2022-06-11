@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Soporte de arco: soporte de arco anatómicamente correcto, contorno del talón y barra de los dedos proporcionan mayor comodidad a tus pies
 - Parte superior: las sandalias de gamuza Carver cuentan con correas de gamuza suaves con costuras de contraste y un poste de nailon finamente tejido con textura de espiga; sandalias clásicas para todos los días que estás de pie; úsalas para el trabajo, la escuela, la playa o la piscina
-- Plantilla y suela: plantilla de EVA moldeada por compresión, antideslizante y texturizada; suela de goma soplada con lengüetas de logotipo multiángulo para mayor tracción
 - QUIKSILVER: Hacemos pantalones cortos, sandalias, zapatos, camisetas, gráficos, sudaderas, franelas, camisas deportivas, ropa de niños, jeans, pantalones, chaquetas, sombreros, gorros, toallas y mucho más
+- Plantilla y suela: plantilla de EVA moldeada por compresión, antideslizante y texturizada; suela de goma soplada con lengüetas de logotipo multiángulo para mayor tracción
+- Soporte de arco: soporte de arco anatómicamente correcto, contorno del talón y barra de los dedos proporcionan mayor comodidad a tus pies
 - Calidad: Quiksilver proporciona moda de alta calidad para aquellos que buscan rendimiento y comodidad en el mundo de los deportes de aventura; nuestras sandalias representan la calidad y el estilo que diseñamos para mantenerte mejor en cualquier día que el sol brille
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
