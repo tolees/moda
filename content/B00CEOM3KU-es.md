@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ray-Ban Erika Gafas de sol  Marrón/Plata  Brown; Silver   600068   con lente Marrón/Violeta Degradada  Brown/Violet Gradient '
-date: 2022-05-28 23:01:07
+date: 2022-06-12 12:43:14
 image: 'https://m.media-amazon.com/images/I/21qSBlIAsuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ray-Ban'
 buyurl: 'https://www.amazon.es/dp/B00CEOM3KU/?tag=tolees-21'
 descuento: '40.95'
-average: '78.405'
+average: '78.3544444444444'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
