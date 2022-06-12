@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Puños acanalados
-- Una prenda esencial de alta calidad es este jersey de cuello en V con estilo limpio hecho de algodón Pima especialmente fino.
 - Cuello de pico
-- Punto fino de algodón Pima con tacto extra suave
 - Hombros desplegables
+- Una prenda esencial de alta calidad es este jersey de cuello en V con estilo limpio hecho de algodón Pima especialmente fino.
+- Punto fino de algodón Pima con tacto extra suave
+- Puños acanalados
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
