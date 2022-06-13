@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Contienen más de un 60 % de algodón orgánico, que se cultiva sin usar productos químicos artificiales, lo que mejora la calidad del suelo, usa un 60-90 % menos de agua y mejora la salud de los agricultores
 - 61 Knit K3 Jumper Essential Cotton Crew
+- Contienen más de un 60 % de algodón orgánico, que se cultiva sin usar productos químicos artificiales, lo que mejora la calidad del suelo, usa un 60-90 % menos de agua y mejora la salud de los agricultores
 
 [🛒 Comprar!!!]({{< param buyurl >}})
