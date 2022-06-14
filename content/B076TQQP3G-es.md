@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tommy Hilfiger Negro Core Stretch Slim camiseta con cuello en V
 - A estrenar y genuina. Somos un vendedor autorizado de Tommy Hilfiger.
 - Ver descripción del producto para obtener más información.
+- Tommy Hilfiger Negro Core Stretch Slim camiseta con cuello en V
 
 [🛒 Aquí!!!]({{< param buyurl >}})
