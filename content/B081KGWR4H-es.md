@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Salomon
 - Color: Black/Black/Phantom
 - Xa PRO 3D V8 GTX W
-- Salomon
 
 [🛒 Comprar!!!]({{< param buyurl >}})
