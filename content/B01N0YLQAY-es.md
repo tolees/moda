@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pepe Jeans Art Camiseta  Azul  595Azul Marino   14 años para Niños'
-date: 2022-06-07 16:03:25
+date: 2022-06-15 08:50:14
 image: 'https://m.media-amazon.com/images/I/31ayTb+vJxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pepe Jeans'
 buyurl: 'https://www.amazon.es/dp/B01N0YLQAY/?tag=tolees-21'
 descuento: '30.00'
-average: '15.8085714285715'
+average: '15.5737500000001'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
