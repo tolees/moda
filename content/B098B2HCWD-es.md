@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Pre-encogido
+- Contiene algodón orgánico peruano
 - El ajuste regular es perfecto: no demasiado apretado ni demasiado holgado
 - Cuello acanalado
-- Contiene algodón orgánico peruano
-- Pre-encogido
 
 [🛒 Visítala!!!]({{< param buyurl >}})
