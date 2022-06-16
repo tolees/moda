@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Resistente al agua
 - Tobogán
+- Resistente al agua
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
