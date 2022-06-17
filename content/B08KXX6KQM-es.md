@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Chaqueta con capucha
+- Con bordado
 - algodón
 - Inscripción Jack & Jones
-- Con bordado
+- Chaqueta con capucha
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
