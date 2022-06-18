@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Adidas Real Madrid Temporada 2020/21 Camiseta Segunda Equipación Oficial  Niño  Rosa  13/14 años'
-date: 2022-06-16 13:00:54
+date: 2022-06-18 11:08:00
 image: 'https://m.media-amazon.com/images/I/41A8pJmPevS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B08CBJGQXV/?tag=tolees-21'
 descuento: '49.96'
-average: '42.48'
+average: '41.4114285714286'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Presenta cuello en V con borde acanalado
-- Camiseta con diseño deportivo y tejido ligero
 - Presenta las rayas específicas de la marca
+- Presenta cuello en V con borde acanalado
 - El logo del equipo de fútbol estampado en el pecho
+- Camiseta con diseño deportivo y tejido ligero
 
 [🛒 Aquí!!!]({{< param buyurl >}})
