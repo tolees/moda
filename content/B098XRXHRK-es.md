@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'G-STAR RAW  hombres Camiseta Originals Logo  Negro  dk black 336-6484   L'
-date: 2022-06-17 17:11:35
+date: 2022-06-18 21:36:47
 image: 'https://m.media-amazon.com/images/I/411Rk9Zl4JL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Manga corta
 - Corte regular
+- Talle medio
 - Estampado gráfico en el pecho
 - Bajo recto
-- Talle medio
-- Manga corta
 
 [🛒 Aquí!!!]({{< param buyurl >}})
