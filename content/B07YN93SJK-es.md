@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tipo de cierre Cordones
 - Altura Tacón 7.00
-- Material principal Piel
 - Tipo de tacón Cuña
+- Tipo de cierre Cordones
 - Material de la suela Yute
+- Material principal Piel
 
 [🛒 Aquí!!!]({{< param buyurl >}})
