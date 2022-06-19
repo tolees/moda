@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GIOSEPPO - Sandalias de tiras finas doradas para mujer NAVASSA'
-date: 2022-06-17 18:42:27
+date: 2022-06-19 06:11:13
 image: 'https://m.media-amazon.com/images/I/41nWgMS0LyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Forro: 100% Piel
-- Piso: 100% Sintético
-- Corte: 100% Piel
 - Cómodas y ligeras
+- Corte: 100% Piel
+- Piso: 100% Sintético
 - Planta: 100% Piel
 
 [🛒 Aquí!!!]({{< param buyurl >}})
