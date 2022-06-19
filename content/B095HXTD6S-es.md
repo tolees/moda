@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Levi s Graphic Crewneck tee HM Della Robbia GR Camiseta  XS para Hombre'
-date: 2022-06-04 14:44:28
+title: 'Levi s Graphic Crewneck tee HM Della Robbia GR Camiseta  S para Hombre'
+date: 2022-06-19 16:20:22
 image: 'https://m.media-amazon.com/images/I/416p7BB8d5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B095HZ8D1V-es Levi s Graphic Crewneck tee HM Della Robbia GR Camiseta XS...'
-sku: 'B095HZ8D1V-es'
+slug: 'B095HXTD6S-es Levi s Graphic Crewneck tee HM Della Robbia GR Camiseta S...'
+sku: 'B095HXTD6S-es'
 tags: [ 'Camisetas para hombre','Camisetas, polos y camisas para hombre','Ropa','Ropa para hombre','camiseta','levis','🇪🇸', ]
-actualPrice: 20.57 EUR
+actualPrice: 14.5 EUR
 currency: EUR
-price: 20.57
-comparePrice: 35.0 EUR
-prodname: 'Levi s Graphic Crewneck tee HM Della Robbia GR Camiseta  XS para Hombre'
+price: 14.5
+comparePrice: 29.99 EUR
+prodname: 'Levi s Graphic Crewneck tee HM Della Robbia GR Camiseta  S para Hombre'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Levis'
-buyurl: 'https://www.amazon.es/dp/B095HZ8D1V/?tag=tolees-21'
-descuento: '41.23'
-average: '24.1666666666667'
+buyurl: 'https://www.amazon.es/dp/B095HXTD6S/?tag=tolees-21'
+descuento: '51.65'
+average: '14.5'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
