@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Amortiguación ultraligera
 - Plantilla Goga Mat contorneada
 - Cómoda sandalia
 - Lavable a máquina
+- Amortiguación ultraligera
 - Vegano
 
 [🛒 Aquí!!!]({{< param buyurl >}})
