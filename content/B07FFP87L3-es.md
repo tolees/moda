@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pepe Jeans New Herman Jr Camiseta para Niños  Azul  Navy 595   14 años'
-date: 2022-06-07 17:47:31
+date: 2022-06-20 20:33:24
 image: 'https://m.media-amazon.com/images/I/31kDV-zGeyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pepe Jeans'
 buyurl: 'https://www.amazon.es/dp/B07FFP87L3/?tag=tolees-21'
 descuento: '30.00'
-average: '20.796'
+average: '20.4963636363636'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
