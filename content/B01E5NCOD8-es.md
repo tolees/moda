@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuenta con tecnología DRY MIX para controlar la transpiración
 - Camiseta sin magas con cuello en V
-- Material ligero y suave en la piel
+- Cuenta con tecnología DRY MIX para controlar la transpiración
 - Composición de 100% poliéster
+- Material ligero y suave en la piel
 
 [🛒 Aquí!!!]({{< param buyurl >}})
