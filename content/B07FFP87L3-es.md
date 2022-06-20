@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Cuello redondo
+- Camiseta manga larga tejido suave
 - Logo estampado en el pecho
 - Fit regular
-- Camiseta manga larga tejido suave
-- Cuello redondo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
