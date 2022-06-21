@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sudadera de la marca danesa JJXX
 - Este producto ha sido fabricado con algodón orgánico; el algodón orgánico se cultiva sin el uso de productos químicos nocivos; en el cultivo de algodón orgánico se protege los recursos naturales y los agricultores y agricultores
+- Sudadera de la marca danesa JJXX
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sandalia ligera
-- Correa elástica en el talón
 - Dos de las tres correas son ajustables
 - Mediasuela de EVA ligera
+- Correa elástica en el talón
+- Sandalia ligera
 - Parte superior textil
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

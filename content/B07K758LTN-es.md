@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s The Perfect tee Camiseta  Hsmk Powder Print  Gold  White  M para Mujer'
-date: 2022-06-19 16:41:38
+date: 2022-06-21 00:53:33
 image: 'https://m.media-amazon.com/images/I/41M9eaK76JL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,7 +29,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Con tacto suave de forro polar
-- Tiene estampado la marca Levis
 - Modelo casual
+- Tiene estampado la marca Levis
 
 [🛒 Aquí!!!]({{< param buyurl >}})
