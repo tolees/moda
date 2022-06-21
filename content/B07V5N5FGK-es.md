@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Escudo del club tejido
+- Tecnología dryCell: material altamente funcional que evacúa el sudor
+- Parche de manga La liga
 - Camiseta oficial de Girona FC Puma para la temporada 2019-2020
 - Con los colores rojo y blanco característicos del club y su historia
-- Parche de manga La liga
-- Tecnología dryCell: material altamente funcional que evacúa el sudor
+- Escudo del club tejido
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
