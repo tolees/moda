@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Suela: Tpr
-- Altura Del Talón: 30mm
 - Superior: Sintético
 - Forro: Textil
+- Altura Del Talón: 30mm
 - Fijación: Riptape
+- Suela: Tpr
 
 [🛒 Aquí!!!]({{< param buyurl >}})
