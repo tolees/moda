@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BOSS Trunk 3P CO/EL 50458488 Bóxer  Open Miscellaneous 981  M  Pack de 3  para Hombre'
-date: 2022-06-21 19:14:56
+date: 2022-06-22 21:34:45
 image: 'https://m.media-amazon.com/images/I/31mv7OyFg8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,7 +29,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cintura: cintura elástica visible
-- Altura de la cintura: media cintura
 - Embalaje: caja
+- Altura de la cintura: media cintura
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
