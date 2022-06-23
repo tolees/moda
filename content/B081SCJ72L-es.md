@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuello sin etiqueta para un uso sin complicaciones
-- Manga corta
-- Hecho de jersey suave para comodidad casual durante todo el día
 - Cinta de hombro en tallas 12M-24M
+- Manga corta
+- Cuello sin etiqueta para un uso sin complicaciones
+- Hecho de jersey suave para comodidad casual durante todo el día
 
 [🛒 Visítala!!!]({{< param buyurl >}})

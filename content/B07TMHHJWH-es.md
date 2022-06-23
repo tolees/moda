@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fabricada en tejido de punto con tacto suave
 - Modelo casual
 - Logotipo pequeño de Levis en el pecho
+- Fabricada en tejido de punto con tacto suave
 
 [🛒 Visítala!!!]({{< param buyurl >}})
