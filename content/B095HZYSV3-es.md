@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con la marca característica de Levis
-- Una prenda supersuave con cuello redondo clásico que combina bien con todo
 - Confección con un tejido de punto de algodón supersuave
+- Una prenda supersuave con cuello redondo clásico que combina bien con todo
 - Nos encanta llevarlos por dentro o por fuera
+- Con la marca característica de Levis
 
 [🛒 Aquí!!!]({{< param buyurl >}})
