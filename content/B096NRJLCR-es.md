@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Geox U Spherica  Zapatillas Hombre  Olive  39 EU'
-date: 2022-06-23 22:42:02
-image: 'https://m.media-amazon.com/images/I/31647ttiWxL._SL500_._SL400_.jpg'
+title: 'Geox U Spherica  Zapatillas Hombre  Fluo Green/Black  46 EU'
+date: 2022-06-23 21:58:50
+image: 'https://m.media-amazon.com/images/I/41-pl4+Cr3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B096NQGGC1-es Geox U Spherica Zapatillas Hombre Olive 39 EU'
-sku: 'B096NQGGC1-es'
+slug: 'B096NRJLCR-es Geox U Spherica Zapatillas Hombre Fluo Green/Black 46 EU'
+sku: 'B096NRJLCR-es'
 tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','geox','🇪🇸', ]
-actualPrice: 56.89 EUR
+actualPrice: 69.9 EUR
 currency: EUR
-price: 56.89
+price: 69.9
 comparePrice: 99.9 EUR
-prodname: 'Geox U Spherica  Zapatillas Hombre  Olive  39 EU'
+prodname: 'Geox U Spherica  Zapatillas Hombre  Fluo Green/Black  46 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Geox'
-buyurl: 'https://www.amazon.es/dp/B096NQGGC1/?tag=tolees-21'
-descuento: '43.05'
-average: '57.37'
+buyurl: 'https://www.amazon.es/dp/B096NRJLCR/?tag=tolees-21'
+descuento: '30.03'
+average: '69.9'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
