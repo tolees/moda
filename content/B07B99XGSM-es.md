@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material de la suela: Caucho
 - Material exterior: Cuero
+- Material de la suela: Caucho
 
 [🛒 Comprar!!!]({{< param buyurl >}})

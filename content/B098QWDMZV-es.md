@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Una versión moderna de la camiseta clásica
 - Elaborada en punto suave
 - Confeccionada con un corte relajado y más holgado
+- Una versión moderna de la camiseta clásica
 - Con el emblemático logotipo Batwing de Levis degradado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
