@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Los puertos de ventilación añaden transpirabilidad
 - Este zapato es resistente al agua
 - Correas de talón giratorias para un ajuste más seguro
+- Los puertos de ventilación añaden transpirabilidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
