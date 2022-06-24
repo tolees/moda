@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Color ocean. Ajuste con cierre adherente. Altura cuña 3,3 cm
 - 1-corte: 100% piel vacuno. 2-forro interior: 100% piel. 6-suela: 100% sintética
+- Color ocean. Ajuste con cierre adherente. Altura cuña 3,3 cm
 
 [🛒 Comprar!!!]({{< param buyurl >}})
