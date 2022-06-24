@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox U Delray  Zapatillas Hombre  Gris/Negro  39 EU'
-date: 2022-06-17 17:25:05
+date: 2022-06-24 05:40:20
 image: 'https://m.media-amazon.com/images/I/41thD-jerzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B096MYCCR6-es Geox U Delray Zapatillas Hombre Gris/Negro 39 EU'
 sku: 'B096MYCCR6-es'
 tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','geox','🇪🇸', ]
-actualPrice: 40.3 EUR
+actualPrice: 31.68 EUR
 currency: EUR
-price: 40.3
+price: 31.68
 comparePrice: 89.9 EUR
 prodname: 'Geox U Delray  Zapatillas Hombre  Gris/Negro  39 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B096MYCCR6/?tag=tolees-21'
-descuento: '55.17'
-average: '40.3'
+descuento: '64.76'
+average: '35.99'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
