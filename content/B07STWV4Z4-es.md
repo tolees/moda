@@ -29,7 +29,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Suela: suela exterior de goma con estampado Heritage Roxy
-- Material exterior: _ Material exterior de TPU moldeado con pin Roxy
 - Plantilla interior: plantilla de goma estructurada con gráficos
+- Material exterior: _ Material exterior de TPU moldeado con pin Roxy
 
 [🛒 Comprar!!!]({{< param buyurl >}})

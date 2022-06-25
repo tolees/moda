@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ray-Ban 0RB3647N  Gafas de Sol Unisex Adulto  Marrón  Gold/Green Classic   51'
-date: 2022-06-15 16:42:02
+date: 2022-06-25 16:31:58
 image: 'https://m.media-amazon.com/images/I/31y6cuGEzcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ray-Ban'
 buyurl: 'https://www.amazon.es/dp/B01NAQDZX3/?tag=tolees-21'
 descuento: '33.88'
-average: '97.3575'
+average: '97.986'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
