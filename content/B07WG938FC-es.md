@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Salomon Tech Amphib 4 Hombre Zapatos de trekking  Negro  Black/Beluga/Castor Gray   40 EU'
-date: 2022-06-21 08:21:27
+date: 2022-06-25 12:34:16
 image: 'https://m.media-amazon.com/images/I/31JyIvQWFrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
