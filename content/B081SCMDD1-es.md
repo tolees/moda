@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cinta de hombro en tallas 12M-24M
-- Hecho de jersey suave para comodidad casual durante todo el día
-- Manga corta
 - Cuello sin etiqueta para un uso sin complicaciones
+- Manga corta
+- Hecho de jersey suave para comodidad casual durante todo el día
+- Cinta de hombro en tallas 12M-24M
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
