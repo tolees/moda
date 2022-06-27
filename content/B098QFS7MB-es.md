@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s T2 Relaxed Graphic Po Sudadera con Capucha  Póster con Logotipo de Palace Blue  S para Hombre'
-date: 2022-06-26 16:29:33
+date: 2022-06-27 17:27:54
 image: 'https://m.media-amazon.com/images/I/41ohtmwIrXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B098QFS7MB/?tag=tolees-21'
 descuento: '28.02'
-average: '22.41'
+average: '21.73'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
