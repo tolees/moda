@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ray-Ban New Wayfarer  Gafas de Sol Unisex adulto  Multicolor  Black and Transparent 6052   55 mm'
-date: 2022-06-13 18:56:11
+date: 2022-06-27 12:47:10
 image: 'https://m.media-amazon.com/images/I/31OwkXisthL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ray-Ban'
 buyurl: 'https://www.amazon.es/dp/B00H4UWXA4/?tag=tolees-21'
 descuento: '38.70'
-average: '89.1'
+average: '89.15'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
