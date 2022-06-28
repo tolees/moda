@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Columbia Lay D Down II  Chaqueta de esquí para Mujer'
-date: 2022-06-24 11:35:39
+date: 2022-06-28 12:21:34
 image: 'https://m.media-amazon.com/images/I/413uyEdnisL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Columbia'
 buyurl: 'https://www.amazon.es/dp/B07JC2HT3C/?tag=tolees-21'
 descuento: '30.00'
-average: '120.9825'
+average: '131.784'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Forro reflectante Omni-Heat, Aislamiento de plumón de 550 cuins, Con piel sintética en la capucha para tormentas extraíble y ajustable
-- Hermosa y suave tela de satén, Ventilación en las axilas para eliminar el exceso de calor
 - Contenido: 1x Columbia Lay D Down II, Chaqueta de esquí para Mujer, Exterior: 100% poliéster satinado; Exterior: Dobby óptico 100% nailon; Forro: 100% poliéster reflectante O-H; Aislamiento: 550 Fill Power Down, Certificado RDS, negro, M
-- Confortable Chaqueta de plumas de líneas femeninas y repelencia avanzada, adecuada para el día a día
 - Bolsillo de seguridad interior para electrónica u otros objetos de valor, Bolsillo para gafas, Bolsillos para las manos con cremallera, Confortables y ajustables puños con agujeros para el pulgar
+- Forro reflectante Omni-Heat, Aislamiento de plumón de 550 cuins, Con piel sintética en la capucha para tormentas extraíble y ajustable
+- Confortable Chaqueta de plumas de líneas femeninas y repelencia avanzada, adecuada para el día a día
+- Hermosa y suave tela de satén, Ventilación en las axilas para eliminar el exceso de calor
 
 [🛒 Aquí!!!]({{< param buyurl >}})
