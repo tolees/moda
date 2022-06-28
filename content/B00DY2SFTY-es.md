@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Geox SNAKE K UOMO  Zapatillas Bajas  para Men s  Gris  Dk Gris/Off White   45 EU'
-date: 2022-06-24 01:01:29
+title: 'Geox Snake K  Zapatillas Hombre  Dark Grey/Off White  45 EU'
+date: 2022-06-28 21:42:47
 image: 'https://m.media-amazon.com/images/I/4150BPPul3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B00DY2SFTY-es Geox SNAKE K UOMO Zapatillas Bajas para Men s Gris Dk...'
+slug: 'B00DY2SFTY-es Geox Snake K Zapatillas Hombre Dark Grey/Off White 45 EU'
 sku: 'B00DY2SFTY-es'
 tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','geox','🇪🇸', ]
-actualPrice: 64.62 EUR
+actualPrice: 65.49 EUR
 currency: EUR
-price: 64.62
+price: 65.49
 comparePrice: 99.9 EUR
-prodname: 'Geox SNAKE K UOMO  Zapatillas Bajas  para Men s  Gris  Dk Gris/Off White   45 EU'
+prodname: 'Geox Snake K  Zapatillas Hombre  Dark Grey/Off White  45 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B00DY2SFTY/?tag=tolees-21'
-descuento: '35.32'
-average: '64.62'
+descuento: '34.44'
+average: '65.055'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
