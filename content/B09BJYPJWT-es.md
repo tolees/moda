@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Polo manga corta
 - Reconsider: Algodón BCI
 - Diagonal Melange
+- Polo manga corta
 
 [🛒 Comprar!!!]({{< param buyurl >}})

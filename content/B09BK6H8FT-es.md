@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Vestido
 - Viscosa
 - Corto Rustic
-- Vestido
 
 [🛒 Aquí!!!]({{< param buyurl >}})
