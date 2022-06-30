@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Consulte la guía de tallas para encontrar la adecuada para usted
-- Manga corta.
 - Bolsillo en el pecho izquierdo con gráfico de Carhartt.
-- Costuras planas de dos agujas.
-- Cuello redondo de punto acanalado.
 - Camiseta.
+- Manga corta.
+- Costuras planas de dos agujas.
+- Consulte la guía de tallas para encontrar la adecuada para usted
+- Cuello redondo de punto acanalado.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
