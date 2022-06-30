@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'G-STAR RAW Camiseta Raw Graphic Slim  Amarillo  Lemonade 336-504   XXL para Hombre'
-date: 2022-06-29 07:03:07
+date: 2022-06-30 18:11:42
 image: 'https://m.media-amazon.com/images/I/41fgPkqdFxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello redondo acanalado
-- Bajo recto
 - Corte ajustado
 - Gráfico de G-Star RAW estampado en el pecho
+- Bajo recto
+- Cuello redondo acanalado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
