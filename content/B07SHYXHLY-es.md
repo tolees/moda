@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazon Brand - FIND. - TONIC NORMAL SKIN 4x200ml'
-date: 2022-06-29 11:35:48
+date: 2022-06-30 13:35:43
 image: 'https://m.media-amazon.com/images/I/41XzMtiosHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'find.'
 buyurl: 'https://www.amazon.es/dp/B07SHYXHLY/?tag=tolees-21'
 descuento: '76.87'
-average: '6.122'
+average: '6.135'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
