@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 47(l) x 2(an.) x 24,3 (alt.)
-- Varias asas
 - Cierre de cremallera
-- Bolsillo interior
 - Bandolera banana denim bordados
+- 47(l) x 2(an.) x 24,3 (alt.)
+- Bolsillo interior
+- Varias asas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
