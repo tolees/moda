@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Ver descripción del producto para obtener más información.
 - A estrenar y genuina. Somos un vendedor autorizado de Tommy Hilfiger.
 - Tommy Hilfiger Gris Sudadera con capucha de logo
-- Ver descripción del producto para obtener más información.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
