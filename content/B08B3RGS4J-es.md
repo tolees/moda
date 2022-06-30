@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corte que confiere comodidad en todo momento
 - Cintura elástica con marca Lacoste a contraste en todo el contorno
 - Lote de 3 bóxers cortos negro Casual
+- Corte que confiere comodidad en todo momento
 
 [🛒 Comprar!!!]({{< param buyurl >}})
