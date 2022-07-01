@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jjeholmen Sweat Zip Hood Noos Sudadera con Capucha  Gris  Light Grey Mixed   L para Hombre'
-date: 2022-06-30 12:42:48
+date: 2022-07-01 14:15:55
 image: 'https://m.media-amazon.com/images/I/41G-rlpjGIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sudadera con capucha de manga larga de color gris claro. Cierre con cremallera. Dos bolsillos exteriores. Detalle bordado.
-- Marca: JACK&JONES
-- Modelo: 12136884 JJEHOLMEN SWEAT ZIP HOOD NOOS
+- Hooded With Drawstring Fastening
+- Ribbed Cuffs And Hem
+- Ribbed Cuffs And Hem
+- Full Front Zip Up Closure
+- 2 Side Open Slit Pockets
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
