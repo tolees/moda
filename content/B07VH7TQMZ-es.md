@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Suela/Características: EVA y caucho para mayor ligereza y un mejor agarre
+- Empeine: Piel (80% Piel vacuna)
 - Tiras elásticas para un fácil ajuste
 - EXTRALIGHT XL para una mayor ligereza y amortiguación
-- Empeine: Piel (80% Piel vacuna)
-- Suela/Características: EVA y caucho para mayor ligereza y un mejor agarre
 - Color: Negro
 
 [🛒 Visítala!!!]({{< param buyurl >}})
