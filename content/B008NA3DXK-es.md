@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Este collar Antiparasitario Parasital proporciona un grado de confort y bienestar, haciendo más fácil la vida diaria de su mascota y la suya
 - Actúa eficazmente como repelente de los mosquitos del género Phlebotomus, transmisores de la Leishmaniosis durante tres meses
-- Su composición es a base de ingredientes activos naturales procedentes de la extracción de aceites esenciales de plantas aromáticas. No contiene PVC
-- Está indicado como antiparasitario para la higiene y cuidado de los perros por la alta capacidad de repelencia
+- Este collar Antiparasitario Parasital proporciona un grado de confort y bienestar, haciendo más fácil la vida diaria de su mascota y la suya
 - Colocar el collar alrededor del cuello del animal de forma que se puedan introducir dos dedos entre el collar y el cuello. Cortar el exceso de longitud
+- Está indicado como antiparasitario para la higiene y cuidado de los perros por la alta capacidad de repelencia
+- Su composición es a base de ingredientes activos naturales procedentes de la extracción de aceites esenciales de plantas aromáticas. No contiene PVC
 
 [🛒 Aquí!!!]({{< param buyurl >}})

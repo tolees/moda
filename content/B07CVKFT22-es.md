@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Only & Sons Onscoin Jacket PK 0451 Noos Chaqueta Vaquera  Azul  Blue Denim Blue Denim   Medium para Hombre'
-date: 2022-06-26 10:18:29
+date: 2022-07-02 16:30:10
 image: 'https://m.media-amazon.com/images/I/51ZOvJGBgtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -30,7 +30,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Composición: 99% algodón, 1% elastano
 - 2 bolsillos en el pecho con solapa y un botón
-- Botones delanteros
 - Chaqueta vaquera lisa
+- Botones delanteros
 
 [🛒 Visítala!!!]({{< param buyurl >}})

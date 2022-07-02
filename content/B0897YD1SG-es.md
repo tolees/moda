@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Graphic WHI Camiseta  Batwing Band Tank White +  S para Mujer'
-date: 2022-07-01 09:40:35
+date: 2022-07-02 16:18:10
 image: 'https://m.media-amazon.com/images/I/41trchfftgS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,7 +29,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Apertura de pierna estrecha
-- Se ajusta a la cintura
 - Corte ajustado desde la cadera hasta el tobillo
+- Se ajusta a la cintura
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
