@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CONVERSE Chuck 70 OX Zapatos Deportivos Negro 162058C'
-date: 2022-06-21 05:44:39
+date: 2022-07-02 01:00:54
 image: 'https://m.media-amazon.com/images/I/41gq3GJMQsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Converse'
 buyurl: 'https://www.amazon.es/dp/B077C8K8TS/?tag=tolees-21'
 descuento: '38.54'
-average: '53.595'
+average: '53.324'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

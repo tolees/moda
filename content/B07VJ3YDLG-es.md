@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- High neck Pullover e of cotton
 - Fine high neck Pullover
+- High neck Pullover e of cotton
 
 [🛒 Aquí!!!]({{< param buyurl >}})
