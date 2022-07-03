@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de tacón: Plano
 - Material de la suela: Goma
-- Material exterior: Sintético
+- Tipo de tacón: Plano
 - Cierre: Sin cordones
+- Material exterior: Sintético
 - Revestimiento: Tela
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
