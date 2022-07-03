@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox J ASSISTER BOY  Sneaker  para Niños  Azul  Royal/Lime   28 EU'
-date: 2022-06-29 17:02:05
+date: 2022-07-03 18:45:52
 image: 'https://m.media-amazon.com/images/I/51ozcqGJmYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material exterior: Sintético
 - Material de la suela: Caucho
+- Material exterior: Sintético
 - Revestimiento: Sintético
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
