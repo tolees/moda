@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones JJELOGO tee SS O-Neck 2 Col SS22 SN Camiseta  Color Rojo  M para Hombre'
-date: 2022-07-01 16:56:54
+date: 2022-07-03 08:30:02
 image: 'https://m.media-amazon.com/images/I/3191+z777pL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B091TY67KP/?tag=tolees-21'
 descuento: '32.87'
-average: '9.855'
+average: '9.47666666666667'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
