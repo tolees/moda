@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Oakley Oo9449-0560 gafas de sol  Tinta Negra  60 Unisex Adulto'
-date: 2022-06-25 10:46:10
+date: 2022-07-03 17:01:47
 image: 'https://m.media-amazon.com/images/I/21iUekpWCSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 60/17/132
 - Black ink/prizm ruby
+- 60/17/132
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
