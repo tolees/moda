@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material exterior: ante
 - Material interior: sintético
-- Cierre: cordones
+- Material exterior: ante
 - Suela: sintética
+- Cierre: cordones
 
 [🛒 Visítala!!!]({{< param buyurl >}})
