@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fossil Tara  Bolso Bandolera para Mujer  Negro  23.8252 cm x 6.6802 cm x 24.13 cm'
-date: 2022-06-30 12:06:56
+date: 2022-07-04 12:43:47
 image: 'https://m.media-amazon.com/images/I/41Y54Ru95+S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

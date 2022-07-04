@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Manga corta
 - Camiseta Mickey Mouse
-- Estampación Mickey Mouse
-- Algodón BCI
 - Regular fit
+- Algodón BCI
+- Estampación Mickey Mouse
+- Manga corta
 
 [🛒 Aquí!!!]({{< param buyurl >}})

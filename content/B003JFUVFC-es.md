@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Tamaño: 52/18/145
 - Ray-Ban combina el estilo excepcional con lo último en innovación científica
 - Materiales de alta calidad y logotipo grabado en el lente
-- Tamaño: 52/18/145
 
 [🛒 Aquí!!!]({{< param buyurl >}})
