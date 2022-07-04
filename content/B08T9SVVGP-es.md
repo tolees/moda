@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Only Onlmay Life S/S Dress Noos Vestido  Azul  Orchid Bouquet   M para Mujer'
-date: 2022-07-01 09:31:25
+date: 2022-07-04 07:14:43
 image: 'https://m.media-amazon.com/images/I/41okd2EnGFS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Only'
 buyurl: 'https://www.amazon.es/dp/B08T9SVVGP/?tag=tolees-21'
 descuento: '30.02'
-average: '11.04'
+average: '10.39'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
