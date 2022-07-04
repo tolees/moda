@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox U Delray  Zapatillas Hombre  Lt Olive Black  39 EU'
-date: 2022-06-24 01:03:35
+date: 2022-07-03 23:20:50
 image: 'https://m.media-amazon.com/images/I/41+M0IFUaLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B096MWZHCZ-es Geox U Delray Zapatillas Hombre Lt Olive Black 39 EU'
 sku: 'B096MWZHCZ-es'
 tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','geox','🇪🇸', ]
-actualPrice: 37.2 EUR
+actualPrice: 28.67 EUR
 currency: EUR
-price: 37.2
+price: 28.67
 comparePrice: 89.9 EUR
 prodname: 'Geox U Delray  Zapatillas Hombre  Lt Olive Black  39 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B096MWZHCZ/?tag=tolees-21'
-descuento: '58.62'
-average: '37.2'
+descuento: '68.11'
+average: '32.935'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
