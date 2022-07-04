@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Una marca de Amazon
 - Confeccionado en un tejido de punto suave y ligero para un tacto y un ajuste cómodos
 - Con delicados detalles de encaje
+- Una marca de Amazon
 
 [🛒 Visítala!!!]({{< param buyurl >}})

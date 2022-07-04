@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sandalias Divecat v2 Lite blue
-- Sandalias para practicar Calzado de Unisex Adulto
-- Los productos deportivos de la marca Puma están diseñados para que disfrutes de tu deporte favorito sin preocuparte de nada más que rendir al máximo
-- Calzado Azul de la marca Puma
 - Calzado fabricada con materiales de calidad que se adaptan a cualquier actividad deportiva
+- Calzado Azul de la marca Puma
+- Sandalias para practicar Calzado de Unisex Adulto
+- Sandalias Divecat v2 Lite blue
+- Los productos deportivos de la marca Puma están diseñados para que disfrutes de tu deporte favorito sin preocuparte de nada más que rendir al máximo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
