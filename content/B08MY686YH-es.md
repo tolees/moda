@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tejido suave al tacto
 - Cinturilla elástica cómoda
+- Tejido suave al tacto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
