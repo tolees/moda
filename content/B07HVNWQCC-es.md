@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Hecho de 95% de poliéster y 5% de elastano
-- Polo con manga corta
-- Fácil de combinar con los pantalones cortos
-- Un clásico cierre de polo con botones
 - Los paneles de malla proporcionan una buena ventilación y comodidad extra
+- Fácil de combinar con los pantalones cortos
+- Polo con manga corta
+- Un clásico cierre de polo con botones
 
 [🛒 Visítala!!!]({{< param buyurl >}})

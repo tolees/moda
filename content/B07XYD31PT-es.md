@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin polarizar
-- Polished rootbeer/prizm bronze
 - Garantía internacional de 2 años
 - Talla 57/17/142
+- Sin polarizar
+- Polished rootbeer/prizm bronze
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
