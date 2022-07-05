@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Havaianas Top Mix 4115549  Chanclas Unisex Adulto  Black 5549  45/46 EU'
-date: 2022-07-04 08:53:18
+date: 2022-07-05 18:03:00
 image: 'https://m.media-amazon.com/images/I/41N69R6OGAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Altura del tacón: 1 centímetros
-- Material de la suela: Caucho
-- Cierre: Sin cierre
 - Revestimiento: Sin forro
-- Anchura del zapato: Normal
-- Tipo de tacón: Plano
 - Material exterior: Caucho
+- Altura del tacón: 1 centímetros
+- Anchura del zapato: Normal
+- Material de la suela: Caucho
+- Tipo de tacón: Plano
+- Cierre: Sin cierre
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
