@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Logo de la marca bordado en el pecho
-- Adecuada para completar cualquier atuendo
 - Camiseta básica de Tommy Hilfiger
+- Adecuada para completar cualquier atuendo
+- Logo de la marca bordado en el pecho
 
 [🛒 Aquí!!!]({{< param buyurl >}})

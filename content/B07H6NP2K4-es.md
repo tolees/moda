@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- onlCARRIE MEL COAT OTW by ONLY.
 - Coat with elegant button closure and classic collar
+- onlCARRIE MEL COAT OTW by ONLY.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

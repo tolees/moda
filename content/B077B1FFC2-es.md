@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Suela de goma
-- Detalle trasero en contraste
 - Elásticos en los laterales
+- Detalle trasero en contraste
+- Suela de goma
 - Tirador con pespunte
 
 [🛒 Visítala!!!]({{< param buyurl >}})
