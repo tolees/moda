@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 65% poliacrílico, 35% poliamida
 - Diseño danés
+- 65% poliacrílico, 35% poliamida
 
 [🛒 Visítala!!!]({{< param buyurl >}})
