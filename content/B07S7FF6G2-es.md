@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Marca Amazon - IRIS & LILLY Pijama de Algodón Mujer  Negro  Black   XL  Label: XL'
-date: 2022-07-05 20:40:51
+date: 2022-07-07 17:05:40
 image: 'https://m.media-amazon.com/images/I/31SKzc+eLQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
