@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Ya sea tu primer o sexto par, te prometemos que volverás a este corte una y otra vez
 - Son ajustados en el muslo con un corte recto hasta el tobillo, así que puedes llevarlos con casi cualquier zapato
 - Relajados y ajustados, pero no demasiado ceñidos ni demasiado holgados
-- Ya sea tu primer o sexto par, te prometemos que volverás a este corte una y otra vez
 - Nuestros vaqueros Levis 511 Slim son la alternativa perfecta a los vaqueros ceñidos, y siempre son unos vaqueros versátiles que combinan con todo y que siempre querrás tener en tu vida
 - Vaqueros con un corte estilizado y moderno que permiten libertad de movimiento
 
