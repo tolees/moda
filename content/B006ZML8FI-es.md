@@ -28,15 +28,15 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bolsillos térmicos para las manos, forro polar
-- Helly Techa Tela
-- Tratamiento de impermeabilidad duradera, costuras totalmente selladas
+- Resistente al agua ya prueba de viento
 - Fleece Lined
 - Cálido Medio Capa
-- Resistente al agua ya prueba de viento
-- Bolsillos en el pecho con cremallera
-- Respirable
 - Construcción de tela de 2 capas
+- Helly Techa Tela
+- Respirable
+- Bolsillos en el pecho con cremallera
 - Bajo ajustable con una sola mano, puños ajustables
+- Bolsillos térmicos para las manos, forro polar
+- Tratamiento de impermeabilidad duradera, costuras totalmente selladas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
