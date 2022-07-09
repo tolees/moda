@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Popcat 20  Chanclas Unisex Adulto  Black Black  42 EU'
-date: 2022-07-06 18:31:33
+date: 2022-07-08 21:43:26
 image: 'https://m.media-amazon.com/images/I/311oRuB533L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- No es resistente al agua
 - Puntera abierta
+- No es resistente al agua
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
