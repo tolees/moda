@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Calzado sin cierre
 - Los sistemas patentados Geox ofrecen la transpirabilidad de la suela y el bienestar del pie
+- Calzado sin cierre
 
 [🛒 Aquí!!!]({{< param buyurl >}})

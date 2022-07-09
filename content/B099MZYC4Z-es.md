@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sin forro
 - Blusa, blusa, blusa, blusa, sudadera para mujer
+- Sin forro
 
 [🛒 Comprar!!!]({{< param buyurl >}})
