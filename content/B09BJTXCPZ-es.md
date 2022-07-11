@@ -29,7 +29,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Bici
-- Sudadera
 - Reconsider: Algodón BCI
+- Sudadera
 
 [🛒 Comprar!!!]({{< param buyurl >}})

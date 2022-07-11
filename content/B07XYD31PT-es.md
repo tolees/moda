@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Oakley Oo9448-0257 Gafas  Multicolor  55mm Unisex Adulto'
-date: 2022-07-04 22:02:43
+date: 2022-07-11 14:27:51
 image: 'https://m.media-amazon.com/images/I/31fJBAM3iTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Garantía internacional de 2 años
-- Talla 57/17/142
-- Sin polarizar
 - Polished rootbeer/prizm bronze
+- Talla 57/17/142
+- Garantía internacional de 2 años
+- Sin polarizar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
