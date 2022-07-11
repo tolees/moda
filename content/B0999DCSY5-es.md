@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Vestido camisero M. Christian Lacroix
 - Regular fit
-- Bolsillos superiores y laterales
-- Lazada a la cintura
+- Vestido camisero M. Christian Lacroix
 - Estampado fotográfico floral
+- Lazada a la cintura
+- Bolsillos superiores y laterales
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
