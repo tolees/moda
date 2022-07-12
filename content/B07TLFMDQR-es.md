@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Modelo casual
 - Camisa denim clásica de manga larga Western Shirt
 - Dos bolsillos con botón en el pecho
+- Modelo casual
 
 [🛒 Visítala!!!]({{< param buyurl >}})

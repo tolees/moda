@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Plantilla amortiguadora superabsorbente y antibacterias
 - Fabricado con materiales de óptima calidad
-- Forro textil transpirable
 - Piso de goma flexible, antideslizante y resistente al desgarro
+- Forro textil transpirable
 - Zapato diseñado en España; consulta información en nuestras RRSS
 
 [🛒 Aquí!!!]({{< param buyurl >}})
