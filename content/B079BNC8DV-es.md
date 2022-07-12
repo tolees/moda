@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Compatibilidad: Corte entallado.
+- Escote: Cuello redondo.
 - Jack & Jones - Camiseta de manga corta para hombre.
 - Tipo de manga: Manga corta.
-- Escote: Cuello redondo.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
