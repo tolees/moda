@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Detalles distintivos de la marca
 - Material: 100% algodón orgánico
-- Ajuste clásico
 - Cuelo redondo
+- Ajuste clásico
+- Detalles distintivos de la marca
 
 [🛒 Visítala!!!]({{< param buyurl >}})
