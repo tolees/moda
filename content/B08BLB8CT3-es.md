@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Material interior: piel
-- Material exterior: piel lisa
 - Cierre: correa con hebilla
 - Suela: goma
+- Material exterior: piel lisa
 
 [🛒 Aquí!!!]({{< param buyurl >}})
