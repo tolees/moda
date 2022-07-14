@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Skinny Jeans e of Organic cotton
 - 5-Pocket stretch Jeans
+- Skinny Jeans e of Organic cotton
 
 [🛒 Visítala!!!]({{< param buyurl >}})

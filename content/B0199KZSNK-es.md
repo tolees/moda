@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Escalada punta de goma
 - 34% reciclado, suela de goma
+- Escalada punta de goma
 - timberdry membrana impermeable
-- Ortholite plantilla
 - Forro 50% PET reciclado
+- Ortholite plantilla
 
 [🛒 Comprar!!!]({{< param buyurl >}})
