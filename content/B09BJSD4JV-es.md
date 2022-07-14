@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SPRINGFIELD Pack 2 Boxers Basic Bóxer  Azul Oscuro  S para Hombre'
-date: 2022-07-12 19:32:39
+date: 2022-07-14 02:18:48
 image: 'https://m.media-amazon.com/images/I/31eVMIFFGCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Popcat 20  Chanclas Unisex Adulto  Black Black  42 EU'
-date: 2022-07-08 21:43:26
+date: 2022-07-14 01:50:47
 image: 'https://m.media-amazon.com/images/I/311oRuB533L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PUMA'
 buyurl: 'https://www.amazon.es/dp/B097C3WZB5/?tag=tolees-21'
 descuento: '29.87'
-average: '13.99'
+average: '16.635'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
