@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Corte slim
 - Cinta distintiva en el interior del cuello
 - Algodón elástico
+- Corte slim
 - Cuello de pico
 - Logo de Tommy Hilfiger bordado en el pecho
 

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para trabajos duros
-- Grandes resistencias
 - Puño abierto para mas comodidad
+- Grandes resistencias
+- Para trabajos duros
 - Ferko F-039/10 - Guantes 88 PBS en piel flor de cerdo gamuza, dorso y manguito en algodón 100%. Espesor piel flor de 0,8-0,9 mm. Talla 10
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
