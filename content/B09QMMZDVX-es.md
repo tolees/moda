@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Camiseta para niños de la marca danesa Jack & Jones Junior
 - Fabricado con algodón reciclado. Este producto se ha fabricado con algodón reciclado. El algodón reciclado conserva los recursos naturales y reduce la cantidad de residuos.
+- Camiseta para niños de la marca danesa Jack & Jones Junior
 
 [🛒 Comprar!!!]({{< param buyurl >}})
