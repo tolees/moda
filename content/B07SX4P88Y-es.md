@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material exterior: exterior de goma con pasador de metal Roxy
 - Suela: suela exterior de goma
 - Plantilla: Plantilla de goma estructurada
+- Material exterior: exterior de goma con pasador de metal Roxy
 
 [🛒 Aquí!!!]({{< param buyurl >}})

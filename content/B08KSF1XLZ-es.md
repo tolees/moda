@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Doble parte frontal sin abertura
-- Pack de 3 calzoncillos tipo bóxer de Hugo Boss con pierna larga
 - Cintura elástica y cómoda
-- Banda de cintura con el logotipo de Hugo Boss
+- Doble parte frontal sin abertura
 - Tejido de mezcla de algodón suave y elástico
+- Pack de 3 calzoncillos tipo bóxer de Hugo Boss con pierna larga
+- Banda de cintura con el logotipo de Hugo Boss
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
