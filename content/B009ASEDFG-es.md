@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Color: Negro - Rojo, Color de lentes: Marrón gradual
 - CARRERA 33
-- Model: Varón
-- Item reference number: Carrera 33 8V4PT
 - Material: Acetato
+- Model: Varón
+- Color: Negro - Rojo, Color de lentes: Marrón gradual
+- Item reference number: Carrera 33 8V4PT
 
 [🛒 Comprar!!!]({{< param buyurl >}})
