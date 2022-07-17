@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Le Coq Sportif Camiseta Modelo Tech tee SS N°1 Marca'
-date: 2022-07-04 08:34:00
+date: 2022-07-17 11:40:25
 image: 'https://m.media-amazon.com/images/I/31TgVtQ7UHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Logo de la marca
+- Ajuste regular
 - Secado rápico
 - Manga corta
-- Ajuste regular
+- Logo de la marca
 
 [🛒 Comprar!!!]({{< param buyurl >}})
