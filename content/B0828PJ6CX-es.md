@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de fábrica: 32% Polyester, 68% Cotton
 - Logotipo del felino PUMA en la parte derecha del pecho
 - Manga larga
-- Bolsillo delantero tipo canguro
-- Algodón, poliéster y elastano
 - Capucha con cordón ajustable
+- Algodón, poliéster y elastano
+- Tipo de fábrica: 32% Polyester, 68% Cotton
+- Bolsillo delantero tipo canguro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
