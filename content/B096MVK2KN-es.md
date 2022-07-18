@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox B SANDAL TAPUZ GIRL  First Walker Shoe  para Bebé-Niñas   Blanco Y Plateado   23 EU'
-date: 2022-07-15 12:55:06
+date: 2022-07-18 10:39:48
 image: 'https://m.media-amazon.com/images/I/31ja+J8xXXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B096MVK2KN/?tag=tolees-21'
 descuento: '52.13'
-average: '23.5'
+average: '22.0333333333333'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

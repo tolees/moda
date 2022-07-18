@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fossil Tara  Bolso Bandolera para Mujer  Marrón  23.8252 cm x 6.6802 cm x 24.13 cm'
-date: 2022-07-14 08:49:12
+date: 2022-07-18 10:56:59
 image: 'https://m.media-amazon.com/images/I/41lxAmT5ojL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
