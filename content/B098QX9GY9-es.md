@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s tee Thyme RESEDA Stripe Camiseta  M para Mujer'
-date: 2022-07-16 16:29:30
+date: 2022-07-18 13:29:48
 image: 'https://m.media-amazon.com/images/I/41FWk0MGmTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Confección en 100 % poliéster reciclado
 - Con parche con el logotipo de Levis en el pecho
 - Una prenda supersuave con cuello redondo clásico que combina bien con todo
+- Confección en 100 % poliéster reciclado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
