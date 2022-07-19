@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Lavable a máquina
-- Amortiguación ultraligera
 - Plantilla contorneada Goga Mat
+- Amortiguación ultraligera
 - Cómoda sandalia
+- Lavable a máquina
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
