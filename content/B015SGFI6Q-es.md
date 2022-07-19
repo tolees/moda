@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Havaianas Luna  Sandalias Mujer  Golden Rose  37/38 EU'
-date: 2022-07-09 16:21:04
+date: 2022-07-18 21:55:09
 image: 'https://m.media-amazon.com/images/I/41RmvEO14vL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B015SGFI6Q-es Havaianas Luna Sandalias Mujer Golden Rose 37/38 EU'
 sku: 'B015SGFI6Q-es'
 tags: [ 'Sandalias de vestir para mujer','Sandalias y palas de mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','havaianas','sandalias','🇪🇸', ]
-actualPrice: 16.99 EUR
+actualPrice: 13.49 EUR
 currency: EUR
-price: 16.99
+price: 13.49
 comparePrice: 25.99 EUR
 prodname: 'Havaianas Luna  Sandalias Mujer  Golden Rose  37/38 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Havaianas'
 buyurl: 'https://www.amazon.es/dp/B015SGFI6Q/?tag=tolees-21'
-descuento: '34.63'
-average: '14.3133333333333'
+descuento: '48.10'
+average: '14.231'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Revestimiento: Sin forro
-- Material de la suela: Goma
-- 39/40 EU (37/38 Brazilian)
 - Material exterior: Caucho
+- 39/40 EU (37/38 Brazilian)
+- Material de la suela: Goma
+- Revestimiento: Sin forro
 - Tipo de tacón: Plano
 - Cierre: Sin cordones
 
