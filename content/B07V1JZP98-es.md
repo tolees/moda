@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas YG E Lin tee Camiseta de Manga Corta  Niñas  Black/White  4-5Y'
-date: 2022-07-15 16:01:32
+date: 2022-07-22 19:45:54
 image: 'https://m.media-amazon.com/images/I/41MShI5DHiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- El diseño otorga libertad a los movimientos
+- Logotipo de Adidas
 - Ajuste regular
 - Tela suave
-- Logotipo de Adidas
-- El diseño otorga libertad a los movimientos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

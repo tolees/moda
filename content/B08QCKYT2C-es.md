@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Impermeable
-- Tipo canguro
-- Capucha fija y pelo sintético desmontable
 - Cordones ajustables en la cintura
+- Tipo canguro
+- Impermeable
+- Capucha fija y pelo sintético desmontable
 
 [🛒 Visítala!!!]({{< param buyurl >}})
