@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Havaianas Luna  Sandalias Mujer  Golden Rose  37/38 EU'
-date: 2022-07-18 21:55:09
+date: 2022-07-22 12:00:57
 image: 'https://m.media-amazon.com/images/I/41RmvEO14vL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Havaianas'
 buyurl: 'https://www.amazon.es/dp/B015SGFI6Q/?tag=tolees-21'
 descuento: '48.10'
-average: '14.231'
+average: '14.1636363636364'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material exterior: Caucho
-- 39/40 EU (37/38 Brazilian)
-- Material de la suela: Goma
 - Revestimiento: Sin forro
-- Tipo de tacón: Plano
+- 39/40 EU (37/38 Brazilian)
 - Cierre: Sin cordones
+- Material exterior: Caucho
+- Tipo de tacón: Plano
+- Material de la suela: Goma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
