@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Plantilla contorneada Goga Mat
-- Sandalia cómoda
-- Lavable a máquina
 - Ultra Go
+- Lavable a máquina
+- Sandalia cómoda
 
 [🛒 Aquí!!!]({{< param buyurl >}})
