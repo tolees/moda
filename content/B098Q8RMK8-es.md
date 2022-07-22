@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Estilo informal
 - Hackett Essential
+- Estilo informal
 
 [🛒 Aquí!!!]({{< param buyurl >}})
