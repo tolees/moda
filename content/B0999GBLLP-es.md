@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pinturas de grandes flores multicolor
-- Sostenible: algodón orgánico
-- Estampación de corazones en los hombros
-- Evasé
 - Vestido I love me
+- Estampación de corazones en los hombros
+- Pinturas de grandes flores multicolor
+- Evasé
+- Sostenible: algodón orgánico
 
 [🛒 Comprar!!!]({{< param buyurl >}})

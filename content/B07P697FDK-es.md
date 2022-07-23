@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Puños, cuello y bajo elásticos
 - Logo de Tommy Hilfiger bordado en el pecho
 - Cinta distintiva en el interior del cuello
-- Puños, cuello y bajo elásticos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
