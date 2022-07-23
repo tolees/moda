@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Logotipo "C" impreso en la manga izquierda
 - Logotipo grande clásico impreso en el pecho
+- Logotipo "C" impreso en la manga izquierda
 
 [🛒 Comprar!!!]({{< param buyurl >}})

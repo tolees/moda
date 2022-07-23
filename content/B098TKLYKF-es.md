@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Dos bolsillos en la cintura con botones a presión
 - Tommy Hilfiger bordado de bandera
+- Dos bolsillos en la cintura con botones a presión
 
 [🛒 Aquí!!!]({{< param buyurl >}})
