@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Napapijri S-Turin Camiseta  Black 041  M Hombres'
-date: 2022-07-21 16:05:01
+date: 2022-07-23 20:13:01
 image: 'https://m.media-amazon.com/images/I/31UcXMMCasL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Estampado en el pecho
 - Cuello redondo
 - Corte estándar
-- Estampado en el pecho
 
 [🛒 Aquí!!!]({{< param buyurl >}})
