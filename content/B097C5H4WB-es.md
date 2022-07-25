@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Leadcat 2.0  Chanclas  Unisex adulto  Azul  Peacoat/Puma White   42 EU'
-date: 2022-07-17 22:19:45
+date: 2022-07-25 16:38:17
 image: 'https://m.media-amazon.com/images/I/31PgUwRHt7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,6 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Leadcat 2.0
+- El calzado no es resistente al agua
+- Estilo de puntera abierta
 
 [🛒 Comprar!!!]({{< param buyurl >}})
