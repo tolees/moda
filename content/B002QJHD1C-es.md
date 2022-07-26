@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con un diseño original
-- Protective case included
 - Accesorio moderno y elegante
-- Gafas de sol
 - Protección segura de los rayos solares
+- Con un diseño original
+- Gafas de sol
+- Protective case included
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
