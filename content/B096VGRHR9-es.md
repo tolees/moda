@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Camiseta de hombre en algodón con estampado
 - Regular fit
+- Camiseta de hombre en algodón con estampado
 - Cuello redondo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
