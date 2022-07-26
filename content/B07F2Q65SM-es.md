@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Fabricada en Europa
 - Felpa francesa de algodón
+- Corte recto
 - Cuello redondo
 - Canalé en el bajo y en las mangas
-- Corte recto
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
