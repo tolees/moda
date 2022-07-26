@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sostenible: algodón BCI
 - Camiseta leopardo
 - Algodón BCI
-- Mensaje Free Spirit en la espalda
 - Full-print fotográfico también en la espalda
+- Mensaje Free Spirit en la espalda
+- Sostenible: algodón BCI
 
 [🛒 Comprar!!!]({{< param buyurl >}})

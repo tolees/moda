@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Apto para bebés, Cintura elástica para una mejor sujeción, Sin impresión de goma
-- Fácil de limpiar y cuidar: Lavable a máquina a 40°C, Apto para secadores.
 - Leggins de mezcla de algodón resistente, Ideales para uso diario, especialmente en temperaturas frías
+- Fácil de limpiar y cuidar: Lavable a máquina a 40°C, Apto para secadores.
 - Contenido: 1 Sterntaler Leggins Unisex, Talla 104, Color Antracita
 - Mano de obra y materiales de alta calidad: 85% Algodón, 10% Poliamida, 5% Elastano
 

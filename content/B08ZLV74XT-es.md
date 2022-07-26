@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Lavar a máquina
 - DryCELL: La denominación de PUMA para las propiedades repelentes de la humedad que ayudan a que la piel permanezca seca y cómoda
-- Poliéster 100 %
-- Cinturilla elástica con cordón de ajuste
+- Lavar a máquina
 - Logotipo del PUMA estampado por transferencia de calor en la pierna izquierda
-- Cierre: Ponerse
-- 100% Poliéster
 - Corte normal
+- Cinturilla elástica con cordón de ajuste
+- Cierre: Ponerse
+- Poliéster 100 %
+- 100% Poliéster
 
 [🛒 Comprar!!!]({{< param buyurl >}})
