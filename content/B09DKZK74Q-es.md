@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Jersey monocolor para mujer con manga larga
 - Jersey para mujer con cuello redondo
+- Jersey monocolor para mujer con manga larga
 
 [🛒 Comprar!!!]({{< param buyurl >}})

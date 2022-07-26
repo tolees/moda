@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con el logotipo emblemático de Levis
 - Una prenda supersuave con cuello redondo clásico que combina bien con todo
+- Con el logotipo emblemático de Levis
 
 [🛒 Comprar!!!]({{< param buyurl >}})
