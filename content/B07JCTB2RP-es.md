@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clarks Tealite Grace  Sandalias con Tira Vertical para Mujer  Gris  Grau Grey Nubuck   39 EU'
-date: 2022-07-14 07:46:55
+date: 2022-07-27 14:14:12
 image: 'https://m.media-amazon.com/images/I/31GSGlkV6RL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
