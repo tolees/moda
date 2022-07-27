@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Sudadera Tiempo libre y sportwear Mujer
-- Agata (Sgs03238)
-- Ropa deportiva ellesse
 - De alta calidad y con diseño deportivo
+- Ropa deportiva ellesse
+- Agata (Sgs03238)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
