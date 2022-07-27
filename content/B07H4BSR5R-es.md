@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nike M NSW Club Tee Camiseta de Manga Corta  Hombre  Blanco  White/Black   M'
-date: 2022-07-25 19:38:04
+date: 2022-07-27 19:03:01
 image: 'https://m.media-amazon.com/images/I/21xdwc6l-QL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'NIKE'
 buyurl: 'https://www.amazon.es/dp/B07H4BSR5R/?tag=tolees-21'
 descuento: '40.00'
-average: '14.5'
+average: '13.6666666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Regular fit
 - Nike logo on the front
 - Soft fabric
+- Regular fit
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

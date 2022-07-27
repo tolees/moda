@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Zapatillas de hiking montañismo, alpinismo y trekking mujer
 - Shoes x reveal gtx (l40971100)
+- Zapatillas de hiking montañismo, alpinismo y trekking mujer
 - Calzado salomon
 
 [🛒 Visítala!!!]({{< param buyurl >}})

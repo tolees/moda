@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Adidas logo on the front
 - Slim fit
+- Adidas logo on the front
 - Climalite anti-humidity fabric
 
 [🛒 Comprar!!!]({{< param buyurl >}})

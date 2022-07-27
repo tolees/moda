@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Composición: Goma
-- Resistente al agua
 - Material de la suela: Goma
+- Material exterior: Caucho
+- Anchura del zapato: Normal
+- Resistente al agua
 - Fabricado en Brasil. Nota: El tamaño marcado en las chanclas es de tamaño brasileño.
 - Cierre: Sin cordones
 - Tipo de tacón: Plano
-- Material exterior: Caucho
-- Anchura del zapato: Normal
+- Composición: Goma
 
 [🛒 Aquí!!!]({{< param buyurl >}})

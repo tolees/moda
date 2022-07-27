@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con el emblemático logotipo Batwing de Levis
-- Un clásico por excelencia que puedes combinar con todo
 - Elaborada en punto suave
+- Un clásico por excelencia que puedes combinar con todo
+- Con el emblemático logotipo Batwing de Levis
 
 [🛒 Visítala!!!]({{< param buyurl >}})
