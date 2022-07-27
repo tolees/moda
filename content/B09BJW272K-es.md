@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Organic Cotton
 - Lino básica
 - Camisa manga larga
+- Organic Cotton
 
 [🛒 Visítala!!!]({{< param buyurl >}})

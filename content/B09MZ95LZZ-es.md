@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Viscosa Bambull
 - Blusa
 - Manga corta
-- Viscosa Bambull
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
