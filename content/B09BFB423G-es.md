@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Fullzip y dos bolsillos externos
 - Chaleco acolchado
 - Logo en el frente
-- Fullzip y dos bolsillos externos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

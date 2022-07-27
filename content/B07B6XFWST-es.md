@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Lente cilíndrica de 5 bases para una mejor visión y protección de los dispositivos
-- Protección 100% UV
 - Marco Grilamid TR90 irrompible y ligero
-- Tratamiento de lentes Hydro para repeler el agua, la suciedad y el aceite
+- Lente cilíndrica de 5 bases para una mejor visión y protección de los dispositivos
 - Lentes de policarbonato resistentes a los impactos y ligeras
+- Tratamiento de lentes Hydro para repeler el agua, la suciedad y el aceite
+- Protección 100% UV
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
