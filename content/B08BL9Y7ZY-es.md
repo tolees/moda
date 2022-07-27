@@ -29,7 +29,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Material exterior: Cuero
-- Revestimiento: Sintético
 - Material de la suela: Material Sintético
+- Revestimiento: Sintético
 
 [🛒 Visítala!!!]({{< param buyurl >}})

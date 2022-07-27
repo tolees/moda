@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Estampado en el pecho
-- Cuello redondo
 - Corte estándar
+- Cuello redondo
+- Estampado en el pecho
 
 [🛒 Visítala!!!]({{< param buyurl >}})
