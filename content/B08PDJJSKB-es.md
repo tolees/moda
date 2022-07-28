@@ -29,7 +29,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Modelos casual
-- Elaboradas en punto suave
 - Con un logo Levis en el bajo
+- Elaboradas en punto suave
 
 [🛒 Aquí!!!]({{< param buyurl >}})
