@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Nota Considera la talla BR = talla de la UE, independientemente de lo que muestre la suela del producto. La talla BR se ajusta mejor y corresponde a la talla de la UE + prueba siempre el producto primero.
-- suela de goma
 - Forro Sin cierre Forro
 - Cierre sin cierre
 - goma superior
+- suela de goma
+- Nota Considera la talla BR = talla de la UE, independientemente de lo que muestre la suela del producto. La talla BR se ajusta mejor y corresponde a la talla de la UE + prueba siempre el producto primero.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
