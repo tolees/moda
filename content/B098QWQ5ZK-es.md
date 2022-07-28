@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con la marca característica de Levis
 - Nos encanta llevarlos por dentro o por fuera
-- Confección con un tejido de punto de algodón supersuave
 - Una prenda supersuave con cuello redondo clásico que combina bien con todo
+- Confección con un tejido de punto de algodón supersuave
+- Con la marca característica de Levis
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
