@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Elaborada en punto suave
 - Con un discreto logo en el pecho
 - Modelo casual
+- Elaborada en punto suave
 
 [🛒 Aquí!!!]({{< param buyurl >}})

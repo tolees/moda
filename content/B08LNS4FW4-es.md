@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Jack & Jones - Camiseta para hombre (2 unidades)
 - Diseño clásico de la marca en la parte
-- Pack de 2 unidades de Style 12137126.
 - Agradable sensación gracias al algodón puro.
+- Pack de 2 unidades de Style 12137126.
+- Jack & Jones - Camiseta para hombre (2 unidades)
 - Diseño ajustado.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

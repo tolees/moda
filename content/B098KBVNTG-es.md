@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Slim Fit
 - Estilo informal
+- Slim Fit
 
 [🛒 Aquí!!!]({{< param buyurl >}})

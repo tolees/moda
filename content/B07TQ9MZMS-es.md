@@ -29,7 +29,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Marca: Calvin Klein Jeans
-- Color: azul
 - Modelo: J30J314314
+- Color: azul
 
 [🛒 Comprar!!!]({{< param buyurl >}})

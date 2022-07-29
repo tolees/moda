@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Una camisa básica de cuello de pico que combina perfectamente con tus vaqueros favoritos
 - Elaborada en punto suave
+- Una camisa básica de cuello de pico que combina perfectamente con tus vaqueros favoritos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

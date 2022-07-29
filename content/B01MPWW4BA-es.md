@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Logotipo pequeño bordado en la parte delantera.
 - Contiene colores blanco, negro y azul.
+- Logotipo pequeño bordado en la parte delantera.
 - Paquete de 3 camisetas de cuello redondo liso por Hugo Boss
 - 100% algodón, ajuste regular.
 

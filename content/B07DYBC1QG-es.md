@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Tiene el logo de Calvin Klein estampado en el pecho
 - Con acabado ligeramente lavado
 - Modelo de ajuste slim
-- Tiene el logo de Calvin Klein estampado en el pecho
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- unicolor
 - 100% algodón
-- 3 paquetes
+- unicolor
 - Estilo clásico, Cuello redondo
 - Hugo Boss camisetas
+- 3 paquetes
 
 [🛒 Comprar!!!]({{< param buyurl >}})
