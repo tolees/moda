@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ray-Ban Aviator Large Metal  Gafas de Sol Unisex Adulto  Negro  Black/Green   58'
-date: 2022-07-27 12:41:50
+date: 2022-07-29 08:19:38
 image: 'https://m.media-amazon.com/images/I/21YdwyAaMhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ray-Ban'
 buyurl: 'https://www.amazon.es/dp/B000GLN15O/?tag=tolees-21'
 descuento: '40.62'
-average: '87.0609090909092'
+average: '87.294411764706'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

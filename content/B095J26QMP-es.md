@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Graphic Crewneck tee BW Foil GRA Camiseta  Hm Gradient Caviar  XL para Hombre'
-date: 2022-07-23 21:01:35
+date: 2022-07-29 08:45:54
 image: 'https://m.media-amazon.com/images/I/41DcOtStstL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Un clásico por excelencia que puedes combinar con todo
 - Elaborada en punto suave
+- Un clásico por excelencia que puedes combinar con todo
 - Con el logotipo Batwing de Levis en un estampado metalizado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
