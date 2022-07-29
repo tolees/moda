@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Algodón puro
 - Camiseta de cuello redondo
 - Corte estándar
+- Algodón puro
 
 [🛒 Comprar!!!]({{< param buyurl >}})
