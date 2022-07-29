@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvin Klein Chest Institutional Slim SS tee Camiseta  Blanco  Bright White 112   M para Hombre'
-date: 2022-07-27 20:25:24
+date: 2022-07-29 01:59:10
 image: 'https://m.media-amazon.com/images/I/31EQQshQ9rL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tiene el logo de Calvin Klein estampado en el pecho
-- Modelo de ajuste slim
 - Con acabado ligeramente lavado
+- Modelo de ajuste slim
+- Tiene el logo de Calvin Klein estampado en el pecho
 
 [🛒 Comprar!!!]({{< param buyurl >}})

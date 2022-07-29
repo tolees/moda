@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cuello redondo
 - Camiseta de mujer en algodón de primera calidad con cuello redondo
 - Boy fit
-- Cuello redondo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Juego de boxers de algodón cómodos
 - Cinturón y acabados extra planos
+- Juego de boxers de algodón cómodos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
