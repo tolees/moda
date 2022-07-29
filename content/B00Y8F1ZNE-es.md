@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Adecuados para cualquier atuendo
 - Tienen estilo con pierna recta
+- Vaqueros con tiro medio para hombres
 - Diseño clásico con 5 bolsillos
 - Tienen un tejido denim elástico y flexible
-- Vaqueros con tiro medio para hombres
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -29,7 +29,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Holgado en la cadera y los muslos, con pierna recta. Se asienta en la cintura
-- Twill di cotone traspirante, leggero e morbido
 - Una marca de Amazon
+- Twill di cotone traspirante, leggero e morbido
 
 [🛒 Comprar!!!]({{< param buyurl >}})

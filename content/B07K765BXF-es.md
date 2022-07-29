@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Un lienzo en blanco para la expresión propia
 - Nos hemos unido a la Better Cotton Initiative para mejorar el cultivo de algodón en todo el mundo
 - Los vaqueros azules originales desde 1873
-- Corte recto original
 - Un icono del estilo estadounidense
+- Un lienzo en blanco para la expresión propia
+- Corte recto original
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
