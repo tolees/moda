@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Ancho del zapato: normal.
-- Forro: tela.
 - Material exterior: piel.
-- Cierre: cordón.
-- Tipo de tacón: sin tacón.
 - Material de la suela: goma.
+- Tipo de tacón: sin tacón.
+- Forro: tela.
+- Cierre: cordón.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
