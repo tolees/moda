@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Camiseta diseñada para los días de relax
-- Logo de Calvin Klein estampado en el pecho
 - Cinta distintiva en el interior del cuello
+- Logo de Calvin Klein estampado en el pecho
+- Camiseta diseñada para los días de relax
 
 [🛒 Aquí!!!]({{< param buyurl >}})

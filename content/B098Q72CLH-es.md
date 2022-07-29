@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Número de marca: HM500533-5NT
-- Material: algodón
 - Hackett T-shirt Logo Azul
+- Material: algodón
 - Hackett T-shirt Logo Blau Hackett T-shirt Logo Blau in der Farbe Blau mit Passform Slim Fit wird aus Baumwolle hergestellt mit MarkenLogo und Einfarbig Design und Kurzarm es kommt aus der Sweat Kollektion Kollektion.
+- Número de marca: HM500533-5NT
 
 [🛒 Visítala!!!]({{< param buyurl >}})
