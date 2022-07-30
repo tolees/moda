@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Camisa lino
 - Reconsider: BCI & European Flax
+- Camisa lino
 - Multi rayas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

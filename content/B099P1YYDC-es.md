@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contenido: 1x Columbia Pacific Crossing Camiseta estampada para hombre, Color: Deep Marine, Csc Branded Logo, Talla: M, Art. No.: 1991063
-- Logotipo de Columbia para una apariencia alegre que inspira a la aventura al aire libre
-- Ajuste activo, Gran capa base debajo de la ropa de tejido polar, Combinable de forma versátil con otras prendas de senderismo de Columbia, Lavable a máquina
-- Camiseta de senderismo Omni-Wick, Estructura intemporal de cuello redondo en combinación con un tejido que absorbe el sudor
 - Tejido y construcción respetuosos con la actividad, ya que el sudor se evapora rápidamente sin que se note, 58% algodón / 42% poliéster reciclado
+- Ajuste activo, Gran capa base debajo de la ropa de tejido polar, Combinable de forma versátil con otras prendas de senderismo de Columbia, Lavable a máquina
+- Logotipo de Columbia para una apariencia alegre que inspira a la aventura al aire libre
+- Contenido: 1x Columbia Pacific Crossing Camiseta estampada para hombre, Color: Deep Marine, Csc Branded Logo, Talla: M, Art. No.: 1991063
+- Camiseta de senderismo Omni-Wick, Estructura intemporal de cuello redondo en combinación con un tejido que absorbe el sudor
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
