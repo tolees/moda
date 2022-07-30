@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox U SANDAL STRADA B  Sandalias Punta Cerrada  para Hombre  Marrón  Marrón C0013   43 EU'
-date: 2022-07-29 20:34:24
+date: 2022-07-30 21:06:55
 image: 'https://m.media-amazon.com/images/I/31QIICFs+fL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B07F3SC9F2/?tag=tolees-21'
 descuento: '37.48'
-average: '54.3864285714286'
+average: '54.2334482758621'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

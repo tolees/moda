@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Core18 Hoody Sudadera  Hombre  White  L'
-date: 2022-07-29 20:48:24
+date: 2022-07-30 21:20:27
 image: 'https://m.media-amazon.com/images/I/31kprK3XFNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B07XDLG46V/?tag=tolees-21'
 descuento: '35.03'
-average: '29.8094805194805'
+average: '29.7605128205128'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Kangaroo pocket
 - Regular fit
+- Kangaroo pocket
 - Hood with lanyard
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

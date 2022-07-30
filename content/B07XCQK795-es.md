@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Core18 Hoody Sudadera  Hombre  Bold Green  L'
-date: 2022-07-29 20:48:42
+date: 2022-07-30 21:20:58
 image: 'https://m.media-amazon.com/images/I/31QuoTRUn9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B07XCQK795/?tag=tolees-21'
 descuento: '35.05'
-average: '34.5973404255318'
+average: '34.5066315789472'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hood with lanyard
 - Kangaroo pocket
+- Hood with lanyard
 - Regular fit
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
