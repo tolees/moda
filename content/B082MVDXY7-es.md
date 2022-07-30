@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material de la suela: Caucho
 - Material exterior: Caucho
 - Cierre: Sin cierre
+- Material de la suela: Caucho
 - Revestimiento: Sin forro
 
 [🛒 Visítala!!!]({{< param buyurl >}})

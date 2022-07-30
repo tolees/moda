@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Proyecto reconsider: Partes del proceso del lavado se ha sustituido por ozono y cambiado los químicos utilizados, para conseguir un mayor ahorro en agua y energía.
 - Jegging
 - Pantalón vaquero
-- Proyecto reconsider: Partes del proceso del lavado se ha sustituido por ozono y cambiado los químicos utilizados, para conseguir un mayor ahorro en agua y energía.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
