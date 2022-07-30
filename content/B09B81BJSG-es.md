@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camiseta polo M/M
 - 100% algodón
+- Camiseta polo M/M
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
