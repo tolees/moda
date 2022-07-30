@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Elásticos acanalados en cuello, bajo y puños
-- Dos bolsillos frontales
 - Diseño Regular fit; que se adapta a todos los estilos
-- Sudadera con cremallera y logo bordado a contraste color Azul Marino con cuello redondo
+- Dos bolsillos frontales
+- Elásticos acanalados en cuello, bajo y puños
 - Confeccionado con un tejido 80% algodón orgánico de gran calidad y 20% Polyester Reciclado
+- Sudadera con cremallera y logo bordado a contraste color Azul Marino con cuello redondo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
