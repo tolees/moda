@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox J Aril Girl  Zapatillas  Rosa  30 EU'
-date: 2022-07-22 16:46:06
+date: 2022-07-31 14:14:55
 image: 'https://m.media-amazon.com/images/I/414CCrUW2PL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B096MY71DB/?tag=tolees-21'
 descuento: '40.00'
-average: '29.6333333333333'
+average: '28.975'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

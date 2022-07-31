@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox U DAMIANO  Zapatillas  para Hombre   Azul Marino   42 EU'
-date: 2022-07-21 22:13:41
+date: 2022-07-31 13:58:59
 image: 'https://m.media-amazon.com/images/I/41PvEn3QLLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
