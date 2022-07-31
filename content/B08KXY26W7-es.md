@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sudadera básica
-- Sudadera monocolor
-- Sudadera con material sostenible
 - Sudadera simple
+- Sudadera monocolor
 - Sudadera con cuello redondo
+- Sudadera con material sostenible
+- Sudadera básica
 
 [🛒 Visítala!!!]({{< param buyurl >}})
