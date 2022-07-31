@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sujetador con aros y sin encaje
 - Sujetador para mujer marca Triumph
+- Sujetador con aros y sin encaje
 - Modelo con copa media y tirantes ajustables
 
 [🛒 Comprar!!!]({{< param buyurl >}})
