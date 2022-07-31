@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Diseño de inspiración militar vintage
 - Empeine de cuero y ante
 - Cordones de algodón orgánico y suela exterior de goma reciclada
-- Adhesivos al agua
-- Diseño de inspiración militar vintage
 - Construcción vulcanizada para sentir mejor la tabla y la flexibilidad de la suela
+- Adhesivos al agua
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
