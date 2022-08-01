@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material exterior: Cuero
 - Revestimiento: Sintético
+- Material exterior: Cuero
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
