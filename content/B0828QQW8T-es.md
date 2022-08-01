@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Capucha con cordón ajustable
-- Bolsillo delantero tipo canguro
 - Algodón, poliéster y elastano
-- Logotipo del felino PUMA en la parte derecha del pecho
 - Manga larga
-- Tipo de fábrica: 32% poliéster, 68% algodón
 - Tipo de deporte: ropa de deportes atléticos
+- Bolsillo delantero tipo canguro
+- Capucha con cordón ajustable
+- Logotipo del felino PUMA en la parte derecha del pecho
+- Tipo de fábrica: 32% poliéster, 68% algodón
 
 [🛒 Aquí!!!]({{< param buyurl >}})

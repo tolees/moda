@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox J ADRIEL GIRL C  Sandalia.  para Niñas  Blanco  White Sky   29 EU'
-date: 2022-07-28 09:54:05
+date: 2022-08-01 19:31:34
 image: 'https://m.media-amazon.com/images/I/31PLrZtiHSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
