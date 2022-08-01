@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseño inteligente y ajustado con una composición cómoda y transpirable de materiales
 - Tallas S-XXL, cintura de 30 a 38 pulgadas
+- Diseño inteligente y ajustado con una composición cómoda y transpirable de materiales
 
 [🛒 Comprar!!!]({{< param buyurl >}})

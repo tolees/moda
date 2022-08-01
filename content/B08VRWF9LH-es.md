@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bolsillo canguro
-- Puños y dobladillo de canalé
 - Capucha con cordón ajustable
 - Felpa 70% algodón / 30% poliéster reciclado
+- Puños y dobladillo de canalé
+- Bolsillo canguro
 
 [🛒 Comprar!!!]({{< param buyurl >}})
