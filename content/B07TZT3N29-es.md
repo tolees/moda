@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers MEDITATION NEW MOON  Chanclas para Mujer  Black Mitobuck/ Smoke Rhinestone  37 EU'
-date: 2022-07-21 19:34:07
+date: 2022-08-02 00:08:06
 image: 'https://m.media-amazon.com/images/I/31s-ki3yp+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
