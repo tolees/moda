@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geographical Norway - PARKA DE MUJER BOOMERA BLANCO M'
-date: 2022-07-31 15:59:10
+date: 2022-08-02 17:05:45
 image: 'https://m.media-amazon.com/images/I/41NWjXUfoZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08QD66JPK-es Geographical Norway - PARKA DE MUJER BOOMERA BLANCO M'
 sku: 'B08QD66JPK-es'
 tags: [ 'Abrigos para mujer','Ropa','Ropa de abrigo para mujer','Ropa para mujer','geographical norway','parka','🇪🇸', ]
-actualPrice: 44.54 EUR
+actualPrice: 42.31 EUR
 currency: EUR
-price: 44.54
+price: 42.31
 comparePrice: 99.0 EUR
 prodname: 'Geographical Norway - PARKA DE MUJER BOOMERA BLANCO M'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Geographical Norway'
 buyurl: 'https://www.amazon.es/dp/B08QD66JPK/?tag=tolees-21'
-descuento: '55.01'
-average: '49.4'
+descuento: '57.26'
+average: '47.0366666666667'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Impermeable
 - Tipo canguro
 - Capucha fija y pelo sintético desmontable
 - Cordones ajustables en la cintura
+- Impermeable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
