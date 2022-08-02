@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camiseta para practicar Tiempo libre y sportwear de Hombre
-- Tipo de deporte: lifestyle
-- Los productos deportivos de la marca le Coq Sportif están diseñados para que disfrutes de tu deporte favorito sin preocuparte de nada más que rendir al máximo
-- Camiseta Ess Tee Ss N°3 M black
 - Ropa deportiva Negro de la marca le Coq Sportif
+- Los productos deportivos de la marca le Coq Sportif están diseñados para que disfrutes de tu deporte favorito sin preocuparte de nada más que rendir al máximo
+- Tipo de deporte: lifestyle
+- Camiseta para practicar Tiempo libre y sportwear de Hombre
 - Ropa deportiva fabricada con materiales de primera calidad que se adaptan a cualquier actividad deportiva
+- Camiseta Ess Tee Ss N°3 M black
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
