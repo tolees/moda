@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El aspecto único de esta prenda es el deseado. Puede cambiar tras su uso y los lavados. Sigue las instrucciones de cuidado
 - Confección en 100 % poliéster reciclado
-- El tinte puede manchar otras prendas, la tapicería o la piel. Lávala por separado o con colores oscuros
-- Una prenda supersuave con cuello redondo clásico que combina bien con todo
 - Con parche con el logotipo de Levis en el pecho
+- El tinte puede manchar otras prendas, la tapicería o la piel. Lávala por separado o con colores oscuros
+- El aspecto único de esta prenda es el deseado. Puede cambiar tras su uso y los lavados. Sigue las instrucciones de cuidado
+- Una prenda supersuave con cuello redondo clásico que combina bien con todo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
