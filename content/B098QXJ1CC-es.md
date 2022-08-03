@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Teñido en prenda para ofrecer la suave comodidad de las prendas usadas
-- Confeccionada con un corte relajado y más holgado
 - Una versión moderna de la camiseta clásica
 - Elaborada en punto suave
+- Teñido en prenda para ofrecer la suave comodidad de las prendas usadas
+- Confeccionada con un corte relajado y más holgado
 - Con un parche de chenilla con el logotipo Box Tab
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
