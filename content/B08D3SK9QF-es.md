@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ajuste: ajustado
 - Solo para uso externo
+- Ajuste: ajustado
 
 [🛒 Comprar!!!]({{< param buyurl >}})

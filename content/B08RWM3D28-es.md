@@ -1,23 +1,23 @@
 ---
 layout: post
-title: 'Pikolinos Sandalias Y Zuecos Altea W7n para Señora Color Honey'
-date: 2022-08-02 23:04:41
-image: 'https://m.media-amazon.com/images/I/41Xzo1ZUsvL._SL500_._SL400_.jpg'
+title: 'Pikolinos Sandalias Y Zuecos Altea W7n para Señora Color Nata'
+date: 2022-08-02 22:45:00
+image: 'https://m.media-amazon.com/images/I/41KVstYTJcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B08RWXTKLC-es Pikolinos Sandalias Y Zuecos Altea W7n para Señora Color...'
-sku: 'B08RWXTKLC-es'
+slug: 'B08RWM3D28-es Pikolinos Sandalias Y Zuecos Altea W7n para Señora Color Nata'
+sku: 'B08RWM3D28-es'
 tags: [ 'Zapatos','Zapatos para mujer','Zapatos y complementos','Zuecos de mujer','Zuecos y mules de mujer','pikolinos','sandalias','zuecos','🇪🇸', ]
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95
 comparePrice: 99.95 EUR
-prodname: 'Pikolinos Sandalias Y Zuecos Altea W7n para Señora Color Honey'
+prodname: 'Pikolinos Sandalias Y Zuecos Altea W7n para Señora Color Nata'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Pikolinos'
-buyurl: 'https://www.amazon.es/dp/B08RWXTKLC/?tag=tolees-21'
+buyurl: 'https://www.amazon.es/dp/B08RWM3D28/?tag=tolees-21'
 descuento: '50.03'
 average: '49.95'
 ---

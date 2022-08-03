@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox UOMO SANDAL STRADA  Sandalia.  para Hombre   Azul Marino   43 EU'
-date: 2022-07-31 23:40:46
+date: 2022-08-02 22:11:38
 image: 'https://m.media-amazon.com/images/I/41fzVAeDAsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B096NSJVQB-es Geox UOMO SANDAL STRADA Sandalia. para Hombre Azul Marino...'
 sku: 'B096NSJVQB-es'
 tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','geox','🇪🇸', ]
-actualPrice: 45.96 EUR
+actualPrice: 45.56 EUR
 currency: EUR
-price: 45.96
+price: 45.56
 comparePrice: 69.9 EUR
 prodname: 'Geox UOMO SANDAL STRADA  Sandalia.  para Hombre   Azul Marino   43 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B096NSJVQB/?tag=tolees-21'
-descuento: '34.25'
-average: '45.96'
+descuento: '34.82'
+average: '45.76'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
