@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material de la suela resistente y duradero
 - Diseño ligero y flexible que ofrece comodidad
+- Material de la suela resistente y duradero
 
 [🛒 Aquí!!!]({{< param buyurl >}})
