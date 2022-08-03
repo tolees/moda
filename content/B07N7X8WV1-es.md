@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Oakley 0OO9406 Gafas de Sol  Sky  40 para Hombre'
-date: 2022-07-29 17:36:13
+date: 2022-08-03 11:50:51
 image: 'https://m.media-amazon.com/images/I/31pq0FBd5nL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto de la marca OAKLEY
 - Prizm
+- Producto de la marca OAKLEY
 - Modelo del producto 0OO9406
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

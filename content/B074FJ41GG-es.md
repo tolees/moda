@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Crocs Crocband Flip  Zapatos de Playa y Piscina Unisex Adulto  Azul  Navy 002   46/47 EU'
-date: 2022-07-25 09:32:33
+date: 2022-08-03 12:02:50
 image: 'https://m.media-amazon.com/images/I/31sePidmevL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Crocs'
 buyurl: 'https://www.amazon.es/dp/B074FJ41GG/?tag=tolees-21'
 descuento: '36.65'
-average: '18.5725'
+average: '18.658'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
