@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s LS Original HM tee Mineral Black Camisa de Manga Larga  M para Hombre'
-date: 2022-08-02 02:59:01
+date: 2022-08-03 22:52:05
 image: 'https://m.media-amazon.com/images/I/31r3GvVcpGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07LF8RGSQ/?tag=tolees-21'
 descuento: '50.00'
-average: '20.4725581395349'
+average: '20.405'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

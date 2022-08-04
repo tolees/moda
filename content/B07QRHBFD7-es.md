@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TcIFE Bolsos de Mujer Bolso Hombro Bolso Bandolera Bolso Señoras Tote 3pcs Set'
-date: 2022-08-02 08:22:34
+date: 2022-08-03 23:01:55
 image: 'https://m.media-amazon.com/images/I/51N3odQW55L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TcIFE'
 buyurl: 'https://www.amazon.es/dp/B07QRHBFD7/?tag=tolees-21'
 descuento: '23.72'
-average: '28.365'
+average: '28.8233333333333'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
