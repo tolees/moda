@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Camisa manga corta
 - Algodón
+- Camisa manga corta
 - Básica
 
 [🛒 Comprar!!!]({{< param buyurl >}})
