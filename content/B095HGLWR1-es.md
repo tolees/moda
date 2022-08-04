@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Logotipo grande clásico impreso en el pecho
 - Corte regular
+- Logotipo grande clásico impreso en el pecho
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

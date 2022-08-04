@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corte regular
 - Logotipo grande clásico impreso en el pecho
+- Corte regular
 
 [🛒 Comprar!!!]({{< param buyurl >}})
