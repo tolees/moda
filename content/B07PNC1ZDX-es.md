@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Only Onlmay Life S/S Dress Noos Vestido  Multicolor  Night Sky Stripes/Primo Stripe Cloud Dancer   XL para Mujer'
-date: 2022-07-26 18:01:46
+date: 2022-08-05 12:03:22
 image: 'https://m.media-amazon.com/images/I/41VvXglx-EL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Only'
 buyurl: 'https://www.amazon.es/dp/B07PNC1ZDX/?tag=tolees-21'
 descuento: '30.02'
-average: '9.87'
+average: '9.74'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
