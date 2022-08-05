@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cómodo
-- Estampado
-- algodón
 - Camiseta
+- algodón
+- Estampado
+- Cómodo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
