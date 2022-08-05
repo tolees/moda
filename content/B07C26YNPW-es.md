@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvin Klein Chest Institutional Slim SS tee Camiseta  Gris  Grey Heather 039   M para Hombre'
-date: 2022-07-30 10:13:14
+date: 2022-08-05 17:42:14
 image: 'https://m.media-amazon.com/images/I/41LnDxrBrPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Calvin Klein'
 buyurl: 'https://www.amazon.es/dp/B07C26YNPW/?tag=tolees-21'
 descuento: '53.18'
-average: '17.05'
+average: '16.2875'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

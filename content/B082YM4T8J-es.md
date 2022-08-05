@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Superdry Cl NS Hood Sudadera con Capucha  Optic  M para Hombre'
-date: 2022-08-01 08:59:46
+date: 2022-08-05 18:04:16
 image: 'https://m.media-amazon.com/images/I/31lo161PgjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B082YM4T8J-es Superdry Cl NS Hood Sudadera con Capucha Optic M para Hombre'
 sku: 'B082YM4T8J-es'
 tags: [ 'Jerséis, cárdigans y sudaderas para hombre','Ropa','Ropa para hombre','Sudaderas con capucha para hombre','Sudaderas para hombre','sudadera','superdry','🇪🇸', ]
-actualPrice: 44.48 EUR
+actualPrice: 50.29 EUR
 currency: EUR
-price: 44.48
+price: 50.29
 comparePrice: 79.99 EUR
 prodname: 'Superdry Cl NS Hood Sudadera con Capucha  Optic  M para Hombre'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Superdry'
 buyurl: 'https://www.amazon.es/dp/B082YM4T8J/?tag=tolees-21'
-descuento: '44.39'
-average: '44.48'
+descuento: '37.13'
+average: '45.1255555555556'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
