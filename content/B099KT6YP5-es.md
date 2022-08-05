@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Columbia Ulica Chaqueta para lluvia de mujer'
-date: 2022-08-01 11:01:08
+date: 2022-08-05 20:09:01
 image: 'https://m.media-amazon.com/images/I/41OzSIKkRlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,6 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Detalles distintivos de la marca
-- Material de calidad
-- Ofrece comodidad y libertad de movimiento
-- Adecuado para el uso diario
+- Zippered hand pockets.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
