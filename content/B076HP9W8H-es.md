@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas CORE18 tee Camiseta de Manga Corta  Hombre  Black/White  2XL'
-date: 2022-08-01 13:53:57
+date: 2022-08-04 23:10:08
 image: 'https://m.media-amazon.com/images/I/315HBC3ffAS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076HP9W8H/?tag=tolees-21'
 descuento: '25.25'
-average: '15.6946351931329'
+average: '15.6914529914528'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tejido antihumedad Climalite
+- Logotipo de Adidas en la parte delantera
 - El diseño otorga libertad a los movimientos
 - Ajuste regular
-- Logotipo de Adidas en la parte delantera
+- Tejido antihumedad Climalite
 
 [🛒 Aquí!!!]({{< param buyurl >}})
