@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pepe Jeans Original Stretch Camiseta para Hombre  Negro  Black 999   Large'
-date: 2022-07-29 12:57:43
+date: 2022-08-05 08:01:28
 image: 'https://m.media-amazon.com/images/I/31VfU9o3sTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pepe Jeans'
 buyurl: 'https://www.amazon.es/dp/B00BN5NLRU/?tag=tolees-21'
 descuento: '40.00'
-average: '15.9833333333333'
+average: '15.7375'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
