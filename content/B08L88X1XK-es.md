@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Packable Circular Jacket  Chaqueta para Hombre  Negro  Black   S'
-date: 2022-08-04 10:14:43
+date: 2022-08-06 14:47:55
 image: 'https://m.media-amazon.com/images/I/41uNTvjjSTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Este es un producto producido de forma sostenible hecho de materiales sostenibles
 - Este es un producto auténtico y original de Tommy Hilfiger
+- Este es un producto producido de forma sostenible hecho de materiales sostenibles
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
