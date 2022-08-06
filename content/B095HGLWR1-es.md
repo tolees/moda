@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Champion American Classics Big Logo S/S  Camiseta  para Mujer  Negro  M'
-date: 2022-08-04 17:55:16
+date: 2022-08-06 09:33:45
 image: 'https://m.media-amazon.com/images/I/31CIMcspATL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
