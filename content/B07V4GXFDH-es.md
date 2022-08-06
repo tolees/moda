@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox D BLOMIEE A  Zapatillas  para Mujer  Dorado  Lt Gold   35 EU'
-date: 2022-07-22 22:47:02
+date: 2022-08-06 03:04:38
 image: 'https://m.media-amazon.com/images/I/31ZqzmCqm6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B07V4GXFDH/?tag=tolees-21'
 descuento: '43.74'
-average: '30.8344999999999'
+average: '31.5066666666666'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
