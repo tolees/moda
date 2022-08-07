@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Columbia Delta Ridge Chaqueta de plumas con capucha para hombre'
-date: 2022-07-29 15:40:35
+date: 2022-08-07 16:57:08
 image: 'https://m.media-amazon.com/images/I/41qUZTMxU6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07RC8DQLP-es Columbia Delta Ridge Chaqueta de plumas con capucha para...'
 sku: 'B07RC8DQLP-es'
 tags: [ 'Chaquetas de acampada y marcha para hombre','Chaquetas de pluma para acampada y marcha para hombre','Ropa','Ropa de acampada','Ropa de acampada para hombre','Ropa específica deportiva','chaqueta','columbia','🇪🇸', ]
-actualPrice: 118.66 EUR
+actualPrice: 119.7 EUR
 currency: EUR
-price: 118.66
-comparePrice: 169.99 EUR
+price: 119.7
+comparePrice: 180.0 EUR
 prodname: 'Columbia Delta Ridge Chaqueta de plumas con capucha para hombre'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Columbia'
 buyurl: 'https://www.amazon.es/dp/B07RC8DQLP/?tag=tolees-21'
-descuento: '30.20'
-average: '118.66'
+descuento: '33.50'
+average: '119.18'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
