@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Camiseta de Manga Corta  diseño con Logotipo de Jjecorp  Blanco. Detalles: Play  Slim  XXL para Hombre'
-date: 2022-08-06 06:41:01
+date: 2022-08-08 12:59:21
 image: 'https://m.media-amazon.com/images/I/31sbedy7JWS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B08JH147MG/?tag=tolees-21'
 descuento: '20.32'
-average: '10.6242857142857'
+average: '10.59'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

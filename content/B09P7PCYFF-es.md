@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cuaderno de bocetos de moda infantil para estilista.: Cuaderno de estilista  siluetas de maniquíes para dibujar moda como un estilista  Perfecto para diseñadores de moda 100 páginas. 8.5*11 inch'
-date: 2022-08-07 07:21:35
+date: 2022-08-08 13:13:49
 image: 'https://m.media-amazon.com/images/I/41F31HPM8xL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
