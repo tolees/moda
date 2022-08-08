@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox Sneakers U25DW  Zapatillas Hombre  Navy  40 EU'
-date: 2022-08-05 04:00:20
+date: 2022-08-08 00:36:18
 image: 'https://m.media-amazon.com/images/I/31If6LKZvmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B096MXBJHF-es Geox Sneakers U25DW Zapatillas Hombre Navy 40 EU'
 sku: 'B096MXBJHF-es'
 tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','geox','🇪🇸', ]
-actualPrice: 28.23 EUR
+actualPrice: 25.48 EUR
 currency: EUR
-price: 28.23
+price: 25.48
 comparePrice: 89.9 EUR
 prodname: 'Geox Sneakers U25DW  Zapatillas Hombre  Navy  40 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B096MXBJHF/?tag=tolees-21'
-descuento: '68.60'
-average: '29.645'
+descuento: '71.66'
+average: '28.2566666666667'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

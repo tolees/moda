@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones JCOLOGAN tee SS Crew Noos Camiseta  Blanco  L para Hombre'
-date: 2022-08-05 11:55:01
+date: 2022-08-08 01:54:04
 image: 'https://m.media-amazon.com/images/I/41ybQ7sdoML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B098TKRL32/?tag=tolees-21'
 descuento: '16.09'
-average: '10.096'
+average: '10.3257142857143'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,7 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Algodón
+- Composición: 100% algodón
+- Impresión de una gruesa capa de goma
 - Camiseta
+- Jersey con tacto suave
 
 [🛒 Visítala!!!]({{< param buyurl >}})
