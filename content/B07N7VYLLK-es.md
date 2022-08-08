@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Oakley 0OO9406 Gafas de Sol  Matte White  40 para Hombre'
-date: 2022-08-04 09:22:04
+date: 2022-08-08 17:10:21
 image: 'https://m.media-amazon.com/images/I/21CwR3RsoHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Producto de alta calidad
-- Marca del producto es OAKLEY
 - Prizm
+- Marca del producto es OAKLEY
+- Producto de alta calidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})
