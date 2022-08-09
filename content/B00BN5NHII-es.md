@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pepe Jeans Original Stretch N  Camiseta Hombre  Azul  595azul Marino   L'
-date: 2022-08-03 11:49:44
+date: 2022-08-09 15:24:36
 image: 'https://m.media-amazon.com/images/I/319MCmYtpWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pepe Jeans'
 buyurl: 'https://www.amazon.es/dp/B00BN5NHII/?tag=tolees-21'
 descuento: '40.00'
-average: '15.8721428571429'
+average: '15.814'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
