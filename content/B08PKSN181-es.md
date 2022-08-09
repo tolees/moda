@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GEOX Woman D AERANTIS 4X4 B ABX BOOT TOBACCO 35 EU'
-date: 2022-07-27 02:12:26
+date: 2022-08-09 17:39:14
 image: 'https://m.media-amazon.com/images/I/41+cFOUEG4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08PKSN181-es GEOX Woman D AERANTIS 4X4 B ABX BOOT TOBACCO 35 EU'
 sku: 'B08PKSN181-es'
 tags: [ 'Botas para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','geox','🇪🇸', ]
-actualPrice: 35.56 EUR
+actualPrice: 23.0 EUR
 currency: EUR
-price: 35.56
+price: 23.0
 comparePrice: 149.9 EUR
 prodname: 'GEOX Woman D AERANTIS 4X4 B ABX BOOT TOBACCO 35 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B08PKSN181/?tag=tolees-21'
-descuento: '76.28'
-average: '34.4'
+descuento: '84.66'
+average: '30.6'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

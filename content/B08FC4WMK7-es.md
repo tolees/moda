@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Producto con diseño clásico y estilo para todos los días
 - Modelo con cuello de pico
 - Parche con el logo de Tommy Jeans en el pecho
-- Producto con diseño clásico y estilo para todos los días
 
 [🛒 Visítala!!!]({{< param buyurl >}})
