@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvin Klein Jeans HR Mini Skirt Falda  Denim Light  28W para Mujer'
-date: 2022-08-04 16:53:40
+date: 2022-08-09 07:25:46
 image: 'https://m.media-amazon.com/images/I/41005ItnXdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

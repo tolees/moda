@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Pepe Jeans Original Stretch Camiseta para Hombre  Gris  Grey Marl 933   Small'
-date: 2022-08-07 19:43:15
-image: 'https://m.media-amazon.com/images/I/315MWaFUVKL._SL500_._SL400_.jpg'
+date: 2022-08-09 07:11:08
+image: 'https://m.media-amazon.com/images/I/312Y8XMt0GL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pepe Jeans'
 buyurl: 'https://www.amazon.es/dp/B00BN5NKQC/?tag=tolees-21'
 descuento: '23.28'
-average: '15.13875'
+average: '15.5877777777778'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

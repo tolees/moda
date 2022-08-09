@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pepe Jeans Original Stretch N Camiseta  836stone  XXL para Hombre'
-date: 2022-08-07 19:44:04
+date: 2022-08-09 07:09:18
 image: 'https://m.media-amazon.com/images/I/31pcVeZuYPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Estilo informal
 - Slim Fit
+- Estilo informal
 
 [🛒 Aquí!!!]({{< param buyurl >}})
