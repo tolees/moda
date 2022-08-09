@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cordón metálico con logotipo
-- Logotipo impreso en bandas jacquard laterales
 - Bolsillo tipo canguro
+- Logotipo impreso en bandas jacquard laterales
 - Logotipo pequeño clásico impreso en el pecho
+- Cordón metálico con logotipo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
