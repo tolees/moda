@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pepe Jeans Eggo Long Camiseta Manga Larga  Navy  S para Hombre'
-date: 2022-08-06 06:44:10
+date: 2022-08-09 01:13:12
 image: 'https://m.media-amazon.com/images/I/31iiXCslMVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pepe Jeans'
 buyurl: 'https://www.amazon.es/dp/B00EZ5IYUY/?tag=tolees-21'
 descuento: '30.10'
-average: '24.3341304347827'
+average: '24.1910416666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
