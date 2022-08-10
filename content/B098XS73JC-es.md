@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Jack & Jones JCOLOGAN tee SS Crew Noos Camiseta  Negro  M para Hombre'
-date: 2022-08-10 05:28:12
-image: 'https://m.media-amazon.com/images/I/31so4mzweeL._SL500_._SL400_.jpg'
+title: 'Jack & Jones JCOLOGAN tee SS Crew Noos Camiseta  Marino  M para Hombre'
+date: 2022-08-10 05:29:12
+image: 'https://m.media-amazon.com/images/I/41R0fJzGNJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B098XSKNPR-es Jack & Jones JCOLOGAN tee SS Crew Noos Camiseta Negro M...'
-sku: 'B098XSKNPR-es'
+slug: 'B098XS73JC-es Jack & Jones JCOLOGAN tee SS Crew Noos Camiseta Marino M...'
+sku: 'B098XS73JC-es'
 tags: [ 'Camisetas para hombre','Camisetas, polos y camisas para hombre','Ropa','Ropa para hombre','camiseta','jack & jones','🇪🇸', ]
-actualPrice: 9.1 EUR
+actualPrice: 10.99 EUR
 currency: EUR
-price: 9.1
+price: 10.99
 comparePrice: 12.99 EUR
-prodname: 'Jack & Jones JCOLOGAN tee SS Crew Noos Camiseta  Negro  M para Hombre'
+prodname: 'Jack & Jones JCOLOGAN tee SS Crew Noos Camiseta  Marino  M para Hombre'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Jack & Jones'
-buyurl: 'https://www.amazon.es/dp/B098XSKNPR/?tag=tolees-21'
-descuento: '29.95'
-average: '9.21142857142857'
+buyurl: 'https://www.amazon.es/dp/B098XS73JC/?tag=tolees-21'
+descuento: '15.40'
+average: '10.99'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

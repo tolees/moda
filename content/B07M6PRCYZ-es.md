@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dibujo Pill Pattern de marca registrada por DC
 - Parte superior en cuero sintético
+- Dibujo Pill Pattern de marca registrada por DC
 - EVA que proporciona confort y durabilidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

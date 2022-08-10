@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Joma Chandal Academy Chaqueta  Hombres  Verde-Negro  L'
-date: 2022-08-09 01:12:16
+date: 2022-08-10 05:28:32
 image: 'https://m.media-amazon.com/images/I/31o6nYeyMwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Joma'
 buyurl: 'https://www.amazon.es/dp/B07FL18CRP/?tag=tolees-21'
 descuento: '24.81'
-average: '25.6361538461538'
+average: '25.63'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

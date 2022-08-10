@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Crew Neck
 - Estilo informal
+- Crew Neck
 
 [🛒 Comprar!!!]({{< param buyurl >}})
