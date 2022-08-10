@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Superdry Cl NS Hood Sudadera con Capucha  Optic  M para Hombre'
-date: 2022-08-05 18:04:16
+date: 2022-08-10 09:44:43
 image: 'https://m.media-amazon.com/images/I/31lo161PgjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Superdry'
 buyurl: 'https://www.amazon.es/dp/B082YM4T8J/?tag=tolees-21'
 descuento: '37.13'
-average: '45.1255555555556'
+average: '45.642'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
