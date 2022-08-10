@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material de la suela: Goma
-- Cierre: Velcro
-- Tipo de tacón: Plano
-- Revestimiento: Malla
 - Material exterior: Sintético
+- Tipo de tacón: Plano
+- Material de la suela: Goma
+- Revestimiento: Malla
+- Cierre: Velcro
 
 [🛒 Visítala!!!]({{< param buyurl >}})
