@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox Strada U  Sandalias Punta Cerrada  para Hombre  Gris  Taupe/Black C6088   43 EU'
-date: 2022-08-08 12:58:25
+date: 2022-08-10 11:41:22
 image: 'https://m.media-amazon.com/images/I/31AEpNDhKJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07SVPQ3J5-es Geox Strada U Sandalias Punta Cerrada para Hombre Gris...'
 sku: 'B07SVPQ3J5-es'
 tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','geox','sandalias','🇪🇸', ]
-actualPrice: 61.15 EUR
+actualPrice: 63.07 EUR
 currency: EUR
-price: 61.15
+price: 63.07
 comparePrice: 79.9 EUR
 prodname: 'Geox Strada U  Sandalias Punta Cerrada  para Hombre  Gris  Taupe/Black C6088   43 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B07SVPQ3J5/?tag=tolees-21'
-descuento: '23.47'
-average: '64.7184615384615'
+descuento: '21.06'
+average: '64.6007142857142'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

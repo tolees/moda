@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clarks Batcombe Wing  Zapatos de Cordones Derby Hombre  Negro  Black Leather   42 EU'
-date: 2022-08-09 01:07:48
+date: 2022-08-10 11:39:52
 image: 'https://m.media-amazon.com/images/I/41e0MuPoRhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B071G5HXV9-es Clarks Batcombe Wing Zapatos de Cordones Derby Hombre...'
 sku: 'B071G5HXV9-es'
 tags: [ 'Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','clarks','zapatos','🇪🇸', ]
-actualPrice: 73.09 EUR
+actualPrice: 71.05 EUR
 currency: EUR
-price: 73.09
+price: 71.05
 comparePrice: 110.0 EUR
 prodname: 'Clarks Batcombe Wing  Zapatos de Cordones Derby Hombre  Negro  Black Leather   42 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Clarks'
 buyurl: 'https://www.amazon.es/dp/B071G5HXV9/?tag=tolees-21'
-descuento: '33.55'
-average: '63.6966666666667'
+descuento: '35.41'
+average: '64.432'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
