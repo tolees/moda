@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Puños y dobladillo con canalé
-- Felpa francesa, 80 % Algodón, 20 % Poliéster
 - Capucha con cordón
+- Felpa francesa, 80 % Algodón, 20 % Poliéster
 - Cuenta con un bolsillo canguro
+- Puños y dobladillo con canalé
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
