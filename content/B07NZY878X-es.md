@@ -29,7 +29,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - estilo: Delson
-- material exterior: Otros cuero
 - Tipo de cierre: con cordones
+- material exterior: Otros cuero
 
 [🛒 Aquí!!!]({{< param buyurl >}})
