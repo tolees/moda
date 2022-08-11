@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pepe Jeans Original Stretch Camiseta para Hombre  Azul  Navy 595   Small'
-date: 2022-08-09 07:10:31
+date: 2022-08-11 15:53:57
 image: 'https://m.media-amazon.com/images/I/41r+HUn2QFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pepe Jeans'
 buyurl: 'https://www.amazon.es/dp/B00BN5NHHE/?tag=tolees-21'
 descuento: '40.00'
-average: '15.6175'
+average: '15.5488888888889'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
