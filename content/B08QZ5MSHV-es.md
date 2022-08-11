@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camisa para hombre en tallas grandes con un cuello
 - Camisa a cuadros para hombre con mangas largas y tira de botones
+- Camisa para hombre en tallas grandes con un cuello
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
