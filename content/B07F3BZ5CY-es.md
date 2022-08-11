@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox Uomo Sandal Strada D  Sandalias con Punta Abierta  para Hombre  Marrón  Marrón/Sand C0705   41 EU'
-date: 2022-08-09 14:52:34
+date: 2022-08-11 08:35:13
 image: 'https://m.media-amazon.com/images/I/314cowKfxgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07F3BZ5CY-es Geox Uomo Sandal Strada D Sandalias con Punta Abierta para...'
 sku: 'B07F3BZ5CY-es'
 tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','geox','sandalias','🇪🇸', ]
-actualPrice: 59.0 EUR
+actualPrice: 56.43 EUR
 currency: EUR
-price: 59.0
+price: 56.43
 comparePrice: 69.9 EUR
 prodname: 'Geox Uomo Sandal Strada D  Sandalias con Punta Abierta  para Hombre  Marrón  Marrón/Sand C0705   41 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B07F3BZ5CY/?tag=tolees-21'
-descuento: '15.59'
-average: '64.8210526315789'
+descuento: '19.27'
+average: '64.4015'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

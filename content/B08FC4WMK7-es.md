@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Tjw Slim Jersey V Neck Camiseta  Negro  Black   XS para Mujer'
-date: 2022-08-09 16:38:36
+date: 2022-08-11 07:31:04
 image: 'https://m.media-amazon.com/images/I/41D-ZJK8uoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Producto con diseño clásico y estilo para todos los días
 - Modelo con cuello de pico
 - Parche con el logo de Tommy Jeans en el pecho
+- Producto con diseño clásico y estilo para todos los días
 
 [🛒 Visítala!!!]({{< param buyurl >}})
