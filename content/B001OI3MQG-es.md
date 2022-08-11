@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tipo de tacón plano
-- plantilla extraíble - falsa
-- Para chancletas Havaianas , siempre debes considerar que la talla BR = talla EU
-- plantilla sintética
-- parte superior de goma
-- Talla: se ajusta a la verdad
-- forro sintético
 - Material de la suela: goma
+- forro sintético
+- plantilla sintética
+- Talla: se ajusta a la verdad
+- Tipo de tacón plano
+- Para chancletas Havaianas , siempre debes considerar que la talla BR = talla EU
+- plantilla extraíble - falsa
+- parte superior de goma
 
 [🛒 Aquí!!!]({{< param buyurl >}})
