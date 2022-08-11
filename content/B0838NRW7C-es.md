@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Chaqueta bomber clásica.
 - Composición del material: material exterior: 100% poliéster; forro: 100% poliéster.
 - Dobladillo, puños y cuello acanalados.
+- Chaqueta bomber clásica.
 - Bolsillos con cremallera para todas tus cosas.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

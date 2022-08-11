@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello redondo.
 - 100% algodón.
+- Instrucciones de cuidado: lavar a máquina en frío (30 ° máx.).
+- Cuello redondo.
 - Logotipo impreso en la parte delantera.
 - Corte ajustado.
-- Instrucciones de cuidado: lavar a máquina en frío (30 ° máx.).
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
