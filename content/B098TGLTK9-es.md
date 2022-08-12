@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con capucha
 - Cordón
+- Con capucha
 
 [🛒 Comprar!!!]({{< param buyurl >}})
