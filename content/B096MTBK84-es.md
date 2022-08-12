@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox D SANDAL VEGA  Sandalia  para Mujer  Negro  Black   39 EU'
-date: 2022-08-10 10:03:02
+date: 2022-08-12 14:11:33
 image: 'https://m.media-amazon.com/images/I/41-OFgjf1RL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
