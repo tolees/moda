@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox D BRIONIA F  Sandalia  para Mujer  Blanco  35 EU'
-date: 2022-07-30 08:42:58
+date: 2022-08-11 23:09:19
 image: 'https://m.media-amazon.com/images/I/21CyOGDL6aL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B08BLBZJYN/?tag=tolees-21'
 descuento: '50.00'
-average: '32.955'
+average: '32.354'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
