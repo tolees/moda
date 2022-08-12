@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ray-Ban - Ray Ban RB3386  Gafas de Sol Unisex  Gris  gris  verde 004/71   Large  Talla del fabricante: 63 '
-date: 2022-07-29 21:36:58
+date: 2022-08-12 21:48:46
 image: 'https://m.media-amazon.com/images/I/31JoFiEBrxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ray-Ban'
 buyurl: 'https://www.amazon.es/dp/B0017MK1KY/?tag=tolees-21'
 descuento: '33.12'
-average: '102.446666666667'
+average: '103.085'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
