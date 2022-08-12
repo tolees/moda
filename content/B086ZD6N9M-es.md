@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Hecho de jersey suave para comodidad casual durante todo el día
+- Cinta de hombro rápida
 - Mangas largas
 - La camiseta atemporal con el logotipo de Levis Housemark en la parte delantera
-- Cinta de hombro rápida
+- Hecho de jersey suave para comodidad casual durante todo el día
 
 [🛒 Comprar!!!]({{< param buyurl >}})

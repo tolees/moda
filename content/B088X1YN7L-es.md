@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Instrucciones de cuidado: Lavar a máquina
-- Media cremallera
 - Tipo de fábrica: Compuesto
-- Logo de la marca
-- Capucha ajustable
 - Diseño deportivo
+- Capucha ajustable
+- Media cremallera
+- Logo de la marca
 
 [🛒 Visítala!!!]({{< param buyurl >}})
