@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Timberland Davis Square F/L Ox Sneaker Basic  Sneakers Hombre  Marrón  Taupe Nubuck   42 EU'
-date: 2022-08-07 15:48:06
+date: 2022-08-12 07:56:35
 image: 'https://m.media-amazon.com/images/I/31y-q4zM9VL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B097T82ZDT-es Timberland Davis Square F/L Ox Sneaker Basic Sneakers...'
 sku: 'B097T82ZDT-es'
 tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','timberland','🇪🇸', ]
-actualPrice: 45.79 EUR
+actualPrice: 47.99 EUR
 currency: EUR
-price: 45.79
+price: 47.99
 comparePrice: 90.0 EUR
 prodname: 'Timberland Davis Square F/L Ox Sneaker Basic  Sneakers Hombre  Marrón  Taupe Nubuck   42 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Timberland'
 buyurl: 'https://www.amazon.es/dp/B097T82ZDT/?tag=tolees-21'
-descuento: '49.12'
-average: '52.43'
+descuento: '46.68'
+average: '51.32'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
