@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Springfield Polo Manga Corta Rayas Camiseta  Estampado Fondo Blanco  S para Hombre'
-date: 2022-08-10 13:05:03
+date: 2022-08-12 09:21:08
 image: 'https://m.media-amazon.com/images/I/41iHHwOmZ7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Reconsider: Algodón BCI
 - Polo manga corta
+- Reconsider: Algodón BCI
 - Rayas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
