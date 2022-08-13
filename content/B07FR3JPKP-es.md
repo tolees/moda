@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clarks Step Urban Mix  Zapatos de Cordones Derby Hombre  Azul  Navy-   40 EU'
-date: 2022-08-04 07:26:01
+date: 2022-08-13 08:01:47
 image: 'https://m.media-amazon.com/images/I/31D9fCNMsyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Clarks'
 buyurl: 'https://www.amazon.es/dp/B07FR3JPKP/?tag=tolees-21'
 descuento: '60.04'
-average: '32.6166666666667'
+average: '32.15'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
