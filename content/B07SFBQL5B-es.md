@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Altamente transpirable
 - Resistente al viento
-- Ligero
 - Tejido impermeable
 - Tejido HELLY TECH Performance
+- Altamente transpirable
+- Ligero
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
