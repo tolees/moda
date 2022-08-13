@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ray-Ban Clubmaster RB3016 W0365 - Gafas de sol para hombre  Negro  Ebony/Arista W0365   51'
-date: 2022-08-03 19:11:41
+date: 2022-08-13 19:35:42
 image: 'https://m.media-amazon.com/images/I/31SIZrjry7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ray-Ban'
 buyurl: 'https://www.amazon.es/dp/B002Q5NC8Y/?tag=tolees-21'
 descuento: '33.45'
-average: '96.2973913043479'
+average: '96.2225000000001'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

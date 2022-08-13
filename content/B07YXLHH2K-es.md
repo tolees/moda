@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Under Armour 1356318-001 XS  Sudadera Women s  Black  XS'
-date: 2022-08-12 17:50:19
+date: 2022-08-13 20:16:11
 image: 'https://m.media-amazon.com/images/I/31yiuqgBY1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 80% Algodón - 20% Poliéster
 - características: Logotipo aplicado - Cinturilla ancha - Cintura acanalada - Puño elástico - Cinturilla elástica - Estampado de gran tamaño - con capucha integrada - Bolsa canguro - Mangas raglán - Escote redondo - Cordones de apriete exteriores
+- 80% Algodón - 20% Poliéster
 - Mujeres - Sudadera con capucha
 
 [🛒 Visítala!!!]({{< param buyurl >}})
