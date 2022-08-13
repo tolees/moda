@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material de la suela: Goma
 - 47/48 EU (45/46 Brazilian)
-- Tipo de tacón: Plano
-- Composición: Goma
-- Anchura del zapato: Normal
-- Revestimiento: Sin forro
-- Material exterior: Goma
 - Altura del tacón: 2 centímetros
+- Revestimiento: Sin forro
 - Cierre: Sin cordones
+- Anchura del zapato: Normal
+- Composición: Goma
+- Material de la suela: Goma
+- Material exterior: Goma
+- Tipo de tacón: Plano
 
 [🛒 Comprar!!!]({{< param buyurl >}})

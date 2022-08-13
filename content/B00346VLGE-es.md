@@ -29,7 +29,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Color del producto es marrón (marco: marrón tortoise glas: verde w0366)
-- Protective case included
 - Producto de alta calidad de la marca RAY-BAN
+- Protective case included
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

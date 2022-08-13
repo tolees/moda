@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Columbia Woodburn 2 Waterproof  Impermeable  Zapatos de Senderismo Bajos Hombre  Negro  Black x Caramel   44 EU'
-date: 2022-08-11 09:16:36
+date: 2022-08-13 13:43:00
 image: 'https://m.media-amazon.com/images/I/41iFsf8lSZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Columbia'
 buyurl: 'https://www.amazon.es/dp/B00KOJT7WE/?tag=tolees-21'
 descuento: '45.50'
-average: '60.9725'
+average: '60.768'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

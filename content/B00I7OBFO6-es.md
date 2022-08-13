@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Montura completa
 - Lentes no Polarizados
-- Gafas de sol Rectangular
 - Almohadillas moldeadas para la nariz
+- Montura completa
+- Gafas de sol Rectangular
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
