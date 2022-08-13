@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Havaianas Brasil Logo  Chanclas Unisex Adulto  Azul  Navy Blue 01   41/42 EU'
-date: 2022-08-11 06:31:20
+date: 2022-08-13 12:24:24
 image: 'https://m.media-amazon.com/images/I/41mKQVoDALL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Havaianas'
 buyurl: 'https://www.amazon.es/dp/B001OI3MQ6/?tag=tolees-21'
 descuento: '65.37'
-average: '12.4277499999999'
+average: '12.3441463414633'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Revestimiento: Caucho
+- Cierre: Sin cordones
 - Material exterior: Caucho
 - Composición: Goma
-- Cierre: Sin cordones
-- Material de la suela: Goma
+- Revestimiento: Caucho
 - Tipo de tacón: Plano
+- Material de la suela: Goma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

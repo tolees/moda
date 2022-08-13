@@ -30,7 +30,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Suave y agradable de llevar
 - Camiseta de manga corta
-- Corte regular / clásico
 - Cuello y bajo de las mangas en contraste
+- Corte regular / clásico
 
 [🛒 Visítala!!!]({{< param buyurl >}})
