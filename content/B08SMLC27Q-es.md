@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Le Coq Sportif Camiseta Modelo ESS tee SS N°3 Marca'
-date: 2022-08-09 15:25:05
+date: 2022-08-13 10:38:52
 image: 'https://m.media-amazon.com/images/I/31wgSimaDhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuello y bajo de las mangas en contraste
 - Suave y agradable de llevar
 - Camiseta de manga corta
 - Corte regular / clásico
+- Cuello y bajo de las mangas en contraste
 
 [🛒 Visítala!!!]({{< param buyurl >}})
