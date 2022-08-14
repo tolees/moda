@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox Uomo Sandal Strada D  Sandalias con Punta Abierta  para Hombre  Marrón  Marrón/Sand C0705   41 EU'
-date: 2022-08-14 00:07:51
+date: 2022-08-14 00:07:55
 image: 'https://m.media-amazon.com/images/I/314cowKfxgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
