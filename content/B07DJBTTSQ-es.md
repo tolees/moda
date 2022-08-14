@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvin Klein J30J307855 Camisa  112  M para Hombre'
-date: 2022-08-11 18:43:59
+date: 2022-08-14 11:52:27
 image: 'https://m.media-amazon.com/images/I/31kkvbcc7HL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Calvin Klein'
 buyurl: 'https://www.amazon.es/dp/B07DJBTTSQ/?tag=tolees-21'
 descuento: '53.18'
-average: '19.8375'
+average: '18.67'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,7 +29,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Logo de Calvin Klein estampado en el pecho
-- Ajuste slim
 - Modelo casual
+- Ajuste slim
 
 [🛒 Visítala!!!]({{< param buyurl >}})

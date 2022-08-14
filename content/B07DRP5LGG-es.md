@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvin Klein J30J307855 Camisa  039  L para Hombre'
-date: 2022-08-12 09:49:12
+date: 2022-08-14 12:01:52
 image: 'https://m.media-amazon.com/images/I/31BxNe520rL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Logo de Calvin Klein estampado en el pecho
 - Ajuste slim
+- Logo de Calvin Klein estampado en el pecho
 - Modelo casual
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
