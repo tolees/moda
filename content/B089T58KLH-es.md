@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 100 % poliéster EMBOSSED
-- Eva
-- PU Upper
 - EVA outsole with 10% Bloom
+- PU Upper
+- Eva
+- 100 % poliéster EMBOSSED
 
 [🛒 Aquí!!!]({{< param buyurl >}})
