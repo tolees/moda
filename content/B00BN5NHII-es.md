@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Pepe Jeans Original Stretch N  Camiseta Hombre  Azul  595azul Marino   L'
-date: 2022-08-09 15:24:36
+title: 'Pepe Jeans Original Stretch Camiseta  Azul  Navy 595   L para Hombre'
+date: 2022-08-14 07:21:25
 image: 'https://m.media-amazon.com/images/I/319MCmYtpWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B00BN5NHII-es Pepe Jeans Original Stretch N Camiseta Hombre Azul 595azul...'
+slug: 'B00BN5NHII-es Pepe Jeans Original Stretch Camiseta Azul Navy 595 L para...'
 sku: 'B00BN5NHII-es'
 tags: [ 'Camisetas para hombre','Camisetas, polos y camisas para hombre','Ropa','Ropa para hombre','camiseta','pepe jeans','🇪🇸', ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0
 comparePrice: 25.0 EUR
-prodname: 'Pepe Jeans Original Stretch N  Camiseta Hombre  Azul  595azul Marino   L'
+prodname: 'Pepe Jeans Original Stretch Camiseta  Azul  Navy 595   L para Hombre'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Pepe Jeans'
 buyurl: 'https://www.amazon.es/dp/B00BN5NHII/?tag=tolees-21'
 descuento: '40.00'
-average: '15.814'
+average: '15.763125'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

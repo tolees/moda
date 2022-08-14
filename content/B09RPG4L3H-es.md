@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Napapijri S-Turin Camiseta  Blanco Brillante  L Hombres'
-date: 2022-08-09 15:24:27
+date: 2022-08-14 08:17:16
 image: 'https://m.media-amazon.com/images/I/414DWvc1XhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Estampado en el pecho
-- Corte estándar
 - Cuello redondo
+- Corte estándar
+- Estampado en el pecho
 
 [🛒 Aquí!!!]({{< param buyurl >}})
