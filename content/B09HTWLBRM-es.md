@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'G-STAR RAW Engineered Rib Tanktop Camiseta  Beige/Khaki  Tree House C678-C941   M Da Donna'
-date: 2022-08-04 08:02:46
+date: 2022-08-15 07:44:57
 image: 'https://m.media-amazon.com/images/I/41heUl4SNfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Etiqueta de G-Star RAW tejida en la parte delantera inferior
 - Corte ajustado
+- Etiqueta de G-Star RAW tejida en la parte delantera inferior
 - Cuello redondo ribeteado
 - Etiqueta de G-Star RAW tejida en la parte delantera inferior
 
