@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Napapijri S-Turin Camiseta  Azul Marino  L Hombres'
-date: 2022-08-11 11:38:28
+date: 2022-08-15 21:09:41
 image: 'https://m.media-amazon.com/images/I/41xbKPiwuBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Corte estándar
 - Cuello redondo
 - Estampado en el pecho
-- Corte estándar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
