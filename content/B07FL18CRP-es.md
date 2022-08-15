@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Mangas con corte raglán
 - Chándal con capucha
+- Mangas con corte raglán
 - Rib en puños y bajo
 - Ofrece comodidad y libertad de movimiento
 

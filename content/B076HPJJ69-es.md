@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mangas con ribetes en contraste
 - Cuenta con un pequeño logotipo de Adidas bordado en el pecho
-- Presenta ajuste regular
+- Mangas con ribetes en contraste
 - Puños y dobladillo de canalé
+- Presenta ajuste regular
 
 [🛒 Comprar!!!]({{< param buyurl >}})

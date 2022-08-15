@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Antideslizante
-- Resistente al agua
 - Nota: considera la talla BR = la talla de la UE independientemente de lo que muestre la suela del producto. El tamaño BR es el mejor ajuste y corresponde a tu talla de UE + siempre prueba el producto primero
+- Resistente al agua
 - Cómodo
+- Antideslizante
 
 [🛒 Comprar!!!]({{< param buyurl >}})
