@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox STRADA UOMO  Sandalias Con Punta Abierta  para Hombre  Negro  Black/Stone C9310   41 EU'
-date: 2022-08-14 00:10:48
+date: 2022-08-15 05:25:06
 image: 'https://m.media-amazon.com/images/I/318ZQO5LD9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B07F3RR3B9/?tag=tolees-21'
 descuento: '28.47'
-average: '47.4671428571429'
+average: '47.78375'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
