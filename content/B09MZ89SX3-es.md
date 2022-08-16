@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Camisa
 - Manga corta
+- Camisa
 - Mesonero Flores
 
 [🛒 Aquí!!!]({{< param buyurl >}})
