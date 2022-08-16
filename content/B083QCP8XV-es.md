@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Carhartt Graphic Pocket T-Shirt Camiseta  French Blue  S para Hombre'
-date: 2022-08-06 00:29:04
+date: 2022-08-16 04:52:52
 image: 'https://m.media-amazon.com/images/I/41jfqK0Wq3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,7 +29,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Cuello redondo
-- Consulte la guía de tallas para encontrar la adecuada para usted
 - Dobladillo plano con dos agujas
+- Consulte la guía de tallas para encontrar la adecuada para usted
 
 [🛒 Aquí!!!]({{< param buyurl >}})

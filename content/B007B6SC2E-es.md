@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Superga 2750-linu  Zapatos de Cordones Derby  Verde  Grün  Khaki   35 EU'
-date: 2022-08-04 05:01:23
+date: 2022-08-16 05:50:47
 image: 'https://m.media-amazon.com/images/I/41S1rCiuLFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Superga'
 buyurl: 'https://www.amazon.es/dp/B007B6SC2E/?tag=tolees-21'
 descuento: '68.00'
-average: '26.245'
+average: '25.9242857142857'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
