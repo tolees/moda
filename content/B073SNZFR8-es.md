@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ellesse Lombardy Abrigo  Hombre  Gris  Anthracite   L'
-date: 2022-08-07 18:07:18
+date: 2022-08-16 20:36:39
 image: 'https://m.media-amazon.com/images/I/41ruJUM0MvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ellesse'
 buyurl: 'https://www.amazon.es/dp/B073SNZFR8/?tag=tolees-21'
 descuento: '30.21'
-average: '62.6883333333333'
+average: '62.7042857142857'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Abrigo Tiempo libre y sportwear Hombre
-- De alta calidad y con diseño deportivo
-- Lombardy (Shs01115)
 - Ropa deportiva ellesse
+- Lombardy (Shs01115)
+- De alta calidad y con diseño deportivo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
