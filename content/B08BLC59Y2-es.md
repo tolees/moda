@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox D PALMARIA A  Ballet  Plano  para Mujer  Plata  37 EU'
-date: 2022-08-13 10:37:00
+date: 2022-08-16 09:54:00
 image: 'https://m.media-amazon.com/images/I/31y7ns39GaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
