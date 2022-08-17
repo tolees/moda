@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Elástica para una mayor comodidad.
-- Estilo básico.
 - Corte ajustado.
 - Estilo no. 12074784.
 - Cuello redondo.
+- Estilo básico.
+- Elástica para una mayor comodidad.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
