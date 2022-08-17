@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Mujeres - Sudadera con capucha
 - características: Logotipo aplicado - Cinturilla ancha - Cintura acanalada - Puño elástico - Cinturilla elástica - Estampado de gran tamaño - con capucha integrada - Bolsa canguro - Mangas raglán - Escote redondo - Cordones de apriete exteriores
 - 80% Algodón - 20% Poliéster
+- Mujeres - Sudadera con capucha
 
 [🛒 Visítala!!!]({{< param buyurl >}})
