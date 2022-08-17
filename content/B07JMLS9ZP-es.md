@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fácil de Usar
-- Camisetas Fútbol Hombre
-- Entrada 18 Jsy (CF1036)
 - Ropa deportiva adidas
+- Fácil de Usar
+- Entrada 18 Jsy (CF1036)
+- Camisetas Fútbol Hombre
 
 [🛒 Comprar!!!]({{< param buyurl >}})

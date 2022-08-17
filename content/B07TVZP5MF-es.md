@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello redondo
 - Estampado: The eminem Show – Joven casual sentado en el suelo
+- Cuello redondo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
