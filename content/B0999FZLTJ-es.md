@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Vestido boho tropical
-- Largo maxi
 - Estampado tropical de loros y flores en turquesa
+- Largo maxi
 - Falda tipo pareo abierta por delante
 - Boho
 
