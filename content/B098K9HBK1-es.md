@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pepe Jeans PM402542 Chaqueta  999negro  L para Hombre'
-date: 2022-08-13 07:47:52
+date: 2022-08-17 17:03:18
 image: 'https://m.media-amazon.com/images/I/41VVuRZesLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre con cremallera
 - Bolsillos con cremallera
+- Cierre con cremallera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
