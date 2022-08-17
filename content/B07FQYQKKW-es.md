@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Revestimiento: Tela
 - Cierre: Cordones
+- Revestimiento: Tela
 
 [🛒 Visítala!!!]({{< param buyurl >}})

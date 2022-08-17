@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox U Pantelleria U25DWA  Zapatillas Hombre  Olive  40 EU'
-date: 2022-08-12 02:25:38
+date: 2022-08-17 00:20:08
 image: 'https://m.media-amazon.com/images/I/41DBCNSwTHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B096MYW1CY-es Geox U Pantelleria U25DWA Zapatillas Hombre Olive 40 EU'
 sku: 'B096MYW1CY-es'
 tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','geox','🇪🇸', ]
-actualPrice: 31.55 EUR
+actualPrice: 28.54 EUR
 currency: EUR
-price: 31.55
+price: 28.54
 comparePrice: 79.9 EUR
 prodname: 'Geox U Pantelleria U25DWA  Zapatillas Hombre  Olive  40 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B096MYW1CY/?tag=tolees-21'
-descuento: '60.51'
-average: '34.73'
+descuento: '64.28'
+average: '33.1825'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
