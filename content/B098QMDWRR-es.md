@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ligera pero muy abrigada
-- Viene en su bolsa para que esté bien protegida
 - Una chaqueta acolchada duradera y plegable
+- Viene en su bolsa para que esté bien protegida
+- Ligera pero muy abrigada
 
 [🛒 Aquí!!!]({{< param buyurl >}})
