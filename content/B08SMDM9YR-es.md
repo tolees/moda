@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mercancía con licencia oficial de Súper Mario.
-- El top se completa con una insignia del colorido logo de Súper Mario en el dobladillo.
 - ¡Los fanáticos de Mario Kart amarán esta sudadera con capucha!
+- El top se completa con una insignia del colorido logo de Súper Mario en el dobladillo.
 - Este top manga larga azul viene con los hermanos, Mario y Luigi, sobre un fondo de puntos.
 - Sudadera para niños de Súper Mario.
+- Mercancía con licencia oficial de Súper Mario.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

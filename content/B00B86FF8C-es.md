@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Protective case included
 - gafas moda oakley
+- Protective case included
 
 [🛒 Aquí!!!]({{< param buyurl >}})

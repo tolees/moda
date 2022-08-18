@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Corte regular / clásico
 - Suave y agradable de llevar
-- Camiseta de manga corta
+- Corte regular / clásico
 - Cuello y bajo de las mangas en contraste
+- Camiseta de manga corta
 
 [🛒 Visítala!!!]({{< param buyurl >}})
