@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Graphic Sportswear Logo Camiseta  Negro  Beautiful Black   XL para Hombre'
-date: 2022-08-16 07:30:19
+date: 2022-08-17 21:04:41
 image: 'https://m.media-amazon.com/images/I/41xwF+7mLmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fabricada en tejido ligero
-- Con el logotipo deportivo de Levis
-- Modelo casual
+- Sportswear logo graphic
+- More room throughout
+- Sleeve hits just above elbow
 
 [🛒 Comprar!!!]({{< param buyurl >}})
