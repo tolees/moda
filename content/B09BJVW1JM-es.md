@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Volantes
 - Reconsider: Algodón BCI
 - Camiseta manga larga
 - Suizo
+- Volantes
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
