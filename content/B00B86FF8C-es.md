@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Oakley 3128  Monturas de Gafas para Hombre  Negro  Satin Black   53'
-date: 2022-08-09 15:24:51
+date: 2022-08-18 17:04:22
 image: 'https://m.media-amazon.com/images/I/21sBNc7+dbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Oakley'
 buyurl: 'https://www.amazon.es/dp/B00B86FF8C/?tag=tolees-21'
 descuento: '51.78'
-average: '117.423333333333'
+average: '118.5675'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- gafas moda oakley
 - Protective case included
+- gafas moda oakley
 
 [🛒 Aquí!!!]({{< param buyurl >}})
