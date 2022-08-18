@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseño elegante
 - VESTIDO PUNTO FLECOS NIÑA NARANJA SUMMER FESTIVAL
+- Diseño elegante
 - Marca: Tuc Tuc
 - Materiales de muy alta calidad
 
