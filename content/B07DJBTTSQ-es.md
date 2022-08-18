@@ -29,7 +29,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Ajuste slim
-- Modelo casual
 - Logo de Calvin Klein estampado en el pecho
+- Modelo casual
 
 [🛒 Visítala!!!]({{< param buyurl >}})
