@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Jack & Jones Jjiliam Jjoriginal Am 009 Lid Noos  Vaqueros Hombre  Negro  black Denim   32W 34L'
-date: 2022-08-11 07:39:04
-image: 'https://m.media-amazon.com/images/I/31et4LImjdL._SL500_._SL400_.jpg'
+date: 2022-08-19 10:47:59
+image: 'https://m.media-amazon.com/images/I/31HU0aR46+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B01E5MWHBI/?tag=tolees-21'
 descuento: '55.23'
-average: '21.665'
+average: '21.9033333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
