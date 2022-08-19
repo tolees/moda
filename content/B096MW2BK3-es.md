@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox J Sprintye Girl  Zapatillas  Fucsia Fluorescente  34 EU'
-date: 2022-08-04 10:13:56
+date: 2022-08-19 09:17:44
 image: 'https://m.media-amazon.com/images/I/41sawC8kWuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B096MW2BK3-es Geox J Sprintye Girl Zapatillas Fucsia Fluorescente 34 EU'
 sku: 'B096MW2BK3-es'
 tags: [ 'Zapatillas casual para niña','Zapatillas y calzado deportivo para niña','Zapatos','Zapatos - Niñas','Zapatos y complementos','geox','🇪🇸', ]
-actualPrice: 19.95 EUR
+actualPrice: 40.0 EUR
 currency: EUR
-price: 19.95
+price: 40.0
 comparePrice: 49.9 EUR
 prodname: 'Geox J Sprintye Girl  Zapatillas  Fucsia Fluorescente  34 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B096MW2BK3/?tag=tolees-21'
-descuento: '60.02'
-average: '19.95'
+descuento: '19.84'
+average: '29.975'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
