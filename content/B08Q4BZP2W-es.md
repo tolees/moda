@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clarks Nature Three  Zapatos para Hombre  Navy Nubuck  39.5 EU'
-date: 2022-08-11 22:48:48
+date: 2022-08-19 03:05:37
 image: 'https://m.media-amazon.com/images/I/41ywUe4Od8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08Q4BZP2W-es Clarks Nature Three Zapatos para Hombre Navy Nubuck 39.5 EU'
 sku: 'B08Q4BZP2W-es'
 tags: [ 'Zapatos','Zapatos de cordones para hombre','Zapatos para hombre','Zapatos y complementos','clarks','zapatos','🇪🇸', ]
-actualPrice: 47.23 EUR
+actualPrice: 65.0 EUR
 currency: EUR
-price: 47.23
+price: 65.0
 comparePrice: 130.0 EUR
 prodname: 'Clarks Nature Three  Zapatos para Hombre  Navy Nubuck  39.5 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Clarks'
 buyurl: 'https://www.amazon.es/dp/B08Q4BZP2W/?tag=tolees-21'
-descuento: '63.67'
-average: '49.1133333333333'
+descuento: '50.00'
+average: '53.085'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
