@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre: cordones
-- Suela: goma
-- Forma del tacón: plano
-- Euro Rock Water Resistant Basic
 - Material interior: sintético
+- Suela: goma
+- Cierre: cordones
+- Euro Rock Water Resistant Basic
+- Forma del tacón: plano
 
 [🛒 Comprar!!!]({{< param buyurl >}})

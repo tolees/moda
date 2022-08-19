@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Plantilla de EVA moldeada con detalle de espadrille
-- Outsole:__ Suela de EVA con arte ROXY
 - Parte superior superior superior impresa TPR con logotipo de metal
+- Outsole:__ Suela de EVA con arte ROXY
+- Plantilla de EVA moldeada con detalle de espadrille
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
