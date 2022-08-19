@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto con licencia oficial
+- Medidas: 38cm x 28cm x 6cm
 - Cartera extraescolares con un único compartimento
 - Cuenta con un asa corta y una larga para colgar tipo bandolera
-- Medidas: 38cm x 28cm x 6cm
+- Producto con licencia oficial
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

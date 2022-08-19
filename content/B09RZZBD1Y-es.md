@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 1) Hits en el centro del muslo 2) Diseño sin tirantes 3) Cremallera oculta trasera 4) Dobladillo irregular 5) El vestido es moderadamente elástico 6) parcialmente forrado (corpiño)
-- Vestido de fiesta vintage para mujer, sin tirantes, ajustado
 - Para un ajuste cómodo, mide exactamente según nuestra imagen de tallas de la izquierda y elige la talla adecuada de nuestras tablas de tallas.
+- Vestido de fiesta vintage para mujer, sin tirantes, ajustado
+- 1) Hits en el centro del muslo 2) Diseño sin tirantes 3) Cremallera oculta trasera 4) Dobladillo irregular 5) El vestido es moderadamente elástico 6) parcialmente forrado (corpiño)
 - Adecuado para ocasiones importantes como bodas, fiestas de graduación y cenas.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
