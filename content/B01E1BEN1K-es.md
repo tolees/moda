@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Hecho de algodón cómodo
+- Ajuste estándar
 - Composición: 100% algodón
 - Dobladillo ligeramente redondeado
-- Ajuste estándar
-- Hecho de algodón cómodo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
