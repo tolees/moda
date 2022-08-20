@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JACK & JONES Jjelogo Blocking tee SS Noos Camiseta  Multicolor  Red/Tango Red   L para Hombre'
-date: 2022-08-16 17:25:31
+date: 2022-08-20 11:02:22
 image: 'https://m.media-amazon.com/images/I/31L8994++3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Camiseta
-- Estampado
-- Algodón
 - Cómodo
+- Algodón
+- Estampado
 
 [🛒 Visítala!!!]({{< param buyurl >}})

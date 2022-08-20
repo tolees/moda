@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bolsillos laterales
 - Con acanalado ancho en todos los dobladillos
-- Cordón de 13 cm
 - Cordón de ajuste en la cintura
 - Pantalón de chándal con cintura ajustable
+- Bolsillos laterales
+- Cordón de 13 cm
 
 [🛒 Comprar!!!]({{< param buyurl >}})
