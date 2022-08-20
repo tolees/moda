@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Rib en puños y bajo
-- Chándal con capucha
 - Ofrece comodidad y libertad de movimiento
 - Mangas con corte raglán
+- Rib en puños y bajo
+- Chándal con capucha
 
 [🛒 Aquí!!!]({{< param buyurl >}})
