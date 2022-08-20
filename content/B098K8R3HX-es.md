@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pantalones cortos de entrenamiento
 - Estilo informal
+- Pantalones cortos de entrenamiento
 
 [🛒 Aquí!!!]({{< param buyurl >}})
