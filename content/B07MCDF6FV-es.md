@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Print T-Shirt
 - Cotton T-Shirt
+- Print T-Shirt
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
