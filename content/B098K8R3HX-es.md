@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pepe Jeans IRIA Vestido  264royal Red  M para Mujer'
-date: 2022-08-19 12:48:52
+date: 2022-08-20 14:06:25
 image: 'https://m.media-amazon.com/images/I/31MlvhXwBLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
