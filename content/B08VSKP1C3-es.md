@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Sudadera Modelo SQ21 SW Top Marca'
-date: 2022-08-18 16:31:28
+date: 2022-08-20 01:48:44
 image: 'https://m.media-amazon.com/images/I/41cqiTjW38L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B08VSKP1C3/?tag=tolees-21'
 descuento: '32.52'
-average: '34.1126086956522'
+average: '34.0970833333334'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -30,7 +30,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Felpa 70% Algodón, 30% Poliéster Reciclado
 - Cuello redondo
-- Las icónicas 3 rayas en las mangas le dan un aspecto deportivo
 - Puños y dobladillo de canalé
+- Las icónicas 3 rayas en las mangas le dan un aspecto deportivo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
