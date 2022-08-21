@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Puños y dobladillo con canalé.
-- Bolsillo canguro.
-- Ajuste clásico.
 - Capucha con cordón.
+- Bolsillo canguro.
 - Felpa francesa, 80 % algodón / 20 % poliéster.
+- Ajuste clásico.
+- Puños y dobladillo con canalé.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
