@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Una prenda supersuave con cuello redondo clásico que combina bien con todo
 - Su perfección no es casual. El cuello redondo supersuave lleva un parche con el logo en el pecho y está diseñado para ofrecer una gran comodidad y versatilidad
 - Con el logotipo emblemático de Levis
-- Una prenda supersuave con cuello redondo clásico que combina bien con todo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

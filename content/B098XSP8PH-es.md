@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Corte estrecho
-- Talle medio
-- Bolsillos en las costuras laterales y bolsillo con ribete sencillo en la parte trasera
 - Cintura elástica con cierre de cordón
+- Talle medio
+- Corte estrecho
+- Bolsillos en las costuras laterales y bolsillo con ribete sencillo en la parte trasera
 
 [🛒 Aquí!!!]({{< param buyurl >}})

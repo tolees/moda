@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cintura alta
 - Denim elástico con una pierna skinny
+- Cintura alta
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
