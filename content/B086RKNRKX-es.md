@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Superdry A4  Acolchado Parka  Pesto  XS para Hombre'
-date: 2022-08-17 15:04:35
+date: 2022-08-21 22:44:57
 image: 'https://m.media-amazon.com/images/I/41-H86dapML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Superdry'
 buyurl: 'https://www.amazon.es/dp/B086RKNRKX/?tag=tolees-21'
 descuento: '41.13'
-average: '191.75'
+average: '192.583333333333'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
