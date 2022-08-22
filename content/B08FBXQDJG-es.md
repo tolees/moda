@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Detalles distintivos de la marca
 - Amplia libertad de movimiento
+- Detalles distintivos de la marca
 - Tejido ligero y transpirable
 - Producto con ajuste regular
 

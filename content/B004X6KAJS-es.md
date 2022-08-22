@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ray-Ban Round Metal Gafas De Sol  Negro  Light Blue Gradient   50 para Hombre'
-date: 2022-08-08 19:33:50
+date: 2022-08-22 13:19:15
 image: 'https://m.media-amazon.com/images/I/31j06pFhFaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ray-Ban'
 buyurl: 'https://www.amazon.es/dp/B004X6KAJS/?tag=tolees-21'
 descuento: '44.08'
-average: '82.1428571428572'
+average: '82.5'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
