@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s 501 Original Vaqueros  Canyon Kings  32W / 30L para Hombre'
-date: 2022-08-20 08:53:52
+date: 2022-08-22 14:42:46
 image: 'https://m.media-amazon.com/images/I/31Xa0bApxpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Nuestro característico corte recto
 - El lienzo perfecto para la personalización y la expresión propia
 - Jeans azules originales desde 1873
 - Tejidos con un toque de elástico
+- Nuestro característico corte recto
 
 [🛒 Aquí!!!]({{< param buyurl >}})
