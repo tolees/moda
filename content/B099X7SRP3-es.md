@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 100% algodón
 - Camiseta
+- 100% algodón
 
 [🛒 Aquí!!!]({{< param buyurl >}})

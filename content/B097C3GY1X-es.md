@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Pantalón corto para practicar Tiempo libre y sportwear de Hombre
 - Ropa deportiva Negro de la marca Reebok
-- Ropa deportiva fabricada con materiales de primera calidad que se adaptan a cualquier actividad deportiva
-- Pantalón corto WOR AOP SHORT NEGRO
 - Los productos deportivos de la marca Reebok están diseñados para que disfrutes de tu deporte favorito sin preocuparte de nada más que rendir al máximo
+- Pantalón corto WOR AOP SHORT NEGRO
+- Ropa deportiva fabricada con materiales de primera calidad que se adaptan a cualquier actividad deportiva
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
