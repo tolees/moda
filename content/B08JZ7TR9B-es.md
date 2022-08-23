@@ -29,7 +29,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Calzado Gioseppo
-- Sandalias Cómodas y a la moda
 - Primavera - Verano 3962
+- Sandalias Cómodas y a la moda
 
 [🛒 Comprar!!!]({{< param buyurl >}})
