@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JACK & JONES Jacoliver Trunks 5 Pack Bóxer  Melange Gris Oscuro  M para Hombre'
-date: 2022-08-20 10:08:27
+date: 2022-08-23 18:25:52
 image: 'https://m.media-amazon.com/images/I/41EJR-j5rQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B0851CS5FC/?tag=tolees-21'
 descuento: '26.18'
-average: '24.59'
+average: '24.745'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

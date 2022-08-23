@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s tee Camiseta  Pink  Peach Blush 0076   XX-Small para Mujer'
-date: 2022-08-21 17:04:42
+date: 2022-08-23 18:31:18
 image: 'https://m.media-amazon.com/images/I/41nrFiGrN6S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07TV7N55G-es Levi s tee Camiseta Pink Peach Blush 0076 XX-Small para Mujer'
 sku: 'B07TV7N55G-es'
 tags: [ 'Camisetas para mujer','Camisetas, tops y blusas para mujer','Ropa','Ropa para mujer','camiseta','levis','🇪🇸', ]
-actualPrice: 10.91 EUR
+actualPrice: 10.76 EUR
 currency: EUR
-price: 10.91
+price: 10.76
 comparePrice: 25.0 EUR
 prodname: 'Levi s tee Camiseta  Pink  Peach Blush 0076   XX-Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07TV7N55G/?tag=tolees-21'
-descuento: '56.36'
-average: '13.07'
+descuento: '56.96'
+average: '12.9978125'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,7 +29,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Con un discreto logo en el pecho
-- Elaborada en punto suave
 - Modelo casual
+- Elaborada en punto suave
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

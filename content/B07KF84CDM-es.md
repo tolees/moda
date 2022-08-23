@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvin Klein J30J307855 Camisa  039  M para Hombre'
-date: 2022-08-22 17:01:12
+date: 2022-08-23 18:24:34
 image: 'https://m.media-amazon.com/images/I/31BxNe520rL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Calvin Klein'
 buyurl: 'https://www.amazon.es/dp/B07KF84CDM/?tag=tolees-21'
 descuento: '53.18'
-average: '16.4'
+average: '16.0'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
