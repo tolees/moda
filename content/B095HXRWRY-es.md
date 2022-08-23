@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Con el logotipo Batwing de Levis en un estampado metalizado
 - Elaborada en punto suave
 - Un clásico por excelencia que puedes combinar con todo
-- Con el logotipo Batwing de Levis en un estampado metalizado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

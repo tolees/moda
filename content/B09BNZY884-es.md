@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- INCLUIDO EN la CAJA - Una muñeca de peluche de 19,05 cm, un gorro, un vestido en forma de corazón
 - TE PRESENTAMOS a EVA - Celebra el amor con la serie Sweetest Heart de Na Na Na Surprise.
-- LOS DETALLES IMPORTAN - Todas las muñecas son flexibles, tienen la cara impresa y ropa a la moda.
 - COLECCIÓNALAS TODAS - Colecciona todas las muñecas de peluche de la serie Sweetest Heart.
+- LOS DETALLES IMPORTAN - Todas las muñecas son flexibles, tienen la cara impresa y ropa a la moda.
+- INCLUIDO EN la CAJA - Una muñeca de peluche de 19,05 cm, un gorro, un vestido en forma de corazón
 
 [🛒 Comprar!!!]({{< param buyurl >}})

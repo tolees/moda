@@ -30,7 +30,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Tacón: Lace-up
 - Material exterior: sintético
-- Material interior: lona
 - Suela: goma
+- Material interior: lona
 
 [🛒 Comprar!!!]({{< param buyurl >}})

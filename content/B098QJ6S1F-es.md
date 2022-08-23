@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cómoda sudadera de cuello redondo y forro polar
-- Capucha ajustable
-- El tinte puede manchar otras prendas, la tapicería o la piel. Lávala por separado o con colores oscuros
-- Con el emblemático logotipo de Levis
 - El aspecto único de esta prenda es el deseado. Puede cambiar tras su uso y los lavados. Sigue las instrucciones de cuidado
+- Capucha ajustable
+- Con el emblemático logotipo de Levis
+- El tinte puede manchar otras prendas, la tapicería o la piel. Lávala por separado o con colores oscuros
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
