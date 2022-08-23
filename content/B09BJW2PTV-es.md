@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Camiseta
-- De manga larga
 - Perlas mangas
+- De manga larga
+- Camiseta
 
 [🛒 Visítala!!!]({{< param buyurl >}})
