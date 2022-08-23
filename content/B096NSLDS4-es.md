@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox D Naileen  Sandalia Hombre  Champagne Rose Gold  39 EU'
-date: 2022-08-18 22:09:20
+date: 2022-08-22 23:02:22
 image: 'https://m.media-amazon.com/images/I/415-qb4t2OL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B096NSLDS4-es Geox D Naileen Sandalia Hombre Champagne Rose Gold 39 EU'
 sku: 'B096NSLDS4-es'
 tags: [ 'Sandalias de vestir para mujer','Sandalias y palas de mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','geox','🇪🇸', ]
-actualPrice: 22.88 EUR
+actualPrice: 22.46 EUR
 currency: EUR
-price: 22.88
+price: 22.46
 comparePrice: 89.9 EUR
 prodname: 'Geox D Naileen  Sandalia Hombre  Champagne Rose Gold  39 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B096NSLDS4/?tag=tolees-21'
-descuento: '74.55'
-average: '22.88'
+descuento: '75.02'
+average: '22.67'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
