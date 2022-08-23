@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Oakley 0OX8140 Monturas de Gafas  Satin Grey Smoke  53 para Hombre'
-date: 2022-08-14 08:17:25
+date: 2022-08-23 08:45:31
 image: 'https://m.media-amazon.com/images/I/21sdEiL8CNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Oakley'
 buyurl: 'https://www.amazon.es/dp/B07BF9LZ3R/?tag=tolees-21'
 descuento: '42.28'
-average: '71.0325'
+average: '71.026'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
