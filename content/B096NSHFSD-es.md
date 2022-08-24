@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox UOMO SANDAL STRADA  Sandalia.  para Hombre  Negro  Negro   39 EU'
-date: 2022-08-22 00:52:25
+date: 2022-08-24 00:08:55
 image: 'https://m.media-amazon.com/images/I/31JRrW5qR5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B096NSHFSD-es Geox UOMO SANDAL STRADA Sandalia. para Hombre Negro Negro...'
 sku: 'B096NSHFSD-es'
 tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','geox','🇪🇸', ]
-actualPrice: 45.07 EUR
+actualPrice: 42.99 EUR
 currency: EUR
-price: 45.07
+price: 42.99
 comparePrice: 69.9 EUR
 prodname: 'Geox UOMO SANDAL STRADA  Sandalia.  para Hombre  Negro  Negro   39 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B096NSHFSD/?tag=tolees-21'
-descuento: '35.52'
-average: '45.98'
+descuento: '38.50'
+average: '44.9833333333333'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

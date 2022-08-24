@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox U JONAS  Zapatillas  para Hombre   Gris   44 EU'
-date: 2022-08-21 22:21:16
+date: 2022-08-23 23:07:08
 image: 'https://m.media-amazon.com/images/I/41e3aLtFZ9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B096NQKQPD-es Geox U JONAS Zapatillas para Hombre Gris 44 EU'
 sku: 'B096NQKQPD-es'
 tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','geox','🇪🇸', ]
-actualPrice: 35.78 EUR
+actualPrice: 34.48 EUR
 currency: EUR
-price: 35.78
+price: 34.48
 comparePrice: 89.9 EUR
 prodname: 'Geox U JONAS  Zapatillas  para Hombre   Gris   44 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B096NQKQPD/?tag=tolees-21'
-descuento: '60.20'
-average: '41.4033333333333'
+descuento: '61.65'
+average: '39.6725'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
