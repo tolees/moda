@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Daily
 - Camisa de vestir
 - Estampada
+- Daily
 
 [🛒 Comprar!!!]({{< param buyurl >}})

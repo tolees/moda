@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Confeccionada con un corte relajado y más holgado
 - Con el emblemático logotipo Batwing de Levis degradado
+- Confeccionada con un corte relajado y más holgado
 - Una versión moderna de la camiseta clásica
 - Elaborada en punto suave
 

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- remate pespunteado
 - Franja combinada cintura
-- Corte a la cadera
 - Abertura centrala
+- remate pespunteado
+- Corte a la cadera
 
 [🛒 Comprar!!!]({{< param buyurl >}})
