@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estampado gráfico de G-Star RAW en la parte superior del pecho
 - Bajo recto
 - Corte ajustado
+- Estampado gráfico de G-Star RAW en la parte superior del pecho
 - Cuello redondo, borde acanalado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
