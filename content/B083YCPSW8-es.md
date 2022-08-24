@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Classics
 - Trajes de tobillo
 - Female
-- Classics
 
 [🛒 Aquí!!!]({{< param buyurl >}})
