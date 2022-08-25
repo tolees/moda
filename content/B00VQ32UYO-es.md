@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Camiseta Abanderado Imperio 300 Pack 2   Ref 2300 '
-date: 2022-08-24 03:41:57
+date: 2022-08-25 04:11:19
 image: 'https://m.media-amazon.com/images/I/31-gHbHgMIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Abanderado'
 buyurl: 'https://www.amazon.es/dp/B00VQ32UYO/?tag=tolees-21'
 descuento: '21.88'
-average: '14.2216326530612'
+average: '14.1892'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 2 Camisetas de tirantes
 - En la etiqueta la talla pone ESP(España)
-- 100% algodón
+- 2 Camisetas de tirantes
 - talla 2xl/60
+- 100% algodón
 - Abanderado
 
 [🛒 Visítala!!!]({{< param buyurl >}})

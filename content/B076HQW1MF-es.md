@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Core18 PES Jkt Chaqueta  Hombre  Negro  Black/White   L'
-date: 2022-08-24 03:40:51
+date: 2022-08-25 04:12:00
 image: 'https://m.media-amazon.com/images/I/31bhvo5+86S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076HQW1MF/?tag=tolees-21'
 descuento: '28.43'
-average: '20.1791499999997'
+average: '20.1784577114425'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cuello altamente cerrable
-- Chaqueta con bolsillos con cremallera
-- Material 100% poliéster
 - Puños con puños elásticos
+- Material 100% poliéster
+- Chaqueta con bolsillos con cremallera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

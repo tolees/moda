@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JACK & JONES Jacoliver Trunks 5 Pack Bóxer  Melange Gris Oscuro  L para Hombre'
-date: 2022-08-24 03:43:11
+date: 2022-08-25 04:11:27
 image: 'https://m.media-amazon.com/images/I/41EJR-j5rQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B083Y89YDS-es JACK & JONES Jacoliver Trunks 5 Pack Bóxer Melange Gris...'
 sku: 'B083Y89YDS-es'
 tags: [ 'Bóxers para hombre','Ropa','Ropa interior para hombre','Ropa para hombre','bóxer','jack & jones','🇪🇸', ]
-actualPrice: 25.66 EUR
+actualPrice: 25.88 EUR
 currency: EUR
-price: 25.66
+price: 25.88
 comparePrice: 34.99 EUR
 prodname: 'JACK & JONES Jacoliver Trunks 5 Pack Bóxer  Melange Gris Oscuro  L para Hombre'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B083Y89YDS/?tag=tolees-21'
-descuento: '26.66'
-average: '25.708'
+descuento: '26.04'
+average: '25.7236363636364'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
