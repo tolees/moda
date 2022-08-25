@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Alta elasticidad y seco: material de relleno ligero, absorción de humedad, secado rápido, reducción de olores, resistencia, resistencia al desgaste y propiedades elásticas.
 - Espalda de pecho envolvente 360°: la presión en el pecho es uniforme y segura para evitar tirones y asfixiar y proteger al gato de la frágil tráquea y garganta sin dolor.
-- Ultraligero: todo el arnés es de menos de 60 g, el mismo peso que una llave de coche. Tu gato es libre de caminar después de usarlo y absolutamente le gusta.
 - Tamaño: S: Pecho: 23 a 28 cm y peso: 3 a 3 kg; M: pecho: 28 a 33 cm y peso: 3 a 4,5 kg; L: pecho: 33 cm y peso: 4,5 a 7 kg.
+- Alta elasticidad y seco: material de relleno ligero, absorción de humedad, secado rápido, reducción de olores, resistencia, resistencia al desgaste y propiedades elásticas.
+- Ultraligero: todo el arnés es de menos de 60 g, el mismo peso que una llave de coche. Tu gato es libre de caminar después de usarlo y absolutamente le gusta.
 - Sutura añadida al pecho: para adaptarse mejor al cuello y pecho del gato que tiene una fuerte sensación tridimensional. Esta correa antiderramamiento para gato tiene bordes suaves y amortiguación elástica para evitar lesiones y escapes.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
