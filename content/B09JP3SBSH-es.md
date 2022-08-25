@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Small Pop Flag Badge tee Camiseta  White  S para Hombre'
-date: 2022-08-17 15:04:21
+date: 2022-08-25 16:22:15
 image: 'https://m.media-amazon.com/images/I/31NoEYzi6dL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Tommy Hilfiger'
 buyurl: 'https://www.amazon.es/dp/B09JP3SBSH/?tag=tolees-21'
 descuento: '42.09'
-average: '28.5'
+average: '27.6666666666667'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
