@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello redondo
 - Corte estándar
+- Cuello redondo
 - Logotipo en el pecho
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

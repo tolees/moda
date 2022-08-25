@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello redondo amplio.
 - El tejido Climalite aleja el sudor de la piel.
+- Cuello redondo amplio.
 - Gran logotipo de Adidas impreso en la zona delantera izquierda.
 - Forma que acentúa la figura.
 
