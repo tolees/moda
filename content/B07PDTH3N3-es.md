@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Producto de alta calidad
-- De la marca: hawkers
-- Color: negro
 - 1
+- De la marca: hawkers
+- Producto de alta calidad
+- Color: negro
 
 [🛒 Aquí!!!]({{< param buyurl >}})
