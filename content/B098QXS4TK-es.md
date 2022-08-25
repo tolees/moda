@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s SS Relaxed FIT tee Outline BW MHG Graph Camiseta  M para Hombre'
-date: 2022-08-24 19:05:15
+date: 2022-08-25 19:10:43
 image: 'https://m.media-amazon.com/images/I/41ZYBpcacuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con el emblemático logotipo Batwing de Levis degradado
-- Una versión moderna de la camiseta clásica
 - Confeccionada con un corte relajado y más holgado
 - Elaborada en punto suave
+- Con el emblemático logotipo Batwing de Levis degradado
+- Una versión moderna de la camiseta clásica
 
 [🛒 Comprar!!!]({{< param buyurl >}})
