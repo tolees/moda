@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Desigual TS Faces Camiseta  Blanco  S para Mujer'
-date: 2022-08-22 21:58:18
+date: 2022-08-26 15:38:52
 image: 'https://m.media-amazon.com/images/I/41YDfmltpvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Regular fit
 - Manga corta
-- Camiseta ilustración cara
 - Dibujo de una cara y mensaje
 - Algodón BCI
+- Camiseta ilustración cara
 
 [🛒 Comprar!!!]({{< param buyurl >}})
