@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela: sintético
-- Cierre: zapatillas
-- Material exterior: sintético
 - Material interior: sintético
+- Suela: sintético
+- Material exterior: sintético
+- Cierre: zapatillas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
