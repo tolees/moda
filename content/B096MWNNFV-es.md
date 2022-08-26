@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox D Alleniee  Zapatillas  para Mujer  Azul  Dk Jeans   35 EU'
-date: 2022-08-23 23:27:57
+date: 2022-08-26 01:17:12
 image: 'https://m.media-amazon.com/images/I/41ZwlDHFwQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B096MWNNFV-es Geox D Alleniee Zapatillas para Mujer Azul Dk Jeans 35 EU'
 sku: 'B096MWNNFV-es'
 tags: [ 'Zapatillas casual para mujer','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','geox','🇪🇸', ]
-actualPrice: 33.1 EUR
+actualPrice: 29.88 EUR
 currency: EUR
-price: 33.1
+price: 29.88
 comparePrice: 79.9 EUR
 prodname: 'Geox D Alleniee  Zapatillas  para Mujer  Azul  Dk Jeans   35 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B096MWNNFV/?tag=tolees-21'
-descuento: '58.57'
-average: '34.375'
+descuento: '62.60'
+average: '32.8766666666667'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
