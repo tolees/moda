@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Napapijri S-Box SS 3 Camiseta  Azul Marino  L Hombres'
-date: 2022-08-23 21:54:06
-image: 'https://m.media-amazon.com/images/I/31IG+adxyPL._SL500_._SL400_.jpg'
+date: 2022-08-27 09:22:15
+image: 'https://m.media-amazon.com/images/I/31CVObScYcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello redondo
-- Logotipo en el pecho
 - Corte estándar
+- Logotipo en el pecho
+- Cuello redondo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
