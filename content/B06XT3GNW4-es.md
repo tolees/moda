@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tejido suave
-- Cuello redondo
-- Logo en el pecho
 - Manga larga
+- Tejido suave
 - Camiseta básica para mujer
+- Logo en el pecho
+- Cuello redondo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

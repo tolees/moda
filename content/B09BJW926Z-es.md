@@ -29,7 +29,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Manga volante
-- Reconsider: Algodón BCI
 - Camiseta
+- Reconsider: Algodón BCI
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
