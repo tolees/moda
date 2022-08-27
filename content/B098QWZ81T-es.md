@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Con el emblemático logotipo Batwing de Levis
 - La camiseta básica perfecta
 - Elaborada en punto suave
-- Con el emblemático logotipo Batwing de Levis
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
