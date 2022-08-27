@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Para mujer
 - Comodidad y estilo
 - Nuestros accesorios están fabricados en materiales de alta calidad
-- Para mujer
 - Bolso bandolera
 
 [🛒 Aquí!!!]({{< param buyurl >}})

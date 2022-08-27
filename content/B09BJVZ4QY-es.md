@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Lino oversize
 - Camisa manga larga
 - Organic Cotton
-- Lino oversize
 
 [🛒 Comprar!!!]({{< param buyurl >}})
