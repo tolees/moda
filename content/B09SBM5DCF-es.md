@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'D&L DEVOTA & LOMBA - Devota y Lomba. Bolsos de Hombro Bandolera. Bolso Bandolera Mujer. Bolso Calidad. Cremallera. Idea Regalo. Bolsos para Diario. 22 x 15 x 8 cm. Tender 228122-03. Color Topo'
-date: 2022-08-20 20:02:23
+date: 2022-08-28 19:48:08
 image: 'https://m.media-amazon.com/images/I/41ye9WkjKrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
