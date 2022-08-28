@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kipling Art Mini  Bolso de Mano para Mujer  Azul  Bleu 2   Talla única'
-date: 2022-08-24 10:34:09
+date: 2022-08-28 03:17:03
 image: 'https://m.media-amazon.com/images/I/41e1ZV1wgIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Classics
-- Trajes de tobillo
 - Female
+- Trajes de tobillo
+- Classics
 
 [🛒 Aquí!!!]({{< param buyurl >}})
