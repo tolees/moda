@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pepe Jeans Eggo Long Camiseta Manga Larga  Black 2  L para Hombre'
-date: 2022-08-27 11:35:11
+date: 2022-08-28 15:45:20
 image: 'https://m.media-amazon.com/images/I/31ovzoQnadL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pepe Jeans'
 buyurl: 'https://www.amazon.es/dp/B009FVOZ7O/?tag=tolees-21'
 descuento: '55.12'
-average: '16.2377777777778'
+average: '15.956'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
