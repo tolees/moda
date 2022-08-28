@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- De alta calidad
 - Gafas de natación Natación Unisex Adulto
 - Material duro arena
+- De alta calidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
