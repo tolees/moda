@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Capucha de tres piezas de quita y pon con cordones ajustables
 - Cinta tejida ancha a los lados de la cremallera delantera
+- Bolsillos insertados verticales con cierre de botón a presión oculto
+- Capucha de tres piezas de quita y pon con cordones ajustables
 - Trabilla para colgarla en el interior
 - Diseño acolchado
-- Bolsillos insertados verticales con cierre de botón a presión oculto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
