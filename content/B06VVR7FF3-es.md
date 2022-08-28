@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Peso:245gr Medidas: 32 x 16 x 20
-- Nuestro bolso isotérmico dispone de un interior térmico completamente aislado.
 - Es un imprescinsible para llevar la comida al trabajo, ir de picnic, a la playa, de viaje…
-- Incluye dos asas para su cómodo transporte o colgarlo y almacenarlo en cualquier lugar.
+- Nuestro bolso isotérmico dispone de un interior térmico completamente aislado.
 - Diseño en color gris
+- Peso:245gr Medidas: 32 x 16 x 20
+- Incluye dos asas para su cómodo transporte o colgarlo y almacenarlo en cualquier lugar.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
