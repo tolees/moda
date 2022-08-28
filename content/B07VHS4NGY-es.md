@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Este es un producto original y auténtico de Calvin Klein Jeans
 - Calvin Klein Jeans Pantalones vaqueros para hombre
+- Este es un producto original y auténtico de Calvin Klein Jeans
 
 [🛒 Comprar!!!]({{< param buyurl >}})
