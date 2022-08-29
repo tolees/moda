@@ -29,7 +29,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Corte regular
-- Con un logo bordado en la parte izquierda del pecho
 - Paquete de tres camisetas interiores
+- Con un logo bordado en la parte izquierda del pecho
 
 [🛒 Visítala!!!]({{< param buyurl >}})

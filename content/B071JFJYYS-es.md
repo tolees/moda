@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillo tipo canguro
-- Puños acanalados
 - Estilo deportivo y comodidad informal
+- Puños acanalados
+- Bolsillo tipo canguro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
