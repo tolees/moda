@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clarks Whiddon Plain  Zapatos de Cordones Derby Hombre  Dark Tan Leather 2  40 EU'
-date: 2022-08-18 14:13:41
+date: 2022-08-28 22:30:04
 image: 'https://m.media-amazon.com/images/I/41uFzg2yEyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Material exterior: piel lisa
 - Suela: cuero y goma
 - Material interior: piel
-- Material exterior: piel lisa
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox D Spherica D15NUA  Zapatillas Mujer  White  35 EU'
-date: 2022-08-16 23:01:08
+date: 2022-08-28 22:07:05
 image: 'https://m.media-amazon.com/images/I/21y1YpnmbQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B08ZDS3DCD/?tag=tolees-21'
 descuento: '50.00'
-average: '49.9266666666667'
+average: '49.9325'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,7 +29,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Material de la suela: Caucho
-- Cierre: Cordones
 - Revestimiento: Sintético
+- Cierre: Cordones
 
 [🛒 Aquí!!!]({{< param buyurl >}})
