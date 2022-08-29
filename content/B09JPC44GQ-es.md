@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Esta blusa hace elegante cualquier conjunto haciendo que la combinación luzca, siendo además cómoda
 - Blusa a la moda para llevar con cualquier conjunto
+- Esta blusa hace elegante cualquier conjunto haciendo que la combinación luzca, siendo además cómoda
 - Esta blusa es una prenda básica en el armario de cualquier mujer y puedes llevarla todo el año
 - Combina fácilmente esta blusa con cualquier pantalón para cada ocasión
 

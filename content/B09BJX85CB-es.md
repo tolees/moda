@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Lino básica
 - Camisa de manga corta
+- Lino básica
 - Organic Cotton
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
