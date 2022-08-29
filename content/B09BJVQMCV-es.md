@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Regular
 - Polo manga corta
 - Reconsider: Algodón BCI
+- Regular
 
 [🛒 Comprar!!!]({{< param buyurl >}})

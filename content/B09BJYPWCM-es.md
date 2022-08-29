@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Polo
 - Algodón
+- Polo
 - Tapeta oculta
 
 [🛒 Comprar!!!]({{< param buyurl >}})

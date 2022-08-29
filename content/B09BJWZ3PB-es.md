@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Regular
 - Reconsider: Algodón BCI
 - Polo manga corta
+- Regular
 
 [🛒 Aquí!!!]({{< param buyurl >}})
