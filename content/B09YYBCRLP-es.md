@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Napapijri S-Box SS 3 Camiseta  Bright White 002  M Hombres'
-date: 2022-08-20 18:44:56
+date: 2022-08-29 11:14:29
 image: 'https://m.media-amazon.com/images/I/317oF1p7I7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello redondo
-- Corte estándar
 - Logotipo en el pecho
+- Corte regular
+- Cuello redondo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
