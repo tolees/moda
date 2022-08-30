@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ALCANCE DE TRANSMISIÓN: Alcance de transmisión de hasta 10 m (Bluetooth y ANT+)
-- COMPATIBILIDAD: Compatible con iPhone 4S y superior, Android 4.3 y superior, Windows Phone (sólo versión 8, aplicaciones: Micoach, Trackrunner) y Blackberry OS 10 (aplicación: CascaRun)
-- TECNOLOGÍA: Compatible con la última tecnología Bluetooth 4.0 (Smart), 5,3 kHz y receptores ANT+
 - BLUETOOTH: tecnología Bluetooth Smart para la transmisión precisa de la frecuencia cardíaca a través del ECG a dispositivos con Bluetooth Smart
+- TECNOLOGÍA: Compatible con la última tecnología Bluetooth 4.0 (Smart), 5,3 kHz y receptores ANT+
+- ALCANCE DE TRANSMISIÓN: Alcance de transmisión de hasta 10 m (Bluetooth y ANT+)
 - BANDA: Banda textil lavable y ultraligera - Talla de pecho ajustable entre 65 y 100 cm
+- COMPATIBILIDAD: Compatible con iPhone 4S y superior, Android 4.3 y superior, Windows Phone (sólo versión 8, aplicaciones: Micoach, Trackrunner) y Blackberry OS 10 (aplicación: CascaRun)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

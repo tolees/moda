@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Oakley 0OO9442 Gafas de Sol  Matte Carbon  40 para Hombre'
-date: 2022-08-26 20:28:15
+date: 2022-08-30 14:57:33
 image: 'https://m.media-amazon.com/images/I/31tOzxIibkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Oakley'
 buyurl: 'https://www.amazon.es/dp/B07RC1C87P/?tag=tolees-21'
 descuento: '31.30'
-average: '120.14'
+average: '122.1'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
