@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pepe Jeans PM402542 Chaqueta  999negro  L para Hombre'
-date: 2022-08-22 09:12:14
+date: 2022-08-30 11:54:20
 image: 'https://m.media-amazon.com/images/I/41VVuRZesLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
