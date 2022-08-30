@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Plantilla contorneada Goga Mat
-- Sandalia cómoda
 - Ultra Go
+- Sandalia cómoda
 - Lavable a máquina
 
 [🛒 Comprar!!!]({{< param buyurl >}})

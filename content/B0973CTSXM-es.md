@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Vegano
-- Plantilla contorneada Goga Mat
 - Sandalia cómoda
 - Lavable a máquina
 - Amortiguación ultraligera
+- Plantilla contorneada Goga Mat
+- Vegano
 
 [🛒 Aquí!!!]({{< param buyurl >}})
