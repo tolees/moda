@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Lavar a máquina
 - Camiseta para hombre con cuello redondo
 - Tipo de material: 100 % algodón
 - Tiene manga corta
+- Lavar a máquina
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
