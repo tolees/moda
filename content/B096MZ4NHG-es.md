@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox U Ponente  Zapatillas Hombre  Grey Lime  46 EU'
-date: 2022-08-28 23:12:42
+date: 2022-08-31 00:57:16
 image: 'https://m.media-amazon.com/images/I/41xjxuYMaAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B096MZ4NHG-es Geox U Ponente Zapatillas Hombre Grey Lime 46 EU'
 sku: 'B096MZ4NHG-es'
 tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','geox','🇪🇸', ]
-actualPrice: 33.61 EUR
+actualPrice: 32.92 EUR
 currency: EUR
-price: 33.61
+price: 32.92
 comparePrice: 89.9 EUR
 prodname: 'Geox U Ponente  Zapatillas Hombre  Grey Lime  46 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B096MZ4NHG/?tag=tolees-21'
-descuento: '62.61'
-average: '33.61'
+descuento: '63.38'
+average: '33.265'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
