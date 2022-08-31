@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Chaqueta Acolchada con Capucha de Diamante  Olivewood  XL para Hombre'
-date: 2022-08-27 13:11:12
+date: 2022-08-31 21:37:53
 image: 'https://m.media-amazon.com/images/I/51njU5LeXlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Tommy Hilfiger'
 buyurl: 'https://www.amazon.es/dp/B08T6K68MM/?tag=tolees-21'
 descuento: '40.00'
-average: '149.652'
+average: '149.7'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

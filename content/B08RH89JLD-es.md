@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 80% algodón / 20% poliéster
-- Tejido fleece cepillado ligero de 240 g / m2
 - Puños y bajos de canalé
 - Gráficos serigrafiados
+- 80% algodón / 20% poliéster
+- Tejido fleece cepillado ligero de 240 g / m2
 
 [🛒 Comprar!!!]({{< param buyurl >}})
