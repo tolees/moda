@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox D BLOMIEE  Zapatillas  para Mujer   Dk Jeans Navy   37 EU'
-date: 2022-08-28 23:52:54
+date: 2022-08-31 07:58:57
 image: 'https://m.media-amazon.com/images/I/31gOWlo06UL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B096MVK11J-es Geox D BLOMIEE Zapatillas para Mujer Dk Jeans Navy 37 EU'
 sku: 'B096MVK11J-es'
 tags: [ 'Zapatillas casual para mujer','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','geox','🇪🇸', ]
-actualPrice: 19.86 EUR
+actualPrice: 19.05 EUR
 currency: EUR
-price: 19.86
+price: 19.05
 comparePrice: 79.9 EUR
 prodname: 'Geox D BLOMIEE  Zapatillas  para Mujer   Dk Jeans Navy   37 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B096MVK11J/?tag=tolees-21'
-descuento: '75.14'
-average: '21.45'
+descuento: '76.16'
+average: '20.85'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
