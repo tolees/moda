@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con cuello redondo
 - Ofrece comodidad y libertad de movimiento
+- Con cuello redondo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
