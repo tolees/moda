@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox U Nebula  Zapatillas  para Hombre  Verde  Lt Olive   47 EU'
-date: 2022-08-29 08:04:27
+date: 2022-08-31 05:04:28
 image: 'https://m.media-amazon.com/images/I/41dod7tXhoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B096NRLBSP-es Geox U Nebula Zapatillas para Hombre Verde Lt Olive 47 EU'
 sku: 'B096NRLBSP-es'
 tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','geox','🇪🇸', ]
-actualPrice: 66.68 EUR
+actualPrice: 66.66 EUR
 currency: EUR
-price: 66.68
+price: 66.66
 comparePrice: 135.0 EUR
 prodname: 'Geox U Nebula  Zapatillas  para Hombre  Verde  Lt Olive   47 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B096NRLBSP/?tag=tolees-21'
-descuento: '50.61'
-average: '66.68'
+descuento: '50.62'
+average: '66.67'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
