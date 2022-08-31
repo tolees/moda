@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolso bandolera de compartimento único
-- Forro interior con bolsillo
 - Dimensiones: 13 x 20 x 5
 - Incluye un asa ajustable de 140 cm y una cadena de 47 cm
+- Bolso bandolera de compartimento único
+- Forro interior con bolsillo
 - Cuerpo ornamentado cerrado con cremallera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
