@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Camiseta para hombre manga corta de Geographical Norway
 - Disponible en 5 colores
+- Camiseta para hombre manga corta de Geographical Norway
 - Bandera característica de la marca impresa sobre el pecho
 - Ideal para regalo, vestir a diario o hacer deporte
 

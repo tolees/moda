@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Custom fit
 - Logotipo en C bordado
-- Estampado gráfico Stranger Things
-- Tejido de punto cepillado suave de 180 g/m2
+- Custom fit
 - Etiqueta de jacquard Champion x Stranger Things
+- Tejido de punto cepillado suave de 180 g/m2
+- Estampado gráfico Stranger Things
 
 [🛒 Visítala!!!]({{< param buyurl >}})

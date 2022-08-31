@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- ½ cremallera frontal para que sea fácil de poner
 - El material absorbe el sudor y se seca muy rápido
 - 100 % poliéster
-- ½ cremallera frontal para que sea fácil de poner
 - Exterior de punto de punto suave con un interior cepillado para una comodidad suave y calidez
 - Estilo #: 1365409
 

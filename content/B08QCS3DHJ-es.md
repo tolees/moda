@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geographical Norway - Parka Mujer Boomera New 056 NEGRO 4'
-date: 2022-08-29 16:07:29
+date: 2022-08-31 19:05:27
 image: 'https://m.media-amazon.com/images/I/41IfVnKvLvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08QCS3DHJ-es Geographical Norway - Parka Mujer Boomera New 056 NEGRO 4'
 sku: 'B08QCS3DHJ-es'
 tags: [ 'Abrigos para mujer','Ropa','Ropa de abrigo para mujer','Ropa para mujer','geographical norway','parka','🇪🇸', ]
-actualPrice: 67.11 EUR
+actualPrice: 66.86 EUR
 currency: EUR
-price: 67.11
+price: 66.86
 comparePrice: 99.0 EUR
 prodname: 'Geographical Norway - Parka Mujer Boomera New 056 NEGRO 4'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Geographical Norway'
 buyurl: 'https://www.amazon.es/dp/B08QCS3DHJ/?tag=tolees-21'
-descuento: '32.21'
-average: '67.308'
+descuento: '32.46'
+average: '67.2333333333333'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
