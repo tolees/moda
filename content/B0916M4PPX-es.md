@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con parche con el logotipo de Levis en el pecho
 - Confección en 100 % poliéster reciclado
 - Una prenda supersuave con cuello redondo clásico que combina bien con todo
+- Con parche con el logotipo de Levis en el pecho
 
 [🛒 Comprar!!!]({{< param buyurl >}})
