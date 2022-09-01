@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'PUMA Mapf1 Graphic Leadcat FTR  Sandalias deslizantes Unisex Adulto  Negro Spectra Verde  40.5 EU'
-date: 2022-08-23 11:16:29
+title: 'PUMA Mapf1 Graphic Leadcat FTR  Sandalias deslizantes Unisex Adulto  Black  40.5 EU'
+date: 2022-09-01 15:27:22
 image: 'https://m.media-amazon.com/images/I/31XAsTvhI9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B088RHMD2N-es PUMA Mapf1 Graphic Leadcat FTR Sandalias deslizantes...'
 sku: 'B088RHMD2N-es'
 tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','puma','sandalias','🇪🇸', ]
-actualPrice: 10.15 EUR
+actualPrice: 9.41 EUR
 currency: EUR
-price: 10.15
+price: 9.41
 comparePrice: 36.0 EUR
-prodname: 'PUMA Mapf1 Graphic Leadcat FTR  Sandalias deslizantes Unisex Adulto  Negro Spectra Verde  40.5 EU'
+prodname: 'PUMA Mapf1 Graphic Leadcat FTR  Sandalias deslizantes Unisex Adulto  Black  40.5 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'PUMA'
 buyurl: 'https://www.amazon.es/dp/B088RHMD2N/?tag=tolees-21'
-descuento: '71.81'
-average: '11.1771428571428'
+descuento: '73.86'
+average: '10.9562499999999'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material de la suela resistente y duradero
 - Diseño ligero y flexible que ofrece comodidad
+- Material de la suela resistente y duradero
 
 [🛒 Visítala!!!]({{< param buyurl >}})
