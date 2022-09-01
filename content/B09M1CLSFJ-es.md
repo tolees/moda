@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Polo monocolor para hombre con cuello y botones
 - Polo de manga corta
+- Polo monocolor para hombre con cuello y botones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
