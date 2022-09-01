@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Material composition: sintético
-- Sole material: caucho
 - Outer material: sintético
-- Heel height: 10 millimeters
 - Lining: sintético
+- Heel height: 10 millimeters
+- Sole material: caucho
 - Closure: encaje
 
 [🛒 Visítala!!!]({{< param buyurl >}})

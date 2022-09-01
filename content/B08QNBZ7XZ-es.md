@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Superdry Studios Chunky Roll Neck Sudadera  marrón Claro  XL para Mujer'
-date: 2022-08-28 11:52:52
+date: 2022-09-01 20:54:19
 image: 'https://m.media-amazon.com/images/I/415pLOcr7TL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Superdry'
 buyurl: 'https://www.amazon.es/dp/B08QNBZ7XZ/?tag=tolees-21'
 descuento: '59.97'
-average: '40.09'
+average: '40.07'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
