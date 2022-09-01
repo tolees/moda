@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Superdry Cl NS Hood Sudadera con Capucha  Negro  M para Hombre'
-date: 2022-08-27 14:15:25
+date: 2022-08-31 22:16:54
 image: 'https://m.media-amazon.com/images/I/31iVhbg6e7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B082YLWPTJ-es Superdry Cl NS Hood Sudadera con Capucha Negro M para Hombre'
 sku: 'B082YLWPTJ-es'
 tags: [ 'Jerséis, cárdigans y sudaderas para hombre','Ropa','Ropa para hombre','Sudaderas con capucha para hombre','Sudaderas para hombre','sudadera','superdry','🇪🇸', ]
-actualPrice: 50.98 EUR
+actualPrice: 51.98 EUR
 currency: EUR
-price: 50.98
+price: 51.98
 comparePrice: 79.99 EUR
 prodname: 'Superdry Cl NS Hood Sudadera con Capucha  Negro  M para Hombre'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Superdry'
 buyurl: 'https://www.amazon.es/dp/B082YLWPTJ/?tag=tolees-21'
-descuento: '36.27'
-average: '50.98'
+descuento: '35.02'
+average: '51.23'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
