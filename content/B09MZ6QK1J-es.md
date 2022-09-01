@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Springfield Camisa Bordado Suizo para Mujer  Beige/Camel  XS'
-date: 2022-08-22 09:09:21
+date: 2022-09-01 08:47:18
 image: 'https://m.media-amazon.com/images/I/41+A2tSB4aL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Manga corta
 - Bordado Suizo
+- Manga corta
 - Camisa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

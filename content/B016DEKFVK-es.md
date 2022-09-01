@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ray-Ban Rb2140 Gafas de Sol  Black  50 Unisex-Adulto'
-date: 2022-08-31 00:44:19
+date: 2022-09-01 09:48:08
 image: 'https://m.media-amazon.com/images/I/210n8B58xYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ray-Ban'
 buyurl: 'https://www.amazon.es/dp/B016DEKFVK/?tag=tolees-21'
 descuento: '39.81'
-average: '97.1166666666667'
+average: '96.7428571428572'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tamano lente-puente: 50 22
-- Longitud del templo: 150
-- Al absorber el 85% de la luz visible y bloquear la mayor parte de la luz azul, las lentes verdes proporcionan un notable contraste de color. Las lentes verdes G-15 aseguran una mejor claridad de vision y una "vision mas natural".
 - Forma: cuadrado
+- Al absorber el 85% de la luz visible y bloquear la mayor parte de la luz azul, las lentes verdes proporcionan un notable contraste de color. Las lentes verdes G-15 aseguran una mejor claridad de vision y una "vision mas natural".
+- Longitud del templo: 150
+- Tamano lente-puente: 50 22
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
