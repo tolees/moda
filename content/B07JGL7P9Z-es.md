@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Plantilla ligera OrthoLite
-- Confeccionadas con cuero "Better Leather" de calidad, procedente de una curtiduría sostenible con certificación de plata por sus prácticas de gestión del agua, energía y residuos
-- Suela exterior de goma protectora
 - Incorporan el tratamiento Defender Repellent Systems para evitar manchas y salpicaduras
 - Forro en tejido ReBOTL fabricado con al menos un 50 % de plástico reciclado
+- Plantilla ligera OrthoLite
+- Suela exterior de goma protectora
+- Confeccionadas con cuero "Better Leather" de calidad, procedente de una curtiduría sostenible con certificación de plata por sus prácticas de gestión del agua, energía y residuos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
