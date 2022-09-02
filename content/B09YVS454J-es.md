@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Napapijri S-Box SS 3 Camiseta  Green Depths  XL Hombres'
-date: 2022-08-22 11:01:32
+date: 2022-09-02 07:12:03
 image: 'https://m.media-amazon.com/images/I/31e1gNivJQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,7 +29,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cuello redondo
-- Corte estándar
 - Logotipo en el pecho
+- Corte estándar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
