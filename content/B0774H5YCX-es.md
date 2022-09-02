@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'EASTPAK Buddy  Bolso Bandolera Unisex Adulto  Azul  cloud Navy   Talla Única'
-date: 2022-08-18 17:45:01
+title: 'Eastpak Buddy Bolso Bandolera  18 cm  Azul  Cloud Navy '
+date: 2022-09-02 18:04:06
 image: 'https://m.media-amazon.com/images/I/31PfUu9VzBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0774H5YCX-es EASTPAK Buddy Bolso Bandolera Unisex Adulto Azul cloud...'
+slug: 'B0774H5YCX-es Eastpak Buddy Bolso Bandolera 18 cm Azul Cloud Navy'
 sku: 'B0774H5YCX-es'
 tags: [ 'Bolsos','Bolsos cruzados','Bolsos para hombre','Deportes y aire libre','Ropa y equipamiento para ocio al aire libre','Zapatos y complementos','bolso','eastpak','🇪🇸', ]
-actualPrice: 13.2 EUR
+actualPrice: 18.9 EUR
 currency: EUR
-price: 13.2
-comparePrice: 18.9 EUR
-prodname: 'EASTPAK Buddy  Bolso Bandolera Unisex Adulto  Azul  cloud Navy   Talla Única'
+price: 18.9
+comparePrice: 27.0 EUR
+prodname: 'Eastpak Buddy Bolso Bandolera  18 cm  Azul  Cloud Navy '
 country: 'es'
 flag: '🇪🇸'
 brand: 'EASTPAK'
 buyurl: 'https://www.amazon.es/dp/B0774H5YCX/?tag=tolees-21'
-descuento: '30.16'
-average: '14.6880000000001'
+descuento: '30.00'
+average: '15.0709090909092'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Correa de hombro ajustable para que puedas llevarla como quieras
-- Altura: 18 cm, Ancho: 13 cm, Fondo: 2 cm
 - Aprovecha el espacio al máximo con el amplio compartimento principal
+- Altura: 18 cm, Ancho: 13 cm, Fondo: 2 cm
+- Correa de hombro ajustable para que puedas llevarla como quieras
 - Fabricado 100 % en nylon
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
