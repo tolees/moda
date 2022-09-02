@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hurley M OAO Solid Summer PO Sudadera  Hombre  Black'
-date: 2022-08-31 19:45:30
+date: 2022-09-02 08:08:54
 image: 'https://m.media-amazon.com/images/I/319nwZqeuPS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Hurley'
 buyurl: 'https://www.amazon.es/dp/B08RH89JLD/?tag=tolees-21'
 descuento: '66.38'
-average: '22.5533333333333'
+average: '21.5375'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Puños y bajos de canalé
 - Gráficos serigrafiados
-- 80% algodón / 20% poliéster
 - Tejido fleece cepillado ligero de 240 g / m2
+- Puños y bajos de canalé
+- 80% algodón / 20% poliéster
 
 [🛒 Comprar!!!]({{< param buyurl >}})
