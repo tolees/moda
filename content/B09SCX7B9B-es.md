@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Capucha forrada
-- Ojal individual
 - Cremallera unidireccional en la parte delantera en el medio
+- Ojal individual
 - Banda para el cuello individual
 - Cordón de ajuste de bloques de color con extremos individuales transparentes
 
