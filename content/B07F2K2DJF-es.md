@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s STD tee Graphic Camiseta  Hm LS Better Black  XXS para Hombre'
-date: 2022-08-19 17:12:26
+date: 2022-09-03 17:53:24
 image: 'https://m.media-amazon.com/images/I/31FDEAJ80kS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07F2K2DJF/?tag=tolees-21'
 descuento: '27.31'
-average: '22.995'
+average: '23.484'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con un logo Levis en horizontal en el pecho
 - Modelo casual
+- Con un logo Levis en horizontal en el pecho
 - Elaborada en punto suave
 
 [🛒 Visítala!!!]({{< param buyurl >}})

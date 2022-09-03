@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HAWKERS · Gafas de sol WEEKENDER para hombre y mujer · BLACK'
-date: 2022-09-02 11:05:06
+date: 2022-09-03 18:32:46
 image: 'https://m.media-amazon.com/images/I/21TaKEPUcyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Incluye: caja de cartón reciclada y reciclable, pegatinas y funda de microfibra
-- Gafas de sol fabricadas en TR90 con el sello de EMS🇨🇭, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia
-- Lentes de TR18 con el sello de Eastman 🇺🇸, uno de los líderes mundiales en tecnología de copoliéster. Respetuoso con el medio ambiente y proporciona un equilibrio único entre claridad y resistencia
-- Modelo Unisex. Medidas: Frontal 148 mm, Patillas 145 mm, Puente 16 mm, Diámetro de Lente 57 mm
 - WEEKENDER - BLACK
+- Lentes de TR18 con el sello de Eastman 🇺🇸, uno de los líderes mundiales en tecnología de copoliéster. Respetuoso con el medio ambiente y proporciona un equilibrio único entre claridad y resistencia
+- Incluye: caja de cartón reciclada y reciclable, pegatinas y funda de microfibra
+- Modelo Unisex. Medidas: Frontal 148 mm, Patillas 145 mm, Puente 16 mm, Diámetro de Lente 57 mm
+- Gafas de sol fabricadas en TR90 con el sello de EMS🇨🇭, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia
 
 [🛒 Visítala!!!]({{< param buyurl >}})

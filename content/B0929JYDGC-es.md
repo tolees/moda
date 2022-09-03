@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Havaianas Top  Chanclas Unisex Adulto  Naranja  Citrus   43/44 EU'
-date: 2022-09-02 17:18:27
+date: 2022-09-03 17:47:36
 image: 'https://m.media-amazon.com/images/I/41ey23aBJkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Havaianas'
 buyurl: 'https://www.amazon.es/dp/B0929JYDGC/?tag=tolees-21'
 descuento: '30.24'
-average: '13.03'
+average: '12.95'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
