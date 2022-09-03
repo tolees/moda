@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Napapijri Elbas SS 4 Camisa de Polo  Green Depths  S Hombres'
-date: 2022-08-30 14:57:56
+date: 2022-09-03 19:08:35
 image: 'https://m.media-amazon.com/images/I/31IXs4QBXTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello de punto liso
 - Tejido suave
+- Cuello de punto liso
 - Bordes acanalados
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
