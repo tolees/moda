@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HAWKERS ONE Gafas de sol  Unisex Adulto  Transparente/ Morado  Talla única'
-date: 2022-08-30 17:57:55
+date: 2022-09-03 14:03:45
 image: 'https://m.media-amazon.com/images/I/21t1gg+xGbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HAWKERS'
 buyurl: 'https://www.amazon.es/dp/B07QBS6NKB/?tag=tolees-21'
 descuento: '30.02'
-average: '23.4355555555556'
+average: '22.838'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Montura fabricada en TR90, que dota a las gafas de gran ligereza, flexibilidad y resistencia, muy resistente a altas y bajas temperaturas.
+- Lente azul / morada con efecto espejo fabricada en TR18, con reducción de brillos y con gran equilibrio entre claridad y protección. Lente de categoría 3 con protección UV400. Resistencia muy alta
 - Medidas: Frente: 14cm, Altura: 5cm, Varillas: 14cm
 - Icónico modelo Hawkers One, Unisex, con montura transparente y lente azul /morada con efecto espejo
-- Lente azul / morada con efecto espejo fabricada en TR18, con reducción de brillos y con gran equilibrio entre claridad y protección. Lente de categoría 3 con protección UV400. Resistencia muy alta
 - Producto original Hawkers. La caja incluye funda de microfibra, caja y set de pegatinas decorativas.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
