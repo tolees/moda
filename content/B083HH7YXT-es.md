@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'wilbest® Carteras de Hombre  Carteras de Tarjetero Piel Delgado con Clip Metálico  Billetera de Cuero RFID  8 Ranuras para Tarjetas  1 Bolsillo de Monedero con Cremallera  Caja de Regalo  Negro '
-date: 2022-08-27 01:41:54
+date: 2022-09-04 00:45:29
 image: 'https://m.media-amazon.com/images/I/51f5yaz5ZkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Wilbest'
 buyurl: 'https://www.amazon.es/dp/B083HH7YXT/?tag=tolees-21'
 descuento: '15.80'
-average: '16.828493150685'
+average: '16.8171621621622'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
