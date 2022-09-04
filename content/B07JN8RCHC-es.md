@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HAWKERS ONE Gafas de sol  Unisex Adulto  Negro Carbon / Gris Plateado  Talla única'
-date: 2022-09-02 08:08:59
+date: 2022-09-04 12:41:23
 image: 'https://m.media-amazon.com/images/I/31NiaVwLlPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HAWKERS'
 buyurl: 'https://www.amazon.es/dp/B07JN8RCHC/?tag=tolees-21'
 descuento: '30.02'
-average: '19.6325'
+average: '19.198'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Lente plateada con efecto espejo fabricada en TR18, con reducción de brillos y con gran equilibrio entre claridad y protección. Lente de categoría 3 con protección UV400. Resistencia muy alta
-- Producto original Hawkers. La caja incluye funda de microfibra, caja y set de pegatinas decorativas.
 - Medidas: Frente: 14cm, Altura: 5cm, Varillas: 14cm
-- Icónico modelo Hawkers One, Unisex, con montura Carbon Black mate y lente plata efecto espejo
 - Montura fabricada con la característica trama de las gafas de carbono en TR90, que dota a las gafas de gran ligereza, flexibilidad y resistencia, muy resistente a altas y bajas temperaturas.
+- Producto original Hawkers. La caja incluye funda de microfibra, caja y set de pegatinas decorativas.
+- Icónico modelo Hawkers One, Unisex, con montura Carbon Black mate y lente plata efecto espejo
+- Lente plateada con efecto espejo fabricada en TR18, con reducción de brillos y con gran equilibrio entre claridad y protección. Lente de categoría 3 con protección UV400. Resistencia muy alta
 
 [🛒 Aquí!!!]({{< param buyurl >}})
