@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ayuda a desarrollar la imaginación y la creatividad
 - Con zapatos y tiara extraíbles
 - Muñeca coleccionable
 - Muñeca Ranpunzel de la película Enredados
+- Ayuda a desarrollar la imaginación y la creatividad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
