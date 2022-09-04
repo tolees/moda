@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvin Klein Chaqueta reciclada con Logotipo Lateral Tejidas  Egret  XS para Hombre'
-date: 2022-08-30 20:23:07
+date: 2022-09-04 09:48:45
 image: 'https://m.media-amazon.com/images/I/21c0kum4Y0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
