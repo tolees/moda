@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Medidas: Frente: 14cm, Altura: 5cm, Varillas: 14cm
-- Montura fabricada con la característica trama de las gafas de carbono en TR90, que dota a las gafas de gran ligereza, flexibilidad y resistencia, muy resistente a altas y bajas temperaturas.
 - Producto original Hawkers. La caja incluye funda de microfibra, caja y set de pegatinas decorativas.
-- Icónico modelo Hawkers One, Unisex, con montura Carbon Black mate y lente plata efecto espejo
 - Lente plateada con efecto espejo fabricada en TR18, con reducción de brillos y con gran equilibrio entre claridad y protección. Lente de categoría 3 con protección UV400. Resistencia muy alta
+- Montura fabricada con la característica trama de las gafas de carbono en TR90, que dota a las gafas de gran ligereza, flexibilidad y resistencia, muy resistente a altas y bajas temperaturas.
+- Icónico modelo Hawkers One, Unisex, con montura Carbon Black mate y lente plata efecto espejo
+- Medidas: Frente: 14cm, Altura: 5cm, Varillas: 14cm
 
 [🛒 Aquí!!!]({{< param buyurl >}})
