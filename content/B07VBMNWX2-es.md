@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- High neck Pullover e of cotton
 - Fine high neck Pullover
+- High neck Pullover e of cotton
 
 [🛒 Visítala!!!]({{< param buyurl >}})

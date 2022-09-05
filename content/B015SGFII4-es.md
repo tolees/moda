@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 43/44 EU (41/42 Brazilian)
-- Tipo de tacón: Plano
-- Material exterior: Caucho
 - Cierre: Sin cordones
+- Tipo de tacón: Plano
 - Material de la suela: Goma
+- Material exterior: Caucho
+- 43/44 EU (41/42 Brazilian)
 - Revestimiento: Sin forro
 
 [🛒 Comprar!!!]({{< param buyurl >}})
