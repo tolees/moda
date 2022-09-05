@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Contenido: 1 x Columbia Powder Pass, Chaqueta para hombre, Negro, L, Poliéster, 1894312
 - Ajuste óptimo gracias al dobladillo ajustable con cordón
 - Bolsillos con cremallera óptimas para mantener las manos calientes y las pertenencias seguras
 - Chaqueta de Columbia para hombre resistente al agua, Construcción híbrida
-- Contenido: 1 x Columbia Powder Pass, Chaqueta para hombre, Negro, L, Poliéster, 1894312
 - Protector de barbilla para una mayor protección contra los elementos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

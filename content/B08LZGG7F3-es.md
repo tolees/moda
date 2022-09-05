@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Marca: Helly Hansen
 - Hecho con materiales que proporciona comodidad durante todo el día
 - Diseño practico y óptima resistencia
-- Marca: Helly Hansen
 
 [🛒 Aquí!!!]({{< param buyurl >}})
