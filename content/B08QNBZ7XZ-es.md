@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Superdry Studios Chunky Roll Neck Sudadera  marrón Claro  XL para Mujer'
-date: 2022-09-01 20:54:19
+date: 2022-09-06 10:17:37
 image: 'https://m.media-amazon.com/images/I/415pLOcr7TL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08QNBZ7XZ-es Superdry Studios Chunky Roll Neck Sudadera marrón Claro XL...'
 sku: 'B08QNBZ7XZ-es'
 tags: [ 'Jerséis para mujer','Jerséis, cárdigans y sudaderas para mujer','Ropa','Ropa para mujer','sudadera','superdry','🇪🇸', ]
-actualPrice: 40.03 EUR
+actualPrice: 39.45 EUR
 currency: EUR
-price: 40.03
+price: 39.45
 comparePrice: 99.99 EUR
 prodname: 'Superdry Studios Chunky Roll Neck Sudadera  marrón Claro  XL para Mujer'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Superdry'
 buyurl: 'https://www.amazon.es/dp/B08QNBZ7XZ/?tag=tolees-21'
-descuento: '59.97'
-average: '40.07'
+descuento: '60.55'
+average: '39.915'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Logotipo clásico impreso en el pecho izquierdo
-- Pack de dos carpetas
 - Corte regular
+- Pack de dos carpetas
+- Logotipo clásico impreso en el pecho izquierdo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
