@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HAWKERS · Gafas de sol BEL AIR X para hombre y mujer · HAVANA · BOTTLE GREEN'
-date: 2022-09-02 10:54:13
+date: 2022-09-06 16:06:46
 image: 'https://m.media-amazon.com/images/I/31ZxpaXdKAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HAWKERS'
 buyurl: 'https://www.amazon.es/dp/B08BQ4YQ2Z/?tag=tolees-21'
 descuento: '35.01'
-average: '35.2590909090909'
+average: '35.57'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Montura en acetato de celulosa de calidad que las hace más robustas
-- Lentes verde botella fabricadas en TR18, con reducción de brillos y con gran equilibrio entre claridad y protección. Lente de categoría 3 con protección UV400. Resistencia muy alta
-- Producto original Hawkers. La caja incluye funda de microfibra, caja y set de pegatinas decorativas
-- Medidas: Frente: 13,4 cm, Altura: 4,77 cm, Puente: 2,1 cm; Varillas: 14,5 cm
 - Bisagra de 5 barras para un óptima agarre y durabilidad. Diseño más ancho del terminal de la patilla para adecuadoar la ergonomía y confort. Unión de 45º para suavizar la junta entre montura y patilla dándole una continuidad adecuada
+- Producto original Hawkers. La caja incluye funda de microfibra, caja y set de pegatinas decorativas
+- Lentes verde botella fabricadas en TR18, con reducción de brillos y con gran equilibrio entre claridad y protección. Lente de categoría 3 con protección UV400. Resistencia muy alta
+- Medidas: Frente: 13,4 cm, Altura: 4,77 cm, Puente: 2,1 cm; Varillas: 14,5 cm
 - Gafas de Sol Bel Air, Unisex, Un diseño clásico estilo panto que combina montura en estampado habana y lentes verde botella
+- Montura en acetato de celulosa de calidad que las hace más robustas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
