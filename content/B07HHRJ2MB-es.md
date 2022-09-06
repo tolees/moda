@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Crocs Literide Clog  Zuecos Unisex Adulto  Navy/Pepper  43/44 EU'
-date: 2022-09-01 22:59:07
+date: 2022-09-06 13:10:32
 image: 'https://m.media-amazon.com/images/I/31XHAI2SOxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Crocs'
 buyurl: 'https://www.amazon.es/dp/B07HHRJ2MB/?tag=tolees-21'
 descuento: '43.24'
-average: '36.8264705882353'
+average: '36.6722222222222'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
