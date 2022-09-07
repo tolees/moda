@@ -1,25 +1,25 @@
 ---
 layout: post
 title: 'Havaianas Top  Chanclas Unisex Adulto  Negro  43/44 EU'
-date: 2022-09-05 05:31:14
-image: 'https://m.media-amazon.com/images/I/314Dk-x7noL._SL500_._SL400_.jpg'
+date: 2022-09-07 03:00:29
+image: 'https://m.media-amazon.com/images/I/31lBOUiDNwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B000YKMHG6-es Havaianas Top Chanclas Unisex Adulto Negro 43/44 EU'
 sku: 'B000YKMHG6-es'
 tags: [ 'Sandalias de dedo para mujer','Sandalias y palas de mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','chanclas','havaianas','🇪🇸', ]
-actualPrice: 12.92 EUR
+actualPrice: 12.75 EUR
 currency: EUR
-price: 12.92
+price: 12.75
 comparePrice: 17.99 EUR
 prodname: 'Havaianas Top  Chanclas Unisex Adulto  Negro  43/44 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Havaianas'
 buyurl: 'https://www.amazon.es/dp/B000YKMHG6/?tag=tolees-21'
-descuento: '28.18'
-average: '10.3255319148936'
+descuento: '29.13'
+average: '10.3760416666667'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Composición: Goma
+- Material de la suela: Goma
 - Cierre: Sin cordones
 - Tipo de tacón: Plano
-- Material de la suela: Goma
-- Revestimiento: Sin forro
+- Composición: Goma
 - Material exterior: Goma
+- Revestimiento: Sin forro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
