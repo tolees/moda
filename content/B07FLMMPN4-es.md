@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Color: negro
 - Con ranuras para tarjetas de crédito
+- Color: negro
 
 [🛒 Comprar!!!]({{< param buyurl >}})

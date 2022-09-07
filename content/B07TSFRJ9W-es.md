@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Logotipo clásico en el pecho
 - 100% algodón piqué
 - Tamaños grandes
-- Logotipo clásico en el pecho
 
 [🛒 Comprar!!!]({{< param buyurl >}})

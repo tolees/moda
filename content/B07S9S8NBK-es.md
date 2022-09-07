@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Logotipo PUMA N.º 1 en las tiras
-- Suela de EVA inyectada para mayor suavidad y comodidad
 - Tiras acolchada de piel sintética
+- Suela de EVA inyectada para mayor suavidad y comodidad
+- Logotipo PUMA N.º 1 en las tiras
 
 [🛒 Aquí!!!]({{< param buyurl >}})
