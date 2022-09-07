@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Carhartt es una marca de ropa de trabajo, con un ajuste más amplio en el pecho y los hombros. Si prefiere un ajuste más adaptado al cuerpo, escoja una talla más baja.
 - 103296-412-NAVY-M
+- Carhartt es una marca de ropa de trabajo, con un ajuste más amplio en el pecho y los hombros. Si prefiere un ajuste más adaptado al cuerpo, escoja una talla más baja.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
