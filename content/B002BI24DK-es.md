@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ray-Ban 0RB3016 Gafas de Sol  Negro  49 para Hombre'
-date: 2022-08-25 08:11:22
+date: 2022-09-07 14:39:40
 image: 'https://m.media-amazon.com/images/I/31raM8dos7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ray-Ban'
 buyurl: 'https://www.amazon.es/dp/B002BI24DK/?tag=tolees-21'
 descuento: '33.62'
-average: '127.7'
+average: '127.616666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
