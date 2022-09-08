@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Gafas de sol estilo ONE con montura negra en acabado brillante y lentes negras.
-- Lente negra fabricada en TR18, con reducción de brillos y con gran equilibrio entre claridad y protección. Lente de categoría 3 con protección UV400. Resistencia muy alta
-- Producto original Hawkers. La caja incluye funda, caja y set de pegatinas decorativas.
 - Montura fabricada en TR90 que dota a las gafas de gran ligereza, flexibilidad y resistencia. Muy resistente a altas y bajas temperaturas.
+- Producto original Hawkers. La caja incluye funda, caja y set de pegatinas decorativas.
 - Modelo Unisex. Frontal 14 cm, Alto 5 cm, Patillas 14 cm
+- Lente negra fabricada en TR18, con reducción de brillos y con gran equilibrio entre claridad y protección. Lente de categoría 3 con protección UV400. Resistencia muy alta
 
 [🛒 Visítala!!!]({{< param buyurl >}})

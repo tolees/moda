@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bolsillos de canguro para calentar las manos; Port media en los bolsillos
-- El ajuste regular es perfecto: no demasiado apretado ni demasiado holgado
 - Tejido de felpa de poliéster francés cepillado
-- Tejido de secado rápido y muy transpirable.
+- Bolsillos de canguro para calentar las manos; Port media en los bolsillos
 - Capucha ajustable con cordón; Los puños con orificio para el pulgar mantienen las mangas en su lugar
+- El ajuste regular es perfecto: no demasiado apretado ni demasiado holgado
+- Tejido de secado rápido y muy transpirable.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
