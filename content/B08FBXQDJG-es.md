@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tejido ligero y transpirable
-- Detalles distintivos de la marca
-- Producto con ajuste regular
 - Amplia libertad de movimiento
+- Producto con ajuste regular
+- Detalles distintivos de la marca
+- Tejido ligero y transpirable
 
 [🛒 Aquí!!!]({{< param buyurl >}})
