@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Capucha para tormentas ajustable con protección para la barbilla, Puños adaptables y cordón en el dobladillo para un ajuste óptimo y máxima protección contra la lluvia
 - Contenido: 1x Columbia inner limits II Chaqueta impermeable para mujer, Nailon, Negro, XL, Art. 1895802
 - Impermeable y transpirable gracias a las costuras selladas con tecnología Omni-Tech
-- Capucha para tormentas ajustable con protección para la barbilla, Puños adaptables y cordón en el dobladillo para un ajuste óptimo y máxima protección contra la lluvia
 - Dos bolsillos con cremallera y un bolsillo interior de seguridad para mantener sus pertenencias a salvo.
 - La chaqueta para la lluvia para mujer es adecuado para las aventuras urbanas y al aire libre
 
