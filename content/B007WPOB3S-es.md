@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Havaianas Brasil Logo  Chanclas Unisex Adulto  Azul  Navy Blue   41/42 EU'
-date: 2022-09-07 02:59:02
+date: 2022-09-08 04:08:15
 image: 'https://m.media-amazon.com/images/I/31hIcGHgIdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tipo de tacón: Plano
-- Revestimiento: Caucho
-- Cierre: Sin cordones
-- Composición: Goma
-- Material exterior: Caucho
-- Material de la suela: Goma
+- Fits true
+- Note: consider size BR = EU size regardless of what the sole of the product shows. BR size is the best fit and corresponds to your EU size + always try on the product first
+- Note: Size printed on the sole is US size, UK size is mentioned on the label
 
 [🛒 Aquí!!!]({{< param buyurl >}})
