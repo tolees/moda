@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger LS Pant Jersey Set Juego de Pijama  White/Rose Tan  12-14 Years para Niñas'
-date: 2022-09-03 15:29:47
+date: 2022-09-07 21:26:30
 image: 'https://m.media-amazon.com/images/I/21r8CJlzo+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
