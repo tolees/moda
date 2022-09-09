@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - EnergyCell
-- EndoFit
 - Funda de ajuste interno diseñada para abrazar el pie correctamente y ofrecer un ajuste preciso.
+- EndoFit
 - Funda de ajuste interno diseñada para abrazar el pie correctamente y ofrecer un ajuste preciso.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

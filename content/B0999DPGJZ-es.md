@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Sandalias Cómodas y a la moda
 - Resistente al agua
 - Temporada Primavera- Verano
-- Sandalias Cómodas y a la moda
 
 [🛒 Comprar!!!]({{< param buyurl >}})
