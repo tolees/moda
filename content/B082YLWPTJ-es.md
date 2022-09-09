@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Superdry Cl NS Hood Sudadera con Capucha  Negro  M para Hombre'
-date: 2022-09-05 12:42:38
+date: 2022-09-09 19:24:29
 image: 'https://m.media-amazon.com/images/I/31iVhbg6e7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Superdry'
 buyurl: 'https://www.amazon.es/dp/B082YLWPTJ/?tag=tolees-21'
 descuento: '35.02'
-average: '51.38'
+average: '51.48'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

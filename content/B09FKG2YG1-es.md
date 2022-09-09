@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jacdynasty Travel Kit Calzoncillos Tipo bóxer y Calcetines  Lush Meadow  L para Hombre'
-date: 2022-09-08 20:19:00
+date: 2022-09-09 20:25:20
 image: 'https://m.media-amazon.com/images/I/319zAEIxluL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
