@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Presenta puños de canalé
 - Producto de corte regular
 - Tiene el logo de Lee bordado en el pecho
+- Presenta puños de canalé
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

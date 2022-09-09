@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con 2 bolsillos en el pecho
 - Chaqueta para hombre
+- Con 2 bolsillos en el pecho
 - Tiene una etiqueta con el logotipo de la marca Lee
 
 [🛒 Aquí!!!]({{< param buyurl >}})
