@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Geox D Nydame  Zapatillas  para Mujer  Beige  Taupe Ice   39 EU'
-date: 2022-09-09 00:56:28
-image: 'https://m.media-amazon.com/images/I/41o61-4gXaL._SL500_._SL400_.jpg'
+title: 'Geox D NYDAME  Zapatillas  para Mujer  Negro  Negro   39 EU'
+date: 2022-09-09 01:17:14
+image: 'https://m.media-amazon.com/images/I/41EXxzlHVnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B096NS6GQM-es Geox D Nydame Zapatillas para Mujer Beige Taupe Ice 39 EU'
-sku: 'B096NS6GQM-es'
+slug: 'B096NQMFMM-es Geox D NYDAME Zapatillas para Mujer Negro Negro 39 EU'
+sku: 'B096NQMFMM-es'
 tags: [ 'Zapatillas casual para mujer','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','geox','🇪🇸', ]
-actualPrice: 68.69 EUR
+actualPrice: 81.25 EUR
 currency: EUR
-price: 68.69
+price: 81.25
 comparePrice: 139.9 EUR
-prodname: 'Geox D Nydame  Zapatillas  para Mujer  Beige  Taupe Ice   39 EU'
+prodname: 'Geox D NYDAME  Zapatillas  para Mujer  Negro  Negro   39 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Geox'
-buyurl: 'https://www.amazon.es/dp/B096NS6GQM/?tag=tolees-21'
-descuento: '50.90'
-average: '70.455'
+buyurl: 'https://www.amazon.es/dp/B096NQMFMM/?tag=tolees-21'
+descuento: '41.92'
+average: '81.25'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Revestimiento: Sintético
 - Material exterior: Cuero
+- Revestimiento: Sintético
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
