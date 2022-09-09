@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Talla: medida de la cintura o la cadera
 - Este estilo ha sido producido de forma sostenible
 - Se mide desde la punta de la hebilla hasta el agujero del centro
+- Talla: medida de la cintura o la cadera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
