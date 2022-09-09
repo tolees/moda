@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 95 % algodón, 5 % elastano
 - Instrucciones de cuidado: lavar a máquina en frío (30° máx.)
+- 95 % algodón, 5 % elastano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
