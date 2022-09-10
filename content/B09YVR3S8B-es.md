@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Logotipo en el pecho
-- Cuello redondo
-- Estilo: Regular fit
 - Corte estándar
+- Estilo: Regular fit
+- Cuello redondo
+- Logotipo en el pecho
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - La tela de prueba de caída 25D es ligera con DWR
-- Versatilidad para usar bajo la cubierta o por sí solo, en una amplia gama de condiciones
-- La tela Softshell es un tejido doble con un tratamiento de repelencia al agua duradera que elimina la lluvia
-- La tecnología Down combinada con paneles de softshell clave proporciona una excelente versatilidad en exteriores
 - El gancho 90/10 con potencia de relleno de 800 significa que esta chaqueta es extremadamente cálida
+- La tela Softshell es un tejido doble con un tratamiento de repelencia al agua duradera que elimina la lluvia
+- Versatilidad para usar bajo la cubierta o por sí solo, en una amplia gama de condiciones
+- La tecnología Down combinada con paneles de softshell clave proporciona una excelente versatilidad en exteriores
 
 [🛒 Visítala!!!]({{< param buyurl >}})

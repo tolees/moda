@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Monograma en hebilla
 - Tela de lona
-- Signatur Calvin Klein Monograma Hebilla 100% Cuero
 - Ancho: 4 cm
+- Monograma en hebilla
+- Signatur Calvin Klein Monograma Hebilla 100% Cuero
 
 [🛒 Visítala!!!]({{< param buyurl >}})
