@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Acolchado
+- Ligera
 - Con capucha
 - Chaqueta
-- Ligera
-- Acolchado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
