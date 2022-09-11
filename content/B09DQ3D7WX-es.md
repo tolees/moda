@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Wonderbra Triangle Lace Push Up Sujetador  Negro  100C para Mujer'
-date: 2022-09-09 18:28:48
+date: 2022-09-11 03:52:56
 image: 'https://m.media-amazon.com/images/I/41zATAGQT0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Wonderbra'
 buyurl: 'https://www.amazon.es/dp/B09DQ3D7WX/?tag=tolees-21'
 descuento: '67.15'
-average: '13.61'
+average: '13.222'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
