@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tollstore - Star Trek - Vestido de uniforme TOS para mujer  talla S   color rojo'
-date: 2022-08-29 14:14:03
+date: 2022-09-11 20:42:54
 image: 'https://m.media-amazon.com/images/I/31pleK22qhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El paquete incluye: vesti
 - Si pides el vestido en S, en unos 2 días puedes mantener la mercancía.
+- El paquete incluye: vesti
 - Consulta la tabla de tallas en las imágenes del artículo. Por favor, selecciona la talla según nuestra tabla de tallas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
