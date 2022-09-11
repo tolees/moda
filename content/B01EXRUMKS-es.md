@@ -1,25 +1,25 @@
 ---
 layout: post
 title: 'Ray-Ban Hexagonal Flat Lenses Gafas de Sol  Oro  Gold   51 para Hombre'
-date: 2022-09-02 10:54:30
-image: 'https://m.media-amazon.com/images/I/21YzO38xQjL._SL500_._SL400_.jpg'
+date: 2022-09-10 21:38:28
+image: 'https://m.media-amazon.com/images/I/21CkLbnOYPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B01EXRUMKS-es Ray-Ban Hexagonal Flat Lenses Gafas de Sol Oro Gold 51...'
 sku: 'B01EXRUMKS-es'
 tags: [ 'Accesorios para hombre','Gafas de sol para hombre','Gafas y accesorios para hombre','Ropa','Ropa para hombre','gafas','ray-ban','🇪🇸', ]
-actualPrice: 93.99 EUR
+actualPrice: 86.99 EUR
 currency: EUR
-price: 93.99
+price: 86.99
 comparePrice: 142.0 EUR
 prodname: 'Ray-Ban Hexagonal Flat Lenses Gafas de Sol  Oro  Gold   51 para Hombre'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Ray-Ban'
 buyurl: 'https://www.amazon.es/dp/B01EXRUMKS/?tag=tolees-21'
-descuento: '33.81'
-average: '91.7950000000001'
+descuento: '38.74'
+average: '91.3581818181819'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

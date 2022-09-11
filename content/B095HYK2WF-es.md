@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Una mezcla única de algodón y cáñamo que ofrece un look auténtico y un tacto más suave
 - Fit relajado en el cuerpo y las mangas
+- Una mezcla única de algodón y cáñamo que ofrece un look auténtico y un tacto más suave
 
 [🛒 Visítala!!!]({{< param buyurl >}})
