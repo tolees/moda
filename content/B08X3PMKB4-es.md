@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jjeace Buffer Hood Noos Chaqueta  Navy Blazer 2  XXL para Hombre'
-date: 2022-09-08 22:25:00
+date: 2022-09-12 18:59:55
 image: 'https://m.media-amazon.com/images/I/41p1mBii+nL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Capucha
-- Chaqueta
 - Ligera
 - Acolchado
+- Capucha
+- Chaqueta
 
 [🛒 Comprar!!!]({{< param buyurl >}})
