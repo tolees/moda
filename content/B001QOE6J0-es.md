@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- The original straight fit jean - a blank canvas for self-expression
 - The original blue jean since 187
+- The original straight fit jean - a blank canvas for self-expression
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

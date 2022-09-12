@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvin Klein J 4cm Adj.Monogram Canvas Belt Cinturón  Negro  Black 001   90 para Hombre'
-date: 2022-09-10 18:56:51
+date: 2022-09-12 07:26:51
 image: 'https://m.media-amazon.com/images/I/31+UyFoKY1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tela de lona
 - Ancho: 4 cm
+- Tela de lona
 - Monograma en hebilla
 - Signatur Calvin Klein Monograma Hebilla 100% Cuero
 

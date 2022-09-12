@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Nos hemos unido a la Better Cotton Initiative para mejorar el cultivo de algodón en todo el mundo
-- Un icono del estilo estadounidense
 - Corte recto original
+- Un icono del estilo estadounidense
 - Los vaqueros azules originales desde 1873
 - Un lienzo en blanco para la expresión propia
 
