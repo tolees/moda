@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vero Moda VMHENNA 2/4 Wrap Frill Dress Noos Vestido  Negro/AOP: Puntos pequeños  XL para Mujer'
-date: 2022-09-04 09:56:56
+date: 2022-09-12 08:43:45
 image: 'https://m.media-amazon.com/images/I/41KyirkRHPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
