@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Manga corta
-- Corte deportivo
-- Ajuste regular
 - Cuello redondo
+- Ajuste regular
+- Corte deportivo
+- Manga corta
 
 [🛒 Visítala!!!]({{< param buyurl >}})
