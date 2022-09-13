@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Talle medio
-- Bajo recto con borde acanalado
 - Corte recto
+- Bajo recto con borde acanalado
+- Talle medio
 - Estampado de gel de G-Star RAW en el pecho
 - Manga larga y puños acanalados
 
