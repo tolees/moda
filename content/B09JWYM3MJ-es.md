@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Havaianas Brasil Logo  Chanclas Unisex Adulto  Verde  Dark Green   41/42 EU'
-date: 2022-09-12 05:43:35
+date: 2022-09-13 06:17:30
 image: 'https://m.media-amazon.com/images/I/41O8A9mCtRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Havaianas'
 buyurl: 'https://www.amazon.es/dp/B09JWYM3MJ/?tag=tolees-21'
 descuento: '30.17'
-average: '18.9318181818182'
+average: '18.8666666666667'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
