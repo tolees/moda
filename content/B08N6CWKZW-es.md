@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Logotipo bordado en el lateral
 - Parte superior de piel de serpiente
+- Logotipo bordado en el lateral
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
