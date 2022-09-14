@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s 511 Slim Durian OD Subtle Vaqueros  34W / 34L para Hombre'
-date: 2022-09-13 06:19:58
+date: 2022-09-14 06:23:38
 image: 'https://m.media-amazon.com/images/I/31vCe5MzCQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07KF534ZS-es Levi s 511 Slim Durian OD Subtle Vaqueros 34W / 34L para...'
 sku: 'B07KF534ZS-es'
 tags: [ 'Ropa','Ropa para hombre','Vaqueros para hombre','levis','vaqueros','🇪🇸', ]
-actualPrice: 71.54 EUR
+actualPrice: 70.7 EUR
 currency: EUR
-price: 71.54
+price: 70.7
 comparePrice: 100.0 EUR
 prodname: 'Levi s 511 Slim Durian OD Subtle Vaqueros  34W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07KF534ZS/?tag=tolees-21'
-descuento: '28.46'
-average: '66.1678947368419'
+descuento: '29.30'
+average: '66.226753246753'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
