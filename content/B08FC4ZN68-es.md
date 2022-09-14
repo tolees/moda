@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Parche con el logo de Tommy Jeans en el pecho
 - Modelo con cuello redondo
 - Producto con diseño clásico y estilo para todos los días
+- Parche con el logo de Tommy Jeans en el pecho
 
 [🛒 Aquí!!!]({{< param buyurl >}})

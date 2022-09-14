@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Sudadera con capucha para practicar Acampada y senderismo de Hombre
 - Ropa deportiva fabricada con materiales de primera calidad que se adaptan a cualquier actividad deportiva
-- Ropa deportiva Azul de la marca Reebok
-- Sudadera con capucha RI Tape OTH Hoodie BATBLU
 - Los productos deportivos de la marca Reebok están diseñados para que disfrutes de tu deporte favorito sin preocuparte de nada más que rendir al máximo
+- Sudadera con capucha RI Tape OTH Hoodie BATBLU
+- Ropa deportiva Azul de la marca Reebok
 
 [🛒 Aquí!!!]({{< param buyurl >}})
