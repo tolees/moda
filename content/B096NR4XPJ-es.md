@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox U Sterrato  Zapatillas Hombre  Ochre/Grey Lt  39 EU'
-date: 2022-09-12 00:13:36
+date: 2022-09-14 00:34:07
 image: 'https://m.media-amazon.com/images/I/416aC-XNM9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B096NR4XPJ-es Geox U Sterrato Zapatillas Hombre Ochre/Grey Lt 39 EU'
 sku: 'B096NR4XPJ-es'
 tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','geox','🇪🇸', ]
-actualPrice: 30.7 EUR
+actualPrice: 30.15 EUR
 currency: EUR
-price: 30.7
+price: 30.15
 comparePrice: 109.9 EUR
 prodname: 'Geox U Sterrato  Zapatillas Hombre  Ochre/Grey Lt  39 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B096NR4XPJ/?tag=tolees-21'
-descuento: '72.07'
-average: '32.6066666666667'
+descuento: '72.57'
+average: '31.9925'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
