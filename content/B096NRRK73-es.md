@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox Hombre Zapatillas U Jonas Gris de La Paloma 42 EU'
-date: 2022-09-07 14:50:38
+date: 2022-09-15 07:30:21
 image: 'https://m.media-amazon.com/images/I/41ulSM9XoNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B096NRRK73/?tag=tolees-21'
 descuento: '60.01'
-average: '38.95'
+average: '38.2'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
