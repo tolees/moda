@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ajuste regular
 - Longitud estándar
+- Ajuste regular
 - Cuello de banda
 
 [🛒 Visítala!!!]({{< param buyurl >}})
