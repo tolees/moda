@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- plantillas running
-- plantillas deportivas hombre
-- plantillas para botas zapatillas
-- plantillas memory foam
 - plantillas gel
+- plantillas memory foam
+- plantillas para botas zapatillas
+- plantillas deportivas hombre
+- plantillas running
 
 [🛒 Comprar!!!]({{< param buyurl >}})
