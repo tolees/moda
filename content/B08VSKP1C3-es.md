@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Las icónicas 3 rayas en las mangas le dan un aspecto deportivo
 - Puños y dobladillo de canalé
+- Las icónicas 3 rayas en las mangas le dan un aspecto deportivo
 - Felpa 70% Algodón, 30% Poliéster Reciclado
 - Cuello redondo
 
