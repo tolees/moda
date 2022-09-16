@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox Uomo Sandal Strada D  Sandalias con Punta Abierta  para Hombre  Marrón  Marrón/Sand C0705   41 EU'
-date: 2022-09-14 06:19:00
+date: 2022-09-16 12:52:57
 image: 'https://m.media-amazon.com/images/I/314cowKfxgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B07F3BZ5CY/?tag=tolees-21'
 descuento: '17.75'
-average: '61.2190625'
+average: '61.1060606060606'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
