@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox Hombre Zapatillas U Jonas Gris de La Paloma 42 EU'
-date: 2022-09-15 07:30:21
+date: 2022-09-16 10:53:45
 image: 'https://m.media-amazon.com/images/I/41ulSM9XoNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,6 +28,5 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El diseño sobrio y versátil, de piel gamuzada y tela de la deportiva de hombre Jonas valoriza los looks informales y urbanos de cada día, y viste con ligereza y un confort únicos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
