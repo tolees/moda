@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Lentejuelas bordadas en las margaritas
 - Sostenible: algodón BCI
 - Camiseta cropped margaritas
 - Estampado de signo ...!! de la colección con diseño de margaritas
-- Lentejuelas bordadas en las margaritas
 - Sostenible: algodón BCI
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
