@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La sudadera atemporal de cuello redondo
 - Con el clásico logotipo de Housemark en la parte delantera
+- La sudadera atemporal de cuello redondo
 - Cuello redondo, puños y dobladillo acanalados
 - Hecho de tela de forro polar acogedora
 
