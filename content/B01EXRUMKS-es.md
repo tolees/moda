@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ray-Ban Hexagonal Flat Lenses Gafas de Sol  Oro  Gold   51 para Hombre'
-date: 2022-09-10 21:38:28
+date: 2022-09-17 07:43:05
 image: 'https://m.media-amazon.com/images/I/21CkLbnOYPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ray-Ban'
 buyurl: 'https://www.amazon.es/dp/B01EXRUMKS/?tag=tolees-21'
 descuento: '38.74'
-average: '91.3581818181819'
+average: '90.9941666666667'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
