@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Material que capilariza el sudor y se seca rápidamente
 - Tecnología UA Storm que repele el agua sin sacrificar la transpirabilidad
 - Parte delantera con tejido antidesgarros suave, ligero y duradero
-- Material que capilariza el sudor y se seca rápidamente
 - Confección con tejido elástico en 4 direcciones que permite una mayor movilidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
