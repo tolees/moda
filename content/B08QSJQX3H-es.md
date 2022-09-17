@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La ropa Superdry está fabricada con el equilibrio adecuado entre estilo y comodidad; recomendamos una talla más grande que las marcas usuales para una experiencia de superdry
 - Hecha con una mezcla de algodón orgánico y TENCEL; el algodón orgánico se cultiva sin usar productos químicos artificiales, lo que mejora la calidad del suelo, usa un 60-90 % menos de agua y mejora la salud de los agricultores
 - Estudio
+- La ropa Superdry está fabricada con el equilibrio adecuado entre estilo y comodidad; recomendamos una talla más grande que las marcas usuales para una experiencia de superdry
 
 [🛒 Aquí!!!]({{< param buyurl >}})
