@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello redondo
 - Logotipo en el pecho
 - Corte regular
+- Cuello redondo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
