@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clarks Batcombe Wing  Zapatos de Cordones Derby Hombre  Marrón  Dark Tan Leather   42 EU'
-date: 2022-09-17 07:22:00
+date: 2022-09-18 12:56:45
 image: 'https://m.media-amazon.com/images/I/41RWG8+FCxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Clarks'
 buyurl: 'https://www.amazon.es/dp/B072MKKRT9/?tag=tolees-21'
 descuento: '33.21'
-average: '67.8313793103448'
+average: '68.0193333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
