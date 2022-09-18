@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OAKLEY 0OO9401 Gafas de sol para Unisex  Blanco  0'
-date: 2022-09-14 11:38:22
+date: 2022-09-18 17:39:14
 image: 'https://m.media-amazon.com/images/I/31p9V-tIf9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Oakley'
 buyurl: 'https://www.amazon.es/dp/B07C85C5MF/?tag=tolees-21'
 descuento: '43.40'
-average: '118.463'
+average: '118.601818181818'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
