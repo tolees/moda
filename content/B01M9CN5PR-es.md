@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fit: Roomy (Relaxed Fit)
-- Sole: Rubber
-- Lining: Mesh
 - Uppers: Leather
+- Fit: Roomy (Relaxed Fit)
+- Lining: Mesh
+- Sole: Rubber
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

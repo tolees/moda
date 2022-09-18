@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- enfoque de pierna corta
-- Hugo Boss, 3 Unidades Trunk
-- alto contenido de algodón
 - Logo de Hugo Boss
 - Comodidad para todos los días
+- Hugo Boss, 3 Unidades Trunk
+- enfoque de pierna corta
+- alto contenido de algodón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
