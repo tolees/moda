@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HAWKERS · Gafas de sol Nº9 para hombre y mujer · BROWN'
-date: 2022-09-15 11:37:50
+date: 2022-09-19 17:27:02
 image: 'https://m.media-amazon.com/images/I/319Oph+nBGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Montura fabricada en acero inoxidable, altamente resistentes; con puente abierto de doble barra y terminales de TR90; sus almohadillas de silicona son antideslizantes y anti-alérgicas
-- Este modelo combina fusión de estructuras metálicas en color oro rosa y negro, con lentes negras y rosas efecto degradé y terminales en negro brillo
-- Producto original Hawkers; la caja incluye funda de microfibra, caja y set de pegatinas decorativas
 - Gafas de sol Nº9, Unisex, de diseño metálico redondeado con puente muy amplio, lo que dota a este modelo de personalidad propia
 - Medidas: Frente: 13,62 cm, Altura: 5 cm, Diámetro de la lente: 5 cm; Puente: 2,6 cm; Varillas: 14,5 cm
+- Producto original Hawkers; la caja incluye funda de microfibra, caja y set de pegatinas decorativas
+- Este modelo combina fusión de estructuras metálicas en color oro rosa y negro, con lentes negras y rosas efecto degradé y terminales en negro brillo
+- Montura fabricada en acero inoxidable, altamente resistentes; con puente abierto de doble barra y terminales de TR90; sus almohadillas de silicona son antideslizantes y anti-alérgicas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
