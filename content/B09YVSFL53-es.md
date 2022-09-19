@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Logotipo en el pecho
-- Cuello redondo
 - Corte regular
+- Cuello redondo
+- Logotipo en el pecho
 
 [🛒 Aquí!!!]({{< param buyurl >}})
