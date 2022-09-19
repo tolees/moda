@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Geox D Spherica D15NUA  Zapatillas Mujer  Light Green  39 EU'
-date: 2022-09-19 01:37:08
-image: 'https://m.media-amazon.com/images/I/41InbfHnsbL._SL500_._SL400_.jpg'
+title: 'Geox D Spherica D15NUA  Zapatillas Hombre  Fuchsia  39 EU'
+date: 2022-09-19 01:36:48
+image: 'https://m.media-amazon.com/images/I/41D+jhYswwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B096NQBZ7C-es Geox D Spherica D15NUA Zapatillas Mujer Light Green 39 EU'
-sku: 'B096NQBZ7C-es'
+slug: 'B096NR2TWT-es Geox D Spherica D15NUA Zapatillas Hombre Fuchsia 39 EU'
+sku: 'B096NR2TWT-es'
 tags: [ 'Zapatillas casual para mujer','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','geox','🇪🇸', ]
-actualPrice: 43.01 EUR
+actualPrice: 55.27 EUR
 currency: EUR
-price: 43.01
+price: 55.27
 comparePrice: 99.9 EUR
-prodname: 'Geox D Spherica D15NUA  Zapatillas Mujer  Light Green  39 EU'
+prodname: 'Geox D Spherica D15NUA  Zapatillas Hombre  Fuchsia  39 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Geox'
-buyurl: 'https://www.amazon.es/dp/B096NQBZ7C/?tag=tolees-21'
-descuento: '56.95'
-average: '45.295'
+buyurl: 'https://www.amazon.es/dp/B096NR2TWT/?tag=tolees-21'
+descuento: '44.67'
+average: '61.2475'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,7 +29,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cierre: Cordones
-- Material de la suela: Caucho
 - Revestimiento: Sintético
+- Material de la suela: Caucho
 
 [🛒 Visítala!!!]({{< param buyurl >}})
