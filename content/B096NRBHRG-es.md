@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox Hombre Zapatillas U Jonas Gris 40 EU'
-date: 2022-09-13 22:44:17
+date: 2022-09-19 00:36:04
 image: 'https://m.media-amazon.com/images/I/41e3aLtFZ9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B096NRBHRG-es Geox Hombre Zapatillas U Jonas Gris 40 EU'
 sku: 'B096NRBHRG-es'
 tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','geox','🇪🇸', ]
-actualPrice: 42.51 EUR
+actualPrice: 53.94 EUR
 currency: EUR
-price: 42.51
+price: 53.94
 comparePrice: 89.9 EUR
 prodname: 'Geox Hombre Zapatillas U Jonas Gris 40 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B096NRBHRG/?tag=tolees-21'
-descuento: '52.71'
-average: '42.51'
+descuento: '40.00'
+average: '48.225'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
