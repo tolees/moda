@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Anchura del zapato: Normal
 - Material exterior: Cuero
 - Composición: Cuero
-- Tipo de tacón: Plano
-- Material de la suela: Caucho
 - Cierre: Cordones
-- Anchura del zapato: Normal
-- Revestimiento: Tela
 - Altura del tacón: 2 centímetros
+- Tipo de tacón: Plano
+- Revestimiento: Tela
+- Material de la suela: Caucho
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

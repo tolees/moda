@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Napapijri S-Box SS 3 Camiseta  Azul  Skydiver Blue   XXL Hombres'
-date: 2022-09-15 09:08:01
+date: 2022-09-19 14:53:13
 image: 'https://m.media-amazon.com/images/I/31O7wcz0vZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,7 +29,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Logotipo en el pecho
-- Corte regular
 - Cuello redondo
+- Corte regular
 
 [🛒 Aquí!!!]({{< param buyurl >}})
