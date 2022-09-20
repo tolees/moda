@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Marca en relieve.
 - Correa lisa de 4 cm.
+- Estilo n.º 12120697
 - S 30-32", M 34-36", L 36-38", XL 40-42".
 - Hebilla de metal.
-- Estilo n.º 12120697
+- Marca en relieve.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
