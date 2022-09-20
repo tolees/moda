@@ -29,7 +29,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Polo Lacoste Slim Fit
-- Tapeta 2 botones
 - Slim fit
+- Tapeta 2 botones
 
 [🛒 Comprar!!!]({{< param buyurl >}})
