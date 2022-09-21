@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Classic five-pocket jeans
 - Added stretch for comfort and flexibility
+- Classic five-pocket jeans
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
