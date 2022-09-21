@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FILA Disruptor kids  Zapatilla Unisex niños  Blanco  White   34 EU'
-date: 2022-09-13 13:46:26
+date: 2022-09-21 15:01:15
 image: 'https://m.media-amazon.com/images/I/41ECqPILMOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Fila'
 buyurl: 'https://www.amazon.es/dp/B07HPCD8ND/?tag=tolees-21'
 descuento: '43.09'
-average: '51.7462500000001'
+average: '51.4641176470589'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
