@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s SS Relaxed FIT tee MV SSNL Logo White G Camiseta  M para Hombre'
-date: 2022-09-17 21:09:33
+date: 2022-09-21 08:10:40
 image: 'https://m.media-amazon.com/images/I/31w7QCoIVhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B0897YQ8KK/?tag=tolees-21'
 descuento: '33.40'
-average: '17.215'
+average: '17.768'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

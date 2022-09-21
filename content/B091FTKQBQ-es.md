@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajuste cómodo que ofrece libertad de movimiento y flexibilidad
-- Material resistente y duradero
 - Con tecnología Micro-Mesh en los laterales para facilitar la transpiración
 - Tiene detalles distintivos de la marca
+- Material resistente y duradero
+- Ajuste cómodo que ofrece libertad de movimiento y flexibilidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

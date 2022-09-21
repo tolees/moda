@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Slim
-- Tiro alto
-- Cierre de botón y cremallera
-- 6 bolsillos
 - Minifalda de camuflaje floral
+- 6 bolsillos
+- Slim
+- Cierre de botón y cremallera
+- Tiro alto
 
 [🛒 Visítala!!!]({{< param buyurl >}})
