@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vans MN Classic Crew II Sudadera  Negro  Black-fwhite Y28   M para Hombre'
-date: 2022-09-16 12:54:51
+date: 2022-09-21 00:27:22
 image: 'https://m.media-amazon.com/images/I/312LTBWjhQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Vans'
 buyurl: 'https://www.amazon.es/dp/B07SL3VYD3/?tag=tolees-21'
 descuento: '31.85'
-average: '39.3291666666666'
+average: '39.3915999999999'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
