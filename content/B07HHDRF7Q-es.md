@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Suela: EVA para peso ligero
-- Color: negro
-- Cierre de velcro para un ajuste cómodo
-- XL extra para mayor ligereza y absorción de impactos
 - Parte superior: cuero (piel de vacuno)
+- XL extra para mayor ligereza y absorción de impactos
+- Cierre de velcro para un ajuste cómodo
+- Color: negro
+- Suela: EVA para peso ligero
 
 [🛒 Visítala!!!]({{< param buyurl >}})
