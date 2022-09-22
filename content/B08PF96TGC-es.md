@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s 511 Slim Vaqueros  Stone Horizon  34W / 34L para Hombre'
-date: 2022-09-20 18:52:42
+date: 2022-09-22 01:35:22
 image: 'https://m.media-amazon.com/images/I/41sQo4uCY8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B08PF96TGC/?tag=tolees-21'
 descuento: '23.70'
-average: '80.21'
+average: '78.9066666666667'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

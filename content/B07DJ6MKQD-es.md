@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox UOMO SANDAL STRADA A  Sandalias Con Punta Abierta  para Hombre  Marrón  Coffee C6009   42 EU'
-date: 2022-09-21 00:26:01
+date: 2022-09-22 01:27:26
 image: 'https://m.media-amazon.com/images/I/41UUmFOXdkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B07DJ6MKQD/?tag=tolees-21'
 descuento: '20.00'
-average: '47.7641025641025'
+average: '47.9679999999999'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
