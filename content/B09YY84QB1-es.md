@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello redondo
-- Corte estándar
 - Estampado en el pecho
+- Corte estándar
+- Cuello redondo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

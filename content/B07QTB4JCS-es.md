@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ribete de color.
-- Protección para barbilla.
-- Cremallera de 1 vía en la parte delantera.
-- Insertos de malla laterales para una mejor transpirabilidad.
 - 2 bolsillos con cremallera.
+- Insertos de malla laterales para una mejor transpirabilidad.
+- Ribete de color.
+- Cremallera de 1 vía en la parte delantera.
+- Protección para barbilla.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
