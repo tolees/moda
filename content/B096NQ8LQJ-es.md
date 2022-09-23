@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Geox D Spherica D15NUA  Zapatillas Mujer  White  35 EU'
-date: 2022-09-22 22:06:00
-image: 'https://m.media-amazon.com/images/I/21y1YpnmbQL._SL500_._SL400_.jpg'
+title: 'Geox D Avery  Zapatillas  para Mujer  Beige  Lt Taupe Camel   39 EU'
+date: 2022-09-22 23:57:09
+image: 'https://m.media-amazon.com/images/I/31nYe1iu3HL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B08ZDS3DCD-es Geox D Spherica D15NUA Zapatillas Mujer White 35 EU'
-sku: 'B08ZDS3DCD-es'
+slug: 'B096NQ8LQJ-es Geox D Avery Zapatillas para Mujer Beige Lt Taupe Camel 39 EU'
+sku: 'B096NQ8LQJ-es'
 tags: [ 'Zapatillas casual para mujer','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','geox','🇪🇸', ]
-actualPrice: 41.44 EUR
+actualPrice: 40.47 EUR
 currency: EUR
-price: 41.44
+price: 40.47
 comparePrice: 99.9 EUR
-prodname: 'Geox D Spherica D15NUA  Zapatillas Mujer  White  35 EU'
+prodname: 'Geox D Avery  Zapatillas  para Mujer  Beige  Lt Taupe Camel   39 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Geox'
-buyurl: 'https://www.amazon.es/dp/B08ZDS3DCD/?tag=tolees-21'
-descuento: '58.52'
-average: '48.234'
+buyurl: 'https://www.amazon.es/dp/B096NQ8LQJ/?tag=tolees-21'
+descuento: '59.49'
+average: '43.005'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre: Cordones
-- Material de la suela: Caucho
 - Revestimiento: Sintético
+- Material exterior: Cuero
 
 [🛒 Aquí!!!]({{< param buyurl >}})
