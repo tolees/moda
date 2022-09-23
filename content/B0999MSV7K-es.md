@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Breton Stripe Tommy Logo LS tee Camiseta  Cinnabar/White  L para Hombre'
-date: 2022-09-22 07:28:22
+date: 2022-09-23 09:07:52
 image: 'https://m.media-amazon.com/images/I/41GlmOVZYrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Tommy Hilfiger'
 buyurl: 'https://www.amazon.es/dp/B0999MSV7K/?tag=tolees-21'
 descuento: '75.42'
-average: '17.56'
+average: '17.4333333333333'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
