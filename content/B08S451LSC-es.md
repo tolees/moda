@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Capucha con cordón
-- Tiene manga larga
 - Felpa, 80 % Algodón, 20 % Poliéster reciclado
+- Tiene manga larga
 - Cuenta con bolsillo canguro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
