@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Crocs Classic Tie Dye Clogs  Zuecos Unisex Adulto  Multi  39/40 EU'
-date: 2022-09-17 19:52:04
+date: 2022-09-23 20:34:23
 image: 'https://m.media-amazon.com/images/I/41gIrQsShbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B078FBVJ7J-es Crocs Classic Tie Dye Clogs Zuecos Unisex Adulto Multi...'
 sku: 'B078FBVJ7J-es'
 tags: [ 'Zapatos','Zapatos para hombre','Zapatos para mujer','Zapatos y complementos','Zuecos de mujer','Zuecos y mules de mujer','Zuecos y mules para hombre','crocs','zuecos','🇪🇸', ]
-actualPrice: 23.26 EUR
+actualPrice: 21.9 EUR
 currency: EUR
-price: 23.26
+price: 21.9
 comparePrice: 49.99 EUR
 prodname: 'Crocs Classic Tie Dye Clogs  Zuecos Unisex Adulto  Multi  39/40 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Crocs'
 buyurl: 'https://www.amazon.es/dp/B078FBVJ7J/?tag=tolees-21'
-descuento: '53.47'
-average: '23.02'
+descuento: '56.19'
+average: '22.8333333333333'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
