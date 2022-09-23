@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox U Nebula  Zapatillas Hombre  Negro  47 EU'
-date: 2022-09-08 23:24:42
+date: 2022-09-23 02:56:40
 image: 'https://m.media-amazon.com/images/I/31IEf4kRZ7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B096NRB97R-es Geox U Nebula Zapatillas Hombre Negro 47 EU'
 sku: 'B096NRB97R-es'
 tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','geox','🇪🇸', ]
-actualPrice: 52.7 EUR
+actualPrice: 32.07 EUR
 currency: EUR
-price: 52.7
+price: 32.07
 comparePrice: 139.9 EUR
 prodname: 'Geox U Nebula  Zapatillas Hombre  Negro  47 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B096NRB97R/?tag=tolees-21'
-descuento: '62.33'
-average: '52.7'
+descuento: '77.08'
+average: '42.385'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
