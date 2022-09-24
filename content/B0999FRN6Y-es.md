@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estampado de margaritas
+- Versión miniMe
 - Sostenible: poliéster reciclado
 - Vestido margaritas tul
 - Mangas semitransparentes
-- Versión miniMe
+- Estampado de margaritas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
