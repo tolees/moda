@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Wrangler Icons 27MW Camisa Vaquera  3 Years 925  L para Hombre'
-date: 2022-09-20 19:05:28
+date: 2022-09-23 22:35:53
 image: 'https://m.media-amazon.com/images/I/41RmxjM+dAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Wrangler'
 buyurl: 'https://www.amazon.es/dp/B07TB9GCPG/?tag=tolees-21'
 descuento: '39.90'
-average: '58.7411111111111'
+average: '59.475'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
