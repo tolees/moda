@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Geox D NYDAME  Zapatillas  para Mujer  Negro  Negro   39 EU'
-date: 2022-09-09 01:17:14
-image: 'https://m.media-amazon.com/images/I/41EXxzlHVnL._SL500_._SL400_.jpg'
+title: 'Geox D Nydame  Zapatillas  para Mujer   Color Blanco.   39 EU'
+date: 2022-09-24 02:10:02
+image: 'https://m.media-amazon.com/images/I/41QDCHv69fL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B096NQMFMM-es Geox D NYDAME Zapatillas para Mujer Negro Negro 39 EU'
-sku: 'B096NQMFMM-es'
+slug: 'B096NRB6RJ-es Geox D Nydame Zapatillas para Mujer Color Blanco. 39 EU'
+sku: 'B096NRB6RJ-es'
 tags: [ 'Zapatillas casual para mujer','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','geox','🇪🇸', ]
-actualPrice: 81.25 EUR
+actualPrice: 54.54 EUR
 currency: EUR
-price: 81.25
+price: 54.54
 comparePrice: 139.9 EUR
-prodname: 'Geox D NYDAME  Zapatillas  para Mujer  Negro  Negro   39 EU'
+prodname: 'Geox D Nydame  Zapatillas  para Mujer   Color Blanco.   39 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Geox'
-buyurl: 'https://www.amazon.es/dp/B096NQMFMM/?tag=tolees-21'
-descuento: '41.92'
-average: '81.25'
+buyurl: 'https://www.amazon.es/dp/B096NRB6RJ/?tag=tolees-21'
+descuento: '61.02'
+average: '63.505'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material exterior: Cuero
 - Revestimiento: Sintético
+- Material exterior: Cuero
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
