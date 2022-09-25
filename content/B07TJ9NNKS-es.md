@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Wrangler Icons 27MW Camisa Vaquera  New 301  L para Hombre'
-date: 2022-09-23 22:37:37
+date: 2022-09-25 00:42:41
 image: 'https://m.media-amazon.com/images/I/41gimkQosRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

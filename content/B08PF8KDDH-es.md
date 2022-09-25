@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s 501 Original Vaqueros  Canyon Kings  32W / 30L para Hombre'
-date: 2022-09-23 05:25:20
+date: 2022-09-25 00:40:29
 image: 'https://m.media-amazon.com/images/I/31Xa0bApxpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Wrangler Icons 27MW Camisa Vaquera  2 Years 922  L para Hombre'
-date: 2022-09-23 22:35:20
+date: 2022-09-25 00:42:40
 image: 'https://m.media-amazon.com/images/I/314XWBu7mAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
