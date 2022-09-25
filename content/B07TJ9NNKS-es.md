@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corte regular
 - WOVENS
+- Corte regular
 - Icons
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -30,7 +30,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Un icono del estilo estadounidense
 - Un lienzo en blanco para la expresión propia
-- Vaqueros azules originales desde 1873
 - Corte recto original
+- Vaqueros azules originales desde 1873
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Manga larga
 - Lavable a máquina a 40 °C.
-- Camisa vaquera
 - Cuello: tira de botones
+- Camisa vaquera
+- Manga larga
 
 [🛒 Aquí!!!]({{< param buyurl >}})
