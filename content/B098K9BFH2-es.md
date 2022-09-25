@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Estilo informal
 - Crew Neck
+- Estilo informal
 
 [🛒 Visítala!!!]({{< param buyurl >}})
