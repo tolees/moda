@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Desigual Vest Marian  2000 Negro Vestido Informal  XL para Mujer'
-date: 2022-09-18 14:32:25
+date: 2022-09-26 14:45:09
 image: 'https://m.media-amazon.com/images/I/31IxmvtIilL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 100% Viscose
-- Cuello pico
-- Estampado delantero con motivos geométricos
 - Fibras sostenibles: Lenzing Ecovero
+- Cuello pico
+- 100% Viscose
 - Fit boho
+- Estampado delantero con motivos geométricos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

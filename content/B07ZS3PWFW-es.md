@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Piso: 100% Sintético
 - Forro: 100% Piel
 - Planta: 100% Piel
 - Corte: 100% Piel
-- Piso: 100% Sintético
 - Cómodas y ligeras
 
 [🛒 Aquí!!!]({{< param buyurl >}})
