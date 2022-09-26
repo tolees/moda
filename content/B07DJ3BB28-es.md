@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
-- Tipo de tacón: Plano
-- Material exterior: Cuero
 - Altura del tacón: 2 centímetros
+- Tipo de tacón: Plano
 - Material de la suela: Sintético
-- Revestimiento: Sintético
 - Cierre: Sin cordones
+- Revestimiento: Sintético
+- Material exterior: Cuero
+- Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
 
 [🛒 Aquí!!!]({{< param buyurl >}})
