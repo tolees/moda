@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Keen Clearwater CNX Leather  Sandalias Hombre  Magnet/Black  42 EU'
-date: 2022-09-24 18:50:48
+date: 2022-09-26 00:37:37
 image: 'https://m.media-amazon.com/images/I/41PYqch+zWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
