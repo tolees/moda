@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Básica
 - Camisa manga larga
 - Lino
-- Básica
 - RECONSIDER
 
 [🛒 Aquí!!!]({{< param buyurl >}})
