@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Wrangler Icons 27MW Camisa Vaquera  1 Year 924  L para Hombre'
-date: 2022-09-26 00:47:05
+date: 2022-09-27 02:06:57
 image: 'https://m.media-amazon.com/images/I/41TfRkNDyUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Camisa vaquera
-- Cuello: tira de botones
-- Manga larga
 - Lavable a máquina a 40 °C.
+- Manga larga
+- Cuello: tira de botones
 
 [🛒 Aquí!!!]({{< param buyurl >}})
