@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jacharry Belt Noos Cinturón  Black Coffee  80 para Hombre'
-date: 2022-09-24 23:30:51
+date: 2022-09-27 07:25:26
 image: 'https://m.media-amazon.com/images/I/41jhW9AE9gL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B078HHB1H8/?tag=tolees-21'
 descuento: '30.79'
-average: '8.5191891891892'
+average: '8.53157894736843'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
