@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Bolsillo tipo canguro
 - Con logo en la parte delantera
 - Sudadera con capucha para hombre
 - Composición: 70% algodón, 30% poliéster
-- Bolsillo tipo canguro
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
