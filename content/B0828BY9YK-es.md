@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre: Sin cierre
-- Tipo de talla: Los zapatos Geox son holgados
-- Revestimiento: Cuero
 - Tipo de tacón: Bloque
-- Material de la suela: Sintético
+- Tipo de talla: Los zapatos Geox son holgados
+- Cierre: Sin cierre
 - Material exterior: Cuero
-- Altura del tacón: 4 centímetros
 - Anchura del zapato: Normal
+- Material de la suela: Sintético
+- Revestimiento: Cuero
+- Altura del tacón: 4 centímetros
 
 [🛒 Comprar!!!]({{< param buyurl >}})
