@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Climalite anti-humidity fabric
 - Cuello redondo.
-- Escote redondo y espalda deportiva de malla de doble capa.
+- Climalite anti-humidity fabric
 - Diseño envolvente para una total libertad de movimiento.
+- Escote redondo y espalda deportiva de malla de doble capa.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

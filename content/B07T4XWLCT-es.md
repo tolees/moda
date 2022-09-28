@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Wool coat with hood
 - Short between-season jacket
+- Wool coat with hood
 
 [🛒 Comprar!!!]({{< param buyurl >}})
