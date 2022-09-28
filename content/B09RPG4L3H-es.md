@@ -29,7 +29,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Estampado en el pecho
-- Corte regular
 - Cuello redondo
+- Corte regular
 
 [🛒 Aquí!!!]({{< param buyurl >}})
