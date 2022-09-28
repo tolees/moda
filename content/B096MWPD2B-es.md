@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox U Delray B Wpf  Zapatillas  para Hombre  Negro Y Gris  39 EU'
-date: 2022-09-26 01:38:18
+date: 2022-09-28 00:20:11
 image: 'https://m.media-amazon.com/images/I/41N39cxkTqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B096MWPD2B-es Geox U Delray B Wpf Zapatillas para Hombre Negro Y Gris 39 EU'
 sku: 'B096MWPD2B-es'
 tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','geox','🇪🇸', ]
-actualPrice: 47.78 EUR
+actualPrice: 45.56 EUR
 currency: EUR
-price: 47.78
+price: 45.56
 comparePrice: 99.9 EUR
 prodname: 'Geox U Delray B Wpf  Zapatillas  para Hombre  Negro Y Gris  39 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B096MWPD2B/?tag=tolees-21'
-descuento: '52.17'
-average: '55.3833333333333'
+descuento: '54.39'
+average: '52.9275'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
