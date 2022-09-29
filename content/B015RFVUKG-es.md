@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Timberland Bradstreet Leather Sensorflex Chukka Stiefel  Botas Hombre  Negro Black Nubuck  41.5 EU'
-date: 2022-09-19 12:40:56
+date: 2022-09-29 08:57:59
 image: 'https://m.media-amazon.com/images/I/219V5eM+lPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B015RFVUKG-es Timberland Bradstreet Leather Sensorflex Chukka Stiefel...'
 sku: 'B015RFVUKG-es'
 tags: [ 'Botas para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','timberland','🇪🇸', ]
-actualPrice: 72.7 EUR
+actualPrice: 62.95 EUR
 currency: EUR
-price: 72.7
+price: 62.95
 comparePrice: 140.0 EUR
 prodname: 'Timberland Bradstreet Leather Sensorflex Chukka Stiefel  Botas Hombre  Negro Black Nubuck  41.5 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Timberland'
 buyurl: 'https://www.amazon.es/dp/B015RFVUKG/?tag=tolees-21'
-descuento: '48.07'
-average: '70.1644444444445'
+descuento: '55.04'
+average: '69.4430000000001'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Revestimiento: Tela
 - Anchura del zapato: Normal
+- Tipo de tacón: Plano
 - Material exterior: Cuero
 - Composición: Cuero
 - Cierre: Cordones
 - Altura del tacón: 2 centímetros
-- Tipo de tacón: Plano
-- Revestimiento: Tela
 - Material de la suela: Caucho
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
