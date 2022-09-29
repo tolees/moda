@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cómoda sudadera de cuello redondo y forro polar
 - Esta sudadera básica es tan cómoda que no te cansarás de usarla. (Gracias al forro polar supersuave). Además, cuenta con el emblemático logo de Levis en el pecho
+- Cómoda sudadera de cuello redondo y forro polar
 - Con el emblemático logotipo de Levis
 
 [🛒 Visítala!!!]({{< param buyurl >}})
