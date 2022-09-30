@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Baño de Oro de 18 Kt.
 - Colgante: Collar con mini bolitas que se extienden a lo largo de la Cadena.
-- Joya hecha en España.
 - Plata de Ley 925 contrastada en un Laboratorio Oficial en España.
 - Largo de cadena: 35cm+5cm alargador.
+- Joya hecha en España.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cintura elástica.
-- Inserciones de malla en la parte interior de las perneras.
 - Logotipo de adidas estampado a la derecha del pecho.
-- Tejido de punto en el panel frontal y tejido que repele el sudor en el dobladillo.
 - La tecnología Climacool favorece la ventilación y te mantiene fresco y seco.
+- Inserciones de malla en la parte interior de las perneras.
+- Cintura elástica.
+- Tejido de punto en el panel frontal y tejido que repele el sudor en el dobladillo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

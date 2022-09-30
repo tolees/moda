@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con un discreto logo en el pecho
 - Modelo casual
 - Elaborada en punto suave
+- Con un discreto logo en el pecho
 
 [🛒 Comprar!!!]({{< param buyurl >}})
