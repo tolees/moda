@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s tee BENITOITE Cloud Dancer STRI Camiseta  XX-Small para Mujer'
-date: 2022-09-29 16:18:14
+date: 2022-09-30 16:41:53
 image: 'https://m.media-amazon.com/images/I/51SLIAf7ioS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07ZVQGY4T-es Levi s tee BENITOITE Cloud Dancer STRI Camiseta XX-Small...'
 sku: 'B07ZVQGY4T-es'
 tags: [ 'Camisetas para mujer','Camisetas, tops y blusas para mujer','Ropa','Ropa para mujer','camiseta','levis','🇪🇸', ]
-actualPrice: 10.93 EUR
+actualPrice: 10.33 EUR
 currency: EUR
-price: 10.93
+price: 10.33
 comparePrice: 25.0 EUR
 prodname: 'Levi s tee BENITOITE Cloud Dancer STRI Camiseta  XX-Small para Mujer'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07ZVQGY4T/?tag=tolees-21'
-descuento: '56.28'
-average: '11.2195833333333'
+descuento: '58.68'
+average: '11.184'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
