@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Only & Sons Onsal PU Noos Otw Chaqueta  Negro  Black   Medium para Hombre'
-date: 2022-09-29 07:50:22
+date: 2022-09-30 13:33:13
 image: 'https://m.media-amazon.com/images/I/414cwoFkFJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Only & Sons'
 buyurl: 'https://www.amazon.es/dp/B07G4RY53C/?tag=tolees-21'
 descuento: '29.61'
-average: '36.0816666666667'
+average: '35.9542857142857'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
