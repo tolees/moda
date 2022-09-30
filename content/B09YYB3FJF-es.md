@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Cuello de punto liso
 - Tejido suave
 - Bordes acanalados
-- Cuello de punto liso
 
 [🛒 Aquí!!!]({{< param buyurl >}})

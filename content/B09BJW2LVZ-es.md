@@ -29,7 +29,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Camisa de manga larga
-- Estampado
 - Twill
+- Estampado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
