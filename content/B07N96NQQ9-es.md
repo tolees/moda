@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- maxi T-shirt dress
 - single-colored long dress
+- maxi T-shirt dress
 
 [🛒 Comprar!!!]({{< param buyurl >}})
