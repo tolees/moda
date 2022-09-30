@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Napapijri Elbas SS 4 Camisa de Polo  Red Tomato  L Hombres'
-date: 2022-09-25 18:42:11
+date: 2022-09-30 10:50:05
 image: 'https://m.media-amazon.com/images/I/31vdwh+mQBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bordes acanalados
 - Tejido suave
+- Bordes acanalados
 - Cuello de punto liso
 
 [🛒 Aquí!!!]({{< param buyurl >}})
