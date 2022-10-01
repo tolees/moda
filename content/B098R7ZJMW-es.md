@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Blusa de nailon arrugado con capucha
 - Este estilo ha sido producido de forma sostenible
+- Blusa de nailon arrugado con capucha
 
 [🛒 Visítala!!!]({{< param buyurl >}})
