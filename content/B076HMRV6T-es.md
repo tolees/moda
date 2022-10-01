@@ -30,7 +30,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Tiene dos bolsillos laterales para las manos
 - Tiene cierre completo con cremallera
-- Chubasquero con capucha para hombre
 - Tiene el logotipo de Adidas en el pecho
+- Chubasquero con capucha para hombre
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cremallera completa
+- Chaqueta corta
 - Cuello alto con botón
 - Con aspecto de ante
 - Bolsillos laterales con cremallera
-- Chaqueta corta
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

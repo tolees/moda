@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mandarina Duck MELLOW LEATHER P2FZT59  Bolso bandolera para Mujer  Beige  Simply Taupe   30x28x11  L x H x W '
-date: 2022-09-26 20:19:55
+date: 2022-10-01 11:56:28
 image: 'https://m.media-amazon.com/images/I/51p7n4vi2gL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Mandarina Duck'
 buyurl: 'https://www.amazon.es/dp/B01N15O2TA/?tag=tolees-21'
 descuento: '48.05'
-average: '110.13'
+average: '108.884'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

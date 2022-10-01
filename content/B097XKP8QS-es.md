@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Los productos deportivos de la marca Puma están diseñados para que disfrutes de tu deporte favorito sin preocuparte de nada más que rendir al máximo
-- Ropa deportiva Azul de la marca Puma
-- Ropa deportiva fabricada con materiales de primera calidad que se adaptan a cualquier actividad deportiva
 - Chaqueta teamLIGA All Weather Electric Blu
 - Chaqueta para practicar Tiempo libre y sportwear de unisex infantil
+- Ropa deportiva Azul de la marca Puma
+- Ropa deportiva fabricada con materiales de primera calidad que se adaptan a cualquier actividad deportiva
+- Los productos deportivos de la marca Puma están diseñados para que disfrutes de tu deporte favorito sin preocuparte de nada más que rendir al máximo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

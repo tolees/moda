@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 100% algodón
 - Apoya la iniciativa Better Cotton Initiativa
+- 100% algodón
 
 [🛒 Comprar!!!]({{< param buyurl >}})
