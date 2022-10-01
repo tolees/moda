@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Tratamiento repelente al agua duradero sin PFC
-- 2 bolsillos para las manos con cremalleras
-- Tejido de forro polar de doble tejido elástico reciclado en 4 direcciones
 - Movimiento cómodo
 - El paquete incluye: 1 chaqueta Helly Hansen para hombre, color verde lavado XL
+- 2 bolsillos para las manos con cremalleras
+- Tejido de forro polar de doble tejido elástico reciclado en 4 direcciones
 
 [🛒 Aquí!!!]({{< param buyurl >}})
