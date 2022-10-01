@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Soccer
 - Pack 3 boxers
 - Organic Cotton
-- Soccer
 
 [🛒 Visítala!!!]({{< param buyurl >}})

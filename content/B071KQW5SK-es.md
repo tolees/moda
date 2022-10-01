@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Con cinta distintiva en el interior del cuello
 - Tiene puños en inglete con dos botones
 - Modelo elegante
-- Con cinta distintiva en el interior del cuello
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Timberland Fulk Cap Toe Ox  Sneakers Hombre  Marrón  Dark Brown Suede   41 EU'
-date: 2022-09-27 11:57:37
+date: 2022-10-01 19:54:10
 image: 'https://m.media-amazon.com/images/I/31WcyYJQwAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B097T86YWZ-es Timberland Fulk Cap Toe Ox Sneakers Hombre Marrón Dark...'
 sku: 'B097T86YWZ-es'
 tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','timberland','🇪🇸', ]
-actualPrice: 50.68 EUR
+actualPrice: 50.22 EUR
 currency: EUR
-price: 50.68
+price: 50.22
 comparePrice: 90.0 EUR
 prodname: 'Timberland Fulk Cap Toe Ox  Sneakers Hombre  Marrón  Dark Brown Suede   41 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Timberland'
 buyurl: 'https://www.amazon.es/dp/B097T86YWZ/?tag=tolees-21'
-descuento: '43.69'
-average: '53.9733333333333'
+descuento: '44.20'
+average: '53.035'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
