@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tommy Hilfiger Azul Core Stretch Slim camiseta con cuello en V
-- Ver descripción del producto para obtener más información.
 - A estrenar y genuina. Somos un vendedor autorizado de Tommy Hilfiger.
+- Ver descripción del producto para obtener más información.
+- Tommy Hilfiger Azul Core Stretch Slim camiseta con cuello en V
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
