@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Colección SS22 de Kappa
-- Sudadera para los más pequeños
-- Libertad de movimiento
 - Comodidad y estilo
+- Libertad de movimiento
+- Sudadera para los más pequeños
+- Colección SS22 de Kappa
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Camisa manga larga
-- Oxford Relax
 - Reconsider: Algodón BCI
+- Oxford Relax
+- Camisa manga larga
 
 [🛒 Comprar!!!]({{< param buyurl >}})
