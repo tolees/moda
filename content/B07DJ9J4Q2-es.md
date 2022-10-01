@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material exterior: Sintético
 - Revestimiento: Tela
-- Sin Cordones
 - Material de la suela: Goma
+- Material exterior: Sintético
+- Sin Cordones
 - Tipo de tacón: Plano
 
 [🛒 Visítala!!!]({{< param buyurl >}})
