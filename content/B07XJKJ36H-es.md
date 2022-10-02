@@ -30,7 +30,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - El ajuste es de gran tamaño, te recomendamos una talla menos si prefieres un ajuste regular
 - Cuenta con un doble bolsillo en el pecho con cierres de velcro, un dobladillo redondeado y un cuello abierto
-- Esta versátil camisa transpirable para exteriores con mangas cortas es una prenda ideal para el uso diario informal
 - Estilo cotidiano mejorado: escuchamos los comentarios de los clientes y ajustamos cada detalle para garantizar la calidad, el ajuste y la comodidad
+- Esta versátil camisa transpirable para exteriores con mangas cortas es una prenda ideal para el uso diario informal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

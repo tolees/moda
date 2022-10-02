@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Color: AMARILLO
+- Marca: Tuc Tuc
 - VESTIDO POPELÍN TIRANTES NIÑA AMARILLO FRUITTY TIME
 - Calidad muy alta
-- Marca: Tuc Tuc
-- Color: AMARILLO
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

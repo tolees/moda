@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mango fijo
 - Bolsillo en el pecho
-- Composición del material: material exterior: 100% algodón
 - Tira de botones
+- Mango fijo
+- Composición del material: material exterior: 100% algodón
 - Efecto lavado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

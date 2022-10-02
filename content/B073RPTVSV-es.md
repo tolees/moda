@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Costuras totalmente selladas
+- Impermeable, cortavientos y transpirable
 - Confección en 2 capas
 - Items delivered: 1x Helly Hansen Mens - Amaze Jacket Apparel Black XXL
+- Costuras totalmente selladas
 - Tejido Helly Tech Protection
-- Impermeable, cortavientos y transpirable
 
 [🛒 Aquí!!!]({{< param buyurl >}})
