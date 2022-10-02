@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ver descripción del producto para obtener más información.
 - Havaianas marrón Chanclas libres híbridas
+- Ver descripción del producto para obtener más información.
 - A estrenar y genuina. Somos un vendedor autorizado de Havaianas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
