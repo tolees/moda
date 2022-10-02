@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sudadera premium con capucha y sin adornos
-- Un corte más holgado con hombros ligeramente caídos
-- Acabada con un discreto logo en el pecho
 - Recomendamos que los hombres compren su talla y que las mujeres compren una talla menos
+- Un corte más holgado con hombros ligeramente caídos
 - Pensados para que los lleve cualquiera, en cualquier momento y lugar
+- Sudadera premium con capucha y sin adornos
+- Acabada con un discreto logo en el pecho
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

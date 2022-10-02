@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Oakley 0OX3227 Monturas de Gafas  Satin Black  55 para Hombre'
-date: 2022-09-28 13:46:50
+date: 2022-10-02 20:45:57
 image: 'https://m.media-amazon.com/images/I/21yNFfhRhNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Oakley'
 buyurl: 'https://www.amazon.es/dp/B073QTB3Y3/?tag=tolees-21'
 descuento: '45.10'
-average: '84.135'
+average: '84.09'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

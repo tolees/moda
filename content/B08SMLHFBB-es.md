@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Le Coq Sportif Camiseta Modelo Tri tee SS N°2 M Marca'
-date: 2022-09-28 12:44:41
+date: 2022-10-02 20:06:39
 image: 'https://m.media-amazon.com/images/I/31rhj9Jl9HL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Le Coq Sportif'
 buyurl: 'https://www.amazon.es/dp/B08SMLHFBB/?tag=tolees-21'
 descuento: '43.74'
-average: '17.16625'
+average: '17.6966666666667'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Manga corta
 - Ajuste regular
-- Cuello redondo
 - Corte deportivo
+- Cuello redondo
+- Manga corta
 
 [🛒 Aquí!!!]({{< param buyurl >}})
