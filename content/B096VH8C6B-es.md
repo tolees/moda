@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camiseta de hombre Heritage en algodón jaspeado con cuello redondo con inscripción de la marca
 - Regular fit
+- Camiseta de hombre Heritage en algodón jaspeado con cuello redondo con inscripción de la marca
 - Cuello redondo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
