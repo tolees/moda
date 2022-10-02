@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Flexibilidad y durabilidad
 - GOOD GRIP
 - Sistema de ajuste
-- Flexibilidad y durabilidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
