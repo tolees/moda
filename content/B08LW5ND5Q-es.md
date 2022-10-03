@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de tamaño especial: estándar
-- Tipo de tejido: 95% algodón, 5% elastano
-- Tipo de ajuste: normal
-- Camiseta elástica de manga corta
 - Tamaño del paquete del artículo: 3,7 x 34,2 x 25,7 W (centímetros)
 - Instrucciones de cuidado: lavar a mano únicamente
+- Tipo de ajuste: normal
+- Camiseta elástica de manga corta
+- Tipo de tamaño especial: estándar
+- Tipo de tejido: 95% algodón, 5% elastano
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
