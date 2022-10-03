@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Camiseta canalé Life is awesome
+- Manga larga
+- Crop
 - Slim fit
 - Estampado mensaje en diferentes tipografías
-- Crop
-- Manga larga
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
