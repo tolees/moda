@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuello acanalado
-- Tapeta 2 botones
 - Polo Lacoste Slim Fit
 - Petit piqué de dos capas
+- Cuello acanalado
+- Tapeta 2 botones
 - Slim fit
 
 [🛒 Aquí!!!]({{< param buyurl >}})
