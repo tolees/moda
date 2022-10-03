@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clarks Whiddon Plain  Zapatos de Cordones Derby Hombre  Dark Tan Leather 2  39.5 EU'
-date: 2022-09-20 22:36:45
+date: 2022-10-02 22:42:30
 image: 'https://m.media-amazon.com/images/I/41uFzg2yEyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Clarks'
 buyurl: 'https://www.amazon.es/dp/B084DRFBML/?tag=tolees-21'
 descuento: '46.25'
-average: '31.188'
+average: '33.1516666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela: piel y goma
-- Material exterior: piel lisa
 - Material interior: piel
+- Material exterior: piel lisa
+- Suela: cuero y goma
 
 [🛒 Comprar!!!]({{< param buyurl >}})
