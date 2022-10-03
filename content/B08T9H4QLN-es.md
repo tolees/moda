@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Acabado repelente al agua
-- Este es un producto auténtico y original de Calvin Klein Jeans
-- Cuello con capucha
 - Sarga de poliéster reciclado
+- Cuello con capucha
+- Este es un producto auténtico y original de Calvin Klein Jeans
 - Colección: inflado largo ajustado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
