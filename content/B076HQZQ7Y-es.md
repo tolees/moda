@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Core18 TR Pantalón  Sin género  Multicolor  M'
-date: 2022-09-30 03:06:04
+date: 2022-10-03 04:55:13
 image: 'https://m.media-amazon.com/images/I/31RPonRXZwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076HQZQ7Y/?tag=tolees-21'
 descuento: '32.50'
-average: '20.2144594594595'
+average: '20.2149333333334'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fútbol Perfil: hombre unisex, material:, color: azuosc/blanco
 - Core18 tr pnt varios colores m
+- Fútbol Perfil: hombre unisex, material:, color: azuosc/blanco
 - Pantalón adidas pantalón core18 tr pnt azuosc/blanco
 
 [🛒 Visítala!!!]({{< param buyurl >}})

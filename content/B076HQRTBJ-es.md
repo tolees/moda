@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Core18 TR Pantalón  Sin género  Negro  S'
-date: 2022-09-30 03:05:35
+date: 2022-10-03 04:54:42
 image: 'https://m.media-amazon.com/images/I/31SefwqekNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076HQRTBJ/?tag=tolees-21'
 descuento: '16.83'
-average: '22.5855844155846'
+average: '22.6158974358976'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Pantalón adidas pantalón core18 tr pnt negro/blanco
 - Fútbol Perfil: hombre unisex, material:, color: negro/blanco
 - Core18 tr pnt negro s
-- Pantalón adidas pantalón core18 tr pnt negro/blanco
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

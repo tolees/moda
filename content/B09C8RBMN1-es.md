@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Siéntete caliente y con estilo al mismo tiempo con este jersey
 - Fabricado con materiales de alta calidad pensando en la comodidad y versatilidad
+- Siéntete caliente y con estilo al mismo tiempo con este jersey
 - Puedes llevar este jersey todo el año, para ponértelo encima en un día frío o como prenda exterior en los meses más cálidos
 - Este jersey es una prenda básica si sigues las actuales tendencias de moda imprescindible en el armario de cualquier mujer
 
