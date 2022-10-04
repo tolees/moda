@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox U Spherica Ec3  Zapatillas Hombre  Gris De La Paloma  43 EU'
-date: 2022-09-28 01:18:29
+date: 2022-10-03 23:35:51
 image: 'https://m.media-amazon.com/images/I/41IzBNJFmBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B096NRBHRB-es Geox U Spherica Ec3 Zapatillas Hombre Gris De La Paloma 43 EU'
 sku: 'B096NRBHRB-es'
 tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','geox','🇪🇸', ]
-actualPrice: 46.76 EUR
+actualPrice: 43.25 EUR
 currency: EUR
-price: 46.76
+price: 43.25
 comparePrice: 99.9 EUR
 prodname: 'Geox U Spherica Ec3  Zapatillas Hombre  Gris De La Paloma  43 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B096NRBHRB/?tag=tolees-21'
-descuento: '53.19'
-average: '49.065'
+descuento: '56.71'
+average: '47.1266666666667'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

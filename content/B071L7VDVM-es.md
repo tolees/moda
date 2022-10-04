@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Regular fit
-- Camiseta de hombre Lacoste SPORT en algodón con cuello redondo
-- Acabados acanalados
-- Tejido de punto de mezcla de algodón técnico
 - Cuello redondo
+- Acabados acanalados
+- Camiseta de hombre Lacoste SPORT en algodón con cuello redondo
+- Tejido de punto de mezcla de algodón técnico
+- Regular fit
 
 [🛒 Visítala!!!]({{< param buyurl >}})
