@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jjegingham-Camiseta de Sarga L/S PS Noos Camisa  Color Rojo  3XL para Hombre'
-date: 2022-10-02 16:49:37
+date: 2022-10-05 11:32:52
 image: 'https://m.media-amazon.com/images/I/41soyw6KVwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B08QZ5MSHV/?tag=tolees-21'
 descuento: '46.44'
-average: '16.24'
+average: '16.5971428571429'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
