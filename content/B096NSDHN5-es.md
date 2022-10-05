@@ -1,28 +1,28 @@
 ---
 layout: post
-title: 'Geox D Soleil  Sandalias Mujer  Negro  39.5 EU'
-date: 2022-10-05 14:59:00
+title: 'Geox D Soleil  Sandalias Mujer  Negro  38 EU'
+date: 2022-10-05 14:55:36
 image: 'https://m.media-amazon.com/images/I/31zj2i96pYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B096NV611J-es Geox D Soleil Sandalias Mujer Negro 39.5 EU'
-sku: 'B096NV611J-es'
+slug: 'B096NSDHN5-es Geox D Soleil Sandalias Mujer Negro 38 EU'
+sku: 'B096NSDHN5-es'
 tags: [ 'Sandalias de vestir para mujer','Sandalias y palas de mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','geox','sandalias','🇪🇸', ]
-actualPrice: 38.97 EUR
+actualPrice: 45.0 EUR
 currency: EUR
-price: 38.97
+price: 45.0
 comparePrice: 89.9 EUR
-prodname: 'Geox D Soleil  Sandalias Mujer  Negro  39.5 EU'
+prodname: 'Geox D Soleil  Sandalias Mujer  Negro  38 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Geox'
-buyurl: 'https://www.amazon.es/dp/B096NV611J/?tag=tolees-21'
-descuento: '56.65'
-average: '38.91'
+buyurl: 'https://www.amazon.es/dp/B096NSDHN5/?tag=tolees-21'
+descuento: '49.94'
+average: '44.9625'
 ---
 
-Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 [![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
@@ -30,4 +30,4 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - ERROR:#VALUE!
 
-[🛒 Ver la oferta!!]({{< param buyurl >}})
+[🛒 Accede a la oferta!!]({{< param buyurl >}})
