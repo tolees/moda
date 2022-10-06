@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Helly Hansen Amaze Chaqueta calentadora  Hombre  Negro  2X L'
-date: 2022-10-02 16:39:45
+date: 2022-10-05 20:38:51
 image: 'https://m.media-amazon.com/images/I/31PbxmjDHfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B073RPTVSV-es Helly Hansen Amaze Chaqueta calentadora Hombre Negro 2X L'
 sku: 'B073RPTVSV-es'
 tags: [ 'Chaquetas para hombre','Ropa','Ropa de abrigo para hombre','Ropa para hombre','chaqueta','helly hansen','🇪🇸', ]
-actualPrice: 88.32 EUR
+actualPrice: 79.7 EUR
 currency: EUR
-price: 88.32
+price: 79.7
 comparePrice: 160.0 EUR
 prodname: 'Helly Hansen Amaze Chaqueta calentadora  Hombre  Negro  2X L'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Helly Hansen'
 buyurl: 'https://www.amazon.es/dp/B073RPTVSV/?tag=tolees-21'
-descuento: '44.80'
-average: '88.32'
+descuento: '50.19'
+average: '84.01'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Impermeable, cortavientos y transpirable
-- Confección en 2 capas
-- Items delivered: 1x Helly Hansen Mens - Amaze Jacket Apparel Black XXL
-- Costuras totalmente selladas
 - Tejido Helly Tech Protection
+- Items delivered: 1x Helly Hansen Mens - Amaze Jacket Apparel Black XXL
+- Impermeable, cortavientos y transpirable
+- Costuras totalmente selladas
+- Confección en 2 capas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
