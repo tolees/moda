@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vero Moda Vmdoffy LS O-Neck Blouse Noos suéter  Negro  Black Black   42  Talla del Fabricante: Large  para Mujer'
-date: 2022-10-05 07:15:43
+date: 2022-10-06 13:40:58
 image: 'https://m.media-amazon.com/images/I/411kktcQfAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,13 +12,13 @@ tags: [ 'Jerséis para mujer','Jerséis, cárdigans y sudaderas para mujer','Rop
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99
-comparePrice: 21.99 EUR
+comparePrice: 24.99 EUR
 prodname: 'Vero Moda Vmdoffy LS O-Neck Blouse Noos suéter  Negro  Black Black   42  Talla del Fabricante: Large  para Mujer'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Vero Moda'
 buyurl: 'https://www.amazon.es/dp/B079GRMW5F/?tag=tolees-21'
-descuento: '50.02'
+descuento: '56.02'
 average: '10.99'
 ---
 

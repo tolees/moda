@@ -1,37 +1,37 @@
 ---
 layout: post
-title: 'Tom Tailor Logo T-Shirt Camiseta  Tarmac Grey  M para Hombre'
-date: 2022-10-06 12:45:20
+title: 'Tom Tailor Logo T-Shirt Camiseta  Tarmac Grey  XL para Hombre'
+date: 2022-10-06 14:23:56
 image: 'https://m.media-amazon.com/images/I/41VrIaLOFwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07KR41T49-es Tom Tailor Logo T-Shirt Camiseta Tarmac Grey M para Hombre'
-sku: 'B07KR41T49-es'
+slug: 'B07KRD6H91-es Tom Tailor Logo T-Shirt Camiseta Tarmac Grey XL para Hombre'
+sku: 'B07KRD6H91-es'
 tags: [ 'Camisetas para hombre','Camisetas, polos y camisas para hombre','Ropa','Ropa para hombre','camiseta','tom tailor','🇪🇸', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99
 comparePrice: 9.99 EUR
-prodname: 'Tom Tailor Logo T-Shirt Camiseta  Tarmac Grey  M para Hombre'
+prodname: 'Tom Tailor Logo T-Shirt Camiseta  Tarmac Grey  XL para Hombre'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Tom Tailor'
-buyurl: 'https://www.amazon.es/dp/B07KR41T49/?tag=tolees-21'
+buyurl: 'https://www.amazon.es/dp/B07KRD6H91/?tag=tolees-21'
 descuento: '20.02'
-average: '5.74172413793104'
+average: '4.63875'
 ---
 
-Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 [![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
-🔎:
+ℹ️:
 
-- Transpirable y suave
 - Cuello redondo.
-- Suave banda para cuello
-- Manga corta.
 - Camiseta con logo estampado
+- Manga corta.
+- Transpirable y suave
+- Suave banda para cuello
 
-[🛒 Comprar!!!]({{< param buyurl >}})
+[🛒 Ver la oferta!!]({{< param buyurl >}})
