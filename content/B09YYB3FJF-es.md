@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Napapijri Elbas SS 4 Camisa de Polo  Red Tomato  L Hombres'
-date: 2022-10-04 16:09:37
+date: 2022-10-08 11:11:05
 image: 'https://m.media-amazon.com/images/I/31vdwh+mQBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Napapijri'
 buyurl: 'https://www.amazon.es/dp/B09YYB3FJF/?tag=tolees-21'
 descuento: '47.47'
-average: '28.74'
+average: '29.19'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,7 +29,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Tejido suave
-- Cuello de punto liso
 - Bordes acanalados
+- Cuello de punto liso
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s 511 Slim Sequoia RT Vaqueros  Purple Lavanda  28W / 32L para Hombre'
-date: 2022-10-06 13:54:57
+date: 2022-10-08 09:52:38
 image: 'https://m.media-amazon.com/images/I/419fkYOHK6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

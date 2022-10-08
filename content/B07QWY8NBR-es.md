@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Oakley 0OO9442 Gafas de Sol  Polished Black  40 para Hombre'
-date: 2022-10-04 17:04:14
+date: 2022-10-08 11:53:02
 image: 'https://m.media-amazon.com/images/I/31mDT0cLBOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Oakley'
 buyurl: 'https://www.amazon.es/dp/B07QWY8NBR/?tag=tolees-21'
 descuento: '30.76'
-average: '120.079166666667'
+average: '121.069230769231'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
