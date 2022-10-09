@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Core Stretch Slim Vneck tee Camiseta  Azul  Navy Blazer 416   Medium para Hombre'
-date: 2022-10-01 18:55:03
+date: 2022-10-09 21:03:02
 image: 'https://m.media-amazon.com/images/I/31NILbJSIZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Tommy Hilfiger'
 buyurl: 'https://www.amazon.es/dp/B0725DBV1X/?tag=tolees-21'
 descuento: '50.08'
-average: '19.4369230769231'
+average: '19.4714285714286'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,7 +29,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Ver descripción del producto para obtener más información.
-- Tommy Hilfiger Azul Core Stretch Slim camiseta con cuello en V
 - A estrenar y genuina. Somos un vendedor autorizado de Tommy Hilfiger.
+- Tommy Hilfiger Azul Core Stretch Slim camiseta con cuello en V
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
