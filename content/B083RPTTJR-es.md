@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Geox D Aerantis  Zapatillas  para Mujer  Negro  Negro   40 EU'
-date: 2022-09-26 01:22:18
-image: 'https://m.media-amazon.com/images/I/31ednQeFXpL._SL500_._SL400_.jpg'
+date: 2022-10-08 22:42:30
+image: 'https://m.media-amazon.com/images/I/41uakNYJULL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
