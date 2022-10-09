@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Geox J Tuono Girl  Zapatillas Niñas  Fucsia Aqua  24 EU'
-date: 2022-10-09 11:00:13
-image: 'https://m.media-amazon.com/images/I/41izw9kfP0L._SL500_._SL400_.jpg'
+title: 'Geox J SPRINTYE GIRL  Zapatillas  para Niñas  Rosa  Fucsia Lime   33 EU'
+date: 2022-10-09 12:01:11
+image: 'https://m.media-amazon.com/images/I/41QhjUTBY9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B096NQZDZR-es Geox J Tuono Girl Zapatillas Niñas Fucsia Aqua 24 EU'
-sku: 'B096NQZDZR-es'
+slug: 'B096NPLMRJ-es Geox J SPRINTYE GIRL Zapatillas para Niñas Rosa Fucsia...'
+sku: 'B096NPLMRJ-es'
 tags: [ 'Zapatillas casual para niña','Zapatillas y calzado deportivo para niña','Zapatos','Zapatos - Niñas','Zapatos y complementos','geox','🇪🇸', ]
-actualPrice: 25.55 EUR
+actualPrice: 28.0 EUR
 currency: EUR
-price: 25.55
-comparePrice: 55.0 EUR
-prodname: 'Geox J Tuono Girl  Zapatillas Niñas  Fucsia Aqua  24 EU'
+price: 28.0
+comparePrice: 49.9 EUR
+prodname: 'Geox J SPRINTYE GIRL  Zapatillas  para Niñas  Rosa  Fucsia Lime   33 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Geox'
-buyurl: 'https://www.amazon.es/dp/B096NQZDZR/?tag=tolees-21'
-descuento: '53.55'
-average: '25.71'
+buyurl: 'https://www.amazon.es/dp/B096NPLMRJ/?tag=tolees-21'
+descuento: '43.89'
+average: '28.0'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
