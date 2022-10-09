@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Cierre con gancho doble en la parte trasera
 - Ribetes elásticos distintivos de Calvin Klein
 - Copas push up con relleno
-- Cierre con gancho doble en la parte trasera
 
 [🛒 Aquí!!!]({{< param buyurl >}})
