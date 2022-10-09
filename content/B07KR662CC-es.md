@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Manga corta.
-- Suave banda para cuello
-- Camiseta con logo estampado
 - Transpirable y suave
+- Camiseta con logo estampado
+- Suave banda para cuello
 - Cuello redondo.
+- Manga corta.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

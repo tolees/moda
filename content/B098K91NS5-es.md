@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estilo informal
 - Polo neck
+- Estilo informal
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
