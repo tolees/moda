@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jjecorp Logo Sweat Hood Noos Sudadera  Black Detail 2  XL para Hombre'
-date: 2022-10-07 08:46:36
+date: 2022-10-10 18:01:06
 image: 'https://m.media-amazon.com/images/I/3123bXS3IZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B07L6SRFZG/?tag=tolees-21'
 descuento: '40.04'
-average: '17.5444444444444'
+average: '17.888'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
