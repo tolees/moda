@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Havaianas Slide Brasil  Chanclas Unisex Adulto  White/Black  37/38 EU'
-date: 2022-10-10 07:00:25
-image: 'https://m.media-amazon.com/images/I/21+dNl3eTLS._SL500_._SL400_.jpg'
+title: 'Havaianas Slide Brasil  Chanclas Unisex Adulto  Black  39/40 EU'
+date: 2022-10-10 07:17:25
+image: 'https://m.media-amazon.com/images/I/31NS1iKnBZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07F14RHXW-es Havaianas Slide Brasil Chanclas Unisex Adulto White/Black...'
-sku: 'B07F14RHXW-es'
+slug: 'B07FXYJTN4-es Havaianas Slide Brasil Chanclas Unisex Adulto Black 39/40 EU'
+sku: 'B07FXYJTN4-es'
 tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','chanclas','havaianas','🇪🇸', ]
 actualPrice: 8.4 EUR
 currency: EUR
 price: 8.4
 comparePrice: 27.95 EUR
-prodname: 'Havaianas Slide Brasil  Chanclas Unisex Adulto  White/Black  37/38 EU'
+prodname: 'Havaianas Slide Brasil  Chanclas Unisex Adulto  Black  39/40 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Havaianas'
-buyurl: 'https://www.amazon.es/dp/B07F14RHXW/?tag=tolees-21'
+buyurl: 'https://www.amazon.es/dp/B07FXYJTN4/?tag=tolees-21'
 descuento: '69.95'
-average: '8.4'
+average: '11.79'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material de la suela: Goma
-- Composición: Caucho
-- Material exterior: Goma
-- Revestimiento: Sin forro
 - Tipo de tacón: Plano
+- Material de la suela: Goma
 - Cierre: Sin cordones
+- Composición: Caucho
+- Revestimiento: Sin forro
+- Material exterior: Goma
 
 [🛒 Comprar!!!]({{< param buyurl >}})

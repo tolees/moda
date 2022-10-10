@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox U NEBULA  Zapatillas  para Hombre  Gris  Gris   47 EU'
-date: 2022-10-07 04:21:26
+date: 2022-10-10 08:40:56
 image: 'https://m.media-amazon.com/images/I/41GSXJ-OuCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B084D4QVSJ/?tag=tolees-21'
 descuento: '76.34'
-average: '39.378'
+average: '37.9383333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
