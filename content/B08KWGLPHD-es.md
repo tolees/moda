@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Panel en la parte superior trasera, costura dividida
-- Manga corta
-- Estampado gráfico en la parte inferior trasera
-- Cuello redondo con borde acanalado
 - Bajo recto
+- Cuello redondo con borde acanalado
+- Panel en la parte superior trasera, costura dividida
+- Estampado gráfico en la parte inferior trasera
+- Manga corta
 
 [🛒 Aquí!!!]({{< param buyurl >}})

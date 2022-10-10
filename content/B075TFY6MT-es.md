@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox Uomo Sandal Strada D  Sandalia con Pulsera  para Hombre  Beige  Sand/Navy   39 EU'
-date: 2022-09-29 05:59:42
+date: 2022-10-09 23:22:54
 image: 'https://m.media-amazon.com/images/I/31Hu9CZTYjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapat
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99
-comparePrice: 69.9 EUR
+comparePrice: 70.0 EUR
 prodname: 'Geox Uomo Sandal Strada D  Sandalia con Pulsera  para Hombre  Beige  Sand/Navy   39 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B075TFY6MT/?tag=tolees-21'
-descuento: '41.36'
-average: '43.8442857142857'
+descuento: '41.44'
+average: '43.4875'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

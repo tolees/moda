@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Regular fit
 - Mensaje: La vida es chula
-- Estampado desenfocado de Mickey Mouse
-- Camiseta rayas Mickey Mouse
 - Algodón BCI
+- Camiseta rayas Mickey Mouse
+- Estampado desenfocado de Mickey Mouse
 
 [🛒 Comprar!!!]({{< param buyurl >}})
