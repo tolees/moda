@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dos bolsillos inferiores para calentar las manos en la parte delantera
-- Carhartt es una marca de ropa de trabajo, con un ajuste más amplio en el pecho y los hombros. Si prefiere un ajuste más adaptado al cuerpo, escoja una talla más baja.
-- Artículo con y sin parche en la riñonera según disponibilidad
-- Puños y cintura elásticos y reforzados con elastano
 - Forro polar de peso medio
+- Carhartt es una marca de ropa de trabajo, con un ajuste más amplio en el pecho y los hombros. Si prefiere un ajuste más adaptado al cuerpo, escoja una talla más baja.
+- Puños y cintura elásticos y reforzados con elastano
+- Dos bolsillos inferiores para calentar las manos en la parte delantera
+- Artículo con y sin parche en la riñonera según disponibilidad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
