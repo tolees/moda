@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Barstow Western Standard  Camisa Hombre  Negro  Marble Black Denim Rinse 0002   XX-Large'
-date: 2022-09-30 19:13:32
+date: 2022-10-10 11:49:25
 image: 'https://m.media-amazon.com/images/I/31uBmmfqW+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Dos bolsillos con botón en el pecho
 - Modelo casual
 - Camisa denim clásica de manga larga Western Shirt
-- Dos bolsillos con botón en el pecho
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

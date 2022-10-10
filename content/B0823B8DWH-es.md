@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s BT Graphic tee CO BW GRA Camiseta  Big Oscuro BRW White  XX-Large para Hombre'
-date: 2022-10-08 16:22:57
+date: 2022-10-10 13:01:34
 image: 'https://m.media-amazon.com/images/I/41EI0Dc-ZzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B0823B8DWH/?tag=tolees-21'
 descuento: '53.50'
-average: '14.475'
+average: '14.37'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
