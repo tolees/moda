@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kappa Camiseta KEPA 10 años'
-date: 2022-10-08 19:45:40
+date: 2022-10-10 09:45:33
 image: 'https://m.media-amazon.com/images/I/31vnfkMhnDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09RQW9LVG-es Kappa Camiseta KEPA 10 años'
 sku: 'B09RQW9LVG-es'
 tags: [ 'Camisetas de manga corta para niño','Camisetas, polos y camisas para niño','Ropa','Ropa para niña','Ropa para niño','camiseta','kappa','🇪🇸', ]
-actualPrice: 7.2 EUR
+actualPrice: 7.1 EUR
 currency: EUR
-price: 7.2
+price: 7.1
 comparePrice: 15.0 EUR
 prodname: 'Kappa Camiseta KEPA 10 años'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Kappa'
 buyurl: 'https://www.amazon.es/dp/B09RQW9LVG/?tag=tolees-21'
-descuento: '52.00'
-average: '8.75333333333333'
+descuento: '52.67'
+average: '8.588'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Diseño y confort
-- Camiseta para niños
+- Colección primavera/verano 2022 de Kappa.
 - Libertad de movimiento
 - Omini Kappa
-- Colección primavera/verano 2022 de Kappa.
+- Camiseta para niños
 
 [🛒 Comprar!!!]({{< param buyurl >}})

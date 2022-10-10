@@ -29,7 +29,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Camiseta manga larga
-- Quick dry
 - Crew neck
+- Quick dry
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
