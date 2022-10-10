@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lacoste L1212 Camisa de Polo para Hombre  Rojo  Bordeaux   L'
-date: 2022-10-03 21:29:57
+date: 2022-10-10 00:07:30
 image: 'https://m.media-amazon.com/images/I/41HDpevuJmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lacoste'
 buyurl: 'https://www.amazon.es/dp/B002LU5DP4/?tag=tolees-21'
 descuento: '18.00'
-average: '58.3'
+average: '64.225'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Bajo recto con aberturas laterales
+- Polo Lacoste Classic Fit L.12.12
 - Cuello y bordes de las mangas acanalados
 - Cocodrilo bordado en el pecho
 - Classic fit
-- Polo Lacoste Classic Fit L.12.12
 
 [🛒 Comprar!!!]({{< param buyurl >}})
