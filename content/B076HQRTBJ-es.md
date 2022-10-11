@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Core18 TR Pantalón  Sin género  Negro  S'
-date: 2022-10-09 03:58:39
+date: 2022-10-11 12:50:04
 image: 'https://m.media-amazon.com/images/I/31SefwqekNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Pantalones de deporte para hombre','Pantalones deportivos para hombre',
 actualPrice: 24.08 EUR
 currency: EUR
 price: 24.08
-comparePrice: 28.8 EUR
+comparePrice: 30.0 EUR
 prodname: 'adidas Core18 TR Pantalón  Sin género  Negro  S'
 country: 'es'
 flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076HQRTBJ/?tag=tolees-21'
-descuento: '16.39'
-average: '22.6916049382717'
+descuento: '19.73'
+average: '22.7085365853659'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,7 +29,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Pantalón adidas pantalón core18 tr pnt negro/blanco
-- Fútbol Perfil: hombre unisex, material:, color: negro/blanco
 - Core18 tr pnt negro s
+- Fútbol Perfil: hombre unisex, material:, color: negro/blanco
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

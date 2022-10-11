@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cuaderno de bocetos de moda infantil para estilista.: Cuaderno de estilista  siluetas de maniquíes para dibujar moda como un estilista  Perfecto para diseñadores de moda 100 páginas. 8.5*11 inch'
-date: 2022-10-10 11:22:06
+date: 2022-10-11 12:37:31
 image: 'https://m.media-amazon.com/images/I/41F31HPM8xL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09P7PCYFF/?tag=tolees-21'
 descuento: '28.21'
-average: '5.99957446808509'
+average: '5.99124999999998'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
