@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Instrucciones de cuidado: no es lavable
 - Logotipo clásico de buckle
+- Instrucciones de cuidado: no es lavable
 
 [🛒 Comprar!!!]({{< param buyurl >}})
