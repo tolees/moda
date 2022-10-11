@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cuello acanalado
 - Polo Lacoste Slim Fit
+- Petit piqué de dos capas
 - Slim fit
 - Tapeta 2 botones
-- Cuello acanalado
-- Petit piqué de dos capas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
