@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vero Moda Vmnancy LS Knit Dress Noos Vestido  Gris  Medium Grey Melange Medium Grey Melange   40  Talla del Fabricante: Medium  para Mujer'
-date: 2022-10-04 16:38:00
+date: 2022-10-12 12:32:20
 image: 'https://m.media-amazon.com/images/I/31mDSBVMk9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Knit dress with long sleeves
 - Knit dress
+- Knit dress with long sleeves
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
