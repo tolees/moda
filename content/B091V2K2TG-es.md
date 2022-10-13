@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hackett London Melange Jersey Jogger Pantalones Informales  987gris Oscuro  42W x 32L para Hombre'
-date: 2022-10-11 18:12:23
+date: 2022-10-12 20:13:36
 image: 'https://m.media-amazon.com/images/I/31NjlTzLQQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Corte clásico
-- Estilo informal o clásico
 - Corte ajustado
+- Estilo informal o clásico
+- Corte clásico
 
 [🛒 Visítala!!!]({{< param buyurl >}})

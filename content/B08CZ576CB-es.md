@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FILA Disruptor kids  Zapatilla Unisex niños  Blanco  White   36 EU'
-date: 2022-10-08 10:30:50
+date: 2022-10-12 20:06:42
 image: 'https://m.media-amazon.com/images/I/41ECqPILMOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Zapatillas casual para niña','Zapatillas y calzado deportivo para niñ
 actualPrice: 48.75 EUR
 currency: EUR
 price: 48.75
-comparePrice: 92.0 EUR
+comparePrice: 85.0 EUR
 prodname: 'FILA Disruptor kids  Zapatilla Unisex niños  Blanco  White   36 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Fila'
 buyurl: 'https://www.amazon.es/dp/B08CZ576CB/?tag=tolees-21'
-descuento: '47.01'
-average: '47.85'
+descuento: '42.65'
+average: '48.3'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Chunky outsole
-- Nombre de departamento: Unisex niños
 - Composición del material: pelle
+- Nombre de departamento: Unisex niños
 - Estilo más adecuado para: unisex
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Guess New Boston Billfold W/Coin Pkt  Billetera para Hombre  Negro  Black   2.5x9.6x12.2 Centimeters  W x H x L '
-date: 2022-10-01 22:29:33
+date: 2022-10-12 21:43:11
 image: 'https://m.media-amazon.com/images/I/51pcoxm-W4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Guess'
 buyurl: 'https://www.amazon.es/dp/B07FLMMPN4/?tag=tolees-21'
 descuento: '35.38'
-average: '42.25'
+average: '42.2'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
