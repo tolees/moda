@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Havaianas Top  Chanclas Unisex Adulto  Rojo  Red Crush   43/44 EU'
-date: 2022-10-12 05:28:37
+date: 2022-10-13 06:24:10
 image: 'https://m.media-amazon.com/images/I/41q4N3QZY5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Havaianas'
 buyurl: 'https://www.amazon.es/dp/B0929ZGBXV/?tag=tolees-21'
 descuento: '40.24'
-average: '12.0357142857143'
+average: '11.875'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
