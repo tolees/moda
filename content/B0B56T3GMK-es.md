@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Amortiguación EVA
 - Parte superior de malla
+- Amortiguación EVA
 - Costuras reforzadas en los dedos del pie
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello redondo
 - Bordado de G-Star RAW en el pecho
+- Cuello redondo
 - Bajo recto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
