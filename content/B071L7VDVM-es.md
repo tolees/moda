@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lacoste Sport TH0123  Camiseta Hombre  Negro  Noir   S'
-date: 2022-10-03 22:02:28
+date: 2022-10-14 20:59:35
 image: 'https://m.media-amazon.com/images/I/314otE5ow7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lacoste'
 buyurl: 'https://www.amazon.es/dp/B071L7VDVM/?tag=tolees-21'
 descuento: '31.00'
-average: '33.95'
+average: '34.6166666666667'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuello redondo
 - Acabados acanalados
-- Camiseta de hombre Lacoste SPORT en algodón con cuello redondo
-- Tejido de punto de mezcla de algodón técnico
 - Regular fit
+- Tejido de punto de mezcla de algodón técnico
+- Cuello redondo
+- Camiseta de hombre Lacoste SPORT en algodón con cuello redondo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'G-STAR RAW Arc 3D Slim  Chaqueta  para Hombre  Azul  faded santorini C911-C767   M'
-date: 2022-10-13 16:50:15
+date: 2022-10-14 20:46:37
 image: 'https://m.media-amazon.com/images/I/41ZLDHAf7IL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Corte ajustado
 - Bolsillos ribeteados en vertical en la cintura
 - Manga larga con costuras redondeadas y puño
-- Corte ajustado
 - Cuello de camisa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
