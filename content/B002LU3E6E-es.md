@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Polo Lacoste Classic Fit L.12.12
 - Bajo recto con aberturas laterales
 - Classic fit
-- Cocodrilo bordado en el pecho
 - Cuello y bordes de las mangas acanalados
+- Polo Lacoste Classic Fit L.12.12
+- Cocodrilo bordado en el pecho
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

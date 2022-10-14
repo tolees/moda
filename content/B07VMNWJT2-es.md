@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvin Klein Jeans Unlined Triangle Almohadillas y Rellenos de Sujetador  Grey Heather  M para Mujer'
-date: 2022-10-13 07:56:28
+date: 2022-10-14 16:36:13
 image: 'https://m.media-amazon.com/images/I/41CWrJo+TrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Calvin Klein Jeans'
 buyurl: 'https://www.amazon.es/dp/B07VMNWJT2/?tag=tolees-21'
 descuento: '53.18'
-average: '14.3375'
+average: '14.27'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

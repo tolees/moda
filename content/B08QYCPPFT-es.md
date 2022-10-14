@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Capucha con cordón que te permite ajustar tu cobertura.
-- Peso del paquete: 0,51 kg
 - Bolsillo canguro en la parte delantera
+- Peso del paquete: 0,51 kg
+- Capucha con cordón que te permite ajustar tu cobertura.
 - Tejido de forro polar suave y cálido.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

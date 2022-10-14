@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ajuste slim
 - Modelo casual
+- Ajuste slim
 - Logo de Calvin Klein estampado en el pecho
 
 [🛒 Comprar!!!]({{< param buyurl >}})

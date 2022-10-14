@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material exterior: piel lisa
 - Suela: cuero y goma
 - Material interior: piel
+- Material exterior: piel lisa
 
 [🛒 Visítala!!!]({{< param buyurl >}})
