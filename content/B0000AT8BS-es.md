@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Timberland 6 Inch Premium Waterproof  Botas Chukka Mujer  Amarillo Wheat Nubuck  35.5 EU'
-date: 2022-10-02 03:59:30
+date: 2022-10-14 23:15:19
 image: 'https://m.media-amazon.com/images/I/411VqEFNLnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Timberland'
 buyurl: 'https://www.amazon.es/dp/B0000AT8BS/?tag=tolees-21'
 descuento: '54.29'
-average: '90.798'
+average: '90.9980769230769'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
