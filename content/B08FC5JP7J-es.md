@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Tjw Slim Jersey V Neck Camiseta  Negro  Black   M para Mujer'
-date: 2022-10-11 18:25:45
+date: 2022-10-15 14:02:06
 image: 'https://m.media-amazon.com/images/I/41Ur0T3x47L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Tommy Hilfiger'
 buyurl: 'https://www.amazon.es/dp/B08FC5JP7J/?tag=tolees-21'
 descuento: '50.00'
-average: '16.19'
+average: '15.7766666666667'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
