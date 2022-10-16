@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones JJELOGO tee SS O-Neck 2COL 21/22 Noos JR Camiseta  Amarillo Pastel  152 cm para Niños'
-date: 2022-10-01 10:38:58
+date: 2022-10-16 12:40:40
 image: 'https://m.media-amazon.com/images/I/316fClKNvFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Apoya la iniciativa Better Cotton Initiativa
 - 100% algodón
+- Apoya la iniciativa Better Cotton Initiativa
 
 [🛒 Comprar!!!]({{< param buyurl >}})
