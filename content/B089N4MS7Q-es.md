@@ -30,7 +30,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Estampado
 - Camiseta
-- Algodón
 - Cómodo
+- Algodón
 
 [🛒 Visítala!!!]({{< param buyurl >}})
