@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Regatta Stormbreak - Chaqueta para hombre  tamaño XL  color negro'
-date: 2022-10-16 11:19:35
+date: 2022-10-17 12:29:11
 image: 'https://m.media-amazon.com/images/I/31re51BrkBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Regatta'
 buyurl: 'https://www.amazon.es/dp/B001FKOPUU/?tag=tolees-21'
 descuento: '40.15'
-average: '12.585'
+average: '14.3733333333333'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Capucha de una pieza
 - Puños elásticos
 - Costuras selladas
+- Capucha de una pieza
 - Acabado hidrófugo duradero
 - Tejido de poliéster Hydrafort impermeable
 

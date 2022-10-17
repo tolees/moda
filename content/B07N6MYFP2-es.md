@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FILA Strada wmn  Zapatilla Mujer  Negro  Black   36 EU'
-date: 2022-10-07 11:43:55
+date: 2022-10-17 12:08:37
 image: 'https://m.media-amazon.com/images/I/41h7j3lyjmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Fila'
 buyurl: 'https://www.amazon.es/dp/B07N6MYFP2/?tag=tolees-21'
 descuento: '40.01'
-average: '47.4063636363636'
+average: '47.455'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Revestimiento: Sintético
 - Material exterior: Sintético
+- Revestimiento: Sintético
 
 [🛒 Visítala!!!]({{< param buyurl >}})
