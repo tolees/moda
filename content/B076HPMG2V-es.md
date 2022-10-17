@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas CORE18 Hoody Y Sudadera  Unisex Niños  Azul  Azul/Blanco   128'
-date: 2022-10-06 02:30:19
+date: 2022-10-17 01:11:11
 image: 'https://m.media-amazon.com/images/I/41dWhXCn2hL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Capucha con cordón ajustable.
 - Corte clásico más ancho y silueta recta.
 - Con bolsillo de tipo canguro
 - Felpa 70% algodón / 30% poliéster.
 - Manga raglán.
 - Puños y dobladillo de canalé.
-- Capucha con cordón ajustable.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
