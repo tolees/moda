@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JACK & JONES Jjelogo Blocking tee SS Noos Camiseta  Multicolor  Blue/Navy Blazer   L para Hombre'
-date: 2022-10-09 13:47:48
+date: 2022-10-17 10:19:39
 image: 'https://m.media-amazon.com/images/I/41UT+2UhTCS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08L6LKGRN-es JACK & JONES Jjelogo Blocking tee SS Noos Camiseta...'
 sku: 'B08L6LKGRN-es'
 tags: [ 'Camisetas para hombre','Camisetas, polos y camisas para hombre','Ropa','Ropa para hombre','camiseta','jack & jones','🇪🇸', ]
-actualPrice: 12.89 EUR
+actualPrice: 11.61 EUR
 currency: EUR
-price: 12.89
+price: 11.61
 comparePrice: 17.99 EUR
 prodname: 'JACK & JONES Jjelogo Blocking tee SS Noos Camiseta  Multicolor  Blue/Navy Blazer   L para Hombre'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B08L6LKGRN/?tag=tolees-21'
-descuento: '28.35'
-average: '9.07571428571429'
+descuento: '35.46'
+average: '9.3925'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Camiseta
-- Cómodo
 - Estampado
 - algodón
+- Cómodo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
