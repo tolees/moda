@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvin Klein Jeans J30J307855 Camisa  039  M para Hombre'
-date: 2022-10-14 15:43:34
+date: 2022-10-18 06:01:01
 image: 'https://m.media-amazon.com/images/I/31BxNe520rL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,7 +29,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Modelo casual
-- Ajuste slim
 - Logo de Calvin Klein estampado en el pecho
+- Ajuste slim
 
 [🛒 Comprar!!!]({{< param buyurl >}})
