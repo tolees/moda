@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Adidas Core18 Sw Top Sudadera  Hombre  Gris  Gris/Negro   XL'
-date: 2022-10-14 09:51:04
+date: 2022-10-17 22:11:24
 image: 'https://m.media-amazon.com/images/I/516q61AOW2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B076HR1T8G-es Adidas Core18 Sw Top Sudadera Hombre Gris Gris/Negro XL'
 sku: 'B076HR1T8G-es'
 tags: [ 'Jerséis, cárdigans y sudaderas para hombre','Ropa','Ropa para hombre','Sudaderas para hombre','Sudaderas sin capucha para hombre','adidas','sudadera','🇪🇸', ]
-actualPrice: 20.5 EUR
+actualPrice: 24.95 EUR
 currency: EUR
-price: 20.5
+price: 24.95
 comparePrice: 40.0 EUR
 prodname: 'Adidas Core18 Sw Top Sudadera  Hombre  Gris  Gris/Negro   XL'
 country: 'es'
 flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076HR1T8G/?tag=tolees-21'
-descuento: '48.75'
-average: '23.9887387387388'
+descuento: '37.62'
+average: '23.9973214285715'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuenta con un pequeño logotipo de Adidas bordado en el pecho
 - Mangas con ribetes en contraste
-- Presenta ajuste regular
 - Puños y dobladillo de canalé
+- Cuenta con un pequeño logotipo de Adidas bordado en el pecho
+- Presenta ajuste regular
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Slim 2pk Crewneck 1  Camiseta Hombre  Negro  Two-Pack Tee Black + 0001   XXX-Large'
-date: 2022-10-13 06:28:38
+date: 2022-10-17 21:54:32
 image: 'https://m.media-amazon.com/images/I/31LvAJ2uzkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07LFGWLVD/?tag=tolees-21'
 descuento: '26.74'
-average: '17.0535714285714'
+average: '17.626'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
