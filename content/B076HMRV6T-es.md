@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas CORE18 RN JKT Chaqueta Deportiva  Hombre  Rojo  Power Red/White   XL'
-date: 2022-10-08 01:01:08
+date: 2022-10-18 15:32:57
 image: 'https://m.media-amazon.com/images/I/41yDgiDLg4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076HMRV6T/?tag=tolees-21'
 descuento: '50.03'
-average: '22.1633333333333'
+average: '21.62'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiene cierre completo con cremallera
-- Tiene el logotipo de Adidas en el pecho
 - Chubasquero con capucha para hombre
+- Tiene el logotipo de Adidas en el pecho
 - Tiene dos bolsillos laterales para las manos
+- Tiene cierre completo con cremallera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

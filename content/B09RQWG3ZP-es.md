@@ -1,25 +1,25 @@
 ---
 layout: post
 title: 'Kappa Camiseta GODOT L'
-date: 2022-10-09 20:43:49
+date: 2022-10-18 16:43:39
 image: 'https://m.media-amazon.com/images/I/41uyu1S-HPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B09RQWG3ZP-es Kappa Camiseta GODOT L'
 sku: 'B09RQWG3ZP-es'
-tags: [ 'Camisetas para hombre','Camisetas, polos y camisas para hombre','Ropa','Ropa deportiva para hombre','Ropa para hombre','camiseta','kappa','🇪🇸', ]
-actualPrice: 11.24 EUR
+tags: [ 'Camisetas para hombre','Camisetas, polos y camisas para hombre','Moda','Moda Hombre','Ropa deportiva para hombre','Ropa para hombre','camiseta','kappa','🇪🇸', ]
+actualPrice: 10.99 EUR
 currency: EUR
-price: 11.24
+price: 10.99
 comparePrice: 20.0 EUR
 prodname: 'Kappa Camiseta GODOT L'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Kappa'
 buyurl: 'https://www.amazon.es/dp/B09RQWG3ZP/?tag=tolees-21'
-descuento: '43.80'
-average: '11.6425'
+descuento: '45.05'
+average: '11.512'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Camiseta para hombre
-- Omini Kappa
 - Colección primavera/verano 2022 de Kappa.
-- Libertad de movimiento
 - Diseño y confort
+- Omini Kappa
+- Libertad de movimiento
+- Camiseta para hombre
 
 [🛒 Aquí!!!]({{< param buyurl >}})
