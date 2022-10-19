@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'adidas Essential Crew Sudadera  Hombre  Black  L'
-date: 2022-10-08 01:41:30
+date: 2022-10-18 21:28:44
 image: 'https://m.media-amazon.com/images/I/31484f2bL3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07KQJRYK3-es adidas Essential Crew Sudadera Hombre Black L'
 sku: 'B07KQJRYK3-es'
-tags: [ 'Jerséis, cárdigans y sudaderas para hombre','Ropa','Ropa para hombre','Sudaderas para hombre','Sudaderas sin capucha para hombre','adidas','sudadera','🇪🇸', ]
+tags: [ 'Jerséis, cárdigans y sudaderas para hombre','Moda','Moda Hombre','Ropa para hombre','Sudaderas para hombre','Sudaderas sin capucha para hombre','adidas','sudadera','🇪🇸', ]
 actualPrice: 33.98 EUR
 currency: EUR
 price: 33.98
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Soft fabric
 - Crew-neck design
+- Soft fabric
 - Regular fit
 
 [🛒 Aquí!!!]({{< param buyurl >}})
