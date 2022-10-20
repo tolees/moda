@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Crocs Classic Lined Tie-Dye Clog  Zuecos para Unisex adulto  Negro  Multi/Black   38/39 EU'
-date: 2022-10-16 09:36:25
+date: 2022-10-19 22:40:38
 image: 'https://m.media-amazon.com/images/I/416QKg+oCzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07L99MYGG-es Crocs Classic Lined Tie-Dye Clog Zuecos para Unisex adulto...'
 sku: 'B07L99MYGG-es'
-tags: [ 'Zapatos','Zapatos para hombre','Zapatos y complementos','Zuecos y mules para hombre','crocs','zuecos','🇪🇸', ]
+tags: [ 'Moda','Moda Hombre','Zapatos para hombre','Zuecos y mules para hombre','crocs','zuecos','🇪🇸', ]
 actualPrice: 37.8 EUR
 currency: EUR
 price: 37.8

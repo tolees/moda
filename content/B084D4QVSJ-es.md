@@ -1,25 +1,25 @@
 ---
 layout: post
 title: 'Geox U NEBULA  Zapatillas  para Hombre  Gris  Gris   47 EU'
-date: 2022-10-10 08:40:56
+date: 2022-10-19 22:05:27
 image: 'https://m.media-amazon.com/images/I/41GSXJ-OuCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B084D4QVSJ-es Geox U NEBULA Zapatillas para Hombre Gris Gris 47 EU'
 sku: 'B084D4QVSJ-es'
-tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','geox','🇪🇸', ]
-actualPrice: 30.74 EUR
+tags: [ 'Moda','Moda Hombre','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos para hombre','geox','🇪🇸', ]
+actualPrice: 42.63 EUR
 currency: EUR
-price: 30.74
-comparePrice: 129.9 EUR
+price: 42.63
+comparePrice: 69.9 EUR
 prodname: 'Geox U NEBULA  Zapatillas  para Hombre  Gris  Gris   47 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B084D4QVSJ/?tag=tolees-21'
-descuento: '76.34'
-average: '37.9383333333333'
+descuento: '39.01'
+average: '38.6085714285714'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
