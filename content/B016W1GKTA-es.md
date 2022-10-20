@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Calvin Klein Jeans 2p Boxer Brief Bxer  Gris  Heather Grey/Black Bhy   M  Pack de 2  para Hombre'
-date: 2022-10-15 15:04:24
+date: 2022-10-20 07:04:04
 image: 'https://m.media-amazon.com/images/I/41SGBMwPxPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B016W1GKTA-es Calvin Klein Jeans 2p Boxer Brief Bxer Gris Heather...'
 sku: 'B016W1GKTA-es'
-tags: [ 'Bóxers para hombre','Ropa','Ropa interior para hombre','Ropa para hombre','boxer','calvin klein jeans','🇪🇸', ]
+tags: [ 'Bóxers para hombre','Moda','Moda Hombre','Ropa interior para hombre','Ropa para hombre','boxer','calvin klein jeans','🇪🇸', ]
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0
