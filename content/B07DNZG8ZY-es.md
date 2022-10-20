@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cómodas gafas de natación para entrenamiento con ajuste universal y sellado suave.
-- 50% policarbonato, 30% caucho termoplástico, 20% silicona
 - También aptas para triatlón y aguas abiertas
-- Lentes duras con protección UV y película antivaho.
+- 50% policarbonato, 30% caucho termoplástico, 20% silicona
 - Puente de nariz autoajustable, correa dividida, sin PVC
+- Cómodas gafas de natación para entrenamiento con ajuste universal y sellado suave.
+- Lentes duras con protección UV y película antivaho.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

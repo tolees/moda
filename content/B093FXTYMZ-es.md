@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bolsillo canguro
 - Media cremallera
+- Bolsillo canguro
 - Forro polar flexible
 
 [🛒 Aquí!!!]({{< param buyurl >}})
