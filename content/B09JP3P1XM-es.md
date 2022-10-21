@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Mouline Tipped Slim Polo Camisa  Bryant Green  S para Hombre'
-date: 2022-10-10 21:13:24
+date: 2022-10-21 11:12:42
 image: 'https://m.media-amazon.com/images/I/31kaDVYEuvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,6 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Polo delgado con punta de MOULINE
+- Slim fit
+- Tommy Hilfiger branding
+- Tipped collar and cuffs
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
