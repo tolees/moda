@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- El aspecto único de esta prenda es el deseado. Puede cambiar tras su uso y los lavados. Sigue las instrucciones de cuidado
+- Nos encanta llevarlos por dentro o por fuera
 - Confección con un tejido de punto de algodón supersuave
 - Con la marca característica de Levis
 - Una prenda supersuave con cuello redondo clásico que combina bien con todo
-- Nos encanta llevarlos por dentro o por fuera
-- El aspecto único de esta prenda es el deseado. Puede cambiar tras su uso y los lavados. Sigue las instrucciones de cuidado
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Modelo con pierna estrecha en el tobillo
 - Fabricados en tejido suave
 - Cinturilla elástica distintiva de Calvin Klein
+- Modelo con pierna estrecha en el tobillo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
