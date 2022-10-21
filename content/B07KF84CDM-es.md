@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Calvin Klein Jeans J30J307855 Camisa  039  M para Hombre'
-date: 2022-10-18 06:01:01
+date: 2022-10-21 14:46:03
 image: 'https://m.media-amazon.com/images/I/31BxNe520rL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07KF84CDM-es Calvin Klein Jeans J30J307855 Camisa 039 M para Hombre'
 sku: 'B07KF84CDM-es'
-tags: [ 'Camisetas para hombre','Camisetas, polos y camisas para hombre','Ropa','Ropa para hombre','calvin klein jeans','camisa','🇪🇸', ]
+tags: [ 'Camisetas para hombre','Camisetas, polos y camisas para hombre','Moda','Moda Hombre','Ropa para hombre','calvin klein jeans','camisa','🇪🇸', ]
 actualPrice: 17.0 EUR
 currency: EUR
 price: 17.0
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Modelo casual
 - Logo de Calvin Klein estampado en el pecho
 - Ajuste slim
+- Modelo casual
 
 [🛒 Comprar!!!]({{< param buyurl >}})
