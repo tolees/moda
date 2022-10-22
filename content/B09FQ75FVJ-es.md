@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Lona de algodón duradera
 - Bolsillos traseros con botones
+- Lona de algodón duradera
 - Una marca de Amazon
 - Cierre frontal con botones
 

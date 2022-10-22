@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Red Tab Vintage tee Olas Martini Olive Camiseta  M para Hombre'
-date: 2022-10-20 11:04:31
+date: 2022-10-22 13:15:44
 image: 'https://m.media-amazon.com/images/I/41cKrY6sEiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuenta con un cuello redondo
 - Tiene un diseño de rayas
+- Cuenta con un cuello redondo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
