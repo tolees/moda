@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Ls Graphic Tee - B  Camiseta Hombre  Blanco  Hm Better White 0010   XX-Large'
-date: 2022-10-21 11:29:36
+date: 2022-10-22 17:17:54
 image: 'https://m.media-amazon.com/images/I/31KuCDWtIfS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con un logo Levis en horizontal en el pecho
 - Elaborada en punto suave
 - Modelo casual
+- Con un logo Levis en horizontal en el pecho
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
