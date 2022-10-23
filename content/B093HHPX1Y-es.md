@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'G-STAR RAW Arc 3D Slim  Chaqueta  para Hombre  Azul  faded santorini C911-C767   M'
-date: 2022-10-14 20:46:37
+date: 2022-10-23 13:51:13
 image: 'https://m.media-amazon.com/images/I/41ZLDHAf7IL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B093HHPX1Y-es G-STAR RAW Arc 3D Slim Chaqueta para Hombre Azul faded...'
 sku: 'B093HHPX1Y-es'
-tags: [ 'Chaquetas para hombre','Ropa','Ropa de abrigo para hombre','Ropa para hombre','chaqueta','g-star raw','🇪🇸', ]
+tags: [ 'Chaquetas para hombre','Moda','Moda Hombre','Ropa de abrigo para hombre','Ropa para hombre','chaqueta','g-star raw','🇪🇸', ]
 actualPrice: 54.95 EUR
 currency: EUR
 price: 54.95
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte ajustado
-- Bolsillos ribeteados en vertical en la cintura
 - Manga larga con costuras redondeadas y puño
 - Cuello de camisa
+- Corte ajustado
+- Bolsillos ribeteados en vertical en la cintura
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
