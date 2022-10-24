@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Marca Amazon - AURIQUE Joggers Cortos con Banda Lateral Mujer  Negro  Black/White   38  Label:S'
-date: 2022-10-23 12:00:01
+date: 2022-10-24 19:03:06
 image: 'https://m.media-amazon.com/images/I/31vCm5aDasL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
