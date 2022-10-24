@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Havaianas Top  Chanclas Unisex Adulto  Blanco  43/44 EU'
-date: 2022-10-16 09:08:26
+date: 2022-10-24 04:45:47
 image: 'https://m.media-amazon.com/images/I/31N9E52LaeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B000YKMHSE-es Havaianas Top Chanclas Unisex Adulto Blanco 43/44 EU'
 sku: 'B000YKMHSE-es'
-tags: [ 'Sandalias de dedo para mujer','Sandalias y palas de mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','chanclas','havaianas','🇪🇸', ]
+tags: [ 'Moda','Moda Mujer','Sandalias de dedo para mujer','Sandalias y palas de mujer','Zapatos para mujer','chanclas','havaianas','🇪🇸', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Havaianas'
 buyurl: 'https://www.amazon.es/dp/B000YKMHSE/?tag=tolees-21'
 descuento: '33.35'
-average: '11.7349999999998'
+average: '11.7427272727271'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de tacón: Plano
-- Material de la suela: Goma
 - Composición: Goma
+- Material exterior: Goma
+- Material de la suela: Goma
+- Tipo de tacón: Plano
 - Cierre: Sin cordones
 - Revestimiento: Sin forro
-- Material exterior: Goma
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
