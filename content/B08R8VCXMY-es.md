@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Hecho de 100% Poliéster
 - Ofrece comodidad
+- Hecho de 100% Poliéster
 
 [🛒 Aquí!!!]({{< param buyurl >}})
