@@ -30,7 +30,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Features mesh cut-outs for extra breathability
 - An Amazon brand
-- Tested for moisture-wicking properties that support dryness and comfort when working out
 - Squat-proof design ensures the material remains opaque when exercising
+- Tested for moisture-wicking properties that support dryness and comfort when working out
 
 [🛒 Visítala!!!]({{< param buyurl >}})
