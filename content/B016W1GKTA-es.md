@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvin Klein Jeans 2p Boxer Brief Bxer  Gris  Heather Grey/Black Bhy   M  Pack de 2  para Hombre'
-date: 2022-10-20 07:04:04
+date: 2022-10-25 20:33:04
 image: 'https://m.media-amazon.com/images/I/41SGBMwPxPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 95 % algodón, 5 % elastano
 - Instrucciones de cuidado: lavar a máquina en frío (30° máx.)
+- 95 % algodón, 5 % elastano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
