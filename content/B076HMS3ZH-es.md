@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas CORE18 RN JKT Chaqueta Deportiva  Hombre  Azul  Dark Blue/White   L'
-date: 2022-10-25 06:55:37
+date: 2022-10-26 11:20:56
 image: 'https://m.media-amazon.com/images/I/31tbXrlFZLS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076HMS3ZH/?tag=tolees-21'
 descuento: '50.50'
-average: '22.1'
+average: '21.525'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Chubasquero con capucha para hombre
-- Tiene el logotipo de Adidas en el pecho
 - Tiene cierre completo con cremallera
+- Tiene el logotipo de Adidas en el pecho
 - Tiene dos bolsillos laterales para las manos
+- Chubasquero con capucha para hombre
 
 [🛒 Aquí!!!]({{< param buyurl >}})

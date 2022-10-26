@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Con detalles distintivos de Tommy Jeans
-- Presenta la bandera de Tommy Jeans bordada en el pecho
-- Logo de Tommy Jeans bordado en el pecho
 - Con tapeta de tres botones
-- Tiene cuello y puños de punto acanalado
+- Presenta la bandera de Tommy Jeans bordada en el pecho
 - Fabricado en algodón orgánico
+- Tiene cuello y puños de punto acanalado
+- Logo de Tommy Jeans bordado en el pecho
 
 [🛒 Comprar!!!]({{< param buyurl >}})
