@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s SS Original HM tee Sleek BRANDIED Camiseta  Elegante melón Quemado  L para Hombre'
-date: 2022-10-23 19:55:15
+date: 2022-10-26 07:58:59
 image: 'https://m.media-amazon.com/images/I/41RwF5HDQOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tiene el logotipo bordado en el pecho
 - Cuenta con un cuello redondo
+- Tiene el logotipo bordado en el pecho
 
 [🛒 Aquí!!!]({{< param buyurl >}})
