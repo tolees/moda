@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cadena: Ancla
-- Piedra: Circonia cúbica
-- Forma: Redonda
-- Color: Plateado
 - Plata 925 Sterling
+- Forma: Redonda
+- Piedra: Circonia cúbica
+- Color: Plateado
+- Cadena: Ancla
 
 [🛒 Aquí!!!]({{< param buyurl >}})

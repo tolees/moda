@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones - Jack and Jones Hombre Sudadera Deportiva con Capucha Gris Claro L'
-date: 2022-10-23 06:02:47
+date: 2022-10-26 08:48:19
 image: 'https://m.media-amazon.com/images/I/41YxRMd0WEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello con capucha
-- Mangas largas
 - Sudadera
+- Mangas largas
+- Cuello con capucha
 
 [🛒 Comprar!!!]({{< param buyurl >}})

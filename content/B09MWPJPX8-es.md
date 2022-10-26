@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuenta con un cuello redondo
 - Tiene el logotipo bordado en el pecho
+- Cuenta con un cuello redondo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
