@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cuello redondo
-- Logotipo PUMA Cat en la parte derecha del pecho
 - dryCELL: denominación de PUMA de las propiedades repelentes de la humedad que ayudan a que la piel permanezca seca y cómoda
-- Manga larga
 - Poliéster 100 %
+- Logotipo PUMA Cat en la parte derecha del pecho
+- Manga larga
 
 [🛒 Visítala!!!]({{< param buyurl >}})
