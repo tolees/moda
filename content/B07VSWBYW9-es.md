@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Este es un producto auténtico y original de Calvin Klein.
 - Descubre más productos Calvin Klein explorando su tienda de marca.
+- Este es un producto auténtico y original de Calvin Klein.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

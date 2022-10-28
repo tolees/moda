@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Manga larga recta insertada con borde redondeado
-- Corte recto
 - Capucha con parte delantera cruzada, triángulo de canalé insertado y cordones ajustables
+- Corte recto
 - Paneles laterales, puños y cintura acanalados
 
 [🛒 Comprar!!!]({{< param buyurl >}})

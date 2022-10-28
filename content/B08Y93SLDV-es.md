@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material exterior: Piel sintética
 - Material de la suela: Caucho
+- Material exterior: Piel sintética
 
 [🛒 Aquí!!!]({{< param buyurl >}})

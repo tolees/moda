@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Core18 Sw Top Sudadera  Hombre  Negro  Negro/Blanco   XL'
-date: 2022-10-27 06:02:12
+date: 2022-10-28 07:27:34
 image: 'https://m.media-amazon.com/images/I/51pUGISh5iL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Puños y dobladillo de canalé
-- Mangas con ribetes en contraste
-- Cuenta con un pequeño logotipo de Adidas bordado en el pecho
-- Presenta ajuste regular
+- Regular fit
+- adidas logo on the front
+- The package dimension of the product is: 20"L x15"W x10"H
+- 3 stripes along the sleeves
 
 [🛒 Aquí!!!]({{< param buyurl >}})
