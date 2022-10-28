@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Oversize
 - Sostenible: algodón orgánico
+- Oversize
+- 2 bolsillos
 - Aplique de ganchillo con formas florales y geométricas en canesú delantero y trasero
 - Cazadora vaquera ganchillo
-- 2 bolsillos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

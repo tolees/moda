@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Wrangler Té Americana Camiseta  Azul Medieval  M para Hombre'
-date: 2022-10-19 08:26:21
+date: 2022-10-28 21:54:01
 image: 'https://m.media-amazon.com/images/I/41Vv+DxmM8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
