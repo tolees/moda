@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corte recto
-- Canalé en el bajo y en las mangas
 - Logotipo de HH estampado
-- Cuello redondo
-- HH Logo Crew
+- Corte recto
 - Felpa francesa de algodón fabricada en Europa
+- Cuello redondo
+- Canalé en el bajo y en las mangas
+- HH Logo Crew
 
 [🛒 Comprar!!!]({{< param buyurl >}})

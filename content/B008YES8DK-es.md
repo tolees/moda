@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pepe Jeans Eggo Long N Camiseta  Blanco  White   S para Hombre'
-date: 2022-10-28 07:21:02
+date: 2022-10-29 16:56:57
 image: 'https://m.media-amazon.com/images/I/31gsBIT56ML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pepe Jeans'
 buyurl: 'https://www.amazon.es/dp/B008YES8DK/?tag=tolees-21'
 descuento: '30.00'
-average: '21.3303260869565'
+average: '21.3260215053763'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

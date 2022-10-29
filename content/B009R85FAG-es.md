@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pepe Jeans Eggo Long N Camiseta  Gris  Grey Marl   S para Hombre'
-date: 2022-10-28 07:21:13
+date: 2022-10-29 16:57:53
 image: 'https://m.media-amazon.com/images/I/41Aa3MoHREL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pepe Jeans'
 buyurl: 'https://www.amazon.es/dp/B009R85FAG/?tag=tolees-21'
 descuento: '30.00'
-average: '20.680625'
+average: '20.6837037037037'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
