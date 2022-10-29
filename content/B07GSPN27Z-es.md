@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jjimike Jjoriginal Am 814 Vaqueros Relaxed  Azul Denim  32W / 32L para Hombre'
-date: 2022-10-25 22:03:33
+date: 2022-10-29 14:23:59
 image: 'https://m.media-amazon.com/images/I/41ULc98b0jL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B07GSPN27Z/?tag=tolees-21'
 descuento: '38.78'
-average: '22.4866666666667'
+average: '22.985'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
