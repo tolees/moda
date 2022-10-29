@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Código QR impreso en la parte posterior
-- Logotipo pequeño clásico bordado en el pecho
 - Bolsillo tipo canguro
+- Código QR impreso en la parte posterior
 - Uso de hilos y etiquetas recicladas
+- Logotipo pequeño clásico bordado en el pecho
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
