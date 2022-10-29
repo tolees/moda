@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Ajuste clásico.
 - Puños y dobladillo con canalé.
+- Capucha con cordón.
 - Felpa perchada, 70 % algodón / 30 % poliéster reciclado.
 - Bolsillo tipo canguro.
-- Capucha con cordón.
-- Ajuste clásico.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
