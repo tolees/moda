@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hecho con algodón 100% sostenible
-- Ajuste regular
 - Camiseta manga larga cuello redondo
+- Ajuste regular
+- Hecho con algodón 100% sostenible
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -29,11 +29,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - El nombre lo dice todo
-- Talle ultraalto
-- Talle alto que realza la cintura Elegante pierna superceñida Con Levis Sculpt Hyperstretch; Nuestro tejido definitivo para sujetar y realzar la figura que no se estira, así que no te preocupes de acabar con un ajuste holgado al final del día
-- Dicho de otro modo, actúa justo donde lo necesitas
-- Un look ajustado
-- Los Mile High Super Skinny acentúan tu silueta en los sitios adecuados, realzan tu figura y tienen la cantidad óptima de elástico
 - Prenda confeccionada pensando en el medioambiente con tejido Tencel para un impacto medioambiental
+- Un look ajustado
+- Talle alto que realza la cintura Elegante pierna superceñida Con Levis Sculpt Hyperstretch; Nuestro tejido definitivo para sujetar y realzar la figura que no se estira, así que no te preocupes de acabar con un ajuste holgado al final del día
+- Los Mile High Super Skinny acentúan tu silueta en los sitios adecuados, realzan tu figura y tienen la cantidad óptima de elástico
+- Talle ultraalto
+- Dicho de otro modo, actúa justo donde lo necesitas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

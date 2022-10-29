@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Corte recto original
+- Auténtico estilo americano
 - Un lienzo en blanco para la expresión propia
 - Jeans azules originales desde 1873
 - Modelo fabricado con tecnología Water&ItLess, que utiliza un 96 % menos de agua que las técnicas habituales de acabado
-- Corte recto original
-- Auténtico estilo americano
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Only Mujer Onltia Dnm Jacket Bb Mb Bex02 Noos Chaqueta Vaquera  Azul  42'
-date: 2022-10-19 06:17:20
+date: 2022-10-29 18:50:17
 image: 'https://m.media-amazon.com/images/I/51u7tSNxSxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Only'
 buyurl: 'https://www.amazon.es/dp/B07HDP22JW/?tag=tolees-21'
 descuento: '35.03'
-average: '20.24125'
+average: '20.8788888888889'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- collar and long sleeves
 - jeans jacket in medium blue washing
+- collar and long sleeves
 
 [🛒 Visítala!!!]({{< param buyurl >}})
