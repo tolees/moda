@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Plantilla: piel.
-- Tamaño normal
 - Forro: sin forro.
+- Material de la suela: piel.
+- Tamaño normal
+- Plantilla: piel.
 - Tipo de tacón: plano.
 - Tamaño: tamaño normal
-- Parte superior: Otros cuero
-- Material de la suela: piel.
 - Material exterior: otros cueros.
+- Parte superior: Otros cuero
 
 [🛒 Visítala!!!]({{< param buyurl >}})
