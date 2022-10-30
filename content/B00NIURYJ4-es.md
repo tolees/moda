@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Incluye pistola, Holster y cinturón.
 - Pistola de vaquero para hombre con Holster y cinturón
 - Ideal para fiestas de temática de Wild West
-- Tamaño: Talla Única
+- Incluye pistola, Holster y cinturón.
 - Color: Marrón/Plata
+- Tamaño: Talla Única
 
 [🛒 Comprar!!!]({{< param buyurl >}})
