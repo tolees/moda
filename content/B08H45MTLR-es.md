@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tejido elástico y ligero, que absorbe la humedad y es transpirable.
 - Marca Amazon
+- Tejido elástico y ligero, que absorbe la humedad y es transpirable.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
