@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Slim Fit: más ajustado en el pecho, ligeramente más estrecho en la cintura para un estilo entallado
 - Las prendas del día a día, pero mejores: Prestamos atención a los comentarios de nuestros clientes y ajustamos hasta el más mínimo detalle para garantizar la calidad, el corte y la comodidad
-- Bordes redondeados, puño camisero de un botón, bolsillo de parche en el pecho
 - Este producto talla grande, considera elegir una talla inferior a la usual
-- El modelo mide 187 cm y lleva una talla M
 - Esta camisa de franela con estampado de tartán, perfecta para el fin de semana, tiene un tacto suave y ofrece una total comodidad
+- El modelo mide 187 cm y lleva una talla M
+- Bordes redondeados, puño camisero de un botón, bolsillo de parche en el pecho
 
 [🛒 Comprar!!!]({{< param buyurl >}})
