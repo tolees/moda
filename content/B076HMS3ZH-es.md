@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas CORE18 RN JKT Chaqueta Deportiva  Hombre  Azul  Dark Blue/White   L'
-date: 2022-10-29 04:50:24
+date: 2022-10-30 17:39:18
 image: 'https://m.media-amazon.com/images/I/31tbXrlFZLS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076HMS3ZH/?tag=tolees-21'
 descuento: '50.50'
-average: '20.95'
+average: '20.7857142857143'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

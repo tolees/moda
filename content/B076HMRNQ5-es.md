@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas CORE18 RN JKT Chaqueta Deportiva  Hombre  Negro  Black/White   L'
-date: 2022-10-29 04:49:45
+date: 2022-10-30 17:38:54
 image: 'https://m.media-amazon.com/images/I/31KD0SO+6-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076HMRNQ5/?tag=tolees-21'
 descuento: '37.62'
-average: '23.3322222222222'
+average: '23.4173684210526'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Core18 rn jkt
 - /blanco
 - Adidas Aparel
+- Core18 rn jkt
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
