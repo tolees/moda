@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lacoste Th7618 Camiseta  Blanc  3XL para Hombre'
-date: 2022-10-28 13:28:49
+date: 2022-10-30 07:02:13
 image: 'https://m.media-amazon.com/images/I/31LpR3xrDML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lacoste'
 buyurl: 'https://www.amazon.es/dp/B00UNA3UE0/?tag=tolees-21'
 descuento: '50.10'
-average: '28.18'
+average: '27.1033333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Logo ultra dry en la parte inferior de la espalda
 - Camiseta para hombres, marca Lacoste
 - Cocodrilo verde bordado en el pecho
+- Logo ultra dry en la parte inferior de la espalda
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
