@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Ls Original Hm Tee  Camiseta Hombre  Negro  Black 0009   Medium'
-date: 2022-10-27 00:31:59
+date: 2022-10-31 11:53:39
 image: 'https://m.media-amazon.com/images/I/31r3GvVcpGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07LF8RGSQ/?tag=tolees-21'
 descuento: '34.71'
-average: '20.7378571428571'
+average: '20.7749122807017'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Elaborada en punto suave
 - Modelo casual
+- Elaborada en punto suave
 - Con un discreto logo en el pecho
 
 [🛒 Aquí!!!]({{< param buyurl >}})
