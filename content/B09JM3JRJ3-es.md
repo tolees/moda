@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Calvin Klein Jeans Monogram Logo Hoodie Sudadera con Capucha  CK Black  M para Mujer'
-date: 2022-10-31 17:33:34
-image: 'https://m.media-amazon.com/images/I/31J-v4pFzzL._SL500_._SL400_.jpg'
+title: 'Calvin Klein Jeans Monogram Logo Hoodie Sudadera con Capucha  Pink Blush  M para Mujer'
+date: 2022-10-31 18:45:31
+image: 'https://m.media-amazon.com/images/I/41wpOwrr8eL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B09JM2G8NT-es Calvin Klein Jeans Monogram Logo Hoodie Sudadera con...'
-sku: 'B09JM2G8NT-es'
+slug: 'B09JM3JRJ3-es Calvin Klein Jeans Monogram Logo Hoodie Sudadera con...'
+sku: 'B09JM3JRJ3-es'
 tags: [ 'Jerséis, cárdigans y sudaderas para mujer','Moda','Moda Mujer','Ropa para mujer','Sudaderas con capucha para mujer','Sudaderas para mujer','calvin klein jeans','sudadera','🇪🇸', ]
-actualPrice: 49.0 EUR
+actualPrice: 45.6 EUR
 currency: EUR
-price: 49.0
+price: 45.6
 comparePrice: 99.9 EUR
-prodname: 'Calvin Klein Jeans Monogram Logo Hoodie Sudadera con Capucha  CK Black  M para Mujer'
+prodname: 'Calvin Klein Jeans Monogram Logo Hoodie Sudadera con Capucha  Pink Blush  M para Mujer'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Calvin Klein Jeans'
-buyurl: 'https://www.amazon.es/dp/B09JM2G8NT/?tag=tolees-21'
-descuento: '50.95'
-average: '49.0'
+buyurl: 'https://www.amazon.es/dp/B09JM3JRJ3/?tag=tolees-21'
+descuento: '54.35'
+average: '45.6'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
