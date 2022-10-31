@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Una actualización seasonal a nuestra icónica hackett multi té con alas y hackett branding en esta paleta de colores de las marcas. Contrasting back and sleeve Detalle
 - AMR - Camiseta con logotipo de manga corta
+- Una actualización seasonal a nuestra icónica hackett multi té con alas y hackett branding en esta paleta de colores de las marcas. Contrasting back and sleeve Detalle
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

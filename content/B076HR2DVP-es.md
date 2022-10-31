@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas CORE18 RN JKT Chaqueta Deportiva  Hombre  Negro  Black/White   M'
-date: 2022-10-19 06:16:41
+date: 2022-10-31 19:22:28
 image: 'https://m.media-amazon.com/images/I/31KD0SO+6-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076HR2DVP/?tag=tolees-21'
 descuento: '37.62'
-average: '28.1564880952381'
+average: '28.1375147928994'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cremallera de larga duración y solapa de tormenta adicional con cierre de velcro
 - Capucha desmontable con cordón
+- Cremallera de larga duración y solapa de tormenta adicional con cierre de velcro
 - Tiene dos bolsillos laterales para las manos
 - Tiene cierre completo con cremallera
 
