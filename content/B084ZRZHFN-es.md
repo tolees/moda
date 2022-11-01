@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Iris & Lilly Top Modelador de Sujeción Media Mujer  beige  carne   XS  Label: XS'
-date: 2022-10-21 18:47:07
+date: 2022-11-01 17:46:18
 image: 'https://m.media-amazon.com/images/I/31tk0a6HmSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Iris & Lilly'
 buyurl: 'https://www.amazon.es/dp/B084ZRZHFN/?tag=tolees-21'
 descuento: '49.98'
-average: '11.355'
+average: '11.7366666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Marca Amazon
 - Tejido casi desnudo ultraligero, ultrasuave y resistente a la humedad
+- Marca Amazon
 
 [🛒 Comprar!!!]({{< param buyurl >}})
