@@ -30,7 +30,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Detalles distintivos de la marca
 - Cremallera en la parte inferior de las piernas
-- Con bolsillos laterales
 - Pantalón largo de entrenamiento
+- Con bolsillos laterales
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
