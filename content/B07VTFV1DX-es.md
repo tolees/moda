@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Tapeta central con cierre de velcro
 - Cortavientos en sisa
 - Cierre central con cremallera oculta con tapeta
-- Seis bolsillos: 1 bolsillo de parche en el pecho con tapeta y velcro, 2 bolsillos inferiores de fuelle con tapeta y velcro. Debajo de cada uno, 2 bolsillos laterales, 1 bolsillo interior de vivo con velcro
 - Tejido tricapa
-- Tapeta central con cierre de velcro
+- Seis bolsillos: 1 bolsillo de parche en el pecho con tapeta y velcro, 2 bolsillos inferiores de fuelle con tapeta y velcro. Debajo de cada uno, 2 bolsillos laterales, 1 bolsillo interior de vivo con velcro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

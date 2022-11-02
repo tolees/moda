@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Capucha con cordón forrada en punto de algodón
-- Dobladillo y puños en canalé
 - Cierre de cremallera completo
-- Bolsillos laterales tipo canguro
+- Dobladillo y puños en canalé
 - Corte estándar
+- Bolsillos laterales tipo canguro
+- Capucha con cordón forrada en punto de algodón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
