@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseñado con media cobertura y un corte bajo para que no se vea debajo de los pantalones de tiro medio
 - Una marca de Amazon
+- Diseñado con media cobertura y un corte bajo para que no se vea debajo de los pantalones de tiro medio
 - Confeccionado en algodón suave, transpirable e hipoalergénico diseñado para una comodidad duradera
 - La cintura y la pernera tienen un acabado con ribete elástico para ofrecer mejor sujeción y un ajuste flexible
 
