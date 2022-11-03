@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- /blanco
 - Adidas Aparel
 - Core18 rn jkt
+- /blanco
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

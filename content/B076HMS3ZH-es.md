@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tiene cierre completo con cremallera
 - Chubasquero con capucha para hombre
-- Tiene dos bolsillos laterales para las manos
 - Tiene el logotipo de Adidas en el pecho
+- Tiene dos bolsillos laterales para las manos
+- Tiene cierre completo con cremallera
 
 [🛒 Aquí!!!]({{< param buyurl >}})
