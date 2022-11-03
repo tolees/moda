@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Made With Cotton Material
 - Jack & Jones Mens Skinny Jeans
-- Button Clouser and Zip Fly Fastening
 - 12166845
 - Basic 5 Pockets Included
+- Button Clouser and Zip Fly Fastening
+- Made With Cotton Material
 
 [🛒 Comprar!!!]({{< param buyurl >}})
