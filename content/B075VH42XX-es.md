@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Instrucciones de cuidado: no usar lejía; lavable a máquina a 30 grados; planchar a temperatura media; no secar en la secadora; limpiar con percloroetileno.
 - Material: 93% algodón, 5% elastomultiéster, 2% elastano.
 - Partes de procedencia animal: no contiene partes textiles de procedencia animal.
+- Instrucciones de cuidado: no usar lejía; lavable a máquina a 30 grados; planchar a temperatura media; no secar en la secadora; limpiar con percloroetileno.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

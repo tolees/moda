@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Este suéter ligero y listo para el uniforme es una pieza ideal para el uso diario u ocasiones especiales
-- Tenga en cuenta que la etiqueta de talla ubicada en el interior del cuello de esta prenda corresponde a la talla de la marca / fabricante. Utilice la tabla de tallas en la página del producto para encontrar el tamaño equivalente.
 - Cuenta con un cuello redondo, dobladillo y puños acanalados
+- Tenga en cuenta que la etiqueta de talla ubicada en el interior del cuello de esta prenda corresponde a la talla de la marca / fabricante. Utilice la tabla de tallas en la página del producto para encontrar el tamaño equivalente.
+- Este suéter ligero y listo para el uniforme es una pieza ideal para el uso diario u ocasiones especiales
 
 [🛒 Visítala!!!]({{< param buyurl >}})
