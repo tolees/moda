@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Punto de algodón modal
-- Tiras cruzadas en la espalda
-- Copas con relleno Sin costuras
 - Banda inferior de sujeción elástica en contraste
+- Copas con relleno Sin costuras
+- Tiras cruzadas en la espalda
 
 [🛒 Comprar!!!]({{< param buyurl >}})
