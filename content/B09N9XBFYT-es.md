@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Felpa de algodón ecológico cepillado:<br/> respeta el planeta y su libertad de movimiento.
-- Slim fit, corte entallado:<br/> cómodo. Ligero.
-- Cocodrilo bordado y cosido en la parte delantera:<br/> distintivo Lacoste.
-- Cordones ajustables y tobillos acanalados:<br/> cinturilla ajustable para una comodidad personalizada.
 - Pantalón de chándal de hombre Lacoste en felpa de algodón ecológico
+- Cordones ajustables y tobillos acanalados:<br/> cinturilla ajustable para una comodidad personalizada.
+- Cocodrilo bordado y cosido en la parte delantera:<br/> distintivo Lacoste.
+- Slim fit, corte entallado:<br/> cómodo. Ligero.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
