@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Havaianas Brasil Logo  Chanclas Unisex Adulto  Rosa  Kristallrose   41/42 EU'
-date: 2022-11-03 07:29:39
+date: 2022-11-04 07:56:54
 image: 'https://m.media-amazon.com/images/I/313zGfvGOFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Havaianas'
 buyurl: 'https://www.amazon.es/dp/B0929JBT8V/?tag=tolees-21'
 descuento: '40.17'
-average: '18.0974'
+average: '18.0474509803922'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Goodthreads Short-Sleeve V-Neck Cotton T-Shirt Fashion-t-Shirts  Púrpura profundo  US M  EU M '
-date: 2022-11-02 10:44:41
+date: 2022-11-04 08:57:54
 image: 'https://m.media-amazon.com/images/I/31oYlxU7htL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ideal para capas o uso solo, esta camiseta de algodón suave cuenta con un cuello en V acanalado y mangas cortas. Fabricado en nuestro algodón suave y resistente. Utilizamos un exclusivo Heritage Wash para dar a nuestras prendas una sensación personalizada y viva enseguida.
 - Nuestro ajuste estándar es comparable a las camisas de corte regular de J.Crew y camisas de ajuste estándar de Banana Republic; si te gusta el ajuste de las camisas de la marca Van Heusen, talla más
 - Modelo es 62" y lleva una talla M
+- Ideal para capas o uso solo, esta camiseta de algodón suave cuenta con un cuello en V acanalado y mangas cortas. Fabricado en nuestro algodón suave y resistente. Utilizamos un exclusivo Heritage Wash para dar a nuestras prendas una sensación personalizada y viva enseguida.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
