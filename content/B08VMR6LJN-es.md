@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Champion Legacy Classic Logo S/S Camiseta  Hombre  Azul  Marino   M'
-date: 2022-11-03 07:55:13
+date: 2022-11-04 15:59:37
 image: 'https://m.media-amazon.com/images/I/31OuFkazKwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
