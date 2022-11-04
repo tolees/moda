@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Ajuste regular
 - Calvin Klein Logotipo impreso en el dobladillo
 - Cinta distintiva dentro del cuello
-- Ajuste regular
 
 [🛒 Comprar!!!]({{< param buyurl >}})

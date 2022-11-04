@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JACK & JONES Jjiliam Jjoriginal Agi 002 Noos Vaqueros skinny  Azul  Blue Denim Blue Denim   32W / 34L para Hombre'
-date: 2022-10-30 09:24:28
+date: 2022-11-04 13:33:42
 image: 'https://m.media-amazon.com/images/I/31xShr0PWGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B07YZQS47P/?tag=tolees-21'
 descuento: '49.99'
-average: '19.992'
+average: '19.9933333333333'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

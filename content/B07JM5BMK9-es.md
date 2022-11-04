@@ -31,7 +31,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 - Aplicación amplia: puede colocar correas para anteojos en sus gafas cuando realice actividades en interiores o al aire libre, como correr, hacer caminatas, trotar, nadar y más. Pueden sostener bien las gafas de sol.
 - Tamaño de la correa de la lente aprox. 42 cm * 2.1cm （L * W）. Se adapta a lentes de tamaño pequeño a estándar y gafas de sol templesa. Traje para adulto o un niño.
 - Antideslizante: ambos extremos de las correas pueden sujetar tus lentes con fuerza para evitar que las gafas se caigan de tu nariz.
-- Material de secado rápido de neopreno: correa para anteojos suave hecha de neopreno ligero, cómoda al tacto y duradera de usar. La correa ligera flotaría en el agua al nadar y se secaría rápidamente.
 - Más colores en un paquete: 6 correas para gafas en un solo juego. Suficiente para satisfacer sus necesidades deportivas diarias y será una excelente opción como regalo para los amigos.
+- Material de secado rápido de neopreno: correa para anteojos suave hecha de neopreno ligero, cómoda al tacto y duradera de usar. La correa ligera flotaría en el agua al nadar y se secaría rápidamente.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
