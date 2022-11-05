@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox J Jocker Plus Girl B  Sneakers para Niña  Multicolor  White/Lt Pink   25 EU'
-date: 2022-11-01 17:01:09
+date: 2022-11-05 19:01:36
 image: 'https://m.media-amazon.com/images/I/31vKxBxa4BL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B096MYB8VN-es Geox J Jocker Plus Girl B Sneakers para Niña Multicolor...'
 sku: 'B096MYB8VN-es'
 tags: [ 'Moda','Moda Niña','Zapatillas casual para niña','Zapatillas y calzado deportivo para niña','Zapatos de niña','geox','🇪🇸', ]
-actualPrice: 35.5 EUR
+actualPrice: 34.99 EUR
 currency: EUR
-price: 35.5
+price: 34.99
 comparePrice: 45.0 EUR
 prodname: 'Geox J Jocker Plus Girl B  Sneakers para Niña  Multicolor  White/Lt Pink   25 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B096MYB8VN/?tag=tolees-21'
-descuento: '21.11'
-average: '29.7666666666667'
+descuento: '22.24'
+average: '31.0725'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
