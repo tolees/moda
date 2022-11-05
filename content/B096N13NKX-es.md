@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox J Aril Girl D  Sneakers para Niña  Multicolor  Silver/Lilac   25 EU'
-date: 2022-11-03 10:00:41
+date: 2022-11-05 09:01:05
 image: 'https://m.media-amazon.com/images/I/41Na6SG2T7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B096N13NKX-es Geox J Aril Girl D Sneakers para Niña Multicolor...'
 sku: 'B096N13NKX-es'
 tags: [ 'Moda','Moda Niña','Zapatillas casual para niña','Zapatillas y calzado deportivo para niña','Zapatos de niña','geox','🇪🇸', ]
-actualPrice: 15.6 EUR
+actualPrice: 14.82 EUR
 currency: EUR
-price: 15.6
+price: 14.82
 comparePrice: 39.9 EUR
 prodname: 'Geox J Aril Girl D  Sneakers para Niña  Multicolor  Silver/Lilac   25 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Geox'
 buyurl: 'https://www.amazon.es/dp/B096N13NKX/?tag=tolees-21'
-descuento: '60.90'
-average: '18.9466666666667'
+descuento: '62.86'
+average: '17.915'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
