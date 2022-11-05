@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Quiksilver Carver Nubuck  Chanclas Hombre  Patrón Tan 1  32 EU'
-date: 2022-11-03 12:30:37
+date: 2022-11-05 05:57:53
 image: 'https://m.media-amazon.com/images/I/21Vp2WiY-HL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Quiksilver'
 buyurl: 'https://www.amazon.es/dp/B08CKZ461C/?tag=tolees-21'
 descuento: '44.21'
-average: '20.36'
+average: '20.29'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
