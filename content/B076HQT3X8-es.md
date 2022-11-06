@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas CORE18 tee Camiseta de Manga Corta  Hombre  Rojo  Power Red/White   S'
-date: 2022-11-04 23:52:12
+date: 2022-11-06 00:20:30
 image: 'https://m.media-amazon.com/images/I/31BpBuTKoSS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076HQT3X8/?tag=tolees-21'
 descuento: '29.10'
-average: '13.323'
+average: '13.4009090909091'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Material duradero
-- Ropa deportiva Adidas
-- Core18 Tee (Cv3982)
 - Camiseta Fútbol Hombre
+- Core18 Tee (Cv3982)
+- Ropa deportiva Adidas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
