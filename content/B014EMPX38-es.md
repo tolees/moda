@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Flexible suela
 - Con 2 cordones de colores (negro & negro/oro))
-- De air cooled memory foam
 - Ligera suela
+- De air cooled memory foam
+- Flexible suela
 - Piel suave
 
 [🛒 Aquí!!!]({{< param buyurl >}})

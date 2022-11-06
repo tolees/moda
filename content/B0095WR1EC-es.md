@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ray-Ban - Ray Ban  Erika - Gafas de sol unisex  rama color marron y lente color verde oscuro  talla 54 mm'
-date: 2022-11-04 01:51:38
+date: 2022-11-06 14:31:35
 image: 'https://m.media-amazon.com/images/I/31kFkAYcPmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ray-Ban'
 buyurl: 'https://www.amazon.es/dp/B0095WR1EC/?tag=tolees-21'
 descuento: '40.00'
-average: '85.4411764705882'
+average: '85.1944444444444'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
