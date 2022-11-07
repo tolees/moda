@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones - Jack and Jones Hombre Chaqueta College Ligera con Cremallera Negro L'
-date: 2022-11-01 13:15:52
+date: 2022-11-07 13:39:19
 image: 'https://m.media-amazon.com/images/I/31m4QhR71pL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B0838NKKN8/?tag=tolees-21'
 descuento: '16.88'
-average: '25.635'
+average: '26.22'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- con cremallera
 - Manga larga
+- con cremallera
 - Chaqueta college
 
 [🛒 Aquí!!!]({{< param buyurl >}})

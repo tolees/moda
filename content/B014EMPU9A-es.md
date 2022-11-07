@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers Originals OG 85 Golden Girl  Zapatilla Baja Mujer  Negro  Black Gold   38 EU'
-date: 2022-11-06 06:15:19
+date: 2022-11-07 13:50:38
 image: 'https://m.media-amazon.com/images/I/31wSXNw5m3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Skechers'
 buyurl: 'https://www.amazon.es/dp/B014EMPU9A/?tag=tolees-21'
 descuento: '26.48'
-average: '48.0950000000001'
+average: '48.0882352941177'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
