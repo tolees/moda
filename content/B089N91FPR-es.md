@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pantalones chinos de algodón elástico
 - Chino de corte ajustado
+- Pantalones chinos de algodón elástico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
