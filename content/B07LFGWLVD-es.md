@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Levi s Slim 2pk Crewneck 1  Camiseta Hombre  Negro  Two-Pack Tee Black + 0001   XXX-Large'
-date: 2022-11-06 06:10:34
+date: 2022-11-08 08:10:45
 image: 'https://m.media-amazon.com/images/I/31LvAJ2uzkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07LFGWLVD-es Levi s Slim 2pk Crewneck 1 Camiseta Hombre Negro Two-Pack...'
 sku: 'B07LFGWLVD-es'
-tags: [ 'Moda','Moda Hombre','Ropa para hombre','Vaqueros para hombre','camiseta','levis','🇪🇸', ]
+tags: [ 'Moda','Moda Hombre','Ropa de hombre','Vaqueros para hombre','camiseta','levis','🇪🇸', ]
 actualPrice: 26.3 EUR
 currency: EUR
 price: 26.3
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07LFGWLVD/?tag=tolees-21'
 descuento: '24.86'
-average: '21.8926086956522'
+average: '22.07625'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

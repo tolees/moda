@@ -1,19 +1,19 @@
 ---
 layout: post
-title: 'Amazon Essentials Lightweight Long-Sleeve Full-Zip Water-Resistant Packable Puffer Jacket dnu Chaqueta  Verde Oscuro  L'
-date: 2022-11-03 10:47:32
+title: 'Amazon Essentials Chaqueta Acolchada Ligera con Cremallera Completa y Manga Larga  Plegable  Resistente al Agua Mujer  Verde Oscuro  L'
+date: 2022-11-08 08:51:52
 image: 'https://m.media-amazon.com/images/I/419TZSyFq2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B09RGJFBV7-es Amazon Essentials Lightweight Long-Sleeve Full-Zip Water-...'
+slug: 'B09RGJFBV7-es Amazon Essentials Chaqueta Acolchada Ligera con Cremallera...'
 sku: 'B09RGJFBV7-es'
 tags: [ 'Chaquetas para mujer','Moda','Moda Mujer','Ropa de abrigo para mujer','Ropa para mujer','amazon essentials','chaqueta','🇪🇸', ]
 actualPrice: 19.5 EUR
 currency: EUR
 price: 19.5
 comparePrice: 38.99 EUR
-prodname: 'Amazon Essentials Lightweight Long-Sleeve Full-Zip Water-Resistant Packable Puffer Jacket dnu Chaqueta  Verde Oscuro  L'
+prodname: 'Amazon Essentials Chaqueta Acolchada Ligera con Cremallera Completa y Manga Larga  Plegable  Resistente al Agua Mujer  Verde Oscuro  L'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Amazon Essentials'

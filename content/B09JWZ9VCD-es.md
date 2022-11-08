@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Havaianas Brasil Logo  Chanclas Unisex Adulto  Verde  Green Garden   41/42 EU'
-date: 2022-11-07 01:37:55
+date: 2022-11-08 08:09:06
 image: 'https://m.media-amazon.com/images/I/31+iL7w7JGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09JWZ9VCD-es Havaianas Brasil Logo Chanclas Unisex Adulto Verde Green...'
 sku: 'B09JWZ9VCD-es'
 tags: [ 'Calzado deportivo para mujer','Chanclas y sandalias de piscina para mujer','Moda','Moda Mujer','Zapatillas y calzado deportivo para mujer','Zapatos para mujer','chanclas','havaianas','🇪🇸', ]
-actualPrice: 18.19 EUR
+actualPrice: 15.59 EUR
 currency: EUR
-price: 18.19
+price: 15.59
 comparePrice: 25.99 EUR
 prodname: 'Havaianas Brasil Logo  Chanclas Unisex Adulto  Verde  Green Garden   41/42 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Havaianas'
 buyurl: 'https://www.amazon.es/dp/B09JWZ9VCD/?tag=tolees-21'
-descuento: '30.01'
-average: '21.1311363636363'
+descuento: '40.02'
+average: '21.0079999999999'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'adidas Core18 Hoody Sudadera  Hombre  Blanco  XL'
-date: 2022-11-08 08:40:04
-image: 'https://m.media-amazon.com/images/I/31kprK3XFNL._SL500_._SL400_.jpg'
+title: 'adidas CORE18 Hoody Sudadera con Capucha  Hombre  Azul  Azul/Blanco   XL'
+date: 2022-11-08 08:38:53
+image: 'https://m.media-amazon.com/images/I/41mhREm7UQS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07XBM71L3-es adidas Core18 Hoody Sudadera Hombre Blanco XL'
-sku: 'B07XBM71L3-es'
+slug: 'B076HMS3JF-es adidas CORE18 Hoody Sudadera con Capucha Hombre Azul...'
+sku: 'B076HMS3JF-es'
 tags: [ 'Deportes y aire libre','Jerséis para aficionados al deporte','Jerséis, cárdigans y sudaderas para hombre','Moda','Moda Hombre','Productos para fans','Ropa de hombre','Ropa y accesorios para fans','Sudaderas con capucha para hombre','Sudaderas para hombre','adidas','sudadera','🇪🇸', ]
-actualPrice: 26.34 EUR
+actualPrice: 25.93 EUR
 currency: EUR
-price: 26.34
+price: 25.93
 comparePrice: 40.0 EUR
-prodname: 'adidas Core18 Hoody Sudadera  Hombre  Blanco  XL'
+prodname: 'adidas CORE18 Hoody Sudadera con Capucha  Hombre  Azul  Azul/Blanco   XL'
 country: 'es'
 flag: '🇪🇸'
 brand: 'adidas'
-buyurl: 'https://www.amazon.es/dp/B07XBM71L3/?tag=tolees-21'
-descuento: '34.15'
-average: '26.2996875'
+buyurl: 'https://www.amazon.es/dp/B076HMS3JF/?tag=tolees-21'
+descuento: '35.17'
+average: '27.6272602739727'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Kangaroo pocket
-- Regular fit
-- Hood with lanyard
+- Ajuste regular
+- Capucha con cordón
+- Bolsillo canguro
+- Lavar a la maquina
 
 [🛒 Aquí!!!]({{< param buyurl >}})
