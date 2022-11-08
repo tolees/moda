@@ -29,7 +29,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Material exterior: piel
-- Suela: goma
 - Material interior: textil
+- Suela: goma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

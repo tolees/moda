@@ -29,7 +29,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Material interior: textil
-- Material exterior: piel
 - Suela: goma
+- Material exterior: piel
 
 [🛒 Visítala!!!]({{< param buyurl >}})

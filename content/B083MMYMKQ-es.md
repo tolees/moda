@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Revestimiento: Sintético
-- Cierre: Sin cierre
 - Tipo de tacón: Plano
-- Material de la suela: Caucho
 - Material exterior: Caucho
+- Cierre: Sin cierre
+- Revestimiento: Sintético
+- Material de la suela: Caucho
 
 [🛒 Aquí!!!]({{< param buyurl >}})
