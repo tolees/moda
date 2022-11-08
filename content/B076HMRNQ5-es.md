@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'adidas CORE18 RN JKT Chaqueta Deportiva  Hombre  Negro  Black/White   L'
-date: 2022-11-07 07:52:58
+date: 2022-11-08 13:58:06
 image: 'https://m.media-amazon.com/images/I/31KD0SO+6-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B076HMRNQ5-es adidas CORE18 RN JKT Chaqueta Deportiva Hombre Negro...'
 sku: 'B076HMRNQ5-es'
-tags: [ 'Chaquetas deportivas para hombre','Chaquetas para hombre','Moda','Moda Hombre','Ropa de abrigo para hombre','Ropa deportiva para hombre','Ropa para hombre','adidas','chaqueta','🇪🇸', ]
+tags: [ 'Chaquetas deportivas para hombre','Chaquetas para hombre','Moda','Moda Hombre','Ropa de abrigo para hombre','Ropa de hombre','Ropa deportiva para hombre','adidas','chaqueta','🇪🇸', ]
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076HMRNQ5/?tag=tolees-21'
 descuento: '37.62'
-average: '23.7366666666666'
+average: '23.7851999999999'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

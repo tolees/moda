@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Tommy Logo Hoody Sudadera con Capucha  Blanco  L Hombre'
-date: 2022-11-06 00:24:38
+date: 2022-11-08 13:59:02
 image: 'https://m.media-amazon.com/images/I/31bRmtPjORL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07ZFP2MZ4-es Tommy Hilfiger Tommy Logo Hoody Sudadera con Capucha...'
 sku: 'B07ZFP2MZ4-es'
-tags: [ 'Jerséis, cárdigans y sudaderas para hombre','Moda','Moda Hombre','Ropa para hombre','Sudaderas con capucha para hombre','Sudaderas para hombre','sudadera','tommy hilfiger','🇪🇸', ]
+tags: [ 'Jerséis, cárdigans y sudaderas para hombre','Moda','Moda Hombre','Ropa de hombre','Sudaderas con capucha para hombre','Sudaderas para hombre','sudadera','tommy hilfiger','🇪🇸', ]
 actualPrice: 91.95 EUR
 currency: EUR
 price: 91.95
