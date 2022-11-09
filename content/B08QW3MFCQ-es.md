@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Timberland Euro Rock Heritage L/F  Botas Hombre  Dark Green Suede  41 EU'
-date: 2022-11-08 08:21:56
+date: 2022-11-09 08:48:18
 image: 'https://m.media-amazon.com/images/I/41c6YRmMV6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Timberland'
 buyurl: 'https://www.amazon.es/dp/B08QW3MFCQ/?tag=tolees-21'
 descuento: '27.78'
-average: '67.7516666666667'
+average: '68.39'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

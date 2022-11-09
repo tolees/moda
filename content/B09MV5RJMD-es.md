@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Logo de Helly Hansen estampado en el hombro/la manga con sobrecapa de malla
 - Dobladillo y puños con vuelta y pespunteado doble
-- Cuello redondo del mismo tejido
 - Poliéster S.Café de punto simple 180G/M2
+- Cuello redondo del mismo tejido
 - Items delivered: 1x Helly Hansen Junior - Jr Active Tech T-Shirt Apparel Sweet Lime 152/12
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
