@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox Jr Ciak Girl C  Sneakers para Niña  Azul  Navy    29 EU'
-date: 2022-11-07 15:46:04
+date: 2022-11-09 12:36:31
 image: 'https://m.media-amazon.com/images/I/31CdtghJrdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
