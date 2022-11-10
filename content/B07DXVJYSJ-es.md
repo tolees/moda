@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Under Armour Ua Gl Foundation  Camiseta De Manga Corta Hombre  Azul  academy Steel Royal   L'
-date: 2022-11-08 20:25:49
+date: 2022-11-10 11:22:45
 image: 'https://m.media-amazon.com/images/I/31doNct2noL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Under Armour'
 buyurl: 'https://www.amazon.es/dp/B07DXVJYSJ/?tag=tolees-21'
 descuento: '33.08'
-average: '19.56'
+average: '19.2514285714286'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
