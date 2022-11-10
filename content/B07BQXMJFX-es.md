@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - New Genuine, 100% Authentic
-- Official Licensed Product
-- Style Number: 52631
-- Smooth leather and synthetic upper. Mesh fabric panels for cooling effect. Lace up athletic sporty training sneaker. Stitching accents. Overlays at toe, sides and heel for stability. Side S logo. Contrast colored side and heel overlay detail. Lace up front. Padded collar and tongue. Soft fabric shoe lining. Memory Foam full length cushioned comfort insole. Shock absorbing lightweight flexible outsole. Highly flexible traction outsole. 1 inch built in heel
 - Mens Track Scloric Low Top Sneaker Shoes
+- Smooth leather and synthetic upper. Mesh fabric panels for cooling effect. Lace up athletic sporty training sneaker. Stitching accents. Overlays at toe, sides and heel for stability. Side S logo. Contrast colored side and heel overlay detail. Lace up front. Padded collar and tongue. Soft fabric shoe lining. Memory Foam full length cushioned comfort insole. Shock absorbing lightweight flexible outsole. Highly flexible traction outsole. 1 inch built in heel
+- Style Number: 52631
+- Official Licensed Product
 
 [🛒 Visítala!!!]({{< param buyurl >}})
