@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- BCI
 - Stretch Oxford Shirt
+- BCI
 
 [🛒 Aquí!!!]({{< param buyurl >}})

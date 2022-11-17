@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tessuto in lino leggero e fresco per un effetto comodo, soffice e traspirante
 - Se ciñe al cuerpo y ofrece una silueta esbelta y ajustada
+- Tessuto in lino leggero e fresco per un effetto comodo, soffice e traspirante
 - Una marca de Amazon
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
