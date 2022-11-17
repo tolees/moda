@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Corte a la cadera
-- Abertura centrala
 - remate pespunteado
 - Franja combinada cintura
+- Abertura centrala
+- Corte a la cadera
 
 [🛒 Visítala!!!]({{< param buyurl >}})

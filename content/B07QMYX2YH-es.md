@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Cintura elástica a rayas
 - Paquete de 5 calzoncillos
 - Algodón elástico
-- Cintura elástica a rayas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
