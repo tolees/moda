@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Plata de Ley 925 contrastada en un Laboratorio Oficial en España.
 - Joya hecha en España.
+- Plata de Ley 925 contrastada en un Laboratorio Oficial en España.
 - Largo de cadena: 40 cm + 5 cm de alargador.
-- Baño de Oro de 18 Kt.
 - Colgante: Árbol de la vida de 1,6 cm de diámetro.
+- Baño de Oro de 18 Kt.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
