@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Relaxed fit, corte cómodo, manga recta:<br/> comodidad. Un artículo creado para el movimiento.
-- Camiseta de hombre Lacoste relaxed fit con estampado
-- Tapeta con botones de silicona en la parte trasera:<br/> detalles de la firma.
-- Estampado en la parte delantera:<br/> coordenadas GPS de Lacoste.
 - Cocodrilo de silicona cosido en el pecho:<br/> Lacoste le indica el camino.
+- Tapeta con botones de silicona en la parte trasera:<br/> detalles de la firma.
+- Camiseta de hombre Lacoste relaxed fit con estampado
+- Relaxed fit, corte cómodo, manga recta:<br/> comodidad. Un artículo creado para el movimiento.
+- Estampado en la parte delantera:<br/> coordenadas GPS de Lacoste.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
