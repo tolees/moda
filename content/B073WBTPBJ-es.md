@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers Originals OG 85 Golden Girl  Zapatilla Baja Mujer  Verde  Green Olive   38 EU'
-date: 2022-11-17 17:31:00
+date: 2022-11-18 17:39:09
 image: 'https://m.media-amazon.com/images/I/41CWhjoPNbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B073WBTPBJ-es Skechers Originals OG 85 Golden Girl Zapatilla Baja Mujer...'
 sku: 'B073WBTPBJ-es'
 tags: [ 'Moda','Moda Mujer','Zapatillas casual para mujer','Zapatillas y calzado deportivo para mujer','Zapatos para mujer','skechers','zapatilla','🇪🇸', ]
-actualPrice: 50.75 EUR
+actualPrice: 47.75 EUR
 currency: EUR
-price: 50.75
+price: 47.75
 comparePrice: 59.95 EUR
 prodname: 'Skechers Originals OG 85 Golden Girl  Zapatilla Baja Mujer  Verde  Green Olive   38 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Skechers'
 buyurl: 'https://www.amazon.es/dp/B073WBTPBJ/?tag=tolees-21'
-descuento: '15.35'
-average: '47.3397142857143'
+descuento: '20.35'
+average: '47.3511111111111'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
