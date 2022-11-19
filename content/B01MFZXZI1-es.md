@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Helly Hansen Crew Hooded Midlayer - Chaqueta Impermeable  Cortavientos y Transpirable  con Forro Polar y Capucha Integrados  Hombre  Azul  597 Navy   L'
-date: 2022-11-17 23:48:41
+date: 2022-11-19 13:20:34
 image: 'https://m.media-amazon.com/images/I/31pxLhLE2jS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Helly Hansen'
 buyurl: 'https://www.amazon.es/dp/B01MFZXZI1/?tag=tolees-21'
 descuento: '44.71'
-average: '110.563333333333'
+average: '106.42'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
