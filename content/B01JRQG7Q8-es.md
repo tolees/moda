@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Hecho en España
 - Panama Jack Hombres Botas Springer Vintage
 - Altura del talón: 3,00 cm.
 - el material principal: Nobuck, material de revestimiento: piel natural / material de la suela de piel real: caucho natural suela interior extraíble. Insertar: sí.
-- Hecho en España
 - Resistente al agua.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

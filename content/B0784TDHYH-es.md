@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Lavar a máquina
+- Capucha con cordones
 - Bolsillo delantero con acceso a bolsillo en la costura
 - Felino de Puma bordado en la parte derecha del pecho
-- Capucha con cordones
-- Lavar a máquina
 
 [🛒 Comprar!!!]({{< param buyurl >}})

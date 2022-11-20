@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Óptimo para completar los looks casuales de todos los días
 - Adecuado para múltiples ocasiones
+- Óptimo para completar los looks casuales de todos los días
 
 [🛒 Visítala!!!]({{< param buyurl >}})

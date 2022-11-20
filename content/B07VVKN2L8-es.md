@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Ajuste: (H) ancho
 - Forro: textil
 - Parte superior: piel
-- Ajuste: (H) ancho
 - Suela: EVA
 
 [🛒 Aquí!!!]({{< param buyurl >}})
