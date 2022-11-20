@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Colour: 003/EX MATT BLACK
-- Protective Case Included
 - Model: Polaroid 07886 003/EX MATT BLACK 66
-- Brand: Polaroid
 - Calibre: 66 Millimeters
+- Brand: Polaroid
+- Protective Case Included
+- Colour: 003/EX MATT BLACK
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

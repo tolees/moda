@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvin Klein Jeans Sudadera con Capucha con Logotipo apilado Tejidos Pesados  Cirrus Gris  S para Hombre'
-date: 2022-11-18 15:58:49
+date: 2022-11-19 23:23:05
 image: 'https://m.media-amazon.com/images/I/31HARDn0jBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

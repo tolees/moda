@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers Track Scloric  Zapatos para Correr Hombre  Negro  Black   42 EU'
-date: 2022-11-18 22:24:39
+date: 2022-11-19 22:54:57
 image: 'https://m.media-amazon.com/images/I/41Tvomqf3IS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Skechers'
 buyurl: 'https://www.amazon.es/dp/B07BQXJK9M/?tag=tolees-21'
 descuento: '29.59'
-average: '45.807037037037'
+average: '45.7425'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

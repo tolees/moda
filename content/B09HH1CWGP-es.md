@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ropa deportiva fabricada con materiales de primera calidad que se adaptan a cualquier actividad deportiva
-- Los productos deportivos de la marca Reebok están diseñados para que disfrutes de tu deporte favorito sin preocuparte de nada más que rendir al máximo
-- Ropa deportiva Azul de la marca Reebok
 - Camiseta para practicar Tiempo libre y sportwear de Hombre
 - Camiseta RI Tape Tee BATBLU
+- Los productos deportivos de la marca Reebok están diseñados para que disfrutes de tu deporte favorito sin preocuparte de nada más que rendir al máximo
+- Ropa deportiva Azul de la marca Reebok
+- Ropa deportiva fabricada con materiales de primera calidad que se adaptan a cualquier actividad deportiva
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
