@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Sudadera para hombre sin capucha
 - Diseño casual para uso diario
 - Fabricada en algodón
-- Sudadera para hombre sin capucha
 - Logo en el pecho
 
 [🛒 Comprar!!!]({{< param buyurl >}})

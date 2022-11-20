@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Havaianas Brasil Logo  Chanclas Unisex Adulto  Negro  Black/Black 850   41/42 EU'
-date: 2022-11-19 10:22:24
+date: 2022-11-20 10:50:05
 image: 'https://m.media-amazon.com/images/I/31RPJkzZDbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Havaianas'
 buyurl: 'https://www.amazon.es/dp/B074MKCXLH/?tag=tolees-21'
 descuento: '63.49'
-average: '11.0254166666664'
+average: '11.0043835616436'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Tipo de tacón: Plano
+- Material de la suela: Goma
 - Material exterior: Caucho
 - Revestimiento: Caucho
-- Material de la suela: Goma
-- Tipo de tacón: Plano
 - Composición: Goma
 - Cierre: Sin cordones
 
