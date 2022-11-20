@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sudadera ajustable para hombres, confeccionada con suave felpa francesa; imprescindible para las noches de verano o para usar debajo de una chaqueta en invierno
-- Está diseñada con un bolsillo tipo canguro que permite guardar tus objetos personales o proteger tus manos del frío durante las actividades marinas
-- Cuenta con el logotipo de Helly Hansen estampado en el pecho, con una capucha ajustable con cordón grueso y con un forro en jersey para mayor protección
-- La sudadera de Helly Hansen te brinda una mayor comodidad de porte gracias a sus costuras planas y uniformes y al tejido ligero, 100% algodón
 - Contenido de envío: 1x Helly Hansen Logo Hoodie, sudadera para hombre, para el uso diario y actividades marítimas, color azul marino, talla S
+- Sudadera ajustable para hombres, confeccionada con suave felpa francesa; imprescindible para las noches de verano o para usar debajo de una chaqueta en invierno
+- Cuenta con el logotipo de Helly Hansen estampado en el pecho, con una capucha ajustable con cordón grueso y con un forro en jersey para mayor protección
+- Está diseñada con un bolsillo tipo canguro que permite guardar tus objetos personales o proteger tus manos del frío durante las actividades marinas
+- La sudadera de Helly Hansen te brinda una mayor comodidad de porte gracias a sus costuras planas y uniformes y al tejido ligero, 100% algodón
 
 [🛒 Visítala!!!]({{< param buyurl >}})

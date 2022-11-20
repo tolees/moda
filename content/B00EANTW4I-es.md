@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Logotipo estampado en el pecho
 - Camiseta algodón manga larga
 - Cuello redondo
+- Logotipo estampado en el pecho
 
 [🛒 Comprar!!!]({{< param buyurl >}})

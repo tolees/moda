@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Suela: Base de poliuretano.
-- Material interior: Piel.
-- Empeine: Piel suave.
 - Cierre: Cordones.
+- Empeine: Piel suave.
+- Material interior: Piel.
+- Suela: Base de poliuretano.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
