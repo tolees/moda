@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ONE CROSSWALK - CAREY GREEN ALIGATOR
-- Modelo Unisex. Medidas: Frontal 141 mm, Patillas 145 mm, Puente 14 mm, Diámetro de Lente 57 mm
-- Lentes de TR18 con el sello de Eastman 🇺🇸, uno de los líderes mundiales en tecnología de copoliéster. Respetuoso con el medio ambiente y proporciona un equilibrio único entre claridad y resistencia
 - Gafas de sol fabricadas en TR90 con el sello de EMS🇨🇭, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia
+- Modelo Unisex. Medidas: Frontal 141 mm, Patillas 145 mm, Puente 14 mm, Diámetro de Lente 57 mm
+- ONE CROSSWALK - CAREY GREEN ALIGATOR
 - Incluye: caja de cartón reciclada y reciclable, pegatinas y funda de microfibra
+- Lentes de TR18 con el sello de Eastman 🇺🇸, uno de los líderes mundiales en tecnología de copoliéster. Respetuoso con el medio ambiente y proporciona un equilibrio único entre claridad y resistencia
 
 [🛒 Comprar!!!]({{< param buyurl >}})
