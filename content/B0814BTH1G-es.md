@@ -1,37 +1,37 @@
 ---
 layout: post
 title: 'Columbia Powder Lite Jacket Chaqueta Acolchada para Hombres'
-date: 2022-11-20 18:25:48
-image: 'https://m.media-amazon.com/images/I/41OiSvCf0kS._SL500_._SL400_.jpg'
+date: 2022-11-20 18:25:18
+image: 'https://m.media-amazon.com/images/I/41Srt-PaknL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07JB9D3BS-es Columbia Powder Lite Jacket Chaqueta Acolchada para Hombres'
-sku: 'B07JB9D3BS-es'
+slug: 'B0814BTH1G-es Columbia Powder Lite Jacket Chaqueta Acolchada para Hombres'
+sku: 'B0814BTH1G-es'
 tags: [ 'Chaquetas de acampada y marcha para hombre','Chaquetas de pluma para acampada y marcha para hombre','Moda','Ropa de acampada','Ropa de acampada para hombre','Ropa específica deportiva','chaqueta','columbia','🇪🇸', ]
-actualPrice: 69.99 EUR
+actualPrice: 77.98 EUR
 currency: EUR
-price: 69.99
-comparePrice: 110.0 EUR
+price: 77.98
+comparePrice: 99.99 EUR
 prodname: 'Columbia Powder Lite Jacket Chaqueta Acolchada para Hombres'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Columbia'
-buyurl: 'https://www.amazon.es/dp/B07JB9D3BS/?tag=tolees-21'
-descuento: '36.37'
-average: '71.6294444444445'
+buyurl: 'https://www.amazon.es/dp/B0814BTH1G/?tag=tolees-21'
+descuento: '22.01'
+average: '68.65'
 ---
 
-En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 [![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
-🔎:
+ℹ️:
 
-- La tecnología reflectante Omni-Heat de la chaqueta ofrece un mayor aislamiento para mantenerte caliente incluso en los días más fríos
-- Tejido resistente al agua que te protege de los chubascos y la niebla, Ajuste óptimo gracias al dobladillo ajustable con cordón
 - Chaqueta de hombre ideal para las excursiones de alta montaña gracias a su forro termorreflectante para mantenerte caliente y a gusto
+- La tecnología reflectante Omni-Heat de la chaqueta ofrece un mayor aislamiento para mantenerte caliente incluso en los días más fríos
+- Contenido: 1x Columbia Powder Lite Chaqueta para hombre, Exterior: Storm-Lite DP II 100% poliéster; Forro: Omni-Heat Reflective Forro 100% poliéster; Aislamiento: Thermarator 100% poliéster, Color: Azul (Bright Indigo), Talla: L, Art.No.1698001
+- Tejido resistente al agua que te protege de los chubascos y la niebla, Ajuste óptimo gracias al dobladillo ajustable con cordón
 - Los bolsillos con cremallera te dan versatilidad Mantén tus manos calientes cuando lo necesites o guarda tu teléfono y otros accesorios sin temor a que se caigan
-- Contenido: 1x Columbia Powder Lite Chaqueta para hombre, Exterior: Storm-Lite DP II 100% poliéster; Forro: Omni-Heat Reflective Forro 100% poliéster; Aislamiento: Thermarator 100% poliéster, Color: Azul (Collegiate Navy), Talla: L, Art.No.1698001
 
-[🛒 Aquí!!!]({{< param buyurl >}})
+[🛒 Ver la oferta!!]({{< param buyurl >}})
