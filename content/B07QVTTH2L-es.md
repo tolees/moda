@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Tommy Logo Hoody Sudadera con Capucha  Negro  Jet Black Base   XXL para Hombre'
-date: 2022-11-18 22:27:59
+date: 2022-11-20 05:02:05
 image: 'https://m.media-amazon.com/images/I/31-GTcLpmaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Manga larga
 - Estilo del cuello: Capucha
+- Sudadera
 - 93% algodon, 7 poliester
 - Lavar a máquina
-- Sudadera
 
 [🛒 Visítala!!!]({{< param buyurl >}})
