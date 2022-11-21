@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nenuco - Triciclo  Set de Juguete con muñeco Infantil para Bebe  Accesorios y Triciclo con Ruedas y cinturón para llevarlo Siempre contigo  para niñas y niños de 3 años  Famosa  700017103 '
-date: 2022-11-18 09:48:58
+date: 2022-11-20 23:02:22
 image: 'https://m.media-amazon.com/images/I/41sLMRC-yqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nenuco'
 buyurl: 'https://www.amazon.es/dp/B09Q5NK3WH/?tag=tolees-21'
 descuento: '25.03'
-average: '30.22'
+average: '30.1525'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
