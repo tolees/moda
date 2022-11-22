@@ -1,19 +1,19 @@
 ---
 layout: post
-title: 'Levi s Vneck Mini Daisy Cloud Dancer P Camiseta  M para Mujer'
-date: 2022-11-07 12:29:46
+title: 'Levi s Perfect V-Neck Camiseta Mujer Mini Daisy Cloud Dancer  Multicolor  M -'
+date: 2022-11-22 07:01:29
 image: 'https://m.media-amazon.com/images/I/41PxI9U2raL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B09MX945LD-es Levi s Vneck Mini Daisy Cloud Dancer P Camiseta M para Mujer'
+slug: 'B09MX945LD-es Levi s Perfect V-Neck Camiseta Mujer Mini Daisy Cloud...'
 sku: 'B09MX945LD-es'
 tags: [ 'Camisetas para mujer','Camisetas, tops y blusas para mujer','Moda','Moda Mujer','Ropa para mujer','camiseta','levis','🇪🇸', ]
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5
 comparePrice: 25.0 EUR
-prodname: 'Levi s Vneck Mini Daisy Cloud Dancer P Camiseta  M para Mujer'
+prodname: 'Levi s Perfect V-Neck Camiseta Mujer Mini Daisy Cloud Dancer  Multicolor  M -'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Levis'
