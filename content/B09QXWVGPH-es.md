@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Wrangler 1 PKT Button Down Shirt Camisa  Light Indigo  Small de los Hombres'
-date: 2022-11-20 22:38:18
+date: 2022-11-22 11:33:20
 image: 'https://m.media-amazon.com/images/I/418m8+VO6sL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
