@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HAWKERS · Gafas de sol ONE SPORT para hombre y mujer · DARK'
-date: 2022-11-21 05:47:30
+date: 2022-11-22 08:28:47
 image: 'https://m.media-amazon.com/images/I/31Ad2FYjpIS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HAWKERS'
 buyurl: 'https://www.amazon.es/dp/B08TJ1Q41S/?tag=tolees-21'
 descuento: '57.88'
-average: '20.758'
+average: '20.4566666666667'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
