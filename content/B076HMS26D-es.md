@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Adidas Core 18 Hoody Sudadera con Capucha  Hombre  Rojo  Rojo/Blanco   XL'
-date: 2022-11-22 05:20:40
+date: 2022-11-23 05:57:39
 image: 'https://m.media-amazon.com/images/I/41kjtFFlH+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B076HMS26D-es Adidas Core 18 Hoody Sudadera con Capucha Hombre Rojo...'
 sku: 'B076HMS26D-es'
-tags: [ 'Deportes y aire libre','Jerséis para aficionados al deporte','Jerséis, cárdigans y sudaderas para hombre','Moda','Moda Hombre','Productos para fans','Ropa de hombre','Ropa y accesorios para fans','Sudaderas con capucha para hombre','Sudaderas para hombre','adidas','sudadera','🇪🇸', ]
+tags: [ 'Jerséis, cárdigans y sudaderas para hombre','Moda','Moda Hombre','Ropa de hombre','Sudaderas con capucha para hombre','Sudaderas para hombre','adidas','sudadera','🇪🇸', ]
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076HMS26D/?tag=tolees-21'
 descuento: '37.62'
-average: '25.6601754385967'
+average: '25.647931034483'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Escote redondo.
 - Tiene una capucha ajustable con cordón
 - Sin mangas.
 - Ventilación Climacool.
+- Escote redondo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
