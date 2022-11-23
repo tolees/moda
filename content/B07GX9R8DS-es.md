@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NIKE M NSW tee Just Do It Swoosh Camiseta  Hombre  Gris  Dk Grey Heather/Black '
-date: 2022-11-21 16:28:41
+date: 2022-11-23 00:52:16
 image: 'https://m.media-amazon.com/images/I/31YN7d39E0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ajuste regular
 - El diseño otorga libertad a los movimientos
 - "Just Do It" gráfico
+- Ajuste regular
 - Tela suave
 
 [🛒 Aquí!!!]({{< param buyurl >}})
