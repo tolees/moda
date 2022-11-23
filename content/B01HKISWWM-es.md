@@ -1,25 +1,25 @@
 ---
 layout: post
 title: 'Vans Spicoli 4 Shades  Gafas De Sol Hombre  Negro  black-white   Talla Única'
-date: 2022-11-19 22:55:41
+date: 2022-11-23 18:28:53
 image: 'https://m.media-amazon.com/images/I/21rsnedSpeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B01HKISWWM-es Vans Spicoli 4 Shades Gafas De Sol Hombre Negro black-...'
 sku: 'B01HKISWWM-es'
-tags: [ 'Accesorios para hombre','Gafas de sol para hombre','Gafas y accesorios para hombre','Moda','Moda Bebé','Moda Hombre','Moda Mujer','Ropa de hombre','gafas','vans','🇪🇸', ]
-actualPrice: 10.8 EUR
+tags: [ 'Accesorios para hombre','Gafas de sol para hombre','Gafas y accesorios para hombre','Moda','Moda Hombre','Ropa de hombre','gafas','vans','🇪🇸', ]
+actualPrice: 12.6 EUR
 currency: EUR
-price: 10.8
+price: 12.6
 comparePrice: 15.0 EUR
 prodname: 'Vans Spicoli 4 Shades  Gafas De Sol Hombre  Negro  black-white   Talla Única'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Vans'
 buyurl: 'https://www.amazon.es/dp/B01HKISWWM/?tag=tolees-21'
-descuento: '28.00'
-average: '11.8857142857143'
+descuento: '16.00'
+average: '11.8695652173914'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
