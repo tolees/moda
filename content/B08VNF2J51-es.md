@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Champion Legacy- Classic C-Logo S/S  Camiseta para Niños  Blanco/Azul  Marino   7-8 años'
-date: 2022-11-19 16:11:58
+date: 2022-11-23 13:59:58
 image: 'https://m.media-amazon.com/images/I/31oAqqizbDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Champion'
 buyurl: 'https://www.amazon.es/dp/B08VNF2J51/?tag=tolees-21'
 descuento: '41.91'
-average: '12.58'
+average: '12.24'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,7 +29,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Juego de dos camisas
-- Corte regular
 - "C" Logo clásico impreso en el pecho izquierdo
+- Corte regular
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
