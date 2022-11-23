@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Perfect V-Neck Camiseta Mujer Mini Daisy Cloud Dancer  Multicolor  M -'
-date: 2022-11-22 07:01:29
+date: 2022-11-23 15:32:09
 image: 'https://m.media-amazon.com/images/I/41PxI9U2raL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
