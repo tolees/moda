@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Carhartt Signature Logo Midweight Sweatshirt  Sudadera para Hombre  Gris  Heather Grey   L'
-date: 2022-11-20 20:10:44
+date: 2022-11-23 10:11:11
 image: 'https://m.media-amazon.com/images/I/41Hsk4KuYYS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Carhartt'
 buyurl: 'https://www.amazon.es/dp/B07MSF4X78/?tag=tolees-21'
 descuento: '39.82'
-average: '35.245'
+average: '34.52'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
