@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bordes abiertos con flecos finos
-- LENZING ECOVERO: fibras de viscosa obtenidas de madera y pulpa sostenibles y provienen de fuentes certificadas y controladas
 - Marca de marca
 - Patrón de cuadros
+- LENZING ECOVERO: fibras de viscosa obtenidas de madera y pulpa sostenibles y provienen de fuentes certificadas y controladas
+- Bordes abiertos con flecos finos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
