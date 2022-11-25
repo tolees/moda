@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Libertad de movimiento
-- Omini Kappa
 - Colección primavera/verano 2022 de Kappa.
 - Camiseta para niños
+- Omini Kappa
 - Diseño y confort
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
