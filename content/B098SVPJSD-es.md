@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Diseñados para lucir piernas
 - Corte ajustado en la cadera y los muslos y talle alto que te mantiene bien
 - Corte para bota que alarga la pierna
-- Diseñados para lucir piernas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

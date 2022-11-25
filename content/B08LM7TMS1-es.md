@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estilo #: 1365409
-- Exterior de punto de punto suave con un interior cepillado para una comodidad suave y calidez
-- ½ cremallera frontal para que sea fácil de poner
 - 100 % poliéster
+- ½ cremallera frontal para que sea fácil de poner
+- Exterior de punto de punto suave con un interior cepillado para una comodidad suave y calidez
 - El material absorbe el sudor y se seca muy rápido
+- Estilo #: 1365409
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
