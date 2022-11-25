@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Corte Regular Fit, cuello redondo y manga corta.
 - Colección Selección Española de Fútbol.
 - Lleva contrastes en ribs de manga y cuello. Detalle de estampado del emblemático Naranjito.
-- Corte Regular Fit, cuello redondo y manga corta.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
