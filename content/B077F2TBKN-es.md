@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Diesel UMTEE-JAKETHREEPACK  Camiseta para Hombre  Multicolor  Black/Dress Blue/Olive Night E4079/0aalw   M  Pack de 3'
-date: 2022-11-23 12:07:48
+date: 2022-11-24 22:31:20
 image: 'https://m.media-amazon.com/images/I/31jbRIIc+BL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Diesel'
 buyurl: 'https://www.amazon.es/dp/B077F2TBKN/?tag=tolees-21'
 descuento: '52.36'
-average: '26.3075'
+average: '25.334'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
