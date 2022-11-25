@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clarks Desert Boot Bushacre 3  Botas Hombre  Negro  Black Leather   42 EU'
-date: 2022-11-23 00:30:29
+date: 2022-11-25 01:07:33
 image: 'https://m.media-amazon.com/images/I/31idLKYYOhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B084DS74MN-es Clarks Desert Boot Bushacre 3 Botas Hombre Negro Black...'
 sku: 'B084DS74MN-es'
 tags: [ 'Botas para hombre','Moda','Moda Hombre','Zapatos para hombre','clarks','🇪🇸', ]
-actualPrice: 53.51 EUR
+actualPrice: 70.37 EUR
 currency: EUR
-price: 53.51
+price: 70.37
 comparePrice: 99.95 EUR
 prodname: 'Clarks Desert Boot Bushacre 3  Botas Hombre  Negro  Black Leather   42 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Clarks'
 buyurl: 'https://www.amazon.es/dp/B084DS74MN/?tag=tolees-21'
-descuento: '46.46'
-average: '58.6327272727273'
+descuento: '29.59'
+average: '59.6108333333334'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela: cuero y goma
 - Material interior: piel
 - Material exterior: piel
+- Suela: cuero y goma
 
 [🛒 Comprar!!!]({{< param buyurl >}})
