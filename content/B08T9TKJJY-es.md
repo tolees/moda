@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- COTTON ORGANICO
 - Denim
+- COTTON ORGANICO
 
 [🛒 Comprar!!!]({{< param buyurl >}})
