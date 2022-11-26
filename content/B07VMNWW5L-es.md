@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con copas moldeadas y relleno ligero
 - Banda inferior elástica distintiva de Calvin Klein
+- Con copas moldeadas y relleno ligero
 - Corpiño de tirantes finos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
