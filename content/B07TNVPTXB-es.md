@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Clarks Hamble Loafer  Mocasines Mujer  Marrón  Tan Leather Tan Leather   38 EU'
-date: 2022-11-24 12:08:00
+title: 'Clarks Hamble Loafer  Mocasines Mujer  Tan Leather  38 EU'
+date: 2022-11-26 20:56:12
 image: 'https://m.media-amazon.com/images/I/31TLAfsgzTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07TNVPTXB-es Clarks Hamble Loafer Mocasines Mujer Marrón Tan Leather...'
+slug: 'B07TNVPTXB-es Clarks Hamble Loafer Mocasines Mujer Tan Leather 38 EU'
 sku: 'B07TNVPTXB-es'
 tags: [ 'Mocasines para mujer','Moda','Moda Mujer','Zapatos para mujer','Zapatos planos de mujer','clarks','🇪🇸', ]
-actualPrice: 57.4 EUR
+actualPrice: 69.9 EUR
 currency: EUR
-price: 57.4
+price: 69.9
 comparePrice: 99.95 EUR
-prodname: 'Clarks Hamble Loafer  Mocasines Mujer  Marrón  Tan Leather Tan Leather   38 EU'
+prodname: 'Clarks Hamble Loafer  Mocasines Mujer  Tan Leather  38 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Clarks'
 buyurl: 'https://www.amazon.es/dp/B07TNVPTXB/?tag=tolees-21'
-descuento: '42.57'
-average: '68.8192857142857'
+descuento: '30.07'
+average: '68.8565517241379'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Superiores: Cuero
-- Altura Del Talón: 3cm
 - Fijación: Resbalón En
+- Superiores: Cuero
 - Forro: Textil
+- Altura Del Talón: 3cm
 - Suela: Tpr
 
 [🛒 Visítala!!!]({{< param buyurl >}})

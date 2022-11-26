@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers Track Scloric  Zapatos para Correr Hombre  Negro  Black   42 EU'
-date: 2022-11-25 13:28:40
+date: 2022-11-26 21:00:42
 image: 'https://m.media-amazon.com/images/I/41Tvomqf3IS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07BQXJK9M-es Skechers Track Scloric Zapatos para Correr Hombre Negro...'
 sku: 'B07BQXJK9M-es'
 tags: [ 'Moda','Moda Hombre','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos para hombre','skechers','zapatos','🇪🇸', ]
-actualPrice: 44.91 EUR
+actualPrice: 47.83 EUR
 currency: EUR
-price: 44.91
+price: 47.83
 comparePrice: 62.49 EUR
 prodname: 'Skechers Track Scloric  Zapatos para Correr Hombre  Negro  Black   42 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Skechers'
 buyurl: 'https://www.amazon.es/dp/B07BQXJK9M/?tag=tolees-21'
-descuento: '28.13'
-average: '45.7403225806452'
+descuento: '23.46'
+average: '45.805625'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
