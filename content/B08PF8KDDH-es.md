@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Levi s 501 Original Fit Vaqueros Hombre Canyon Kings  Azul  32W / 30L'
-date: 2022-11-19 17:52:45
+title: 'Levi s 501 Original Vaqueros Hombre Light Indigo - Flat Finish 32W / 30L'
+date: 2022-11-26 07:47:50
 image: 'https://m.media-amazon.com/images/I/31Xa0bApxpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B08PF8KDDH-es Levi s 501 Original Fit Vaqueros Hombre Canyon Kings Azul...'
+slug: 'B08PF8KDDH-es Levi s 501 Original Vaqueros Hombre Light Indigo - Flat...'
 sku: 'B08PF8KDDH-es'
 tags: [ 'Moda','Moda Hombre','Ropa de hombre','Vaqueros para hombre','levis','vaqueros','🇪🇸', ]
-actualPrice: 66.99 EUR
+actualPrice: 87.2 EUR
 currency: EUR
-price: 66.99
+price: 87.2
 comparePrice: 110.0 EUR
-prodname: 'Levi s 501 Original Fit Vaqueros Hombre Canyon Kings  Azul  32W / 30L'
+prodname: 'Levi s 501 Original Vaqueros Hombre Light Indigo - Flat Finish 32W / 30L'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B08PF8KDDH/?tag=tolees-21'
-descuento: '39.10'
-average: '62.0486666666667'
+descuento: '20.73'
+average: '63.8188235294118'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Jeans azules originales desde 1873
-- Nuestro característico corte recto
 - El lienzo perfecto para la personalización y la expresión propia
 - Tejidos con un toque de elástico
+- Nuestro característico corte recto
+- Jeans azules originales desde 1873
 
 [🛒 Aquí!!!]({{< param buyurl >}})

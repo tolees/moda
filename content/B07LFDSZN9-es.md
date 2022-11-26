@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Levi s 501 Original Fit Vaqueros Hombre Ironwood Overt  Azul  32W / 30L'
-date: 2022-11-19 17:51:38
+title: 'Levi s 501 Original Vaqueros Hombre Med Indigo - Worn In 32W / 30L'
+date: 2022-11-26 07:46:56
 image: 'https://m.media-amazon.com/images/I/31iHeTj9khL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07LFDSZN9-es Levi s 501 Original Fit Vaqueros Hombre Ironwood Overt...'
+slug: 'B07LFDSZN9-es Levi s 501 Original Vaqueros Hombre Med Indigo - Worn In...'
 sku: 'B07LFDSZN9-es'
 tags: [ 'Moda','Moda Hombre','Ropa de hombre','Vaqueros para hombre','levis','vaqueros','🇪🇸', ]
-actualPrice: 59.4 EUR
+actualPrice: 83.6 EUR
 currency: EUR
-price: 59.4
+price: 83.6
 comparePrice: 110.0 EUR
-prodname: 'Levi s 501 Original Fit Vaqueros Hombre Ironwood Overt  Azul  32W / 30L'
+prodname: 'Levi s 501 Original Vaqueros Hombre Med Indigo - Worn In 32W / 30L'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07LFDSZN9/?tag=tolees-21'
-descuento: '46.00'
-average: '101.039166666666'
+descuento: '24.00'
+average: '96.8192857142851'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
