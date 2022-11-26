@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Amazon Essentials Chaqueta Plumífero Resistente al Agua de Manga Larga Ligera  Disponible en Tallas Grandes  Mujer  Azul Marino  L'
-date: 2022-11-20 09:28:23
+date: 2022-11-25 21:02:31
 image: 'https://m.media-amazon.com/images/I/41qIuw1JOaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07BMLQYSH-es Amazon Essentials Chaqueta Plumífero Resistente al Agua de...'
 sku: 'B07BMLQYSH-es'
-tags: [ 'Chaquetas para mujer','Moda','Moda Mujer','Moda Niña','Ropa de abrigo para mujer','Ropa para mujer','amazon essentials','chaqueta','🇪🇸', ]
+tags: [ 'Chaquetas para mujer','Moda','Moda Mujer','Ropa de abrigo para mujer','Ropa para mujer','amazon essentials','chaqueta','🇪🇸', ]
 actualPrice: 23.45 EUR
 currency: EUR
 price: 23.45
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Amazon Essentials'
 buyurl: 'https://www.amazon.es/dp/B07BMLQYSH/?tag=tolees-21'
 descuento: '29.98'
-average: '30.125'
+average: '27.9'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
