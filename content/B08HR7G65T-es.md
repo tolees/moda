@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Only Mujer Onlbrandie L/S Roll Neck Dress Knt Noos Vestido Gris Claro M'
-date: 2022-11-25 19:08:23
+date: 2022-11-27 05:05:23
 image: 'https://m.media-amazon.com/images/I/31HaJXb5OZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Only'
 buyurl: 'https://www.amazon.es/dp/B08HR7G65T/?tag=tolees-21'
 descuento: '40.04'
-average: '23.03'
+average: '23.3466666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
