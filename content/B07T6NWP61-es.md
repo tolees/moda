@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NIKE M NSW Club Sudadera  Hombre  Black White'
-date: 2022-11-24 22:34:28
+date: 2022-11-27 07:25:28
 image: 'https://m.media-amazon.com/images/I/31Hc35BhtCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'NIKE'
 buyurl: 'https://www.amazon.es/dp/B07T6NWP61/?tag=tolees-21'
 descuento: '30.07'
-average: '37.2'
+average: '38.85'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,7 +29,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Full-length frontal zip and Side pockets
-- Hood with lanyard
 - Regular fit
+- Hood with lanyard
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
