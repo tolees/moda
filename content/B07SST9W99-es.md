@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 - Medidas: largo 38 cm
 - Atención a los detalles: una fina cadena que suspende un colgante con silueta de mano tridimensional entrelazada con un aro, con engastes de cristales pavé y acabados en baño tono oro rosa
 - Diseñada para perdurar en el tiempo: las joyas Swarovski lucen por si solas gracias al brillo y la talla del cristal junto a los metales más resistentes; evita el agua, las lociones o el perfume
-- Contenido de envío: 1x Swarovski collar de la colección Swarovski Symbolic, con lucientes cristales de pavés, baño tono oro rosa, incl. embalaje Swarovski
-- Llévala a tu manera: adecuado para lucir en solitario o en capas con otras piezas de la colección para lograr una vibra irreverente, elevando tu estilo y añadiendo brillo a tus atuendos cotidianos
 - Vanguardia y elegancia pura: un diseño total elegante, esta pieza expresa tu estilo utilizando métodos sofisticados de elaboración para un resultado ingenioso
+- Llévala a tu manera: adecuado para lucir en solitario o en capas con otras piezas de la colección para lograr una vibra irreverente, elevando tu estilo y añadiendo brillo a tus atuendos cotidianos
+- Contenido de envío: 1x Swarovski collar de la colección Swarovski Symbolic, con lucientes cristales de pavés, baño tono oro rosa, incl. embalaje Swarovski
 
 [🛒 Comprar!!!]({{< param buyurl >}})

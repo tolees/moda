@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Man made soles
-- Leather linings
-- Slip On
-- Padded insoles
 - Patent leather uppers
+- Slip On
+- Leather linings
+- Padded insoles
+- Man made soles
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suéter
 - Suave
-- sostenible
+- Suéter
 - Elástico
+- sostenible
 
 [🛒 Comprar!!!]({{< param buyurl >}})
