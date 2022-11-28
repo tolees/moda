@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Manga larga
-- Logotipo PUMA Cat en la parte derecha del pecho
 - Capucha con cordón
 - Bolsillo tipo canguro delantero
 - Al comprar productos de algodón de PUMA, apoyas un cultivo de algodón más sostenible. Más información en PUMA.COM/FOREVERBETTER
+- Logotipo PUMA Cat en la parte derecha del pecho
+- Manga larga
 
 [🛒 Visítala!!!]({{< param buyurl >}})
