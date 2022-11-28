@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tiene 2 botones
 - Cuenta con el logo Boss estampado en el centro del pecho
+- Tiene 2 botones
 
 [🛒 Aquí!!!]({{< param buyurl >}})
