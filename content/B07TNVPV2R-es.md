@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clarks Hamble Loafer  Mocasines Mujer  Black Pat Black Pat  38 EU'
-date: 2022-11-28 08:40:35
+date: 2022-11-29 20:59:07
 image: 'https://m.media-amazon.com/images/I/41ti8UC2wBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,6 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Patent leather uppers
-- Slip On
-- Leather linings
-- Padded insoles
-- Man made soles
+- Sock Material:Leather
 
 [🛒 Visítala!!!]({{< param buyurl >}})

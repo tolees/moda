@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Wrangler Icons 27MW Camisa Vaquera  2 Years 922  L para Hombre'
-date: 2022-11-27 08:44:33
+date: 2022-11-29 21:03:11
 image: 'https://m.media-amazon.com/images/I/314XWBu7mAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Wrangler'
 buyurl: 'https://www.amazon.es/dp/B07PMR2T84/?tag=tolees-21'
 descuento: '35.32'
-average: '38.7022222222222'
+average: '39.68'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

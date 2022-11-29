@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clarks Hamble Loafer  Mocasines Mujer  Black Leather Black Leather  38 EU'
-date: 2022-11-28 08:39:53
+date: 2022-11-29 20:57:57
 image: 'https://m.media-amazon.com/images/I/31tevG5+JTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Clarks'
 buyurl: 'https://www.amazon.es/dp/B07TJK3WTT/?tag=tolees-21'
 descuento: '40.07'
-average: '68.31'
+average: '67.9736'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
