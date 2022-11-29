@@ -29,7 +29,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Media manga
-- Lavable a
 - Tipo de corte: regular
+- Lavable a
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
