@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JACK & JONES Jjiglenn Jjoriginal Am 814 Noos  Vaqueros slim Hombre  Azul  32W / 34L'
-date: 2022-11-28 22:54:21
+date: 2022-11-30 00:37:22
 image: 'https://m.media-amazon.com/images/I/310W935BseL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B07JQBKFB9/?tag=tolees-21'
 descuento: '47.54'
-average: '22.783'
+average: '22.6190909090909'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
