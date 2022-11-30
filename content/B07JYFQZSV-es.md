@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sudadera
-- 93% algodon, 7 poliester
-- Lavar a máquina
 - Manga larga
+- 93% algodon, 7 poliester
 - Estilo del cuello: Capucha
+- Sudadera
+- Lavar a máquina
 
 [🛒 Visítala!!!]({{< param buyurl >}})

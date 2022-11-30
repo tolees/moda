@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fibras sostenibles: Lenzing Ecovero
-- 93% Polyester 7% Elastane
-- Fit: Relajado
 - Estampado geométrico retro
 - Cuello redondo
+- Fit: Relajado
+- Fibras sostenibles: Lenzing Ecovero
+- 93% Polyester 7% Elastane
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
