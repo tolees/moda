@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Reebok Camiseta Modelo RI Classic tee Marca'
-date: 2022-11-27 09:05:04
+date: 2022-12-01 11:11:13
 image: 'https://m.media-amazon.com/images/I/31Gb07lGMRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Reebok'
 buyurl: 'https://www.amazon.es/dp/B08S471QMK/?tag=tolees-21'
 descuento: '60.05'
-average: '8.99'
+average: '8.65666666666667'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Lavar a máquina
 - Tipo de material: 100 % algodón
-- Tiene manga corta
 - Camiseta para hombre con cuello redondo
+- Lavar a máquina
+- Tiene manga corta
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
