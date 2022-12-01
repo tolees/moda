@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jjerocky Jacket Noos Chaqueta  Negro  XXL para Hombre'
-date: 2022-11-30 19:32:40
+date: 2022-12-01 20:22:49
 image: 'https://m.media-amazon.com/images/I/51LC87Fsk-S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B07JZXDQ7S/?tag=tolees-21'
 descuento: '49.99'
-average: '33.17'
+average: '32.8818181818182'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
