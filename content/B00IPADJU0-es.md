@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - El taladro GSB 12V-15 Professional con percusión está dotado de un engranaje planetario de 2 velocidades para atornillar y taladrar en madera y metal, así como taladrar con percusión en mampostería
 - Rendimiento profesional: el mecanismo de dos velocidades transmite una fuerza de 15 Nm (atornillado blando) al taladrar y atornillar
-- Professional 12V System. Rendimiento compacto. Máxima libertad. Es compatible con todas las baterías y cargadores Bosch Professional de 12 V y 10,8 V
 - Con un diseño muy corto de tan solo 167 mm, permite un manejo óptimo, sobre todo en trabajos de taladrado y atornillado por encima de la cabeza y en lugares estrechos
 - Incluye: GSB 12V-15, funda, maletín L-BOXX 102
+- Professional 12V System. Rendimiento compacto. Máxima libertad. Es compatible con todas las baterías y cargadores Bosch Professional de 12 V y 10,8 V
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

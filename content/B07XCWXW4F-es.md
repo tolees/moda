@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Logotipo PUMA Cat en la parte derecha del pecho
 - Al comprar productos de algodón de PUMA, apoyas un cultivo de algodón más sostenible
 - Bolsillo tipo canguro delantero
-- Logotipo PUMA Cat en la parte derecha del pecho
 - Capucha con cordón
 
 [🛒 Comprar!!!]({{< param buyurl >}})
