@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Adidas Core 18 Hoody Sudadera con Capucha  Hombre  Rojo  Rojo/Blanco   XL'
-date: 2022-11-23 05:57:39
+date: 2022-11-30 22:22:50
 image: 'https://m.media-amazon.com/images/I/41kjtFFlH+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B076HMS26D/?tag=tolees-21'
 descuento: '37.62'
-average: '25.647931034483'
+average: '25.6361016949155'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -30,7 +30,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Tiene una capucha ajustable con cordón
 - Sin mangas.
-- Ventilación Climacool.
 - Escote redondo.
+- Ventilación Climacool.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
