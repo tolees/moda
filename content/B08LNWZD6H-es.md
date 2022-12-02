@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Under Armour Men s Pique Track Jacket Camisa  Hombre  Gris Pitch/Blanco  012   M'
-date: 2022-11-30 15:02:32
+date: 2022-12-01 22:53:05
 image: 'https://m.media-amazon.com/images/I/41Y0imR2UeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La tela de punto texturizada es ligera, resistente y transpirable
-- 100% poliéster
 - El material absorbe el sudor y se seca muy rápidamente
-- Bolsillos de mano seguros con cremallera
 - Estilo #: 1366202
+- 100% poliéster
+- La tela de punto texturizada es ligera, resistente y transpirable
+- Bolsillos de mano seguros con cremallera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
