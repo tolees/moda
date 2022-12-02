@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Corte que confiere comodidad en todo momento
-- Lote de 3 bóxers cortos Iconic cintura tricolor
-- Cintura elástica tricolor con marca Lacoste
-- Cocodrilo bordado en verde termosellado
 - No se aceptan cambios ni devoluciones en la ropa interior.
+- Cocodrilo bordado en verde termosellado
+- Cintura elástica tricolor con marca Lacoste
+- Lote de 3 bóxers cortos Iconic cintura tricolor
+- Corte que confiere comodidad en todo momento
 
 [🛒 Aquí!!!]({{< param buyurl >}})
