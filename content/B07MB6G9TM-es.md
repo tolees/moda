@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lacoste NF2037PO  Bolso Bandolera para Mujer  Azul  Illusion Blue   Talla única'
-date: 2022-11-30 05:35:35
+date: 2022-12-02 05:55:24
 image: 'https://m.media-amazon.com/images/I/31P7akxqX7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lacoste'
 buyurl: 'https://www.amazon.es/dp/B07MB6G9TM/?tag=tolees-21'
 descuento: '21.59'
-average: '63.8933333333333'
+average: '64.5825'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
