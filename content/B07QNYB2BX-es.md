@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HAWKERS ONE  Gafas de sol  Negro Carbon · Negro Oscuro  Talla única'
-date: 2022-12-02 16:52:30
+date: 2022-12-03 17:18:49
 image: 'https://m.media-amazon.com/images/I/317o5OLfXRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HAWKERS'
 buyurl: 'https://www.amazon.es/dp/B07QNYB2BX/?tag=tolees-21'
 descuento: '32.43'
-average: '22.7302439024388'
+average: '22.7819277108432'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Producto original Hawkers. La caja incluye funda de microfibra, caja y set de pegatinas decorativas.
-- Icónico modelo Hawkers One, Unisex, con montura Carbon Black mate y lente oscura
-- Montura fabricada en TR90, que dota a las gafas de gran ligereza, flexibilidad y resistencia, muy resistente a altas y bajas temperaturas.
 - Lente oscura fabricada en TR18, con reducción de brillos y con gran equilibrio entre claridad y protección. Lente de categoría 3 con protección UV400. Resistencia muy alta
+- Producto original Hawkers. La caja incluye funda de microfibra, caja y set de pegatinas decorativas.
+- Montura fabricada en TR90, que dota a las gafas de gran ligereza, flexibilidad y resistencia, muy resistente a altas y bajas temperaturas.
 - Medidas: Frente: 14cm, Altura: 5cm, Varillas: 14cm
+- Icónico modelo Hawkers One, Unisex, con montura Carbon Black mate y lente oscura
 
 [🛒 Visítala!!!]({{< param buyurl >}})
