@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clarks Hamble Loafer  Mocasines Mujer  Navy Leather  37 EU'
-date: 2022-11-29 20:57:51
+date: 2022-12-03 11:12:40
 image: 'https://m.media-amazon.com/images/I/31Vknf291EL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Clarks'
 buyurl: 'https://www.amazon.es/dp/B07TJPMQ7V/?tag=tolees-21'
 descuento: '49.99'
-average: '50.8733333333333'
+average: '50.65'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

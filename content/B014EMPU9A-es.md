@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers Originals OG 85 Golden Girl  Zapatilla Baja Mujer  Negro  Black Gold   38 EU'
-date: 2022-12-01 10:58:36
+date: 2022-12-03 11:19:06
 image: 'https://m.media-amazon.com/images/I/31wSXNw5m3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B014EMPU9A-es Skechers Originals OG 85 Golden Girl Zapatilla Baja Mujer...'
 sku: 'B014EMPU9A-es'
 tags: [ 'Moda','Moda Mujer','Zapatillas casual para mujer','Zapatillas y calzado deportivo para mujer','Zapatos para mujer','skechers','zapatilla','🇪🇸', ]
-actualPrice: 39.61 EUR
+actualPrice: 52.45 EUR
 currency: EUR
-price: 39.61
+price: 52.45
 comparePrice: 64.95 EUR
 prodname: 'Skechers Originals OG 85 Golden Girl  Zapatilla Baja Mujer  Negro  Black Gold   38 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Skechers'
 buyurl: 'https://www.amazon.es/dp/B014EMPU9A/?tag=tolees-21'
-descuento: '39.01'
-average: '47.0248529411766'
+descuento: '19.25'
+average: '47.1034782608697'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
