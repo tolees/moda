@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bordes acanalados
-- Tejido suave
 - Cuello de punto liso
+- Tejido suave
+- Bordes acanalados
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
