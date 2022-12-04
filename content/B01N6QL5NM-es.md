@@ -31,7 +31,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - ❤️CALIDAD: Plata 925, Cristal, libre de níquel, sin plomo, no alérgico, no se desvanece permite un uso cómodo, especialmente para aquellos con piel sensible.
 - ❤️EMBALAJE: Viene en una bonita caja de regalo.
 - ❤️DISEÑO: Colgante árbol de la vida de plata con cristales, simboliza familia cálida, paz, salud y energía, una vida espléndida y eterna. Es un hermoso amuleto de la suerte.
-- ❤️Regalo ideal: Para Navidad, Día de la Madre, San Valentín, Cumpleaños, Aniversario, Graduaciones, etc.
 - ❤️TAMAÑO: 2.5 cm x 2.5 cm, Cadena: 45cm+5cm(Cadena de extensión).
+- ❤️Regalo ideal: Para Navidad, Día de la Madre, San Valentín, Cumpleaños, Aniversario, Graduaciones, etc.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
