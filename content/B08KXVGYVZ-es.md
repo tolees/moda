@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones - Jack and Jones Hombre Sudadera Cuello Redondo Manga Larga Negro XL'
-date: 2022-12-03 12:46:38
+date: 2022-12-04 18:04:51
 image: 'https://m.media-amazon.com/images/I/31UyNwtKbcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B08KXVGYVZ/?tag=tolees-21'
 descuento: '49.98'
-average: '13.75'
+average: '14.1666666666667'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuello crew
-- Mangas largas
 - Sudadera sin capucha
+- Mangas largas
 - Sudadera
+- Cuello crew
 
 [🛒 Aquí!!!]({{< param buyurl >}})
