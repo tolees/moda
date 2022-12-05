@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazon Essentials Chaqueta Plumífero Resistente al Agua  Ligera y Plegable Hombre  Morado Oscuro  M'
-date: 2022-12-03 19:38:13
+date: 2022-12-05 07:43:04
 image: 'https://m.media-amazon.com/images/I/41bR0H3OKfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
