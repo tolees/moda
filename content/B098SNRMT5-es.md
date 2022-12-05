@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Levi s 501 Original Fit Vaqueros Hombre Canyon Kings  Azul  26W /28L'
-date: 2022-11-23 00:33:45
+title: 'Levi s 501 Original Vaqueros  Azul  Canyon Kings   26W / 28L para Hombre'
+date: 2022-12-04 23:25:01
 image: 'https://m.media-amazon.com/images/I/31Xa0bApxpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B098SNRMT5-es Levi s 501 Original Fit Vaqueros Hombre Canyon Kings Azul...'
+slug: 'B098SNRMT5-es Levi s 501 Original Vaqueros Azul Canyon Kings 26W / 28L...'
 sku: 'B098SNRMT5-es'
 tags: [ 'Moda','Moda Hombre','Ropa de hombre','Vaqueros para hombre','levis','vaqueros','🇪🇸', ]
-actualPrice: 55.98 EUR
+actualPrice: 52.98 EUR
 currency: EUR
-price: 55.98
+price: 52.98
 comparePrice: 110.0 EUR
-prodname: 'Levi s 501 Original Fit Vaqueros Hombre Canyon Kings  Azul  26W /28L'
+prodname: 'Levi s 501 Original Vaqueros  Azul  Canyon Kings   26W / 28L para Hombre'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B098SNRMT5/?tag=tolees-21'
-descuento: '49.11'
-average: '55.98'
+descuento: '51.84'
+average: '54.48'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Nuestro característico corte recto
-- Tejidos con un toque de elástico
-- El lienzo perfecto para la personalización y la expresión propia
 - Jeans azules originales desde 1873
+- El lienzo perfecto para la personalización y la expresión propia
+- Tejidos con un toque de elástico
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
