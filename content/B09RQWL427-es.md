@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Omini Kappa
+- Diseño y confort
+- Colección primavera/verano 2022 de Kappa.
 - Libertad de movimiento
 - Camiseta para niña
-- Colección primavera/verano 2022 de Kappa.
-- Diseño y confort
 
 [🛒 Visítala!!!]({{< param buyurl >}})
