@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clarks Hamble Loafer  Mocasines Mujer  Stone Met Lea  37 EU'
-date: 2022-11-29 20:58:23
+date: 2022-12-05 11:28:21
 image: 'https://m.media-amazon.com/images/I/41kU8iCEXxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Clarks'
 buyurl: 'https://www.amazon.es/dp/B07TJPMQ36/?tag=tolees-21'
 descuento: '18.96'
-average: '69.1721052631578'
+average: '70.2985714285713'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
