@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Longsleeve Original Housemark Tee Camiseta Hombre Mineral Black  Negro  M'
-date: 2022-12-02 10:44:10
+date: 2022-12-05 19:26:43
 image: 'https://m.media-amazon.com/images/I/31r3GvVcpGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07LF8RGSQ/?tag=tolees-21'
 descuento: '15.34'
-average: '21.1665573770492'
+average: '21.3030645161291'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Modelo casual
 - Con un discreto logo en el pecho
 - Elaborada en punto suave
+- Modelo casual
 
 [🛒 Aquí!!!]({{< param buyurl >}})
