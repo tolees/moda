@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Only Onpelina High Neck Sweat-Opus Sudadera  Negro  Black Black   Small para Mujer'
-date: 2022-12-04 17:48:34
+date: 2022-12-05 22:06:09
 image: 'https://m.media-amazon.com/images/I/31+uA-etkvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07MXVSFGD-es Only Onpelina High Neck Sweat-Opus Sudadera Negro Black...'
 sku: 'B07MXVSFGD-es'
-tags: [ 'Jerséis, cárdigans y sudaderas para mujer','Moda','Moda Mujer','Ropa para mujer','Sudaderas para mujer','Sudaderas sin capucha para mujer','only','sudadera','🇪🇸', ]
+tags: [ 'Jerséis, cárdigans y sudaderas para mujer','Moda','Moda Mujer','Ropa de mujer','Sudaderas para mujer','Sudaderas sin capucha para mujer','only','sudadera','🇪🇸', ]
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0
