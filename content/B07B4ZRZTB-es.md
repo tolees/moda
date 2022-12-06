@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cintura y capucha ajustables mediante banda elástica
-- 2 bolsillos laterales con cremallera, un bolsillo en el pecho con cremallera
-- Tecnología Turbo Dry 5000; resistente al agua (3000), transpirable (5000)
 - Capucha de quita y pon.
 - Cierre: Con cremallera.
+- 2 bolsillos laterales con cremallera, un bolsillo en el pecho con cremallera
+- Tecnología Turbo Dry 5000; resistente al agua (3000), transpirable (5000)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
