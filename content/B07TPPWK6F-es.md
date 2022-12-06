@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camisa denim clásica de manga larga Western Shirt
 - Modelo casual
 - Dos bolsillos con botón en el pecho
+- Camisa denim clásica de manga larga Western Shirt
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
