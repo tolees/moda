@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 38 -- Largo: 90cm / Pecho: 90cm / Cadera: 94cm / Cintura: 72cm / Hombro: 36cm / Abertura: 20cm
-- Cremallera invisible y cierre de botones a presión en el lateral
-- Somos el creador del producto, la marca LACITEINTERDITE, los otros vendedores son copiadores de los listados. Para evitar la mala calidad y elegir los tamaños adecuados, lo invitamos a elegir "vendedor: LACITEINTERDITE" antes de confirmar su pedido
 - Impresión de damasco de flor de cerezo
+- Somos el creador del producto, la marca LACITEINTERDITE, los otros vendedores son copiadores de los listados. Para evitar la mala calidad y elegir los tamaños adecuados, lo invitamos a elegir "vendedor: LACITEINTERDITE" antes de confirmar su pedido
+- Cremallera invisible y cierre de botones a presión en el lateral
+- 38 -- Largo: 90cm / Pecho: 90cm / Cadera: 94cm / Cintura: 72cm / Hombro: 36cm / Abertura: 20cm
 - Tamaño pequeño, consulte la tabla de tallas en la galería de fotos para elegir el tamaño correcto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Reebok GS Linear Read tee Camiseta  Hombre  Blanco  M'
-date: 2022-12-05 11:53:41
+date: 2022-12-07 12:43:49
 image: 'https://m.media-amazon.com/images/I/31Q6Ugb6rDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseño de manga corta.
 - Gráfico reebok.
-- Cuello redondo.
 - Corte ajustado.
+- Diseño de manga corta.
+- Cuello redondo.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
