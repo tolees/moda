@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello redondo
 - Logotipo de murciélago en el pecho
+- Cuello redondo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

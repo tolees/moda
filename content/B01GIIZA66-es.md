@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Modelo casual
 - Retira la hebilla con un destornillador y corta la correa a la longitud deseada
+- Modelo casual
 - Hebilla con monograma CK distintivo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
