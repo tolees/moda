@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Only Onpelina High Neck Sweat-Opus Sudadera  Negro  Black Black   Medium para Mujer'
-date: 2022-12-06 13:11:30
+date: 2022-12-07 20:30:23
 image: 'https://m.media-amazon.com/images/I/31+uA-etkvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Only'
 buyurl: 'https://www.amazon.es/dp/B07MXYK8XV/?tag=tolees-21'
 descuento: '29.98'
-average: '19.5'
+average: '20.0'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sweat jacket with zipper
 - High neck training jacket
+- Sweat jacket with zipper
 
 [🛒 Aquí!!!]({{< param buyurl >}})
