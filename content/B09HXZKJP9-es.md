@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Apertura central en cremallera
-- Tipo de tejido: sarga
 - Capucha fija
 - Bolsillos tipo canguro
+- Tipo de tejido: sarga
 - Cordón ajustable
+- Apertura central en cremallera
 - Diseñado para aguantar bajas temperaturas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

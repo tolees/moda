@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tejido suave de punto único
-- Manga corta con cuello redondo
 - Camiseta básica con logotipo impreso en la parte frontal
-- No se puede lavar en seco. No se puede secar en secadora. No se permite lejía. Planchar a alta temperatura (200 °C). Lavado normal a máx. 40 °C
-- Ajuste: ajuste regular, longitud de la espalda en L aprox. 74 cm
+- Manga corta con cuello redondo
 - BE PART: Somos miembro orgulloso de la iniciativa Better Cotton (BCI). Con la compra de este artículo apoyarás una construcción de algodón más sostenible.
+- Ajuste: ajuste regular, longitud de la espalda en L aprox. 74 cm
+- Tejido suave de punto único
+- No se puede lavar en seco. No se puede secar en secadora. No se permite lejía. Planchar a alta temperatura (200 °C). Lavado normal a máx. 40 °C
 
 [🛒 Aquí!!!]({{< param buyurl >}})
