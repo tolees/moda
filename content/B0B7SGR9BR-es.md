@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bata Unisex Adulto Bolso con tachuelas y correa de cadena'
-date: 2022-12-07 14:03:50
+date: 2022-12-08 14:21:53
 image: 'https://m.media-amazon.com/images/I/412MLpYmj4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
