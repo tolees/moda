@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones JJEGORDON Shark tee SS Crew Neck Noos Camiseta  Gris Claro. Estampado: Azul Marino  L para Hombre'
-date: 2022-11-30 05:23:37
+date: 2022-12-09 18:51:35
 image: 'https://m.media-amazon.com/images/I/41x1pm07tKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 100% algodón
 - Apoya la iniciativa Better Cotton Initiativa
+- 100% algodón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
