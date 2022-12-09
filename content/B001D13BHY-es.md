@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Corte recto original
 - Nos hemos unido a la Better Cotton Initiative para mejorar el cultivo de algodón en todo el mundo
-- Los vaqueros azules originales desde 1873
 - Un icono del estilo estadounidense
 - Un lienzo en blanco para la expresión propia
-- Corte recto original
+- Los vaqueros azules originales desde 1873
 
 [🛒 Aquí!!!]({{< param buyurl >}})
