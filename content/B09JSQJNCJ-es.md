@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones - JACK&JONES JJECRAFT Parka SN Chaqueta  Navy Blazer  L para Hombre'
-date: 2022-12-05 16:19:18
+date: 2022-12-08 21:48:41
 image: 'https://m.media-amazon.com/images/I/41shjd0R4XL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
