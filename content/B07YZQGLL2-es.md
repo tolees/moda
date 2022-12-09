@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Mike Original Jos 411 Vaqueros  Azul Denim  36W / 32L para Hombre'
-date: 2022-12-05 19:38:25
+date: 2022-12-09 20:52:25
 image: 'https://m.media-amazon.com/images/I/41IZCc7L2RL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B07YZQGLL2/?tag=tolees-21'
 descuento: '65.74'
-average: '30.8883333333333'
+average: '29.9014285714285'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

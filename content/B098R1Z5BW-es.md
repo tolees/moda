@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Punto de canalé suave
 - Camiseta clásica con un corte estrecho
 - Logotipo de Levis bordado
-- Punto de canalé suave
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
