@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Superficie que repele la humedad
 - 14% elastano, 86% poliéster
 - Cintura elástica a la altura de la cadera trasera
-- Superficie que repele la humedad
-- Longitud del muslo
 - Cómoda poliéster y elastano
+- Longitud del muslo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
