@@ -29,7 +29,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Con cierre de hebilla
-- Cinturón para mujer
 - Estilo clásico
+- Cinturón para mujer
 
 [🛒 Aquí!!!]({{< param buyurl >}})
