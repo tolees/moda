@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers Track Scloric  Zapatos para Correr Hombre  Azul  Blue/Navy   44 EU'
-date: 2022-12-07 20:13:01
+date: 2022-12-10 01:07:26
 image: 'https://m.media-amazon.com/images/I/41yZttCwhjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Skechers'
 buyurl: 'https://www.amazon.es/dp/B07BQYY6X8/?tag=tolees-21'
 descuento: '22.00'
-average: '44.48'
+average: '43.1075'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
