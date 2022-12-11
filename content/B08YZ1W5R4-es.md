@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con cuello redondo
 - Camiseta para hombre
+- Con cuello redondo
 - Tiene el logo bordado en el pecho
 - Presenta contrastes a color sobre los hombros y banda lateral en los costados
 

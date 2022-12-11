@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Una chaqueta acolchada duradera y plegable
 - Viene en su bolsa para que esté bien protegida
 - Ligera pero muy abrigada
-- Una chaqueta acolchada duradera y plegable
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

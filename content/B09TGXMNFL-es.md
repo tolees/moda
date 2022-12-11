@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- COLUMPIO CÓMODO Y ENCANTADOR: Columpio infantil de madera de álamo natural y lona de algodón, con bordes reforzados de madera y cinturón de seguridad. Cuenta con dos cojines extraíbles, para el asiento y el respaldo
-- MEDIDAS TOTALES: 40x40x180 cm (LxANxAL); Peso máximo soportado: 80 kg; Recomendado para niños de 6-36 meses.
 - CUERDAS AJUSTABLES: Las cuerdas de este columpio para niños se pueden ajustar en altura para adaptar según necesidades de uso, a la edad de los niños y también al soporte elegido. Proporciona un balanceo suave y agradable
-- VERSÁTIL Y RESISTENTE: Adecuado para su uso en interiores y exteriores, se puede colgar en el techo, un árbol o estructura con suficiente resistencia y estabilidad para ello. Recomendado para bebés de 6-36 meses tiene una capacidad de carga de hasta 80kg, muy superior a la que se requiere para estos columpios infantiles
+- MEDIDAS TOTALES: 40x40x180 cm (LxANxAL); Peso máximo soportado: 80 kg; Recomendado para niños de 6-36 meses.
+- COLUMPIO CÓMODO Y ENCANTADOR: Columpio infantil de madera de álamo natural y lona de algodón, con bordes reforzados de madera y cinturón de seguridad. Cuenta con dos cojines extraíbles, para el asiento y el respaldo
 - DIVERSIÓN Y APRENDIZAJE: El balanceo del columpio de madera para niños mejora la capacidad de coordinación y equilibrio de los más pequeños fundamental a la hora de aprender a caminar. También ayuda al sistema psicomotriz. Para que se diviertan, se relajen acompañados de música, etc.
+- VERSÁTIL Y RESISTENTE: Adecuado para su uso en interiores y exteriores, se puede colgar en el techo, un árbol o estructura con suficiente resistencia y estabilidad para ello. Recomendado para bebés de 6-36 meses tiene una capacidad de carga de hasta 80kg, muy superior a la que se requiere para estos columpios infantiles
 
 [🛒 Comprar!!!]({{< param buyurl >}})
