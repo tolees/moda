@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geographical Norways- Parka de hombre AURELIEN Azul marino Talla M'
-date: 2022-12-05 11:56:47
+date: 2022-12-11 16:44:58
 image: 'https://m.media-amazon.com/images/I/41UuCzjfnTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ideal para regalo
 - Disponible dos colores
 - Geographical Norway, chaqueta/ parka Geographical Norway, Geographical Norway hombre
+- Ideal para regalo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
