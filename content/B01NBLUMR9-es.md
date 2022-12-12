@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lacoste NF2037PO  Bolso Bandolera para Mujer  Blanco  Talla única'
-date: 2022-12-11 19:24:56
+date: 2022-12-12 19:38:30
 image: 'https://m.media-amazon.com/images/I/21DErUzBg-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Un bolsillo interior de red con cremallera
 - Cocodrilo bordado
+- Un bolsillo interior de red con cremallera
 
 [🛒 Comprar!!!]({{< param buyurl >}})
