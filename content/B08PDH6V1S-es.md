@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Edie Packable Jacket Chaqueta Mujer Caviar  Negro  M -'
-date: 2022-12-10 13:46:43
+date: 2022-12-11 22:27:55
 image: 'https://m.media-amazon.com/images/I/41WZUqvAucL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B08PDH6V1S/?tag=tolees-21'
 descuento: '53.92'
-average: '57.9'
+average: '58.5666666666667'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ligera pero muy abrigada
-- Viene en su bolsa para que esté bien protegida
 - Una chaqueta acolchada duradera y plegable
+- Viene en su bolsa para que esté bien protegida
+- Ligera pero muy abrigada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
