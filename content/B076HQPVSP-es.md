@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Logotipo de Adidas bordado en el pectoral derecho
 - Puños elásticos
 - Tejido transpirable Climalite
-- Logotipo de Adidas bordado en el pectoral derecho
 - Cremallera de un cuarto largo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
