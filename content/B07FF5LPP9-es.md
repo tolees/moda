@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tenis
-- No es resistente al agua
 - Espuma viscoelástica
 - Piel: piel lisa
+- No es resistente al agua
+- Tenis
 
 [🛒 Comprar!!!]({{< param buyurl >}})

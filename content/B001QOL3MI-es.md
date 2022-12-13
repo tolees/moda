@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Un icono del estilo estadounidense
+- Corte recto original
 - Un lienzo en blanco para la expresión propia
 - Vaqueros azules originales desde 1873
-- Corte recto original
+- Un icono del estilo estadounidense
 
 [🛒 Aquí!!!]({{< param buyurl >}})

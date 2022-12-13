@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Modelo fabricado con tecnología Water&ItLess, que utiliza un 96 % menos de agua que las técnicas habituales de acabado
-- Un lienzo en blanco para la expresión propia
-- Auténtico estilo americano
 - Jeans azules originales desde 1873
+- Auténtico estilo americano
+- Modelo fabricado con tecnología Water&ItLess, que utiliza un 96 % menos de agua que las técnicas habituales de acabado
 - Corte recto original
+- Un lienzo en blanco para la expresión propia
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
