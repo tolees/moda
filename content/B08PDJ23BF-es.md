@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con un discreto logotipo en el pecho
 - Llévalo con una talla más para tener un estilo informal o quédate en tu talla para un estilo clásico
-- Confeccionado en piqué ligero y transpirable
+- Con un discreto logotipo en el pecho
 - Un polo versátil, elegante y holgado para completar tu look
+- Confeccionado en piqué ligero y transpirable
 
 [🛒 Aquí!!!]({{< param buyurl >}})
