@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'United Colors of Benetton Camiseta M/L 3J68C200V Sudadera con Capucha De Manga Larga  Negro 100  Niños'
-date: 2022-12-10 21:37:10
+title: 'United Colors of Benetton Camiseta M/L 3J68C200V Sudadera con Capucha DE Manga Larga  Negro 100  130 para Niños'
+date: 2022-12-13 08:20:38
 image: 'https://m.media-amazon.com/images/I/31sHC9oq0gL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -13,7 +13,7 @@ actualPrice: 15.22 EUR
 currency: EUR
 price: 15.22
 comparePrice: 22.95 EUR
-prodname: 'United Colors of Benetton Camiseta M/L 3J68C200V Sudadera con Capucha De Manga Larga  Negro 100  Niños'
+prodname: 'United Colors of Benetton Camiseta M/L 3J68C200V Sudadera con Capucha DE Manga Larga  Negro 100  130 para Niños'
 country: 'es'
 flag: '🇪🇸'
 brand: 'United Colors of Benetton'
