@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Graphic Standard Crewneck Sudadera Mujer Grey Heather  Gris  M'
-date: 2022-12-12 09:16:22
+date: 2022-12-14 10:13:41
 image: 'https://m.media-amazon.com/images/I/412VI+Wsx0S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sudadera cómoda de forro polar
 - Con el emblemático logotipo de Levis
+- Sudadera cómoda de forro polar
 
 [🛒 Visítala!!!]({{< param buyurl >}})

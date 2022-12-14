@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ajuste regular
 - Tecnología Aeroready
+- Ajuste regular
 - Camiseta de fútbol
 
 [🛒 Aquí!!!]({{< param buyurl >}})
