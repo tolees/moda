@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Fijaciones: encaje
-- Forro: textil
 - Parte superior: cuero
 - Ancho de fijación: estándar (g)
+- Forro: textil
 
 [🛒 Aquí!!!]({{< param buyurl >}})

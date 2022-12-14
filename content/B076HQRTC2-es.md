@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuenta con un bolsillo de tipo canguro
 - Es adecuada para el futbol
+- Cuenta con un bolsillo de tipo canguro
 - Tiene una capucha ajustable con cordón
 - Sudadera adecuada para hombres
 

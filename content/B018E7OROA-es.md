@@ -29,7 +29,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Alpha Industries Gris MA-1 TT Bomber Jacket.
-- A estrenar y genuina. Somos un vendedor autorizado de Alpha Industries.
 - Ver descripción del producto para obtener más información.
+- A estrenar y genuina. Somos un vendedor autorizado de Alpha Industries.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

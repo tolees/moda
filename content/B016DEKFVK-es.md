@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Longitud del templo: 150
-- Tamano lente-puente: 50 22
 - Al absorber el 85% de la luz visible y bloquear la mayor parte de la luz azul, las lentes verdes proporcionan un notable contraste de color. Las lentes verdes G-15 aseguran una mejor claridad de vision y una "vision mas natural".
 - Forma: cuadrado
+- Longitud del templo: 150
+- Tamano lente-puente: 50 22
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

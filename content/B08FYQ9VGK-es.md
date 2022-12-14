@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Encaja bien
 - Ligero
+- Encaja bien
 - Cómodo y duradero
 - Impermeable
 

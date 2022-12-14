@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cómodo y duradero
 - Ligero
-- Impermeable
 - Encaja bien
+- Impermeable
+- Cómodo y duradero
 
 [🛒 Comprar!!!]({{< param buyurl >}})
