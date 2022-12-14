@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello
-- Bolsillo en
 - Tapones
-- Camisa vaquera
+- Bolsillo en
 - Suelto
+- Camisa vaquera
+- Cuello
 
 [🛒 Comprar!!!]({{< param buyurl >}})

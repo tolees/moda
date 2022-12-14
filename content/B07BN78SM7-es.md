@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Amazon Essentials Chaqueta Plumífero Resistente al Agua  Ligera y Plegable Hombre  Gris  L'
-date: 2022-12-14 17:40:42
-image: 'https://m.media-amazon.com/images/I/41B71PKzw9L._SL500_._SL400_.jpg'
+title: 'Amazon Essentials Chaqueta Plumífero Resistente al Agua  Ligera y Plegable Hombre  Rojo Ladrillo  L'
+date: 2022-12-14 18:49:48
+image: 'https://m.media-amazon.com/images/I/41YqGmBlUPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07BN72RF2-es Amazon Essentials Chaqueta Plumífero Resistente al Agua...'
-sku: 'B07BN72RF2-es'
+slug: 'B07BN78SM7-es Amazon Essentials Chaqueta Plumífero Resistente al Agua...'
+sku: 'B07BN78SM7-es'
 tags: [ 'Chaquetas para hombre','Moda','Moda Hombre','Ropa de abrigo para hombre','Ropa de hombre','amazon essentials','chaqueta','🇪🇸', ]
-actualPrice: 13.5 EUR
+actualPrice: 16.5 EUR
 currency: EUR
-price: 13.5
-comparePrice: 27.0 EUR
-prodname: 'Amazon Essentials Chaqueta Plumífero Resistente al Agua  Ligera y Plegable Hombre  Gris  L'
+price: 16.5
+comparePrice: 32.98 EUR
+prodname: 'Amazon Essentials Chaqueta Plumífero Resistente al Agua  Ligera y Plegable Hombre  Rojo Ladrillo  L'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Amazon Essentials'
-buyurl: 'https://www.amazon.es/dp/B07BN72RF2/?tag=tolees-21'
-descuento: '50.00'
-average: '19.8'
+buyurl: 'https://www.amazon.es/dp/B07BN78SM7/?tag=tolees-21'
+descuento: '49.97'
+average: '22.19'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
