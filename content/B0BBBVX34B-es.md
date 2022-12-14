@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Sudadera capucha hombre de Geographical Norway
+- Ideal para regalo, vestir a diario o hacer deporte
 - Disponible en 3 colores
 - Bandera característica de la marca impresa sobre el pecho
-- Ideal para regalo, vestir a diario o hacer deporte
-- Sudadera capucha hombre de Geographical Norway
 
 [🛒 Comprar!!!]({{< param buyurl >}})

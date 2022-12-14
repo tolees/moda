@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillo interior con cremallera
 - Bolso tote de mujer L.12.12 Concept con cremallera pequeño
 - Tamaño 24 x 24,5 x 14,5 cm
 - Marca de cocodrilo verde bordado
+- Bolsillo interior con cremallera
 - Deslizador de cremallera de marca Lacoste
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

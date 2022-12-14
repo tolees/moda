@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Deslizador de cremallera de marca Lacoste
 - Marca de cocodrilo verde bordado
 - Bolsillo interior con cremallera
 - Tamaño 24 x 24,5 x 14,5 cm
 - Bolso tote de mujer L.12.12 Concept con cremallera pequeño
+- Deslizador de cremallera de marca Lacoste
 
 [🛒 Visítala!!!]({{< param buyurl >}})
