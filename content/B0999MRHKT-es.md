@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Incluye cinta para fijar las gafas a la cabeza
-- Protección 100 % UVA, UVB y UVC
+- El acabado con moderno efecto espejo a juego de los lentes protege adicionalmente de la radiación infrarroja
 - Alta reducción de la radiación solar mediante la categoría de filtro 3 con una penetración de la luz del 9-18 %
 - Patillas suaves para una gran comodidad sin ejercer presión y una perfecta sujeción
-- El acabado con moderno efecto espejo a juego de los lentes protege adicionalmente de la radiación infrarroja
+- Protección 100 % UVA, UVB y UVC
 
 [🛒 Comprar!!!]({{< param buyurl >}})
