@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geographical Norway - PARKA DE HOMBRE BENCH GRIS OSCURO L'
-date: 2022-12-09 18:12:10
+date: 2022-12-15 19:48:03
 image: 'https://m.media-amazon.com/images/I/414+62-PqpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cordón ajustable
-- Diseñado para aguantar bajas temperaturas
-- Tipo de tejido: sarga
-- Apertura central en cremallera
 - Bolsillos tipo canguro
+- Diseñado para aguantar bajas temperaturas
+- Apertura central en cremallera
 - Capucha fija
+- Cordón ajustable
+- Tipo de tejido: sarga
 
 [🛒 Comprar!!!]({{< param buyurl >}})
