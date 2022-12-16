@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones - JACK&JONES JJECRAFT Parka SN Chaqueta  Navy Blazer  L para Hombre'
-date: 2022-12-08 21:48:41
+date: 2022-12-16 07:52:46
 image: 'https://m.media-amazon.com/images/I/41shjd0R4XL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Relleno con fibras sintéticas de plumón
+- Composición del material: material exterior: 100% poliéster; forro: 100% poliéster; relleno: 100% poliéster; manga: 100% poliéster; acanalado: 100% poliéster
 - Tela pesada
 - Parka
-- Composición del material: material exterior: 100% poliéster; forro: 100% poliéster; relleno: 100% poliéster; manga: 100% poliéster; acanalado: 100% poliéster
 
 [🛒 Comprar!!!]({{< param buyurl >}})

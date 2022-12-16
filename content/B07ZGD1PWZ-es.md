@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvin Klein Jeans CK Essential Slim tee Camiseta  Negro  L para Hombre'
-date: 2022-12-09 18:47:50
+date: 2022-12-16 08:09:58
 image: 'https://m.media-amazon.com/images/I/31NVBeImcSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Calvin Klein Jeans'
 buyurl: 'https://www.amazon.es/dp/B07ZGD1PWZ/?tag=tolees-21'
 descuento: '27.44'
-average: '23.7655'
+average: '24.012380952381'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mangas cortas
+- Ajuste slim
+- Cuello redondo
 - Algodón orgánico
 - Ribete con raya en el interior del cuello
-- Cuello redondo
-- Ajuste slim
+- Mangas cortas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
