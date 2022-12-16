@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bandera característica de la marca impresa sobre el pecho
-- Sudadera capucha de niño GYMCLASS de Geographical Norway
 - Disponible en 2 colores
+- Sudadera capucha de niño GYMCLASS de Geographical Norway
+- Bandera característica de la marca impresa sobre el pecho
 
 [🛒 Comprar!!!]({{< param buyurl >}})

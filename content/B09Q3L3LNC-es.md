@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Dos bolsillos interiores, uno con cierre de cremallera.
-- Bolso de 14,5 cm x 20 cm x 14,5 cm fabricado en Piel sintética.
 - Incluye pequeño monedero enganchado.
-- Con cierre de cordon ajustable.
+- Bolso de 14,5 cm x 20 cm x 14,5 cm fabricado en Piel sintética.
 - Asa corta para llevarlo en la mano, y bandolera ajustable para llevarlo al hombro ó cruzado.
+- Con cierre de cordon ajustable.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

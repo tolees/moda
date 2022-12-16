@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clarks Desert Boot Bushacre 3  Botas Hombre  Negro  Black Leather   42 EU'
-date: 2022-12-13 01:35:14
+date: 2022-12-16 20:11:02
 image: 'https://m.media-amazon.com/images/I/31idLKYYOhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Clarks'
 buyurl: 'https://www.amazon.es/dp/B084DS74MN/?tag=tolees-21'
 descuento: '29.87'
-average: '66.8115789473684'
+average: '66.9755'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

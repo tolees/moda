@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Capucha fija
-- Diseñado para aguantar bajas temperaturas
-- Cordón ajustable
 - Apertura central en cremallera
+- Cordón ajustable
 - Tipo de tejido: sarga
 - Bolsillos tipo canguro
+- Diseñado para aguantar bajas temperaturas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Con capucha
-- Logotipo de la marca en la zona central delantera
-- Bolsillo
 - Tipo canguro
+- Logotipo de la marca en la zona central delantera
 - Media cremallera
+- Bolsillo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
