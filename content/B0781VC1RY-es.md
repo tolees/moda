@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Detalles distintivos de la marca
-- Pantalones deportivos
 - Ofrece comodidad y libertad de movimiento
 - Material de calidad
+- Detalles distintivos de la marca
+- Pantalones deportivos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Hebilla metálica
 - Efecto pasamanería
+- Hebilla metálica
 - Detalle imitación piel
 
 [🛒 Visítala!!!]({{< param buyurl >}})
