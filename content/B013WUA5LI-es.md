@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Talla/Tamaño: 14 años (Tamaño del fabricante: 14)
 - Resistente y con diseño funcional
+- Talla/Tamaño: 14 años (Tamaño del fabricante: 14)
 - Camiseta térmica de algodón para niños
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

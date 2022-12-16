@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material: 100% poliéster
 - 2 bolsillos bajos
 - Lana polar symmetry 170g/m²
-- 1 lado cepillado, 1 lado anti-pelusa
 - Tobias ii chaleco con cremallera y 2 bolsillos
+- 1 lado cepillado, 1 lado anti-pelusa
+- Material: 100% poliéster
 
 [🛒 Visítala!!!]({{< param buyurl >}})

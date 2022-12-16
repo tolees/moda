@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazon Essentials Chaqueta Plumífero Resistente al Agua  Ligera y Plegable Hombre  Rojo Ladrillo  S'
-date: 2022-12-15 11:01:03
+date: 2022-12-16 11:13:35
 image: 'https://m.media-amazon.com/images/I/41YqGmBlUPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
