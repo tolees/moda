@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geographical Norway - PARKA DE MUJER BELLACIAO ROSA CLARO M'
-date: 2022-12-07 09:48:25
+date: 2022-12-16 19:39:38
 image: 'https://m.media-amazon.com/images/I/41LhlQTSL9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Apertura central en cremallera
-- Tipo de tejido: sarga
 - Capucha fija
 - Diseñado para aguantar bajas temperaturas
-- Bolsillos tipo canguro
 - Cordón ajustable
+- Apertura central en cremallera
+- Tipo de tejido: sarga
+- Bolsillos tipo canguro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
