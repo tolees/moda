@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Realizada en poliéster, para una mayor resistencia
-- Esta camiseta destaca por un tacto muy suave, por su secado rápido y sin arrugas
 - El tejido Interlock es muy elástico, dirigido a ropa deportiva
+- Realizada en poliéster, para una mayor resistencia
 - Camiseta de manga corta indicada para deportistas que buscan la máxima comodidad y transpirabilidad
+- Esta camiseta destaca por un tacto muy suave, por su secado rápido y sin arrugas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
