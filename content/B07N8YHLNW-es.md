@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NIKE FCB Y Nk BRT Stad JSY SS Hm Camiseta  Unisex niños  Deep Royal Blue/Varsity Maize  XL'
-date: 2022-12-16 16:00:35
+date: 2022-12-18 10:03:23
 image: 'https://m.media-amazon.com/images/I/41PBQRRNSvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07N8YHLNW-es NIKE FCB Y Nk BRT Stad JSY SS Hm Camiseta Unisex niños...'
 sku: 'B07N8YHLNW-es'
 tags: [ 'Camisetas de equipación de fútbol para niño','Moda','Ropa de fútbol','Ropa específica deportiva','Ropa para niño de fútbol','camiseta','nike','🇪🇸', ]
-actualPrice: 23.52 EUR
+actualPrice: 23.28 EUR
 currency: EUR
-price: 23.52
+price: 23.28
 comparePrice: 68.3 EUR
 prodname: 'NIKE FCB Y Nk BRT Stad JSY SS Hm Camiseta  Unisex niños  Deep Royal Blue/Varsity Maize  XL'
 country: 'es'
 flag: '🇪🇸'
 brand: 'NIKE'
 buyurl: 'https://www.amazon.es/dp/B07N8YHLNW/?tag=tolees-21'
-descuento: '65.56'
-average: '30.4833333333333'
+descuento: '65.92'
+average: '29.9292307692307'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fcb Y Nk Brt Stad Jsy Ss Hm (Aj5801-457)
 - Ropa deportiva Nike
 - Camiseta Fútbol Unisex Infantil
+- Fcb Y Nk Brt Stad Jsy Ss Hm (Aj5801-457)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
