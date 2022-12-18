@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JACK & JONES Liam Original Am 014 Vaqueros Skinny  Azul  Blue Denim   33W / 30L para Hombre'
-date: 2022-12-17 02:21:26
+date: 2022-12-18 02:34:49
 image: 'https://m.media-amazon.com/images/I/41VMVtd9-mL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B01FF8FZTC/?tag=tolees-21'
 descuento: '37.23'
-average: '33.0092857142857'
+average: '32.9006666666667'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
