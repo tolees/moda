@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Material exterior: Cuero
 - Anchura del zapato: Estándar
 - Cierre: sin cordones
-- Material exterior: Cuero
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
