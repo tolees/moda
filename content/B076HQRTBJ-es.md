@@ -29,7 +29,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Fútbol Perfil: hombre unisex, material:, color: negro/blanco
-- Pantalón adidas pantalón core18 tr pnt negro/blanco
 - Core18 tr pnt negro s
+- Pantalón adidas pantalón core18 tr pnt negro/blanco
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

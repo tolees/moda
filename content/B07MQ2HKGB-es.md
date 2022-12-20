@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material interior: textil
 - Suela: textil
 - Material exterior: piel
+- Material interior: textil
 
 [🛒 Visítala!!!]({{< param buyurl >}})

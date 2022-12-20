@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Suela: cuero y goma
-- Material interior: piel
 - Material exterior: piel
+- Material interior: piel
+- Suela: cuero y goma
 - Cierre: cordones rápidos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
