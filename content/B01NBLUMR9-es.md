@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Lacoste NF2037PO  Bolso Bandolera para Mujer  Blanco  Talla única'
-date: 2022-12-15 19:59:05
+date: 2022-12-20 16:47:34
 image: 'https://m.media-amazon.com/images/I/21DErUzBg-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B01NBLUMR9-es Lacoste NF2037PO Bolso Bandolera para Mujer Blanco Talla...'
 sku: 'B01NBLUMR9-es'
-tags: [ 'Bolsos para mujer','Moda','Moda Mujer','Shoppers y bolsos de hombro para mujer','bolso','lacoste','🇪🇸', ]
+tags: [ 'Bolsos para mujer','Bolsos totes para mujer','Moda','Moda Mujer','bolso','lacoste','🇪🇸', ]
 actualPrice: 71.13 EUR
 currency: EUR
 price: 71.13
@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cocodrilo bordado
 - Un bolsillo interior de red con cremallera
+- Cocodrilo bordado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
