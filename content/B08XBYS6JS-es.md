@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Only Mujer Onlava Faux Leather Biker Otw Noos Chaqueta  Coconut Toasted  38'
-date: 2022-12-19 09:31:55
+date: 2022-12-20 18:24:13
 image: 'https://m.media-amazon.com/images/I/41tpzfCkGxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Only'
 buyurl: 'https://www.amazon.es/dp/B08XBYS6JS/?tag=tolees-21'
 descuento: '50.01'
-average: '30.2'
+average: '28.8975'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Chaqueta
 - Cuello
-- Con cremallera
 - Chaqueta de piel sintética
+- Chaqueta
+- Con cremallera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
