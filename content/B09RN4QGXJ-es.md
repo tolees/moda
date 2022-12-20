@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sudadera ligera de cuello redondo siguiendo nuestra colección de estilo sostenible para hombre y mujer: Organics. Confeccionada en algodón y materiales orgánicos que aportan comodidad y suavidad al tacto.
-- Con acabados acanalados en cuello, puños y cintura. Sutil impresión frontal a la altura del pecho inspirada en el espíritu Polo Club. Regular fit.
-- Lavar a máquina en frío, No usar lejía, Plancha media, sin vapor, Limpiar en seco, No secar en secadora, Lavar y planchar la prenda del revés, Lavar con colores separados.
 - Regular fit.
+- Sudadera ligera de cuello redondo siguiendo nuestra colección de estilo sostenible para hombre y mujer: Organics. Confeccionada en algodón y materiales orgánicos que aportan comodidad y suavidad al tacto.
+- Lavar a máquina en frío, No usar lejía, Plancha media, sin vapor, Limpiar en seco, No secar en secadora, Lavar y planchar la prenda del revés, Lavar con colores separados.
+- Con acabados acanalados en cuello, puños y cintura. Sutil impresión frontal a la altura del pecho inspirada en el espíritu Polo Club. Regular fit.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

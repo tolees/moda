@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Chaleco ultraligero acolchado de cuello elevado resistente al agua. Cierre de cremallera con tirador personalizado Polo Club. Dos bolsillos laterales con cierre de cremallera. Bolsillo interior con cremallera.
 - Lavar y planchar del revés, Lavar con colores similares, Lavar con lavadora a 30º máximo, No utilizar lejía, No utilizar secadora, Planchar a media temperatura, Admite la limpieza en seco.
 - Presenta dos tensores en el interior de la cintura para mayor ajuste de la prenda. Detalle en pecho de parche translucido con letras al tono del tejido. Relleno de efecto pluma sintético 100% reciclado (Fellex).
-- Chaleco ultraligero acolchado de cuello elevado resistente al agua. Cierre de cremallera con tirador personalizado Polo Club. Dos bolsillos laterales con cierre de cremallera. Bolsillo interior con cremallera.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

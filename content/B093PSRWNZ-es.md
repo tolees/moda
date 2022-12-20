@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Perfecta para todo tipo de looks
 - Custom fit: consigue un efecto visual que enfatiza los hombros con respecto a la cintura, dando un aspecto más corpulento.
 - Confeccionado con un tejido 100% algodón de gran calidad.
-- Perfecta para todo tipo de looks
 - Camiseta de manga corta realizada en algodón con terminación acanalada en cuello y estampado gráfico en la parte delantera de la prenda. Una prenda adaptable a cualquier combinación informal.
 - Polo Club os trae su nueva colección de camisetas para hombre bajo su propio sello de calidad y originalidad.
 

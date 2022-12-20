@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Chaqueta ultraligera acolchada con capucha resistente al agua. Cierre de cremallera con tirador personalizado Polo Club. Dos bolsillos laterales con cierre de cremallera. Bolsillo interior con cremallera.
 - Lavar y planchar del revés, Lavar con colores similares, Lavar con lavadora a 30º máximo, No utilizar lejía, No utilizar secadora, Planchar a media temperatura, Admite la limpieza en seco.
+- Chaqueta ultraligera acolchada con capucha resistente al agua. Cierre de cremallera con tirador personalizado Polo Club. Dos bolsillos laterales con cierre de cremallera. Bolsillo interior con cremallera.
 - Presenta dos tensores en el interior de la cintura para mayor ajuste de la prenda. Detalle en la manga de parche translucido Polo Club. Relleno de efecto pluma sintético 100% reciclado (Fellex).
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cordón de ajuste de bloques de color con extremos individuales transparentes
-- Cremallera unidireccional en la parte delantera en el medio
-- Banda para el cuello individual
 - Ojal individual
+- Banda para el cuello individual
 - Capucha forrada
+- Cremallera unidireccional en la parte delantera en el medio
+- Cordón de ajuste de bloques de color con extremos individuales transparentes
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
