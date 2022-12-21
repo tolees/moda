@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Collar de Acero Lane Heart de Fossil para Mujer con cierre de langosta'
-date: 2022-12-19 18:02:21
+date: 2022-12-21 15:48:30
 image: 'https://m.media-amazon.com/images/I/21JV-cKW4PL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Fossil'
 buyurl: 'https://www.amazon.es/dp/B07N2WHCVT/?tag=tolees-21'
 descuento: '38.49'
-average: '21.57'
+average: '22.175'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Medidas: 40,6 cm + 5,1 cm
 - Color: tono oro rosa
 - Este collar de cadena ovalada de 40,6 cm + 5,1 cm de acero en tono oro rosa cuenta con un colgante en forma de corazón, cristal claro y un cierre de mosquetón
-- Medidas: 40,6 cm + 5,1 cm
 - Material: acero inoxidable
 
 [🛒 Visítala!!!]({{< param buyurl >}})
