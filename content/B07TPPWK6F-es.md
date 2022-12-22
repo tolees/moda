@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Barstow Western Standard  Camisa Hombre  Negro  Marble Black Denim Rinse 0002   Large'
-date: 2022-12-11 17:19:04
+date: 2022-12-22 17:34:25
 image: 'https://m.media-amazon.com/images/I/31uBmmfqW+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07TPPWK6F/?tag=tolees-21'
 descuento: '58.03'
-average: '40.328'
+average: '38.4'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,7 +29,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Dos bolsillos con botón en el pecho
-- Camisa denim clásica de manga larga Western Shirt
 - Modelo casual
+- Camisa denim clásica de manga larga Western Shirt
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
