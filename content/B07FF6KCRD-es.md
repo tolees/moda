@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers Track Scloric  Zapatos para Correr Hombre  Verde  Olive Green   44 EU'
-date: 2022-12-20 09:14:28
+date: 2022-12-22 03:23:22
 image: 'https://m.media-amazon.com/images/I/41oiJuvFA5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07FF6KCRD-es Skechers Track Scloric Zapatos para Correr Hombre Verde...'
 sku: 'B07FF6KCRD-es'
 tags: [ 'Moda','Moda Hombre','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos para hombre','skechers','zapatos','🇪🇸', ]
-actualPrice: 59.19 EUR
+actualPrice: 59.13 EUR
 currency: EUR
-price: 59.19
+price: 59.13
 comparePrice: 69.95 EUR
 prodname: 'Skechers Track Scloric  Zapatos para Correr Hombre  Verde  Olive Green   44 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Skechers'
 buyurl: 'https://www.amazon.es/dp/B07FF6KCRD/?tag=tolees-21'
-descuento: '15.38'
-average: '46.6145454545455'
+descuento: '15.47'
+average: '47.6575'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

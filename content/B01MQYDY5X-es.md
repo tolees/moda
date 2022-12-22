@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lacoste NF2037PO  Bolso Bandolera para Mujer  Azul  Penombre   Talla única'
-date: 2022-12-20 16:48:06
+date: 2022-12-22 03:13:26
 image: 'https://m.media-amazon.com/images/I/41QvzMxKpGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lacoste'
 buyurl: 'https://www.amazon.es/dp/B01MQYDY5X/?tag=tolees-21'
 descuento: '22.28'
-average: '68.2747058823529'
+average: '68.3677777777777'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Bolso tote de mujer L.12.12 Concept con cremallera pequeño
 - Marca de cocodrilo verde bordado
-- Tamaño 24 x 24,5 x 14,5 cm
 - Bolsillo interior con cremallera
 - Deslizador de cremallera de marca Lacoste
+- Tamaño 24 x 24,5 x 14,5 cm
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
