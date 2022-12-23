@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvin Klein Jeans - Calvin Klein Unlined Bralette Average Sujetador  Black  M para Mujer'
-date: 2022-12-22 13:49:40
+date: 2022-12-23 19:51:17
 image: 'https://m.media-amazon.com/images/I/41hvdi3DbdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Calvin Klein Jeans'
 buyurl: 'https://www.amazon.es/dp/B07VSWG53M/?tag=tolees-21'
 descuento: '53.18'
-average: '18.0375'
+average: '17.23'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

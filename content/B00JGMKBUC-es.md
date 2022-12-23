@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s - LEVIS FOOTWEAR AND ACCESSORIES Vintage Two Horse Vertical  Monedero para Hombre  Negro  R Black   13x2x10 centimeters  W x H x L '
-date: 2022-12-20 16:55:57
+date: 2022-12-23 19:28:20
 image: 'https://m.media-amazon.com/images/I/41oQJYZhIIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
