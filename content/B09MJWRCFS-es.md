@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Intersuola con tecnología EVA
-- Amortiguación y rebote
 - Suela de goma con forma
+- Amortiguación y rebote
+- Intersuola con tecnología EVA
 
 [🛒 Comprar!!!]({{< param buyurl >}})
