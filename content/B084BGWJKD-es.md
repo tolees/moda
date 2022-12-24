@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Perfect Tee Camiseta Mujer See Captain Blue  Azul  L'
-date: 2022-12-16 20:41:20
+date: 2022-12-24 10:10:34
 image: 'https://m.media-amazon.com/images/I/416kW2A7iqS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B084BGWJKD/?tag=tolees-21'
 descuento: '30.00'
-average: '14.3225'
+average: '14.958'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
