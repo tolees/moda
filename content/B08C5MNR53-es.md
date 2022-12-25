@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseño híbrido
 - Primaloft silver
-- Cremalleras ykk
-- Artículos entregados: 1x helly hansen mens verglas hooded down hybrid ins - down jacket black xl
+- Diseño híbrido
 - Tratamiento dwr c6
+- Artículos entregados: 1x helly hansen mens verglas hooded down hybrid ins - down jacket black xl
+- Cremalleras ykk
 
 [🛒 Aquí!!!]({{< param buyurl >}})

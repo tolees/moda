@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clarks Vargo Vibe  Derbys Hombre  Braun Dark Tan Lea Dark Tan Lea  43 EU'
-date: 2022-12-20 02:51:20
+date: 2022-12-25 19:13:20
 image: 'https://m.media-amazon.com/images/I/31-nb5daVKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07MQ2HKGB-es Clarks Vargo Vibe Derbys Hombre Braun Dark Tan Lea Dark...'
 sku: 'B07MQ2HKGB-es'
 tags: [ 'Moda','Moda Hombre','Zapatos de cordones para hombre','Zapatos para hombre','clarks','🇪🇸', ]
-actualPrice: 67.55 EUR
+actualPrice: 65.23 EUR
 currency: EUR
-price: 67.55
+price: 65.23
 comparePrice: 89.95 EUR
 prodname: 'Clarks Vargo Vibe  Derbys Hombre  Braun Dark Tan Lea Dark Tan Lea  43 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Clarks'
 buyurl: 'https://www.amazon.es/dp/B07MQ2HKGB/?tag=tolees-21'
-descuento: '24.90'
-average: '63.3796296296296'
+descuento: '27.48'
+average: '63.4132727272727'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Suela: textil
 - Material exterior: piel
+- Suela: textil
 - Material interior: textil
 
 [🛒 Visítala!!!]({{< param buyurl >}})

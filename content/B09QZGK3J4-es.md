@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Ya sea para el deporte o como parte del atuendo de calle, la camiseta siempre hace una buena figura
 - Camiseta básica de manga corta simple para mujer con mangas raglán de color
 - Disponible en cuatro colores en las tallas XS a 5XL
-- Ya sea para el deporte o como parte del atuendo de calle, la camiseta siempre hace una buena figura
 
 [🛒 Comprar!!!]({{< param buyurl >}})
