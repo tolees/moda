@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Plantilla extraible
 - Botín de piel con tacón
 - Interior libre de cromo
+- Plantilla extraible
 
 [🛒 Comprar!!!]({{< param buyurl >}})

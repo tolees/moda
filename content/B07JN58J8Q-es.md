@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ropa deportiva Adidas
-- Camisetas Fútbol Hombre
-- Entrada 18 Jsy (Cf1038)
 - Fácil de usar
+- Ropa deportiva Adidas
+- Entrada 18 Jsy (Cf1038)
+- Camisetas Fútbol Hombre
 
 [🛒 Aquí!!!]({{< param buyurl >}})
