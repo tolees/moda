@@ -29,7 +29,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Manga corta
-- Estampado Ikkat
 - Camisa
+- Estampado Ikkat
 
 [🛒 Visítala!!!]({{< param buyurl >}})

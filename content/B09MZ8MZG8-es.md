@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Manga corta
 - Estampado Ikkat
 - Camisa
-- Manga corta
 
 [🛒 Aquí!!!]({{< param buyurl >}})
