@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Only Mujer Onlbrilliant 3/4 Dress Jrs Noos vestido Negro M'
-date: 2022-12-24 17:23:58
+date: 2022-12-26 07:47:52
 image: 'https://m.media-amazon.com/images/I/3158DG7ZWgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Only'
 buyurl: 'https://www.amazon.es/dp/B07CJLMNGY/?tag=tolees-21'
 descuento: '19.55'
-average: '15.74'
+average: '16.13'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
