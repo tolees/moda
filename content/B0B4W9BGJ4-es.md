@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corte: ajuste cómodo, corte generoso en los hombros y el pecho
-- Longitud de la manga: manga larga
 - Jersey de punto suave con mangas fijas.
-- Colección: Casual
-- Lavar en el ciclo especial a 30 ° y con detergente suave, no usar lejía, no secar en secadora, planchar a máx. 110° (nivel 1), limpieza en seco con percloroetileno
 - Forma del cuello: cuello embudo
+- Lavar en el ciclo especial a 30 ° y con detergente suave, no usar lejía, no secar en secadora, planchar a máx. 110° (nivel 1), limpieza en seco con percloroetileno
+- Colección: Casual
+- Longitud de la manga: manga larga
+- Corte: ajuste cómodo, corte generoso en los hombros y el pecho
 
 [🛒 Comprar!!!]({{< param buyurl >}})

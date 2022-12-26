@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiene el logotipo estampado en el pecho
 - Con un diseño de rayas
+- Tiene el logotipo estampado en el pecho
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

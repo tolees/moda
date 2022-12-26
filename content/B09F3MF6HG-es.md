@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pantalón jegging tejano niña, 79054 PACOSIK
-- Tejido: Tejano
-- Composición: 98% Algodón 2% Elastano
-- Colección CHARANGA Bassik Denim
 - Tabla de tallas: 2-3: altura 98cm / 3-4: 104 cm / 4-5: 110 cm / 5-6: 116 cm / 6-7: 122 cm / 7-8: 128 cm / 9-10: 140 cm / 11-12: 152 cm
+- Pantalón jegging tejano niña, 79054 PACOSIK
+- Colección CHARANGA Bassik Denim
+- Composición: 98% Algodón 2% Elastano
+- Tejido: Tejano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
