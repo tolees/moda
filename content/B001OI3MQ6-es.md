@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Havaianas Brasil Logo  Chanclas Unisex Adulto  Azul  Navy Blue 01   41/42 EU'
-date: 2022-12-26 19:30:14
+date: 2022-12-27 19:48:04
 image: 'https://m.media-amazon.com/images/I/31PihBdHBGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material exterior: Caucho
-- Tipo de tacón: Plano
-- Composición: Goma
-- Material de la suela: Goma
-- Cierre: Sin cordones
-- Revestimiento: Caucho
+- Havaianas
+- Fits true
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
