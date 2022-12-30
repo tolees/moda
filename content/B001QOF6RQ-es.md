@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s 501 Original Vaqueros  Azul  Onewash   W31/ L30 para hombre'
-date: 2022-12-29 20:54:28
+date: 2022-12-30 20:59:11
 image: 'https://m.media-amazon.com/images/I/314v0KKn6-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B001QOF6RQ-es Levi s 501 Original Vaqueros Azul Onewash W31/ L30 para...'
 sku: 'B001QOF6RQ-es'
 tags: [ 'Moda','Moda Hombre','Ropa de hombre','Vaqueros para hombre','levis','vaqueros','🇪🇸', ]
-actualPrice: 61.98 EUR
+actualPrice: 60.48 EUR
 currency: EUR
-price: 61.98
+price: 60.48
 comparePrice: 90.0 EUR
 prodname: 'Levi s 501 Original Vaqueros  Azul  Onewash   W31/ L30 para hombre'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B001QOF6RQ/?tag=tolees-21'
-descuento: '31.13'
-average: '61.7537804878049'
+descuento: '32.80'
+average: '61.7384337349398'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Jeans azules originales desde 1873
 - Modelo fabricado con tecnología Water&ItLess, que utiliza un 96 % menos de agua que las técnicas habituales de acabado
 - Corte recto original
-- Jeans azules originales desde 1873
 - Auténtico estilo americano
 - Un lienzo en blanco para la expresión propia
 

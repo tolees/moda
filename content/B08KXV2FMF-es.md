@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Chaqueta infantil
 - Chaqueta bomber
+- Chaqueta infantil
+- Chaqueta lisa
 - Chaqueta con cuello
 - Chaqueta con cremallera
-- Chaqueta lisa
 
 [🛒 Visítala!!!]({{< param buyurl >}})
