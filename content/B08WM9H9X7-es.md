@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- En Goodthreads, estamos en una misión de crear ropa increíble hecha con cuidado
 - Este vestido versátil y favorecedor de la figura se transforma fácilmente de día a noche
+- En Goodthreads, estamos en una misión de crear ropa increíble hecha con cuidado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
