@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Climalite anti-humidity fabric
 - Cierre de cremallera.
+- Bolsillos frontales con cremallera.
+- Tejido transpirable Climalite.
 - Dobladillo con cordón ajustable.
 - Cuello alzado.
-- Bolsillos frontales con cremallera.
-- Climalite anti-humidity fabric
-- Tejido transpirable Climalite.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

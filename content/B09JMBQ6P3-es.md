@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ajuste óptimo y gran comodidad
 - Chaqueta para hombre Tom Tailor
+- Ajuste óptimo y gran comodidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
