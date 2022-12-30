@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ropa deportiva fabricada con materiales de primera calidad que se adaptan a cualquier actividad deportiva
 - Los productos deportivos de la marca Reebok están diseñados para que disfrutes de tu deporte favorito sin preocuparte de nada más que rendir al máximo
-- Sudadera RI Tape Crew BRGRIN
 - Sudadera para practicar Tiempo libre y sportwear de Hombre
 - Ropa deportiva Gris de la marca Reebok
+- Ropa deportiva fabricada con materiales de primera calidad que se adaptan a cualquier actividad deportiva
+- Sudadera RI Tape Crew BRGRIN
 
 [🛒 Comprar!!!]({{< param buyurl >}})

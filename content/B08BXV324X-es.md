@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Apliques personalizados en tono dorado
-- Asas de mano y asa de bandolera ajustable y extraíble
 - Color: beige/multi
-- La parte del medio tiene cierre con cremallera
 - Medidas: 41 x 29 x 14 cm
+- Asas de mano y asa de bandolera ajustable y extraíble
+- La parte del medio tiene cierre con cremallera
+- Apliques personalizados en tono dorado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
