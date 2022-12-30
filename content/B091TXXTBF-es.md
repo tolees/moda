@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones JJELOGO Blocking tee SS Noos Camiseta  Blanco. Ajuste: Slim Fit  S para Hombre'
-date: 2022-12-29 13:29:58
+date: 2022-12-30 13:50:52
 image: 'https://m.media-amazon.com/images/I/3187HYJlE0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B091TXXTBF/?tag=tolees-21'
 descuento: '33.35'
-average: '12.39'
+average: '12.2566666666667'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

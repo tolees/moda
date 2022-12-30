@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sebago Classic Dan  Zapatos Hombre  Brown Brown Oiled Waxy Lea  44 EU'
-date: 2022-12-29 13:34:21
+date: 2022-12-30 13:54:14
 image: 'https://m.media-amazon.com/images/I/41+3bd3v5OL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sebago'
 buyurl: 'https://www.amazon.es/dp/B07P8N76SZ/?tag=tolees-21'
 descuento: '22.91'
-average: '167.190454545455'
+average: '167.243777777778'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
