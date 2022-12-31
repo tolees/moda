@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s 2-Pack Crewneck Graphic Tee Camiseta Hombre Sportswear White/ Mineral Black  Multicolor  M'
-date: 2022-12-26 08:45:28
+date: 2022-12-31 10:30:50
 image: 'https://m.media-amazon.com/images/I/41A9E14P4tL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07LFDH7J6/?tag=tolees-21'
 descuento: '43.75'
-average: '24.8753271028037'
+average: '24.831743119266'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Elaboradas en punto suave
 - Modelos casual
 - Con un logo Levis en el bajo
-- Elaboradas en punto suave
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
