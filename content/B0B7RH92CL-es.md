@@ -29,7 +29,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Jersey básico cuello pico en 100% Algodón
-- Con cuello perkins
 - Proyecto RECONSIDER
+- Con cuello perkins
 
 [🛒 Visítala!!!]({{< param buyurl >}})
