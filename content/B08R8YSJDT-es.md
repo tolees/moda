@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New Balance Classic Camiseta Flying NB Graphic  Mujer'
-date: 2022-12-27 12:51:13
+date: 2022-12-31 17:02:08
 image: 'https://m.media-amazon.com/images/I/41cqLZJP1DS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'New Balance'
 buyurl: 'https://www.amazon.es/dp/B08R8YSJDT/?tag=tolees-21'
 descuento: '25.05'
-average: '13.925'
+average: '14.28'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
