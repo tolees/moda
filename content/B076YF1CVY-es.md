@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Longsleeve Standard Graphic Tee Camiseta Hombre Stonewashed Black  Negro  L'
-date: 2022-12-27 08:05:19
+date: 2022-12-31 19:00:11
 image: 'https://m.media-amazon.com/images/I/31FDEAJ80kS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B076YF1CVY/?tag=tolees-21'
 descuento: '43.75'
-average: '23.86'
+average: '23.588'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
