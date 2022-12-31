@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hackett London Hackett LDN Crew Sudadera  913LIGHT Grey Marl  M para Hombre'
-date: 2022-12-29 20:55:52
+date: 2022-12-31 14:03:08
 image: 'https://m.media-amazon.com/images/I/41mFd847LaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Hackett London'
 buyurl: 'https://www.amazon.es/dp/B08F7TM9H5/?tag=tolees-21'
 descuento: '29.66'
-average: '66.405'
+average: '66.5433333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

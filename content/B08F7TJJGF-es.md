@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hackett London Hackett LDN Crew Sudadera  5EZDK Navy  M para Hombre'
-date: 2022-12-29 20:53:31
+date: 2022-12-31 14:01:43
 image: 'https://m.media-amazon.com/images/I/31HCbrMZX2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Hackett London'
 buyurl: 'https://www.amazon.es/dp/B08F7TJJGF/?tag=tolees-21'
 descuento: '29.40'
-average: '64.1'
+average: '65.09'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

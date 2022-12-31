@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clarks Becken Lace  Zapatos de Cordones Brogue Hombre  Brown  42 EU'
-date: 2022-12-27 19:48:46
+date: 2022-12-31 14:00:19
 image: 'https://m.media-amazon.com/images/I/31q9g-tbG0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -30,7 +30,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Forro: textil
 - Suela: EVA
-- Ajuste: (H) ancho
 - Parte superior: piel
+- Ajuste: (H) ancho
 
 [🛒 Aquí!!!]({{< param buyurl >}})
