@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pepe Jeans Flag Logo Jr S/S N Camiseta  Blanco  White   8 Años para Niños'
-date: 2022-12-31 12:00:55
+date: 2023-01-01 17:53:28
 image: 'https://m.media-amazon.com/images/I/31rhts7daiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
