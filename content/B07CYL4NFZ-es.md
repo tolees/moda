@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PetKing Premium Collar Antiladridos para Perros Pequeños y Grandes Collar Adiestramento Perros Collares Anti Ladridos Dispositivo Antiladrido Collare Entrenamiento Vibración'
-date: 2022-12-26 17:00:29
+date: 2023-01-01 15:02:39
 image: 'https://m.media-amazon.com/images/I/51rYPZcaMkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'PetKing Premium'
 buyurl: 'https://www.amazon.es/dp/B07CYL4NFZ/?tag=tolees-21'
 descuento: '18.19'
-average: '18.6633333333333'
+average: '18.596'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

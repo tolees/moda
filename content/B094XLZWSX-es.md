@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sebago Classic Dan  Zapatos Hombre  Burgundy  44 EU'
-date: 2022-12-31 14:09:07
+date: 2023-01-01 14:20:53
 image: 'https://m.media-amazon.com/images/I/31bUjibAIrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B094XLZWSX-es Sebago Classic Dan Zapatos Hombre Burgundy 44 EU'
 sku: 'B094XLZWSX-es'
 tags: [ 'Mocasines para hombre','Moda','Moda Hombre','Zapatos para hombre','sebago','zapatos','🇪🇸', ]
-actualPrice: 169.99 EUR
+actualPrice: 160.99 EUR
 currency: EUR
-price: 169.99
+price: 160.99
 comparePrice: 220.0 EUR
 prodname: 'Sebago Classic Dan  Zapatos Hombre  Burgundy  44 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Sebago'
 buyurl: 'https://www.amazon.es/dp/B094XLZWSX/?tag=tolees-21'
-descuento: '22.73'
-average: '168.181489361702'
+descuento: '26.82'
+average: '168.031666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
