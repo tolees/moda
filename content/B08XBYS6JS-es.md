@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Only Mujer Onlava Faux Leather Biker Otw Noos Chaqueta  Coconut Toasted  38'
-date: 2022-12-20 18:24:13
+date: 2023-01-02 12:21:12
 image: 'https://m.media-amazon.com/images/I/41tpzfCkGxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Only'
 buyurl: 'https://www.amazon.es/dp/B08XBYS6JS/?tag=tolees-21'
 descuento: '50.01'
-average: '28.8975'
+average: '28.116'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- - Tipo de detalle: chaqueta de motorista con aspecto de piel - Tejido: piel sintética - Closing/Fly: cremallera asimétrica en la parte delantera - Detalles adicionales: detalles acolchados en el hombro - Mano de bolsillo: bolsillos laterales con cierre de cremallera - Bolsillo otro: bolsillo en el pecho con cremallera - detalle de la manga: puños con cremallera - Occasion/estilo: ideal para transición beta. Ween Seasons - Forro: completamente forrado con forro 100% poliéster - SLEEVE : manga larga (L/S)
+- Cremallera
 - Cuello
 - Chaqueta de piel sintética
-- Chaqueta
-- Con cremallera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
