@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Un gran bolsillo canguro
 - Puños acanalados
 - Cuello con capucha
-- Un gran bolsillo canguro
 
 [🛒 Aquí!!!]({{< param buyurl >}})
