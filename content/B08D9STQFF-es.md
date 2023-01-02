@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Modelo de mujer. Frontal 14,2 cm, Alto 4,1 cm, Patillas 14cm.
-- Lentes negras ahumadas con efecto degradado, fabricadas en TR18, con reducción de brillos y con gran equilibrio entre claridad y protección. Lente de categoría 3 con protección UV400. Resistencia muy alta.
 - Un llamativo y pulido diseño rojo estilo cat eye en acetato de celulosa de alta calidad y lentes de color negro ahumado degradado.
-- Producto original Hawkers. La caja incluye funda, caja y set de pegatinas decorativas.
+- Modelo de mujer. Frontal 14,2 cm, Alto 4,1 cm, Patillas 14cm.
 - Montura fabricada en Cellulosa Mazzucchelli que dota a las gafas de gran ligereza, flexibilidad y resistencia. Muy resistente a altas y bajas temperaturas.
+- Lentes negras ahumadas con efecto degradado, fabricadas en TR18, con reducción de brillos y con gran equilibrio entre claridad y protección. Lente de categoría 3 con protección UV400. Resistencia muy alta.
+- Producto original Hawkers. La caja incluye funda, caja y set de pegatinas decorativas.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

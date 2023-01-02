@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bowling 2 bolsillos
-- Manga corta
 - Camisa
+- Manga corta
+- Bowling 2 bolsillos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
