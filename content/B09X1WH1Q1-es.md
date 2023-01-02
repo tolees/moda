@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño exclusivo de Kappa
 - Comodidad óptima
+- Diseño exclusivo de Kappa
 - Colección FW22
 - Sudadera Kappa
 
