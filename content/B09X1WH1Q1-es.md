@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kappa Belle KORPORATE WO Sudadera  Mujer  Negro  M'
-date: 2023-01-01 18:32:39
+date: 2023-01-02 19:45:28
 image: 'https://m.media-amazon.com/images/I/41GqnzbezHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Kappa'
 buyurl: 'https://www.amazon.es/dp/B09X1WH1Q1/?tag=tolees-21'
 descuento: '60.70'
-average: '20.515'
+average: '20.2266666666667'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Comodidad óptima
 - Diseño exclusivo de Kappa
+- Comodidad óptima
 - Colección FW22
 - Sudadera Kappa
 

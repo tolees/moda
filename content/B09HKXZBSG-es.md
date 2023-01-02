@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Esta blusa es una prenda básica en el armario de cualquier mujer y puedes llevarla todo el año
 - Blusa a la moda para llevar con cualquier conjunto
 - Combina fácilmente esta blusa con cualquier pantalón para cada ocasión
+- Esta blusa es una prenda básica en el armario de cualquier mujer y puedes llevarla todo el año
 - Esta blusa hace elegante cualquier conjunto haciendo que la combinación luzca, siendo además cómoda
 
 [🛒 Comprar!!!]({{< param buyurl >}})
