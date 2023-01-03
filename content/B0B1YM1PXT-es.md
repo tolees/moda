@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASICS Patriot 13  Zapatilla Hombre  Azure/White  45 EU'
-date: 2023-01-01 14:39:20
+date: 2023-01-03 21:38:04
 image: 'https://m.media-amazon.com/images/I/510wT1aXTZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ASICS'
 buyurl: 'https://www.amazon.es/dp/B0B1YM1PXT/?tag=tolees-21'
 descuento: '43.98'
-average: '35.705'
+average: '35.94'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela de goma con forma
 - Amortiguación y rebote
 - Intersuola con tecnología EVA
+- Suela de goma con forma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

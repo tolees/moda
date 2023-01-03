@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cordón ajustable
 - Capucha fija con pelo sinténtico desmontable
 - Bolsillos tipo canguro
 - Apertura central en cremallera
 - Diseñado para aguantar bajas temperaturas
+- Cordón ajustable
 
 [🛒 Comprar!!!]({{< param buyurl >}})

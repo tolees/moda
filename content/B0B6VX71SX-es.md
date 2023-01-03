@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cremallera frontal
-- Capucha con ribete de piel sintética extraíble
 - Composición: 100% poliéster, forro: 100% poliéster, relleno 100% poliéster, pelo sintético: 100% poliéster
 - Chaqueta acolchada corta
+- Cremallera frontal
+- Capucha con ribete de piel sintética extraíble
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
