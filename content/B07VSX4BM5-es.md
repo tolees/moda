@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Corpiño de tirantes finos
 - Un diseño atemporal que brinda comodidad
 - Banda inferior elástica distintiva de Calvin Klein
-- Corpiño de tirantes finos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
