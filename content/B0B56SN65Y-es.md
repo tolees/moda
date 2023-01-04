@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Costuras reforzadas en los dedos del pie
 - Parte superior de malla
+- Costuras reforzadas en los dedos del pie
 - Amortiguación EVA
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
