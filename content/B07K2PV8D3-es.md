@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Corte regular
-- Diseño del Slip-On
 - Cinturón de EVA preformado de una pieza
+- Diseño del Slip-On
+- Corte regular
 
 [🛒 Aquí!!!]({{< param buyurl >}})

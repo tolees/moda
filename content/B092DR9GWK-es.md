@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tienen un parche con el logo en la parte trasera
 - Vaqueros con estilo de 5 bolsillos
+- Tienen un parche con el logo en la parte trasera
 
 [🛒 Comprar!!!]({{< param buyurl >}})

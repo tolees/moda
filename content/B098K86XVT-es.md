@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillos con cremallera
 - Cierre con cremallera
+- Bolsillos con cremallera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
