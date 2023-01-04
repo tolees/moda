@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Only Classic Coat Abrigo  Mocha Mousse/Melange  M para Mujer'
-date: 2022-12-30 11:14:16
+date: 2023-01-04 09:00:39
 image: 'https://m.media-amazon.com/images/I/41SP-6-NNeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Only'
 buyurl: 'https://www.amazon.es/dp/B071W2SXYM/?tag=tolees-21'
 descuento: '36.35'
-average: '28.994'
+average: '29.54'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Abrigo largo de entretiempo.
 - Abrigo de lana con capucha.
+- Abrigo largo de entretiempo.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
