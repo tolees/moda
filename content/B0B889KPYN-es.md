@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Color azul.
-- Con aros.
 - Posee aros y multiescote, por lo que podrás elegir la forma de llevarlo que más te guste. Aporta sensualidad y sofisticación a tu cajón de la ropa interior con esta pieza de encaje en color azul.
-- Multiescote.
 - Sujetador push up de encaje.
+- Con aros.
+- Color azul.
+- Multiescote.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

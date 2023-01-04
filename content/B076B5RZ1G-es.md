@@ -29,12 +29,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Altura del tacón: 2 centímetros
-- Anchura del zapato: Normal
+- Revestimiento: Sin forro
 - Material de la suela: Goma
+- Cierre: Sin cordones
 - Composición: Goma
 - Material exterior: Goma
-- Cierre: Sin cordones
+- Anchura del zapato: Normal
 - Tipo de tacón: Plano
-- Revestimiento: Sin forro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

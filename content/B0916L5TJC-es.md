@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- El lienzo en blanco perfecto para personalizarlo y expresar tu estilo
 - Nos encanta jugar con el estilo de nuestra Trucker Jacket
 - Los jeans azules originales
-- Tejido con un toque de elástico para ofrecer comodidad durante todo el día y facilidad de movimiento
-- El lienzo en blanco perfecto para personalizarlo y expresar tu estilo
 - Nuestro emblemático corte recto de estilo americano
+- Tejido con un toque de elástico para ofrecer comodidad durante todo el día y facilidad de movimiento
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
