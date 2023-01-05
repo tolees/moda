@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cinturón
 - Cuero de vaca
 - Cuero genuino
-- Cinturón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
