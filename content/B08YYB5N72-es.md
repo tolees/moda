@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Características: blusa con cuello en V, sudadera de manga larga sólida vintage, blusas con mangas de linterna de encaje
 - El material de esta sudadera es tan suave para la piel, no pegajoso, más grueso que una camiseta y no demasiado grueso. Puedes usarlo con una camiseta en invierno o en capas con un abrigo y una chaqueta.
 - Esta bonita camiseta de punto es ligera, relajada y cómoda de llevar. Intentalo.
-- Características: blusa con cuello en V, sudadera de manga larga sólida vintage, blusas con mangas de linterna de encaje
 - Blusa de mujer Camisa de manga larga Sudadera de gasa de manga larga Color sólido Blusa de encaje vintage Tops Camisa Tops sueltos Camiseta con cuello en V Túnica elegante con mangas de globo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
