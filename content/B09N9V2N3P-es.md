@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Camiseta de hombre Lacoste regular fit en tejido de punto de algodón con diseño color block
-- Cinta en el interior del cuello en los colores de Lacoste:<br/> atención al más mínimo de los detalles.
+- Cocodrilo bordado en el pecho:<br/> distintivo Lacoste.
 - Regular fit, corte recto:<br/> diseñado para el uso diario.
 - Cuello redondo:<br/> una camiseta atemporal.
-- Cocodrilo bordado en el pecho:<br/> distintivo Lacoste.
+- Cinta en el interior del cuello en los colores de Lacoste:<br/> atención al más mínimo de los detalles.
+- Camiseta de hombre Lacoste regular fit en tejido de punto de algodón con diseño color block
 
 [🛒 Aquí!!!]({{< param buyurl >}})
