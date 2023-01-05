@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Stanley STST1-80113 - Delantal Portaherramientas de doble cinturón  Múltiples bolsillos  Piel de primera calidad  Refuerzo de remaches  Doble costura  Color Marrón  Dimensiones: 145 x 9 x 26 cm'
-date: 2023-01-03 18:02:13
+date: 2023-01-05 12:02:14
 image: 'https://m.media-amazon.com/images/I/41C3zAx9WzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Stanley'
 buyurl: 'https://www.amazon.es/dp/B06XCL45K8/?tag=tolees-21'
 descuento: '21.88'
-average: '31.1078571428571'
+average: '31.1666666666666'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Dimensiones: 145 x 9 x 26 cm
 - Fabricado con piel de búfalo que lo flexible y duradero.
-- Hebilla metálica para mayor durabilidad.
+- Dimensiones: 145 x 9 x 26 cm
 - Gancho para martillo integrado, cómodo acceso al martillo y herramientas.
+- Hebilla metálica para mayor durabilidad.
 - Cinturón porta herramientas con múltiples bolsillos y soportes para un acceso rápido.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
