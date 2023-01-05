@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Multiescote
-- Cuerpo balconette
-- Tirantes ajustables y finos en la talla 9C Tirantes anchos con espalda anatómica desde la talla 95C/9D
-- Con aro y con relleno
 - De encaje y tul
+- Cuerpo balconette
+- Con aro y con relleno
+- Tirantes ajustables y finos en la talla 9C Tirantes anchos con espalda anatómica desde la talla 95C/9D
+- Multiescote
 
 [🛒 Aquí!!!]({{< param buyurl >}})
