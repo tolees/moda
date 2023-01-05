@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 100 % algodón, para dormir orgánica
 - Material proveniente de la agricultura biológica
 - Diseño danés
-- 100 % algodón, para dormir orgánica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
