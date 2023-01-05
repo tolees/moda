@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuentan con un estilo deportivo
 - Ofrecen una transpirabilidad óptima
+- Cuentan con un estilo deportivo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
