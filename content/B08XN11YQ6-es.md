@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajuste regular: acompaña el movimiento, ni muy suelto ni muy ajustado
-- Esenciales by The Drop
 - Las modelos miden 178 cm y llevan una talla S y XXL
 - Esta chaqueta mide 53 cm de largo
+- Cuero sintético
+- Esenciales by The Drop
+- Ajuste regular: acompaña el movimiento, ni muy suelto ni muy ajustado
 - Completamente forrado
 - Bolsillos con cremallera
-- Cuero sintético
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
