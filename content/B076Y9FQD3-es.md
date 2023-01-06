@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con un logo Levis en horizontal en el pecho
 - Elaborada en punto suave
+- Con un logo Levis en horizontal en el pecho
 - Modelo casual
 
 [🛒 Aquí!!!]({{< param buyurl >}})

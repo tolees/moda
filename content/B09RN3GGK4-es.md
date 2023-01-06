@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pepe Jeans Original Basic 2 Long N Camiseta Hombre  Negro  Black   M'
-date: 2023-01-05 08:55:02
+date: 2023-01-06 09:33:21
 image: 'https://m.media-amazon.com/images/I/41BjXsPcclL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corte Slim
 - Cuello redondo
 - Camiseta algodón manga larga
+- Corte Slim
 
 [🛒 Comprar!!!]({{< param buyurl >}})

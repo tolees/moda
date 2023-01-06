@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'ART ALFAMA  Botas de Moda Mujer  Sesame-Candy  37 EU'
-date: 2023-01-06 09:19:44
-image: 'https://m.media-amazon.com/images/I/319J7WORtzL._SL500_._SL400_.jpg'
+title: 'Art ALFAMA  Botas de Moda Mujer  Caldera  37 EU'
+date: 2023-01-06 09:20:20
+image: 'https://m.media-amazon.com/images/I/41jEd0cutbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B09RPFY99H-es ART ALFAMA Botas de Moda Mujer Sesame-Candy 37 EU'
-sku: 'B09RPFY99H-es'
+slug: 'B09RPSDTHN-es Art ALFAMA Botas de Moda Mujer Caldera 37 EU'
+sku: 'B09RPSDTHN-es'
 tags: [ 'Botas para mujer','Moda','Moda Mujer','Zapatos para mujer','art','moda','🇪🇸', ]
-actualPrice: 80.96 EUR
+actualPrice: 76.97 EUR
 currency: EUR
-price: 80.96
+price: 76.97
 comparePrice: 119.95 EUR
-prodname: 'ART ALFAMA  Botas de Moda Mujer  Sesame-Candy  37 EU'
+prodname: 'Art ALFAMA  Botas de Moda Mujer  Caldera  37 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'ART'
-buyurl: 'https://www.amazon.es/dp/B09RPFY99H/?tag=tolees-21'
-descuento: '32.51'
-average: '74.515'
+buyurl: 'https://www.amazon.es/dp/B09RPSDTHN/?tag=tolees-21'
+descuento: '35.83'
+average: '76.97'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
