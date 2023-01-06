@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pantalón clásico de ajuste estrecho para uso diario
-- Prenda confeccionada con nuestras técnicas sostenibles Water
 - Espacio en el trasero y en el muslo para mayor comodidad y movilidad, con una pernera que se estrecha en el tobillo
-- Cuidadosamente confeccionados con Levis Eco Ease (¿La parte ecológica? Contienen algodón de cultivo orgánico. ¿La parte cómoda? Son confortables y elásticos.)
+- Pantalón clásico de ajuste estrecho para uso diario
 - Dobla el bajo para lucir tus zapatos
+- Prenda confeccionada con nuestras técnicas sostenibles Water
+- Cuidadosamente confeccionados con Levis Eco Ease (¿La parte ecológica? Contienen algodón de cultivo orgánico. ¿La parte cómoda? Son confortables y elásticos.)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
