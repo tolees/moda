@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lacoste Sport TH0123 Camiseta  Foudre Chine  M para Hombre'
-date: 2022-12-27 12:50:26
+date: 2023-01-07 19:01:59
 image: 'https://m.media-amazon.com/images/I/412hXvDRleL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Lacoste'
 buyurl: 'https://www.amazon.es/dp/B08PZFFP85/?tag=tolees-21'
 descuento: '30.91'
-average: '35.225'
+average: '36.15'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Regular fit
+- Acabados acanalados
 - Camiseta de hombre Lacoste SPORT en algodón con cuello redondo
+- Regular fit
 - Cuello redondo
 - Tejido de punto de mezcla de algodón técnico
-- Acabados acanalados
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
