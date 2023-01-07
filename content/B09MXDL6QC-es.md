@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Original Housemark V-Neck Camiseta Hombre Martini Olive  Verde  XS -'
-date: 2022-12-26 19:46:33
+date: 2023-01-07 14:27:03
 image: 'https://m.media-amazon.com/images/I/41mlHfqTF1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B09MXDL6QC/?tag=tolees-21'
 descuento: '60.00'
-average: '9.245'
+average: '9.49666666666667'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
