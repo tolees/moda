@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Eastpak The One Bolso Bandolera  21 cm  2.5 L  Rojo  Crafty Wine '
-date: 2022-12-31 11:30:37
+date: 2023-01-07 12:00:31
 image: 'https://m.media-amazon.com/images/I/41hp8di0-2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
