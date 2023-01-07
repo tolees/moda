@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- London SINGLE JERSEY
 - Camiseta de Londres con diseño de JERSEY con logotipo de Londres en la parte superior. SLEEVE SHORT
+- London SINGLE JERSEY
 
 [🛒 Comprar!!!]({{< param buyurl >}})

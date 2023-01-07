@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Acabados acanalados
-- Camiseta de hombre Lacoste SPORT en algodón con cuello redondo
-- Regular fit
 - Cuello redondo
+- Camiseta de hombre Lacoste SPORT en algodón con cuello redondo
 - Tejido de punto de mezcla de algodón técnico
+- Regular fit
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
