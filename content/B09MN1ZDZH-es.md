@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Características: top de gasa casual; medias mangas fruncidas; Cuello en V Manga larga 3/4 y estilo estampado retro. Cómoda tela de gasa y mangas con volantes.
+- Combínalo con jeans, leggings o tacones altos para el trabajo, las vacaciones, el ocio diario y otras ocasiones.
+- Cuidado de la ropa: lavar a mano en agua fría, colgar para secar, la parte superior de gasa está preempaquetada en el empaque del fabricante y se requiere una plancha de vapor ligera para eliminar las arrugas.
 - Sastrería elegante. El dobladillo está ajustado, el diseño es único y novedoso y el diseño de impresión retro crea el encanto único de las mujeres.
 - Cómoda blusa de gasa, fina y elegante, es tu pieza de moda indispensable en primavera y verano.
-- Cuidado de la ropa: lavar a mano en agua fría, colgar para secar, la parte superior de gasa está preempaquetada en el empaque del fabricante y se requiere una plancha de vapor ligera para eliminar las arrugas.
-- Combínalo con jeans, leggings o tacones altos para el trabajo, las vacaciones, el ocio diario y otras ocasiones.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
