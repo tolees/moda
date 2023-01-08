@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Salomon Trailster 2 Gore-Tex  impermeable  Mujer Zapatos de trail running  Azul  Navy Blazer/Sargasso Sea/Flint Stone   43 ⅓ EU'
-date: 2023-01-07 10:57:56
+date: 2023-01-08 14:02:31
 image: 'https://m.media-amazon.com/images/I/41FoVz6UZ7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
