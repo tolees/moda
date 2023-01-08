@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vero Moda Vmverodona LS Jacket Noos Abrigo  Gris  Light Grey Melange Light Grey Melange   42  Talla del Fabricante: Large  para Mujer'
-date: 2023-01-06 09:22:36
+date: 2023-01-08 09:33:41
 image: 'https://m.media-amazon.com/images/I/41ktawTdEoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Vero Moda'
 buyurl: 'https://www.amazon.es/dp/B079NFP78B/?tag=tolees-21'
 descuento: '38.84'
-average: '34.35'
+average: '34.74'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
