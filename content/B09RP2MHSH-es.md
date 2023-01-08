@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Botín de piel con tacón
-- Plantilla extraible
 - Interior libre de cromo
+- Plantilla extraible
+- Botín de piel con tacón
 
 [🛒 Visítala!!!]({{< param buyurl >}})
