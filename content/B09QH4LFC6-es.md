@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vero Moda VMVERODONA LS Jacket Noos Chaqueta  China Blue/Detail:Melange  L De Las Mujeres'
-date: 2023-01-07 15:27:19
+date: 2023-01-08 15:38:17
 image: 'https://m.media-amazon.com/images/I/41JDJ7FtyXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
