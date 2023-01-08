@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s 511 Slim Vaqueros Hombre Dark Indigo Worn In  Azul  33 32'
-date: 2023-01-04 16:41:43
+date: 2023-01-08 07:00:45
 image: 'https://m.media-amazon.com/images/I/31MkFbFXPJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
