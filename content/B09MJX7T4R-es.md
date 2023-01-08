@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASICS Patriot 13  Zapatilla Hombre  Safety Yellow/Velvet Pine  45 EU'
-date: 2023-01-04 21:50:49
+date: 2023-01-07 22:18:29
 image: 'https://m.media-amazon.com/images/I/41IyAlb8a0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ASICS'
 buyurl: 'https://www.amazon.es/dp/B09MJX7T4R/?tag=tolees-21'
 descuento: '22.31'
-average: '45.235'
+average: '46.99'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Havaianas Brasil Logo  Chanclas Unisex Adulto  Rosa  Kristallrose   41/42 EU'
-date: 2023-01-04 21:52:27
+date: 2023-01-07 22:24:18
 image: 'https://m.media-amazon.com/images/I/313zGfvGOFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0929JBT8V-es Havaianas Brasil Logo Chanclas Unisex Adulto Rosa...'
 sku: 'B0929JBT8V-es'
 tags: [ 'Moda','Moda Hombre','Moda Mujer','Sandalias de dedo para hombre','Zapatos para hombre','chanclas','havaianas','🇪🇸', ]
-actualPrice: 17.99 EUR
+actualPrice: 9.0 EUR
 currency: EUR
-price: 17.99
+price: 9.0
 comparePrice: 25.99 EUR
 prodname: 'Havaianas Brasil Logo  Chanclas Unisex Adulto  Rosa  Kristallrose   41/42 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Havaianas'
 buyurl: 'https://www.amazon.es/dp/B0929JBT8V/?tag=tolees-21'
-descuento: '30.78'
-average: '14.5784615384616'
+descuento: '65.37'
+average: '14.5551612903226'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
