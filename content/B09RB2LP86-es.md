@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Desigual Maya CALPE 2000 - Bolso para mujer'
-date: 2023-01-07 16:11:29
+date: 2023-01-09 13:41:55
 image: 'https://m.media-amazon.com/images/I/21rFv1KvtbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

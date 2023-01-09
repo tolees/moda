@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con motivos de inspiración marinera
 - Manga raglán que brinda libertad de movimiento
+- Con motivos de inspiración marinera
 - Cremallera delantera YKK y dos bolsillos para las manos con cremallera
 - Forro polar con estructura en el panel posterior
 
