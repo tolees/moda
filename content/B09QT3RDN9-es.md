@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - 100% Cotton
 - Tejido de canalé muy cómodo
-- Logo en relieve
 - Somos un miembro orgulloso de la Better Cotton Initiative. Al comprar prendas de algodón de Desigual estás apoyando un cultivo de algodón más sostenible.
+- Logo en relieve
 - Cuello redondo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

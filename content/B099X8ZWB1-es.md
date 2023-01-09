@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - La versatilidad de la camiseta permite que estés elegante en cualquier ocasión
-- Básico atemporal en cualquier armario femenino que se puede usar todo el año
-- Hecha pensando en la comodidad así como en una larga duración
 - Camiseta sencilla pero elegante que puede conjuntarse con cualquier prenda inferior
+- Hecha pensando en la comodidad así como en una larga duración
+- Básico atemporal en cualquier armario femenino que se puede usar todo el año
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
