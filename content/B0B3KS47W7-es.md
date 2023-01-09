@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Bolsillo interior de seguridad
 - Chaqueta de plumón con capucha para hombre
 - Confort y ajuste óptimos gracias al dobladillo ajustable con cordón
-- Bolsillo interior de seguridad
 - Una mayor protección contra los elementos gracias a la capucha ajustable
 
 [🛒 Visítala!!!]({{< param buyurl >}})
