@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin mangas.
-- Escote redondo.
-- Ventilación Climacool.
 - Tiene una capucha ajustable con cordón
+- Sin mangas.
+- Ventilación Climacool.
+- Escote redondo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

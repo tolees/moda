@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- - Tipo de detalle: chaqueta de motorista con aspecto de piel - Tejido: piel sintética - Closing/Fly: cremallera asimétrica en la parte delantera - Detalles adicionales: detalles acolchados en el hombro - Mano de bolsillo: bolsillos laterales con cierre de cremallera - Bolsillo otro: bolsillo en el pecho con cremallera - detalle de la manga: puños con cremallera - Occasion/estilo: ideal para transición beta. Ween Seasons - Forro: completamente forrado con forro 100% poliéster - SLEEVE : manga larga (L/S)
 - Chaqueta de piel sintética
+- - Tipo de detalle: chaqueta de motorista con aspecto de piel - Tejido: piel sintética - Closing/Fly: cremallera asimétrica en la parte delantera - Detalles adicionales: detalles acolchados en el hombro - Mano de bolsillo: bolsillos laterales con cierre de cremallera - Bolsillo otro: bolsillo en el pecho con cremallera - detalle de la manga: puños con cremallera - Occasion/estilo: ideal para transición beta. Ween Seasons - Forro: completamente forrado con forro 100% poliéster - SLEEVE : manga larga (L/S)
 - Cuello
 - Cremallera
 

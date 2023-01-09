@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con capucha
 - Cálida
 - Abrigo
 - Con forro
+- Con capucha
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
