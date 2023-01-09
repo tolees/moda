@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sudadera de hombre loose fit con capucha y cocodrilo
 - Cocodrilo bordado en el pecho:<br/> un detalle característico más discreto.
-- Cuello con capucha:<br/> para entrenamientos al aire libre.
-- Marca y estampado a contraste:<br/> espectacular Lacoste.
+- Sudadera de hombre loose fit con capucha y cocodrilo
 - Loose fit, corte holgado:<br/> corte amplio para mayor libertad de movimientos.
+- Marca y estampado a contraste:<br/> espectacular Lacoste.
+- Cuello con capucha:<br/> para entrenamientos al aire libre.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

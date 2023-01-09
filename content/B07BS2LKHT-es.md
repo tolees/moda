@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cinturón óptimo para completar los looks informales de todos los días
 - Tiene un diseño clásico con logotipo grabado
+- Cinturón óptimo para completar los looks informales de todos los días
 
 [🛒 Visítala!!!]({{< param buyurl >}})
