@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Esprit 062ee1k308 Camiseta  110/Blanco Roto  L para Mujer'
-date: 2023-01-06 10:58:25
+date: 2023-01-09 07:04:39
 image: 'https://m.media-amazon.com/images/I/41jeT01oIyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Esprit'
 buyurl: 'https://www.amazon.es/dp/B09KHLYQVK/?tag=tolees-21'
 descuento: '60.15'
-average: '15.535'
+average: '14.34'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
