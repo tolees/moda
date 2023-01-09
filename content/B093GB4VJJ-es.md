@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Contenido de envío: 1x Swarovski Collar de la colección Sparkling Dance para mujer, bañado en rodio, con un cristal de color aguamarina, una sola talla, incl. embalaje de Swarovski
 - La suerte estará de tu lado: esta pieza está compuesta por un cristal central de color azul en forma de trébol, que baila en el interior de su engaste junto a una cadena bañada en rodio
-- Elaborado con delicadeza: el collar Sparkling Dance es una pieza única, llévala siempre contigo y comprueba el efecto que produce en ti y en los que te rodean
-- Medidas: largo mín.: 38 cm, largo máx.: 42 cm, ancho: 1.1 cm
-- Diseñada para perdurar en el tiempo: las joyas Swarovski lucen por si solas gracias al brillo y la talla del cristal junto a los metales más resistentes; evita el agua, las lociones o el perfume
 - Pensado para tu día a día: con este collar sentirás que además de llevar una pieza elegante y sofisticada, este accesorio elevará tu suerte
+- Medidas: largo mín.: 38 cm, largo máx.: 42 cm, ancho: 1.1 cm
+- Contenido de envío: 1x Swarovski Collar de la colección Sparkling Dance para mujer, bañado en rodio, con un cristal de color aguamarina, una sola talla, incl. embalaje de Swarovski
+- Elaborado con delicadeza: el collar Sparkling Dance es una pieza única, llévala siempre contigo y comprueba el efecto que produce en ti y en los que te rodean
+- Diseñada para perdurar en el tiempo: las joyas Swarovski lucen por si solas gracias al brillo y la talla del cristal junto a los metales más resistentes; evita el agua, las lociones o el perfume
 
 [🛒 Comprar!!!]({{< param buyurl >}})

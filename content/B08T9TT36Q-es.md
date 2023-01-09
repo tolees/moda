@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corduroy
 - Algodón orgánico
+- Corduroy
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

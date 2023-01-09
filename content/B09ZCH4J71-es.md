@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Los productos deportivos de la marca Puma están diseñados para que disfrutes de tu deporte favorito sin preocuparte de nada más que rendir al máximo
-- Sudadera Classic Hooded Tracksuit FL cl nero
 - Sudadera para practicar Fitness y ejercicio de mujer
-- fabricada con materiales de primera calidad que se adaptan a cualquier actividad deportiva
+- Sudadera Classic Hooded Tracksuit FL cl nero
 - Negro de la marca Puma
+- fabricada con materiales de primera calidad que se adaptan a cualquier actividad deportiva
+- Los productos deportivos de la marca Puma están diseñados para que disfrutes de tu deporte favorito sin preocuparte de nada más que rendir al máximo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- algodón
 - Camiseta
+- algodón
 
 [🛒 Comprar!!!]({{< param buyurl >}})
