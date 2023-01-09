@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Color: Azul
 - Producto Unisex
 - 85% Nylon 15% Spandex UV 97,5 UPF40+
 - Tamaño: X-Large
-- Color: Azul
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gráfico Reebok.
 - Diseño de manga corta.
-- Corte ajustado.
 - Cuello redondo.
+- Gráfico Reebok.
+- Corte ajustado.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
