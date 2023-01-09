@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bolso de hombro
 - Creado con atención al detalle
+- Bolso de hombro
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Corte superajustado
+- Costuras con forma en el panel trasero
 - Bajo ligeramente redondeado
 - Cuello de camisa
-- Costuras con forma en el panel trasero
 
 [🛒 Comprar!!!]({{< param buyurl >}})
