@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Paneles laterales elásticos
 - Tommy Hilfiger Marca
+- Paneles laterales elásticos
 - Bucle distintivo para tirar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
