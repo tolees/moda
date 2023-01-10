@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sebago Classic Dan  Zapatos Hombre  Black 902  44 EU'
-date: 2023-01-09 09:26:21
+date: 2023-01-10 15:40:13
 image: 'https://m.media-amazon.com/images/I/31gkmsYCPQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sebago'
 buyurl: 'https://www.amazon.es/dp/B0007T2BMY/?tag=tolees-21'
 descuento: '56.37'
-average: '100.901967213116'
+average: '100.822741935485'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Parte superior: piel otro.
 - Tamaño: Talla normal
+- Plantilla: Piel
+- Parte superior: piel otro.
+- Material de suela: cuero
 - Forro: Forro: no.
 - Tipo de tacón: plano
-- Material de suela: cuero
-- Plantilla: Piel
 
 [🛒 Visítala!!!]({{< param buyurl >}})

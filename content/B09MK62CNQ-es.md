@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Composición del material: exterior: 100% poliéster; forro: 100% poliéster; relleno: 100% poliéster; manga: 100% poliéster
 - Cremallera
-- Chaqueta de cuello alto con capucha
+- Composición del material: exterior: 100% poliéster; forro: 100% poliéster; relleno: 100% poliéster; manga: 100% poliéster
 - Frente acolchado
+- Chaqueta de cuello alto con capucha
 
 [🛒 Visítala!!!]({{< param buyurl >}})
