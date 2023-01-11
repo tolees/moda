@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Suave
-- Algodón
-- Cierre de botones
 - Cuello
+- Algodón
 - Camisa
+- Suave
+- Cierre de botones
 
 [🛒 Aquí!!!]({{< param buyurl >}})
