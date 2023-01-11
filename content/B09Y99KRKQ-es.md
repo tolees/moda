@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Logo T-Shirt Camiseta  Bright White  XL para Hombre'
-date: 2023-01-10 14:18:54
+date: 2023-01-11 16:43:22
 image: 'https://m.media-amazon.com/images/I/215P1tBgJPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
