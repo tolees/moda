@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Jewelry Collar para Mujer de Acero inoxidable con cristales - 2780451'
-date: 2023-01-09 20:12:25
+date: 2023-01-11 08:30:12
 image: 'https://m.media-amazon.com/images/I/21n6mNhOICL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Tommy Hilfiger'
 buyurl: 'https://www.amazon.es/dp/B08TS8RWQM/?tag=tolees-21'
 descuento: '46.84'
-average: '45.07'
+average: '44.0466666666667'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Collar de cadena femenino de Tommy Hilfiger
-- Chapado de color oro amarillo
-- Cierre: mosquetón
 - Longitud: 55.8 cm
+- Cierre: mosquetón
+- Chapado de color oro amarillo
 - Decorada con logotipo de Tommy Hilfiger esmaltado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

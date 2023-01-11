@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello alto
 - Jersey de manga larga
+- Cuello alto
 - Detalle de volantes en los hombros y botones en los puños
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

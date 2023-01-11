@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Jersey de manga larga
-- Detalle de volante en los hombros
-- Cuello perkins
 - Trenzas en el cuerpo y flores bordadas en el delantero
+- Jersey de manga larga
+- Cuello perkins
+- Detalle de volante en los hombros
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

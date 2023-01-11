@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Proyecto RECONSIDER
-- Jersey básico cuello pico en 100% Algodón
 - Bajo y puños rectos
+- Jersey básico cuello pico en 100% Algodón
+- Proyecto RECONSIDER
 
 [🛒 Visítala!!!]({{< param buyurl >}})

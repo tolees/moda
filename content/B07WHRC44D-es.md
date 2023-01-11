@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Manga Larga
 - Punto
+- Manga Larga
 
 [🛒 Comprar!!!]({{< param buyurl >}})

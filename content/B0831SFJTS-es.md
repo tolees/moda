@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jjerocky Jacket Noos Chaqueta  Marrón  Cognac   L para Hombre'
-date: 2023-01-04 20:02:30
+date: 2023-01-11 09:26:57
 image: 'https://m.media-amazon.com/images/I/41rdWnnuijL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B0831SFJTS/?tag=tolees-21'
 descuento: '35.72'
-average: '38.3885714285714'
+average: '39.21375'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Marca: Jack & Jones NOS
 - Composición del material: material exterior: 88% poliéster, 12% viscosa. Forro: 100% poliéster. Material del relleno: 100% poliéster
 - Dobladillo ajustable en la parte trasera
-- Marca: Jack & Jones NOS
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
