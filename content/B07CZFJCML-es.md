@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ligera camiseta transpirable – Tiene un suave tejido antifrisado con acabado texturizado que no se engancha. La tecnología antiolor evita el mal olor.
 - Muy cómodo – Este polo de hombre cuenta con un tejido elástico multidireccional que ofrece una mayor libertad de movimientos en cualquier dirección.
-- Secado rápido – El sistema de distribución de la humedad de la camiseta polo elimina el sudor y te mantiene seco. El FPS 4 protege del sol.
-- Polo de golf de alto rendimiento – La camisa de manga corta tiene un diseño actualizado de alto rendimiento para ofrecer más comodidad y elegancia.
 - Material y forma – Under Armour Polo deportivo texturizado UA Performance para hombre, ligera ropa deportiva, material: 92% de poliéster/8% de elastano, forma: ancha.
+- Ligera camiseta transpirable – Tiene un suave tejido antifrisado con acabado texturizado que no se engancha. La tecnología antiolor evita el mal olor.
+- Polo de golf de alto rendimiento – La camisa de manga corta tiene un diseño actualizado de alto rendimiento para ofrecer más comodidad y elegancia.
+- Secado rápido – El sistema de distribución de la humedad de la camiseta polo elimina el sudor y te mantiene seco. El FPS 4 protege del sol.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
