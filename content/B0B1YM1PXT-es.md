@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASICS Patriot 13  Zapatilla Hombre  Azure/White  45 EU'
-date: 2023-01-07 22:19:09
+date: 2023-01-10 22:45:03
 image: 'https://m.media-amazon.com/images/I/510wT1aXTZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0B1YM1PXT-es ASICS Patriot 13 Zapatilla Hombre Azure/White 45 EU'
 sku: 'B0B1YM1PXT-es'
 tags: [ 'Calzado deportivo para hombre','Calzados de running para hombre','Calzados para correr en asfalto para hombre','Moda','Moda Hombre','Zapatillas y calzado deportivo para hombre','Zapatos para hombre','asics','zapatilla','🇪🇸', ]
-actualPrice: 41.67 EUR
+actualPrice: 41.29 EUR
 currency: EUR
-price: 41.67
+price: 41.29
 comparePrice: 65.0 EUR
 prodname: 'ASICS Patriot 13  Zapatilla Hombre  Azure/White  45 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'ASICS'
 buyurl: 'https://www.amazon.es/dp/B0B1YM1PXT/?tag=tolees-21'
-descuento: '35.89'
-average: '37.6933333333333'
+descuento: '36.48'
+average: '38.2071428571428'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,7 +29,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Suela de goma con forma
-- Intersuola con tecnología EVA
 - Amortiguación y rebote
+- Intersuola con tecnología EVA
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

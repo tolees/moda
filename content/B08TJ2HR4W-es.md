@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HAWKERS · Gafas de sol SHADOW para hombre y mujer. · POLARIZED ROSE GOLD'
-date: 2022-12-29 10:38:44
+date: 2023-01-10 23:20:09
 image: 'https://m.media-amazon.com/images/I/31sh7ilFGhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Montura en acero inoxidable libre de níquel que las hace altamente resistentes a la corrosión; Terminal de la patilla en TR90, considerado el mejor Nylon para monturas del mundo;
-- Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores; Lentes categoría 3 fabricadas con material bio tac polarizado y protección uv400;
 - La estética oversize de este diseño polarizado de estilo aviador en oro rosa es un verdadero statement femenino;
-- Medidas: Frontal 140 mm; Alto 49,2 mm; Patillas 140 mm; Puente 13 mm; Diámetro de lente 60 mm; Modelo Unisex
+- Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores; Lentes categoría 3 fabricadas con material bio tac polarizado y protección uv400;
+- Montura en acero inoxidable libre de níquel que las hace altamente resistentes a la corrosión; Terminal de la patilla en TR90, considerado el mejor Nylon para monturas del mundo;
 - Producto original Hawkers; La caja incluye funda en microfibra y caja;
+- Medidas: Frontal 140 mm; Alto 49,2 mm; Patillas 140 mm; Puente 13 mm; Diámetro de lente 60 mm; Modelo Unisex
 
 [🛒 Comprar!!!]({{< param buyurl >}})
