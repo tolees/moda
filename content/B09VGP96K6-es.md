@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Logotipo de Levis Batwing en el pecho
 - Cuello redondo
+- Logotipo de Levis Batwing en el pecho
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

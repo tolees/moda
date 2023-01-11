@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Tiene insignia monograma de Calvin Klein en el dobladillo izquierdo
 - Con ribete a rayas dentro del escote
 - Fabricada con materiales sostenibles
-- Tiene insignia monograma de Calvin Klein en el dobladillo izquierdo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

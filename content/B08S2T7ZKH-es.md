@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Capucha fija
-- Tipo de tejido: sarga
-- Apertura central en cremallera
 - Cordón ajustable
-- Diseñado para aguantar bajas temperaturas
+- Apertura central en cremallera
 - Bolsillos tipo canguro
+- Tipo de tejido: sarga
+- Capucha fija
+- Diseñado para aguantar bajas temperaturas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tela pesada.
-- Parka.
-- Acolchado con fibras sintéticas de plumón.
 - Composición del material: Material exterior: 100 % poliéster. Forro: 100 % poliéster. Material de relleno: 100 % poliéster. Mangas: 100 % poliéster. Rib: 100% poliéster.
+- Acolchado con fibras sintéticas de plumón.
+- Parka.
+- Tela pesada.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
