@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tommy Hilfiger Marca
-- Bucle distintivo para tirar
 - Paneles laterales elásticos
+- Bucle distintivo para tirar
+- Tommy Hilfiger Marca
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

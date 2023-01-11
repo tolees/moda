@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Adatto alluso diario
-- Polo neck
 - La visione di un atteggiamento positivo e generoso verso la vita
 - Estilo informal
+- Polo neck
+- Adatto alluso diario
 - Textura cómoda y resistente
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

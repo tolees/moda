@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bota plana de piel
 - Plantilla extraible
 - Interior libre de cromo
+- Bota plana de piel
 
 [🛒 Aquí!!!]({{< param buyurl >}})

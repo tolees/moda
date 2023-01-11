@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Corte entallado
-- Cuello polo
 - Número de botones: 2
 - Mangas cortas
+- Cuello polo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
