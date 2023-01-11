@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Plantilla extraible
-- Suela softlight antideslizante, ligera y flexible
 - Interior libre de cromo
+- Suela softlight antideslizante, ligera y flexible
+- Plantilla extraible
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Plantilla extraible
 - Interior libre de cromo
+- Plantilla extraible
 - Suela softlight antideslizante, ligera y flexible
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
