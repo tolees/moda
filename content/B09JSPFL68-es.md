@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jjecraft Parka Sn Chaqueta  Azul Marino  M para Hombre'
-date: 2023-01-11 09:58:36
+date: 2023-01-12 15:18:06
 image: 'https://m.media-amazon.com/images/I/41shjd0R4XL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B09JSPFL68/?tag=tolees-21'
 descuento: '32.50'
-average: '55.49'
+average: '55.19'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

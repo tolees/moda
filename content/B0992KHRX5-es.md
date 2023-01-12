@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JACK & JONES Jcoclay Bomber Cbo Chaqueta  Navy Blazer  M para Hombre'
-date: 2023-01-10 17:45:44
+date: 2023-01-12 15:36:40
 image: 'https://m.media-amazon.com/images/I/41etSZ+hP9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B0992KHRX5/?tag=tolees-21'
 descuento: '40.01'
-average: '17.9633333333333'
+average: '17.97'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -30,7 +30,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Acolchado con fibras sintéticas de plumón
 - Superficie mate
-- Composición del material: material exterior: 100% poliéster; forro: 100% poliéster; material de relleno: 100% poliéster; manga: 100% poliéster
 - Blouson
+- Composición del material: material exterior: 100% poliéster; forro: 100% poliéster; material de relleno: 100% poliéster; manga: 100% poliéster
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
