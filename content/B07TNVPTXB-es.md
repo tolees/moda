@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Suela: Tpr
 - Forro: Textil
-- Superiores: Cuero
 - Fijación: Resbalón En
+- Suela: Tpr
 - Altura Del Talón: 3cm
+- Superiores: Cuero
 
 [🛒 Visítala!!!]({{< param buyurl >}})

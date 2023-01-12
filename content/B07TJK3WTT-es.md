@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Suela: goma
-- Parte superior: cuero
 - Material interior: piel
+- Parte superior: cuero
+- Suela: goma
 
 [🛒 Aquí!!!]({{< param buyurl >}})
