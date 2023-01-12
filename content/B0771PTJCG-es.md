@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Manteniendo nuestras prendas contribuimos al medio ambiente y a la sostenibilidad de nuestro planeta.
 - Fundamos la esencia del diseño mediterráneo hecho en Valencia.
-- Fabricamos nuestras prendas en materiales que se adaptan a cualquier cuerpo, en cualquier momento y circunstancia.
 - Camiseta térmica infantil de manga larga y cuello redondo. La camiseta térmica que retiene el calor corporal en tu interior. Confeccionada con las más altas exigencias en calidad y con su interior afelpado convierten este producto en ideal para el invierno más frío.Composición: 92% Poliéster, 8% Elastano
+- Manteniendo nuestras prendas contribuimos al medio ambiente y a la sostenibilidad de nuestro planeta.
+- Fabricamos nuestras prendas en materiales que se adaptan a cualquier cuerpo, en cualquier momento y circunstancia.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

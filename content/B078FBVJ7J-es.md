@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Crocs Classic Tie Dye Clogs  Zuecos Unisex Adulto  Multi  39/40 EU'
-date: 2023-01-11 11:16:38
+date: 2023-01-12 20:02:27
 image: 'https://m.media-amazon.com/images/I/41gIrQsShbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Crocs'
 buyurl: 'https://www.amazon.es/dp/B078FBVJ7J/?tag=tolees-21'
 descuento: '50.39'
-average: '23.841'
+average: '23.9281818181818'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
