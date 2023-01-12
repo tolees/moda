@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Acolchado con fibras sintéticas de plumón
-- Superficie mate
-- Blouson
 - Composición del material: material exterior: 100% poliéster; forro: 100% poliéster; material de relleno: 100% poliéster; manga: 100% poliéster
+- Blouson
+- Superficie mate
+- Acolchado con fibras sintéticas de plumón
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sebago Classic Dan  Zapatos Hombre  Burgundy  44 EU'
-date: 2023-01-11 16:48:45
+date: 2023-01-12 17:01:39
 image: 'https://m.media-amazon.com/images/I/31bUjibAIrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sebago'
 buyurl: 'https://www.amazon.es/dp/B094XLZWSX/?tag=tolees-21'
 descuento: '27.73'
-average: '166.953636363637'
+average: '166.811428571429'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

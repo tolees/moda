@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Confort y ajuste óptimos gracias al dobladillo ajustable con cordón
-- Una mayor protección contra los elementos gracias a la capucha ajustable
 - Chaqueta de plumón con capucha para hombre
 - Bolsillo interior de seguridad
+- Confort y ajuste óptimos gracias al dobladillo ajustable con cordón
+- Una mayor protección contra los elementos gracias a la capucha ajustable
 
 [🛒 Visítala!!!]({{< param buyurl >}})
