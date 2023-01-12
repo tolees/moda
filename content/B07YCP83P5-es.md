@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Nuestras cómodas camisetas están diseñadas para combinar perfectamente con nuestra mezclilla
 - Logotipo de Levis Sportswear
 - Mangas cortas y cuello redondo
-- Nuestras cómodas camisetas están diseñadas para combinar perfectamente con nuestra mezclilla
 - Hecho de jersey ultrasuave
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

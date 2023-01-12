@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Bolso Tote De Mujer L.12.12 Concept Con Cremallera
+- Dimensiones: 35 x 30 x 14 cm
 - Logotipo de Lacoste en la cremallera
 - Un bolsillo interior con red, cremallera y enganche
-- Dimensiones: 35 x 30 x 14 cm
-- Bolso Tote De Mujer L.12.12 Concept Con Cremallera
 - Cocodrilo verde bordado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
