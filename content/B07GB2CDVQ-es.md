@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vero Moda Vmverodona LS Jacket Noos Abrigo  Negro  Black Black   42  Talla del Fabricante: Large  para Mujer'
-date: 2023-01-10 09:49:37
+date: 2023-01-11 23:47:24
 image: 'https://m.media-amazon.com/images/I/31+4BQ5w2oL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Vero Moda'
 buyurl: 'https://www.amazon.es/dp/B07GB2CDVQ/?tag=tolees-21'
 descuento: '50.03'
-average: '30.355'
+average: '30.3133333333333'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
