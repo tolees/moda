@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Lavar a máquina
 - Para una apariencia fácil de usar que va del día al fin de semana sin perder el ritmo
-- Calidad óptima para los requisitos del cliente
 - 56% algodón, 39% poliéster (reciclado), 5% elastano.
+- Calidad óptima para los requisitos del cliente
+- Lavar a máquina
 - Estilo del cuello: Polo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

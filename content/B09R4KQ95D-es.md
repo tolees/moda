@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Estilo del cuello: Polo
 - Lavar a máquina
 - 92% Algodón, 8% Elastano
-- Hecho de tela de calidad, ligera, suave y cómoda
-- Estilo del cuello: Polo
 - Calidad óptima para los requisitos del cliente
+- Hecho de tela de calidad, ligera, suave y cómoda
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
