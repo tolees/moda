@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Adecuadas para el uso diario
 - Tejido ligero
+- Adecuadas para el uso diario
 
 [🛒 Comprar!!!]({{< param buyurl >}})
