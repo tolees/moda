@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tirantes ajustables en los hombros
-- Copas triangulares suaves, Sin relleno
 - Punto de algodón modal
+- Copas triangulares suaves, Sin relleno
+- Tirantes ajustables en los hombros
 
 [🛒 Visítala!!!]({{< param buyurl >}})
