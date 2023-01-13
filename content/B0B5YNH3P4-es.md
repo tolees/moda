@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvin Klein Jeans - Calvin Klein Camiseta Recta Moderna con Logotipo apilado S-S  Bright White  M para Mujer'
-date: 2023-01-11 23:53:11
+date: 2023-01-13 17:34:52
 image: 'https://m.media-amazon.com/images/I/41OW9bmvdML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

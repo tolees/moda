@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 100% piel vacuno
 - Ancho de la correa: 30 mm
+- 100% piel vacuno
 
 [🛒 Aquí!!!]({{< param buyurl >}})

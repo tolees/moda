@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Hecho de algodón suave para comodidad diaria durante todo el día
-- Cuello sin etiqueta para un uso sin complicaciones
-- Cuello redondo acanalado y mangas cortas
 - Un logotipo de Levis en tu pecho
+- Cuello redondo acanalado y mangas cortas
+- Cuello sin etiqueta para un uso sin complicaciones
 
 [🛒 Aquí!!!]({{< param buyurl >}})
