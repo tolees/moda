@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Nos hemos unido a la Better Cotton Initiative para mejorar el cultivo de algodón en todo el mundo
 - Con su suave tejido de algodón y su corte clásico, querrás ponerte esta camisa todos los días
+- Nos hemos unido a la Better Cotton Initiative para mejorar el cultivo de algodón en todo el mundo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

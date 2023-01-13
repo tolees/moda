@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Only Classic Coat Abrigo  Mocha Mousse/Melange  M para Mujer'
-date: 2023-01-04 09:00:39
+date: 2023-01-13 14:01:55
 image: 'https://m.media-amazon.com/images/I/41SP-6-NNeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Only'
 buyurl: 'https://www.amazon.es/dp/B071W2SXYM/?tag=tolees-21'
 descuento: '36.35'
-average: '29.54'
+average: '29.995'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

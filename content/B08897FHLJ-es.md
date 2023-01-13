@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cinturón
-- Anillos
 - Hebilla
 - Cuero artificial
+- Anillos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
