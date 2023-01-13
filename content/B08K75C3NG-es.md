@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Only & Sons Onsceres Life Crew Neck Noos Sudadera  Gris Claro  M para Hombre'
-date: 2023-01-12 11:02:16
+date: 2023-01-13 19:21:53
 image: 'https://m.media-amazon.com/images/I/41zd9DjHrHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Puños de punto en los brazos y el cuello
-- brazos largos y cuello redondo
 - Sudadera
+- Puños de punto en los brazos y el cuello
 - Mezcla de algodón
+- brazos largos y cuello redondo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

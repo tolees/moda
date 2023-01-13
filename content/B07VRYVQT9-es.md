@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Punto de algodón modal
 - Copas triangulares suaves, Sin relleno
 - Tirantes ajustables en los hombros
+- Punto de algodón modal
 
 [🛒 Comprar!!!]({{< param buyurl >}})

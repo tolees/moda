@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Short-sleeved tee with o-neck
 - Cotton fabric for a soft and comfortable wear
+- Short-sleeved tee with o-neck
 
 [🛒 Visítala!!!]({{< param buyurl >}})
