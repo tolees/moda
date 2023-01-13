@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material: 98% algodón, 2% elastano
-- Con perneras estrechas y cintura alta, alta comodidad.
-- Modelo: onlPaola Life HW Skinny Denim – Código: 15165792
 - Only Vaqueros ajustados elásticos de cintura alta
 - Only convence por su corte estrecho y su estilo de 5 bolsillos. Los jeans de cintura alta evocan grandes curvas, piernas largas e incluso logran hacer que la cintura parezca visualmente más estrecha.
+- Modelo: onlPaola Life HW Skinny Denim – Código: 15165792
+- Material: 98% algodón, 2% elastano
+- Con perneras estrechas y cintura alta, alta comodidad.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

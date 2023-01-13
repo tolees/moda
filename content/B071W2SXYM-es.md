@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Abrigo largo de entretiempo.
 - Abrigo de lana con capucha.
+- Abrigo largo de entretiempo.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
