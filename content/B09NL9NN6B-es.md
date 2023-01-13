@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Sudadera de hombre Lacoste en felpa cepillada
-- Cuello bajo:<br/> para una silueta moderna.
-- Cocodrilo bordado en el pecho:<br/> innegablemente Lacoste.
 - Classic fit, comodidad natural:<br/> movimiento sin restricciones.
+- Cuello bajo:<br/> para una silueta moderna.
 - Mangas a contraste:<br/> para un estilo actual.
+- Cocodrilo bordado en el pecho:<br/> innegablemente Lacoste.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
