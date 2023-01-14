@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox J Kalispera Girl M  Sneakers para Niña  Negro  Black   28 EU'
-date: 2022-12-30 21:28:18
+date: 2023-01-14 16:00:52
 image: 'https://m.media-amazon.com/images/I/412OEyk+pkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
