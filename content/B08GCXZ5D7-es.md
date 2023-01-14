@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Star Wars The Mandalorian The Child Cartoon Poses Camiseta'
-date: 2023-01-13 19:02:43
+date: 2023-01-14 21:01:51
 image: 'https://m.media-amazon.com/images/I/31s+GD1YPbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
