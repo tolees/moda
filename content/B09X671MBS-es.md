@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Máscara minimalista que mejora la visión en cualquier condición.
 - Esta montura minimalista y moderna se ha diseñado para disfrutar de un campo visual amplio sin renunciar al estilo.
 - No dejes que la niebla domine tus días gracias a este flujo de aire optimizado. Disfruta de una ventilación aún mayor, especialmente cuando se combina con el nuevo casco PIONEER LT.
-- Colores: Black;
-- Máscara minimalista que mejora la visión en cualquier condición.
 - Disfruta de menos brillo y deslumbramiento para un mayor confort cuando el cielo está cubierto o hace sol.
+- Colores: Black;
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
