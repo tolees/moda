@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corte entallado.
 - Cuello redondo.
 - Climalite anti-humidity fabric
 - Manga corta.
+- Corte entallado.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
