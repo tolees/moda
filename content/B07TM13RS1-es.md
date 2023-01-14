@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cintura elástica con marca Lacoste
+- No se aceptan cambios ni devoluciones en la ropa interior.
 - Corte que confiere comodidad en todo momento
+- Cintura elástica con marca Lacoste
 - Lote de 3 bóxers cortos negros Casual
 - Cocodrilo bordado en verde termosellado
-- No se aceptan cambios ni devoluciones en la ropa interior.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
