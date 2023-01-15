@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cremallera ykk
-- Tratamiento dwr sin pfc
 - Dos bolsillos frontales
 - Cremalleras ykk
+- Tratamiento dwr sin pfc
 - Artículos entregados: 1x helly hansen mens sirdal insulator jacket - ins jacket darkest spr s
+- Cremallera ykk
 
 [🛒 Comprar!!!]({{< param buyurl >}})
