@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Adidas Core 18 Hoody Sudadera con Capucha  Hombre  Rojo  Rojo/Blanco   L'
-date: 2023-01-13 11:26:08
+date: 2023-01-15 11:26:02
 image: 'https://m.media-amazon.com/images/I/41kjtFFlH+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Escote redondo.
-- Ventilación Climacool.
-- Tiene una capucha ajustable con cordón
-- Sin mangas.
+- Regular Cut wider on the bust; straight silhouette
+- Ribbed cuffs and hem
+- Kangaroo pocket
+- Adjustable hood with drawstring
 
 [🛒 Aquí!!!]({{< param buyurl >}})

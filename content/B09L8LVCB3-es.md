@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Logotipo grande impreso en el pecho y logotipo "C" grande en la parte superior
-- Bolsillo tipo canguro
-- Cintura y puños elásticos
 - Logotipo "C" pequeño impreso en la manga izquierda
 - Cierre con cordón
+- Bolsillo tipo canguro
+- Cintura y puños elásticos
+- Logotipo grande impreso en el pecho y logotipo "C" grande en la parte superior
 
 [🛒 Aquí!!!]({{< param buyurl >}})
