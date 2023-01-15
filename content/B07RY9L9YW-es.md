@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Perfect Vneck  Camiseta Mujer  Blanco  White + 0002   Medium'
-date: 2023-01-13 11:55:55
+date: 2023-01-15 16:30:57
 image: 'https://m.media-amazon.com/images/I/31Wu1VeeK2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07RY9L9YW/?tag=tolees-21'
 descuento: '50.00'
-average: '16.4326666666666'
+average: '16.1868749999999'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

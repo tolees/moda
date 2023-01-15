@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Camiseta unisex de cuello redondo y manga corta.
-- Material ligero y suave con la piel.
-- Producto oficial ASIOKA.
 - Camiseta con dibujo estampado.
+- Producto oficial ASIOKA.
+- Material ligero y suave con la piel.
 - Camiseta de algodón 100 % orgánico.
+- Camiseta unisex de cuello redondo y manga corta.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

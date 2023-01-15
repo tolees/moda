@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JACK & JONES JJELOGO Blocking Sweat Hood STS Sudadera con capucha  Rojo  Tango Red   L para Hombre'
-date: 2023-01-13 11:17:05
+date: 2023-01-15 17:29:27
 image: 'https://m.media-amazon.com/images/I/31qUe4v77FL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B08BPD69J5/?tag=tolees-21'
 descuento: '35.03'
-average: '22.708'
+average: '23.2533333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
