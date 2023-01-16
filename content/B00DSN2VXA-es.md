@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Columbia Klamath Range II Half Zip - Jersey de Forro Polar para Hombre  Color Azul  Talla M'
-date: 2023-01-14 10:05:40
+date: 2023-01-16 06:10:11
 image: 'https://m.media-amazon.com/images/I/31mJKSA-VkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Columbia'
 buyurl: 'https://www.amazon.es/dp/B00DSN2VXA/?tag=tolees-21'
 descuento: '38.57'
-average: '22.2175'
+average: '22.074'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,7 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Protección solar Omni-Shade FPU 50
-- Ultraligero
 - Con cremallera
+- Ultraligero
 
 [🛒 Visítala!!!]({{< param buyurl >}})
+{{<world>}}B00DSN2VXA{{</world>}}
