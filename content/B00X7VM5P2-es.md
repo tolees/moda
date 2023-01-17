@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 77% Viscosa, 20% Nylon, 3% Elastano
-- Vero Moda Seven Smooth PU Skinny Trousers
 - Regular
+- Vero Moda Seven Smooth PU Skinny Trousers
+- 77% Viscosa, 20% Nylon, 3% Elastano
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00X7VM5P2{{</world>}}
