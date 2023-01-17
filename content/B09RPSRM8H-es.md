@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Plantilla extraible
-- Interior libre de cromo
 - Bota plana de piel
+- Interior libre de cromo
+- Plantilla extraible
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09RPSRM8H{{</world>}}
