@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuello redondo
-- Rayas color block
 - Jersey de manga larga caída con volumen
 - Canalé en el cuello los puños y el bajo
+- Cuello redondo
+- Rayas color block
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B7R8JCJK{{</world>}}
