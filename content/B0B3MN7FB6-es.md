@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forma del cuello: cuello abotonado
-- Camisa Oxford de tejido sólido con puños de 1 botón en los puños y dobladillo redondeado.
-- Colección: Casual
 - Longitud de la manga: manga larga
+- Forma del cuello: cuello abotonado
 - Corte: corte regular, corte clásico
+- Colección: Casual
 - Lavar en ciclo normal a 40 °C, no usar lejía, no secar en secadora, planchar a máx. 150° (nivel 2), limpieza en seco con percloroetileno
+- Camisa Oxford de tejido sólido con puños de 1 botón en los puños y dobladillo redondeado.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B3MN7FB6{{</world>}}

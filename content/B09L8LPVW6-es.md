@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillos laterales con cremallera
-- Logotipo pequeño impreso en el lado del corazón
 - Logotipo grande en la parte interior
+- Logotipo pequeño impreso en el lado del corazón
+- Bolsillos laterales con cremallera
 - Logotipo "C" pequeño impreso en la manga izquierda
 - Cierre con cremallera
 

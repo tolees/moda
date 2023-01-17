@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre de botones
-- Cuello de camisa
-- Manga larga con puños ajustables
-- Bolsillos en el pecho con solapa y cierre de botón
 - Bajo ligeramente redondeado
+- Cuello de camisa
+- Bolsillos en el pecho con solapa y cierre de botón
+- Manga larga con puños ajustables
+- Cierre de botones
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B093TFZJMG{{</world>}}
