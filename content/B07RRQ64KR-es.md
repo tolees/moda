@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vero Moda Vmmaya Mr Loose Solid Pant Noos Pantalones  Negro  Black   38W / 30L para Mujer'
-date: 2023-01-16 14:50:45
+date: 2023-01-17 18:48:42
 image: 'https://m.media-amazon.com/images/I/31AdVKSgb9S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Vero Moda'
 buyurl: 'https://www.amazon.es/dp/B07RRQ64KR/?tag=tolees-21'
 descuento: '69.73'
-average: '13.79'
+average: '12.7233333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

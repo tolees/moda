@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s 511 Slim Vaqueros Hombre Poncho And Righty Adv  Azul  26 30'
-date: 2023-01-16 11:29:46
+date: 2023-01-17 18:33:27
 image: 'https://m.media-amazon.com/images/I/41XpBI5KyqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08BZRFJV5-es Levi s 511 Slim Vaqueros Hombre Poncho And Righty Adv Azul...'
 sku: 'B08BZRFJV5-es'
 tags: [ 'Moda','Moda Hombre','Ropa de hombre','Vaqueros para hombre','levis','vaqueros','🇪🇸', ]
-actualPrice: 37.04 EUR
+actualPrice: 80.48 EUR
 currency: EUR
-price: 37.04
+price: 80.48
 comparePrice: 119.95 EUR
 prodname: 'Levi s 511 Slim Vaqueros Hombre Poncho And Righty Adv  Azul  26 30'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B08BZRFJV5/?tag=tolees-21'
-descuento: '69.12'
-average: '47.48'
+descuento: '32.91'
+average: '54.08'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
