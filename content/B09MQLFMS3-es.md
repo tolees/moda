@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sudadera con cuello redondo con estampado del logotipo de purpurina
 - Exterior: 100 % algodón, insertos 95 % algodón, 5 % elastano
+- Sudadera con cuello redondo con estampado del logotipo de purpurina
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09MQLFMS3{{</world>}}
