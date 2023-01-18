@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'C&A Camisa de manga larga para hombre  azul oscuro  S'
-date: 2023-01-17 09:15:41
+date: 2023-01-18 15:33:25
 image: 'https://m.media-amazon.com/images/I/41Acci9LjeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Longitud de la manga: manga larga
-- Lavar en ciclo normal a 40 °C, no usar lejía, no secar en secadora, planchar a máx. 150° (nivel 2), limpieza en seco con percloroetileno
-- Forma del cuello: cuello abotonado
-- Colección: Casual
 - Corte: corte regular, corte clásico
 - Camisa Oxford de tejido sólido con puños de 1 botón en los puños y dobladillo redondeado.
+- Lavar en ciclo normal a 40 °C, no usar lejía, no secar en secadora, planchar a máx. 150° (nivel 2), limpieza en seco con percloroetileno
+- Colección: Casual
+- Forma del cuello: cuello abotonado
+- Longitud de la manga: manga larga
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B3MMVT4Q{{</world>}}
