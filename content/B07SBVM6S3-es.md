@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Hebilla de diseño atractivo con la marca Esprit
 - Piel auténtica
+- Hebilla de diseño atractivo con la marca Esprit
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07SBVM6S3{{</world>}}

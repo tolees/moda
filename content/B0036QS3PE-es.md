@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Havaianas Brasil Logo  Chanclas Unisex Adulto  Blanco  41/42 EU'
-date: 2023-01-12 23:50:06
-image: 'https://m.media-amazon.com/images/I/31pchh0hHdL._SL500_._SL400_.jpg'
+date: 2023-01-18 12:17:04
+image: 'https://m.media-amazon.com/images/I/31kL+VfZLQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Havaianas'
 buyurl: 'https://www.amazon.es/dp/B0036QS3PE/?tag=tolees-21'
 descuento: '42.16'
-average: '12.4566666666669'
+average: '12.4863529411767'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,13 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material exterior: Caucho
-- Material de la suela: Goma
-- Cierre: Sin cordones
-- Anchura del zapato: Normal
-- Composición: Goma
-- Fabricado en Brasil. Nota: El tamaño marcado en las chanclas es de tamaño brasileño.
 - Tipo de tacón: Plano
 - Resistente al agua
+- Material exterior: Caucho
+- Anchura del zapato: Normal
+- Material de la suela: Goma
+- Cierre: Sin cordones
+- Fabricado en Brasil. Nota: El tamaño marcado en las chanclas es de tamaño brasileño.
+- Composición: Goma
 
 [🛒 Aquí!!!]({{< param buyurl >}})
+{{<world>}}B0036QS3PE{{</world>}}

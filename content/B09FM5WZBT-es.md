@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Jack & Jones - JACK&JONES JACBAMBOO tee Camiseta  Black  S Men s'
+title: 'Jack & Jones - JACK&JONES JACBAMBOO tee Camiseta  White  S Men s'
 date: 2023-01-18 12:18:11
-image: 'https://m.media-amazon.com/images/I/31btgv+PcQL._SL500_._SL400_.jpg'
+image: 'https://m.media-amazon.com/images/I/31zmy6uH50L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B09FM4HRR5-es Jack & Jones - JACK&JONES JACBAMBOO tee Camiseta Black S...'
-sku: 'B09FM4HRR5-es'
+slug: 'B09FM5WZBT-es Jack & Jones - JACK&JONES JACBAMBOO tee Camiseta White S...'
+sku: 'B09FM5WZBT-es'
 tags: [ 'Camisetas para hombre','Camisetas, polos y camisas para hombre','Moda','Moda Hombre','Ropa de hombre','camiseta','jack & jones','🇪🇸', ]
-actualPrice: 9.1 EUR
+actualPrice: 11.25 EUR
 currency: EUR
-price: 9.1
-comparePrice: 19.9 EUR
-prodname: 'Jack & Jones - JACK&JONES JACBAMBOO tee Camiseta  Black  S Men s'
+price: 11.25
+comparePrice: 19.99 EUR
+prodname: 'Jack & Jones - JACK&JONES JACBAMBOO tee Camiseta  White  S Men s'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Jack & Jones'
-buyurl: 'https://www.amazon.es/dp/B09FM4HRR5/?tag=tolees-21'
-descuento: '54.27'
-average: '9.1'
+buyurl: 'https://www.amazon.es/dp/B09FM5WZBT/?tag=tolees-21'
+descuento: '43.72'
+average: '11.25'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -30,4 +30,4 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
-{{<world>}}B09FM4HRR5{{</world>}}
+{{<world>}}B09FM5WZBT{{</world>}}
