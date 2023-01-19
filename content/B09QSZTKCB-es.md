@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 - 96% Cotton 4% Elastane
 - Tejido de canalé
 - Cuello redondo
-- Corte skater con falda evasé
 - Estampado con flores y mariposas
+- Corte skater con falda evasé
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09QSZTKCB{{</world>}}
