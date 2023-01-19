@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Feethit Zapatillas de Running para Hombre Transpirables Running Zapatos para Correr Gimnasio Deportives Transpirables Seguridad Atlético Trekking Blanco Negro 40'
-date: 2023-01-18 01:21:04
+date: 2023-01-19 01:46:26
 image: 'https://m.media-amazon.com/images/I/41ktVWpH+lL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Feethit'
 buyurl: 'https://www.amazon.es/dp/B0B3CSP5N5/?tag=tolees-21'
 descuento: '20.26'
-average: '27.93'
+average: '27.9225'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
