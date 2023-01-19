@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvin Klein Jeans Camiseta Recta Moderna con Logotipo apilado Punto  Naranja Coral  M para Mujer'
-date: 2023-01-11 23:52:34
+date: 2023-01-19 10:56:59
 image: 'https://m.media-amazon.com/images/I/41qN7BwpDXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -31,3 +31,4 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 - Camiseta recta moderna con logotipo apilado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
+{{<world>}}B09QLLHSNY{{</world>}}

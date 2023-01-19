@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Cuello redondo:<br/> un clásico de las camisetas.
 - Cocodrilo bordado cosido en la parte trasera:<br/> Lacoste le cubre las espaldas.
-- Inscripción de la marca y estampado a contraste:<br/> destaque con Lacoste.
-- Regular fit, comodidad natural:<br/> una silueta atemporal.
 - Camiseta de hombre regular fit con estampado de monograma de la marca
+- Regular fit, comodidad natural:<br/> una silueta atemporal.
+- Inscripción de la marca y estampado a contraste:<br/> destaque con Lacoste.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09N9XN2HC{{</world>}}
