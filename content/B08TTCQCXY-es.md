@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ajuste regular
-- Capucha forrada de jersey
-- Puños y cintura acanalados
 - Bolsillo canguro
+- Capucha forrada de jersey
+- Ajuste regular
+- Puños y cintura acanalados
 - Algodón y poliéster reciclado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
