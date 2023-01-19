@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Cuello redondo
 - Camiseta manga corta tejido suave
-- Fit regular
 - Logo estampado con purpurina
+- Fit regular
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07GGJXWYD{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello redondo
 - Logotipo del póster de Levis en el pecho
+- Cuello redondo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09XSFYPS4{{</world>}}
