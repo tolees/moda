@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pantalones cortos cargo vintage estilo informal. Bragueta con cremallera
 - Algodón pesado de calidad, corte cargo clásico
-- Dos bolsillos traseros con solapas y botones grandes individuales. Dos bolsillos laterales cargo con solapas y dos botones grandes
+- Pantalones cortos cargo vintage estilo informal. Bragueta con cremallera
 - Cinturón interno de cadera. Dobladillo con cordel en el remate de las piernas. Siete trabillas para cinturón
+- Dos bolsillos traseros con solapas y botones grandes individuales. Dos bolsillos laterales cargo con solapas y dos botones grandes
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00B27I9GM{{</world>}}

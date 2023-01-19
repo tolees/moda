@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillo canguro
-- Detalles distintivos de la marca
 - Sudadera con capucha
 - Los puños y el dobladillo tienen una construcción acanalada para un ajuste cómodo
+- Bolsillo canguro
+- Detalles distintivos de la marca
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B291H5SB{{</world>}}
