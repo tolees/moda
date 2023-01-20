@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- TJW ESENCIAL - Abrigo de plumón con capucha
 - Este estilo ha sido producido de forma sostenible
+- TJW ESENCIAL - Abrigo de plumón con capucha
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0842HCFQS{{</world>}}
