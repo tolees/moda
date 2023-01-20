@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ajuste regular
-- Camiseta manga larga cuello redondo
 - Hecho con algodón 100% sostenible
+- Camiseta manga larga cuello redondo
+- Ajuste regular
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B009FVOZSS{{</world>}}

@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Holiday
-- Piel suave
-- Informal
 - Allday
 - Forro suave
+- Piel suave
+- Informal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B098QW1MDV{{</world>}}
