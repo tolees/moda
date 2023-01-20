@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s 501 Original Vaqueros  Azul  Ironwood Overt   31W / 30L para Hombre'
-date: 2023-01-19 21:12:47
+date: 2023-01-20 21:22:29
 image: 'https://m.media-amazon.com/images/I/31iHeTj9khL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B07LF5XYSX/?tag=tolees-21'
 descuento: '15.00'
-average: '100.533389830508'
+average: '100.416166666666'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

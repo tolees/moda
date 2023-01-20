@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Estilo clásico
 - Cinturón para mujer
+- Estilo clásico
 - Con cierre de hebilla
 
 [🛒 Comprar!!!]({{< param buyurl >}})
