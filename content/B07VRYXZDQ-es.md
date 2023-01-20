@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pack de 2 camisetas de estar por casa
 - Logo de Calvin Klein estampado en el pecho
+- Pack de 2 camisetas de estar por casa
 - Con un diseño atemporal y cómodo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
