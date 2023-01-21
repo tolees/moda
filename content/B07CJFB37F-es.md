@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Only Short Quilted Jacket Chaqueta  Black  L para Mujer'
-date: 2023-01-15 10:30:28
+date: 2023-01-21 19:23:19
 image: 'https://m.media-amazon.com/images/I/41pgyiS1TgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Only'
 buyurl: 'https://www.amazon.es/dp/B07CJFB37F/?tag=tolees-21'
 descuento: '30.93'
-average: '32.6875'
+average: '32.7752380952381'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,7 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Quilted jacket with hood
 - Padded outdoor jacket
+- Quilted jacket with hood
 
 [🛒 Visítala!!!]({{< param buyurl >}})
+{{<world>}}B07CJFB37F{{</world>}}
