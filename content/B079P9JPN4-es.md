@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pile con fodera in sherpa super comodo, caldo e soffice
 - Holgado en el pecho y entallado en la cintura
+- Pile con fodera in sherpa super comodo, caldo e soffice
 - Una marca de Amazon
 
 [🛒 Comprar!!!]({{< param buyurl >}})

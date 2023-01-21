@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Temporada 2022
 - Producto oficial Kappa
-- Explora nuestra gama de productos
-- Camiseta Kappa Ayba BWT Alpine F1 Team oficial Fórmula 1
 - Estilo: Clásico
+- Camiseta Kappa Ayba BWT Alpine F1 Team oficial Fórmula 1
+- Explora nuestra gama de productos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09TRLYF2Z{{</world>}}
