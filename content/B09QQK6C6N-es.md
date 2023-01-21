@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Pernera pitillo
-- Confección con al menos un 70 % de algodón sostenible
 - 0
 - Cintura regular
+- Confección con al menos un 70 % de algodón sostenible
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09QQK6C6N{{</world>}}

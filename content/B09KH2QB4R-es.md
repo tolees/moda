@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Estampado en el pecho
 - Camiseta estampada gráfica de algodón
-- Cuello redondo
 - Confección con 100 % algodón reciclado
+- Cuello redondo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09KH2QB4R{{</world>}}

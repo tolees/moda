@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'C&A Camiseta de manga larga para hombre con cuello redondo  color jaspeado/jaspeado  Gris y negro.  XL'
-date: 2023-01-18 11:02:32
+date: 2023-01-21 13:25:06
 image: 'https://m.media-amazon.com/images/I/31iZWFNfyGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,14 +28,14 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Longitud de la manga: manga larga
 - Camiseta funcional de punto suave de secado rápido.
 - Escote: cuello redondo
 - Lavar en ciclo suave a 40 °C, no usar lejía, no secar en secadora, planchar a máx. 110° (nivel 1), limpieza en seco con percloroetileno
-- Corte: corte regular, corte clásico
-- Ropa para correr
 - Particularidad: secado rápido
+- Longitud de la manga: manga larga
+- Corte: corte regular, corte clásico
 - Colección: ropa funcional
+- Ropa para correr
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BB6TGPSG{{</world>}}
