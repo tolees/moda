@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Holgado en el pecho y entallado en la cintura
 - Una marca de Amazon
 - Diseñado con un corte bajo y un silueta sugerente que favorece tus curvas
+- Holgado en el pecho y entallado en la cintura
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07HRPLH5Q{{</world>}}
