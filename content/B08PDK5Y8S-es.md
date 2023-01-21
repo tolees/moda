@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Nos encanta llevarlos por dentro o por fuera
 - Una prenda supersuave con cuello en pico que combina bien con todo
 - Con el logotipo emblemático de Levis
+- Nos encanta llevarlos por dentro o por fuera
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08PDK5Y8S{{</world>}}

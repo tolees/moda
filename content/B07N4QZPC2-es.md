@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Modelo es 510" y lleva una talla S
-- Cómodo y ligero, este suéter de punto medio de algodón con cuello en V profundo y aberturas laterales es perfecto por sí mismo o como capa adicional.
 - En Goodthreads, estamos en una misión para crear ropa increíble hecha con cuidado.
+- Cómodo y ligero, este suéter de punto medio de algodón con cuello en V profundo y aberturas laterales es perfecto por sí mismo o como capa adicional.
+- Modelo es 510" y lleva una talla S
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07N4QZPC2{{</world>}}

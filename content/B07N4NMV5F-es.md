@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Modelo es 510" y lleva una talla S
-- Diseñado con un corte bajo y un silueta sugerente que favorece tus curvas
 - Cómodo y ligero, este suéter de punto medio de algodón con cuello en V profundo y aberturas laterales es perfecto por sí mismo o como capa adicional.
+- Diseñado con un corte bajo y un silueta sugerente que favorece tus curvas
+- Modelo es 510" y lleva una talla S
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07N4NMV5F{{</world>}}
