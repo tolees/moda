@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HAWKERS Fusion Gafas de sol Unisex adulto  Fusion Oro Rosa F18'
-date: 2023-01-20 16:16:27
+date: 2023-01-22 00:21:10
 image: 'https://m.media-amazon.com/images/I/31OnuIQtdWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HAWKERS'
 buyurl: 'https://www.amazon.es/dp/B07Q5ZT57X/?tag=tolees-21'
 descuento: '59.99'
-average: '26.0129032258065'
+average: '25.7625'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Medidas: Frente: 14,2 cm, Altura: 4,9 cm, Diámetro de la lente: 5,75 cm; Puente: 2,5 cm; Varillas: 14 cm
-- Gafas de Sol Faster, Unisex, diseño deportivo rectangular curvado con montura negro mate y con lente verde y morado con efecto espejo
 - Producto original Hawkers; la caja incluye funda de microfibra, caja y set de pegatinas decorativas
+- Gafas de Sol Faster, Unisex, diseño deportivo rectangular curvado con montura negro mate y con lente verde y morado con efecto espejo
 - Lente cromada en verde y morado con efecto espejo, fabricada en TR18, con reducción de brillos y con gran equilibrio entre claridad y protección; lente de categoría 3 con protección UV400
+- Medidas: Frente: 14,2 cm, Altura: 4,9 cm, Diámetro de la lente: 5,75 cm; Puente: 2,5 cm; Varillas: 14 cm
 - Montura fabricada en TR90 que dota a las gafas de gran ligereza, flexibilidad y resistencia; muy resistente a altas y bajas temperaturas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
