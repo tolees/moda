@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Goodthreads Bufanda Chal con Flecos Ruanna Mujer  Camel Oscuro/Azul Marino  Búfalo  Talla única'
-date: 2023-01-21 08:12:02
+date: 2023-01-22 21:00:03
 image: 'https://m.media-amazon.com/images/I/41Golh6mIoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
