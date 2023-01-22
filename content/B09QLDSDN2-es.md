@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Pepe Jeans Original Basic 2 Long N Camiseta Hombre  Gris  Grey Marl   M'
-date: 2023-01-12 11:01:21
-image: 'https://m.media-amazon.com/images/I/41yL-XF2ySL._SL500_._SL400_.jpg'
+date: 2023-01-22 12:59:19
+image: 'https://m.media-amazon.com/images/I/41OVJhREM8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pepe Jeans'
 buyurl: 'https://www.amazon.es/dp/B09QLDSDN2/?tag=tolees-21'
 descuento: '30.00'
-average: '17.525'
+average: '17.5166666666667'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Corte Slim
-- Cuello redondo
 - Camiseta algodón manga larga
+- Cuello redondo
+- Corte Slim
 
 [🛒 Visítala!!!]({{< param buyurl >}})
+{{<world>}}B09QLDSDN2{{</world>}}
