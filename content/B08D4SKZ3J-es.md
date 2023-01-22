@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Sportswear Logo Graphic Camiseta Hombre Sportswear Logo Beautiful Black+  Negro  S -'
-date: 2023-01-16 08:00:35
+date: 2023-01-21 21:07:44
 image: 'https://m.media-amazon.com/images/I/41xwF+7mLmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B08D4SKZ3J/?tag=tolees-21'
 descuento: '51.67'
-average: '15.635'
+average: '15.2566666666667'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con el logotipo deportivo de Levis
 - Modelo casual
+- Con el logotipo deportivo de Levis
 - Fabricada en tejido ligero
 
 [🛒 Aquí!!!]({{< param buyurl >}})
