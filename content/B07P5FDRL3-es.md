@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazon Essentials Jersey de Algodón con Cremallera Completa Hombre  Carbón Mezcla  L'
-date: 2023-01-21 11:17:45
+date: 2023-01-22 15:59:26
 image: 'https://m.media-amazon.com/images/I/41-UEyd89yL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
