@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Longitud de la manga: manga larga
-- Corte: corte entallado, corte delgado
+- Cierre: cremallera
 - Chaqueta de forro polar suave con bolsillo canguro dividido.
+- Corte: corte entallado, corte delgado
+- Longitud de la manga: manga larga
+- Colección: Colección Basic
+- Longitud: longitud normal
 - Lavar en ciclo suave a 30 °C, no usar lejía, no secar en secadora, planchar a máx. 110° (nivel 1), no limpiar en seco
 - Forma del cuello: cuello alto
-- Longitud: longitud normal
-- Colección: Colección Basic
-- Cierre: cremallera
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BLS9J3L9{{</world>}}
