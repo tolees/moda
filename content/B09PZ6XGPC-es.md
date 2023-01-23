@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Chaqueta Jjlock  Gris Claro  L para Hombre'
-date: 2023-01-19 15:30:55
+date: 2023-01-23 10:54:58
 image: 'https://m.media-amazon.com/images/I/41McHt+XVaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
