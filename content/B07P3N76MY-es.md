@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Una marca de Amazon
-- Holgado en el pecho y entallado en la cintura
 - Tessuto in pile termico mediamente pesante, lanuginoso, caldo e morbido
+- Holgado en el pecho y entallado en la cintura
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07P3N76MY{{</world>}}
