@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Holgado en el pecho y entallado en la cintura
 - Una marca de Amazon
+- Holgado en el pecho y entallado en la cintura
 - Pile mediamente pesante, comodissimo, caldo e morbido con retro spazzolato
 
 [🛒 Aquí!!!]({{< param buyurl >}})

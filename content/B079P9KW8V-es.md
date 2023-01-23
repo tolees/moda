@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Holgado en el pecho y entallado en la cintura
 - Pile con fodera in sherpa super comodo, caldo e soffice
+- Holgado en el pecho y entallado en la cintura
 - Una marca de Amazon
 
 [🛒 Aquí!!!]({{< param buyurl >}})

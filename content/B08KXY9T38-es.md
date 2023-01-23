@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jjeseam - Chaqueta Con Capucha Hombre  Black  XL'
-date: 2023-01-20 11:15:55
+date: 2023-01-23 08:02:36
 image: 'https://m.media-amazon.com/images/I/318QGUqgYFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Ligero
-- Capucha
 - Chaqueta
+- Capucha
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08KXY9T38{{</world>}}

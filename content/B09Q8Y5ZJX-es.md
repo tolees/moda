@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Corte recto
 - Capucha con parte delantera cruzada, triángulo de canalé insertado y cordones ajustables
-- Paneles laterales, puños y cintura acanalados
 - Manga larga recta insertada con borde redondeado
+- Paneles laterales, puños y cintura acanalados
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09Q8Y5ZJX{{</world>}}
