@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Vestido sostenible, largo hasta la rodilla
 - Fabricado con Tencel Modal. Este producto se ha fabricado con fibras de la marca Modal. Estas son fibras de alta calidad que se obtienen de madera de haya de crecimiento natural. La fabricación de estas fibras reduce el impacto en el medio ambiente.
+- Vestido sostenible, largo hasta la rodilla
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09CYRXKF1{{</world>}}
