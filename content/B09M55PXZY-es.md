@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vero Moda Vmbeverly Short Jacket Boos Chaqueta  Negro  XS para Mujer'
-date: 2023-01-22 21:56:50
+date: 2023-01-24 05:45:03
 image: 'https://m.media-amazon.com/images/I/31xPZAVWetL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

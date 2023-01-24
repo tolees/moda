@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Springfield Jersey   Suéter Mujer  Púrpura/Lila  Purple/Lilac   L'
-date: 2023-01-22 21:53:35
+date: 2023-01-24 05:38:21
 image: 'https://m.media-amazon.com/images/I/41dT00dfM8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Springfield'
 buyurl: 'https://www.amazon.es/dp/B0B7RDHRGF/?tag=tolees-21'
 descuento: '45.86'
-average: '23.1833333333333'
+average: '22.8'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con cuello perkins
 - Jersey básico cuello pico en 100% Algodón
 - Proyecto RECONSIDER
+- Con cuello perkins
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B7RDHRGF{{</world>}}

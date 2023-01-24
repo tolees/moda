@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vero Moda Vmverodona LS Jacket Noos Abrigo  Negro  Black Black   44  Talla del Fabricante: X-Large  para Mujer'
-date: 2023-01-21 10:11:13
+date: 2023-01-24 05:45:07
 image: 'https://m.media-amazon.com/images/I/31+4BQ5w2oL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
