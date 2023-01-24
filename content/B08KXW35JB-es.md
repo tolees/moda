@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jjeseam - Chaqueta Con Capucha Hombre  Light Grey  M'
-date: 2023-01-20 17:34:51
+date: 2023-01-24 07:53:02
 image: 'https://m.media-amazon.com/images/I/41YDDR5k3kS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08KXW35JB-es Jack & Jones Jjeseam - Chaqueta Con Capucha Hombre Light...'
 sku: 'B08KXW35JB-es'
 tags: [ 'Chaquetas para hombre','Moda','Moda Hombre','Ropa de abrigo para hombre','Ropa de hombre','chaqueta','jack & jones','🇪🇸', ]
-actualPrice: 39.23 EUR
+actualPrice: 28.79 EUR
 currency: EUR
-price: 39.23
+price: 28.79
 comparePrice: 54.99 EUR
 prodname: 'Jack & Jones Jjeseam - Chaqueta Con Capucha Hombre  Light Grey  M'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B08KXW35JB/?tag=tolees-21'
-descuento: '28.66'
-average: '39.23'
+descuento: '47.65'
+average: '34.01'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
