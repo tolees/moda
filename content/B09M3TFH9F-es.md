@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Only Classic Coat Abrigo  Hot Fudge/Melange  M para Mujer'
-date: 2023-01-23 07:52:37
+date: 2023-01-24 11:43:12
 image: 'https://m.media-amazon.com/images/I/41mgFY9KHdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Only'
 buyurl: 'https://www.amazon.es/dp/B09M3TFH9F/?tag=tolees-21'
 descuento: '50.01'
-average: '23.39'
+average: '23.79'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

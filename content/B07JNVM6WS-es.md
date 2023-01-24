@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HAWKERS Gafas de sol ONE para hombre y mujer  Talla única  Diamante Negro/Azul Cielo'
-date: 2023-01-21 10:18:07
+date: 2023-01-24 11:07:55
 image: 'https://m.media-amazon.com/images/I/31qh4dmaiZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HAWKERS'
 buyurl: 'https://www.amazon.es/dp/B07JNVM6WS/?tag=tolees-21'
 descuento: '60.02'
-average: '16.53'
+average: '16.395'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Medidas: Frente: 14cm, Altura: 5cm, Varillas: 14cm
 - Lente azul con efecto espejo en TR18, con reducción de brillos y con gran equilibrio entre claridad y protección. Lente de categoría 3 con protección UV400. Resistencia muy altaP9
-- Icónico modelo Hawkers One, Unisex, con montura Diamond Black brillante y lente azul con efecto espejo
 - Montura fabricada en TR90, que dota a las gafas de gran ligereza, flexibilidad y resistencia, muy resistente a altas y bajas temperaturas.
 - Producto original Hawkers. La caja incluye funda de microfibra, caja y set de pegatinas decorativas.
+- Icónico modelo Hawkers One, Unisex, con montura Diamond Black brillante y lente azul con efecto espejo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07JNVM6WS{{</world>}}

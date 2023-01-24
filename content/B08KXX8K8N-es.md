@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jjeseam - Chaqueta Con Capucha Hombre  Light Grey  L'
-date: 2023-01-20 13:39:33
+date: 2023-01-24 11:04:46
 image: 'https://m.media-amazon.com/images/I/41YDDR5k3kS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Chaqueta con capucha
-- Bordado
 - Algodón
 - JACK & JONES Letras
+- Bordado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08KXX8K8N{{</world>}}

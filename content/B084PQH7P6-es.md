@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clarks Desert Boot Bushacre 3  Botas Hombre  Negro  Black Glossy Leather   46 EU'
-date: 2023-01-20 21:19:54
+date: 2023-01-24 10:40:47
 image: 'https://m.media-amazon.com/images/I/31pmz-FBfbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Clarks'
 buyurl: 'https://www.amazon.es/dp/B084PQH7P6/?tag=tolees-21'
 descuento: '26.21'
-average: '82.7264285714286'
+average: '82.128'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material interior: sintético
-- Parte superior: cuero
-- Cierre: goma
 - Ancho del zapato: estrecho
 - Peso ligero
+- Cierre: goma
+- Material interior: sintético
+- Parte superior: cuero
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B084PQH7P6{{</world>}}
