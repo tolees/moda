@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- SINGLE JERSEY
 - SINGLE JERSEY LARGA SLEEVE POLO. COLLAR AND CUFFS FINISHED BY RIBS. Detalles del collar. Embroided Logo and Flag.
+- SINGLE JERSEY
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09QLFJQ1S{{</world>}}
