@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuero: charol
 - 9.3307086519 Pulgadas
+- Cuero: charol
 - Cierre: goma
 
 [🛒 Comprar!!!]({{< param buyurl >}})

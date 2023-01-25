@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Bolsillo canguro
 - Capucha con cordón
-- Ajuste regular
 - Lavar a la maquina
+- Ajuste regular
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B076HMSDR1{{</world>}}
