@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Pique Polo Shirt Camiseta  Navy  M para Hombre'
-date: 2023-01-12 16:27:29
+date: 2023-01-25 14:34:24
 image: 'https://m.media-amazon.com/images/I/41EyzILb0CL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -31,3 +31,4 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 - Polo para hombre de la marca danesa Jack & Jones
 
 [🛒 Comprar!!!]({{< param buyurl >}})
+{{<world>}}B09NYKYCDJ{{</world>}}
