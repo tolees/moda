@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Filato bouclé extra avvolgente e comodo per maglioni
 - Corte cómodo y fluido
+- Filato bouclé extra avvolgente e comodo per maglioni
 - Una marca de Amazon
 
 [🛒 Comprar!!!]({{< param buyurl >}})
