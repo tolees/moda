@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- RELAXED
 - Transparente.
 - DENIM STRETCH
+- RELAXED
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08CXVJDB4{{</world>}}
