@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Manga larga
 - Bolsillos frontales para guardar tus pertenencias
 - Logotipo del felino PUMA en la parte derecha del pecho
-- Manga larga
 - Algodón, poliéster y elastano
 
 [🛒 Aquí!!!]({{< param buyurl >}})
