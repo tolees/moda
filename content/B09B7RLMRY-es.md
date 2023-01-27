@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Lentes descentradas: permiten una visión clara y sin distorsiones
 - Protección contra los rayos UV
-- Rayos infrarrojos reflejos de las lentes espejadas
+- Lentes descentradas: permiten una visión clara y sin distorsiones
 - Gafas con lentes de cerámica
+- Rayos infrarrojos reflejos de las lentes espejadas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09B7RLMRY{{</world>}}

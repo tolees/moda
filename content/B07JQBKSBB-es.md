@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- jeans with skinny fit
 - blue washing
+- jeans with skinny fit
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07JQBKSBB{{</world>}}

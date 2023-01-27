@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- elastic cotton mixture
 - blue denim jeans with slim leg
+- elastic cotton mixture
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07JQBKFB9{{</world>}}
