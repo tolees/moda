@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CICLISTA EN JERSEY STRETCH CON LOGO BORADO EN EL FONDO
 - 96% algodón 4% elastano
+- CICLISTA EN JERSEY STRETCH CON LOGO BORADO EN EL FONDO
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09MSHSBKG{{</world>}}
