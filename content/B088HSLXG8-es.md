@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vero Moda Vmloa HR Skinny S Coated Pant Ga Noos Pantalones  Negro  M para Mujer'
-date: 2023-01-17 18:51:37
+date: 2023-01-29 20:41:49
 image: 'https://m.media-amazon.com/images/I/31k30tzguUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
