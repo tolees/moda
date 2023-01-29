@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Logotipo "C" pequeño impreso en la manga izquierda
+- Logotipo grande impreso en la manga
 - Corte regular
 - Logotipo pequeño de alta intensidad impreso en el lado del corazón
-- Logotipo grande impreso en la manga
+- Logotipo "C" pequeño impreso en la manga izquierda
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09L8RP7BR{{</world>}}
