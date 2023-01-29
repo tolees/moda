@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre con cordón
-- Cintura y puños elásticos
 - Logotipo grande impreso de alta intensidad en el pecho
-- Logotipo "C" pequeño impreso en la manga izquierda
+- Cintura y puños elásticos
 - Bolsillo tipo canguro
+- Logotipo "C" pequeño impreso en la manga izquierda
+- Cierre con cordón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09L8KRVBL{{</world>}}
