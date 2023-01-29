@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazon Essentials Sudadera de Forro Polar con Capucha  Cremallera Completa y Forro Sherpa Hombre  Verde Oliva  L'
-date: 2023-01-24 15:17:26
+date: 2023-01-29 14:30:07
 image: 'https://m.media-amazon.com/images/I/41sRGegUC7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Amazon Essentials'
 buyurl: 'https://www.amazon.es/dp/B079P8TNY7/?tag=tolees-21'
 descuento: '49.98'
-average: '13.7'
+average: '13.3833333333333'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Disponible en tres colores
 - Bandera característica de la marca impresa sobre el pecho
 - Sudadera capucha hombre de Geographical Norway
+- Disponible en tres colores
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B9HHPXWZ{{</world>}}

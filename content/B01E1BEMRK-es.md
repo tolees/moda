@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JACK & JONES JCOBORO TEE SS CREW NECK  Camiseta Hombre  Negro  Black   XX-Large'
-date: 2023-01-22 17:31:06
+date: 2023-01-29 14:25:55
 image: 'https://m.media-amazon.com/images/I/31n133ONv-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B01E1BEMRK/?tag=tolees-21'
 descuento: '50.06'
-average: '10.3233333333333'
+average: '9.73999999999998'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Dobladillo ligeramente redondeado
-- Hecho de algodón cómodo
-- Ajuste estándar
 - Composición: 100% algodón
+- Ajuste estándar
+- Hecho de algodón cómodo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01E1BEMRK{{</world>}}
