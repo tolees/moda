@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con capucha
 - 65% Cotton 35% Polyester
-- Estampado de textos positivos, como "Joy is now", efecto pintado a mano
 - Cuello redondo
+- Con capucha
 - Puños y bajo elásticos
+- Estampado de textos positivos, como "Joy is now", efecto pintado a mano
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09QT2BJG4{{</world>}}

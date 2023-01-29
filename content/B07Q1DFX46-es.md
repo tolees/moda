@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Una marca de Amazon
 - Tessuto durevole e resistente all’acqua con imbottitura che garantisce calore
+- Una marca de Amazon
 - Holgado en el pecho y la cintura
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
