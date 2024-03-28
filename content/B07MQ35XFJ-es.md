@@ -1,0 +1,39 @@
+---
+layout: post
+title: 'Geox U Aerantis A  Sneakers para Hombre  Azul  Navy    45 EU'
+date: 2024-02-29 22:19:40
+image: 'https://m.media-amazon.com/images/I/31hJw4BAEzS._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B07MQ35XFJ-es Geox U Aerantis A Sneakers para Hombre Azul Navy 45 EU'
+sku: 'B07MQ35XFJ-es'
+tags: [ 'Arborist Merchandising Root','ES MTBB Group 5','Men Top Brands Bestsellers','Moda','Moda Hombre','Self Service','Special Features Stores','Zapatillas casual para hombre','Zapatillas deportivas y de moda para hombre','Zapatos para hombre','c8538d25-3af9-48d3-aeff-5f3ce5572a36_0','c8538d25-3af9-48d3-aeff-5f3ce5572a36_6601','geox','🇪🇸', ]
+actualPrice: 72.2 EUR
+currency: EUR
+price: 72.2
+comparePrice: 149.9 EUR
+prodname: 'Geox U Aerantis A  Sneakers para Hombre  Azul  Navy    45 EU'
+country: 'es'
+flag: '🇪🇸'
+brand: 'Geox'
+buyurl: 'https://www.amazon.es/dp/B07MQ35XFJ/?tag=tolees-21'
+descuento: '51.83'
+average: '72.2'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Calzado que ofrece una amortiguación óptima y protege contra choques y esfuerzos
+- Plantilla desmontable
+- Fácil de llevar para un confort optimo
+- Calzado ligero para una libertad de movimiento
+- Calce regulable con cordón elástico
+- La transpirabilidad y ventilación interna se ven reforzadas gracias al Ventilaction System, combinado con los sistemas patentados Inner Breathing System y Net Breathing System para un confort optimo
+
+[🛒 Accede a la oferta!!]({{< param buyurl >}})
+{{<world>}}B07MQ35XFJ{{</world>}}
