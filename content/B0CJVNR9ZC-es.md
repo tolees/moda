@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Camiseta de manga corta con elástico en la parte inferior de la manga y cuello redondo con rib. Gráficos de efecto globo. Ajuste ligero ancho
 - 100% algodón
+- Camiseta de manga corta con elástico en la parte inferior de la manga y cuello redondo con rib. Gráficos de efecto globo. Ajuste ligero ancho
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CJVNR9ZC{{</world>}}
