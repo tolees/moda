@@ -1,0 +1,39 @@
+---
+layout: post
+title: 'Geox J Arzach Boy D  Sneakers Niños  Negro  39 EU'
+date: 2024-10-13 13:06:25
+image: 'https://m.media-amazon.com/images/I/31tQkDNpObL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0792JMP7X-es Geox J Arzach Boy D Sneakers Niños Negro 39 EU'
+sku: 'B0792JMP7X-es'
+tags: [ 'Arborist Merchandising Root','Buy 2 get 10% off on shoes','Compra 2, y obtén un 10% de descuento','Geox Shoes','Moda','Moda Niño','Self Service','Special Features Stores','Zapatillas casual para niño','Zapatillas deportivas y de moda para niños','Zapatos de niño','c8538d25-3af9-48d3-aeff-5f3ce5572a36_0','c8538d25-3af9-48d3-aeff-5f3ce5572a36_5501','c8538d25-3af9-48d3-aeff-5f3ce5572a36_6301','geox','🇪🇸', ]
+actualPrice: 34.81 EUR
+currency: EUR
+price: 34.81
+comparePrice: 69.9 EUR
+prodname: 'Geox J Arzach Boy D  Sneakers Niños  Negro  39 EU'
+country: 'es'
+flag: '🇪🇸'
+brand: 'Geox'
+buyurl: 'https://www.amazon.es/dp/B0792JMP7X/?tag=tolees-21'
+descuento: '50.20'
+average: '39.828'
+---
+
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Plantilla antibacteriana
+- Calzado con suela antihuellas
+- Calce fácil de regular gracias al cierre con cordones
+- Plantilla de piel atóxica sin cromo
+- Los sistemas patentados Geox ofrecen la transpirabilidad de la suela y el bienestar del pie
+- Plantilla desmontable
+
+[🛒 Visítala!!!]({{< param buyurl >}})
+{{<world>}}B0792JMP7X{{</world>}}
