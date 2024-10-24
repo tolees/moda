@@ -1,0 +1,35 @@
+---
+layout: post
+title: 'Havaianas Top Tiras  Chanclas Mujer  Rose Gold  37/38 EU'
+date: 2024-10-23 16:04:12
+image: 'https://m.media-amazon.com/images/I/519nV7FEb4L._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B01L412ODO-es Havaianas Top Tiras Chanclas Mujer Rose Gold 37/38 EU'
+sku: 'B01L412ODO-es'
+tags: [ '-20% adicional en moda','Arborist Merchandising Root','Basados en tus valoraciones: Los favoritos de este mes','Básicos de Moda','Días de Moda','Havaianas','Ideas para regalos en Moda y Accesorios','Moda','Moda Mujer','Moda para chica','Sandalias de dedo para mujer','Sandalias y chanclas para mujer','Self Service','Shoes | Co-gender | Sandals & Slides','Softlines | Shoes | Co-gender','Special Features Stores','Vuelta al cole en Moda','Zapatos para mujer','c8538d25-3af9-48d3-aeff-5f3ce5572a36_0','c8538d25-3af9-48d3-aeff-5f3ce5572a36_222302','c8538d25-3af9-48d3-aeff-5f3ce5572a36_2301','c8538d25-3af9-48d3-aeff-5f3ce5572a36_3601','c8538d25-3af9-48d3-aeff-5f3ce5572a36_3901','c8538d25-3af9-48d3-aeff-5f3ce5572a36_5401','c8538d25-3af9-48d3-aeff-5f3ce5572a36_6001','c8538d25-3af9-48d3-aeff-5f3ce5572a36_9001','c8538d25-3af9-48d3-aeff-5f3ce5572a36_9201','c8538d25-3af9-48d3-aeff-5f3ce5572a36_9601','chanclas','havaianas','🇪🇸', ]
+actualPrice: 11.65 EUR
+currency: EUR
+price: 11.65
+comparePrice: 24.0 EUR
+prodname: 'Havaianas Top Tiras  Chanclas Mujer  Rose Gold  37/38 EU'
+country: 'es'
+flag: '🇪🇸'
+brand: 'Havaianas'
+buyurl: 'https://www.amazon.es/dp/B01L412ODO/?tag=tolees-21'
+descuento: '51.46'
+average: '12.7033333333334'
+---
+
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- No aplicable
+- 80% Caucho 20% PVC
+
+[🛒 Visítala!!!]({{< param buyurl >}})
+{{<world>}}B01L412ODO{{</world>}}
