@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cuenta con ribete de canalé en cuello, puños y cintura para un ajuste óptimo
-- Presentan el logotipo bordado
 - Sudadera con cuello redondo
+- Presentan el logotipo bordado
 - Fabricada en Poliéster
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

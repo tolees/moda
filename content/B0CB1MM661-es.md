@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - No usar lejía; no meter en la secadora; no lavar en seco
-- Cuidados: lavar en agua fría; planchar a baja temperatura
 - Con cierre de cremallera y un bolsillito en su interior, también con cierre de cremallera
+- Cuidados: lavar en agua fría; planchar a baja temperatura
 - Bolsa de tela estilo Bolso de mano, realizada en algodón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

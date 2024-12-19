@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sin forro
-- Indice de transpirabilidad 5.000g/m2/24 hr
 - Acabado hidrófugo duradero
+- Indice de transpirabilidad 5.000g/m2/24 hr
+- Sin forro
 - Tejido en poliamida muy ligero, impermeable y transpirable Isolite 5.000
 - Costuras selladas
 

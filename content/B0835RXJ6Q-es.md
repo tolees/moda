@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillos con cremallera para todas tus cosas
 - Buena chaqueta de entretiempo
 - Dobladillo, puños y cuello acanalados
+- Bolsillos con cremallera para todas tus cosas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0835RXJ6Q{{</world>}}

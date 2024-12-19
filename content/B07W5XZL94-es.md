@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Maximum Comfort
-- Nike Dry Fabric
-- Hombre
 - Tipo de fábrica: 100% Polyester
+- Hombre
+- Maximum Comfort
 - Regular fit
+- Nike Dry Fabric
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07W5XZL94{{</world>}}

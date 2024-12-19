@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tamaño: 110C
+- Selene Sujetador Estela Sin Aros Y Sin Relleno Tierra 110C
 - Tipo de producto: BRA
 - Marca: Selene
-- Selene Sujetador Estela Sin Aros Y Sin Relleno Tierra 110C
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00ADKT40E{{</world>}}

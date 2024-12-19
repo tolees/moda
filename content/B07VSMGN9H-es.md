@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - 🎲 [VIDEOJUEGO HEROMASK MATEMÁTICAS] → Pulsa el botón y lanza rayos láser. ¡Los niños aprenderán matemáticas divirtiéndose como nunca! Busca videos de Heromask Mathematics en internet. Ayuda con el cálculo mental, tabla de multiplicar…
-- 🛠️ [SOPORTE TÉCNICO] → Todos los iPhone desde el modelo 5s son compatibles con realidad virtual (excepto si tiene instalado el sistema operativo iOS 12), pero algunos Android no lo son. Si quieres, pregunta abajo tu modelo de teléfono móvil y investigaremos por ti si es compatible con VR o no. ¡Compra con seguridad!
-- → Juego educativo multipremiado que logra que niños y niñas de 5, 6, 7, 8…, hasta 12 años se sorprendan. Por ello, otros clientes suelen comprar Heromask como regalo original de cumpleaños, primera comunión, Navidad o Reyes Magos. ¡Juégalo en familia!
 - 🔥 [NUEVO MODELO GAFAS VIRTUALES HEROMASK] → Con ajuste interpupilar (válidas tanto para los ojos de los niños como de los adultos) y botón mecánico incorporado (no necesita pilas).
+- → Juego educativo multipremiado que logra que niños y niñas de 5, 6, 7, 8…, hasta 12 años se sorprendan. Por ello, otros clientes suelen comprar Heromask como regalo original de cumpleaños, primera comunión, Navidad o Reyes Magos. ¡Juégalo en familia!
+- 🛠️ [SOPORTE TÉCNICO] → Todos los iPhone desde el modelo 5s son compatibles con realidad virtual (excepto si tiene instalado el sistema operativo iOS 12), pero algunos Android no lo son. Si quieres, pregunta abajo tu modelo de teléfono móvil y investigaremos por ti si es compatible con VR o no. ¡Compra con seguridad!
 - → Las gafas de realidad virtual pueden ser usadas por toda la familia para ver videos o jugar a otros juegos de realidad virtual.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

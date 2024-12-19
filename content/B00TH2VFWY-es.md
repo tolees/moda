@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bordado inglés en las mangas
-- El cuello, los puños y el dobladillo son elásticos
 - Corte favorecedor
+- El cuello, los puños y el dobladillo son elásticos
+- Bordado inglés en las mangas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00TH2VFWY{{</world>}}

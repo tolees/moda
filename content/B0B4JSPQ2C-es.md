@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Producto original Hawkers. La caja incluye funda en microfibra y caja
-- Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Diseño más ancho del terminal de la patilla para mejorar la ergonomía y confort. Bisagra rotativa de alta calidad que permite libre movimientos entre patilla y frontal.
 - Modelo Unisex. Medidas: Frontal 141 mm; Patillas 140 mm; Puente 17 mm; Diámetro de lente 55,7 mm
 - Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores. Lentes categoría 3 de ECO TAC polarizado de 1,2 mm que proporcionan protección 100% UV400.
 - ONE es nuestro diseño más vendido de todos los tiempos, y las monturas negras son sin duda las más populares. Este modelo totalmente negro con lentes oscuras polarizadas, de la colección Made in Spain, tiene un llamativo efecto fibra de carbono diagonal en el frontal y exterior de las patillas. Los bordes de la montura tienen un efecto mate que acentúa el efecto CARBONO.
+- Producto original Hawkers. La caja incluye funda en microfibra y caja
+- Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Diseño más ancho del terminal de la patilla para mejorar la ergonomía y confort. Bisagra rotativa de alta calidad que permite libre movimientos entre patilla y frontal.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B4JSPQ2C{{</world>}}

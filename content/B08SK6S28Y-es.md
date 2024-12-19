@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Capucha forrada en un tejido de punto con cordón regulable, para un ajuste personalizado
+- Contiene material reciclado: Producto elaborado con fibras recicladas. Una de las soluciones de PUMA para reducir el impacto ambiental
 - Corte normal
 - Con bolsillos canguro, para guardar tus pertenencias con seguridad
 - Dobladillo y puños acanalados
-- Contiene material reciclado: Producto elaborado con fibras recicladas. Una de las soluciones de PUMA para reducir el impacto ambiental
-- Capucha forrada en un tejido de punto con cordón regulable, para un ajuste personalizado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08SK6S28Y{{</world>}}

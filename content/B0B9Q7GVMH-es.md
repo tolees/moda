@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Guess Modelo RELOGIO GUESS
 - 11 milimetros calendario Sin cierre a presion plegable
+- Guess Modelo RELOGIO GUESS
 - Analógico para Mujer
 
 [🛒 Visítala!!!]({{< param buyurl >}})
