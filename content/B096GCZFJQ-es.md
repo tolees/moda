@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte
 - Capucha ajustable con cable
 - Bolsillo en un marsupium
+- Corte
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B096GCZFJQ{{</world>}}

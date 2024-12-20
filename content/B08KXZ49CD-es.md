@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Suave
-- algodón
 - Cuello
+- algodón
 - Ajuste: delgado
 - Tira de botones
 - Camisa

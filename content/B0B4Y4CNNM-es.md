@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Artículos entregados: 1x helly hansen mens verglas hooded down insulator - ins jacket darkest spr l
-- Cremalleras ykk
 - Dos bolsillos frontales
+- Cremalleras ykk
 - Tratamiento dwr c6
+- Artículos entregados: 1x helly hansen mens verglas hooded down insulator - ins jacket darkest spr l
 - Primaloft silver
 
 [🛒 Comprar!!!]({{< param buyurl >}})

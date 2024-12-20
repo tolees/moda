@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Buena chaqueta de entretiempo
 - Bolsillos con cremallera para todas tus cosas
+- Buena chaqueta de entretiempo
 - Dobladillo, puños y cuello acanalados
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

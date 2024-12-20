@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ropa deportiva Nike
 - Training
 - Camiseta Tiempo libre y sportwear Hombre
 - Muy conveniente
+- Ropa deportiva Nike
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07H4KSBJY{{</world>}}

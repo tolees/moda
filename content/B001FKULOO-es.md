@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Tejido cortavientos
 - Tejido de poliéster impermeable Hydrafort 5000
 - Ponte nuestra chaqueta Stormbreak ligera e impermeable
-- Los dobladillos se ajustan y los puños están acabados con elástico para garantizar un ajuste que bloquea la brisa
-- Tejido cortavientos
 - Combínalo con la chaqueta Stormbreak para una protección de pies a cabeza
+- Los dobladillos se ajustan y los puños están acabados con elástico para garantizar un ajuste que bloquea la brisa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B001FKULOO{{</world>}}

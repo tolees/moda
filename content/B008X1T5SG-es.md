@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Incluye un juego de tirantes téxtiles e invisibles
 - Con aros y relleno doble push up
+- Incluye un juego de tirantes téxtiles e invisibles
 - Cómodo y ajustable
 - Colores disponibles: blanco, negro y tierra
 - Fabricado de microfibra

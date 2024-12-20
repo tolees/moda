@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gafas de sol fabricadas en TR90 con el sello de EMS🇨🇭, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Diseño más ancho del terminal de la patilla para mejorar la ergonomía y confort y bisagra de doble acción para proporcionar una mejor sujeción en todo momento
-- Modelo Unisex. Medidas: Frontal 141 mm; Patillas 140 mm; Puente 17 mm; Diámetro de lente 55,7 mm
+- Producto oficial HAWKERS diseñado y fabricado en ESPAÑA. Incluye: Funda en microfibra. caja y set de pegatinas decorativas
 - Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores. Lente categoría 3 fabricadas con material bio tac polarizado y protección uv400.
 - ONE es nuestro diseño más icónico de todos los tiempos. Este modelo, de la colección Made in Spain, tiene una montura en negro mate y lentes POLARIZADAS espejadas azul celeste.
-- Producto oficial HAWKERS diseñado y fabricado en ESPAÑA. Incluye: Funda en microfibra. caja y set de pegatinas decorativas
+- Modelo Unisex. Medidas: Frontal 141 mm; Patillas 140 mm; Puente 17 mm; Diámetro de lente 55,7 mm
+- Gafas de sol fabricadas en TR90 con el sello de EMS🇨🇭, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Diseño más ancho del terminal de la patilla para mejorar la ergonomía y confort y bisagra de doble acción para proporcionar una mejor sujeción en todo momento
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09XBPDKZ1{{</world>}}

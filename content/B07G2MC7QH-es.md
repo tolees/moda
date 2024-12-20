@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Lavar a máquina a máx. 40 ° C bajo un programa de lavado suave
-- 95% algodón, 5% elastano
 - Contraste y cintura elástica.
 - Mezcla de tela para la durabilidad y flexibilidad.
+- 95% algodón, 5% elastano
 - Forma H anatómicamente correcta para mayor comodidad.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

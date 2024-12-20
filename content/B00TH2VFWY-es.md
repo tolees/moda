@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bordado inglés en las mangas
 - Corte favorecedor
+- Bordado inglés en las mangas
 - El cuello, los puños y el dobladillo son elásticos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

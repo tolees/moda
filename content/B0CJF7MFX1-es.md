@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Equipada con un dispositivo antigoteo que mantiene las tarjetas en su sitio aunque la cartera se ponga boca abajo. El mecanismo de deslizamiento lateral permite manejarlo con una sola mano.
-- Te mantiene a salvo de intrusos gracias a la tecnología RFID/NFC, para que nadie pueda retirar dinero, clonar tu tarjeta o acceder a datos confidenciales de tu cuenta sin tu conocimiento.
 - Ligero y fino - tamaño pequeño, 10cm* 7.4cm* 2cm, pesa sólo 75g y cabe en cualquier bolsillo. TEEHON se preocupa por nuestros amigos los animales, por eso sólo utilizamos piel sintética para nuestras carteras.
+- Te mantiene a salvo de intrusos gracias a la tecnología RFID/NFC, para que nadie pueda retirar dinero, clonar tu tarjeta o acceder a datos confidenciales de tu cuenta sin tu conocimiento.
+- Equipada con un dispositivo antigoteo que mantiene las tarjetas en su sitio aunque la cartera se ponga boca abajo. El mecanismo de deslizamiento lateral permite manejarlo con una sola mano.
 - Contiene hasta 6 tarjetas, varios billetes y monedas, todo ello en una estructura compacta y minimalista que ocupa un 75% menos de espacio que una cartera convencional.
 - Sencilla y elegante caja negra y tarjeta de felicitación, puede ser un regalo decente para el Día del Padre, San Valentín, Navidad o cumpleaños.
 
