@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Camisa de manga larga de color blanco. Cierre con botones. Corte slim fit.
 - Marca: Jack&Jones
 - Modelo: 12097662 JJPRPARMA SHIRT L/S NOOS WHITE/SUPER SLIM
-- Camisa de manga larga de color blanco. Cierre con botones. Corte slim fit.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00WWQ0H1M{{</world>}}
