@@ -1,0 +1,36 @@
+---
+layout: post
+title: 'Amazon Essentials Sudadera de Forro Polar con Capucha  Disponible en Tallas Grandes y Largos Especiales  Hombre  Rosa  M'
+date: 2024-04-07 07:13:57
+image: 'https://m.media-amazon.com/images/I/31BF8mGwvPS._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B07BN6KGKQ-es Amazon Essentials Sudadera de Forro Polar con Capucha...'
+sku: 'B07BN6KGKQ-es'
+tags: [ 'sudadera','🇪🇸', ]
+actualPrice: 14.24 EUR
+currency: EUR
+price: 14.24
+comparePrice: 23.9 EUR
+prodname: 'Amazon Essentials Sudadera de Forro Polar con Capucha  Disponible en Tallas Grandes y Largos Especiales  Hombre  Rosa  M'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B07BN6KGKQ/?tag=tolees-21'
+descuento: '40.42'
+average: '14.24'
+---
+
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- AJUSTE NORMAL: Ajuste cómodo en hombros, pecho y cintura.
+- DETALLES: Capucha forrada de algodón jersey con ojales metálicos y cordón ajustable. Ribete de canalé de alto gramaje en las mangas y los dobladillos inferiores, y un bolsillo tipo canguro en la parte delantera.
+- SUDADERA CON CAPUCHA: Esta sudadera con capucha, un básico clásico para el día a día, es informal y cómoda. Póntela para hacer recados o combínala con una camisa de cuello para conseguir un look más elegante.
+
+[🛒 Ver la oferta!!]({{< param buyurl >}})
+{{<world>}}B07BN6KGKQ{{</world>}}
