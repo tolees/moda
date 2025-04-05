@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto original Hawkers. La caja incluye funda en microfibra y caja.
-- Modelo Unisex. Medidas: Frontal 139 mm; Alto 42,3 mm; Patillas 145 mm; Puente 16 mm; Diámetro de lente 54 mm.
-- Lentes degradadas azul oscuro fabricadas en TR18, con reducción de brillos y con gran equilibrio entre claridad y protección. Lente de categoría 3 con protección UV400. Resistencia muy alta
-- Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Bisagra de doble acción para un cierre de patillas seguro y durabilidad. Diseño más ancho del terminal de la patilla para mejorar la ergonomía y confort. Unión de 45º para suavizar la junta entre montura y patilla dándole una continuidad perfecta.
 - Gafas de Sol ONE LS, unisex, este modelo es un rediseño del icónico modelo Hawkers ONE, buque insignia de la marca, con montura translúcida bicolor degradada en negro y blanco y lentes con efecto degradado azul oscuro.
+- Producto original Hawkers. La caja incluye funda en microfibra y caja.
+- Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Bisagra de doble acción para un cierre de patillas seguro y durabilidad. Diseño más ancho del terminal de la patilla para mejorar la ergonomía y confort. Unión de 45º para suavizar la junta entre montura y patilla dándole una continuidad perfecta.
+- Lentes degradadas azul oscuro fabricadas en TR18, con reducción de brillos y con gran equilibrio entre claridad y protección. Lente de categoría 3 con protección UV400. Resistencia muy alta
+- Modelo Unisex. Medidas: Frontal 139 mm; Alto 42,3 mm; Patillas 145 mm; Puente 16 mm; Diámetro de lente 54 mm.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08BQKGN5Y{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajuste regular
 - cuello polo
+- Ajuste regular
 - Cremallera completa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

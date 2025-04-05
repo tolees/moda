@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Detalles de etiqueta Poplin Collection en el bajo de la camisa.
 - Contrastes en el interior del cuello y puños.
 - Logo bordado Rigby Go en el pecho.
 - Camisa de manga larga de popelín, confeccionada en algodón.
 - Su corte moderno Slim Fit y cuello italiano garantizan una imagen impecable, que podrás combinar con nuestros clásicos chinos.
-- Detalles de etiqueta Poplin Collection en el bajo de la camisa.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CLNWM5ZP{{</world>}}

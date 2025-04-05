@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Patrón: color liso
 - Capucha
 - Tipo de ajuste: regular
+- Patrón: color liso
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09LJ377FL{{</world>}}

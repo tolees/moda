@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Camiseta con inscripción usada en la parte delantera
-- Corte holgado
 - Cuello redondo
 - Pespuntes en los extremos
+- Corte holgado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09RB57WQZ{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tela Suave
 - Ajuste regular
+- Tela Suave
 - Logo bordado en el pecho
 
 [🛒 Comprar!!!]({{< param buyurl >}})

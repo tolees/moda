@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Estampado de logos efecto pintado a mano y parche frontal de Mickey Mouse
-- Fit: Regular
 - Cuello redondo
-- Manga larga
 - Half logo en relieve en el frontal
+- Manga larga
+- Fit: Regular
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B4WPHNN9{{</world>}}

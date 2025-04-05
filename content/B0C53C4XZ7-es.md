@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- VESTIDO DE TIRANTES: Vestido de tirantes de longitud media, con punto de viscosa fluido, práctico y cómodo, para que estés elegante todo el día.
 - LARGO: La talla S mide 128,3 cm de largo desde el lateral del cuello.
 - DETALLES: Escote en V abierto y dos aberturas laterales para facilitar el movimiento. Marca impresa sin etiqueta.
-- AJUSTE NORMAL: Ajuste ceñido pero cómodo en pecho, cintura y cadera.
 - JERSEY ELÁSTICO DE VISCOSA: Jersey suave, liviano y suelto con un acabado liso y refinado.
+- VESTIDO DE TIRANTES: Vestido de tirantes de longitud media, con punto de viscosa fluido, práctico y cómodo, para que estés elegante todo el día.
+- AJUSTE NORMAL: Ajuste ceñido pero cómodo en pecho, cintura y cadera.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C53C4XZ7{{</world>}}

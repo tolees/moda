@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Exterior de lana 100% merino combinado con tecnología Lifa interior
 - La construcción de 2 capas garantiza la no picazón por una capa cómoda al lado de la piel
-- Costuras planas para mayor volumen y junto al confort de la piel.
 - Refuerzo de vellón en rodillas y codos para mayor comodidad.
+- Costuras planas para mayor volumen y junto al confort de la piel.
 - La construcción de 2 capas garantiza la comodidad contra la piel.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

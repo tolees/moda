@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Color: morado
-- Cierre magnético
-- Piel sintética
 - poliéster
+- Piel sintética
+- Cierre magnético
+- Color: morado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B6BRZGF9{{</world>}}

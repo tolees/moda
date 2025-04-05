@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Pantalones acampanados
+- Composición del material: 53% poliéster reciclado, 42% poliéster, 5% elastano
 - Cintura media
 - Tejido súper elástico
-- Composición del material: 53% poliéster reciclado, 42% poliéster, 5% elastano
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0964QMTF5{{</world>}}

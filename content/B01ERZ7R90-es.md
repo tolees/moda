@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Libertad de movimiento
-- Camiseta cuello redondo
-- Camiseta de manga corta de hombre/niño
 - Tejido ligero y transpirable
+- Camiseta cuello redondo
+- Libertad de movimiento
 - Logotipo Joma serigrafiado
+- Camiseta de manga corta de hombre/niño
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01ERZ7R90{{</world>}}

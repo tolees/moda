@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Colour: 807/UC BLACK
-- Brand: Polaroid
 - Model: Polaroid Pld 2086/s 807/UC BLACK 47
 - Calibre: 47 Millimeters
+- Brand: Polaroid
+- Colour: 807/UC BLACK
 - Protective Case Included
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

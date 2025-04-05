@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Modelo Unisex. Medidas: Frontal 141 mm; Alto 43,5 mm; Patillas 145 mm; Puente 18 mm; Diámetro de lente 54 mm
-- Gafas de sol con montura One negro mate, contorno verde en acabado engomado y lentes verdes
-- Producto original Hawkers; la caja incluye funda de microfibra, caja y set de pegatinas decorativas
-- Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Diseño más ancho del terminal de la patilla para mejorar la ergonomía y confort. Bisagra rotativa de alta calidad que permite libre movimientos entre patilla y frontal.
 - Gafas de sol con montura One negro mate, contorno verde en acabado engomado y lentes verdes.
+- Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Diseño más ancho del terminal de la patilla para mejorar la ergonomía y confort. Bisagra rotativa de alta calidad que permite libre movimientos entre patilla y frontal.
+- Gafas de sol con montura One negro mate, contorno verde en acabado engomado y lentes verdes
+- Modelo Unisex. Medidas: Frontal 141 mm; Alto 43,5 mm; Patillas 145 mm; Puente 18 mm; Diámetro de lente 54 mm
+- Producto original Hawkers; la caja incluye funda de microfibra, caja y set de pegatinas decorativas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B084CNTRVZ{{</world>}}

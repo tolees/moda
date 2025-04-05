@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Shirt / blouse for women from the Danish brand Vero Moda in regular size
 - Material: 100% viscose
+- Shirt / blouse for women from the Danish brand Vero Moda in regular size
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B1F7R3R3{{</world>}}

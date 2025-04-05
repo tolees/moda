@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 50%ACRYLIC 20%COTTON 20%VISCOSE 10%WOOL
 - LONG SLEEVE ROUND NECK SWEATER IN COTTON HOT HAND, NECK, FANTASY STRIPED FRONT/BACK AND SLEEVES, REGULAR FIT
+- 50%ACRYLIC 20%COTTON 20%VISCOSE 10%WOOL
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BMVSXGR9{{</world>}}

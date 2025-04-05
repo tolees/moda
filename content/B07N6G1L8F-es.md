@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Misto poliestere/cotone leggero, comodo e caldo
-- Una marca de Amazon
 - Holgado en el pecho y entallado en la cintura
+- Una marca de Amazon
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07N6G1L8F{{</world>}}

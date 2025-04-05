@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tejido de punto entrelazado Speedwick, 91 % poliéster / 9 % elastán.
-- Impacto medio.
-- Escote de pico suave.
-- Ajuste ceñido.
 - Ideal para: cualquier tipo de entrenamiento.
+- Impacto medio.
+- Ajuste ceñido.
+- Escote de pico suave.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B096FVN2Y6{{</world>}}

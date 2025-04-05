@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre: deslizante
 - Material exterior: N/A
-- Forma del tacón: plano
+- Cierre: deslizante
 - Suela: N/A
+- Forma del tacón: plano
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07STWV4X2{{</world>}}

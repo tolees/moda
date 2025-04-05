@@ -29,11 +29,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Camiseta de manga larga
-- Suave
 - Ajuste: corte largo
 - Ligera
 - Cómodo
 - Algodón orgánico
+- Suave
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B097HFR9Y9{{</world>}}

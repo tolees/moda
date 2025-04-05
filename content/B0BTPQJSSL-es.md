@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte regular
-- Mangas cortas semitransparentes con dobladillo con volantes
-- Cuello redondo
-- Impresión de graffiti como rociado
 - Desigual
+- Impresión de graffiti como rociado
+- Mangas cortas semitransparentes con dobladillo con volantes
+- Corte regular
+- Cuello redondo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BTPQJSSL{{</world>}}

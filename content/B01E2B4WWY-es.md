@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Elástico
 - Blazer
+- Elástico
 - Cierre de botones
 
 [🛒 Comprar!!!]({{< param buyurl >}})

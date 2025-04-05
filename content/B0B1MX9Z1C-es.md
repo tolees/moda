@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pantalón corto con bolsillos y cintura elástica con logotipo Ikonik KARL
-- Tejido Jersey
-- Sostenibilidad: Esta prenda está confeccionada con algodón orgánico certificado. Los agricultores implicados siguen prácticas de agricultura ecológica. Por lo tanto, no se han utilizado fertilizantes y pesticidas químicos ni semillas modificadas genéticamente.
 - Camiseta de manga corta con cuello redondo
 - Ilustración Ikonik Karl 2.0 en el bolsillo del pecho
+- Tejido Jersey
+- Pantalón corto con bolsillos y cintura elástica con logotipo Ikonik KARL
+- Sostenibilidad: Esta prenda está confeccionada con algodón orgánico certificado. Los agricultores implicados siguen prácticas de agricultura ecológica. Por lo tanto, no se han utilizado fertilizantes y pesticidas químicos ni semillas modificadas genéticamente.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B1MX9Z1C{{</world>}}

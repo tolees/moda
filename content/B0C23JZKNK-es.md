@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Vestido De manga larga Con volumen
-- Con escote en uve
-- Con corte deBajo del pecho
 - Con volantes en los puños
+- Con escote en uve
 - Con Cierre de cremallera invisible, Con Detalle de lace a contraste deBajo del pecho Y en la falda Con estampado de flores bicolor
+- Con corte deBajo del pecho
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C23JZKNK{{</world>}}

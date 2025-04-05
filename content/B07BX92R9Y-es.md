@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - 【Talla】XS = 34-36; S = 36-38; M = 38-40; L = 40-42; XL = 44-46. Contenido del paquete: 3 camisetas deportivas sin mangas. No viene con sujetador integrado.
-- 【Tejido suave】el tejido suave y ultraligero te proporciona una gran transpirabilidad y una comodidad increíble.
-- 【Holgada】Corte holgado que se adapta al cuerpo para conseguir un amplio rango de movimiento.
-- 【Diseño】deportivo, con sisa caída para conseguir un mayor rango de movilidad y amplitud de movimiento.
 - 【Usos】Póntela con tus leggings deportivos favoritos y conseguirás un atuendo perfecto para tu entrenamiento de yoga; combínala con un sujetador deportivo de color para crear un conjunto informal para el día a día. Para pilates, ejercicio, fitness o zumba.
+- 【Holgada】Corte holgado que se adapta al cuerpo para conseguir un amplio rango de movimiento.
+- 【Tejido suave】el tejido suave y ultraligero te proporciona una gran transpirabilidad y una comodidad increíble.
+- 【Diseño】deportivo, con sisa caída para conseguir un mayor rango de movilidad y amplitud de movimiento.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07BX92R9Y{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Paneles de textura mixta
 - Plantilla extraíble de poliuretano
+- Paneles de textura mixta
 - Detalles de ventilación en la parte superior
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

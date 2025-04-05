@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- XS para Mujer
 - Vmkerriultra Short Coated Jacket Noos Chaqueta
+- XS para Mujer
 - Negro (Black Black)
 
 [🛒 Comprar!!!]({{< param buyurl >}})

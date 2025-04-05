@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - G-Star RAW Bordado en el pecho
 - Mangas cortas de inserción, dobladillo de solapa fijo
-- Etiqueta tejida G-Star RAW inferior en la parte delantera
-- Cuello redondo acanalado
 - Dobladillo redondeado
+- Cuello redondo acanalado
+- Etiqueta tejida G-Star RAW inferior en la parte delantera
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C33JXH5S{{</world>}}

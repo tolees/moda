@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño cat-eye clásico pero atrevido alineado con las últimas tendencias maxi-minimal. Su montura slim de metal color gun metal en acabado mate combina con sus lentes cosméticas de color naranja, creando un look confiado para cualquier evento. Sus terminales son de color naranja transparentre a juego con el resto del diseño.
-- Producto Oficial Hawkers. Incluye: Funda en microfibra y caja.
 - Modelo Unisex. Medidas: Frontal 150 mm; Patillas 140 mm ; Puente 17 mm ; Alto 41 mm
-- Lentes cosméticas categoría 1 y protección uv400 que ofrecen protección antideslumbrante. Lentes de TR18 con el sello de Eastman , uno de los líderes mundiales en tecnología de copoliéster. Respetuoso con el medio ambiente y proporciona un equilibrio único entre claridad y resistencia.
+- Diseño cat-eye clásico pero atrevido alineado con las últimas tendencias maxi-minimal. Su montura slim de metal color gun metal en acabado mate combina con sus lentes cosméticas de color naranja, creando un look confiado para cualquier evento. Sus terminales son de color naranja transparentre a juego con el resto del diseño.
 - Montura en acero inoxidable libre de níquel que las hace altamente resistentes a la corrosión y mucho más fuertes. Almohadillas de silicona antideslizantes y anti-alérgicas. Bisagra de 3 barras para un mayor agarre y durabilidad.
+- Producto Oficial Hawkers. Incluye: Funda en microfibra y caja.
+- Lentes cosméticas categoría 1 y protección uv400 que ofrecen protección antideslumbrante. Lentes de TR18 con el sello de Eastman , uno de los líderes mundiales en tecnología de copoliéster. Respetuoso con el medio ambiente y proporciona un equilibrio único entre claridad y resistencia.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CC2W2XT6{{</world>}}

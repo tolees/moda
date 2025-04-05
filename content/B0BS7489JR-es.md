@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Detalle acanalado en cuello, puños y dobladillo
 - Cuello redondo
 - Ajuste clásico
 - Logotipo AMR tonal en relieve en el pecho
+- Detalle acanalado en cuello, puños y dobladillo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BS7489JR{{</world>}}

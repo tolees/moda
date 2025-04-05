@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Puños elásticos
 - Corte clásico
-- Cierre de cremallera y capucha
 - Bolsillos frontales con botón a presión
+- Puños elásticos
+- Cierre de cremallera y capucha
 - Tejido técnico 1% poliéster reciclado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

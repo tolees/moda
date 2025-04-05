@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Revestimiento: Sin forro
-- Tipo de tacón: Plano
-- Material de la suela: Caucho
-- Altura del tacón: 1 centímetros
 - Material exterior: Caucho
 - Anchura del zapato: Normal
 - Cierre: Sin cierre
+- Revestimiento: Sin forro
+- Altura del tacón: 1 centímetros
+- Material de la suela: Caucho
+- Tipo de tacón: Plano
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B085YRKWZF{{</world>}}

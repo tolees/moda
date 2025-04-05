@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ropa deportiva Multicolor de la marca Adidas
-- Los productos deportivos de la marca Adidas están diseñados para que disfrutes de tu deporte favorito sin preocuparte de nada más que rendir al máximo
-- Camiseta W TECH BOS T AZUREA/BLANCO
 - Camiseta para practicar Tiempo libre y sportwear de Mujer
+- Camiseta W TECH BOS T AZUREA/BLANCO
+- Los productos deportivos de la marca Adidas están diseñados para que disfrutes de tu deporte favorito sin preocuparte de nada más que rendir al máximo
+- Ropa deportiva Multicolor de la marca Adidas
 - Ropa deportiva fabricada con materiales de primera calidad que se adaptan a cualquier actividad deportiva
 
 [🛒 Comprar!!!]({{< param buyurl >}})

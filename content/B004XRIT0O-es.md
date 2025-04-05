@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Zapato de baño de moda y cómodo
 - diseñado en Italia
+- Zapato de baño de moda y cómodo
 - Suela robusta y suave
 - Secado rápido Material y lavable
 - Muy ligero, lo que es ideal para los deportes y el equipaje de viaje

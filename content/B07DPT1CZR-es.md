@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Jersey de algodón con cuello redondo deportivo
-- Sudadera de manga larga de corte ancho para hombre
 - Corte Boxy: aspecto de gran tamaño en forma de caja gracias a los hombros superpuestos
 - Disponible en blanco y negro en las tallas S bi XXL
+- Sudadera de manga larga de corte ancho para hombre
+- Jersey de algodón con cuello redondo deportivo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07DPT1CZR{{</world>}}

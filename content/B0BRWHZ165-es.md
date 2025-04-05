@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Dimensiones exteriores: 20 cm x 7,5 cm x 13,5 cm
-- Apertura con cremallera.
-- Logotipo 4G.
-- Hardware de color dorado pálido.
 - Piel sintética exterior.
+- Logotipo 4G.
+- Apertura con cremallera.
+- Hardware de color dorado pálido.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BRWHZ165{{</world>}}

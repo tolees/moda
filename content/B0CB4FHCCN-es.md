@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Punta redonda
 - Cierre de encaje
+- Punta redonda
 - Gancho y correa
 
 [🛒 Comprar!!!]({{< param buyurl >}})

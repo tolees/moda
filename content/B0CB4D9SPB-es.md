@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Nuevo portador de logotipo en color de contraste
 - Cuello redondo
 - Ajuste regular
+- Nuevo portador de logotipo en color de contraste
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CB4D9SPB{{</world>}}

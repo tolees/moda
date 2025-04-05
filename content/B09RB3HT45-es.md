@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello redondo
+- Camiseta con inscripción usada en la parte delantera
 - Pespuntes en los extremos
 - Corte holgado
-- Camiseta con inscripción usada en la parte delantera
+- Cuello redondo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09RB3HT45{{</world>}}

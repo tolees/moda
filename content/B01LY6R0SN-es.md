@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiras cruzadas frontales con detalle pespunteado
-- Tiras de tejido de red con detalle entramado colorido
-- Parte superior de piel sintética lisa
-- Diseño de cómoda sandalia casual con tiras
 - Costuras de adorno
+- Parte superior de piel sintética lisa
+- Tiras de tejido de red con detalle entramado colorido
+- Diseño de cómoda sandalia casual con tiras
+- Tiras cruzadas frontales con detalle pespunteado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01LY6R0SN{{</world>}}

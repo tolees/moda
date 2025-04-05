@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con cuello estilo mao Con mini volantes Y Con abertura
 - JerseY De manga larga
 - Con escote en uve
+- Con cuello estilo mao Con mini volantes Y Con abertura
 - Con canalé en el cuello en los puños Y en el Bajo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

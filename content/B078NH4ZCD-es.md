@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Color: negro, blanco y negro
-- Plantilla: textil
 - Modelo: Chuck Taylor All Star Lift Clean Ox
 - Material interior: textil
+- Color: negro, blanco y negro
 - Parte superior: cuero
+- Plantilla: textil
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B078NH4ZCD{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- temporada 2022/24
 - Camiseta Lille OSC de manga corta del FC Porto
-- Marca: New Balance
 - Producto de calidad
+- temporada 2022/24
+- Marca: New Balance
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09HN2G66Y{{</world>}}

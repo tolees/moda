@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Ajuste: Regular Fit
 - Sudadera con cuello alto y bordes acanalados en los dobladillos
 - De suave y elástico
-- Con dos bolsillos delanteros ribeteados
 - Manga larga con cuello alto y cierre de cremallera
-- Ajuste: Regular Fit
+- Con dos bolsillos delanteros ribeteados
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B088RYW4S3{{</world>}}

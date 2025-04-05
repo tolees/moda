@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Tecnología de absorción de humedad AEROREADY
-- corte normal
 - Cuello estilo polo con cierre de botón
+- corte normal
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BV37JFHH{{</world>}}

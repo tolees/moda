@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Manga larga recta insertada con borde redondeado
-- Paneles laterales, puños y cintura acanalados
 - Bordado de G-Star RAW en el pecho
-- Capucha con parte delantera cruzada, triángulo de canalé insertado y cordones ajustables
+- Paneles laterales, puños y cintura acanalados
 - Bolsillo estilo canguro
+- Manga larga recta insertada con borde redondeado
+- Capucha con parte delantera cruzada, triángulo de canalé insertado y cordones ajustables
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BS1C7CRJ{{</world>}}

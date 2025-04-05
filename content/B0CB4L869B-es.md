@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Correas ajustables
 - Poliéster reciclado suave de secado rápido
+- Correas ajustables
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CB4L869B{{</world>}}

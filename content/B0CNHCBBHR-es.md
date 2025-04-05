@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Jersey básico para hombre de cuello de pico.
 - Logo Rigby Go bordado ubicado en pecho izquierdo.
 - Acabados acanalados en cuello, puños y cintura confeccionado en suave algodón.
+- Jersey básico para hombre de cuello de pico.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CNHCBBHR{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Chanclas tiempo libre y sportwear unisex infantil
 - Calzado crocs
+- Chanclas tiempo libre y sportwear unisex infantil
 - Bayaband sandal k (205400)
 
 [🛒 Aquí!!!]({{< param buyurl >}})

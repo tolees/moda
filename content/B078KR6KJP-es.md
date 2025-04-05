@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cool e informal en la playa o en la piscina con los pantalones cortos de natación de Urban Classics
-- Bañador deportivo de material de secado rápido con cordón y cintura elástica
-- Dos bolsillos laterales y un bolsillo trasero con cremallera
 - Los pantalones cortos están disponibles en las tallas S, M, L, XL, XXL, 3XL, 4XL y 5XL
+- Bañador deportivo de material de secado rápido con cordón y cintura elástica
 - Cordón en color a juego con el estampado de camuflaje, parche con logotipo Urban Classics en el muslo izquierdo
+- Cool e informal en la playa o en la piscina con los pantalones cortos de natación de Urban Classics
+- Dos bolsillos laterales y un bolsillo trasero con cremallera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B078KR6KJP{{</world>}}

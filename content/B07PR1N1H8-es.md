@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Gafas de sol modelo GUESS MOD. GF0344 5632F
-- Guess. Los productos de esta marca están fabricados con los materiales de la mejor calidad.
 - GUESS MOD. GF0344 5632F de la marca Guess
+- Guess. Los productos de esta marca están fabricados con los materiales de la mejor calidad.
+- Gafas de sol modelo GUESS MOD. GF0344 5632F
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07PR1N1H8{{</world>}}

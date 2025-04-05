@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estilo de la cintura: Regular
 - Material exterior: Algodón
-- Instrucciones de cuidado: Lavar a máquina en frío (30 máx.)
 - Tipo de tela: 93% algodón, 7% elastano
+- Instrucciones de cuidado: Lavar a máquina en frío (30 máx.)
+- Estilo de la cintura: Regular
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B018UACCG6{{</world>}}

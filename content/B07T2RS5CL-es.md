@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Checked jersey dress
 - Short dress with zipper
+- Checked jersey dress
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07T2RS5CL{{</world>}}

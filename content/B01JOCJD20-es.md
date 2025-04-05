@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La capa interna de Armortex protege la palma y los dedos de las manos de los cortes conforme a lo establecido en las normas EN 388: 2016 nivel D y ANSI A5.
-- Cintas de nailon para guardarlos.
-- Lavable a máquina.
-- La palma de piel sintética te permite utilizar una pantalla táctil.
 - El material transpirable TrekDry mantiene las manos frescas para un mayor confort.
+- Lavable a máquina.
+- Cintas de nailon para guardarlos.
+- La capa interna de Armortex protege la palma y los dedos de las manos de los cortes conforme a lo establecido en las normas EN 388: 2016 nivel D y ANSI A5.
+- La palma de piel sintética te permite utilizar una pantalla táctil.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01JOCJD20{{</world>}}

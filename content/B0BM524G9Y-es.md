@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Suela: Caucho
-- Cierre: cremallera
 - Parte superior: cuero
+- Cierre: cremallera
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BM524G9Y{{</world>}}

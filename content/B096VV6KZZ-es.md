@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Costuras planas de dos agujas
 - Cuello redondo de canalé
 - Carhartt es una marca de ropa de trabajo, con un ajuste más amplio en el pecho y los hombros. Si prefiere un ajuste más adaptado al cuerpo, escoja una talla más baja.
 - Gráfico de Carhartt Well Crafted en la parte delantera. Etiqueta de Carhartt cosida en el dobladillo
+- Costuras planas de dos agujas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B096VV6KZZ{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corte regular
 - Cuello redondo
+- Corte regular
 - Logotipo de GANT impreso en el pecho
 
 [🛒 Comprar!!!]({{< param buyurl >}})

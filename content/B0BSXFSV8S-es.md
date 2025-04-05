@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- manufacturer: Bestseller A/S
 - Tipo de detalle: polo. Tejido: tejido de punto con tacto seco. Ocasión: estilo clásico. Camiseta lisa
 - brand: Jack & Jones
+- manufacturer: Bestseller A/S
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BSXFSV8S{{</world>}}

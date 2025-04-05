@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material exterior: Sintético
 - Tipo de tacón: Plano
+- Material exterior: Sintético
 - Material de la suela: Sintético
 
 [🛒 Visítala!!!]({{< param buyurl >}})

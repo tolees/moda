@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Estampado en el bolsillo del pecho
 - Logo Carhartt bordado en el dobladillo
+- Estampado en el bolsillo del pecho
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07JMB63R9{{</world>}}

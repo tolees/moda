@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Vestido ligero para mujer con aspecto enrollado
-- Corte hasta la rodilla
-- estampado
 - Cuello en V profundo
+- Vestido ligero para mujer con aspecto enrollado
+- estampado
 - Cordones a la altura de la cintura
+- Corte hasta la rodilla
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09W27YC3R{{</world>}}

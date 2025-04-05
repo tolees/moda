@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - DETALLES: Presenta clásico cuello redondo y mangas largas con detalle de canalé en puños y bajo.
-- AJUSTE NORMAL: Ajuste ceñido pero cómodo en pecho, cintura y cadera.
-- JERSEY BÁSICO DE CUELLO REDONDO: Una prenda moderna y clásica, perfecta tanto para un aspecto elegante como para uno informal.
 - JERSEY DE ALGODÓN SUAVE: El tejido de este jersey es supersuave, ligero, abriga y aporta la máxima calidez y comodidad.
+- JERSEY BÁSICO DE CUELLO REDONDO: Una prenda moderna y clásica, perfecta tanto para un aspecto elegante como para uno informal.
+- AJUSTE NORMAL: Ajuste ceñido pero cómodo en pecho, cintura y cadera.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07WJX24GH{{</world>}}

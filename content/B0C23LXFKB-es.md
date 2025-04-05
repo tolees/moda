@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con Bajo Con combinación de Tejido
 - Con detalle de volante en los puños Con botones
-- Camiseta De manga larga
+- Con Bajo Con combinación de Tejido
 - Con cuello redondo
+- Camiseta De manga larga
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C23LXFKB{{</world>}}

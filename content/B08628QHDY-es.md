@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Las prendas de vestir que te pongas por encima de la combinación se ajustarán mucho mejor a la figura
-- Cuenta con una pequeña cantidad de elastano por lo que se ajustará bien al cuerpo y permitirá que te muevas en total libertad
 - Suave escote de pico; La combinación es ligera, elástica y no se carga de electricidad estática
+- Cuenta con una pequeña cantidad de elastano por lo que se ajustará bien al cuerpo y permitirá que te muevas en total libertad
+- Las prendas de vestir que te pongas por encima de la combinación se ajustarán mucho mejor a la figura
 - La combinación ha sido elaborada en viscosa transpirable y agradable al tacto
 - Hecho en la UE; Combinación de mujer para llevar bajo el vestido; Tirantes finos regulables
 

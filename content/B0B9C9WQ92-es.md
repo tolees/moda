@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Transpirable Matlite Motion Uppers
 - Suela de goma para tracción
+- Transpirable Matlite Motion Uppers
 - Suave y ligera
 
 [🛒 Visítala!!!]({{< param buyurl >}})

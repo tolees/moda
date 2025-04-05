@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La colección de ropa interior adidas Underwear tiene un diseño y materiales de óptima calidad
 - Corte: estilo normal, deportivo
+- La colección de ropa interior adidas Underwear tiene un diseño y materiales de óptima calidad
 - Estos calzoncillos ceñidos de silueta deportiva están fabricados en suave algodón elástico transpirable. El suave acabado de las costuras, el logotipo en contraste y el característico estampado de las 3 rayas en los laterales te acompañarán desde el sofá hasta la cancha de juego.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

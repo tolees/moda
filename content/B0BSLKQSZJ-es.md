@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Manga larga con capucha desmontable. Chaqueta cálida de plumón sintético para otoño e invierno que protege contra el viento, la lluvia y el frío.
 - Chaqueta de invierno acolchada con capucha desmontable, bolsillos laterales, bolsillo de parche en el brazo y bolsillo interior adicional para guardar tu cartera, teléfono móvil y llaves
 - Instrucciones de lavado: no se puede limpiar en seco, secar en secadora con carga térmica reducida, no usar lejía, planchar a baja temperatura (110 °C), ciclo suave a máx. 30 °C
+- Manga larga con capucha desmontable. Chaqueta cálida de plumón sintético para otoño e invierno que protege contra el viento, la lluvia y el frío.
 - Ajuste: corte regular, longitud de espalda para talla L aprox. 77 cm
 - Con un acabado biónico: el material repelente al agua y la suciedad permite que el agua y los líquidos se deslicen
 

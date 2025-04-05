@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Camiseta reebok reebok camiseta es ls tee maruni
 - Es ls tee blanco 4
+- Camiseta reebok reebok camiseta es ls tee maruni
 - Productos de entrenamiento -, perfil baby, material:, color maruni
 
 [🛒 Aquí!!!]({{< param buyurl >}})

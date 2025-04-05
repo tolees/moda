@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- BLACK/GREY
 - Garantía internacional de 2 años
+- BLACK/GREY
 - Sin Polarizar
 - Talla 53/18/140
 

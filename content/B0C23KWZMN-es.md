@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Camisa de manga larga
-- Consiguiendo que la prenda sea cómoda
 - Custom fit
+- Consiguiendo que la prenda sea cómoda
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C23KWZMN{{</world>}}

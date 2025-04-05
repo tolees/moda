@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cuello pico
-- Marca termosellada en el forro del cuello
 - Regular fit
-- Punto liso de algodón Pima
+- Marca termosellada en el forro del cuello
 - Cocodrilo verde bordado en el pecho
+- Punto liso de algodón Pima
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01M32P5NO{{</world>}}

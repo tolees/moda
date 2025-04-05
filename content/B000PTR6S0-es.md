@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Versátil chaqueta de ciclismo para hombre, Adecuada para todas las condiciones climáticas
-- GORE WEAR Spirit Jacket, Talla: L, Color: Negro,100716
-- Bolsillo posterior y bolsillo Napoleón con cremallera, Dobladillo y puños ajustables, Cremallera con colgante para facilitar su apertura
-- Talle cómodo específico para ciclismo para mayor libertad de movimiento, Detalles reflectantes
 - GORE-TEX INFINIUM con tecnología WINDSTOPPER: cortaviento, altamente resistente al agua y extremadamente transpirable
+- Versátil chaqueta de ciclismo para hombre, Adecuada para todas las condiciones climáticas
+- Talle cómodo específico para ciclismo para mayor libertad de movimiento, Detalles reflectantes
+- Bolsillo posterior y bolsillo Napoleón con cremallera, Dobladillo y puños ajustables, Cremallera con colgante para facilitar su apertura
+- GORE WEAR Spirit Jacket, Talla: L, Color: Negro,100716
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000PTR6S0{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La chaqueta Mickael pertenece a nuestra colección ultralight.
-- La chaqueta panelada con capucha está confeccionada en poliéster reciclado.
 - Presenta un cierre frontal con cremallera metálica dorada con tirador personalizado Polo Club, dos bolsillos laterales y un bolsillo interior con cierre de cremallera.
-- Es resistente al agua, cálida y muy ligera gracias a su relleno, que además protege y cuida nuestro medio ambiente.
+- La chaqueta Mickael pertenece a nuestra colección ultralight.
 - Puños y capucha con terminaciones elásticas personalizadas con el logo de la marca para mayor adaptabilidad. Stoppers con elástico ajustables en la cintura. Etiqueta textil Polo Club de alta definición remallada a la prenda.
+- La chaqueta panelada con capucha está confeccionada en poliéster reciclado.
+- Es resistente al agua, cálida y muy ligera gracias a su relleno, que además protege y cuida nuestro medio ambiente.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BK9TV45Q{{</world>}}

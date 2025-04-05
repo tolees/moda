@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Jersey de largo clásico con capucha
 - capucha con cordón
+- Jersey de largo clásico con capucha
 - 100% algodón
 
 [🛒 Comprar!!!]({{< param buyurl >}})

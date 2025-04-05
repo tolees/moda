@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- BCI: Al comprar productos de algodón de PUMA, apoyas una producción más sostenible de algodón mediante la Iniciativa del Mejor Algodón (Better Cotton Initiative). Más información en: bettercotton.org/massbalance
-- Cuello redondo acanalado
-- bluesign: Como socios de bluesign, somos una parte responsable de la cadena de suministro textil y nos comprometemos a tener un enfoque limpio y seguro en la gestión de insumos de ingreso
 - Estampado del logotipo PUMA N.º 1 de goma en el centro del pecho
 - Corte normal
+- Cuello redondo acanalado
+- bluesign: Como socios de bluesign, somos una parte responsable de la cadena de suministro textil y nos comprometemos a tener un enfoque limpio y seguro en la gestión de insumos de ingreso
+- BCI: Al comprar productos de algodón de PUMA, apoyas una producción más sostenible de algodón mediante la Iniciativa del Mejor Algodón (Better Cotton Initiative). Más información en: bettercotton.org/massbalance
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08NPFYDHK{{</world>}}

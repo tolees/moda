@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tallas de XS a XXL
 - Logotipo impreso
 - Ajuste cómodo: más relajado, ajuste generoso para un rango completo de movimiento
 - Tejido Powerblend Fleece afelpado (280 g)
+- Tallas de XS a XXL
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BN6KW73B{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corte regular
-- Bolsillos laterales
-- Ajuste regular - Adulto
 - Tejido de sudor
+- Bolsillos laterales
+- Corte regular
+- Ajuste regular - Adulto
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BMFZ4WNM{{</world>}}

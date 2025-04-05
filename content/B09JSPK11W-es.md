@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cordón ajustable
 - Bolsillos frontales para paspel
+- Cordón ajustable
 - Puños de punto acado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

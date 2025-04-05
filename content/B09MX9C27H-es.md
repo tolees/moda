@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Logotipo minimalista de Levis en tu pecho
-- Mangas cortas y cuello redondo
-- Ajuste regular
 - Nuestras cómodas camisetas estàn diseñadas para ser un complemento óptimo con nuestra mezclilla
+- Logotipo minimalista de Levis en tu pecho
+- Ajuste regular
+- Mangas cortas y cuello redondo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09MX9C27H{{</world>}}

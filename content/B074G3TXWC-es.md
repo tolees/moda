@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Dimensiones 20 x 21 x 65 cm
-- Cocodrilo de metal a tono
 - Exterior en PVC petit piqué
 - Correa de hombro ajustable
+- Cocodrilo de metal a tono
 - Dos bolsillos exteriores y tres bolsillos interiores
+- Dimensiones 20 x 21 x 65 cm
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B074G3TXWC{{</world>}}

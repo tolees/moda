@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- DETALLES: Cremallera frontal completa, ojales metálicos y cordón de ajuste en la capucha, bolsillos delanteros y ribete de canalé en el dobladillo y los puños.
 - AJUSTE NORMAL: Ajuste cómodo en hombros, pecho y cintura.
+- DETALLES: Cremallera frontal completa, ojales metálicos y cordón de ajuste en la capucha, bolsillos delanteros y ribete de canalé en el dobladillo y los puños.
 - SUDADERA CON CAPUCHA: Esta clásica sudadera con capucha y cremallera es una prenda imprescindible para el frío. El forro de sherpa ofrece un nivel adicional de abrigo.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Hecho en España.
-- Para cuero, lona y cuero sintético. No apto para ante o nubuck.
 - Nuevos colores atractivos de moda (por motivos técnicos, el color de la foto puede diferir del color original).
-- Repara rayones y desgaste de bordes y restaura el color, no es necesario ningún otro acabado.
 - Para refrescar el color de tus zapatos, utiliza este producto para cambiar el color, incluso de blanco a negro.
+- Para cuero, lona y cuero sintético. No apto para ante o nubuck.
+- Hecho en España.
+- Repara rayones y desgaste de bordes y restaura el color, no es necesario ningún otro acabado.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00I964AOY{{</world>}}

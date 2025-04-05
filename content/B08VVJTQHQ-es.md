@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Collar de polo con cierre de botones
 - Tela transpirable
 - Corte
-- Collar de polo con cierre de botones
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08VVJTQHQ{{</world>}}

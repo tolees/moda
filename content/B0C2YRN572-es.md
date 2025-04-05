@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tipo de producto: bolso
-- Departamento:Mujeres
 - Siyecioa Bolso Bandolera Pequeño, Bolso Móvil para Mujer, Bolso Bandolera De Paja Bolso De Mujer Bolso Bandolera De Paja Tejida Bandolera De Tejido para Mujer De Verano
+- Departamento:Mujeres
+- Tipo de producto: bolso
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C2YRN572{{</world>}}

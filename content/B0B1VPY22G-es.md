@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Corte voluminoso del brazo
 - Las blusas son las piezas más versátiles de tu armario
+- Corte voluminoso del brazo
 - Se pueden llevar con casi cualquier cosa, desde jeans hasta pantalones hasta faldas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

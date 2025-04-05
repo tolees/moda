@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Montura fabricada con la característica trama de las gafas de carbono en TR90, que dota a las gafas de gran ligereza, flexibilidad y resistencia, muy resistente a altas y bajas temperaturas.
-- Medidas: Frente: 14cm, Altura: 5cm, Varillas: 14cm
 - Icónico modelo Hawkers One, Unisex, con montura negra y lentes polarizadas azul efecto espejo
 - Lente negra polarizada fabricada en TR18, con reducción de brillos y con gran equilibrio entre claridad y protección. Lente de categoría 3 con protección UV400. Resistencia muy alta
+- Medidas: Frente: 14cm, Altura: 5cm, Varillas: 14cm
+- Montura fabricada con la característica trama de las gafas de carbono en TR90, que dota a las gafas de gran ligereza, flexibilidad y resistencia, muy resistente a altas y bajas temperaturas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07TKLY2N3{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Robusto diseño de marco con bisagras de calidad.
-- Para interiores / condiciones normales de lectura.
 - Rojo terminar.
+- Para interiores / condiciones normales de lectura.
+- Robusto diseño de marco con bisagras de calidad.
 - Dos pares de ligero y cómodo hombres / mujeres / unisexo gafas de lectura a un fantástico!
 - Potencia óptica +2,50 (dioptría).
 

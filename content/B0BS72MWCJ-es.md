@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sudadera de manga larga con cuello redondo
 - Harry this season is presented in a Signature Hackett Artic Parker as a Large Mixed Media graphic
+- Sudadera de manga larga con cuello redondo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BS72MWCJ{{</world>}}

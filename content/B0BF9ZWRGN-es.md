@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Composición: 65% LENZING ECOVERO Viscosa, 30% Nylon, 5% Elastano
-- Pantalones para mujer Petite Cordón Cordón Bolsillos Laterales Corte Holgado
 - Cintura elástica en la espalda
 - Cintura con cordón ajustable
+- Pantalones para mujer Petite Cordón Cordón Bolsillos Laterales Corte Holgado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BF9ZWRGN{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diseño moderno
 - Hecho de material duradero
+- Diseño moderno
 - Artículo de la marca United Colors of Benetton
 
 [🛒 Visítala!!!]({{< param buyurl >}})

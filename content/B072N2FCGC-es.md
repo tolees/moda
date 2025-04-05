@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 11,4 נ1,9 נ8,9 cm (largo נancho נalto)
-- Detalles en el exterior: n/a
 - Cartera plegable de piel
+- Detalles en el exterior: n/a
 - Material interior: 100 % algodón
+- 11,4 נ1,9 נ8,9 cm (largo נancho נalto)
 - Detalles en el interior: 12 ranuras para tarjetas, 1 compartimento para billetes, 1 visor para dni
 
 [🛒 Visítala!!!]({{< param buyurl >}})

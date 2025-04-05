@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Un básico para tu armario
 - Camiseta cuello redondo
 - Ideal para deporte y vestir
 - Omini Kappa
+- Un básico para tu armario
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07P7KZW97{{</world>}}

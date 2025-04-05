@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camiseta de manga larga básica de jersey, cuello de canalé, impresión de agua en la parte delantera, ajuste regular
 - 100% algodón
+- Camiseta de manga larga básica de jersey, cuello de canalé, impresión de agua en la parte delantera, ajuste regular
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BMW1JGZ1{{</world>}}

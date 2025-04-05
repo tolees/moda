@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Logotipo icónico
 - Corte
 - Tripulación
+- Logotipo icónico
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BQJM9VRX{{</world>}}

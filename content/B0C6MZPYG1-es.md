@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - cierre de cuerda
-- Sneaker alta de piel sintética
 - Punta redonda
+- Sneaker alta de piel sintética
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C6MZPYG1{{</world>}}

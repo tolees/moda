@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Felpa 70% Algodón, 30% Poliéster Reciclado
 - Puños y dobladillo de canalé
-- Cuello redondo
+- Felpa 70% Algodón, 30% Poliéster Reciclado
 - Las icónicas 3 rayas en las mangas le dan un aspecto deportivo
+- Cuello redondo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08VRLYBSW{{</world>}}

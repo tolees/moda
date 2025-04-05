@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 77% fibra viscosa, 20% nailon, 3% elastano
-- Regular
 - Vero Moda Seven Smooth PU Skinny Pantalones
+- Regular
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00X7VM5SE{{</world>}}

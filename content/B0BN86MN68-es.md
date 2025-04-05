@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Logotipo impreso
 - Ajuste regular: ajuste sencillo y cómodo con espacio para moverse
 - Tejido de algodón (150 g)
-- Logotipo impreso
 - La taglia XL è adatta per bambini dai 13 ai 14 anni
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Logotipo bordado
 - Ajuste regular: ajuste sencillo y cómodo con espacio para moverse
 - Tejido ultra-light powerblend fleece afelpado (240 g)
-- Logotipo bordado
 - La talla L es adecuada para niños de 11 a 12 años
 
 [🛒 Comprar!!!]({{< param buyurl >}})

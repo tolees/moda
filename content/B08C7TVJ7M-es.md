@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Punto 100% poliéster reciclado
-- Tejido AEROREADY que mantiene la piel seca
-- Camiseta de training estampada
 - Cuello redondo
+- Tejido AEROREADY que mantiene la piel seca
 - Corte clásico
+- Camiseta de training estampada
+- Punto 100% poliéster reciclado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08C7TVJ7M{{</world>}}

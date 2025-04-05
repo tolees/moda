@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Polo esencial individual algodón piqué 230 g. Hermoso cuello con punta que termina con la marca Hkt siguiendo la punta para un cuello dinámico. Detalle de contraste de solapa. Marca de alas en el pecho izquierdo del usuario bordado
 - Polo de manga corta para hombre
+- Polo esencial individual algodón piqué 230 g. Hermoso cuello con punta que termina con la marca Hkt siguiendo la punta para un cuello dinámico. Detalle de contraste de solapa. Marca de alas en el pecho izquierdo del usuario bordado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B5V3SPZ2{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Composición del material: 53% algodón, 35% modal, 12% elastano
-- Cuidado: lavar a máquina
-- Modelo: 0000F3785E
-- Este es un producto auténtico y original de Calvin Klein
 - Material: algodón
+- Este es un producto auténtico y original de Calvin Klein
+- Modelo: 0000F3785E
+- Cuidado: lavar a máquina
+- Composición del material: 53% algodón, 35% modal, 12% elastano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0992BXN6H{{</world>}}

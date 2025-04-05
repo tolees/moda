@@ -31,8 +31,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Práctica camisa de manga corta, Confeccionada para durar, Con un tejido fresco y transpirable de secado rápido
 - Mantenimiento de una buena higiene gracias al tratamiento antimicrobiano, Acceso a la brisa fresca mediante la ventilación incorporada
 - Bolsillos multifuncionales con opción de abotonarse, Convenientemente colocados a cada lado del pecho
-- Tejido de duradero nylon Ripstop con tecnología Omni-Wick para controlar el sudor
 - Contenido: 1x Columbia Utilizer II Camisa de manga corta para hombre, Fibra sintética, Azul (Collegiate Navy), M, Art. 1577762
+- Tejido de duradero nylon Ripstop con tecnología Omni-Wick para controlar el sudor
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07KSH6KFW{{</world>}}

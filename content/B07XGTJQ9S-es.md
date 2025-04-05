@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Logotipo PUMA Cat en la parte derecha del pecho
-- Al comprar productos de algodón de PUMA, apoyas un cultivo de algodón más sostenible. Más información en PUMA.COM/FOREVERBETTER
 - Cuello de polo con tapeta de dos botones
 - Algodón y elastano
+- Al comprar productos de algodón de PUMA, apoyas un cultivo de algodón más sostenible. Más información en PUMA.COM/FOREVERBETTER
+- Logotipo PUMA Cat en la parte derecha del pecho
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07XGTJQ9S{{</world>}}

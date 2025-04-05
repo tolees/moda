@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Este producto es ajustable a la vista
 - Forma rectangular masculina
+- Este estilo talla S
 - Las lentes oscuras proporcionan una buena protección en una amplia gama de condiciones solares
 - GAFAS DE SOL LACOSTE L986S GREEN PARA HOMBRE TALLA 52/20/145
-- Este estilo talla S
+- Este producto es ajustable a la vista
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BDPPHHSQ{{</world>}}

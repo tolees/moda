@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ¡Echa un vistazo a la colección entera de la película de Barbie para descubrir más ideas de regalo fantásticas! Se venden por separado y están sujetas a disponibilidad.
 - El muñeco Ken luce una camisa a rayas rosa pastel y verde menta. ¡Los pantalones cortos a juego incluso tienen bolsillos!
 - Su aspecto es tan desenfadado como el del Ken de película, con su tabla de surf, su pelo rubio platino, su camisa desabrochada y sus zapatillas blancas.
-- El muñeco Ken tiene el cuerpo articulado y viene en un embalaje desechable, de modo que es el regalo perfecto para fans y coleccionistas.
 - ¡Llévate a casa una parte de la película de Barbie con este muñeco Ken para coleccionistas! Vestido con un conjunto surfero informal, ¡se lo está pasando de maravilla en Barbie Land!
+- ¡Echa un vistazo a la colección entera de la película de Barbie para descubrir más ideas de regalo fantásticas! Se venden por separado y están sujetas a disponibilidad.
+- El muñeco Ken tiene el cuerpo articulado y viene en un embalaje desechable, de modo que es el regalo perfecto para fans y coleccionistas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BHFDT5Y8{{</world>}}

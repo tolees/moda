@@ -28,14 +28,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Modelo con cordones
 - Somos miembros del Leather Working Group
-- Entresuela de goma EVA moldeada por compresión
 - Suela de goma dentada
-- Tallas: 40-46, 47,5 H
-- Plantilla OrthoLite
-- Empeine confeccionado con tejido ReBOTL
 - Forro ReBOTL
+- Entresuela de goma EVA moldeada por compresión
+- Empeine confeccionado con tejido ReBOTL
+- Tallas: 40-46, 47,5 H
+- Modelo con cordones
+- Plantilla OrthoLite
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B7S8FDF7{{</world>}}

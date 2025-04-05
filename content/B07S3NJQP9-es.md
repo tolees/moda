@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Medidas: 21x12 cm
 - Cartera monedero de mujer mediano pata de gallo
+- Medidas: 21x12 cm
 - Composición: Polipropileno
 
 [🛒 Comprar!!!]({{< param buyurl >}})

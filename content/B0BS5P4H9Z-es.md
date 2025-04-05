@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Marca de contraste centrada en el pecho
 - Fabricado con 100 % algodón sostenible
+- Marca de contraste centrada en el pecho
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BS5P4H9Z{{</world>}}

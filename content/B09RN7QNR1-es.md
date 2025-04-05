@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Estándar de la marca danesa JACK & JONES
 - Manga corta corte regular
 - Piqué de algodón para suavidad y comodidad
-- Estándar de la marca danesa JACK & JONES
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09RN7QNR1{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Ofrece comodidad y libertad de movimiento
 - Pantalón largo deportivo
 - Tiene detalles distintivos de la marca
-- Ofrece comodidad y libertad de movimiento
 - Tejido transpirable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

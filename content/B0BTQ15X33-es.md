@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tipo de cierre Cremallera
+- Altura Tacón Medio (de 3 A 5 cm)
+- Material de la suela Caucho
 - Tipo de tacón Plano
 - Material principal Sintético
-- Material de la suela Caucho
-- Altura Tacón Medio (de 3 A 5 cm)
+- Tipo de cierre Cremallera
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BTQ15X33{{</world>}}

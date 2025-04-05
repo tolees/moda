@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Tela suave
-- Logotipo de adidas
 - Amplia libertad de movimiento
 - Ajuste regular
+- Logotipo de adidas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09P1QFG9L{{</world>}}

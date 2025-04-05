@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre: cordones
 - Material interior: algodón
+- Cierre: cordones
 - No resistente al agua
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

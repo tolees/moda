@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tipo de fábrica: 100% Poliéster
+- Ropa náutica
 - Tipo de deporte: Deportes acuáticos
 - Chaqueta técnica navegación
 - Impermeable y transpirable
-- Ropa náutica
+- Tipo de fábrica: 100% Poliéster
 - Instrucciones de cuidado: Lavar a máquina
 
 [🛒 Visítala!!!]({{< param buyurl >}})

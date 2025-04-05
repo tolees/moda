@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Corte
 - Ligero y cómodo
 - Manga corta
-- Corte
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BNM1ZP4D{{</world>}}

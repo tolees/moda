@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- A estrenar y genuina. Somos un vendedor autorizado de Calvin Klein.
 - Calvin Klein Blanco Camiseta de salón con logo de caja
+- A estrenar y genuina. Somos un vendedor autorizado de Calvin Klein.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BXFR3GWF{{</world>}}

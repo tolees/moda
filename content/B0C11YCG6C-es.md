@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Manga corta
-- Mangas con volantes
 - Calidad de confianza Carter, precios bajos todos los días y embalaje sin etiquetas sin complicaciones, exclusivo para miembros de Amazon
 - Lavable a máquina
+- Manga corta
+- Mangas con volantes
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C11YCG6C{{</world>}}

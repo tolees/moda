@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello redondo
 - Camiseta fabricada en tejido de punto suave
-- Logotipo de Maxi PEPEJEANS impreso en la parte delantera
-- Manga corta
 - Corte regular
+- Logotipo de Maxi PEPEJEANS impreso en la parte delantera
+- Cuello redondo
+- Manga corta
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BKQCKJLF{{</world>}}

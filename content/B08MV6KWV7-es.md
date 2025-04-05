@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Paquete de diez
 - cintura elástica
 - Calzoncillos
-- Paquete de diez
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08MV6KWV7{{</world>}}

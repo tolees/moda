@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el óptimo Nylon para monturas del mundo que proporciona flexibilidad y resistencia
+- Modelo unisex, medidas: frontal 142 mm, patillas 140 mm, puente 20 mm, diámetro de lente 51.9 mm
+- Nuestro diseño Warwick, con sus lentes redondeadas, puente de ojo de cerradura y patillas delgadas, es uno de nuestros iconos
 - Lentes categoría 3 y protección uv400. Lentes de TR18 con el sello de Eastman , uno de los líderes mundiales en tecnología de copoliéster. Respetuoso con el medio ambiente y proporciona un equilibrio único entre claridad y resistencia
 - Producto Oficial Hawkers, incluye funda en microfibra y caja
-- Nuestro diseño Warwick, con sus lentes redondeadas, puente de ojo de cerradura y patillas delgadas, es uno de nuestros iconos
-- Modelo unisex, medidas: frontal 142 mm, patillas 140 mm, puente 20 mm, diámetro de lente 51.9 mm
-- Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el óptimo Nylon para monturas del mundo que proporciona flexibilidad y resistencia
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BSXLR4SH{{</world>}}

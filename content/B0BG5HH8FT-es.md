@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Corte regular
-- Acolchado de rayas rectas
 - Bucle suelto con logotipo en la parte posterior
+- Acolchado de rayas rectas
+- Corte regular
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BG5HH8FT{{</world>}}

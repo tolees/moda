@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuenta con un diseño ligero
-- Ofrece comodidad y libertad de movimiento
 - Presenta un estilo casual
+- Ofrece comodidad y libertad de movimiento
+- Cuenta con un diseño ligero
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BRCZHRM9{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Una marca de Amazon
 - Holgado en el pecho y entallado en la cintura
+- Una marca de Amazon
 - Diseñado con un corte bajo y un silueta sugerente que favorece tus curvas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

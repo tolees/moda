@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Este conjunto de chandal para niña de invierno está fabricado en algodón y poliéster para que la más pequeña de la casa se pueda sentir en todo momento cómoda y cálida
 - Con este chandal de Princess te asegurarás de que va conjuntada a cualquier parte y de que sea el centro de atención en todo momento | Uso recomendado como conjunto chandal para niña de 5 años
 - Si estabas buscando un regalo para Navidad, un cumpleaños o símplemente como un detalle, seguro que este conjunto de chandal de niña encantará a todos
-- Este conjunto de chandal para niña de invierno está fabricado en algodón y poliéster para que la más pequeña de la casa se pueda sentir en todo momento cómoda y cálida
 - Para un mantenimiento óptimo - lavar a máquina máximo a 30ºC sin usar blanqueadores ni secar en la secadora | A la hora del planchando, realizarlo a baja temperatura (máximo 110ºC)
 - Precioso conjunto de 3 piezas para niña compuesto por una sudadera, un pantalón de chandal y una camiseta de manga larga, con el estampado del que seguro se convertirá en uno de los personajes de su infancia
 

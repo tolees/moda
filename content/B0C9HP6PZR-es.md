@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Con capucha
 - Ofrece una comodidad óptima
 - Cuenta con detalles distintivos de la marca
-- Con capucha
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C9HP6PZR{{</world>}}

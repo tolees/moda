@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillo frontal
 - Corte estándar
+- Bolsillo frontal
 - Media cremallera
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

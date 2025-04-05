@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Material de la suela: Caucho
 - Revestimiento: Sin forro
-- Material exterior: Caucho
 - Cierre: Sin cierre
 - Tipo de tacón: Plano
-- Material de la suela: Caucho
+- Material exterior: Caucho
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07SLZK78F{{</world>}}

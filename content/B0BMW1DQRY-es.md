@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camiseta de manga larga cuello redondo de jersey, cuello de canalé, impresión de agua monocromática, ajuste regular
 - 100% algodón
+- Camiseta de manga larga cuello redondo de jersey, cuello de canalé, impresión de agua monocromática, ajuste regular
 - Ajuste cómodo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

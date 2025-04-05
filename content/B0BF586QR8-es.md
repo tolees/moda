@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Jersey de mezcla de algodón
 - Cuello redondo
 - Calvin Klein bordado en el pecho
+- Jersey de mezcla de algodón
 - Cinta distintiva dentro del cuello
 - Manga corta
 

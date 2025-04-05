@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Consulta la descripción del producto a continuación para más información.
-- Producto original. Somos un vendedor autorizado de GANT.
 - GANT Gris Archive Shield Sudadera
+- Producto original. Somos un vendedor autorizado de GANT.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08DJ7DJNG{{</world>}}

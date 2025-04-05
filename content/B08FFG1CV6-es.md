@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto elaborado con fibras recicladas
 - Cuello redondo con escote en V para comodidad
 - Tiene la propiedad de absorber la humedad
+- Producto elaborado con fibras recicladas
 - Agradable y suave al tacto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

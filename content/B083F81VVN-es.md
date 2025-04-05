@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiene un diseño clásico con costuras finas
 - Cinturón óptimo para completar los looks informales de todos los días
+- Tiene un diseño clásico con costuras finas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B083F81VVN{{</world>}}

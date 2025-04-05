@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Modelo Unisex. Medidas: Frontal 141 mm; Patillas 145 mm ; Puente 20 mm ; Alto 52 mm.
-- Gafas de sol polarizadas de acetato pulido estilo aviador y doble puente. Combina parte superior del frontal en color negro con un degradadado a marrón transparente en el inferior, que contrasta con el interior de color salmón. Incorpora lentes color marrón oscuro.
-- Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores. Lentes categoría 3 fabricadas con material bio tac polarizado y protección uv400.
-- Producto Oficial Hawkers. Incluye: Funda en microfibra y caja.
 - Montura en acetato de celulosa de alta calidad que aporta una máxima resistencia y durabilidad. Bisagra de 3 barras para un mayor agarre y durabilidad.
+- Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores. Lentes categoría 3 fabricadas con material bio tac polarizado y protección uv400.
+- Gafas de sol polarizadas de acetato pulido estilo aviador y doble puente. Combina parte superior del frontal en color negro con un degradadado a marrón transparente en el inferior, que contrasta con el interior de color salmón. Incorpora lentes color marrón oscuro.
+- Modelo Unisex. Medidas: Frontal 141 mm; Patillas 145 mm ; Puente 20 mm ; Alto 52 mm.
+- Producto Oficial Hawkers. Incluye: Funda en microfibra y caja.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C2YXBHLP{{</world>}}

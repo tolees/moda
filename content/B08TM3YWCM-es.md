@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia
-- Modelo unisex. Medidas: Frente: 14,3cm, Altura: 4,34cm, Diámetro de la lente: 5,6cm, Puente: 1,7cm; Varillas: 14cm en el interior del terminal de la patilla para un mejor agarre
 - Gafas de sol polarizadas: otorga una visión sin reflejos, y contraste naturales de colores. Lentes categoría 3 y protección uv400 que ofrecen una protección antideslumbrante superior
+- Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia
 - Gafas de sol cuadradas con frontal en negro mate, patillas con estampado fibra de carbono y lentes negras polarizadas. La combinación de líneas geométricas y curvas del frontal hacen de este diseño una fusión de estilo sportswear y lifestyle. La bisagra ligeramente situada ya entrada en la patilla proporciona una sensación envolvente.
+- Modelo unisex. Medidas: Frente: 14,3cm, Altura: 4,34cm, Diámetro de la lente: 5,6cm, Puente: 1,7cm; Varillas: 14cm en el interior del terminal de la patilla para un mejor agarre
 - Producto original Hawkers. La caja incluye funda, caja y set de pegatinas decorativas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

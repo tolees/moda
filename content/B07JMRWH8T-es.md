@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Logo Carhartt bordado en el dobladillo
 - Estampado en el bolsillo del pecho
+- Logo Carhartt bordado en el dobladillo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07JMRWH8T{{</world>}}

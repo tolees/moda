@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ALGODÓN JERSEY LIGERO: Su tejido suave y cómodo hará que se convierta en tu camiseta de tirantes favorita. Los lisos son 100 % algodón y los diseños son de una mezcla de algodón y poliéster.
-- DETALLES: Ribete de algodón jersey en sisas y cuello que le da una apariencia limpia. Etiqueta estampada en la nuca, sin etiqueta, para mayor comodidad. Bajo recto.
 - AJUSTE CEÑIDO: Ajuste ceñido en pecho y cintura.
+- DETALLES: Ribete de algodón jersey en sisas y cuello que le da una apariencia limpia. Etiqueta estampada en la nuca, sin etiqueta, para mayor comodidad. Bajo recto.
 - CAMISETA SIN MANGAS: Esta camiseta sin mangas es tu básico de armario perfecto para los días de calor. Combina este producto con una camisa de cuello o con unos pantalones cortos, unos vaqueros o incluso unos chinos para los días más calurosos.
+- ALGODÓN JERSEY LIGERO: Su tejido suave y cómodo hará que se convierta en tu camiseta de tirantes favorita. Los lisos son 100 % algodón y los diseños son de una mezcla de algodón y poliéster.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07HJHJBZ7{{</world>}}

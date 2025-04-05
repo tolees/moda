@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sandalias romanas
-- Femenino
-- 32919 BLK
 - MEDITACIÓN LUNA NUEVA
+- Femenino
+- Sandalias romanas
+- 32919 BLK
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07TXQWMBH{{</world>}}

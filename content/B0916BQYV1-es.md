@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Contiene material reciclado: Producto elaborado con fibras recicladas. Una de las soluciones de PUMA para reducir el impacto ambiental
-- Logotipo del PUMA estampado por transferencia en la parte derecha del pecho
 - dryCELL: La denominación de PUMA para las propiedades repelentes de la humedad que ayudan a que la piel permanezca seca y cómoda
-- Diseño en dos tonos con mangas en un color de contraste
 - Formstrip PUMA estampada por transferencia en los hombros
+- Logotipo del PUMA estampado por transferencia en la parte derecha del pecho
+- Diseño en dos tonos con mangas en un color de contraste
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0916BQYV1{{</world>}}

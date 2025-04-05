@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto original Hawkers. La caja incluye funda de microfibra, caja y set de pegatinas decorativas.
+- Lentes de TR18 con el sello de Eastman, líderes mundiales en tecnología de copoliéster. Respetuoso con el medio ambiente y proporciona un equilibrio único entre claridad y resistencia. Lentes categoría 3, UV400
+- Medidas: Frontal 145,8 mm; Alto 34,5 mm; Patillas 145 mm; Puente 20 mm; Diámetro de lente 55 mm
 - Gafas de Sol Olwen Tortoise x Paula Echevarría, Unisex, con montura de Carey con diseño ojo de gato y patillas bold estilizadas y lente oscura.
 - Montura en acetato de celulosa de alta calidad que aporta una máxima resistencia y durabilidad, con almohadillas también de acetato para mayor comodidad.
-- Medidas: Frontal 145,8 mm; Alto 34,5 mm; Patillas 145 mm; Puente 20 mm; Diámetro de lente 55 mm
-- Lentes de TR18 con el sello de Eastman, líderes mundiales en tecnología de copoliéster. Respetuoso con el medio ambiente y proporciona un equilibrio único entre claridad y resistencia. Lentes categoría 3, UV400
+- Producto original Hawkers. La caja incluye funda de microfibra, caja y set de pegatinas decorativas.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08HNH6S26{{</world>}}

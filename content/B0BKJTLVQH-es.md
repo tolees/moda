@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Sports sunglasses designed for those who are nostalgic for the 90s. This unisex athleisure-style design, from the Made in Spain collection, combines a black wrap-around frame in a matte finish and black lenses.
-- No Gender Model. Size: Front 142 mm; Temples 135 mm; Bridge 15 mm; High 49,3 mm.
 - Hawkers Official Product. Includes: Case, personalised box
+- No Gender Model. Size: Front 142 mm; Temples 135 mm; Bridge 15 mm; High 49,3 mm.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BKJTLVQH{{</world>}}

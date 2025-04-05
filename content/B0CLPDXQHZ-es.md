@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolso shopper de material liso con cremallera, dos asas y correa ajustable. Forro de tela con un bolsillo con cremallera por dentro.
 - No lavar, No usar lejía, No secar en la secadora, No planchar, No limpiar en seco
+- Bolso shopper de material liso con cremallera, dos asas y correa ajustable. Forro de tela con un bolsillo con cremallera por dentro.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CLPDXQHZ{{</world>}}

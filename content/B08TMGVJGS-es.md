@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Las gafas de sol LAX con montura metálica dorada mate, lentes polarizadas negras y terminales negros son un modelo clásico de estilo aviador esencial para cada temporada.
-- Modelo Unisex. Frontal 13,9 cm, Alto 4,9 cm, Patillas 14
-- Gafas de sol polarizadas: otorga una visión sin reflejos, y contraste naturales de colores. Lentes categoría 3 y protección uv400 que ofrecen una protección antideslumbrante superior
 - Producto original Hawkers. La caja incluye funda, caja y set de pegatinas decorativas.
 - Montura en acero inoxidable libre de níquel que las hace altamente resistentes a la corrosión y mucho más fuertes.
+- Gafas de sol polarizadas: otorga una visión sin reflejos, y contraste naturales de colores. Lentes categoría 3 y protección uv400 que ofrecen una protección antideslumbrante superior
+- Las gafas de sol LAX con montura metálica dorada mate, lentes polarizadas negras y terminales negros son un modelo clásico de estilo aviador esencial para cada temporada.
+- Modelo Unisex. Frontal 13,9 cm, Alto 4,9 cm, Patillas 14
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08TMGVJGS{{</world>}}

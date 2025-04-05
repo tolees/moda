@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Camiseta de manga corta y cuello redondo con estampado floral Vans serigrafiada en la parte delantera
-- 100% algodón (el color gris jaspeado es 50% algodón, 50% poliéster)
 - Ajustada clásica
+- 100% algodón (el color gris jaspeado es 50% algodón, 50% poliéster)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BNL3ZRCW{{</world>}}

@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Viene con una maleta en forma de cactus y le da un toque de estilo a su conjunto con una diadema para el pelo en forma de corazón, pendientes en forma de corazón, cinturón dorado en forma de corazón y botas de vaquero moradas
-- Las pequeñas muñecas miden 14 cm y están listas para ir de vacaciones con conjuntos a la moda y mucho estilo; cada muñeca viene con accesorios temáticos según el destino de su viaje que son toda una declaración de intenciones
-- Las muñecas Barbie Extra Minis lucen accesorios supermonos y un estilo EXTRA FLY, lo que las convierte en un gran regalo para las niñas y los niños a quienes encanta la moda y vivir aventuras viajando
 - Esta muñeca Barbie Extra Minis festivalera se dirige al desierto con su pelo rosa extralargo, su capa radiante con flecos y su vestido metálico con flecos
+- Las muñecas Barbie Extra Minis lucen accesorios supermonos y un estilo EXTRA FLY, lo que las convierte en un gran regalo para las niñas y los niños a quienes encanta la moda y vivir aventuras viajando
+- Las pequeñas muñecas miden 14 cm y están listas para ir de vacaciones con conjuntos a la moda y mucho estilo; cada muñeca viene con accesorios temáticos según el destino de su viaje que son toda una declaración de intenciones
 - Con un soporte para la muñeca y codos y rodillas articulados, esta pequeña muñeca es óptima para jugar con la moda o para crear una exposición de muñecas Barbie Extra Minis
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

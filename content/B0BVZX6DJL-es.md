@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Modelo Unisex. Medidas: Frontal 141 mm; Patillas 140 mm; Puente 17 mm; Diámetro de lente 55,7 mm
 - Frontal fabricado en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Almohadillas de TR90 para una sujeción mucho más cómoda.
+- Nuestro diseño Warwick, con sus lentes redondeadas, puente de ojo de cerradura y patillas delgadas, es uno de nuestros iconos. Este modelo, de la colección Made in Spain, tiene una montura translúcida color caramelo oscuro en acabado mate, logotipos dorados en las patillas y lentes Blue Light.
 - Blue Block Technology. Gafa con filtro azul. Máxima protección frente a la sobreexposición de pantallas. Elimina la transmisión de luz azul, previniendo la fatiga y el estrés visual. Sin graduación.
 - Producto Oficial HAWKERS. Incluye: Funda en microfibra y caja.
-- Nuestro diseño Warwick, con sus lentes redondeadas, puente de ojo de cerradura y patillas delgadas, es uno de nuestros iconos. Este modelo, de la colección Made in Spain, tiene una montura translúcida color caramelo oscuro en acabado mate, logotipos dorados en las patillas y lentes Blue Light.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BVZX6DJL{{</world>}}

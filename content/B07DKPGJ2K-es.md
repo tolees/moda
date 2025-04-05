@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ligero, resistente y siempre práctico
 - Logo de metal de Kipling
+- Ligero, resistente y siempre práctico
 - Compartimento principal con cremallera con bolsillo con cremallera y 2 bolsillos abiertos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

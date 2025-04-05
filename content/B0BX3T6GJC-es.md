@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Impresión gráfica en la parte delantera
-- Corte entallado
-- Detalles de bloqueo de color
 - Logotipo dryCELL en el dobladillo izquierdo
+- Impresión gráfica en la parte delantera
+- Detalles de bloqueo de color
+- Corte entallado
 - PUMA Logotipo de gato en el pecho derecho
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

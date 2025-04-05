@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - AJUSTE NORMAL: Ajuste cómodo en hombros, pecho y cintura.
-- DETALLES: Cuello recto, tapeta de botones central en la parte delantera, mangas largas con puños de barril abotonados ajustables y bajo tipo faldón.
 - CAMISA DE VESTIR: Esta camisa de vestir podrás usarla tanto pasa ir a la oficina como para salir por la noche. La ligera mezcla de popelín hará que no quieras quitarte esta camisa durante todo el día. Combina este producto con unos vaqueros o unos pantalones chinos, o con un traje para ocasiones más formales.
+- DETALLES: Cuello recto, tapeta de botones central en la parte delantera, mangas largas con puños de barril abotonados ajustables y bajo tipo faldón.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BG54HKB3{{</world>}}

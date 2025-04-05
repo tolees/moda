@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Omini Kappa
 - Chaqueta ideal entrenamiento
-- Protección frío y viento
+- Omini Kappa
 - Ideal cualquier ocasión
+- Protección frío y viento
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07P6JSRFF{{</world>}}

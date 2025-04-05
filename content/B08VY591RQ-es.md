@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Tejido Jersey
 - Tirantes elásticos ajustables
 - Cierre con corchetes en la espalda
 - Tirantes multidireccionales
-- Tejido Jersey
 - Sostenibilidad: Este artículo está hecho con Tencel Lyocell. Tencel Lyocell se produce mediante procesos responsables con el medio ambiente y se fabrica con madera procedente de bosques gestionados de forma responsable.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

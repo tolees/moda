@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- DETALLES: Cuello, mangas y dobladillo inferior de canalé de estilo deportivo para mejorar la elasticidad y la recuperación.
-- PRODUCTO CON LICENCIA OFICIAL: Amazon Essentials ofrece productos únicos con tus personajes favoritos para que añadas maravillas a tu armario. Todos los productos tienen licencia oficial y son de diseño propio.
 - AJUSTE NORMAL: Ajuste cómodo en hombros, pecho y cintura.
+- PRODUCTO CON LICENCIA OFICIAL: Amazon Essentials ofrece productos únicos con tus personajes favoritos para que añadas maravillas a tu armario. Todos los productos tienen licencia oficial y son de diseño propio.
+- DETALLES: Cuello, mangas y dobladillo inferior de canalé de estilo deportivo para mejorar la elasticidad y la recuperación.
 - SUDADERA DE CUELLO REDONDO: Esta sudadera de cuello redondo, un básico clásico para el día a día, es informal y cómoda. Póntela para hacer recados o combínala con una camisa de cuello para conseguir un look más elegante.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

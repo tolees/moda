@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - 🛍️ GAMA DE PRODUCTOS: En Barcelona Pádel Tour podéis encontrar cientos de productos de todo tipo para la práctica del pádel o, por qué no, para disfrutar de nuestras prendas de ropa y de tu pasión durante tu tiempo libre. Ponemos a tu disposición Camisetas, Sudaderas, Chubasqueros, Chaquetas, Faldas, Pantalones Cortos o Largos. Lleva tu pasión a tu armario con nuestra gran marca.
-- 📩 ATENCIÓN AL CLIENTE: Ponemos a tu disposición un servicio de atención al cliente a través del servicio de mensajería interna de Amazon. Si tienes cualquier duda y no sabes qué comprar o qué regalar, o si tienes algún problema con tu envío o el producto, puedes contactarnos y te responderemos a la mayor brevedad. Queremos que tu experiencia de compra con nosotros sea exquisita.
 - 👕 CARACTERÍSTICAS: Excelente prenda de estilo casual de gran comodidad. Felpa perchada de gran confort. Bolsillo tipo canguro con acceso para auriculares. Acabado canalé en puños y bajo de la prenda. Con cremallera. Capucha con forro contrastado y con cordón ajustable. Logos de pádel en el frente y en las mangas.
 - 🎾 QUIENES SOMOS: Barcelona Pádel Tour nace en 2014 del sueño de su fundador Eddie Jackson que consistente en crear el circuito de pádel que todo jugador, desde aficionado a profesional, querría jugar. Hasta la fecha se han reunido más de 5.000 jugadores al año en sus torneos de Padel y patrocinan a grandes jugadores. Barcelona Pádel Tour busca ofrecer la mejor calidad en sus prendas para que cualquier cliente cuente con la mejor equipación para la práctica de este gran deporte.
+- 📩 ATENCIÓN AL CLIENTE: Ponemos a tu disposición un servicio de atención al cliente a través del servicio de mensajería interna de Amazon. Si tienes cualquier duda y no sabes qué comprar o qué regalar, o si tienes algún problema con tu envío o el producto, puedes contactarnos y te responderemos a la mayor brevedad. Queremos que tu experiencia de compra con nosotros sea exquisita.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09K42WHNV{{</world>}}

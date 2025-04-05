@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Elegante punto para la temporada navideña
 - Cuello alto
 - Tejido con patrones de efecto de punto especial
-- Elegante punto para la temporada navideña
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C36KCS1K{{</world>}}

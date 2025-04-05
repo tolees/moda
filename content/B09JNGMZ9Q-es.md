@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - 90% Poliéster - 10% Elastano
-- Training
 - Mujeres - Camiseta de tirantes
+- Training
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09JNGMZ9Q{{</world>}}

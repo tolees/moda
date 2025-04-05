@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La talla L es adecuada para niños de 11 a 12 años
-- Ajuste regular: ajuste sencillo y cómodo con espacio para moverse
-- Tejido ultra-light poly-fleece afelpado (240 g)
 - Logotipo impreso
+- Tejido ultra-light poly-fleece afelpado (240 g)
+- Ajuste regular: ajuste sencillo y cómodo con espacio para moverse
+- La talla L es adecuada para niños de 11 a 12 años
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BN6JHVW6{{</world>}}

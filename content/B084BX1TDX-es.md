@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Sin Polarizar
+- BLACK CRYSTAL/BLUE SHADED
 - Talla 49/20/145
 - Garantía internacional de 2 años
-- BLACK CRYSTAL/BLUE SHADED
-- Sin Polarizar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B084BX1TDX{{</world>}}

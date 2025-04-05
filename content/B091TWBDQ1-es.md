@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Regular fit
-- Composición del material: 100% algodón
 - Polo de manga corta
+- Regular fit
 - Algodón piqué para suavidad y comodidad
+- Composición del material: 100% algodón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B091TWBDQ1{{</world>}}

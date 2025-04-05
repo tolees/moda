@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tiene una sola lengüeta para abrochar
 - Tiene el logotipo de Lee en metal como parte de la presilla del cinturón
 - Con hebilla plateada
+- Tiene una sola lengüeta para abrochar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07PRJ33WM{{</world>}}

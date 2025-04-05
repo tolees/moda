@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Altura de la cintura: alta/high rise/high cut/high waist
-- Lavar en ciclo de lavado normal a 40°, No usar lejía, No secar en la secadora, Planchar a un máx. 150° (Nivel 2), Limpieza en seco con percloroetileno
-- Largo: normal
-- Cierre: con botones y cremallera
 - Pantalón de material suave con elástico.
+- Lavar en ciclo de lavado normal a 40°, No usar lejía, No secar en la secadora, Planchar a un máx. 150° (Nivel 2), Limpieza en seco con percloroetileno
+- Altura de la cintura: alta/high rise/high cut/high waist
+- Largo: normal
 - Pernera: Skinny, corte ceñido con la pernera estrecha
+- Cierre: con botones y cremallera
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BX6B19N7{{</world>}}

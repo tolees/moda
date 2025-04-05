@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Elegante
-- Vestido sostenible
 - Espalda
+- Vestido sostenible
+- Elegante
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08V1S3GDG{{</world>}}

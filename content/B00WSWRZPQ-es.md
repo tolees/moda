@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Manga larga
+- Puños y cintura de canalé elástico reforzado con elastano
 - Tejido polar de peso medio
-- Logo Carhartt cosido en el bolsillo
 - Loose Fit
 - Logotipo de Carhartt estampado en la manga izquierda
-- Puños y cintura de canalé elástico reforzado con elastano
 - Capucha de tres piezas con cordón ajustable
+- Logo Carhartt cosido en el bolsillo
+- Manga larga
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00WSWRZPQ{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ribete de rayas dentro del cuello
 - Capucha con cordón
-- Puños y dobladillo de punto acanalado
 - Estampado Calvin Klein y bordado en el pecho
+- Ribete de rayas dentro del cuello
+- Puños y dobladillo de punto acanalado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BTDWMWJY{{</world>}}

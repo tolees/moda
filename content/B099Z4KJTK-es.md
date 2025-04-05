@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Chaleco con cuello alto
-- Con cremallera
 - Bolsillos laterales
+- Con cremallera
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B099Z4KJTK{{</world>}}

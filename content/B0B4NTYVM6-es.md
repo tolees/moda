@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material interior: sintético
 - Material exterior: poliéster
+- Material interior: sintético
 - Cierre: goma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

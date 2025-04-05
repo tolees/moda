@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 👶 ROPA INFANTIL PARA NIÑ@S: CAMISETAS-NIÑA, Camiseta de niña en color negro con detalles de lazos en los tirantes. Fruncido en casi toda la prenda con volante en la parte inferior. Modelo Canicula de la colección Afrikan vibes con referencia 79092-960 de Charanga, realizado en Punto: 100% Algodón.
+- Utilizamos material de 100% algodon, que es más cómodo, saludable y transpirable. La composición es el más adecuado para los niños. 🎁 Regalos para niñ@s, haz el regalo para perfecto para recién nacido, bebé niña, bebé niño o niña y niño.
 - 100% algodon
 - 📐 TABLA DE TALLAS Disponible para NIÑA: 2-3: altura 98cm / 3-4: 104 cm / 4-5: 110 cm / 5-6: 116 cm / 6-7: 122 cm / 7-8: 128 cm / 9-10: 140 cm / 11-12: 152 cm.
-- Utilizamos material de 100% algodon, que es más cómodo, saludable y transpirable. La composición es el más adecuado para los niños. 🎁 Regalos para niñ@s, haz el regalo para perfecto para recién nacido, bebé niña, bebé niño o niña y niño.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09F3NKG1R{{</world>}}

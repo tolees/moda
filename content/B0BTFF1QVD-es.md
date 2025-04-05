@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parche con logotipo de Calvin Klein en la parte superior del brazo
-- Mangas largas + cuello alto
 - Bolsillos deslizantes en ambos lados
+- Parche con logotipo de Calvin Klein en la parte superior del brazo
 - Cierres de botón a presión a lo largo
+- Mangas largas + cuello alto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BTFF1QVD{{</world>}}

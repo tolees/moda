@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Adhesivos al agua
 - Suela de goma reciclada
 - Empeines y cordones de algodón orgánico
+- Adhesivos al agua
 - Diseño vintage de inspiración militar
 - Confección vulcanizada
 

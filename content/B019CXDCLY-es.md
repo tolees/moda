@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela flexible
 - Piel en serraje hidrofugado de 1,8 mm y teramida SL
-- Flexión frontal CFS de máxima comodidad
 - Impermeable
 - Sistema de acolchado HFS para una perfecta sujeción
+- Flexión frontal CFS de máxima comodidad
+- Suela flexible
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B019CXDCLY{{</world>}}

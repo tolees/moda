@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tira de silicona muy elástica y confortable. Hebillas microrregulables con una sola mano.
-- Preciosa gafa infantil con diseño de gota invertida que mejora la adaptabilidad y la visibilidad de la gafa
-- Cristales de policarbonato con tratamiento externo de alta resistencia a las rayadas
 - Cristales de policarbonato antirrotura con tratamiento externo de alta resistencia a las rayadas
+- Cristales de policarbonato con tratamiento externo de alta resistencia a las rayadas
 - Protección anti UV y tratamiento interno antiempañamiento
+- Preciosa gafa infantil con diseño de gota invertida que mejora la adaptabilidad y la visibilidad de la gafa
+- Tira de silicona muy elástica y confortable. Hebillas microrregulables con una sola mano.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B078H1TB3K{{</world>}}

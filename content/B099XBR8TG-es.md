@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sudadera básica en colores lisos con logotipo redondo en el pecho
-- Instrucciones de lavado: no es posible limpiar en seco / no se puede secar en la secadora / No se permite blanquear / planchar a temperatura (200 °C) / lavado normal a máx 40 °C
 - Ajuste: corte regular
+- Instrucciones de lavado: no es posible limpiar en seco / no se puede secar en la secadora / No se permite blanquear / planchar a temperatura (200 °C) / lavado normal a máx 40 °C
+- Sudadera básica en colores lisos con logotipo redondo en el pecho
 - Con capucha en el cuello
 - Con puños acanalados en el dobladillo
 

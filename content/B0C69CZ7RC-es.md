@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Forma del tacón: plataforma
 - Suela: Caucho
-- Parte superior: cuero
 - Material interior: sintético
 - Cierre: cordones
+- Parte superior: cuero
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C69CZ7RC{{</world>}}

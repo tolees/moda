@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Cómodas características que incluyen bolsillos tipo canguro para calentar las manos, puños acanalados y capucha ajustable con cordón
 - Clásica y casual sudadera con capucha óptima para cualquier momento y lugar
-- Logotipo clásico de Columbia en el pecho y en la parte superior de la manga en un contrastado color sólido
 - Versátil capa de mezcla de algodón para afrontar los días fríos
 - Columbia: 1 x Columbia CSC Basic Logo II, Sudadera con capucha para hombre ,Material: 80% algodón, 20% poliéster, Color: Gris (City Grey Heather, Columbia Grey), Talla: XS/R, Art.No. 1681664
+- Logotipo clásico de Columbia en el pecho y en la parte superior de la manga en un contrastado color sólido
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B088BBXLTF{{</world>}}

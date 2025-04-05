@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cómodo y versátil, este suéter es perfecto solo o como capa debajo de un blazer o chaqueta
 - Diseñado con un corte bajo y un silueta sugerente que favorece tus curvas
+- Cómodo y versátil, este suéter es perfecto solo o como capa debajo de un blazer o chaqueta
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08TVL12TZ{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Tejido acado
 - Tipo de producto: vestido
 - Longitud/tamaño: por encima de la rodilla
-- Tejido acado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BHPSXT7H{{</world>}}

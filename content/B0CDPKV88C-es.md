@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Largo de manga: sin mangas
-- Camisetas interiores de punto suave con partes de encaje.
 - Lavar en ciclo de lavado normal a 40°, No usar lejía, Secar en la secadora a temperatura baja, Planchar a un máx. 150° (Nivel 2), No limpiar en seco
+- Camisetas interiores de punto suave con partes de encaje.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CDPKV88C{{</world>}}

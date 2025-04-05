@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Dimensiones 7 x 10 x 7,5cm
 - Forro interior
 - Portamonedas vintage de compartimento adecuado y cierre de clip metálico
-- Dimensiones 7 x 10 x 7,5cm
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BNGNPPCF{{</world>}}

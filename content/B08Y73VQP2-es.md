@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Camiseta
 - Estampado
 - Cómodo
 - algodón
-- Camiseta
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08Y73VQP2{{</world>}}

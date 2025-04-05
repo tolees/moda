@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Largo de manga: larga
 - Sudadera básica de felpa suave con capucha. Bolsillo tipo canguro superpuesto y remates de canalé.
+- Largo de manga: larga
 - Lavar en ciclo de lavado normal a 40°, No usar lejía, Secar en la secadora a temperatura baja, Planchar a un máx. 150° (Nivel 2), No limpiar en seco
 
 [🛒 Aquí!!!]({{< param buyurl >}})

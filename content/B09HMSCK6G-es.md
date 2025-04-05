@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Logo bordado en el pecho
 - Ajuste regular
+- Logo bordado en el pecho
 - Amplia libertad de movimiento
 - Tela suave
 

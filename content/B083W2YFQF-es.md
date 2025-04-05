@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Camiseta de Puma con cuello de polo con dos botones
+- Se puede usar tanto para ejercicio físico como para llevar en la calle
 - Tipo de deporte: ropa deportiva atlética
 - Logotipo del felino Puma en la parte derecha del pecho
-- Se puede usar tanto para ejercicio físico como para llevar en la calle
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B083W2YFQF{{</world>}}

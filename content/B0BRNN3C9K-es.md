@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- GAFAS DE SOL CALVIN KLEIN CK23507S MATTE BLACK PARA HOMBRE TALLA 53/20/145
-- Frente en forma de rectángulo modificado, detalles personalizados en las patillas y frescos estallidos de colores
 - Lentes resistentes a los arañazos que garantizan una protección UV del 100%.
 - Tamaño mediano y ajuste global
+- Frente en forma de rectángulo modificado, detalles personalizados en las patillas y frescos estallidos de colores
+- GAFAS DE SOL CALVIN KLEIN CK23507S MATTE BLACK PARA HOMBRE TALLA 53/20/145
 - La montura RXable permite montar lentes graduadas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

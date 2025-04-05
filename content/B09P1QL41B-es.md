@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajuste regular
-- Tela suave
 - Logotipo de adidas
+- Ajuste regular
 - Amplia libertad de movimiento
+- Tela suave
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09P1QL41B{{</world>}}

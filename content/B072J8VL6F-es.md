@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- COMPOSICIÓN Y ESTILO: Material 100% algodón para un excelente tacto y confort sobre la piel. Corte de manga corta y ajuste elástico clásico, con logotipo Dainese en el pecho y la manga
 - DAINESE - UNA HISTORIA DE PASIÓN: Fundada en Italia en 1972, la marca Dainese siempre ha estado comprometida con la excelencia en el frente de la seguridad. Esto está flanqueado por la tecnología, el arte y el diseño, que se reflejan en los numerosos productos de la marca que llevan los valores de Dainese a las motocicletas de carretera y de pista, al ciclismo y al esquí
+- COMPOSICIÓN Y ESTILO: Material 100% algodón para un excelente tacto y confort sobre la piel. Corte de manga corta y ajuste elástico clásico, con logotipo Dainese en el pecho y la manga
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B072J8VL6F{{</world>}}

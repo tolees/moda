@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Corte clásico
+- Capucha con cordón ajustable
 - Felpa 70% algodón / 30% poliéster reciclado
 - Sudadera con capucha Essentials Fleece
 - Bolsillo canguro
-- Capucha con cordón ajustable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09HC77FZ1{{</world>}}

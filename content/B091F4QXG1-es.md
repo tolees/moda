@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Máxima comodidad
-- Camiseta de tirantes confeccionada en tejido traspirable, elástico y ligero para aportar el máximo confort al runner diseño con estampado y logotipo sublimados.
 - Producto de calidad óptima
 - Suave, transpirable, ligero
+- Camiseta de tirantes confeccionada en tejido traspirable, elástico y ligero para aportar el máximo confort al runner diseño con estampado y logotipo sublimados.
 - Tipo de fábrica: 100% Poliester
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

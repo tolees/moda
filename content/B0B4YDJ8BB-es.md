@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cremallera ykk
 - Capucha ajustable
-- Tratamiento repelente al agua duradero (dwr)
-- Artículos entregados: 1x Helly-Hansen mens active winter parka - parka darkest spr XL
 - Aislamiento soplable sintético
+- Tratamiento repelente al agua duradero (dwr)
+- Cremallera ykk
+- Artículos entregados: 1x Helly-Hansen mens active winter parka - parka darkest spr XL
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B4YDJ8BB{{</world>}}

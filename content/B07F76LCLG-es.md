@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Vans Marca en el lateral
 - Marco de elastómero 100% termoplástico con brazos flexibles
 - Logotipo de Vans en relieve
+- Vans Marca en el lateral
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07F76LCLG{{</world>}}

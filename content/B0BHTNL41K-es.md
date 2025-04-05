@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Manga corta
 - Bajo recto
 - Cuello redondo
+- Manga corta
 - Estampado gráfico en la parte posterior
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

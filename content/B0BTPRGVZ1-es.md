@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Desigual
 - Cuello redondo
 - Manga corta
-- Desigual
 - Corte ajustado
 - monocolor
 

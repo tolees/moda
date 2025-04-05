@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con estampado de flores pequeñas Y Con falda Con detalle de godets
-- Con escote en uve
-- Con puños ajustados
 - Vestido corto entallado De manga larga Con volumen
+- Con escote en uve
+- Con estampado de flores pequeñas Y Con falda Con detalle de godets
+- Con puños ajustados
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C23NRF4W{{</world>}}

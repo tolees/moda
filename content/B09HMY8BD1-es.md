@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tela suave
+- Ajuste regular
 - Logo bordado en el pecho
 - Amplia libertad de movimiento
-- Ajuste regular
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09HMY8BD1{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material exterior: 98% algodón, 2% elastano
-- Ajuste: Seattle
 - Diseño ajustado
+- Ajuste: Seattle
+- Material exterior: 98% algodón, 2% elastano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B093MN9N1L{{</world>}}

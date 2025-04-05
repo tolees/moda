@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Estampado del logotipo PUMA N.º 1 de goma en relieve en el pecho
-- Corte por encima de la cintura
 - Algodón 100 %
-- Corte holgado
+- Corte por encima de la cintura
 - BCI: Al comprar productos de algodón de PUMA, apoyas una producción más sostenible de algodón mediante la Iniciativa del Mejor Algodón (Better Cotton Initiative). Más información en: bettercotton.org/massbalance
+- Corte holgado
+- Estampado del logotipo PUMA N.º 1 de goma en relieve en el pecho
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B089Z73YRS{{</world>}}

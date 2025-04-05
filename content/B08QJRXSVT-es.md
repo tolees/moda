@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Elástico en el dobladillo y los puños para acomodar flexiblemente las capas, Orificios para los pulgares para calentar las manos y las palmas, Cremallera completa para la ventilación
 - Sudadera que favorece el movimiento con funciones de calentamiento y enfriamiento, Amplios bolsillos para guardar los objetos de viaje
 - Tejido Comfort Stretch para acomodarse a los movimientos atléticos, Calidez gracias al vellón mullido, Tejido Omni-Wick para expulsar rápidamente la presencia de sudor
-- Elástico en el dobladillo y los puños para acomodar flexiblemente las capas, Orificios para los pulgares para calentar las manos y las palmas, Cremallera completa para la ventilación
 - Forro polar con respaldo de malla y exterior de lana, Bolsillos para las manos con cremallera, Bolsillo de seguridad en el pecho izquierdo, Lavado a máquina en frío/suave, Secado en secadora a baja temperatura
 - Contenido: 1 x Columbia Park View Sudadera polar con capucha y cremallera para hombre, Negro (Black Heather), L , Artículo 1954153
 

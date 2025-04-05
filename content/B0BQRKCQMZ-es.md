@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño exclusivo de la marca italiana
 - Jersey Kappa
 - Nueva colección primavera/verano 2023
+- Diseño exclusivo de la marca italiana
 - Comodidad óptima
 - Estilo chic y casual
 

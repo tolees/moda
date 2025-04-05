@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Lentes ligeras y resistentes a los arañazos que proporcionan una protección UV del 100%
+- GAFAS DE SOL KARL LAGERFELD KL6100S GREY PARA MUJER TALLA 54/19/140
+- Ajuste global y tamaño medio con varillas ajustables
 - La montura RXable permite el uso de lentes graduadas
 - Este modelo es el accesorio perfecto para un look moderno y actual
-- Ajuste global y tamaño medio con varillas ajustables
-- GAFAS DE SOL KARL LAGERFELD KL6100S GREY PARA MUJER TALLA 54/19/140
+- Lentes ligeras y resistentes a los arañazos que proporcionan una protección UV del 100%
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BRNRB3GM{{</world>}}

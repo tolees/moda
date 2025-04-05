@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Parka De Hombre Boomerang NEGRO L
 - Tipo de tejido: sarga
+- Parka De Hombre Boomerang NEGRO L
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07YCVJ3MT{{</world>}}

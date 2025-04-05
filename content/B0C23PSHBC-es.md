@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Con puños ajustados
 - Con estampado de flores pequeñas Y Con falda Con detalle de godets
 - Vestido corto entallado De manga larga Con volumen
-- Con puños ajustados
 - Con escote en uve
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Lavar en ciclo de lavado normal a 40°, No usar lejía, No secar en la secadora, Planchar a un máx. 200° (Nivel 3), Limpieza en seco con percloroetileno
-- Corte: Regular Fit, corte clásico
-- Largo de manga: larga
-- Tipo de cuello: cutaway
-- Camisa vaquera de denim ligero con efecto deslavado. Puños de un botón y bajo redondeado.
 - Cierre: con botones
+- Largo de manga: larga
+- Camisa vaquera de denim ligero con efecto deslavado. Puños de un botón y bajo redondeado.
+- Corte: Regular Fit, corte clásico
+- Tipo de cuello: cutaway
+- Lavar en ciclo de lavado normal a 40°, No usar lejía, No secar en la secadora, Planchar a un máx. 200° (Nivel 3), Limpieza en seco con percloroetileno
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CKGD7C6W{{</world>}}

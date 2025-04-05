@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tejido ultraligero con fleece afelpado (240 g)
-- La talla L es adecuada para niños de 11 a 12 años
 - Logotipo impreso
+- La talla L es adecuada para niños de 11 a 12 años
+- Tejido ultraligero con fleece afelpado (240 g)
 - Ajuste regular: ajuste sencillo y cómodo con espacio para moverse
 
 [🛒 Aquí!!!]({{< param buyurl >}})

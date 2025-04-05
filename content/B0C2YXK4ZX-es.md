@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Modelo Unisex. Medidas: Frontal 141 mm; Patillas 145 mm ; Puente 20 mm ; Alto 52 mm.
 - Producto Oficial Hawkers. Incluye: Funda en microfibra y caja.
-- Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores. Lentes categoría 3 fabricadas con material bio tac polarizado y protección uv400.
 - Gafas de sol total black de montura estilo aviador en acetato con acabado pulido, doble puente y pins ornamentales en forma de media H en ambos lados de su frontal, que le aportan un look más sofisticado al diseño.
 - Montura en acetato de celulosa de alta calidad que aporta una máxima resistencia y durabilidad. Bisagra de 3 barras para un mayor agarre y durabilidad.
+- Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores. Lentes categoría 3 fabricadas con material bio tac polarizado y protección uv400.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C2YXK4ZX{{</world>}}

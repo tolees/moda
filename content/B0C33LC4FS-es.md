@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello redondo acanalado
 - Dobladillo redondeado
-- Mangas cortas de inserción, dobladillo de solapa fijo
+- Cuello redondo acanalado
 - Etiqueta tejida G-Star RAW inferior en la parte delantera
+- Mangas cortas de inserción, dobladillo de solapa fijo
 - G-Star RAW Bordado en el pecho
 
 [🛒 Comprar!!!]({{< param buyurl >}})

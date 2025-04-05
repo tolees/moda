@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Tejido Tejido
 - Bordado KARL Signature en la copa izquierda
-- Copas acolchadas
 - Cierre de corchetes ajustable en la espalda y banda elástica en el pecho
+- Copas acolchadas
 - Tirantes ajustables
 
 [🛒 Visítala!!!]({{< param buyurl >}})

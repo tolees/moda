@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - DETALLES: Capucha forrada de algodón jersey con ojales metálicos y cordón ajustable. Ribete de canalé de alto gramaje en las mangas y los dobladillos inferiores, y un bolsillo tipo canguro en la parte delantera.
-- AJUSTE NORMAL: Ajuste cómodo en hombros, pecho y cintura.
 - SUDADERA CON CAPUCHA: Esta sudadera con capucha, un básico clásico para el día a día, es informal y cómoda. Póntela para hacer recados o combínala con una camisa de cuello para conseguir un look más elegante.
+- AJUSTE NORMAL: Ajuste cómodo en hombros, pecho y cintura.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B075JW9DMF{{</world>}}

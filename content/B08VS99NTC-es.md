@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Logotipo de Adidas
 - Tela transpirable
 - Cuello redondo
+- Logotipo de Adidas
 - Material que absorbe la humedad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

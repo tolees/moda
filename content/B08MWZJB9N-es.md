@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fabricado en material de calidad que es lo suficientemente resistente para un uso prolongado; La idea de regalo perfecta; Marca CMP
 - Suede
+- Fabricado en material de calidad que es lo suficientemente resistente para un uso prolongado; La idea de regalo perfecta; Marca CMP
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08MWZJB9N{{</world>}}

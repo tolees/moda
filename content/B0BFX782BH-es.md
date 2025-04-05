@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Montura en acetato de celulosa de alta calidad que aporta una máxima resistencia y durabilidad. Almohadillas de acetato para una sujeción mucho más cómoda.
+- Producto original Hawkers. La caja incluye funda en microfibra y caja.
 - Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores. Lentes categoría 3 fabricadas con material bio tac polarizado y protección uv400.
 - Este modelo es la versión más cálida de la familia Croupier. Diseño oversized rectangular de inspiración setentera. Con montura de acetato color havana arizona, lentes polarizadas marrones y una sutil placa de metal que conecta con la bisagra.
-- Producto original Hawkers. La caja incluye funda en microfibra y caja.
 - Medidas: Frontal 141 mm; Patillas 145 mm ; Puente 17 mm ; Alto 50 mm. Modelo Unisex
+- Montura en acetato de celulosa de alta calidad que aporta una máxima resistencia y durabilidad. Almohadillas de acetato para una sujeción mucho más cómoda.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BFX782BH{{</world>}}

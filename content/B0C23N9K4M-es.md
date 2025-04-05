@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Con escote en uve
-- Con volantes en los puños
-- Vestido De manga larga Con volumen
-- Con Cierre de cremallera invisible, Con Detalle de lace a contraste deBajo del pecho Y en la falda Con estampado de flores bicolor
 - Con corte deBajo del pecho
+- Con volantes en los puños
+- Con Cierre de cremallera invisible, Con Detalle de lace a contraste deBajo del pecho Y en la falda Con estampado de flores bicolor
+- Vestido De manga larga Con volumen
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C23N9K4M{{</world>}}

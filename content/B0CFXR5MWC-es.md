@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 0.4 kg peso x 20 l volumen
 - Bolsa grande (con correa de hombro extraíble)
+- 35 cm de altura x 49 cm de ancho x 15 cm de profundidad
+- 0.4 kg peso x 20 l volumen
 - Poliamida
 - Repelente al agua
-- 35 cm de altura x 49 cm de ancho x 15 cm de profundidad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CFXR5MWC{{</world>}}

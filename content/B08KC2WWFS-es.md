@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Cuello: cuello redondo
 - Material: 65 % acrílico, 35 % poliamida
 - Longitud de la manga: manga larga
-- Cuello: cuello redondo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08KC2WWFS{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ellesse Chaqueta Moralez gris con cremallera completa
 - Producto original. Somos un vendedor autorizado de Ellesse.
+- Ellesse Chaqueta Moralez gris con cremallera completa
 - Consulta la descripción del producto a continuación para más información.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

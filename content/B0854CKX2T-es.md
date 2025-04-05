@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Referencia UMB79005
-- Calidad
 - Pulsera UMB79005 de la marca Guess
+- Calidad
+- Referencia UMB79005
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0854CKX2T{{</world>}}

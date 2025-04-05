@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Con el logotipo Joma en la parte derecha del pecho
-- Camiseta con manga corta para hombres
 - Esta hecha de poliéster transpirable
 - La camiseta tiene el cuello redondo
+- Camiseta con manga corta para hombres
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01ERZ3JG0{{</world>}}

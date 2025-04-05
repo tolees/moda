@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camiseta de manga larga de tejido orgánico con mano caliente y cuello alto girado. Logotipo bordado en color en la parte inferior. Regular Fit
 - 100% algodón
+- Camiseta de manga larga de tejido orgánico con mano caliente y cuello alto girado. Logotipo bordado en color en la parte inferior. Regular Fit
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BVN1TJFM{{</world>}}

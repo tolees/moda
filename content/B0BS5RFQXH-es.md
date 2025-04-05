@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Herrajes de oro antiguo
-- Bolsillo interior con cremallera y 6 ranuras para tarjetas
 - Caída corta: 12.6 pulgadas. Caída larga: 22 pulgadas
+- Bolsillo interior con cremallera y 6 ranuras para tarjetas
+- Herrajes de oro antiguo
 - L: 11.75" ancho: 2.25" h: 6.25"
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Con franjas color block Con detalles de lurex
+- Con cuello redondo
 - Contiene lana
 - JerseY De manga larga caída
-- Con cuello redondo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C23M4R3W{{</world>}}

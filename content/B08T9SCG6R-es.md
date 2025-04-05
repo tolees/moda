@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Vestido largo
 - Banda
-- Faldón
 - suelto
+- Faldón
+- Vestido largo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08T9SCG6R{{</world>}}

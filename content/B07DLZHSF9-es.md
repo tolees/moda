@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Guante
+- Stanley
+- Protección
 - Seguridad
 - Trabajo
-- Protección
-- Stanley
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07DLZHSF9{{</world>}}

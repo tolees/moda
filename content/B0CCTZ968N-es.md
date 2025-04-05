@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bolso de hombro mediano
-- 22 cm de altura x 33 cm de ancho x 12.5 cm de profundidad
 - 0.35 kg
-- Repelente al agua
+- 22 cm de altura x 33 cm de ancho x 12.5 cm de profundidad
+- Bolso de hombro mediano
 - 100% poliamida
+- Repelente al agua
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CCTZ968N{{</world>}}

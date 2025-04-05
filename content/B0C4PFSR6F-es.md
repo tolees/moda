@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Hecho de tela cómoda para llevar todo el día
+- Sudadera con capucha en rosa lila con logotipo de PUMA
 - Diseño elegante y versátil
 - PUMA ESS Logo Hoodie TR (s) Rosa Lila
-- Sudadera con capucha en rosa lila con logotipo de PUMA
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C4PFSR6F{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Borde microfino en los puños
 - Polo ajustado
+- Borde microfino en los puños
 - Detalle de banda interior del cuello
 
 [🛒 Visítala!!!]({{< param buyurl >}})

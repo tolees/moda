@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Montura en acetato de celulosa de alta calidad que aporta una máxima resistencia y durabilidad. Bisagra de 3 barras para un mayor agarre y durabilidad.
 - Gafas de sol rectangulares con montura bold de acetato transparente en color carey beige y acabado pulido. Sus lentes cosmeticas de color amarillo, son ideales para llevar tanto en interiores como en exteriores en condiciones de baja luminosidad y lucen el isotipo de Hawkers en su esquina superior derecha.
 - Modelo Unisex. Medidas: Frontal 141 mm; Patillas 145 mm ; Puente 21 mm ; Alto 49 mm
-- Montura en acetato de celulosa de alta calidad que aporta una máxima resistencia y durabilidad. Bisagra de 3 barras para un mayor agarre y durabilidad.
 - Lentes de TR18 con el sello de Eastman , uno de los líderes mundiales en tecnología de copoliéster. Respetuoso con el medio ambiente y proporciona un equilibrio único entre claridad y resistencia. Lentes cosméticas categoría 0 y protección uv400 que ofrecen protección antideslumbrante.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

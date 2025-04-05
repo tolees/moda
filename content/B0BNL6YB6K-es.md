@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 100% algodón
 - Vans Camiseta clásica de manga corta con icónico estampado OTW Board en el pecho
 - Ajustada clásica
-- 100% algodón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BNL6YB6K{{</world>}}

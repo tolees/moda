@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Repele el agua
 - 0,4 kg de peso y 20 L de volumen
-- 35 cm de alto x 49 cm de ancho x 15 cm de profundidad
-- Bolsa grande con compartimentos internos
 - 100% poliamida
+- 35 cm de alto x 49 cm de ancho x 15 cm de profundidad
+- Repele el agua
+- Bolsa grande con compartimentos internos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07V3M9BDJ{{</world>}}

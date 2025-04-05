@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- ONLY ONLHANNOVER S S Vestido camisero NOOS WVN Ultramarine 10UK
 - Tipo de producto: VESTIDO
 - Marca: ONLY
-- ONLY ONLHANNOVER S S Vestido camisero NOOS WVN Ultramarine 10UK
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09JSMNC6R{{</world>}}

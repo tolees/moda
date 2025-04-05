@@ -29,11 +29,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Transmisión de vídeo DJI O3+ - Las gafas cambian automáticamente entre las bandas de frecuencia de 2.4 GHz y de 5.8 GHz para mantener una señal intensa y estable que te permite volar sin interrupciones.
+- Diseño integrado - Las gafas cuentan con una cómoda cinta de sujeción con una batería integrada. Cárgalas durante el vuelo y mantenlas con batería durante varios vuelos largos con tu dron.
 - DJI Goggles Integra cuentan con diseño de cinta de sujeción con batería integrada para ofrecer máxima comodidad. Para una mayor funcionalidad, DJI Goggles 2 cuentan con regulación de dioptrías y streaming inalámbrico.
 - HD con baja latencia - Con una latencia mínima de 30 ms en la transmisión de vídeo, la experiencia de visualización es fluida y cómoda.
-- Llévatelas a cualquier aventura - DJI Goggles Integra pesan aproximadamente 410 g y cuentan con antenas plegables para compactarlas y poder llevarlas fácilmente.
-- Diseño integrado - Las gafas cuentan con una cómoda cinta de sujeción con una batería integrada. Cárgalas durante el vuelo y mantenlas con batería durante varios vuelos largos con tu dron.
 - Extensa compatibilidad - Usa DJI Mini 4 Pro, DJI Goggles Integra con DJI Avata, DJI Mini 3 Pro, DJI Mavic 3, DJI Mavic 3 Pro, DJI Mavic 3 Classic, DJI FPV, etc.
+- Llévatelas a cualquier aventura - DJI Goggles Integra pesan aproximadamente 410 g y cuentan con antenas plegables para compactarlas y poder llevarlas fácilmente.
 - Pantallas micro-OLED - Las dos pantallas micro-OLED HD de DJI Goggles Integra ofrecen asombrosos niveles de detalle y colores. La alta tasa de refresco de la pantalla permite volar de forma sencilla y fluida.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

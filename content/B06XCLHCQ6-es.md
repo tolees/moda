@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bóxer clásico
 - Tejido suave al tacto.
+- Bóxer clásico
 - Cinturilla con logo distintivo de PUMA con rayas clásicas.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

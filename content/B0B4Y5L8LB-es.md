@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- LIFA MERINO
 - Confección en 2 capas
-- Costuras planas para mayor comodidad y durabilidad
-- Exterior de lana merina 100 %
 - Artículos entregados: 1x Helly Hansen Mens Lifa Merino Midweight 1/2 Zip - LS Baselayer CLOUDBERRY L
+- Exterior de lana merina 100 %
+- LIFA MERINO
+- Costuras planas para mayor comodidad y durabilidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B4Y5L8LB{{</world>}}

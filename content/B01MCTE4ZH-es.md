@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Color: Negro
 - Tamaño: XXL
+- Color: Negro
 - Grupo objetivo: niño
 
 [🛒 Comprar!!!]({{< param buyurl >}})

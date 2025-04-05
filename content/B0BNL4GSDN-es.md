@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Logo Vans a cuadros en la parte delantera
 - 100% algodón
+- Logo Vans a cuadros en la parte delantera
 - Camiseta de manga larga con logotipo serigrafiado en el pecho
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Orificios de ventilación para circulación
 - 17.5(l) x 8(w) x 6(d) cm
 - Cubierta exterior duradera con forro interior suave
 - Protege anteojos y gafas de natación
+- Orificios de ventilación para circulación
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01KOI10YC{{</world>}}

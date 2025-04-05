@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre delantero
-- Cinta con logotipo KARL en los tirantes, las copas y la banda del pecho
 - Tejido Jersey
+- Cinta con logotipo KARL en los tirantes, las copas y la banda del pecho
+- Cierre delantero
 - Tirantes ajustables y multidireccionales
 - Sin aros
 

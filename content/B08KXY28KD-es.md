@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Loopback para calor y circulación del aire
-- Corte normal
-- Algodón cepillado para mayor comodidad
-- Cómoda sudadera con capucha con cremallera
 - 85% Algodón, 15% Poliéster
+- Algodón cepillado para mayor comodidad
+- Loopback para calor y circulación del aire
+- Cómoda sudadera con capucha con cremallera
+- Corte normal
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08KXY28KD{{</world>}}

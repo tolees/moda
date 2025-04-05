@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ajuste regular
 - Loopback para la circulación de calor y aire.
-- Cómoda sudadera con capucha con cierre de cremallera
-- 85% algodón, 15% poliéster.
 - Algodón cepillado para mayor comodidad
+- 85% algodón, 15% poliéster.
+- Ajuste regular
+- Cómoda sudadera con capucha con cierre de cremallera
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08KXYCJ4M{{</world>}}

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Bufanda de tubo
-- Camiseta ideal para el uso diario
 - Impresión de pigmento para u impresión suave en ropa ligera
+- Camiseta ideal para el uso diario
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BHXKCNLF{{</world>}}

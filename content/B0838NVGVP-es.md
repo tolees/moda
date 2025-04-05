@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Ajuste : Normal
+- Chaqueta || Ajuste normal || Color intenso || Materiales de larga duración
 - Descubre todas las marcas de EMP!
 - Básicos, Ropa de Calle
-- Chaqueta || Ajuste normal || Color intenso || Materiales de larga duración
 - Cazadora Bomber con las siguientes características:
-- Ajuste : Normal
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0838NVGVP{{</world>}}

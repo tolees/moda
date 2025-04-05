@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Pierna recta
 - Ofrecen una comodidad óptima
 - Este producto es original Levis
-- Pierna recta
 - Un básico veraniego
 
 [🛒 Comprar!!!]({{< param buyurl >}})

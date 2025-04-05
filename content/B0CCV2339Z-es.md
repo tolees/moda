@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela: llavero
-- Ancho x alto x altura: 40 x 28 x 14 centímetros
-- Correa de hombro desmontable
 - Asas de transporte superiores
+- Ancho x alto x altura: 40 x 28 x 14 centímetros
+- Suela: llavero
 - Cierre: cremallera
+- Correa de hombro desmontable
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CCV2339Z{{</world>}}

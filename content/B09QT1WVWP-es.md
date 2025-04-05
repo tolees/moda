@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cuello redondo
+- Estampado Pink Panther
+- Corte skater
 - 93% Polyester 7% Elastane
 - Fibras sostenibles: Lenzing Ecovero
-- Corte skater
-- Estampado Pink Panther
-- Cuello redondo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09QT1WVWP{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material interior: sintético
-- Parte superior: cuero
 - Suela: goma
+- Material interior: sintético
 - Cierre: cordones
+- Parte superior: cuero
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08QW4J13H{{</world>}}

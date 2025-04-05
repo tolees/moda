@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Mezcla de algodón y poliéster reciclado 305 g de forro polar cepillado
+- Puños y dobladillo de canalé.
 - El ajuste regular es perfecto: no demasiado apretado ni demasiado holgado
 - Bolsillo de canguro; Logos bordados
-- Puños y dobladillo de canalé.
 - Capucha forrada y con cordón
-- Mezcla de algodón y poliéster reciclado 305 g de forro polar cepillado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0894NTP1W{{</world>}}

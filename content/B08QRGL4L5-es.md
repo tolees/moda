@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Original y vintage
 - Superdry La ropa está hecha con el equilibrio correcto entre estilo y comodidad. Recomendamos un tamaño más grande que tus marcas usales para una verdadera experiencia Superdry.
+- Original y vintage
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08QRGL4L5{{</world>}}

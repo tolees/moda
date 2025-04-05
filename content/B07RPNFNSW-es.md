@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Crisp mid-waist shape
 - Cool skinny Jeans from vero moda
+- Crisp mid-waist shape
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07RPNFNSW{{</world>}}

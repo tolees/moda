@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillos interiores
 - Cierre de cremallera
 - Logotipo de la marca
+- Bolsillos interiores
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C8DX15FS{{</world>}}

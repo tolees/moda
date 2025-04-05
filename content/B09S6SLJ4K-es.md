@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Banda para el cuello individual
-- Cordón de ajuste de bloques de color con extremos individuales transparentes
 - Dobladillo y mangas de canalé
+- Banda para el cuello individual
 - Capucha forrada
+- Cordón de ajuste de bloques de color con extremos individuales transparentes
 - Ojal individual
 
 [🛒 Comprar!!!]({{< param buyurl >}})

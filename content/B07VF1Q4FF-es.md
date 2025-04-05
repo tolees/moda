@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Empeine de PET reciclado
-- Exterior: 100% PET reciclado
 - Sistema de cierre de gancho
+- Exterior: 100% PET reciclado
 - Suela de EVA para un mejor agarre y ligereza
 
 [🛒 Comprar!!!]({{< param buyurl >}})

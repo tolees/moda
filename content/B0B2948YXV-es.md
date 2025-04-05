@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Piel: charol
 - Ligero
 - Colección: NOS
-- Piel: charol
 - 10.1968503833 Pulgadas
 - Cierre: 100% IPEVA
 

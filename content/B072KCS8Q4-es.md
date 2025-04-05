@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Resistente al agua hasta 5000 mm con costuras selladas y también es resistente al viento; transpirable hasta 5000 mvp.
 - Puños elásticos y dos bolsillos.
-- Solapa frontal interna de longitud completa.
 - Canesú trasero ventilado y cremalleras de contraste con perfil bajo.
 - Con capucha ajustable.
+- Solapa frontal interna de longitud completa.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B072KCS8Q4{{</world>}}

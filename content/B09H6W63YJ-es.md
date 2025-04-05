@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Corte clásico
-- Capucha con cordón ajustable
 - Felpa 70% algodón / 30% poliéster reciclado
 - Bolsillo canguro
+- Capucha con cordón ajustable
+- Corte clásico
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09H6W63YJ{{</world>}}

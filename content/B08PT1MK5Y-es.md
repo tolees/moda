@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Tipo de tela: algodón 100%
 - Ajuste: clásico
 - Tipo de tamaño especial: estándar
 - Auténtico
-- Tipo de tela: algodón 100%
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08PT1MK5Y{{</world>}}

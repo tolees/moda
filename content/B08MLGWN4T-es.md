@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Capucha
 - Bolsillos
+- Capucha
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08MLGWN4T{{</world>}}

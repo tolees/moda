@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Poliéster 100 %
 - Cuello alzado
 - Logotipo Cat en la parte derecha del pecho
 - Bloques de color en el dobladillo y los hombros
 - Cierre de cremallera completo
+- Poliéster 100 %
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07XGVPTJ5{{</world>}}

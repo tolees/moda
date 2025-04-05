@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- AJUSTE HOLGADO: Ajuste holgado y cómodo en todo el cuerpo
 - ESTILO PARA EL DÍA A DÍA: Este ligero jersey de cuello redondo es de tacto suave y es ideal tanto para llevar varias capas de ropa como para ponértelo solo.
+- AJUSTE HOLGADO: Ajuste holgado y cómodo en todo el cuerpo
 - DETALLES: Detalle de canalé en el cuello, los puños de las mangas y el dobladillo inferior. Tejido de punto con sisa raglán.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

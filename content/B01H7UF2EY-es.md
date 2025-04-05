@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Altura del tacón: 1"(aprox.)
-- Forro de cuero de primera calidad, plantilla acolchada de látex
 - Diseño clásico de punta cuadrada
 - NOTA: el tamaño indica en la suela exterior y la etiqueta de los zapatos como tamaño de US, Para obtener información sobre el tamaño de la EU, consulte la tabla de tallas
+- Forro de cuero de primera calidad, plantilla acolchada de látex
+- Altura del tacón: 1"(aprox.)
 - Mocasines de vestir flexibles y cómodos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

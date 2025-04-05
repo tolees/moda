@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ajuste: corte regular, longitud de la espalda en la talla L: aprox. 70 cm
-- Instrucciones de lavado: limpiar suavemente con percloroetileno, no se puede secar en secadora, no usar lejía, planchar a alta temperatura (200 °C), programa para prendas delicadas a máx. 30 °C
 - Manga larga con cuello redondo
-- De algodón transpirable y suave
+- Ajuste: corte regular, longitud de la espalda en la talla L: aprox. 70 cm
 - Jersey básico en colores lisos con logotipo bordado en el pecho, ideal para primavera, otoño e invierno
+- Instrucciones de lavado: limpiar suavemente con percloroetileno, no se puede secar en secadora, no usar lejía, planchar a alta temperatura (200 °C), programa para prendas delicadas a máx. 30 °C
+- De algodón transpirable y suave
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07SBJJYVD{{</world>}}

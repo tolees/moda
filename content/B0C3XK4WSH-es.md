@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Largo de manga: corta
+- Camiseta de rayas en punto suave.
+- Nota: la prenda posee un corte más entallado y queda un poco más ajustada.
 - Lavar en ciclo de lavado suave a 30°, No usar lejía, No secar en la secadora, Planchar a un máx. 110° (Nivel 1), No limpiar en seco
 - Escote: redondo
-- Largo de manga: corta
-- Nota: la prenda posee un corte más entallado y queda un poco más ajustada.
-- Camiseta de rayas en punto suave.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C3XK4WSH{{</world>}}

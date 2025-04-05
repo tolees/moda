@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con un bajo de acabado limpio
-- Este producto es original Levis
-- Tejidos con un toque de elástico
-- Ajuste de inspiración vintage
 - Los primeros shorts vaqueros de la historia
+- Con un bajo de acabado limpio
+- Tejidos con un toque de elástico
+- Este producto es original Levis
+- Ajuste de inspiración vintage
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08PG3S4RR{{</world>}}

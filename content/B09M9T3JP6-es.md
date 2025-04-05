@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para mujer
 - Camiseta de manga larga con amplio cuello redondo y mangas 3/4
+- Para mujer
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09M9T3JP6{{</world>}}

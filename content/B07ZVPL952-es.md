@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Presenta cordones
 - Este producto es original Levis
 - Adecuada para días fríos
 - Tiene bolsillos
+- Presenta cordones
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07ZVPL952{{</world>}}

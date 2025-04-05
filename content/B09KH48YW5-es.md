@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Printed with Pepe Jeans logo
 - Short-sleeved crew neck
+- Printed with Pepe Jeans logo
 - Regular fit
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

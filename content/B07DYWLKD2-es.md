@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La tecnología reflectante Omni-Heat de la chaqueta ofrece un mayor aislamiento para mantenerte caliente incluso en los días más fríos
-- Chaqueta con capucha ligera para niño, Imprescindible para el armario de invierno de los niños
-- Contenido: 1x Columbia Youth Powder Lite Chaqueta con capucha para niño, Exterior: Storm-Lite DP II 100% poliéster; Forro: Omni-Heat Reflective Forro 100% poliéster; Aislamiento: Thermarator 100% poliéster, Color: Negro, Talla: M, Art.No.1802901
 - Los bolsillos para las manos te dan versatilidad Mantén tus manos calientes cuando lo necesites o guarda tu teléfono y otros accesorios sin temor a que se caigan
+- La tecnología reflectante Omni-Heat de la chaqueta ofrece un mayor aislamiento para mantenerte caliente incluso en los días más fríos
+- Contenido: 1x Columbia Youth Powder Lite Chaqueta con capucha para niño, Exterior: Storm-Lite DP II 100% poliéster; Forro: Omni-Heat Reflective Forro 100% poliéster; Aislamiento: Thermarator 100% poliéster, Color: Negro, Talla: M, Art.No.1802901
+- Chaqueta con capucha ligera para niño, Imprescindible para el armario de invierno de los niños
 - Tejido resistente al agua que te protege de los chubascos y la niebla, Ajuste óptimo gracias al dobladillo ajustable con cordón
 
 [🛒 Visítala!!!]({{< param buyurl >}})

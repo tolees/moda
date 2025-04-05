@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- corte normal
 - Camiseta Adidas
+- corte normal
 - Mangas cortas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

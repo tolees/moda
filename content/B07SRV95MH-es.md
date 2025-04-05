@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- __Suela:__ goma reciclada y espuma EVA
-- Correas en la parte superior
 - __Parte superior:__ sintética
+- Correas en la parte superior
+- __Suela:__ goma reciclada y espuma EVA
 - __Plantilla:__EVA de goma mullida reciclada
 - __Forro:__ forro sintético
 

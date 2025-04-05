@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Lentes categoría 3 y protección UV400 que ofrecen una protección antideslumbrante, lentes de TR18 con el sello de Eastman
 - Producto Oficial Hawkers, incluye funda en microfibra y caja.
-- Modelo unisex, medidas: frontal 141 mm, patillas 140 mm, puente 17 mm, diámetro de lente 55.7 mm
-- Este modelo, de la colección Made in Spain, combina una montura negra mate con lentes espejadas de color naranja.
 - Gafas de sol fabricadas en TR90 con el sello de EMS, considerado óptimo Nylon para monturas del mundo que proporciona flexibilidad y resistencia.
+- Lentes categoría 3 y protección UV400 que ofrecen una protección antideslumbrante, lentes de TR18 con el sello de Eastman
+- Este modelo, de la colección Made in Spain, combina una montura negra mate con lentes espejadas de color naranja.
+- Modelo unisex, medidas: frontal 141 mm, patillas 140 mm, puente 17 mm, diámetro de lente 55.7 mm
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B8NS699W{{</world>}}

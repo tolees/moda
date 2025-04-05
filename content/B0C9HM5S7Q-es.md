@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Abrigo mediano de manga larga caída
+- Bolsillos en los laterales
 - Cierre de botones en el delantero y forro interior
 - Cuello solapa
-- Bolsillos en los laterales
-- Abrigo mediano de manga larga caída
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C9HM5S7Q{{</world>}}

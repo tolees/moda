@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Los leggings están fabricados en algodón natural y transpirable; la adición de elastano permite un buen ajuste; los colores melange tienen una adición de poliéster.
 - Cómoda y amplia banda elástica en la cintura; el material suave y elástico de los leggings no irrita la piel del niño y garantiza libertad de movimiento.
-- Producto fabricado en la UE
 - Leggins largos para niñas. Fabricados en algodón. Amplia variedad de colores y tallas para elegir.
+- Los leggings están fabricados en algodón natural y transpirable; la adición de elastano permite un buen ajuste; los colores melange tienen una adición de poliéster.
+- Producto fabricado en la UE
 - Leggins ideales para niños, perfectos para todas las estaciones: al aire libre, para deportes, uso diario y para estar en casa.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

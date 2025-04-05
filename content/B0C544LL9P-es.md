@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Espalda deportiva
 - Tejido calado 100% poliéster reciclado
-- AEROREADY
 - Corte entallado
+- AEROREADY
 - Material transpirable
+- Espalda deportiva
 - Cuello redondo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

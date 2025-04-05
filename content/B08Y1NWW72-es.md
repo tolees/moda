@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Camiseta de manga corta con cuello redondo y con mangas tipo raglán con corte a contraste de color
 - La manga tipo raglán no tiene costuras en la zona de los hombros
 - Ofrece libertad de movimiento para la deportista
+- Camiseta de manga corta con cuello redondo y con mangas tipo raglán con corte a contraste de color
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08Y1NWW72{{</world>}}

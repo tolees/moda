@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Lavar en ciclo de lavado normal a 40°, No usar lejía, No secar en la secadora, No planchar, No limpiar en seco
 - Calcetines de punto fino y elástico con diseños variados con acabado de aloe vera. Caña mediana con remate elástico de canalé.
+- Lavar en ciclo de lavado normal a 40°, No usar lejía, No secar en la secadora, No planchar, No limpiar en seco
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C71B1WTB{{</world>}}

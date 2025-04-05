@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - DETALLES: Cordón ajustable, amplio bolsillo delantero tipo canguro, femeninas aberturas laterales y detalle de canalé en los puños y el bajo para mejorar la elasticidad y la recuperación.
-- AJUSTE NORMAL: Ajuste ceñido pero cómodo en pecho, cintura y cadera.
 - SUDADERA TIPO TÚNICA: Presenta un cuerpo más largo para ofrecerte una cobertura generosa. Ideal para ir trabajar, viajar, salir el fin de semana o estar por casa. Combina este producto con unos leggings, pantalones de chándal o vaqueros.
+- AJUSTE NORMAL: Ajuste ceñido pero cómodo en pecho, cintura y cadera.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08XQXGYJB{{</world>}}

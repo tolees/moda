@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Logotipo de la marca y detalles bordados. Cuello regulable con cremallera. Capucha con cordones
 - Elástico en puños y cintura, lo que garantiza una libertad óptima de movimiento
+- Logotipo de la marca y detalles bordados. Cuello regulable con cremallera. Capucha con cordones
 - Ideal tanto para el campo, como para la ciudad, como para el día a día. Un imprescindible en tu armario!!
 
 [🛒 Aquí!!!]({{< param buyurl >}})

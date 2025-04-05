@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Mezcla de algodón y elastano
-- Cintura media
 - Calvin Klein Cintura elástica distintiva
+- Cintura media
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BS9XZRDM{{</world>}}

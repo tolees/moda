@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Locker Loop Loop Loop con logo en la espalda
 - Acolchado de rayas rectas
+- Locker Loop Loop Loop con logo en la espalda
 - Corte normal
 
 [🛒 Aquí!!!]({{< param buyurl >}})

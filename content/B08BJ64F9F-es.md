@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ajuste: corte ajustado
-- Camisa para hombre en estándar
 - La parte superior se puede combinar bien
+- Camisa para hombre en estándar
+- Ajuste: corte ajustado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08BJ64F9F{{</world>}}

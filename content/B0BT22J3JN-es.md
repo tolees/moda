@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 100% poliéster
-- Chaqueta acolchada
 - Capucha desmontable
+- Chaqueta acolchada
 - Insignia bordada
+- 100% poliéster
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BT22J3JN{{</world>}}

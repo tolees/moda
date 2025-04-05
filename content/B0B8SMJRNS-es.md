@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tipo de tacón Plano
 - Altura Tacón Bajo (de 1 A 3 cm)
-- Material principal Sintético
 - Tipo de cierre Hebilla
+- Material principal Sintético
+- Tipo de tacón Plano
 - Material de la suela Sintética
 
 [🛒 Aquí!!!]({{< param buyurl >}})

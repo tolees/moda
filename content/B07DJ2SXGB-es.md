@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Cierre: sin cordones
 - Plantilla: piel
+- Parte superior: sintética
 - Tipo de tacón: plano
 - Forro: textil
-- Cierre: sin cordones
 - Material de la suela: caucho
-- Parte superior: sintética
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07DJ2SXGB{{</world>}}

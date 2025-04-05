@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Consejos de cuidado: todas las sandalias de agua KEEN son lavables a máquina; utiliza una pequeña cantidad de detergente, lavar en ciclo suave y secar al aire
-- Parte superior resistente al agua: correa de poliéster lavable con forro de secado rápido para uso durante todo el día dentro y fuera del agua; libre de PFC, repelente al agua duradero ayuda a eliminar el agua y prolongar la calidad y la vida útil del material en las sandalias de niños y niñas
 - Tracción: lengüetas multidireccionales con canalización rápida de agua que ayudan a proporcionar un agarre superior en terrenos resbaladizos y húmedos; suela de goma que no deja marcas al caminar en interiores
-- Ajuste sin complicaciones: fácil de poner para ellos hechos con una correa ancha y ajustable de velcro para ayudarles a prepararse y salir de la puerta rápidamente
+- Parte superior resistente al agua: correa de poliéster lavable con forro de secado rápido para uso durante todo el día dentro y fuera del agua; libre de PFC, repelente al agua duradero ayuda a eliminar el agua y prolongar la calidad y la vida útil del material en las sandalias de niños y niñas
 - Comodidad y protección: entresuela de EVA moldeada por compresión para una mayor comodidad duradera; punta de goma de alta abrasión para mayor durabilidad y protección
+- Consejos de cuidado: todas las sandalias de agua KEEN son lavables a máquina; utiliza una pequeña cantidad de detergente, lavar en ciclo suave y secar al aire
+- Ajuste sin complicaciones: fácil de poner para ellos hechos con una correa ancha y ajustable de velcro para ayudarles a prepararse y salir de la puerta rápidamente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B2PWGG1Y{{</world>}}

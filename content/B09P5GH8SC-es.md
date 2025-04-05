@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Las modelos miden 178 cm y llevan una talla S y XXL
-- Mezcla de viscosa y nylon
 - Esenciales by The Drop
-- Este vestido mide 112 cm
-- Abertura lateral
-- Ajuste: ceñido, pegado al cuerpo
+- Mezcla de viscosa y nylon
 - Cuello redondo
+- Abertura lateral
+- Este vestido mide 112 cm
+- Las modelos miden 178 cm y llevan una talla S y XXL
+- Ajuste: ceñido, pegado al cuerpo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09P5GH8SC{{</world>}}

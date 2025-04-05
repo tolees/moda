@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Altura del paquete del artículo: 105 mm
 - Ancho del paquete del artículo: 140 mm
 - Longitud del paquete del artículo: 295 mm
 - Peso del paquete del artículo: 0.18 kg
-- Altura del paquete del artículo: 105 mm
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07LG14ZCL{{</world>}}

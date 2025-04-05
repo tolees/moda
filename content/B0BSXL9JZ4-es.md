@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Decorada con logo BOSS Jewelry grabado en el cierre
+- Collar de eslabón y de cadena de BOSS Jewelry
 - Material: Acero inoxidable con chapado iónico oro amarillo
 - Cierre: mosquetón
-- Collar de eslabón y de cadena de BOSS Jewelry
+- Decorada con logo BOSS Jewelry grabado en el cierre
 - Longitud del collar: 50,8 cm
 
 [🛒 Comprar!!!]({{< param buyurl >}})

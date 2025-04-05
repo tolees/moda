@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Corte recto
-- Cuello redondo
 - Manga corta
-- Cuello acanalado
 - Logotipo gráfico en el pecho
+- Cuello redondo
+- Cuello acanalado
+- Corte recto
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07JW7D8Y3{{</world>}}

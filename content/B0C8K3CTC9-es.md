@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Logo de Tommy Hilfiger en la cintura elástica
 - Ofrecen una comodidad óptima
+- Logo de Tommy Hilfiger en la cintura elástica
 - Cintura elástica
 
 [🛒 Comprar!!!]({{< param buyurl >}})

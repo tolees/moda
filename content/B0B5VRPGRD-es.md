@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Los muñecos Barbie Looks son el regalo perfecto para los amantes de la moda, estilistas y coleccionistas gracias a sus looks novedosos y únicos.
 - Luce un vestido midi rosa y azul de un solo hombro con unos tacones amarillos que le dan un toque de estilo ultramoderno.
 - El pelo castaño de la muñeca Barbie está recogido en una glamurosa coleta con mechas resplandecientes. Derrocha estilo con una discreta sombra de ojos negra y un pintalabios rosa chicle.
 - Con detalles de tendencias de moda dignos de una sesión fotográfica, los muñecos Barbie Looks despiertan al estilista que llevas dentro. Esta última línea se inspira en la combinación de colores y en el dinamismo que desprenden los diseños.
+- Los muñecos Barbie Looks son el regalo perfecto para los amantes de la moda, estilistas y coleccionistas gracias a sus looks novedosos y únicos.
 - Gracias a su pequeño cuerpo articulado y flexible, Barbie está lista para arreglarse, posar, hacerse fotos y publicarlas.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

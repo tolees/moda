@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Lavado y planchado:Lavar a maquina, Ciclo suave frío, Con colores similares Solo sin cloro, Blanqueador si es necesario, Secar en secadora a baja temperatura, Hierro caliente si es necesario
+- Diseño:Manga corta, Cuello redondo, Pliegue decorativo en el cuello, Cinta de tela para el cuello
 - Edad:Para 3-13 Años niñas
 - Material: 65% Poliéster 35% Algodón
-- Diseño:Manga corta, Cuello redondo, Pliegue decorativo en el cuello, Cinta de tela para el cuello
+- Lavado y planchado:Lavar a maquina, Ciclo suave frío, Con colores similares Solo sin cloro, Blanqueador si es necesario, Secar en secadora a baja temperatura, Hierro caliente si es necesario
 - Característica: Transferencia de humedad y textiles de secado rápido, Jersey de mezcla de algodón suave, Buen tacto de la mano, Paquete de colores múltiples
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

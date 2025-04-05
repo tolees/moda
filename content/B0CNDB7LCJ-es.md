@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Paquete de cómodos calzoncillos de algodón.
 - Estampados modernos y modernos.
+- Paquete de cómodos calzoncillos de algodón.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CNDB7LCJ{{</world>}}

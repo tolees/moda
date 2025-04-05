@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- corte: corte normal
+- Tejido: punto jersey de algodón ligero
 - Etiqueta Quiksilver de tela en la costura lateral
 - Cuello: cuello redondo
-- Tejido: punto jersey de algodón ligero
+- corte: corte normal
 - Serigrafía gráfica en el pecho
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

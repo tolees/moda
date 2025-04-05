@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Importado
 - Hecho de algodón premium
 - Regular Fit
+- Importado
 - Nuestros suéteres son suaves y cómodos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

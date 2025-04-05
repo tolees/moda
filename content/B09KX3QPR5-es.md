@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillos laterales y en el pecho con cremallera ykk
 - Etiqueta con el logo de hh de metal
-- Artículos entregados: 1x helly hansen womens w blossom puffy parka - parka sage s
 - Aislamiento soplable sintético
+- Bolsillos laterales y en el pecho con cremallera ykk
+- Artículos entregados: 1x helly hansen womens w blossom puffy parka - parka sage s
 - Cremallera ykk
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

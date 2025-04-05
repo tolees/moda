@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Corte normal
-- Manga corta
 - Vestido
+- Manga corta
 - Composición del material: 65% poliéster reciclado, 32% poliéster, 3% elastano
+- Corte normal
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09DGP47HQ{{</world>}}

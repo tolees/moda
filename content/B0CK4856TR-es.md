@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- De poliamida
 - Bolsa mediana con correa de hombro ajustable
-- Peso 0.47 kg, volumen 13 l
 - Repelente al agua
+- De poliamida
+- Peso 0.47 kg, volumen 13 l
 - 30 cm de altura x 35.5 de ancho x 18.5 de profundidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

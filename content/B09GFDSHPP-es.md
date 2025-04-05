@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ➡️ PUPILA Y DISTANCIA DEL OBJETO AJUSTABLE : Solo deberás girar la rueda ubicada en la parte superior de las gafas 3D para ajustar la distancia interpupilar y del objeto y poder obtener una visión e imagen lo más clara posible.
-- ➡️ SIENTE LOS VÍDEOS: Gracias a los auriculares incorporados en el diseño de las gafas 3D, podrás disfrutar los videos de la forma más realista posible, escuchando cualquier sonido. ¡Escoge tu mundo y sumérgete en él!
-- ➡️ DALE AL PLAY: En la plataforma YouTube encontrarás miles de videos y escenarios totalmente diferentes de los cuales podrás formar parte. ¡Busca la situación que quieras vivir en 360º y disfruta!
-- ➡️ INMERSIÓN EN 3D Y 360 GRADOS: Con estas gafas de realidad virtual podrás vivir en cualquier mundo en el momento y situación que desees. Incluso podrás moverte y girar 360 grados.
 - ➡️ BOTÓN MULTIFUNCIÓN: Contesta, rechaza llamadas o controla la reproducción del video únicamente con un botón. Introduce tu dispositivo de 4.7"- 6.53" y empieza a disfrutar de videos en VR.
+- ➡️ DALE AL PLAY: En la plataforma YouTube encontrarás miles de videos y escenarios totalmente diferentes de los cuales podrás formar parte. ¡Busca la situación que quieras vivir en 360º y disfruta!
+- ➡️ SIENTE LOS VÍDEOS: Gracias a los auriculares incorporados en el diseño de las gafas 3D, podrás disfrutar los videos de la forma más realista posible, escuchando cualquier sonido. ¡Escoge tu mundo y sumérgete en él!
+- ➡️ INMERSIÓN EN 3D Y 360 GRADOS: Con estas gafas de realidad virtual podrás vivir en cualquier mundo en el momento y situación que desees. Incluso podrás moverte y girar 360 grados.
+- ➡️ PUPILA Y DISTANCIA DEL OBJETO AJUSTABLE : Solo deberás girar la rueda ubicada en la parte superior de las gafas 3D para ajustar la distancia interpupilar y del objeto y poder obtener una visión e imagen lo más clara posible.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09GFDSHPP{{</world>}}

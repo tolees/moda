@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Camiseta con manga caída y cordón ajustable en el bajo
-- Pijama largo 100% algodón, de manga larga y pantalón largo, en colores lila y gris con dibujo de Snoopy
 - Pantalón skinny estampado con cinturilla elástica
+- Pijama largo 100% algodón, de manga larga y pantalón largo, en colores lila y gris con dibujo de Snoopy
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CP2SFSB9{{</world>}}

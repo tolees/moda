@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material: policarbonato
 - Color verde
-- Color de la lente: Bronce polarizado
-- Forma: CUADRADO
 - Talla: 54
+- Color de la lente: Bronce polarizado
+- Material: policarbonato
+- Forma: CUADRADO
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BVKHL9TP{{</world>}}

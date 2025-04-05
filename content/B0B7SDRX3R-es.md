@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material exterior: vaquero
 - Ligero, bolsillos
+- Material exterior: vaquero
 - Ajuste: regular
 
 [🛒 Aquí!!!]({{< param buyurl >}})

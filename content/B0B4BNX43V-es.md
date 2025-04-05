@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cintura media
-- Logotipo característico en la cintura
 - Tres calzoncillos BOSS ajustados de algodón elástico
+- Logotipo característico en la cintura
+- Cintura media
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B4BNX43V{{</world>}}

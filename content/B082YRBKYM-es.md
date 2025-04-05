@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Tiene capucha ribete extraíble de pelo sintético
-- Cuenta con un cordón de ajuste en la cintura y la capucha
 - Las prendas de Superdry son fabricadas con un adecuado balance entre estilo y confort; recomendamos una talla superior a la que emplea habitualmente para una auténtica experiencia Superdry
+- Cuenta con un cordón de ajuste en la cintura y la capucha
 - Presenta un diseño de cuatro bolsillos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

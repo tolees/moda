@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corto sin costuras
 - Gran libertad de movimiento gracias a su suave microfibra con alta elasticidad
 - Invisible debajo de la ropa gracias a los acabados sin costuras
+- Corto sin costuras
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B075YWQWRG{{</world>}}

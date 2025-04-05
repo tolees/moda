@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Este modelo, de la colección Made in Spain, tiene una montura en negro mate y lentes Polarizadas de color verde cocodrilo
-- Producto oficial Hawkers diseñado y fabricado en España, incluye funda en microfibra, caja y set de pegatinas decorativas
 - Modelo unisex, medidas: frontal 141 mm, patillas 140 mm, puente 17 mm, diámetro de lente 55.7 mm
 - Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el óptimo Nylon para monturas. Diseño ancho del terminal de la patilla para ergonomía y confort
 - Gafas de sol Polarizadas, otorga una visión sin reflejos y contraste natural de colores, lente categoría 3 fabricadas con material bio tac polarizado y protección UV400
+- Este modelo, de la colección Made in Spain, tiene una montura en negro mate y lentes Polarizadas de color verde cocodrilo
+- Producto oficial Hawkers diseñado y fabricado en España, incluye funda en microfibra, caja y set de pegatinas decorativas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09XBR7C4H{{</world>}}

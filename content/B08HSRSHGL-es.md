@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ajuste holgado
-- encantador vestido de manga larga de la marca ONLY
 - Cuello cálido
 - Corte largo
+- Ajuste holgado
+- encantador vestido de manga larga de la marca ONLY
 - Con ranura para las piernas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

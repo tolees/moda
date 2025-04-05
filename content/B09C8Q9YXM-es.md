@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pantalones cortos de fútbol
 - Diseño réplica que toma el que lleva los profesionales en el campo
+- Pantalones cortos de fútbol
 - Tecnología Dri-FIT
 
 [🛒 Comprar!!!]({{< param buyurl >}})

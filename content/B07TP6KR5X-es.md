@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cinturilla elástica con el nombre de la marca Lacoste
 - No se aceptan devoluciones; cambios ni reembolsos en la ropa interior
 - Su corte proporciona comodidad y sujeción en todo momento
-- Cinturilla elástica con el nombre de la marca Lacoste
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07TP6KR5X{{</world>}}

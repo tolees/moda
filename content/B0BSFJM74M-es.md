@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cómodo de llevar
-- Rayas de colores contrastantes y bolsillos con ribetes pegados
 - Corte recto
+- Rayas de colores contrastantes y bolsillos con ribetes pegados
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BSFJM74M{{</world>}}

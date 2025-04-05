@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Suela de caucho y cierre con cordones.
-- Ligeras y cómodas.
 - Zapatilla running
+- Ligeras y cómodas.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07B19SGRV{{</world>}}

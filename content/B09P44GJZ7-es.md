@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ajuste regular
 - cuello polo
+- Ajuste regular
 - Cremallera completa
 
 [🛒 Visítala!!!]({{< param buyurl >}})

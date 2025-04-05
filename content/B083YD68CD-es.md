@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 100% Polimiada
 - 9.5 Alto x 14.5 Ancho x 4 Fondo cm
+- 100% Polimiada
 - Hidrófugo
-- Bolso Pequeño
 - 0.05 kg
+- Bolso Pequeño
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B083YD68CD{{</world>}}

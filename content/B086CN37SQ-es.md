@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ajuste: estándar
 - Poliéster
+- Ajuste: estándar
 - Material exterior: 100% poliéster
 
 [🛒 Visítala!!!]({{< param buyurl >}})

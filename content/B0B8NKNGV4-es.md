@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Cierre de cremallera y capucha
+- Tejido exterior elástico e impermeable
 - Corte clásico
 - Dobby 90% poliéster reciclado / 10% elastán
-- Cierre de cremallera y capucha
 - Grandes bolsillos frontales con cremallera
-- Tejido exterior elástico e impermeable
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B8NKNGV4{{</world>}}

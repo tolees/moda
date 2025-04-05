@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con el bajo asimétrico y Con efecto lino
 - Camiseta de manga larga caída
+- Con el bajo asimétrico y Con efecto lino
 - Con cuello redondo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

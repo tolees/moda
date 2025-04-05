@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiene el logo bordado en el pecho
-- Camiseta para hombre
 - Con cuello redondo
 - Presenta contrastes a color sobre los hombros y banda lateral en los costados
+- Tiene el logo bordado en el pecho
+- Camiseta para hombre
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08YZ1FHMF{{</world>}}

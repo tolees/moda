@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con escote en uve Con detalle de lazo Con borlas
-- Vestido corto De manga 7/8s Con volumen
 - Con corte deBajo del pecho
+- Con escote en uve Con detalle de lazo Con borlas
 - Con falda Con volumen Y Con estampado de flores pequeñas
+- Vestido corto De manga 7/8s Con volumen
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CCSRG61F{{</world>}}

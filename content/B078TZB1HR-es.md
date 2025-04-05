@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La longitud del vestido varía hasta justo por encima de las rodillas
 - Mangas dobladas para un punto de atracción en el vestido de mujer de lo contrario sencillo
 - Cuello de tortuga de canalé alto
+- La longitud del vestido varía hasta justo por encima de las rodillas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B078TZB1HR{{</world>}}

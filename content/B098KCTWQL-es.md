@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 21STMD00159A-001
 - Ligero, Encaje clasico, Manga de doble puntada y bastilla baja
 - Officially Licensed Star Wars: The Mandalorian Dia Del Padre Apparel
+- 21STMD00159A-001
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B098KCTWQL{{</world>}}

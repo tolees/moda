@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - FIT: Bikini style panties sit at the low hip with full back coverage.
-- DETAILS: Designed with soft elastic around the waist and leg for support and comfort, with a printed label at waist.
 - COTTON SPANDEX: Soft, smooth cotton blend. This breathable lightweight natural fabric feels soft against your skin, while the added spandex offers a flexible fit that moves with you.
 - BIKINI PANTY: The ultimate in everyday comfort, a versatile panty staple that works under all your favorite outfits.
+- DETAILS: Designed with soft elastic around the waist and leg for support and comfort, with a printed label at waist.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07HZ9YJR4{{</world>}}

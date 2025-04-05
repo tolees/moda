@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Aberturas laterales con cremallera
-- Dos bolsillos
 - Fibras sostenibles: poliéster reciclado
+- Dos bolsillos
+- Aberturas laterales con cremallera
 - Repele el agua
 - Cierre de cremallera y botón a presión
 

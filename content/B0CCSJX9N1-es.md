@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Blusa entallada de manga larga
-- Con logo bordado en el lateral
 - Con cuello mao Con abertura en el escote
+- Con logo bordado en el lateral
 - Con botones en el delantero y en los puños
+- Blusa entallada de manga larga
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CCSJX9N1{{</world>}}

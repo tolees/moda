@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Tamaño: 39MM
 - Movimiento: Cuarzo, Display: Analógico
 - Material Caja: Acero, Color: Plateado
-- GUESS WATCHES LADIES HEAVY METAL
 - Material Correa: Acero, Color: Plateado
-- Tamaño: 39MM
+- GUESS WATCHES LADIES HEAVY METAL
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07R81LRMD{{</world>}}

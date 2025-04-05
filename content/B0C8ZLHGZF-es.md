@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Hebilla cuadrada
-- Acabado texturizado
-- Rayas horizontales
 - Poliéster elástico
+- Acabado texturizado
+- Hebilla cuadrada
+- Rayas horizontales
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C8ZLHGZF{{</world>}}

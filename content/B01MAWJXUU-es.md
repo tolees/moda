@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Grupo objetivo: niño
 - Tamaño: XXL
 - Color: Negro
-- Grupo objetivo: niño
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01MAWJXUU{{</world>}}

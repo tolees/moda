@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Práctica media cremallera para ventilación, cuello alto para protección de la barbilla, tecnología Omni-Wick
-- Bolsillo de seguridad en el pecho con cremallera, protección para la barbilla y orificios para los pulgares para un ajuste óptimo
 - Hecho con contenido reciclado, Lavable a máquina, Disponible en varios colores
 - Contenido: 1x Columbia Hombre Chaqueta Triple Canyon HZ, S, Black (Negro)
+- Práctica media cremallera para ventilación, cuello alto para protección de la barbilla, tecnología Omni-Wick
 - Cómoda camiseta de manga larga, Se puede llevar todo el año, Para senderismo, trail running y otras actividades al aire libre
+- Bolsillo de seguridad en el pecho con cremallera, protección para la barbilla y orificios para los pulgares para un ajuste óptimo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B5LSZSV4{{</world>}}

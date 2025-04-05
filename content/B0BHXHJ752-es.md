@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Camiseta ideal para el uso diario
-- Impresión de pigmentos para una impresión suave en ropa ligera
 - Bufanda de tubo
+- Impresión de pigmentos para una impresión suave en ropa ligera
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BHXHJ752{{</world>}}

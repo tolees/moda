@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Composición del material: Exterior: 50% poliéster, 50% poliéster reciclado; Manga: 50% poliéster, 50% poliéster reciclado; Forro: 100% poliéster; Relleno: 100% poliéster
-- Tipo de producto: chaqueta amortiguadora
-- Manga: manga larga
 - Escote: capucha
+- Manga: manga larga
+- Tipo de producto: chaqueta amortiguadora
+- Composición del material: Exterior: 50% poliéster, 50% poliéster reciclado; Manga: 50% poliéster, 50% poliéster reciclado; Forro: 100% poliéster; Relleno: 100% poliéster
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CD2P46ZK{{</world>}}

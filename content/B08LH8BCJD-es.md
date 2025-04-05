@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- CÓMODA Y PRÁCTICA: Sabemos lo importante que es sentirse cómodo y seguro durante el tiempo al aire libre, por ello, nuestra ropa está preparada para ofrecerte todo el confort, libertad de movimiento y seguridad que necesitas durante tu práctica deportiva y tus paseos por la ciudad.
+- CHAQUETAS DEPORTIVAS: Desde el gimnasio hasta tu casa y pasando por la naturaleza, nuestras chaquetas deportivas están diseñadas y creadas pensando en ti y en tus necesidades. Descubre en nuestro catálogo las que mejor se adaptan a ti y a tus actividades favoritas.
 - TECNOLOGÍA MOUNT-TEX: Esta chaqueta técnica cuenta con la tecnología Mount-Tex con una membrana que le aporta impermeabilidad, transpirabilidad y resistencia. Perfecta para actividades al aire libre gracias a su versatilidad y ligereza.
 - ¿QUIÉNES SOMOS?: En Izas nos encantan el deporte y las actividades al aire libre y en la montaña, por eso diseñamos y fabricamos ropa deportiva que se ajusta a las necesidades de los deportistas más exigentes. Utilizamos los mejores materiales para ofrecer la mayor comodidad posible durante la práctica deportiva. ¡Sal, disfruta y haz deporte, del resto nos encargamos nosotros!
-- CÓMODA Y PRÁCTICA: Sabemos lo importante que es sentirse cómodo y seguro durante el tiempo al aire libre, por ello, nuestra ropa está preparada para ofrecerte todo el confort, libertad de movimiento y seguridad que necesitas durante tu práctica deportiva y tus paseos por la ciudad.
 - CHAQUETA NALUNS: Con tejido ligero e impermeable, está elaborada en poliéster para favorecer tu comodidad en todo momento. Cuenta con numerosos bolsillos laterales y en el pecho además de puños ajustables con velcro y costuras termoselladas. Su capucha es desmontable. Cómoda y versátil, perfecta para climas fríos.
-- CHAQUETAS DEPORTIVAS: Desde el gimnasio hasta tu casa y pasando por la naturaleza, nuestras chaquetas deportivas están diseñadas y creadas pensando en ti y en tus necesidades. Descubre en nuestro catálogo las que mejor se adaptan a ti y a tus actividades favoritas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08LH8BCJD{{</world>}}

@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Material de la suela: Caucho
 - Cierre: Sin cierre
 - Material exterior: Caucho
 - Tipo de tacón: Plano
-- Material de la suela: Caucho
-- Altura del tacón: 1 centímetros
 - Revestimiento: Sin forro
+- Altura del tacón: 1 centímetros
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B003FC9D4Y{{</world>}}

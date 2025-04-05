@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Camiseta escote barco, en canalé largo compacto de fibra, bordado en la parte inferior en tono
 - 100 % algodón
+- Camiseta escote barco, en canalé largo compacto de fibra, bordado en la parte inferior en tono
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BNCB3BCJ{{</world>}}

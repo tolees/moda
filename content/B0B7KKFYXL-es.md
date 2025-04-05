@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Star Wars Darth Vader Best Dad In The Galaxy is 100% authentic, officially licensed Star Wars merchandise!
 - Ligero, Encaje clasico, Manga de doble puntada y bastilla baja
+- Star Wars Darth Vader Best Dad In The Galaxy is 100% authentic, officially licensed Star Wars merchandise!
 - Star Wars is an American epic space-opera multimedia franchise created by George Lucas, which began with the 1977 Star Wars film and quickly became a worldwide pop-culture phenomenon. It is comprised of nine films relating the Skywalker Saga.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

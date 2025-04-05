@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Forro sintético
+- Parte superior sintética
 - Horma clásica
 - Plantilla moldeada
-- Parte superior sintética
-- Forro sintético
 - Fácil de poner y quitar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

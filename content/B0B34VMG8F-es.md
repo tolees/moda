@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Entresuela de goma EVA moldeada por compresión
-- Forro ReBOTL
 - Tejido ReBOTL
-- Modelo con cordones
 - Puntera de goma para escalada
 - Somos miembros del Leather Working Group Tallas: 40-46, 47,5, 49, 50 H, M
+- Modelo con cordones
+- Entresuela de goma EVA moldeada por compresión
 - Suela de goma dentada
+- Forro ReBOTL
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B34VMG8F{{</world>}}

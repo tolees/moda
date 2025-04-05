@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tejido polar de algodón mixto grueso de 340 g/m2
-- Logotipo en C bordado
-- Dobladillo y puños de canalé elástico
 - American fit
-- Estampado gráfico Stranger Things
+- Tejido polar de algodón mixto grueso de 340 g/m2
 - Etiqueta de jacquard Champion x Stranger Things
+- Dobladillo y puños de canalé elástico
+- Logotipo en C bordado
+- Estampado gráfico Stranger Things
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09ML1P3SH{{</world>}}

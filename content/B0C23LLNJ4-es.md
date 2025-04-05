@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con cuello redondo
 - Con Bajo Con combinación de Tejido
-- Con detalle de volante en los puños Con botones
 - Camiseta De manga larga
+- Con cuello redondo
+- Con detalle de volante en los puños Con botones
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C23LLNJ4{{</world>}}

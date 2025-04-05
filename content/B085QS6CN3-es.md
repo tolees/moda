@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Buttons on the front
+- Sleeveless smocked dress
 - Binding straps
 - Material composition: 100% viscose - Livaeco by Birla cellulose
-- Sleeveless smocked dress
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B085QS6CN3{{</world>}}

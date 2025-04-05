@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Puños elásticos y dobladillo ajustable
 - Bolsillos laterales con cremallera
+- Puños elásticos y dobladillo ajustable
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B6W9VKQS{{</world>}}

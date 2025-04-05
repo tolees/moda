@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- verano
-- Disney
 - Camiseta
+- Disney
+- verano
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C4B2X78S{{</world>}}

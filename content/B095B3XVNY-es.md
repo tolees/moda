@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Artículos entregados: 1x helly hansen mens crew hooded jacket - jacket deep fjord xl
-- Tejido helly tech protection
-- Helly tech protection
-- Polartec
 - Cremallera ykk
+- Tejido helly tech protection
+- Polartec
+- Helly tech protection
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B095B3XVNY{{</world>}}

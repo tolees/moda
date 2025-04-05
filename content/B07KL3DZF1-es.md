@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Detalles distintivos de la marca
 - Camiseta deportiva de cuello redondo
 - Diseño de ajuste regular
-- Detalles distintivos de la marca
 - Ofrece comodidad todo el día
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

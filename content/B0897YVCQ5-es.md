@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Modelo que se asienta en la cintura
-- Este producto es original Levis
 - Quedan por encima de la rodilla
+- Este producto es original Levis
+- Modelo que se asienta en la cintura
 - Vaqueros con corte estándar en el muslo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

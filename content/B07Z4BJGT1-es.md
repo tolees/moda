@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ancho del zapato: normal. Comprueba nuestra tabla de tallas y elige el tamaño según la longitud de tu pie (talón a punta)
-- Altura del tacón: 6 cm; 8 cm
-- Material de la suela: suela de gamuza (solo para suelo interior)
-- Los zapatos son adecuados para salsa, baile social, baile latino, tango, vals, boda, moderno, fiesta de noche.
 - 2.5 = (Etiqueta 35=8.86 pulgadas/22.5 cm);3.5 = (Etiqueta 36=9.06 pulgadas/23 cm);4 = (Etiqueta 37=9.25 pulgadas/23.5 cm);5 = (Etiqueta 38)=9.45 pulgadas/24.5 cm). 6.5 6.5 = etiqueta 40 = 9.84 pulgadas / 25.5 cm
+- Material de la suela: suela de gamuza (solo para suelo interior)
+- Ancho del zapato: normal. Comprueba nuestra tabla de tallas y elige el tamaño según la longitud de tu pie (talón a punta)
+- Los zapatos son adecuados para salsa, baile social, baile latino, tango, vals, boda, moderno, fiesta de noche.
+- Altura del tacón: 6 cm; 8 cm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07Z4BJGT1{{</world>}}

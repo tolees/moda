@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sudadera
-- Tela Suave
 - Ajuste regular
+- Tela Suave
+- Sudadera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09H6WRPZQ{{</world>}}

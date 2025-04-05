@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- GUÍA DE TALLAS: Elige la talla más adecuada siguiendo las indicaciones de la imagen de la galería
 - ZAPATILLAS NIÑA: Zapatillas Chicco con cómodo cierre doble de ajustable, ideales para un look casual y a la moda. Adecuadas para cualquier ocasión
 - CHICCO: Siempre al lado de las familias, escuchando sus historias y necesidades. Con nuestros productos innovadores, siempre respondemos a las nuevas necesidades de los padres y de quienes cuidan de los niños
-- GUÍA DE TALLAS: Elige la talla más adecuada siguiendo las indicaciones de la imagen de la galería
 - MÁXIMA COMODIDAD: Las zapatillas Chicco son cómodas, flexibles, ligeras, transpirables y prácticas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 1% elastano
 - Ajuste regular
-- Entallado de cadera a tobillo
+- 1% elastano
 - Abertura en pierna entallada
 - 19% poliéster
+- Entallado de cadera a tobillo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BQJV6TX3{{</world>}}

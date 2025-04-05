@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Dos bolsillos exteriores y tres bolsillos interiores
-- Dimensiones 20 x 21 x 65 cm
 - Exterior en PVC petit piqué
 - Correa de hombro ajustable
+- Dimensiones 20 x 21 x 65 cm
+- Dos bolsillos exteriores y tres bolsillos interiores
 - Cocodrilo de metal a tono
 
 [🛒 Aquí!!!]({{< param buyurl >}})

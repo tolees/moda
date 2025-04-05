@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Abertura lateral
-- Solapa - Parte delantera abotonada
+- Cuello acanalado y puños de manga
 - Artículos entregados: 1 polo Helly Hansen para hombre - SS Polo azul brillante M
 - Pique de algodón
-- Cuello acanalado y puños de manga
+- Solapa - Parte delantera abotonada
+- Abertura lateral
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B9P1N7FD{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sudadera con cuello redondo
-- Presentan el logotipo bordado
 - Fabricada en Poliéster
 - Cuenta con ribete de canalé en cuello, puños y cintura para un ajuste óptimo
+- Presentan el logotipo bordado
+- Sudadera con cuello redondo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07NWXXR4Q{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Artículos entregados: 1x helly hansen womens w aden winter parka - parka navy m
-- Impermeable, cortavientos y transpirable
 - Tratamiento repelente al agua duradero (dwr)
 - Costuras totalmente selladas
+- Artículos entregados: 1x helly hansen womens w aden winter parka - parka navy m
+- Impermeable, cortavientos y transpirable
 - Helly tech protection
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Piel auténtica
 - Herrajes de metal de marca
 - Hebilla de metal
-- Piel auténtica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09QB86BRV{{</world>}}

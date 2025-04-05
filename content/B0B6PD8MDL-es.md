@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Producto original Hawkers. La caja incluye funda en microfibra y caja
 - PAULA ECHEVARRÍA X HAWKERS. Diseño retro inspirado en la moda de los años 50. Este modelo de la colección Paula Echevarría 2022 combina montura de acetato pulido en color carey oscuro con lentes color café. El diseño frontal, suavemente redondeado, se aplana en la parte superior acentuando la forma del puente para darle mayor carácter a este must atemporal.
 - Lentes categoría 3 y protección uv400 que ofrecen una protección antideslumbrante superior. Lentes de TR18 con el sello de Eastman , uno de los líderes mundiales en tecnología de copoliéster. Respetuoso con el medio ambiente y proporciona un equilibrio único entre claridad y resistencia
 - Medidas: Frontal 140 mm; Patillas 145 mm ; Puente 21 mm ; Alto 50 mm. Modelo Unisex
 - Montura en acetato de celulosa de alta calidad que aporta una máxima resistencia y durabilidad. Almohadillas de acetato para una sujeción mucho más cómoda
+- Producto original Hawkers. La caja incluye funda en microfibra y caja
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B6PD8MDL{{</world>}}

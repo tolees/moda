@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cuello redondo
+- Fabricada de forma sostenible
 - Tela transpirable
 - 3 rayas a lo largo de las mangas
-- Fabricada de forma sostenible
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08R6F1KMB{{</world>}}

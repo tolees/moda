@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Color: Tiburón Púrpura
 - Tamaño: 42/43 EU
 - Marca: ChayChax
 - ChayChax Shark Sildes Slippers Chanclas de baño para mujer, hombre, niños, tiburón, pantuflas de verano, antideslizantes, para ducha, sandalias de playa, Tiburón Púrpura, 42/43 EU
+- Color: Tiburón Púrpura
 - Tipo de producto: SANDAL
 
 [🛒 Aquí!!!]({{< param buyurl >}})

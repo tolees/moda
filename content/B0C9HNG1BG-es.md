@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con capucha
 - Ofrece una comodidad óptima
+- Con capucha
 - Tiene relleno térmico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

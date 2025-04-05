@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Gafas de sol polarizadas: otorga una visión sin reflejos, y contraste naturales de colores. Lentes categoría 3, fabricadas con material bio tac polarizado y protección uv400
-- Producto original Hawkers. La caja incluye funda en microfibra y caja
 - Montura en acetato de celulosa de alta calidad que aporta una máxima resistencia y durabilidad. Almohadillas de acetato para una sujeción mucho más cómoda
-- Medidas: Frontal 149 mm; Patillas 145 mm ; Puente 19 mm ; Alto 57 mm. Modelo Unisex
 - Gafas de sol total black con acabado brillante, lentes polarizadas y pins en los laterales para aportar a este modelo un toque distintivo. Este diseño cuadrado oversized se inspira en el clásico look de diva que no quiere ser reconocida.
+- Medidas: Frontal 149 mm; Patillas 145 mm ; Puente 19 mm ; Alto 57 mm. Modelo Unisex
+- Producto original Hawkers. La caja incluye funda en microfibra y caja
+- Gafas de sol polarizadas: otorga una visión sin reflejos, y contraste naturales de colores. Lentes categoría 3, fabricadas con material bio tac polarizado y protección uv400
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B42DJTPF{{</world>}}

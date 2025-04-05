@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Artículo de la marca United Colors of Benetton
 - Diseño moderno
+- Artículo de la marca United Colors of Benetton
 - Ligero y cómodo
 - Hecho de material duradero
 

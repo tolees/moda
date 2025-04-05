@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Manga corta - El diseño de manga corta aporta frescura a los niños y es la compañera ideal en el verano
 - Estampado de excavadora - La ropa presenta estampado de excavadora, colorida y divertida
-- Pack de 3 - Lote de 3 camisetas, con color blanco, azul y gris, es fácil de cambiar y lava
 - Cuello redondo - La prenda se pone y se quita fácilmente gracias al cuello redondo
 - Algodón - Camiseta tejida con 100% algodón, es muy cómoda, suave y respirable
+- Manga corta - El diseño de manga corta aporta frescura a los niños y es la compañera ideal en el verano
+- Pack de 3 - Lote de 3 camisetas, con color blanco, azul y gris, es fácil de cambiar y lava
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BL15WSK4{{</world>}}

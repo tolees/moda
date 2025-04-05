@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ancho del zapato: estrecho
 - Grado de resistencia al agua: no impermeable
 - Forma del tacón: plano
+- Ancho del zapato: estrecho
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09QLGJ2YR{{</world>}}

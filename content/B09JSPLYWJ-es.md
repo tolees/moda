@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Puños acanalados
 - Bolsillos frontales, bolsillo interior
 - Acabado mate
-- Puños acanalados
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09JSPLYWJ{{</world>}}

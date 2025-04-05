@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ocasiones: disfraz para niñas para celebrar Halloween, Navidad, Carnaval, pascua, bailes, el día del libro, día del niño, cosplay, fiesta, festivales, vacaciones, concurso, boda, cumpleaños, baile escolar, sesión de fotos, actuaciones escénicas, ceremonias y otras ocasiones.
 - Para niñas de 2 años en adelante. Disponibles para niñas talla T de 2 a 3 años de edad, Talla S de 3 a 4 años, Talla M de 5 a 6 años, Talla L de 7 a 8 años y Talla XL de 9 a 10 años de edad. Leer la tabla de medidas en las imagenes. Por la seguridad de los niños todos nuestros disfraces son testeados bajo BS EN-71 estandar de seguridad cumpliendo las normativas europeas exigidas.
-- CAPA: Para complementar su disfraz de anna, su larga capa Deluxe color violeta es esencial y va incluida. Suave al tacto y de color intenso. Esta capa de organza de Lujo es desprendible gracias a su ajuste en velcro para mayor seguridad y comidad de las niñas durante sus largas horas de juego.
 - Anna de las películas Frozen de Disney: Este disfraz Anna Deluxe es 100% original Frozen 2 de Disney. lleva su traje de viaje inspirado en el personaje favorito de los fanáticos de Frozen.
 - VESTIDO: Precioso vestido en satín largo original de Anna para niñas, color negro con detalles en color cobre y dorado, corpiño con estampado floral de purpurina, gemas en 3D, cuello alto, cierre de velcro trasero para facilitar su colocación, y lazo tipo cinturón en la parte delantera adjunto. Debidamente empaquetado en bolsa de percha.
+- Ocasiones: disfraz para niñas para celebrar Halloween, Navidad, Carnaval, pascua, bailes, el día del libro, día del niño, cosplay, fiesta, festivales, vacaciones, concurso, boda, cumpleaños, baile escolar, sesión de fotos, actuaciones escénicas, ceremonias y otras ocasiones.
+- CAPA: Para complementar su disfraz de anna, su larga capa Deluxe color violeta es esencial y va incluida. Suave al tacto y de color intenso. Esta capa de organza de Lujo es desprendible gracias a su ajuste en velcro para mayor seguridad y comidad de las niñas durante sus largas horas de juego.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07SKTND5P{{</world>}}

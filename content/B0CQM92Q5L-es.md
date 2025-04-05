@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- regular fit
-- Camiseta de manga larga regular fit Con una textura de links que hace un falso liso Etiqueta efecto piel
-- etiqueta efecto piel
-- Camiseta de manga larga
 - Camiseta
+- etiqueta efecto piel
 - textura de links que hace un falso liso
+- Camiseta de manga larga regular fit Con una textura de links que hace un falso liso Etiqueta efecto piel
+- Camiseta de manga larga
+- regular fit
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CQM92Q5L{{</world>}}

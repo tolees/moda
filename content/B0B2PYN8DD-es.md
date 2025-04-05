@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Aspecto casual: la sudadera tiene un corte regular y un elegante logotipo Replay en la parte delantera.
 - REPLAY es una de las principales marcas italianas de mezclilla y estilo de vida para hombres y mujeres desde hace 40 años. La marca es sinónimo de innovación, autenticidad y se centra más en la sostenibilidad.
-- Instrucciones de cuidado: se recomienda lavar el suéter en un ciclo suave a 30 °C y hasta máx. 110 °C.
 - Algodón puro: el material de alta calidad no solo es suave y flexible en la piel, sino también transpirable y absorbente.
 - SUDADERAS Y SUDADERAS CON CAPUCHA REPLAY: las camisetas casuales irradian carácter y ofrecen una amplia gama de tops frescos y cómodos, desde estampados minimalistas hasta icónicos.
+- Instrucciones de cuidado: se recomienda lavar el suéter en un ciclo suave a 30 °C y hasta máx. 110 °C.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B2PYN8DD{{</world>}}

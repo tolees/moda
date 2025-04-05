@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cómodo de llevar
 - Corte regular
+- Cómodo de llevar
 - Alta transpirabilidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})

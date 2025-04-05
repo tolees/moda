@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- gráfico de G-Star RAW estampado en el pecho
-- Etiqueta de G-Star RAW Originals tejida en el lateral inferior
 - Cuello redondo
-- Manga corta
+- gráfico de G-Star RAW estampado en el pecho
 - Bajo recto
+- Manga corta
+- Etiqueta de G-Star RAW Originals tejida en el lateral inferior
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BS19TMM9{{</world>}}

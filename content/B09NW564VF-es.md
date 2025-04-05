@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Te ayuda a disfrutar de tu estilo
-- Explora nuestra gama de productos
 - LAUREL SLG CARD COIN PURSE
+- Explora nuestra gama de productos
 - Materiales de gran durabilidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

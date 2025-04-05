@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Pack de 3 camisetas clásicas para hombre de la marca. JACK & JONES
 - Camiseta de Manga Corta con Cuello Redondo
 - Impresión: impresión de pigmentos para una impresión suave en ropa ligera
-- Pack de 3 camisetas clásicas para hombre de la marca. JACK & JONES
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08QW7VNL4{{</world>}}

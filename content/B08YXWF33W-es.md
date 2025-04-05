@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - * Calcetines ligeros para altas temperaturas. El tejido Meryl repele los malos olores y evita la adhesión de bacterias en nuestros pies. Diseñados para usarlos en épocas calurosas. Su tejido protege del sol y ofrece una altísima transpirabilidad. 
-- * Composición: Meryl 57%, Lycra 22%, Nylon 11%, Elástico 10% 
 - * Su diseño, colores y altura de caña alta no dejarán indiferente a nadie. Tanto para ciclismo de carretera como para MTB / BTT o Bici Gravel, estos calcetines están diseñados para cualquier estilo de ciclismo. También pueden ser usados como calcetines de diario. 
+- * Composición: Meryl 57%, Lycra 22%, Nylon 11%, Elástico 10% 
 - * Calcetines de colores de edición limitada, diseñados en Murcia y fabricados en España. Estos calcetines para la bici han sido desarrollados junto a los mejores ciclistas. Nuestros atletas prueban nuestros productos durante sus entrenamientos y carreras para garantizar los más altos estándares de rendimiento y la resistencia de nuestros materiales. 
 - * Calcetines ultra finos para ciclismo . Calcetines compresivos para verano. Nuestros calcetines altos para bici de compresión ofrecen máxima durabilidad y confort debido a su rejilla en toda la zona del empeine. 
 

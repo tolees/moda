@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- De color negro
-- Color de lente: Gris oscuro Degradado
-- Tamaño: 99
 - Forma: MÁSCARA
 - Material: nailon
+- De color negro
+- Tamaño: 99
+- Color de lente: Gris oscuro Degradado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BYTBYVMM{{</world>}}

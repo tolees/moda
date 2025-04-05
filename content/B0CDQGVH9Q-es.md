@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Modeo Unise Meidas: Frontal 140 mm; 45 mm; Patillas 145 mm
-- Gafas desol polarizadas: otorga una visión sin releos y contrastenatural decolore Lete cateoría 3 fabricadas con mateial bio tac polarizado y proteción uv400
 - Producto oficial NorthwekIncluye Funda e microfibra y caja
+- Gafas desol polarizadas: otorga una visión sin releos y contrastenatural decolore Lete cateoría 3 fabricadas con mateial bio tac polarizado y proteción uv400
 - Preetamos la vesión Madein Spain denuetro bet sele “WALL” Un reiseo fabricado e epaña con las últimas tenologías quedan como reultado un nueo modeo egonómico pefecionado, ligeo y sosteiblegracias al Depedicio Ceo etediseo actualizado preeta línes deuradas y etilizadas para crer una siluea slim urbana queseá una auténtica delaración deetilo etés dondeetés
+- Modeo Unise Meidas: Frontal 140 mm; 45 mm; Patillas 145 mm
 - Gafas desol fabricadas e TR90 con e selo deeS, consideado e adeuado Nylon para monturas de mundo queproporciona fleibilidad y reistecia
 
 [🛒 Comprar!!!]({{< param buyurl >}})

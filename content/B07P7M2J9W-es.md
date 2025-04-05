@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseño clásico que ofrece un ajuste cómodo y libertad de movimiento.
-- Incorpora poliéster que proporciona resistencia al desgaste.
 - Fabricada con algodón de alta calidad para mayor confort y transpirabilidad.
+- Incorpora poliéster que proporciona resistencia al desgaste.
+- Diseño clásico que ofrece un ajuste cómodo y libertad de movimiento.
 - Cuenta con tecnología Quicker Dry para un secado rápido y control de humedad.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Insignia del monograma TH en la parte delantera
 - Bandolera ajustable y extraíble
+- Insignia del monograma TH en la parte delantera
 - Con 2 asas superiores
 
 [🛒 Visítala!!!]({{< param buyurl >}})

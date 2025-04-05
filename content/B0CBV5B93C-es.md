@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Corte holgado
-- Presenta un estilo casual
 - Tejido ligero y suave
+- Presenta un estilo casual
+- Corte holgado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CBV5B93C{{</world>}}

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Inserto de patrón gráfico dinámico en hombros y parte inferior del brazo
-- Bolsillos con cremallera
 - Corte entallado
+- Bolsillos con cremallera
 - Paneles tonales con bloques de color
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

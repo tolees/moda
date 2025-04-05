@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Hoodie
-- Tejido cepillado con un tacto suave en el interior
 - Tela del cuerpo dentro de la capucha
+- Tejido cepillado con un tacto suave en el interior
+- Hoodie
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09JSK22F9{{</world>}}

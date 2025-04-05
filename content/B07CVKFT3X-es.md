@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ajuste cómodo
 - Diseño moderno
+- Ajuste cómodo
 - Hecho de material duradero y ligero
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Regular fit, straight cut: un look elegante
-- Estampado flocado en el pecho: será el centro de atención Siempre
-- Cuello redondo: el tamaño óptimo
 - Algodón ecológico: un tejido respetuoso con el medioambiente
+- Estampado flocado en el pecho: será el centro de atención Siempre
+- Regular fit, straight cut: un look elegante
+- Cuello redondo: el tamaño óptimo
 - Cocodrilo bordado cosido debajo de la parte trasera del cuello: Lacoste le cubre las espaldas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

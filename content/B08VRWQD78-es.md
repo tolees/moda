@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tejido transpirable
-- Punto doble 100% poliéster reciclado
-- Tamaño: XS,S,M,L,XL,2XL,3XL
-- Corte clásico
 - Capucha con cordón ajustable
+- Tejido transpirable
+- Tamaño: XS,S,M,L,XL,2XL,3XL
+- Punto doble 100% poliéster reciclado
+- Corte clásico
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08VRWQD78{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Camiseta con estampado frontal
 - Lavar con colores similares
 - Corte regular
+- Camiseta con estampado frontal
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B3NFLZXZ{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Incluye caja y funda protectora en microfibra y set de pegatinas.
-- Medidas: Frontal 145cm x Alto 4’5cm x Patillas 15cm
 - Gafas de sol unisex.
 - Montura de policarbonato de alta calidad.
+- Incluye caja y funda protectora en microfibra y set de pegatinas.
+- Medidas: Frontal 145cm x Alto 4’5cm x Patillas 15cm
 - Lente verde polarizada con protección total ultravioleta UV400.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

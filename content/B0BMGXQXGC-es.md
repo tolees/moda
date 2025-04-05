@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - El ajuste ceñido evita cualquier filtración de agua. Puente de nariz autoajustable. Protección UV
-- 60% silicona, 38% policarbonato, 2% polipropileno ( ecológico: 33% silicona reciclada)
 - Gafas de natación fáciles, seguras y coloridas para nadadores junior, fabricadas con silicona hipoalergénica parcialmente reciclada.
+- 60% silicona, 38% policarbonato, 2% polipropileno ( ecológico: 33% silicona reciclada)
 - Correa simple y clip sencillo para una máxima facilidad de uso.
 - Artículo diseñado para jóvenes nadadores de 6 a 12 años.
 

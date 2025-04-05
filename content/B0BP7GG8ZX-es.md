@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tripulación
-- Camiseta de 3 tiendas
 - Corte
+- Camiseta de 3 tiendas
+- Tripulación
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BP7GG8ZX{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- AJUSTE HOLGADO: Ajuste holgado y cómodo en todo el cuerpo
 - DETALLES: Totalmente forrado con bolsillos en las costuras. Ribete elástico en el borde de la capucha y en el puño de la manga. Cremallera completa con tirador.
 - CHAQUETA PLEGABLE TIPO PLUMÓN: Esta chaqueta impermeable con capucha tipo plumón es una capa ligera perfecta. Fácil de guardar en su bolsita con cierre de cordón para que te acompañe en tus aventuras más frías.
+- AJUSTE HOLGADO: Ajuste holgado y cómodo en todo el cuerpo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0862KFTXL{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Propiedades elásticas ligeras
-- Camiseta para entrenamiento o presentación.
 - Impresión de logo Nike grande
 - Cuello redondo loco
+- Propiedades elásticas ligeras
+- Camiseta para entrenamiento o presentación.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08QW8GLCJ{{</world>}}

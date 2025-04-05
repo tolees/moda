@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tela suave
-- Amplia libertad de movimiento
 - Logo bordado en el pecho
+- Amplia libertad de movimiento
 - Ajuste regular
+- Tela suave
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09HMLTBZV{{</world>}}

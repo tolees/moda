@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Etiqueta efecto piel
-- Textura de links que hace un falso liso
-- Regular fit
 - Camiseta De manga larga
+- Textura de links que hace un falso liso
+- Etiqueta efecto piel
+- Regular fit
 - Camiseta De manga larga Regular fit Con una textura de links que hace un falso liso Etiqueta efecto piel
 
 [🛒 Visítala!!!]({{< param buyurl >}})

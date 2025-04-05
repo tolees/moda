@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Altura del tacón: 1.5 pulgadas
 - Material de la suela: Goma
-- Revestimiento: Sintético
 - Cierre: Sin cordones
+- Altura del tacón: 1.5 pulgadas
+- Revestimiento: Sintético
 - Material exterior: Espuma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

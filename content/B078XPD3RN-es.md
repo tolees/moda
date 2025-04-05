@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseño: manga corta, cuello redondo, pliegues decorativos en el cuello, cinta autoadhesiva
+- Lavado y planchado: lavar a máquina en agua fría, ciclo suave con colores similares, no usar lejía, no secar en secadora, planchar en frío en la parte posterior, limpiar en seco
 - Material: 65% poliéster, 35% algodón
 - Edad: para niñas de 3 a 12 años
-- Lavado y planchado: lavar a máquina en agua fría, ciclo suave con colores similares, no usar lejía, no secar en secadora, planchar en frío en la parte posterior, limpiar en seco
+- Diseño: manga corta, cuello redondo, pliegues decorativos en el cuello, cinta autoadhesiva
 - Característica: Antimicrobiano, transferencia de humedad y tejidos secos rápidos, mezcla de algodón suave pique, buena sensación de la mano, paquete de color múltiple
 
 [🛒 Aquí!!!]({{< param buyurl >}})

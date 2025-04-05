@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- black skinny jeans
 - elastic cotton mixture
+- black skinny jeans
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07JPWXWKW{{</world>}}

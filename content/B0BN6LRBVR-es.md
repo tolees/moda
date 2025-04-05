@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Logotipo bordado
 - Ajuste regular: ajuste sencillo y cómodo con espacio para moverse
 - La talla XS es adecuada para niños de 5 a 6 años
 - Tejido ultra-light powerblend fleece afelpado (240 g)
-- Logotipo bordado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BN6LRBVR{{</world>}}

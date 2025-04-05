@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Esenciales by The Drop
-- De canalé entallado
+- Ajuste: ceñido, pegado al cuerpo
 - Cintura elástica sin cierre
+- De canalé entallado
+- Entrepierna de 76 cm
 - Bolsillos laterales
 - Las modelos miden 178 cm y llevan una talla S y XXL
-- Ajuste: ceñido, pegado al cuerpo
-- Entrepierna de 76 cm
+- Esenciales by The Drop
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B098XFKBWJ{{</world>}}

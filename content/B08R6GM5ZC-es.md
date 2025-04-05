@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tecnología de tejido adidas AEROREADY
-- Camiseta adecuada para deporte
 - Tiene logotipo de adidas en las mangas
 - Ofrece comodidad y libertad de movimiento
+- Camiseta adecuada para deporte
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08R6GM5ZC{{</world>}}

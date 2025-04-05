@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sudadera deportiva para entrenamiento
 - Fabricada en material cómodo
 - Detalles distintivos de la marca
+- Sudadera deportiva para entrenamiento
 - Sudadera de media cremallera
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Logotipo en relieve
 - Ajuste clásico
 - Detalle acanalado en el cuello
 - Cuello redondo
-- Logotipo en relieve
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BS71MZZF{{</world>}}

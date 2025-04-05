@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Camisa de manga larga confeccionada en tejido oxford. Presenta detalle a contraste en el interior del cuello.Gracias al lavado aplicado a la prenda se convertirá en tu camisa por excelencia.
-- Lavar a máquina en caliente, No usar lejía, Plancha media, sin vapor, Limpiar en seco con cualquier disolvente excepto tricloroetileno.
 - Custom fit.
+- Lavar a máquina en caliente, No usar lejía, Plancha media, sin vapor, Limpiar en seco con cualquier disolvente excepto tricloroetileno.
+- Camisa de manga larga confeccionada en tejido oxford. Presenta detalle a contraste en el interior del cuello.Gracias al lavado aplicado a la prenda se convertirá en tu camisa por excelencia.
 - Botones acanalados en el cuello, puños abotonados y logo bordado a color contrate a la altura del pecho izquierdo.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

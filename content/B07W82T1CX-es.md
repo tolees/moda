@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Detalles distintivos de la marca
-- Tiene cierre de cremallera frontal
 - Chaqueta de deporte para hombre
 - Cuenta con bolsillos laterales
+- Tiene cierre de cremallera frontal
+- Detalles distintivos de la marca
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07W82T1CX{{</world>}}

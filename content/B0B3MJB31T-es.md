@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Amortiguación sensible
 - Suela de tracción flexible
 - Plantilla acolchada y cómoda
+- Amortiguación sensible
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B3MJB31T{{</world>}}

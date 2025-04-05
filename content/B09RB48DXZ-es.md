@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Corte holgado
 - Camiseta con inscripción usada en la parte delantera
 - Cuello redondo
 - Pespuntes en los extremos
+- Corte holgado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09RB48DXZ{{</world>}}

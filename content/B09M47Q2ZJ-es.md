@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Puños acados
 - Por encima de la rodilla
+- Puños acados
 - Corte holgado
 
 [🛒 Visítala!!!]({{< param buyurl >}})

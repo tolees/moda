@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con un tejido ligero y suave
 - Detalles distintivos de la marca
+- Con un tejido ligero y suave
 - Presenta un estilo casual
 
 [🛒 Comprar!!!]({{< param buyurl >}})

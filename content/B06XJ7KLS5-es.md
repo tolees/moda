@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 【Peso y tamaño】 Solo de 30 g, 20*13*10 cm.
 - 【Función amplia】 Adecuadas para ciclismo, conducir, pescar, correr, escalar, golf, deportes al aire libre, etc.
-- 【Ajustables】 La almohadilla de nariz y las piernas son ajustables. Además, hay 5 lentes para adaptarse a diferentes situaciones. Las lentes amarillos son para las actividades nocturnas y aumentar la comparación. Las azules son para la playa y la costa. Las marrones son para suavizar los rayos. Las transparentes son para los días diarios y los de lluvia.
-- 【Protección perfecto】 UV 400.
 - 【Lentes durables】 Hecho de PC de alta calidad, es más elásticas y resistentes que las ordinarias.
+- 【Protección perfecto】 UV 400.
+- 【Ajustables】 La almohadilla de nariz y las piernas son ajustables. Además, hay 5 lentes para adaptarse a diferentes situaciones. Las lentes amarillos son para las actividades nocturnas y aumentar la comparación. Las azules son para la playa y la costa. Las marrones son para suavizar los rayos. Las transparentes son para los días diarios y los de lluvia.
+- 【Peso y tamaño】 Solo de 30 g, 20*13*10 cm.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B06XJ7KLS5{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Copas moldeadas
 - Confort
+- Copas moldeadas
 - Con aros
 
 [🛒 Comprar!!!]({{< param buyurl >}})

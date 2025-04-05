@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Logotipo pequeño estampado en el pecho y banda con logo en las mangas
-- Tejido sin pulir (240 g)
 - Capucha y bolsillo de canguro
 - Tallas de XXS a XXL
+- Tejido sin pulir (240 g)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09YPDLVSY{{</world>}}

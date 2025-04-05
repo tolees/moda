@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - 41% Acrylic 34% Polyamide 17% Pes 7% Mf 1% Ea
-- Loose fit
 - Manga larga
+- Loose fit
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09R7WL9FM{{</world>}}

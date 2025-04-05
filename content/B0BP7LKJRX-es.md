@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Tripulación
 - Corte
 - Camiseta de 3 tiendas
-- Tripulación
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BP7LKJRX{{</world>}}

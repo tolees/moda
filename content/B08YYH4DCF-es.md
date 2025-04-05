@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - ZYLDK Hombre Sandalias de Verano Playa para Punta Cerrado Deportivas Exterior Senderismo Hombres Excursionismo Cuero Zapatos Velcro 3848
 - tipo de producto: SANDAL
-- Marca: ZYLDK
 - Color: Azul 1
+- Marca: ZYLDK
 - Tamaño: EU 38
 
 [🛒 Comprar!!!]({{< param buyurl >}})

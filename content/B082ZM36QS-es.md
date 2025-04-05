@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Resistente
 - Protector
 - Ligero
 - Producto de gran calidad
-- Resistente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B082ZM36QS{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diseñado con un corte bajo y un silueta sugerente que favorece tus curvas
 - Este pantalón de chándal lleva forro polar para una comodidad máxima.
+- Diseñado con un corte bajo y un silueta sugerente que favorece tus curvas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07BJKFJYH{{</world>}}

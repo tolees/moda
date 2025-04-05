@@ -28,14 +28,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sport
 - Manga corta
-- Escote redondo
+- Corte delgado
 - Camiseta de marca adidas con logo
 - 100% Algodón
-- Estilo del cuello: Cubana
-- Corte delgado
+- Escote redondo
+- Sport
 - Lavar a máquina
+- Estilo del cuello: Cubana
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08LD2FPPG{{</world>}}

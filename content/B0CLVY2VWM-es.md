@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Para manifestar su fe futbolística
 - Camiseta de fútbol con número y nombre de Paulo Dybala
-- Ideal para ir al estadio
 - Producto oficial AS Roma
+- Ideal para ir al estadio
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CLVY2VWM{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Elastic sport top
 - Loose sport top
+- Elastic sport top
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07RY1Q4YK{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ligeramente sobredimensionado: consulte nuestra tabla de tallas, este polo para hombre está confeccionado según los estándares de tallaje de EE.UU. y es ligeramente más grande.
 - Este polo es muy adecuado para vestir tanto para el tiempo libre como para el trabajo o el deporte.
-- Buena elasticidad: Permiten una mayor movilidad durante las actividades.
 - Tejido transpirable: La absorción de la humedad y el secado rápido le mantienen fresco y cómodo todo el día. Suave y cómodo contra la piel.
+- Ligeramente sobredimensionado: consulte nuestra tabla de tallas, este polo para hombre está confeccionado según los estándares de tallaje de EE.UU. y es ligeramente más grande.
+- Buena elasticidad: Permiten una mayor movilidad durante las actividades.
 - Estilo clásico para hombre: Polos de manga corta con cuello abotonado.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

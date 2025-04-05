@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseñado con un corte bajo y un silueta sugerente que favorece tus curvas
 - Mezclilla clásica y estilo de cinco bolsillos resaltan estos jeans perfectos para el uso diario
+- Diseñado con un corte bajo y un silueta sugerente que favorece tus curvas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07XG58GG4{{</world>}}

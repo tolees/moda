@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Presenta los dos lados del pantalón, interior y exterior, con el mismo tejido
+- Tiene una cintura elástica
 - Fabricados de poliéster 100%
 - Ideal para la práctica de deporte a nivel profesional
-- Tiene una cintura elástica
-- Presenta los dos lados del pantalón, interior y exterior, con el mismo tejido
 - Cuenta con la tecnología DRY Mix que aleja el sudor de la piel
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

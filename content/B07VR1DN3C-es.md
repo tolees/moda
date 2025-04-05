@@ -28,16 +28,16 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diámetro de la caja: 36.5 millimeters
-- Aurora
-- Tipo de cierre: Cierre desplegable
 - Tamaño: 36,5mm
-- Material caja: acero, color: rosado
 - Material correa: acero, color: rosado
-- Color de la correa: Rosa; Anchura de la correa: 18.0
+- Aurora
 - Movimiento: cuarzo, display: analógico
-- Forma: Redondo
+- Material caja: acero, color: rosado
+- Diámetro de la caja: 36.5 millimeters
+- Tipo de cierre: Cierre desplegable
 - Tipo de cristal del dial: Mineral
+- Forma: Redondo
+- Color de la correa: Rosa; Anchura de la correa: 18.0
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07VR1DN3C{{</world>}}

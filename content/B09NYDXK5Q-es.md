@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Un diseño de aviador cuadrado con combinación de aros metálicos TR90, detalles a lo largo del puente metálico, barra superior y alrededor los puntos de articulación de las patillas. Este modelo de carey y oro tiene lentes polarizadas de color verde oscuro.
 - Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Doble puente metálico que aporta solidez a la estructura frontal de la montura y eleva la resistencia del producto frente a rotura y deformación. Almohadillas de silicona ajustables.
-- Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores. Lentes categoría 3 fabricadas con material bio tac polarizado y protección uv400.
+- Un diseño de aviador cuadrado con combinación de aros metálicos TR90, detalles a lo largo del puente metálico, barra superior y alrededor los puntos de articulación de las patillas. Este modelo de carey y oro tiene lentes polarizadas de color verde oscuro.
 - Medidas: Frontal 147,5 mm; Patillas 145 mm ; Puente 20 mm ; Alto 52,3 mm. Modelo Unisex
+- Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores. Lentes categoría 3 fabricadas con material bio tac polarizado y protección uv400.
 - Producto original Hawkers. La caja incluye funda en microfibra y caja
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

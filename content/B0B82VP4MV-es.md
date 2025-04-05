@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - 0,31 kg
-- 60% poliamida, 40% poliamida reciclada
 - Medium cruzado
-- 26 cm de alto x 29 cm de ancho x 4 cm de profundidad
 - Repelente al agua
+- 60% poliamida, 40% poliamida reciclada
+- 26 cm de alto x 29 cm de ancho x 4 cm de profundidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B82VP4MV{{</world>}}

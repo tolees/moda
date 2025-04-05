@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cuello altamente cerrable
 - Material 100% poliéster
 - Puños con puños elásticos
 - Chaqueta con bolsillos con cremallera
-- Cuello altamente cerrable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B076HNQGBB{{</world>}}

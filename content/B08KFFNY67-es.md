@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pantalones chinos ajustados con trabillas para cinturón
 - Bragueta con cremallera
+- Pantalones chinos ajustados con trabillas para cinturón
 - Composición: 98% algodón, 2% elastano
 - Bolsillos ribeteados en el trasero y bolsillos laterales
 

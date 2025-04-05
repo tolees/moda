@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Camiseta de fútbol
-- El diseño otorga libertad a los movimientos
 - El tejido transpirable expulsa rápidamente el sudor de la piel
+- El diseño otorga libertad a los movimientos
+- Camiseta de fútbol
 - Detalles distintivos de la marca
 
 [🛒 Aquí!!!]({{< param buyurl >}})

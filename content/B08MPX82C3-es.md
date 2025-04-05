@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pantalón vaquero, largo
-- Composición: 78% Bci Algodón + 20% Algodón reciclado + 2% Elastáne
-- Cierre: Cremallera y botón
-- Instrucciones de cuidado: Lavado a máquina
-- Tela Estrecho: Tiro bajo
 - Silueta: Straight Fit
+- Instrucciones de cuidado: Lavado a máquina
+- Pantalón vaquero, largo
+- Tela Estrecho: Tiro bajo
+- Cierre: Cremallera y botón
+- Composición: 78% Bci Algodón + 20% Algodón reciclado + 2% Elastáne
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08MPX82C3{{</world>}}

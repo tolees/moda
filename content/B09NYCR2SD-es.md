@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Medidas: Frontal 142 mm; Patillas 145 mm ; Puente 21 mm ; Alto 47,4 mm. Modelo Unisex
 - Un diseño sofisticado, llamativo, con una forma de ojo de gato ligeramente sobredimensionada y cuadrada. Este modelo tiene una montura negra brillante, que se funde con los aros inferiores claros, transparentes, a los que se les da un ligero tinte rosado gracias a las lentes polarizadas y espejadas de color rosa.
 - Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Almohadillas de TR90 para una sujeción mucho más cómoda
-- Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores. Lentes categoría 3 fabricadas con material bio tac polarizado y protección uv400.
 - Producto original Hawkers. La caja incluye funda en microfibra y caja
+- Medidas: Frontal 142 mm; Patillas 145 mm ; Puente 21 mm ; Alto 47,4 mm. Modelo Unisex
+- Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores. Lentes categoría 3 fabricadas con material bio tac polarizado y protección uv400.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09NYCR2SD{{</world>}}

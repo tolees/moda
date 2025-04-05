@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuello acanalado
-- Material: 100% algodón orgánico
-- Ajuste regular
 - Logo estampado en el pecho
+- Ajuste regular
+- Material: 100% algodón orgánico
+- Cuello acanalado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07SMT6N98{{</world>}}

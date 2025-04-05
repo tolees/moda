@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Lavar en ciclo de lavado suave a 40°, No usar lejía, No secar en la secadora, Planchar a un máx. 150° (Nivel 2), No limpiar en seco
-- Largo: normal
-- Pernera: Regular, corte cómodo y atemporal con la pernera recta
-- Pijama de invierno de material suave con puños en los remates. Parte de arriba de color liso. Pantalón de cuadros con cordón en la cintura y bolsillos al bies a los lados.
-- Largo de manga: larga
 - Escote: redondo
 - Corte: Regular Fit, corte clásico
+- Largo: normal
+- Pernera: Regular, corte cómodo y atemporal con la pernera recta
+- Lavar en ciclo de lavado suave a 40°, No usar lejía, No secar en la secadora, Planchar a un máx. 150° (Nivel 2), No limpiar en seco
+- Pijama de invierno de material suave con puños en los remates. Parte de arriba de color liso. Pantalón de cuadros con cordón en la cintura y bolsillos al bies a los lados.
+- Largo de manga: larga
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CJ5GYDW2{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Dobladillo ajustable en la espalda
-- Material: ante sintético
 - Chaqueta para hombre
+- Material: ante sintético
+- Dobladillo ajustable en la espalda
 - Detalles clásicos de motoristas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

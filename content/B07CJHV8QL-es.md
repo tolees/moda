@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Dress with 3/4 sleeves
 - Short dress with straight fit
+- Dress with 3/4 sleeves
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07CJHV8QL{{</world>}}

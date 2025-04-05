@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Longitud de entrepierna: 20,3 cm en la talla M de EE. UU.
 - DETALLES: cuenta con una cintura elástica interior con cordón, para mayor seguridad durante los entrenamientos.
-- AJUSTE HOLGADO: Nuestro pantalón corto más amplio, holgado en la cadera, el muslo y la pierna. Queda por debajo de la cintura.
 - PANTALONES CORTOS DE BALONCESTO: Combina tu ropa con estos cómodos pantalones cortos, perfectos para llevarlos en la cancha o para el día a día. Estos pantalones quedan justo por encima de la rodilla. Tanto para salir a correr, echar unas canastas o hacer recados con los niños, nuestra ropa está pensada para hacer ejercicio, vivir y descansar.
+- AJUSTE HOLGADO: Nuestro pantalón corto más amplio, holgado en la cadera, el muslo y la pierna. Queda por debajo de la cintura.
+- Longitud de entrepierna: 20,3 cm en la talla M de EE. UU.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0723CZCQT{{</world>}}

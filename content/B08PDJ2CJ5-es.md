@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Un polo versátil que es elegante, elegante y todo menos anticuado
-- Detalles refinados y un ajuste recto para mayor versatilidad
 - Polo New Levis Hm
+- Detalles refinados y un ajuste recto para mayor versatilidad
 - Este producto es original Levis
+- Un polo versátil que es elegante, elegante y todo menos anticuado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08PDJ2CJ5{{</world>}}

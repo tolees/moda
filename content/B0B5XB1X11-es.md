@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dos bolsillos delanteros sobre
 - Dos bolsillos en ángulo en el pecho
 - Capucha con cordón de palanca no extraíble
+- Dos bolsillos delanteros sobre
 - Puños de punto acado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

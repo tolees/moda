@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- VERSATILIDAD: Su comodidad y silueta clásica la hacen imprescindible para cualquier ocasión y look que elijas.
-- DETALLES QUE MARCAN LA DIFERENCIA: Cuello redondo acanalado. Confeccionada en suave algodón.
-- EN EL INTERIOR... Tapacosturas en contraste dentro del cuello.
 - COMPOSICIÓN: Camiseta denim en algodón 100%, de manga corta y cuello redondo.
+- DETALLES QUE MARCAN LA DIFERENCIA: Cuello redondo acanalado. Confeccionada en suave algodón.
+- VERSATILIDAD: Su comodidad y silueta clásica la hacen imprescindible para cualquier ocasión y look que elijas.
 - PACK DE 3 CAMISETAS: Blanco, Negro y Burdeos.
+- EN EL INTERIOR... Tapacosturas en contraste dentro del cuello.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CBVMXCGZ{{</world>}}

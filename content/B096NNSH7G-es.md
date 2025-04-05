@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Gamuza
-- Color liso
-- Sin forro
 - Sintético
+- Color liso
 - Cuero
+- Sin forro
+- Gamuza
 - Cama intercambiable
 
 [🛒 Visítala!!!]({{< param buyurl >}})

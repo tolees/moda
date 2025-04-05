@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Talla 58/18/140
-- Garantía internacional de 2 años
 - Ruthenium/Grey Shaded
+- Garantía internacional de 2 años
+- Talla 58/18/140
 - Sin Polarizar
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Polo piqué de manga larga. Corte regular.
 - 100% algodón
+- Polo piqué de manga larga. Corte regular.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BNC8Y7ZB{{</world>}}

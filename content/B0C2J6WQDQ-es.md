@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Acabado doble pespunte en mangas y bajo
 - Detalle canalé en cuello
 - Logo Pepe Jeans estampado en el pecho
+- Acabado doble pespunte en mangas y bajo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C2J6WQDQ{{</world>}}

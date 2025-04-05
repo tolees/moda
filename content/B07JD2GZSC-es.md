@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Estampado de G-Star RAW en la parte delantera
 - Bajo recto
 - Cuello acanalado
+- Estampado de G-Star RAW en la parte delantera
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07JD2GZSC{{</world>}}

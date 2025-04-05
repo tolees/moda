@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- TOX - POLARIZED BLACK EMERALD
 - Modelo Unisex. Medidas: Frontal 141 mm, Patillas 145 mm, Puente 21 mm, Diámetro de Lente 52 mm
-- Incluye: caja de cartón reciclada y reciclable, pegatinas y funda de microfibra
 - Gafas de sol fabricadas en TR90 con el sello de EMS🇨🇭, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia
+- TOX - POLARIZED BLACK EMERALD
 - Gafas de sol polarizadas: otorga una visión sin reflejos, y contraste naturales de colores. Lentes de TR18 con el sello de Eastman 🇺🇸, uno de los líderes mundiales en tecnología de copoliéster. Respetuoso con el medio ambiente y proporciona un equilibrio único entre claridad y resistencia
+- Incluye: caja de cartón reciclada y reciclable, pegatinas y funda de microfibra
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09DYZLWV9{{</world>}}

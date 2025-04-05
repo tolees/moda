@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuello redondo de canalé
 - Color del artículo: Legend Earth / Semi Solar Slime
-- Corte clásico más ancho y silueta recta
 - Manga corta
 - Punto 100% algodón
+- Corte clásico más ancho y silueta recta
+- Cuello redondo de canalé
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08CBX4WV3{{</world>}}

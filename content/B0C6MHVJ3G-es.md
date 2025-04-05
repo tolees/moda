@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- bolsa de hombro
 - Cierre ligero con cremallera
+- bolsa de hombro
 - Exterior de piel sintética.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

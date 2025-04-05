@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bolsillos laterales
+- Rib en el bajo
 - Cintura elastica
 - Pantalón largo
-- Rib en el bajo
+- Bolsillos laterales
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00HGP3EN2{{</world>}}

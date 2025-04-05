@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Exterior de tejido
-- Cocodrilo verde bordado en el extremo
 - Hebilla de chapa de acero mate con grabado Lacoste
+- Cocodrilo verde bordado en el extremo
+- Exterior de tejido
 - Ajustable
 - Ancho 4 mm
 

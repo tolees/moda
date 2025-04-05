@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tecnología transpirable AEROREADY
-- Corte entallado
-- Cierre de cremallera y cuello alzado
 - Punto doble 100% poliéster reciclado
+- Corte entallado
+- Tecnología transpirable AEROREADY
+- Cierre de cremallera y cuello alzado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09T6SF15M{{</world>}}

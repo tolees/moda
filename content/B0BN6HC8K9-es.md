@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Logotipo impreso
 - Tejido Powerblend fleece afelpado (280 g)
 - Cozy Fit: el más relajado, permite un rango de movimiento amplio
+- Logotipo impreso
 - La taglia XL è adatta per bambini dai 13 ai 14 anni
 
 [🛒 Comprar!!!]({{< param buyurl >}})

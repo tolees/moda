@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 100% algodón
-- Estampado de logo de La Vecina Rubia
-- Pijama largo Capri mujer Con manga corta
 - Colección Honest, confeccionada Con materiales sostenibles Al elegir nuestros productos de algodón, estás apoyando nuestra inversión en la iniciativa Better Cotton
 - Cinturilla elástica de jacquard
+- Pijama largo Capri mujer Con manga corta
+- Estampado de logo de La Vecina Rubia
+- 100% algodón
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CD82YRK7{{</world>}}

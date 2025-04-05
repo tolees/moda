@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tela suave
 - Camiseta de manga corta para hombre
 - Ofrece comodidad y libertad de movimiento
+- Tela suave
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C8YWZLZ2{{</world>}}

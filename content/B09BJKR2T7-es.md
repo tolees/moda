@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- ¿Eres fanático de la cerveza y la cerveza artesanal?
 - Esta sopresa es perfecta para los que aman beber todo tipo de cerveza.
 - Ligero, Encaje clasico, Manga de doble puntada y bastilla baja
-- ¿Eres fanático de la cerveza y la cerveza artesanal?
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09BJKR2T7{{</world>}}

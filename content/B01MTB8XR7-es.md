@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Matte Black Red/Grey Shaded
 - Sin Polarizar
 - Garantía internacional de 2 años
-- Matte Black Red/Grey Shaded
 - Talla 62/11/140
 
 [🛒 Visítala!!!]({{< param buyurl >}})

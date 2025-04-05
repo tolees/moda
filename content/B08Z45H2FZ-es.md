@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Pantalón largo con corte skinny con cintura elástica ajustable mediante cordón
 - Cuenta con bolsillos laterales y cremallera en el bajo
 - Logotipo bordado y joma serigrafiado
-- Pantalón largo con corte skinny con cintura elástica ajustable mediante cordón
 - Ajuste cómodo que ofrece flexibilidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})

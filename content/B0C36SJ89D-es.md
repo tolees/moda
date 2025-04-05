@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Interlock es extremadamente suave, elástico y firme
-- Composición: 60% poliéster reciclado, 40% algodón orgánico
 - Bolsillo lateral para un aspecto moderno
 - Sudadera con capucha de malla y cordón ajustable
+- Interlock es extremadamente suave, elástico y firme
+- Composición: 60% poliéster reciclado, 40% algodón orgánico
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C36SJ89D{{</world>}}

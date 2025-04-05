@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Bisagra de doble acción para un cierre de patillas seguro y durabilidad. Diseño más ancho del terminal de la patilla para mejorar la ergonomía y confort. Unión de 45º para suavizar la junta entre montura y patilla dándole una continuidad perfecta.
 - Montura en acabado transparente y brillante con inyección de color rojo con lentes degradadas azules.
-- Modelo Unisex. Medidas: Frontal 139 mm; Alto 42,3 mm; Patillas 145 mm; Puente 16 mm; Diámetro de lente 54 mm.
-- Producto original Hawkers. La caja incluye funda en microfibra y caja.
 - Lentes de TR18 con el sello de Eastman uno de los líderes mundiales en tecnología de copoliéster. Respetuoso con el medio ambiente y proporciona un equilibrio único entre claridad y resistencia. Lentes categoría 3 y protección uv400
+- Modelo Unisex. Medidas: Frontal 139 mm; Alto 42,3 mm; Patillas 145 mm; Puente 16 mm; Diámetro de lente 54 mm.
+- Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Bisagra de doble acción para un cierre de patillas seguro y durabilidad. Diseño más ancho del terminal de la patilla para mejorar la ergonomía y confort. Unión de 45º para suavizar la junta entre montura y patilla dándole una continuidad perfecta.
+- Producto original Hawkers. La caja incluye funda en microfibra y caja.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07QM6D4KZ{{</world>}}

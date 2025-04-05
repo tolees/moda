@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Prenda ajustada de arriba abajo
 - Bolsillos de parche con solapa y cierre a presión en los muslos
 - Talle alto
-- Prenda ajustada de arriba abajo
 - Bolsillo con cremallera en la parte trasera
 - Cierre de botones y cremallera
 

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Chaqueta acolchada muy ligera de tejido liso. Capucha, dos bolsillos al bies y forro fino.
 - Largo de manga: larga
+- Chaqueta acolchada muy ligera de tejido liso. Capucha, dos bolsillos al bies y forro fino.
+- Nota: Tiene un corte holgado. Recomendamos pedir una talla menos (p. ej., 38 en vez de 40)
 - Cierre: con cremallera
 - Lavar en ciclo de lavado suave a 40°, No usar lejía, Secar en la secadora a temperatura baja, No planchar, No limpiar en seco
-- Nota: Tiene un corte holgado. Recomendamos pedir una talla menos (p. ej., 38 en vez de 40)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C98YT7ZY{{</world>}}

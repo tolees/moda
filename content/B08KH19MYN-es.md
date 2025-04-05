@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Logotipo grande en el pecho, cómodos puños de punto en la cintura y las muñecas
-- Sudadera con capucha, manga larga, cordón interior, bolsillo grande de canguro en la parte delantera
 - Apoyar a Better Cotton We are a proud member of the Better Cotton Initiative. By buying Cotton Products from uss, you are supporting more sustainable cotton farming. Better cotton is sourced via a system of Mass Balance.
+- Sudadera con capucha, manga larga, cordón interior, bolsillo grande de canguro en la parte delantera
+- Logotipo grande en el pecho, cómodos puños de punto en la cintura y las muñecas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08KH19MYN{{</world>}}

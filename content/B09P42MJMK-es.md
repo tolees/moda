@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Número de modelo: 846956
-- PUMA Logotipo No1 plateado metálico estampado
 - Cuello redondo acanalado
+- PUMA Logotipo No1 plateado metálico estampado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09P42MJMK{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- PJL L FW Sh/Sn Sneakers / Low Top SneakerPJL FW Sh/Sn Sneakers / Low Top Sneaker
-- Cierre: goma
+- 12.2834645544 pulgadas
 - Colección: Primavera-Verano 18
 - Material: lona (100% algodón)
-- 12.2834645544 pulgadas
+- Cierre: goma
+- PJL L FW Sh/Sn Sneakers / Low Top SneakerPJL FW Sh/Sn Sneakers / Low Top Sneaker
 - Piel: 100% algodón
 
 [🛒 Comprar!!!]({{< param buyurl >}})

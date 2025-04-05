@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ajustada clásica
-- 100% algodón
 - Camiseta de manga larga para ninos con logotipo serigrafiado en el pecho
+- 100% algodón
+- Ajustada clásica
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B3JRKL8T{{</world>}}

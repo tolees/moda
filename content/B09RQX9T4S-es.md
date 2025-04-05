@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El Omini de Kappa toma protagonismo al aparecer silueteado en tonos dorados en el centro de la camiseta.
-- CAMISETA DUVA MUJER
 - 60% algodón, 40% poliéster. Lavar a máquina a 30º.
-- DASI pertenece a la colección Active de Kappa, diseñada para encajar a la perfección en los looks informales con una esencia deportiva, pero con estilo.
+- CAMISETA DUVA MUJER
 - DUVA es una camiseta básica, pero cómoda, de manga corta, con cuello redondo y un corte holgado, esta prenda tiene un estilo deportivo, siendo perfecta para hacer ejercicio o tras la práctica deportiva.
+- DASI pertenece a la colección Active de Kappa, diseñada para encajar a la perfección en los looks informales con una esencia deportiva, pero con estilo.
+- El Omini de Kappa toma protagonismo al aparecer silueteado en tonos dorados en el centro de la camiseta.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09RQX9T4S{{</world>}}

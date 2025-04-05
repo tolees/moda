@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Modelo: Lombardy Referencia: SHS01115
-- Diseño deportivo y de alta calidad
-- Ropa deportiva Ellesse.
 - Chaqueta para hombre, ideal para el tiempo libre y el deporte.
+- Modelo: Lombardy Referencia: SHS01115
+- Ropa deportiva Ellesse.
+- Diseño deportivo y de alta calidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0758FTD3W{{</world>}}

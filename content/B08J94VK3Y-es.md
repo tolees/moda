@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Una marca de Amazon
 - Popeline martellato, avvolgente, durevole e morbido per un immediato effetto vissuto
+- Una marca de Amazon
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08J94VK3Y{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ¿QUIÉNES SOMOS?: En Izas nos encantan el deporte y las actividades al aire libre y en la montaña, por eso diseñamos y fabricamos ropa deportiva que se ajusta a las necesidades de los deportistas más exigentes. Utilizamos los mejores materiales para ofrecer la mayor comodidad posible durante la práctica deportiva. ¡Sal, disfruta y haz deporte, del resto nos encargamos nosotros!
-- FORROS POLARES DEPORTIVOS: Desde el gimnasio hasta tu casa y pasando por la naturaleza, nuestros forros polares están diseñados y creados pensando en ti y en tus necesidades. Descubre en nuestro catálogo los que mejor se adaptan a ti y a tus actividades favoritas.
+- EN LA MONTAÑA Y EN LA CIUDAD: Gracias a su estilo, su corte y sus materiales, este forro polar será el acompañante perfecto allá donde vayas. Con él podrás disfrutar con total libertad y comodidad de tus actividades deportivas al aire libre y de tus días en la ciudad.
 - CÓMODO Y PRÁCTICO: Sabemos lo importante que es sentirse cómodo y seguro durante el tiempo al aire libre, por ello, nuestra ropa está preparada para ofrecerte todo el confort, libertad de movimiento y seguridad que necesitas durante tu práctica deportiva y tus paseos por la ciudad.
 - FORRO POLAR SUTTON: Con tejido perchado y cuello alto, este forro polar está elaborado 100% en poliéster aportándote calidez y protección en todo momento. Cuenta con cierre de media cremallera y manga sentada para aportarte comodidad y libertad de movimiento. Ideal para los días más fríos del invierno.
-- EN LA MONTAÑA Y EN LA CIUDAD: Gracias a su estilo, su corte y sus materiales, este forro polar será el acompañante perfecto allá donde vayas. Con él podrás disfrutar con total libertad y comodidad de tus actividades deportivas al aire libre y de tus días en la ciudad.
+- ¿QUIÉNES SOMOS?: En Izas nos encantan el deporte y las actividades al aire libre y en la montaña, por eso diseñamos y fabricamos ropa deportiva que se ajusta a las necesidades de los deportistas más exigentes. Utilizamos los mejores materiales para ofrecer la mayor comodidad posible durante la práctica deportiva. ¡Sal, disfruta y haz deporte, del resto nos encargamos nosotros!
+- FORROS POLARES DEPORTIVOS: Desde el gimnasio hasta tu casa y pasando por la naturaleza, nuestros forros polares están diseñados y creados pensando en ti y en tus necesidades. Descubre en nuestro catálogo los que mejor se adaptan a ti y a tus actividades favoritas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08M38Q8PG{{</world>}}

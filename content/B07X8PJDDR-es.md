@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Poliéster 100 %
 - Cierre de cremallera completo
-- Bloques de color en el dobladillo y los hombros
 - Logotipo Cat en la parte derecha del pecho
+- Bloques de color en el dobladillo y los hombros
 - Cuello alzado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

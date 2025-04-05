@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Slim fit; corte entallado: un artículo creado para el movimiento
-- Tapeta con dos botones: el toque emblemático
-- Cuello polo con inscripción de Lacoste: el innegable estilo del cocodrilo
 - Piqué de algodón ecológico y poliéster reciclado: tejido ligero y sostenible ayuda a absorber la transpiración
 - Cocodrilo de silicona cosido en el pecho: estilo Lacoste
+- Tapeta con dos botones: el toque emblemático
+- Cuello polo con inscripción de Lacoste: el innegable estilo del cocodrilo
+- Slim fit; corte entallado: un artículo creado para el movimiento
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09N9VGM19{{</world>}}

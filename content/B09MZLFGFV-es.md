@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ajuste clásico
-- 260gm con gráfico serigrafiado
 - Sudadera con capucha 100% Cotton
+- 260gm con gráfico serigrafiado
+- Ajuste clásico
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09MZLFGFV{{</world>}}

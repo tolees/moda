@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Logotipo de Levis en el pecho
-- Cuello sin etiqueta para un uso sin complicaciones
 - Ajuste regular
+- Cuello sin etiqueta para un uso sin complicaciones
+- Logotipo de Levis en el pecho
 - Cuello redondo acanalado y mangas cortas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

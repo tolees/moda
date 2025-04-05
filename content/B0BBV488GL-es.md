@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Adecuado para gatos y perros, el tamaño es de 63,5 cm/25” . Adecuado para mascotas grandes, medianas y pequeñas, si es demasiado largo, puede cortarlo.
-- Ayuda a su gato y perro a evitar pulgas, garrapatas, y mosquitos con el aroma de los aceites esenciales naturales de plantas. El collar de pulgas se puede proteger su perros y gatos durante 8 meses.
+- Nota: Las mascotas pueden tener reacciones alérgicas durante el uso. Si es alérgico, deje de usarlo inmediatamente.
 - El collar es resistente al agua y la lluvia. Sin embargo, se recomienda que las mascotas se quiten el collar al bañarse y nadar para mantener la vida útil del collar.
 - 2 collares se empaquetan individualmente en bolsas selladas. Esta es la mejor oferta para familias con varias mascotas, y es una excelente manera de guardar una para reemplazarlo.
-- Nota: Las mascotas pueden tener reacciones alérgicas durante el uso. Si es alérgico, deje de usarlo inmediatamente.
+- Adecuado para gatos y perros, el tamaño es de 63,5 cm/25” . Adecuado para mascotas grandes, medianas y pequeñas, si es demasiado largo, puede cortarlo.
+- Ayuda a su gato y perro a evitar pulgas, garrapatas, y mosquitos con el aroma de los aceites esenciales naturales de plantas. El collar de pulgas se puede proteger su perros y gatos durante 8 meses.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BBV488GL{{</world>}}

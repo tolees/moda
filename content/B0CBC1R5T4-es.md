@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- 100 % poliéster
 - Insignia de brazo
 - Insignia translúcida
-- 100 % poliéster
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CBC1R5T4{{</world>}}

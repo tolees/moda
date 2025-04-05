@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- tipo de producto: UNDERPANTS
 - Nombre del árticulo: JAST Braga de Algodón con Encaje para Mujer. Pack de 6 Bragas en 6 Colores. Marca Española. Tallas M a 2XL.
 - Marca: JAST
-- tipo de producto: UNDERPANTS
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BH8V25T3{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Camiseta de color kaki con cuello redondo, aperturas en laterales para adecuado comodidad y bolsillo plastrón con detalle de bordado de palmera a contraste
 - cómodo, adecuado para dormir y estar en casa sin perder tu toque de estilo
+- Camiseta de color kaki con cuello redondo, aperturas en laterales para adecuado comodidad y bolsillo plastrón con detalle de bordado de palmera a contraste
 - Pijama 100% algodón de manga corta y shorts corte recto
 
 [🛒 Comprar!!!]({{< param buyurl >}})

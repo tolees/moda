@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Transpirable
 - Los sistemas Geox patentados garantizan la transpirabilidad de la suela y proporcionan bienestar del pie
+- Transpirable
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B295SXDW{{</world>}}

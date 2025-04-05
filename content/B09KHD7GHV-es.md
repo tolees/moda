@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Chaqueta vaquera con botones de cobre
 - Lavado profundo en azul marino
+- Chaqueta vaquera con botones de cobre
 - Corte regular
 - Tejido vaquero elástico
 

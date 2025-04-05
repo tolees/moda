@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con cuello redondo
-- Camiseta de manga larga
 - Con tacto suave y Con combinación de tejido en el bajo
+- Camiseta de manga larga
+- Con cuello redondo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C23J1SZN{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Plantilla OrthoLite X-55
 - Tecnología de amortiguación PureGEL
+- Plantilla OrthoLite X-55
 - Espuma FF BLAST PLUS ECO
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Su color recuerda a una cálida y dorada puesta de sol
-- Tiene un aroma suave y fragante, con notas de madera tostada y jerez
-- Su triple destilación lo convierte en un whiskey especialmente suave
 - Jameson con Ginger Ale y lima: llena un vaso con hielo y sirve el Jameson; completa con Ginger Ale; exprime un cuarto de lima, échala en el vaso y disfruta
 - Delicada fusión de sabores tales como vainilla, madera de roble y miel, complementados por especias, caramelo y nueces
+- Su triple destilación lo convierte en un whiskey especialmente suave
+- Su color recuerda a una cálida y dorada puesta de sol
+- Tiene un aroma suave y fragante, con notas de madera tostada y jerez
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CJMDYSCX{{</world>}}

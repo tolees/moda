@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Added stretch for comfort and flexibility
 - Classic five-pocket Jeans
+- Added stretch for comfort and flexibility
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07YZQSC2X{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Plantilla OrthoLite X-30
 - Suela AHAR para tracción y durabilidad
+- Plantilla OrthoLite X-30
 - La parte superior de malla jacquard ligera proporciona una transpirabilidad ideal
 
 [🛒 Aquí!!!]({{< param buyurl >}})

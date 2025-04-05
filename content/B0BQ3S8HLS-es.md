@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Modelo unisex, medidas: frontal 142 mm, patillas 140 mm, puente 20 mm, diámetro de lente 51.9 mm
+- Lentes categoría 3 y protección UV400 que ofrecen una protección antideslumbrante óptima
+- Nuestro icónico y siempre popular diseño Warwick, con sus lentes redondeadas y su puente en forma de ojo de cerradura, se fabrica ahora en nuestra primera fábrica en España, dando como resultado una montura ligera y resistente
 - Producto Oficial Hawkers, incluye funda en microfibra y caja
 - Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el óptimo Nylon para monturas del mundo que proporciona flexibilidad y resistencia
-- Lentes categoría 3 y protección UV400 que ofrecen una protección antideslumbrante óptima
-- Modelo unisex, medidas: frontal 142 mm, patillas 140 mm, puente 20 mm, diámetro de lente 51.9 mm
-- Nuestro icónico y siempre popular diseño Warwick, con sus lentes redondeadas y su puente en forma de ojo de cerradura, se fabrica ahora en nuestra primera fábrica en España, dando como resultado una montura ligera y resistente
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BQ3S8HLS{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Diseño slim cat-eye con lente degradada de azul a verde. Combina montura metálica de color plata en acabado brillante con terminales carey turquesa. Una silueta clásica reinterpretada a los códigos de la nueva tendencia maxi-minimal de hoy.
 - Montura en acero inoxidable libre de níquel que las hace altamente resistentes a la corrosión y mucho más fuertes. Almohadillas de silicona antideslizantes y anti-alérgicas. Bisagra de 3 barras para un mayor agarre y durabilidad.
+- Lentes categoría 3 y protección uv400 que ofrecen una protección antideslumbrante superior. Lentes de TR18 con el sello de Eastman , uno de los líderes mundiales en tecnología de copoliéster. Respetuoso con el medio ambiente y proporciona un equilibrio único entre claridad y resistencia.
 - Producto Oficial Hawkers. Incluye: Funda en microfibra y caja.
 - Modelo Unisex. Medidas: Frontal 150 mm; Patillas 140 mm ; Puente 17 mm ; Alto 41 mm
-- Diseño slim cat-eye con lente degradada de azul a verde. Combina montura metálica de color plata en acabado brillante con terminales carey turquesa. Una silueta clásica reinterpretada a los códigos de la nueva tendencia maxi-minimal de hoy.
-- Lentes categoría 3 y protección uv400 que ofrecen una protección antideslumbrante superior. Lentes de TR18 con el sello de Eastman , uno de los líderes mundiales en tecnología de copoliéster. Respetuoso con el medio ambiente y proporciona un equilibrio único entre claridad y resistencia.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CC2TCSR3{{</world>}}

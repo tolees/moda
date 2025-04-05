@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gafas de ciclismo X-TIGER, gafas de sol fotocromáticas para hombre y mujer, montura TR90, protección UV400, gafas de sol deportivas fotocromáticas
 - Marca: X TIGER
 - Tipo de producto: GAFAS DE SEGURIDAD
+- Gafas de ciclismo X-TIGER, gafas de sol fotocromáticas para hombre y mujer, montura TR90, protección UV400, gafas de sol deportivas fotocromáticas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C2VJ55FV{{</world>}}

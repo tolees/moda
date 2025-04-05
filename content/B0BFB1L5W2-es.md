@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Cintura con cordón de ajuste
 - Pantalones informales
 - Cintura elástica en la espalda
-- Cintura con cordón de ajuste
 - Composición del material: 65% LenZING ECOVERO viscosa, 30% nailon, 5% elastano
 
 [🛒 Visítala!!!]({{< param buyurl >}})

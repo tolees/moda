@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Estilo de cinco bolsillos
 - Cintura media
-- Herrajes de la marca Calvin Klein e insignia de cuero
+- Estilo de cinco bolsillos
 - Pierna cónica
+- Herrajes de la marca Calvin Klein e insignia de cuero
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BTF6MJY9{{</world>}}

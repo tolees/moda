@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Descubre todas las marcas de EMP! El regalo de Navidad perfecto
-- Medidas: tamaño estándar
-- Básicos, Ropa casual, Ropa de Calle
-- Vaqueros || Merch para fans y divertido || Patrón: Liso
 - Tejanos con las siguientes características:
+- Básicos, Ropa casual, Ropa de Calle
+- Medidas: tamaño estándar
+- Vaqueros || Merch para fans y divertido || Patrón: Liso
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08N1HQ8N4{{</world>}}

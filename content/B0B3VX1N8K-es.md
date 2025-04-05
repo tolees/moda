@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Abmessungen: 22×2×14 cm (LxWxH), Schultergurtlänge 77 cm
-- Innendetails: 6 Kreditkartenfächer, 2 Hauptfächer, 1 Innentasche mit Reißverschluss, Viel Platz für Geldscheine und Karten
 - Zusätzliches Reißverschlussfach an der Rückseite
 - Außendetails: Hergestellt aus hochwertigem Echtleder mit genarbter Oberfläche, Reißverschluss, 1 abnehmbare Handschlaufe und 1 verstellbarer Schultergurt
+- Innendetails: 6 Kreditkartenfächer, 2 Hauptfächer, 1 Innentasche mit Reißverschluss, Viel Platz für Geldscheine und Karten
 - RFID-Schutz, Blockiert das Scannen von Bank- und Kreditkarten
 
 [🛒 Aquí!!!]({{< param buyurl >}})

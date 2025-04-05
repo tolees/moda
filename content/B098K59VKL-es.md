@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Tiene detalles distintivos de la marca
 - Cuenta con un diseño ligero
 - Cuenta con trabillas para cinturón en la cintura
-- Tiene detalles distintivos de la marca
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B098K59VKL{{</world>}}

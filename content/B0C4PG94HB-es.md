@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Calcetines elásticos
 - logotipo de adidas
+- Calcetines elásticos
 - Puños acanalados
 
 [🛒 Comprar!!!]({{< param buyurl >}})

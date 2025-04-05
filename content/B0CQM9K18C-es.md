@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Camiseta manga corta
 - Camiseta
-- Con estampado en descarga en el pecho
+- Camiseta manga corta
 - Regular fit
+- Con estampado en descarga en el pecho
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CQM9K18C{{</world>}}

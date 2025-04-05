@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Grabado Polo Club en los laterales y talones a contraste.
 - Detalle de costra en la lengüeta y el talón.
-- Cierre con cordones.
 - Zapatilla básica en piel.
+- Grabado Polo Club en los laterales y talones a contraste.
+- Cierre con cordones.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BMGRRT8L{{</world>}}

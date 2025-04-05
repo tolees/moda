@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Este producto se ha producido de forma sostenible con materiales sostenibles
 - Este es un producto auténtico y original de Calvin Klein
+- Este producto se ha producido de forma sostenible con materiales sostenibles
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08T6Q9G7G{{</world>}}

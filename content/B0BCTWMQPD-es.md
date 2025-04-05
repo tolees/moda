@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Parche de bandera Tommy Jeans en el pecho
-- Mezcla de algodón orgánico elástico
 - Cuello en V
+- Mezcla de algodón orgánico elástico
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BCTWMQPD{{</world>}}

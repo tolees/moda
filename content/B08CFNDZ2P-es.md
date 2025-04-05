@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Plantilla Ortholite moldeada antimicrobiana
 - Película de PU soldada alrededor del contorno de la bota para aumentar la resistencia a la abrasión
+- Plantilla Ortholite moldeada antimicrobiana
 - Sistema de sujeción del tobillo UA ClutchFit que se adapta al pie y aporta sujeción donde más lo necesitas
 - Puntera de TPU para añadir protección
 - Parte superior de tela rediseñada y piel sintética ligera y duradera

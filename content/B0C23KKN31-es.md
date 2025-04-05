@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con estampado de motivo étnico
 - Camiseta De manga corta Con vuelta
 - Con cuello redondo
+- Con estampado de motivo étnico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C23KKN31{{</world>}}

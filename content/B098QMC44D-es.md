@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Producto origil de Levis
 - Ajuste estándar
 - 100% algodón
-- Producto origil de Levis
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B098QMC44D{{</world>}}

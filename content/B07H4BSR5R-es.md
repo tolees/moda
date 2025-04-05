@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Soft fabric
 - Nike logo on the front
+- Soft fabric
 - Regular fit
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

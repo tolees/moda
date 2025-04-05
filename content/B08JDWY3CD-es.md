@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- SARGA ELÁSTICA: Este tejido de sarga de algodón de verano tiene un toque de elastano para moverse contigo y maximizar tu comodidad.
 - TIRO DEL PANTALÓN: La talla 42 mide 17,8 cm.
+- SARGA ELÁSTICA: Este tejido de sarga de algodón de verano tiene un toque de elastano para moverse contigo y maximizar tu comodidad.
 - PANTALÓN CORTO CON DISEÑO DE 5 BOLSILLOS: Detalle clásico de 5 bolsillos, como el de tus vaqueros favoritos. Producto versátil y cómodo para realizar cualquier actividad en días de calor.
-- DETALLES: Bragueta con cremallera, cierre con botón sin ojal en la cintura, detalles de remaches y bolsillo delantero para monedas.
 - AJUSTE CEÑIDO: Ceñido en la cadera y el muslo, con pierna ajustada. Queda por la cintura.
+- DETALLES: Bragueta con cremallera, cierre con botón sin ojal en la cintura, detalles de remaches y bolsillo delantero para monedas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08JDWY3CD{{</world>}}

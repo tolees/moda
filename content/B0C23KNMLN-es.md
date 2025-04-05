@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con Detalle de cinta en el escote Y deBajo del pecho
-- Con falda Con vuelo Y Con estampado étnico
-- Con escote en uve
 - Con goma en los puños
 - Vestido corto entallado De manga larga Con volumen
+- Con falda Con vuelo Y Con estampado étnico
+- Con Detalle de cinta en el escote Y deBajo del pecho
+- Con escote en uve
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C23KNMLN{{</world>}}

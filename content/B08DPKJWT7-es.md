@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Unisex
 - negro
 - Las Vans Gafas De Sol Spicoli están fabricadas en policarbonato 100% y tienen lentes con filtro de protección UVA/UVB de factor 400.
-- Unisex
 - negro
 - Normales
 

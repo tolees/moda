@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ropa informal
 - Cierre de cordones que garantiza un ajuste seguro
+- Ropa informal
 - Punta redonda
 
 [🛒 Comprar!!!]({{< param buyurl >}})

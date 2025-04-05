@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tipo de tejido: jacquard
 - Ropa de abrigo Napapijri
+- Tipo de tejido: jacquard
 - Materiales resistentes
 - Alta calidad
 

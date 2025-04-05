@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Luces y botón de encendido/apagado
 - Tenis Lighted Gore & Strap con detalles de suela angular
+- Luces y botón de encendido/apagado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BZSQS2CB{{</world>}}

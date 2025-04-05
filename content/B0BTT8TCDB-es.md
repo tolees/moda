@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Construcción: Cosido 360º
-- Cierre elástico
 - Altura del tacón 5 cm
+- Cierre elástico
 - Plantilla extraíble
 - Forro de microfibra 80% piel 20%
 

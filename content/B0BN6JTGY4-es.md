@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material interior: sintético
-- Material superior: sintético
-- Suela: goma
 - Forma del tacón: plano
+- Material interior: sintético
+- Suela: goma
+- Material superior: sintético
 - Cierre: velcro
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- GAFAS DE SOL CALVIN KLEIN JEANS CKJ22641S WHITE PARA UNISEX ADULTO TALLA 54/19/140
+- 100% protección UV
 - Lente sólida que mejora el encanto vintage
 - Parte delantera rectangular modificada atemporal pero moderna en material de resina a base de plantas y patillas de metal finas que albergan el icónico monograma CK
 - Apto para prescripciones
-- 100% protección UV
-- GAFAS DE SOL CALVIN KLEIN JEANS CKJ22641S WHITE PARA UNISEX ADULTO TALLA 54/19/140
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B7ZM42B7{{</world>}}

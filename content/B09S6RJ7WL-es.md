@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cordón de ajuste de bloques de color con extremos individuales transparentes
 - Ojal individual
-- Banda para el cuello individual
 - Capucha forrada
 - Dobladillo y mangas de canalé
+- Cordón de ajuste de bloques de color con extremos individuales transparentes
+- Banda para el cuello individual
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09S6RJ7WL{{</world>}}

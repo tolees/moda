@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Longitud de la manga: manga larga
-- Escote/cuello: cuello redondo
 - Tipo de manga: raglán
+- Escote/cuello: cuello redondo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B095K78TJT{{</world>}}

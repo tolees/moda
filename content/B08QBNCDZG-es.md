@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre: Sin cordones
 - Tipo de tacón: Plano
+- Cierre: Sin cordones
 - Material de la suela: Caucho
 
 [🛒 Aquí!!!]({{< param buyurl >}})

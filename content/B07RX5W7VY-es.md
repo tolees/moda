@@ -30,11 +30,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Loose Fit
 - Cuello de pana con botones a presión bajo el cuello
-- Dos bolsillos frontales en la parte inferior reforzados con canalé, forrados con tejido de punto cepillado
-- Firm Duck
+- Aislamiento de poliéster 80gsm
 - Forro de manta rayado
 - Dos bolsillos en el pecho reforzados con tachuelas; el izquierdo incluye una solapa y un cierre de botón
-- Aislamiento de poliéster 80gsm
+- Dos bolsillos frontales en la parte inferior reforzados con canalé, forrados con tejido de punto cepillado
+- Firm Duck
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07RX5W7VY{{</world>}}

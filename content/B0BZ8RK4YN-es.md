@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- HAWKERS X PIERRE GASLY. Este Modelo Dust Brown de diseño flap top rectangular transparente con acabado pulido, es uno de los cinco diseños escogidos personalmente por Pierre Gasly para su colección Hawkers 2023. Sus lentes de color “Green Forest” degradadas presentan el isotipo de Hawkers dibujado en la esquina. Su montura marrón tiene unos pins frontales plateados en forma de media H aportándole un toque de elegancia.
-- Producto Oficial Hawkers. Incluye: Funda en microfibra, caja y set de pegatinas decorativas.
 - Modelo Unisex. Medidas: Frontal 143 mm; Patillas 145 mm ; Puente 17 mm ; Alto 52 mm.
 - Lentes categoría 3 y protección uv400 que ofrecen una protección antideslumbrante superior. Lentes de TR18 con el sello de Eastman , uno de los líderes mundiales en tecnología de copoliéster. Respetuoso con el medio ambiente y proporciona un equilibrio único entre claridad y resistencia.
+- HAWKERS X PIERRE GASLY. Este Modelo Dust Brown de diseño flap top rectangular transparente con acabado pulido, es uno de los cinco diseños escogidos personalmente por Pierre Gasly para su colección Hawkers 2023. Sus lentes de color “Green Forest” degradadas presentan el isotipo de Hawkers dibujado en la esquina. Su montura marrón tiene unos pins frontales plateados en forma de media H aportándole un toque de elegancia.
 - Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Bisagra de 3 barras para un mayor agarre y durabilidad.
+- Producto Oficial Hawkers. Incluye: Funda en microfibra, caja y set de pegatinas decorativas.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BZ8RK4YN{{</world>}}

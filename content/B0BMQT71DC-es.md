@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Un lienzo en blanco para la expresión propia
-- Este producto es original Levis
-- El corte recto original
-- Un icono del estilo estadounidense
 - Los vaqueros azules originales desde 1873
+- Un icono del estilo estadounidense
+- El corte recto original
+- Este producto es original Levis
+- Un lienzo en blanco para la expresión propia
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BMQT71DC{{</world>}}

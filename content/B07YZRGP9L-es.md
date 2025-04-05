@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuenta con un diseño ligero
 - Dispone de 5 bolsillos
 - Ofrece comodidad y libertad de movimiento
+- Cuenta con un diseño ligero
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07YZRGP9L{{</world>}}

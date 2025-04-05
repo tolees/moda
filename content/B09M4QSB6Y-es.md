@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para mujer
 - Chaqueta
+- Para mujer
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09M4QSB6Y{{</world>}}

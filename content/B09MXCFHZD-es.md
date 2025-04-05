@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Auténtico estilo americano
 - Este producto es original Levis
+- Auténtico estilo americano
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09MXCFHZD{{</world>}}

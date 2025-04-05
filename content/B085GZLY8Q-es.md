@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Los chinos Jack n Jones cuentan con un ajuste delgado con pierna cónica, tiro bajo, rodilla delgada, muslo delgado, abertura de pierna ajustada.
 - Jack Jones - Paquete de 2 chinos Marco Slim Fit para hombre
-- Hecho de material elástico de algodón para mayor comodidad y da un aspecto auténtico
 - El ajuste es estrecho y se inclina a través del muslo sin sentirse demasiado apretado.
+- Hecho de material elástico de algodón para mayor comodidad y da un aspecto auténtico
+- Los chinos Jack n Jones cuentan con un ajuste delgado con pierna cónica, tiro bajo, rodilla delgada, muslo delgado, abertura de pierna ajustada.
 - Disponible en 28 W, 30 W, 32 W, 34 W, 38 W y corto (30 pulgadas), regular (32 pulgadas) y grande (34 pulgadas). Longitud interior de la pierna.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

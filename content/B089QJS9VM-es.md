@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ajustado
-- Cintura alta
 - Vaqueros revesti
+- Cintura alta
+- Ajustado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B089QJS9VM{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cintura elástica ajustable con cordón interior
 - Omini Kappa impreso en cada lateral y letra Kappa impresa en la pierna izquierda
 - Pantalón corto de equipación
 - Material tratado para absorber la humedad
+- Cintura elástica ajustable con cordón interior
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B079SWTP12{{</world>}}

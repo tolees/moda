@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Composición del material: 70% algodón, 30% poliéster
+- Manga: manga larga
 - Tipo de producto: sudadera con capucha
 - Escote: capucha
-- Manga: manga larga
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C36R2SPL{{</world>}}

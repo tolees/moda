@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Resistencia al agua: no impermeable
-- Forma del tacón: plano
-- Ancho del zapato: medio
 - Material interior: sintético
 - Material exterior: sintético
+- Ancho del zapato: medio
+- Forma del tacón: plano
+- Resistencia al agua: no impermeable
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BN4JTCB7{{</world>}}

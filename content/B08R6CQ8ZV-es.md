@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Fabricada de forma sostenible
+- Cuello redondo
 - 3 rayas a lo largo de las mangas
 - Tela transpirable
-- Cuello redondo
-- Fabricada de forma sostenible
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08R6CQ8ZV{{</world>}}

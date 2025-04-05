@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseñado con un corte bajo y un silueta sugerente que favorece tus curvas
 - Este producto talla grande, considera elegir una talla inferior a la usual
+- Diseñado con un corte bajo y un silueta sugerente que favorece tus curvas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B079TRYDZ8{{</world>}}

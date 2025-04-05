@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Revestimiento: Tela
 - Cierre: Cremallera
+- Revestimiento: Tela
 - Material exterior: Sintético
 
 [🛒 Comprar!!!]({{< param buyurl >}})

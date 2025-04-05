@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 【Fabric Tejido de alta calidad】 Hecho de 90% Nylon, 10% Spandex, proporciona un tacto suave y acogedor de la piel, el material elástico y transpirable protege su busto de dolores y herméticos en los ejercicios.
-- 【Bra Sujetador deportivo de buen impacto】 Las correas dobles y el dobladillo ancho reducirán la presión al recoger el busto, lo protegerán del daño en los ejercicios.
+- 【Cuidado】 Lea atentamente cada elemento de la guía de tallas antes de elegir el tamaño. Lavable a máquina, ciclo suave, colores oscuros por separado, sin blanqueador, colgar para secar o bajo calor en la secadora, plancha fría.
 - 【Diseño elegante】 Sujetador acolchado, correas de espagueti elásticas dobles cruzadas en la espalda, ensanchar el dobladillo brindan un fuerte soporte para su busto y tienen más capacidad de impacto cuando está en ejercicios.
 - 【Ocasión de uso】 Perfecto para cualquier ejercicio y condición física, correr, yoga, gimnasio, caminar, trotar, tennies, bolos, pilates o uso diario.
-- 【Cuidado】 Lea atentamente cada elemento de la guía de tallas antes de elegir el tamaño. Lavable a máquina, ciclo suave, colores oscuros por separado, sin blanqueador, colgar para secar o bajo calor en la secadora, plancha fría.
+- 【Fabric Tejido de alta calidad】 Hecho de 90% Nylon, 10% Spandex, proporciona un tacto suave y acogedor de la piel, el material elástico y transpirable protege su busto de dolores y herméticos en los ejercicios.
+- 【Bra Sujetador deportivo de buen impacto】 Las correas dobles y el dobladillo ancho reducirán la presión al recoger el busto, lo protegerán del daño en los ejercicios.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09HZVYYC9{{</world>}}

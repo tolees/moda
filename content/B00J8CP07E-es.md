@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Los básicos por naturaleza
-- Algodón peinado
 - Rematado con la icónica marca Tommy Hilfiger
 - Un aspecto fino y elegante
+- Los básicos por naturaleza
+- Algodón peinado
 - Costura de los dedos cerrada a mano para evitar la irritación
 
 [🛒 Visítala!!!]({{< param buyurl >}})

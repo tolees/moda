@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Camiseta G/C M/L
 - 60% algodón, 40% poliéster
+- Camiseta G/C M/L
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BMVV7RLG{{</world>}}

@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Estampado prensado en plastisol en la parte delantera y trasera
-- Es de la marca The North Face
 - Camiseta clásica de manga corta con cuello redondo
+- Es de la marca The North Face
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01MS2CZVC{{</world>}}

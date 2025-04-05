@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cualquier dudas o necesitades, por favor contacte con nosotros por e-mail.
+- Este vestido es perfecto como ropa casual, vestido de cóctel, vestido de fiesta o baile de graduación.
 - Un bonito modelo de inspiración años 50, con escote en pico y la longitud hasta la rodilla.
 - Hay una tabla de medidas en los cuadros del artículo. Por favor, seleccione el tamaño según nuestra carta del tamaño.
-- Este vestido es perfecto como ropa casual, vestido de cóctel, vestido de fiesta o baile de graduación.
 - De estilo 1950, Retro, Vintage, Elegante
+- Cualquier dudas o necesitades, por favor contacte con nosotros por e-mail.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B081CNWKFS{{</world>}}

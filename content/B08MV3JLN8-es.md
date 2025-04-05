@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Set
 - Calzoncillos tipo bóxer
+- Set
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08MV3JLN8{{</world>}}

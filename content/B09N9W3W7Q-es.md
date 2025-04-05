@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuello alto: protección contra el viento y el frío
-- Regular fit; corte ligeramente entallado: para una comodidad natural
 - Bolsillos con cremallera: guarde sus artículos de valor a buen recaudo
 - Cocodrilo bordado cosido en el pecho: el estilo característico de Lacoste
+- Regular fit; corte ligeramente entallado: para una comodidad natural
+- Cuello alto: protección contra el viento y el frío
 - Felpa de algodón ecológico cepillado: un tejido respetuoso con el medioambiente
 
 [🛒 Visítala!!!]({{< param buyurl >}})

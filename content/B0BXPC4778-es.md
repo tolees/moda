@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tenga en cuenta que el chaleco no incluye el sujetador
-- ¡Un accesorio indispensable en su rutina diaria! Combina perfectamente con todas las camisas, blusas, chaquetas, cárdigans, abrigos, faldas y vaqueros.
-- Tejido suave y cómodo.
-- Camiseta de mujer sin mangas con escote halter, top holgado cómodo.
 - * Por favor, consulte cuidadosamente la tabla de tallas que ofrecemos en la descripción del producto. Gracias.
+- Tenga en cuenta que el chaleco no incluye el sujetador
+- Camiseta de mujer sin mangas con escote halter, top holgado cómodo.
+- Tejido suave y cómodo.
+- ¡Un accesorio indispensable en su rutina diaria! Combina perfectamente con todas las camisas, blusas, chaquetas, cárdigans, abrigos, faldas y vaqueros.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BXPC4778{{</world>}}

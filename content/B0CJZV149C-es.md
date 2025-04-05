@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Interior con 3 ranuras para tarjetas y 1 bolsillo con cremallera
 - Herrajes de oro antiguo
+- Interior con 3 ranuras para tarjetas y 1 bolsillo con cremallera
 - Large: 27 cm W: 8 cm H: 16 cm
 
 [🛒 Comprar!!!]({{< param buyurl >}})

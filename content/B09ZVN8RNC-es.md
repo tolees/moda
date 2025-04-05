@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre: Velcro
 - Material de la suela: Caucho
+- Cierre: Velcro
 - Material exterior: Cuero
 
 [🛒 Aquí!!!]({{< param buyurl >}})

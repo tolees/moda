@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillos frontales de ojal
 - Tejido transpirable AEROREADY
 - Cierre de cremallera y cuello alzado
+- Bolsillos frontales de ojal
 - Punto doble 100% poliéster reciclado
 - Corte entallado
 

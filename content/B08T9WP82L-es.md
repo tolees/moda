@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Algodón orgánico
 - DENIM STRETCH
+- Algodón orgánico
 - RELAXED
 
 [🛒 Visítala!!!]({{< param buyurl >}})

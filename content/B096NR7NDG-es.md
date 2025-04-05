@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ancho del zapato: medio
 - Material exterior: piel
-- Material interior: sintético
 - Cierre: goma
+- Material interior: sintético
+- Ancho del zapato: medio
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B096NR7NDG{{</world>}}

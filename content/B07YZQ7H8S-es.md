@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Skinny fit Jeans
 - Elastic cotton
+- Skinny fit Jeans
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07YZQ7H8S{{</world>}}

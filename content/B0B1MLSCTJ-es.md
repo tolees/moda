@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hecha para poder disfrutar de una visión y una comodidad sin parangón temporada tras temporada, esta máscara está hecha con materiales duraderos y flexibles que resisten el paso del tiempo.
 - Colores: Black;
+- Hecha para poder disfrutar de una visión y una comodidad sin parangón temporada tras temporada, esta máscara está hecha con materiales duraderos y flexibles que resisten el paso del tiempo.
 - La lente antidestellos de esta máscara reduce el brillo y el deslumbramiento para que puedas disfrutar de la mejor visión y comodidad siempre que te lances por las pendientes.
 - Con un grosor revisado de la espuma del forro en el puente de la nariz y silicona en el interior del elástico, esta máscara está diseñada para adaptarse fácilmente a la fisionomía de los rostros asiáticos.
 - La visión y ajuste excepcionales que necesitas, al precio razonable que deseas.

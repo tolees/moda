@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Tienen un parche de piel en la parte trasera con la marca Lee
 - Vaqueros para mujer
 - Presentan 5 bolsillos
-- Tienen un parche de piel en la parte trasera con la marca Lee
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07WDC84TK{{</world>}}

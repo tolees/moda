@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- AJUSTE NORMAL: Ajuste ceñido pero cómodo en pecho, cintura y cadera.
+- REBECA: Una prenda moderna y clásica, perfecta tanto para un aspecto elegante como para uno informal.
 - HILO DE SUÉTER LIGERO DE MEZCLA DE ALGODÓN: hilo de suéter suave y ligero con un hermoso drapeado.
 - DETALLES: Presenta cuello redondo y cierre delantero con botones para un estilo versátil. Detalle de canalé en puños y bajo.
-- REBECA: Una prenda moderna y clásica, perfecta tanto para un aspecto elegante como para uno informal.
-- AJUSTE NORMAL: Ajuste ceñido pero cómodo en pecho, cintura y cadera.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07BJ8B3F3{{</world>}}

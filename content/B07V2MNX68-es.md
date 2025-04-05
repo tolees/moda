@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Los leggins han sido elaborados en viscosa, muy transpirable y agradable al tacto; Cuentan también con elastano, por lo que se ajustan muy bien al cuerpo
-- Hecho en la UE
-- Ideales para cada época del año: para salir fuera de casa, para practicar actividades deportivas; Para llevar a diario y para estar por casa
 - Leggins largos de niña; Amplia selección de colores y tallas; Muy cómodos
+- Ideales para cada época del año: para salir fuera de casa, para practicar actividades deportivas; Para llevar a diario y para estar por casa
+- Hecho en la UE
 - Con una goma amplia y cómoda cosida en la cintura; Suaves y elásticos, no irritan la sensible piel de los niños
 
 [🛒 Aquí!!!]({{< param buyurl >}})

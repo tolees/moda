@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - ESTILO PARA EL FRÍO: Protégete del frío con este versátil y ligero chaleco impermeable tipo plumón con cremallera frontal en el centro y cuello alto.
-- AJUSTE NORMAL: Ajuste cómodo en hombros, pecho y cintura.
 - DETALLES: Cuello alto, dos bolsillos para las manos con cremallera, y sisas y abertura inferior elásticas. El chaleco se guarda cómodamente en una bolsa de transporte con cierre de cordón que se incluye.
+- AJUSTE NORMAL: Ajuste cómodo en hombros, pecho y cintura.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07BN43CMG{{</world>}}

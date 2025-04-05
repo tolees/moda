@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Selene Mariluz, Sujetador con Aros Para Mujer, Tierra, 95C
-- Tipo de producto: BRA
 - Tamaño: 95C
 - Marca: Selene
+- Tipo de producto: BRA
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00ADKVMT0{{</world>}}

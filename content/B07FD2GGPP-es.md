@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Para mujer
 - Jersey delgado con cuello redondo
+- Para mujer
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07FD2GGPP{{</world>}}

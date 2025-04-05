@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Altura de cintura normal
-- Composición: 60% poliéster reciclado, 35% poliéster, 5% elastano
 - Pantalón con forma de pierna acampanada
+- Composición: 60% poliéster reciclado, 35% poliéster, 5% elastano
 - Material suave y elástico
+- Altura de cintura normal
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0964QNMTG{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello redondo
 - Manga corta
+- Caras impresas pintadas a mano, diseñadas por Javier Mariscal
+- Cuello redondo
 - Desigual
 - Corte regular
-- Caras impresas pintadas a mano, diseñadas por Javier Mariscal
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BTPNXHM9{{</world>}}

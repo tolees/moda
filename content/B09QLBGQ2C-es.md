@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Corte Slim
 - Hecho con al menos un 70% de algodón sostenible
 - Nos asociamos con Better Cotton Initiative para el cultivo algodonero
+- Corte Slim
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09QLBGQ2C{{</world>}}

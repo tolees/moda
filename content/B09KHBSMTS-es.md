@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Detalle de bolsillo delantero
 - Color liso
 - Corte regular
 - Cuello informal con botones ocultos
+- Detalle de bolsillo delantero
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09KHBSMTS{{</world>}}

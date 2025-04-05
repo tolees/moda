@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Solapa con cierre de clic y monedero de cremallera.
 - Seis ranuras para las tarjetas, un compartimento transparente para carnet y un espacio independiente para guardar los billetes.
-- Cartera de 10 cm x 8 cm x 3 cm fabricada en piel sintética.
 - Sistema especial de protección para las tarjetas RFID que bloquea las señales de dispositivos de escaneo no autorizados por radiofrecuencia.
+- Cartera de 10 cm x 8 cm x 3 cm fabricada en piel sintética.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BSSC3RNM{{</world>}}

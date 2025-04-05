@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- CÓMODA Y PRÁCTICA: Sabemos lo importante que es sentirse cómodo y seguro durante el tiempo al aire libre, por ello, nuestra ropa está preparada para ofrecerte todo el confort, libertad de movimiento y seguridad que necesitas durante tu práctica deportiva y tus paseos por la ciudad.
-- CHAQUETA DE FIBRA SINDU: Con tejido resistente y ligero, está elaborada al 100% en poliamida para favorecer tu comodidad en todo momento. Cuenta con capucha, varios bolsillos ventrales y un bolsillo interior con cremallera. Se puede plegar dentro del bolsillo pequeño. Ideal para los días más fríos del invierno.
-- CHAQUETAS DEPORTIVAS: Desde el gimnasio hasta tu casa y pasando por la naturaleza, nuestras chaquetas deportivas están diseñadas y creadas pensando en ti y en tus necesidades. Descubre en nuestro catálogo las que mejor se adaptan a ti y a tus actividades favoritas.
-- ¿QUIÉNES SOMOS?: En Izas nos encantan el deporte y las actividades al aire libre y en la montaña, por eso diseñamos y fabricamos ropa deportiva que se ajusta a las necesidades de los deportistas más exigentes. Utilizamos los mejores materiales para ofrecer la mayor comodidad posible durante la práctica deportiva. ¡Sal, disfruta y haz deporte, del resto nos encargamos nosotros!
 - TECNOLOGÍA MOUNT-LOFT: Esta chaqueta de fibra cuenta con la tecnología Mount-Loft, lo que le aporta un aislamiento térmico que proporciona calidez y confort gracias a su ligereza. Además, es resistente al agua, por lo que estarás protegido de las condiciones meteorológicas más difíciles del invierno.
+- CÓMODA Y PRÁCTICA: Sabemos lo importante que es sentirse cómodo y seguro durante el tiempo al aire libre, por ello, nuestra ropa está preparada para ofrecerte todo el confort, libertad de movimiento y seguridad que necesitas durante tu práctica deportiva y tus paseos por la ciudad.
+- CHAQUETAS DEPORTIVAS: Desde el gimnasio hasta tu casa y pasando por la naturaleza, nuestras chaquetas deportivas están diseñadas y creadas pensando en ti y en tus necesidades. Descubre en nuestro catálogo las que mejor se adaptan a ti y a tus actividades favoritas.
+- CHAQUETA DE FIBRA SINDU: Con tejido resistente y ligero, está elaborada al 100% en poliamida para favorecer tu comodidad en todo momento. Cuenta con capucha, varios bolsillos ventrales y un bolsillo interior con cremallera. Se puede plegar dentro del bolsillo pequeño. Ideal para los días más fríos del invierno.
+- ¿QUIÉNES SOMOS?: En Izas nos encantan el deporte y las actividades al aire libre y en la montaña, por eso diseñamos y fabricamos ropa deportiva que se ajusta a las necesidades de los deportistas más exigentes. Utilizamos los mejores materiales para ofrecer la mayor comodidad posible durante la práctica deportiva. ¡Sal, disfruta y haz deporte, del resto nos encargamos nosotros!
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08P3JHJ28{{</world>}}

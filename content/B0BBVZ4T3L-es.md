@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ideal para regalo, vestir a diario o hacer deporte
 - Disponible en 5 colores
+- Ideal para regalo, vestir a diario o hacer deporte
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BBVZ4T3L{{</world>}}

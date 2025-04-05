@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Loneta Baja
 - Zapatillas
 - Cierre: Sin cordones
-- Loneta Baja
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07MQNMJ4Q{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camiseta
 - Manga corta
+- Camiseta
 - Ajuste estándar
 - Composición del material: 100% algodón
 

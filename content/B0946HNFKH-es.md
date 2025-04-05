@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Composición del material: 89% algodón, 8% poliéster, 3% elastano
+- Vaqueros ajustados
 - Estilo de cinco bolsillos
 - Tiro medio
-- Vaqueros ajustados
-- Composición del material: 89% algodón, 8% poliéster, 3% elastano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0946HNFKH{{</world>}}

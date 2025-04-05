@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Tube scarf
 - Ideal T-shirt for everyday wear
 - Pigment print for a soft print on light clothing
-- Tube scarf
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BHXF3QSS{{</world>}}

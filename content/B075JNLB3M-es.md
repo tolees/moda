@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pile mediamente pesante, comodissimo, caldo e morbido con retro spazzolato
 - Una marca de Amazon
+- Pile mediamente pesante, comodissimo, caldo e morbido con retro spazzolato
 - Holgado en el pecho y entallado en la cintura
 
 [🛒 Aquí!!!]({{< param buyurl >}})

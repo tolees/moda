@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cocodrilo verde bordado
-- 1 bolsillo interno de malla con cremallera y gancho
-- Exterior de PVC
-- Tirador de cremallera con logo Lacoste
 - Dimensiones 35 x 3 x 14 cm
+- 1 bolsillo interno de malla con cremallera y gancho
+- Cocodrilo verde bordado
+- Tirador de cremallera con logo Lacoste
+- Exterior de PVC
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01M7R98IY{{</world>}}

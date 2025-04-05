@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Logotipo atrevido
-- Ropa interior para mujer
 - CAMISETA INDIVIDUAL
+- Ropa interior para mujer
 - Cómoda cobertura media con logotipo audaz aspecto juvenil, algodón modal contemporáneo elastano
+- Logotipo atrevido
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B6BL7F4S{{</world>}}

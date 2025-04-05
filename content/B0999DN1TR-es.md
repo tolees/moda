@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Largo maxi
-- Boho
-- Vestido boho tropical
-- Estampado tropical de loros y flores en turquesa
 - Falda tipo pareo abierta por delante
+- Vestido boho tropical
+- Boho
+- Largo maxi
+- Estampado tropical de loros y flores en turquesa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0999DN1TR{{</world>}}

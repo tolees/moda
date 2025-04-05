@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Hackett - Sudadera de algodón para hombre
 - Sudadera azul Hackett para hombre
+- Hackett - Sudadera de algodón para hombre
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BS71Y4Q3{{</world>}}

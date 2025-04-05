@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Longitud del collar: 61 cm
 - Collar de cadena para hombres de Calvin Klein
-- Decorada con logo Calvin Klein grabado en la placa
 - Material: Acero inoxidable cepillado con chapado iónico oro amarillo
+- Longitud del collar: 61 cm
+- Decorada con logo Calvin Klein grabado en la placa
 - Cierre: mosquetón
 
 [🛒 Visítala!!!]({{< param buyurl >}})

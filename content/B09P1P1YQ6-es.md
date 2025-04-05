@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tela suave
 - Ajuste regular
+- Tela suave
 - Amplia libertad de movimiento
 - Logotipo de adidas
 

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- FLIP FLOPS FOR WOMEN AND MEN: The flip flops for men and women are extremely easy to clean and quick to dry; water-friendly, heat-resistant and buoyant, they make a great option for summer
 - WHAT SIZE SHOULD I BUY: Crocs come in whole sizes only, If you typically wear a half size, we recommend you order a size up
 - PLATFORM FLIP FLOP FOR WOMEN: Reach new heights with these platform Crocs flip flops for women Just like our Classic Platfrom Clogs, these flip flops feature a 16-inch/40 mm platform sole all the way around
 - LIGHTWEIGHT AND FUN: Incredibly light and easy to wear, the Crocs womens flip flops are created with Croslite foam, featuring Iconic Crocs Comfort that offers all-day comfort and support
+- FLIP FLOPS FOR WOMEN AND MEN: The flip flops for men and women are extremely easy to clean and quick to dry; water-friendly, heat-resistant and buoyant, they make a great option for summer
 - SIZING: Crocs use US sizing worldwide on all footwear, with the US size displayed on the sole, for UK sizes and further info, take a look at the size chart, UK and EU sizes are also located in the tag
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

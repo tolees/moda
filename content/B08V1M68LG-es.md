@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Material duro fabricada con materiales de primera calidad que se adaptan a cualquier actividad deportiva
-- GAFAS SOL HOT65 PARA UNISEX ADULTO NO POLARIZADO TALLA 63/11/135
 - Material duro Multicolor de la marca Carrera
+- GAFAS SOL HOT65 PARA UNISEX ADULTO NO POLARIZADO TALLA 63/11/135
 - Gafas de sol HOT65 BLACK
 - Los productos deportivos de la marca Carrera están diseñados para que disfrutes de tu deporte favorito sin preocuparte de nada más que rendir al máximo
 

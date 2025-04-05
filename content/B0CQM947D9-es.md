@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Regular fit Con Aspecto lavado
-- Camiseta
 - Camiseta De manga corta cuello redondo
+- Camiseta
 - Y estampado logo a contraste en el pecho
 
 [🛒 Comprar!!!]({{< param buyurl >}})

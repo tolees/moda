@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tejido fino y ligero
-- 68% algodón / 29% poliéster reciclado / 2% elastán / 1% nailon reciclado
-- Largo hasta el tobillo
 - Tres pares por paquete
 - Puños de canalé
+- 68% algodón / 29% poliéster reciclado / 2% elastán / 1% nailon reciclado
+- Tejido fino y ligero
+- Largo hasta el tobillo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BPSTK5XZ{{</world>}}

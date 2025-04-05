@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Estampado prensado en plastisol en la parte delantera y trasera
 - Ofrece comodidad y libertad de movimiento
 - Camiseta clásica de manga corta con cuello redondo
+- Estampado prensado en plastisol en la parte delantera y trasera
 - Tiene detalles distintivos de la marca The North Face
 
 [🛒 Aquí!!!]({{< param buyurl >}})

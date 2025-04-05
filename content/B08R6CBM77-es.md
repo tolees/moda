@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Cuello vuelto
 - Camisa de manga corta para hombre con estampado floral
-- Visita la tienda urban classics: un clic en el enlace te llevará a la tienda urban classics brand store y aún más elegante ropa de calle para hombre y mujer
 - De viscosa, corte estándar
+- Visita la tienda urban classics: un clic en el enlace te llevará a la tienda urban classics brand store y aún más elegante ropa de calle para hombre y mujer
 - Tira de botones
 
 [🛒 Visítala!!!]({{< param buyurl >}})

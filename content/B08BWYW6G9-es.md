@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuenta con un diseño ligero
-- Ajustable a tu ropa preferida
 - Tiene detalles distintivos de la marca
+- Ajustable a tu ropa preferida
+- Cuenta con un diseño ligero
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08BWYW6G9{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Suela exterior ultraligera de alto volumen y logotipo clásico en el lateral
 - Tenis básicos Eaton con suela fabricada en piel completa con detalle de logotipo inyectado en la lengüeta bicolor del talón
+- Suela exterior ultraligera de alto volumen y logotipo clásico en el lateral
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BS41YGW7{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- __suela exterior:__suela exterior de goma con estampado ROXY vintage
 - __Empeine:__ Parte superior de TPU con brillo inyectado y pin con logo ROXY
+- __suela exterior:__suela exterior de goma con estampado ROXY vintage
 - __Plantilla:__ Plantilla de goma con textura y estampado gráfico brillante
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Forma del talón: plano
 - Cierre: goma
 - Talla del zapato: Medium
+- Forma del talón: plano
 - Material interior: sintético
 - Material exterior: sintético
 

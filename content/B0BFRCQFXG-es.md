@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - BÁSICOS PARA EL DÍA A DÍA: Camisetas térmicas de manga larga para el día a día. La prenda interior perfecta para el armario de los más pequeños. Producto disponible en varios diseños estampados y lisos combinables.
-- AJUSTE CEÑIDO: Ajustado por todo el cuerpo
 - DETALLES: Escote redondo con etiqueta estampada, puños de canalé en las mangas y bajo trasero tipo faldón. Uno de los productos del paquete presenta cuello henley con tapeta de botones en la parte delantera.
+- AJUSTE CEÑIDO: Ajustado por todo el cuerpo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BFRCQFXG{{</world>}}

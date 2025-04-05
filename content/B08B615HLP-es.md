@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Composición del material: Material exterior: 85 % poliéster, 15 % algodón. Forro: 100 % poliéster.
+- Abrigo con capucha drapeada.
 - 2 bolsillos delanteros ribeteados.
 - Cierre frontal oculto.
-- Abrigo con capucha drapeada.
+- Composición del material: Material exterior: 85 % poliéster, 15 % algodón. Forro: 100 % poliéster.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08B615HLP{{</world>}}

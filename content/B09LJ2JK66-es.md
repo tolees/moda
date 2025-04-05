@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Sudadera con
 - Tipo de cierre: revers
 - 70 % algodón, 30 % poliéster
-- Sudadera con
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09LJ2JK66{{</world>}}

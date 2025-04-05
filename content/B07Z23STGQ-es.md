@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Logotipo de Vans en la patilla
-- Estampado integral con el motivo Checkerboard
 - Talla única
-- Gafas de sol de policarbonato 100%
+- Estampado integral con el motivo Checkerboard
+- Logotipo de Vans en la patilla
 - Protección UVA/UVB 400
+- Gafas de sol de policarbonato 100%
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07Z23STGQ{{</world>}}

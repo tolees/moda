@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- With spandex for a great fit
 - A loose carrot fit with plenty of leg room and a slightly narrower leg opening
 - Side cargo pockets & cuffs with drawstring
-- With spandex for a great fit
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09P349SKQ{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Zapatos de baloncesto
-- Estilo retro
 - Suela de goma resistente
+- Estilo retro
+- Zapatos de baloncesto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09NRZ6SVL{{</world>}}

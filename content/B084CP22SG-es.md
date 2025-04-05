@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Producto original Hawkers. La caja incluye funda, caja y set de pegatinas decorativas.
 - Montura en acero inoxidable libre de níquel que las hace altamente resistentes a la corrosión y mucho más fuertes. Aro circular cat eye que rodea la lente en TR90 con perfil metálico y puente en acero que acentúa e ilumina la montura. Almohadillas de silicona antideslizantes y anti-alérgicas, fijadas con un distintivo exclusivo de Hawkers en acero inoxidable. Acabado con diseño de líneas geométricas
+- Producto original Hawkers. La caja incluye funda, caja y set de pegatinas decorativas.
 - Modelo de mujer. Frontal 13,7 cm; Alto 5,38 cm; Diametro lente 5 cm; Puente 2,2 cm; Patillas 14 cm
 - Lentes de TR18 con el sello de Eastman, uno de los líderes mundiales en tecnología de copoliéster. Respetuoso con el medio ambiente y proporciona un equilibrio único entre claridad y resistencia. Lentes categoría 3 y protección uv400
 - Una reinterpretación de las gafas de sol pantos con toques sutiles cat eye. Combina estructura metálica rose gold pulido, terminales negros y lentes degradadas negras enmarcadas por una combinación de TR90 negro y champagne rosé transparente.

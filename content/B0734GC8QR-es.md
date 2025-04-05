@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cremalleras de contraste.
 - Capucha ajustable con cremallera.
+- Cremalleras de contraste.
 - Puños planos con ajustes de pestaña con un protector adicional en la barbilla para proteger tu cuerpo de las molestas corrientes.
 - Chaqueta impermeable y transpirable.
 

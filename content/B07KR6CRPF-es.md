@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Composición del material: 60% algodón, 28% poliéster, 10% algodón orgánico, 2% elastano
-- Costuras clásicas de tabaco
-- Jeans ajustados con piernas cónicas y tiro bajo
 - Cuenta con detalles clásicos de estilo de cinco bolsillos
+- Costuras clásicas de tabaco
+- Composición del material: 60% algodón, 28% poliéster, 10% algodón orgánico, 2% elastano
+- Jeans ajustados con piernas cónicas y tiro bajo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07KR6CRPF{{</world>}}

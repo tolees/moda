@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Forma del tacón: plano
 - Nivel de resistencia al agua: no resistente al agua
 - Ancho del zapato: medio
-- Forma del tacón: plano
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BN4MJWN3{{</world>}}

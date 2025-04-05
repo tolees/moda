@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Turf
-- Específicos Césped Artificial
 - LATech
+- Específicos Césped Artificial
 - Gama Media Turf
 
 [🛒 Comprar!!!]({{< param buyurl >}})

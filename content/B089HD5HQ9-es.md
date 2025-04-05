@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tiene cremallera central
 - Ofrece comodidad y libertad de movimiento
-- Tejido transpirable
 - Fabricada en poliéster interlock
+- Tiene cremallera central
+- Tejido transpirable
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B089HD5HQ9{{</world>}}

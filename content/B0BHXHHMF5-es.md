@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- High-quality T-shirt for everyday wear
 - Crew neck. Short sleeve sleeves
 - Normal cut
-- Pigment print for a soft print on light clothing
+- High-quality T-shirt for everyday wear
 - Tube scarf
+- Pigment print for a soft print on light clothing
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BHXHHMF5{{</world>}}

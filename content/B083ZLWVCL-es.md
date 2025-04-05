@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Ofrece comodidad y libertad de movimiento
 - Tiene detalles distintivos de la marca
 - Camiseta de manga corta
-- Ofrece comodidad y libertad de movimiento
 - Logotipo PUMA Cat en la parte derecha del pecho
 
 [🛒 Aquí!!!]({{< param buyurl >}})

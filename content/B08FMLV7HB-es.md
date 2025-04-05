@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Composición: 95% algodón, 5% elastano
-- Pack de 3 calzoncillos tipo bóxer con estampado de calaver
 - Cintura de tejido elástico duradero
 - Forma anatómicamente correcta en H para mayor comodidad
+- Pack de 3 calzoncillos tipo bóxer con estampado de calaver
+- Composición: 95% algodón, 5% elastano
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08FMLV7HB{{</world>}}

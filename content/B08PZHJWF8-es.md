@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuello redondo acanalado con refuerzo de malla
 - Interlock
 - Acabados acanalados en los puños y en el bajo de la prenda
-- Panel de malla en los hombros
 - Sudadera de hombre Lacoste SPORT con paneles de malla
+- Panel de malla en los hombros
+- Cuello redondo acanalado con refuerzo de malla
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08PZHJWF8{{</world>}}

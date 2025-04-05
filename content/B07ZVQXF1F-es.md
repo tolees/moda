@@ -28,14 +28,14 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Lean look with added comfort
-- Added stretch for all-day comfort
-- Crafted from vintage-inspired corduroy
 - Tapered with zip fly and non five Pocket
+- Lean look with added comfort
+- Crafted from vintage-inspired corduroy
+- Added stretch for all-day comfort
+- A modern slim with room to move
 - Lean look with added comfort
 - Cut close to the body, the 511 slim is a alternative to the skinny jeans
 - We partner with the Better Cotton Initiative to improve cotton farming globally
-- A modern slim with room to move
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07ZVQXF1F{{</world>}}

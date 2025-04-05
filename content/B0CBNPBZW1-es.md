@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con un cuerpo articulado hecho para moverse, ¡Barbie está lista para peinarse, posar, fotografiarse y publicar fotos!
 - La cara de la muñeca Barbie está enmarcada por una hermosa cabellera roja. Los ojos maquillados al estilo "smokey eye" y los labios pintados en tonos neutros realzan su ya de por sí elegante mirada.
-- Las muñecas y muñecos Barbie Looks derrochan estilo de la cabeza a los pies, lo que los convierte en el regalo perfecto para aficionados a la moda, estilistas y coleccionistas.
+- Con un cuerpo articulado hecho para moverse, ¡Barbie está lista para peinarse, posar, fotografiarse y publicar fotos!
 - La muñeca n.º 20 de la serie luce un top de punto color lavanda con una falda midi de piel sintética brillante. Las botas altas hasta la rodilla añaden un toque característico de los años 90.
 - Esta última colección de muñecas y muñecos Barbie Looks, una mezcla de estilo de los años 2000 y de las pasarelas modernas, viene impregnada de colores pastel de ensueño acentuados por acabados metálicos que le dan un toque glamuroso.
+- Las muñecas y muñecos Barbie Looks derrochan estilo de la cabeza a los pies, lo que los convierte en el regalo perfecto para aficionados a la moda, estilistas y coleccionistas.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CBNPBZW1{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- MATERIAL: 100% algodón, tejido de algodón suave, liso, natural y liviano, cómodo de usar.
+- Lavar a máquina o a mano, secar en secadora a baja temperatura.
+- TAMAÑO: Grupo de edad para niñas de 2 a 8 años. Nuestros vestidos para niñas están diseñados para dejar espacio para el crecimiento. Para obtener más detalles sobre las tallas, lea la tabla de tallas en las imágenes de la izquierda antes de comprar.
 - Con adorables aplicaciones de dibujos animados para niños pequeños, este vestido de punto se convertirá en un favorito instantáneo.
 - DISEÑO: cuello redondo, por encima de la rodilla, estilo único y lindo con volantes. Costuras duraderas adecuadas para niñas activas.
-- MATERIAL: 100% algodón, tejido de algodón suave, liso, natural y liviano, cómodo de usar.
-- TAMAÑO: Grupo de edad para niñas de 2 a 8 años. Nuestros vestidos para niñas están diseñados para dejar espacio para el crecimiento. Para obtener más detalles sobre las tallas, lea la tabla de tallas en las imágenes de la izquierda antes de comprar.
-- Lavar a máquina o a mano, secar en secadora a baja temperatura.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CSCLLBKR{{</world>}}

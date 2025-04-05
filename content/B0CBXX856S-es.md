@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camiseta
-- Ajuste estándar
-- Composición: 100% algodón
 - manga corta
+- Camiseta
+- Composición: 100% algodón
+- Ajuste estándar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CBXX856S{{</world>}}

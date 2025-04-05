@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aislamiento: 50% plumón (reciclado) 600 cuin, 50% poliéster (reciclado)
-- Impermeabilización DWR duradera y libre de PFC
-- Resistente al
 - Material: 50D x 50D, 78 g/m², 100% poliéster (reciclado)
+- Aislamiento: 50% plumón (reciclado) 600 cuin, 50% poliéster (reciclado)
+- Resistente al
+- Impermeabilización DWR duradera y libre de PFC
 - Aislamiento adicional de cámara superior, antebrazo, panel lateral y barra de viento: 220 g/m², 100 %
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

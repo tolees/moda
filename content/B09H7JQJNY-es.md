@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuello de pico
-- Interlock 100% poliéster reciclado
 - Corte entallado
 - Tecnología transpirable AEROREADY
+- Cuello de pico
+- Interlock 100% poliéster reciclado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09H7JQJNY{{</world>}}

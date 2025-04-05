@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material de la suela: EVA
-- Tipo de tacón: Plano
 - Material exterior: Sintético
+- Tipo de tacón: Plano
+- Material de la suela: EVA
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07D3FGT4P{{</world>}}

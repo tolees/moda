@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Forma del tacón: plano
 - Material superior: sintético
 - Material interior: sintético
 - Cierre: caucho
-- Forma del tacón: plano
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BN6N28LV{{</world>}}

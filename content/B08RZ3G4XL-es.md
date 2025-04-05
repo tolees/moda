@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ajuste normal con un poco más de ancho
-- Cárdigan con cremallera para niños
-- Viscosa suave y transpirable
 - Cordón fijo de algodón
+- Viscosa suave y transpirable
+- Cárdigan con cremallera para niños
+- Ajuste normal con un poco más de ancho
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08RZ3G4XL{{</world>}}

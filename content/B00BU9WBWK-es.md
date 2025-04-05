@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- T-shirt collo alto in costina long fiber compatta, ricamo al fondo in tono
 - 100% algodón
+- T-shirt collo alto in costina long fiber compatta, ricamo al fondo in tono
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00BU9WBWK{{</world>}}

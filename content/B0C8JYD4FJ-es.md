@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tommy Hilfiger Logotipo en la cintura
-- Lateral
 - Tommy Hilfiger Marca:
+- Lateral
+- Tommy Hilfiger Logotipo en la cintura
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C8JYD4FJ{{</world>}}

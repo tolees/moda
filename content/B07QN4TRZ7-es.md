@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Modelo Unisex. Medidas: Frontal 139 mm; Alto 42,3 mm; Patillas 145 mm; Puente 16 mm; Diámetro de lente 54 mm.
-- Montura negra en acabado brillante y lentes degradadas color vino.
-- Producto original Hawkers. La caja incluye funda en microfibra y caja.
 - Lentes de TR18 con el sello de Eastman, líderes mundiales en tecnología de copoliéster. Respetuoso con el medio ambiente y proporciona un equilibrio único entre claridad y resistencia. Lentes categoría 2, UV400
+- Producto original Hawkers. La caja incluye funda en microfibra y caja.
+- Montura negra en acabado brillante y lentes degradadas color vino.
 - Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Bisagra de doble acción para un cierre de patillas seguro y durabilidad. Diseño más ancho del terminal de la patilla para mejorar la ergonomía y confort. Unión de 45º para suavizar la junta entre montura y patilla dándole una continuidad perfecta.
+- Modelo Unisex. Medidas: Frontal 139 mm; Alto 42,3 mm; Patillas 145 mm; Puente 16 mm; Diámetro de lente 54 mm.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07QN4TRZ7{{</world>}}

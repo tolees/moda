@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Helly tech protection
-- Tejido helly tech protection
-- Artículos entregados: 1x helly hansen womens w seven j jacket - rain jacket baby troope s
 - Impermeable, cortavientos y transpirable
+- Tejido helly tech protection
 - Confección en 2 capas
+- Artículos entregados: 1x helly hansen womens w seven j jacket - rain jacket baby troope s
+- Helly tech protection
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08M1X3W7V{{</world>}}

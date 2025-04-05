@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Sin Polarizar
-- Talla 56/17/140
-- Garantía internacional de 2 años
 - GAFAS SOL TH 1724/S PARA MUJER NO POLARIZADO TALLA 56/17/140
+- Garantía internacional de 2 años
+- Talla 56/17/140
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B083MNRG25{{</world>}}

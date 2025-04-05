@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ligero, Encaje clasico, Manga de doble puntada y bastilla baja
 - Looney Tunes es una marca registrada de WBEI. (S21)
+- Ligero, Encaje clasico, Manga de doble puntada y bastilla baja
 - Camiseta de Looney Toons con un gran grupo de personajes.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

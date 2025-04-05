@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con estampado gráfico posicional de dibujo Y texto en el delantero
 - Con cuello redondo
-- Sudadera De manga larga caída
 - Con el Bajo asimétrico
+- Con estampado gráfico posicional de dibujo Y texto en el delantero
+- Sudadera De manga larga caída
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CCSSTNTS{{</world>}}

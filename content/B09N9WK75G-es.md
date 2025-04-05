@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello alto: protección contra el viento y el frío
-- Bolsillos con cremallera: guarde sus artículos de valor a buen recaudo
-- Cocodrilo bordado cosido en el pecho: el estilo característico de Lacoste
-- Regular fit; corte ligeramente entallado: para una comodidad natural
 - Felpa de algodón ecológico cepillado: un tejido respetuoso con el medioambiente
+- Regular fit; corte ligeramente entallado: para una comodidad natural
+- Cocodrilo bordado cosido en el pecho: el estilo característico de Lacoste
+- Bolsillos con cremallera: guarde sus artículos de valor a buen recaudo
+- Cuello alto: protección contra el viento y el frío
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09N9WK75G{{</world>}}

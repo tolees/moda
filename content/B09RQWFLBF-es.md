@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Omini Kappa
-- Diseño y confort
 - Libertad de movimiento
-- Colección primavera/verano 2022 de Kappa.
+- Omini Kappa
 - Camiseta para hombre
+- Diseño y confort
+- Colección primavera/verano 2022 de Kappa.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09RQWFLBF{{</world>}}

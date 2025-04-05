@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Longitud/Tamaño: Largo
-- Tipo de producto: abrigo acolchado
+- Detalles: detalle de cordón
 - Cierre: cremallera
 - Bolsillos: bolsillos delanteros con cremallera
-- Detalles: detalle de cordón
+- Longitud/Tamaño: Largo
+- Tipo de producto: abrigo acolchado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08CZTHWRT{{</world>}}

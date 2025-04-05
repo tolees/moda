@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Talla: Busto: 74CM, Cintura: 70CM, Longitud: 85CM
 - Vestidos para niña Talla 11-12 años. Por favor, ver la medida del tamaño abajo en la descripción del producto antes de comprar
-- hasta la rodilla.
 - lavable a máquina, bajo retroceder seca
+- hasta la rodilla.
 - 100% algodón
 
 [🛒 Visítala!!!]({{< param buyurl >}})

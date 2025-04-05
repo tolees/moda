@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Logo en la parte frontal superior
-- Material: 80% algodón, 18% poliamida y 2% elastano
 - Calcetín con suela reforzada
+- Material: 80% algodón, 18% poliamida y 2% elastano
 - Áreas funcionales flexibles
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

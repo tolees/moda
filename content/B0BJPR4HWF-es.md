@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello de camisa
-- Cintura con cordón en la parte posterior
-- Manga semicorta con borde con vuelta
 - Bolsillos de solapa en el pecho, bolsillos en las costuras laterales
+- Cintura con cordón en la parte posterior
+- Cuello de camisa
 - Cierre de polo alargado con botones
+- Manga semicorta con borde con vuelta
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BJPR4HWF{{</world>}}

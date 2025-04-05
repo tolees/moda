@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Lente transparente resistente a los arañazos.
 - Anti-viento, anti-arena, y anti-luz del sol, polvo, maximumly proteger sus ojos.
 - Lentes extragrandes para mayor visibilidad.
 - Rasguño de la lente clara resistentes, diadema ajustable, que califica la flexibilidad.
+- Lente transparente resistente a los arañazos.
 - La lente interna de calidad superior te garantiza la función antivaho y la lente externa la función antiarañazos.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Con capucha extragrande
 - Calidad de lana pesada con aspecto moteado
 - Más de moda. abrigo corto clásico de la marca Only
-- Con capucha extragrande
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07DFXHL2W{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Logotipo estampado en el pecho
 - Cuello redondo
 - Camiseta algodón manga larga
-- Logotipo estampado en el pecho
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00KF1TA3W{{</world>}}

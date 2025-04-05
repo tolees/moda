@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pantalones cortos elásticos
-- Calzoncillos bóxer sostenibles
 - Paquete de tres
 - Algodón
+- Calzoncillos bóxer sostenibles
+- Pantalones cortos elásticos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08FMHWRJR{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Stretch Jeans
 - Flared Jeans
+- Stretch Jeans
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07H3V8BLY{{</world>}}

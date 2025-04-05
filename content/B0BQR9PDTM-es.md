@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Horma clásica
-- Cierre de cordones
 - Forro textil
 - Parte superior de piel sintética
+- Cierre de cordones
 - Mediasuela con amortiguación para una pisada más cómoda
 - Suela de goma
 

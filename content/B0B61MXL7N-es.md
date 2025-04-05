@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sudadera N°2 TRAINING FZ Sweat M black
-- N°2 TRAINING FZ Sweat M blackLE COQ SPORTIF HOMBRE TALLA XS
 - Ropa deportiva fabricada con materiales de primera calidad que se adaptan a cualquier actividad deportiva
-- Ropa deportiva Negro de la marca Le Coq Sportif
+- Sudadera N°2 TRAINING FZ Sweat M black
 - Los productos deportivos de la marca Le Coq Sportif están diseñados para que disfrutes de tu deporte favorito sin preocuparte de nada más que rendir al máximo
+- N°2 TRAINING FZ Sweat M blackLE COQ SPORTIF HOMBRE TALLA XS
+- Ropa deportiva Negro de la marca Le Coq Sportif
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B61MXL7N{{</world>}}

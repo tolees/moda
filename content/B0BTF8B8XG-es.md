@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ajuste de gran tamaño
-- Ribete de rayas dentro del cuello
 - Logotipo de Calvin Klein impreso en el pecho
+- Ribete de rayas dentro del cuello
+- Ajuste de gran tamaño
 - Jersey de algodón
 
 [🛒 Aquí!!!]({{< param buyurl >}})

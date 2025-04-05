@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Camiseta
-- verano
 - NASA
+- verano
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C5DZBTGN{{</world>}}

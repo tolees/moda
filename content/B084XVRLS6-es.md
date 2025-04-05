@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Recomendada para mayores de 3 años
-- Incluye: 1 Muñeca, 1 Vestido, 1 par de Zapatos, 1 Tiara Desmontable
-- Consigue esta PRECIOSA Princesa para JUGAR o COLECCIONAR, ¡Los FANS de esta Clásica Película no se Resistirán!
-- Tiana Tiene los OJOS BRILLANTES y Tiene su Característico PELO LARGO y SUELTO para Peinar
 - La Muñeca Tiana está Articulada y Tiene PRECIOSOS DETALLES e Incluye PURPURINA. Tiana Mide Aproximadamente 38 cm de ALTURA
+- Recomendada para mayores de 3 años
+- Consigue esta PRECIOSA Princesa para JUGAR o COLECCIONAR, ¡Los FANS de esta Clásica Película no se Resistirán!
+- Incluye: 1 Muñeca, 1 Vestido, 1 par de Zapatos, 1 Tiara Desmontable
+- Tiana Tiene los OJOS BRILLANTES y Tiene su Característico PELO LARGO y SUELTO para Peinar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B084XVRLS6{{</world>}}

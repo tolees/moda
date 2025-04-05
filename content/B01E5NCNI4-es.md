@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- LIBERTAD DE MOVIMIENTO: Sin restricciones ni rozaduras. Mangas raglán y corte holgado están diseñados para acción en cualquier deporte.
-- DURABILIDAD Y ESTILO: Material de alta resistencia expulsa el sudo al exterior. Diseño clásico con logotipo Joma serigrafiado.
 - ESTILO Y FUNCIONALIDAD: Elegancia y rendimiento que Joma proporciona a tu atuendo
 - FÁCIL LAVADO: Hecha para durar - Resiste el uso intensivo y los lavados sin perder forma o color. Siempre impecable, siempre listo para usar.
+- DURABILIDAD Y ESTILO: Material de alta resistencia expulsa el sudo al exterior. Diseño clásico con logotipo Joma serigrafiado.
+- LIBERTAD DE MOVIMIENTO: Sin restricciones ni rozaduras. Mangas raglán y corte holgado están diseñados para acción en cualquier deporte.
 - ALTA TRANSPIRABILIDAD Y SECADO RÁPIDO: Máximo confort con una camiseta diseñada conn tecnología de tejido avanzada para un mejor rendimiento.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

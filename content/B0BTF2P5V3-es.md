@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bolsillos en el pecho con solapa
-- Logotipo de Calvin Klein en el bolsillo del pecho
 - Cuello puntiagudo
+- Bolsillos en el pecho con solapa
 - Bolsillos con abertura en la cintura
+- Logotipo de Calvin Klein en el bolsillo del pecho
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BTF2P5V3{{</world>}}

@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Camiseta con mangas cortas para hombres
+- Con cinta en la parte posterior del cuello
 - Tiene cuello en forma de V
 - Tiene una sola costura, sin refuerzo en la sisa
-- Con cinta en la parte posterior del cuello
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0795CKWZ1{{</world>}}

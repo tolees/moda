@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ribbed crewneck
 - Tipo de deporte: fútbol
 - Nike dry fabric
+- Ribbed crewneck
 - Regular fit
 
 [🛒 Comprar!!!]({{< param buyurl >}})

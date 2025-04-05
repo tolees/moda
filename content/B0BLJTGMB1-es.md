@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - ¡Esta muñeca Barbie Extra Minis va a la playa! Está lista para divertirse bajo el sol con sus largas coletas con mechas rosas, su bañador con estampado tropical y su largo pareo
 - Las pequeñas muñecas miden 14 cm y están listas para ir de vacaciones con conjuntos a la moda y mucho estilo; cada muñeca viene con accesorios temáticos según el destino de su viaje que son toda una declaración de intenciones
+- Con un soporte para la muñeca y codos y rodillas articulados, esta pequeña muñeca es óptima para jugar con la moda o para crear una exposición de muñecas Barbie Extra Minis
 - Completa su look con un bolso en forma de tabla de surf, una visera Extra, gafas de sol de concha marina, pendientes con hojas de palmera y sandalias de tiras
 - Las muñecas Barbie Extra Minis lucen accesorios supermonos y un estilo EXTRA FLY, lo que las convierte en un gran regalo para las niñas y los niños a quienes encanta la moda y vivir aventuras viajando
-- Con un soporte para la muñeca y codos y rodillas articulados, esta pequeña muñeca es óptima para jugar con la moda o para crear una exposición de muñecas Barbie Extra Minis
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BLJTGMB1{{</world>}}

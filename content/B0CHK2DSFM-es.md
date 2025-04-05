@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- CAMISETA TAKU: Con manga larga y cuello alto con cremallera, está elaborada en poliéster y elastano, lo que aporta adaptabilidad y ligereza. Cuenta con zonas transpirables en costados y mangas para una mayor transpirabilidad. Ideal para escapadas de running o rutas por la montaña.
+- CAMISETAS DEPORTIVAS: Desde el gimnasio hasta tu casa y pasando por la naturaleza, nuestras camisetas deportivas están diseñadas y creadas pensando en ti y en tus necesidades. Descubre en nuestro catálogo las que mejor se adaptan a ti y a tus actividades favoritas.
 - ¿QUIÉNES SOMOS?: En Izas nos encantan el deporte y las actividades al aire libre y en la montaña, por eso diseñamos y fabricamos ropa deportiva que se ajusta a las necesidades de los deportistas más exigentes. Utilizamos los mejores materiales para ofrecer la mayor comodidad posible durante la práctica deportiva. ¡Sal, disfruta y haz deporte, del resto nos encargamos nosotros!
 - CÓMODA Y PRÁCTICA: Sabemos lo importante que es sentirse cómodo y seguro durante un entrenamiento, por ello, nuestra ropa está preparada para ofrecerte todo el confort, libertad de movimiento y seguridad que necesitas durante tu práctica deportiva.
 - TECNOLOGÍA XTRA-THERMIC: Esta camiseta de manga larga cuenta con la tecnología Xtra-Thermic, tecnología que ayuda mantener el calor corporal de forma homogénea. Su composición es ligera, por lo que se puede utilizar como segunda capa. Además, es ideal para cualquier estación del año gracias a su adaptabilidad a la temperatura. Para que estés cómodo en cualquier momento.
-- CAMISETAS DEPORTIVAS: Desde el gimnasio hasta tu casa y pasando por la naturaleza, nuestras camisetas deportivas están diseñadas y creadas pensando en ti y en tus necesidades. Descubre en nuestro catálogo las que mejor se adaptan a ti y a tus actividades favoritas.
+- CAMISETA TAKU: Con manga larga y cuello alto con cremallera, está elaborada en poliéster y elastano, lo que aporta adaptabilidad y ligereza. Cuenta con zonas transpirables en costados y mangas para una mayor transpirabilidad. Ideal para escapadas de running o rutas por la montaña.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CHK2DSFM{{</world>}}

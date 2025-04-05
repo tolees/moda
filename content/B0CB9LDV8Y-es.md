@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Parche de goma con logotipo
 - Material sintético transparente
+- Parche de goma con logotipo
 - Purpurina
 
 [🛒 Aquí!!!]({{< param buyurl >}})

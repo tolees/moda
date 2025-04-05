@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Corte normal
 - Tacto suave
 - Cuello redondo
-- Corte normal
 - Ligera
 - Ventilación Climacool
 

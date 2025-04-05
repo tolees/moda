@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sudadera de manga larga caída
 - Con cuello redondo
+- Sudadera de manga larga caída
 - Con estampado gráfico posicional de dibujo y texto en el delantero
 
 [🛒 Comprar!!!]({{< param buyurl >}})

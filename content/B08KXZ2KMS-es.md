@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Loopback para calor y circulación del aire
 - Cómoda sudadera con capucha con cremallera
-- Algodón cepillado para mayor comodidad
 - Corte normal
 - 85% Algodón, 15% Poliéster
+- Algodón cepillado para mayor comodidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08KXZ2KMS{{</world>}}

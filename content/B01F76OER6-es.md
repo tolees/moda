@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Negro (Black)
-- Camisa Manga Larga Mujer
 - 38 (Talla del fabricante: Medium)
 - VMMAXI MY LS SOFT LONG U-NECK NOOS
+- Negro (Black)
+- Camisa Manga Larga Mujer
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01F76OER6{{</world>}}

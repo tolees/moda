@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Detalles distintivos de la marca
-- Tela suave
 - Cuenta con un amplio bolsillo frontal
+- Tela suave
 - Sudadera con capucha ajustable mediante cordones
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Montura en acero inoxidable libre de níquel que las hace altamente resistentes a la corrosión y mucho más fuertes. Almohadillas de silicona ajustables.
 - Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores. Lentes categoría 3 fabricadas con material bio tac polarizado y protección uv400.
-- Un modelo redondo, metálico con lentes cromadas polarizadas y espejadas. La montura de acero inoxidable plateado tiene detalles punteados a lo largo de los aros y el puente, y las finas patillas se complementan con terminales negros pulidos.
-- Producto original Hawkers. La caja incluye funda en microfibra y caja
 - Medidas: Frontal 130 mm; Patillas 145 mm ; Puente 21 mm ; Alto 49 mm. Modelo Unisex
+- Montura en acero inoxidable libre de níquel que las hace altamente resistentes a la corrosión y mucho más fuertes. Almohadillas de silicona ajustables.
+- Producto original Hawkers. La caja incluye funda en microfibra y caja
+- Un modelo redondo, metálico con lentes cromadas polarizadas y espejadas. La montura de acero inoxidable plateado tiene detalles punteados a lo largo de los aros y el puente, y las finas patillas se complementan con terminales negros pulidos.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09NYCR4J5{{</world>}}

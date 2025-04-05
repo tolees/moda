@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ropa de running
-- Largo de manga: corta
-- Escote: redondo
-- Camiseta funcional estampada de punto ligero con textura que regula la humedad y tecnología Quick Dry. Detalles reflectantes y bajo redondeado.
-- Lavar en ciclo de lavado suave a 30°, No usar lejía, No secar en la secadora, Planchar a un máx. 110° (Nivel 1), No limpiar en seco
 - Característica: de secado rápido
+- Escote: redondo
+- Ropa de running
+- Lavar en ciclo de lavado suave a 30°, No usar lejía, No secar en la secadora, Planchar a un máx. 110° (Nivel 1), No limpiar en seco
+- Camiseta funcional estampada de punto ligero con textura que regula la humedad y tecnología Quick Dry. Detalles reflectantes y bajo redondeado.
+- Largo de manga: corta
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BX47KPGQ{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Este producto es original Levis
 - Logotipo de Levis bordado
+- Este producto es original Levis
 - Punto de canalé suave
 
 [🛒 Visítala!!!]({{< param buyurl >}})

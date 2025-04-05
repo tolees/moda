@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Diseño de marco robusto. Excelente relación calidad-.
 - Consulte el modelo RR92 para obtener más nuevos colores y opciones de paquete.
-- Tres pares de elegantes hombres / mujeres / unisexo gafas de lectura a un precio fantástico!
 - Un par en acabado en negro, un par en acabado de carey de marrón y un par en acabado concha azul.
+- Tres pares de elegantes hombres / mujeres / unisexo gafas de lectura a un precio fantástico!
 - Fuerza +1,50.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

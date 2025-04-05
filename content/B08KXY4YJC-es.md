@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Sudadera con capucha con material sostenible
-- Suéter sencillo
-- Sudadera con capucha de algodón
 - Sudadera con capucha
 - Camiseta con capucha monocolor
+- Suéter sencillo
+- Sudadera con capucha de algodón
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08KXY4YJC{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Chaqueta acolchada
 - Bolsillos laterales
+- Chaqueta acolchada
 - Cierre de cremallera
 - Tejido: 100% poliéster
 - ellesse insignias bordadas

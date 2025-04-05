@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Estilo del cuello: Polo
 - 100% Algodón
 - Lavar a máquina agua fría (30 ° max)
-- Suave y cómodo en la piel
 - Cuello y puños elásticos
+- Suave y cómodo en la piel
+- Estilo del cuello: Polo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07N44CGGQ{{</world>}}

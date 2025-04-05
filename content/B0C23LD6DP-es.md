@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Con cuello reodndo
 - JerseY De manga larga
-- Con rayas horizontales Con detalle de lentejuleas
 - Con puños ajustados
+- Con rayas horizontales Con detalle de lentejuleas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C23LD6DP{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 5-pocket jeans
 - Super skinny black jeans
+- 5-pocket jeans
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07QXS88XV{{</world>}}

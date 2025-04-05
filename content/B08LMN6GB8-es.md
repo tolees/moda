@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ventilación en las axilas y puños ajustables
-- Impermeable y transpirabilidad
 - Dobladillo ajustable y sutiles ribetes reflectantes
+- Ventilación en las axilas y puños ajustables
 - Secado rápido
 - Bolsillo en el pecho, 2 bolsillos laterales y 2 bolsillos interiores, cada uno con cremallera
+- Impermeable y transpirabilidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08LMN6GB8{{</world>}}

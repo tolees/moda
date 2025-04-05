@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Hood with lanyard
 - Regular fit
 - Soft fabric
-- Hood with lanyard
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07L7RZMP3{{</world>}}

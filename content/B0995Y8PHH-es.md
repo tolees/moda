@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Vorgelen Botas de nieve para niños, botines de invierno de felpa, botas de nieve cálidas, zapatos antideslizantes para bebé, botas (152 Beige - 30 EU = Tag 31)
-- Talla: 30UE
 - Tipo de producto: BOTA
+- Talla: 30UE
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0995Y8PHH{{</world>}}

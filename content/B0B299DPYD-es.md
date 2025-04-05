@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Material exterior: sintético
+- Material interior: 80 % tela textil, poliéster, 20 % poliuretano sintético
 - Forma del talón: plano
 - Cierre: 100% algodón
-- Material interior: 80 % tela textil, poliéster, 20 % poliuretano sintético
-- Material exterior: sintético
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B299DPYD{{</world>}}

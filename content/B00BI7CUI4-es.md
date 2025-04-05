@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Varillas regulables 360°: Los extremos de la varillas se orientan en todos los sentidos. Bajo un casco, un gorro o con la cabeza descubierta, las gafas se sujetan.
-- Mount : Cromo - Cobertura total: Protección óptima contra la radiación solar en condiciones extremas.
-- Soporte en cuero: Símbolo de las gafas glaciares, los soportes de cuero protegen los ojos de generaciones de alpinistas
 - GAFAS DE SOL VERMONT JULBO SUN COLOR CHROME / NEGRO
+- Soporte en cuero: Símbolo de las gafas glaciares, los soportes de cuero protegen los ojos de generaciones de alpinistas
+- Mount : Cromo - Cobertura total: Protección óptima contra la radiación solar en condiciones extremas.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00BI7CUI4{{</world>}}

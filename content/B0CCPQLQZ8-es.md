@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- De cuadros
 - Camisa de manga larga
+- De cuadros
 - Regular fit
 
 [🛒 Aquí!!!]({{< param buyurl >}})

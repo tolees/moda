@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Logotipo impreso
+- Ajuste regular: ajuste sencillo y cómodo con espacio para moverse
 - Tejido de algodón (150 g)
 - La talla M es adecuada para niños de 9 a 10 años
-- Ajuste regular: ajuste sencillo y cómodo con espacio para moverse
-- Logotipo impreso
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BN97RTZZ{{</world>}}

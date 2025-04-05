@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parche de cuero con el logo de la marca
-- Modelo con presillas para un óptimo confort cuando lleves cinturón
 - Costuras en W en los bolsillos traseros
+- Modelo con presillas para un óptimo confort cuando lleves cinturón
+- Parche de cuero con el logo de la marca
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01GX5OV6O{{</world>}}

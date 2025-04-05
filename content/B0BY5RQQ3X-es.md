@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- L: 22,2 cm, ancho: 5,1 cm, alto: 14 cm
 - Hombro: 57,8 cm
 - Interior con cremallera en la parte superior, 3 ranuras para tarjetas, 2 bolsillos laterales
+- L: 22,2 cm, ancho: 5,1 cm, alto: 14 cm
 - Herrajes de color oro envejecido
 
 [🛒 Aquí!!!]({{< param buyurl >}})

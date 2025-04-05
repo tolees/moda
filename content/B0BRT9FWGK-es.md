@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ligero, Encaje clasico, Manga de doble puntada y bastilla baja
 - Disney 100 Anniversary T Shirts for Boys, Girls, Men, and Women; Men’s Disney T Shirts; Women’s Disney T Shirts; Kids’ Disney T Shirts; Disney Tee Shirts for Family; Disney 100th Anniversary; Disney Hoodies; D100; Mickey, Minnie, Donald, Goofy, and Pluto
 - Official Disney Merchandise
+- Ligero, Encaje clasico, Manga de doble puntada y bastilla baja
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BRT9FWGK{{</world>}}

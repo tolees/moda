@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Logo En La Cintura
+- Conjunto Boxer
 - Estiramiento
 - Patrón
-- Conjunto Boxer
+- Logo En La Cintura
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07H7R3HY2{{</world>}}

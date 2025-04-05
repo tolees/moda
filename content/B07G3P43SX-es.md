@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material sostenible
 - Only & Sons Warp Life Grey Skinny Jeans
+- Material sostenible
 - Regular
 - 98% Algodón, 2% Elastano
 

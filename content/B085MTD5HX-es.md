@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Chaqueta curvy con aspecto de piel
-- Composición: 86% poliéster, 12% algodón, 2% viscosa, forro: 100% poliéster
 - Cremallera frontal
+- Composición: 86% poliéster, 12% algodón, 2% viscosa, forro: 100% poliéster
+- Chaqueta curvy con aspecto de piel
 - Correa con botón de presión en el cuello
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Logo en el pecho
-- Manga corta
 - Ajuste Regular
+- Manga corta
 - Cuello Redondo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

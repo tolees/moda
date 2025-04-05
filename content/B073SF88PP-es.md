@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Modelo unisex, frontal 14.1 cm, alto 5.1 cm, patillas 14 cm
+- Producto original Hawkers, la caja incluye funda, caja y set de pegatinas decorativas
+- Mono lente negra, fabricada en TR18, con reducción de brillos y con equilibrio entre claridad y protección
 - Montura negra en acabado brillante y máscara frontal de lente negra
 - Montura fabricada en TR90 que dota a las gafas de gran ligereza, flexibilidad y resistencia, resistente a altas y bajas temperaturas
-- Producto original Hawkers, la caja incluye funda, caja y set de pegatinas decorativas
-- Modelo unisex, frontal 14.1 cm, alto 5.1 cm, patillas 14 cm
-- Mono lente negra, fabricada en TR18, con reducción de brillos y con equilibrio entre claridad y protección
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B073SF88PP{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Capucha
+- Cárdigan
 - Bolsillos
 - Logo de Gant
-- Cárdigan
 - Color liso
+- Capucha
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09HMP4SHD{{</world>}}

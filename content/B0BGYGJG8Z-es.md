@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sin mangas con cuello redondo, ideal para primavera, verano, vacaciones y playa
 - PARTE: Somos un orgulloso miembro de la Better Cotton Initiative (BCI). Al comprar este artí, apoyas el cultivo de algodón más sostenible. No lavar en seco. No secar en secadora. No usar lejía. Planchar a baja temperatura (110 °C). Ciclo suave a máx. 30 °C
-- Ajuste: corte regular, longitud de espalda para talla L aprox. 74 cm
 - Hecho de tela suave de punto simple
+- Ajuste: corte regular, longitud de espalda para talla L aprox. 74 cm
 - Camiseta básica sin mangas en colores lisos con pequeño logotipo impreso en el pecho
+- Sin mangas con cuello redondo, ideal para primavera, verano, vacaciones y playa
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BGYGJG8Z{{</world>}}

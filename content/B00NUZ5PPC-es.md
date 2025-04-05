@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cintura baja
-- Ajuste regular
 - Pierna recta
+- Ajuste regular
+- Cintura baja
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00NUZ5PPC{{</world>}}

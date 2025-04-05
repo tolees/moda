@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CAMISETA DE JUEGO DARETO
-- Omini de Kappa silueteado en contraste en el pecho y las mangas de la camiseta.
-- El diseño es ideal y moderno, incluyendo una franja gruesa en diferente color al del fondo de la propia camiseta.
-- La DARETO es imprescindible para entrenamientos y partidos gracias a su tejido transpirable y su corte slim.
-- Fabricada 100% poliéster se puede lavar a máquina a 30º. Dotada de tecnologías transpirables y secado rápido para la perfecta evacuación del sudor.
 - Camiseta de manga corta con cuello redondo.
+- El diseño es ideal y moderno, incluyendo una franja gruesa en diferente color al del fondo de la propia camiseta.
+- Fabricada 100% poliéster se puede lavar a máquina a 30º. Dotada de tecnologías transpirables y secado rápido para la perfecta evacuación del sudor.
+- La DARETO es imprescindible para entrenamientos y partidos gracias a su tejido transpirable y su corte slim.
+- Omini de Kappa silueteado en contraste en el pecho y las mangas de la camiseta.
+- CAMISETA DE JUEGO DARETO
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BC5V45ZF{{</world>}}

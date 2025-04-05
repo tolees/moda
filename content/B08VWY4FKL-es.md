@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- 100% Poliamida
+- Vero Moda Henna Short Sleeve Wrap Frill Dress
 - Reciclado
 - Regular
-- Vero Moda Henna Short Sleeve Wrap Frill Dress
-- 100% Poliamida
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08VWY4FKL{{</world>}}

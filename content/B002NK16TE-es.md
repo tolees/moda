@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Producto de calidad óptima
-- Capucha extraíble
 - Imagínalos en todas tus combinaciones de outfits, crearás un look único
 - Ajuste: ajuste estándar
+- Capucha extraíble
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B002NK16TE{{</world>}}

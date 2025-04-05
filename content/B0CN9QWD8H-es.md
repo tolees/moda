@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tienen un tejido suave y ligero
 - Ofrecen una comodidad óptima
 - Con diferentes estampados y colores
+- Tienen un tejido suave y ligero
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CN9QWD8H{{</world>}}

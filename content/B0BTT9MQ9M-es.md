@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Plantilla extraíble
-- Construcción: Cosido 360º
 - Altura del tacón 5 cm
 - Cierre elástico
 - Forro de microfibra 80% piel 20%
+- Construcción: Cosido 360º
+- Plantilla extraíble
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BTT9MQ9M{{</world>}}

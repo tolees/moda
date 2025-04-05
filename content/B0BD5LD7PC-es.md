@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tejido suave al tacto.
-- Pijama de punto de algodón, de manga larga, cuello redondo y pantalón largo.
-- Pantalón de punto estampado con cinturilla ajustable y puños.
 - Diseño exclusivo de Santoro realizado por Aznar Innova.
 - Camiseta de punto interlock vigoré, de color rosa, con posicional estampado, personalizada de la marca Santoro.
+- Tejido suave al tacto.
+- Pantalón de punto estampado con cinturilla ajustable y puños.
+- Pijama de punto de algodón, de manga larga, cuello redondo y pantalón largo.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BD5LD7PC{{</world>}}

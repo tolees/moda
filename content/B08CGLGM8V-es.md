@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Cinturilla elástica distintiva de Calvin Klein
 - Modelo con encaje elástico floral
 - Diseño de tela semitransparente
-- Cinturilla elástica distintiva de Calvin Klein
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08CGLGM8V{{</world>}}

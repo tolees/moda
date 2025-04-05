@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Camiseta de lactancia de acabado cruzado con dos capas por delante en punto suave y elástico.
 - Lavar en ciclo de lavado suave a 30°, No usar lejía, No secar en la secadora, Planchar a un máx. 110° (Nivel 1), No limpiar en seco
-- Escote: cruzado
 - Largo de manga: sin mangas
 - Característica especial: apto para lactancia
+- Camiseta de lactancia de acabado cruzado con dos capas por delante en punto suave y elástico.
+- Escote: cruzado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C14S7VWD{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Barbie Extra Chaqueta con pelo y botas moradas Muñeca articulada con ropa metalizada, accesorios de moda y mascota, juguete +3 años (Mattel HHN07)
 - Lo que hoy puedes ver como un simple juego ("mi hija juega con Barbie"),en realidad es una preparación para su futuro, ya que, a través del juego, Barbie estimula la imaginación, la expresión y el descubrimiento
+- Barbie Extra Chaqueta con pelo y botas moradas Muñeca articulada con ropa metalizada, accesorios de moda y mascota, juguete +3 años (Mattel HHN07)
 - 3Y+
 
 [🛒 Comprar!!!]({{< param buyurl >}})

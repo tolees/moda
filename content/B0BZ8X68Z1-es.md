@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Modelo Unisex. Medidas: Frontal 140 mm; Patillas 145 mm ; Puente 21 mm ; Alto 50 mm
 - Lentes cosméticas categoría 2 y protección uv400 que ofrecen protección antideslumbrante. Lentes de TR18 con el sello de Eastman , uno de los líderes mundiales en tecnología de copoliéster. Respetuoso con el medio ambiente y proporciona un equilibrio único entre claridad y resistencia.
-- Producto Oficial Hawkers. Incluye: Funda en microfibra, caja y set de pegatinas decorativas.
 - HAWKERS X PIERRE GASLY. Para su tercera colección Pierre ha elegido este diseño clásico estilo pantos con lentes redondas en color terracota degradado y montura de acetato carey con acabado brillo y puente en forma de ojo de cerradura. En el interior de su patilla luce el logo de Pierre Gasly en color blanco. Su frontal presenta pins ornamentales en forma de media H en ambos lados que le aportan un toque elegante y sofisticado.
+- Producto Oficial Hawkers. Incluye: Funda en microfibra, caja y set de pegatinas decorativas.
+- Modelo Unisex. Medidas: Frontal 140 mm; Patillas 145 mm ; Puente 21 mm ; Alto 50 mm
 - Montura en acetato de celulosa de alta calidad que aporta una máxima resistencia y durabilidad. Bisagra de 3 barras para un mayor agarre y durabilidad.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

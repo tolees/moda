@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 100% algodón
 - Sudadera abierta sin capucha de algodón, con cuello, puños y parte inferior acanalada, bolsillos en la parte delantera, logotipo bordado en el punto corazón, ajuste regular.
+- 100% algodón
 - Ajuste cómodo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

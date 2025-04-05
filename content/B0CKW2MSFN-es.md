@@ -28,14 +28,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Comodidad cómoda: algodón orgánico suave, cuello y puños acanalados, punto piqué para un diseño atemporal y duradero. Abertura en las costuras laterales para mayor libertad de movimiento. Ideal para la vida cotidiana, negocios y deportes, como golf o tenis.
-- Neck.neck style: Cuello de polo
 - Diseñado en Dinamarca: Somos una empresa familiar con sede en Copenhague. Estos polos fueron diseñados por nuestro equipo para maximizar tu comodidad sin comprometer el estilo o la calidad
-- Item length description: Longitud estándar
-- Shirt form type: polo shirt
-- Fit type: Recto
-- Una talla más grande: para un ajuste holgado, elige una talla más grande porque estos polos tienen un ajuste normal a apretado
 - Materiales de primera calidad: hecho de 60% algodón orgánico, 34% poliéster y 6% elastano. Algodón orgánico certificado OCS. Lavable a máquina a 30 gradosC. No secar en secadora.
+- Shirt form type: polo shirt
+- Item length description: Longitud estándar
+- Una talla más grande: para un ajuste holgado, elige una talla más grande porque estos polos tienen un ajuste normal a apretado
+- Fit type: Recto
+- Neck.neck style: Cuello de polo
+- Comodidad cómoda: algodón orgánico suave, cuello y puños acanalados, punto piqué para un diseño atemporal y duradero. Abertura en las costuras laterales para mayor libertad de movimiento. Ideal para la vida cotidiana, negocios y deportes, como golf o tenis.
 - Excelente servicio al cliente: Queremos que nuestros clientes estén satisfechos, si tienes alguna pregunta sobre nuestros polos, no dudes en ponerte en contacto con nosotros. Nuestro equipo siempre está listo para ayudarte
 
 [🛒 Visítala!!!]({{< param buyurl >}})

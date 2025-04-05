@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Impresión de pigmento para una impresión suave en ropa ligera
-- Bufanda de tubo
 - Cuello redondo
+- Bufanda de tubo
 - Camiseta de alta calidad para uso diario
 
 [🛒 Visítala!!!]({{< param buyurl >}})

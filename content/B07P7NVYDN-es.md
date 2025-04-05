@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Omini Kappa
-- Camiseta de baloncesto
 - Ideal para partidos y entrenamiento
+- Camiseta de baloncesto
 - Evacuación del sudor
+- Omini Kappa
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07P7NVYDN{{</world>}}

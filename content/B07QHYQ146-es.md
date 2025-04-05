@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Es una prenda también idónea para utilizar como interior del taje de buceo
-- Su patronaje, basado en amplios paneles, y las costuras reducidas al mínimo, optimizan la elasticidad natural del tejido y evitan molestas rozaduras
-- Camiseta disponible en manga corta y manga larga elaborada en tejido elástico de primera calidad con filtro de protección UV UPF 30+
 - Es una prenda idónea para proteger el cuerpo del nadador del viento, la radiación solar, la acción urticante de las medusas y los roces o cortes con el fondo marino
+- Su patronaje, basado en amplios paneles, y las costuras reducidas al mínimo, optimizan la elasticidad natural del tejido y evitan molestas rozaduras
 - Todas las costuras se han realizado con costuras planas con hilo antirrozaduras
+- Es una prenda también idónea para utilizar como interior del taje de buceo
+- Camiseta disponible en manga corta y manga larga elaborada en tejido elástico de primera calidad con filtro de protección UV UPF 30+
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07QHYQ146{{</world>}}

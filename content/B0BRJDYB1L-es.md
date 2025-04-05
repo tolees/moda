@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiene cuello en V
 - Cuenta con un diseño ligero para una óptima comodidad
+- Tiene cuello en V
 - Camisa de manga larga enrollada,
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

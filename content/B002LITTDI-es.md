@@ -28,14 +28,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre: Sin cordones
 - Altura del tacón: 1 centímetro
-- Tipo de tacón: Plano
 - Material de la suela: Goma
-- Composición: Sintético
+- Tipo de tacón: Plano
+- Cierre: Sin cordones
 - Revestimiento: Sintético
-- Material exterior: Espuma
 - Tipo de talla: talla estándar
+- Composición: Sintético
+- Material exterior: Espuma
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B002LITTDI{{</world>}}

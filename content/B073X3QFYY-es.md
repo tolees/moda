@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 100% Algodón
 - Por seguridad, la ropa de dormir debe ser resistente al fuego o ajustada, nuestra ropa de dormir de poliéster/forro polar es resistente al fuego y libre de tratamientos químicos
+- 100% Algodón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B073X3QFYY{{</world>}}

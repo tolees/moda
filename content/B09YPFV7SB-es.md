@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Tejido de algodón ligero (150 g)
 - Corte estándar
 - Tallas XXS a XXL
-- Tejido de algodón ligero (150 g)
 - Logotipo grande impreso en el pecho
 
 [🛒 Visítala!!!]({{< param buyurl >}})

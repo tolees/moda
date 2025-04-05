@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Lentes categoría 3 y protección uv400 que ofrecen una gran protección antideslumbrante
 - Montura en acero inoxidable libre de níquel que las hace altamente resistentes a la corrosión y más fuertes
 - Las gafas de sol LAX con montura de metal dorado y lente espejo azul turquesa son el must have de esta temporada
-- Modelo Karat Clear Blue LAX
 - Modelo para hombre y mujer: UNISEX
+- Lentes categoría 3 y protección uv400 que ofrecen una gran protección antideslumbrante
+- Modelo Karat Clear Blue LAX
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B084CNLHR4{{</world>}}

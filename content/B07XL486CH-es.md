@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CAMISETA BÁSICA: Esta camiseta tan versátil es un clásico esencial en cualquier armario y es perfecta para llevarla debajo de tu chaqueta o rebeca favorita, o para llevarla sola con unos vaqueros y conseguir un outfit informal de diario. Su corte ajustado hace que quede entallada y sea muy favorecedora.
-- DETALLES: Presenta clásico cuello redondo y mangas cortas para un estilo informal y desenfadado.
 - CORTE CEÑIDO: ajuste ceñido que se pega al cuerpo.
+- DETALLES: Presenta clásico cuello redondo y mangas cortas para un estilo informal y desenfadado.
+- CAMISETA BÁSICA: Esta camiseta tan versátil es un clásico esencial en cualquier armario y es perfecta para llevarla debajo de tu chaqueta o rebeca favorita, o para llevarla sola con unos vaqueros y conseguir un outfit informal de diario. Su corte ajustado hace que quede entallada y sea muy favorecedora.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07XL486CH{{</world>}}

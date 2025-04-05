@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Una marca de Amazon
-- Tessuto in jersey leggero, comodo e liscio
 - Se ciñe al cuerpo y ofrece una silueta esbelta y ajustada
+- Tessuto in jersey leggero, comodo e liscio
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07BJL4M5R{{</world>}}

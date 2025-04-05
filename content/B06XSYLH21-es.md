@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Nuestro modelo mide 181 cm con un peso corporal de 75 kg y lleva la talla 29.
 - El corte estrecho y recto en la pierna y la cintura regular garantizan un ajuste cómodo y cómodo de este mezclilla. Los jeans negros con un aspecto desgastado también impresionan con un moderno ajuste ajustado y se pueden combinar de forma versátil.
-- Sigue la tabla de tallas para que pidas los vaqueros Loom Black Jog 7451 Slim Fit en el tamaño adecuado.
 - Los vaqueros Loom Black Jog 7451 Slim Fit de Only & Sons son un pantalón ajustado para hombre en negro desgastado.
+- Sigue la tabla de tallas para que pidas los vaqueros Loom Black Jog 7451 Slim Fit en el tamaño adecuado.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B06XSYLH21{{</world>}}

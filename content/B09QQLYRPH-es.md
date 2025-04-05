@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Texto frontal "Joy is now" y logo
-- Estampado estilo tie-dye en dos tonos
 - 84% Cotton 16% Polyester
 - Bajos, cuello y puños elásticos.
 - Cuello redondo
+- Estampado estilo tie-dye en dos tonos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09QQLYRPH{{</world>}}

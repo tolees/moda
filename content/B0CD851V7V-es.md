@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Pantalón Con cinturilla elástica ajustable mediante cinta a tono
 - Pijama camisero largo Con estampado de cuadros, confeccionado en franela 100% algodón ¡adecuado para esas noches fresquitas!
 - Top Con cuello solapa, botones forrados y bolsillo en el pecho
-- Pantalón Con cinturilla elástica ajustable mediante cinta a tono
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CD851V7V{{</world>}}

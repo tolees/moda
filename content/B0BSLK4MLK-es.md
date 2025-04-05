@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Instrucciones de lavado: no se puede limpiar en seco, secar en secadora con carga térmica reducida, no usar lejía, planchar a baja temperatura (110 °C), ciclo suave a máx. 30 °C
 - Chaqueta de invierno acolchada con capucha desmontable, bolsillos laterales, bolsillo de parche en el brazo y bolsillo interior adicional para guardar tu cartera, teléfono móvil y llaves
 - Manga larga con capucha desmontable. Chaqueta cálida de plumón sintético para otoño e invierno que protege contra el viento, la lluvia y el frío.
-- Con un acabado biónico: el material repelente al agua y la suciedad permite que el agua y los líquidos se deslicen
 - Ajuste: corte regular, longitud de espalda para talla L aprox. 77 cm
+- Con un acabado biónico: el material repelente al agua y la suciedad permite que el agua y los líquidos se deslicen
+- Instrucciones de lavado: no se puede limpiar en seco, secar en secadora con carga térmica reducida, no usar lejía, planchar a baja temperatura (110 °C), ciclo suave a máx. 30 °C
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BSLK4MLK{{</world>}}

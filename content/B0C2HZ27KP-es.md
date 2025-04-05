@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Tommy Hilfiger Marca:
-- Ligeras
 - Cierre de cordones
+- Ligeras
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C2HZ27KP{{</world>}}

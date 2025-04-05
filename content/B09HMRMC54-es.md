@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- GANT
 - GANT Mens REG Tonal Shield SS TShirt, Eggshell, S
+- GANT
 - Size: S
 
 [🛒 Comprar!!!]({{< param buyurl >}})

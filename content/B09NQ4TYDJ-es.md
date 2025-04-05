@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores. Lentes categoría 3 fabricadas con material bio tac polarizado y protección uv400
 - Producto original Hawkers. La caja incluye funda en microfibra y caja
+- Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores. Lentes categoría 3 fabricadas con material bio tac polarizado y protección uv400
 - Un diseño clásico de doble puente de estilo aviador en acero inoxidable negro brillante, con lentes gris oscuro polarizadas y terminales negros pulidos
 - Montura en acero inoxidable libre de níquel que las hace altamente resistentes a la corrosión y mucho más fuertes. Almohadillas de silicona ajustables
 - Medidas: Frontal 146 mm; Patillas 145 mm ; Puente 15 mm ; Alto 54 mm. Modelo Unisex

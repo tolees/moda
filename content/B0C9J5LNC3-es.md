@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con aspecto de relieve
-- Camiseta de manga corta
 - Regular fit
+- Con aspecto de relieve
 - Estampado en densidad
+- Camiseta de manga corta
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C9J5LNC3{{</world>}}

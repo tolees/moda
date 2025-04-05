@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Lavar a máquina con agua tibia con colores similares. Secar en secadora a baja temperatura.
-- La camisa casual con botones, premium, con botones, puños ajustables, de negocios, camisas casuales de color sólido.
 - Camisa con botones liviana, suave y cómoda, casual, agradable a la piel, ajuste relajado, perfectamente adecuada para todas las estaciones.
 - Camisa informal de negocios para hombre con botones sólidos, adecuada para todas las ocasiones y estaciones, como vacaciones, cumpleaños, playa, negocios informales, informales, trabajo, vacaciones, citas, bodas y viajes. Las camisas clásicas para hombre te harán sentir bien y elegante cuando las uses.
 - Combínalo con camisetas lisas o un traje blazer, chinos, jeans y shorts para completar tu look.
+- Lavar a máquina con agua tibia con colores similares. Secar en secadora a baja temperatura.
+- La camisa casual con botones, premium, con botones, puños ajustables, de negocios, camisas casuales de color sólido.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BGH4Y34X{{</world>}}

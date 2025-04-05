@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Modelo unisex, medidas: frontal 13.95 cm, alto 4.56 cm, patillas 14.5 cm, puente 1.9 cm
-- Acabado con diseño de líneas geométricas, bisagra de 5 barras para un mayor agarre y durabilidad, diseño más ancho del terminal de la patilla para mejorar la ergonomía y confort
 - Lentes de TR18 con el sello de Eastman, uno de los líderes mundiales en tecnología de copoliéster,respetuoso con el medio ambiente y proporciona un equilibrio único entre claridad y resistencia
+- Modelo unisex, medidas: frontal 13.95 cm, alto 4.56 cm, patillas 14.5 cm, puente 1.9 cm
 - El frontal superior y las patillas en estampado habana se combinan con aros inferiores metálicos dorados y lentes verde botella
 - Producto original Hawkers, la caja incluye funda, caja y set de pegatinas decorativas
+- Acabado con diseño de líneas geométricas, bisagra de 5 barras para un mayor agarre y durabilidad, diseño más ancho del terminal de la patilla para mejorar la ergonomía y confort
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08D9BL7LN{{</world>}}

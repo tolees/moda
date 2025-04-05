@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Corte clásico
-- Cuello de pico
 - Punto 100% algodón
+- Cuello de pico
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09NYLPM7G{{</world>}}

@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cuello redondo
-- Jersey de punto liso
 - Composición: 93% poliéster, 4% nailon, 3% elastano
+- Jersey de punto liso
 - Manga larga
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

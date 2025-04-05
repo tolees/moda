@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La ONE es nuestro diseño más vendido de todos los tiempos en Europa, y la ONE COLT es nuestra versión norteamericana. Este modelo tiene una montura de carey semitranslúcida con un acabado mate y lentes verdes polarizadas.
 - Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores. Lentes categoría 3 fabricadas con material bio tac polarizado y protección uv400.
-- Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Almohadillas de TR90 para una sujeción mucho más cómoda. Bisagra de 3 barras para un mayor agarre y dur
+- La ONE es nuestro diseño más vendido de todos los tiempos en Europa, y la ONE COLT es nuestra versión norteamericana. Este modelo tiene una montura de carey semitranslúcida con un acabado mate y lentes verdes polarizadas.
 - Producto original Hawkers. La caja incluye funda en microfibra y caja
+- Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Almohadillas de TR90 para una sujeción mucho más cómoda. Bisagra de 3 barras para un mayor agarre y dur
 - Medidas: Frontal 141 mm; Patillas 140 mm ; Puente 17 mm ; Alto 50,5 mm. Modelo Unisex
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

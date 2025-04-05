@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tejanos con las siguientes características:
 - Vaqueros || Merch para fans y divertido || Patrón: Liso
 - Descubre todas las marcas de EMP
-- Básicos, Ropa casual, Ropa de Calle
 - Medidas: tamaño estándar
+- Tejanos con las siguientes características:
+- Básicos, Ropa casual, Ropa de Calle
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08M93BZCH{{</world>}}

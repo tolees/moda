@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tops
 - Screen Tee
+- Tops
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C8YWR4CK{{</world>}}

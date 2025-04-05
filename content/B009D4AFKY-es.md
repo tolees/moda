@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Esta hecha de algodón suave
-- Tiene mangas cortas
 - Cuenta con varios logotipos de Venum impresos
+- Tiene mangas cortas
 - Camiseta para hombres
+- Esta hecha de algodón suave
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B009D4AFKY{{</world>}}

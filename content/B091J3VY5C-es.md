@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Polo de manga corta
-- Regular fit
 - Lavar a máquina a máximo 40 °C bajo programa de lavado suave
-- Algodón piqué para un uso suave y cómodo
+- Regular fit
 - 100% Algodón
+- Algodón piqué para un uso suave y cómodo
+- Polo de manga corta
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B091J3VY5C{{</world>}}

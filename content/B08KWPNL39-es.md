@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Resistente: Tejido 94% nailon, 6% elastán
+- 94% nailon, 6% elastano / tejido
 - Never Stop Exploring: Todos los productos The North Face están diseñados para la vida al aire libre pensando en la calidad y el estilo
 - Logotipo icónico: Con el logotipo icónico de The North Face
+- Resistente: Tejido 94% nailon, 6% elastán
 - Elástico y de apoyo: Cómodo pantalón de senderismo con tejido cepillado en la parte trasera y dos bolsillos delanteros con cremallera
-- 94% nailon, 6% elastano / tejido
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08KWPNL39{{</world>}}

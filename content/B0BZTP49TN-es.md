@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- #html-body [data-pb-style=A4XNTIY]{justify-content:flex-start;display:flex;flex-direction:column;background-position:left top;background-size:cover;background-repeat:no-repeat;background-attachment:scroll}Bolso tote pequeño Medidas: 23 X 33 X 12 cm Radas Mostaza
 - Cierre mediante cremallera
 - Regalos originales para acertar siempre: Disfruta de moda creativa para mujer y hombre diseñada con pasión y compromiso, apostando por la sostenibilidad y responsabilidad social, marcando la diferencia en producto.
 - Compartimento principal con bolsillo interior
-- #html-body [data-pb-style=A4XNTIY]{justify-content:flex-start;display:flex;flex-direction:column;background-position:left top;background-size:cover;background-repeat:no-repeat;background-attachment:scroll}Bolso tote pequeño Medidas: 23 X 33 X 12 cm Radas Mostaza
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BZTP49TN{{</world>}}

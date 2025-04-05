@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Camiseta
+- Regular fit
 - Con estampado de logo en el pecho
 - Camiseta manga corta cuello redondo
-- Regular fit
+- Camiseta
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CQM78VLT{{</world>}}

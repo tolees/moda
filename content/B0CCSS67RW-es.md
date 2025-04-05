@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con cuello a contraste de color
-- Con cuello redondo
 - Camiseta De manga corta Con vuelta, Con cuello redondo, Con estampado gráfico posicional de dibujo Y texto en el delantero
+- Con cuello redondo
+- Con cuello a contraste de color
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CCSS67RW{{</world>}}

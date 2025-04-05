@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Camisa de muselina completa. Corte regular
 - 100% algodón
+- Camisa de muselina completa. Corte regular
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BNC9PTKZ{{</world>}}

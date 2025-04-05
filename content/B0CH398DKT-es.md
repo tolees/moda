@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Este vestido de la talla S mide 112 cm de largo (119 cm, la talla XXL).
-- Largo midi
-- Ajuste regular: acompaña el movimiento, ni muy suelto ni muy ajustado
 - Esenciales by The Drop
-- Doble abertura lateral
 - Mezcla suave con acrílico
+- Ajuste regular: acompaña el movimiento, ni muy suelto ni muy ajustado
 - Las modelos miden 178 cm y llevan una talla S y XXL
+- Largo midi
+- Este vestido de la talla S mide 112 cm de largo (119 cm, la talla XXL).
+- Doble abertura lateral
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CH398DKT{{</world>}}

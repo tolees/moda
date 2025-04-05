@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cuello redondo acanalado
 - Mangas cortas con corte recto, dobladillo con solapa fija
 - G-Star RAW Bordado en el pecho
-- Cuello redondo acanalado
 - Dobladillo redondeado
 - Etiqueta tejida G-Star RAW en la parte delantera
 

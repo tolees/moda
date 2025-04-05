@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre magnético
-- Bolso de mano
 - Con bolsita extraíble
+- Bolso de mano
+- Cierre magnético
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B079W7KRH7{{</world>}}

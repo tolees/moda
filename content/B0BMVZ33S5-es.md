@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 100% algodón
 - Camiseta de manga larga básica en JERSEY, cuello de costra, estampado de agua en el frente, ajuste regular
+- 100% algodón
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BMVZ33S5{{</world>}}

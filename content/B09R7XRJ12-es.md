@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Falda estampada en patch digital
-- Cuello redondo
-- 62% Cotton 35% Polyester 3% Elastane
-- Parecen dos piezas
 - Slim fit
+- Cuello redondo
+- Parecen dos piezas
+- 62% Cotton 35% Polyester 3% Elastane
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09R7XRJ12{{</world>}}

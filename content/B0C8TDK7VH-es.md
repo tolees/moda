@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - 100% algodón
-- Jersey Crew Tee con gráfico en la parte delantera
 - Ajustada clásica
+- Jersey Crew Tee con gráfico en la parte delantera
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C8TDK7VH{{</world>}}

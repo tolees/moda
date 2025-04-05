@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Revestimiento: Tela
 - Tipo de tacón: Plano
+- Revestimiento: Tela
 - Material exterior: Textil
 
 [🛒 Aquí!!!]({{< param buyurl >}})

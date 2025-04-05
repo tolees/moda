@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Vaqueros de corte ajustado: no demasiado apretados, ni demasiado sueltos
-- Superelástico 50% es excepcionalmente flexible
 - Clásico aspecto vaquero azul gracias a las costuras Tobacco
+- Superelástico 50% es excepcionalmente flexible
 - Composición: 75% algodón, 13% poliéster, 10% algodón orgánico, 2% elastano
 
 [🛒 Aquí!!!]({{< param buyurl >}})

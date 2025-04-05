@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- bordado de logo árbol a Contraste
+- Camiseta
 - Camiseta manga larga
+- bordado de logo árbol a Contraste
 - Con cortes en el pecho
 - Camiseta manga larga de piqué Con cortes en el pecho y bordado de logo árbol a Contraste
-- Camiseta
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CQMB4D5Y{{</world>}}

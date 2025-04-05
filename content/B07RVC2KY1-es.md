@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte slim fit ni muy ceñido ni muy holgado
 - Detalles del clásico diseño de 5 bolsillos
+- Corte slim fit ni muy ceñido ni muy holgado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07RVC2KY1{{</world>}}

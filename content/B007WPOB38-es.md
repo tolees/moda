@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre: Sin cordones
-- Material exterior: Caucho
-- Revestimiento: Caucho
 - Tipo de tacón: Plano
-- Composición: Goma
 - Material de la suela: Goma
+- Revestimiento: Caucho
+- Material exterior: Caucho
+- Composición: Goma
+- Cierre: Sin cordones
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B007WPOB38{{</world>}}

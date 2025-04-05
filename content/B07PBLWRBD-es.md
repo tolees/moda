@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Faux suede skirt
 - Short plain skirt
+- Faux suede skirt
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07PBLWRBD{{</world>}}

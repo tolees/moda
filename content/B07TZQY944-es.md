@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Apliques personalizados en tono dorado pálido
 - Cierre con cremallera
-- Color: rosa
+- Apliques personalizados en tono dorado pálido
 - Tres compartimentos y dos bolsillos planos
+- Color: rosa
 - Medidas: 8 x 10.5 x 2.5 cm
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - La muñeca Barbie Totally Hair con temática de flores luce peinado, textura de pelo y look de moda propios y está inspirada en la muñeca Barbie superventas que debutó hace 30 años.
 - Las pinzas para el pelo con cambio de color vienen en 4 colores diferentes y su color cambia con el calor de los dedos. ¡Las niñas se lo pasarán en grande con todas las posibilidades de estilismo!
-- La muñeca Barbie tiene 21,6cm de cabello extralargo y se suministra con más de 15 piezas adicionales: 8 son pinzas para el pelo con cambio de color, un peine, 1 juego de pasadores, 2 gomas del pelo, suéter corto en tono metálico, bolso, gafas de sol y un collar.
 - Su vestido luce un vivo estampado de margaritas con un detalle cut-out.
+- La muñeca Barbie tiene 21,6cm de cabello extralargo y se suministra con más de 15 piezas adicionales: 8 son pinzas para el pelo con cambio de color, un peine, 1 juego de pasadores, 2 gomas del pelo, suéter corto en tono metálico, bolso, gafas de sol y un collar.
 - De cuerpo curvilíneo, esta muñeca con temática de flores tiene un cabello ondulado con mechas de color rosa y morado brillante recogido por arriba en una cola de caballo.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

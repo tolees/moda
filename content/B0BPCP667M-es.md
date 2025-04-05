@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 100% ALGODÓN: Corte clásico Polo de hombre fabricado en 100% algodón. Este polo de alta calidad hecho de algodón puro es una de nuestras piezas básicas más populares. Ofrece un alto nivel de confort y un tacto suave.
 - TODAS LAS OCACIONES: el polo LAPASA con un corte clásico, un típico cuello de polo con tapeta de botones corta, hacen de este polo con mangas cortas una pieza absolutamente favorita en el trabajo, en su tiempo libre o incluso cuando juega al golf.
-- BOTÓN ADICIONAL: Viene con un botón de recambio en la etiqueta.
+- 100% ALGODÓN: Corte clásico Polo de hombre fabricado en 100% algodón. Este polo de alta calidad hecho de algodón puro es una de nuestras piezas básicas más populares. Ofrece un alto nivel de confort y un tacto suave.
 - PARA TODAS LAS EDADES: clásico y elegante, perfectamente adaptado para todas las modas.
 - ATENCIÓN: Dado que este es un producto en USA, está hecho para ser grande. Le recomendamos que elija una talla menos. Al recibir las camisetas manga corta las tallas pueden parecer grandes, sin embargo, el algodón piqué es propenso a encogerse y nuestra tabla de tallas se ha establecido para el ajuste después de su lavado.
+- BOTÓN ADICIONAL: Viene con un botón de recambio en la etiqueta.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BPCP667M{{</world>}}

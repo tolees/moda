@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pernera bootcut
-- Ajuste entallado
 - Efecto envejecido
+- Pernera bootcut
 - Tejido vaquero elástico
+- Ajuste entallado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09QLHPB9R{{</world>}}

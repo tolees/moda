@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Confeccionado en poliéster interlock 100% reciclado
-- Bolsillos con cremallera
 - Cintura elástica ajustable mediante cordón
 - Cremallera en el bajo
+- Bolsillos con cremallera
+- Confeccionado en poliéster interlock 100% reciclado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09STX94X2{{</world>}}

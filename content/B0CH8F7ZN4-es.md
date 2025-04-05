@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Medidas: Ancho 55 mm, Varillas 145 mm, Puente 21 mm
+- HAWKERS X TINI. Tini presenta estas gafas de sol bajo el nombre de “Flechazo” como tributo a su último álbum. Una silueta retro slim chunky rectangular de inspiración 2000 que combina montura de acetato color amarillo transparente con varillas metálicas interiores y lentes negras.
+- Montura en acetato de celulosa de alta calidad que aporta una máxima resistencia y durabilidad. Bisagra de 5 barras para un mayor agarre y durabilidad
 - Producto oficial Hawkers. Incluye: funda en microfibra y caja
 - Lentes de TR18 con el sello de Eastman, uno de los líderes mundiales en tecnología de copoliéster. Respetuoso con el medio ambiente y proporciona un equilibrio único entre claridad y resistencia. Lentes categoría 3 y protección uv400 que ofrecen una protección antideslumbrante superior
-- Montura en acetato de celulosa de alta calidad que aporta una máxima resistencia y durabilidad. Bisagra de 5 barras para un mayor agarre y durabilidad
-- HAWKERS X TINI. Tini presenta estas gafas de sol bajo el nombre de “Flechazo” como tributo a su último álbum. Una silueta retro slim chunky rectangular de inspiración 2000 que combina montura de acetato color amarillo transparente con varillas metálicas interiores y lentes negras.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CH8F7ZN4{{</world>}}

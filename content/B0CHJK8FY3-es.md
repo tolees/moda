@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Lentes categoría 3 y protección uv400 que ofrecen una protección antideslumbrante adecuada; lentes de Nylon que ofrecen mayor nitidez y resistencia para un óptimo rendimiento óptico
-- Las gafas de sol para niños Frozen Grey Clear Blue Kids combina una montura gris con acabado mate translúcido con lentes de espejo azul turquesa, para los niños más deportistas
 - Modelo Unisex - Medidas: Frontal 125 mm; Alto 36 mm; Patillas 130 mm; Puente 15 mm; Diámetro de lente 47 mm
+- Las gafas de sol para niños Frozen Grey Clear Blue Kids combina una montura gris con acabado mate translúcido con lentes de espejo azul turquesa, para los niños más deportistas
+- Lentes categoría 3 y protección uv400 que ofrecen una protección antideslumbrante adecuada; lentes de Nylon que ofrecen mayor nitidez y resistencia para un óptimo rendimiento óptico
 - Producto original Hawkers. La caja incluye funda en microfibra y caja
 - Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el óptimo Nylon para monturas que proporciona más flexibilidad y resistencia
 

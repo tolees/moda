@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Mangas cortas
 - Camiseta Adidas
+- Mangas cortas
 - Corte Normal
 
 [🛒 Aquí!!!]({{< param buyurl >}})

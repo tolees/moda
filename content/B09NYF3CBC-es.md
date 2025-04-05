@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Medidas: Frontal 148 mm; Patillas 146 mm ; Alto 57,5 mm. Modelo Unisex
-- Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores. Lentes categoría 3 fabricadas con material bio tac polarizado y protección uv400.
 - Este diseño futurista de gran tamaño tiene una línea de cejas recta, una forma angular y cuadrada, con una lente de pantalla plana. Este modelo negro brillante tiene una lente azul cielo polarizada y espejada.
+- Medidas: Frontal 148 mm; Patillas 146 mm ; Alto 57,5 mm. Modelo Unisex
 - Producto original Hawkers. La caja incluye funda en microfibra y caja
 - Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Almohadillas de TR90 para una sujeción mucho más cómoda. Bisagra de 3 barras para un mayor agarre y durabilidad.
+- Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores. Lentes categoría 3 fabricadas con material bio tac polarizado y protección uv400.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09NYF3CBC{{</world>}}

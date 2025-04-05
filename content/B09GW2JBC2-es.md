@@ -30,10 +30,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Esenciales by The Drop
 - Este bolso tiene una caída de 3.5"
-- Asa fruncida
-- Forro de poliéster
-- 11.75” H x 5.75” L x 3” D
 - Piel sintética lisa
+- Forro de poliéster
+- Asa fruncida
+- 11.75” H x 5.75” L x 3” D
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09GW2JBC2{{</world>}}

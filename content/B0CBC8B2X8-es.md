@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Forma del tacón: sin tacón
 - Grado de resistencia al agua: no impermeable
 - Suela: Caucho
+- Forma del tacón: sin tacón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CBC8B2X8{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cleaner chic with a slightly tailored fit and two front pockets
 - With a Large hood for more comfort on COOL Days
+- Cleaner chic with a slightly tailored fit and two front pockets
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07GB2GGJN{{</world>}}

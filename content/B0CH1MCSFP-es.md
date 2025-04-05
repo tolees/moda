@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Ligero, Encaje clasico, Manga de doble puntada y bastilla baja
 - Producto oficial de The Clash
 - Producto oficial de la banda
-- Ligero, Encaje clasico, Manga de doble puntada y bastilla baja
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CH1MCSFP{{</world>}}

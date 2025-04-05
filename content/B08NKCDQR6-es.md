@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Lentes ZEISS Made in Italy, otorgan una garantía del líder internacional en la producción de lentes de alta precisión que aportan una visión nítida sin distorsiones
-- Diseñadas para los amantes de los deportes de invierno que buscan alto rendimiento, comodidad y estilo
 - Producto original Hawkers
+- Diseñadas para los amantes de los deportes de invierno que buscan alto rendimiento, comodidad y estilo
 - Montura fabricada en TR90 que dota a las gafas de gran ligereza, flexibilidad y resistencia
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

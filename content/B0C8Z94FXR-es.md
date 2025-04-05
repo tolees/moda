@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello redondo
 - Logotipo de la marca
+- Cuello redondo
 - Ajuste regular
 
 [🛒 Comprar!!!]({{< param buyurl >}})

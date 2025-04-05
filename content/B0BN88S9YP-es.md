@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- La talla XXS es adecuada para niñas de 3 a 4 años
 - Logotipo bordado
 - Tejido de algodón (150 g)
-- La talla XXS es adecuada para niñas de 3 a 4 años
 - Ajuste regular: ajuste sencillo y cómodo con espacio para moverse
 
 [🛒 Comprar!!!]({{< param buyurl >}})

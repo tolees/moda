@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ajuste regular
 - Los pantalones cortos cuentan con una cintura elástico Material suave y un cierre de gancho y barra
 - Tiene detalles distintivos de la marca
+- Ajuste regular
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07YCNZYL8{{</world>}}

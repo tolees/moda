@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Sintético
-- Hebilla
 - Sintético
+- Hebilla
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B088BZNM7Y{{</world>}}
