@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Soft fabric
-- Targeted cushioning
 - 3 pair pack
+- Targeted cushioning
+- Soft fabric
 - High quality
 
 [🛒 Visítala!!!]({{< param buyurl >}})

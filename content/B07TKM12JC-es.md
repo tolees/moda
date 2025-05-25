@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Modelo para mujer
-- Modelo Fuchsia LAUPER
-- Montura rectangular slim en color fucsia transparente en acabado brillante y lentes cosméticas verdes; una apuesta por la tendencia neón de la temporada primavera-verano
 - Lentes de TR18 con el sello de Eastman que proporciona un equilibrio entre claridad y resistencia; lentes cosméticas categoría 1 y protección uv400
+- Modelo Fuchsia LAUPER
+- Modelo para mujer
+- Montura rectangular slim en color fucsia transparente en acabado brillante y lentes cosméticas verdes; una apuesta por la tendencia neón de la temporada primavera-verano
 - Montura en acetato de celulosa de alta calidad que aporta resistencia y durabilidad; almohadillas de acetato para una sujeción más cómoda
 
 [🛒 Visítala!!!]({{< param buyurl >}})

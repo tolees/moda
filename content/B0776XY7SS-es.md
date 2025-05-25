@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Punto de puro algodón orgánico
-- Logotipo bordado en el pecho
-- Detalles distintivos de Tommy Jeans
-- Cuello redondo
 - Diseño ajustado
+- Detalles distintivos de Tommy Jeans
+- Logotipo bordado en el pecho
+- Punto de puro algodón orgánico
+- Cuello redondo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0776XY7SS{{</world>}}
