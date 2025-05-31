@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Marca: GUESS
 - Asa superior
+- Marca: GUESS
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08LR71QGN{{</world>}}
