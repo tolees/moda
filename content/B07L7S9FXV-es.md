@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Hood with lanyard
 - Regular fit
 - Soft fabric
-- Hood with lanyard
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07L7S9FXV{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Logotipo verde en las patillas
 - Lentes polarizadas de triacetato
 - Gafas de sol de forma cuadrada para hombre y mujer
-- Frente en policarbonato habano oscuro
 - Patillas de policarbonato habano oscuro
-- Logotipo verde en las patillas
+- Frente en policarbonato habano oscuro
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B083MN5DTF{{</world>}}
