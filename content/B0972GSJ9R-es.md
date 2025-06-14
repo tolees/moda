@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La base adecuado para look
-- Comodidad para el día a día
 - Cinturilla cómoda
 - Tela de tacto suave
+- La base adecuado para look
+- Comodidad para el día a día
 - Los básicos por naturaleza
 
 [🛒 Comprar!!!]({{< param buyurl >}})

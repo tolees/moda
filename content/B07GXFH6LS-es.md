@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - "Just do It" graphics
-- Regular fit
 - Soft fabric
+- Regular fit
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07GXFH6LS{{</world>}}

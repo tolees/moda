@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ropa interior de diseño ligero de la marca Jack&Jones
-- Ofrece comodidad y libertad de movimiento
-- Paquete múltiples unidades
-- Durabilidad con material sostenible
 - Fabricado con algodón orgánico
+- Ofrece comodidad y libertad de movimiento
+- Ropa interior de diseño ligero de la marca Jack&Jones
+- Durabilidad con material sostenible
+- Paquete múltiples unidades
 - Hecho de material duradero y ligero
 
 [🛒 Aquí!!!]({{< param buyurl >}})
