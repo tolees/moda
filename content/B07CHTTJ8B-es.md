@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Estándar
 - Ajuste regular
-- Ajuste fácil
 - Cuello con muesca y mangas cortas
+- Ajuste fácil
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07CHTTJ8B{{</world>}}

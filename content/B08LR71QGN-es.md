@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Guess HANDBAG  BOLSO Mujer  Black  Unica'
-date: 2025-06-07 14:38:36
+date: 2025-06-15 22:49:57
 image: 'https://m.media-amazon.com/images/I/31y2HEoQ0ZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'GUESS'
 buyurl: 'https://www.amazon.es/dp/B08LR71QGN/?tag=tolees-21'
 descuento: '32.26'
-average: '97.828'
+average: '99.0233333333333'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

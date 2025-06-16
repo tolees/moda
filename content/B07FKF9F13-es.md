@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Soft fabric
 - Regular fit
+- Soft fabric
 - Nike logo on the front
 
 [🛒 Aquí!!!]({{< param buyurl >}})

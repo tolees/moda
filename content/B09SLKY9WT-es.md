@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Puños y dobladillo elásticos
-- 100% poliéster (reciclado)
+- Tecnología transpirable AEROREADY
 - Puños y dobladillo elásticos
 - Corte entallado
-- Tecnología transpirable AEROREADY
+- 100% poliéster (reciclado)
 - Bolsillos frontales de ojal
 
 [🛒 Comprar!!!]({{< param buyurl >}})

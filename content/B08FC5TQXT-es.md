@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Logo de Tommy Jeans bordado en el pecho
 - Detalles distintivos de Tommy Jeans
+- Logo de Tommy Jeans bordado en el pecho
 - Cuello con botones
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

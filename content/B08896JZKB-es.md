@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuero artificial
-- Cinturón
 - Anillos
+- Cuero artificial
 - Hebilla
+- Cinturón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08896JZKB{{</world>}}
