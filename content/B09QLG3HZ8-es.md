@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pepe Jeans Kenton Court M  Zapatilla Hombre  Blanco  44 EU'
-date: 2025-06-20 12:18:07
+date: 2025-06-21 18:45:10
 image: 'https://m.media-amazon.com/images/I/413m10aCoYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pepe Jeans'
 buyurl: 'https://www.amazon.es/dp/B09QLG3HZ8/?tag=tolees-21'
 descuento: '49.94'
-average: '39.7139130434781'
+average: '39.3359999999999'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

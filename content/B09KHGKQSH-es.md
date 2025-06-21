@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ONE, nuestro diseño más icónico de gafas de sol y best seller de todos los tiempos, ahora se fabrica en nuestra primera fábrica en España con las últimas tecnologías, dando como resultado una montura aún más ligera y resistente. Presentamos RAW, nuestra primera colección con sello de calidad Made In Spain. Este modelo dispone de un brillo intenso, montura negra y lentes oscuras POLARIZADAS.
-- Gafas de sol fabricadas en TR90 con el sello de EMS. considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Diseño más ancho del terminal de la patilla para mejorar la ergonomía y confort. Bisagra rotativa de alta calidad que permite libre movimientos entre patilla y frontal
-- Modelo Unisex. Medidas: Frontal 141 mm; Patillas 140 mm; Puente 17 mm; Diámetro de lente 55,7 mm
 - Producto original Hawkers. La caja incluye funda en microfibra y caja
 - Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores. Lente categoría 3 fabricadas con material bio tac polarizado y protección uv400.
+- ONE, nuestro diseño más icónico de gafas de sol y best seller de todos los tiempos, ahora se fabrica en nuestra primera fábrica en España con las últimas tecnologías, dando como resultado una montura aún más ligera y resistente. Presentamos RAW, nuestra primera colección con sello de calidad Made In Spain. Este modelo dispone de un brillo intenso, montura negra y lentes oscuras POLARIZADAS.
+- Modelo Unisex. Medidas: Frontal 141 mm; Patillas 140 mm; Puente 17 mm; Diámetro de lente 55,7 mm
+- Gafas de sol fabricadas en TR90 con el sello de EMS. considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Diseño más ancho del terminal de la patilla para mejorar la ergonomía y confort. Bisagra rotativa de alta calidad que permite libre movimientos entre patilla y frontal
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09KHGKQSH{{</world>}}

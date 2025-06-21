@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Correa ajustable para el hombro para llevarla más cómoda y fácilmente
 - Dos compartimentos principales con cierre de cremallera para guardar a salvo tus artículos pequeños
 - Compartimento principal con cierre con cremallera para mantener tus cosas protegidas
-- Correa ajustable para el hombro para llevarla más cómoda y fácilmente
 - Bandolera con espacio suficiente para llevar tus básicos, pero suficientemente pequeña para desplazarte cómodamente
 
 [🛒 Comprar!!!]({{< param buyurl >}})

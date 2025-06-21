@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tipo: slim fit
-- Ropa deportiva
 - Tejido antihumedad Climalite
 - Cuello redondo
+- Ropa deportiva
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07SN9VM5D{{</world>}}

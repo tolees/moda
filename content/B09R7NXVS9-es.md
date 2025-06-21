@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Grabado de logo
 - 50% LAMB LEATHER 46% POLYESTER 4% ELASTANE
 - Fibras sostenibles: Leather Working Group
 - Reverso en color rojo
-- Grabado de logo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09R7NXVS9{{</world>}}
