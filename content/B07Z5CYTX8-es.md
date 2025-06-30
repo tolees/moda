@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Puños ajustables con cierre de botón
 - Bajo ligeramente redondeado
-- Cuello de camisa
 - Panel en los hombros
+- Cuello de camisa
+- Puños ajustables con cierre de botón
 - Bordado de G-Star RAW en el pecho
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Transpirables y ligeras
 - Detalles distintivos de la marca
+- Transpirables y ligeras
 - Ofrecen una comodidad óptima
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Mezcla y combina fácilmente estilos
 - El producto recibido puede ser fabricado en Vietnam.
 - Detalle de bolsillo
+- Mezcla y combina fácilmente estilos
 - Cuello acanalado
 - Paquete de 3 camisetas para niños
 
