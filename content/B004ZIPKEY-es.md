@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Artículos entregados: 1x Helly Hansen Hombre Polo Driftline,L,Negro
 - Un polo de manga corta de buen rendimiento para cualquier actividad con material de secado rápido
-- Exterior: 100% poliamida
 - Este polo de rendimiento de manga corta para hombre con material de secado rápido es óptimo para los días activos; uno de nuestros polos técnicos más vendidos; el tejido Tactel te mantiene fresco y seco durante cualquier actividad sin dejar de lucir un aspecto impecable
+- Exterior: 100% poliamida
+- Artículos entregados: 1x Helly Hansen Hombre Polo Driftline,L,Negro
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B004ZIPKEY{{</world>}}

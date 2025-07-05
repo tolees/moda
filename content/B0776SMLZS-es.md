@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Logotipo bordado en el pecho
 - Cuello redondo
+- Punto de puro algodón orgánico
 - Diseño ajustado
 - Detalles distintivos de Tommy Jeans
-- Punto de puro algodón orgánico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0776SMLZS{{</world>}}

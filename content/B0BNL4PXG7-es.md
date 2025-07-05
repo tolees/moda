@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- [Camisetas en las que puedes confiar] Todo el mundo necesita camisetas en las que pueda confiar. Deja de buscar con la camiseta VANS Mini Script y concéntrate en las cosas más importantes.
 - Ajustada clásica
 - [Especificaciones de esta camisa VANS] 100% algodón (50% algodón, 50% poliéster). Cuello redondo de manga corta de 155 g con mini logotipo serigrafiado. Lavable a máquina. Ajuste: clásico, recto. Camisas para adultos, hombres y niños.
-- [Camisetas en las que puedes confiar] Todo el mundo necesita camisetas en las que pueda confiar. Deja de buscar con la camiseta VANS Mini Script y concéntrate en las cosas más importantes.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BNL4PXG7{{</world>}}

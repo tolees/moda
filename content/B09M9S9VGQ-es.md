@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- AJUSTE - Corte regular elástico. La modelo mide 175 cm y lleva la talla S. La longitud delantera en esta talla es de: 58cm.
 - BÁSICO - Un básico versátil y combinable VMPANDA - 10274133, para tu look diario.
+- AJUSTE - Corte regular elástico. La modelo mide 175 cm y lleva la talla S. La longitud delantera en esta talla es de: 58cm.
 - TEJIDO - 48% Modal, 48% Algodón, 4% Elastano.
 - COMODIDAD - La camiseta de manga 3/4 con escote de barco.
 

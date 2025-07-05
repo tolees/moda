@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Paquete Triple
-- Pretina Ancha
 - Estiramiento
+- Pretina Ancha
 - Conjunto De Calzoncillos Boxer
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

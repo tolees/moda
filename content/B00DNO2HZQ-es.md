@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ofrece 100% protección UV
-- Hechos 100% de poliuretano
 - Logotipo de Vans en la patilla
+- Hechos 100% de poliuretano
+- Ofrece 100% protección UV
 - Adecuado para hombres
 
 [🛒 Visítala!!!]({{< param buyurl >}})

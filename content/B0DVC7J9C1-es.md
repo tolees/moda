@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- De importación
-- Entrepierna de 8 cm
 - Cuerpo: 83 % poliéster/17 % spandex. Forro del refuerzo: 100 % poliéster.
+- Entrepierna de 8 cm
 - Lavar a máquina
 - Ajuste ceñido que se adapta al cuerpo
+- De importación
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DVC7J9C1{{</world>}}
