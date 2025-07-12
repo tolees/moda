@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Talla 62/11/140
-- Sin Polarizar
 - Matte Black Red/Grey Shaded
 - Garantía internacional de 2 años
+- Sin Polarizar
+- Talla 62/11/140
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01MTB8XR7{{</world>}}

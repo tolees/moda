@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 100% algodón. Lavar a máquina a 30º. No usar lejía.
 - El polo de hombre BARLI de la colección deportiva de Kappa es ideal para las salidas.
+- Corte recto, dos botones para ajustar el cuello.
 - POLO BARLI GRIS HOMBRE
 - Logotipo de Omini en el pecho y la zona superior de la espalda. Ambos silueteados en contraste.
-- 100% algodón. Lavar a máquina a 30º. No usar lejía.
-- Corte recto, dos botones para ajustar el cuello.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BBW5YVXJ{{</world>}}

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - GARANTÍA ANTIAGUJEROS: ¿Se te ha hecho un agujero en los calcetines durante el primer año tras la compra? Te enviaremos un reemplazo gratis. Si tienes alguna duda, nuestro servicio de atención al cliente estará encantado de ayudarte.
-- DISEÑADOS PARA LARGAS DISTANCIAS: Ya estés entrenando para un maratón o participando en uno, estos calcetines se adaptan a tu ritmo. Su diseño ligero y transpirable garantiza comodidad duradera, ideales para carreras de verano.
 - FABRICADOS EN EUROPA: Nuestros calcetines de running se prueban junto a atletas de resistencia para asegurar los más altos estándares de calidad y rendimiento. Se producen de manera ética en Portugal.
+- DISEÑADOS PARA LARGAS DISTANCIAS: Ya estés entrenando para un maratón o participando en uno, estos calcetines se adaptan a tu ritmo. Su diseño ligero y transpirable garantiza comodidad duradera, ideales para carreras de verano.
 - MATERIALES PREMIUM: Confeccionados con 65% de polipropileno, 33% de poliamida y 2% de elastano. Cuentan con la certificación OEKO-TEX Standard 100 y están libres de sustancias nocivas. Lavar a máquina a un máximo de 40°C (105°F). No usar secadora.
 - TRANSPIRABLES Y ANTIAmpollas: Nuestros calcetines de running antideslizantes de caña media cuentan con acolchado para prevenir ampollas y soporte en el arco plantar para reducir la fatiga del pie. Sus paneles de malla transpirables y el tejido que absorbe la humedad mantienen tus pies frescos y secos incluso en climas cálidos.
 

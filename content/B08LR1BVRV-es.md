@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Caída del hombro: 23.5 pulgadas
-- Ranuras interiores para tarjetas y bolsillo trasero con cremallera
 - L: 8" W: 3" H: 5.5"
+- Ranuras interiores para tarjetas y bolsillo trasero con cremallera
+- Caída del hombro: 23.5 pulgadas
 - Herrajes dorados brillantes
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

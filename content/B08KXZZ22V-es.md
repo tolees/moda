@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cuello redondo clásico
-- Sudadera sencilla con cuello redondo
 - Hecho de suave fibra de algodón
 - Estilo de forro polar
+- Sudadera sencilla con cuello redondo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08KXZZ22V{{</world>}}

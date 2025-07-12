@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Acolchado de rayas rectas
 - Locker Loop Loop Loop con logo en la espalda
 - Corte normal
-- Acolchado de rayas rectas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BG5GSX67{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Escote corazón
 - Estampado tropical de hojas efecto pintado con rotulador
+- Escote corazón
 - Con tirantes al cuello
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Chaqueta abierta con cremallera
-- Tiene detalles distintivos de la marca
 - Capucha ajustable mediante cordones
+- Tiene detalles distintivos de la marca
+- Chaqueta abierta con cremallera
 - Diseño ligero que ofrece comodidad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

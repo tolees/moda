@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- con botones en el delantero y en los puños
 - Blusa entallada de manga larga
+- con botones en el delantero y en los puños
 - con cuello camisero
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

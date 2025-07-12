@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bordado
-- Logotipo de Gant
-- Corte regular
 - Cuello redondo
 - Camiseta
+- Logotipo de Gant
+- Bordado
+- Corte regular
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09HMW9MZH{{</world>}}

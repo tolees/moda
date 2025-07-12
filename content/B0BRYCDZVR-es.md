@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajuste regular
 - Hecho de algodón de alta calidad
 - Importado
+- Ajuste regular
 - Nuestros suéteres son capas suaves y cómodas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

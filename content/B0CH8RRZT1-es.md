@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material exterior: Textil
 - Cierre: Cordones
 - Material de la suela: Material Sintético
+- Material exterior: Textil
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CH8RRZT1{{</world>}}

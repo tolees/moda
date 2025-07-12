@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- IDEALES PARA CORRER: Calcetines acolchados que reducen la fatiga de los pies. Calcetines running perfectos para carreras de larga distancia, maratones y el día a día
 - HECHOS EN EUROPA: Calcetines de deporte diseñados con la olimpista danesa Stina Troest, que prueba nuestros productos para garantizar un alto nivel de calidad. Calcetines de running hechos de forma justa en Portugal
 - MATERIALES DE PRIMERA CALIDAD: Fabricados con 65% Prolen, 33% Poliamida, 2% Elastano. Certificación OEKO-TEX estándar 100. Libre de sustancias nocivas. Lavado a máquina máx. 40°C. No usar secadora
 - GARANTÍA ANTI-AGUJEROS: ¿Tienes un agujero en tus calcetines durante el primer año de uso? Te enviaremos un reemplazo gratis. Si tiene alguna duda, nuestro servicio de atención al cliente está siempre dispuesto a ayudarle
+- IDEALES PARA CORRER: Calcetines acolchados que reducen la fatiga de los pies. Calcetines running perfectos para carreras de larga distancia, maratones y el día a día
 - CALCETINES ANTIAMPOLLAS: Calcetines antideslizantes con compresión en el arco y amortiguación para correr cómodamente. Los carriles de ventilación transpirables absorben el sudor garantizando pies secos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

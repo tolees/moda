@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Insignia translúcida
 - 100 % poliéster
+- Insignia translúcida
 - Insignia de brazo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

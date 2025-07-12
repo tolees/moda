@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Manga corta
 - Composición: 48% algodón, 47% algodón orgánico, 5% elastano
+- Manga corta
 - Cuello redondo
 - Dobladillos cosidos
 

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tejido interior: interior de tafetán
-- Corte: corte normal, clásico, cómodo
-- bolsillos: bolsillos con cremallera oculto
-- Tejido Reciclado: Tejido de poliéster reciclado [70 g/m2]
 - Capucha: capucha fija de 3 paneles
+- Corte: corte normal, clásico, cómodo
+- Tejido Reciclado: Tejido de poliéster reciclado [70 g/m2]
+- Tejido interior: interior de tafetán
+- bolsillos: bolsillos con cremallera oculto
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0949R4WGY{{</world>}}

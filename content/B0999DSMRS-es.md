@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Slim fit
 - Body efecto arrugado
+- Slim fit
 - Mangas de encaje
 - En negro liso
 - Escote redondo en la espalda

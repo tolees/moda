@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El interior cuenta con 3 ranuras para tarjetas y 1 bolsillo con cremallera
-- L: 9.25" ancho: 2.75" h: 6.25"
 - Herrajes de oro antiguo
+- L: 9.25" ancho: 2.75" h: 6.25"
+- El interior cuenta con 3 ranuras para tarjetas y 1 bolsillo con cremallera
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CK13XKNV{{</world>}}

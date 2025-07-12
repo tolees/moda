@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tela suave
-- Bordes acanalados
 - Cuello de punto suave
+- Bordes acanalados
+- Tela suave
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09YY9ZZNJ{{</world>}}

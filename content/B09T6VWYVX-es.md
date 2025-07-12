@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Full zip with stand-up collar
 - 100 percent recycled polyester doubleknit
-- Slim fit
-- Front welt pockets
 - Moisture-absorbing AEROREADY
+- Front welt pockets
+- Full zip with stand-up collar
+- Slim fit
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09T6VWYVX{{</world>}}

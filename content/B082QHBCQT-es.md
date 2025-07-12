@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Mediasuela de EVA para una amortiguación ligera
 - La plantilla de EVA proporciona una amortiguación cómoda y suave
 - Diseño de corte bajo para una mayor movilidad
-- Mediasuela de EVA para una amortiguación ligera
 - Suela de caucho para más durabilidad y tracción
 
 [🛒 Visítala!!!]({{< param buyurl >}})

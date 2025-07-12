@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Medidas: 12 x 10 x 3 cm
-- Marca: Tous
 - Color: negro
+- Marca: Tous
 - Material: poliuretano 100%
+- Medidas: 12 x 10 x 3 cm
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09K6RX4WQ{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sin níquel
 - Ancho: 40 mm
 - Número de modelo 231923-3
+- Sin níquel
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B086K1NT4F{{</world>}}

@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cordones ajustables en la cintura
-- Tipo canguro
 - Capucha fija y pelo sintético desmontable
 - Impermeable
+- Tipo canguro
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07Z89W5WJ{{</world>}}

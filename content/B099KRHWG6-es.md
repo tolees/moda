@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Color: azul
-- Lentes polarizadas azules de triacetato
-- Longitud del puente: 22
 - Gafas de sol de policarbonato
 - Medida: 50
+- Color: azul
+- Longitud del puente: 22
+- Lentes polarizadas azules de triacetato
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B099KRHWG6{{</world>}}

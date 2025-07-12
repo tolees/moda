@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con tejido ligero y suave
 - Ofrece una comodidad óptima
+- Con tejido ligero y suave
 - Cuello mao con abertura en uve
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

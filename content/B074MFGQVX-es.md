@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Anchura del zapato: Regular
 - Cierre: Sin cordones
-- Revestimiento: Sin forro
+- Material exterior: Goma
 - Tipo de tacón: Plano
+- Revestimiento: Sin forro
 - Altura del tacón: 1 centímetros
 - Material de la suela: Goma
-- Material exterior: Goma
-- Anchura del zapato: Regular
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B074MFGQVX{{</world>}}

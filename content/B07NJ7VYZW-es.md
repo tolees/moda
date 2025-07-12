@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Clic estilo de 5 bolsillos y tabaco N hte, trabillas para cinturón
 - Material elástico
+- Clic estilo de 5 bolsillos y tabaco N hte, trabillas para cinturón
 - Jeans ajustados de talle bajo, corte de pierna cónica
 
 [🛒 Visítala!!!]({{< param buyurl >}})

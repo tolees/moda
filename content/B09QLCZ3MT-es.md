@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Hecho con al menos un 70 Percentage de algodón sostenible
 - Corte Slim
 - Nos asociamos con Better Cotton Initiative para el cultivo algodonero
-- Hecho con al menos un 70 Percentage de algodón sostenible
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09QLCZ3MT{{</world>}}

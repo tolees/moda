@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ofrece comodidad y libertad de movimiento
 - Artículo de marca Pepe Jeans
+- Ofrece comodidad y libertad de movimiento
 - Tiene detalles distintivos de la marca
 
 [🛒 Comprar!!!]({{< param buyurl >}})

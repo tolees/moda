@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Confort
-- Peso ligero
 - Suela moldeada de CMEVA
+- Peso ligero
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C344CSFG{{</world>}}

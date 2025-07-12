@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pierna ancha tipo palazzo
 - Detalle de lazo en la parte frontal
+- Pierna ancha tipo palazzo
 - Estampado floral
 
 [🛒 Comprar!!!]({{< param buyurl >}})

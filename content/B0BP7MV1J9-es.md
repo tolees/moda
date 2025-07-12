@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Maximiza tu entrenamiento
 - Cuello redondo
 - Corte clásico
-- Maximiza tu entrenamiento
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BP7MV1J9{{</world>}}

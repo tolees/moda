@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- JerseY de manga larga caída Con volumen
 - Con cuello redondo
 - Con estructura estilo canalé
-- JerseY de manga larga caída Con volumen
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CCSTQ97G{{</world>}}

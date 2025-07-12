@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ajustada clásica
 - 100% algodón (el color gris jaspeado es 50% algodón, 50% poliéster)
+- Ajustada clásica
 - Camiseta de manga corta y cuello redondo con estampado floral Vans serigrafiada en la parte delantera
 
 [🛒 Aquí!!!]({{< param buyurl >}})

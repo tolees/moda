@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Confección con tecnología resistente al agua
-- Este producto es original Levis
 - Una chaqueta básica y fácil de guardar
-- Aislada con Thermore Ecodown ligero para enfrentarse a un clima adverso y plegable para transportarla con facilidad
+- Confección con tecnología resistente al agua
 - Cordones en el bajo
+- Este producto es original Levis
+- Aislada con Thermore Ecodown ligero para enfrentarse a un clima adverso y plegable para transportarla con facilidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09MWP8QGS{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 3 rayas a lo largo de las mangas
-- Tela transpirable
 - Fabricada de forma sostenible
+- Tela transpirable
+- 3 rayas a lo largo de las mangas
 - Cuello redondo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

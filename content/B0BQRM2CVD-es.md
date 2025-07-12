@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diseño exclusivo de la marca italiana
 - Nueva colección primavera/verano 2023
-- Comodidad óptima
 - Estilo chic y casual
 - Camiseta Kappa
+- Diseño exclusivo de la marca italiana
+- Comodidad óptima
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BQRM2CVD{{</world>}}

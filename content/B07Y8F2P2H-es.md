@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Adjustable closure to ensure better grip
-- Water Friendly Sports Sandals
 - Californian style
+- Water Friendly Sports Sandals
+- Adjustable closure to ensure better grip
 - Reinforced toe for better protection
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Con motivos de inspiración marinera
-- Manga raglán que brinda libertad de movimiento
 - Forro polar con estructura en el panel posterior
+- Manga raglán que brinda libertad de movimiento
 - Cremallera delantera YKK y dos bolsillos para las manos con cremallera
 
 [🛒 Aquí!!!]({{< param buyurl >}})

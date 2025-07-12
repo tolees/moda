@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Carhartt Logotipo impreso en la manga izquierda
+- Capucha de tres piezas con cierre de cordón
+- Carhartt Etiqueta cosida en el bolsillo
 - Puños y cintura elásticos y reforzados con elastano
 - Bolsillo frontal para calentar las manos
-- Carhartt Etiqueta cosida en el bolsillo
-- Capucha de tres piezas con cierre de cordón
-- Carhartt Logotipo impreso en la manga izquierda
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CR1ND5VJ{{</world>}}

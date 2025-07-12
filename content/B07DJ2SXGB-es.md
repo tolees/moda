@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Parte superior: sintética
+- Cierre: sin cordones
 - Forro: textil
 - Material de la suela: caucho
 - Tipo de tacón: plano
-- Parte superior: sintética
-- Cierre: sin cordones
 - Plantilla: piel
 
 [🛒 Visítala!!!]({{< param buyurl >}})

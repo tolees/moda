@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Color: verde
-- Material: poliuretano 100%
-- Medidas: 12 x 10 x 3 cm
 - Marca: Tous
+- Material: poliuretano 100%
+- Color: verde
+- Medidas: 12 x 10 x 3 cm
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09K6T45SQ{{</world>}}

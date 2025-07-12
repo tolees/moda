@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Estándar
 - Tamaño del paquete: 49 x 377 x 269 cm
 - Una mezcla que contiene lino, una fibra natural que se obtiene a partir de la planta de lino; el lino puede crecer en un suelo poco fértil que no se usa para la producción de alimentos
-- Estándar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08D3PCZFY{{</world>}}

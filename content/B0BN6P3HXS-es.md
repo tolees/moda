@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre: goma
-- Transpirable y transpirable
 - Piel: charol
+- Transpirable y transpirable
 - 13,7795 pulgadas
+- Cierre: goma
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BN6P3HXS{{</world>}}

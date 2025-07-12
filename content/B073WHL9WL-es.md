@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Dobladillo con cordón y puño elástico
 - Capucha ajustable con cremallera
-- Número de modelo: MAJKCAK20004_BRTXL
 - Chaqueta acolchada de poliéster con 3 bolsillos con cremallera, cremalleras de perfil bajo
+- Dobladillo con cordón y puño elástico
+- Número de modelo: MAJKCAK20004_BRTXL
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B073WHL9WL{{</world>}}

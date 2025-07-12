@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Cierre con cordón elástico para un ajuste perfecto
 - Bailarinas para niñas con punta redonda cerrada
 - Bailarinas con plantilla acolchada para una mayor comodidad
-- Cierre con cordón elástico para un ajuste perfecto
 - Suela de goma a tono, antideslizante y totalmente flexible
 - Genial con vestidos, vaqueros o para ocasiones elegantes
 

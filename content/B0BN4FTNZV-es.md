@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ancho del zapato: medio
-- Forma del tacón: plano
 - Nivel de resistencia al agua: no resistente al agua
+- Forma del tacón: plano
+- Ancho del zapato: medio
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BN4FTNZV{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fabricado con 100 % algodón sostenible
 - Camiseta de algodón de manga corta con logotipo grande impreso en el pecho.
 - CANDEM - Camiseta individual
+- Fabricado con 100 % algodón sostenible
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B64CD3DY{{</world>}}

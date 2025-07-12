@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Gafas de sol polarizadas
+- Lentes de alta calidad
+- Gafas de sol para todos los deportes
 - Marco duradero y flexible
 - Flotador
-- Gafas de sol para todos los deportes
-- Lentes de alta calidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07PWHY9FS{{</world>}}

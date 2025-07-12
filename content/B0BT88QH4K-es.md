@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - 315 g/m², 50 % algodón, 50 % poliéster entrelazado
-- Insignias bordadas
 - Pantalón de chándal
+- Insignias bordadas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BT88QH4K{{</world>}}

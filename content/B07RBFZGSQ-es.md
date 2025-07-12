@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Tecnología GORE WINDSTOPPER: cortaviento, repelente al agua y altamente transpirable
-- Cálida y versátil chaqueta de hombre para ciclismo en condiciones meteorológicas frías
 - GORE C5 GORE WINDSTOPPER Thermo Trail Jacket, Talla: M, Color: Negro/Amarillo neón, 100376
+- Cálida y versátil chaqueta de hombre para ciclismo en condiciones meteorológicas frías
 - Talle recto/Corte específico para ciclismo, Detalles reflectantes
 - Bolsillo en el pecho con cremallera y salida de cable, Bolsillos delanteros y traseros con cremallera, Apta para mochilas
 

@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - algodón
 - Cómodo
-- estampado
 - Camiseta
+- estampado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08KXVSG2Z{{</world>}}

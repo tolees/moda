@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Corte ajustado
-- Lucir deportiva incluso cuando no estás en el gimnasio
-- Cordón de ajuste en cintura elástica
 - Pantalones cortos deportivos de felpa francesa suave
+- Lucir deportiva incluso cuando no estás en el gimnasio
+- Corte ajustado
+- Cordón de ajuste en cintura elástica
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08VNY8KKZ{{</world>}}

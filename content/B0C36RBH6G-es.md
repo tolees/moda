@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dos bolsillos traseros
-- Dos bolsillos delanteros con bolsillo para monedas
 - Cintura con trabillas para cinturón
+- Dos bolsillos delanteros con bolsillo para monedas
+- Dos bolsillos traseros
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C36RBH6G{{</world>}}

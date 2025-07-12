@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- El diseño otorga libertad a los movimientos
 - Cuenta con cintura ajustable elástica y cordón
 - Logo J serigrafiado
 - Pantalón corto con corte en laterales a contraste
-- El diseño otorga libertad a los movimientos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08CBW6F72{{</world>}}

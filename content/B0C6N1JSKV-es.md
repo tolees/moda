@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- modelo puntiagudo
-- Escote en cuero genuino laminado
 - Altura del tacón 10cm
+- Escote en cuero genuino laminado
+- modelo puntiagudo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C6N1JSKV{{</world>}}

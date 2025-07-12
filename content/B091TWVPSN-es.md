@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cortavientos ligero e impermeable
 - Bolsillos laterales con cremallera, bolsillo interior
 - Chaqueta con acabado mate y cremallera completa
+- Cortavientos ligero e impermeable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B091TWVPSN{{</world>}}

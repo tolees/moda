@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Lentes de TR18 con el sello de Eastman , uno de los líderes mundiales en tecnología de copoliéster. Respetuoso con el medio ambiente y proporciona un equilibrio único entre claridad y resistencia. Lentes categoría 3 y protección uv400 que ofrecen una protección antideslumbrante superior.
 - Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Terminal de la patilla en acabado engomado para mejorar la ergonomía y confort. Bisagra de doble acción para un cierre de patillas seguro y durabilidad.
 - Modelo Unisex. Medidas: Frontal 142 mm; Patillas 123 mm ; Puente 16 mm ; Alto 46 mm
-- Lentes de TR18 con el sello de Eastman , uno de los líderes mundiales en tecnología de copoliéster. Respetuoso con el medio ambiente y proporciona un equilibrio único entre claridad y resistencia. Lentes categoría 3 y protección uv400 que ofrecen una protección antideslumbrante superior.
 - Diseño deportivo llevado a fashion con montura envolvente de color lila claro en Tr90 con acabado brillante. Sus lentes esepejadas de color “Galaxy” le aportan un estilo psicodélico al diseño. Y el acabado engomado de sus terminales y nose pads le aportan una mayor sujeción.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

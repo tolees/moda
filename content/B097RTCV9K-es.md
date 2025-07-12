@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Modelo Unisex. Medidas: Frontal 133 mm; Alto 46,6 mm; Patillas 140 mm; Puente 20 mm; Diámetro de lente 50 mm
-- Lentes de TR18 con el sello de Eastman, uno de los líderes mundiales en tecnología de copoliéster. Respetuoso con el medio ambiente y proporciona un equilibrio único entre claridad y resistencia. Lentes cosméticas categoría 2 y protección uv400 que ofrecen protección antideslumbrante
-- Montura en acero inoxidable libre de níquel que las hace altamente resistentes a la corrosión y mucho más fuertes.
 - Pierre Gasly eligió nuestro diseño metálico redondo Moma como parte de su colección Hawkers 2021, optando por unas lentes cosméticas amarillas, diseñadas especialmente para días y espacios poco luminosos, y una montura metálica pulida color oro con terminales transparentes.
 - Incluye: caja de cartón, pegatinas y funda de PU acolchado personalizados
+- Lentes de TR18 con el sello de Eastman, uno de los líderes mundiales en tecnología de copoliéster. Respetuoso con el medio ambiente y proporciona un equilibrio único entre claridad y resistencia. Lentes cosméticas categoría 2 y protección uv400 que ofrecen protección antideslumbrante
+- Montura en acero inoxidable libre de níquel que las hace altamente resistentes a la corrosión y mucho más fuertes.
+- Modelo Unisex. Medidas: Frontal 133 mm; Alto 46,6 mm; Patillas 140 mm; Puente 20 mm; Diámetro de lente 50 mm
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B097RTCV9K{{</world>}}

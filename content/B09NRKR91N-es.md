@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- LARGA DURACIÓN: Apto para su uso en cachorros de más de 3 meses. El collar debe ser remplazado después de cuatro meses de utilización o en caso de reinfestación de parásitos.
-- COLLAR ANTI-INSECTOS: Este collar anti-insectos para perros contiene 3 activos repelentes naturales MARGOSA, GERANIOL y LAVANDINO. Los tres activos protegen de las infestaciones de parásitos externos pulgas, garrapatas, piojos ácaros y también de las picaduras de mosquitos.
-- COLLAR AJUSTABLE: Fabricado con polímero hipoalergénico de alta calidad y con hebilla de seguridad ergonómica. El collar se puede auto ajustar.
 - COLLAR LUMINISCENTE: El collar anti-insectos brilla en la oscuridad, por lo que es ideal para localizar a la mascota en los paseos nocturnos.
-- MODO DE EMPLEO: Coloque el collar en el cuello del animal de manera que permita pasar dos dedos por debajo. Cortar la parte sobrante para que el animal se sienta cómodo.
+- LARGA DURACIÓN: Apto para su uso en cachorros de más de 3 meses. El collar debe ser remplazado después de cuatro meses de utilización o en caso de reinfestación de parásitos.
+- COLLAR AJUSTABLE: Fabricado con polímero hipoalergénico de alta calidad y con hebilla de seguridad ergonómica. El collar se puede auto ajustar.
 - PROTECCIÓN FRENTE A TODO TIPO DE INSECTOS: Protege de las infestaciones de parásitos externos como pulgas, garrapatas, insectos, mosquitos, etc.
+- COLLAR ANTI-INSECTOS: Este collar anti-insectos para perros contiene 3 activos repelentes naturales MARGOSA, GERANIOL y LAVANDINO. Los tres activos protegen de las infestaciones de parásitos externos pulgas, garrapatas, piojos ácaros y también de las picaduras de mosquitos.
+- MODO DE EMPLEO: Coloque el collar en el cuello del animal de manera que permita pasar dos dedos por debajo. Cortar la parte sobrante para que el animal se sienta cómodo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09NRKR91N{{</world>}}

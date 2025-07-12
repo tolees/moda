@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Logotipo de adidas
 - Tela transpirable
 - Tela Suave
+- Logotipo de adidas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BJ9RVY73{{</world>}}

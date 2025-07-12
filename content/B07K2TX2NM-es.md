@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Suela Cloudfoam
 - Banda de EVA de una sola pieza
+- Suela Cloudfoam
 - Cierre de velcro
 
 [🛒 Visítala!!!]({{< param buyurl >}})

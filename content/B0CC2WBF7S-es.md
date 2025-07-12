@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Modelo Unisex. Medidas: Frontal 145 mm; Patillas 123 mm ; Puente 18 mm ; Alto 45 mm
 - Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Terminal de la patilla en acabado engomado para mejorar la ergonomía y confort. Bisagra de doble acción para un cierre de patillas seguro y durabilidad.
-- Concebido para la práctica de cualquier deporte, este llamativo diseño ultraligero combina montura de color verde neón en acabado brillo, lentes polaraizadas negras montadas al aire y terminales y nosepads negros engomados para mejorar su sujeción al realizar cualquier movimiento.
-- Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores. Lentes categoría 3 fabricadas con material bio tac polarizado y protección uv400.
 - Producto Oficial Hawkers. Incluye: Funda en microfibra y caja.
+- Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores. Lentes categoría 3 fabricadas con material bio tac polarizado y protección uv400.
+- Concebido para la práctica de cualquier deporte, este llamativo diseño ultraligero combina montura de color verde neón en acabado brillo, lentes polaraizadas negras montadas al aire y terminales y nosepads negros engomados para mejorar su sujeción al realizar cualquier movimiento.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CC2WBF7S{{</world>}}

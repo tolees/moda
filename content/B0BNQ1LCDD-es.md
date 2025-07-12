@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- __ Plantilla: __ Plantilla de goma texturizada con gráficos
 - Suela exterior: __ suela de goma con impresión ROXY
 - Material superior: __ Empeine de goma con pin ROXY
+- __ Plantilla: __ Plantilla de goma texturizada con gráficos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BNQ1LCDD{{</world>}}

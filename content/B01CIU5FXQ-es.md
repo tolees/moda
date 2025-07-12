@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Ancho de la correa: 35 mm
-- Cinturón
-- Otoño - Invierno
 - 100% cuero bovino
+- Otoño - Invierno
+- Cinturón
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01CIU5FXQ{{</world>}}

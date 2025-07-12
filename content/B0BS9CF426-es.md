@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Casual
 - Ajuste: ajuste clásico
-- Material exterior: algodón
 - No resistente al agua
+- Material exterior: algodón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BS9CF426{{</world>}}

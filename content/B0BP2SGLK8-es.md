@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bolsa de hombro
 - Elementos de metal de oro pálido
+- Bolsa de hombro
 - Impresión de logotipo 4G
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cortes anatómicos separados
 - Neopreno de doble revestimiento para una mayor durabilidad y calidez
 - Diseño italiano
-- Cortes anatómicos separados
 - 100% neopreno
 - Individuales juntas del manguito de neopreno, entrada frontal con cremallera para fácil itar la colocación
 

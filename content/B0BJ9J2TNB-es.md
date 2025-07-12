@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Logotipo icónico
 - Tripulación
+- Logotipo icónico
 - Corte
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Gruesa correa de piel
 - Marca estampada
-- Hebilla de metal fundido
 - Una única trabilla
+- Hebilla de metal fundido
+- Gruesa correa de piel
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01MFF64RF{{</world>}}

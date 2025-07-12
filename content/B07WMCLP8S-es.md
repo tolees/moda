@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Material: Textil sintético
-- Número del fabricante: 204105 BLK
-- Color: negro
 - Estilo: Sandalia con correa de talón
+- Color: negro
+- Número del fabricante: 204105 BLK
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07WMCLP8S{{</world>}}

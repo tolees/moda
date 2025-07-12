@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- JERSEY ELÁSTICO DE VISCOSA: Jersey suave, liviano y suelto con un acabado liso y refinado.
-- DETALLES: Escote en V abierto y dos aberturas laterales para facilitar el movimiento. Marca impresa sin etiqueta.
 - VESTIDO DE TIRANTES: Vestido de tirantes de longitud media, con punto de viscosa fluido, práctico y cómodo, para que estés elegante todo el día.
+- DETALLES: Escote en V abierto y dos aberturas laterales para facilitar el movimiento. Marca impresa sin etiqueta.
+- JERSEY ELÁSTICO DE VISCOSA: Jersey suave, liviano y suelto con un acabado liso y refinado.
 - AJUSTE NORMAL: Ajuste ceñido pero cómodo en pecho, cintura y cadera.
 - LARGO: La talla S mide 128,3 cm de largo desde el lateral del cuello.
 

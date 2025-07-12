@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tejido técnico 1% poliéster reciclado
-- Cierre de cremallera y capucha
 - Bolsillos frontales con botón a presión
+- Cierre de cremallera y capucha
+- Tejido técnico 1% poliéster reciclado
 - Corte clásico
 - Puños elásticos
 

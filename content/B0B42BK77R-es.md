@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Montura en acetato de celulosa de alta calidad que aporta una máxima resistencia y durabilidad. Almohadillas de acetato para una sujeción mucho más cómoda
-- Producto original Hawkers. La caja incluye funda en microfibra y caja
-- Gafas cat eye de montura gruesa y angular. Las líneas de este diseño carey floreado son marcadas, agresivas y originales creando en la parte inferior de la montura un ligero efecto de punta
 - Medidas: Frontal 144 mm; Patillas 140 mm ; Puente 18 mm ; Alto 52 mm. Modelo Unisex
+- Producto original Hawkers. La caja incluye funda en microfibra y caja
 - Lentes categoría 3 y protección uv400 que ofrecen una protección antideslumbrante superior. Lentes de TR18 con el sello de Eastman , uno de los líderes mundiales en tecnología de copoliéster. Respetuoso con el medio ambiente y proporciona un equilibrio único entre claridad y resistencia
+- Gafas cat eye de montura gruesa y angular. Las líneas de este diseño carey floreado son marcadas, agresivas y originales creando en la parte inferior de la montura un ligero efecto de punta
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B42BK77R{{</world>}}

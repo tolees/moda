@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Fabricado con 100% algodón sostenible
+- Corte entallado
 - Cuello redondo
 - Pepe Jeans se asocia con la Iniciativa Better Cotton para mejorar el cultivo del algodón a nivel mundial
-- Corte entallado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CB499V6Q{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Logotipo de la marca
 - Ajuste regular
 - Cuello redondo
+- Logotipo de la marca
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C6QKPX3G{{</world>}}

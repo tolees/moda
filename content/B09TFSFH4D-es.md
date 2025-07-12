@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Espalda y laterales confeccionados en tejido Micro Mesh elástico para maximizar la transpirabilidad
-- Logo J en el pecho
 - Camiseta ligera de manga corta
+- Logo J en el pecho
 - Joma en la espalda en printing 100%
+- Espalda y laterales confeccionados en tejido Micro Mesh elástico para maximizar la transpirabilidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09TFSFH4D{{</world>}}

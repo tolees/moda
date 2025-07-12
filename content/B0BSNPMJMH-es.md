@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cintura ajustable
 - Ajuste regular
+- Cintura ajustable
 - Cintura elástico flexible interior con logotipos repetidos de punto para óptimo comodidad
 - Cierre de cremallera
 

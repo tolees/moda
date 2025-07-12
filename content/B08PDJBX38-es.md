@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Una chaqueta básica y fácil de guardar
 - Aislada con Thermore Ecodown para enfrentarse a un clima adverso y plegable para transportarla con facilidad
-- Diseño impermeable
 - Con el logotipo deportivo reflectante de Levis
+- Una chaqueta básica y fácil de guardar
+- Diseño impermeable
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08PDJBX38{{</world>}}

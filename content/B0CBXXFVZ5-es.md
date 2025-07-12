@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- - Tipo de producto: Camiseta
 - - Mangas: manga corta
-- - Cuello: cuello redondo
+- - Tipo de producto: Camiseta
 - Composición del material: 100% algodón
+- - Cuello: cuello redondo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CBXXFVZ5{{</world>}}

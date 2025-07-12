@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Serigrafía en el pecho
-- __Tejido:__ algodón orgánico (160 g/m2)
 - __corte:__ corte normal
+- __Tejido:__ algodón orgánico (160 g/m2)
 - __Cuello:__ Cuello redondo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

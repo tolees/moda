@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ajuste holgado
 - Logotipo grande en el lateral
+- Ajuste holgado
 - Cuello redondo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Panel con forma en la parte superior trasera
-- Manga larga con puños, cierre de botón a presión
 - Cuello de camisa
 - Bajo ligeramente redondeado
 - Bolsillos con solapa y cierre a presión en el pecho
+- Panel con forma en la parte superior trasera
+- Manga larga con puños, cierre de botón a presión
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BS19W7ZB{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cierre: bragueta con cierre de botón
 - Tipo de producto: jeans ajustados
 - Composición del material: 68% algodón, 30% poliéster, 2% elastano
-- Cierre: bragueta con cierre de botón
 - Cintura: cintura baja
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

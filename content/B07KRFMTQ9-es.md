@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tejido de 125g/ m2.
 - El tejido elástico natural proporciona mayor libertad de movimiento
-- Hecho de fibras 100% Lifa, desarrollado por Helly para mantenerte caliente, seco y cómodo
 - El tejido de capa base ultraligero proporciona aislamiento y control de la humedad
+- Tejido de 125g/ m2.
+- Hecho de fibras 100% Lifa, desarrollado por Helly para mantenerte caliente, seco y cómodo
 - Costuras planas para mayor volumen y junto al confort de la piel.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

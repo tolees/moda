@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuello
 - suelto
 - Blusa
+- Cuello
 - Manga larga
 
 [🛒 Aquí!!!]({{< param buyurl >}})

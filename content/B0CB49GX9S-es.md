@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Logotipo frontal impreso
 - Corte regular
 - Cuello redondo
+- Logotipo frontal impreso
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CB49GX9S{{</world>}}

@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Corte normal
-- Escote
 - Cierre de cordón
+- Escote
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08RDV6PHN{{</world>}}

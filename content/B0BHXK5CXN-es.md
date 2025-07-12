@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 100 % poliéster
-- Chaqueta amortiguadora
 - Chaqueta acolchada para niño de la marca danesa JACK & JONES Junior
+- Chaqueta amortiguadora
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BHXK5CXN{{</world>}}

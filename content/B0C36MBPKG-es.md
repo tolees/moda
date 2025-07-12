@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Escote: cuello redondo
-- Composición: 100% algodón
 - Mangas: manga corta
+- Escote: cuello redondo
 - Tipo de detalle: camiseta
+- Composición: 100% algodón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C36MBPKG{{</world>}}

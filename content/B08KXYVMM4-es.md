@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello
-- Suave
-- Camisa
 - Algodón
 - Cierre de botones
+- Suave
+- Cuello
+- Camisa
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08KXYVMM4{{</world>}}

@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Productos de excelente calidad
-- UA Performance Tech 3pk Crew, Gray, MD
 - Buen producto para uso
+- UA Performance Tech 3pk Crew, Gray, MD
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C5JRDLX3{{</world>}}

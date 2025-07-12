@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Calcetines de fútbol
 - Tobillo y espalda costera
 - Asombroso
-- Calcetines de fútbol
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B42FC49H{{</world>}}

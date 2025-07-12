@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sandalia
-- Suela alta
 - Cierre ajustable
+- Suela alta
+- Sandalia
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B097Q7M7NW{{</world>}}

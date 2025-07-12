@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - 241 gr, Encaje clasico, Cinta de sarga en el cuello
-- Pink Floyd hit the London rock scene in 1965 and, with their unique mix of progressive and psychedelic compositions, became of the most influential bands in music history. Their release, Dark Side of the Moon, has sold over 45 million copies worldwide.
 - PINK FLOYD THE FINAL CUT is 100% authentic, officially licensed PINK FLOYD merchandise!
+- Pink Floyd hit the London rock scene in 1965 and, with their unique mix of progressive and psychedelic compositions, became of the most influential bands in music history. Their release, Dark Side of the Moon, has sold over 45 million copies worldwide.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0924W8PBH{{</world>}}

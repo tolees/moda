@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Adecuado para: clima frío
 - Pantalones largos con diseño elástico
+- Adecuado para: clima frío
 - Estilo de vestir: informal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Tejido térmico gofrado
 - Logotipo Levis Batwing en el pecho
 - Ajuste regular
-- Tejido térmico gofrado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07YR38XXS{{</world>}}

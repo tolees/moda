@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - 5 pares de anteojos de lectura de luz anti-azul, puede colocar un par donde lo necesite, como sala de estar, dormitorio, jardin, facil de leer.
 - Servicio sin preocupaciones. Garantía de reembolso de 30 días.
-- Su tamaño medio se adapta a la mayoría de las formas faciales, brindando un efecto de uso cómodo y favorecedor.las bisagras de resorte aseguran un ajuste perfecto y confortable.
 - El marco está hecho de material de PC de alta gama, ligero, duradero y cómodo de usar diariamente.
+- Su tamaño medio se adapta a la mayoría de las formas faciales, brindando un efecto de uso cómodo y favorecedor.las bisagras de resorte aseguran un ajuste perfecto y confortable.
 - Lente transparente no hay diferencia de color, brindándole una buena experiencia visual.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

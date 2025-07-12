@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forro polar
 - Ajuste relajado
+- Forro polar
 - Capucha de tres piezas con cordón ajustable
 - Franela con porcentaje elástico
 - Flexibilidad robusta: facilita el movimiento

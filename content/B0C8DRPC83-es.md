@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material exterior: 100 % poliéster
-- Material interior: poliéster
 - Tipo de cierre: cremallera
+- Material interior: poliéster
+- Material exterior: 100 % poliéster
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C8DRPC83{{</world>}}

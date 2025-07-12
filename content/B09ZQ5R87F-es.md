@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material Escolar
-- 0
 - Oficial
+- Material Escolar
 - Vuelta al cole
+- 0
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09ZQ5R87F{{</world>}}

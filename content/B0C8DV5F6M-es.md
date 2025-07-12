@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre de cremallera
 - Logotipo de la marca
+- Cierre de cremallera
 - Bolsillos interiores
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

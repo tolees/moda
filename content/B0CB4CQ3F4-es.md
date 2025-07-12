@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Logotipo grande en el lateral
 - Ajuste holgado
 - Cuello redondo
+- Logotipo grande en el lateral
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CB4CQ3F4{{</world>}}

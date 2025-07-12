@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- con cuello mao con abertura en uve en el escote
-- Blusa de manga larga con opción de roll up
 - Con mezcla de algodón y lino
+- Blusa de manga larga con opción de roll up
+- con cuello mao con abertura en uve en el escote
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CCSJK63Y{{</world>}}

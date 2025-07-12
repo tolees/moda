@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material elástico agradable al tacto
 - Material exterior: 98% algodón, 2% elastano
 - Ajuste: Corte ajustado
+- Material elástico agradable al tacto
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B093MCPZXM{{</world>}}

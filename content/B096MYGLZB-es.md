@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Patrón: liso
-- Cuero : Suede
 - Estilo de vida: moda casual
+- Cuero : Suede
 - Estilo: zapatillas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

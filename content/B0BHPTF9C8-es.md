@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Corte normal con cuello de camisa clásico y tira de botones
 - Mangas de media longitud, perfectas para cualquier temporada y ocasión
 - Detalle de nudo de moda y corte acortado para un aspecto moderno
-- ONLPAULA LIFE S/S TIE SHIRT WVN NOOS
 - Elegante blusa de mujer de viscosa para una comodidad elegante
+- Corte normal con cuello de camisa clásico y tira de botones
+- ONLPAULA LIFE S/S TIE SHIRT WVN NOOS
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BHPTF9C8{{</world>}}

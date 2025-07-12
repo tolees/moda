@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Original y vintage
 - Superdry ha recibido la certificación Responsible Down Standard que confirma que nuestros productos rellenos de plumón proceden de fuentes que garantizan el bienestar de los animales
+- Original y vintage
 - La ropa Superdry está fabricada con el equilibrio adecuado entre estilo y comodidad; recomendamos una talla más grande que las marcas usuales para una experiencia de superdry
 
 [🛒 Visítala!!!]({{< param buyurl >}})

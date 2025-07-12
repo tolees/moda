@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Trabillas de
 - Bragueta con cremallera
 - Dos bolsillos traseros
+- Trabillas de
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BRYN5L2L{{</world>}}

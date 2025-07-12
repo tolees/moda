@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Cierre con cordón y bolsillos ajustables
 - Tejido atletismo de malla (180 g)
-- Con logotipo lateral
 - Logotipo "C" impreso en el lateral
+- Con logotipo lateral
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09YMP4MPZ{{</world>}}

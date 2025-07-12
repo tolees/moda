@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con tecnología DRY MX, capaz de controlar la transpiración del deportista
 - Hecho de 100 Percentage poliéster
 - Camiseta sin mangas con cuello redondeado
+- Con tecnología DRY MX, capaz de controlar la transpiración del deportista
 - Adecuado para fitness, montañismo y otro actividades al aire libre
 
 [🛒 Comprar!!!]({{< param buyurl >}})

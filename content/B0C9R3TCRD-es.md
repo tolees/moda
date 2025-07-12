@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Artículo de marca Only
 - Proporciona buena comodidad
+- Artículo de marca Only
 - Ofrece comodidad y libertad de movimiento
 
 [🛒 Aquí!!!]({{< param buyurl >}})

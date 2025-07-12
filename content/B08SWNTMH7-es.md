@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Estilo clásico de Adidas
+- Camiseta de marca Adidas con logo
 - Corte delgado
 - Escote redondo
-- Camiseta de marca Adidas con logo
+- Estilo clásico de Adidas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08SWNTMH7{{</world>}}

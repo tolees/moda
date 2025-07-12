@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Hecho de algodón 100% sostenible
-- Cuello redondo
 - Logotipo impreso en el pecho
+- Cuello redondo
 - Corte normal
+- Hecho de algodón 100% sostenible
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CB4BSNT2{{</world>}}

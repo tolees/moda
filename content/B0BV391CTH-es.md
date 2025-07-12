@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello de polo con cierre de botones
-- Tejido transpirable AEROREADY
 - Corte clásico
+- Cuello de polo con cierre de botones
 - Interlock 100% poliéster reciclado
+- Tejido transpirable AEROREADY
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BV391CTH{{</world>}}

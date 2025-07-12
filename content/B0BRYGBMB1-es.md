@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hecho de algodón premium
-- Nuestros suéteres son suaves y cómodos
 - Regular Fit
 - Importado
+- Nuestros suéteres son suaves y cómodos
+- Hecho de algodón premium
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BRYGBMB1{{</world>}}

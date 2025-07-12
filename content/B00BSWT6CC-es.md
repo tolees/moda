@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camiseta de manga corta
 - Camiseta
-- Camiseta de manga corta regular fit Con estampado en el pecho de Kiss Skulls Hecha en 1% algodón
+- Camiseta de manga corta
 - estampado en el pecho de Kiss Skulls
+- Camiseta de manga corta regular fit Con estampado en el pecho de Kiss Skulls Hecha en 1% algodón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00BSWT6CC{{</world>}}

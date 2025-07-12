@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre: Sin cordones
-- Tipo de tacón: Plano
-- Material exterior: Caucho
 - Precio mínimo en los 30 días previos a la oferta: 11.06€
-- Revestimiento: Caucho
 - Material de la suela: Goma
+- Cierre: Sin cordones
+- Material exterior: Caucho
+- Tipo de tacón: Plano
+- Revestimiento: Caucho
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B076B5ZVGY{{</world>}}

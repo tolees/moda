@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Lentes categoría 3 y protección uv400 que ofrecen una protección antideslumbrante superior. Lentes de TR18 - ECO con el sello de Eastman, uno de los líderes mundiales en tecnología de copoliéster. Respetuoso con el medio ambiente y proporciona un equilibrio único entre claridad y resistencia.
 - Montura en acetato ECO - material biodegradable resistente, versátil que puede descomponerse naturalmente en dióxido de carbono, agua y biomasa. Bisagra de 5 barras para un mayor agarre y durabilidad. Bisagra de 3 barras para un mayor agarre y durabilidad.
 - Medidas: Frontal 151 mm; Patillas 145 mm ; Puente 14 mm ; Alto 59 mm
-- Producto Oficial Hawkers. Incluye: Funda en microfibra, caja y set de pegatinas decorativas
 - Te traemos lo mejor de los 70s con este retroframe de acetato con acabado brillante y silueta allblack en formato XL. ¡Únete al estilo vintage de Paula luciendo este diseño!
+- Lentes categoría 3 y protección uv400 que ofrecen una protección antideslumbrante superior. Lentes de TR18 - ECO con el sello de Eastman, uno de los líderes mundiales en tecnología de copoliéster. Respetuoso con el medio ambiente y proporciona un equilibrio único entre claridad y resistencia.
+- Producto Oficial Hawkers. Incluye: Funda en microfibra, caja y set de pegatinas decorativas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CJFVQ13C{{</world>}}

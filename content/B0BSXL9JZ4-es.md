@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Collar de eslabón y de cadena de BOSS Jewelry
+- Longitud del collar: 50,8 cm
 - Decorada con logo BOSS Jewelry grabado en el cierre
 - Cierre: mosquetón
 - Material: Acero inoxidable con chapado iónico oro amarillo
-- Collar de eslabón y de cadena de BOSS Jewelry
-- Longitud del collar: 50,8 cm
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BSXL9JZ4{{</world>}}

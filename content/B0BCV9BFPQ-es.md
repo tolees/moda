@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello en V con borde enrollado
 - Jersey de algodón suave
+- 100% algodón de entretiempo orgánico
 - Logotipo bordado en el lado izquierdo del pecho
 - Corte ajustado
-- 100% algodón de entretiempo orgánico
+- Cuello en V con borde enrollado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BCV9BFPQ{{</world>}}

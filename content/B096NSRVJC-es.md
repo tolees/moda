@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material exterior: Cuero
 - Revestimiento: Sintético
+- Material exterior: Cuero
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B096NSRVJC{{</world>}}

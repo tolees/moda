@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Artículos entregados: 1x Helly Hansen Hombre Camiseta HH Logo,XL,Blanco
 - Exterior: 100% algodón orgánico
+- Artículos entregados: 1x Helly Hansen Hombre Camiseta HH Logo,XL,Blanco
 - Una camiseta de manga corta para hombre con un corte clásico modernizado; camiseta ligera y cómoda de calidad 100% algodón de punto sencillo fabricada en Europa; un estilo clásico que luce un logotipo HH en el pecho
 - Nuestra camiseta clásica con un logotipo HH en el pecho
 

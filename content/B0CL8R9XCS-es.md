@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ajuste: corte normal
-- Impresión: impresión de pigmentos para una impresión suave en ropa ligera
 - Camiseta de alta calidad para uso diario
+- Impresión: impresión de pigmentos para una impresión suave en ropa ligera
+- Ajuste: corte normal
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CL8R9XCS{{</world>}}

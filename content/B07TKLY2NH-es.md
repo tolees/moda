@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Diseño más ancho del terminal de la patilla para mejorar la ergonomía y confort. Bisagra rotativa de alta calidad que permite libre movimientos entre patilla y frontal.
-- Icónico modelo Hawkers One Fusion, Unisex, con montura degradada de negro a azul y lentes polarizadas azules
+- Producto original Hawkers; la caja incluye funda de microfibra, caja y set de pegatinas decorativas
 - Lente azul polarizada fabricada en TR18, con reducción de brillos y con gran equilibrio entre claridad y protección. Lente de categoría 3 con protección UV400. Resistencia muy alta
 - Modelo Unisex. Medidas: Frontal 141 mm; Alto 50 mm; Patillas 140 mm; Puente 18 mm; Diámetro de lente 54 mm.
-- Producto original Hawkers; la caja incluye funda de microfibra, caja y set de pegatinas decorativas
+- Icónico modelo Hawkers One Fusion, Unisex, con montura degradada de negro a azul y lentes polarizadas azules
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07TKLY2NH{{</world>}}

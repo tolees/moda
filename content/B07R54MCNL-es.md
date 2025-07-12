@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- DETALLES: Clásico escote en “V” y mangas 3/4 para un estilo informal y desenfadado.
 - PUNTO DE MEZCLA DE ALGODÓN Y MODAL: Punto de algodón modal supersuave con elasticidad añadida que garantiza tu comodidad y confort durante todo el día.
-- CAMISETA BÁSICA: Esta versátil camiseta es un clásico esencial en cualquier armario y es perfecta para llevarla debajo de tu chaqueta o rebeca favorita, o para llevarla sola con un outfit informal de diario.
+- DETALLES: Clásico escote en “V” y mangas 3/4 para un estilo informal y desenfadado.
 - AJUSTE CLÁSICO: ajustado pero cómodo, permite el movimiento.
+- CAMISETA BÁSICA: Esta versátil camiseta es un clásico esencial en cualquier armario y es perfecta para llevarla debajo de tu chaqueta o rebeca favorita, o para llevarla sola con un outfit informal de diario.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07R54MCNL{{</world>}}

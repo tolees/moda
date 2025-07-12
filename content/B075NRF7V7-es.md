@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Scratch
 - Casual
+- Scratch
 - Sólo limpieza en seco
 
 [🛒 Visítala!!!]({{< param buyurl >}})

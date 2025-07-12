@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con trabillas para el cinturón
 - Detalles distintivos de la marca
 - Adecuados para el verano
+- Con trabillas para el cinturón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C5Y87FF8{{</world>}}

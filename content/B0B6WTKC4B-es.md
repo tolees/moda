@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Perfecto para la temporada cálida: este vestido de cambray sostenible de TENCEL Lyocell impresiona por su corbata con volantes y dobladillo mini volante.
-- Escote de abertura con detalles fruncidos y lazo
 - Tejido ligero hecho de Tencel Lyocell
-- Manga corta
+- Perfecto para la temporada cálida: este vestido de cambray sostenible de TENCEL Lyocell impresiona por su corbata con volantes y dobladillo mini volante.
 - Dobladillo de cenefa
+- Manga corta
+- Escote de abertura con detalles fruncidos y lazo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B6WTKC4B{{</world>}}

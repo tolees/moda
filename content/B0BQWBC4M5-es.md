@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - corte normal
-- Mangas cortas
 - Camiseta Adidas
+- Mangas cortas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BQWBC4M5{{</world>}}

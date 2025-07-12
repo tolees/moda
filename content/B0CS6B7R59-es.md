@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con 2 asas superiores
 - Insignia del monograma TH en la parte delantera
+- Con 2 asas superiores
 - Adecuado para el día a día
 
 [🛒 Comprar!!!]({{< param buyurl >}})

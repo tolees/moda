@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Puños y dobladillo de canalé
-- Cuello redondo
-- Corte clásico
 - Felpa 70% algodón / 30% poliéster reciclado
+- Corte clásico
+- Cuello redondo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08VRYDBT5{{</world>}}
