@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Rápido y fácil de poner
 - Calzado ligero
+- Rápido y fácil de poner
 - Hebilla en la correa para ajustar el ajuste
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Logo de metal de Kipling
 - Ligero, resistente y siempre práctico
 - Compartimento principal con cremallera con bolsillo con cremallera y 2 bolsillos abiertos
-- Logo de metal de Kipling
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B083YD44HK{{</world>}}

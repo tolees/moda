@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corte de rendimiento
-- Resistente al cloro para una larga duración y resistencia
 - Los básicos por naturaleza
+- Resistente al cloro para una larga duración y resistencia
+- Corte de rendimiento
 - Protección UV 50+
 - Resistente al aceite y a la crema
 

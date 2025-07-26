@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Modelo: Carrera 1001/s
+- Color: 8RU/9O BLUE RED
 - Funda protectora incluida
 - Size: 62 Millimetres
-- Color: 8RU/9O BLUE RED
 - Marca: Carrera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

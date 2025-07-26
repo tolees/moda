@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Accesorios dorados
-- Nailon
 - Cremallera superior
 - Con logotipo
 - Negro
+- Nailon
+- Accesorios dorados
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BLHPYQJC{{</world>}}

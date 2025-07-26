@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- verano
 - Camiseta
 - NASA
-- verano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C5F1K81K{{</world>}}

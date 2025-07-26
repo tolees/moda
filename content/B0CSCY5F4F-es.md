@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Diseño: Conjunto de camiseta de manga corta y pantalones, color sólido, camisa de manga corta con cuello redondo clásico, bolsillo canguro, deshazte de la monotonía, pantalón, cintura elástica con cordón, puños de pantorrilla con puños elásticos, dos bolsillos laterales, puede contener objetos pequeños, conveniente y práctico. Informal, ligero, que crea una apariencia elegante y moderna.
+- Mantenimiento: Lavar a mano y lavar a máquina (temperatura del agua no superior a 30 °), no usar lejía.
 - Tamaño: Compruebe cuidadosamente los detalles del tamaño antes de realizar el pedido y elija el tamaño que más le convenga.
 - Ocasión: Traje deportivo de 2 piezases muy adecuado para ocasiones de ocio, escuela, gimnasio, correr, fitness, compras, etc.
-- Diseño: Conjunto de camiseta de manga corta y pantalones, color sólido, camisa de manga corta con cuello redondo clásico, bolsillo canguro, deshazte de la monotonía, pantalón, cintura elástica con cordón, puños de pantorrilla con puños elásticos, dos bolsillos laterales, puede contener objetos pequeños, conveniente y práctico. Informal, ligero, que crea una apariencia elegante y moderna.
 - Material: 65% cotton 30% polyester 5% spandex, suave y transpirable para mantenerse fresco y cómodo. Chándal conjunto mujer, se puede usar como ropa deportiva o como ropa casual de casa, es un conjunto indispensable en tu armario de verano.
-- Mantenimiento: Lavar a mano y lavar a máquina (temperatura del agua no superior a 30 °), no usar lejía.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CSCY5F4F{{</world>}}

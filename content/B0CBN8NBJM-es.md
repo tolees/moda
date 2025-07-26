@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Género: chanclas para mujeres adultas
-- Tamaño: al comprar sandalias Havaianas en Amazon, debes considerar la talla BR/proveedor como equivalente a la talla de la UE, independientemente de lo que se muestre en la suela del producto
-- Color de las chanclas: Coralnew
 - Tipo de suela: cómoda, duradera, ligera, resistente al calor, antideslizante y resistente al agua
 - Correa: PVC. Material de la suela: goma
+- Color de las chanclas: Coralnew
+- Tamaño: al comprar sandalias Havaianas en Amazon, debes considerar la talla BR/proveedor como equivalente a la talla de la UE, independientemente de lo que se muestre en la suela del producto
 - Nota Considera la talla BR = talla de la UE, independientemente de lo que muestre la suela del producto, la talla BR se ajusta adecuado y corresponde a la talla de la UE + prueba siempre el producto primero
 
 [🛒 Aquí!!!]({{< param buyurl >}})

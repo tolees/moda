@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Logotipo Polaroid en la lente izquierda
-- Frente de acero inoxidable color antracita
-- Gafas de sol con lentes polarizadas para mujer, la montura se puede completar con lentes graduadas
-- Varillas de acero inoxidable de color antracita con puntas negras y decoración grabada con láser
 - Lentes de policarbonato
+- Gafas de sol con lentes polarizadas para mujer, la montura se puede completar con lentes graduadas
+- Logotipo Polaroid en la lente izquierda
+- Varillas de acero inoxidable de color antracita con puntas negras y decoración grabada con láser
+- Frente de acero inoxidable color antracita
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07XPCQ2CY{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sudadera con capucha para hombre en estándar de la marca danesa Jack & Jones
 - Apoyo de la iniciativa Better Cotton: somos miembros orgullosos de la iniciativa «Better Cotton Initiative». Al comprar nuestros productos fabricados con algodón, contribuyen a un cultivo más sostenible del algodón. El algodón proviene de un sistema de balance en masa
+- Sudadera con capucha para hombre en estándar de la marca danesa Jack & Jones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09JSL6XTD{{</world>}}

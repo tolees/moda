@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ¡Nota! Talla S corresponde a Pecho (cm) 88.9 - 94, Contorno de cintura (cm) 73.7 - 78.7, Cadera (cm) 89 - 94
 - Elaboradas en punto suave
-- Modelos casual
 - Este producto es original Levis
+- Modelos casual
+- ¡Nota! Talla S corresponde a Pecho (cm) 88.9 - 94, Contorno de cintura (cm) 73.7 - 78.7, Cadera (cm) 89 - 94
 - Con un logo Levis en el bajo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

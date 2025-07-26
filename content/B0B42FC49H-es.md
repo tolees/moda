@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Asombroso
 - Calcetines de fútbol
+- Asombroso
 - Tobillo y espalda costera
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Modelo Unisex. Medidas: Frontal 139 mm; Alto 42,3 mm; Patillas 145 mm; Puente 16 mm; Diámetro de lente 54 mm.
+- Producto original Hawkers. La caja incluye funda en microfibra y caja
 - ONE LS es uno de nuestros diseños más vendidos de todos los tiempos. Este modelo, de la colección Made in Spain, tiene una montura azul marino mate y lentes POLARIZADAS azul cromado con efecto espejo.
 - Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores
 - Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Bisagra de doble acción para un cierre de patillas seguro y durabilidad. Diseño más ancho del terminal de la patilla para mejorar la ergonomía y confort. Unión de 45º para suavizar la junta entre montura y patilla dándole una continuidad perfecta.
-- Producto original Hawkers. La caja incluye funda en microfibra y caja
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09XBPX46S{{</world>}}

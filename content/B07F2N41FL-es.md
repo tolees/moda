@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ABERTURA DE LA PIERNA: La talla 42 mide 20,3 cm.
 - DETALLES: Presenta bragueta con cremallera y cierre de botón, y bolsillos cargo laterales y traseros con solapas de cierre de botón.
-- PANTALÓN CARGO: Estos clásicos pantalones cargo son una alternativa elegante a los chinos sin pliegues delanteros y son lo suficientemente elásticos como para mantenerte cómodo durante todo el día.
 - AJUSTE RECTO: Entallado en la cadera y el muslo, con pierna recta. Queda por la cintura.
+- PANTALÓN CARGO: Estos clásicos pantalones cargo son una alternativa elegante a los chinos sin pliegues delanteros y son lo suficientemente elásticos como para mantenerte cómodo durante todo el día.
+- ABERTURA DE LA PIERNA: La talla 42 mide 20,3 cm.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07F2N41FL{{</world>}}

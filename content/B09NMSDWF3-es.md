@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bolso con estampado a cuadros a juego, microgafas de sol y joyas en varias capas
-- Pelo largo con trenzas en color lila para peinar
-- Muñecas Barbie Extra con 15 artículos que incluyen ropa y accesorios de moda, además de una mascota y complementos para ella
 - Vestido deportivo verde neón, chaqueta extragrande de cuadros blancos y negros, calcetines de color lavanda y sandalias blancas de tacón
+- Muñecas Barbie Extra con 15 artículos que incluyen ropa y accesorios de moda, además de una mascota y complementos para ella
+- Pelo largo con trenzas en color lila para peinar
+- Bolso con estampado a cuadros a juego, microgafas de sol y joyas en varias capas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09NMSDWF3{{</world>}}

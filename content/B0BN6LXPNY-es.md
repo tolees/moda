@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre: cremallera
-- Forma del tacón: plano
-- Material interior: sintético
 - Material superior: sintético
+- Material interior: sintético
+- Forma del tacón: plano
+- Cierre: cremallera
 - Suela: goma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

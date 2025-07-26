@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Exterior: 95% algodón, 5% elastano; insertos 100% algodón
 - Camiseta mangas kimono con volantes inferior apertura gota detrás de la aplicación etiqueta en la parte inferior delantera ajuste regular
+- Exterior: 95% algodón, 5% elastano; insertos 100% algodón
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CJVNKWDX{{</world>}}

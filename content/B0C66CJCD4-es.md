@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ligeras y transpirables
 - Ofrecen una comodidad óptima
+- Ligeras y transpirables
 - Diseño deportivo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

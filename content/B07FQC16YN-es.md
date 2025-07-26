@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte slim fit ni muy ceñido ni muy holgado
 - Costuras marrones para un look denim auténtico
+- Corte slim fit ni muy ceñido ni muy holgado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07FQC16YN{{</world>}}

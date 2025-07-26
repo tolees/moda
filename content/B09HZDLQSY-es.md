@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela sintética
+- Compra 1 talla más grande
 - Mediasuela Cloudfoam
 - Parte superior sintética
-- Compra 1 talla más grande
 - Forro textil
+- Suela sintética
 - Plantilla moldeada
 
 [🛒 Comprar!!!]({{< param buyurl >}})

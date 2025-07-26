@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con DRY MX, una tecnología capaz de controlar la humedad corporal
 - Esta fabricada en 100% poliéster
+- Con DRY MX, una tecnología capaz de controlar la humedad corporal
 - Mantiene la piel fresca y seca
 - Combina un diseño de cuello redondo con manga corta
 

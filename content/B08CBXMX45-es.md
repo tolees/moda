@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin bolsillos
-- Pantalón largo deportivo
-- Cordon interior para ajuste óptimo
 - Tiene detalles distintivos de la marca
+- Pantalón largo deportivo
+- Sin bolsillos
+- Cordon interior para ajuste óptimo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08CBXMX45{{</world>}}

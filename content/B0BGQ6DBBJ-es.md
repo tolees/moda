@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cómodo jersey de algodón y poliéster
-- Sudadera con capucha
-- Bolsillos tipo canguro en la parte delantera
-- RIB en las mangas y en la parte inferior
 - Logotipo ROXY en lámina en la parte delantera
+- RIB en las mangas y en la parte inferior
+- Cómodo jersey de algodón y poliéster
+- Bolsillos tipo canguro en la parte delantera
+- Sudadera con capucha
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BGQ6DBBJ{{</world>}}

@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Un pantalón corto de algodón con estilo deportivo.
-- Tiro medio.
 - Ropa deportiva fabricada con materiales de primera calidad que se adaptan a cualquier actividad deportiva
-- Punto liso, 93 % algodón / 7 % elastán.
 - Ajuste ceñido.
+- Punto liso, 93 % algodón / 7 % elastán.
+- Tiro medio.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B096H8GLJS{{</world>}}

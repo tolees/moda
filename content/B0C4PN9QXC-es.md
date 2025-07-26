@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Camiseta deportiva adecuada para deportes de equipo o entrenamientos
 - Hecha de tela transpirable para mayor comodidad
-- PUMA Team LIGA Jersey
 - Diseño clásico de PUMA con logotipo
+- PUMA Team LIGA Jersey
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C4PN9QXC{{</world>}}

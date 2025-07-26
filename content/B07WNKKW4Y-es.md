@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Dos bolsillos laterales y un bolsillo para monedas con ribetes anchos
 - Cremallera con botón de logotipo
-- Vaqueros de cintura media
+- Dos bolsillos laterales y un bolsillo para monedas con ribetes anchos
 - Corte regular con piernas delgadas
+- Vaqueros de cintura media
 - Cintura con trabillas anchas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

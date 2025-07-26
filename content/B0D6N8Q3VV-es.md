@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Jersey básico cuello rendondo en 100% algodón
 - Logo Springfield bordado
+- Jersey básico cuello rendondo en 100% algodón
 - Puños en canalé y bajo liso
 
 [🛒 Aquí!!!]({{< param buyurl >}})

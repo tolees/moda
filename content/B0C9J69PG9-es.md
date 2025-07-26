@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuenta con un diseño ligero
 - Ofrece comodidad y libertad de movimiento
 - Tiene detalles distintivos de la marca
+- Cuenta con un diseño ligero
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C9J69PG9{{</world>}}

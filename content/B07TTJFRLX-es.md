@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Comodidad
 - Material exterior: sintético
 - Tipo de cierre: sin cierre
-- Comodidad
 - Estilo: Slingback
 - Plantilla cómoda acolchada de espuma de lujo
 

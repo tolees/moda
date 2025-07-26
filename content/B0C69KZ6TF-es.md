@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Cierre: cordones
 - Suela: goma
-- Material interior: sintético
 - Material superior: cuero
+- Material interior: sintético
 - Forma del tacón: plano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

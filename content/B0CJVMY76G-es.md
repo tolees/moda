@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camiseta de tirantes de algodón orgánico con cuello y sisas acanaladas y estampado con logo frontal
 - 100% algodón
+- Camiseta de tirantes de algodón orgánico con cuello y sisas acanaladas y estampado con logo frontal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CJVMY76G{{</world>}}

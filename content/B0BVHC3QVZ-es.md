@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Talla 63/12/145
+- Garantía internacional de 2 años
 - Sin Polarizar
 - Gold/Blue Shaded
-- Garantía internacional de 2 años
-- Talla 63/12/145
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BVHC3QVZ{{</world>}}

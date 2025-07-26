@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- AEROREADY
-- Espacio para personalizarla
-- 100% poliéster (reciclado)
 - Corte clásico
+- AEROREADY
+- 100% poliéster (reciclado)
+- Espacio para personalizarla
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CZ9M2WYH{{</world>}}

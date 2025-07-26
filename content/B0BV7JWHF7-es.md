@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Modelo unisex, medidas: frontal 139 mm, alto 42.3 mm, patillas 145 mm, puente 16 mm, diámetro de lente 54 mm
+- Este modelo, de la colección Made in Spain, tiene una montura negra mate con logotipos plateados en las patillas y lentes Polarizadas de color lila con efecto espejo
 - Gafas de sol fabricadas en TR90 con el sello de EMS, bisagra de doble acción para un cierre de patillas seguro y durabilidad
 - Gafas de sol polarizadas, otorga una visión sin reflejos y contraste natural de colores, lentes categoría 3 fabricadas con material bio tac polarizado y protección UV400
-- Este modelo, de la colección Made in Spain, tiene una montura negra mate con logotipos plateados en las patillas y lentes Polarizadas de color lila con efecto espejo
 - Producto original Hawkers. La caja incluye funda en microfibra y caja
+- Modelo unisex, medidas: frontal 139 mm, alto 42.3 mm, patillas 145 mm, puente 16 mm, diámetro de lente 54 mm
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BV7JWHF7{{</world>}}

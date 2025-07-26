@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Capucha extraíble y forrada
 - Tela con purpurina ligera, textura arrugada y letras recortadas
-- Cuello alto
 - hasta la cadera
+- Cuello alto
 - Corte estándar
 - Desigual
+- Capucha extraíble y forrada
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BT89VLYM{{</world>}}

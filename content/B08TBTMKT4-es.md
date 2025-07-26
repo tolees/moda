@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Do Not Wash
-- Desigual Accesorios - Bolso de mano con asa para cruzar y solapa asimétrica.
-- Grabado de cenefas sobre su superficie de PU
-- Bolso de mano de piel sintética grabada de cenefas y solapa. Con asa para cruzar y llavero exterior de adorno. Nueva colección Accesorios OI21 Desigual.
 - Solapa asimétrica en diagonal
+- Grabado de cenefas sobre su superficie de PU
+- Do Not Wash
+- Bolso de mano de piel sintética grabada de cenefas y solapa. Con asa para cruzar y llavero exterior de adorno. Nueva colección Accesorios OI21 Desigual.
+- Desigual Accesorios - Bolso de mano con asa para cruzar y solapa asimétrica.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08TBTMKT4{{</world>}}

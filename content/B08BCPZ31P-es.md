@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte más largo en la parte posterior que en la parte delantera
 - Mangas largas con puños abotonados
+- Corte más largo en la parte posterior que en la parte delantera
 - Solapa frontal completa con botones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

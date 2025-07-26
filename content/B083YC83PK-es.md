@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Correas ajustables para el hombro
-- Compartimento con cierre magnético
-- Kipling logo
 - Repelente al agua
+- Correas ajustables para el hombro
+- Kipling logo
+- Compartimento con cierre magnético
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B083YC83PK{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- cómodo, adecuado para dormir y estar en casa sin perder tu toque de estilo
 - Pijama camisero 100% algodón, de manga corta y shorts corte recto, con estampado allover figurativo de soles, lunas y palmas a contraste en color kaki
+- cómodo, adecuado para dormir y estar en casa sin perder tu toque de estilo
 - Camisa con cuello camisero, bolsillo en el pecho y abotonadura central
 
 [🛒 Aquí!!!]({{< param buyurl >}})

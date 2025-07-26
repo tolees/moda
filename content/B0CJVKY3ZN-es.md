@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Camiseta de algodón orgánico. Impresión con agua más purpurina.
 - 100% algodón
+- Camiseta de algodón orgánico. Impresión con agua más purpurina.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CJVKY3ZN{{</world>}}

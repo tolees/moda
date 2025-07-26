@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ancho del zapato: medio
 - Forma del tacón: plano
 - Resistencia al agua: no impermeable
 - Material interior: sintético
+- Ancho del zapato: medio
 - Material exterior: sintético
 
 [🛒 Comprar!!!]({{< param buyurl >}})

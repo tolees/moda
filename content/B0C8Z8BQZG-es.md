@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuello redondo
 - Confort
+- Cuello redondo
 - Logotipo en el pecho
 
 [🛒 Aquí!!!]({{< param buyurl >}})

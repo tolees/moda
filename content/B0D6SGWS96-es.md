@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Producto original Hawkers. La caja incluye funda en microfibra y caja
-- Modelo Femenino. Medidas: Frontal 140 mm, Varillas 145 mm , Puente 19 mm , Alto 56 mm.
 - Gafas de sol vintage tributo a las siluetas nostálgicas de estilo mariposa de los años 70. Un diseño oversized sofisticado y cómodo para lucir tanto de día como en cualquier evento sin tener que huir de los flashes. Este nuevo diseño de nuestra línea ECO está disponible en varios colores de monturas y lentes.
+- Modelo Femenino. Medidas: Frontal 140 mm, Varillas 145 mm , Puente 19 mm , Alto 56 mm.
 - Categoría de filtro 3, color suficientemente oscuro para usar en exterior a pleno sol. Absorben entre un 82% y un 92% de luz solar. Material de la lente: Lente de tritan renew material de alto rendimiento con el sello de Eastman. Obtenido por tecnologia de reciclaje molecular. Respetuoso con el medio ambiente y sostenible. Protección 100 % UV. Color de la lente: Negro. Apariencia de la lente: Gradiente.
 - Material del montura: Tritan Renew. Color del montura: Negro. Color de la varilla: Carey, Negro, Amarillo.
 

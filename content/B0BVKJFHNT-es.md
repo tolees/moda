@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Color de lente: Gris
 - Forma: CUADRADO
-- Material: acetato
 - Talla: 62
+- Material: acetato
 - Color: Negro y gris
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

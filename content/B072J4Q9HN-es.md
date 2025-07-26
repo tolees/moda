@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material de la suela:Caucho
 - Material exterior:Sintético
 - Cierre:Sin Cordones
+- Material de la suela:Caucho
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B072J4Q9HN{{</world>}}

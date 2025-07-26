@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cuenta con tirantes ajustables
 - Sujetador con relleno y aros
 - Tiene copas moldeadas y suaves
-- Cuenta con tirantes ajustables
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BRL858G6{{</world>}}

@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Material del montura: TR90 Color del montura: Azul Color de la varilla: Azul
-- Producto original Hawkers La caja incluye funda en microfibra y caja
-- Categoría de filtro 3, color suficientemente oscuro para usar en exterior a pleno sol Absorben entre un 82% y un 92% de luz solar Material de la lente: Lentes de TR18 con el sello de Eastman, calidad óptica y resistencia Respetuoso con el medio ambiente Protección 100% UV Color de la lente: Azul Apariencia de la lente: Gradiente
-- Gafas de sol redondas con sutil forma de ojo gato para un look urban-sport Una silueta atemporal de líneas delgadas y depuradas combinadas con un tramado en las varillas para el agarre, adecuado para acompañarte en tu día a día Disponible en varios colores de lentes y monturas en acabados y mate
 - Modelo Unisex Medidas: Frontal 141 mm, Varillas 145 mm , Puente 19 mm , arriba 49 mm
+- Producto original Hawkers La caja incluye funda en microfibra y caja
+- Gafas de sol redondas con sutil forma de ojo gato para un look urban-sport Una silueta atemporal de líneas delgadas y depuradas combinadas con un tramado en las varillas para el agarre, adecuado para acompañarte en tu día a día Disponible en varios colores de lentes y monturas en acabados y mate
+- Categoría de filtro 3, color suficientemente oscuro para usar en exterior a pleno sol Absorben entre un 82% y un 92% de luz solar Material de la lente: Lentes de TR18 con el sello de Eastman, calidad óptica y resistencia Respetuoso con el medio ambiente Protección 100% UV Color de la lente: Azul Apariencia de la lente: Gradiente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D6S16BPV{{</world>}}

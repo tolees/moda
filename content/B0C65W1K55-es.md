@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Adecuadas para los días cálidos
 - Ofrecen una comodidad óptima
+- Adecuadas para los días cálidos
 - Transpirables y ligeras
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

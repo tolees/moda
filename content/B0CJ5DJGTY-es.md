@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Revestimiento: Caucho
 - Revestimiento: Sin forro
-- Material exterior: Goma
+- Revestimiento: Caucho
 - Composición: Goma
+- Material exterior: Goma
 - Composición: Goma
 - Material exterior: Caucho
 

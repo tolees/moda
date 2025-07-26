@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello redondo
 - Logotipo de archivo en la parte delantera
+- Cuello redondo
 - Tommy Hilfiger Bandera bordada en el puño
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

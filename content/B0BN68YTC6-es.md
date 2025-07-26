@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forma del tacón: tacón de bloque
 - Material interior: sintético
+- Forma del tacón: tacón de bloque
 - Suela: goma
 - Material superior: sintético
 - Cierre: cremallera

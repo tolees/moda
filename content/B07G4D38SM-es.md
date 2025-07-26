@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Logotipo de Carrera grabado en relieve en cada patilla, logotipo C en el interior del terminal izquierdo
-- Gafas de sol Navigator para hombre con montura gruesa de plástico inyectado
-- Lentes marrones de policarbonato 100% anti-UV con efecto degradado
-- Almohadillas nasales con forma para un ajuste máximo
 - Acabado negro de impacto
+- Lentes marrones de policarbonato 100% anti-UV con efecto degradado
+- Gafas de sol Navigator para hombre con montura gruesa de plástico inyectado
+- Almohadillas nasales con forma para un ajuste máximo
+- Logotipo de Carrera grabado en relieve en cada patilla, logotipo C en el interior del terminal izquierdo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07G4D38SM{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Cremallera de media longitud
 - Corte regular
 - Bolsillo en la parte delantera
-- Cremallera de media longitud
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09RB7ZXW2{{</world>}}

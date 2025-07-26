@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Membrana impermeable TimberDry, confeccionada con un 50 % de plástico
-- Lengüeta totalmente reforzada
-- Forro confeccionado en tejido ReBOTL con al menos un 50 % de plástico
-- Entresuela de polímero de goma EVA, moldeada por compresión, que ofrece amortiguación con una alta capacidad de rebote
 - Cuero Better Leather, procedente de una curtiduría con certificación de plata por sus buenas prácticas en la gestión del agua, la energía y los residuos
-- Suela con tacos de goma
-- Tope de la puntera y pieza del talón confeccionados en goma de escalada
+- Entresuela de polímero de goma EVA, moldeada por compresión, que ofrece amortiguación con una alta capacidad de rebote
+- Forro confeccionado en tejido ReBOTL con al menos un 50 % de plástico
 - Piezas metálicas inoxidables de lazada rápida y ganchos de bloqueo
+- Lengüeta totalmente reforzada
+- Tope de la puntera y pieza del talón confeccionados en goma de escalada
+- Membrana impermeable TimberDry, confeccionada con un 50 % de plástico
+- Suela con tacos de goma
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09M93JD3B{{</world>}}

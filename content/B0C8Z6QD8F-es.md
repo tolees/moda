@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuello redondo
 - Ofrece una comodidad óptima
+- Cuello redondo
 - Detalles distintivos de Tommy Hilfiger
 
 [🛒 Aquí!!!]({{< param buyurl >}})

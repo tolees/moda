@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Composición: Sintético
-- Tipo de tacón: Plano
 - Cierre: Tira de tobillo
-- Revestimiento: Sin forro
 - Material exterior: Espuma
 - Material de la suela: Sintético
+- Tipo de tacón: Plano
+- Composición: Sintético
+- Revestimiento: Sin forro
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0014BYHA8{{</world>}}

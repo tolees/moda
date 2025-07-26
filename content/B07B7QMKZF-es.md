@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material de calidad
 - Práctico bolsillo interior
+- Material de calidad
 - Bolsillos laterales con cremallera
 - Chaqueta con capucha, con logo bordado
 

@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - vestir
-- SOSTÉN
-- Tamaño: 44
 - Selene Sujetador con aros sin relleno Jimena para mujer, Beige, 44
+- Tamaño: 44
+- SOSTÉN
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07K2GG7PP{{</world>}}

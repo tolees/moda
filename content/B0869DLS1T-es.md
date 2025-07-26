@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Composición del material: 100% poliéster
-- Mangas cortas con detalle de volantes
 - Cinturón en la cintura
 - Vestido cruzado estampado
+- Mangas cortas con detalle de volantes
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0869DLS1T{{</world>}}

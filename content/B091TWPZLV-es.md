@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cremallera completa
 - Diseño danés
+- Cremallera completa
 - 100% poliéster
 - Composición Material: Exterior: 100% Poliéster; Forro: 100% Poliéster; Manga: 100% Poliéster; Costilla: 100% Poliéster
 

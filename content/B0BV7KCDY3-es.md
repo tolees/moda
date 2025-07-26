@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Producto original Hawkers. La caja incluye funda en microfibra y caja
 - Medidas: Frontal 144 mm; Alto 46 mm; Patillas 140 mm; Puente 19 mm; Diámetro de lente 52 mm
+- Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el Nylon para monturas del mundo que proporciona flexibilidad y resistencia Bisagra de 5 barras para un adecuado agarre y durabilidad
 - Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores Lentes categoría 3 lentes fabricadas con material bio tac polarizado y protección uv400
 - Gafas de sol estilo mariposa inspiradas en el Hollywood de los años 70 Este modelo, de la colección Made in Spain, combina montura negra en acabado y lentes de espejo POLARIZADAS en color rosa dorado
-- Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el Nylon para monturas del mundo que proporciona flexibilidad y resistencia Bisagra de 5 barras para un adecuado agarre y durabilidad
-- Producto original Hawkers. La caja incluye funda en microfibra y caja
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BV7KCDY3{{</world>}}

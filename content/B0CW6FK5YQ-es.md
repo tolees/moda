@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- con cuello camisero
-- con escote en uve con detalle de pliegue
 - con el bajo asimñétrico y con estampado
+- con cuello camisero
 - Blusa de manga corta caída
+- con escote en uve con detalle de pliegue
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CW6FK5YQ{{</world>}}

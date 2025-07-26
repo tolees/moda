@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuello de polo con cierre de botones
 - Corte clásico
+- Cuello de polo con cierre de botones
 - Interlock 100% poliéster reciclado
 
 [🛒 Visítala!!!]({{< param buyurl >}})

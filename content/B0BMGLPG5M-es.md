@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cierre frontal con botones
+- Longitud de la cadera
 - Cuello clásico
 - Una chaqueta moderna para la oficina y el ocio
-- Longitud de la cadera
 - Chaqueta ligera para mujer para cualquier ocasión
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

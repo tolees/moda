@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material interior: sintético
-- Talla del zapato: Medium
 - Suela: goma
+- Material interior: sintético
 - Forma del talón: plano
-- Material exterior: sintético
 - Cierre: cierre de velcro
+- Talla del zapato: Medium
+- Material exterior: sintético
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B096MYK4F6{{</world>}}

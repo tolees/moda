@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ligeras y flexibles
 - Con punta abierta
+- Ligeras y flexibles
 - Para las actividades al aire libre
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

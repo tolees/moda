@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Vestido de Denim
 - Vestido de jeans
+- Vestido de Denim
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07C41FQKC{{</world>}}

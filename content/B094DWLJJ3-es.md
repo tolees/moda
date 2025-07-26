@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ofrece comodidad
 - Marca: NIKE
+- Ofrece comodidad
 - Alta calidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})

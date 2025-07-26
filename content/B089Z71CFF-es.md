@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Estampado del logotipo PUMA N.º 1 de goma en la parte izquierda del pecho
+- Bye Dye: Bye Dye es una de las soluciones de PUMA para reducir el impacto ambiental. Al no usar blanqueadores ni tintas, ahorramos agua en el proceso de producción
 - BCI: Al comprar productos de algodón de PUMA, apoyas una producción más sostenible de algodón mediante la Iniciativa del Mejor Algodón (Better Cotton Initiative). Más información en: bettercotton.org/massbalance
 - Corte normal
-- Bye Dye: Bye Dye es una de las soluciones de PUMA para reducir el impacto ambiental. Al no usar blanqueadores ni tintas, ahorramos agua en el proceso de producción
 - Cuello redondo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

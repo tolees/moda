@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Puntera cerrada
 - Utilizado como casual
 - No es resistente al agua
+- Puntera cerrada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CB41NYCN{{</world>}}

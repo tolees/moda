@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello mao con abertura en uve
 - Ofrece una comodidad óptima
+- Cuello mao con abertura en uve
 - Con tejido ligero y suave
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

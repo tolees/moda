@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Trampa de aire 300 g/m²
-- Ribete elástico en el dobladillo
 - Cremallera frontal completa / 3 bolsillos con cremallera
+- Ribete elástico en el dobladillo
 - Paneles laterales de forro polar negro
+- Trampa de aire 300 g/m²
 - Forro polar con efecto acanalado
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Forma: PLANA
-- Material: acetato
 - Color de lente: Gris polarizado
-- Talla: 59
 - De color negro
+- Material: acetato
+- Forma: PLANA
+- Talla: 59
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BFR68HQH{{</world>}}

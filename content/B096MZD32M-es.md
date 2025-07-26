@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Moda: zapatillas
 - Estilo de vida: Moda informal
+- Moda: zapatillas
 - Patrón: liso
 
 [🛒 Visítala!!!]({{< param buyurl >}})

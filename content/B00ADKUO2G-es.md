@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Minimizer-reductor
 - Modelo: LOREA D
 - Fabricado en microfibra de dos capas preformadas
-- Minimizer-reductor
 - Gran capacidad y sujeción
 - Lavar a máquina a 30°C
 

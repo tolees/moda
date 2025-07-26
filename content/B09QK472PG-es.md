@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Ligero, bolsillos
 - Ajuste: normal
 - Algodón
-- Ligero, bolsillos
 - No resistente al agua
 - Material exterior: vaquero
 

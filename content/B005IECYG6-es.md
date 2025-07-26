@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tejido suave que se adapta al cuerpo
 - Cierre de doble corchete
+- Tejido suave que se adapta al cuerpo
 - Tirantes ajustables y convertibles
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

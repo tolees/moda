@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Classic fit
-- Swoosh logo on the front
 - Soft fabric
+- Swoosh logo on the front
+- Classic fit
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07HN8SS9F{{</world>}}

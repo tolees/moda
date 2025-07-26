@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estampado fotográfico
 - Pendientes realizados en cuentas bordadas
 - Crop
+- Estampado fotográfico
 - Camiseta arty cuentas
 - Regular fit
 

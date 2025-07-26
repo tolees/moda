@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 2x Modelos de la colección Jackpot.
 - 1x Modelo de la colección Crossfinger.
 - Set de 4 calzoncillos tipo boxer de la marca Lucky Boxer.
+- 2x Modelos de la colección Jackpot.
 - 1x Modelo de la colección Poker.
 - Se compone de:
 

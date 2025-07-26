@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sudadera con tejido suave
-- Detalles distintivos de la marca
 - Forro polar interior
 - Tela suave
+- Sudadera con tejido suave
+- Detalles distintivos de la marca
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BTM99JLL{{</world>}}

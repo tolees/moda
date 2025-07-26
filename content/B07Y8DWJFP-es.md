@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Estilo californiana
 - Cierre ajustable para asegurar una mejor sujección
-- Puntera reforzada para mejor protección
 - Sandalias deportivas aptas para el agua
+- Estilo californiana
+- Puntera reforzada para mejor protección
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07Y8DWJFP{{</world>}}

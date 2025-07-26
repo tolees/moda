@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Color liso con estampado
-- Manga larga
-- Camiseta cómoda
 - Cuello redondo
+- Color liso con estampado
+- Camiseta cómoda
+- Manga larga
 - Logo Detailing
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

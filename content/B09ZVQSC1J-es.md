@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material exterior: Tejido
-- Cierre: Velcro
 - Material de la suela: EVA
+- Cierre: Velcro
+- Material exterior: Tejido
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09ZVQSC1J{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Una sudadera con capucha de inspiración vintage
 - Corte con un ajuste relajado
+- Una sudadera con capucha de inspiración vintage
 - Para nuestros amantes vintage: teñimos esta pieza para darle ese aspecto vivo y una sensación de rota
 
 [🛒 Visítala!!!]({{< param buyurl >}})

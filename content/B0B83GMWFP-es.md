@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Escote corazón
-- Estampado tropical de hojas efecto pintado con rotulador
 - Con tirantes al cuello
+- Estampado tropical de hojas efecto pintado con rotulador
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B83GMWFP{{</world>}}

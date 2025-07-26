@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Camisa de manga larga
 - Regular fit
 - La camisa tiene un acabado lavado, para un look casual Y relajado
-- Camisa de manga larga
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C23HTHPN{{</world>}}

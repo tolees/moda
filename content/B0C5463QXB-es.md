@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Logotipo deportivo de adidas con impresión de goma
 - 100% algodón individual punto jersey
 - Cuello redondo acanalado
 - Insignia tejida
+- Logotipo deportivo de adidas con impresión de goma
 - Corte regular
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sudadera con capucha para mujer
 - Ofrece comodidad y libertad de movimiento
 - Detalles distintivos de la marca
+- Sudadera con capucha para mujer
 - Material de calidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})

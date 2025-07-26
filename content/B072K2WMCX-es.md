@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Gafas de sol unisex.
+- Montura de policarbonato de alta calidad.
+- Medidas: Frontal 145cm x Alto 4’5cm x Patillas 15cm
 - Lente verde polarizada con protección total ultravioleta UV400.
 - Incluye caja y funda protectora en microfibra y set de pegatinas.
-- Medidas: Frontal 145cm x Alto 4’5cm x Patillas 15cm
-- Montura de policarbonato de alta calidad.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B072K2WMCX{{</world>}}

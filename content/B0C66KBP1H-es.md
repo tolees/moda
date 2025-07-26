@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Amortiguadas y transpirables
 - Ofrecen una comodidad óptima
+- Amortiguadas y transpirables
 - Presentan un diseño deportivo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

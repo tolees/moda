@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Logotipo de Omini en el pecho y la zona superior de la espalda. Ambos silueteados en contraste.
 - El polo de hombre BARLI de la colección deportiva de Kappa es ideal para las salidas.
-- 100% algodón. Lavar a máquina a 30º. No usar lejía.
 - Corte recto, dos botones para ajustar el cuello.
+- Logotipo de Omini en el pecho y la zona superior de la espalda. Ambos silueteados en contraste.
+- 100% algodón. Lavar a máquina a 30º. No usar lejía.
 - POLO BARLI GRIS HOMBRE
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

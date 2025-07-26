@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Estampado fotográfico floral de margaritas a contraste
-- Manga corta
-- Punto canalé elástico
 - Cuello perkins
+- Manga corta
 - Fit: Evasé
+- Punto canalé elástico
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B84FDBBX{{</world>}}

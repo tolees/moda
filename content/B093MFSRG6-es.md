@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Ajuste: Corte estándar
 - Material elástico con alto porcentaje de algodón
 - Material exterior: 98% algodón, 2% elastano
-- Ajuste: Corte estándar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B093MFSRG6{{</world>}}

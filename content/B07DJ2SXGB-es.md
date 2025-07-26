@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material de la suela: caucho
 - Cierre: sin cordones
-- Plantilla: piel
 - Tipo de tacón: plano
+- Material de la suela: caucho
+- Plantilla: piel
 - Forro: textil
 - Parte superior: sintética
 

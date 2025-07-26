@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- De alta calidad y con diseño deportivo
-- Abrigo Tiempo libre y sportwear Hombre
-- Lombardy (Shs01115)
 - Ropa deportiva ellesse
+- De alta calidad y con diseño deportivo
+- Lombardy (Shs01115)
+- Abrigo Tiempo libre y sportwear Hombre
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B075GQC35F{{</world>}}

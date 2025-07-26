@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Elige la comodidad y los tejidos transpirables
 - Diseño clásico
+- Elige la comodidad y los tejidos transpirables
 - Cinturilla elástica distintiva de Calvin Klein
 
 [🛒 Comprar!!!]({{< param buyurl >}})

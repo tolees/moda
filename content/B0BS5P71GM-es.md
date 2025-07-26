@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Fabricado con tela 100% reciclada
-- Capucha con snorkle
 - Parka larga acolchada con detalle de cordón en la cintura
+- Capucha con snorkle
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BS5P71GM{{</world>}}

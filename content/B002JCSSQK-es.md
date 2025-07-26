@@ -28,14 +28,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Composición: Sintético
-- Material de la suela: Goma
-- Altura del tacón: 1 centímetro
-- Revestimiento: Sintético
 - Tipo de talla: talla estándar
 - Material exterior: Espuma
-- Tipo de tacón: Plano
+- Altura del tacón: 1 centímetro
+- Material de la suela: Goma
 - Cierre: Sin cordones
+- Revestimiento: Sintético
+- Tipo de tacón: Plano
+- Composición: Sintético
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B002JCSSQK{{</world>}}

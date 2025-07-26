@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Horma clásica
 - Mediasuela con amortiguación
 - Forro textil
+- Horma clásica
 - Parte de ante
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

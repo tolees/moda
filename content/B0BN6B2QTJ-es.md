@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Ancho del zapato: medio
 - Nivel de resistencia al agua: impermeable
 - Forma del tacón: plano
-- Ancho del zapato: medio
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BN6B2QTJ{{</world>}}

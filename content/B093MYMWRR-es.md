@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Slim
-- Ajuste: Pelle
 - Corte estándar
+- Ajuste: Pelle
+- Slim
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B093MYMWRR{{</world>}}

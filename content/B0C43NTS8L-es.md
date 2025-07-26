@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Exterior: tejido liso 100% poliéster reciclado
-- Acabado repelente al agua sin PFC
-- Relleno: 80% plumón de pato, 20% plumas
 - Cremallera completa con capucha forrada
 - Ajuste regular
+- Relleno: 80% plumón de pato, 20% plumas
+- Acabado repelente al agua sin PFC
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C43NTS8L{{</world>}}

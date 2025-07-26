@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiene detalles distintivos de la marca
-- Ajuste regular
 - Tiene 2 bolsillos laterales inclinados y 2 bolsillos traseros
+- Ajuste regular
+- Tiene detalles distintivos de la marca
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BQC4G16F{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forma del tacón: plano
-- Nivel de resistencia al agua: impermeable
 - Ancho del zapato: medio
+- Nivel de resistencia al agua: impermeable
+- Forma del tacón: plano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BN6NRZKG{{</world>}}

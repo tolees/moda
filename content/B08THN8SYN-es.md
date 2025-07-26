@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Cuello en V con cuello
+- Desigual – Chaqueta vaquera para mujer con piel de cordero y tela de ante
 - Chaqueta vaquera azul con cuello en V y cuello de terciopelo, lavado fácil, piel de cordero y tela de ante de aspecto de ante. Nueva colección Desigual HW21 para mujer.
 - Combinación de mezclilla, piel de cordero y tela con aspecto de ante
-- Desigual – Chaqueta vaquera para mujer con piel de cordero y tela de ante
-- Cuello en V con cuello
 - Lavado a máquina en agua fría, Very Mild Wa
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Cintura elástica con cordón de ajuste externo. Tejido de punto
 - Bolsillos abiertos. Tejido de punto
 - Exterior de punto de punto suave con un interior cepillado para una comodidad suave y calidez
-- Cintura elástica con cordón de ajuste externo. Tejido de punto
 - El material absorbe el sudor y se seca muy rápidamente
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- - Bikini con estampado de teñido anudado - Correas de nudos ajustables - Tejido elástico
 - Poliamida lisa
+- - Bikini con estampado de teñido anudado - Correas de nudos ajustables - Tejido elástico
 - Bikini superior
 
 [🛒 Comprar!!!]({{< param buyurl >}})

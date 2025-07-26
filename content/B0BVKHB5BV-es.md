@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Talla 62/11/145
 - Garantía internacional de 2 años
 - Sin Polarizar
 - GAFAS SOL FLAGLAB 14 PARA UNISEX ADULTO NO POLARIZADO TALLA 62/11/145
-- Talla 62/11/145
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BVKHB5BV{{</world>}}

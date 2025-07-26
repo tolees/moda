@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Chaqueta acolchada de corte cuadrado
-- Estampado de logotipo integral
 - Ajuste regular
+- Estampado de logotipo integral
+- Chaqueta acolchada de corte cuadrado
 - Cremallera completa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

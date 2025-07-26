@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Detalles del clásico diseño de 5 bolsillos
 - Corte slim fit ni muy ceñido ni muy holgado
+- Detalles del clásico diseño de 5 bolsillos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07RQZV8LX{{</world>}}

@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Tejido en poliamida muy ligero, impermeable y transpirable Isolite 5.000
-- Sin forro
-- Acabado hidrófugo duradero
-- Costuras selladas
 - Indice de transpirabilidad 5.000g/m2/24 hr
+- Sin forro
+- Costuras selladas
+- Acabado hidrófugo duradero
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0798QCDLF{{</world>}}

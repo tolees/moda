@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material interior: sintético
 - Cierre: cordones
 - Material exterior: sintético
+- Material interior: sintético
 - Suela: Caucho
 - Forma del talón: plano
 

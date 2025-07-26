@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- BÁSICO NOOS - Diseño atemporal con rayas y aberturas laterales, un clásico en el mundo de la moda.
-- COMODIDAD - Suéter de punto con mangas largas y cuello redondo.
 - MATERIAL - Tela sostenible de 50% acrílico, 50% viscosa que se siente agradable en la piel.
+- COMODIDAD - Suéter de punto con mangas largas y cuello redondo.
+- BÁSICO NOOS - Diseño atemporal con rayas y aberturas laterales, un clásico en el mundo de la moda.
 - ADAPTACIÓN - Corte holgado y amplio con una superficie suave.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

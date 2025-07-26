@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Camisa Oxford
 - Corte regular
 - Bordado de marca en el pecho
-- Camisa Oxford
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CSN81MMQ{{</world>}}
