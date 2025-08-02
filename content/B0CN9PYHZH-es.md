@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Detalles de tul en la zona del escote
 - Tiene tirantes ajustables
 - Ofrece una comodidad óptima
+- Detalles de tul en la zona del escote
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CN9PYHZH{{</world>}}

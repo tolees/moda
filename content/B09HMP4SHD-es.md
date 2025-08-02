@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Color liso
-- Logo de Gant
-- Capucha
 - Bolsillos
+- Capucha
+- Logo de Gant
 - Cárdigan
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Slim fit jeans made of cotton with a low stretch.
 - JJIGLENN JJICON JJ 357 50SPS NOOS by JACK & JONES.
+- Slim fit jeans made of cotton with a low stretch.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07HQYLPQ3{{</world>}}

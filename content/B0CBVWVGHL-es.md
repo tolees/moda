@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Composición del material: 93% algodón, 5% algodón, 2% elastano
 - Cierre de cremallera
+- Composición del material: 93% algodón, 5% algodón, 2% elastano
 - Vaqueros para hombre de la marca danesa Jack & Jones
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

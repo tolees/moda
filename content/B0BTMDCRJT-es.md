@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Capucha ajustable mediante cordones
 - Diseño ligero que ofrece comodidad
 - Chaqueta abierta con cremallera
-- Capucha ajustable mediante cordones
 - Tiene detalles distintivos de la marca
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

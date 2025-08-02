@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Protector de barbilla y capucha tipo buzo para protegerte de los elementos
-- Tejido resistente al agua para mantenerte seco en todas tus aventuras al aire libre
 - Construcción híbrida, Chaqueta de plumas con capucha para hombre
 - Contenido: 1x Columbia Hombre Chaqueta con capucha, Powder Pass, Color: BLACK (Negro), Talla: M, Art.: 1773271
+- Tejido resistente al agua para mantenerte seco en todas tus aventuras al aire libre
+- Protector de barbilla y capucha tipo buzo para protegerte de los elementos
 - Ajuste óptimo gracias al dobladillo ajustable con cordón
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

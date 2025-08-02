@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Camisetas de algodón para hombre
-- Camiseta de manga corta
 - Pack de 5 camisetas básicas para hombre con cuello redondo
 - camisetas básicas de corte recto
+- Camiseta de manga corta
+- Camisetas de algodón para hombre
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08QW62QBX{{</world>}}

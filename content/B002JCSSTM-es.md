@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre: Sin cordones
 - Altura del tacón: 1.5 pulgadas
 - Material exterior: Espuma
 - Revestimiento: Sintético
+- Cierre: Sin cordones
 - Material de la suela: Goma
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sostenibilidad: este producto contiene algodón orgánico. El algodón orgánico se cultiva sin productos químicos nocivos. El cultivo de algodón orgánico protege los recursos naturales y protege la biodiversidad.
 - Camiseta de Manga Corta con Cuello Redondo
 - Camiseta clásica para hombre de la marca JACK & JONES
+- Sostenibilidad: este producto contiene algodón orgánico. El algodón orgánico se cultiva sin productos químicos nocivos. El cultivo de algodón orgánico protege los recursos naturales y protege la biodiversidad.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B079BNC8DV{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Una marca de Amazon
 - Adornado con encaje que se asienta cómodamente sobre la piel y ofrece un acabado suave
 - Confeccionado en algodón suave, transpirable e hipoalergénico diseñado para una comodidad duradera
-- Una marca de Amazon
 - Diseñado con un corte bajo y un silueta sugerente que favorece tus curvas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Una marca de Amazon
-- Confeccionado en algodón suave, transpirable e hipoalergénico diseñado para una comodidad duradera
 - Con un crop top integrado con una banda elástica bajo el pecho que ofrece sujeción adicional
+- Confeccionado en algodón suave, transpirable e hipoalergénico diseñado para una comodidad duradera
+- Una marca de Amazon
 - Con un diseño de espalda nadadora que se adapta cómodamente a la forma natural de tu espalda
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Longitud de la rodilla
 - logotipo de adidas
+- Longitud de la rodilla
 - Puños acanalados
 
 [🛒 Aquí!!!]({{< param buyurl >}})

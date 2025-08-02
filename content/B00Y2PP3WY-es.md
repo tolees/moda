@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Para niños.
 - Correa de goma, forro de goma, plantilla de goma y suela de goma.
+- Para niños.
 - Chanclas Havaianas Slim para niños de goma. Consejos sobre el calzado: elige tu talla habitual.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

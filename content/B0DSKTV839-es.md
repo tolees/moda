@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Puntales nasales de goma ajustables: En lugar de los puntales nasales fijos, para las gafas MTB, hemos optado por los puntales nasales ajustables. Estos se adaptan a narices de diferentes tamaños, manteniéndose firmemente en la ponte del nariz durante el ejercicio, sin que te preocupes por que se deslice
 - Gafas fotocromáticas ciclismo: Utilizan tecnología fotocromática y pueden cambiar rápidamente de transparente a gris oscuro según la intensidad de los rayos ultravioleta. Esto les permite mantener una luminosidad efectiva al aire libre y evitar que la luz del sol les haga daño a los ojos, sin la molestia de la deslumbramiento
 - Protección UV400: Las gafas running cuentan con lentes hechas de policarbonato de alta calidad, que pueden resistir eficazmente los dañinos rayos UVA y UVB. Esto asegura la protección de los ojos y ofrece una experiencia visual cómoda
 - Lentes esféricas de alta definición: En las gafas de sol ciclismo, ya no se usan lentes grandes. Las lentes esféricas se adaptan mejor a la forma del rostro, reducen al máximo el flujo de aire durante la ciclismo y evitan que entre por los bordes, ofreciendo una experiencia más cómoda
+- Puntales nasales de goma ajustables: En lugar de los puntales nasales fijos, para las gafas MTB, hemos optado por los puntales nasales ajustables. Estos se adaptan a narices de diferentes tamaños, manteniéndose firmemente en la ponte del nariz durante el ejercicio, sin que te preocupes por que se deslice
 - Robusto y ultra ligero: Las gafas deportivas solo pesan 25g, lo que las hace muy fáciles de llevar sin ningún esfuerzo. Fabricadas con el material TR90, son resistentes a los golpes, duraderas y difícilmente se rompen. Son perfectas para actividades al aire libre como la ciclismo, la carrera, la escalada en montaña, etc
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con aros y relleno
 - Detalle de encaje
+- Con aros y relleno
 - Tirantes ajustables y finos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

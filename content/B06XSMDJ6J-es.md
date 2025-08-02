@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Botón frontal y 1 botón en cada de la manga
 - Composición del material: 100% algodón
+- Botón frontal y 1 botón en cada de la manga
 - Camisa de cuadros de manga larga
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

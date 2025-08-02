@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- [Nuestra Marca]: REFRESH con estilo fresco y juvenil. Calzado versátil y moderno diseñado para quienes buscan estar siempre a la moda sin renunciar a la comodidad.
 - Cierre mediante cordones. Piso volumen con suela canalada de goma antideslizante. Con plantilla extraíble
+- [Nuestra Marca]: REFRESH con estilo fresco y juvenil. Calzado versátil y moderno diseñado para quienes buscan estar siempre a la moda sin renunciar a la comodidad.
 - Forro decorativo con animal print. Primer ojete con el color representativo de la marca
 - Zapatilla de mujer, de la marca Refresh. Fabricada en lona
 

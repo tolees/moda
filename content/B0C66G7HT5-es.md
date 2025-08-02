@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela ligera y amortiguada
 - Plantilla desmontable
+- Suela ligera y amortiguada
 - Diseño cómodo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

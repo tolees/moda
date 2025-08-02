@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Medidas: Frontal 141,5 mm; Patillas 145 mm ; Alto 46 mm. Modelo Unisex
-- Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Almohadillas de TR90 para una sujeción mucho más cómoda
-- Lentes categoría 3 y protección uv400 que ofrecen una protección antideslumbrante superior
-- Las Idle tienen una forma clásica de gafas de sol, pero con una lente de máscara completa sin aros. Este modelo marrón degradado tiene patillas de carey semitransparente.
 - Producto original Hawkers. La caja incluye funda en microfibra y caja
+- Medidas: Frontal 141,5 mm; Patillas 145 mm ; Alto 46 mm. Modelo Unisex
+- Las Idle tienen una forma clásica de gafas de sol, pero con una lente de máscara completa sin aros. Este modelo marrón degradado tiene patillas de carey semitransparente.
+- Lentes categoría 3 y protección uv400 que ofrecen una protección antideslumbrante superior
+- Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Almohadillas de TR90 para una sujeción mucho más cómoda
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09RPTPMZY{{</world>}}

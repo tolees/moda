@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Resistente al olor
 - Correa superior de TPU
 - Suela que no deja marcas
-- Resistente al olor
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09ZY3LSZG{{</world>}}

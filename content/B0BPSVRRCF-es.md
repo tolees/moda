@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Calcetines deportivos
-- La altura del tobillo
 - Detalles distintivos de la marca
+- La altura del tobillo
 - Amortiguación completa
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

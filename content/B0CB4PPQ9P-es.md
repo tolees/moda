@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Estampado de hibisco
-- Correas ajustables
 - Acolchado extraíble
+- Correas ajustables
 - Detalle decorativo de cuentas en la parte central delantera
 
 [🛒 Comprar!!!]({{< param buyurl >}})

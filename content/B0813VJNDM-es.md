@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- En forma normal.
 - Construcción deslizante; Correa con cierre de velcro
+- En forma normal.
 - Correa EVA ajustable en anchura con cierre de velcro
 
 [🛒 Aquí!!!]({{< param buyurl >}})

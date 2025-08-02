@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tops
 - Screen Tee
+- Tops
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C8YWXLJB{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Clic estilo de 5 bolsillos y tabaco N hte, trabillas para cinturón
-- Jeans ajustados de talle bajo, corte de pierna cónica
 - Material elástico
+- Jeans ajustados de talle bajo, corte de pierna cónica
+- Clic estilo de 5 bolsillos y tabaco N hte, trabillas para cinturón
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07NJ7VYZW{{</world>}}

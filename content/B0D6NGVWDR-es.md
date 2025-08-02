@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de estiramiento: no elástico
-- Ajuste: regular
 - Composición: 100% algodón
+- Tipo de estiramiento: no elástico
 - Instrucciones de cuidado: lavable a máquina
+- Ajuste: regular
 - Camiseta informal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

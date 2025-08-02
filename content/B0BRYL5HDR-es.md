@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Diseño acolchado
-- Un ribete grueso adorna la parte trasera de las mangas
 - Capucha ajustable con visera, cordón en el interior, parte delantera elevada, desmontable
 - Bolsillos ribeteados con botón a presión en el pecho, bolsillos con solapa y cierre de velcro en la cintura
+- Un ribete grueso adorna la parte trasera de las mangas
 - Doble bolsillo y trabilla en el interior
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

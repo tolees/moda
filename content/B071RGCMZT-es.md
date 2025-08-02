@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Producto de excelente calidad
 - Creación de marca Levis
 - Fácil de llevar
-- Producto de excelente calidad
 - Este es un producto original Levis
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

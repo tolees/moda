@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tenis básicos, logotipo lateral y detalles de la marca en Foxing
 - Zapatillas deportivas para mujer
+- Tenis básicos, logotipo lateral y detalles de la marca en Foxing
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B699DMYS{{</world>}}

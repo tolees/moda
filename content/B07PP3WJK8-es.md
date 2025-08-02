@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseño full cup sin aros
 - Encaje florar elegante para un look femenino
+- Diseño full cup sin aros
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07PP3WJK8{{</world>}}

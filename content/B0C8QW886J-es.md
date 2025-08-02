@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La puedes llevar sola o debajo de un jersey, es la elección adecuado para ocasión
 - Top minimalista de corte normal se adapta adecuado a tu figura y ofrece una libertad de movimiento óptima
 - La camiseta tiene un diseño depurado y convence por su look deportivo
 - Este artículo se compone de algodón de cultivo regenerativo (100%)
+- La puedes llevar sola o debajo de un jersey, es la elección adecuado para ocasión
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C8QW886J{{</world>}}

@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Este modelo, de la colección Made in Spain, combina una montura transparente brillante con lentes espejadas de color lila
-- Modelo unisex, medidas: frontal 141 mm, patillas 140 mm, puente 17 mm, diámetro de lente 55.7 mm
-- Lentes categoría 3 y protección UV400 que ofrecen una protección antideslumbrante, lentes de TR18 con el sello de Eastman
-- Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el óptimo nylon para monturas del mundo que proporciona flexibilidad y resistencia, diseño más ancho del terminal de la patilla para mejorar la ergonomía y confort
 - Producto Oficial Hawkers, incluye funda en microfibra y caja
+- Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el óptimo nylon para monturas del mundo que proporciona flexibilidad y resistencia, diseño más ancho del terminal de la patilla para mejorar la ergonomía y confort
+- Lentes categoría 3 y protección UV400 que ofrecen una protección antideslumbrante, lentes de TR18 con el sello de Eastman
+- Modelo unisex, medidas: frontal 141 mm, patillas 140 mm, puente 17 mm, diámetro de lente 55.7 mm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BKJPNN6T{{</world>}}

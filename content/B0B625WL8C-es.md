@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ¡La clase de Biolobogía de las monstruitas acaba de terminar en Monster High y por fin ha llegado la hora de cambiar de look! Esta muñeca Frankie Stein de Skulltimate Secrets viene con una taquilla monstruosa y el último grito en moda.
 - Skulltimate Secrets viene con un montón de accesorios para despertar la imaginación, desde una chaqueta de piel sintética y botas transparentes hasta frankencafé con hielo o cerebro para llevar. ¡Deja volar la imaginación y combínalos en más de 125 looks diferentes!
+- ¡La clase de Biolobogía de las monstruitas acaba de terminar en Monster High y por fin ha llegado la hora de cambiar de look! Esta muñeca Frankie Stein de Skulltimate Secrets viene con una taquilla monstruosa y el último grito en moda.
 - Frankie Stein es una muñeca electrizante, con su larga melena llena de mechones de colores y ropa de alto voltaje para mezclar y combinar, dando alas a la imaginación, ¡que se note su eléctrico linaje!
 - Eres capaz de guardar un oscuro secreto? Hazte con las cuatro llaves, haz desaparecer el escalofriante revestimiento de color negro y disfruta de un momento Color Reveal. Luego, abre los cuatro compartimentos con ellas y descubre qué misterios hay en su interior.
 - Abrir la caja te helará la sangre y después la taquilla en forma de ataúd te servirá para imaginar un montón de historias y para guardar la muñeca Frankie Stein con toda su ropa y accesorios.

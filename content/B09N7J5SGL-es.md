@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material interior: sintético
 - Cierre: goma
+- Material interior: sintético
 - Talla del zapato: Medium
 - Material exterior: sintético
 

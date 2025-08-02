@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Detalle de costura en cuello
 - Logo Pepe Jeans estampado en el pecho
 - Acabado doble pespunte en mangas y bajo
+- Detalle de costura en cuello
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CB4C5H33{{</world>}}

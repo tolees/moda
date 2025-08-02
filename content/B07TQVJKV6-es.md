@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gafas de sol fabricadas en TR90 con el sello de EMS. considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Diseño más ancho del terminal de la patilla para mejorar la ergonomía y confort. Bisagra rotativa de alta calidad que permite libre movimientos entre patilla y frontal
-- Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores. Lente categoría 3 fabricadas con material bio tac polarizado y protección uv400.
-- Modelo Unisex. Medidas: Frontal 141 mm; Patillas 140 mm; Puente 17 mm; Diámetro de lente 55,7 mm
 - Modelo ONE, montura transparente y lente de espejo azul cobalto.
+- Modelo Unisex. Medidas: Frontal 141 mm; Patillas 140 mm; Puente 17 mm; Diámetro de lente 55,7 mm
+- Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores. Lente categoría 3 fabricadas con material bio tac polarizado y protección uv400.
+- Gafas de sol fabricadas en TR90 con el sello de EMS. considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Diseño más ancho del terminal de la patilla para mejorar la ergonomía y confort. Bisagra rotativa de alta calidad que permite libre movimientos entre patilla y frontal
 - Producto original Hawkers; la caja incluye funda de microfibra, caja y set de pegatinas decorativas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

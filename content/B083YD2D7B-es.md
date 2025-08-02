@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 30 Alto x 35.5 Ancho x 18.5 Fondo cm
-- Hidrófugo
 - Bolso bandolera mediano con correa ajustable para el hombro
+- Hidrófugo
 - 100% Poliamida
+- 30 Alto x 35.5 Ancho x 18.5 Fondo cm
 - 0.4 kg
 
 [🛒 Visítala!!!]({{< param buyurl >}})

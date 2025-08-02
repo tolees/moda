@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camiseta de corte ajustado.
-- Composición del material: 100 % algodón.
 - De algodón suave.
+- Composición del material: 100 % algodón.
+- Camiseta de corte ajustado.
 - Logotipo clásico de la marca estampado en la parte delantera.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

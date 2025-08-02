@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Producto adecuado tanto para ejercicio físico como para llevar en la calle
-- Ajustable mediante cordones y bolsillo con cremallera
 - Tiene detalles distintivos de la marca
+- Ajustable mediante cordones y bolsillo con cremallera
+- Producto adecuado tanto para ejercicio físico como para llevar en la calle
 - Material resistente y duradero
 
 [🛒 Comprar!!!]({{< param buyurl >}})

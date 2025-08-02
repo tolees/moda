@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Tipo de fábrica: 100% Poliester
 - Camiseta de manga corta con cuello redondo y con mangas tipo raglán con corte a contraste de color. La manga tipo raglán no tiene costuras en la zona de los hombros, por lo que incrementa la libertad de movimiento del deportista
-- Sport type: multisports
 - Weave type: Tejido
+- Sport type: multisports
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08Y1SWWKC{{</world>}}

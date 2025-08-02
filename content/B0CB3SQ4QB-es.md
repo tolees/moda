@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela flexible y antideslizante que ofrece la máxima durabilidad
 - Cordones auténticos
+- Suela flexible y antideslizante que ofrece la máxima durabilidad
 - Plantilla extraíble Contour Cushion que soporta cada paso
 
 [🛒 Comprar!!!]({{< param buyurl >}})

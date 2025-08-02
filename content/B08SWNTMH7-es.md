@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Escote redondo
 - Estilo clásico de Adidas
+- Escote redondo
 - Camiseta de marca Adidas con logo
 - Corte delgado
 

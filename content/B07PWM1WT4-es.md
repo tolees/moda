@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Producto con diseño clásico y estilo para todos los días
 - Paquete de 3 bóxers trunk de tiro bajo
+- Producto con diseño clásico y estilo para todos los días
 - Ajuste cómodo y adecuado
 - Pretina con el logotipo de Calvin Klein
 

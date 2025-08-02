@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Este producto es original Levis
 - Elaboradas en punto suave
+- Este producto es original Levis
 - Modelos casual
 - Con un logo Levis en el bajo
 

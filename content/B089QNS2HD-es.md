@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cinturilla cómoda
-- Explora nuestra gama de productos
 - Tejido suave al tacto
+- Explora nuestra gama de productos
+- Cinturilla cómoda
 - Logotipo icónico PUMA No1 en estampado completo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

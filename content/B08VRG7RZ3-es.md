@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Manga corta
-- Corte recto
-- El modelo mide 1 m75 y lleva una talla S/36
-- Alambres metalizados
 - Cuello en V
+- Corte recto
+- Manga corta
+- Alambres metalizados
+- El modelo mide 1 m75 y lleva una talla S/36
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08VRG7RZ3{{</world>}}

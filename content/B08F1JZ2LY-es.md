@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Solapas en ambas mangas
-- Ajuste holgado
 - Top de Manga Corta
+- Ajuste holgado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08F1JZ2LY{{</world>}}

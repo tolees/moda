@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Camisa con cuello camisero, bolsillo en el pecho y abotonadura central
 - Pijama camisero 100% algodón, de manga corta y shorts corte recto, con estampado allover figurativo de soles, lunas y palmas a contraste en color kaki
+- Camisa con cuello camisero, bolsillo en el pecho y abotonadura central
 - cómodo, adecuado para dormir y estar en casa sin perder tu toque de estilo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

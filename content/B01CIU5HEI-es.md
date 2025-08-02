@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Elegante
-- Patrón liso
 - Cómodo
+- Patrón liso
+- Elegante
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01CIU5HEI{{</world>}}

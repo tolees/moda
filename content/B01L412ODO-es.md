@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Nota Considera la talla BR = talla de la UE, independientemente de lo que muestre la suela del producto, la talla BR se ajusta adecuado y corresponde a la talla de la UE + prueba siempre el producto primero
-- No aplicable
 - 80% Caucho 20% PVC
+- No aplicable
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01L412ODO{{</world>}}

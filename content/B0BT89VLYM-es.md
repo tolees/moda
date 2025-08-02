@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - hasta la cadera
-- Cuello alto
-- Desigual
 - Corte estándar
+- Desigual
+- Cuello alto
 - Capucha extraíble y forrada
 - Tela con purpurina ligera, textura arrugada y letras recortadas
 

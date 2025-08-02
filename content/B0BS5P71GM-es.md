@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parka larga acolchada con detalle de cordón en la cintura
 - Capucha con snorkle
+- Parka larga acolchada con detalle de cordón en la cintura
 - Fabricado con tela 100% reciclada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

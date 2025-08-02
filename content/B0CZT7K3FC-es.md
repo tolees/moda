@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pull-On, parte elástica
 - Pack de 6 calcetines de tenis para hombre
+- Pull-On, parte elástica
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CZT7K3FC{{</world>}}

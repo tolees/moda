@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Logotipo de archivo en la parte delantera
-- Cuello redondo
 - Tommy Hilfiger Bandera bordada en el puño
+- Cuello redondo
+- Logotipo de archivo en la parte delantera
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C8Z85BBX{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Se llama perfecto por una razón
 - Diseñada para mayor comodidad, estilo y versatilidad
+- Se llama perfecto por una razón
 - Un cuello en V suave y clásico que combina con todo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

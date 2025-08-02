@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores. Lentes categoría 3 fabricadas con material bio tac polarizado y protección uv400.
-- Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Doble puente metálico que aporta solidez a la estructura frontal de la montura y eleva la resistencia del producto frente a rotura y deformación. Almohadillas de silicona ajustables.
+- Medidas: Frontal 147,5 mm; Patillas 140 mm ; Puente 18 mm ; Alto 54 mm. Modelo Unisex
 - Un diseño de estilo aviador que combina patillas TR90, doble puente y puntos de bisagra de acero inoxidable, y aros híbridos TR90 de metal. Este modelo plateado, de cristal transparente tiene lentes polarizadas, espejadas y de color púrpura iridiscente.
 - Producto original Hawkers. La caja incluye funda en microfibra y caja
-- Medidas: Frontal 147,5 mm; Patillas 140 mm ; Puente 18 mm ; Alto 54 mm. Modelo Unisex
+- Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Doble puente metálico que aporta solidez a la estructura frontal de la montura y eleva la resistencia del producto frente a rotura y deformación. Almohadillas de silicona ajustables.
+- Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores. Lentes categoría 3 fabricadas con material bio tac polarizado y protección uv400.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09RPQ1N79{{</world>}}

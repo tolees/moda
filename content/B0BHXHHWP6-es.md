@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camiseta de alta calidad para uso diario
-- Cuello redondo
 - Corte normal
+- Cuello redondo
+- Camiseta de alta calidad para uso diario
+- Estampado de pigmentos para una impresión suave en ropa ligera
 - Manga corta
 - Bufanda tubular
-- Estampado de pigmentos para una impresión suave en ropa ligera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BHXHHWP6{{</world>}}

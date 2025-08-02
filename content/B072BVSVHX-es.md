@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Con apertura de pierna pitillo
 - Este producto es original Levis
 - Diseño de cinco bolsillos
-- Con apertura de pierna pitillo
 - Corte ajustado en los muslos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

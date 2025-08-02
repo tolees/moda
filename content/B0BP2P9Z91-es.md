@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tejido fino y ligero
-- 69% algodón / 26% poliéster reciclado / 3% nailon reciclado / 2% elastán
 - Diseño invisible
 - Dos pares por paquete
+- 69% algodón / 26% poliéster reciclado / 3% nailon reciclado / 2% elastán
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BP2P9Z91{{</world>}}

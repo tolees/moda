@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cremallera oculta en la parte delantera, botones de presión adicionales
-- Chaqueta corta con capucha, mangas largas
 - Bolsillos laterales, con porcentaje de algodón
+- Chaqueta corta con capucha, mangas largas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09L1M9D2G{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tejido antihumedad Climalite
 - Ajuste regular
+- Tejido antihumedad Climalite
 - Ropa deportiva
 - Logotipo en la parte delantera
 

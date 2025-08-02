@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Logo bordado de árbol
-- Polo piqué regular fit 100% algodón efecto lavado
 - Detalles en el cuello
+- Polo piqué regular fit 100% algodón efecto lavado
+- Logo bordado de árbol
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CCPMLBS5{{</world>}}

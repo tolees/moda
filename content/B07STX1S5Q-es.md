@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Una marca de Amazon
 - Diseñado con un corte bajo y un silueta sugerente que favorece tus curvas
 - Con un encaje elástico y transparente que se asienta suavemente sobre la piel
+- Una marca de Amazon
 - Encaje con los bordes festoneados para que no se note debajo de la ropa ajustada
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

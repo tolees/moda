@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tejido suave y cálido
 - Ajuste regular
+- Tejido suave y cálido
 - Capucha con cordón
 
 [🛒 Aquí!!!]({{< param buyurl >}})

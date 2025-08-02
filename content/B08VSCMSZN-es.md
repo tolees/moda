@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Cuello redondo
+- 100% poliéster reciclado
 - Manga larga
 - Corte clásico
-- 100% poliéster reciclado
-- Cuello redondo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08VSCMSZN{{</world>}}

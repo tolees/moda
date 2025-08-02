@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Composición: 48% algodón, 47% algodón orgánico, 5% elastano
 - Dobladillos cosidos
-- Manga corta
 - Cuello redondo
+- Manga corta
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07X6FXHXP{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pantalon Corto Pijama Hombre Elástico Verano a Cuadros
 - Pantalones Cortos Hombre 100% Algodon
+- Pantalon Corto Pijama Hombre Elástico Verano a Cuadros
 - Pantalones Cortos Hombre 100% Algodon
 - Pantalones Cortos Hombre 100% Algodon
 - Pantalon Corto Casa Hombre Pack 1&2

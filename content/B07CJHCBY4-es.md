@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bordes abiertos en la parte inferior
 - Vaqueros de Tobillo Skinny
+- Bordes abiertos en la parte inferior
 - Cinco bolsillos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

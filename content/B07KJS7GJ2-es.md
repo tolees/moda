@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tamaño: Estándar
 - Alta calidad
+- Tamaño: Estándar
 - De la marca Tom Tailor Casual
 - Diseñado para garantizar una excelente experiencia al cliente
 

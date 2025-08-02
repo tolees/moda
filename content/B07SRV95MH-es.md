@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Correas en la parte superior
-- __Forro:__ forro sintético
-- __Suela:__ goma reciclada y espuma EVA
 - __Plantilla:__EVA de goma mullida reciclada
+- Correas en la parte superior
+- __Suela:__ goma reciclada y espuma EVA
+- __Forro:__ forro sintético
 - __Parte superior:__ sintética
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

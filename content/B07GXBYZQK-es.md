@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Regular fit
 - "Just do It" graphics
 - Soft fabric
-- Regular fit
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07GXBYZQK{{</world>}}

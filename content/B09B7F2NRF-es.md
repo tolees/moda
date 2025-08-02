@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 11 milimetros calendario Sin cierre a presion plegable
 - Analógico para Unisex Adulto
+- 11 milimetros calendario Sin cierre a presion plegable
 - Guess Modelo PHOENIX
 
 [🛒 Visítala!!!]({{< param buyurl >}})

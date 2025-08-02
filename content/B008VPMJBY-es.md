@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuenta con un diseño ligero
 - Ofrece comodidad y libertad de movimiento
+- Cuenta con un diseño ligero
 - Camiseta interior de manga corta para niño
 
 [🛒 Aquí!!!]({{< param buyurl >}})

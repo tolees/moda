@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia.
 - Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores. Lentes categoría 3 fabricadas con material bio tac polarizado y protección uv400.
-- Producto Oficial Hawkers. Incluye: Funda en microfibra personalizada, caja personalizada y set de pegatinas decorativas.
 - Montura negra con la parte inferior de la misma tonalidad que la lente negra.
 - Modelo Unisex. Medidas: Frontal 141 mm; Alto 50 mm; Patillas 140 mm; Puente 18 mm; Diámetro de lente 54 mm
+- Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia.
+- Producto Oficial Hawkers. Incluye: Funda en microfibra personalizada, caja personalizada y set de pegatinas decorativas.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BGV37XVR{{</world>}}

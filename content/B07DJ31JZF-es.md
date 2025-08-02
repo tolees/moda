@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre: Velcro
 - Revestimiento: Tela
+- Cierre: Velcro
 - Material exterior: Sintético
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

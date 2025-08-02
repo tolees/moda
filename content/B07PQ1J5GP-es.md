@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- GUESS MOD. GF0352 5452F de la marca Guess
 - Gafas de sol modelo GUESS MOD. GF0352 5452F
+- GUESS MOD. GF0352 5452F de la marca Guess
 - Guess. Los productos de esta marca están fabricados con los materiales de la mejor calidad.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

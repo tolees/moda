@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Jack & Jones
-- Cuello redondo
-- Manga corta
-- Calidad probada de Jack & Jones
 - Estampado frontal
+- Calidad probada de Jack & Jones
+- Cuello redondo
+- Jack & Jones
+- Manga corta
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BHXGSZ4V{{</world>}}

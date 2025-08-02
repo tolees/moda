@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fabricados en material cómodo
 - Paquete de tres pares
+- Fabricados en material cómodo
 - Calcetines elásticos
 - Estructura suave
 

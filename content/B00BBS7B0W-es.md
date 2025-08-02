@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material exterior: cuero
-- Composición del material: 100% cuero
-- Producto adecuado para : unisex adulto
 - Instrucciones de cuidado: no lavar
-- Material interior: cuero
+- Producto adecuado para : unisex adulto
 - Color: negro
+- Composición del material: 100% cuero
+- Material interior: cuero
+- Material exterior: cuero
 - Talla: 100 cm
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

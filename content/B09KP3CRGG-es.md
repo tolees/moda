@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Detalles clásicos de motoristas
-- Chaqueta motera para hombre en estándar de la marca danesa JACK & JONES
-- Composición: Exterior: 88% Poliéster, 12% Viscosa; Forro: 100% Poliéster; Relleno: 100% Poliéster
 - Dobladillo ajustable en la espalda
+- Detalles clásicos de motoristas
+- Composición: Exterior: 88% Poliéster, 12% Viscosa; Forro: 100% Poliéster; Relleno: 100% Poliéster
+- Chaqueta motera para hombre en estándar de la marca danesa JACK & JONES
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09KP3CRGG{{</world>}}

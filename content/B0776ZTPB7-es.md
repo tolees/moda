@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - AJUSTE PERFECTO: La camiseta atemporal de manga corta está hecha de suave algodón transpirable y posee un diseño minimalista y un corte holgado.
-- MATERIAL DE CALIDAD: Este artículo se compone de un 100% de algodón.
-- SENCILLO Y DESENFADADO: La camiseta básica destaca por su agradable tejido de algodón elástico y es perfecta como atuendo de andar por casa, como pijama o como camisón. La bandera Tommy Jeans sobre el pecho completa el look.
 - EL STREETWEAR REINTERPRETADO: Tommy Jeans se inspira en los iconos del hiphop de los años 90 para acercar las prendas clásicas de esa época a la generación actual. La marca se centra en diseños frescos de calidad con mucho tejido vaquero.
+- SENCILLO Y DESENFADADO: La camiseta básica destaca por su agradable tejido de algodón elástico y es perfecta como atuendo de andar por casa, como pijama o como camisón. La bandera Tommy Jeans sobre el pecho completa el look.
+- MATERIAL DE CALIDAD: Este artículo se compone de un 100% de algodón.
 - DISEÑO PREMIUM: El sencillo diseño del top es la base de cualquier look. Además, la camiseta es perfecta también como regalo.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

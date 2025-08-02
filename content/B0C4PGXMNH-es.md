@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sencillo de usar
 - Material de calidad
 - Producto deportivo
+- Sencillo de usar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C4PGXMNH{{</world>}}

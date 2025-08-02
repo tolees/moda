@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Tiras de tejido de red con detalle entramado colorido
+- Tiras cruzadas frontales con detalle pespunteado
 - Costuras de adorno
 - Diseño de cómoda sandalia casual con tiras
-- Tiras cruzadas frontales con detalle pespunteado
-- Tiras de tejido de red con detalle entramado colorido
 - Parte superior de piel sintética lisa
 
 [🛒 Aquí!!!]({{< param buyurl >}})

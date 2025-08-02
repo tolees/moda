@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forro:
 - Costura a lo largo de todo el borde para mayor durabilidad
 - Suela/Características: Goma con un agarre extraordinario
+- Forro:
 - Empeine: Piel (Piel vacuna)
 - Color: Marrón
 

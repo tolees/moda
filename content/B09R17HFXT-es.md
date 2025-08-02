@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- CORTE RELAJADO: ajuste cómodo y relajado en todo el cuerpo.
-- BLUSA CON CUELLO DE VOLANTE: Esta favorecedora blusa combina fácilmente con looks tanto formales como informales. Combina este producto con una falda de tubo para ir a la oficina o con tus vaqueros favoritos para conseguir un look más desenfadado e informal.
-- LIGERO TEJIDO GEORGETTE: Este georgette ligero tiene un acabado suave y una caída muy elegante, y te hará lucir elegante durante todo el año.
 - DETALLES: Presenta cuello alto con detalle de volante, escote en “V” para facilitar su colocación y mangas con un bonito drapeado.
+- BLUSA CON CUELLO DE VOLANTE: Esta favorecedora blusa combina fácilmente con looks tanto formales como informales. Combina este producto con una falda de tubo para ir a la oficina o con tus vaqueros favoritos para conseguir un look más desenfadado e informal.
+- CORTE RELAJADO: ajuste cómodo y relajado en todo el cuerpo.
+- LIGERO TEJIDO GEORGETTE: Este georgette ligero tiene un acabado suave y una caída muy elegante, y te hará lucir elegante durante todo el año.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09R17HFXT{{</world>}}

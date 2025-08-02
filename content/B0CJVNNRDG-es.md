@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camiseta de algodón orgánico. Impresión con agua más purpurina.
 - 100% algodón
+- Camiseta de algodón orgánico. Impresión con agua más purpurina.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CJVNNRDG{{</world>}}

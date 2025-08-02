@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Bolsillo de cremallera en la parte trasera.
-- Cuenta un compartimento con cierre de cremallera para las monedas, y otro compartimento con cierre de clic con cuatro ranuras para tarjetas y una para el DNI.
 - Monedero de 11 cm x 7 cm x 1,5 cm fabricado en Piel.
+- Cuenta un compartimento con cierre de cremallera para las monedas, y otro compartimento con cierre de clic con cuatro ranuras para tarjetas y una para el DNI.
 - De Joumma Bags.
 - Tamaño ideal para llevarlo en la bandolera o en el bolsillo del pantalón
 

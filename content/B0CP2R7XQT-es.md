@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pijama corto 100% algodón, de manga corta y pantalón corto, en color lila con dibujo de Garfield
 - Combina con otras prendas y accesorios de la colección
+- Pijama corto 100% algodón, de manga corta y pantalón corto, en color lila con dibujo de Garfield
 - Short estampado con cinturilla elástica ajustable
 
 [🛒 Visítala!!!]({{< param buyurl >}})

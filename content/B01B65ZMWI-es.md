@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Lavable a máquina.
 - Protección en las puntas de los dedos de caucho termoplástico (TPR) para evitar pellizcos.
+- La protección contra impactos de caucho termoplástico (TPR) cumple los requisitos establecidos en la norma EN 13594 en materia de impactos.
 - La piel sintética duradera de 0,8 mm permite el uso de pantallas táctiles y ofrece la combinación perfecta de destreza y protección.
 - El acolchado de la palma D3O absorbe y disipa la energía de los impactos.
-- La protección contra impactos de caucho termoplástico (TPR) cumple los requisitos establecidos en la norma EN 13594 en materia de impactos.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01B65ZMWI{{</world>}}
