@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tamaño: EU 34 35
-- Tipo de producto: SANDAL
-- Marca: ChayChax
-- Color: Menta Verde
 - Nombre del árticulo: Pantuflas de Tiburón Verano para Mujer Hombre Niño Zapatos de Zapatillas de Ducha Sandalias de Playa y Piscina Shark Slides Slippers Sandalias De Punta Abierta De Secado Rápido,Menta Verde,34 35
+- Tamaño: EU 34 35
+- Marca: ChayChax
+- Tipo de producto: SANDAL
+- Color: Menta Verde
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09ZLLCXZG{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Full-length frontal zip and Side pockets
 - Hood with lanyard
+- Full-length frontal zip and Side pockets
 - Regular fit
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

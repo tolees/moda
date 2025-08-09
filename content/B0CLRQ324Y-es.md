@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Elástico en puños y cintura, lo que garantiza una libertad óptima de movimiento
 - Ideal tanto para el campo, como para la ciudad, como para el día a día. Un imprescindible en tu armario!!
 - Logotipo de la marca y detalles bordados. Cuello regulable con cremallera. Capucha con cordones
+- Elástico en puños y cintura, lo que garantiza una libertad óptima de movimiento
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CLRQ324Y{{</world>}}

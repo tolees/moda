@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Hecha de jersey suave
 - Acabado con un gráfico atrevido
+- Hecha de jersey suave
 - Un clásico atemporal que se puede llevar con cualquier cosa
 
 [🛒 Visítala!!!]({{< param buyurl >}})

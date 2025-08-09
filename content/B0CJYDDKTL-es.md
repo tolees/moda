@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Temperatura máxima: 30 °C. Lavar suavemente
-- Vestido de muselina bordado, solapa en la sisa, corte en el pecho y volantes, cremallera oculta en el lateral
-- Secar a la sombra después de girar en la línea
 - No secar en secadora
+- Vestido de muselina bordado, solapa en la sisa, corte en el pecho y volantes, cremallera oculta en el lateral
+- Temperatura máxima: 30 °C. Lavar suavemente
+- Secar a la sombra después de girar en la línea
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CJYDDKTL{{</world>}}

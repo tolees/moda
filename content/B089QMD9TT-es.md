@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Corte normal
+- La base adecuado para look
+- Comodidad para el día a día
 - Rematado con la icónica marca PUMA
 - Algodón suave
-- La base adecuado para look
-- Corte normal
-- Comodidad para el día a día
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B089QMD9TT{{</world>}}

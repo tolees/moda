@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Hecho de suave mezcla de algodón
 - Sudadera sencilla con cuello redondo
 - Estilo de forro polar
 - Cuello redondo clásico
+- Hecho de suave mezcla de algodón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08KXW28BM{{</world>}}

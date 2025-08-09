@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Fit: Evasé
-- Escote redondo con botón en la espalda
 - Bordado suizo efecto flores
 - Largo: Corto
+- Escote redondo con botón en la espalda
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B84BYZZF{{</world>}}

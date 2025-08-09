@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Colección: Jackets
 - Ofrece comodidad y libertad de movimiento
 - Tiene detalles distintivos de la marca
-- Colección: Jackets
 - Este producto es original Levis
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Totalmente forrado
 - Abrigo con cierre de botón
+- Totalmente forrado
 - Abrigo acolchado acolchado
 
 [🛒 Visítala!!!]({{< param buyurl >}})

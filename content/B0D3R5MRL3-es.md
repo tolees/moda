@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuidados: no lavar (las manchas pueden eliminarse frotando suavemente con un paño húmedo). No usar lejía. No meter en la secadora. No planchar.
 - Bolsa tipo tote bag en rPET. ​
+- Cuidados: no lavar (las manchas pueden eliminarse frotando suavemente con un paño húmedo). No usar lejía. No meter en la secadora. No planchar.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D3R5MRL3{{</world>}}

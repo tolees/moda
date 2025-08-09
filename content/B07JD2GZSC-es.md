@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bajo recto
-- Una mirada original
 - Estampado de G-Star RAW en la parte delantera
+- Una mirada original
+- Bajo recto
 - Proporciona comodidad
 - Cuello acanalado
 

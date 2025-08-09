@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sport type: Carrera a pie
 - Tipo de fábrica: 92% Poliéster, 8% Elastano
 - Con tecnología Micro-Mesh en los laterales para facilitar la transpiración
 - Care instructions: Lavar a máquina
+- Sport type: Carrera a pie
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B091FW5YZH{{</world>}}

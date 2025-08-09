@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Este producto fue creado con atención al detalle
+- Chaleco acolchado de cuello alto
+- Cremallera del chaleco
 - Estaciones: Otoño/invierno
 - not water resistant
-- Cremallera del chaleco
-- Chaleco acolchado de cuello alto
 - Alta calidad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

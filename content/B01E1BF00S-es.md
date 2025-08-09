@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Composición del material: 100% algodón
 - Corte regular
+- Composición del material: 100% algodón
 - Hecho de algodón cómodo
 - Dobladillo ligeramente redondeado
 

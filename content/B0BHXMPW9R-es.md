@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bolsillos laterales con cremallera
 - Ideal para entretiempo
 - Chaqueta Softshell
+- Bolsillos laterales con cremallera
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BHXMPW9R{{</world>}}

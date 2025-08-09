@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Escote redondo y elegante para un look clásico
-- Corte cómodo y regular para un ajuste perfecto
 - Estampado de moda y mangas cortas para un toque trendy
 - Vestido camisero elegante de algodón 100%
+- Escote redondo y elegante para un look clásico
+- Corte cómodo y regular para un ajuste perfecto
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BHPSKYVC{{</world>}}

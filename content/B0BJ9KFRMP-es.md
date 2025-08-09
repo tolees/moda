@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bolsillos laterales sin cremallera
-- Corte
 - Vida elástica con cordón
+- Corte
+- Bolsillos laterales sin cremallera
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BJ9KFRMP{{</world>}}

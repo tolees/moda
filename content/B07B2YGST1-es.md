@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajuste muy delgado
 - Camisa de Premium
-- Una camisa clásica es una de las partes más importantes de tu armario. No solo se ve bien bajo un blazer, sino que también es adecuado para ocasiones menos formales. La camisa de JACK & JONES Premium está hecha de una mezcla de algodón y elastano que garantiza un ajuste perfecto.
 - Composición: 98% algodón, 2% elastano
+- Ajuste muy delgado
+- Una camisa clásica es una de las partes más importantes de tu armario. No solo se ve bien bajo un blazer, sino que también es adecuado para ocasiones menos formales. La camisa de JACK & JONES Premium está hecha de una mezcla de algodón y elastano que garantiza un ajuste perfecto.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07B2YGST1{{</world>}}

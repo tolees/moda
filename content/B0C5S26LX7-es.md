@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Modelo Unisex. Medidas: Frontal 142 mm; Patillas 123 mm ; Puente 16 mm ; Alto 46 mm
 - Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores. Lentes categoría 3 fabricadas con material bio tac polarizado y protección uv400.
 - Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Terminal de la patilla en acabado engomado para mejorar la ergonomía y confort. Bisagra de doble acción para un cierre de patillas seguro y durabilidad.
 - Diseño fashion deportivo con montura envolvente de TR90 carey en acabado brillo y lentes marrones polarizadas. Esta silueta inspirada en los 2000 tiene patillas anchas con terminales y nose pads negros engomados y estriados que le aportan una mayor sujeción.
+- Modelo Unisex. Medidas: Frontal 142 mm; Patillas 123 mm ; Puente 16 mm ; Alto 46 mm
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C5S26LX7{{</world>}}

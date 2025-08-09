@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Material de la suela: Caucho
-- Material exterior: Sintético
 - Nota Considera la talla BR = talla de la UE, independientemente de lo que muestre la suela del producto, la talla BR se ajusta adecuado y corresponde a la talla de la UE + prueba siempre el producto primero
+- Material exterior: Sintético
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09JWZ1N19{{</world>}}

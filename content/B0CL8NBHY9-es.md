@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fácil de lavar a máquina
 - Transpirable y cómodo
 - Aspecto clásico con cuello redondo y manga corta que crea un aspecto clásico y atemporal
+- Fácil de lavar a máquina
 - Ajuste normal
 - Cierre: diseño de tirar, por lo que es fácil de poner y quitar
 

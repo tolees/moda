@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Diseño deportivo
 - Ligeras y transpirables
 - Ofrecen una comodidad óptima
-- Diseño deportivo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C66CJCD4{{</world>}}

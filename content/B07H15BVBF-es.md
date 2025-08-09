@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto Oficial Hawkers. Incluye: Funda en microfibra y caja.
-- Lentes rosa doradas espejadas, fabricadas en TR18, con reducción de brillos y con gran equilibrio entre claridad y protección. Lente de categoría 3 con protección UV400. Resistencia muy alta
 - Modelo Unisex. Medidas: Frontal 142 mm; Patillas 140 mm; Puente 20 mm; Diámetro de lente 51,9 mm
-- Gafas de Sol Warwick, unisex, un clásico renovado, con un toque moderno gracias a la parte superior de su frontal de líneas rectas geométricas.
 - Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Bisagra de doble acción para un cierre de patillas seguro y durabilidad. Diseño más ancho del terminal de la patilla para mejorar la ergonomía y confort
+- Lentes rosa doradas espejadas, fabricadas en TR18, con reducción de brillos y con gran equilibrio entre claridad y protección. Lente de categoría 3 con protección UV400. Resistencia muy alta
+- Gafas de Sol Warwick, unisex, un clásico renovado, con un toque moderno gracias a la parte superior de su frontal de líneas rectas geométricas.
+- Producto Oficial Hawkers. Incluye: Funda en microfibra y caja.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07H15BVBF{{</world>}}

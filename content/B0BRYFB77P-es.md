@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Regular Fit
 - Importado
 - Nuestros suéteres son suaves y cómodos
-- Regular Fit
 - Hecho de algodón premium
 
 [🛒 Visítala!!!]({{< param buyurl >}})

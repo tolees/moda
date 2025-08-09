@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tiene detalles distintivos de la marca
 - Artículo de marca Under Armour
+- Tiene detalles distintivos de la marca
 - Tiene un estilo óptimo y ofrece un ajuste cómodo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

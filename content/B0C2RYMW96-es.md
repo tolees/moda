@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de producto: jeans ajustados
 - Composición del material: 68% algodón, 30% poliéster, 2% elastano
+- Tipo de producto: jeans ajustados
 - Cierre: bragueta con cierre de botón
 - Cintura: cintura baja
 

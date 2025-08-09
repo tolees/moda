@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Peso del paquete del artículo: 0 Kg
 - Longitud del paquete del artículo: 0 mm
-- Ancho del paquete del artículo: 0 mm
 - Altura del paquete del artículo: 0 mm
+- Ancho del paquete del artículo: 0 mm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C66CRFPF{{</world>}}

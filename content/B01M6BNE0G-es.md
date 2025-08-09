@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Costuras elásticas
-- Paquete de tres
 - Corte ceñido
+- Paquete de tres
+- Costuras elásticas
 - Cinturilla con logotipo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

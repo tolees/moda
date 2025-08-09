@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Longitud de la manga:
 - Longitud: Regular
-- Tejido: Algodón
-- Fijaciones: Pull Over
 - Tipo de ajuste: corte regular
+- Fijaciones: Pull Over
+- Tejido: Algodón
+- Longitud de la manga:
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08KXV8K8M{{</world>}}

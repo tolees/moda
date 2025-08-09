@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tejido vaquero elástico para un ajuste perfecto
 - Cómodo de llevar
+- Tejido vaquero elástico para un ajuste perfecto
 - Vaqueros Ajustados con Piernas Tapered
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

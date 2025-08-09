@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre: goma
 - Material interior: sintético
-- Talla del zapato: Medium
 - Material exterior: sintético
+- Cierre: goma
+- Talla del zapato: Medium
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09N7J5SGL{{</world>}}

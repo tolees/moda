@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre: Ninguno especificado
-- Forma del talón: plano
 - Talla del zapato: Medium
+- Forma del talón: plano
 - Material exterior: poliuretano
+- Cierre: Ninguno especificado
 - Material interior: sintético
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Nuestra clásica camiseta de algodón orgánico con la marca HH; esta camiseta contiene algodón orgánico; ver composición para más detalles
-- Exterior: 97% algodón orgánico, 3% elastán
 - El emblemático logotipo de HH en una cómoda camiseta de algodón orgánico
 - Artículos entregados: 1x Helly Hansen Junior Unisex Camiseta HH Logo,10,Azul marino
+- Exterior: 97% algodón orgánico, 3% elastán
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B081JPYRJQ{{</world>}}

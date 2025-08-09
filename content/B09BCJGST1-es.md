@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Pantalones Cortos Hombre 100% Algodon
 - Pantalones Cortos Hombre 100% Algodon
-- Pantalones Cortos Hombre 100% Algodon
 - Pantalon Corto Pijama Hombre Elástico Verano a Cuadros
+- Pantalones Cortos Hombre 100% Algodon
 - Pantalon Corto Casa Hombre Pack 1&2
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

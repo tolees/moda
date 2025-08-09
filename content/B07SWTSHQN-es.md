@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material exterior: Tejido
 - Material de la suela: Material Sintético
+- Material exterior: Tejido
 - Revestimiento: Malla
 
 [🛒 Visítala!!!]({{< param buyurl >}})

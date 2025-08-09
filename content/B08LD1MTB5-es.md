@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estilo clásico de Adidas
 - Corte delgado
-- Camiseta de marca Adidas con logo
 - Escote redondo
+- Camiseta de marca Adidas con logo
+- Estilo clásico de Adidas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08LD1MTB5{{</world>}}

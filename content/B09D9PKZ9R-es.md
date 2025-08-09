@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- SMS en pantalla táctil
 - Guantes de cuero suave: use piel de oveja 100% suave y cómoda
+- SMS en pantalla táctil
 - Forro cálido de cachemira
 
 [🛒 Comprar!!!]({{< param buyurl >}})

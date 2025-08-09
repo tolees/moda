@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Composición: 100% algodón
-- manga corta
-- Corte holgado
 - Cuello redondo
+- Corte holgado
+- manga corta
+- Composición: 100% algodón
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CN7FF42C{{</world>}}

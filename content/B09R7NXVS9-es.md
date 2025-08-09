@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 50% LAMB LEATHER 46% POLYESTER 4% ELASTANE
 - Fibras sostenibles: Leather Working Group
 - Grabado de logo
+- 50% LAMB LEATHER 46% POLYESTER 4% ELASTANE
 - Reverso en color rojo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

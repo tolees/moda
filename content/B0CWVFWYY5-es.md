@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- [Nuestra Marca]: XTI se caracteriza por su moda urbana y funcional con calzado que combina las últimas tendencias con comodidad y versatilidad para un estilo de vida activo y moderno.
 - Eleva tus looks más casuales. Con plantilla extraíble
+- [Nuestra Marca]: XTI se caracteriza por su moda urbana y funcional con calzado que combina las últimas tendencias con comodidad y versatilidad para un estilo de vida activo y moderno.
 - Zapatilla de mujer, de la marca Xti, fabricado en un delicado serraje. Cierre mediante cordones
 - Suela de goma antideslizante. Un modelo en tendencia
 

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Logotipo clásico en el lateral
+- Cuello acolchado y de color de contraste
 - Ojal y zorro personalizados
 - Tenis básicos vulcanizados de corte bajo con parte superior clásica
-- Cuello acolchado y de color de contraste
+- Logotipo clásico en el lateral
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BS41THC2{{</world>}}

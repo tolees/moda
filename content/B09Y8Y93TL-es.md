@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Chaqueta ligera que bloquea el viento
-- Secar a la sombra sobre una correa
 - No exponer a la luz solar directa durante el secado
+- Secar a la sombra sobre una correa
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09Y8Y93TL{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Camiseta de manga corta para hombre
 - Logotipo impreso en el pecho
 - Cómodo de llevar
+- Camiseta de manga corta para hombre
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08X3PMWQ7{{</world>}}

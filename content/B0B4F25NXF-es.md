@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Flexibilidad robusta: facilita el movimiento
 - Franela con porcentaje elástico
-- Ajuste relajado
 - Forro polar
+- Ajuste relajado
 - Capucha de tres piezas con cordón ajustable
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

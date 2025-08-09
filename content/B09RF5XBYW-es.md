@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forma del tacón: tacón de bloque
-- Material interior: textil
-- Material exterior: sintético
-- Cierre: sintético
 - Ancho del zapato: estrecho
+- Material interior: textil
+- Cierre: sintético
+- Forma del tacón: tacón de bloque
+- Material exterior: sintético
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09RF5XBYW{{</world>}}

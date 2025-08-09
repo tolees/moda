@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Forro inTech sin costuras, una microfibra ecológica 7 veces absorbente que la piel, neutro y resistente; cuenta con el certificado STANDARD 100 by OEKO-TEX
 - Los únicos fabricados en España y avalados por expertos podólogos: SEBIOR, Sociedad Española de Biomecánica y ortopodología; consulta información en nuestras RRSS
-- Piso de goma flexible, antideslizante y resistente al desgarro
 - Pieles naturales que garantizan la correcta transpiración del pie y cuentan con el certificado ambiental LWG
+- Piso de goma flexible, antideslizante y resistente al desgarro
 - Plantilla amortiguadora superabsorbente y antibacterias
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

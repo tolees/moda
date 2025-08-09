@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello de pico
 - Corte clásico
+- Cuello de pico
 - Punto 100% algodón
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Suave
 - Multipack
+- Suave
 - 72% algodón, 26% poliéster, 2% elastano
 
 [🛒 Aquí!!!]({{< param buyurl >}})

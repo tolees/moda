@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia.
-- Medidas: Frontal 145 mm; Patillas 141 mm ; Puente 18 mm ; Alto 50 mm. Modelo Unisex
+- Las Harlow tienen un diseño redondeado con aros finos, remaches decorativos oblongos en las bisagras, patillas finas y amplias. Este modelo negro brillante tiene lentes de oro rosa polarizadas y espejadas.
 - Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores. Lentes categoría 3 fabricadas con material bio tac polarizado y protección uv400.
 - Producto original Hawkers. La caja incluye funda en microfibra y caja
-- Las Harlow tienen un diseño redondeado con aros finos, remaches decorativos oblongos en las bisagras, patillas finas y amplias. Este modelo negro brillante tiene lentes de oro rosa polarizadas y espejadas.
+- Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia.
+- Medidas: Frontal 145 mm; Patillas 141 mm ; Puente 18 mm ; Alto 50 mm. Modelo Unisex
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09RPT45LJ{{</world>}}

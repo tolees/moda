@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Prenda cómoda
 - Cuello redondo y estampado floral en la parte delantera
 - Camiseta de manga corta de algodón puro
-- Prenda cómoda
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C9QTX61T{{</world>}}

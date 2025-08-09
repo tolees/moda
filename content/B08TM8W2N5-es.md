@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gafas de sol polarizadas: proporcionan una visión sin reflejos y un contraste natural de los colores, lentes de categoría 3 y protección UV400 que ofrecen una protección antirreflejos
-- Producto original Hawkers, la caja incluye funda, caja y set de pegatinas decorativas
-- Modelo unisex, medidas: frontal 13.95 cm, alto 4.56 cm, patillas 14.5 cm, puente 1.9 cm
 - Gafas estilo browline con patillas y frontal superior en TR90 negro pulido, frontal inferior en acero inoxidable color plata y lentes negras polarizadas
+- Producto original Hawkers, la caja incluye funda, caja y set de pegatinas decorativas
+- Gafas de sol polarizadas: proporcionan una visión sin reflejos y un contraste natural de los colores, lentes de categoría 3 y protección UV400 que ofrecen una protección antirreflejos
+- Modelo unisex, medidas: frontal 13.95 cm, alto 4.56 cm, patillas 14.5 cm, puente 1.9 cm
 - Acabado con diseño de líneas geométricas, bisagra de 5 barras para un mayor agarre y durabilidad, diseño más ancho del terminal de la patilla para mejorar la ergonomía y confort
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

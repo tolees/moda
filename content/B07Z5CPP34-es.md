@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Super Slim Fit
 - Long sleeves, straight inset- cuffed
 - Shirt collar
-- Super Slim Fit
 - Shaping seams at the back panel
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- FÁCIL LAVADO: Hecha para durar - Resiste el uso intensivo y los lavados sin perder forma o color. Siempre impecable, siempre listo para usar.
-- ALTA TRANSPIRABILIDAD Y SECADO RÁPIDO: Máximo confort con una camiseta manga larga cuello redondo diseñada conn tecnología de tejido avanzada para un mejor rendimiento.
 - LIBERTAD DE MOVIMIENTO: Sin restricciones ni rozaduras. Manga larga diseñada para la acción en cualquier deporte bajo techo o al aire libre.
+- FÁCIL LAVADO: Hecha para durar - Resiste el uso intensivo y los lavados sin perder forma o color. Siempre impecable, siempre listo para usar.
 - ESTILO Y FUNCIONALIDAD: Elegancia y rendimiento que Joma proporciona a tu actividad.
+- ALTA TRANSPIRABILIDAD Y SECADO RÁPIDO: Máximo confort con una camiseta manga larga cuello redondo diseñada conn tecnología de tejido avanzada para un mejor rendimiento.
 - DURABILIDAD Y ESTILO: Material de alta resistencia que expulsa el sudor al exterior. Diseño clásico con logotipo Joma serigrafiado.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

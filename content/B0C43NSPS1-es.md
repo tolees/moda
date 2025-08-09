@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Puños elásticos
 - Bolsillos frontales con botón a presión
-- Tejido técnico 1% poliéster reciclado
-- Corte clásico
 - Cierre de cremallera y capucha
+- Corte clásico
+- Tejido técnico 1% poliéster reciclado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C43NSPS1{{</world>}}

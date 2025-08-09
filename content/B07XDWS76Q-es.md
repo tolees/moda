@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajuste regular
 - Logotipo reflectante de Levis en el pecho
+- Ajuste regular
 - Ajuste regular
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

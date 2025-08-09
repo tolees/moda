@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Detalles de la marca
 - Zapato de corte bajo
+- Detalles de la marca
 - Punta redonda
 
 [🛒 Visítala!!!]({{< param buyurl >}})

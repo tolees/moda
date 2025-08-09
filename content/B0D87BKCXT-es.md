@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- MÁXIMA COMODIDAD: Las sandalias Chicco son cómodas, flexibles, ligeras, transpirables y prácticas
 - SANDALIAS NIÑA: Sandalias Chicco con cómodo cierre, ideales para un look casual y a la moda. Adecuadas para cualquier ocasión
+- MÁXIMA COMODIDAD: Las sandalias Chicco son cómodas, flexibles, ligeras, transpirables y prácticas
 - GUÍA DE TALLAS: Elige la talla más adecuada siguiendo las indicaciones de la imagen de la galería
 - CHICCO: Siempre al lado de las familias, escuchando sus historias y necesidades. Con nuestros productos innovadores, siempre respondemos a las nuevas necesidades de los padres y de quienes cuidan de los niños
 

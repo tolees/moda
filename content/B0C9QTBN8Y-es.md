@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Ligera y cómoda
-- Diseño moderno
 - Camiseta de manga corta con puños y acanalado en el cuello. Estampado acuático y purpurina en la parte delantera. Corte regular
+- Diseño moderno
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C9QTBN8Y{{</world>}}

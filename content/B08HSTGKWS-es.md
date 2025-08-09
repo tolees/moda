@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Con cuello alto
+- Vestido largo
 - Cuello de calentamiento
 - Con abertura en la pierna
-- Vestido largo
-- Con cuello alto
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08HSTGKWS{{</world>}}

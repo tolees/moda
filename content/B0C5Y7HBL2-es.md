@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Detalles distintivos de la marca
 - Disponen de un diseño ligero
+- Detalles distintivos de la marca
 - Con trabillas para el cinturón
 
 [🛒 Visítala!!!]({{< param buyurl >}})

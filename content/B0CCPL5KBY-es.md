@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiene cordón en la cinturilla, que además es elástica
 - Cierre de botón y cremallera en bragueta
+- Tiene cordón en la cinturilla, que además es elástica
 - Pantalón en tejido de lino/algodón
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

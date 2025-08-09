@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tommy Hilfiger Bordado de bandera en el puño
-- Logotipo de pista de archivo en la parte delantera
 - Cuello redondo
+- Logotipo de pista de archivo en la parte delantera
+- Tommy Hilfiger Bordado de bandera en el puño
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C8Z7VT48{{</world>}}

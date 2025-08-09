@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ropa deportiva
-- Logotipo en la parte delantera
-- Ajuste regular
 - Tejido antihumedad Climalite
+- Logotipo en la parte delantera
+- Ropa deportiva
+- Ajuste regular
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B081SKR57Y{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte regular
 - Composición: 92% algodón, 8% licra
+- Corte regular
 - Camiseta de manga corta
 - Cuello redondo
 

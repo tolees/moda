@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aberturas de ventilación an dos Mangas y En la parte posterior
 - Integrado Agujeros del pulgar de Spandex
-- Repelente al agua Material exterior y Forro interior de respirable Material malla
+- Aberturas de ventilación an dos Mangas y En la parte posterior
 - Protector de habla an Mover, Codos y Hombros
+- Repelente al agua Material exterior y Forro interior de respirable Material malla
 - Compatible neck brace
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

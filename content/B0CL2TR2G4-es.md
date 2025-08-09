@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cierre de cordones
-- Horma clásica
 - Parte de piel lisa
+- Horma clásica
 - El diseño favorito de tu padre ahora es el tuyo Esta zapatilla presenta una silueta cómoda y contundente La parte de piel suave luce detalles perforados, refuerzos puestos y las clásicas 3 bandas Cuenta con una mediasuela gruesa esculpida y una suela deagarre
 
 [🛒 Comprar!!!]({{< param buyurl >}})

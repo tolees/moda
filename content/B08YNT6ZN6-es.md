@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Confección en poliéster: Proporciona una prenda ligera y resistente.
-- Capucha incorporada: Ofrece protección contra el clima.
-- Cremallera y bolsillos: Añaden practicidad a la prenda. Resumen:
 - Diseño moderno con corte ajustado: Maximiza la movilidad en la cancha.
+- Confección en poliéster: Proporciona una prenda ligera y resistente.
+- Cremallera y bolsillos: Añaden practicidad a la prenda. Resumen:
+- Capucha incorporada: Ofrece protección contra el clima.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08YNT6ZN6{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Botín de caña baja
-- Confeccionadas en piel ECCO de calidad exclusiva
-- Plantilla moldeada con forma anatómica
 - Suela ligera de PU de dos componentes que aporta amortiguación y flexibilidad gracias a la innovadora tecnología ECCO FLUIDFORM Direct Comfort
+- Botín de caña baja
+- Plantilla moldeada con forma anatómica
+- Confeccionadas en piel ECCO de calidad exclusiva
 - Los paneles elásticos laterales te permiten calzarte con facilidad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

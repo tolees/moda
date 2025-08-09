@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Hombre Essentials Small Logo Single Jersey tee  Black/White  M'
-date: 2025-07-31 11:07:50
+date: 2025-08-09 15:34:57
 image: 'https://m.media-amazon.com/images/I/21BayqMSgvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Cuello redondo de canalé
-- Hombros con las costuras caídas
-- 100% algodón
 - Corte clásico
+- 100% algodón
+- Hombros con las costuras caídas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CZS3T3KS{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- black washing and regular waist
 - skinny jeans with push-up effect
+- black washing and regular waist
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07HG8WGW9{{</world>}}

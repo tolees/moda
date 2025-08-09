@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Hacia adentro o hacia adelante sobre el pecho
 - Testado y seguro desde el nacimiento hasta los 12 meses
-- Pequeña y fácil de poner y quitar
 - Mochila porta bebé ideal para el recién nacido
+- Pequeña y fácil de poner y quitar
 - Suave y flexible
 
 [🛒 Comprar!!!]({{< param buyurl >}})

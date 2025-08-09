@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Logotipo Levis en el pecho
-- Corte regular
 - 60% algodón, 40% poliéster
-- 2 bolsillos
 - Sudadera con capucha y cremallera completa
+- Logotipo Levis en el pecho
+- 2 bolsillos
+- Corte regular
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BSNQL8L5{{</world>}}

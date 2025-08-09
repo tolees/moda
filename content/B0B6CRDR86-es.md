@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con alta flexibilidad y comodidad
 - Detalles: cintura elástica
+- Con alta flexibilidad y comodidad
 - Tipo de producto: pantalones cortos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

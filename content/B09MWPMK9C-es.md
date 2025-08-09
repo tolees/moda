@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Logotipo Levis en el pecho
 - 2 bolsillos
-- 40% poliéster
 - Ajuste regular
+- Logotipo Levis en el pecho
 - Sudadera con capucha y cremallera completa
+- 40% poliéster
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09MWPMK9C{{</world>}}

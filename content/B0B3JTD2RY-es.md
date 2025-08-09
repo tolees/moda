@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Prenda deportiva de vestir
 - Para uso diario
+- Prenda deportiva de vestir
 - Tiene detalles distintivos de la marca
 
 [🛒 Visítala!!!]({{< param buyurl >}})

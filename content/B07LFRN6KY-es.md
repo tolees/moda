@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Los sistemas patentados Geox ofrecen la transpirabilidad de la suela y el bienestar del pie
 - Fácil de llevar para un confort optimo
-- Altura del tacón: 2 cm / 0.8 inch
 - Calzado sin cierre
+- Altura del tacón: 2 cm / 0.8 inch
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07LFRN6KY{{</world>}}

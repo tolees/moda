@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Impresión de alto contraste
+- Interior cepillado suave
 - País de origen: LK
 - Delicada mezcla de algodón
-- Interior cepillado suave
-- Impresión de alto contraste
 - Con puños acanalados
 
 [🛒 Aquí!!!]({{< param buyurl >}})

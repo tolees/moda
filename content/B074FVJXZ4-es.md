@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Para todo tipo de ocasiones
-- Botas Gioseppo
 - Glamurosas y cómodas
 - Botas confortables
+- Para todo tipo de ocasiones
+- Botas Gioseppo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B074FVJXZ4{{</world>}}

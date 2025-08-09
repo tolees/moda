@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forma del talón: plano
 - Suela: goma
+- Forma del talón: plano
+- Material exterior: sintético
 - Material interior: sintético
 - Cierre: cierre de velcro
-- Material exterior: sintético
 - Talla del zapato: Medium
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

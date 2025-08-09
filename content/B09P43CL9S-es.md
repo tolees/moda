@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Cremallera completa
 - Ajuste regular
 - cuello polo
-- Cremallera completa
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09P43CL9S{{</world>}}

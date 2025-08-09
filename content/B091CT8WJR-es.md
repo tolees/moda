@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- suelto
-- Cuello
 - Blusa
 - Manga larga
+- suelto
+- Cuello
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B091CT8WJR{{</world>}}

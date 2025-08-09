@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto Oficial Hawkers. Incluye: Funda en microfibra y caja.
-- Modelo Unisex. Medidas: Frontal 141 mm; Patillas 140 mm; Puente 17 mm; Diámetro de lente 55,7 mm
-- Lentes categoría 3 y protección uv400 que ofrecen una protección antideslumbrante superior. Lentes de TR18 con el sello de Eastman, uno de los líderes mundiales en tecnología de copoliéster. Respetuoso con el medio ambiente y proporciona un equilibrio único entre claridad y resistencia.
-- Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Diseño más ancho del terminal de la patilla para mejorar la ergonomía y confort. Bisagra rotativa de alta calidad que permite libre movimientos entre patilla y frontal.
 - ONE. Nuestro diseño más icónico de gafas de sol y best seller de todos los tiempos. Ahora se fabrica en nuestra primera fábrica en España con las últimas tecnologías. Dando como resultado una montura aún más ligera y resistente. Presentamos RAW. Nuestra primera colección con sello de calidad Made In Spain. Este modelo presenta la forma de montura característica de ONE en negro mate. con lentes azul cielo.
+- Producto Oficial Hawkers. Incluye: Funda en microfibra y caja.
+- Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Diseño más ancho del terminal de la patilla para mejorar la ergonomía y confort. Bisagra rotativa de alta calidad que permite libre movimientos entre patilla y frontal.
+- Lentes categoría 3 y protección uv400 que ofrecen una protección antideslumbrante superior. Lentes de TR18 con el sello de Eastman, uno de los líderes mundiales en tecnología de copoliéster. Respetuoso con el medio ambiente y proporciona un equilibrio único entre claridad y resistencia.
+- Modelo Unisex. Medidas: Frontal 141 mm; Patillas 140 mm; Puente 17 mm; Diámetro de lente 55,7 mm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09KHDVWZ6{{</world>}}

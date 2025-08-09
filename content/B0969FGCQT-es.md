@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - 13STRW343C
-- Ligero, Encaje clasico, Manga de doble puntada y bastilla baja
 - Officially Licensed Star Wars Apparel
+- Ligero, Encaje clasico, Manga de doble puntada y bastilla baja
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0969FGCQT{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ligero.
-- Resistente.
 - Protectora.
+- Ligero.
 - Producto de gran calidad.
+- Resistente.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0768YMYDQ{{</world>}}

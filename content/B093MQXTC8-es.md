@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material exterior: 98% algodón, 2% elastano
 - Diseño ajustado
+- Material exterior: 98% algodón, 2% elastano
 - Ajuste: Seattle
 
 [🛒 Aquí!!!]({{< param buyurl >}})

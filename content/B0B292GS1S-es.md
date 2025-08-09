@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Plano
-- Cordones
-- Parte superior de malla con superposiciones de ante y TPU
 - Sintético
-- Suela exterior de goma
+- Plano
 - Forro textil
+- Suela exterior de goma
+- Parte superior de malla con superposiciones de ante y TPU
+- Cordones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B292GS1S{{</world>}}

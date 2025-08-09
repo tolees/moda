@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El poliéster no absorbe casi la humedad y se seca rápidamente
-- Fibra sintética que es inarrugable, resistente a la rotura y a las inclemencias
-- Con Dry Mx, una tecnología capaz de controlar la humedad corporal del deportista
 - Camiseta diseñada en cuello redondo de material extensible, resistente y de un mantenimiento particularmente fácil
+- Con Dry Mx, una tecnología capaz de controlar la humedad corporal del deportista
+- Fibra sintética que es inarrugable, resistente a la rotura y a las inclemencias
+- El poliéster no absorbe casi la humedad y se seca rápidamente
 - El tejido Interlock presenta una superficie fina y tersa
 
 [🛒 Comprar!!!]({{< param buyurl >}})

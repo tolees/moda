@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Logotipo impreso en el pecho
-- Corte normal
 - Hecho de algodón 100% sostenible
+- Corte normal
+- Logotipo impreso en el pecho
 - Cuello redondo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

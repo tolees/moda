@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Algodón puro
-- Elongación natural
-- Composición del material: 100% algodón orgánico
 - Camiseta básica: imprescindible para cualquier armario
+- Composición del material: 100% algodón orgánico
+- Elongación natural
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08ZNMFKFW{{</world>}}

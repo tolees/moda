@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuenta con un diseño ligero
 - Tiene detalles distintivos de la marca
+- Cuenta con un diseño ligero
 - Ajustable a tu ropa preferida
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

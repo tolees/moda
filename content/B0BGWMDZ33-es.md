@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Amortiguación completa
 - Paquete de tres pares
+- Amortiguación completa
 - La altura del tobillo
 - Fabricados en material cómodo
 

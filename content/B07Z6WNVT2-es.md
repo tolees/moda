@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Elastic lace and toggle for easy on and off comfort
 - Synthetic upper for comfort durability and breathability
+- Elastic lace and toggle for easy on and off comfort
 - EVA midsole and footbed adds extra cushioning
 - Neoprene lining provides padding and protection for all day comfort
 

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Hidrófugo
 - Bolso
-- 0.46 kg
-- 21 Alto x 34 Ancho x 18.5 Fondo cm
 - 100% Poliéster
+- 21 Alto x 34 Ancho x 18.5 Fondo cm
+- 0.46 kg
+- Hidrófugo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B083YCDK53{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bordado Árbol
 - Manga Corta
+- Bordado Árbol
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DNK97FM2{{</world>}}

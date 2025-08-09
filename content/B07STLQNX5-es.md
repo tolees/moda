@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material de la suela: Material Sintético
 - Material exterior: Tejido
+- Material de la suela: Material Sintético
 - Revestimiento: Malla
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

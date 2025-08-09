@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Con mezcla de algodón y lino
 - Blusa de manga larga
 - con cuello camisero
-- Con mezcla de algodón y lino
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CCSKN7DV{{</world>}}

@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Horma clásica
 - Plantilla Cloudfoam Comfort
-- Tacto suave
-- Forro textil
-- Cierre de cordones
 - Empeine de piel sintética
+- Forro textil
+- Horma clásica
+- Cierre de cordones
+- Tacto suave
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CKS1F39Y{{</world>}}

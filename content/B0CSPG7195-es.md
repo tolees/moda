@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Fabricado con tela 100% reciclada
-- Estilo Puffer
 - Sudadera con capucha desmontable
+- Estilo Puffer
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CSPG7195{{</world>}}

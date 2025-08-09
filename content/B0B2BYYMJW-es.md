@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Color de las chanclas: morado
 - TIPO DE SUELA: Cómodo, duradero, ligero, resistente al calor, antideslizante y resistente al agua
 - Correa: PVC. Material de la suela: goma
-- Color de las chanclas: morado
 - Tamaño: al comprar sandalias Havaianas en Amazon, debes considerar el tamaño BR/proveedor como equivalente al tamaño de la UE, independientemente de lo que se muestre en la suela del producto
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ajustable a tu ropa preferida
 - Tiene detalles distintivos de la marca
+- Ajustable a tu ropa preferida
 - Cuenta con un diseño ligero
 
 [🛒 Aquí!!!]({{< param buyurl >}})

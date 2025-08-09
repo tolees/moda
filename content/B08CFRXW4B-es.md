@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Personaliza tus Crocs con Jibbitz
 - Pack de 5 adornos Jibbitz para zapatos
+- Personaliza tus Crocs con Jibbitz
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08CFRXW4B{{</world>}}
