@@ -1,0 +1,36 @@
+---
+layout: post
+title: 's.Oliver 402.11.899.26.180.2101356 Vaqueros Niños 58Z2 170'
+date: 2024-06-16 19:40:11
+image: 'https://m.media-amazon.com/images/I/31b9Q0iJW9S._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B093MCPCK6-es s.Oliver 402.11.899.26.180.2101356 Vaqueros Niños 58Z2 170'
+sku: 'B093MCPCK6-es'
+tags: [ 'vaqueros','🇪🇸', ]
+actualPrice: 9.85 EUR
+currency: EUR
+price: 9.85
+comparePrice: 35.99 EUR
+prodname: 's.Oliver 402.11.899.26.180.2101356 Vaqueros Niños 58Z2 170'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B093MCPCK6/?tag=tolees-21'
+descuento: '72.63'
+average: '9.85'
+---
+
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Diseño ajustado
+- Material exterior: 98% algodón, 2% elastano
+- Ajuste: Seattle
+
+[🛒 Ver la oferta!!]({{< param buyurl >}})
+{{<world>}}B093MCPCK6{{</world>}}
