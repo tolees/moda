@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Moderna camiseta básica de la marca de moda. Jack & Jones
-- Gran relación calidad-precio, mejor calidad, excelente acabado
 - Un gran modelo para muchas ocasiones, perfecto en el trabajo o en el tiempo libre, para debajo o simplemente porque sí, muy cómodo de llevar
-- Ajuste: corte regular, ajuste normal
+- Gran relación calidad-precio, mejor calidad, excelente acabado
 - Cuello redondo, largo hasta la cadera, corte recto, monocolor
+- Ajuste: corte regular, ajuste normal
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0085SFY9G{{</world>}}

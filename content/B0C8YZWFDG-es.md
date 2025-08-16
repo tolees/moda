@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Camisa de manga corta para hombre
 - Ofrece comodidad y libertad de movimiento
+- Camisa de manga corta para hombre
 - Cómoda de llevar
 
 [🛒 Aquí!!!]({{< param buyurl >}})

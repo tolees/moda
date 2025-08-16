@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El pana es un tejido más pesado de algodón con costillas aterciopeladas
 - Tira de botones
 - Camisa de alta calidad para uso diario
+- El pana es un tejido más pesado de algodón con costillas aterciopeladas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BSXF1K9L{{</world>}}

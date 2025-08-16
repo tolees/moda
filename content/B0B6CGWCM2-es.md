@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material: suela de goma
 - Fabricado en Brasil
+- Material: suela de goma
 - Ventajas: cómodo, duradero, ligero, resistente al calor, antideslizante y resistente al agua
 
 [🛒 Visítala!!!]({{< param buyurl >}})

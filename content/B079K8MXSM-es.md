@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Forro:
-- Color: Negro
 - Empeine: Piel (Piel vacuna)
 - Plantilla: Plantilla extraíble para un mejor ajuste
+- Color: Negro
 - 47% Algodón 36% Tejido (60% Nailon - 40% PU) 14% Piel porcina 3% Tejido (79% PET reciclado - 21% Latex)
+- Forro:
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B079K8MXSM{{</world>}}

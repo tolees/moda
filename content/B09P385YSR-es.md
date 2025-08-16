@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Los productos internacionales tienen términos separados, se venden desde el extranjero y pueden diferir de los productos locales, incluyendo ajuste, calificaciones de edad e idioma del producto, etiquetado o instrucciones.
 - Composición del material: 97% algodón, 3% elastano
 - Con elastano para un gran ajuste
-- Los productos internacionales tienen términos separados, se venden desde el extranjero y pueden diferir de los productos locales, incluyendo ajuste, calificaciones de edad e idioma del producto, etiquetado o instrucciones.
 - Bolsillos laterales tipo cargo y puños con cordón
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

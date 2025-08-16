@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- corte normal
 - Capucha ajustable con cordón
+- corte normal
 - bolsillo canguro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

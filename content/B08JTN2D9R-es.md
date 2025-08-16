@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cremallera completa
-- Con aspecto de ante
 - Chaqueta corta
+- Con aspecto de ante
+- Cremallera completa
 - Bolsillos laterales con cremallera
 - Cuello alto con botón
 

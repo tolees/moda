@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello redondo de canalé
 - Corte clásico
+- Cuello redondo de canalé
 - 100% algodón
 
 [🛒 Comprar!!!]({{< param buyurl >}})

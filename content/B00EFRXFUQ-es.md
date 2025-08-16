@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Puedes usar esta versátil y suave chaqueta de forro polar para estar cómodo todo el año; llévala sola en los días fríos o ponte una capa cuando baje la temperatura
-- -.-
 - Exterior: 100% poliéster (reciclado)
 - Una chaqueta polar Polartec cálida, ligera y muy transpirable, fabricada con materiales 100% reciclados
 - Artículos entregados: 1x Helly Hansen Hombre Chaqueta Daybreaker Forro Polar,S,Negro
+- -.-
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00EFRXFUQ{{</world>}}

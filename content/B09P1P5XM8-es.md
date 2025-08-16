@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Logotipo de adidas
-- Tela Suave
 - Ajuste regular
+- Tela Suave
+- Logotipo de adidas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09P1P5XM8{{</world>}}

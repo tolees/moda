@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con tejido ligero y suave
 - Detalles distintivos de Tommy Hilfiger
+- Con tejido ligero y suave
 - Ofrecen una comodidad óptima
 
 [🛒 Comprar!!!]({{< param buyurl >}})

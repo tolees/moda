@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Patrón: liso
 - Estilo: zapatillas
+- Patrón: liso
 - Estilo de vida: moda casual
 - Cuero : Suede
 

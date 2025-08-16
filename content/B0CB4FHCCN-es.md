@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Punta redonda
 - Cierre de encaje
 - Gancho y correa
-- Punta redonda
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CB4FHCCN{{</world>}}

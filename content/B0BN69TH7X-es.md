@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ancho del zapato: medio
 - Nivel de resistencia al agua: no resistente al agua
+- Ancho del zapato: medio
 - Forma del tacón: tacón de bloque
 
 [🛒 Visítala!!!]({{< param buyurl >}})

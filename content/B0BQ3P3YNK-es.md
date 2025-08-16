@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el óptimo nylon para monturas del mundo que proporciona flexibilidad y resistencia, diseño más ancho del terminal de la patilla para mejorar la ergonomía y confort
-- Modelo unisex, medidas: frontal 141 mm, patillas 140 mm, puente 17 mm, diámetro de lente 55.7 mm
 - Producto Oficial Hawkers, incluye funda en microfibra y caja
-- Lentes categoría 3 y protección UV400 que ofrecen una protección antideslumbrante, lentes de TR18 con el sello de Eastman
 - Este modelo, de la colección Made in Spain, combina montura transparente y lentes espejadas color rose gold
+- Lentes categoría 3 y protección UV400 que ofrecen una protección antideslumbrante, lentes de TR18 con el sello de Eastman
+- Modelo unisex, medidas: frontal 141 mm, patillas 140 mm, puente 17 mm, diámetro de lente 55.7 mm
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BQ3P3YNK{{</world>}}

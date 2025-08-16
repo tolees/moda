@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Un clásico atemporal
 - 100 % nailon
-- Un fit relajado con más espacio en el tronco y en los hombros
+- Un clásico atemporal
 - Cierre de cremallera completa
+- Un fit relajado con más espacio en el tronco y en los hombros
 - Este producto es original Levis
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

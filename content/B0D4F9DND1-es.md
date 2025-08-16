@@ -31,8 +31,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Camiseta para hombre, Adecuada para usar a diario
 - Confort óptimo gracias al material de jersey 100% algodón
 - Disponible en diversos y elegantes colores
-- Moderno logo de Columbia
 - Contenido: 1x Columbia Hombre Camiseta, M Rapid Ridge Graphic, Color: Naranja (Tuscan, Heavenly Stacked Gem), Talla: XL, Art.: 1888813
+- Moderno logo de Columbia
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D4F9DND1{{</world>}}

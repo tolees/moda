@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tiene un diseño casual
 - Ofrece una comodidad óptima
+- Tiene un diseño casual
 - Adecuada para días calurosos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Vestido camisero elegante de algodón 100%
+- Corte cómodo y regular para un ajuste perfecto
 - Estampado de moda y mangas cortas para un toque trendy
 - Escote redondo y elegante para un look clásico
-- Corte cómodo y regular para un ajuste perfecto
+- Vestido camisero elegante de algodón 100%
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BHPSKYVC{{</world>}}

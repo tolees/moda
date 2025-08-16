@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Logotipo en tejido reflectante para aumentar la visibilidad del deportista
 - Material resistente y duradero
+- Logotipo en tejido reflectante para aumentar la visibilidad del deportista
 - Chubasquero abierto con cremallera, incluye bolsillos y capucha ajustable mediante cordón elástico
 - En el interior incorpora una rejilla de Micro-Mesh para aumentar la transpirabilidad
 

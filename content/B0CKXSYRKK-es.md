@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Empeine textil
+- Suela de TPU
+- Mediasuela Cloudfoam
 - Cierre de cordones
 - Forro textil
-- Mediasuela Cloudfoam
-- Suela de TPU
-- Empeine textil
 - Horma clásica
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

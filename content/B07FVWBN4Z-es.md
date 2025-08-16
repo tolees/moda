@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Chaqueta de traje de estilo clásico
 - Sutil estampado de microcuadros
+- Chaqueta de traje de estilo clásico
 - Adecuado para combinar con cualquier prenda
 
 [🛒 Comprar!!!]({{< param buyurl >}})

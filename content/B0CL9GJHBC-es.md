@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ajuste apretado
 - Para uso diario
 - Corpiño femenino
+- Ajuste apretado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CL9GJHBC{{</world>}}

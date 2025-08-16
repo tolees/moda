@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Calcetines piqui
-- Puños de canalé
-- 70% algodón / 27% poliéster reciclado / 2% elastán / 1% nailon reciclado
 - Tres pares por paquete
+- Puños de canalé
 - Tejido fino y ligero
+- Calcetines piqui
+- 70% algodón / 27% poliéster reciclado / 2% elastán / 1% nailon reciclado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BP2RL2HJ{{</world>}}

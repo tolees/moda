@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Moda casual
 - Particularidad: transpirable
+- Moda casual
 - Patrón: liso
 
 [🛒 Visítala!!!]({{< param buyurl >}})

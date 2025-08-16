@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajuste relajado
-- Ajuste regular
 - Logotipo reflectante de Levis Batwing en el pecho
+- Ajuste regular
+- Ajuste relajado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BQC52HY1{{</world>}}

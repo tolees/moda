@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Lavado y planchado:Lavar a maquina, Ciclo suave frío, Con colores similares Solo sin cloro, Blanqueador si es necesario, Secar en secadora a baja temperatura, Hierro caliente si es necesario
+- Material: 65% Poliéster 35% Algodón
+- Edad:Para 3-13 Años niñas
 - Diseño:Manga corta, Cuello redondo, Pliegue decorativo en el cuello, Cinta de tela para el cuello
 - Característica: Transferencia de humedad y textiles de secado rápido, Jersey de mezcla de algodón suave, Buen tacto de la mano, Paquete de colores múltiples
-- Material: 65% Poliéster 35% Algodón
-- Lavado y planchado:Lavar a maquina, Ciclo suave frío, Con colores similares Solo sin cloro, Blanqueador si es necesario, Secar en secadora a baja temperatura, Hierro caliente si es necesario
-- Edad:Para 3-13 Años niñas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BRXFPXTP{{</world>}}

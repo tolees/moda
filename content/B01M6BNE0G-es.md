@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cinturilla con logotipo
-- Corte ceñido
 - Costuras elásticas
+- Cinturilla con logotipo
 - Paquete de tres
+- Corte ceñido
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01M6BNE0G{{</world>}}

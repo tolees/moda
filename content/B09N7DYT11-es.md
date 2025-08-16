@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forro: cuero y textil
-- Talla del zapato: Medium
-- Material exterior: sintético
-- Cierre: goma
-- Material interior: sintético
 - Forma del talón: plano
+- Cierre: goma
+- Forro: cuero y textil
+- Material interior: sintético
+- Material exterior: sintético
+- Talla del zapato: Medium
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09N7DYT11{{</world>}}

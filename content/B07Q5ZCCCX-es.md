@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Nadando
 - Zapatos para deportes acuáticos
-- Zapatos de la arena del verano
-- zapatos de pesca
 - Los niños de deslizamiento zapatos del agua
+- Nadando
+- zapatos de pesca
+- Zapatos de la arena del verano
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07Q5ZCCCX{{</world>}}

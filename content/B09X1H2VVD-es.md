@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Chaqueta ESS Doudoune SL N°1 M dress blues
 - Ropa deportiva Azul de la marca Le Coq Sportif
-- Los productos deportivos de la marca Le Coq Sportif están diseñados para que disfrutes de tu deporte favorito sin preocuparte de nada más que rendir al máximo
-- Ropa deportiva fabricada con materiales de primera calidad que se adaptan a cualquier actividad deportiva
+- Chaqueta ESS Doudoune SL N°1 M dress blues
 - ESS Doudoune SL N°1 M dress bluesLE COQ SPORTIF HOMBRE TALLA XXL
+- Ropa deportiva fabricada con materiales de primera calidad que se adaptan a cualquier actividad deportiva
+- Los productos deportivos de la marca Le Coq Sportif están diseñados para que disfrutes de tu deporte favorito sin preocuparte de nada más que rendir al máximo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09X1H2VVD{{</world>}}

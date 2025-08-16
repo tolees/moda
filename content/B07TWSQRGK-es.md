@@ -28,15 +28,15 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Asas de transporte superiores
-- Anillo en D
-- Dos bolsillos para bolígrafos
-- Mono robot
-- Compartimentos principales con cremallera
-- Logotipo redondo de Kipling
-- Llavero
 - Tres bolsillos interiores: uno con cremallera y dos abiertos
 - Correa de hombro desmontable
+- Anillo en D
+- Compartimentos principales con cremallera
+- Logotipo redondo de Kipling
+- Asas de transporte superiores
+- Llavero
+- Mono robot
+- Dos bolsillos para bolígrafos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07TWSQRGK{{</world>}}

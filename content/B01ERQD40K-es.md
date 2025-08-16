@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Resistente al viento y al agua
 - Capucha invisible
+- Resistente al viento y al agua
 - Chubasquero abierto con cremallera
 - El interior incorpora la tecnología Micro-Mesh
 

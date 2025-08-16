@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Lentes ahumadas que reducen el brillo general, optimas para nadar en interiores y al aire libre
+- Puente nasal ajustable que se adapta a múltiples tipos de rostro
 - Puente nasal ajustable con una forma nueva, para un encaje más moderno y cómodo (en tamaños S/M/L)
 - Lentes más grandes, para optimizar la visibilidad
-- Puente nasal ajustable que se adapta a múltiples tipos de rostro
 - Correa simple para la cabeza que ofrece un ajuste fácil
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Forro textil
-- Parte superior de ante
-- Horma clásica
-- Cierre de cordones
 - Mediasuela con amortiguación
+- Parte superior de ante
+- Forro textil
+- Cierre de cordones
+- Horma clásica
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CYM8XCWJ{{</world>}}

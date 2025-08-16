@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con logotipo discreto
 - Hecho de punto más pesado para una sensación de alta calidad y comodidad durante todo el día
+- Con logotipo discreto
 - Un hallazgo recién editado de una tienda vintage
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

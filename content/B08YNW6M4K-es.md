@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cremallera y bolsillos: Añaden practicidad a la prenda. Resumen:
 - Capucha incorporada: Ofrece protección contra el clima.
+- Cremallera y bolsillos: Añaden practicidad a la prenda. Resumen:
 - Diseño moderno con corte ajustado: Maximiza la movilidad en la cancha.
 - Confección en poliéster: Proporciona una prenda ligera y resistente.
 

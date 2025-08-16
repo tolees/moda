@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseño icónico
 - Material transpirable
-- Ajuste cómodo
+- Diseño icónico
 - Calidad prémium
 - Ropa de aventura para todos los días
+- Ajuste cómodo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CVB39JSS{{</world>}}

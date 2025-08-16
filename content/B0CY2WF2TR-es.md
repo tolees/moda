@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Un clásico atemporal que se puede llevar con cualquier cosa
 - Hecha de jersey suave
+- Un clásico atemporal que se puede llevar con cualquier cosa
 - Acabado con un gráfico atrevido
 
 [🛒 Visítala!!!]({{< param buyurl >}})

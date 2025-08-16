@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Exterior de PVC
 - Logotipo de Lacoste en la cremallera
+- Exterior de PVC
 - Cocodrilo verde bordado
 - Dimensiones: 35 x 30 x 14 cm
 - Un bolsillo interior con red, cremallera y enganche

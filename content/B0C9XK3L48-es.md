@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con rayas
 - Cuenta con un estilo casual
+- Con rayas
 - Ofrece una comodidad óptima
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Solapas en ambas mangas
 - Ajuste holgado
+- Solapas en ambas mangas
 - Top de Manga Corta
 
 [🛒 Visítala!!!]({{< param buyurl >}})

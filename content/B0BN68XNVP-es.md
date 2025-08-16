@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Forma del tacón: plano
 - Grado de resistencia al agua: resistente al agua
+- Forma del tacón: plano
 - Talla del zapato: Medium
 
 [🛒 Aquí!!!]({{< param buyurl >}})

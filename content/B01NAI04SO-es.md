@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Exterior: 100% poliéster - Forro: 100% poliéster
-- Nuestra clásica chaqueta shell de vela ofrece versatilidad de rendimiento para todas sus aventuras de navegación; Confeccionada con nuestra fiable protección HELLY TECH, la Crew es impermeable, tiene las costuras totalmente selladas y es cortaviento y transpirable; entre las características adicionales que aumentarán su viaje en velero se incluyen una capucha plegable, un cuello alto con forro polar, un cómodo forro de malla y un cordón de ajuste de longitud
 - Artículos entregados: 1x Helly Hansen Hombre Chaqueta Crew Con Capucha,XL,Azul marino
+- Nuestra clásica chaqueta shell de vela ofrece versatilidad de rendimiento para todas sus aventuras de navegación; Confeccionada con nuestra fiable protección HELLY TECH, la Crew es impermeable, tiene las costuras totalmente selladas y es cortaviento y transpirable; entre las características adicionales que aumentarán su viaje en velero se incluyen una capucha plegable, un cuello alto con forro polar, un cómodo forro de malla y un cordón de ajuste de longitud
+- Exterior: 100% poliéster - Forro: 100% poliéster
 - Nuestra popular y versátil chaqueta shell para marineros, con un estilo marino clásico y toda la protección que necesita
 
 [🛒 Comprar!!!]({{< param buyurl >}})

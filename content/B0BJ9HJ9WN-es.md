@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tela transpirable
 - Logotipo de adidas
 - Tela Suave
+- Tela transpirable
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BJ9HJ9WN{{</world>}}

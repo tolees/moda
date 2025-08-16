@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tiene detalles distintivos de la marca
 - Ajuste ligero
+- Tiene detalles distintivos de la marca
 - Sudadera con tejido suave y resistente
 
 [🛒 Comprar!!!]({{< param buyurl >}})

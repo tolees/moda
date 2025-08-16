@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Largo: 41,9 cm ancho: 10,8 cm (alto): 29,2 cm
-- Bolsillo interior con cremallera y 2 bolsillos grandes
 - Herrajes dorados brillantes
+- Bolsillo interior con cremallera y 2 bolsillos grandes
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BZTGV3MZ{{</world>}}

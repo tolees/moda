@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto de excelente calidad
 - Fácil de llevar
+- Producto de excelente calidad
 - Creación de marca Levis
 - Este es un producto original Levis
 

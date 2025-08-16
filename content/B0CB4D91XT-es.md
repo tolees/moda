@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte regular
 - Logotipo impreso en el pecho
-- Cuello redondo
 - Fabricado con 100 % algodón sostenible
+- Cuello redondo
+- Corte regular
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CB4D91XT{{</world>}}

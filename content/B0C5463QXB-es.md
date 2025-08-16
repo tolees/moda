@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Corte regular
+- 100% algodón individual punto jersey
 - Logotipo deportivo de adidas con impresión de goma
 - Insignia tejida
+- Corte regular
 - Cuello redondo acanalado
-- 100% algodón individual punto jersey
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C5463QXB{{</world>}}

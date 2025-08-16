@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cortavientos ligero e impermeable
 - Bolsillos laterales con cremallera, bolsillo interior
+- Cortavientos ligero e impermeable
 - Chaqueta con acabado mate y cremallera completa
 
 [🛒 Aquí!!!]({{< param buyurl >}})

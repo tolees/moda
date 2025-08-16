@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material de la suela: Material Sintético
 - Material exterior: Cuero
+- Material de la suela: Material Sintético
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B096MNGD9W{{</world>}}

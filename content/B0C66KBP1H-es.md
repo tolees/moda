@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Presentan un diseño deportivo
 - Ofrecen una comodidad óptima
+- Presentan un diseño deportivo
 - Amortiguadas y transpirables
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

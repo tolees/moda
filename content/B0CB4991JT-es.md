@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Artículo de marca Pepe Jeans
 - Tiene detalles distintivos de la marca
+- Artículo de marca Pepe Jeans
 - Ofrece comodidad y libertad de movimiento
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

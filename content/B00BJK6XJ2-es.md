@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 100% cuero bovino
 - Hebilla
+- 100% cuero bovino
 - Ancho de la correa: 40 mm
 - Cinturón
 

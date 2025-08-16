@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fluent fabric
 - Maxi dress with thin straps
+- Fluent fabric
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07PZMV26B{{</world>}}

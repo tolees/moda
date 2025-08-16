@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Impresión de logotipo 4G
 - Elementos de metal de oro pálido
 - Bolsa de hombro
+- Impresión de logotipo 4G
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BP2V2NS4{{</world>}}

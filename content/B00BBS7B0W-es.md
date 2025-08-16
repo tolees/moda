@@ -29,12 +29,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Producto adecuado para : unisex adulto
-- Instrucciones de cuidado: no lavar
-- Talla: 100 cm
 - Color: negro
 - Material interior: cuero
+- Talla: 100 cm
 - Composición del material: 100% cuero
 - Material exterior: cuero
+- Instrucciones de cuidado: no lavar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00BBS7B0W{{</world>}}

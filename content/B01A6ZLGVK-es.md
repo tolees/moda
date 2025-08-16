@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Adecuado para actividades al aire libre, Puede ser usado todo el año
-- La tecnología Omni-wick extrae la humedad del cuerpo
 - Camiseta de manga corta para hombres
+- Adecuado para actividades al aire libre, Puede ser usado todo el año
 - Tejido refrigerante Omni-freeze zero activado por el sudor para mantenerte fresco cuando más sudes
+- La tecnología Omni-wick extrae la humedad del cuerpo
 - Contenido: 1x Columbia Zero Rules Camiseta de manga corta para hombre, Azul (Carbon Heather), S, 1533313
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

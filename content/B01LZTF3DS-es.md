@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Parte superior de piel sintética lisa
 - Tiras cruzadas frontales con detalle pespunteado
-- Tiras de tejido de red con detalle entramado colorido
-- Costuras de adorno
 - Diseño de cómoda sandalia casual con tiras
+- Parte superior de piel sintética lisa
+- Costuras de adorno
+- Tiras de tejido de red con detalle entramado colorido
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01LZTF3DS{{</world>}}

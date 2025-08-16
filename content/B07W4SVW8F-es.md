@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Camiseta de fútbol para hombre
 - Detalles distintivos de la marca
 - Con cuello redondo
+- Camiseta de fútbol para hombre
 - Fabricada en tejido transpirable que mantiene la piel fresca y seca
 
 [🛒 Aquí!!!]({{< param buyurl >}})

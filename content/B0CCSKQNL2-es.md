@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - con un bolsillo a la altura del pecho
-- Blusa de manga larga
 - con cuello camisero
+- Blusa de manga larga
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CCSKQNL2{{</world>}}

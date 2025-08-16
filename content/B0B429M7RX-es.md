@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Medidas: Frontal 139 mm; Patillas 145 mm ; Puente 21 mm ; Alto 49 mm. Modelo Unisex
 - Montura en acetato de celulosa de alta calidad que aporta una máxima resistencia y durabilidad. Almohadillas de acetato para una sujeción mucho más cómoda
-- Producto original Hawkers. La caja incluye funda en microfibra y caja
 - Gafas de sol polarizadas: otorga una visión sin reflejos, y contraste naturales de colores. Lentes categoría 3, fabricadas con material bio tac polarizado y protección uv400
+- Medidas: Frontal 139 mm; Patillas 145 mm ; Puente 21 mm ; Alto 49 mm. Modelo Unisex
+- Producto original Hawkers. La caja incluye funda en microfibra y caja
 - Gafas de sol redondas en un tradicional color negro con lentes polarizadas oscurecidas. La montura de acetato se complementa con pins metalizados en su frontal que aportan un estilo clásico, característico de este modelo Warwick.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

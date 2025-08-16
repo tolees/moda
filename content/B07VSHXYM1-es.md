@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuenta con un material ligero que ofrece comodidad
 - Camiseta para mujer
+- Cuenta con un material ligero que ofrece comodidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07VSHXYM1{{</world>}}

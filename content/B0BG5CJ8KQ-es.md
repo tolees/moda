@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bordado gráfico GANT
 - Cremallera frontal bidireccional
+- Bordado gráfico GANT
 - Bolsillo tipo canguro
 
 [🛒 Aquí!!!]({{< param buyurl >}})

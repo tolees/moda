@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ancho del paquete del artículo: 0 mm
-- Peso del paquete del artículo: 0 Kg
 - Altura del paquete del artículo: 0 mm
+- Peso del paquete del artículo: 0 Kg
+- Ancho del paquete del artículo: 0 mm
 - Longitud del paquete del artículo: 0 mm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

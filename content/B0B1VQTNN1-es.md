@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hombros caídos
 - Corte regular
+- Hombros caídos
 - Mangas: manga corta
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

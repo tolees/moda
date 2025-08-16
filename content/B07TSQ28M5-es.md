@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Favorecedores y fiables, estos vaqueros para hombre son perfectos para el día a día, los vaqueros Lee son un complemento atemporal para cualquier armario para un look a la vez moderno y clásico
 - Cómodos vaqueros Lee de corte ajustado en el muslo y estrecho en la pernera. Vaqueros modernos y a la moda para todo tipo de situaciones
 - Vaqueros de corte moderno para llevar a diario: Fabricados con algodón resistente, Lavado a máquina en frío, Volver del revés antes de lavar, El color puede transferirse al rozar materiales de color claro
-- Vaqueros informales de cintura regular y detalles únicos: Pantalón con 5 bolsillos, bragueta con cremallera, 5 trabillas clásicas y botones metálicos
 - Contenido: 1x Lee Vaqueros para hombre, Número de modelo: 112119254, Número de lote anterior: L719PC47, Largo: 34, Ancho: 38, Material: 99% Algodón 1% Elastano, Elasticidad: Baja, Color: Black Rinse (Negro)
+- Vaqueros informales de cintura regular y detalles únicos: Pantalón con 5 bolsillos, bragueta con cremallera, 5 trabillas clásicas y botones metálicos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07TSQ28M5{{</world>}}

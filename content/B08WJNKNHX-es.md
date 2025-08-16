@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Benefits: GUESS Seductive Noir abre con notas verdes, seguido de un corazón floral y una base de terciopelo, vetiver haitiano y vainilla.
-- Directions for use: Aplicar en los puntos de pulso: detrás de las orejas, en el cuello y en las muñecas.
 - Description: La Bruma Perfumada GUESS Seductive Noir es un perfume sexy para mujer que encarna tanto el magnetismo único como el estilo alegre y cautivador, características de la marca GUESS.
+- Directions for use: Aplicar en los puntos de pulso: detrás de las orejas, en el cuello y en las muñecas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08WJNKNHX{{</world>}}

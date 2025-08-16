@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Herrajes dorados brillantes
-- Bolsillo interior con cremallera y 6 ranuras para tarjetas
 - 9.5 x 2.75 x 5.5 pulgadas
+- Bolsillo interior con cremallera y 6 ranuras para tarjetas
+- Herrajes dorados brillantes
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DDHB8K8C{{</world>}}

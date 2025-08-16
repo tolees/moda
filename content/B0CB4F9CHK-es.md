@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Fabricado con 100% algodón sostenible
 - Pepe Jeans se asocia con la Iniciativa Better Cotton para mejorar el cultivo del algodón a nivel mundial
 - Corte regular
 - Cuello redondo
-- Fabricado con 100% algodón sostenible
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CB4F9CHK{{</world>}}

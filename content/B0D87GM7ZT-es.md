@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Deportivo
 - PEPE JEANS LONDON PRINT W BISCUIT Ladies 41
+- Deportivo
 - Para correr
 
 [🛒 Visítala!!!]({{< param buyurl >}})

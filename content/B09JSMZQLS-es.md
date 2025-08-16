@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ajuste cómodo
 - Diseño moderno
+- Ajuste cómodo
 - Hecho de material duradero y ligero
 
 [🛒 Comprar!!!]({{< param buyurl >}})

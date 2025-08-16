@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Amortiguación en la planta, el talón y la puntera
-- Largo clásico
 - Tres pares por paquete
+- Largo clásico
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BP2Q8QNX{{</world>}}

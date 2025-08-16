@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Logotipo de la marca
-- Punta redonda
 - Cierre de encaje
+- Punta redonda
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C2HXZZCJ{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fibras sostenibles: Leather Working Group
 - Reverso en color rojo
 - 50% LAMB LEATHER 46% POLYESTER 4% ELASTANE
+- Fibras sostenibles: Leather Working Group
 - Grabado de logo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

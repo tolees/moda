@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - piel sintética.
-- Permanente.
 - 2020.
+- Permanente.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B076H9Q2PV{{</world>}}

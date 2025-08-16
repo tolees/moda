@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Logotipo de Adidas estampado en el pecho
+- Tejido Climalite que elimina la humedad de la piel
 - Cuello redondo en contraste e inserciones en los laterales
 - Camiseta de corte regular para niños
-- Tejido Climalite que elimina la humedad de la piel
+- Logotipo de Adidas estampado en el pecho
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B079J33GFD{{</world>}}

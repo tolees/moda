@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Bolsillos delanteros
 - Chaqueta acolchada
 - Cremallera lateral oculta
-- Bolsillos delanteros
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08BTX9CVW{{</world>}}

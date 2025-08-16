@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Tacón de 1 1/4 pulgadas
 - Skechers Plantilla acolchada de espuma viscoelástica refrigerada por aire
-- Parte superior de malla y sintética con cordones en la parte delantera
 - Entresuela ultraligera y suela de tracción flexible
+- Parte superior de malla y sintética con cordones en la parte delantera
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BZ94C73V{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Modelo unisex, frontal 14.1 cm, alto 5.1 cm, patillas 14 cm
+- Montura negra en acabado brillante y máscara de lente espejada azul
 - Mono lente efecto espejo azul intenso, fabricada en TR18, con reducción de brillos y con gran equilibrio entre claridad y protección
 - Montura fabricada en TR90 que dota a las gafas de gran ligereza, flexibilidad y resistencia, resistente a altas y bajas temperaturas
-- Montura negra en acabado brillante y máscara de lente espejada azul
+- Modelo unisex, frontal 14.1 cm, alto 5.1 cm, patillas 14 cm
 - Producto original Hawkers, la caja incluye funda, caja y set de pegatinas decorativas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Producto hecho con un material de óptima calidad y resistente
 - Ropa deportiva que se adapta a cualquier actividad deportiva
+- Producto hecho con un material de óptima calidad y resistente
 - La tecnología del material elimina el sudor de la piel para ofrecer sequedad y comodidad durante el entrenamiento
 - Diseño ligero que ofrece comodidad
 

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material exterior: sintético
 - Cierre: goma
+- Material exterior: sintético
 - Material interior: sintético
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con mezcla de algodón y lino
 - Blusa de manga larga
+- Con mezcla de algodón y lino
 - con cuello camisero
 
 [🛒 Comprar!!!]({{< param buyurl >}})

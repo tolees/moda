@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuenta con mangas cortas
 - Tiene el logotipo de Adidas impreso en el pecho
 - Ofrece una buena gestión de humedad y calor
+- Cuenta con mangas cortas
 - Camiseta de fútbol para hombres
 - Con tecnología Slim Fit para un ajuste cómodo
 

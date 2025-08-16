@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Logotipo de la marca
 - Ajuste regular
 - Cuello redondo
+- Logotipo de la marca
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C8Z49BQS{{</world>}}

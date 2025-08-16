@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- respirable
 - Camiseta Tiempo libre y sportwear Hombre
 - Muy conveniente
-- respirable
 - Ropa deportiva Nike
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
