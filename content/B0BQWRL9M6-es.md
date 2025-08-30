@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Puños acanalados
 - La altura del tobillo
 - logotipo de adidas
-- Puños acanalados
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BQWRL9M6{{</world>}}

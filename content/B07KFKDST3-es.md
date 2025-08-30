@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre de mandril
-- Se pide la cintura, no la longitud total
 - 35 mm de ancho
+- Se pide la cintura, no la longitud total
+- Cierre de mandril
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07KFKDST3{{</world>}}

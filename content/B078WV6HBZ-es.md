@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Antideslizante
 - Colección: Otoño/Invierno 19
+- Antideslizante
 - Cierre: sintético
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

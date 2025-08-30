@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 5-pocket jeans
 - Super skinny black jeans
+- 5-pocket jeans
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07R25XSNB{{</world>}}

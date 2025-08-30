@@ -29,12 +29,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Correa: Toe Strap
-- Forro: forrado en frío
-- Material exterior: sintético
-- Material interior: sintético
-- Cierre: goma
-- Ancho del zapato: medio
 - No resistente al agua
+- Material exterior: sintético
+- Forro: forrado en frío
+- Ancho del zapato: medio
+- Cierre: goma
+- Material interior: sintético
 - Forma del talón: plano
 
 [🛒 Visítala!!!]({{< param buyurl >}})

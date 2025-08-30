@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuello redondo loco
-- Impresión de logo Nike grande
 - Camiseta para entrenamiento o presentación.
+- Cuello redondo loco
 - Propiedades elásticas ligeras
+- Impresión de logo Nike grande
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08QW8GLCJ{{</world>}}

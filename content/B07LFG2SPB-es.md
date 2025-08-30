@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Con un logo Levis en el bajo
-- Modelos casual
-- Elaboradas en punto suave
 - Este producto es original Levis
+- Elaboradas en punto suave
+- Modelos casual
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07LFG2SPB{{</world>}}

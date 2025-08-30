@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajuste holgado con mangas raglán, muesca en V en el cuello redondo.
-- Combina perfectamente con camisetas interiores o tops casuales, con una chaqueta ligera se ajusta mejor y se siente más cálido.
 - Confeccionado en tejido waffle 100% poliéster, de peso medio, suave y cálido en invierno.
+- Combina perfectamente con camisetas interiores o tops casuales, con una chaqueta ligera se ajusta mejor y se siente más cálido.
+- Ajuste holgado con mangas raglán, muesca en V en el cuello redondo.
 - El cuello y los puños acanalados brindan un ajuste cómodo y seguro.
 - Perfecto para cualquier ocasión: informal de fin de semana, para la oficina, para correr, para caminar, al aire libre, para el gimnasio, para hacer ejercicio o para la vida diaria.
 

@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el óptimo Nylon para monturas del mundo que proporciona flexibilidad y resistencia
 - Nuestro icónico y siempre popular diseño Warwick, con sus lentes redondeadas y su puente en forma de ojo de cerradura, se fabrica ahora en nuestra primera fábrica en España, dando como resultado una montura ligera y resistente
-- Modelo unisex, medidas: frontal 142 mm, patillas 140 mm, puente 20 mm, diámetro de lente 51.9 mm
-- Gafas de sol polarizadas, otorga una visión sin reflejos y contraste natural de colores
 - Producto Oficial Hawkers, incluye funda en microfibra y caja
+- Gafas de sol polarizadas, otorga una visión sin reflejos y contraste natural de colores
+- Modelo unisex, medidas: frontal 142 mm, patillas 140 mm, puente 20 mm, diámetro de lente 51.9 mm
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BKJRWW4G{{</world>}}

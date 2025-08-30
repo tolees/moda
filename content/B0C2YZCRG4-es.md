@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Modelo Unisex. Medidas: Frontal 145 mm; Patillas 140 mm ; Puente 17 mm ; Alto 47 mm
-- Diseño de gafa estilo cat-eye rectangular. Combina montura carey transparente en acetato pulido con pins ornamentales en forma de media H a ambos lados de su frontal y lentes polarizadas de color “solid olive”.
 - Producto Oficial Hawkers. Incluye: Funda en microfibra y caja.
+- Modelo Unisex. Medidas: Frontal 145 mm; Patillas 140 mm ; Puente 17 mm ; Alto 47 mm
 - Montura en acetato de celulosa de alta calidad que aporta una máxima resistencia y durabilidad. Bisagra de 3 barras para un mayor agarre y durabilidad.
+- Diseño de gafa estilo cat-eye rectangular. Combina montura carey transparente en acetato pulido con pins ornamentales en forma de media H a ambos lados de su frontal y lentes polarizadas de color “solid olive”.
 - Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores. Lentes categoría 3 fabricadas con material bio tac polarizado y protección uv400.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

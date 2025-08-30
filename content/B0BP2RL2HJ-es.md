@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tres pares por paquete
 - 70% algodón / 27% poliéster reciclado / 2% elastán / 1% nailon reciclado
-- Tejido fino y ligero
-- Puños de canalé
+- Tres pares por paquete
 - Calcetines piqui
+- Puños de canalé
+- Tejido fino y ligero
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BP2RL2HJ{{</world>}}

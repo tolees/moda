@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pantalón largo con cintura elástica
 - Top camisero con botones y bolsillo en el pecho
+- Pantalón largo con cintura elástica
 - Ofrece una comodidad óptima
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Cuello de polo con cierre de botones
 - Interlock 100% poliéster reciclado
 - Corte clásico
-- Cuello de polo con cierre de botones
 - Tejido transpirable AEROREADY
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Ropa deportiva fabricada con materiales de primera calidad que se adaptan a cualquier actividad deportiva
-- Tiro medio.
 - Punto liso, 93 % algodón / 7 % elastán.
 - Ajuste ceñido.
+- Tiro medio.
 - Un pantalón corto de algodón con estilo deportivo.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Altura Tacón Bajo (de 1 A 3 cm)
-- Material principal Sintético
 - Tipo de cierre Hebilla
+- Material principal Sintético
+- Altura Tacón Bajo (de 1 A 3 cm)
 - Material de la suela Sintética
 - Tipo de tacón Bloque
 

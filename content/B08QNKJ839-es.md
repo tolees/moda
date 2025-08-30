@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre: Velcro
 - Material de la suela: Caucho
+- Cierre: Velcro
 - Material exterior: Sintético
 
 [🛒 Comprar!!!]({{< param buyurl >}})

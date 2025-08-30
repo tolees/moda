@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Este producto se vendía como Goodthreads y ahora como Amazon Essentials.
 - Una marca de Amazon
+- Este producto se vendía como Goodthreads y ahora como Amazon Essentials.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0792JX2BW{{</world>}}

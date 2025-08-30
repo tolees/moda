@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Detalles de la marca
 - Zapato de corte bajo
 - Punta redonda
-- Detalles de la marca
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CB3TRC7M{{</world>}}

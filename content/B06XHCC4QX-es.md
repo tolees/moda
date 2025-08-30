@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Camiseta monocolor para mujer con mangas cortas
 - Camiseta con cuello redondo y cremallera en el centro trasero
+- Camiseta monocolor para mujer con mangas cortas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B06XHCC4QX{{</world>}}

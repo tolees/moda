@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Ofrece comodidad y libertad de movimiento
-- Cómoda de llevar
 - Camisa de manga corta para hombre
+- Cómoda de llevar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C8YZWFDG{{</world>}}

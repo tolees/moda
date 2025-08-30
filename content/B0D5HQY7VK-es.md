@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fabricada con algodón suave
 - Una camisa clásica con botones
+- Fabricada con algodón suave
 - Corte holgado
 
 [🛒 Visítala!!!]({{< param buyurl >}})

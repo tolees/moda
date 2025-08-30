@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Camiseta interior de manga corta para niño
 - Cuenta con un diseño ligero
 - Ofrece comodidad y libertad de movimiento
-- Camiseta interior de manga corta para niño
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B008VPMIM4{{</world>}}

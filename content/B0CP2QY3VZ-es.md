@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Top con cuello camisero, abotonadura central y bolsillo plastrón en el pecho Tapeta y bolsillo con detalle de vivo a tono
-- Pijama camisero 100% algodón de manga corta y pantalón de largo Capri con divertido estampado allover con motivos de dibujos de “La bella y la bestia” Pertenece a la colección princesas Disney, adecuado para muy fans de sus pelis ¿Alguna nostálgica en la sala?
 - Pantalón con cinturilla elástica regulable mediante cinta a tono
+- Pijama camisero 100% algodón de manga corta y pantalón de largo Capri con divertido estampado allover con motivos de dibujos de “La bella y la bestia” Pertenece a la colección princesas Disney, adecuado para muy fans de sus pelis ¿Alguna nostálgica en la sala?
+- Top con cuello camisero, abotonadura central y bolsillo plastrón en el pecho Tapeta y bolsillo con detalle de vivo a tono
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CP2QY3VZ{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ligeras y flexibles
 - Ajuste cómodo
+- Ligeras y flexibles
 - Fáciles y rápidas de poner
 
 [🛒 Visítala!!!]({{< param buyurl >}})

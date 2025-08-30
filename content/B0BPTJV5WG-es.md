@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Calcetines elásticos
 - Fabricados en material cómodo
-- Detalles distintivos de la marca
 - Paquete de tres pares
+- Detalles distintivos de la marca
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BPTJV5WG{{</world>}}

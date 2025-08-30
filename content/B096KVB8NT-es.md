@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Tipo de tacón: Plano
-- Material de la suela: Sintético
 - Material exterior: Sintético
+- Material de la suela: Sintético
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B096KVB8NT{{</world>}}

@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Bolsillos laterales con cremallera, bolsillo interior
-- Cortavientos ligero e impermeable
 - Chaqueta con acabado mate y cremallera completa
+- Cortavientos ligero e impermeable
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B091GTH43R{{</world>}}

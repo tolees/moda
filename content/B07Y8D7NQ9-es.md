@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cómodas y ligeras
+- Puntera reforzada para mejor protección
 - Estilo californiana
 - Cierre ajustable para asegurar una mejor sujección
-- Puntera reforzada para mejor protección
+- Cómodas y ligeras
 - Sandalias deportivas aptas para el agua
 
 [🛒 Comprar!!!]({{< param buyurl >}})

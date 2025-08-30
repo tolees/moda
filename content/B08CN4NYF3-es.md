@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Largo regular
 - Corte ajustado
 - Bajo recto
-- Largo regular
 - Manga corta
 
 [🛒 Aquí!!!]({{< param buyurl >}})

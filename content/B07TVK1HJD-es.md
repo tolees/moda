@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sandalias romanas
-- Reggae Cup Oh, Snap!
-- 163052 BLK
 - Mujer
+- Sandalias romanas
+- 163052 BLK
+- Reggae Cup Oh, Snap!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07TVK1HJD{{</world>}}

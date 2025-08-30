@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- color: 999negro
 - tipo de producto: ZAPATOS
-- tamaño: 31 UE
+- color: 999negro
 - marca: LYBANG
+- tamaño: 31 UE
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C9WMNV8Z{{</world>}}

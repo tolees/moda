@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Geox Detalles de la marca
 - No es resistente al agua
 - Ligeras
-- Geox Detalles de la marca
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C69NHFFK{{</world>}}

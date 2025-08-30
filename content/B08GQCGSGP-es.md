@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Suela de goma reciclada
 - Plantilla de poliuretano y helio
+- Suela de goma reciclada
 - Confección vulcanizada
-- Empeines y cordones de algodón orgánico
 - Adhesivos al agua
+- Empeines y cordones de algodón orgánico
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08GQCGSGP{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Bolsillos laterales
+- Pantalón largo
 - Rib en el bajo
 - Cintura elastica
-- Pantalón largo
-- Bolsillos laterales
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00HGP3ECI{{</world>}}

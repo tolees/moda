@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Puños y bajos en tejido rib para mejorar la confortabilidad
 - Incluye bolsillos
+- Puños y bajos en tejido rib para mejorar la confortabilidad
 - Confeccionada en poliéster fleece que aporta calidez y confort
 
 [🛒 Aquí!!!]({{< param buyurl >}})

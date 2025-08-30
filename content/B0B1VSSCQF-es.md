@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Ajuste regular para mayor comodidad al vestir
 - Cuello redondo clásico y mangas 3/4
-- Vestido corto de moda para mujer
 - Con cierre de cordón en tendencia
+- Vestido corto de moda para mujer
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B1VSSCQF{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Colección: Otoño/Invierno 19
 - Cierre: sintético
+- Colección: Otoño/Invierno 19
 - Antideslizante
 
 [🛒 Visítala!!!]({{< param buyurl >}})

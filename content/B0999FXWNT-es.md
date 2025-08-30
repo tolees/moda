@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Estampado de fondo marino
 - Top bikini triángulo corales
 - Cut-out bajo pecho y axilas
 - Sostenible: poliamida reciclada
 - Tirantes ajustables
-- Estampado de fondo marino
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0999FXWNT{{</world>}}

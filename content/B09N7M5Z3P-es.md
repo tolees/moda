@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Transpirable
-- Flexibilidad
 - Fácil de llevar para un confort optimo
 - Material exterior: Sintético
+- Flexibilidad
+- Transpirable
 - Revestimiento: Sintético
 
 [🛒 Aquí!!!]({{< param buyurl >}})

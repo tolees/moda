@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tirantes ajustables y convertibles
-- Tejido suave que se adapta al cuerpo
 - Cierre de doble corchete
+- Tejido suave que se adapta al cuerpo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B005IECYG6{{</world>}}

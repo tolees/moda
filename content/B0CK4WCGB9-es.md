@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Parte superior elegante con logo de Crocs
 - Material Croslite totalmente moldeado
 - Ligeras y cómodas
+- Parte superior elegante con logo de Crocs
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CK4WCGB9{{</world>}}

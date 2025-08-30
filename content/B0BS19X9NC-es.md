@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Bordado de G-Star RAW en el pecho
-- Bolsillo estilo canguro
-- Manga larga recta insertada con borde redondeado
 - Paneles laterales, puños y cintura acanalados
+- Manga larga recta insertada con borde redondeado
+- Bolsillo estilo canguro
 - Capucha con parte delantera cruzada, triángulo de canalé insertado y cordones ajustables
 
 [🛒 Comprar!!!]({{< param buyurl >}})

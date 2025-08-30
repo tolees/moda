@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Ofrece una comodidad óptima
 - Adecuado para días calurosos
-- Presenta el logotipo de la marca
 - Este producto es original Levis
+- Presenta el logotipo de la marca
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0897YTBRR{{</world>}}

@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cierre central con cremallera y botón
-- Certificación norma ISO 20471 - Clase 1
 - Seis bolsillos: 2 bolsillos franceses, 2 bolsillos de parche con fuelle central, tapeta y velcro, y dos bolsillos traseros de fuelle con tapeta y velcro
-- Cintas reflectantes en el bajo de las piernas
+- Certificación norma ISO 20471 - Clase 1
 - Cinturilla elástica y costura trasera de seguridad
+- Cintas reflectantes en el bajo de las piernas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B019RQZJGC{{</world>}}

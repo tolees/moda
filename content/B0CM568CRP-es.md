@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Logotipo de la marca
 - Sin mangas
+- Logotipo de la marca
 - Cremallera
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Longitud del paquete del artículo: 245 mm
-- Altura del paquete del artículo: 95 mm
-- Ancho del paquete del artículo: 180 mm
 - Peso del paquete del artículo: 0.13 kg
+- Altura del paquete del artículo: 95 mm
+- Longitud del paquete del artículo: 245 mm
+- Ancho del paquete del artículo: 180 mm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B001W01ZYC{{</world>}}

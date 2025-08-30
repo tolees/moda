@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Estilo y diseño vanguardista y atemporal inspirado en las últimas tendencias siendo siempre fieles a nuestra esencia. Por ello, D. Franklin se ha convertido en una marca referente y líder en el mercado.
 - D.Franklin - Gafas de sol unisex con cristales de protección UV - Modelo raptor
+- D. Franklin es una marca española referente para los amantes de la moda y los accesorios gracias a nuestro estilo único, calidad y compromiso medioambiental. Productos fabricados con materiales sostenibles y de alta calidad.
 - [Gafas de Sol D.Franklin] 3 Montura de metal Terminaciones de varillas en acetato Caja de cartón resistente, estuche protector de microfibra y set de pegatinas Logotipo metálico en ambas patillas Estilo unisex..
 - La nueva colección Raptor marca tendencia. Un modelo de gafas de sol full lenses que destaca por los infinitos detalles de su montura y forma rectangular. Raptor SQ Gold / G15 con sus lentes en G15 y montura dorada, logra resaltar el estilo más singular de cada outfit. Lentes de policarbonato resistentes a impactos Protección UV, UV 400 cat
-- D. Franklin es una marca española referente para los amantes de la moda y los accesorios gracias a nuestro estilo único, calidad y compromiso medioambiental. Productos fabricados con materiales sostenibles y de alta calidad.
+- Estilo y diseño vanguardista y atemporal inspirado en las últimas tendencias siendo siempre fieles a nuestra esencia. Por ello, D. Franklin se ha convertido en una marca referente y líder en el mercado.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09TPYRPSF{{</world>}}

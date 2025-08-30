@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Entresuela que absorbe los golpes
 - Skechers Detalle del logotipo
+- Entresuela que absorbe los golpes
 - Cordones deportivos para exteriores
 
 [🛒 Comprar!!!]({{< param buyurl >}})

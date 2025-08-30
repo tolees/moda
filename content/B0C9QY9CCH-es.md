@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 82% algodón, 16% poliéster, 2% elastano
 - Chaqueta de mezclilla elástica Eco-Recycle con ajuste ligeramente over. Lavado de piedra azul medio.
+- 82% algodón, 16% poliéster, 2% elastano
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C9QY9CCH{{</world>}}

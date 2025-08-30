@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Acolchado extraíble
 - Detalle decorativo de cuentas en la parte central delantera
+- Acolchado extraíble
 - Correas ajustables
 - Estampado de hibisco
 

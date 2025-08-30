@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cintura muy elástica.
 - El superventas de PUMA en un paquete de 3.
+- Cintura muy elástica.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CGNCTDXY{{</world>}}

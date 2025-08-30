@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Puños de canalé
 - Tejido fino y ligero
 - 68% algodón / 29% poliéster reciclado / 2% elastán / 1% nailon reciclado
+- Puños de canalé
 - Tres pares por paquete
 - Largo hasta el tobillo
 

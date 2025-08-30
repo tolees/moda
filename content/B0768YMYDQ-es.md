@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ligero.
-- Producto de gran calidad.
 - Protectora.
+- Producto de gran calidad.
+- Ligero.
 - Resistente.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

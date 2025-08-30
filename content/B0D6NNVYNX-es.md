@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajuste cómodo
 - Fáciles y rápidas de poner
+- Ajuste cómodo
 - Ligeras y flexibles
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

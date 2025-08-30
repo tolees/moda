@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto Oficial Hawkers. Incluye: Funda en microfibra y caja.
 - Nuestro diseño Warwick, con sus lentes redondeadas, puente de ojo de cerradura y patillas delgadas, es uno de nuestros iconos. Este modelo, de la colección Made in Spain, tiene una montura translúcida en acabado mate color azul marino, logotipos plateados en las patillas y lentes grises degradadas.
 - Gafas de sol fabricadas en TR90 con el sello de EMS🇨🇭, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Lentes categoría 3 y protección uv400 que ofrecen una protección antideslumbrante superior.
 - Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Bisagra de doble acción para un cierre de patillas seguro y durabilidad. Diseño más ancho del terminal de la patilla para mejorar la ergonomía y confort
+- Producto Oficial Hawkers. Incluye: Funda en microfibra y caja.
 - Modelo Unisex. Medidas: Frontal 142 mm; Patillas 140 mm; Puente 20 mm; Diámetro de lente 51,9 mm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Camiseta de alta calidad para uso diario
-- Cuello redondo
-- Corte normal
 - Bufanda tubular
 - Estampado de pigmentos para una impresión suave en ropa ligera
+- Corte normal
+- Cuello redondo
 - Manga corta
 
 [🛒 Aquí!!!]({{< param buyurl >}})

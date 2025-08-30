@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Estampado en el pecho
 - Ofrece una comodidad óptima
 - Dobladillo y puños acanalados
+- Estampado en el pecho
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CQKL667R{{</world>}}

@@ -29,12 +29,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Forma del talón: plano
-- No resistente al agua
 - Suela: goma
+- No resistente al agua
+- Talla del zapato: Medium
 - Cierre: cierre de velcro
 - Material exterior: sintético
 - Material interior: sintético
-- Talla del zapato: Medium
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09N7DP47N{{</world>}}

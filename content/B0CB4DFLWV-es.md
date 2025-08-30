@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Fabricado con 100 % algodón sostenible
 - Cuello redondo
 - Logotipo de strass en la parte delantera del pecho
-- Fabricado con 100 % algodón sostenible
-- Corte regular
 - Pepe Jeans se asocia con la iniciativa Better Cotton para mejorar la agricultura del algodón a nivel mundial
+- Corte regular
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CB4DFLWV{{</world>}}

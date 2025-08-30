@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material: 100 % poliéster
 - Esta camiseta hummel también está equipada con tecnología de material Beecool, que te mantiene fresco y seco gracias a su alta transpirabilidad y diseño de secado rápido
-- La camiseta HmlCORE XK POLY JERSEY S/S está diseñada tanto para deportes de interior como exterior y se puede llevar durante el entrenamiento o el juego
+- Material: 100 % poliéster
 - La camiseta está hecha de material de poliéster duradero de doble punto que puede soportar el desgaste
+- La camiseta HmlCORE XK POLY JERSEY S/S está diseñada tanto para deportes de interior como exterior y se puede llevar durante el entrenamiento o el juego
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0948TDMX8{{</world>}}

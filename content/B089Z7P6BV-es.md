@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Multicolor de la marca Puma
-- Camiseta para practicar Fitness y ejercicio de unisex infantil
 - Los productos deportivos de la marca Puma están diseñados para que disfrutes de tu deporte favorito sin preocuparte de nada más que rendir al
+- Camiseta para practicar Fitness y ejercicio de unisex infantil
 - Camiseta ESS Logo Tee B Tangerine
+- Multicolor de la marca Puma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B089Z7P6BV{{</world>}}

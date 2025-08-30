@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Tiene detalles distintivos de la marca
 - Fabricada en poliéster
-- Cuello redondo
 - Sudadera deportiva para entrenamiento o paseos
+- Cuello redondo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07NWX86DS{{</world>}}

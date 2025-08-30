@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Logo discreto en el lateral
-- Diseño atractivo
 - Con estuche y una tela para limpiar los cristales
+- Diseño atractivo
+- Logo discreto en el lateral
 - Marca del producto: Tommy Hilfiger
 
 [🛒 Comprar!!!]({{< param buyurl >}})

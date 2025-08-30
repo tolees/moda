@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Hecho con materiales resistentes al agua
 - Bolso de mano de 24,5 cm x 15 cm x 6 cm fabricado en Poliéster y detalles de piel sintética.
 - Interior con seis ranuras para las tarjetas y dos bolsillos de distintos tamaños, uno de ellos con cremallera.
-- Hecho con materiales resistentes al agua
 - Asa lateral para colgártelo de la muñeca.
 - Bolsillo frontal y trasero con cremallera para acceder fácilmente a accesorios más pequeños.
 

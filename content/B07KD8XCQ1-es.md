@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Capucha con cordón
 - Ajuste regular
+- Capucha con cordón
 - Bolsillos laterales
 - Cremallera frontal completa
 

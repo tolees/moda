@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Cuero Better Leather, procedente de una curtiduría con certificación de plata por sus buenas prácticas en la gestión del agua, la energía y los residuos
 - Tope de la puntera y pieza del talón confeccionados en goma de escalada
+- Suela con tacos de goma
 - Membrana impermeable TimberDry, confeccionada con un 50 % de plástico
+- Piezas metálicas inoxidables de lazada rápida y ganchos de bloqueo
 - Entresuela de polímero de goma EVA, moldeada por compresión, que ofrece amortiguación con una alta capacidad de rebote
 - Lengüeta totalmente reforzada
-- Piezas metálicas inoxidables de lazada rápida y ganchos de bloqueo
-- Suela con tacos de goma
-- Cuero Better Leather, procedente de una curtiduría con certificación de plata por sus buenas prácticas en la gestión del agua, la energía y los residuos
 - Forro confeccionado en tejido ReBOTL con al menos un 50 % de plástico
 
 [🛒 Comprar!!!]({{< param buyurl >}})

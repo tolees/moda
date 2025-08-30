@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Chaqueta corta
 - Cremallera completa
-- Con aspecto de ante
 - Bolsillos laterales con cremallera
 - Cuello alto con botón
-- Chaqueta corta
+- Con aspecto de ante
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08JTN2D9R{{</world>}}

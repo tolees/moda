@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Scratch
-- Sólo limpieza en seco
 - Casual
+- Sólo limpieza en seco
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B075NQKHTW{{</world>}}

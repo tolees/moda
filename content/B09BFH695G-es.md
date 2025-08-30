@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sudadera abierta con cremallera central
-- Logo en tape sobre el bolsillo
 - Bolsillos tipo canguro
 - Puños y bajos confeccionados en rib para mejorar el ajuste
+- Logo en tape sobre el bolsillo
+- Sudadera abierta con cremallera central
 - Incluye capucha ajustable mediante cordones
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Chaqueta acolchada
 - Bolsillos delanteros
+- Chaqueta acolchada
 - Cremallera lateral oculta
 
 [🛒 Comprar!!!]({{< param buyurl >}})
