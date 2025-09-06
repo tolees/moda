@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño ligero y cómodo
 - Con una plantilla desmontable
+- Diseño ligero y cómodo
 - Transpirables y amortiguadas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

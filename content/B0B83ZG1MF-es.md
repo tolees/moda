@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Con tirantes
-- Estampado tropical de hojas efecto pintado con rotulador
 - Escote bandeau
+- Estampado tropical de hojas efecto pintado con rotulador
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B83ZG1MF{{</world>}}

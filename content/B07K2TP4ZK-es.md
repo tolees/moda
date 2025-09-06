@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Forro polar con botones a presión para mujer con un ajuste clásico
 - Contenido: 1x Columbia Benton Springs Suéter para mujer, 1/2 Botones a presión, Polar de filamento MTR 100% poliéster, 250g, Color: Negro, Talla: L, Art.No. 1860991
-- Se puede usar como capa superior o como capa inferior para los meses de invierno más fríos
 - Confort y calor óptimos gracias al tejido polar
+- Se puede usar como capa superior o como capa inferior para los meses de invierno más fríos
 - Disponible en una variedad de estilos neutros, Ideal para el uso diario
 
 [🛒 Comprar!!!]({{< param buyurl >}})

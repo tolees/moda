@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela de goma
-- Al comprar chanclas Havaianas en Amazon, debes tener en cuenta que la talla BR/proveedor equivale a la talla de la UE, independientemente de lo que aparezca en la suela del producto
-- Goma superior
-- Nota Considera la talla BR = talla de la UE, independientemente de lo que muestre la suela del producto, la talla BR se ajusta adecuado y corresponde a la talla de la UE + prueba siempre el producto primero
 - Cierre sin cierre
+- Suela de goma
+- Goma superior
 - Forro Sin cierre Forro
+- Al comprar chanclas Havaianas en Amazon, debes tener en cuenta que la talla BR/proveedor equivale a la talla de la UE, independientemente de lo que aparezca en la suela del producto
+- Nota Considera la talla BR = talla de la UE, independientemente de lo que muestre la suela del producto, la talla BR se ajusta adecuado y corresponde a la talla de la UE + prueba siempre el producto primero
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B076B5RZ1G{{</world>}}

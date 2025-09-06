@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Aspectos destacados del equipo: el logotipo del equipo Red Bull Racing se muestra en el centro del pecho con impresión de goma plana de alta calidad, añadiendo un toque de sofisticación al diseño
 - Detalles de los jeans PEPE: con su combinación de colores de contraste, esta camiseta seguramente será una de las favoritas entre los fanáticos de Red Bull Racing, combinando una estética elegante con una declaración audaz de lealtad del equipo
+- Aspectos destacados del equipo: el logotipo del equipo Red Bull Racing se muestra en el centro del pecho con impresión de goma plana de alta calidad, añadiendo un toque de sofisticación al diseño
 - Camiseta Red Bull Racing: presentamos la camiseta Driver, diseñada para la máxima comodidad y estilo. Hecha de jersey ligero 100% algodón, esta camiseta ofrece una sensación limpia y deportiva que garantiza comodidad durante todo el día
 
 [🛒 Comprar!!!]({{< param buyurl >}})

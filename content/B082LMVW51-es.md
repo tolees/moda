@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Este producto es original Levis
 - Tienen un parche de cuero en la parte posterior de la cintura
-- Con corte entallado en la cadera y el muslo
 - Vaqueros para mujer
+- Con corte entallado en la cadera y el muslo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B082LMVW51{{</world>}}

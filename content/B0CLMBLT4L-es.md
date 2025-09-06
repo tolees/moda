@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Instrucciones de cuidado: lavable a máquina
-- Ajuste: Slim Straight
 - Composición: 92 por ciento de algodón 6 por ciento elastomultiéster 2 por ciento de elastano
 - Jeans Pantalones Largos
 - Cierre: cremallera y botón
+- Ajuste: Slim Straight
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CLMBLT4L{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño deportivo
-- Tela suave
 - Diseño ligero que ofrece comodidad
 - Tiene detalles distintivos de la marca
+- Tela suave
+- Diseño deportivo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BT7QNF1T{{</world>}}

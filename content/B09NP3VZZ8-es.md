@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ideal para regalo niña 6 años o niño 6 años, perfecto para los fans de Harry Potter. Un regalo mágico que encantará a todos.
-- Descubre la magia y el misterio de Harry Potter, donde los jugadores se embarcan en una búsqueda para identificar a magos y brujas famosos en el encantador juego de quién es quien.
 - Quién Es Quién Español es un juego para todos, a partir de 6 años, tanto para niños, adultos como para fans de Harry Potter. Ideal para prácticamente cualquier lugar.
+- Ideal para regalo niña 6 años o niño 6 años, perfecto para los fans de Harry Potter. Un regalo mágico que encantará a todos.
 - Contenido: 2 bandejas de juego, 4 soportes (2 para cada bandeja), 4 selectores de personajes, 2 deslizadores de puntuación, 2 hojas de personajes con 24 pequeños personajes, 24 tarjetas de personajes, 1 hoja de instrucciones.
+- Descubre la magia y el misterio de Harry Potter, donde los jugadores se embarcan en una búsqueda para identificar a magos y brujas famosos en el encantador juego de quién es quien.
 - Un juego clásico para 2 jugadores donde cada uno elige una carta de personaje y hace preguntas de sí o no para adivinar el personaje misterioso del oponente antes de que él adivine el tuyo.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

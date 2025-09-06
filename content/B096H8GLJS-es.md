@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ajuste ceñido.
 - Un pantalón corto de algodón con estilo deportivo.
-- Tiro medio.
-- Punto liso, 93 % algodón / 7 % elastán.
 - Ropa deportiva fabricada con materiales de primera calidad que se adaptan a cualquier actividad deportiva
+- Tiro medio.
+- Ajuste ceñido.
+- Punto liso, 93 % algodón / 7 % elastán.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B096H8GLJS{{</world>}}

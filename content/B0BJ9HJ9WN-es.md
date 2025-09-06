@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tela transpirable
 - Logotipo de adidas
+- Tela transpirable
 - Tela Suave
 
 [🛒 Comprar!!!]({{< param buyurl >}})

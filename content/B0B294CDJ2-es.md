@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material interior: 48 % poliéster, tejido textil, 36 % piel de vacuno, piel de grano completo, 16 % poliuretano sintético
 - Parte superior: cuero sintético
+- Material interior: 48 % poliéster, tejido textil, 36 % piel de vacuno, piel de grano completo, 16 % poliuretano sintético
 - Suela: caucho, 70 por ciento CMEVA -30 por ciento de caucho
 - Cierre: pull-on, cordones
 

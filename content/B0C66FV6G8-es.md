@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Calzado con luces
 - Amortiguadas y transpirables
 - Ofrecen una comodidad óptima
+- Calzado con luces
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C66FV6G8{{</world>}}

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tela simple para un aspecto limpio
-- Forro: forrado
 - Solapa que cae
+- Forro: forrado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CBVWMHBV{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Logo a contraste en el lateral. Con plantilla extraíble. Piso volumen con suela de goma antideslizante
 - Cordones regulables. Tirador trasero para facilitar el calce
 - Zapatilla de hombre, de la marca Refresh. Fabricada en tejido técnico bicolor
+- Logo a contraste en el lateral. Con plantilla extraíble. Piso volumen con suela de goma antideslizante
 - [Nuestra Marca]: REFRESH con estilo fresco y juvenil. Calzado versátil y moderno diseñado para quienes buscan estar siempre a la moda sin renunciar a la comodidad.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

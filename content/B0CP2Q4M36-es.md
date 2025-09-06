@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Top de tirantes anchos, escote redondo y print frontal de Snoopy
 - cómodo, adecuado para dormir y estar en casa sin perder tu toque de estilo
 - Pijama 100% algodón de tirantes y shorts estampados, en bonitos tonos verdes
-- Top de tirantes anchos, escote redondo y print frontal de Snoopy
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CP2Q4M36{{</world>}}

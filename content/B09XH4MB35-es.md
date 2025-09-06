@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 2 bolsillos interior; 2 bolsillos exteriores; Bolsillo para protector de espalda G1 y G2; bolsillos para protector de pecho Pro-Armor
 - Protectores extraíbles de material compuesto en los codos y los hombros
 - Tejido D-Synth 350; inserciones de tejido de malla
-- 2 bolsillos interior; 2 bolsillos exteriores; Bolsillo para protector de espalda G1 y G2; bolsillos para protector de pecho Pro-Armor
 - Tejido exterior impermeable
 - Cuello, cintura y puños ajustables; sistema de cierre de chaqueta-pantalón
 

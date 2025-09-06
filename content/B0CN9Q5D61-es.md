@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de cierre: cremallera
 - Instrucciones de cuidado: lavar a máquina
+- Tipo de cierre: cremallera
 - Composición del material: 75% poliamida, 25% elastano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

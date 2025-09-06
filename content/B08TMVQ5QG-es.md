@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ligera
 - Mangas cortas
-- Camiseta deportiva
 - Cuello redondo
+- Ligera
+- Camiseta deportiva
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08TMVQ5QG{{</world>}}

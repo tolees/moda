@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Inicio > Mujer > Sujetadores
-- Básico
 - Marca: Selene
+- Básico
 - Brasier sin tirantes con aros y copa acolchada. Parte trasera de tul elegante tejido con rayas finas. Incluye juego de tirantes textiles e invisibles.
+- Inicio > Mujer > Sujetadores
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00ADM111M{{</world>}}

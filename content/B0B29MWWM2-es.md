@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Adecuada para días fríos
-- Presenta 2 bolsillos
 - Tiene un diseño casual
+- Presenta 2 bolsillos
+- Adecuada para días fríos
 - Este producto es original Levis
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Consulte el cuadro de tamaños que se ofrece en las fotos del artículo, el Amazon no es aplicable. Gracias!
 - Especialmente indicado para minifaldas de falda, se puede usar solo o se puede usar dentro de la chaqueta, anorak, cardigan de punto y camisa. Edición delgada, es una ropa cómoda y hermosa para el hogar, se puede usar en un vestido , mostrando el encanto femenino sexy único
+- Consulte el cuadro de tamaños que se ofrece en las fotos del artículo, el Amazon no es aplicable. Gracias!
 - Camisa de gasa para mujer, mangas 3/4, forro del cuerpo, no transparente. La blusa con cuello redondo está hecha de poliéster 100%, la tela es ligera y transpirable, suave y cómoda. Adecuado para primavera, verano y otoño.
 - Diseño de escote clásico, puños anchos y cómodos, sencillos y generosos, diseño en color sólido, camisa holgada, manga 3/4, tejido de gasa que te hace más elegante, elegante y encantador
 - perfecto para la oficina, el ocio, el entretenimiento y otras ocasiones, se puede asociar con una falda, jeans, etc.

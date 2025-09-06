@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Insignia del monograma TH en la parte delantera
 - Con 2 asas superiores
 - Bandolera ajustable y extraíble
+- Insignia del monograma TH en la parte delantera
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CS6C37KF{{</world>}}

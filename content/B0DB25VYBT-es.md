@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Fácil de combinar
 - Tejido de algodón puro
 - Perfecto para el trabajo y el tiempo libre
-- Cierre de botón
 - Polo clásico de Gant
-- Fácil de combinar
+- Cierre de botón
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DB25VYBT{{</world>}}

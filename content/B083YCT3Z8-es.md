@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 2 bolsillos frontales con cremallera
 - Compartimento principal con cremallera con: o Bolsillo con cremallera o Bolsillo para el móvil o Bolsillo para la cartera o Presilla para bolis o Llavero
 - Bolsillo trasero con cremallera
+- 2 bolsillos frontales con cremallera
 - Correa ajustable para el hombro
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Climalite anti-humidity fabric
 - Regular fit
 - Adidas logo on the front
+- Climalite anti-humidity fabric
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0779CCDHL{{</world>}}

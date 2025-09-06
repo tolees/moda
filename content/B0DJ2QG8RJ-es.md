@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Este modelo ha obtenido el certificado vegano por la organización mundial PETA (Organización de los derechos de los animales)
-- Suela de goma antideslizante. Con plantilla extraíble
 - [Nuestra Marca]: XTI se caracteriza por su moda urbana y funcional con calzado que combina las últimas tendencias con comodidad y versatilidad para un estilo de vida activo y moderno.
+- Suela de goma antideslizante. Con plantilla extraíble
 - Zapato de hombre tipo náutico, de la marca Xti. Fabricado en material textil, con cordones
 
 [🛒 Aquí!!!]({{< param buyurl >}})

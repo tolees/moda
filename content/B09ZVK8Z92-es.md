@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Correa de tobillo
-- No resistente al agua
 - Suela: etilvinilacetato
+- No resistente al agua
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09ZVK8Z92{{</world>}}

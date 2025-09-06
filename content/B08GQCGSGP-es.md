@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Adhesivos al agua
-- Suela de goma reciclada
 - Empeines y cordones de algodón orgánico
+- Suela de goma reciclada
+- Adhesivos al agua
 - Confección vulcanizada
 - Plantilla de poliuretano y helio
 

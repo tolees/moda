@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tienen detalles distintivos de la marca
 - Este producto es original Levis
 - Ofrecen una comodidad óptima
+- Tienen detalles distintivos de la marca
 - Estilo de 5 bolsillos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

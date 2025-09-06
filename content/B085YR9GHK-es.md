@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tipo de suela: cómoda, duradera, ligera, resistente al calor, antideslizante y resistente al agua
 - Color de las chanclas: rosa flux
 - Correa: PVC. Material de la suela: goma
+- Tipo de suela: cómoda, duradera, ligera, resistente al calor, antideslizante y resistente al agua
 - Género: chanclas unisex para adultos
 - Tamaño: al comprar sandalias Havaianas en Amazon, debes considerar la talla BR/proveedor como equivalente a la talla de la UE, independientemente de lo que se muestre en la suela del producto
 

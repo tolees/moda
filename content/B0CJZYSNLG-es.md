@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Herrajes dorados brillantes
 - El interior cuenta con 3 ranuras para tarjetas y bolsillo para teléfono
-- Longitud: 12 cm de ancho, 190,5 cm de alto, 17,78 cm
 - Bolsa exterior
+- Longitud: 12 cm de ancho, 190,5 cm de alto, 17,78 cm
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CJZYSNLG{{</world>}}

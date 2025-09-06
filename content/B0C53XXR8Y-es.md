@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Contiene al menos un 20% de material reciclado
-- Horma clásica
-- Parte superior de ante
 - Suela de goma vulcanizada
+- Contiene al menos un 20% de material reciclado
 - Forro textil
+- Parte superior de ante
+- Horma clásica
 - Mediasuela con amortiguación
 
 [🛒 Aquí!!!]({{< param buyurl >}})

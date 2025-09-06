@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño ligero que ofrece comodidad
 - Tiene detalles distintivos de la marca
+- Diseño ligero que ofrece comodidad
 - Capucha ajustable mediante cordones
 - Chaqueta abierta con cremallera
 

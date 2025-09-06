@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Estilo: Sneaker Med
 - Número del fabricante: D15NUA-0006K/C7000
-- Material: Textil
 - Color: rojo
+- Material: Textil
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08Z7VPHWN{{</world>}}

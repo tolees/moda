@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bajo recto
-- Largo regular
-- Corte ajustado
 - Manga corta
+- Largo regular
+- Bajo recto
+- Corte ajustado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08CN4NYF3{{</world>}}

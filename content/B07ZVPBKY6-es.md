@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mejora con el paso del tiempo con el desgaste natural, la decoloración, las manchas y agujeros
 - Un símbolo de expresión personal durante décadas, un punto de inicio óptimo para la personalización
 - Este producto es original Levis
+- Mejora con el paso del tiempo con el desgaste natural, la decoloración, las manchas y agujeros
 - Desde 1967, la cazadora vaquera original
 - Actualizada con un cálido aislamiento de sherpa y un suave forro acolchado en las mangas
 

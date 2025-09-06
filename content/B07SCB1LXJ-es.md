@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela: sintética
-- Material superior: sintético
-- Material interior: sintético
 - Cierre: sin cordones
+- Material superior: sintético
+- Suela: sintética
+- Material interior: sintético
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07SCB1LXJ{{</world>}}

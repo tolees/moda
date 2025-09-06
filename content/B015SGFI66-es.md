@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CONFORT Y SEGURIDAD. La suela antideslizante proporciona seguridad en cualquier superficie, la planta acolchada asegura confort duradero, y la tira de dedo garantiza sujeción máxima y estabilidad en cada paso
 - DISEÑO ROMÁNTICO. Con tiras trenzadas cruzadas que forman un elegante detalle ovalado en la parte delantera, las Havaianas Luna destacan por su estética romántica y sofisticada. Además, su cierre en el tobillo proporciona un ajuste práctico y seguro
+- CONFORT Y SEGURIDAD. La suela antideslizante proporciona seguridad en cualquier superficie, la planta acolchada asegura confort duradero, y la tira de dedo garantiza sujeción máxima y estabilidad en cada paso
+- MANTENIMIENTO. Limpiar con una esponja suave humedecida en agua y jabón neutro. Evitar productos químicos y secar en un lugar aireado y a la sombra para conservar su forma, color y características originales
 - LUNA. Las sandalias perfectas para mujeres que buscan combinar estilo y funcionalidad durante el verano. Ideales para cualquier actividad al aire libre, destacan por su diseño plano, ligereza y un ajuste seguro
 - MATERIALES DE CALIDAD. Fabricadas con materiales de alta calidad, como tiras de PVC y suela antideslizante de goma, garantizan durabilidad y resistencia
-- MANTENIMIENTO. Limpiar con una esponja suave humedecida en agua y jabón neutro. Evitar productos químicos y secar en un lugar aireado y a la sombra para conservar su forma, color y características originales
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B015SGFI66{{</world>}}

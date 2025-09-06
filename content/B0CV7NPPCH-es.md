@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Construcción de costura lateral.
-- Serigrafía suave a mano.
 - Tejido jersey de peso medio de 150 g/m².
+- Serigrafía suave a mano.
 - Obra de arte personalizada del cuello trasero.
+- Construcción de costura lateral.
 - Liso: 100% algodón. Blanco / jaspeado: 52% algodón, 48% poliéster.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

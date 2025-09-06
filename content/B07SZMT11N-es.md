@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Short between-seasons jacket
 - Wool coat with hood
+- Short between-seasons jacket
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07SZMT11N{{</world>}}

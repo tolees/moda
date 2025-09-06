@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Manga corta, corte ancho
 - Camiseta para hombre de estilo jersey, cuello redondo, dobladillo/borde, tacto suave
+- Manga corta, corte ancho
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CMTXRJ5T{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Marca Tommy Hilfiger
 - Peso ligero
+- Marca Tommy Hilfiger
 - Cierre de cordones
 
 [🛒 Aquí!!!]({{< param buyurl >}})

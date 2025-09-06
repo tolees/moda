@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre: goma
 - Transpirable y transpirable
+- Cierre: goma
 - 13,7795 pulgadas
 - Piel: charol
 

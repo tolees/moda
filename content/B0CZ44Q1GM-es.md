@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte : Corte regular
 - Cuello : Cuello en U
+- Corte : Corte regular
 - Manga : Sin mangas
 - Artículo : Top
 

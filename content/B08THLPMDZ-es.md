@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Finas líneas horizontales en gris sobre el fondo de lanería negro
 - Desigual mujer - Abrigo largo de mujer de lana con forro acochado
 - Bolsillos laterales con aberturas horizontales
+- Finas líneas horizontales en gris sobre el fondo de lanería negro
 - Abrigo largo de lana en tonos negros y grises con interior acolchado y cierre de cremallera y botones. Nueva colección Mujer OI21 Desigual.
 - Machine Cold Wash Inside Out
 

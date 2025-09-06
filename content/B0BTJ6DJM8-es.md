@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Diseño ligero que ofrece comodidad
 - Camiseta de manga corta suave y transpirable
 - Tiene detalles distintivos de la marca
-- Diseño ligero que ofrece comodidad
 - Se adapta a cualquier actividad deportiva
 
 [🛒 Aquí!!!]({{< param buyurl >}})

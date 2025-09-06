@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material de la suela: Caucho
 - Revestimiento: Tela
+- Material de la suela: Caucho
 - Cierre: Cordones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

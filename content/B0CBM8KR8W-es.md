@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tiene un estilo óptimo y ofrece un ajuste cómodo
 - Artículo de marca Levis
+- Tiene un estilo óptimo y ofrece un ajuste cómodo
 - Presentan detalles distintivos de la marca
 
 [🛒 Aquí!!!]({{< param buyurl >}})

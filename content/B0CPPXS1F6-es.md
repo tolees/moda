@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Impermeables y transpirables
 - Con un forro cálido
+- Impermeables y transpirables
 - Disponen de una suela adherente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

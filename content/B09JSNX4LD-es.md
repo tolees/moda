@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cordón ajustable
-- Puños de punto acado
 - Bolsillos delanteros paspel
+- Puños de punto acado
+- Cordón ajustable
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09JSNX4LD{{</world>}}

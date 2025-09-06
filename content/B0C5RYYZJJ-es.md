@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Diseño flat top total black con montura rectangular XL de TR90 en acabado mate. Este modelo posee lentes polarizadas y es un híbrido entre un estilo deportivo y lifestyle pudiendo adaptarse a cualquier tipo de circunstancias. Incorpora terminales estriados que le aportan una mayor sujeción.
 - Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Bisagra de doble acción para un cierre de patillas seguro y durabilidad.
 - Producto original Hawkers. La caja incluye funda en microfibra y caja
 - Medidas: Frontal 147,5 mm; Patillas 140 mm ; Puente 18 mm ; Alto 54 mm. Modelo Unisex
-- Diseño flat top total black con montura rectangular XL de TR90 en acabado mate. Este modelo posee lentes polarizadas y es un híbrido entre un estilo deportivo y lifestyle pudiendo adaptarse a cualquier tipo de circunstancias. Incorpora terminales estriados que le aportan una mayor sujeción.
 - Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores. Lentes categoría 3 fabricadas con material bio tac polarizado y protección uv400.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

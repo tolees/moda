@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Botas de Trabajo Hombre Calzado Trabajo Verano Mujer 40 Botas Seguridad Mujer Botas Punta Acero Calzado Seguridad Deportivo Zapatos Seguridad Verano Tenis Seguridad Negro
 - Tipo de producto: ZAPATOS
+- Botas de Trabajo Hombre Calzado Trabajo Verano Mujer 40 Botas Seguridad Mujer Botas Punta Acero Calzado Seguridad Deportivo Zapatos Seguridad Verano Tenis Seguridad Negro
 - Talla: 40UE
 
 [🛒 Aquí!!!]({{< param buyurl >}})

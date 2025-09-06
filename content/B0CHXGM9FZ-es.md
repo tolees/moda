@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ofrece una comodidad óptima
 - Con estampado
+- Ofrece una comodidad óptima
 - Cuenta con un estilo casual
 
 [🛒 Comprar!!!]({{< param buyurl >}})

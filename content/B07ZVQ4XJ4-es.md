@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Colección: Jackets
 - Este producto es original Levis
-- Ofrece comodidad y libertad de movimiento
 - Tiene detalles distintivos de la marca
+- Ofrece comodidad y libertad de movimiento
+- Colección: Jackets
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07ZVQ4XJ4{{</world>}}

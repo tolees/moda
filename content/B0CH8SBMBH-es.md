@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Material exterior: Textil
 - Tipo de tacón: Plano
 - Revestimiento: Tela
-- Material exterior: Textil
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CH8SBMBH{{</world>}}

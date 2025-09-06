@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuello redondo
-- Fabricado con 100 % algodón sostenible
 - Pepe Jeans se asocia con la iniciativa Better Cotton para mejorar la agricultura del algodón a nivel mundial
 - Corte regular
 - Logotipo de strass en la parte delantera del pecho
+- Cuello redondo
+- Fabricado con 100 % algodón sostenible
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CB49TG2J{{</world>}}

@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - La entrega se realiza en el embalaje original de Lotus Style.
-- Collar de acero inoxidable 316l para mujer.
 - Producto Lotus Style.
+- Collar de acero inoxidable 316l para mujer.
 - Resistencia al agua
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

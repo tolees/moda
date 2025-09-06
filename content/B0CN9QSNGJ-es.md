@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Con aros
 - Confort
 - Copas moldeadas
-- Con aros
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CN9QSNGJ{{</world>}}

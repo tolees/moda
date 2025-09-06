@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tejido técnico 100% poliéster reciclado
-- Bolsillos frontales con cremallera
 - Carta del tamaño: 116,128,140,152,164,176
+- Bolsillos frontales con cremallera
+- Tejido técnico 100% poliéster reciclado
 - Tejido transpirable
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Modelo Masculino. Medidas: Frontal 141 mm, Varillas 126 mm , Puente 16 mm , Alto 44 mm.
-- Material del montura: TR90. Color del montura: Blanco. Color de la varilla: Blanco.
 - Inspirada en la escena callejera de los 2000, este diseño de gafas de sol rectangulares combina una estética urbana y deportiva ideal para realzar un look athleisure. Una silueta ligera y envolvente disponible en varios colores de lentes y monturas en acabados brillo y mate.
-- Producto original Hawkers. La caja incluye funda en microfibra y caja
 - Categoría de filtro 3, color suficientemente oscuro para usar en exterior a pleno sol. Absorben entre un 82% y un 92% de luz solar. Material de la lente: Lentes de TR18 con el sello de Eastman, gran calidad óptica y resistencia. Respetuoso con el medio ambiente. Protección 100% UV. Color de la lente: Azul. Apariencia de la lente: Sólida.
+- Material del montura: TR90. Color del montura: Blanco. Color de la varilla: Blanco.
+- Producto original Hawkers. La caja incluye funda en microfibra y caja
+- Modelo Masculino. Medidas: Frontal 141 mm, Varillas 126 mm , Puente 16 mm , Alto 44 mm.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D6SDGFBD{{</world>}}

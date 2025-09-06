@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ofrece comodidad y libertad de movimiento
 - Cuenta con un diseño ligero
+- Ofrece comodidad y libertad de movimiento
 - Camiseta interior de manga corta para niño
 
 [🛒 Comprar!!!]({{< param buyurl >}})

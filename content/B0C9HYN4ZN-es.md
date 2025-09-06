@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Escote redondo con abertura y cierre de botón
 - Ofrece una comodidad óptima
+- Escote redondo con abertura y cierre de botón
 - Con tejido ligero y suave
 
 [🛒 Comprar!!!]({{< param buyurl >}})

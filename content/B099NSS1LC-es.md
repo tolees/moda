@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Largo hasta el tobillo
-- Flaco
 - Cintura media
+- Flaco
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B099NSS1LC{{</world>}}

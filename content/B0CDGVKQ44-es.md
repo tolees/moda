@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cintura expuesta
 - Tiro regular
+- Cintura expuesta
 - Logotipo impreso
 
 [🛒 Comprar!!!]({{< param buyurl >}})

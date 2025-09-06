@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tecnología PureGEL
-- Espuma FF BLAST PLUS
 - Plantilla OrthoLite X-30
-- Material exterior: Sintético
 - Cierre: Cordones
 - Tipo de tacón: Plano
+- Tecnología PureGEL
+- Material exterior: Sintético
+- Espuma FF BLAST PLUS
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C5Y3G3QZ{{</world>}}

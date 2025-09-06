@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte regular
 - Dobladillo ligeramente redondeado
 - Composición del material: 100% algodón
+- Corte regular
 - Hecho de algodón cómodo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

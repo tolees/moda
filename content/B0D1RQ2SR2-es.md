@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con logo de Calvin Klein en el pecho
-- Bolsillo canguro
 - Puños y bajo de canalé
+- Bolsillo canguro
+- Con logo de Calvin Klein en el pecho
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D1RQ2SR2{{</world>}}

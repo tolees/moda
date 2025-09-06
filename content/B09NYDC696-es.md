@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Este modelo híbrido, con puente en forma de ojo de cerradura, aros redondeados, tiene un frente superior de carey brillante, aros inferiores incoloros, con patillas de acero inoxidable dorado y terminales de carey brillante. Las lentes polarizadas son de color verde oscuro.
 - Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Almohadillas de TR90 para una sujeción mucho más cómoda. Bisagra de 3 barras para un mayor agarre y durabilidad.
-- Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores. Lentes categoría 3 fabricadas con material bio tac polarizado y protección uv400.
 - Medidas: Frontal 141,5 mm; Patillas 145 mm ; Puente 19 mm ; Alto 49,5 mm. Modelo Unisex
+- Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores. Lentes categoría 3 fabricadas con material bio tac polarizado y protección uv400.
 - Producto original Hawkers. La caja incluye funda en microfibra y caja
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

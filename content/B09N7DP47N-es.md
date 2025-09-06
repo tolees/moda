@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- No resistente al agua
-- Forma del talón: plano
-- Suela: goma
-- Talla del zapato: Medium
 - Cierre: cierre de velcro
 - Material exterior: sintético
+- Suela: goma
+- No resistente al agua
+- Talla del zapato: Medium
+- Forma del talón: plano
 - Material interior: sintético
 
 [🛒 Visítala!!!]({{< param buyurl >}})

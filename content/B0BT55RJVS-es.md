@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto adecuado para múltiples ocasiones
 - Tiene detalles distintivos de la marca
+- Producto adecuado para múltiples ocasiones
 - Producto óptimo para completar los looks informales de todos los días
 - Ofrece comodidad y libertad de movimiento
 

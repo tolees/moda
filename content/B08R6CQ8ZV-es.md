@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fabricada de forma sostenible
 - 3 rayas a lo largo de las mangas
+- Fabricada de forma sostenible
 - Cuello redondo
 - Tela transpirable
 

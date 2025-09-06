@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Material superior: sintético
 - Material interior: sintético
 - Forma del tacón: plano
-- Material superior: sintético
 - Suela: goma
 - Cierre: cremallera
 

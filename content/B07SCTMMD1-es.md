@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Interior ligeramente relleno
+- Un clásico atemporal
 - Cierre de cremallera completa
 - Un fit relajado con más espacio en el tronco y en los hombros
-- Un clásico atemporal
-- Interior ligeramente relleno
 - Este producto es original Levis
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

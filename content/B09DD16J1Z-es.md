@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Piso de goma flexible, antideslizante y resistente al desgarro
-- Forro inTech sin costuras, una microfibra ecológica 7 veces absorbente que la piel, neutro y resistente; cuenta con el certificado STANDARD 100 by OEKO-TEX
 - Plantilla amortiguadora superabsorbente y antibacterias
+- Forro inTech sin costuras, una microfibra ecológica 7 veces absorbente que la piel, neutro y resistente; cuenta con el certificado STANDARD 100 by OEKO-TEX
 - Pieles naturales que garantizan la correcta transpiración del pie y cuentan con el certificado ambiental LWG
+- Piso de goma flexible, antideslizante y resistente al desgarro
 - Los únicos fabricados en España y avalados por expertos podólogos: SEBIOR, Sociedad Española de Biomecánica y ortopodología; consulta información en nuestras RRSS
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

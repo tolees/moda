@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 15MARV783WA
-- Ligero, Encaje clasico, Manga de doble puntada y bastilla baja
 - Officially Licensed Marvel Apparel
+- Ligero, Encaje clasico, Manga de doble puntada y bastilla baja
+- 15MARV783WA
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08GNXQLSN{{</world>}}

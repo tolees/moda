@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Suela de goma antideslizante. Con plantilla extraíble
 - Este modelo ha obtenido el certificado vegano por la organización mundial PETA (Organización de los derechos de los animales)
-- Zapato de hombre tipo náutico, de la marca Xti. Fabricado en material textil, con cordones
 - [Nuestra Marca]: XTI se caracteriza por su moda urbana y funcional con calzado que combina las últimas tendencias con comodidad y versatilidad para un estilo de vida activo y moderno.
+- Zapato de hombre tipo náutico, de la marca Xti. Fabricado en material textil, con cordones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DJ2R1MFG{{</world>}}

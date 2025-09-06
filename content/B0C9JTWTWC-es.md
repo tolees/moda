@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con escote en uve
 - Con detalles bordados en el escote en el canesú y en las mangas
+- Con escote en uve
 - Con cuerpo Con volumen
 - Blusa de manga larga Con volumen
 

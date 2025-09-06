@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Prenda de vestimenta
 - Tiene detalles distintivos de la marca "PEPE JEANS"
+- Prenda de vestimenta
 - Para uso diario
 
 [🛒 Comprar!!!]({{< param buyurl >}})

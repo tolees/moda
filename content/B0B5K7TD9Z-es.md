@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Camiseta de rayas finas con logotipo grande impreso en el pecho
+- PARTE: Somos un orgulloso miembro de la Better Cotton Initiative (BCI). Con la compra de este artí apoyas el cultivo de algodón más sostenible. Instrucciones de lavado: no lavar en seco, no secar en secadora, no usar lejía, planchar a alta temperatura (200 °C), ciclo suave a máx. 30 °C
 - Mangas cortas con cuello redondo
 - Hecho de suave tejido de punto simple, ideal para primavera y verano
 - Ajuste: ajuste regular, longitud de espalda para L aprox. 74 cm
-- PARTE: Somos un orgulloso miembro de la Better Cotton Initiative (BCI). Con la compra de este artí apoyas el cultivo de algodón más sostenible. Instrucciones de lavado: no lavar en seco, no secar en secadora, no usar lejía, planchar a alta temperatura (200 °C), ciclo suave a máx. 30 °C
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B5K7TD9Z{{</world>}}

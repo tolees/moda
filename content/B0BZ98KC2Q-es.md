@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Estilo atlético de encaje elástico
 - Parte superior de malla
 - Skechers y detalle del logotipo de GO WALK
+- Estilo atlético de encaje elástico
 - Peso ligero
 
 [🛒 Visítala!!!]({{< param buyurl >}})

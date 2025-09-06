@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con capucha (no desmontable)
+- Cremallera frontal
 - Chaqueta ligera de mujer para entretiempo
 - Corte estándar
-- Cremallera frontal
 - Clásica chaqueta acolchada: imprescindible en cualquier armario de mujer
+- Con capucha (no desmontable)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B095Z46XQT{{</world>}}

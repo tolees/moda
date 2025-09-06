@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Manga corta, ajuste normal
 - Camisa de manga corta para hombre, cuello de solapa, botones continuos, corte ancho, tejido fluido
+- Manga corta, ajuste normal
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CMTYFZL3{{</world>}}

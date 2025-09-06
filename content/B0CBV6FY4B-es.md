@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Artículo de marca JACK & JONES
 - Tiene detalles distintivos de la marca
 - Ofrece comodidad y libertad de movimiento
+- Artículo de marca JACK & JONES
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CBV6FY4B{{</world>}}

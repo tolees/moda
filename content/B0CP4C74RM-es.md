@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material: Algodón Orgánico
 - Polar Diagonal De Algodón
+- Composición: 90%Algodón Orgánico 10%Poliester Reciclado
 - Cruz Hooverdye Con Cordón Redondo De Algodón
 - Teñido A Juego Con Canal 1X1 En Puños Y Bajo
-- Composición: 90%Algodón Orgánico 10%Poliester Reciclado
+- Material: Algodón Orgánico
 - Fabricado En: Portugal
 
 [🛒 Comprar!!!]({{< param buyurl >}})

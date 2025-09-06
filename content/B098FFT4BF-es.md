@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material interior: textil
 - Cierre: cordones
-- Material exterior: lona
 - Suela: Caucho
+- Material exterior: lona
+- Material interior: textil
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B098FFT4BF{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Corte holgado
 - Tejido ligero y suave
+- Corte holgado
 - Presenta un estilo casual
 
 [🛒 Aquí!!!]({{< param buyurl >}})

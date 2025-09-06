@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- SENCILLO E INFORMAL: La camiseta básica de algodón es supercómoda y perfecta para looks más informales. El logotipo de Tommy Jeans en el pecho completa el diseño.
-- AJUSTE PERFECTO: Esta camiseta minimalista de manga corta está confeccionada en algodón suave y tiene un corte entallado.
-- MATERIAL Y CUIDADO: Camiseta confeccionada en 70 % algodón regenerativo y 30 % viscosa. Se puede lavar a máquina.
-- MODA URBANA REINTERPRETADA: Para acercar las populares prendas de los 90 a las nuevas generaciones, Tommy Jeans se inspira en los iconos del hip-hop de aquella época. Apostando por prendas de alta calidad y diseños modernos con mucho denim.
 - PARA CUALQUIER OCASIÓN: Esta prenda minimalista sienta superbién y convence por su gran comodidad. Ya sea con vaqueros, shorts o pantalones elegantes, combina a la perfección con cualquier look ya sea informal o de oficina.
+- AJUSTE PERFECTO: Esta camiseta minimalista de manga corta está confeccionada en algodón suave y tiene un corte entallado.
+- SENCILLO E INFORMAL: La camiseta básica de algodón es supercómoda y perfecta para looks más informales. El logotipo de Tommy Jeans en el pecho completa el diseño.
+- MODA URBANA REINTERPRETADA: Para acercar las populares prendas de los 90 a las nuevas generaciones, Tommy Jeans se inspira en los iconos del hip-hop de aquella época. Apostando por prendas de alta calidad y diseños modernos con mucho denim.
+- MATERIAL Y CUIDADO: Camiseta confeccionada en 70 % algodón regenerativo y 30 % viscosa. Se puede lavar a máquina.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D7HWN38G{{</world>}}

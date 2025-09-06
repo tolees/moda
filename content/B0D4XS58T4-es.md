@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Officially Licensed Minecraft Apparel for Women - Men - Boys - Girls - Toddler; Creative T-Shirts; Imagination T-Shirts; Video Game; Gaming; Adventure; Explore; Legends; Creeper; Nature; Outdoors; Overworld;
-- Ligero, Encaje clasico, Manga de doble puntada y bastilla baja
 - 24MCFT00037A-001
+- Ligero, Encaje clasico, Manga de doble puntada y bastilla baja
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D4XS58T4{{</world>}}
