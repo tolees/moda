@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Blue Block Technology. Gafa con filtro azul. Máxima protección frente a la sobreexposición de pantallas. Elimina la transmisión de luz azul, previniendo la fatiga y el estrés visual. Sin graduación.
 - Producto Oficial HAWKERS. Incluye: Funda en microfibra y caja.
 - Nuestro diseño Warwick, con sus lentes redondeadas, puente de ojo de cerradura y patillas delgadas, es uno de nuestros iconos. Este modelo, de la colección Made in Spain, tiene una montura negra en acabado mate con logotipos plateados en las patillas y lentes Blue Light.
 - Frontal fabricado en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Almohadillas de TR90 para una sujeción mucho más cómoda.
 - Modelo Unisex. Medidas: Frontal 141 mm; Patillas 140 mm; Puente 17 mm; Diámetro de lente 55,7 mm
-- Blue Block Technology. Gafa con filtro azul. Máxima protección frente a la sobreexposición de pantallas. Elimina la transmisión de luz azul, previniendo la fatiga y el estrés visual. Sin graduación.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BVZX79KZ{{</world>}}

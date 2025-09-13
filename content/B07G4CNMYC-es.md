@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- materialFabricComposition: Outer: 85% Polyester, 13% Cotton, 2% Viscose; Lining: 100% Polyester
-- Polyester lining for a comfortable feel
-- Long Sleeves
-- Faux leather jacket
 - Care Label:
+- Long Sleeves
+- Polyester lining for a comfortable feel
+- materialFabricComposition: Outer: 85% Polyester, 13% Cotton, 2% Viscose; Lining: 100% Polyester
+- Faux leather jacket
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07G4CNMYC{{</world>}}

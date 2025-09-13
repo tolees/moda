@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Piel: charol
 - Cierre: goma
+- Piel: charol
 - Transpirable
 
 [🛒 Visítala!!!]({{< param buyurl >}})

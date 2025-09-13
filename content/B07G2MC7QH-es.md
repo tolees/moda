@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Paquete Triple
 - Pretina Ancha
-- Estiramiento
+- Paquete Triple
 - Conjunto De Calzoncillos Boxer
+- Estiramiento
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07G2MC7QH{{</world>}}

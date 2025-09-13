@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Puños y bajo con ribete de punto elástico
-- Sudadera de corte clásico para hombres
 - Tiene capucha con un cordón ajustable
+- Sudadera de corte clásico para hombres
 - Logotipo bordado en la parte delantera
+- Puños y bajo con ribete de punto elástico
 - Dispone de bolsillos tipo canguro
 
 [🛒 Visítala!!!]({{< param buyurl >}})

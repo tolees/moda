@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Composición: 69% algodón, 25% poliéster, 3% elastano, 3% viscosa
-- Vaqueros ajustados
 - Cintura normal
+- Vaqueros ajustados
+- Composición: 69% algodón, 25% poliéster, 3% elastano, 3% viscosa
 - Mezcla de algodón
 
 [🛒 Visítala!!!]({{< param buyurl >}})

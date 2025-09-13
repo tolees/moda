@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tiene detalles distintivos de la marca
 - Cuenta con un diseño ligero
+- Tiene detalles distintivos de la marca
 - Dispone de 5 bolsillos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

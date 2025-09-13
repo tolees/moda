@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Suela de goma resistente
-- Estilo retro
 - Zapatos de baloncesto
+- Estilo retro
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09NRX94YS{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Calcetines unisex
 - Paquete de dos pares
 - Tejido elástico
+- Calcetines unisex
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BP7VPNNX{{</world>}}

@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Pantalones cortos con cinturilla elástica regulable mediante cordón con detalle de borlas
-- Pijama 100% algodón de camiseta de tirantes anchos en color azul y shorts con estampado allover étnico cómodo, adecuado para dormir y estar en casa sin perder tu toque de estilo
 - Top con escote redondo con abertura en pico
+- Pijama 100% algodón de camiseta de tirantes anchos en color azul y shorts con estampado allover étnico cómodo, adecuado para dormir y estar en casa sin perder tu toque de estilo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CP2RTV3D{{</world>}}

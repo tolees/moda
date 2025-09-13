@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Punto 100% algodón
 - Cuello de pico
 - Corte clásico
-- Punto 100% algodón
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09NYHRCBL{{</world>}}

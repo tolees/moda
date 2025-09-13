@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Logotipo impreso
-- Cuello redondo
 - Corte entallado
+- Cuello redondo
+- Logotipo impreso
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B3VM39LN{{</world>}}

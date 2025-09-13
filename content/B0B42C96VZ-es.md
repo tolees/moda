@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Medidas: Frontal 149 mm; Patillas 145 mm ; Puente 19 mm ; Alto 57 mm. Modelo Unisex
 - Lentes cosméticas categoría 2 y protección uv400 que ofrecen protección antideslumbrante. Lentes de TR18 con el sello de Eastman , uno de los líderes mundiales en tecnología de copoliéster. Respetuoso con el medio ambiente y proporciona un equilibrio único entre claridad y resistencia
+- Medidas: Frontal 149 mm; Patillas 145 mm ; Puente 19 mm ; Alto 57 mm. Modelo Unisex
+- Producto original Hawkers. La caja incluye funda en microfibra y caja
 - Montura en acetato de celulosa de alta calidad que aporta una máxima resistencia y durabilidad. Almohadillas de acetato para una sujeción mucho más cómoda
 - Gafas de sol con lentes degradadas color terracota, acabado brillante en acetato carey y pins en los laterales para aportar a este modelo un toque distintivo . Este diseño cuadrado oversized se inspira en el clásico look de diva que no quiere ser reconocida.
-- Producto original Hawkers. La caja incluye funda en microfibra y caja
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B42C96VZ{{</world>}}

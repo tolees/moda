@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Número del fabricante: 203591-060
+- Material: Croslite/Textil
 - Estilo: Zueco con correa de talón
 - Color: negro
-- Material: Croslite/Textil
-- Número del fabricante: 203591-060
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01A6LTLF2{{</world>}}

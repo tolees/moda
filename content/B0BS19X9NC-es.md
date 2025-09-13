@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Capucha con parte delantera cruzada, triángulo de canalé insertado y cordones ajustables
-- Paneles laterales, puños y cintura acanalados
-- Bordado de G-Star RAW en el pecho
 - Manga larga recta insertada con borde redondeado
 - Bolsillo estilo canguro
+- Bordado de G-Star RAW en el pecho
+- Paneles laterales, puños y cintura acanalados
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BS19X9NC{{</world>}}

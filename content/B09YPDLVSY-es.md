@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tejido sin pulir (240 g)
-- Capucha y bolsillo de canguro
 - Tallas de XXS a XXL
+- Capucha y bolsillo de canguro
+- Tejido sin pulir (240 g)
 - Logotipo pequeño estampado en el pecho y banda con logo en las mangas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

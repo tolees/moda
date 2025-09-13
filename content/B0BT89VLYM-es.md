@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corte estándar
-- hasta la cadera
-- Cuello alto
-- Tela con purpurina ligera, textura arrugada y letras recortadas
 - Desigual
+- Corte estándar
+- Cuello alto
+- hasta la cadera
 - Capucha extraíble y forrada
+- Tela con purpurina ligera, textura arrugada y letras recortadas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BT89VLYM{{</world>}}

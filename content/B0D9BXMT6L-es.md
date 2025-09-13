@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte clásico que complementa cualquier conjunto
-- Fácil de cuidar y duradero
-- Material suave y transpirable para comodidad todo el día
 - Estampados únicos para un look llamativo
+- Material suave y transpirable para comodidad todo el día
+- Fácil de cuidar y duradero
+- Corte clásico que complementa cualquier conjunto
 - Disponible en varios colores y diseños
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Matte Black/Green
 - Talla 63/17/125
-- Garantía internacional de 2 años
 - Polarizado
+- Garantía internacional de 2 años
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0973GTLVS{{</world>}}

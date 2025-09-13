@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseñada para mayor comodidad, estilo y versatilidad
 - Se llama perfecto por una razón
+- Diseñada para mayor comodidad, estilo y versatilidad
 - Un cuello en V suave y clásico que combina con todo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

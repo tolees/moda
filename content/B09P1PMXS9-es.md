@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tela Suave
-- Ajuste regular
 - Logotipo de adidas
+- Ajuste regular
+- Tela Suave
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09P1PMXS9{{</world>}}

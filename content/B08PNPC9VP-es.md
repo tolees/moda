@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 100% poliéster reciclado
 - Cuello redondo
+- 100% poliéster reciclado
 - Corte clásico
 
 [🛒 Comprar!!!]({{< param buyurl >}})

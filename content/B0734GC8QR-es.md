@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Capucha ajustable con cremallera.
 - Chaqueta impermeable y transpirable.
+- Capucha ajustable con cremallera.
 - Puños planos con ajustes de pestaña con un protector adicional en la barbilla para proteger tu cuerpo de las molestas corrientes.
 - Cremalleras de contraste.
 

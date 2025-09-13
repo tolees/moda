@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 100% poliéster reciclado
-- Corte clásico
-- Cuello redondo
 - Manga larga
+- Corte clásico
+- 100% poliéster reciclado
+- Cuello redondo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08VSC6G95{{</world>}}

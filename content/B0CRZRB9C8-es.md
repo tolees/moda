@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Cuello e inserción acanalados
 - Proporciona comodidad
 - Estampado de G-STAR en el pecho
-- Cuello e inserción acanalados
 - Etiqueta de G-STAR tejida en la costura lateral inferior
 - Aberturas laterales
 

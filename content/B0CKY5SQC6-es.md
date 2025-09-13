@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - MATERIAL Y CUIDADO: Camisa confeccionada en 98 % algodón orgánico y 2 % elastano Se puede lavar a máquina y secar en secadora
 - ICÓNICO Y ATEMPORAL: La camisa original de Tommy Jeans con cuello abotonado tiene un corte clásico El diseño sencillo y depurado convierte a esta camisa entallada en un clásico que no puede faltar en ningún armario
-- CLÁSICO TODOTERRENO: Esta camisa, imprescindible en armario, es una prenda fácil de combinar y que realza conjunto Es el complemento adecuado para pantalones de traje para la oficina o vaqueros informales para el día a día
-- MODA URBANA REINTERPRETADA: Para acercar las populares prendas de los 90 a las nuevas generaciones, Tommy Jeans se inspira en los iconos del hip-hop de aquella época Apostando por prendas de calidad y diseños con mucho denim
 - COMODA Y CON DETALLES ESPECIALES: Gracias a su material de calidad, la camisa de corte entallado es supercómoda de llevar Los puños abotonados y los detalles distintivos de Tommy Jeans conceden un toque especial
+- MODA URBANA REINTERPRETADA: Para acercar las populares prendas de los 90 a las nuevas generaciones, Tommy Jeans se inspira en los iconos del hip-hop de aquella época Apostando por prendas de calidad y diseños con mucho denim
+- CLÁSICO TODOTERRENO: Esta camisa, imprescindible en armario, es una prenda fácil de combinar y que realza conjunto Es el complemento adecuado para pantalones de traje para la oficina o vaqueros informales para el día a día
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CKY5SQC6{{</world>}}

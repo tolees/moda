@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Combina un diseño de cuello redondo con manga corta
 - Esta fabricada en 100% poliéster
 - Mantiene la piel fresca y seca
-- Combina un diseño de cuello redondo con manga corta
 - Con DRY MX, una tecnología capaz de controlar la humedad corporal
 
 [🛒 Aquí!!!]({{< param buyurl >}})

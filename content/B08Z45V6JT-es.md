@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mangas tipo raglán para permitir la libertad de movimiento
 - Material resistente y duradero
 - Tiene detalles distintivos de la marca
+- Mangas tipo raglán para permitir la libertad de movimiento
 - Ajuste cómodo que ofrece flexibilidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

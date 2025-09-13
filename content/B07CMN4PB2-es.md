@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - novio
+- Juego de Regalo Perfecto - Hay una tarjeta para el Día del Padre con un logotipo impreo en el frente y un logotipo en la parte poterior
 - aniversario
 - y hay un lugar para escribir saludos para el destinatario. Es adecuado como un regalo ideal para Navidad
-- Juego de Regalo Perfecto - Hay una tarjeta para el Día del Padre con un logotipo impreo en el frente y un logotipo en la parte poterior
 - cumpleaños
 
 [🛒 Visítala!!!]({{< param buyurl >}})

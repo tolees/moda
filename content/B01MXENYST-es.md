@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte normal
 - Puños plegados
+- Corte normal
 - Ideal para cualquier ocasión
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

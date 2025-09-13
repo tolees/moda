@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Copa suave y escote profundo
 - Esta colección ha sido diseñada seleccionando cuidadosamente los tejidos con modelos que se adaptan a todo tipo de cuerpos
+- Copa suave y escote profundo
 - Sujetador push up GORGEOUS con relleno y aro
 
 [🛒 Aquí!!!]({{< param buyurl >}})

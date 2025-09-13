@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- "Just do It" graphics
 - Regular fit
+- "Just do It" graphics
 - Soft fabric
 
 [🛒 Visítala!!!]({{< param buyurl >}})

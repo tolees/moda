@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseño de estampado
 - Abertura en la espalda con cierre de botón
+- Diseño de estampado
 - Falda con vuelo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

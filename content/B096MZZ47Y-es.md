@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Moda casual
 - Patrón: liso
 - Particularidad: transpirable
-- Moda casual
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B096MZZ47Y{{</world>}}

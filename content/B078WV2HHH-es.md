@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cierre: sintético
-- Antideslizante
 - Colección: Otoño/Invierno 19
+- Antideslizante
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B078WV2HHH{{</world>}}

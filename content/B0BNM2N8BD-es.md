@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Manga corta
 - Ligero y cómodo
+- Manga corta
 - Corte
 
 [🛒 Aquí!!!]({{< param buyurl >}})

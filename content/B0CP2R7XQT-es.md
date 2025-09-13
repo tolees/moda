@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Short estampado con cinturilla elástica ajustable
-- Combina con otras prendas y accesorios de la colección
 - Pijama corto 100% algodón, de manga corta y pantalón corto, en color lila con dibujo de Garfield
+- Combina con otras prendas y accesorios de la colección
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CP2R7XQT{{</world>}}

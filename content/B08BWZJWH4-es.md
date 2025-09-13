@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 100% piel vacuno
 - Ancho de la correa: 40 mm
+- 100% piel vacuno
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08BWZJWH4{{</world>}}

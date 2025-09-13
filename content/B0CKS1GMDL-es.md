@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Horma clásica
 - Forro textil
 - Empeine sintético
+- Horma clásica
 - Cierre de cordones
 - Compra una talla más grande
 - Mediasuela Cloudfoam

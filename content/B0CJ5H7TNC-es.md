@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Producto 2: Camiseta algodón manga larga
-- Producto 1: Cuello redondo
-- Producto 1: Corte Slim
-- Producto 2: Logotipo estampado en el pecho
 - Producto 1: Camiseta algodón manga larga
+- Producto 2: Camiseta algodón manga larga
+- Producto 1: Corte Slim
 - Producto 2: Cuello redondo
+- Producto 2: Logotipo estampado en el pecho
+- Producto 1: Cuello redondo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CJ5H7TNC{{</world>}}

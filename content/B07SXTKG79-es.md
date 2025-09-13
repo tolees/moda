@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Simple knit dress
 - Casual knit dress
+- Simple knit dress
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07SXTKG79{{</world>}}

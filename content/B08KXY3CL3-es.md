@@ -31,8 +31,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - Suave
 - Ajuste: delgado
 - algodón
-- Camisa
 - Tira de botones
+- Camisa
 - Cuello
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Transpirables y amortiguadas
-- Con una plantilla desmontable
 - Diseño ligero y cómodo
+- Con una plantilla desmontable
+- Transpirables y amortiguadas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CPQ6HPNK{{</world>}}

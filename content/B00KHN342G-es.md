@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- NORMAS: SATRA Technology Europe Ltd. RIS 3279 TOM Issue 2 (Orange Only). EN ISO 20471 Class 2.
+- MATERIALES, TAMAÑO Y GAMA: Tejido Exterior: Tela 100% Poliéster. Composición del Tejido Exterior: Tela 100% Poliéster. Tamaños Disponible: 4X/5X, L/XL, S/M, XX/3X. Colores Disponibles: Amarillo, Naranja, Rojo.
 - CUIDADO DEL LAVADO: Temp. máx. lavado 40ºC, proceso suave. No usar blanqueante. No usar secadora. Secar tendiendo. No planchar. No limpiar en seco. Máximo 50 lavados.
 - DISEÑO Y FUNCIONALIDAD: Ligero y cómodo; Cinta reflectante para mayor visibilidad; Cierre autoadherente para un fácil acceso; Hechura generosa para comodidad del usuario; Certificado según la EN ISO 20471 tras 50 lavados; Cumple la norma RIS 3279-TOM de los ferrocarriles ingleses (sólo naranja); Certificado CE; Disponible en tallaje hasta la 5XL.
-- MATERIALES, TAMAÑO Y GAMA: Tejido Exterior: Tela 100% Poliéster. Composición del Tejido Exterior: Tela 100% Poliéster. Tamaños Disponible: 4X/5X, L/XL, S/M, XX/3X. Colores Disponibles: Amarillo, Naranja, Rojo.
+- NORMAS: SATRA Technology Europe Ltd. RIS 3279 TOM Issue 2 (Orange Only). EN ISO 20471 Class 2.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00KHN342G{{</world>}}

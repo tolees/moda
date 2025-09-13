@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Soft fabric
 - Two-button closure
 - Tipo de deporte: ropa de deportes atléticos
 - Regular fit
+- Soft fabric
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07VJHKW65{{</world>}}

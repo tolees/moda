@@ -28,15 +28,15 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Contiene al menos un 20% de material reciclado y renovable
+- Drop: 10 mm (talón: 25 mm / antepié: 15 mm)
+- Aislamiento PrimaLoft
+- Horma clásica
+- Peso: 540 g (talla 42 2/3)
 - Tecnología COLD.RDY y acabado que repele el agua
 - Suela Traxion
-- Horma clásica
-- Aislamiento PrimaLoft
-- Peso: 540 g (talla 42 2/3)
-- Drop: 10 mm (talón: 25 mm / antepié: 15 mm)
 - Forro textil
 - Empeine de ante
-- Contiene al menos un 20% de material reciclado y renovable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CKXZML6F{{</world>}}

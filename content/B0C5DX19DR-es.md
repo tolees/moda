@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- verano
 - Camiseta
+- verano
 - NASA
 
 [🛒 Comprar!!!]({{< param buyurl >}})

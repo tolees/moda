@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Pantalón estampado con cinturilla elástica y cordón regulable
-- Camiseta con manga caída
 - Pijama largo 100% algodón, de manga corta y pantalón largo, en color verde con estampado de Mickey Mouse
+- Camiseta con manga caída
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CP2S8ZLP{{</world>}}

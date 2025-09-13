@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Copa con aros y doble push-up
 - Dos botones y cinco posiciones.
 - Sujetador sin tirantes en color tierra.
-- Copa con aros y doble push-up
 - Dos juegos de tirantes (elásticos y silicona).
 
 [🛒 Visítala!!!]({{< param buyurl >}})

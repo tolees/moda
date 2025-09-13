@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- SENCILLO E INFORMAL: La camiseta básica de algodón es supercómoda y perfecta para looks más informales. El logotipo de Tommy Hilfiger en el pecho y la bandera en la manga completan el estilo.
 - PARA CUALQUIER OCASIÓN: La camiseta básica es supercómoda e ideal para el día a día o la oficina. La puedes llevar sola o debajo de un jersey, es la elección ideal para cualquier ocasión.
 - AJUSTE PERFECTO: Esta camiseta de manga corta de algodón suave tiene un diseño informal y favorece tu figura.
-- SENCILLO E INFORMAL: La camiseta básica de algodón es supercómoda y perfecta para looks más informales. El logotipo de Tommy Hilfiger en el pecho y la bandera en la manga completan el estilo.
 - CALIDAD DEMOSTRADA: Desde 1985, esta marca de diseñador lleva demostrando por todo el mundo la calidad y la ligereza mediante una gran variedad de diseños en los míticos colores azul oscuro, blanco y rojo.
 - MATERIAL Y CUIDADO: Camiseta de algodón 100 %. Se puede lavar a máquina y secar en secadora.
 

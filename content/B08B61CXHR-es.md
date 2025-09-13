@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Jersey largo de punto liso
+- Cuello en V
 - Tejido elástico
 - Manga larga
-- Cuello en V
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08B61CXHR{{</world>}}

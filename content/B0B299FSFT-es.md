@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Ancho del paquete del artículo: 26.0 cm
-- Altura del paquete del artículo: 9.329 cm
 - Longitud del paquete del artículo: 26.0 cm
+- Altura del paquete del artículo: 9.329 cm
 - Peso del paquete del artículo: 0.544 kg
 
 [🛒 Comprar!!!]({{< param buyurl >}})

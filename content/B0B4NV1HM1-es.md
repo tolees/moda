@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ancho del zapato: medio
 - Material exterior: poliéster
 - Material interior: sintético
+- Ancho del zapato: medio
 - Forma del tacón: sin tacón
 - Cierre: goma
 

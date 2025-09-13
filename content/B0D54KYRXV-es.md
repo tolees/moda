@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Logotipo de la marca en el pecho
 - Ofrece una comodidad óptima
+- Logotipo de la marca en el pecho
 - Con un tejido suave
 
 [🛒 Comprar!!!]({{< param buyurl >}})

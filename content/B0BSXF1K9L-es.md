@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Camisa de alta calidad para uso diario
 - Tira de botones
+- Camisa de alta calidad para uso diario
 - El pana es un tejido más pesado de algodón con costillas aterciopeladas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

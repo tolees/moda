@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Alta calidad
 - Marca: NIKE
 - Ofrece comodidad
+- Alta calidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B094DWLJJ3{{</world>}}

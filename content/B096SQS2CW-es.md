@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cierre: solapa
-- Material exterior: algodón
 - Material interior: algodón
+- Material exterior: algodón
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B096SQS2CW{{</world>}}

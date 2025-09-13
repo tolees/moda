@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ancho del zapato: mediano
 - Forma del tacón: plano
+- Ancho del zapato: mediano
 - Nivel de resistencia al agua: no impermeable
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

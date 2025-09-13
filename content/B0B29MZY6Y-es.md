@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Este producto es original Levis
-- Confección acolchada
 - Confección en franela cepillada supersuave
+- Confección acolchada
 - Aislamiento que aumenta su calidez
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Seis bolsillos: 2 bolsillos franceses; 2 bolsillos de fuelle con doble fuelle central, tapeta, velcro y tiradores, y 2 bolsillos traseros de parche con tapeta y velcro
-- Cierre central con cremallera y botón
 - Corte Slim Fit
+- Seis bolsillos: 2 bolsillos franceses; 2 bolsillos de fuelle con doble fuelle central, tapeta, velcro y tiradores, y 2 bolsillos traseros de parche con tapeta y velcro
 - Cinturilla elástica y doble costura de seguridad
+- Cierre central con cremallera y botón
 - Costuras con hilo de contraste
 
 [🛒 Aquí!!!]({{< param buyurl >}})

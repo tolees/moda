@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Mangas cortas
 - Camiseta deportiva
-- Ligera
 - Cuello redondo
+- Ligera
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08TMSK2ZY{{</world>}}

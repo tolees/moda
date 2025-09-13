@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Punto de canalé suave
-- Este producto es original Levis
 - Logotipo de Levis bordado
+- Este producto es original Levis
+- Punto de canalé suave
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B098QW8R2N{{</world>}}

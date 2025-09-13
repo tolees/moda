@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cuidados: lavar en agua fría; no usar lejía; no planchar; no meter en la secadora; no lavar en seco
-- El mensaje se divide entre ambos calcetines
-- Calcetines con mensaje
 - Disponibles en dos tallas: 35-38 y 39-41
+- Calcetines con mensaje
+- El mensaje se divide entre ambos calcetines
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CB1LJPLW{{</world>}}

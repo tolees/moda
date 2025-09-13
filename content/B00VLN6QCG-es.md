@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con tacto suave de forro polar
 - Tiene estampado la marca Levis
+- Con tacto suave de forro polar
 - Este producto es original Levis
 - Modelo casual
 

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Cierre de cremallera
 - Detalle acolchado
 - Bolsillos delanteros
-- Cierre de cremallera
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CL78QWGY{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Seis bolsillos: 2 bolsillos franceses, 2 bolsillos de parche con fuelle central, tapeta y velcro y 2 bolsillos traseros con tapeta y velcro
-- Pinzas
 - Costura trasera de seguridad
+- Seis bolsillos: 2 bolsillos franceses, 2 bolsillos de parche con fuelle central, tapeta y velcro y 2 bolsillos traseros con tapeta y velcro
 - Cinturilla elástica
+- Pinzas
 - Cierre central con cremallera y botón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
