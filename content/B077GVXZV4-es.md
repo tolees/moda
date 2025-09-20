@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Está confeccionada con algodón resistente muy fácil de llevar y de cuidar
 - Esta bolsa tote es perfecta para llevar cualquier cosa y resulta muy práctica
+- Está confeccionada con algodón resistente muy fácil de llevar y de cuidar
 - Con nuestro emblemático logo batwing
 
 [🛒 Comprar!!!]({{< param buyurl >}})

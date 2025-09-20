@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Puños con botón
 - Tiene el logo de Tommy Hilfiger bordado en el pecho
+- Puños con botón
 - Modelo casual
 
 [🛒 Aquí!!!]({{< param buyurl >}})

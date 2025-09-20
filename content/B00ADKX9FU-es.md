@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tirantes anchos para una mejor sujeción
-- Alto porcentaje de algodón que lo hace adaptable y transpirable
 - Copa B preformada sin aros
+- Alto porcentaje de algodón que lo hace adaptable y transpirable
+- Tirantes anchos para una mejor sujeción
 - Sujetador deportivo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Mangas: manga larga
 - Ajuste: corte ajustado
 - Tipo de producto: camisa vaquera
-- Mangas: manga larga
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07C62LR4W{{</world>}}

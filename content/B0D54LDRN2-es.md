@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Un suéter suave y clásico con cuello redondo que combina fácilmente con todo
 - Absolutamente perfecto
+- Un suéter suave y clásico con cuello redondo que combina fácilmente con todo
 - Diseñado para la comodidad, estilo y versatilidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})

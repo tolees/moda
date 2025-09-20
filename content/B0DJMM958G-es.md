@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuello redondo
+- Corte cómodo
 - Material de algodón respetuoso con la piel
 - Muy cómodo de llevar
+- Cuello redondo
 - Acabado de alta calidad
-- Corte cómodo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DJMM958G{{</world>}}

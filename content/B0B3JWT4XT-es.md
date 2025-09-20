@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ofrece comodidad y libertad de movimientos
 - Tejido que absorbe la humedad y permite la transpiración de la piel
+- Ofrece comodidad y libertad de movimientos
 - Costuras planas reductoras de fricción colocadas ergonómicamente para mejorar la movilidad
 - Tiene detalles distintivos de la marca
 

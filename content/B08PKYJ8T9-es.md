@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Punto doble 100% poliéster reciclado
 - Cuenta con 3 rayas en las mangas
-- Ofrece comodidad y libertad de movimiento
 - Ajuste regular
+- Punto doble 100% poliéster reciclado
+- Ofrece comodidad y libertad de movimiento
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08PKYJ8T9{{</world>}}

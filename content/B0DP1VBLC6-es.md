@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Este modelo ha obtenido el certificado vegano por la organización mundial PETA (Organización de los derechos de los animales)
 - [Nuestra Marca]: XTI se caracteriza por su moda urbana y funcional con calzado que combina las últimas tendencias con comodidad y versatilidad para un estilo de vida activo y moderno.
 - Alpargata de mujer tipo valenciana, de la marca Xti. Fabricado en un precioso motivo de crochet calado, combinado con una trasera de textil para mayor comodidad, será el protagonista de todos tus looks
 - Cuña de 8 cm de yute con suela de goma antideslizante. Cinta que sujeta al tobillo con hebilla metálica
-- Este modelo ha obtenido el certificado vegano por la organización mundial PETA (Organización de los derechos de los animales)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DP1VBLC6{{</world>}}

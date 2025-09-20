@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Fit: Slim
+- Manga larga
+- Estampado de flores arty
 - Cuello alto
 - Abertura trasera en el bajo
-- Estampado de flores arty
-- Manga larga
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B845HDMR{{</world>}}

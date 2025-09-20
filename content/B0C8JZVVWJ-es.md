@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Presentan detalles distintivos de la marca
 - Los zapatos pueden combinar con multitud de conjuntos
+- Presentan detalles distintivos de la marca
 - Artículo de marca Tommy Hilfiger
 
 [🛒 Aquí!!!]({{< param buyurl >}})

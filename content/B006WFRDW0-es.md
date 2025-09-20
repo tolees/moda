@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Calcetines NIKE NIKE CALCETINES 3PPK VALUE COTTON CREW SMLX WHITE/(BLACK)
-- 3PPK VALUE COTTON CREW SMLX Blanco L
 - Fitness -, Perfil: HOMBRE UNISEX, Material:, Color: White/(black)
+- 3PPK VALUE COTTON CREW SMLX Blanco L
+- Calcetines NIKE NIKE CALCETINES 3PPK VALUE COTTON CREW SMLX WHITE/(BLACK)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B006WFRDW0{{</world>}}

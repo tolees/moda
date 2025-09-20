@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ligeramente más largo en la parte posterior que en la parte delantera.
 - Blusa para mujer, cuello en V y bolsillos de parche en el pecho. Cuello y solapa de botón. Las mangas se pueden enrollar y cerrar con un botón.
+- Ligeramente más largo en la parte posterior que en la parte delantera.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B1F73KS6{{</world>}}

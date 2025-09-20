@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Gráfico de G-STAR RAW en el pecho
 - Etiqueta de G-STAR Originals tejida en la costura lateral inferior
+- Cuello acanalado
 - Una mirada original
 - Proporciona comodidad
-- Cuello acanalado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CKBZMXFN{{</world>}}

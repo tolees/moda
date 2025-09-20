@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Lente de plástico
+- Correa arcoíris de 8 pulgadas
+- Esfera blanca
 - Caja blanca de 41 mm
 - Resistente al agua hasta 50 metros
-- Esfera blanca
-- Correa arcoíris de 8 pulgadas
+- Lente de plástico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CRH1MRFW{{</world>}}

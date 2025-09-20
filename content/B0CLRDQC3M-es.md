@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Para uso diario
 - Prenda deportiva de vestir
+- Para uso diario
 - Diseño atractivo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

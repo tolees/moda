@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Modelo Unisex. Medidas: Frontal 145 mm; Patillas 140 mm ; Puente 17 mm ; Alto 47 mm
-- Montura en acetato de celulosa de alta calidad que aporta una máxima resistencia y durabilidad. Bisagra de 3 barras para un mayor agarre y durabilidad.
-- Producto Oficial Hawkers. Incluye: Funda en microfibra y caja.
 - Última tendencia en moda, esta gafa estilo cat-eye rectangular total black, trae una montura de acetato en acabado brillante y lentes negras polarizadas. En su frontal encontramos pins ornamentales en forma de media H que le aportan un toque distintivo al diseño.
+- Producto Oficial Hawkers. Incluye: Funda en microfibra y caja.
+- Montura en acetato de celulosa de alta calidad que aporta una máxima resistencia y durabilidad. Bisagra de 3 barras para un mayor agarre y durabilidad.
 - Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores. Lentes categoría 3 fabricadas con material bio tac polarizado y protección uv400.
+- Modelo Unisex. Medidas: Frontal 145 mm; Patillas 140 mm ; Puente 17 mm ; Alto 47 mm
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C2YZPKYZ{{</world>}}

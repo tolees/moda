@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Primaloft black eco
-- Helly tech protection
 - Cintura ajustable
 - Cremallera bidireccional ykk
+- Helly tech protection
+- Primaloft black eco
 - Artículos entregados: 1x helly hansen womens w boyne ins parka 2.0 - ins jacket ocean s
 
 [🛒 Comprar!!!]({{< param buyurl >}})

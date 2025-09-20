@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Camiseta ligera de manga corta
-- Logo J en el pecho
-- Joma en la espalda en printing 100%
 - Espalda y laterales confeccionados en tejido Micro Mesh elástico para maximizar la transpirabilidad
+- Joma en la espalda en printing 100%
+- Logo J en el pecho
+- Camiseta ligera de manga corta
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09TFR3CTK{{</world>}}

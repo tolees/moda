@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Composición del material: 50 % poliéster reciclado, 50 % poliéster
-- Proporciona el más alto nivel de comodidad
 - Corte regular
+- Proporciona el más alto nivel de comodidad
+- Composición del material: 50 % poliéster reciclado, 50 % poliéster
 - Aspecto clásico y elegante
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

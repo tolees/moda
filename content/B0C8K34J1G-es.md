@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con intrincado encaje floral
 - Tommy Hilfiger Marca:
+- Con intrincado encaje floral
 - Cintura elástica con patrón de logotipo de Tommy Hilfiger
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

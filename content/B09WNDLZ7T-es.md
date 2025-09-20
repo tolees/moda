@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fundamos la esencia del diseño mediterráneo hecho en Valencia.
-- Fabricamos nuestras prendas en materiales que se adaptan a cualquier cuerpo, en cualquier momento y circunstancia.
 - Manteniendo nuestras prendas contribuimos al medio ambiente y a la sostenibilidad de nuestro planeta.
+- Fabricamos nuestras prendas en materiales que se adaptan a cualquier cuerpo, en cualquier momento y circunstancia.
+- Fundamos la esencia del diseño mediterráneo hecho en Valencia.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09WNDLZ7T{{</world>}}

@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Horma clásica
-- Empeine de piel sintética y ante
-- Clásica puntera con forma de T
 - Cierre de cordones
 - Suela de goma
+- Horma clásica
+- Empeine de piel sintética y ante
 - Forro textil
+- Clásica puntera con forma de T
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DK6QMG2D{{</world>}}

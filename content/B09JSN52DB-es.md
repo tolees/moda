@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Chaqueta para hombre en estándar de la marca danesa JACK & JONES
-- Lavable a
-- Chaqueta Bomber
 - Composición: 100% poliéster
+- Lavable a
+- Chaqueta para hombre en estándar de la marca danesa JACK & JONES
+- Chaqueta Bomber
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09JSN52DB{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Logo umbro grande al frente de la camiseta de 100% algodón
 - Cuello redondo con línea de confort en la espalda del cuello
+- Logo umbro grande al frente de la camiseta de 100% algodón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07Q5BKTP6{{</world>}}

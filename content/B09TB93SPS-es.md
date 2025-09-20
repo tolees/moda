@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Confeccionada en poliéster fleece que aporta calidez y confort
 - Incluye bolsillos
+- Confeccionada en poliéster fleece que aporta calidez y confort
 - Puños y bajos en tejido rib para mejorar la confortabilidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})

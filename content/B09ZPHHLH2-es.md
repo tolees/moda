@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- chaychax
-- Azul claro
-- ChayChax Cute Shark Pantuflas, Super Soft Cloud Sliders para Mujeres y Hombres, Summer Quick Dry Open Toe Sandals, Pillow Beach Indoor Outdoor Pantuflas,Light Blue?88.5 EU
 - Talla 88.5 Reino Unido
+- Azul claro
+- chaychax
+- ChayChax Cute Shark Pantuflas, Super Soft Cloud Sliders para Mujeres y Hombres, Summer Quick Dry Open Toe Sandals, Pillow Beach Indoor Outdoor Pantuflas,Light Blue?88.5 EU
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09ZPHHLH2{{</world>}}

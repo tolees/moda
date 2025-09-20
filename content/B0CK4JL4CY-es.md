@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - 20 cm de altura x 39 cm de ancho x 18.5 de profundidad
+- De poliéster reciclado
 - 0.46 kg
 - Bolso pequeño (con correa de hombro extraíble)
 - Repelente al agua
-- De poliéster reciclado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CK4JL4CY{{</world>}}

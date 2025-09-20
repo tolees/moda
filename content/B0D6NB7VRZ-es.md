@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cuello pico
-- Jersey de 100% algodón liso
 - Puños y bajo en canale
+- Jersey de 100% algodón liso
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D6NB7VRZ{{</world>}}

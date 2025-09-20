@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Plantilla de poliuretano y helio
-- Adhesivos al agua
 - Confección vulcanizada
+- Adhesivos al agua
 - Empeines y cordones de algodón orgánico
 - Suela de goma reciclada
 

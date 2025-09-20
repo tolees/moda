@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- [Gafas de Sol D.Franklin] * Impact-resistant lenses * UV protection, UV 400 cat. 3 * TR90 rectangular frame * Cellulose Propionate temples, an hypoallergenic and more resistant Composición * Resistant cardboard box, microfiber protection pouch and stickers set * Metallic logo on both temples * Unisex style..
 - D. Franklin es una marca española referente para los amantes de la moda y los accesorios gracias a nuestro estilo único, calidad y compromiso medioambiental. Productos fabricados con materiales sostenibles y de alta calidad.
 - The Infinity collection has its own definition. A model of rectangular sunglasses that stands out for the infinite details of its frame and upper frame. Infinity Matte Black / G15 are a must have design. They have an elegant matte black finish along with the green tones of their lenses
 - D.Franklin Infinity Matte Black / G15 - Gafas de sol unisex con cristales de protección UV
+- [Gafas de Sol D.Franklin] * Impact-resistant lenses * UV protection, UV 400 cat. 3 * TR90 rectangular frame * Cellulose Propionate temples, an hypoallergenic and more resistant Composición * Resistant cardboard box, microfiber protection pouch and stickers set * Metallic logo on both temples * Unisex style..
 - Estilo y diseño vanguardista y atemporal inspirado en las últimas tendencias siendo siempre fieles a nuestra esencia. Por ello, D. Franklin se ha convertido en una marca referente y líder en el mercado.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

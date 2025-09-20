@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Forro textil
-- Tacto suave
-- Cierre de cordones
 - Plantilla Cloudfoam Comfort
+- Tacto suave
+- Forro textil
+- Cierre de cordones
 - Empeine de piel sintética
 - Horma clásica
 

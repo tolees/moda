@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Camisa de manga corta para hombre, cuello de solapa, botones continuos, corte ancho, tejido fluido
 - Manga corta, ajuste normal
+- Camisa de manga corta para hombre, cuello de solapa, botones continuos, corte ancho, tejido fluido
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CMV1V9Y4{{</world>}}

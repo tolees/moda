@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Machine Wash Cold Inside Out, Mild Wash
-- Desigual mujer - Chaqueta corta de mujer de borreguito diseñada por Mr. Christian Lacroix.
-- Diseñada por Mr. Christian Lacroix
-- Chaqueta corta de pelo de borreguito de colores diseñada por Mr. Christian Lacroix. Nueva colección Mujer OI21 Desigual.
 - Estampado de cenefas dibujadas por el mismo tejido de borreguito
+- Desigual mujer - Chaqueta corta de mujer de borreguito diseñada por Mr. Christian Lacroix.
+- Chaqueta corta de pelo de borreguito de colores diseñada por Mr. Christian Lacroix. Nueva colección Mujer OI21 Desigual.
+- Diseñada por Mr. Christian Lacroix
+- Machine Wash Cold Inside Out, Mild Wash
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08THL12HK{{</world>}}

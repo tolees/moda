@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello cálido
-- Manga larga
-- Tejido suave
-- Encantador vestido de invierno
 - Corte holgado
+- Manga larga
+- Cuello cálido
+- Encantador vestido de invierno
+- Tejido suave
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B076F4BZVW{{</world>}}

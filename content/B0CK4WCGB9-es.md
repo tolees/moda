@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ligeras y cómodas
 - Material Croslite totalmente moldeado
+- Ligeras y cómodas
 - Parte superior elegante con logo de Crocs
 
 [🛒 Comprar!!!]({{< param buyurl >}})

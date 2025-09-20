@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Diseño tradicional de 5 bolsillos
 - Cierre de cremallera
-- Cintura ajustable
 - Ajuste regular
+- Cintura ajustable
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07YCP5SKR{{</world>}}

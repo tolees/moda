@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con patrón de rayas
-- Efecto de purpurina
+- Cuello alto en aspecto plegable
 - Punto de viscosa acanalado
 - Las sutiles rayas brillantes dan a la camisa de manga larga un toque glamuroso.
-- Cuello alto en aspecto plegable
+- Con patrón de rayas
+- Efecto de purpurina
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C4Q9G2TJ{{</world>}}

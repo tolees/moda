@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Manga corta con estilo de cuello redondo
 - LÍDER EN CULTURA POP - Confía en la experiencia de Funko, el principal creador de mercancía de cultura pop que incluye figuras de vinilo, juguetes de acción, peluches, ropa, juegos de mesa y más.
-- REGALO PERFECTO PARA FANS DE JOHN WICK 3 - Ideal para festivos, cumpleaños o ocasiones especiales, esta camiseta exclusiva es una adición imprescindible a cualquier colección de mercancía de John Wick 3
+- Manga corta con estilo de cuello redondo
 - EXPANDE TU COLECCIÓN - Agrega esta camiseta única de John Wick a tu creciente colección Funko Pop! y busca otros objetos coleccionables raros y exclusivos para un conjunto completo
+- REGALO PERFECTO PARA FANS DE JOHN WICK 3 - Ideal para festivos, cumpleaños o ocasiones especiales, esta camiseta exclusiva es una adición imprescindible a cualquier colección de mercancía de John Wick 3
 - MUESTRA TU FANDOM CON ESTILO - Luce tu pasión con los productos oficialmente licenciados de Funko. Diseñado para cada aficionado de {parent_ip}. Llévalo a la universidad, colegio, trabajo, oficina o cualquier otro de tus viajes
 
 [🛒 Aquí!!!]({{< param buyurl >}})

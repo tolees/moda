@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bolsillos laterales con cremallera, bolsillo interior
 - Chaqueta con acabado mate y cremallera completa
+- Bolsillos laterales con cremallera, bolsillo interior
 - Cortavientos ligero e impermeable
 
 [🛒 Aquí!!!]({{< param buyurl >}})

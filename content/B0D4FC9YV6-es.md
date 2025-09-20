@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Contenido: 1x Columbia Camiseta Zero Rules Light SS Crew para Hombre, Color: City Grey (Gris), Talla: XXL
 - La manga corta Zero Rules es una camiseta ligera para actividades al aire libre con tecnología elástica y de refrigeración activada por el sudor
 - Ajuste activo que garantiza una total libertad de movimiento, 100% poliéster
 - Fabricado con Omni Freeze Zero: tecnología de refrigeración activada por el sudor para mantenerte fresco y seco.
-- Contenido: 1x Columbia Camiseta Zero Rules Light SS Crew para Hombre, Color: City Grey (Gris), Talla: XXL
 - Confort elástico, paneles laterales Omni Wick, ajuste moderno, uso versátil, esencial para el aire libre, ligero, marca Columbia,
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

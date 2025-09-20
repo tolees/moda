@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Suela plana y transpirable
 - Hebilla en la correa para ajustar el ajuste
 - Sandalia cómoda y a la moda
-- Suela plana y transpirable
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D6NKQ929{{</world>}}

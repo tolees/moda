@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Cuello redondo
-- Tirantes con logotipo en color de contraste
 - Corte normal
+- Tirantes con logotipo en color de contraste
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CB4FL8CB{{</world>}}

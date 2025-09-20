@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con un forro cálido
 - Presentan un estilo informal
+- Con un forro cálido
 - Impermeables y transpirables
 
 [🛒 Comprar!!!]({{< param buyurl >}})

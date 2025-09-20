@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Cremallera de un cuarto para cerrar o abrir la sudadera en función del aire.
 - Puños y bajo acanalados para garantizar la comodidad y la practicidad.
-- Talla del pecho: pequeña: 86-94 cm, mediana: 94-102 cm, grande: 102-110 cm, XL: 110-114 cm, XXL: 114 cm.
 - Mayores resistencia a las arrugas, durabilidad y retención del color; perfecta para practicar deporte.
+- Talla del pecho: pequeña: 86-94 cm, mediana: 94-102 cm, grande: 102-110 cm, XL: 110-114 cm, XXL: 114 cm.
 - Logotipo de Joma en la parte derecha del pecho.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

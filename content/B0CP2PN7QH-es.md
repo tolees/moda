@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- cómodo, adecuado para dormir y estar en casa sin perder tu toque de estilo
 - Pijama 100% algodón de manga corta y shorts corte recto
+- cómodo, adecuado para dormir y estar en casa sin perder tu toque de estilo
 - Camiseta de color rosa con cuello redondo, aperturas en laterales para adecuado comodidad y detalle de print en la parte frontal a contraste
 
 [🛒 Visítala!!!]({{< param buyurl >}})

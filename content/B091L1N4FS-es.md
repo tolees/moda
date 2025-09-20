@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ofrece comodidad y libertad de movimiento
 - Producto adecuado para los días de verano
 - Producto hecho con un material de calidad y resistente
+- Ofrece comodidad y libertad de movimiento
 - Tejido transpirable
 
 [🛒 Comprar!!!]({{< param buyurl >}})

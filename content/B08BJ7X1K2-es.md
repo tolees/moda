@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- La parte superior se puede combinar bien
 - Camisa para hombre en estándar
 - Ajuste: corte ajustado
-- La parte superior se puede combinar bien
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08BJ7X1K2{{</world>}}

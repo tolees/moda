@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Presentan un estilo casual
 - Transpirables y cómodas
+- Presentan un estilo casual
 - Detalles distintivos de la marca
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

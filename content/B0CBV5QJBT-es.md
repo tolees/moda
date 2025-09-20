@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tejido ligero y suave
-- Presenta un estilo casual
 - Corte holgado
+- Presenta un estilo casual
+- Tejido ligero y suave
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CBV5QJBT{{</world>}}

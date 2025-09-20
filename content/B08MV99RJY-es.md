@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Jack & Jones Camiseta Oxford de manga larga
-- Regular
 - 100% algodón
+- Regular
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08MV99RJY{{</world>}}

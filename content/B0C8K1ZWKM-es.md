@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Artículo de marca Tommy Hilfiger
 - Los zapatos pueden combinar con multitud de conjuntos
 - Presentan detalles distintivos de la marca
+- Artículo de marca Tommy Hilfiger
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C8K1ZWKM{{</world>}}

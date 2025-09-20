@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Hecho de algodón suave
+- De manga corta
 - Tela elástica para mayor comodidad
 - Camiseta con cuello dividido para hombre
 - Durabilidad con material sostenible
-- De manga corta
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B083ZSYXV1{{</world>}}

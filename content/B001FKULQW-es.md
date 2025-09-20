@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Acabado hidrófugo duradero
-- Capucha de una pieza
 - Tejido de poliéster Hydrafort impermeable
+- Capucha de una pieza
 - Costuras selladas
 - Puños elásticos
 

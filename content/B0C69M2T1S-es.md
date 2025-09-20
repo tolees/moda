@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela: Caucho
 - Forma del talón: plano
+- Parte superior: cuero
+- Suela: Caucho
 - Material interior: sintético
 - Cierre: cordones
-- Parte superior: cuero
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C69M2T1S{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Tejido ligero y suave
 - Presenta un estilo casual
 - Corte holgado
-- Tejido ligero y suave
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CBV5B93C{{</world>}}

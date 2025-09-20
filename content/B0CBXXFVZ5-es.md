@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- - Mangas: manga corta
 - - Cuello: cuello redondo
+- - Mangas: manga corta
 - Composición del material: 100% algodón
 - - Tipo de producto: Camiseta
 

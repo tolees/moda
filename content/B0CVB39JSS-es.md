@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ajuste cómodo
 - Diseño icónico
 - Material transpirable
+- Ajuste cómodo
 - Ropa de aventura para todos los días
 - Calidad prémium
 

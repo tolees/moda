@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Material resistente y duradero
-- Diseño ligero
 - El material ofrece una comodidad óptima
+- Diseño ligero
 - Marca del producto: Joma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

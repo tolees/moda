@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Cierres de botón a presión a lo largo
 - Parche con logotipo de Calvin Klein en la parte superior del brazo
 - Mangas largas + cuello alto
 - Bolsillos deslizantes en ambos lados
-- Cierres de botón a presión a lo largo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BTDYNKT3{{</world>}}

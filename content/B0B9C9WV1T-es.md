@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Elige la talla Crocs ideal: Crocs usa tallas de EE. UU. en la suela; las tallas del Reino Unido siguen una conversión de talla única (por ejemplo, M5 de EE. UU. | W7 corresponde a M4 | W5). Si normalmente usas media talla, te recomendamos pedir una talla más grande
 - Obtén el ajuste correcto: Crocs se adapta a las tallas de EE. UU. en la suela. Asegúrate de que estás en el punto con la conversión, consulta nuestra tabla de tallas a continuación
+- Elige la talla Crocs ideal: Crocs usa tallas de EE. UU. en la suela; las tallas del Reino Unido siguen una conversión de talla única (por ejemplo, M5 de EE. UU. | W7 corresponde a M4 | W5). Si normalmente usas media talla, te recomendamos pedir una talla más grande
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B9C9WV1T{{</world>}}

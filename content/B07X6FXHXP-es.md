@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Dobladillos cosidos
 - Cuello redondo
 - Manga corta
-- Dobladillos cosidos
 - Composición: 48% algodón, 47% algodón orgánico, 5% elastano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

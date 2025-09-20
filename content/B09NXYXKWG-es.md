@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- A lo largo de las décadas, GUESS ha cautivado al mundo entero con sus campañas publicitarias icónicas y ha forjado un auténtico imperio internacional de perfumes emblemáticos.
-- GUESS Seductive Red es un perfume cuyas notas de salida se basan en almendra, cereza y pimienta rosa. Su corazón contiene acordes florales que revelan una base de habas tonka, madera y vainilla.
-- La Bruma Perfumada GUESS Seductive Red es un perfume gourmand para mujer, lleno de pasión, sensualidad y audacia. Encarnan a la GUESS Girl definitiva.
 - Presentada en un frasco cilíndrico moderno de 250 ml, ligero y elegante, esta bruma es ideal para el uso diario o cuando se está de viaje. Su diseño refleja el calor y la tentación.
+- A lo largo de las décadas, GUESS ha cautivado al mundo entero con sus campañas publicitarias icónicas y ha forjado un auténtico imperio internacional de perfumes emblemáticos.
+- La Bruma Perfumada GUESS Seductive Red es un perfume gourmand para mujer, lleno de pasión, sensualidad y audacia. Encarnan a la GUESS Girl definitiva.
+- GUESS Seductive Red es un perfume cuyas notas de salida se basan en almendra, cereza y pimienta rosa. Su corazón contiene acordes florales que revelan una base de habas tonka, madera y vainilla.
 - GUESS Seductive Red es un perfume para mujer con un poder altamente seductor, que evoca el calor, la tentación y las temperaturas que suben.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

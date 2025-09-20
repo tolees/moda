@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Ligero, Encaje clasico, Manga de doble puntada y bastilla baja
-- 16STRW749
 - Officially Licensed Star Wars Apparel
+- 16STRW749
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08KYJ6J94{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cómoda de llevar
 - Camiseta de tirantes para mujer
+- Cómoda de llevar
 - Indicada específicamente para running
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

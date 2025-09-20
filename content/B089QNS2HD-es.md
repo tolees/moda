@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Logotipo icónico PUMA No1 en estampado completo
 - Cinturilla cómoda
 - Explora nuestra gama de productos
-- Logotipo icónico PUMA No1 en estampado completo
 - Tejido suave al tacto
 
 [🛒 Visítala!!!]({{< param buyurl >}})

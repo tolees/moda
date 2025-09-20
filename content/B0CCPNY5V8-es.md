@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- regular fit
 - Polo de piqué regular fit confeccionado en 1% algodón con bordado de árbol en el pecho
 - polo de piqué
+- regular fit
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CCPNY5V8{{</world>}}

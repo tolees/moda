@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- corte ajustado
-- fuelle forrado
 - Tejido Infinitex Fitness Eco resistente al cloro
+- fuelle forrado
+- corte ajustado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09GVSVBLN{{</world>}}

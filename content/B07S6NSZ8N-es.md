@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tiras acolchada de piel sintética
 - Logotipo PUMA N.º 1 en las tiras
+- Tiras acolchada de piel sintética
 - Suela de EVA inyectada para mayor suavidad y comodidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})

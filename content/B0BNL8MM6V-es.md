@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Costura plana en la punta
 - Calcetines elásticos
+- Costura plana en la punta
 - Paquete de 3 pares de calcetines
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Regular fit
 - Kangaroo pocket
 - Soft fabric
-- Regular fit
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07KD71TYM{{</world>}}

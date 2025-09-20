@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- suelto
 - Camiseta básica
+- suelto
 - Camiseta
 - Algodón orgánico
 

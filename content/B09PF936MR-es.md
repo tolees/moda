@@ -28,15 +28,15 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CAJA DE LUZ LED - Muestra a María en su decorativa caja de luz LED multicolor. El botón de la izquierda enciende la caja. Para que las pilas no se gasten rápidamente, la luz se apaga después de 40 segundos si no detecta movimiento (Pilas incluidas)
-- RAINBOW HIGH CELEBRA EL DÍA DE LOS MUERTOS – Nuestra muñeca de coleccionista honra la herencia y las tradiciones del Día de los Muertos con su hermoso vestido bordado, su elaborada diadema, su bolso de calavera y sus accesorios de moda de primera calidad
-- VER EN YOUTUBE Y NETFLIX - Conoce a los amigos de María de Rainbow High, en la serie de animación en YouTube y Netflix. Solo tienes que buscar "Rainbow High Dolls" o "Shadow High Dolls"
-- LOOK A MEDIDA - María diseñó su propio vestido y bolso de calavera para celebrar la fiesta. Lleva un vestido rojo de estilo sirena, con bordados de flores, lentejuelas y pedrería, y cuerpo de encaje negro, con organza debajo para darle más volumen
 - LA MUÑECA PUEDE POSAR - María está totalmente articulada, sus brazos y piernas se doblan para que pose de muchas maneras. También puedes exhibirla en el soporte incluido
 - ACCESORIOS - Botas hasta la rodilla con hebillas doradas y un sombrero de fieltro con flores y bordados dorados. El bolso de calavera, único en su género, se abre en la parte superior con un asa de cuero y se cierra con un diamante brillante.
-- PARA SU EXPOSICIÓN - Viene en un soporte de plástico transparente para mantenerla intacta y se puede exponer con o sin él. Siga las instrucciones para retirar el soporte de plástico sin dañar su muñeca
-- PELO MULTICOLOR - Su pelo es tan impresionante como su look; tiene una larga melena púrpura que se puede cepillar, con una fina trenza en la parte superior. Lleva el pelo recogido para mostrar su cara pintada del Día De Los Muertos
+- LOOK A MEDIDA - María diseñó su propio vestido y bolso de calavera para celebrar la fiesta. Lleva un vestido rojo de estilo sirena, con bordados de flores, lentejuelas y pedrería, y cuerpo de encaje negro, con organza debajo para darle más volumen
 - PINTURA DE CARA Y BODY DE ESQUELETO - Rinde homenaje a la tradición de esta celebración especial. Lleva un body de esqueleto debajo de su vestido, junto con joyas para las manos en forma de esqueleto y un par de pendientes inspirados en una calavera
+- CAJA DE LUZ LED - Muestra a María en su decorativa caja de luz LED multicolor. El botón de la izquierda enciende la caja. Para que las pilas no se gasten rápidamente, la luz se apaga después de 40 segundos si no detecta movimiento (Pilas incluidas)
+- VER EN YOUTUBE Y NETFLIX - Conoce a los amigos de María de Rainbow High, en la serie de animación en YouTube y Netflix. Solo tienes que buscar "Rainbow High Dolls" o "Shadow High Dolls"
+- RAINBOW HIGH CELEBRA EL DÍA DE LOS MUERTOS – Nuestra muñeca de coleccionista honra la herencia y las tradiciones del Día de los Muertos con su hermoso vestido bordado, su elaborada diadema, su bolso de calavera y sus accesorios de moda de primera calidad
+- PELO MULTICOLOR - Su pelo es tan impresionante como su look; tiene una larga melena púrpura que se puede cepillar, con una fina trenza en la parte superior. Lleva el pelo recogido para mostrar su cara pintada del Día De Los Muertos
+- PARA SU EXPOSICIÓN - Viene en un soporte de plástico transparente para mantenerla intacta y se puede exponer con o sin él. Siga las instrucciones para retirar el soporte de plástico sin dañar su muñeca
 - CAJA EXCLUSIVA - El Día De Los Muertos se celebra con una lujosa caja con una preciosa ilustración en la parte delantera, con una cinta dorada y una flor de caléndula. Desata la cinta y tira de la parte delantera del imán para descubrir la muñeca
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

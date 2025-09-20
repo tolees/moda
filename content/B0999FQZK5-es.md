@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Camiseta arty cuentas
 - Regular fit
+- Estampado fotográfico
 - Crop
 - Pendientes realizados en cuentas bordadas
-- Estampado fotográfico
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0999FQZK5{{</world>}}

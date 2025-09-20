@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fabricados en material cómodo
 - Detalles distintivos de la marca
+- Fabricados en material cómodo
 - Calcetines elásticos
 - Paquete de tres pares
 

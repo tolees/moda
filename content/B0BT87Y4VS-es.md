@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Sudadera con tejido suave y resistente
-- Ajuste ligero
 - Tiene detalles distintivos de la marca
+- Ajuste ligero
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BT87Y4VS{{</world>}}

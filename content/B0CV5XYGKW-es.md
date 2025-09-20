@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Camiseta de mujer semientallada, si quieres que te quede holgada, pide una talla más.
-- 100% algodón orgánico
 - Hecho en España
+- 100% algodón orgánico
 - Algodón orgánico de calidad de 175 gsm, suave al tacto y elástico para que sea cómoda de llevar.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

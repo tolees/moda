@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Jeans, ajuste delgado, asiento de cintura media, trabillas para cinturón,
 - Los productos internacionales tienen términos separados, se venden desde el extranjero y pueden diferir de los productos locales, incluyendo ajuste, calificaciones de edad e idioma del producto, etiquetado o instrucciones.
+- Jeans, ajuste delgado, asiento de cintura media, trabillas para cinturón,
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09DT9MDYX{{</world>}}

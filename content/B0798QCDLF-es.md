@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Costuras selladas
-- Acabado hidrófugo duradero
-- Tejido en poliamida muy ligero, impermeable y transpirable Isolite 5.000
 - Sin forro
+- Costuras selladas
+- Tejido en poliamida muy ligero, impermeable y transpirable Isolite 5.000
+- Acabado hidrófugo duradero
 - Indice de transpirabilidad 5.000g/m2/24 hr
 
 [🛒 Aquí!!!]({{< param buyurl >}})

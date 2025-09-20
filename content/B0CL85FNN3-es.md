@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bolsillos traseros, bolsillo para monedas, bolsillos delanteros
 - Corte relajado con cintura alta
+- Bolsillos traseros, bolsillo para monedas, bolsillos delanteros
 - Ancho cómodo en los muslos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Medidas: Frontal 130 mm; Patillas 145 mm ; Puente 21 mm ; Alto 49 mm. Modelo Unisex
-- Producto original Hawkers. La caja incluye funda en microfibra y caja
-- Montura en acero inoxidable libre de níquel que las hace altamente resistentes a la corrosión y mucho más fuertes. Almohadillas de silicona ajustables.
 - Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores. Lentes categoría 3 fabricadas con material bio tac polarizado y protección uv400.
+- Medidas: Frontal 130 mm; Patillas 145 mm ; Puente 21 mm ; Alto 49 mm. Modelo Unisex
+- Montura en acero inoxidable libre de níquel que las hace altamente resistentes a la corrosión y mucho más fuertes. Almohadillas de silicona ajustables.
 - Un modelo redondo y metálico con lentes polarizadas de color gris oscuro. La montura de acero inoxidable negro tiene detalles punteados a lo largo de los aros y el puente, y las puntas de los terminales negros brillantes hacen juego con la montura.
+- Producto original Hawkers. La caja incluye funda en microfibra y caja
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09NYDLHYZ{{</world>}}

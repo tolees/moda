@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con un encaje elástico y transparente que se asienta suavemente sobre la piel
-- Encaje con los bordes festoneados para que no se note debajo de la ropa ajustada
 - Diseñado con un corte bajo y un silueta sugerente que favorece tus curvas
+- Encaje con los bordes festoneados para que no se note debajo de la ropa ajustada
+- Con un encaje elástico y transparente que se asienta suavemente sobre la piel
 - Una marca de Amazon
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

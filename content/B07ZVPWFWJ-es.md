@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Soft jersey
-- Manga corta
 - Ajuste regular
+- Manga corta
 - Machine wash
 - Estampado gráfico en el pecho
 

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Detalles distintivos de la marca
-- Ajuste regular
 - Tejido ligero y suave
 - Amplia libertad de movimiento
+- Ajuste regular
+- Detalles distintivos de la marca
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07KD8FL91{{</world>}}

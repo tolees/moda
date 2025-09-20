@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Elástico y ligero
-- Tejido transpirable
 - De tirantes
+- Tejido transpirable
 - óptimo para hacer running
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

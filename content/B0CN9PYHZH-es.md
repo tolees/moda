@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ofrece una comodidad óptima
 - Tiene tirantes ajustables
+- Ofrece una comodidad óptima
 - Detalles de tul en la zona del escote
 
 [🛒 Comprar!!!]({{< param buyurl >}})

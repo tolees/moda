@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Artículos entregados: 1x helly hansen mens crew insulator jacket 2.0 - insulator navy m
 - Primaloft black
+- Artículos entregados: 1x helly hansen mens crew insulator jacket 2.0 - insulator navy m
 - Cremallera ykk
-- Bolsillos con forro interior cepillado
 - Bolsillo en el pecho con cremallera ykk
+- Bolsillos con forro interior cepillado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08LYYQKRD{{</world>}}

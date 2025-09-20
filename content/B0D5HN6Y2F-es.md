@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Corte con un ajuste relajado
 - Para nuestros amantes vintage: teñimos esta pieza para darle ese aspecto vivo y una sensación de rota
+- Corte con un ajuste relajado
 - Una sudadera con capucha de inspiración vintage
 
 [🛒 Visítala!!!]({{< param buyurl >}})
