@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuenta con bolsillos laterales y cremallera en el bajo
 - Pantalón largo con corte skinny con cintura elástica ajustable mediante cordón
+- Cuenta con bolsillos laterales y cremallera en el bajo
 - Logotipo bordado y joma serigrafiado
 - Ajuste cómodo que ofrece flexibilidad
 

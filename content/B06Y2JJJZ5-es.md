@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Talla 10OZ con un ajuste más pequeño estudiado para el uso femenino
 - Excelentes para hacer llaves a corta distancia como en el Muay Thai y el K3
 - Relleno moldeado en la parte superior
+- Talla 10OZ con un ajuste más pequeño estudiado para el uso femenino
 - Guantes para todos los deportes de ring
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

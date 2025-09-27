@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material de la suela: Sintético
 - Tipo de tacón: Plano
 - Material exterior: Sintético
+- Material de la suela: Sintético
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B096KRDXTD{{</world>}}

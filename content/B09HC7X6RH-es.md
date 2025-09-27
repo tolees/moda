@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Ajuste regular
 - 70% de algodón, 30% de vellón de poliéster reciclado
 - Puños acanalados y dobladillo
-- Ajuste regular
 - Cabecilla
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

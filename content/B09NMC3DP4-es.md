@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Tipo de tacón: Plano
-- Material exterior: Sintético
 - Material de la suela: Sintético
+- Material exterior: Sintético
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09NMC3DP4{{</world>}}

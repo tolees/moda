@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Holgado en el pecho y entallado en la cintura
 - Una marca de Amazon
+- Holgado en el pecho y entallado en la cintura
 - Cotone leggero, durevole e morbido
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

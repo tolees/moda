@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseño oversized retro Total Black con forma hexagonal y lentes polarizadas negras. Sus varillas presentan un especial juego de líneas dando como resultado las varillas más especiales que hemos hecho hasta ahora.
 - Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores. Lentes categoría 3 fabricadas con material bio tac polarizado y protección uv400.
-- Modelo Unisex. Medidas: Frontal 147 mm; Patillas 145 mm ; Puente 20 mm ; Alto 53 mm
-- Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Bisagra de 3 barras para un mayor agarre y durabilidad.
 - Producto original Hawkers. La caja incluye funda en microfibra y caja
+- Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Bisagra de 3 barras para un mayor agarre y durabilidad.
+- Diseño oversized retro Total Black con forma hexagonal y lentes polarizadas negras. Sus varillas presentan un especial juego de líneas dando como resultado las varillas más especiales que hemos hecho hasta ahora.
+- Modelo Unisex. Medidas: Frontal 147 mm; Patillas 145 mm ; Puente 20 mm ; Alto 53 mm
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CC2RKLS4{{</world>}}

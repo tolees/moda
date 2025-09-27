@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- En el interior incorpora una rejilla de Micro-Mesh para aumentar la transpirabilidad
 - Material resistente y duradero
+- En el interior incorpora una rejilla de Micro-Mesh para aumentar la transpirabilidad
 - Chubasquero abierto con cremallera, incluye bolsillos y capucha ajustable mediante cordón elástico
 - Logotipo en tejido reflectante para aumentar la visibilidad del deportista
 

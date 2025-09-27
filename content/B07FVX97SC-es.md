@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Sutil estampado de microcuadros
-- Chaqueta de traje de estilo clásico
 - Adecuado para combinar con cualquier prenda
+- Chaqueta de traje de estilo clásico
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07FVX97SC{{</world>}}

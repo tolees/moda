@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Camiseta
 - Cómodo
-- algodón
 - Estampado
+- algodón
+- Camiseta
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08Y74TYXC{{</world>}}

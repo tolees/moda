@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Presentan un estilo casual
-- Con trabillas para el cinturón
 - Detalles distintivos de la marca
+- Con trabillas para el cinturón
+- Presentan un estilo casual
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CNK1KWWL{{</world>}}

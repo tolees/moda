@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- De poliéster reciclado
-- Repelente al agua
 - 0.46 kg
+- Repelente al agua
 - Bolso pequeño (con correa de hombro extraíble)
+- De poliéster reciclado
 - 20 cm de altura x 39 cm de ancho x 18.5 de profundidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

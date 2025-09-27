@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sujetador sin tirantes en color tierra.
 - Lado con borde de silicona y barra en el lateral para más.
+- Sujetador sin tirantes en color tierra.
 - Copa con aros y doble push-up
 - Dos botones y cinco posiciones.
 - Dos juegos de tirantes (elásticos y silicona).

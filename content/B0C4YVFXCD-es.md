@@ -29,11 +29,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Corte regular
-- Piqué de poliéster 100% reciclado
-- Aeroready
-- Tejido transpirable
-- Forma para libertad de movimiento
 - Cremallera de un cuarto con cuello alto
+- Tejido transpirable
+- Aeroready
+- Forma para libertad de movimiento
+- Piqué de poliéster 100% reciclado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C4YVFXCD{{</world>}}

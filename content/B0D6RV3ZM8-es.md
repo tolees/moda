@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Camiseta de tirantes de punto, de color rojo con motivo estampado para niña. Colección Rockin the Jungle.
 - Lavar a máquina max. 30ºC ciclo delicado, no usar lejia, no secar en secadora, secar tendido o colgado, planchar a 110ºC max, no lavar en seco
+- Camiseta de tirantes de punto, de color rojo con motivo estampado para niña. Colección Rockin the Jungle.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D6RV3ZM8{{</world>}}

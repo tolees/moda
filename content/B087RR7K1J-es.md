@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Logotipo de la firma: nuestro Logotipo de la firma Columbia aparece en la parte frontal del pecho para el estilo añadido
-- Camisa manga corta
 - Tela confortable: 100% algodón
+- Camisa manga corta
+- Logotipo de la firma: nuestro Logotipo de la firma Columbia aparece en la parte frontal del pecho para el estilo añadido
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B087RR7K1J{{</world>}}

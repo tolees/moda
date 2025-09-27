@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con cordón en la cintura
 - Forro ligero y con capucha
+- Con cordón en la cintura
 - Una sensación agradable y suave al tacto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

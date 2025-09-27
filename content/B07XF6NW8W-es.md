@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bolsillos laterales, con porcentaje de algodón
 - Cremallera oculta en la parte delantera, botones de presión adicionales
+- Bolsillos laterales, con porcentaje de algodón
 - Chaqueta corta con capucha, mangas largas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Polo de piqué regular fit confeccionado en 1% algodón con bordado de árbol en el pecho
-- regular fit
 - polo de piqué
+- regular fit
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CCPNQCDF{{</world>}}

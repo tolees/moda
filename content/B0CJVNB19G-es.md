@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 100% algodón
 - Camiseta de manga corta con cuello redondo con rib. gráficos bordados con lentejuelas y tul. Regular Fit
+- 100% algodón
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CJVNB19G{{</world>}}

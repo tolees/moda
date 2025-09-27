@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Revestimiento: Sin forro
-- Material de la suela: Goma
 - Material exterior: Caucho
-- Tipo de tacón: Plano
 - Cierre: Sin cordones
+- Material de la suela: Goma
+- Revestimiento: Sin forro
+- Tipo de tacón: Plano
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B000W8AMRG{{</world>}}

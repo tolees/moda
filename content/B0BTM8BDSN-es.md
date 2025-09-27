@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Tela suave
-- Detalles distintivos de la marca
 - Forro polar interior
+- Detalles distintivos de la marca
 - Sudadera con tejido suave
 
 [🛒 Aquí!!!]({{< param buyurl >}})

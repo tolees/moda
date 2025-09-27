@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estampado gráfico en la parte delantera
 - Una mirada original
-- Bajo recto
+- Estampado gráfico en la parte delantera
 - Cuello acanalado
+- Bajo recto
 - Proporciona comodidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

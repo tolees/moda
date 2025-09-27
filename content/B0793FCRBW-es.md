@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Forro polar con efecto acanalado
-- Ribete elástico en el dobladillo
 - Paneles laterales de forro polar negro
 - Trampa de aire 300 g/m²
+- Forro polar con efecto acanalado
+- Ribete elástico en el dobladillo
 - Cremallera frontal completa / 3 bolsillos con cremallera
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 21 Alto x 34 Ancho x 18.5 Fondo cm
-- 100% Poliéster
 - 0.46 kg
 - Bolso
+- 100% Poliéster
+- 21 Alto x 34 Ancho x 18.5 Fondo cm
 - Hidrófugo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

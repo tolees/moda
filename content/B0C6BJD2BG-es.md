@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tejido refrigerante Omni-freeze zero activado por el sudor para mantenerte fresco cuando más sudes
 - Contenido: 1x Columbia Hombre Camiseta de manga corta, Zero Rules, Color: Verde (Cloudburst), Talla: XS, Art.: 1533313
-- Camiseta de manga corta para hombres, Tecnología de protección solar UPF 50
 - La tecnología Omni-Wick extrae la humedad del cuerpo
+- Camiseta de manga corta para hombres, Tecnología de protección solar UPF 50
+- Tejido refrigerante Omni-freeze zero activado por el sudor para mantenerte fresco cuando más sudes
 - Adecuado para actividades al aire libre, Puede ser usado todo el año
 
 [🛒 Visítala!!!]({{< param buyurl >}})

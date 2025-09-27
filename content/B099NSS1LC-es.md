@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Flaco
 - Largo hasta el tobillo
+- Flaco
 - Cintura media
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

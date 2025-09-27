@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Refuerzo en la puntera
 - Con trabilla para calzar
 - Impermeables y transpirables
+- Refuerzo en la puntera
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CPQ7CVHF{{</world>}}

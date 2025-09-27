@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tripulación
 - Logotipo icónico
+- Tripulación
 - Corte
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

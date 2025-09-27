@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gafa con montura de color verde oliva en acetato pulido transparente y pins frontales en forma de media H a ambos lados de su frontal. Su doble puente le aporta un toque sofisticado y sus lentes polarizadas de color verde cocodrilo complementan este diseño aviador.
-- Montura en acetato de celulosa de alta calidad que aporta una máxima resistencia y durabilidad. Bisagra de 3 barras para un mayor agarre y durabilidad.
 - Producto Oficial Hawkers. Incluye: Funda en microfibra y caja.
+- Gafa con montura de color verde oliva en acetato pulido transparente y pins frontales en forma de media H a ambos lados de su frontal. Su doble puente le aporta un toque sofisticado y sus lentes polarizadas de color verde cocodrilo complementan este diseño aviador.
 - Modelo Unisex. Medidas: Frontal 141 mm; Patillas 145 mm ; Puente 20 mm ; Alto 52 mm.
+- Montura en acetato de celulosa de alta calidad que aporta una máxima resistencia y durabilidad. Bisagra de 3 barras para un mayor agarre y durabilidad.
 - Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores. Lentes categoría 3 fabricadas con material bio tac polarizado y protección uv400.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Capucha extraíble
+- Artículos entregados: 1x helly hansen mens tromsoe jacket - ins jacket navy l
 - Aislamiento soplable sintético
 - Ykk vislon
-- Capucha extraíble
 - Tratamiento repelente al agua duradero (dwr)
-- Artículos entregados: 1x helly hansen mens tromsoe jacket - ins jacket navy l
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09KX32VQJ{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- óptima para llevar a capas con un tejido ribeteado con textura
 - Este producto es original Levis
+- óptima para llevar a capas con un tejido ribeteado con textura
 - Nos hemos unido a la Better Cotton Initiative para mejorar el cultivo de algodón en todo el mundo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

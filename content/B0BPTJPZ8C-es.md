@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Calcetines unisex
-- Paquete de tres pares
 - Estructura suave
+- Paquete de tres pares
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BPTJPZ8C{{</world>}}

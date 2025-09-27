@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Blusa de manga larga Con volumen
-- Con escote en uve
-- Con detalles bordados en el escote en el canesú y en las mangas
 - Con cuerpo Con volumen
+- Con detalles bordados en el escote en el canesú y en las mangas
+- Con escote en uve
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C9JTWTWC{{</world>}}

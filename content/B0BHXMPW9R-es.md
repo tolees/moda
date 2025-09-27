@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Chaqueta Softshell
 - Ideal para entretiempo
 - Bolsillos laterales con cremallera
+- Chaqueta Softshell
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BHXMPW9R{{</world>}}

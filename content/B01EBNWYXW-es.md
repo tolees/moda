@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Material reflectante
+- Dos bolsillos con cremallera
 - Alta calidad
 - Costuras elásticas de contraste en cuello, puños y dobladillo
 - Cubre barbillas de tricot
-- Dos bolsillos con cremallera
-- Material reflectante
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01EBNWYXW{{</world>}}

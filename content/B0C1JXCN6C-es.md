@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Revestimiento: Tela
 - Material de la suela: Caucho
 - Cierre: Cordones
-- Revestimiento: Tela
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C1JXCN6C{{</world>}}

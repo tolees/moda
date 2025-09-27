@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseño moderno
 - Producto ligero y cómodo
+- Diseño moderno
 - Material transpirable
 - Se adapta a cualquier actividad deportiva
 

@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Plantilla de EVA
-- Diseño acolchado
-- Forro textil
-- Parte superior de piel sintética
-- Horma clásica
 - Cierre de cordones
+- Plantilla de EVA
+- Horma clásica
+- Parte superior de piel sintética
+- Forro textil
+- Diseño acolchado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09NL4QJKM{{</world>}}

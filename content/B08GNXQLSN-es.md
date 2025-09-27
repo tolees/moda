@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Officially Licensed Marvel Apparel
 - Ligero, Encaje clasico, Manga de doble puntada y bastilla baja
+- Officially Licensed Marvel Apparel
 - 15MARV783WA
 
 [🛒 Aquí!!!]({{< param buyurl >}})

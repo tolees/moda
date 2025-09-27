@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Inspirada en uno de nuestros iconos, estas gafas de sol estilo cat-eye rectangular poseen una montura de acetato ECO en acabado brillante de color blanco algodón y pins ornamentales en forma de media H en ambos lados de su frontal. Incorpora lentes polarizadas de color marrón.
-- Producto Oficial Hawkers. Incluye: Funda en microfibra y caja.
-- Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores. Lentes categoría 3 fabricadas con material bio tac polarizado y protección uv400.
 - Montura en acetato de celulosa de alta calidad que aporta una máxima resistencia y durabilidad. Bisagra de 3 barras para un mayor agarre y durabilidad.
+- Inspirada en uno de nuestros iconos, estas gafas de sol estilo cat-eye rectangular poseen una montura de acetato ECO en acabado brillante de color blanco algodón y pins ornamentales en forma de media H en ambos lados de su frontal. Incorpora lentes polarizadas de color marrón.
+- Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores. Lentes categoría 3 fabricadas con material bio tac polarizado y protección uv400.
+- Producto Oficial Hawkers. Incluye: Funda en microfibra y caja.
 - Modelo Unisex. Medidas: Frontal 145 mm; Patillas 140 mm ; Puente 17 mm ; Alto 47 mm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Marca: Tous
 - Color: beige
-- Material: poliuretano 100%
 - Medidas: 12 x 32 x 21 cm
+- Material: poliuretano 100%
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09K6SZTVV{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Este artículo queda pequeño, elige una talla más de tu talla habitual
 - Sin estilo de presentación
+- Este artículo queda pequeño, elige una talla más de tu talla habitual
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B071FQQ7WR{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sujetador interno
 - Omni-Wick elimina la humedad del cuerpo para que el sudor pueda evaporarse rápidamente.
+- Sujetador interno
 - Encuadernación en la sisa.
 - Encuadernación en el cuello
 

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- HOTCAT Camiseta de tirantes para hombre, camiseta con estampado de chalecos, chaleco sin mangas, camiseta musculosa, camiseta de tirantes para hombre, estampado de verano, palmeras, playa, A1 negro, M
-- Marca: HOTCAT
 - Talla mediana
+- Marca: HOTCAT
+- HOTCAT Camiseta de tirantes para hombre, camiseta con estampado de chalecos, chaleco sin mangas, camiseta musculosa, camiseta de tirantes para hombre, estampado de verano, palmeras, playa, A1 negro, M
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CWGKPJFZ{{</world>}}

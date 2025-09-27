@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con detalle de encaje y plaquita metálica
 - Sujetador BEAUTIFUL clásico con relleno y aro, confeccionado con algodón, en tejido de canalé
+- Con detalle de encaje y plaquita metálica
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DQVHL1F3{{</world>}}

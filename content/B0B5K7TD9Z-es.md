@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - PARTE: Somos un orgulloso miembro de la Better Cotton Initiative (BCI). Con la compra de este artí apoyas el cultivo de algodón más sostenible. Instrucciones de lavado: no lavar en seco, no secar en secadora, no usar lejía, planchar a alta temperatura (200 °C), ciclo suave a máx. 30 °C
-- Ajuste: ajuste regular, longitud de espalda para L aprox. 74 cm
-- Mangas cortas con cuello redondo
-- Camiseta de rayas finas con logotipo grande impreso en el pecho
 - Hecho de suave tejido de punto simple, ideal para primavera y verano
+- Ajuste: ajuste regular, longitud de espalda para L aprox. 74 cm
+- Camiseta de rayas finas con logotipo grande impreso en el pecho
+- Mangas cortas con cuello redondo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B5K7TD9Z{{</world>}}

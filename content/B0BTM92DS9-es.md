@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseño deportivo
 - Ajuste ligero
 - Ofrece comodidad y libertad de movimiento
 - Tiene detalles distintivos de la marca
+- Diseño deportivo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BTM92DS9{{</world>}}

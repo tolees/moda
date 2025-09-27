@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- [Zapatos D.Franklin] Un recordatorio de que se puede seguir la tendencia con acabados relajados y sencillos. Nuestro diseño One Way beige está construido en piel sintética y microfibra. Suela de goma blanca y lettering personalizado en el talón. Presenta una altura de 4 cm y cuenta con el emblema de nuestra bandera en el lateral. Creadas a través de Composición PETA Approved-Vegan. Plantilla interior termoconformada de EVA inyectada
 - Estilo y diseño vanguardista y atemporal inspirado en las últimas tendencias siendo siempre fieles a nuestra esencia. Por ello, D. Franklin se ha convertido en una marca referente y líder en el mercado.
-- Zapatillas monocolor de corte recto D.Franklin. Diferentes caminos por descubrir. Diferentes formas de hacerlo
 - D.Franklin Zapatillas Mujer Casual One Way Low Classic Beige - Zapatillas de vestir para Mujer - Moda casual Mujer (Talla 36)
 - D. Franklin es una marca española referente para los amantes de la moda y los accesorios gracias a nuestro estilo único, calidad y compromiso medioambiental. Productos fabricados con materiales sostenibles y de alta calidad.
-- [Zapatos D.Franklin] Un recordatorio de que se puede seguir la tendencia con acabados relajados y sencillos. Nuestro diseño One Way beige está construido en piel sintética y microfibra. Suela de goma blanca y lettering personalizado en el talón. Presenta una altura de 4 cm y cuenta con el emblema de nuestra bandera en el lateral. Creadas a través de Composición PETA Approved-Vegan. Plantilla interior termoconformada de EVA inyectada
+- Zapatillas monocolor de corte recto D.Franklin. Diferentes caminos por descubrir. Diferentes formas de hacerlo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZ42G5PQ{{</world>}}

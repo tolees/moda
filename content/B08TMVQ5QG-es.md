@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello redondo
-- Ligera
 - Mangas cortas
+- Ligera
+- Cuello redondo
 - Camiseta deportiva
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

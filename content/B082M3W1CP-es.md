@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dobladillo redondeado
 - Cuello redondo acanalado
+- Dobladillo redondeado
+- G-Star RAW Bordado en el pecho
 - Mangas cortas con corte recto, dobladillo con solapa fija
 - Etiqueta tejida G-Star RAW en la parte delantera
-- G-Star RAW Bordado en el pecho
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B082M3W1CP{{</world>}}

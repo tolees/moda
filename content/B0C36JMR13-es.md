@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ajuste cómodo
 - Manga corta
-- Camiseta
+- Ajuste cómodo
 - Composición del material: 43% algodón, 30% algodón reciclado, 27% lino
+- Camiseta
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C36JMR13{{</world>}}

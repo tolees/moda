@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Soft fabric
 - Tipo de deporte: ropa de deportes atléticos
 - Regular fit
+- Soft fabric
 - Two-button closure
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

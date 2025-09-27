@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Adecuadas para llevar durante todo el día
 - Con un tacón bajo
+- Adecuadas para llevar durante todo el día
 - Transpirables y cómodas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- PINK FLOYD THE FINAL CUT is 100% authentic, officially licensed PINK FLOYD merchandise!
 - 241 gr, Encaje clasico, Cinta de sarga en el cuello
+- PINK FLOYD THE FINAL CUT is 100% authentic, officially licensed PINK FLOYD merchandise!
 - Pink Floyd hit the London rock scene in 1965 and, with their unique mix of progressive and psychedelic compositions, became of the most influential bands in music history. Their release, Dark Side of the Moon, has sold over 45 million copies worldwide.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

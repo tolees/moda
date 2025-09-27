@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- AJUSTE - Corte elástico de tipo Regular Fit. El modelo lleva la talla 36. La longitud delantera en la talla 38 es de 70 cm y la longitud trasera es de 75 cm.
 - MATERIAL - La tela fácil de cuidar y resistente del 72% algodón, 24% poliéster, 4% elastano garantiza una cómoda sensación de uso y un soporte óptimo en cada movimiento.
+- AJUSTE - Corte elástico de tipo Regular Fit. El modelo lleva la talla 36. La longitud delantera en la talla 38 es de 70 cm y la longitud trasera es de 75 cm.
 - PERFECTO - La blusa de manga larga impresiona por una confección de alta calidad. Combina perfectamente con todos tus atuendos en este diseño informal con cuello Kent, cierre clásico de botones y puños en las mangas.
 - BÁSICO - Diseño atemporal y minimalista, ¡un clásico en el mundo de la moda! Un todoterreno versátil para tu look diario, JDYMIO - 15149877.
 

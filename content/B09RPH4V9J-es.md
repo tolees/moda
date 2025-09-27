@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Confeccionada en tejido ligero y transpirable
 - Detalle en relieve en la parte superior frontal
+- Confeccionada en tejido ligero y transpirable
 - 100% poliéster interlock
 - Ayuda a mantener el cuerpo del deportista seco
 

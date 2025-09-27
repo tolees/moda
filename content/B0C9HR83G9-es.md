@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cuello en V
-- Con tejido ligero y suave
 - Ofrece una comodidad óptima
+- Con tejido ligero y suave
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C9HR83G9{{</world>}}

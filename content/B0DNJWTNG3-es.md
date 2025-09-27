@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseño Furgo
 - Manga Corta
+- Diseño Furgo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DNJWTNG3{{</world>}}

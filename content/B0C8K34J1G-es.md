@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cintura elástica con patrón de logotipo de Tommy Hilfiger
 - Tommy Hilfiger Marca:
 - Con intrincado encaje floral
-- Cintura elástica con patrón de logotipo de Tommy Hilfiger
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C8K34J1G{{</world>}}

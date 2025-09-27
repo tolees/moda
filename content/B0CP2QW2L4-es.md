@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Pijama 100% algodón de manga corta y shorts corte recto
-- cómodo, adecuado para dormir y estar en casa sin perder tu toque de estilo
 - Camiseta de color kaki con cuello redondo, aperturas en laterales para adecuado comodidad y bolsillo plastrón con detalle de bordado de palmera a contraste
+- cómodo, adecuado para dormir y estar en casa sin perder tu toque de estilo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CP2QW2L4{{</world>}}

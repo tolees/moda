@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Correa: PVC. Material de la suela: goma
 - TIPO DE SUELA: Cómodo, duradero, ligero, resistente al calor, antideslizante y resistente al agua
+- Correa: PVC. Material de la suela: goma
 - Tamaño: al comprar sandalias Havaianas en Amazon, debes considerar el tamaño BR/proveedor como equivalente al tamaño de la UE, independientemente de lo que se muestre en la suela del producto
 - Color de las chanclas: morado
 

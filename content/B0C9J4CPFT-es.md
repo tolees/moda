@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Ofrece una comodidad óptima
-- Escote redondo con abertura y cierre de botón
 - Con tejido ligero y suave
+- Escote redondo con abertura y cierre de botón
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C9J4CPFT{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte normal
-- Ideal para cualquier ocasión
 - Puños plegados
+- Ideal para cualquier ocasión
+- Corte normal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01MXENYST{{</world>}}

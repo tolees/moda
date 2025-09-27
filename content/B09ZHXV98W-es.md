@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Zapatilla sencilla: Ligeras y flexibles con un diseño sencillo, fáciles de poner y quitar.
-- Zapatillas acuáticas: Adecuado para el baño, la natación, el surf, el deporte en la arena y otros deportes acuáticos.
 - Zapatillas de agua: Suela de goma con dibujos antideslizantes, que proporciona un gran agarre.
+- Zapatillas acuáticas: Adecuado para el baño, la natación, el surf, el deporte en la arena y otros deportes acuáticos.
+- Zapatilla sencilla: Ligeras y flexibles con un diseño sencillo, fáciles de poner y quitar.
 - Zapatillas de natación: Plantilla transpirable y amortiguadora que protege los pies en zonas rocosas.
 - Zapatillas de baño: La parte superior transpirable y de secado rápido evita los malos olores.
 

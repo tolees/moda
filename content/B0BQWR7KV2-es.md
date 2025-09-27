@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Calcetines elásticos
 - Puños acanalados
+- Calcetines elásticos
 - logotipo de adidas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

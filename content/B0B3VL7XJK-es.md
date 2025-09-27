@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tejido elástico
-- Logotipo en el pecho
 - Corte regular
+- Logotipo en el pecho
 - Manga corta
+- Paquete de dos unidades
+- Tejido elástico
 - Cuello redondo
 - Tejido: 95 % algodón, 5 % elastano
-- Paquete de dos unidades
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B3VL7XJK{{</world>}}

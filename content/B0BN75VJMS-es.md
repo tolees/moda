@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - GEOX modelo J PAVEL C0054 T. 25
-- NEGRO
 - GEOX
+- NEGRO
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BN75VJMS{{</world>}}

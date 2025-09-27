@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- con cuello camisero
 - Blusa entallada de manga larga
+- con cuello camisero
 - con botones en el delantero y en los puños
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

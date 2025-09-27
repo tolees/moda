@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Mochila Pequeña
-- Hidrófugo
-- 0.47 kg
 - 33.5 Alto x 27 Ancho x 19 Fondo cm
 - 100% Polimiada
+- Hidrófugo
+- 0.47 kg
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B083YCS39T{{</world>}}

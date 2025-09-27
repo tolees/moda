@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Calidad prémium
 - Ropa de aventura para todos los días
 - Diseño icónico
 - Ajuste cómodo
+- Calidad prémium
 - Material transpirable
 
 [🛒 Comprar!!!]({{< param buyurl >}})

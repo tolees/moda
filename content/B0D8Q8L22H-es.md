@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Camisa de muselina de algodón estampada de ajuste regular. Manga larga con muñeca y botón
 - Material: 100% algodón
+- Camisa de muselina de algodón estampada de ajuste regular. Manga larga con muñeca y botón
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D8Q8L22H{{</world>}}

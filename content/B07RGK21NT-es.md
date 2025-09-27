@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto oficial de Disney
 - Este producto se vendía como Spotted Zebra y ahora como Amazon Essentials.
-- Para la seguridad de los niños, la ropa de dormir debe ser resistente al fuego o ajustada. Este artículo es ajustado
+- Producto oficial de Disney
 - ¡Poderes de estilo súper unidos! Spotted Zebra se ha asociado con Disney, Star Wars y Marvel para crear la ropa infantil más linda, totalmente valiente y coleccionable al instante. Solo en Amazon.
 - Conjunto de pijama a juego con colores brillantes y gráficos atrevidos
+- Para la seguridad de los niños, la ropa de dormir debe ser resistente al fuego o ajustada. Este artículo es ajustado
 - Tenga en cuenta que la etiqueta de talla ubicada en el interior del cuello de esta prenda corresponde a la talla de la marca / fabricante. Utilice la tabla de tallas en la página del producto para encontrar el tamaño equivalente.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

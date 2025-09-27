@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Marca PUMA en la correa
 - Correa y plantilla sintéticas.
 - Suela de EVA antideslizante
-- Marca PUMA en la correa
 - Etiqueta PUMA Archive No. 2 en la plantilla
 
 [🛒 Visítala!!!]({{< param buyurl >}})

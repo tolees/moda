@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tirantes ajustables y acolchados para ejercicios de alto impacto.
-- Copa D, sin aros y preformada.
 - Sujetador deportivo reductor de color tierra.
+- Copa D, sin aros y preformada.
+- Tirantes ajustables y acolchados para ejercicios de alto impacto.
 - Cierre de botón a presión en la espalda
 - Tela suave y transpirable con agarre firme y efecto reductor.
 

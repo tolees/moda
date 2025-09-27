@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Cierre: cremallera
-- Bolsillos traseros, bolsillo para monedas y bolsillos en la parte delantera
 - Los vaqueros son clic de cinco bolsillos
+- Bolsillos traseros, bolsillo para monedas y bolsillos en la parte delantera
 - Cintura: cintura baja
 - La mezclilla es un tejido de sarga duradero hecho de hilos de urdimbre teñidos e hilos de trama sin teñir
 

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Mangas cortas
-- Cuello redondo
 - Ligera
+- Cuello redondo
 - Camiseta deportiva
+- Mangas cortas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08TMSK2ZY{{</world>}}

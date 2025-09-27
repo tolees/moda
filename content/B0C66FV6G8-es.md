@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Amortiguadas y transpirables
 - Ofrecen una comodidad óptima
+- Amortiguadas y transpirables
 - Calzado con luces
 
 [🛒 Aquí!!!]({{< param buyurl >}})

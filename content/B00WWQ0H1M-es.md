@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Longitud de manga: manga larga para una cobertura completa de los brazos
-- Color disponible: blanco para combinar con una variedad de atuendos
 - Material principal: 98% algodón, 2% elastano para una mezcla cómoda y duradera
 - Ajuste: corte slim fit para una silueta ajustada y moderna
+- Color disponible: blanco para combinar con una variedad de atuendos
 - Estilo de cuello: cuello mao para un look elegante y formal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

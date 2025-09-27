@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Corte ajustado con mucha elasticidad
 - Costura de contraste de dos colores como el último pulido
+- Corte ajustado con mucha elasticidad
 - Hecho de material duradero y ligero
-- Ofrece comodidad y libertad de movimiento
 - Pantalones vaqueros de la marca JACK & JONES para hombre
+- Ofrece comodidad y libertad de movimiento
 - Dispone de 5 bolsillos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

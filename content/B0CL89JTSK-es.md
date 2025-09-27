@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ajuste: corte normal
 - Camiseta de alta calidad para uso diario
+- Ajuste: corte normal
 - Estampado: impresión de pigmentos para una impresión suave en ropa ligera
 
 [🛒 Comprar!!!]({{< param buyurl >}})
