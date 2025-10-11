@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- 24,5 cm
 - Cierre: goma
 - Piel: charol
-- 24,5 cm
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BN67ZJ67{{</world>}}

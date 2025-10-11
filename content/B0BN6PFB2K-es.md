@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Material interior: sintético
 - Forma del talón: plano
-- Material exterior: sintético
 - Suela: Caucho
+- Material exterior: sintético
 - Cierre: cordones
 
 [🛒 Visítala!!!]({{< param buyurl >}})

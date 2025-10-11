@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tejido Infinitex Fitness Eco resistente al cloro
+- Espalda con escote medio
+- Tirantes cruzados en la espalda
 - Punto 78% nailon reciclado / 22% elastán
 - Material plano y suave
-- Tirantes cruzados en la espalda
-- Espalda con escote medio
+- Tejido Infinitex Fitness Eco resistente al cloro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C546JRJQ{{</world>}}

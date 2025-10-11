@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cierre: Sin cordones
+- Material exterior: Goma
 - Revestimiento: Sin forro
 - Tipo de tacón: Plano
-- Composición: Goma
-- Material exterior: Goma
 - Material de la suela: Goma
-- Cierre: Sin cordones
+- Composición: Goma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B000YKMHG6{{</world>}}

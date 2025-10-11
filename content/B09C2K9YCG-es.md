@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Ideal para observaciones hasta el crepúsculo, con un enfoque central estable de metal, a través de oculares LE, almohadillas para los ojos Twist-up y compensación de dioptrías para los usuarios de gafas
-- Visión hasta el anochecer: con los prismáticos impermeables rellenos de gas protector con revestimiento multicapa
 - 10 aumentos, 42 mm de diámetro de la lente de 42 mm, cristal BaK-4 de alta calidad para imágenes brillantes, revestimiento multicapa en las superficies ópticas y tratamiento URT en los prismas para mayor transmisión de luz
+- Visión hasta el anochecer: con los prismáticos impermeables rellenos de gas protector con revestimiento multicapa
 - Contenido del envío: prismáticos, correa, funda, tapa protectora
 - Tamaño: 143 x 122 x 54 mm. Peso: 580 g
 

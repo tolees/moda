@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello redondo
 - Tiene detalles distintivos de la marca
+- Cuello redondo
 - Sudadera deportiva para entrenamiento o paseos
 - Fabricada en poliéster
 

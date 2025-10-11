@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Botones a los lados
 - Manga Larga
+- Botones a los lados
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DNJXL91D{{</world>}}

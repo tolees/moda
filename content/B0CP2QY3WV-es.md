@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Top con escote recto fruncido y tirantes finos con detalle de hilos de color
-- Pantalones cortos con cinturilla ancha elástica regulable mediante cordón con detalle de borlas
 - Pijama 100% algodón de camiseta de tirantes en color naranja y shorts con estampado allover étnico cómodo, adecuado para dormir y estar en casa sin perder tu toque de estilo
+- Pantalones cortos con cinturilla ancha elástica regulable mediante cordón con detalle de borlas
+- Top con escote recto fruncido y tirantes finos con detalle de hilos de color
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CP2QY3WV{{</world>}}

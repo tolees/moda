@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cruz Hooverdye Con Cordón Redondo De Algodón
-- Polar Diagonal De Algodón
-- Fabricado En: Portugal
-- Teñido A Juego Con Canal 1X1 En Puños Y Bajo
 - Composición: 90%Algodón Orgánico 10%Poliester Reciclado
+- Fabricado En: Portugal
+- Polar Diagonal De Algodón
+- Teñido A Juego Con Canal 1X1 En Puños Y Bajo
+- Cruz Hooverdye Con Cordón Redondo De Algodón
 - Material: Algodón Orgánico
 
 [🛒 Comprar!!!]({{< param buyurl >}})

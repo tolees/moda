@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Colgante de Pac-Man
+- Repelente al agua
 - Compartimento principal con cremallera
 - Organización interna
-- Repelente al agua
+- Colgante de Pac-Man
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B083YCY9RC{{</world>}}

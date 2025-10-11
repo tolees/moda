@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Marca de cocodrilo verde bordado
-- Exterior de PVC
-- Tamaño 24 x 24,5 x 14,5 cm
-- Bolsillo interior con cremallera
 - Deslizador de cremallera de marca Lacoste
+- Marca de cocodrilo verde bordado
+- Bolsillo interior con cremallera
+- Tamaño 24 x 24,5 x 14,5 cm
+- Exterior de PVC
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01N6J7JOJ{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camisa denim clásica de manga larga Western Shirt
 - Modelo casual
+- Camisa denim clásica de manga larga Western Shirt
 - Este producto es original Levis
 - Dos bolsillos con botón en el pecho
 

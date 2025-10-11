@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - La parte superior se puede combinar bien
-- Ajuste: corte ajustado
 - Camisa para hombre en estándar
+- Ajuste: corte ajustado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BHXH1515{{</world>}}

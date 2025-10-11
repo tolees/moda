@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseño ligero que ofrece comodidad
 - Producto hecho con un material de óptima calidad y resistente
 - Ropa deportiva que se adapta a cualquier actividad deportiva
+- Diseño ligero que ofrece comodidad
 - Tiene detalles distintivos de la marca
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Las sandalias de tacón naranjas, las enormes gafas de sol doradas, el bolso de mano con forma de flor y un montón de lujosas joyas inspiran a crear historias divertidas y a explorar el mundo de la moda.
-- Las muñecas Barbie Extra Fancy se engalanan como nadie mediante los despampanantes y glamurosos vestidos con accesorios y detalles de lujo que llevan puestos, y siempre están acompañadas por una mascota con un estilo muy similar al suyo.
-- ¡Barbie no se corta un pelo! La muñeca tiene una melena naranja extralarga con reflejos brillantes y un lado trenzado.
-- Presume de estilo con un glamuroso conjunto de 2 piezas con estampado floral y leggings a juego.
 - Su gatito tampoco se queda corto con una divertida pose y una carita que derrite a cualquiera.
+- Las sandalias de tacón naranjas, las enormes gafas de sol doradas, el bolso de mano con forma de flor y un montón de lujosas joyas inspiran a crear historias divertidas y a explorar el mundo de la moda.
+- ¡Barbie no se corta un pelo! La muñeca tiene una melena naranja extralarga con reflejos brillantes y un lado trenzado.
+- Las muñecas Barbie Extra Fancy se engalanan como nadie mediante los despampanantes y glamurosos vestidos con accesorios y detalles de lujo que llevan puestos, y siempre están acompañadas por una mascota con un estilo muy similar al suyo.
+- Presume de estilo con un glamuroso conjunto de 2 piezas con estampado floral y leggings a juego.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09NMRCNRZ{{</world>}}

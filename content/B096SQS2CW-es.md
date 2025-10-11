@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material interior: algodón
 - Material exterior: algodón
+- Material interior: algodón
 - Cierre: solapa
 
 [🛒 Visítala!!!]({{< param buyurl >}})

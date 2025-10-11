@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con bolsillos
 - Ajuste cómodo
+- Con bolsillos
 - Presenta un estilo casual
 
 [🛒 Aquí!!!]({{< param buyurl >}})

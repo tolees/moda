@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 【Instrucciones de limpieza】：Esta polo manga corta se puede lavar a máquina, no es fácil de arrugar o deformar.
 - 【Diseño】 ：Nuestra camiseta de camiseta transpirable hombre está diseñada con tres botones y se ajusta, se puede combinar con sus pantalones favoritos, la artesanía es exquisita y crea una imagen elegante y casual de un caballero.
 - 【La tela es suave】Este tejido es ideal para el verano. Esta camiseta de polo es suave, transpirable y cómoda. Después de las pruebas, este tamaño es adecuado para la mayoría de las personas.
+- 【Instrucciones de limpieza】：Esta polo manga corta se puede lavar a máquina, no es fácil de arrugar o deformar.
 - 【Ocasiones aplicables】: Las camiseta deportiva de golf se pueden usar en diferentes ocasiones, ya sea celebraciones familiares, trabajo, reuniones con amigos o deportes al aire libre como golf, equitación y carrera. Esta es la elección correcta.
 - 【Calidad del material】:Esta polo para hombre de manga corta está hecha de 100% poliéster.
 

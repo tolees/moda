@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Composición del material: 75% poliamida, 25% elastano
 - Instrucciones de cuidado: lavar a máquina
 - Tipo de cierre: cremallera
+- Composición del material: 75% poliamida, 25% elastano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CN9Q5D61{{</world>}}

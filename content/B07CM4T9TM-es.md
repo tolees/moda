@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - AJUSTE: bragas estilo bikini que asientan en la parte baja de la cadera con una cobertura trasera.
 - ALGODÓN Y ELASTANO: mezcla de algodón suave y lisa. Este tejido natural ligero y transpirable se siente suave al contacto con la piel, mientras que el elastano añadido ofrece un ajuste flexible que se mueve contigo.
-- BRAGUITA DE BIKINI: lo último en comodidad para el día a día, una braga versátil que queda bien con todos tus atuendos favoritos y es funcional.
 - DETALLES: con elástico suave alrededor de la cintura y la pernera para mayor soporte y comodidad. Muestra una etiqueta estampada en la cintura.
+- BRAGUITA DE BIKINI: lo último en comodidad para el día a día, una braga versátil que queda bien con todos tus atuendos favoritos y es funcional.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07CM4T9TM{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Perfecta para el trabajo y el ocio
-- Cierre de botón
 - Tejido de algodón puro
+- Cierre de botón
+- Perfecta para el trabajo y el ocio
 - Polo clásico de Gant
 - Fácil de combinar
 

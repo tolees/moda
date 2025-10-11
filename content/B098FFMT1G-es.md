@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Tela de sarga de algodón
 - Lengüeta en la parte posterior
-- Suela de goma antideslizante
 - Líneas de dos tonos en los lados de la suela
+- Suela de goma antideslizante
 - Einlegesohle mit ganzflchigem Logodruck
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

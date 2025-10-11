@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- camiseta
 - Camiseta deportiva
+- camiseta
 - Manga corta
 
 [🛒 Visítala!!!]({{< param buyurl >}})

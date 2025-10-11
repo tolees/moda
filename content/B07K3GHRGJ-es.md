@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Lentes phantom brown gun
-- Thermogrip
 - Categoría: 2 to 3
+- Thermogrip
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07K3GHRGJ{{</world>}}

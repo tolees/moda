@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ofrecen una comodidad óptima
 - Con tejido ligero y suave
+- Ofrecen una comodidad óptima
 - Detalles distintivos de Tommy Hilfiger
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- con cuello camisero
-- Con mezcla de algodón y lino
 - Blusa de manga larga
+- Con mezcla de algodón y lino
+- con cuello camisero
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CCSK6FB6{{</world>}}

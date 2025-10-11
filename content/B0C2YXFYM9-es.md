@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Modelo Unisex. Medidas: Frontal 142 mm; Patillas 145 mm ; Puente 19 mm ; Alto 49 mm.
+- Producto Oficial Hawkers. Incluye: Funda en microfibra y caja.
 - Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores. Lentes categoría 2 fabricadas con material bio tac polarizado y protección uv400.
 - Montura en acero inoxidable libre de níquel que las hace altamente resistentes a la corrosión y mucho más fuertes. Almohadillas de silicona antideslizantes y anti-alérgicas. Bisagra de 3 barras para un mayor agarre y durabilidad.
 - Un essential que se adapta a todo tipo de caras con montura metálica de color “gun metal” en acabado mate y forma poligonal. Las lentes polarizadas de color “solid olive” y los terminales color carey translúcido le aportan elegancia a este diseño clásico y versátil.
-- Modelo Unisex. Medidas: Frontal 142 mm; Patillas 145 mm ; Puente 19 mm ; Alto 49 mm.
-- Producto Oficial Hawkers. Incluye: Funda en microfibra y caja.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C2YXFYM9{{</world>}}

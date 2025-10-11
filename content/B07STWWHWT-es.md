@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Plantilla de goma texturizada
 - Suela exterior: suela de goma
+- Plantilla de goma texturizada
 - Material superior: __ Empeine de goma con pin de metal oxidado
 
 [🛒 Visítala!!!]({{< param buyurl >}})

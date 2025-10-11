@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Camiseta informal
 - Instrucciones de cuidado: lavable a máquina
 - Composición: 100% algodón
-- Ajuste: regular
+- Camiseta informal
 - Tipo de estiramiento: no elástico
+- Ajuste: regular
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D6NJPGF2{{</world>}}

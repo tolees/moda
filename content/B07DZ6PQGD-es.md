@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contenido: 1x Columbia Powder Pass, Chaqueta con capucha para mujer, Negro, L, Fibra sintética, 1773211
-- Protector de barbilla y capucha tipo buzo para protegerte de los elementos
 - Ajuste óptimo gracias al dobladillo ajustable con cordón
+- Protector de barbilla y capucha tipo buzo para protegerte de los elementos
+- Contenido: 1x Columbia Powder Pass, Chaqueta con capucha para mujer, Negro, L, Fibra sintética, 1773211
 - Tejido resistente al agua para mantenerte seco en todas tus aventuras al aire libre
 - Construcción híbrida, Chaqueta de plumas con capucha, Mujer
 

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tommy Hilfiger Marca:
-- Nailon elástico
 - Ribete de encaje en las piernas
+- Nailon elástico
+- Tommy Hilfiger Marca:
 - Tommy Hilfiger Cintura elástica con logotipo repetido
 
 [🛒 Aquí!!!]({{< param buyurl >}})

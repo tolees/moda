@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Color: marrón
-- Forro:
-- Suela/características: suela de goma para un agarre excelente
-- Costuras alrededor para mayor durabilidad
 - Parte superior: cuero (piel de vacuno)
+- Color: marrón
+- Suela/características: suela de goma para un agarre excelente
+- Forro:
+- Costuras alrededor para mayor durabilidad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00L3CPRC0{{</world>}}

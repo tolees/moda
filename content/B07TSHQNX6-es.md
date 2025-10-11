@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Detalles distintivos de la marca
-- Tejido ligero
 - Ofrece comodidad y libertad de movimiento
+- Tejido ligero
+- Detalles distintivos de la marca
 - Material de calidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

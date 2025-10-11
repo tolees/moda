@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con cuello redondo Con abertura en el escote Con cordones Con borlas
 - Blusa de manga larga Con volumen
+- Con cuello redondo Con abertura en el escote Con cordones Con borlas
 - Con bordados en el cuello en el delantero y en las mangas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

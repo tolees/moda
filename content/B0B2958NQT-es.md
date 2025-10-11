@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material interior: 67 por ciento de poliéster tejido textil -33 por ciento de poliuretano sintético
 - Cierre: 100% etileno acetato de vinilo
+- Material interior: 67 por ciento de poliéster tejido textil -33 por ciento de poliuretano sintético
 - Material exterior: sintético
 
 [🛒 Aquí!!!]({{< param buyurl >}})

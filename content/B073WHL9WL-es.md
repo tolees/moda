@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Capucha ajustable con cremallera
 - Dobladillo con cordón y puño elástico
+- Capucha ajustable con cremallera
 - Número de modelo: MAJKCAK20004_BRTXL
 - Chaqueta acolchada de poliéster con 3 bolsillos con cremallera, cremalleras de perfil bajo
 

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camisa/blusa para mujer de la marca danesa Vero Moda en talla regular
 - . Material: 100% viscosa
+- Camisa/blusa para mujer de la marca danesa Vero Moda en talla regular
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B1F6B21L{{</world>}}

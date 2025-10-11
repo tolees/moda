@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Patrón: el diseño de la marca es visible
-- Código de vestimenta: informal
 - Temporada: clima cálido
+- Código de vestimenta: informal
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D1ZB43MP{{</world>}}

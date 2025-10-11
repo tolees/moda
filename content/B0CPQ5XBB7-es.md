@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuentan con un estilo informal
 - Ofrecen confort y transpirabilidad
+- Cuentan con un estilo informal
 - Presentan detalles distintivos de la marca
 
 [🛒 Visítala!!!]({{< param buyurl >}})

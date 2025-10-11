@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con tecnología Slim Fit para un ajuste cómodo
 - Ofrece una buena gestión de humedad y calor
 - Camiseta de fútbol para hombres
 - Tiene el logotipo de Adidas impreso en el pecho
+- Con tecnología Slim Fit para un ajuste cómodo
 - Cuenta con mangas cortas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

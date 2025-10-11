@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Chaqueta bomber clásica para hombre
-- 2 bolsillos laterales con botones de presión y un bolsillo interior
-- Chaqueta bomber para hombre con puños acanalados en mangas, dobladillo y cuello
 - Pespuntes de diamante
+- 2 bolsillos laterales con botones de presión y un bolsillo interior
+- Chaqueta bomber clásica para hombre
+- Chaqueta bomber para hombre con puños acanalados en mangas, dobladillo y cuello
 - Chaqueta de entretiempo en negro, azul, verde oliva y rojo; Adecuado para primavera, verano, otoño
 
 [🛒 Visítala!!!]({{< param buyurl >}})

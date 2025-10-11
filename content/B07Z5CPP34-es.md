@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Super Slim Fit
+- Shirt collar
 - Long sleeves, straight inset- cuffed
 - Shaping seams at the back panel
-- Shirt collar
+- Super Slim Fit
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07Z5CPP34{{</world>}}

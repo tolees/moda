@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Material interior: sintético
 - Cierre: sin cordones
-- Suela: sintética
 - Material superior: sintético
+- Suela: sintética
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07SCB1LXJ{{</world>}}

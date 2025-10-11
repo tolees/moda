@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre: goma
-- Talla del zapato: Medium
-- Material interior: sintético
 - Material exterior: sintético
+- Cierre: goma
+- Material interior: sintético
+- Talla del zapato: Medium
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09N7FBY8Q{{</world>}}

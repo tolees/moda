@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Bajo recto
+- Proporciona comodidad
 - Una mirada original
 - Cuello acanalado
-- Proporciona comodidad
-- Bajo recto
 - Estampado gráfico en la parte delantera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

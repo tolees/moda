@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estilo casual: confeccionada en tejido 100% Polyester, brilla con el movimiento, y tiene contrastes en color y tejido en los puños, el cuello y la cintura.
-- Tu compañera de batallas: la bomber de hombre ha sido diseñada para quien sale de casa dispuesto a apuntarse a cada plan y necesita quien lo acompañe y se adapte a la situación.
 - Volumen de suministro: 1 x Cazadora Bomber de URBAN CLASSICS, con cuello, cintura y puños a contraste, color burgundy/black, talla M
+- Tu compañera de batallas: la bomber de hombre ha sido diseñada para quien sale de casa dispuesto a apuntarse a cada plan y necesita quien lo acompañe y se adapte a la situación.
+- Estilo casual: confeccionada en tejido 100% Polyester, brilla con el movimiento, y tiene contrastes en color y tejido en los puños, el cuello y la cintura.
 - Compartimentos prácticos: gracias a sus bolsillos laterales y en la manga, te ofrece compartimentos para guardar tus cosas, sin dejar de ser una chaqueta para vestir.
 - El Must-Have perfecto: esta cazadora, tan de tendencia esta temporada, con cremallera es el atuendo perfecto para vestir con aire deportivo sin perder el estilo, tanto de día como de noche.
 

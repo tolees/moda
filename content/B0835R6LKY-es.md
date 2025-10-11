@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Dobladillo, puños y cuello acanalados
 - Bolsillos con cremallera para todas tus cosas
 - Buena chaqueta de entretiempo
-- Dobladillo, puños y cuello acanalados
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0835R6LKY{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sujetador con aros y copas acolchadas en tejido de lunares. Combina con bikinis y bragas Greta.
-- Marcas: Selene
-- Inicio > Mujer > Sujetadores
 - Casquillo:
+- Marcas: Selene
+- Sujetador con aros y copas acolchadas en tejido de lunares. Combina con bikinis y bragas Greta.
+- Inicio > Mujer > Sujetadores
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00NXTW3P0{{</world>}}

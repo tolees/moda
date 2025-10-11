@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Artículo : Top
 - Manga : Sin mangas
 - Cuello : Cuello en U
+- Artículo : Top
 - Corte : Corte regular
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

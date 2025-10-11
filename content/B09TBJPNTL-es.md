@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Puños y bajo en tejido rib para mejorar la confortabilidad
 - Cremallera hasta el pecho
-- Producto adecuado para actividades deportivas
 - Confeccionada en poliéster fleece para aportar calidez y confort
+- Producto adecuado para actividades deportivas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09TBJPNTL{{</world>}}

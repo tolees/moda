@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Cremallera de un cuarto largo
 - Tecnología de tejido Adidas Aeroready
-- Ajuste regular
 - Cuenta con 3 rayas en las mangas
+- Ajuste regular
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08PL3BR8S{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- DETALLES: Detalle de canalé en el cuello, los puños de las mangas y el dobladillo inferior.
 - HILO DE ALGODÓN: Producto confeccionado en hilo de algodón de tacto suave y elasticidad natural.
+- DETALLES: Detalle de canalé en el cuello, los puños de las mangas y el dobladillo inferior.
 - AJUSTE CLÁSICO: Ajuste holgado y cómodo en todo el cuerpo
 - BÁSICOS PARA EL UNIFORME: Este ligero jersey de cuello redondo es de tacto suave y es ideal tanto para llevar varias capas de ropa como para ponértelo solo. Está disponible en los colores típicos del uniforme escolar. Para el colegio, un evento especial o jugar todos los días.
 

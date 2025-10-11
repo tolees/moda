@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Anillos
-- Hebilla
 - Cinturón
+- Hebilla
+- Anillos
 - Cuero artificial
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

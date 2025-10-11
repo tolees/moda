@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - El interior cuenta con una bolsa extraíble de 5 x 7 pulgadas
 - Bolsa exterior
-- Herrajes dorados brillantes
 - L: 21 cm de ancho, 9,5 cm de alto, 17,8 cm
+- Herrajes dorados brillantes
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CK18RHLM{{</world>}}

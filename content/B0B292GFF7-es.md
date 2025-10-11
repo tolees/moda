@@ -28,14 +28,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tacón Plataforma
-- Cierre: goma
 - Material interior: sintético
-- Sintético
-- Cordones
-- Pull-on
 - Material exterior: sintético
+- Cierre: goma
+- Sintético
+- Pull-on
 - 80 % poliéster de punto textil, 20 % TPU sintético
+- Tacón Plataforma
+- Cordones
 - 65 por ciento de poliéster de punto textil, 20 por ciento de poliéster tejido textil, 15 por ciento de poliuretano sintético
 
 [🛒 Visítala!!!]({{< param buyurl >}})

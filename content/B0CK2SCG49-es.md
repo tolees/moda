@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 100% algodón
 - Camisa de manga corta de muselina. Cierre con botones y bolsillo delantero. Ajuste: Slim
+- 100% algodón
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CK2SCG49{{</world>}}

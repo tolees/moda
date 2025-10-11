@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Tiene detalles distintivos de la marca
 - Camiseta de manga corta suave y transpirable
-- Se adapta a cualquier actividad deportiva
 - Diseño ligero que ofrece comodidad
+- Se adapta a cualquier actividad deportiva
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BTJ9J68F{{</world>}}

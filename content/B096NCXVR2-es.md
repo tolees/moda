@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Parte superior sintética
-- Suela de EVA
-- Plantilla moldeada
-- Horma clásica
-- Forro textil
 - Amortiguación ligera
+- Suela de EVA
+- Parte superior sintética
+- Horma clásica
+- Plantilla moldeada
+- Forro textil
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B096NCXVR2{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material de la suela: Caucho
 - Revestimiento: Tela
+- Material de la suela: Caucho
 - Material exterior: Sintético
 
 [🛒 Aquí!!!]({{< param buyurl >}})

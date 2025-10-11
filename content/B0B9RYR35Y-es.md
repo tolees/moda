@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- GAFAS DE SOL LACOSTE L988S MATTE GREEN 54/18/145 PARA HOMBRE
-- Este producto es ajustable a la vista
-- Forma macho rectangular modificada
 - Este estilo es la talla M
 - Lentes de colores modernos que proporcionan una gran protección a la luz solar
+- Forma macho rectangular modificada
+- GAFAS DE SOL LACOSTE L988S MATTE GREEN 54/18/145 PARA HOMBRE
+- Este producto es ajustable a la vista
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B9RYR35Y{{</world>}}

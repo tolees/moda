@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pijama camisero 100% algodón de mangas cortas y shorts rectos, con un estampado multicolor allover de rayas
 - Camisa con cuello camisero, tapeta de botones y detalles de vivo en los bordes
+- Pijama camisero 100% algodón de mangas cortas y shorts rectos, con un estampado multicolor allover de rayas
 - cómodo, adecuado para dormir y estar en casa sin perder tu toque de estilo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

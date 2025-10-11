@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diseño atemporal para disfrutar todo el año
 - Sintético
 - Ajuste regular
+- Diseño atemporal para disfrutar todo el año
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07XD5RWH2{{</world>}}

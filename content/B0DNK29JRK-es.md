@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Manga Corta
 - Cuello redondo
+- Manga Corta
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DNK29JRK{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Camisa Con cuello solapa, botones forrados y vivos a contraste
 - Pijama camisero 100% algodón de manga larga y pantalón largo Con estampado tartán de cuadros y posicionado de Miffy adecuado para dormir o estar en casa cómoda y Con estilo
-- Pantalón recto Con cinturilla elástica ajustable
 - Combina Con otras prendas y accesorios de la colección
+- Pantalón recto Con cinturilla elástica ajustable
+- Camisa Con cuello solapa, botones forrados y vivos a contraste
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C23NK9DS{{</world>}}

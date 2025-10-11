@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Confort óptimo gracias al material de jersey 100% algodón
-- Disponible en diversos y elegantes colores
 - Moderno logo de Columbia
+- Disponible en diversos y elegantes colores
 - Contenido: 1x Columbia Hombre Camiseta, M Rapid Ridge Graphic, Color: Verde (Sage leaf, Naturally Boundless), Talla: S, Art.: 1888813
 - Camiseta para hombre, Adecuada para usar a diario
+- Confort óptimo gracias al material de jersey 100% algodón
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C6BYRF62{{</world>}}

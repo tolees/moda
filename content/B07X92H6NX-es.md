@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- materialFabricComposition: Outer: 50% Polyester, 50% Viscose; Lining: 100% Recycled Polyester; Coating: 100% Polyurethane
-- Long Sleeves
-- Jacket
 - Biker Collar
+- Long Sleeves
 - Care Label:
+- Jacket
+- materialFabricComposition: Outer: 50% Polyester, 50% Viscose; Lining: 100% Recycled Polyester; Coating: 100% Polyurethane
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07X92H6NX{{</world>}}

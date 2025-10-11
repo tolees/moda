@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin estilo de presentación
 - Este artículo queda pequeño, elige una talla más de tu talla habitual
+- Sin estilo de presentación
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B093TM5VHF{{</world>}}
