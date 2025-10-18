@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cuello con muesca y mangas cortas
-- Ajuste fácil
 - Estándar
+- Ajuste fácil
 - Ajuste regular
 
 [🛒 Visítala!!!]({{< param buyurl >}})

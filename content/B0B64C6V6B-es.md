@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MANGA CORTA: El cuello redondo añade un toque de elegancia y es óptima para cualquier ocasión
 - Materiales sostenibles: fabricada íntegramente en algodón sostenible, esta camiseta no solo es cómoda, sino también respetuosa con el medio ambiente
+- MANGA CORTA: El cuello redondo añade un toque de elegancia y es óptima para cualquier ocasión
 - DETALLES DE PEPE JEANS: Distínguete con el maxi logo PEPE JEANS impreso en la parte delantera, para mostrar tu estilo con confianza
 - T-SHIRT REGULAR FIT: Con un ajuste regular, esta camiseta ofrece un ajuste clásico y versátil
 

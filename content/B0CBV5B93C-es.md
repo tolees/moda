@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Presenta un estilo casual
 - Tejido ligero y suave
+- Presenta un estilo casual
 - Corte holgado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

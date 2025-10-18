@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de producto: zapatos
-- JOISIDE Zapatillas de seguridad con puntera de acero, botas de seguridad para mujer, zapatos de trabajo para exteriores, ligeras, antideslizantes, transpirables, botas de trabajo cómodas para verano, talla 8, color azul
 - Color: azul
+- JOISIDE Zapatillas de seguridad con puntera de acero, botas de seguridad para mujer, zapatos de trabajo para exteriores, ligeras, antideslizantes, transpirables, botas de trabajo cómodas para verano, talla 8, color azul
+- Tipo de producto: zapatos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C861DKCL{{</world>}}

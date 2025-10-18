@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material de la camisa hawaiana: 100% algodón, ligero, se siente cómodo y transpirable en verano
-- Impresión vívida y 100% sin decoloración: las camisas Funky están creadas de forma única con gráficos hawaianos, flores y de piña, coloridos y brillantes, sin decoloración
 - Camisa Estampada Hombre Ocasión Aplicable: ideal para vacaciones de verano, barbacoas, fiestas, playa y la vida diaria
+- Material de la camisa hawaiana: 100% algodón, ligero, se siente cómodo y transpirable en verano
 - Detalles: Corte regular, camisa con botones, cuello extendido, manga corta, estampado completo
+- Impresión vívida y 100% sin decoloración: las camisas Funky están creadas de forma única con gráficos hawaianos, flores y de piña, coloridos y brillantes, sin decoloración
 - Nota: el tamaño es hecho a mano, por lo que puede haber un error de 1-2 cm, preste atención para obtener el tamaño correcto antes de comprar.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

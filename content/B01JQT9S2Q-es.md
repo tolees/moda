@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- SARGA DE ALGODÓN: Sarga de algodón ligeramente estructurada que es transpirable por naturaleza, con un lavado en prenda que le aporta suavidad y resistencia.
 - AJUSTE CLÁSICO: Ajuste amplio en la cadera y el muslo, con la pierna recta. Queda por la cintura.
+- PANTALONES CORTOS DE DIARIO: Estos clásicos pantalones cortos tipo chinos de color caqui están confeccionados en un tejido lavado que no es elástico, y se convertirá en un básico de tu armario cuando llegue el frío.
 - DETALLES: Bragueta con cremallera con botón en la cintura, bolsillos delanteros oblicuos y bolsillos traseros de ojal.
 - TIRO DEL PANTALÓN: La talla 42 mide 22,9 cm.
-- PANTALONES CORTOS DE DIARIO: Estos clásicos pantalones cortos tipo chinos de color caqui están confeccionados en un tejido lavado que no es elástico, y se convertirá en un básico de tu armario cuando llegue el frío.
+- SARGA DE ALGODÓN: Sarga de algodón ligeramente estructurada que es transpirable por naturaleza, con un lavado en prenda que le aporta suavidad y resistencia.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01JQT9S2Q{{</world>}}

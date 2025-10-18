@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Manga larga
-- Lavable en la lavadora
 - Chaqueta con capucha
+- Manga larga
 - 100% Poliéster y Respaldo de PU
+- Lavable en la lavadora
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07GHG9ST7{{</world>}}

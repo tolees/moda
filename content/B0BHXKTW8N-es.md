@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Estampado de pigmentos para una impresión suave en ropa ligera
 - Bufanda tubular
+- Manga corta
 - Corte normal
+- Estampado de pigmentos para una impresión suave en ropa ligera
 - Cuello redondo
 - Camiseta de alta calidad para uso diario
-- Manga corta
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BHXKTW8N{{</world>}}

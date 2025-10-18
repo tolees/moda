@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Adidas Logo of Sport con impresión digital
 - 100 % algodón
-- Cuello redondo acanalado
 - Corte regular
+- Cuello redondo acanalado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C545FPK8{{</world>}}

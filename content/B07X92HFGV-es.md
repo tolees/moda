@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - M para Mujer
-- Negro (Black Black)
 - Vmkerriultra Short Coated Jacket Noos Chaqueta
+- Negro (Black Black)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07X92HFGV{{</world>}}

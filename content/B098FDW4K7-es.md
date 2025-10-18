@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ropa informal
 - Punta redonda
 - Zapatillas deportivas
+- Ropa informal
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B098FDW4K7{{</world>}}

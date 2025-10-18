@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Puños con botones
 - Cuello de camisa
-- Bolsillos en el pecho
+- Puños con botones
 - camisa vaquera
+- Bolsillos en el pecho
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B1VL463L{{</world>}}

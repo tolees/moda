@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Algodón elástico
+- Emporio Armani
 - Logotipo de EA
 - Sujetador triangular acolchado Iconic Logoband
-- Emporio Armani
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CPFMRMZ4{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Chaqueta acolchada para mujer de la marca danesa ONLY
-- Ofrece comodidad y libertad de movimiento
 - Tiene detalles distintivos de la marca
+- Ofrece comodidad y libertad de movimiento
+- Chaqueta acolchada para mujer de la marca danesa ONLY
 - Cuenta con un diseño ligero
 
 [🛒 Visítala!!!]({{< param buyurl >}})

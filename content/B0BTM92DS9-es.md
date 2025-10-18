@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ajuste ligero
-- Tiene detalles distintivos de la marca
 - Ofrece comodidad y libertad de movimiento
+- Tiene detalles distintivos de la marca
+- Ajuste ligero
 - Diseño deportivo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

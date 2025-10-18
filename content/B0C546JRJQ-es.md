@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tejido Infinitex Fitness Eco resistente al cloro
 - Punto 78% nailon reciclado / 22% elastán
+- Tejido Infinitex Fitness Eco resistente al cloro
 - Material plano y suave
 - Espalda con escote medio
 - Tirantes cruzados en la espalda

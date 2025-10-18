@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bolsas frontales tipo slash
-- Bolsa para lápiz en la manga izquierda
-- Cierre de metal al frente
-- Tablillas ajustables a la cintura
 - Hecho de 65% poliéster y 35% algodón
+- Tablillas ajustables a la cintura
+- Bolsas frontales tipo slash
+- Cierre de metal al frente
+- Bolsa para lápiz en la manga izquierda
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0001YRY8G{{</world>}}

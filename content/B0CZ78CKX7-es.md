@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tejido Infinitex
-- Pernera de corte medio
 - Forro en la entrepierna
+- Pernera de corte medio
 - Corte ajustado
+- Tejido Infinitex
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CZ78CKX7{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Goma Gripstick
 - El cuello acolchado se ajusta cómodamente al tobillo
 - Forro confeccionado en tejido ReBOTL con al menos un 50 % de plástico
-- Goma Gripstick
 - Cuero Better Leather, procedente de una curtiduría con certificación de plata del Leather Working Group por sus buenas prácticas de gestión del agua, la energía y los residuos
 - Plantilla antifatiga extraíble
 

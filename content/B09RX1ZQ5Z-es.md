@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Básicos, Ropa de Calle
+- Camiseta con las siguientes características:
+- Descubre todas las marcas de EMP!
 - Camiseta || Ajuste normal || Cuello Redondo || Material duradero
 - Ajuste : Regular
-- Básicos, Ropa de Calle
-- Descubre todas las marcas de EMP!
-- Camiseta con las siguientes características:
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09RX1ZQ5Z{{</world>}}

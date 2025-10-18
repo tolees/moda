@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Estilo de vida: moda casual
 - Plantilla antibacteriana
-- Diseño: liso
 - Plantilla extraíble
+- Estilo de vida: moda casual
+- Diseño: liso
 - Forro: sin forro
 
 [🛒 Aquí!!!]({{< param buyurl >}})

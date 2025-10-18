@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Exterior: 90% poliéster (reciclado), 10% elastán
 - Cálida, flexible y transpirable, esta chaqueta softshell multifuncional tiene forro polar y propiedades de resistencia a la intemperie; el tratamiento repelente al agua no contiene PFC, y la chaqueta está fabricada de forma responsable con el proceso de fabricación textil certificado bluesign: tú y el medio ambiente salís ganando
-- Una chaqueta softshell para hombre diseñada para ofrecer versatilidad en cualquier salida atlética
 - Artículos entregados: 1x Helly Hansen Hombre Chaqueta Softshell Paramount,L,Negro
+- Una chaqueta softshell para hombre diseñada para ofrecer versatilidad en cualquier salida atlética
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07LBNFKPM{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forro de la capucha del mismo material
 - Estampado de goma para mayor suavidad
+- Forro de la capucha del mismo material
 - Corte normal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sujetador CHARMING triangular con relleno y sin aro, confeccionado con algodón, en tejido de canalé
 - Con detalle de encaje y plaquita metálica
+- Sujetador CHARMING triangular con relleno y sin aro, confeccionado con algodón, en tejido de canalé
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DQVJQPVD{{</world>}}

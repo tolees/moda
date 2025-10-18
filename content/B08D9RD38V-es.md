@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Gafas de sol polarizadas: Reduce los reflejos superficiales y la fatiga ocular proporcionando nitidez y contrastes superiores; Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes fabricadas en material bio tac polarizado; protección 100 % UV; Color de la lente: Oro rosa; Apariencia de la lente: Espejo
-- Modelo Femenino; Medidas: Frontal 141 mm, Varillas 140 mm, Puente 17 mm, Alto 50 mm
-- Montura transparente y lentes rose gold
 - Producto original Hawkers; la caja incluye funda en microfibra y caja
+- Montura transparente y lentes rose gold
+- Modelo Femenino; Medidas: Frontal 141 mm, Varillas 140 mm, Puente 17 mm, Alto 50 mm
 - Material de la montura: TR90; Color de la montura: Transparente; Color de la varilla: Transparente
+- Gafas de sol polarizadas: Reduce los reflejos superficiales y la fatiga ocular proporcionando nitidez y contrastes superiores; Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes fabricadas en material bio tac polarizado; protección 100 % UV; Color de la lente: Oro rosa; Apariencia de la lente: Espejo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08D9RD38V{{</world>}}

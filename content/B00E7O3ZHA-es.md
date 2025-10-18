@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bañador de mujer asimétrico con un solo tirante trenzado, espalda decorativa y tejido con textura de brillo
 - Llévalo a juego con otras prendas y accesorios de la colección
+- Bañador de mujer asimétrico con un solo tirante trenzado, espalda decorativa y tejido con textura de brillo
 - Copas extraíbles
 
 [🛒 Aquí!!!]({{< param buyurl >}})

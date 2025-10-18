@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuello sin etiqueta para un uso sin complicaciones
 - Puños acanalados para un ajuste acogedor
+- Cuello sin etiqueta para un uso sin complicaciones
 - Hecho de tela de punto suave para una comodidad diaria
 
 [🛒 Aquí!!!]({{< param buyurl >}})

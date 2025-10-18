@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Corte
-- Tripulación
 - Logotipo icónico
+- Tripulación
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BP7M96ZY{{</world>}}

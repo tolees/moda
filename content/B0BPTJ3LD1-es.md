@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estructura suave
-- Calcetines elásticos
 - Fabricados en material cómodo
+- Calcetines elásticos
+- Estructura suave
 - Paquete de tres pares
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

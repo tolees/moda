@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Corte holgado
-- Una camisa clásica con botones
 - Fabricada con algodón suave
+- Una camisa clásica con botones
+- Corte holgado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D5HQY7VK{{</world>}}

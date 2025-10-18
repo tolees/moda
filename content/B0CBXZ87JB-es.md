@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ajuste estándar
 - Composición: 100% algodón
+- Ajuste estándar
 - Camiseta
 - manga corta
 

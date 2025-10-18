@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- MATERIAL Y CUIDADO: Camisa de manga larga compuesta por 95 % algodón de la iniciativa Better Cotton y 5 % elastano. Se puede lavar a máquina y secar en secadora.
 - AJUSTE PERFECTO: La camiseta de manga larga es muy cómoda y tiene un diseño minimalista. Gracias a su material de alta calidad es supercómoda y permite una libertad de movimientos total.
 - SENCILLO E INFORMAL: La camiseta básica destaca por su agradable algodón y es perfecta para looks más informales. El cuello redondo y los detalles distintivos de Tommy Hilfiger en el pecho completan el estilo.
+- MATERIAL Y CUIDADO: Camisa de manga larga compuesta por 95 % algodón de la iniciativa Better Cotton y 5 % elastano. Se puede lavar a máquina y secar en secadora.
 - CALIDAD DEMOSTRADA: Desde 1985, esta marca de diseñador lleva demostrando por todo el mundo la calidad y la ligereza mediante una gran variedad de diseños en los míticos colores azul oscuro, blanco y rojo.
 - VERSÁTIL Y PRÁCTICO: Esta prenda es supercómoda y es indispensable para cualquier look informal. La camiseta es perfecta para ponérsela todos los días o para la oficina, ya que se puede combinar de muchas maneras.
 

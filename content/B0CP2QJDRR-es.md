@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pantalón estampado con cinturilla elástica ajustable con cordón y aberturas laterales
 - Camiseta con manga caída
+- Pantalón estampado con cinturilla elástica ajustable con cordón y aberturas laterales
 - Pijama largo, de manga corta y pantalón largo Capri, en color azul con estampado de lunares Confeccionado con viscosa Ecovero y detalles de satén
 
 [🛒 Visítala!!!]({{< param buyurl >}})

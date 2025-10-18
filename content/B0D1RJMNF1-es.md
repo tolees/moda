@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con logo de Calvin Klein en el pecho
-- Puños y bajo de canalé
 - Bolsillo canguro
+- Puños y bajo de canalé
+- Con logo de Calvin Klein en el pecho
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D1RJMNF1{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuello redondo
 - Corte regular
+- Cuello redondo
 - Logotipo estampado de temporada
 
 [🛒 Aquí!!!]({{< param buyurl >}})

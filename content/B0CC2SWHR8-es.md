@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre con cordones
-- Rand con detalles de puntada
 - El lazo del talón ayuda a poner y quitar fácilmente
+- Rand con detalles de puntada
+- Cierre con cordones
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CC2SWHR8{{</world>}}

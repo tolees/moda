@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuenta con logotipo
 - Ofrece libertad de movimiento
 - Óptima para dar un toque informal
+- Cuenta con logotipo
 - Garantiza comodidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})

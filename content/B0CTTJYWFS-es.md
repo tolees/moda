@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Ajuste cómodo
 - Regular Fit
 - Material transpirable
-- Ajuste cómodo
 - 100% algodón
 - Ropa de aventura para todos los días
 

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela: goma
-- Forma del tacón: plano
-- Cierre: cremallera
-- Material interior: sintético
 - Material superior: sintético
+- Cierre: cremallera
+- Forma del tacón: plano
+- Suela: goma
+- Material interior: sintético
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BN6LXPNY{{</world>}}

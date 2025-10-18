@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Extremos de las mangas con vuelta fija
-- Estampado G-STAR en el pecho y en la parte trasera
 - Cuello acanalado
+- Estampado G-STAR en el pecho y en la parte trasera
 - Etiqueta de G-STAR tejida en la costura lateral inferior
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

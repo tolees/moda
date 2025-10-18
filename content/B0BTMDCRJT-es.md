@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Capucha ajustable mediante cordones
 - Tiene detalles distintivos de la marca
-- Chaqueta abierta con cremallera
 - Diseño ligero que ofrece comodidad
+- Capucha ajustable mediante cordones
+- Chaqueta abierta con cremallera
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BTMDCRJT{{</world>}}

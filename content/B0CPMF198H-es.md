@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Soporte reforzado para dedos y tobillos.
-- Flexibilidad óptima gracias a la suela con sistema Flexy integrado
-- Tamaño: 18 UE
 - Zapatos fáciles de poner
+- Tamaño: 18 UE
+- Flexibilidad óptima gracias a la suela con sistema Flexy integrado
 - Plantilla extraíble
 
 [🛒 Aquí!!!]({{< param buyurl >}})

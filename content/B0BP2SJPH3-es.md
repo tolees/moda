@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre magnético
 - Con bolsita extraíble
+- Cierre magnético
 - Bolso de mano
 
 [🛒 Aquí!!!]({{< param buyurl >}})

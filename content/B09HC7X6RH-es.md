@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cabecilla
 - Puños acanalados y dobladillo
+- Cabecilla
 - 70% de algodón, 30% de vellón de poliéster reciclado
 - Ajuste regular
 

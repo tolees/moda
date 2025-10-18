@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pantalón de chándal
 - 315 g/m², 50 % algodón, 50 % poliéster entrelazado
 - Insignias bordadas
+- Pantalón de chándal
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BT88QH4K{{</world>}}

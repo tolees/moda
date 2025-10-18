@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Housemark Polo Camiseta  Mineral Black  M Hombre'
-date: 2025-10-10 17:30:55
+date: 2025-10-18 14:24:25
 image: 'https://m.media-amazon.com/images/I/31zh3YrmdUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B08PDHTTFP/?tag=tolees-21'
 descuento: '57.53'
-average: '22.9464150943394'
+average: '22.729818181818'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

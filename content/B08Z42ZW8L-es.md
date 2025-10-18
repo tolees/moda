@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseño ligero que ofrece comodidad
 - Ropa deportiva que se adapta a cualquier actividad deportiva
+- Diseño ligero que ofrece comodidad
 - Ofrece libertad de movimiento y flexibilidad
 - Producto hecho con un material de óptima calidad y resistente
 

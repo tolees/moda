@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Adivina comprador
 - Adivinar el logotipo de Triangle en metal
+- Adivina comprador
 - Decoración desmontable
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

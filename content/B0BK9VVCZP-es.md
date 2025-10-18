@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Presenta un cierre frontal con cremallera metálica dorada con tirador personalizado Polo Club, dos bolsillos laterales y un bolsillo interior con cierre de cremallera.
-- Puños con terminaciones elásticas personalizadas con el logo de la marca para mayor adaptabilidad. Stoppers con elástico ajustables en la cintura. Etiqueta textil Polo Club de alta definición remallada a la prenda.
-- Esta chaqueta panelada y cuello alto está confeccionada en poliéster reciclado.
 - La chaqueta Hayden pertenece a nuestra colección ultralight.
+- Esta chaqueta panelada y cuello alto está confeccionada en poliéster reciclado.
+- Puños con terminaciones elásticas personalizadas con el logo de la marca para mayor adaptabilidad. Stoppers con elástico ajustables en la cintura. Etiqueta textil Polo Club de alta definición remallada a la prenda.
 - Es resistente al agua, cálida y muy ligera gracias a su relleno, que además protege y cuida nuestro medio ambiente.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

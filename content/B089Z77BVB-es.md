@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Corte normal
-- Cuello redondo acanalado
-- BCI: Al comprar productos de algodón de PUMA, apoyas una producción más sostenible de algodón mediante la Iniciativa del Mejor Algodón (Better Cotton Initiative). Más información en: bettercotton.org/massbalance
-- Estampado del logotipo PUMA N.º 1 de goma en el pecho
 - Algodón 100 %
+- Cuello redondo acanalado
+- Estampado del logotipo PUMA N.º 1 de goma en el pecho
+- BCI: Al comprar productos de algodón de PUMA, apoyas una producción más sostenible de algodón mediante la Iniciativa del Mejor Algodón (Better Cotton Initiative). Más información en: bettercotton.org/massbalance
+- Corte normal
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B089Z77BVB{{</world>}}

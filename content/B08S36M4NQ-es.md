@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Sudadera básica de cuello redondo a rayas con mangas 3/4 en estilo marino
-- Ajuste: ajuste regular, longitud de espalda para talla 48 aprox. 28 pulgadas
 - Hecho de un tejido de poliéster de viscosa suave
+- Ajuste: ajuste regular, longitud de espalda para talla 48 aprox. 28 pulgadas
 - Instrucciones de lavado: no lavar en seco, no secar en secadora, no usar lejía, planchar a baja temperatura (110 °C), ciclo suave a máx. 30 °C
 - Mangas 3/4 con cuello redondo
 

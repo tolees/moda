@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El estilo es simple, los bolsillos solo están disponibles en la parte delantera y trasera
 - Fabricado con elastano adicional para mayor comodidad
+- El estilo es simple, los bolsillos solo están disponibles en la parte delantera y trasera
 - Se encuentra entre los pantalones de traje y los pantalones casuales de cinco bolsillos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

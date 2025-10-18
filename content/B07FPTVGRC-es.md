@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cinco bolsillos
 - Vaqueros Elásticos
-- Ajuste: delgado
 - Pierna delgada
+- Cinco bolsillos
+- Ajuste: delgado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07FPTVGRC{{</world>}}

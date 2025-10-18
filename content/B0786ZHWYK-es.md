@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Pantalones Cargo con las siguientes características:
-- Básicos, Ropa casual, Ropa de Calle
 - Pantalones de carga || Longitud: Normal || altura de la cintura: Talla Mediana
+- Básicos, Ropa casual, Ropa de Calle
 - Descubre todas las marcas de EMP!
 - Ajuste : Ajustado
 

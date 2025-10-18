@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Dispone de bolsillos tipo canguro
-- Logotipo bordado en la parte delantera
-- Sudadera de corte clásico para hombres
 - Puños y bajo con ribete de punto elástico
+- Logotipo bordado en la parte delantera
+- Dispone de bolsillos tipo canguro
+- Sudadera de corte clásico para hombres
 - Tiene capucha con un cordón ajustable
 
 [🛒 Visítala!!!]({{< param buyurl >}})

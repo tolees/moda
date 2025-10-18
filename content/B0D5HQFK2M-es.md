@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Corte estándar
+- Acabado con nuestro logotipo de firma
 - Un Henley versátil de manga corta
 - Hecho de tejido de punto suave
-- Acabado con nuestro logotipo de firma
-- Corte estándar
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D5HQFK2M{{</world>}}

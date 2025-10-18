@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Camiseta algodón manga larga
-- Corte Slim
 - Cuello redondo
+- Corte Slim
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09QLD1J6K{{</world>}}

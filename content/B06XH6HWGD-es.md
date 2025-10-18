@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - La capucha puede guardarse en el collar para cuando no llueva.
-- Protección Helly Tech: totalmente impermeable, a prueba de viento y transpirable
 - El aislamiento sintético Primaloft Black 100 g ofrece propiedades térmicas y repelencia al agua, una excelente alternativa al uso del plumón
+- Protección Helly Tech: totalmente impermeable, a prueba de viento y transpirable
 - Protección total de los elementos a la vez que cómoda en el interior.
 - Forrado para la comodidad
 

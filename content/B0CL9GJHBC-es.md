@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corpiño femenino
 - Ajuste apretado
+- Corpiño femenino
 - Para uso diario
 
 [🛒 Comprar!!!]({{< param buyurl >}})
