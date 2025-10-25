@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuentan con un estilo informal
 - Ofrecen una óptima comodidad
+- Cuentan con un estilo informal
 - Con una suela gruesa
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

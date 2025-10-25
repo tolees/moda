@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tejido ligero
 - Ofrece comodidad y libertad de movimiento
 - Producto adecuado para múltiples ocasiones
+- Tejido ligero
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CBMSMX9V{{</world>}}

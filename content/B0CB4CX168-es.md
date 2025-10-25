@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tipo de prenda: Camiseta de manga corta con logotipo estampado en el centro del pecho, ideal para actividades deportivas y uso casual
-- Tela y cuello: Hecha de 100% algodón con cuello redondo (cuello crew) y detalle de letras estampadas en el pecho
-- Talla y ajuste: Disponible en talla XS con ajuste regular y longitud estándar
 - Diseño y marca: Camiseta de la reconocida marca Pepe Jeans, con un diseño moderno y relajado, perfecto para el tiempo libre
+- Tela y cuello: Hecha de 100% algodón con cuello redondo (cuello crew) y detalle de letras estampadas en el pecho
 - Color y estampado: Disponible en color azul con estampado de letras en el centro del pecho, agregando un toque de estilo a tu look
+- Tipo de prenda: Camiseta de manga corta con logotipo estampado en el centro del pecho, ideal para actividades deportivas y uso casual
+- Talla y ajuste: Disponible en talla XS con ajuste regular y longitud estándar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CB4CX168{{</world>}}

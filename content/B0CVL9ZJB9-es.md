@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Etiqueta trasera de G-Star RAW hecha de un tejido de papel que imita a la piel
-- Proporciona comodidad
 - Una mirada original
+- Etiqueta trasera de G-Star RAW hecha de un tejido de papel que imita a la piel
 - Bragueta de botones
+- Proporciona comodidad
 - Cinco bolsillos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

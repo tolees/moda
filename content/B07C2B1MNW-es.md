@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mangas con puños
-- Una camisa vaquera ligera
 - Dos bolsillos delanteros para chaqueta
+- Mangas con puños
 - Ajuste regular cómodo
 - Cierres abotonados
+- Una camisa vaquera ligera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07C2B1MNW{{</world>}}

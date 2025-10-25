@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello redondo, largo hasta la cadera, corte recto, monocolor
-- Un gran modelo para muchas ocasiones, perfecto en el trabajo o en el tiempo libre, para debajo o simplemente porque sí, muy cómodo de llevar
-- Moderna camiseta básica de la marca de moda. Jack & Jones
 - Gran relación calidad-precio, mejor calidad, excelente acabado
 - Ajuste: corte regular, ajuste normal
+- Cuello redondo, largo hasta la cadera, corte recto, monocolor
+- Moderna camiseta básica de la marca de moda. Jack & Jones
+- Un gran modelo para muchas ocasiones, perfecto en el trabajo o en el tiempo libre, para debajo o simplemente porque sí, muy cómodo de llevar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0085SFY9G{{</world>}}

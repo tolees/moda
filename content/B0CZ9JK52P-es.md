@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Corte entallado
 - AEROREADY
 - Espacio para personalizarla
 - 100% poliéster (reciclado)
+- Corte entallado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CZ9JK52P{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Logo en tape sobre el bolsillo
 - Incluye capucha ajustable mediante cordones
-- Bolsillos tipo canguro
 - Sudadera abierta con cremallera central
+- Logo en tape sobre el bolsillo
 - Puños y bajos confeccionados en rib para mejorar el ajuste
+- Bolsillos tipo canguro
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09BFH695G{{</world>}}

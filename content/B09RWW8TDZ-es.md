@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Puños y dobladillo sin puños
-- Corte ajustado
-- Chaleco corto de punto para mujer en diseño clásico
-- De poliacrílico, viscosa y nailon
 - Cuello de pico con puños y tira de botones
+- Corte ajustado
+- De poliacrílico, viscosa y nailon
+- Chaleco corto de punto para mujer en diseño clásico
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09RWW8TDZ{{</world>}}

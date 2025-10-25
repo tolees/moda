@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ofrece comodidad y libertad de movimiento
 - Producto hecho con un material de calidad y resistente
 - Capucha ajustable con cordón elástico
+- Ofrece comodidad y libertad de movimiento
 - Chaqueta con cremallera central
 
 [🛒 Visítala!!!]({{< param buyurl >}})

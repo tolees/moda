@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con dos bolsillos abiertos para las manos
 - Cintura de canalé con cordón ajustable
+- Con dos bolsillos abiertos para las manos
 - Pantalón corto
 - Logotipos en la parte delantera y trasera
 

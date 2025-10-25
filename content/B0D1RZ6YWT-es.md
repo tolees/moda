@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello, puños y bajo de canalé
 - Insignia con monograma de Calvin Klein en la manga
+- Cuello, puños y bajo de canalé
 - Ofrece una óptima comodidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

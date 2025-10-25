@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sintético
 - Diseño atemporal para disfrutar todo el año
+- Sintético
 - Ajuste regular
 
 [🛒 Visítala!!!]({{< param buyurl >}})

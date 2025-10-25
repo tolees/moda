@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cinturón óptimo para completar los looks informales de todos los días
 - Tiene un diseño clásico con logotipo grabado
+- Cinturón óptimo para completar los looks informales de todos los días
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07VH6LRFW{{</world>}}

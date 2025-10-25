@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cierre: cordones
-- Material exterior: lona
 - Material interior: textil
+- Material exterior: lona
 - Suela: Caucho
 
 [🛒 Comprar!!!]({{< param buyurl >}})

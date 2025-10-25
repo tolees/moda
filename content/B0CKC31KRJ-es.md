@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bajo recto
-- Cuello acanalado
 - Proporciona comodidad
+- Cuello acanalado
+- Bajo recto
 - Una mirada original
 - Estampado gráfico en la parte delantera
 

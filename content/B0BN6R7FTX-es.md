@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre: goma
 - Transpirable
 - Piel: charol
+- Cierre: goma
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BN6R7FTX{{</world>}}

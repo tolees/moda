@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ofrece libertad de movimiento
 - Óptima para dar un toque informal
+- Ofrece libertad de movimiento
 - Garantiza comodidad
 - Cuenta con logotipo
 

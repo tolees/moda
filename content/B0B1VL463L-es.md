@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - camisa vaquera
-- Cuello de camisa
 - Bolsillos en el pecho
 - Puños con botones
+- Cuello de camisa
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B1VL463L{{</world>}}

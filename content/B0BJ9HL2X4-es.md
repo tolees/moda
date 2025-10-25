@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bolsillos laterales
 - Corte regular y cónico
+- Bolsillos laterales
 - Cintura elástica con cordón
 
 [🛒 Comprar!!!]({{< param buyurl >}})

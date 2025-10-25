@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Tiene detalles distintivos de la marca "Puma"
 - Para uso diario
 - Prenda deportiva de vestir
-- Tiene detalles distintivos de la marca "Puma"
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D31RRW6N{{</world>}}

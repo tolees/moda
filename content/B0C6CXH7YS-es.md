@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - 2 bolsillos con cremallera para tener las manos calientes y seguras, dobladillo ajustable con cordón de ajuste, puños elásticos, se puede guardar en un bolsillo para mayor comodidad
-- Chaqueta cómoda, Apta para todo el año, Para senderismo, trail running y otras actividades al aire libre
 - Aislamiento de poliéster, Lavable a máquina, Disponible en varios colores
+- Chaqueta cómoda, Apta para todo el año, Para senderismo, trail running y otras actividades al aire libre
 - Contenido: 1x Columbia Mujer Chaqueta con capucha, Silver Falls, Color: Azul (Whisper), Talla: XXL, Artículo: 2034844
 - Práctica cremallera completa, capucha ajustable con protección para la barbilla, elástico parcial en la capucha para un mejor ajuste
 

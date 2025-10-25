@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Polarizado
-- Matte Black/Green
 - Garantía internacional de 2 años
+- Matte Black/Green
+- Polarizado
 - Talla 63/17/125
 
 [🛒 Aquí!!!]({{< param buyurl >}})

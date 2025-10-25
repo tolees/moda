@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Parte de ante
-- Mediasuela con amortiguación
-- Forro textil
 - Horma clásica
+- Forro textil
+- Mediasuela con amortiguación
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C53XJ6XZ{{</world>}}

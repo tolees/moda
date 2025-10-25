@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Prenda de vestimenta
 - Tiene detalles distintivos de la marca, la misma es Puma
+- Prenda de vestimenta
 - Para uso diario
 
 [🛒 Visítala!!!]({{< param buyurl >}})

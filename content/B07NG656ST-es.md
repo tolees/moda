@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- T-shirt dress made of organic cotton
 - basic dress with hidden front pockets
+- T-shirt dress made of organic cotton
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07NG656ST{{</world>}}

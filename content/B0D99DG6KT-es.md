@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Corte holgado
 - Manga larga
 - Sudadera
-- Corte holgado
 - Composición del material: 61% poliéster, 39% algodón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

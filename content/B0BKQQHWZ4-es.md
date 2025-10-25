@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ligero y transpirable
 - Chaqueta para mujer
+- Ligero y transpirable
 - Ajuste regular
 
 [🛒 Comprar!!!]({{< param buyurl >}})

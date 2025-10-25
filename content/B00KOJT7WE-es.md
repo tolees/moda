@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Membrana interior del botín impermeable y transpirable Omni-Tech
 - Mediasuela Techlite, amortiguación superior, alto retorno de la energía
+- Membrana interior del botín impermeable y transpirable Omni-Tech
 - Caucho antimarcas con tracción sobre mojado Omni-Grip
 
 [🛒 Visítala!!!]({{< param buyurl >}})

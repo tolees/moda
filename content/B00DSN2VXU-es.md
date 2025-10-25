@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con cremallera
 - Ultraligero
+- Con cremallera
 - Protección solar Omni-Shade FPU 50
 
 [🛒 Visítala!!!]({{< param buyurl >}})

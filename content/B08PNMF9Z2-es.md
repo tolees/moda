@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - 100% poliéster reciclado
-- Corte clásico
 - Cuello redondo
+- Corte clásico
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08PNMF9Z2{{</world>}}

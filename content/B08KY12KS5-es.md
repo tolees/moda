@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suave
 - Ajuste: delgado
-- Cuello
 - algodón
+- Cuello
+- Suave
 - Camisa
 - Tira de botones
 

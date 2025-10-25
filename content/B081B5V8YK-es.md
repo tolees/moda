@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Columbia CSC basic camiseta estampada de manga corta
 - Color: black
+- Columbia CSC basic camiseta estampada de manga corta
 - Talla: S
 - Tipo de fábrica: Jersey 100% algodón
 

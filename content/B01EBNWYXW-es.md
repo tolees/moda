@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cubre barbillas de tricot
-- Alta calidad
-- Material reflectante
 - Costuras elásticas de contraste en cuello, puños y dobladillo
+- Alta calidad
+- Cubre barbillas de tricot
+- Material reflectante
 - Dos bolsillos con cremallera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

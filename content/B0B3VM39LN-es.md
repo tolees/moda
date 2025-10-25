@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corte entallado
 - Logotipo impreso
+- Corte entallado
 - Cuello redondo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

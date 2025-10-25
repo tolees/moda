@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tela suave
-- Sudadera con capucha ajustable mediante cordones
 - Detalles distintivos de la marca
 - Cuenta con un amplio bolsillo frontal
+- Sudadera con capucha ajustable mediante cordones
+- Tela suave
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BTMPTR1S{{</world>}}

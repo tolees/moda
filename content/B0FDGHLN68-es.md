@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pijama Masculino Manga Corta
 - Colección Mix And Match Green House
+- Pijama Masculino Manga Corta
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FDGHLN68{{</world>}}

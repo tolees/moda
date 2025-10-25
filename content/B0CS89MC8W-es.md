@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Detalles de la marca
 - Tiene un estilo óptimo y ofrece un ajuste cómodo
+- Detalles de la marca
 - Suave y transpirable
 
 [🛒 Aquí!!!]({{< param buyurl >}})

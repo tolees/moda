@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - asegura un ajuste óptimo
-- Este estilo ha sido producido de manera sostenible
 - Cómodo de llevar
+- Este estilo ha sido producido de manera sostenible
 - Este es un producto auténtico y original Geox
 
 [🛒 Aquí!!!]({{< param buyurl >}})

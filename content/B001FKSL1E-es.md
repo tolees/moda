@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello con capucha, costuras selladas, puños elásticas
 - Lavar a máquina a 40°C, no utilizar secadora
 - Material exterior y interior 100% poliéster, de composición Hardshell
-- Aperturas de ventilación en parte trasera y cremallera frontal completa, cubierto
 - Protección para la lluvia, cortaviento, transpirable, impermeable
+- Cuello con capucha, costuras selladas, puños elásticas
+- Aperturas de ventilación en parte trasera y cremallera frontal completa, cubierto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B001FKSL1E{{</world>}}

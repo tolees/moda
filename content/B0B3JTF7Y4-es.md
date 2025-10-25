@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Prenda deportiva de vestir
-- Tiene detalles distintivos de la marca
 - Para uso diario
+- Tiene detalles distintivos de la marca
+- Prenda deportiva de vestir
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B3JTF7Y4{{</world>}}

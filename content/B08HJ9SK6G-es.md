@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Alta calidad
 - Diseno funcional
 - Materiales resistentes
-- Alta calidad
 - De la marca HAWKERS
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

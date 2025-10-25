@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Estampado de G-STAR en el pecho
 - Cuello acanalado
-- Proporciona comodidad
 - Etiqueta de G-STAR Originals tejida en la costura lateral inferior
+- Proporciona comodidad
 - Una mirada original
 
 [🛒 Visítala!!!]({{< param buyurl >}})

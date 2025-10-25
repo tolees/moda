@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Adjustable closure to ensure better grip
 - Reinforced toe for better protection
+- Adjustable closure to ensure better grip
 - Water Friendly Sports Sandals
 - Californian style
 

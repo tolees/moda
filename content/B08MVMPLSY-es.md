@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Durabilidad con material sostenible
-- Ropa interior de diseño ligero de la marca Jack&Jones
 - Suave y transpirable
-- Mezcla de algodón (95% algodón y 5% elastano)
 - Fabricado con algodón orgánico
+- Ropa interior de diseño ligero de la marca Jack&Jones
+- Mezcla de algodón (95% algodón y 5% elastano)
+- Durabilidad con material sostenible
 - JACK & JONES apoya la iniciativa Better Cotton usando algodón orgánico o reciclado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

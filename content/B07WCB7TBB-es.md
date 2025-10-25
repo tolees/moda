@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tecnología GORE-TEX INFINIUM: cortaviento, altamente resistente al agua y extremadamente transpirable
 - GORE R3 Chaqueta para Mujer GORE-TEX INFINIUM Partial, Talla: 44, Color: negro/amarillo neón, 100625
-- Hombros sin costuras para un mayor confort, Dobladillo inferior ajustable con cordón, Paneles elásticos para una mayor libertad de movimiento
+- Tecnología GORE-TEX INFINIUM: cortaviento, altamente resistente al agua y extremadamente transpirable
 - Corte cómodo/Específico para runners
+- Hombros sin costuras para un mayor confort, Dobladillo inferior ajustable con cordón, Paneles elásticos para una mayor libertad de movimiento
 - Chaqueta para mujer versátil para condiciones meteorológicas frías.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

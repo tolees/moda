@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con un ajuste relajado
 - Tejido suave y ligero
+- Con un ajuste relajado
 - Ofrece comodidad durante todo el día
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

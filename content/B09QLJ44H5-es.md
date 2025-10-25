@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Ojal y zorro personalizados, cuello y talón de color de contraste, cómoda plantilla termoformada y extraíble, logotipo clásico en el lateral
 - 75 % poliuretano, 15 % gamuza de vaca, 10 % poliéster
 - Kenton Court W - Tenis básicos vulcanizados de corte bajo con parte superior clásica, cuello acolchado y de color
-- Ojal y zorro personalizados, cuello y talón de color de contraste, cómoda plantilla termoformada y extraíble, logotipo clásico en el lateral
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09QLJ44H5{{</world>}}

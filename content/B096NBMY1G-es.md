@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Horma clásica
-- Plantilla moldeada
-- Forro textil
 - Amortiguación ligera
+- Plantilla moldeada
 - Parte superior sintética
+- Forro textil
 - Suela de EVA
+- Horma clásica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B096NBMY1G{{</world>}}

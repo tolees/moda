@@ -31,8 +31,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - Tejido vaquero elástico de calidad de 98% algodón (de los cuales 10% algodón orgánico producido de forma sostenible) y 2% elastano
 - Asiento de cintura baja, estilo clásico de 5 bolsillos, costuras en plata y cobre
 - Vaqueros ajustados con corte de pierna muy estrecho (estrechos en el muslo y las rodillas, apertura estrecha en el tobillo)
-- Con cremallera
 - Pantalones vaqueros ajustados para un estilo Rock n Roll
+- Con cremallera
 - Estilo original de 5 bolsillos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

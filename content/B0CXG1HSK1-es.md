@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño ligero y flexible
 - Con una correa ajustable
+- Diseño ligero y flexible
 - Ofrecen una comodidad óptima
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

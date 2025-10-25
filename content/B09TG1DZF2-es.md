@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Incluye bolsillos
 - Compuesta en poliéster fleece aportando calidez y confort
+- Incluye bolsillos
 - Puños y bajo en tejido rib para mejorar el ajuste
 
 [🛒 Visítala!!!]({{< param buyurl >}})

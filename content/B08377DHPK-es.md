@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre: sintético
 - Material interior: sintético
+- Cierre: sintético
 - Parte superior: cuero
 - Forma del tacón: tacón de bloque
 

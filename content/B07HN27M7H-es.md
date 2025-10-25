@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Muy conveniente
-- Camiseta Tiempo libre y sportwear Hombre
 - respirable
+- Camiseta Tiempo libre y sportwear Hombre
+- Muy conveniente
 - Ropa deportiva Nike
 
 [🛒 Visítala!!!]({{< param buyurl >}})

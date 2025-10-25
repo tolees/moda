@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Piel: piel de ante
 - Cierre: goma
 - Material: Parte superior: 100% piel
+- Piel: piel de ante
 - 132 pulgadas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

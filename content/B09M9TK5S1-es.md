@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- materialFabricComposition: 100% Polyester- Polyurethane coated
 - Care Label:
-- Hood
 - Jacket
 - Long Sleeves
+- materialFabricComposition: 100% Polyester- Polyurethane coated
+- Hood
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09M9TK5S1{{</world>}}

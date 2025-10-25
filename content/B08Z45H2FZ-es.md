@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ajuste cómodo que ofrece flexibilidad
 - Logotipo bordado y joma serigrafiado
+- Ajuste cómodo que ofrece flexibilidad
 - Cuenta con bolsillos laterales y cremallera en el bajo
 - Pantalón largo con corte skinny con cintura elástica ajustable mediante cordón
 

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Maxi dress with thin straps
 - Fluent fabric
+- Maxi dress with thin straps
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07PW6S34Z{{</world>}}

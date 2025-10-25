@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ropa deportiva Nike
 - Muy conveniente
+- Ropa deportiva Nike
 - Soft fabric
 - Camiseta Tiempo libre y sportwear Hombre
 

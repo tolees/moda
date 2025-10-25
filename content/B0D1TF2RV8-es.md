@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuello, dobladillo y puños acanalados
 - Ofrece una comodidad óptima
+- Cuello, dobladillo y puños acanalados
 - Detalles distintivos de la marca
 
 [🛒 Aquí!!!]({{< param buyurl >}})

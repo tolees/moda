@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El cuello acolchado se ajusta cómodamente al tobillo
-- Plantilla antifatiga extraíble
 - Cuero Better Leather, procedente de una curtiduría con certificación de plata del Leather Working Group por sus buenas prácticas de gestión del agua, la energía y los residuos
 - Goma Gripstick
+- Plantilla antifatiga extraíble
+- El cuello acolchado se ajusta cómodamente al tobillo
 - Forro confeccionado en tejido ReBOTL con al menos un 50 % de plástico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

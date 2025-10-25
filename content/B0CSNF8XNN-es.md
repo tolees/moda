@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Fabricada con algodón 100 % sostenible
-- Estampado
 - Manga corta
+- Estampado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CSNF8XNN{{</world>}}

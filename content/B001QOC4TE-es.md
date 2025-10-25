@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuenta con un diseño ligero
 - Ofrece comodidad y libertad de movimiento
-- Este producto es original Levis
+- Cuenta con un diseño ligero
 - Tiene detalles distintivos de la marca
+- Este producto es original Levis
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B001QOC4TE{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Calzado ligero
 - Hebilla en la correa para ajustar el ajuste
 - Rápido y fácil de poner
+- Calzado ligero
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D6NKC8B3{{</world>}}

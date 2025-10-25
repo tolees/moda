@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Protección contra el frío
 - Impermeables y transpirables
 - Con una amortiguación óptima
+- Protección contra el frío
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CPPVL2PZ{{</world>}}

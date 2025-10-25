@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La Muñeca Mel mide 25 cm, es de Brasil y tiene superpoderes como el resto de sus amigas las Trotties
 - Su superpoder es que tiene la capacidad de hacerse invisible y hacer invisible a los demás al tocarlos
-- Vestida con un look diferente y divertido, de los colores amarillo y azul, y divertidos accesorios como un antifaz de reno y unas zapatillas con orejitas
 - Tiene Emoji Eyes, los ojos le cambian como los emoticonos cuando le presionas el botón de su cabeza
+- Vestida con un look diferente y divertido, de los colores amarillo y azul, y divertidos accesorios como un antifaz de reno y unas zapatillas con orejitas
+- La Muñeca Mel mide 25 cm, es de Brasil y tiene superpoderes como el resto de sus amigas las Trotties
 - Viene con accesorios como una mochila morada para viajar y guardar accesorios
 
 [🛒 Aquí!!!]({{< param buyurl >}})
