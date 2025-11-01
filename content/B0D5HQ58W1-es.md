@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajuste: Atlético
-- Estilo de pantalones: Cónico
-- Estilo informal: Perfecto para occasions casuales
 - Material: 81% algodón, 18% lino, 1% elastano
+- Estilo de pantalones: Cónico
 - Cierre: Pull on
+- Estilo informal: Perfecto para occasions casuales
+- Ajuste: Atlético
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D5HQ58W1{{</world>}}

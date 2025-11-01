@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Casual
 - Scratch
 - Sólo limpieza en seco
+- Casual
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B075NRF7V7{{</world>}}

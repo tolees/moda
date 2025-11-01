@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Vaqueros para mujer
-- Tienen un parche de cuero en la parte posterior de la cintura
 - Con tejido elástico desarrollado para esculpir la silueta
+- Tienen un parche de cuero en la parte posterior de la cintura
+- Vaqueros para mujer
 - Este producto es original Levis
 
 [🛒 Comprar!!!]({{< param buyurl >}})

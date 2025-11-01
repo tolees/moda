@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Bolsillo tipo canguro
 - Detalles distintivos de la marca
-- Tela suave
 - Producto con ajuste regular
+- Tela suave
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07KD6GXBL{{</world>}}

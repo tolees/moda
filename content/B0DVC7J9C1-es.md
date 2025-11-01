@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Ajuste ceñido que se adapta al cuerpo
-- Lavar a máquina
 - Entrepierna de 8 cm
-- De importación
 - Cuerpo: 83 % poliéster/17 % spandex. Forro del refuerzo: 100 % poliéster.
+- De importación
+- Lavar a máquina
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DVC7J9C1{{</world>}}

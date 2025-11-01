@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseño fácil de limpiar
 - Con una amortiguación ligera
+- Diseño fácil de limpiar
 - Ofrecen comodidad y flexibilidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})

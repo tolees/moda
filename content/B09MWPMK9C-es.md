@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 2 bolsillos
-- Sudadera con capucha y cremallera completa
 - 40% poliéster
+- Sudadera con capucha y cremallera completa
+- 2 bolsillos
 - Logotipo Levis en el pecho
 - Ajuste regular
 

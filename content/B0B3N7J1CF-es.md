@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- DENIM EXPRESSION
-- TWO WAYS TO CARRY – Top para las caderas, oro adjustable shouder strap
-- EXTERIOR SLIP POCKET WITH EMBROIDERED LEVIS BRANDING, INTERIOR SLIP POCKET
 - 5 l
+- TWO WAYS TO CARRY – Top para las caderas, oro adjustable shouder strap
+- DENIM EXPRESSION
+- EXTERIOR SLIP POCKET WITH EMBROIDERED LEVIS BRANDING, INTERIOR SLIP POCKET
 - MANO COMPARTEMNT WITH ZIP CLOSURE
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

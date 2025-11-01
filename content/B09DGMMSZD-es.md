@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Incluye: caja de cartón reciclada y reciclable, pegatinas y funda de microfibra
-- Gafas de sol fabricadas en TR90 con el sello de EMS🇨🇭, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia
 - Lentes de TR18 con el sello de Eastman 🇺🇸, uno de los líderes mundiales en tecnología de copoliéster. Respetuoso con el medio ambiente y proporciona un equilibrio único entre claridad y resistencia
 - POLAR - CRYSTAL BROWN PINK
 - Modelo Unisex. Medidas: Frontal 142 mm, Patillas 145 mm, Diámetro de Lente 134 mm
+- Gafas de sol fabricadas en TR90 con el sello de EMS🇨🇭, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia
+- Incluye: caja de cartón reciclada y reciclable, pegatinas y funda de microfibra
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09DGMMSZD{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- VESTIDO DE PUNTO FLUIDO: Este favorecedor vestido swing es muy versátil e ideal tanto para el día como para la noche. Combina este producto con tus deportivas favoritas para pasear por la ciudad durante el día o consigue un look más arreglado para salir por la noche con sandalias para mujer de Amazon Essentials.
-- LARGO: La talla S mide 88,9 cm de largo desde el lateral del cuello.
-- DETALLES: Coqueto vestido swing sin cierre que se va abriendo en una favorecedora forma acampanada. Presenta clásico cuello redondo, mangas cortas y un largo mini perfecto. La forma holgada del vestido le da una caída y un movimiento muy bonitos.
 - ACAMPANADO: Ajustado por el pecho; se ensancha ligeramente hasta llegar al bajo.
+- LARGO: La talla S mide 88,9 cm de largo desde el lateral del cuello.
+- VESTIDO DE PUNTO FLUIDO: Este favorecedor vestido swing es muy versátil e ideal tanto para el día como para la noche. Combina este producto con tus deportivas favoritas para pasear por la ciudad durante el día o consigue un look más arreglado para salir por la noche con sandalias para mujer de Amazon Essentials.
 - PUNTO ELÁSTICO DE RAYÓN: Este tejido de punto es ligero, suave y vaporoso, y proporciona un acabado liso y elegante. También se ofrece en una opción de origen sostenible de 95 % de rayón (viscosa Lenzing Ecovero), 5 % de elastano.
+- DETALLES: Coqueto vestido swing sin cierre que se va abriendo en una favorecedora forma acampanada. Presenta clásico cuello redondo, mangas cortas y un largo mini perfecto. La forma holgada del vestido le da una caída y un movimiento muy bonitos.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07JMVY6R1{{</world>}}

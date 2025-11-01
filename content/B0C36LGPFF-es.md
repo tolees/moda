@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hecho de algodón suave
 - Durabilidad con material sostenible
+- Hecho de algodón suave
 - De manga corta
 - Tela elástica para mayor comodidad
 - Camiseta con cuello dividido para hombre

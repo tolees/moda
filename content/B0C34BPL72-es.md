@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Camiseta de manga corta de running para hombre ligera, elástica y transpirable
 - Tiene detalles distintivos de la marca
+- Camiseta de manga corta de running para hombre ligera, elástica y transpirable
 - Libertad a sus movimientos para que pueda correr con total comodidad y seguridad
 
 [🛒 Visítala!!!]({{< param buyurl >}})

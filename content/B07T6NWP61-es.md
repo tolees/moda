@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hood with lanyard
 - Full-length frontal zip and Side pockets
 - Regular fit
+- Hood with lanyard
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07T6NWP61{{</world>}}

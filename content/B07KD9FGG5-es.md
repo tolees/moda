@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El material absorbe el calor y se seca rápidamente
 - Ribetes y puños acanalados adherentes
+- El material absorbe el calor y se seca rápidamente
 - Ofrece una comodidad óptima
 - Marca del producto: Nike
 

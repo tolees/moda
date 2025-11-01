@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tejido fino y ligero que aporta calidez y mayor comodidad al ser una prenda más ligera y fina que no molesta bajo la ropa
 - Cuello redondo
 - Ideal para deportes de exterior, práctica de moto y bici, y actividades de frío extremo
+- Tejido fino y ligero que aporta calidez y mayor comodidad al ser una prenda más ligera y fina que no molesta bajo la ropa
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01BF91GJ8{{</world>}}

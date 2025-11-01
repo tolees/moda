@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Zapatos de baloncesto
 - Suela de goma resistente
 - Estilo retro
-- Zapatos de baloncesto
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B2TGVZ92{{</world>}}

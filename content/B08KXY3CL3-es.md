@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Camisa
+- Cuello
 - Tira de botones
-- algodón
 - Suave
 - Ajuste: delgado
-- Cuello
-- Camisa
+- algodón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08KXY3CL3{{</world>}}

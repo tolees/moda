@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Dobladillo con cordón y topes
 - Chaqueta de amortiguador corta y fuertemente acolchada para hombre
+- Dobladillo con cordón y topes
 - Ein Klick auf den Markennamen führt zum URBAN CLASSICS Brand Store und noch mehr angesagter Streetwear!
-- De poliéster con forro de tafetán
 - Cuello alto, bolsillos laterales
+- De poliéster con forro de tafetán
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B099KKS19L{{</world>}}

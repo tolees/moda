@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material de la montura: TR90
-- Modelo Unisex.Medidas: Frontal 141 mm; Alto 50 mm; Patillas 140 mm; Puente 18 mm; Diámetro de lente 54 mm
 - Producto original Hawkers. La caja incluye funda en microfibra y caja
-- Sumérgete en un mundo de estilo y protección con nuestras gafas Hawkers. Encuentra elegancia y funcionalidad para brindarte la mejor experiencia. Con una montura duradera y lentes de alta calidad.
 - Categoría de filtro 3, color suficientemente oscuro para usar en exterior a pleno sol. Lentes de TR18 con el sello de Eastman, gran calidad óptica y resistencia. Respetuoso con el medio ambiente. Protección 100% UV.
+- Sumérgete en un mundo de estilo y protección con nuestras gafas Hawkers. Encuentra elegancia y funcionalidad para brindarte la mejor experiencia. Con una montura duradera y lentes de alta calidad.
+- Modelo Unisex.Medidas: Frontal 141 mm; Alto 50 mm; Patillas 140 mm; Puente 18 mm; Diámetro de lente 54 mm
+- Material de la montura: TR90
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D2JCS89C{{</world>}}

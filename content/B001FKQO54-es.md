@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Protección para la lluvia, cortaviento, transpirable, impermeable
 - Material exterior y interior 100 percent poliéster, de composición Hardshell
-- Cuello con capucha, costuras selladas, puños elásticas
-- Aperturas de ventilación en parte trasera y cremallera frontal completa, cubierto
 - Lavar a máquina a 40°C, no utilizar secadora
+- Aperturas de ventilación en parte trasera y cremallera frontal completa, cubierto
+- Cuello con capucha, costuras selladas, puños elásticas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B001FKQO54{{</world>}}

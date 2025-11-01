@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuello con cremallera
-- Ajuste regular
-- Sudadera con capucha
 - 40% poliéster
+- Ajuste regular
+- Cuello con cremallera
+- Sudadera con capucha
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07K71KW7K{{</world>}}

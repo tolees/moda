@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Crocs Suela antideslizante
 - Plantilla contorneada con icónica Crocs
+- Crocs Suela antideslizante
 - Diseño de puntera cerrada para ayudar a proteger el pie de derrames y caídas.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores. Lentes categoría 3 fabricadas con material bio tac polarizado y protección uv400.
 - Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Almohadillas de TR90 para una sujeción mucho más cómoda
-- Medidas: Frontal 141,5 mm; Patillas 145 mm ; Alto 46 mm. Modelo Unisex
 - Las Idle tienen una forma clásica de gafas de sol, pero con una lente de máscara completa sin aros. Este modelo gris degradado tiene patillas negras brillantes.
+- Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores. Lentes categoría 3 fabricadas con material bio tac polarizado y protección uv400.
+- Medidas: Frontal 141,5 mm; Patillas 145 mm ; Alto 46 mm. Modelo Unisex
 - Producto original Hawkers. La caja incluye funda en microfibra y caja
 
 [🛒 Comprar!!!]({{< param buyurl >}})

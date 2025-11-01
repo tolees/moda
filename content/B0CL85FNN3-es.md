@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ancho cómodo en los muslos
 - Corte relajado con cintura alta
 - Bolsillos traseros, bolsillo para monedas, bolsillos delanteros
+- Ancho cómodo en los muslos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CL85FNN3{{</world>}}

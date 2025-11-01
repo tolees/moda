@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- EN ISO 20347:2022
 - Plantilla de espuma viscoelástica
-- Zapatos deportivos sin cordones con parte inferior antideslizante
 - OB E FO SR
+- EN ISO 20347:2022
+- Zapatos deportivos sin cordones con parte inferior antideslizante
 - Ajuste sin atar
 
 [🛒 Aquí!!!]({{< param buyurl >}})

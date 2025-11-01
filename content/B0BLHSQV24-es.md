@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Ajuste regular a estrecho
 - Construcción de lengüeta regular que se adapta a varias formas de pie
 - Lavar a mano
-- Ajuste regular a estrecho
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BLHSQV24{{</world>}}

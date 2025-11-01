@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Algodón
 - Diseño Flores
+- Algodón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DNKD7M68{{</world>}}

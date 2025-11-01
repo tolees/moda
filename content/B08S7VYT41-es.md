@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Logo Detailing
-- Manga larga
 - Color liso con estampado
+- Manga larga
 - Cuello redondo
 - Camiseta cómoda
 

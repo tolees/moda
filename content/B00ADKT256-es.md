@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Marca: Selene
+- Selene Sujetador Estela Sin Aros Y Sin Relleno Negro 115C
 - Tipo de producto: BRA
 - Tamaño: 115C
-- Selene Sujetador Estela Sin Aros Y Sin Relleno Negro 115C
+- Marca: Selene
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00ADKT256{{</world>}}

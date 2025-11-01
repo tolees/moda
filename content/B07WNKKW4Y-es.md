@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Vaqueros de cintura media
 - Cremallera con botón de logotipo
 - Corte regular con piernas delgadas
-- Vaqueros de cintura media
 - Cintura con trabillas anchas
 - Dos bolsillos laterales y un bolsillo para monedas con ribetes anchos
 

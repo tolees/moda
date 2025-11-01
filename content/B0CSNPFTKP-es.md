@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Manga larga
 - Fabricada con algodón 100 % sostenible
+- Manga larga
 - Logotipo en el pecho
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

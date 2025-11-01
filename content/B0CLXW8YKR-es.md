@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tipo De Tacón: Plano
 - Tipo Gl: Zapatos
+- Tipo De Tacón: Plano
 - Tipo De Patrón: Sólido
 
 [🛒 Aquí!!!]({{< param buyurl >}})

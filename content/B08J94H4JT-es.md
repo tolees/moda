@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ESTILO INFORMAL PARA EL DÍA A DÍA: Esta sudadera con capucha de estilo informal, con cremallera y detalles clásicos es ligera y cómoda para todo el día.
-- DETALLES: Presenta capucha con cordón de ajuste, bolsillo tipo canguro, cremallera central completa en la parte delantera y canalé en los puños de las mangas y en el dobladillo inferior.
 - LIGERA FELPA DE RIZO: Producto confeccionado en un tejido felpa de rizo con mezcla de algodón y poliéster, suave, elástico y transpirable por naturaleza.
 - AJUSTE NORMAL: Ajuste cómodo en hombros, pecho y cintura.
+- DETALLES: Presenta capucha con cordón de ajuste, bolsillo tipo canguro, cremallera central completa en la parte delantera y canalé en los puños de las mangas y en el dobladillo inferior.
+- ESTILO INFORMAL PARA EL DÍA A DÍA: Esta sudadera con capucha de estilo informal, con cremallera y detalles clásicos es ligera y cómoda para todo el día.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08J94H4JT{{</world>}}

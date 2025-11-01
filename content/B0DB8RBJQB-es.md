@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Repelente al agua
-- 27.5 altura x 43.5 anchura x 28 cm de profundidad
-- Bolsa de bebé grande (con cambiador)
 - Peso 0.96kg y volumen 22L
+- Bolsa de bebé grande (con cambiador)
+- 27.5 altura x 43.5 anchura x 28 cm de profundidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DB8RBJQB{{</world>}}

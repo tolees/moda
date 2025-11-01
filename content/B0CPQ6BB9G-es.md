@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Impermeables y transpirables
 - Presentan un estilo informal
 - Con un forro cálido
-- Impermeables y transpirables
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CPQ6BB9G{{</world>}}

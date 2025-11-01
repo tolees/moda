@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Manga raglán.
 - Corte clásico más ancho y silueta recta.
+- Manga raglán.
 - Mangas con ribete en contraste.
-- Muñequeras de goma en las mangas
 - Puños y dobladillo de canalé.
 - Logotipo de adidas bordado en el pecho.
+- Muñequeras de goma en las mangas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B076HQ3VQK{{</world>}}

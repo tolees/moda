@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Shirt collar
 - Long sleeves, straight inset- cuffed
-- Shaping seams at the back panel
 - Super Slim Fit
+- Shaping seams at the back panel
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07Z5CPP34{{</world>}}

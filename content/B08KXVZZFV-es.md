@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Sudadera con Capucha con Cordones
-- Puños y dobladillo acanalados
 - Corte regular
+- Puños y dobladillo acanalados
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08KXVZZFV{{</world>}}

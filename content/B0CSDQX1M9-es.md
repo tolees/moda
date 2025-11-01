@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CALIDAD DEMOSTRADA: Desde 1985, esta marca de diseñador lleva demostrando por todo el mundo la calidad y la ligereza mediante una gran variedad de diseños en los míticos colores azul oscuro, blanco y rojo.
 - AJUSTE PERFECTO: Esta camiseta de manga corta de algodón orgánico suave tiene un diseño informal y un corte entallado.
-- MATERIAL Y CUIDADO: La camiseta está confeccionada en algodón regenerativo 100 %. Se puede lavar a máquina y secar en secadora.
 - SENCILLO E INFORMAL: La camiseta básica de algodón es supercómoda y perfecta para looks más informales. Los detalles distintivos de Tommy Hilfiger en el pecho completan el estilo.
+- MATERIAL Y CUIDADO: La camiseta está confeccionada en algodón regenerativo 100 %. Se puede lavar a máquina y secar en secadora.
+- CALIDAD DEMOSTRADA: Desde 1985, esta marca de diseñador lleva demostrando por todo el mundo la calidad y la ligereza mediante una gran variedad de diseños en los míticos colores azul oscuro, blanco y rojo.
 - DISEÑO PREMIUM: El estilo sencillo de este top es la base de cualquier conjunto. Esta moderna camiseta también es perfecta como regalo.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

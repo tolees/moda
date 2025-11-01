@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Vestido corto de moda para mujer
-- Con cierre de cordón en tendencia
 - Cuello redondo clásico y mangas 3/4
+- Con cierre de cordón en tendencia
+- Vestido corto de moda para mujer
 - Ajuste regular para mayor comodidad al vestir
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

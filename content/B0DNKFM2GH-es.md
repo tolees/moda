@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Basica
 - Con rayas
+- Basica
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DNKFM2GH{{</world>}}

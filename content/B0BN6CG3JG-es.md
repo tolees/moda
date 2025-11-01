@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Cierre: cremallera
+- Forma del talón: plano
 - Material interior: sintético
 - Material exterior: sintético
-- Forma del talón: plano
 - Suela: Caucho
 
 [🛒 Aquí!!!]({{< param buyurl >}})

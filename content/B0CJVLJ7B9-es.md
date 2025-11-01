@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Camiseta manga corta algodón orgánico. bordado de lentejuelas.
 - 100% algodón
+- Camiseta manga corta algodón orgánico. bordado de lentejuelas.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CJVLJ7B9{{</world>}}

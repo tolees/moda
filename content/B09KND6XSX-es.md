@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ofrecen una transpirabilidad óptima
-- Flexibilidad
-- Fácil de llevar para un confort optimo
 - Transpirable
+- Flexibilidad
+- Ofrecen una transpirabilidad óptima
+- Fácil de llevar para un confort optimo
 - Con protección contra el frío
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

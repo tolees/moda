@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Tiene bolsillos
-- Este producto es original Levis
 - Presenta cordones
+- Este producto es original Levis
 - Adecuada para días fríos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

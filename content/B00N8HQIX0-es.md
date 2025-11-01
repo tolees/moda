@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Ajuste estándar (regular fit)
+- Instrucciones de cuidado: lavado en seco
 - Inyector de chaqueta Alpha industries III.
 - Chaqueta aviador Inyector III de nylon 2Tone
-- Instrucciones de cuidado: lavado en seco
-- Ajuste estándar (regular fit)
 - Material: 100% nylon
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

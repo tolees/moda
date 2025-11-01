@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- UA Performance Tech 3pk Crew, Negro, MD
 - Productos de excelente calidad
 - Buen producto para su uso
+- UA Performance Tech 3pk Crew, Negro, MD
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C5JQZHWW{{</world>}}

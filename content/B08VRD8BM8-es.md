@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Corte clásico
-- Puños y dobladillo de canalé
 - Felpa 70% algodón / 30% poliéster reciclado
+- Puños y dobladillo de canalé
 - Cuello redondo
+- Corte clásico
 - Compra una talla más pequeña
 
 [🛒 Aquí!!!]({{< param buyurl >}})

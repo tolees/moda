@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Detalle de encaje
-- Tirantes ajustables y finos
 - Con aros y relleno
+- Tirantes ajustables y finos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D6RW31YV{{</world>}}

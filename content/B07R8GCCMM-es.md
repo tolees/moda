@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuero
 - Botines
+- Cuero
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07R8GCCMM{{</world>}}

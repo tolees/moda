@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de tacón: Plano
-- Material exterior: Caucho
-- Material de la suela: Goma
-- 39/40 EU (37/38 Brazilian)
 - Revestimiento: Sin forro
 - Cierre: Sin cordones
+- Material exterior: Caucho
+- Material de la suela: Goma
+- Tipo de tacón: Plano
+- 39/40 EU (37/38 Brazilian)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B015SGFI6Q{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ofrece una comodidad óptima
 - Tejido ligero y suave
+- Ofrece una comodidad óptima
 - Presenta un estilo casual
 
 [🛒 Visítala!!!]({{< param buyurl >}})

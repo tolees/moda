@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Con logotipo en la parte delantera
-- Cuello redondeado
 - Fabricado con 100 % algodón sostenible
+- Cuello redondeado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CSP5FHLX{{</world>}}

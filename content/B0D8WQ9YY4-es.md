@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Etiqueta de G-STAR Originals tejida en la costura lateral inferior
-- Estampado de G-STAR en el pecho
 - Una mirada original
+- Estampado de G-STAR en el pecho
+- Etiqueta de G-STAR Originals tejida en la costura lateral inferior
 - Cuello acanalado
 - Proporciona comodidad
 

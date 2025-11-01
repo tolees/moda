@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiene detalles distintivos de la marca
-- Material resistente y duradero
 - Ajuste cómodo que ofrece flexibilidad
+- Material resistente y duradero
+- Tiene detalles distintivos de la marca
 - Mangas tipo raglán para permitir la libertad de movimiento
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

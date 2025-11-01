@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Tiene detalles distintivos de la marca
 - Diseño ligero que ofrece comodidad
-- Diseño deportivo
 - Tela suave
+- Diseño deportivo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BT7QNF1T{{</world>}}

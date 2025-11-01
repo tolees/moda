@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Tejido suave al tacto
 - Explora nuestra gama de productos
 - Logotipo icónico PUMA No1 en estampado completo
-- Tejido suave al tacto
 - Cinturilla cómoda
 
 [🛒 Visítala!!!]({{< param buyurl >}})

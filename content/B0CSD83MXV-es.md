@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- TAMAÑO: Grupo de edad para niñas de 2 a 8 años. Nuestros vestidos para niñas están diseñados para dejar espacio para el crecimiento. Para obtener más detalles sobre las tallas, lea la tabla de tallas en las imágenes de la izquierda antes de comprar.
-- Lavar a máquina o a mano, secar en secadora a baja temperatura.
 - Con adorables aplicaciones de dibujos animados para niños pequeños, este vestido de punto se convertirá en un favorito instantáneo.
+- TAMAÑO: Grupo de edad para niñas de 2 a 8 años. Nuestros vestidos para niñas están diseñados para dejar espacio para el crecimiento. Para obtener más detalles sobre las tallas, lea la tabla de tallas en las imágenes de la izquierda antes de comprar.
 - DISEÑO: cuello redondo, por encima de la rodilla, estilo único y lindo con volantes. Costuras duraderas adecuadas para niñas activas.
+- Lavar a máquina o a mano, secar en secadora a baja temperatura.
 - MATERIAL: 100% algodón, tejido de algodón suave, liso, natural y liviano, cómodo de usar.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

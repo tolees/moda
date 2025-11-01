@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Soft fabric
 - Kangaroo pocket
+- Soft fabric
 - Regular fit
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Con tecnología Nike Dri-FIT para eliminar el sudor de la piel y para una evaporación rápida
 - Tiene bolsillos laterales oblicuos
-- Cuenta con el logo de la marca en el pecho
 - Chaqueta de deporte para hombre
+- Cuenta con el logo de la marca en el pecho
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07W6YHCR1{{</world>}}

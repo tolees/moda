@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- JACK & JONES apoya la iniciativa Better Cotton usando algodón orgánico o reciclado
+- Ropa interior de diseño ligero de la marca Jack&Jones
+- Fabricado con algodón orgánico
 - Mezcla de algodón (95% algodón y 5% elastano)
 - Suave y transpirable
-- Fabricado con algodón orgánico
-- Ropa interior de diseño ligero de la marca Jack&Jones
+- JACK & JONES apoya la iniciativa Better Cotton usando algodón orgánico o reciclado
 - Durabilidad con material sostenible
 
 [🛒 Aquí!!!]({{< param buyurl >}})
