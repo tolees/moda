@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cordón regulador elástico en cintura para un mejor ajuste.
-- Tapeta protección interna parte superior.
 - Chaqueta polar con cierre cremallera completa.
-- 3 bolsillos con cremallera.
+- Cordón regulador elástico en cintura para un mejor ajuste.
 - Tejido polar antipeeling 100% poliéster 280 gr/m2.
+- Tapeta protección interna parte superior.
+- 3 bolsillos con cremallera.
 - Puños elásticos con goma.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

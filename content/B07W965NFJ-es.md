@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajuste regular
 - Tela seca
+- Ajuste regular
 - Modelo: BV6883
 - Ropa deportiva
 

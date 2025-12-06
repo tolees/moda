@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Tejido ligero y duradero
 - La tecnología del material elimina el sudor de la piel
-- Ajuste regular
 - Corte clásico
+- Ajuste regular
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08T9TR29D{{</world>}}

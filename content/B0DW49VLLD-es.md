@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Suela antideslizante. Con plantilla extraíble
-- [Nuestra Marca]: XTI se caracteriza por su moda urbana y funcional con calzado que combina las últimas tendencias con comodidad y versatilidad para un estilo de vida activo y moderno.
 - Este modelo ha obtenido el certificado vegano por la organización mundial PETA (Organización de los derechos de los animales)
+- [Nuestra Marca]: XTI se caracteriza por su moda urbana y funcional con calzado que combina las últimas tendencias con comodidad y versatilidad para un estilo de vida activo y moderno.
 - Chancla de hombre, de la marca Xti. Fabricada en goma, perfecta para tus planes de verano
 
 [🛒 Comprar!!!]({{< param buyurl >}})

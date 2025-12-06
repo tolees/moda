@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material de la montura: Metal, TR90; Color de la montura: Negro; Color de la varilla: Negro
 - El negro mate del clásico frontal cuadrado y el puente de ojo de cerradura truncado de este diseño se combinan con lentes color deep turquesa; las patillas metálicas color gun metal contrastan con los terminales engomados de color turquesa oscuro; la combinación de materiales y colores, la unión angular y el ligero biselado de las patillas confieren a este modelo un carácter fresco y deportivo
+- Producto original Hawkers; la caja incluye funda en microfibra y caja
+- Material de la montura: Metal, TR90; Color de la montura: Negro; Color de la varilla: Negro
 - Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes de TR18 con el sello de Eastman, gran calidad óptica y resistencia; respetuoso con el medio ambiente; protección 100% UV; Color de la lente: Azul; Apariencia de la lente: Sólida
 - Modelo Unisex; Medidas: Frontal 144 mm, Varillas 140 mm, Puente 18 mm, Alto 47;3 mm
-- Producto original Hawkers; la caja incluye funda en microfibra y caja
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B099S7DZ6F{{</world>}}

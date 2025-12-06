@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con su diseño limpio y resistente a la intemperie, nuestra chaqueta Seven J te mantiene cómodo en condiciones cambiantes, tanto si estás en la ciudad como en una aventura al aire libre; diseñada con tejido HELLY TECH PROTECTION y costuras selladas, es impermeable, transpirable y cortaviento; incorpora los elementos esenciales para practicar senderismo, ciclismo o simplemente pasar el rato, como una capucha ajustable, una solapa contra tormentas, una protección contra rozaduras en la barbilla y un forro de secado rápido; pensando en el medio ambiente, está confeccionada de forma responsable con el proceso de fabricación textil certificado bluesign
-- Artículos entregados: 1x Helly Hansen Hombre Chubasquero Seven J,M,Azul marino
 - Una chaqueta totalmente impermeable con un diseño limpio y moderno
+- Artículos entregados: 1x Helly Hansen Hombre Chubasquero Seven J,M,Azul marino
+- Con su diseño limpio y resistente a la intemperie, nuestra chaqueta Seven J te mantiene cómodo en condiciones cambiantes, tanto si estás en la ciudad como en una aventura al aire libre; diseñada con tejido HELLY TECH PROTECTION y costuras selladas, es impermeable, transpirable y cortaviento; incorpora los elementos esenciales para practicar senderismo, ciclismo o simplemente pasar el rato, como una capucha ajustable, una solapa contra tormentas, una protección contra rozaduras en la barbilla y un forro de secado rápido; pensando en el medio ambiente, está confeccionada de forma responsable con el proceso de fabricación textil certificado bluesign
 - Exterior: 100% poliéster - Forro: 100% poliéster
 
 [🛒 Comprar!!!]({{< param buyurl >}})

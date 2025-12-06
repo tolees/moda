@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Corte largo
 - Funcionamiento: repelente al agua
 - Con capucha
-- Corte largo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B091PN1BVH{{</world>}}

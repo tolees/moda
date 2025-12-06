@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Prenda de vestir
 - Para uso diario
 - Estilo deportivo
-- Prenda de vestir
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C3W6LBPC{{</world>}}

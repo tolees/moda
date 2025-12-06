@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Bisagra de doble acción para un cierre de patillas seguro y durabilidad.
-- Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores. Lentes categoría 3 fabricadas con material bio tac polarizado y protección uv400.
-- Producto original Hawkers. La caja incluye funda en microfibra y caja
 - Medidas: Frontal 147,5 mm; Patillas 140 mm ; Puente 18 mm ; Alto 54 mm. Modelo Unisex
 - Modelo con montura XL de color azul marino en TR90 y acabado mate. Sus lentes son espejadas y polarizadas de color azul “sky”. Podemos percibir pequeñas estrías en el interior de sus terminales que aportan una mayor sujeción.
+- Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores. Lentes categoría 3 fabricadas con material bio tac polarizado y protección uv400.
+- Producto original Hawkers. La caja incluye funda en microfibra y caja
+- Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Bisagra de doble acción para un cierre de patillas seguro y durabilidad.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C5RX7WVR{{</world>}}

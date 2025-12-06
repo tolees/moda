@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gafas de sol modernas con marco llamativo
-- Bolsa protectora con logotipo de Urban Classics y cordón
-- Hecho de policarbonato, aleación de zinc y cobre
 - Lentes tintadas redondas
+- Hecho de policarbonato, aleación de zinc y cobre
 - Marco de plástico con puente de nariz recto y doble
+- Bolsa protectora con logotipo de Urban Classics y cordón
+- Gafas de sol modernas con marco llamativo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08Y5J96YC{{</world>}}

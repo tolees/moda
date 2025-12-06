@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Regular Fit
 - Manga Larga
+- Regular Fit
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DNK66SLH{{</world>}}

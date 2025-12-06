@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Artículo de marca Crocs
 - Tiene detalles distintivos de la marca
 - Ofrece comodidad y libertad de movimiento
-- Artículo de marca Crocs
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CG6W556P{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Manga Raglán con costura decorativa en media manga
 - Cuello Redondo
+- Manga Raglán con costura decorativa en media manga
 - Cubrecosturas del cuello reforzado con cinta de tejido base
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

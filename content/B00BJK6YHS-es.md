@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cinturón
-- Ancho de la correa: 40 mm
 - 100% cuero bovino
+- Ancho de la correa: 40 mm
 - Hebilla
+- Cinturón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00BJK6YHS{{</world>}}

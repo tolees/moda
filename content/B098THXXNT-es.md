@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Viscosa suave y transpirable
-- Cordón de algodón fijo
-- Cárdigan con cremallera para niño
 - Ajuste regular con un poco más de ancho
+- Cordón de algodón fijo
+- Viscosa suave y transpirable
+- Cárdigan con cremallera para niño
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B098THXXNT{{</world>}}

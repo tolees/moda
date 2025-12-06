@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre de cordones
-- Suela de goma
 - Empeine de piel sintética y ante
+- Cierre de cordones
 - Horma clásica
 - Forro textil
+- Suela de goma
 - Clásica puntera con forma de T
 
 [🛒 Visítala!!!]({{< param buyurl >}})

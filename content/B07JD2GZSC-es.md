@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Proporciona comodidad
-- Una mirada original
-- Cuello acanalado
-- Bajo recto
 - Estampado de G-Star RAW en la parte delantera
+- Cuello acanalado
+- Una mirada original
+- Proporciona comodidad
+- Bajo recto
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07JD2GZSC{{</world>}}

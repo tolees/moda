@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 100% poliéster (reciclado)
-- Espacio para personalizarla
 - Corte entallado
+- Espacio para personalizarla
+- 100% poliéster (reciclado)
 - AEROREADY
 
 [🛒 Comprar!!!]({{< param buyurl >}})

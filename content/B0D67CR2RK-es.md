@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con logotipo bordado de Champion en el pecho izquierdo
 - Fabricado con algodón de calidad y confección
 - Perfecta para climas cálidos y cualquier ocasión
+- Con logotipo bordado de Champion en el pecho izquierdo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D67CR2RK{{</world>}}

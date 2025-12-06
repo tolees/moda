@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Ideal para la practica de cualquier modalidad bajo la lluvia
-- Adecuado para la práctica de deporte a nivel profesional
 - Bolsillos laterales sin cremallera
+- Adecuado para la práctica de deporte a nivel profesional
 - Chubasquero con capucha integrada, protección para la cremallera en el cuello
 
 [🛒 Visítala!!!]({{< param buyurl >}})

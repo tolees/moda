@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Manga Corta
 - Diseño Love
+- Manga Corta
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DNJW414H{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material exterior: piel Majority W/textil
-- Material interior: Rebotl
-- Grado de resistencia al agua: resistente al agua
 - Forma del tacón: sin tacón
 - Talla del zapato: Medium
+- Grado de resistencia al agua: resistente al agua
+- Material interior: Rebotl
+- Material exterior: piel Majority W/textil
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B9HYY9VV{{</world>}}

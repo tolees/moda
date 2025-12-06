@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Horma clásica
 - Suela sintética
-- Forro textil
-- Diseño fácil de poner y quitar
-- Plantilla moldeada
-- Mediasuela Cloudfoam
 - Parte superior sintética
+- Plantilla moldeada
+- Horma clásica
+- Diseño fácil de poner y quitar
+- Mediasuela Cloudfoam
+- Forro textil
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09NLXP1R1{{</world>}}

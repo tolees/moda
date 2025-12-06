@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Indicada específicamente para running
 - Camiseta de tirantes para mujer
+- Indicada específicamente para running
 - Cómoda de llevar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

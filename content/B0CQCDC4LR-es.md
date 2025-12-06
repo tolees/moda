@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tejido de punto con agarre suave
 - Impresión de pigmentos para un estampado suave
+- Tejido de punto con agarre suave
 - Corte entallado
 
 [🛒 Comprar!!!]({{< param buyurl >}})

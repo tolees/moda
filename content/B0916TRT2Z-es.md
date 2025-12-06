@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Antideslizante en condiciones húmedas y secas
-- Skech-Air
 - Espuma viscoelástica refrigerada por aire
+- Skech-Air
+- Antideslizante en condiciones húmedas y secas
 - Parte superior/forro de piel sintética
 
 [🛒 Visítala!!!]({{< param buyurl >}})

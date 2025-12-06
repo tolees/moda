@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tamaño: 5xl
-- Color: negro
 - Material: 65% algodón, 35% poliéster
+- Color: negro
+- Tamaño: 5xl
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B001JK5J6A{{</world>}}

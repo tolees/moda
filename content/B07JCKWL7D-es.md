@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tamaño: 100
 - Marca: Selene
 - tipo de producto: BRA
+- Tamaño: 100
 - Nombre del árticulo: Selene 4472DALIADTIERRA100 Sujetador Mujer Color: Tierra Talla: 100
 - color: Tierra
 

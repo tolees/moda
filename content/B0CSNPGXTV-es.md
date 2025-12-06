@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello en V
 - PEPE JEANS KENDALL DULWICH Ladies L
 - Manga larga
+- Cuello en V
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CSNPGXTV{{</world>}}

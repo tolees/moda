@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 3ppk value cotton crew s mlx blanco l
-- NIKE es un nombre de marca reconocido
 - Calcetines nike calcetines 3ppk value cotton crew s mlx black/ blanco
+- NIKE es un nombre de marca reconocido
 - Fitness Perfil hombre unisex, material , color black/ blanco
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

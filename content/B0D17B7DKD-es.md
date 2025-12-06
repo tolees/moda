@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Extra Slim Fit
 - Tira de botones
+- Extra Slim Fit
 - Las telas satinadas son más brillantes que otras telas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

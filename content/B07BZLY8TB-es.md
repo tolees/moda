@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Mangas cortas diseñadas para una mejor ejecución de golpes.
 - Tejido de poliéster de secado rápido que disminuye la fricción.
+- Mangas cortas diseñadas para una mejor ejecución de golpes.
 - Corte holgado para evitar la adherencia al cuerpo y mejorar la movilidad.
 - Frescura y ligereza óptima para jugadores de pádel.
 

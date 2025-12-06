@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Puños: elásticos, no ajustables
 - Cremallera: cremallera principal asegurada con una solapa interna para el viento y un protector de barbilla
-- Resistencia al agua: revestimiento hidrofóbico que reduce la absorción de humedad
-- Plegable: el peso de relleno bajo hace que la chaqueta sea ligera y fácil de empacar
 - Aislamiento: plumón sintético ligero para mayor calidez en climas de transición
+- Puños: elásticos, no ajustables
+- Plegable: el peso de relleno bajo hace que la chaqueta sea ligera y fácil de empacar
 - Bolsillos: dos bolsillos laterales con cremallera
+- Resistencia al agua: revestimiento hidrofóbico que reduce la absorción de humedad
 - Dobladillo inferior: sin ajuste
 
 [🛒 Visítala!!!]({{< param buyurl >}})

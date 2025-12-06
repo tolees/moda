@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Paquete de dos pares
 - Tejido elástico
+- Paquete de dos pares
 - Calcetines unisex
 
 [🛒 Visítala!!!]({{< param buyurl >}})

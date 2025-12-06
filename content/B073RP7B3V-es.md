@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Artículos entregados: 1x Helly Hansen Hombre Camiseta HH Tech,L,Gris Claro
 - Una primera capa técnica para utilizar en cualquier actividad esta temporada
 - Exterior: 100% poliéster
-- Artículos entregados: 1x Helly Hansen Hombre Camiseta HH Tech,L,Gris Claro
 - La camiseta HH Tech para hombre está diseñada para una variedad de actividades al aire libre y deportivas; esta camiseta técnica y ligera está confeccionada con un tejido de secado rápido que expulsa la humedad; además, se siente suave y cómoda junto a la piel
 
 [🛒 Aquí!!!]({{< param buyurl >}})

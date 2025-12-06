@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Camiseta
 - suelto
 - Camiseta básica
 - Algodón orgánico
-- Camiseta
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0864LV3KM{{</world>}}

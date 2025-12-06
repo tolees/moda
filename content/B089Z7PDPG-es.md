@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Logotipo del PUMA en el pecho
 - Contiene material reciclado: Producto hecho con fibras recicladas. Una de las soluciones de PUMA para reducir el impacto ambiental
-- Correas de estabilización de los hombros con un diseño de espalda de nadadora
 - Cómoda banda inferior elástica de algodón
+- Correas de estabilización de los hombros con un diseño de espalda de nadadora
+- Logotipo del PUMA en el pecho
 - Sujeción de impacto medio
 
 [🛒 Visítala!!!]({{< param buyurl >}})

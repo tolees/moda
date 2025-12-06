@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sujetador clásico BEAUTIFUL con relleno y con aro
 - Confeccionado en tejido de encaje, con detalle de pieza de encaje bordada en el escote
+- Sujetador clásico BEAUTIFUL con relleno y con aro
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DQVMDXXL{{</world>}}

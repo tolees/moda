@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Plano
 - Sintético
+- Forro textil
 - Cordones
 - Suela exterior de goma
-- Forro textil
 - Parte superior de malla con superposiciones de ante y TPU
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

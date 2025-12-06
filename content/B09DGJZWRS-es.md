@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Modelo Unisex. Medidas: Frontal 141 mm, Patillas 130 mm, Puente 19 mm, Diámetro de Lente 56 mm
+- 360 - CARBON GREY BLUE
 - Lentes de TR18 con el sello de Eastman 🇺🇸, uno de los líderes mundiales en tecnología de copoliéster. Respetuoso con el medio ambiente y proporciona un equilibrio único entre claridad y resistencia
 - Incluye: caja de cartón reciclada y reciclable, pegatinas y funda de microfibra
-- 360 - CARBON GREY BLUE
-- Modelo Unisex. Medidas: Frontal 141 mm, Patillas 130 mm, Puente 19 mm, Diámetro de Lente 56 mm
 - Gafas de sol fabricadas en TR90 con el sello de EMS🇨🇭, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia
 
 [🛒 Comprar!!!]({{< param buyurl >}})

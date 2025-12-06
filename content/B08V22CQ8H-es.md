@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Modelo Unisex; Medidas: Frontal 141 mm, Varillas 140 mm, Puente 17 mm, Alto 50 mm
-- Gafas de sol polarizadas: Reduce los reflejos superficiales y la fatiga ocular proporcionando nitidez y contrastes superiores; Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: TR18 ECO; Color de la lente: Negro; Apariencia de la lente: Sólida
-- ONE, el diseño de Hawkers más vendido de todos los tiempos, ahora disponible en una opción más ecológica; la montura en verde oscuro moteado refleja los biomateriales a base de bambú utilizados (combinados con plásticos reciclados) y se complementa con lentes oscuras polarizadas que, como la montura, están hechas de materiales sostenibles, reciclados y reciclables; el logotipo de Hawkers está grabado en cada patilla y el icónico logotipo ONE está grabado con láser en la lente derecha
-- Producto original Hawkers; la caja incluye funda en microfibra y caja
 - Color de la montura: Verde; Color de la varilla: Verde
+- Producto original Hawkers; la caja incluye funda en microfibra y caja
+- Gafas de sol polarizadas: Reduce los reflejos superficiales y la fatiga ocular proporcionando nitidez y contrastes superiores; Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: TR18 ECO; Color de la lente: Negro; Apariencia de la lente: Sólida
+- Modelo Unisex; Medidas: Frontal 141 mm, Varillas 140 mm, Puente 17 mm, Alto 50 mm
+- ONE, el diseño de Hawkers más vendido de todos los tiempos, ahora disponible en una opción más ecológica; la montura en verde oscuro moteado refleja los biomateriales a base de bambú utilizados (combinados con plásticos reciclados) y se complementa con lentes oscuras polarizadas que, como la montura, están hechas de materiales sostenibles, reciclados y reciclables; el logotipo de Hawkers está grabado en cada patilla y el icónico logotipo ONE está grabado con láser en la lente derecha
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08V22CQ8H{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Obra de arte personalizada del cuello trasero.
+- Serigrafía suave a mano.
 - Construcción de costura lateral.
 - Tejido jersey de peso medio de 150 g/m².
-- Serigrafía suave a mano.
 - Liso: 100% algodón. Blanco / jaspeado: 52% algodón, 48% poliéster.
-- Obra de arte personalizada del cuello trasero.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CV7NPPCH{{</world>}}

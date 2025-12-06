@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Costura plana en la punta
-- Paquete de 3 pares de calcetines
 - Calcetines elásticos
+- Paquete de 3 pares de calcetines
+- Costura plana en la punta
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BNL9Z1S5{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Tiene capucha con un cordón ajustable
 - Sudadera de corte clásico para hombres
 - Logotipo bordado en la parte delantera
-- Tiene capucha con un cordón ajustable
 - Dispone de bolsillos tipo canguro
 - Puños y bajo con ribete de punto elástico
 

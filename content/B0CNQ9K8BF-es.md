@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Compartimento principal delantero
-- Logotipo de la marca
 - Tirantes ajustables
+- Logotipo de la marca
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CNQ9K8BF{{</world>}}

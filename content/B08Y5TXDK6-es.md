@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- HECHAS EN BRASIL: Las chanclas Havaianas están fabricadas 100% en Brasil, calidad y autenticidad
-- TIPO DE TACÓN: Plano | ALTURA DEL TACON: 1,5CM
-- GÉNERO: Chanclas para Hombre y Mujer
 - TALLAS: De acuerdo con las pautas de tamaño establecidas para las chanclas Havaianas en las páginas de detalles de Amazon, el tamaño BR/Proveedor es lo que se considera tamaño de la chancla UE. No es el tamaño de la UE indicado en la plantilla. Con las chanclas Havaianas siempre hay que tener en cuenta que talla BR talla EU, independientemente de lo que muestre la suela del producto
-- Nota Considera la talla BR = talla de la UE, independientemente de lo que muestre la suela del producto, la talla BR se ajusta adecuado y corresponde a la talla de la UE + prueba siempre el producto primero
 - MATERIAL EXTERIOR: Sintético | Material de la Suela: Caucho
+- Nota Considera la talla BR = talla de la UE, independientemente de lo que muestre la suela del producto, la talla BR se ajusta adecuado y corresponde a la talla de la UE + prueba siempre el producto primero
+- HECHAS EN BRASIL: Las chanclas Havaianas están fabricadas 100% en Brasil, calidad y autenticidad
+- GÉNERO: Chanclas para Hombre y Mujer
+- TIPO DE TACÓN: Plano | ALTURA DEL TACON: 1,5CM
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08Y5TXDK6{{</world>}}

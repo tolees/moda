@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Nancy lleva un look óptimo compuesto por un vestido de una sola pieza, formado por falda metalizada y top blanco
 - Para completar su outfit, llevan unos zapatos de color a juego con la falda y el pelo
-- Una muñeca fashion coleccionable indicada para niñas y niños a partir de 3 años a los que les gusten los juegos de peinados y las muñecas
 - Además, estas muñecas Nancy llevan un look a juego con su peinado
+- Una muñeca fashion coleccionable indicada para niñas y niños a partir de 3 años a los que les gusten los juegos de peinados y las muñecas
+- Nancy lleva un look óptimo compuesto por un vestido de una sola pieza, formado por falda metalizada y top blanco
 - Muñeca Nancy diferente, con un mechón de color metalizados llamativo recogido en una coleta
 
 [🛒 Aquí!!!]({{< param buyurl >}})

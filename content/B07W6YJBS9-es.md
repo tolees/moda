@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Detalles distintivos de la marca
-- Sudadera de deporte para hombre
 - Ofrece comodidad todo el día
 - Diseño de ajuste regular
+- Detalles distintivos de la marca
+- Sudadera de deporte para hombre
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07W6YJBS9{{</world>}}

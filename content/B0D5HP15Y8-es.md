@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Con un estilo casual
 - Detalles distintivos de la marca
 - Tejido ligero y cómodo
-- Con un estilo casual
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D5HP15Y8{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- INFORMACIÓN ADICIONAL SOBRE TEJIDOS Y CUIDADOS: Debido a la naturaleza delicada del tejido de viscosa, te recomendamos lavar la prenda en agua fría y colgarla para que se seque con el fin de evitar que el tejido encoja y se arrugue por exceso de calor. Plancha ligeramente la prenda para conseguir un look más elegante y arreglado.
-- BLUSA DE DIARIO: Esta blusa tan versátil es un clásico básico en cualquier armario, perfecta para ir a trabajar, ir de viaje o patearse la ciudad durante el fin de semana.
-- DETALLES: Presenta un sencillo cuello banda con escote en “V”, mangas cortas, cierre delantero con botones y detalle de fruncido delantero para un look femenino.
-- SARGA FLUIDA CON CAÍDA: Producto confeccionado en viscosa 100 %. Nuestra viscosa no es elástica, pero sí extremadamente transpirable y ligera. Este tejido tiene una caída muy bonita y un acabado suave y liso. Además, es cómodo e ideal para todo el año.
 - CORTE RELAJADO: ajuste cómodo y relajado en todo el cuerpo.
+- DETALLES: Presenta un sencillo cuello banda con escote en “V”, mangas cortas, cierre delantero con botones y detalle de fruncido delantero para un look femenino.
+- BLUSA DE DIARIO: Esta blusa tan versátil es un clásico básico en cualquier armario, perfecta para ir a trabajar, ir de viaje o patearse la ciudad durante el fin de semana.
+- INFORMACIÓN ADICIONAL SOBRE TEJIDOS Y CUIDADOS: Debido a la naturaleza delicada del tejido de viscosa, te recomendamos lavar la prenda en agua fría y colgarla para que se seque con el fin de evitar que el tejido encoja y se arrugue por exceso de calor. Plancha ligeramente la prenda para conseguir un look más elegante y arreglado.
+- SARGA FLUIDA CON CAÍDA: Producto confeccionado en viscosa 100 %. Nuestra viscosa no es elástica, pero sí extremadamente transpirable y ligera. Este tejido tiene una caída muy bonita y un acabado suave y liso. Además, es cómodo e ideal para todo el año.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B082ZTRLFK{{</world>}}

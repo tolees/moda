@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cómo no te va a gustar? Una camiseta básica confeccionada en punto ultrasuave
-- Uno de los logotipos más emblemáticos
-- Este producto es original Levis
 - Cómo no te va a gustar? Una camiseta básica confeccionada en punto ultrasuave
+- Este producto es original Levis
+- Uno de los logotipos más emblemáticos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0722WXZR1{{</world>}}

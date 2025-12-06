@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Lentes categoría 3 y protección uv400 que ofrecen una protección antideslumbrante superior. Lentes de TR18 con el sello de Eastman , uno de los líderes mundiales en tecnología de copoliéster. Respetuoso con el medio ambiente y proporciona un equilibrio único entre claridad y resistencia.
+- Gafas de sol redondas estilo pantos con montura de acetato en acabado brillante de color carey con tonos azules a juego con sus lentes “Blue Denim” degradadas. Sus pins frontales en forma de media H y el puente en forma de ojo de cerradura agregan un toque distintivo y refinado al diseño.
+- Modelo Unisex. Medidas: Frontal 144 mm; Patillas 145 mm ; Puente 20 mm ; Alto 52 mm
 - Montura en acetato de celulosa de alta calidad que aporta una máxima resistencia y durabilidad. Bisagra de 3 barras para un mayor agarre y durabilidad.
 - Producto original Hawkers. La caja incluye funda en microfibra y caja
-- Modelo Unisex. Medidas: Frontal 144 mm; Patillas 145 mm ; Puente 20 mm ; Alto 52 mm
-- Gafas de sol redondas estilo pantos con montura de acetato en acabado brillante de color carey con tonos azules a juego con sus lentes “Blue Denim” degradadas. Sus pins frontales en forma de media H y el puente en forma de ojo de cerradura agregan un toque distintivo y refinado al diseño.
-- Lentes categoría 3 y protección uv400 que ofrecen una protección antideslumbrante superior. Lentes de TR18 con el sello de Eastman , uno de los líderes mundiales en tecnología de copoliéster. Respetuoso con el medio ambiente y proporciona un equilibrio único entre claridad y resistencia.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C2Z2PJ19{{</world>}}

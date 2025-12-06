@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Plana
 - Sandalia para mujer
+- Plana
 - Cierre de hebilla
 - Horma comfort
 

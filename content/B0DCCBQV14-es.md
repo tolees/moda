@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Pack de 5 infantil
 - Contiene tela reciclada
-- Algodón suave
 - Costura de los dedos plana para evitar la irritación
+- Algodón suave
 - Ribete cómodo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

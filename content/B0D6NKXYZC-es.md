@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ligeras y transpirables
 - Adecuadas para las aventuras al aire libre
+- Ligeras y transpirables
 - Con una amortiguación óptima
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

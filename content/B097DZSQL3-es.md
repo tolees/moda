@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Los tonos morados se combinan en este modelo de ojo de gato de lentes color uva. Montura de acetato de alta calidad en estampado habana morado semitransparente y patillas estilizadas.
-- Modelo Unisex. Medidas: Frontal 141 mm; Patillas 145 mm; Puente 17 mm; Diámetro de lente 53 mm
 - Lentes de TR18 con el sello de Eastman , uno de los líderes mundiales en tecnología de copoliéster. Respetuoso con el medio ambiente y proporciona un equilibrio único entre claridad y resistencia. Lentes categoría 3 y protección uv400 que ofrecen una protección antideslumbrante superior.
 - Producto original Hawkers. La caja incluye funda en microfibra y caja
+- Modelo Unisex. Medidas: Frontal 141 mm; Patillas 145 mm; Puente 17 mm; Diámetro de lente 53 mm
+- Los tonos morados se combinan en este modelo de ojo de gato de lentes color uva. Montura de acetato de alta calidad en estampado habana morado semitransparente y patillas estilizadas.
 - Montura en acetato de celulosa de alta calidad que aporta una máxima resistencia y durabilidad. Almohadillas de acetato para una sujeción mucho más cómoda. Bisagra de 5 barras para un mayor agarre y durabilidad. Diseño más ancho del terminal de la patilla para mejorar la ergonomía y confort.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

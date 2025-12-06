@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Ajuste: Regular Fit
+- Manga corta con cuello redondo
+- Camiseta con logotipo impreso en la parte delantera
 - De algodón elástico y suave
 - BE PART: Somos miembros orgullosos de la iniciativa Better Cotton (BCI). Con la compra de este artículo apoyas un cultivo de algodón más sostenible.
-- Camiseta con logotipo impreso en la parte delantera
-- Manga corta con cuello redondo
-- Ajuste: Regular Fit
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07V4DQFGL{{</world>}}

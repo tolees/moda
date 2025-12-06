@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Nuestro nuevo diseño de parche engomado Rigby Go al tono en el pecho, su panelado oblicuo y forro a contraste, hacen de esta prenda un clásico renovado.
-- Sin capucha y con cierre de cremallera, incluye dos bolsillos laterales y un bolsillo interior con cremalleras para mayor funcionalidad.
-- Nuestra chaqueta ultralight Chase para hombre, presenta un diseño moderno y funcional.
 - Es una prenda resistente al agua, que sin llegar a ser totalmente impermeable, la hace una elección perfecta para diversas condiciones climáticas.
+- Nuestro nuevo diseño de parche engomado Rigby Go al tono en el pecho, su panelado oblicuo y forro a contraste, hacen de esta prenda un clásico renovado.
+- Nuestra chaqueta ultralight Chase para hombre, presenta un diseño moderno y funcional.
+- Sin capucha y con cierre de cremallera, incluye dos bolsillos laterales y un bolsillo interior con cremalleras para mayor funcionalidad.
 - Su ligero acolchado brinda calor sin restar confortabilidad.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

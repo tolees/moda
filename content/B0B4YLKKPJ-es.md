@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Life pocket
+- Aislamiento soplable sintético
 - Artículos entregados: 1x helly hansen womens w nora long insulated jacket - ins jacket iced coffee s
 - Helly tech protection
-- Aislamiento soplable sintético
-- Life pocket
 - Cremallera bidireccional ykk
 
 [🛒 Comprar!!!]({{< param buyurl >}})

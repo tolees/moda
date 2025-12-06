@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Hecho de 100% algodón sostenible
 - Gran logotipo en el lateral
+- Hecho de 100% algodón sostenible
 - Manga larga
 
 [🛒 Aquí!!!]({{< param buyurl >}})

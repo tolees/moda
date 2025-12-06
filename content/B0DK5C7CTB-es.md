@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Estampado gráfico de G-STAR en la parte delantera
-- Etiqueta de G-STAR Originals tejida en la costura lateral inferior
 - Cuello acanalado
+- Etiqueta de G-STAR Originals tejida en la costura lateral inferior
+- Estampado gráfico de G-STAR en la parte delantera
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DK5C7CTB{{</world>}}

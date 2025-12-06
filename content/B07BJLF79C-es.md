@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CAMISETA LIGERA: Camiseta ligera confeccionada en tejido de punto suave y cómodo.
-- AJUSTE NORMAL: Ajuste cómodo en hombros, pecho y cintura.
 - DETALLES: Canalé en el cuello y el bajo, manga raglán con costuras resistentes y bajo tipo faldón.
+- AJUSTE NORMAL: Ajuste cómodo en hombros, pecho y cintura.
+- CAMISETA LIGERA: Camiseta ligera confeccionada en tejido de punto suave y cómodo.
 - CAMISETA DE CUELLO HENLEY: La mejor alternativa a tu camiseta favorita. Combina este jersey de cuello henley supersuave con unos vaqueros o unos chinos para conseguir un outfit informal de diario.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
