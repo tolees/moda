@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ✔ VERSÁTIL - Casual y fácil de combinar con unos vaqueros ajustados, leggings o tu falda favorita. Esta blusa es un todoterreno para el verano.
+- ✔ MATERIAL - La composición 100% poliéster permite un uso cómodo.
 - ✔ DETALLES - Los puños de las mangas 3/4 con un botón en el cierre y el corte largo en la parte posterior destacan la blusa informal.
 - ✔ MODA - Blusa de JACQUELINE de YONG, un básico de verano y esencial para tu outfit estilo oversize.
-- ✔ MATERIAL - La composición 100% poliéster permite un uso cómodo.
+- ✔ VERSÁTIL - Casual y fácil de combinar con unos vaqueros ajustados, leggings o tu falda favorita. Esta blusa es un todoterreno para el verano.
 - ✔ COMODIDAD - Ajuste holgado y un cómodo escote en V sin cuello que ofrece una excelente comodidad al llevarla.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

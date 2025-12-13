@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Durabilidad con material sostenible
-- Calzoncillos tipo bóxer
 - Suave y transpirable
+- Calzoncillos tipo bóxer
 - Práctico paquete de 5 unidades
 - Cintura elástica
 

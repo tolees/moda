@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Jersey individual a rayas con parche frontal
 - 100% algodón
 - Camiseta de manga corta relajada
+- Jersey individual a rayas con parche frontal
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DKFNZPRP{{</world>}}

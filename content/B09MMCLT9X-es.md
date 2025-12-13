@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Una chaqueta Stormfleece híbrida con la protección de un softshell y la calidez de un forro polar
+- Exterior: 90% poliéster (reciclado), 10% elastán
 - Artículos entregados: 1x Helly Hansen Hombre Chaqueta Cascade Shield,L,Negro
 - La Cascade, confeccionada con forro Stormfleece reciclado, combina las tecnologías de un softshell y un forro polar; al igual que un softshell, es cortaviento, repelente al agua y transpirable; el forro polar proporciona a esta chaqueta una calidez y retención del calor; tienes dos chaquetas de montaña en una, para que puedas salir a la montaña en condiciones meteorológicas cambiantes
-- Exterior: 90% poliéster (reciclado), 10% elastán
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09MMCLT9X{{</world>}}

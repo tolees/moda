@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bolsillo de ojal en contraste
 - Calcetines de fútbol
 - Puntera y talón de algodón para comodidad
+- Bolsillo de ojal en contraste
 - Malla de punto para mejor transpirabilidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})

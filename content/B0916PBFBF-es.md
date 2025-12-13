@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con el logo del póster Levis de la temporada en ante degradado
-- Elaborada en punto suave
 - Una versión moderna de la camiseta clásica
 - Confeccionada con un corte relajado y más holgado
+- Con el logo del póster Levis de la temporada en ante degradado
+- Elaborada en punto suave
 - Este producto es original Levis
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

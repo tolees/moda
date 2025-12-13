@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Chaqueta bomber para hombre con puños acanalados en mangas, dobladillo y cuello
-- Chaqueta bomber clásica para hombre
-- Chaqueta de entretiempo en negro, azul, verde oliva y rojo; Adecuado para primavera, verano, otoño
-- Pespuntes de diamante
 - 2 bolsillos laterales con botones de presión y un bolsillo interior
+- Pespuntes de diamante
+- Chaqueta de entretiempo en negro, azul, verde oliva y rojo; Adecuado para primavera, verano, otoño
+- Chaqueta bomber clásica para hombre
+- Chaqueta bomber para hombre con puños acanalados en mangas, dobladillo y cuello
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00NLLKU2I{{</world>}}

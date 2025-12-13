@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Escote redondo
 - Etiqueta de la bandera en la manga izquierda
+- Escote redondo
 - Logotipo pequeño en el pecho izquierdo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

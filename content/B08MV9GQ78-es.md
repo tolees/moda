@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Camisa
+- algodón
 - Cuello
 - Suave
-- algodón
 - Tira de botones
-- Camisa
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08MV9GQ78{{</world>}}

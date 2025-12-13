@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bolsillos en la parte delantera
 - Bordes acanalados
+- Bolsillos en la parte delantera
 - Cárdigan de punto abierto
 
 [🛒 Visítala!!!]({{< param buyurl >}})

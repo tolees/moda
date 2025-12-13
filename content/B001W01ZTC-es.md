@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Altura del paquete del artículo: 85 mm
+- Longitud del paquete del artículo: 205 mm
 - Peso del paquete del artículo: 0.115 kg
 - Ancho del paquete del artículo: 170 mm
-- Longitud del paquete del artículo: 205 mm
-- Altura del paquete del artículo: 85 mm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B001W01ZTC{{</world>}}

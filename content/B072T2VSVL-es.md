@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sin forro
 - Patrón: color liso
+- Sin forro
 - Tapa abierta
 
 [🛒 Visítala!!!]({{< param buyurl >}})

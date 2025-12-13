@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Hidrófugo
 - 100% poliéster
+- Hidrófugo
 - Puños elásticos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

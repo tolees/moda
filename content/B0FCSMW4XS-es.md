@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Cierre de cremallera y botón
 - Pantalón en tejido sarga elástica para niña
+- Regulador en el interior de la cintura con goma elastica
 - Detalle en bolsillos delanteros
 - Fit Flare, estilo cargo y tiro medio
-- Regulador en el interior de la cintura con goma elastica
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FCSMW4XS{{</world>}}

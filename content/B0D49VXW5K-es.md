@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño elegante y minimalista
 - Fabricado con materiales sostenibles
+- Diseño elegante y minimalista
 - Adecuado para: situaciones formales e informales
 - Bolsa de marca. Love Moschino
 

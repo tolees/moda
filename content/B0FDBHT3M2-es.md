@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Short liso sin costuras, diseñado para ofrecer comodidad y ligereza.
 - Ideal para llevar debajo de vestidos o faldas
-- Con detalle de etiqueta decorativa a tono con el logo en la cinturilla.
+- Short liso sin costuras, diseñado para ofrecer comodidad y ligereza.
 - Solo se admiten cambios o devoluciones con precinto o en productos defectuosos o con taras
+- Con detalle de etiqueta decorativa a tono con el logo en la cinturilla.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FDBHT3M2{{</world>}}

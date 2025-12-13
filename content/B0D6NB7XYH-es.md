@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- con estampado gráfico posicional de dibujo y texto en el delantero
 - con cuello redono
+- con estampado gráfico posicional de dibujo y texto en el delantero
 - Camiseta de manga corta
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ofrece comodidad
 - Adecuado para los días de verano
+- Ofrece comodidad
 - Para uso diario
 
 [🛒 Aquí!!!]({{< param buyurl >}})

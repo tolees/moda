@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Los niños y las niñas (a partir de 3 años) pueden dejar volar su imaginación con Chelsea y su pony.
-- ¡Cabalga hacia la diversión con Chelsea y su dulce pony!
 - ¡No olvides el casco! Va a juego con su adorable vestido a cuadros.
+- ¡Cabalga hacia la diversión con Chelsea y su dulce pony!
+- Los niños y las niñas (a partir de 3 años) pueden dejar volar su imaginación con Chelsea y su pony.
 - Las rodillas de la muñeca Chelsea se doblan para que monte de verdad en el caballo.
 - Sienta a la muñeca Chelsea en su bonita silla de montar rosa y luego encájale los pies en los estribos.
 

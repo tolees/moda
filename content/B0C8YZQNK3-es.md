@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- __Inseam:__ 2.5" / 6.3 cm inseam
 - __Waist:__ Smocked waist
+- __Inseam:__ 2.5" / 6.3 cm inseam
 - __Outseam:__ 27.4 cm / 10.8" outseam
 - __Fabric:__ Lightweight flax linen viscose blend fabric
 

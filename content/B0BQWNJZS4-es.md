@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ajuste absolutamente ideal, combina un corte entallado
-- Corte ajustado en el muslo y para correr
 - Fresco y atemporal, tiene una cintura media y una cremallera
+- Corte ajustado en el muslo y para correr
+- Ajuste absolutamente ideal, combina un corte entallado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BQWNJZS4{{</world>}}

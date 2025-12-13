@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Hecho para combinar con casi cualquier par de jeans Levis
-- Acabado con un sutil logotipo en el pecho
 - Hecha de jersey suave para comodidad durante todo el día
+- Acabado con un sutil logotipo en el pecho
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D54L1M2X{{</world>}}

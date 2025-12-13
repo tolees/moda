@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Colección Autumn Rose
 - Sujetador halter padded
+- Colección Autumn Rose
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FDBH74DP{{</world>}}

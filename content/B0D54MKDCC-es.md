@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Combina perfectamente con cualquiera de estos vaqueros
-- La camiseta básica perfecciona
 - Con logotipo discreto
+- La camiseta básica perfecciona
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D54MKDCC{{</world>}}

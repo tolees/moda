@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forro textil
 - Parte superior de malla sin costuras con refuerzos sellados
-- Horma clásica
 - Cierre de cordones
+- Horma clásica
 - Refuerzos estratégicos de TPU en el antepié y el mediopié
+- Forro textil
 - Mediasuela esculpida Vis-Tech de EVA
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

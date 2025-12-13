@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El corte clásico hace de esta tu camisa favorita
 - Diseñada para mayor comodidad, estilo y versatilidad
+- El corte clásico hace de esta tu camisa favorita
 - Jersey no elástico
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

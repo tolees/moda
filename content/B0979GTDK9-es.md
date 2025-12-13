@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Material de la suela: Sintético
 - Material exterior: Sintético
 - Tipo de tacón: Plano
-- Material de la suela: Sintético
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0979GTDK9{{</world>}}

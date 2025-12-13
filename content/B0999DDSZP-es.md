@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - En blanco liso
-- Mangas de encaje
 - Escote redondo en la espalda
+- Mangas de encaje
 - Slim fit
 - Body efecto arrugado
 

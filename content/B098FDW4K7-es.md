@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Punta redonda
 - Zapatillas deportivas
+- Punta redonda
 - Ropa informal
 
 [🛒 Visítala!!!]({{< param buyurl >}})

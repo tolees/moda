@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Estampado en el pecho
 - Dobladillo y puños acanalados
+- Estampado en el pecho
 - Ofrece una comodidad óptima
 
 [🛒 Visítala!!!]({{< param buyurl >}})

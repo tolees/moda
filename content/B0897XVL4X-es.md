@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Presenta el logotipo de la marca
 - Este producto es original Levis
 - Ofrece una comodidad óptima
+- Presenta el logotipo de la marca
 - Adecuado para días calurosos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

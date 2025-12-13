@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Chaqueta softshell de ciclismo para las épocas más frías del año.
-- Detalles reflectantes en frontal y trasera para aumentar la visibilidad y la seguridad.
 - Paneles bielásticos SensodryWarm en laterales y espalda para un ajuste cómodo y ceñido.
+- Detalles reflectantes en frontal y trasera para aumentar la visibilidad y la seguridad.
+- Chaqueta softshell de ciclismo para las épocas más frías del año.
 - El cardado interior en toda la prenda atrapa el calor para un excelente mantenimiento térmico.
 - Tejidos con membrana M2V en frontal y hombros que aíslan de la lluvia y viento.
 

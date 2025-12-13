@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Logotipo clásico de la marca estampado en la parte delantera.
 - De algodón suave.
-- Camiseta de corte ajustado.
 - Composición del material: 100 % algodón.
+- Camiseta de corte ajustado.
+- Logotipo clásico de la marca estampado en la parte delantera.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B079CC9K5V{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dos bolsillos delanteros y una solapa con imanes
 - Forro interior
+- Dos bolsillos delanteros y una solapa con imanes
 - Bolso bandolera pequeño con un compartimento con cremallera
 - Dimensiones: 19 x 23 x 9 cm
 - Bandolera ajustable y extraíble de 85 cm

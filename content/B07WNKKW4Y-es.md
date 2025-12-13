@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cremallera con botón de logotipo
-- Vaqueros de cintura media
-- Cintura con trabillas anchas
 - Dos bolsillos laterales y un bolsillo para monedas con ribetes anchos
 - Corte regular con piernas delgadas
+- Cintura con trabillas anchas
+- Vaqueros de cintura media
+- Cremallera con botón de logotipo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07WNKKW4Y{{</world>}}

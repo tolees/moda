@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Este modelo ha obtenido el certificado vegano por la organización mundial PETA (Organización de los derechos de los animales)
 - Cómoda planta y gruesa suela de goma antideslizante. Un básico que no puede faltar esta temporada
 - Mocasín de niña, de la marca Xti Kids. Fabricado en material que imita a la piel con cadena al tono
+- Este modelo ha obtenido el certificado vegano por la organización mundial PETA (Organización de los derechos de los animales)
 - [Nuestra Marca]: XTI se caracteriza por su moda urbana y funcional con calzado que combina las últimas tendencias con comodidad y versatilidad para un estilo de vida activo y moderno.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

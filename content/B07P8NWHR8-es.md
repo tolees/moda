@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Ideal partidos y entrenamientos
 - Omini Kappa
 - Resistente y elástica
-- Ideal partidos y entrenamientos
 - Camiseta ideal Rugby
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Care Label:
-- Long Sleeves
-- Jacket
 - materialFabricComposition: 100% Polyester- Polyurethane coated
 - Hood
+- Long Sleeves
+- Care Label:
+- Jacket
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09M9TK5S1{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Dim Calzoncillos tipo bóxer de algodón elástico, diseñados para ofrecer comodidad y apoyo durante todo el día
 - Combina elegancia y bienestar en la vida cotidiana
+- Dim Calzoncillos tipo bóxer de algodón elástico, diseñados para ofrecer comodidad y apoyo durante todo el día
 - Marca francesa
 
 [🛒 Comprar!!!]({{< param buyurl >}})

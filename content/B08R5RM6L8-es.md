@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Importado
-- Peso del producto: 0,5 kg
 - Relleno de plumón
+- Peso del producto: 0,5 kg
 - Ropa exterior cálida
+- Importado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08R5RM6L8{{</world>}}

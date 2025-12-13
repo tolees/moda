@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Horma clásica
 - Plantilla Cloudfoam
+- Parte superior de lona
+- Horma clásica
+- Cierre de cordones
 - Compra una talla más grande
 - Forro textil
-- Parte superior de lona
-- Cierre de cordones
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C2QLJPSX{{</world>}}

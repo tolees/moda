@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Escote redondo
-- Corte regular
 - Tecnología AEROREADY absorbente de humedad
 - Una camiseta con cuello redondo para un rendimiento óptimo
+- Corte regular
+- Escote redondo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08T1MFCQP{{</world>}}

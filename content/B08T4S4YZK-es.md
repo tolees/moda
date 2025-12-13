@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Producto deportivo
 - Cómodo de llevar
 - Adecuado para el ejercicio físico
-- Producto deportivo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08T4S4YZK{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela de tracción flexible
 - Plantilla acolchada y cómoda
+- Suela de tracción flexible
 - Diseño para una comodidad similar a los calcetines
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

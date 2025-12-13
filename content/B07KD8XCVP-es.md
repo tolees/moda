@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Regular fit
-- Kangaroo pocket
 - Soft fabric
+- Kangaroo pocket
+- Regular fit
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07KD8XCVP{{</world>}}

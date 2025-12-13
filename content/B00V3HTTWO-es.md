@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Velocidad de impacto: 0-44800 min -1
-- Con dos funciones: perforación y perforación de impacto
-- Metal tope de profundidad de perforación
-- Suministro de red 230V | 50 Hz
-- Taladro eléctrico percutor con potencia de 650 W
 - Velocidad de ralentí: 0-2800 min -1
 - Instalación inversa para taladrar y atornillar
 - Control de velocidad electrónico con preselección
+- Velocidad de impacto: 0-44800 min -1
+- Metal tope de profundidad de perforación
+- Taladro eléctrico percutor con potencia de 650 W
+- Con dos funciones: perforación y perforación de impacto
+- Suministro de red 230V | 50 Hz
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00V3HTTWO{{</world>}}

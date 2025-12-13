@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Puños y dobladillos lisos
-- Tela lisa
 - Jersey 100% algodón
+- Tela lisa
 - Cuello redondo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

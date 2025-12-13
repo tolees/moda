@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pantalón largo
 - Rib en el bajo
+- Pantalón largo
 - Bolsillos laterales
 - Cintura elastica
 

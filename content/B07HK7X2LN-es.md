@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- TELA VAQUERA LIGERAMENTE ELÁSTICA: Tela vaquera de algodón de gramaje medio con un poco de elasticidad para una mayor comodidad durante todo el día. Viene en denim índigo lavado o colores sólidos con un lavado de la prenda para darle un aspecto de vaquero gastado.
 - ABERTURA DE LA PIERNA: La talla 42 mide 22,9 cm.
-- AJUSTE RECTO: Entallado en la cadera y el muslo, con pierna recta. Queda por la cintura.
-- DETALLES: Presenta bragueta con cremallera y cierre de cremallera con botón sin ojal metálico, refuerzos traseros, remaches en los bolsillos delanteros para las manos y pierna bootcut ajustada. Se recomienda colgar siempre el tejido vaquero elástico para que se seque y prolongar así la vida útil de la prenda.
 - VAQUERO BOOTCUT RECTO: Estos clásicos vaqueros bootcut de cinco bolsillos tienen corte acampanado. Estos vaqueros son siempre un caballo de batalla en cualquier armario y están pensados para llevarlos a diario o para conseguir un outfit informal para ir a trabajar.
+- TELA VAQUERA LIGERAMENTE ELÁSTICA: Tela vaquera de algodón de gramaje medio con un poco de elasticidad para una mayor comodidad durante todo el día. Viene en denim índigo lavado o colores sólidos con un lavado de la prenda para darle un aspecto de vaquero gastado.
+- DETALLES: Presenta bragueta con cremallera y cierre de cremallera con botón sin ojal metálico, refuerzos traseros, remaches en los bolsillos delanteros para las manos y pierna bootcut ajustada. Se recomienda colgar siempre el tejido vaquero elástico para que se seque y prolongar así la vida útil de la prenda.
+- AJUSTE RECTO: Entallado en la cadera y el muslo, con pierna recta. Queda por la cintura.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07HK7X2LN{{</world>}}

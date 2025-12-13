@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 100% algodón
-- Logotipo de cocodrilo y marca de texto
 - Cuello redondo
-- Camiseta de algodón
+- 100% algodón
 - Ajuste clásico
+- Camiseta de algodón
+- Logotipo de cocodrilo y marca de texto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CQPBCPT1{{</world>}}

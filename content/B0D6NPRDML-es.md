@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuero: Gamuza
 - Cama intercambiable
 - Cierre: goma
+- Colección: Primavera-Verano 151
 - 11.9"
 - Transpirable
-- Colección: Primavera-Verano 151
+- Cuero: Gamuza
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D6NPRDML{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sandalias de playa con sandalias de EVA moldeadas
 - Incluye componente ecológico sostenible
 - Logotipo en la parte superior, lateral e inferior
+- Sandalias de playa con sandalias de EVA moldeadas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CB9KXBMR{{</world>}}

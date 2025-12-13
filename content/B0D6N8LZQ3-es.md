@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Puños y bajos en canalé
-- Ajuste cómodo
 - Cuello alto con cremallera
+- Ajuste cómodo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D6N8LZQ3{{</world>}}

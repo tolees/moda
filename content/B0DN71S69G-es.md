@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ALERTAS ANTI-ESCAPE: Configura una geofence para recibir notificaciones si tu perro se aleja demasiado.
-- SEGUIMIENTO DE ACTIVIDAD: Realiza un seguimiento del nivel de actividad de tu perro y compáralo con otros animales similares.
-- INCLUIDO EN EL PAQUETE: 1 dispositivo de rastreo Kippy DOG, ligero (29 g), resistente e impermeable; sujeción de velcro compatible con collares y arneses; y cargador.
-- AUTONOMÍA DE LA BATERÍA: Entre 3 y 15 días, dependiendo del uso, la calidad de la red y el nivel de actividad de tu perro; puedes optimizar la duración de la batería activando la zona de ahorro de energía.
 - SEGUIMIENTO EN VIVO: Seguimiento ilimitado de la distancia de tu perro a través de GPS por toda Europa, incluyendo el historial de ubicaciones; requiere cobertura móvil 4G LTE-M o 2G.
+- INCLUIDO EN EL PAQUETE: 1 dispositivo de rastreo Kippy DOG, ligero (29 g), resistente e impermeable; sujeción de velcro compatible con collares y arneses; y cargador.
+- SEGUIMIENTO DE ACTIVIDAD: Realiza un seguimiento del nivel de actividad de tu perro y compáralo con otros animales similares.
+- ALERTAS ANTI-ESCAPE: Configura una geofence para recibir notificaciones si tu perro se aleja demasiado.
 - SE REQUIERE SUSCRIPCIÓN: Cubre los costos del servicio de la SIM integrada en el dispositivo; a partir de 3,33 €/mes (opciones prepago: 1 mes, 1 año, 2 años o 5 años).
+- AUTONOMÍA DE LA BATERÍA: Entre 3 y 15 días, dependiendo del uso, la calidad de la red y el nivel de actividad de tu perro; puedes optimizar la duración de la batería activando la zona de ahorro de energía.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DN71S69G{{</world>}}

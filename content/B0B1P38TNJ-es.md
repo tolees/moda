@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- GAFAS SOL CARDUC 001/S PARA HOMBRE POLARIZADO TALLA 57/18/135
 - Model: Carduc 001/s
-- Protective case Included
 - Size: 57 Millimetres
 - Colour: 003/UC MATT BLACK
+- GAFAS SOL CARDUC 001/S PARA HOMBRE POLARIZADO TALLA 57/18/135
+- Protective case Included
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B1P38TNJ{{</world>}}

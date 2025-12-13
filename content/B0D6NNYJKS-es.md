@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Plantilla desmontable
-- Cuenta con un estilo informal
 - Transpirables y ligeras
+- Cuenta con un estilo informal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D6NNYJKS{{</world>}}

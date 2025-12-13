@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Diseño frontal sublimado
 - 86% Poliéster, 13% Spandex
 - Camiseta de tirantes ligera y elástica
 - Cuello y mangas acabados con corte láser que evita rozadoras y brinda ligereza
-- Diseño frontal sublimado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09QXCH1H4{{</world>}}

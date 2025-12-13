@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sujetador INTUITIVE de escote tipo balconette, con aro y sin relleno, confeccionado con encaje y espalda de tul, con detalles de satén
 - Colección "Bridal"
 - es ideal para dejarse ver bajo una camisa
+- Sujetador INTUITIVE de escote tipo balconette, con aro y sin relleno, confeccionado con encaje y espalda de tul, con detalles de satén
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DQVHQ3ZX{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estilo deportivo
 - Prenda de vestir
+- Estilo deportivo
 - Para uso diario
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

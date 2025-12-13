@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cinturilla con logotipo
 - Paquete de tres
+- Cinturilla con logotipo
 - Corte ceñido
 - Costuras elásticas
 

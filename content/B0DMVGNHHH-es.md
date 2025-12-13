@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cordones elásticos y cierre autoadherente
 - Empeine de ante y material sintético
+- Cordones elásticos y cierre autoadherente
 - Lengüeta acolchada
 - Horma clásica
 

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Artículo de marca adidas
 - Los zapatos pueden combinar con multitud de conjuntos
 - Presentan detalles distintivos de la marca
+- Artículo de marca adidas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C53ZGFMN{{</world>}}

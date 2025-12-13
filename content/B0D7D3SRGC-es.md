@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - MATERIAL Y CUIDADO: Cazadora de nailon 100 %. Se puede lavar a máquina y secar en secadora.
-- PARA CUALQUIER OCASIÓN: Esta ligera cazadora destaca porque es muy práctica y cómoda. Los discretos detalles distintivos de Tommy Hilfiger proporcionan un estilo muy elegante a esta prenda.
 - CALIDAD DEMOSTRADA: Desde 1985, esta marca de diseñador lleva demostrando por todo el mundo la calidad y la ligereza mediante una gran variedad de diseños en los míticos colores azul oscuro, blanco y rojo.
 - ICÓNICO Y ATEMPORAL: La cazadora original de Tommy Hilfiger con dos bolsillos a la altura de la cintura y cuello tipo béisbol tiene un diseño depurado. Gracias a su material cálido es ideal para los meses de entretiempo.
+- PARA CUALQUIER OCASIÓN: Esta ligera cazadora destaca porque es muy práctica y cómoda. Los discretos detalles distintivos de Tommy Hilfiger proporcionan un estilo muy elegante a esta prenda.
 - AJUSTE PERFECTO: Esta cazadora bomber de estilo atemporal y minimalista es ligera a la vez que abrigada.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

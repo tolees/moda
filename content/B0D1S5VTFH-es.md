@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con detalles distintivos de la marca
 - Bolsillo canguro
 - Puños y bajo de canalé
+- Con detalles distintivos de la marca
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D1S5VTFH{{</world>}}
