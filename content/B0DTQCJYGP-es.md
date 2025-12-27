@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'HAWKERS Gafas de Sol ONE HYBRID para hombre y mujer'
+date: 2025-12-11 16:38:52
+image: 'https://m.media-amazon.com/images/I/31Vw1U521JL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0DTQCJYGP-es HAWKERS Gafas de Sol ONE HYBRID para hombre y mujer'
+sku: 'B0DTQCJYGP-es'
+tags: [ '86e97c3e-6ff8-4d3f-b29f-3a584bbab339_0','86e97c3e-6ff8-4d3f-b29f-3a584bbab339_1501','Accesorios para mujer','Arborist Merchandising Root','Custom Stores','Gafas de sol para mujer','Gafas y accesorios para mujer','Hawkers','Moda','Moda Mujer','Prueba gafas virtualmente','Self Service','Special Features Stores','c8538d25-3af9-48d3-aeff-5f3ce5572a36_0','c8538d25-3af9-48d3-aeff-5f3ce5572a36_1101','gafas','hawkers','🇪🇸', ]
+actualPrice: 25.0 EUR
+currency: EUR
+price: 25.0
+comparePrice: 44.99 EUR
+prodname: 'HAWKERS Gafas de Sol ONE HYBRID para hombre y mujer'
+country: 'es'
+flag: '🇪🇸'
+brand: 'HAWKERS'
+buyurl: 'https://www.amazon.es/dp/B0DTQCJYGP/?tag=tolees-21'
+descuento: '44.43'
+average: '22.625'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Material de la montura: TR90; Color de la montura: Negro; Color de la varilla: Negro
+- Modelo Unisex
+- Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes de TR18 con el sello de Eastman, gran calidad óptica y resistencia; respetuoso con el medio ambiente; protección 100% UV; Color de la lente: Plateado; Apariencia de la lente: Espejo
+- Producto original Hawkers; la caja incluye funda en microfibra y caja
+- Una evolución retrofuturista de nuestra icónica silueta ONE; el modelo ONE VENM RAW, de la colección Made in Spain, destaca por su ligereza y comodidad; disponible en varios colores de lentes y montura
+
+[🛒 Accede a la oferta!!]({{< param buyurl >}})
+{{<world>}}B0DTQCJYGP{{</world>}}
