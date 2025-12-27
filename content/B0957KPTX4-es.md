@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Cierre de cordones
 - Mediasuela de EVA para una pisada cómoda
 - Horma clásica
-- Cierre de cordones
 - Parte de malla con refuerzos
 - Puntera de piel sintética resistente al desgaste
 

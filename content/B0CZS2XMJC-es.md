@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - 100% algodón
+- Corte clásico
 - Cuello redondo de canalé
 - Hombros con las costuras caídas
-- Corte clásico
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CZS2XMJC{{</world>}}

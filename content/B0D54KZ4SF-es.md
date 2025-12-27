@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Combina perfectamente con cualquiera de estos vaqueros
 - La camiseta básica perfecciona
 - Con logotipo discreto
-- Combina perfectamente con cualquiera de estos vaqueros
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D54KZ4SF{{</world>}}

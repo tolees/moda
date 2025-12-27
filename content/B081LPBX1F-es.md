@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- ajuste regular.
 - con una insignia del logo lateral en el dobladillo
 - manga larga con escote redondo
 - con costuras francesas en los hombros
-- ajuste regular.
 - Jersey estructurado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

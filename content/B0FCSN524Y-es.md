@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sudadera Con Punta
 - Sudadera Sudadera
+- Sudadera Con Punta
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FCSN524Y{{</world>}}

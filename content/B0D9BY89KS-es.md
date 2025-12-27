@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Disponible en varios colores y diseños
 - Fácil de cuidar y duradero
+- Disponible en varios colores y diseños
 - Estampados únicos para un look llamativo
 - Corte clásico que complementa cualquier conjunto
 - Material suave y transpirable para comodidad todo el día

@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Corte normal
-- Forro de la capucha del mismo material
 - Estampado de goma para mayor suavidad
+- Forro de la capucha del mismo material
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZW6MY1X{{</world>}}

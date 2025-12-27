@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Disponible en varios colores y diseños
 - Fácil de cuidar y duradero
-- Estampados únicos para un look llamativo
 - Material suave y transpirable para comodidad todo el día
+- Estampados únicos para un look llamativo
 - Corte clásico que complementa cualquier conjunto
 
 [🛒 Aquí!!!]({{< param buyurl >}})

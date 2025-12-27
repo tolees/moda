@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Patrón: el diseño de la marca es visible
 - Código de vestimenta: informal
+- Patrón: el diseño de la marca es visible
 - Temporada: clima cálido
 
 [🛒 Aquí!!!]({{< param buyurl >}})

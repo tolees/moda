@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Modelo Unisex; Medidas: Frontal 140 mm, Varillas 145 mm, Puente 20 mm, Alto 51 mm
 - Material de la montura: Acetato; Color de la montura: Demi, Negro, Marrón, Blanco; Color de la varilla: Demi, Negro, Marrón, Blanco
+- Un essential semi-clásico con toques modernos indispensable para completar tus outfits más elegantes; esta silueta robusta combina montura de acetato color carey en tonos marrones y grises con lentes marrones degradadas; su puente en forma de silla de montar distribuye y equilibra su peso para un mayor confort
 - Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes de TR18 con el sello de Eastman, gran calidad óptica y resistencia; respetuoso con el medio ambiente; protección 100% UV; Color de la lente: Marrón; Apariencia de la lente: Gradiente
 - Producto original Hawkers; la caja incluye funda en microfibra y caja
-- Un essential semi-clásico con toques modernos indispensable para completar tus outfits más elegantes; esta silueta robusta combina montura de acetato color carey en tonos marrones y grises con lentes marrones degradadas; su puente en forma de silla de montar distribuye y equilibra su peso para un mayor confort
-- Modelo Unisex; Medidas: Frontal 140 mm, Varillas 145 mm, Puente 20 mm, Alto 51 mm
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CF2HXK4M{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cómodo y ajustable
 - Sujetador Selene con aros y copas preformadas y tirantes regulables
+- Cómodo y ajustable
 - Fabricado de microfibra
 - Gran capacidad
 - Con aros y relleno

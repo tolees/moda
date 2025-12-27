@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sujetador de doble microfibra laminada
 - Con aros y copas de foam
+- Sujetador de doble microfibra laminada
 - Tirantes acolchados y regulables al tono
 
 [🛒 Visítala!!!]({{< param buyurl >}})

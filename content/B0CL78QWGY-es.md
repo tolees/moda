@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bolsillos delanteros
 - Cierre de cremallera
+- Bolsillos delanteros
 - Detalle acolchado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Transpirables y ligeras
 - Detalles distintivos de la marca
+- Transpirables y ligeras
 - Presentan un estilo casual
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

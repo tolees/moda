@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Jersey básico para hombre de cuello redondo.
 - Logo Rigby Go bordado ubicado en pecho izquierdo.
+- Jersey básico para hombre de cuello redondo.
 - Acabados acanalados en cuello, puños y cintura confeccionado en suave algodón.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

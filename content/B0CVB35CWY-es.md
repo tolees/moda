@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con corte acortado y elegante
 - Logotipo de clip en la parte trasera
 - Logotipo impreso en la parte delantera
+- Con corte acortado y elegante
 - Circuncidado
 - Ajuste perfecto
 

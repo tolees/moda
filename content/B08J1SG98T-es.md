@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Officially Licensed Star Wars Apparel
 - 11STW708
 - Ligero, Encaje clasico, Manga de doble puntada y bastilla baja
+- Officially Licensed Star Wars Apparel
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08J1SG98T{{</world>}}

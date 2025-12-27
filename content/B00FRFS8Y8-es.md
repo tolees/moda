@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - ALTA CAPACIDAD DE ALMACENAMIENTO: la puerta para gatos puede almacenar hasta 32 microchips diferentes, permitiendo el paso controlado de su gato desde el interior al exterior de la casa, garantizando al mismo tiempo la seguridad contra accesos no autorizados.
-- TECNOLOGÍA AVANZADA DE RECONOCIMIENTO DE MICROCHIP: gatera equipada con un sistema de reconocimiento de microchip que lee y decodifica el microchip subcutáneo ISO11784 del gato, desbloqueando la puerta automáticamente cuando se acerca.
-- MÁXIMA FLEXIBILIDAD DE USO: gracias al sistema de bloqueo de 4 vías, la puerta para gato permite ajustar su uso de forma fácil e intuitiva. Elige entre entrada y salida libre, sólo entrada, sólo salida o puerta cerrada, para gestionar el acceso de tu mascota.
 - DIMENSIONES IDEALES PARA TU MASCOTA: la apertura de la puerta mide 13,5 cm de largo x 13,7 cm de alto. Dimensiones totales 22,5 x 16,2 x 25,2 cm. Incluye un collar con microchip para utilizar si tu gato no tiene uno. Para puertas y paredes más gruesas, túnel adicional como accesorio.
+- TECNOLOGÍA AVANZADA DE RECONOCIMIENTO DE MICROCHIP: gatera equipada con un sistema de reconocimiento de microchip que lee y decodifica el microchip subcutáneo ISO11784 del gato, desbloqueando la puerta automáticamente cuando se acerca.
 - SISTEMA ANTIVIENTO E INDICADOR DE DIRECCIÓN: puerta con Sistema Wind Stopper que evita la entrada de corrientes de aire a la vivienda. La pestaña indicadora señala la dirección en la que pasó el animal por última vez, ofreciendo control adicional de un vistazo.
+- MÁXIMA FLEXIBILIDAD DE USO: gracias al sistema de bloqueo de 4 vías, la puerta para gato permite ajustar su uso de forma fácil e intuitiva. Elige entre entrada y salida libre, sólo entrada, sólo salida o puerta cerrada, para gestionar el acceso de tu mascota.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00FRFS8Y8{{</world>}}

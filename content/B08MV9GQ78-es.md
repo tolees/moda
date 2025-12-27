@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tira de botones
 - Camisa
 - Suave
+- Tira de botones
 - algodón
 - Cuello
 

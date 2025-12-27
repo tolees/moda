@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con trabilla decorativa en color oro. Suela plana y antideslizante
 - Este modelo ha obtenido el certificado vegano por la organización mundial PETA (Organización de los derechos de los animales)
 - [Nuestra Marca]: XTI se caracteriza por su moda urbana y funcional con calzado que combina las últimas tendencias con comodidad y versatilidad para un estilo de vida activo y moderno.
+- Con trabilla decorativa en color oro. Suela plana y antideslizante
 - Mocasín de mujer, de la marca Xti. Fabricado en material de rafia, perfecto para dar un toque fresco pero sofisticado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

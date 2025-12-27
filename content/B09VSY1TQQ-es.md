@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Horma clásica
 - Suela de goma cosida
+- Horma clásica
 - Forro sintético
 - Cierre de cordones
 

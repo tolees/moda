@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aviso - Instrucciones de cuidado: Se recomienda lavar a mano en agua fría. Planchar a baja temperatura. No usar lejía. ¡Por favor, consulte la tabla de tallas para elegir antes de comprar!
 - DISEÑO CHIC - Esta elegante túnica para mujer presenta cuello redondo plisado, espalda con abertura en forma de cerradura, mangas voluminosas partidas por la mitad y bajo alto. Tiene un corte amplio y fluido, sencillo pero elegante, perfecto como top básico.
+- Aviso - Instrucciones de cuidado: Se recomienda lavar a mano en agua fría. Planchar a baja temperatura. No usar lejía. ¡Por favor, consulte la tabla de tallas para elegir antes de comprar!
 - FÁCIL COMBINACIÓN - Nuestros tops informales de colores sólidos combinan bien con cualquier prenda inferior, como pantalones de traje, vaqueros, faldas, faldas de cuero, pantalones cortos y mucho más. La blusa de gasa de manga 3/4 se puede llevar metida por dentro o por fuera. Puede ser una prenda formal o informal.
-- OCASIONES - Adecuada para cualquier ocasión. Esta elegante camisa con pliegues delanteros es adecuada para el trabajo, la oficina, las vacaciones, la vida diaria y para salir. Es perfecto como regalo para su madre, esposa, hija, novia o besties.
 - TEJIDO - La camiseta de media manga para mujer está hecha de 100% poliéster, un tejido suave, agradable a la piel, transpirable y ligero que le proporciona una comodidad extrema, frescura y encanto.
+- OCASIONES - Adecuada para cualquier ocasión. Esta elegante camisa con pliegues delanteros es adecuada para el trabajo, la oficina, las vacaciones, la vida diaria y para salir. Es perfecto como regalo para su madre, esposa, hija, novia o besties.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CSJQJTN6{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Detalles: cuenta con un robusto cuello abierto, una tapeta central en la parte delantera con cierre seguro con botones y un dobladillo clásico en la parte trasera de la camisa.
-- Popelina lavada: confeccionada en popelina lavada ligera pero duradera, ofrece comodidad y versatilidad para todas las estaciones.
-- Camisas para todos los días: con detalles clásicos de una camisa formal, esta camisa de popelina de manga larga es el básico perfecto para todo el año. Llévala por dentro para un estilo elegante o por fuera para un toque sofisticado e informal. Combina fácilmente con vaqueros, chinos o pantalones cortos.
 - AJUSTE NORMAL: Ajuste cómodo en hombros, pecho y cintura.
+- Popelina lavada: confeccionada en popelina lavada ligera pero duradera, ofrece comodidad y versatilidad para todas las estaciones.
+- Detalles: cuenta con un robusto cuello abierto, una tapeta central en la parte delantera con cierre seguro con botones y un dobladillo clásico en la parte trasera de la camisa.
+- Camisas para todos los días: con detalles clásicos de una camisa formal, esta camisa de popelina de manga larga es el básico perfecto para todo el año. Llévala por dentro para un estilo elegante o por fuera para un toque sofisticado e informal. Combina fácilmente con vaqueros, chinos o pantalones cortos.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B06XWMBL2R{{</world>}}

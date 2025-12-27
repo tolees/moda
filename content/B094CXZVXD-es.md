@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Tejido: punto jersey de algodón ligero [160g/m2]
 - Cuello: cuello redondo
 - Corte: corte normal, clásico, cómodo
-- Tejido: punto jersey de algodón ligero [160g/m2]
 - Serigrafía estampada en el pecho
 
 [🛒 Comprar!!!]({{< param buyurl >}})

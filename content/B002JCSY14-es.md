@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material exterior:Sintético
 - Material de la suela:EVA
 - Cierre:Sin Cordones
+- Material exterior:Sintético
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B002JCSY14{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material poliéster
+- Repelente al agua superior en el exterior
 - Suave vellón en el interior
 - Bolsillo en el pecho con cremallera
-- Repelente al agua superior en el exterior
+- Material poliéster
 - A prueba de viento, Soft-Shell
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Impresión de alta calidad de los logotipos y de los diseños para una máxima durabilidad
 - Ajuste atlético
 - 100% algodón de alta calidad
+- Impresión de alta calidad de los logotipos y de los diseños para una máxima durabilidad
 - Fácil de usar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

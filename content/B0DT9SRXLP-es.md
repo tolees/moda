@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ACABADO CÓMODO: sin etiquetas molestas * instrucciones de cuidado impresas directamente en el material * no pica * agradable al tacto durante todo el día
 - DISEÑO ATEMPORAL: cuello redondo clásico * corte ajustado * ligero estiramiento para una libertad de movimiento óptima * corte elegante y cómodo de llevar
-- MATERIAL DE ALTA CALIDAD: 95 % algodón, 5 % elastano * suave y cómodo * con certificación STANDARD 100 by OEKO-TEX (certificado n° 12.HBD.03531, instituto Hohenstein)
-- VERSÁTIL: se puede combinar con vaqueros, faldas o pantalones * ideal para llevar debajo de jerséis, blazers o cárdigans * perfecto para el día a día, el tiempo libre o la oficina
 - FÁCIL DE CUIDAR: lavable a máquina a 40 °C * mantiene la forma y el color * fácil de combinar en el día a día * básico duradero * Gramaje: 180 g/m²
+- MATERIAL DE ALTA CALIDAD: 95 % algodón, 5 % elastano * suave y cómodo * con certificación STANDARD 100 by OEKO-TEX (certificado n° 12.HBD.03531, instituto Hohenstein)
+- ACABADO CÓMODO: sin etiquetas molestas * instrucciones de cuidado impresas directamente en el material * no pica * agradable al tacto durante todo el día
+- VERSÁTIL: se puede combinar con vaqueros, faldas o pantalones * ideal para llevar debajo de jerséis, blazers o cárdigans * perfecto para el día a día, el tiempo libre o la oficina
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DT9SRXLP{{</world>}}

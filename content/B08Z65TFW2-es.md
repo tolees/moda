@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Tipo de tacón: Plano
-- Material de la suela: Caucho
 - Cierre: Sin cordones
+- Material de la suela: Caucho
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08Z65TFW2{{</world>}}

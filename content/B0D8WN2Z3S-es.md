@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Cuello de camisa
-- Bolsillos con solapa en el pecho con cierre de botón
-- Costura diagonal en la parte trasera de la manga
 - Cierre de botones
+- Bolsillos con solapa en el pecho con cierre de botón
 - Panel en los hombros
+- Costura diagonal en la parte trasera de la manga
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D8WN2Z3S{{</world>}}

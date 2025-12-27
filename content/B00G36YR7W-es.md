@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Puños elásticos
-- 100% poliéster
 - Hidrófugo
+- 100% poliéster
+- Puños elásticos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00G36YR7W{{</world>}}

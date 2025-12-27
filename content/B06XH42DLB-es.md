@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Espuma viscoelástica Warm Tech
 - Antideslizante en condiciones húmedas y secas
+- Espuma viscoelástica Warm Tech
 - Repele el agua
 - Forro de invierno
 

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- color: Tierra
-- Marca: Selene
-- Nombre del árticulo: Selene 4472DALIADTIERRA100 Sujetador Mujer Color: Tierra Talla: 100
-- tipo de producto: BRA
 - Tamaño: 100
+- Marca: Selene
+- tipo de producto: BRA
+- color: Tierra
+- Nombre del árticulo: Selene 4472DALIADTIERRA100 Sujetador Mujer Color: Tierra Talla: 100
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07JCKWL7D{{</world>}}

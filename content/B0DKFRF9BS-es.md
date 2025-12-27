@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Camiseta de manga corta
 - 100% algodón
+- Camiseta de manga corta
 - Logotipo bordado en el pecho
 
 [🛒 Comprar!!!]({{< param buyurl >}})

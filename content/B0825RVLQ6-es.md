@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Material de la suela: Material Sintético
 - Cierre: Cremallera
 - Material exterior: Cuero
-- Material de la suela: Material Sintético
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0825RVLQ6{{</world>}}

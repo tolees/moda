@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Tamaño normal
-- Cierre: no disponible
 - Camiseta de tejido elástico liso
+- Cierre: no disponible
 - Lavar a máquina
 - Manga corta
 

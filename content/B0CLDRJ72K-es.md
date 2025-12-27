@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Ideal para los fríos meses de invierno
 - Puños acanalados
 - Bolsillos en el pecho, bolsillos delanteros
-- Ideal para los fríos meses de invierno
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CLDRJ72K{{</world>}}

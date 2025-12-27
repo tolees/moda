@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Sandalia con correa de un cuarto, espuma de lujo
-- Tacón de 5 cm
+- Lavable a máquina
 - Plantilla acolchada de espuma viscoelástica refrigerada por aire
 - Diseño de entresuela acolchada Skech-Foam para caminar
-- Lavable a máquina
+- Tacón de 5 cm
 - Ajuste relajado para una sensación más espaciosa en los dedos y el antepié
 
 [🛒 Aquí!!!]({{< param buyurl >}})

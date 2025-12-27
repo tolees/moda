@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - MANO COMPARTEMNT WITH ZIP CLOSURE
 - TWO WAYS TO CARRY – Top para las caderas, oro adjustable shouder strap
-- DENIM EXPRESSION
 - EXTERIOR SLIP POCKET WITH EMBROIDERED LEVIS BRANDING, INTERIOR SLIP POCKET
+- DENIM EXPRESSION
 - 5 l
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

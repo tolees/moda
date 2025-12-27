@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tiene detalles distintivos de la marca
-- Ajustable a tu ropa preferida
 - Cuenta con un diseño ligero
+- Ajustable a tu ropa preferida
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08BX5DMV1{{</world>}}

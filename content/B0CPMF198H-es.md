@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Tamaño: 18 UE
 - Plantilla extraíble
 - Soporte reforzado para dedos y tobillos.
-- Tamaño: 18 UE
 - Zapatos fáciles de poner
 - Flexibilidad óptima gracias a la suela con sistema Flexy integrado
 

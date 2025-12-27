@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Código de vestimenta: informal
 - Temporada: Todas las estaciones
+- Código de vestimenta: informal
 - Patrón: el diseño de la marca es visible
 
 [🛒 Aquí!!!]({{< param buyurl >}})

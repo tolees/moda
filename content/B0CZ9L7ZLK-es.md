@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Espacio para personalizarla
 - 100% poliéster (reciclado)
 - Corte clásico
+- Espacio para personalizarla
 - AEROREADY
 
 [🛒 Visítala!!!]({{< param buyurl >}})

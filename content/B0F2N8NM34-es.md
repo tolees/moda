@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Lavado a mano. No usar lejía o quitamanchas. Planchar a baja temperatura. No usar secadora. Lavar por separado.
 - Jersey summer confeccionado en 100% algodón de corte Regular fit. Presenta cuello redondo y manga larga. Cuenta con bordado de raquetas en el torso.
+- Lavado a mano. No usar lejía o quitamanchas. Planchar a baja temperatura. No usar secadora. Lavar por separado.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F2N8NM34{{</world>}}

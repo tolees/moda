@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Composición: 100% algodón
 - Camiseta
-- Ajuste estándar
 - manga corta
+- Ajuste estándar
+- Composición: 100% algodón
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CBXZ87JB{{</world>}}

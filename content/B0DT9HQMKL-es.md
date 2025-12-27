@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- [Material] - La camisa hawaii para hombre está hecha de material de alta calidad 100% algodón suave y agradable a la piel, cómodo, absorbe la humedad, duradero, fácil de lavar.
 - [Método de lavado y cuidado] - Lavar a máquina en agua fría, no usar lejía, colgar en el tendedero para secar. Si la prenda tiene arrugas, plánchela antes de ponérsela.
-- [compromiso] - si tiene alguna duda sobre nuestro producto, puede contactarnos de las siguientes dos maneras. Método 1: la página de inicio del vendedor zinfo hace preguntas al vendedor zask; Método 2: mi pedido contactó al vendedor. Responderemos a sus preguntas en 24 horas.
 - [*TALLA] - Si le gusta un estilo muy suelto, por favor elija su talla normal, si le gusta un estilo ligeramente más entallado, por favor elija una camisa hawaiana una talla más pequeña que su talla normal.
+- [Material] - La camisa hawaii para hombre está hecha de material de alta calidad 100% algodón suave y agradable a la piel, cómodo, absorbe la humedad, duradero, fácil de lavar.
+- [compromiso] - si tiene alguna duda sobre nuestro producto, puede contactarnos de las siguientes dos maneras. Método 1: la página de inicio del vendedor zinfo hace preguntas al vendedor zask; Método 2: mi pedido contactó al vendedor. Responderemos a sus preguntas en 24 horas.
 - [Características] - Hawaii Print Leisure Funky Hawaiian Shirt, Casual, Short Sleeve Shirt, Spread Collar, Loose fit, Causal in Casual and Everyday Resort Lazy Style.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

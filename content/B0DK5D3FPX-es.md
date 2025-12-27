@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuello acanalado
-- Proporciona comodidad
-- Mangas con dobladillo, fijo
 - Etiqueta G-STAR tejida en la parte inferior de la costura lateral
 - G-STAR Estampado en el pecho
+- Proporciona comodidad
+- Cuello acanalado
+- Mangas con dobladillo, fijo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DK5D3FPX{{</world>}}

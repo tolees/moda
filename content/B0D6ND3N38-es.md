@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Blusa de manga corta con volante
-- con estampado y con el bajo redondeado
 - con cuello redondo con abertura en el escote con lazo con borlas
+- con estampado y con el bajo redondeado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D6ND3N38{{</world>}}

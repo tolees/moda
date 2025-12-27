@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Instrucciones de lavado: no se puede lavar en seco, no se puede secar en secadora, no se permite lejía, planchar a baja temperatura (110 °C), lavado normal hasta 40 °C
 - De sarga con porcentaje elástico
-- Pantalones chinos con cinturón y bolsillos laterales
-- Cierre con botón y cremallera
-- Ajuste: cintura baja, pierna apretada
 - Con cinturón adicional
+- Cierre con botón y cremallera
+- Pantalones chinos con cinturón y bolsillos laterales
+- Ajuste: cintura baja, pierna apretada
+- Instrucciones de lavado: no se puede lavar en seco, no se puede secar en secadora, no se permite lejía, planchar a baja temperatura (110 °C), lavado normal hasta 40 °C
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07KWN28RP{{</world>}}

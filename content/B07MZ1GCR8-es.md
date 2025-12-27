@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La camiseta Flying V Crew es una camiseta de cuello redondo 100% algodón
 - Cómoda y transpirable
+- La camiseta Flying V Crew es una camiseta de cuello redondo 100% algodón
 - Viene con gráficos clásicos del logotipo frontal
 
 [🛒 Aquí!!!]({{< param buyurl >}})

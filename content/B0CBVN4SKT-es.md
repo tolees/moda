@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Plantilla acolchada de piel curtida de forma sostenible
 - Piso flexible
+- Plantilla acolchada de piel curtida de forma sostenible
 - Cierre ajustable al tobillo
 - Forro de piel
 

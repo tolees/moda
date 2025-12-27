@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Producto de alta calidad
-- Puños acanalados en la cintura y las mangas para un ajuste óptimo
-- Estilo: Regular
 - Etiqueta de vuelo en el brazo izquierdo
+- Puños acanalados en la cintura y las mangas para un ajuste óptimo
+- Producto de alta calidad
+- Estilo: Regular
 - Revestimiento de contraste
 
 [🛒 Visítala!!!]({{< param buyurl >}})

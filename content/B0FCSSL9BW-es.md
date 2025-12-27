@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Camiseta De Algodón
 - Camiseta Estampada
+- Camiseta De Algodón
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FCSSL9BW{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cuenta con bolsillos y capucha ajustable mediante cordones
 - Chaqueta abierta con cremallera que incorpora forro en el interior para mantener la calidez y maximizar el confort
 - Logotipo estampado
 - Los puños y el bajo están confeccionados en material rib para proporcionar un ajuste cómodo
-- Cuenta con bolsillos y capucha ajustable mediante cordones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08Z456SYX{{</world>}}

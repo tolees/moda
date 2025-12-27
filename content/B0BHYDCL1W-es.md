@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camiseta para niño de la marca danesa JACK Jones JUNIOR
-- Regular
 - Manga larga
+- Regular
+- Camiseta para niño de la marca danesa JACK Jones JUNIOR
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BHYDCL1W{{</world>}}

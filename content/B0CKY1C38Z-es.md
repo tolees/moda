@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Plantilla moldeada
-- Membrana GORE-TEX
-- Mediasuela de EVA ligera
 - Sistema de lazada rápida
+- Membrana GORE-TEX
+- Plantilla moldeada
+- Mediasuela de EVA ligera
 - Compra una talla más grande
 - Horma clásica
 - Parte superior de ripstop con refuerzos sintéticos y puntera moldeada

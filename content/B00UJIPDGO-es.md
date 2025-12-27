@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Absorbedor de rayos uv integrados para protección de los ojos
-- El acabado con moderno efecto espejo a juego de los lentes protege adicionalmente de la radiación infrarroja
-- Protección 100.% uva, uvb y UVC
 - Alta reducción de la radiación solar mediante la categoría de filtro 3 con una penetración de la luz del 9-18.%.
+- Protección 100.% uva, uvb y UVC
+- El acabado con moderno efecto espejo a juego de los lentes protege adicionalmente de la radiación infrarroja
+- Absorbedor de rayos uv integrados para protección de los ojos
 - Incluye cinta para fijar las gafas a la cabeza
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- con cuello redondo
 - con detalles calados en el cuello en los puños y en el bajo
 - con estructura pointelle de rombos
-- con cuello redondo
 - Jersey de manga larga caída
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

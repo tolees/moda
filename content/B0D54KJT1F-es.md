@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Un cuello en V suave y clásico que combina con todo
 - Se llama perfecto por una razón
 - Diseñada para mayor comodidad, estilo y versatilidad
-- Un cuello en V suave y clásico que combina con todo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D54KJT1F{{</world>}}

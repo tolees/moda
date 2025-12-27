@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ofrece una comodidad óptima
 - Logotipo de la marca en el pecho
+- Ofrece una comodidad óptima
 - Con un tejido suave
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Puños de canalé
-- Tres pares por paquete
 - Largo hasta el tobillo
 - 68% algodón / 29% poliéster reciclado / 2% elastán / 1% nailon reciclado
 - Tejido fino y ligero
+- Tres pares por paquete
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BPSVZLL4{{</world>}}

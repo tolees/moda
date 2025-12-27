@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Lengüeta acolchada
+- Horma clásica
 - Cordones elásticos y cierre autoadherente
 - Empeine de ante y material sintético
-- Horma clásica
-- Lengüeta acolchada
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DMVGNHHH{{</world>}}

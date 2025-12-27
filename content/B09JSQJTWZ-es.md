@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Longitud: recortada
 - Mangas: manga corta
+- Longitud: recortada
 - Detalles adicionales: volantes
 - Ajuste: ajuste regular
 

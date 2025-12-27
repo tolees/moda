@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - UN ESTUDIO COMPLETO: ¡Un estudio de moda con todo lo necesario para diseñar toda una colección de moda a la última! Modelos con formas y estilos modernos.
-- UN REGALO PERFECTO: Todos los aficionados a la moda y al dibujo estarán encantados de recibir este producto como regalo. Ofrece un gran número de combinaciones posibles para que puedas crear un montón de conjuntos y estilos diferentes.
-- A partir de 6 años. Productos desarrollados en Francia. Dimensiones: 34 x 8 x 31 cm
 - UN MONTÓN DE ACCESORIOS INCLUIDOS: En este producto encontrarás hojas de tela adhesiva real, hojas de papel impreso con motivos de tela, rollos impresos, lápices de colores, un rotulador de doble punta, plantillas, hojas de pegatinas, 20 hojas para personalizar (5 siluetas diferentes), gemas de imitación y pegamento.
+- A partir de 6 años. Productos desarrollados en Francia. Dimensiones: 34 x 8 x 31 cm
+- UN REGALO PERFECTO: Todos los aficionados a la moda y al dibujo estarán encantados de recibir este producto como regalo. Ofrece un gran número de combinaciones posibles para que puedas crear un montón de conjuntos y estilos diferentes.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CB4PSWXX{{</world>}}

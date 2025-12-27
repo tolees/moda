@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Modelo doble pala paralela atadas con cierre adhesivo y detalle metálico. Estupendas para vestir diariamente con cualquier estilo e ir cómoda durante todo el día
 - Sandalia de mujer, de la marca Xti. Fabricada en material que imita a la piel
+- Modelo doble pala paralela atadas con cierre adhesivo y detalle metálico. Estupendas para vestir diariamente con cualquier estilo e ir cómoda durante todo el día
 - Suela deportiva y antideslizante. Este modelo ha obtenido el certificado vegano por la organización mundial PETA (Organización de los derechos de los animales)
 - [Nuestra Marca]: XTI se caracteriza por su moda urbana y funcional con calzado que combina las últimas tendencias con comodidad y versatilidad para un estilo de vida activo y moderno.
 

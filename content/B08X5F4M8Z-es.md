@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- AJUSTE NORMAL: Ajuste cómodo en hombros, pecho y cintura.
 - CAMISA PARA EL DÍA A DÍA: Esta camisa de franela con botones se puede combinar con unos vaqueros o unos caquis, llevar sola o con varias capas de ropa, y se convertirá en un versátil caballo de batalla para tu armario.
+- AJUSTE NORMAL: Ajuste cómodo en hombros, pecho y cintura.
 - DETALLES: Cuello recto, tapeta delantera abotonada, mangas largas con puños abotonados ajustables y dos bolsillos en el pecho con solapas con botones.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

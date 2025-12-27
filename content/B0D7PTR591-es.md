@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Las muñecas Barbie Profesiones presentan diferentes looks, con colores de pelo, tonos de piel, colores de ojos y tipos de cuerpo de todo tipo, y sus modernos conjuntos ayudan a dar rienda suelta a la imaginación en los juegos de imitación.
-- Barbie científica lleva un vestido estampado tie-dye con su bata de laboratorio blanca.
 - El conjunto de muñeca y accesorios es un regalo fantástico para niños y niñas a partir de 3 años, sobre todo si les encantan el maquillaje y el estilo.
-- Crea diferentes experimentos con la probeta que cambia de color, la placa de Petri y otros accesorios científicos.
 - La muñeca Barbie científica y los accesorios permiten a los niños y las niñas imaginar su carrera como científicos y científicas.
+- Las muñecas Barbie Profesiones presentan diferentes looks, con colores de pelo, tonos de piel, colores de ojos y tipos de cuerpo de todo tipo, y sus modernos conjuntos ayudan a dar rienda suelta a la imaginación en los juegos de imitación.
+- Crea diferentes experimentos con la probeta que cambia de color, la placa de Petri y otros accesorios científicos.
+- Barbie científica lleva un vestido estampado tie-dye con su bata de laboratorio blanca.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D7PTR591{{</world>}}

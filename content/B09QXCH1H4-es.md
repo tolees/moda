@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Camiseta de tirantes ligera y elástica
-- Cuello y mangas acabados con corte láser que evita rozadoras y brinda ligereza
 - Diseño frontal sublimado
+- Cuello y mangas acabados con corte láser que evita rozadoras y brinda ligereza
 - 86% Poliéster, 13% Spandex
 
 [🛒 Comprar!!!]({{< param buyurl >}})

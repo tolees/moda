@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello redondo acabado en canalé encintado de hombro a hombro y costuras dobles en las mangas para evitar que el tejido se deshilache
-- Corte y estilo regulares para un uso diario perfecto
-- Instrucciones de lavado: lavar a máquina a 40 ºC o menos / no blanquear / secar en secadora a baja temperatura / planchar a baja temperatura (2 puntos) / no lavar en seco
 - Disponible en 2 gramajes: 145 g/m² para el Blanco y 150 g/m² para los otros colores
-- Composición: 100% Algodón (excepto el modelo en Gris Jaspeado, fabricado con un 97% de Algodón y un 3% de Poliéster) con hilo Belcoro para un tacto suave y sedoso
-- Etiqueta interior removible para facilitar el cambio de marca en caso de personalización
-- Ideal para vestir a tus equipos con estilo, ya sea para eventos, ropa laboral o actividades promocionales
+- Instrucciones de lavado: lavar a máquina a 40 ºC o menos / no blanquear / secar en secadora a baja temperatura / planchar a baja temperatura (2 puntos) / no lavar en seco
+- Cuello redondo acabado en canalé encintado de hombro a hombro y costuras dobles en las mangas para evitar que el tejido se deshilache
 - Tejido tubular pre-encogido que contribuye a mantener la forma de la camiseta durante más tiempo sin deformarse
+- Etiqueta interior removible para facilitar el cambio de marca en caso de personalización
+- Composición: 100% Algodón (excepto el modelo en Gris Jaspeado, fabricado con un 97% de Algodón y un 3% de Poliéster) con hilo Belcoro para un tacto suave y sedoso
+- Ideal para vestir a tus equipos con estilo, ya sea para eventos, ropa laboral o actividades promocionales
+- Corte y estilo regulares para un uso diario perfecto
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CJRLXWJ4{{</world>}}

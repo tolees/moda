@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Tiene mangas largas
 - Con puños de canalé para un óptimo ajuste
 - Presenta el logotipo bordado
-- Tiene mangas largas
 - Sudadera con cremallera y canesú en contraste
 
 [🛒 Aquí!!!]({{< param buyurl >}})

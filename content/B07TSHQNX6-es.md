@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Detalles distintivos de la marca
 - Material de calidad
 - Tejido ligero
-- Detalles distintivos de la marca
 - Ofrece comodidad y libertad de movimiento
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

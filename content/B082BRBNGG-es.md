@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Tiene logotipo de la marca
-- Revestimiento: sintético
-- Calzado deportivo arena
 - Tipo de tacón: sin tacón
+- Calzado deportivo arena
+- Revestimiento: sintético
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B082BRBNGG{{</world>}}

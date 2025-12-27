@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Ajuste regular
 - Diseño atemporal para disfrutar todo el año
 - Material sintético
-- Ajuste regular
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B077M8K9SH{{</world>}}

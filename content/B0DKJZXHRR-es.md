@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Composición: 65% algodón, 35% poliéster
-- Manga larga
 - Corte holgado
+- Manga larga
+- Composición: 65% algodón, 35% poliéster
 - Sudadera con
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Eslabones de 9 mm., con cierre autoblocante y tensor goma
 - Tratamiento zinc
-- Incluye manual de instrucciones y QR con videos de montaje.
 - Contiene 2 unidades, guantes, kit de eslabones para reparación
+- Incluye manual de instrucciones y QR con videos de montaje.
 - Certificado homologación europea EN 16662-1
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

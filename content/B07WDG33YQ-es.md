@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre de velcro
-- Palma con ventilación
 - Espuma inyectada
+- Palma con ventilación
+- Cierre de velcro
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07WDG33YQ{{</world>}}
