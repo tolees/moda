@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 - DISEÑO: cuello redondo, colores sólidos, un poco aterciopelado, diseño de dobladillo curvo, longitud suficiente para cubrir las caderas, ocultar el estómago, moldea bien el cuerpo, es una camiseta deportiva ligera y cómoda de manga larga para mujer.
 - MATERIAL: esta camisa de manga larga para mujer está hecha de 92% poliéster, 8% spandex, tejido elástico y transpirable, suave, liviano y cómodo, es cómodo para la piel..
 - VERSÁTIL - Corte largo y holgado. Ajustado. Camisa básica confeccionada en algodón con elástico. Ya sea en otoño invierno como top básico monocolor, elegantemente debajo de blusas y cárdigans o en una fiesta, ¡esta camisa siempre queda bien!
-- REGALOS: una camisa de manga larga de corte clásico con cuello redondo es imprescindible en cualquier armario. Esta camisa holgada de manga larga con cuello redondo es perfecta para usar sola en primavera y otoño o como capa en invierno. Los mejores regalos para familiares y amigos
 - Características: camisetas de cuello redondo, camisetas casuales de entrenamiento/color sólido/camiseta básica/túnica lisa para leggings/uso diario. Fácil de combinar con jeans, leggings, pantalones de jogging, pantalones elásticos. La sudadera para mujer tiene un estilo informal y holgado, lo que la hace ideal para el uso diario informal y el yoga en el gimnasio deportivo.
+- REGALOS: una camisa de manga larga de corte clásico con cuello redondo es imprescindible en cualquier armario. Esta camisa holgada de manga larga con cuello redondo es perfecta para usar sola en primavera y otoño o como capa en invierno. Los mejores regalos para familiares y amigos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CQ2ND84X{{</world>}}

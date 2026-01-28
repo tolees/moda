@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Cremallera compatible con Triclimates
 - Dos bolsillos para las manos
-- Abertura de manga y dobladillo inferior.
 - Polar con cremallera completa
+- Abertura de manga y dobladillo inferior.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D9HHH5NM{{</world>}}

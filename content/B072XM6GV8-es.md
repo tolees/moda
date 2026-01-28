@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Material sostenible
 - Regular
 - 100% Viscosa
 - Only Tyra - Mini vestido plisado de manga 3/4
-- Material sostenible
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B072XM6GV8{{</world>}}

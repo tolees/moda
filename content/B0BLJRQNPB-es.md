@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Conoce a la primera muñeca Barbie con síndrome de Down; Barbie se ha asociado con la National Down Syndrome Society para diseñar una muñeca que celebre la diversidad que caracteriza a esta comunidad
-- La ortesis rosa de tobillo y pie que lleva la muñeca Barbie combina con su conjunto a la perfección y le sirve de apoyo para caminar, y sus zapatillas blancas tienen una cremallera para que niños y niñas puedan ponérselas y quitárselas fácilmente
-- Se han añadido símbolos significativos a su ropa, como las mariposas, representativas del síndrome de Down, y la paleta de colores en azul y amarillo, para concienciar sobre el síndrome de Down
-- Su colgante rosa tiene tres flechas, una representación de la tercera copia del cromosoma 21 que tienen las personas con síndrome de Down, y están apuntando hacia fuera para simbolizar la acción de levantarse y seguir adelante
-- Diseñada para expresar el mundo en el que viven los niños y las niñas, esta variada colección de Barbie Fashionistas incorpora estilos vibrantes y modernos para imaginar una infinidad de historias
 - Tiene el pelo rubio y lleva un precioso vestido floral con mangas abullonadas; Con un look tan versátil y elegante, esta muñeca Barbie está lista para cualquier aventura que los peques puedan imaginar
+- Conoce a la primera muñeca Barbie con síndrome de Down; Barbie se ha asociado con la National Down Syndrome Society para diseñar una muñeca que celebre la diversidad que caracteriza a esta comunidad
+- Se han añadido símbolos significativos a su ropa, como las mariposas, representativas del síndrome de Down, y la paleta de colores en azul y amarillo, para concienciar sobre el síndrome de Down
 - Las niñas y los niños a partir de 3 años pueden coleccionar otras muñecas Barbie Fashionistas para divertirse aún más jugando con amigos y experimentando con la moda
+- Diseñada para expresar el mundo en el que viven los niños y las niñas, esta variada colección de Barbie Fashionistas incorpora estilos vibrantes y modernos para imaginar una infinidad de historias
+- La ortesis rosa de tobillo y pie que lleva la muñeca Barbie combina con su conjunto a la perfección y le sirve de apoyo para caminar, y sus zapatillas blancas tienen una cremallera para que niños y niñas puedan ponérselas y quitárselas fácilmente
+- Su colgante rosa tiene tres flechas, una representación de la tercera copia del cromosoma 21 que tienen las personas con síndrome de Down, y están apuntando hacia fuera para simbolizar la acción de levantarse y seguir adelante
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BLJRQNPB{{</world>}}

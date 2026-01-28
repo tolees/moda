@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Modelo: HER 0143/G/S
+- Forma: Cuadrada
+- Marca: CAROLINA HERRERA
 - Material: ACETATE
 - Género de destino: WOMAN
-- Marca: CAROLINA HERRERA
-- Forma: Cuadrada
-- Modelo: HER 0143/G/S
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BVKGS7WK{{</world>}}

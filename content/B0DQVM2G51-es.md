@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sujetador GORGEOUS push up soft, con relleno y con aro, de encaje con la parte de detrás de microfibra
 - Un toque ligero efecto aumento
+- Sujetador GORGEOUS push up soft, con relleno y con aro, de encaje con la parte de detrás de microfibra
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DQVM2G51{{</world>}}

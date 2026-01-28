@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Una mirada original
 - Proporciona comodidad
 - Cuello acanalado
 - Etiqueta de G-STAR Originals tejida en la costura lateral inferior
 - Gráfico de G-STAR RAW en el pecho
+- Una mirada original
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CKBZMXFN{{</world>}}

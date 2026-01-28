@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Proporciona comodidad
 - Cuello e inserción acanalados
+- Proporciona comodidad
 - Estampado de G-STAR en el pecho
 - Etiqueta de G-STAR tejida en la costura lateral inferior
 - Aberturas laterales

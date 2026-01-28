@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Puños y bajo en canalé
 - Etiqueta decorativa efecto piel
+- Puños y bajo en canalé
 - Jersey de 1% algodón con hilatura melange, con coderas y bordado árbol
 
 [🛒 Visítala!!!]({{< param buyurl >}})

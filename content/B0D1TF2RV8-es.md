@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Detalles distintivos de la marca
 - Cuello, dobladillo y puños acanalados
 - Ofrece una comodidad óptima
-- Detalles distintivos de la marca
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D1TF2RV8{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material superior: sintético
 - Cierre: sin cordones
+- Material superior: sintético
 - Material interior: sintético
 - Suela: sintética
 

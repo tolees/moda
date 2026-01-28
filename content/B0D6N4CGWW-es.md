@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Botones de nacar
-- Camisa manga larga regular fit, en tejido de popelín 100% algodón de rayas
 - Logo Springfield bordado al tono
+- Camisa manga larga regular fit, en tejido de popelín 100% algodón de rayas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D6N4CGWW{{</world>}}

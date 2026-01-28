@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Producto con ajuste regular
-- Detalles distintivos de la marca
-- Tela suave
 - Bolsillo tipo canguro
+- Detalles distintivos de la marca
+- Producto con ajuste regular
+- Tela suave
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07KD813JH{{</world>}}

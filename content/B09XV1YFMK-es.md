@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - EL TAMAÑO DEL ARTÍCULO ES NORMAL
-- FIT - Regular fit cut with a classic crew neck. Super soft and comfortable for a pleasant comfort and a premium skin feel. The model wears size 3XL and is 189 cm tall.
-- PREFECT - This logo printed basic t-shirt can be worn every day! Ideal addition to your daily outfits in any season!
 - MATERIAL - The easy-care fabric made of 100% cotton ensures comfortable wear and a snug fit with every movement.
+- PREFECT - This logo printed basic t-shirt can be worn every day! Ideal addition to your daily outfits in any season!
+- FIT - Regular fit cut with a classic crew neck. Super soft and comfortable for a pleasant comfort and a premium skin feel. The model wears size 3XL and is 189 cm tall.
 - EVERYDAY LOOK - Homewear, streetwear or business. A versatile all-rounder JJECORP - 12158505, for your timeless plus size looks!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

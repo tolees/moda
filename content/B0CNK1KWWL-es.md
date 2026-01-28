@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con trabillas para el cinturón
 - Presentan un estilo casual
+- Con trabillas para el cinturón
 - Detalles distintivos de la marca
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

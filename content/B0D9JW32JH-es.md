@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuello: redondo
 - Poliéster reciclado
+- Cuello: redondo
 - Fit: Regular
 - Color liso
 

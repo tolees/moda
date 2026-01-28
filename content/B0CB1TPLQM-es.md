@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello alzado, trabilla en el interior
-- Bajo recto con ribete elástico
-- Proporciona comodidad
 - Manga larga con ribetes
+- Bajo recto con ribete elástico
+- Cuello alzado, trabilla en el interior
+- Proporciona comodidad
 - Bolsillos en la cintura
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

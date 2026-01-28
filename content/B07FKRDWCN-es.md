@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - CAMISETA DE TIRANTES DEPORTIVA: Entrena con confianza con esta camiseta de tirantes de entrenamiento básica. Es más larga para cubrirte más durante los entrenamientos. Tanto para salir a correr, echar unas canastas o hacer recados con los niños, nuestra ropa está pensada para hacer ejercicio, vivir y descansar.
 - Tejido técnico elástico: una tela ultraligera y transpirable, con un acabado suave y ligeramente brillante. Fabricada con un tratamiento que absorbe la humedad, ayudándote a mantenerte cómodo y fresco durante tus entrenamientos. Este tejido de punto tiene una elasticidad suave en 4 direcciones para ofrecer total flexibilidad al usarlo.
-- DETALLES: Con escote redondo y tirantes cruzados en la espalda sin mangas para disfrutar de más movilidad durante los entrenamientos.
 - AJUSTE HOLGADO: Ajuste cómodo y holgado en hombros, pecho y cintura
+- DETALLES: Con escote redondo y tirantes cruzados en la espalda sin mangas para disfrutar de más movilidad durante los entrenamientos.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07FKRDWCN{{</world>}}

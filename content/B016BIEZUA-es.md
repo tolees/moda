@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - COMPOSICIÓN Y CUIDADOS: Experimenta el confort con esta camiseta interior térmica de 92% poliéster y 8% elastano. Lávalo a 30º y plánchalo a máx. 110º. No usar secadora para prolongar su vida útil.
 - TALLA: L, COLOR: Negro
-- YSABEL MORA: Desde 1988 confeccionamos ropa de calidad para toda la familia, especializándonos en moda íntima, ropa interior y baño. Nuestra experiencia y diseño nos posicionan como referentes en el sector.
 - COMPOSICIÓN Y CUIDADOS: Experimenta el confort con esta camiseta interior térmica de 92% poliéster y 8% elastano. Lávalo a 30º y plánchalo a máx. 110º. No usar secadora para prolongar su vida útil.
+- YSABEL MORA: Desde 1988 confeccionamos ropa de calidad para toda la familia, especializándonos en moda íntima, ropa interior y baño. Nuestra experiencia y diseño nos posicionan como referentes en el sector.
 - ADAPTABILIDAD: Nuestras prendas están confeccionadas con materiales que se ajustan a cualquier cuerpo y situación, promoviendo la sostenibilidad y el cuidado del medio ambiente.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

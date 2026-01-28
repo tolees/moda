@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tejido de algodón puro
-- Polo clásico de Gant
 - Perfecta para el trabajo y el ocio
+- Tejido de algodón puro
 - Cierre de botón
+- Polo clásico de Gant
 - Fácil de combinar
 
 [🛒 Aquí!!!]({{< param buyurl >}})

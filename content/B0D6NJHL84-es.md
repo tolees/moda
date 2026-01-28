@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Rápido y fácil de poner
 - Materiales de secado rápido
+- Rápido y fácil de poner
 - Parte superior sin forro
 
 [🛒 Comprar!!!]({{< param buyurl >}})

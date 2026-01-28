@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Horma clásica
 - Refuerzo y estabilizador del talón de TPU
-- Suela de goma
 - Mediasuela Cloudfoam
-- Forro textil
+- Suela de goma
 - Contiene al menos un 20% de material reciclado
 - Empeine de malla
+- Horma clásica
+- Forro textil
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CYT9ZS64{{</world>}}

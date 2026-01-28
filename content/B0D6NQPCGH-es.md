@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Transpirables y ligeras
 - Cuenta con un estilo informal
+- Transpirables y ligeras
 - Plantilla desmontable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

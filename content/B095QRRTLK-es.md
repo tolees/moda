@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Diseño ingenioso – La cómoda camiseta de gimnasia cuenta con un diseño ergonómico que mantiene las costuras protegidas de las zonas de mayor abrasión.
 - Prenda deportiva funcional – Esta camiseta ajustada es ideal para el deporte porque está hecha con dos capas de tejido elástico multidireccional.
-- Tejido versátil – El funcional tejido transpirable de esta camiseta de entrenamiento mantiene el sudor alejado del cuerpo y se seca muy rápido.
 - Material y forma – Camiseta deportiva transpirable Under Armour UA CG Armour Fitted Crew, camiseta de hombre, material: 87% de poliéster/13% de elastano
+- Tejido versátil – El funcional tejido transpirable de esta camiseta de entrenamiento mantiene el sudor alejado del cuerpo y se seca muy rápido.
 - Fresca más tiempo – La camiseta ajustada tiene paneles de malla en la espalda y los brazos para ofrecer una ventilación estratégica sin perder calor.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

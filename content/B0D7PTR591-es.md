@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El conjunto de muñeca y accesorios es un regalo fantástico para niños y niñas a partir de 3 años, sobre todo si les encantan el maquillaje y el estilo.
-- Barbie científica lleva un vestido estampado tie-dye con su bata de laboratorio blanca.
 - La muñeca Barbie científica y los accesorios permiten a los niños y las niñas imaginar su carrera como científicos y científicas.
+- Barbie científica lleva un vestido estampado tie-dye con su bata de laboratorio blanca.
 - Las muñecas Barbie Profesiones presentan diferentes looks, con colores de pelo, tonos de piel, colores de ojos y tipos de cuerpo de todo tipo, y sus modernos conjuntos ayudan a dar rienda suelta a la imaginación en los juegos de imitación.
+- El conjunto de muñeca y accesorios es un regalo fantástico para niños y niñas a partir de 3 años, sobre todo si les encantan el maquillaje y el estilo.
 - Crea diferentes experimentos con la probeta que cambia de color, la placa de Petri y otros accesorios científicos.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ajuste: Regular Fit
-- Manga larga con cuello en V
 - Jersey de punto básico con paneles acanalados en contraste
 - Logotipo bordado en la parte delantera
 - Con algodón suave y sostenible
+- Manga larga con cuello en V
+- Ajuste: Regular Fit
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07SBJGVBH{{</world>}}

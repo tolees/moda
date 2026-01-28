@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello redondo
 - Composición: 39% lana, 24% poliéster, 20% alpaca, 15% nailon, 2% elastano
-- Mangas largas raglán
 - Puños ajustados
+- Mangas largas raglán
+- Cuello redondo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CC65C34L{{</world>}}

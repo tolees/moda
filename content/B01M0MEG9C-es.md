@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - EL COMPAÑERO PERFECTO: bolso de hombro pequeño con 1 compartimento principal con cremallera, 1 bolsillo frontal abierto y 1 bolsillo con cremallera en el interior
-- COMODIDAD DE TRANSPORTE FLEXIBLE: 1 correa de hombro larga y ajustable para un estilo de uso individual
+- TOM TAILOR: La indiferencia en esencia. Nuestro lema: «Casual»: no es solo un código de vestimenta, sino una forma de vida. «Tom Tailor es su gente»: lo casual es nuestra identidad
 - Dimensiones de la bolsa: 21,5 x 4 x 14 cm (largo x ancho x alto), 14 g de peso neto
 - LIMPIO Y PRÁCTICO: Cilia impresiona por su diseño puro y su tamaño perfecto para fiestas o como segundo bolso informal, y el material cuero hace brillar los colores claros
-- TOM TAILOR: La indiferencia en esencia. Nuestro lema: «Casual»: no es solo un código de vestimenta, sino una forma de vida. «Tom Tailor es su gente»: lo casual es nuestra identidad
+- COMODIDAD DE TRANSPORTE FLEXIBLE: 1 correa de hombro larga y ajustable para un estilo de uso individual
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01M0MEG9C{{</world>}}

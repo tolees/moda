@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte : Corte regular
 - Manga : Sin mangas
-- Artículo : Top
 - Cuello : Cuello en U
+- Corte : Corte regular
+- Artículo : Top
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZ44Q1GM{{</world>}}

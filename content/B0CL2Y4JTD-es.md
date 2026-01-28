@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - 100 % poliamida
-- Cremallera y capucha
-- Corte clásico
 - Capucha con borde de pelo sintético
+- Corte clásico
+- Cremallera y capucha
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CL2Y4JTD{{</world>}}

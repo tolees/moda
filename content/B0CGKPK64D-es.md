@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Puños anchos y acanalados en mangas y dobladillo
-- Bolsillos laterales
 - Con hombros superpuestos
+- Bolsillos laterales
+- Puños anchos y acanalados en mangas y dobladillo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CGKPK64D{{</world>}}

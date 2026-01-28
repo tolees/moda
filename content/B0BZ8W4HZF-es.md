@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Producto original Hawkers. La caja incluye funda en microfibra y caja
 - Modelo Unisex. Medidas: Frontal 143 mm; Patillas 145 mm ; Puente 17 mm ; Alto 52 mm
 - Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Bisagra de 3 barras para un mayor agarre y durabilidad.
-- Producto original Hawkers. La caja incluye funda en microfibra y caja
-- Gafas de sol de forma rectangular con montura flat top transparente de color azul “navy” con acabado billante, decoradas con pins frontales en forma de media H que aportan un toque de elegancia al diseño. Incorpora lentes cromadas espejadas.
 - Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores. Lentes categoría 3 fabricadas con material bio tac polarizado y protección uv400.
+- Gafas de sol de forma rectangular con montura flat top transparente de color azul “navy” con acabado billante, decoradas con pins frontales en forma de media H que aportan un toque de elegancia al diseño. Incorpora lentes cromadas espejadas.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BZ8W4HZF{{</world>}}

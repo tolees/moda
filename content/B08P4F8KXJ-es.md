@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Universales: Perneras de seguridad tipo A, solo con protección en la parte delantera. Talla única
-- Arnés en seis puntos fácil de ajustar
 - Están hechas de cuero suave
-- Guantes que proporcionan protección para las manos
 - Casco de PP resistente a impactos
 - Protección: 6 capas de material protector resistente a la abrasión. Certificadas para EN381-5 clase 1 (20 m/s)
+- Guantes que proporcionan protección para las manos
+- Arnés en seis puntos fácil de ajustar
+- Universales: Perneras de seguridad tipo A, solo con protección en la parte delantera. Talla única
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08P4F8KXJ{{</world>}}

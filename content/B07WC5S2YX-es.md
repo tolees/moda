@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Camiseta de fútbol para hombre
-- Con cuello redondo
 - Fabricada en tejido transpirable que mantiene la piel fresca y seca
 - Detalles distintivos de la marca
+- Con cuello redondo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07WC5S2YX{{</world>}}

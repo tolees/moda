@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Marca: Under Armour
-- Puños y dobladillo inferior acanalados
 - Eso significa que si uno establece un objetivo, ayudaremos a aplastarlo
+- Puños y dobladillo inferior acanalados
+- Marca: Under Armour
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BGVYFMPZ{{</world>}}

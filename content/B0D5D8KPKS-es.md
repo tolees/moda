@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Dos bolsillos delanteros
 - El chándal está hecho de un tejido ultraligero
+- Dos bolsillos delanteros
 - Cuenta con una sudadera con cremallera y pantalones deportivos clásicos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

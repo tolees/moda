@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Talla: L
+- Columbia CSC basic camiseta estampada de manga corta
 - Color: White
 - Tipo de fábrica: Jersey 100 Percentage algodón
-- Columbia CSC basic camiseta estampada de manga corta
+- Talla: L
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B081B6HFQV{{</world>}}

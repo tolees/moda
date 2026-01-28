@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - El modelo lleva la talla M.
-- Jersey summer confeccionado en 100% algodón de corte Regular fit. Presenta cuello redondo y manga larga. Cuenta con bordado de raquetas en el torso.
 - Lavado a mano. No usar lejía o quitamanchas. Planchar a baja temperatura. No usar secadora. Lavar por separado.
+- Jersey summer confeccionado en 100% algodón de corte Regular fit. Presenta cuello redondo y manga larga. Cuenta con bordado de raquetas en el torso.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F2N8BGRQ{{</world>}}

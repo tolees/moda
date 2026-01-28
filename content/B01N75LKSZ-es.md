@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Artículos entregados: 1x Helly Hansen Unisex Guantes De Vela Largos,L,Negro
-- Exterior: 70% Poliamida 28% Poliuretano 2% Elastano
 - 0
+- Exterior: 70% Poliamida 28% Poliuretano 2% Elastano
+- Artículos entregados: 1x Helly Hansen Unisex Guantes De Vela Largos,L,Negro
 - Duraderos guantes de piel de dedos largos para navegar en condiciones en las que se necesita una buena protección
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material del montura: TR90. Color del montura: Gris. Color de la varilla: Gris.
 - Producto original Hawkers. La caja incluye funda en microfibra y caja
+- Material del montura: TR90. Color del montura: Gris. Color de la varilla: Gris.
 - Lente Polarizada: Reduce los reflejos superficiales y la fatiga ocular proporcionando nitidez y contrastes superiores. Categoría de filtro 3, color suficientemente oscuro para usar en exterior a pleno sol. Absorben entre un 82% y un 92% de luz solar. Color de la lente: Morado. Apariencia de la lente: Espejo.
 - Gafas de sol redondas con sutil forma de ojo gato para un look urban-sport. Una silueta atemporal de líneas delgadas y depuradas combinadas con un tramado en las varillas para mejorar el agarre, ideales para acompañarte en tu día a día. Disponible en varios colores de lentes y monturas en acabados brillo y mate.
 - Modelo Unisex. Medidas: Frontal 141 mm, Varillas 145 mm , Puente 19 mm , Alto 49 mm.

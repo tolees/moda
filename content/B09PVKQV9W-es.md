@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corte normal
 - Blusa estampada
 - Composición del material: 100 % poliéster
 - Volantes para un toque femenino
+- Corte normal
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09PVKQV9W{{</world>}}

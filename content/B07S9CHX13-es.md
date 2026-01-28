@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sin concesiones a la asequibilidad: SILEX es adecuado para todos con una excelente relación calidad/precio.
 - Sin concesiones en el rendimiento: revestimiento antiarañazos y antivaho, visión panorámica y protección ultraredonda.
+- Sin concesiones a la asequibilidad: SILEX es adecuado para todos con una excelente relación calidad/precio.
 - Ningún compromiso con el estilo: vasos con un diseño refinado y planchado de colores de Bollé Safety.
 - Sin concesiones en la comodidad: tecnología FLEX 160°, que se adapta perfectamente a cualquier rostro, soporte bimético flexible y apoyo absoluto sin puntos de presión.
 

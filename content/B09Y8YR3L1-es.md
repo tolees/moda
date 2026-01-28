@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Puños con botones
 - Botones en la parte delantera
 - Bolsillos laterales
+- Puños con botones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09Y8YR3L1{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Un detalle metálico dorado personalizado con el logotipo de Lacoste se coloca en las patillas
-- Las patillas están decoradas con la textura Monogram en relieve
 - Tamaño grande y ajuste global con montura RXable
 - La combinación de frente renovado de acetato y patillas bioinyectadas proporciona comodidad y durabilidad
+- Las patillas están decoradas con la textura Monogram en relieve
+- Un detalle metálico dorado personalizado con el logotipo de Lacoste se coloca en las patillas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DFM9FQSR{{</world>}}

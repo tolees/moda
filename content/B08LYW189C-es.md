@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Items delivered: 1x Helly Hansen Womens W Crew Fleece Jacket - Fleece RED M
+- Tejido de punto técnico
 - Protector de mentón
 - Cuello alto para mayor confort
 - Cremallera Ykk
-- Items delivered: 1x Helly Hansen Womens W Crew Fleece Jacket - Fleece RED M
-- Tejido de punto técnico
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08LYW189C{{</world>}}

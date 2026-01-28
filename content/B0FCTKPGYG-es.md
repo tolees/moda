@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camiseta regular
-- logo springfield bordado a contraste
 - camiseta bordada
+- logo springfield bordado a contraste
+- Camiseta regular
 - Camiseta básica de manga larga en tejido suave con textura «peach"
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

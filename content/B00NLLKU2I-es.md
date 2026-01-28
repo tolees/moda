@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Chaqueta bomber clásica para hombre
 - Chaqueta de entretiempo en negro, azul, verde oliva y rojo; Adecuado para primavera, verano, otoño
-- 2 bolsillos laterales con botones de presión y un bolsillo interior
 - Pespuntes de diamante
+- 2 bolsillos laterales con botones de presión y un bolsillo interior
 - Chaqueta bomber para hombre con puños acanalados en mangas, dobladillo y cuello
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pijama de manga larga Pantalón largo
 - Colección Soft Touch
+- Pijama de manga larga Pantalón largo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FDGKSLQD{{</world>}}

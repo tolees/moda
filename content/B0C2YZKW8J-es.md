@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Modelo Unisex. Medidas: Frontal 144 mm; Patillas 145 mm ; Puente 20 mm ; Alto 52 mm
+- Producto original Hawkers. La caja incluye funda en microfibra y caja
+- Diseño clásico estilo pantos con lentes redondas en color terracota degradado y montura de Tr90 marrón con acabado brillo y puente en forma de ojo de cerradura. Su frontal presenta pins ornamentales en forma de media H en ambos lados que le aportan un toque elegante y sofisticado.
 - Lentes cosméticas categoría 2 y protección uv400 que ofrecen protección antideslumbrante. Lentes de TR18 con el sello de Eastman , uno de los líderes mundiales en tecnología de copoliéster. Respetuoso con el medio ambiente y proporciona un equilibrio único entre claridad y resistencia.
 - Montura en acetato de celulosa de alta calidad que aporta una máxima resistencia y durabilidad. Bisagra de 3 barras para un mayor agarre y durabilidad.
-- Diseño clásico estilo pantos con lentes redondas en color terracota degradado y montura de Tr90 marrón con acabado brillo y puente en forma de ojo de cerradura. Su frontal presenta pins ornamentales en forma de media H en ambos lados que le aportan un toque elegante y sofisticado.
-- Producto original Hawkers. La caja incluye funda en microfibra y caja
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C2YZKW8J{{</world>}}

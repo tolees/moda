@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Camiseta sin mangas para hombre
 - Características incluyen: tejido en punto jersey de algodón
+- Corte normal
 - Cuello redondo y estampado gráfico en la parte frontal
 - Cómodo
-- Camiseta sin mangas para hombre
-- Corte normal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0825P6VRG{{</world>}}

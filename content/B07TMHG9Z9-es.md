@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con faldón curvado
 - Modelo casual
+- Con faldón curvado
 - Minilogotipo de Levis en el pecho
 - Este producto es original Levis
 

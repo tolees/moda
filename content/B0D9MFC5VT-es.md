@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - An original look
-- Provides comfort
-- Zip closure
 - Stand up collar
+- Zip closure
+- Provides comfort
 - Padded and quilted
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

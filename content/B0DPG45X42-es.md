@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tejido: algodón jersey, [160 g/m2]
-- Imprimir en Chest
 - Cuello:
+- Tejido: algodón jersey, [160 g/m2]
 - Quiksilver Label at Sleeve Hem
+- Imprimir en Chest
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DPG45X42{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Se adapta a cualquier actividad deportiva
 - Diseño ligero que ofrece comodidad
+- Se adapta a cualquier actividad deportiva
 - Camiseta de manga corta suave y transpirable
 - Tiene detalles distintivos de la marca
 

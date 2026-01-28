@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camiseta para hombre de la marca danesa JACK & JONES
 - Camiseta para hombre
+- Camiseta para hombre de la marca danesa JACK & JONES
 - Jjsimon Tee SS Crew Neck - Camiseta
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

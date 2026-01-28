@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Plana
 - Horma comfort
 - Cierre de hebilla
+- Plana
 - Sandalia para mujer
 
 [🛒 Visítala!!!]({{< param buyurl >}})

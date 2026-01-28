@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suave y transpirable
 - Sujetador sin tirantes con aros y sin relleno
+- Suave y transpirable
 - Adaptable y cómodo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Diseño deportivo de sandalia de punta abierta
+- Parte superior de punto de malla atlética
 - Correa de velcro
 - Skechers Detalle del logotipo
-- Parte superior de punto de malla atlética
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08JHFD81R{{</world>}}

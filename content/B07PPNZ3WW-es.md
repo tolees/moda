@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- light blue wash
 - denim jacket
+- light blue wash
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07PPNZ3WW{{</world>}}

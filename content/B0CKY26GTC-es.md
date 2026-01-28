@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Empeine textil
-- Forro textil
-- Puntera reforzada
-- Suela de goma
-- Forro textil
 - Horma clásica
+- Forro textil
+- Suela de goma
+- Empeine textil
+- Puntera reforzada
+- Forro textil
 - Cierre de cordones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

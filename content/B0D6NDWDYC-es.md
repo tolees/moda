@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con un estilo informal
 - Transpirables y ligeras
+- Con un estilo informal
 - Ofrecen una amortiguación óptima
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

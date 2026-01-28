@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Espalda con botón
 - Tejido elástico
 - Top Curvy Print
+- Espalda con botón
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BM92TWPL{{</world>}}

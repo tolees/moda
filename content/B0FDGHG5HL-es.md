@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Top con cuello camisero y botones a tono con detalles de vivos a tono a conjunto con los bajos de manga
-- Pantalón con cinturilla elástica ajustable mediante cinta a tono y cenefa en bajo
 - Pijama camisero de manga corta y pantalón largo con estampado allover de flores en tejido de viscosa ECOVERO
+- Pantalón con cinturilla elástica ajustable mediante cinta a tono y cenefa en bajo
 - Ideal para dormir o estar en casa muy cómoda
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,15 +28,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Empeine textil con puntera reforzada
-- Mediasuela de EVA
-- Horma clásica
-- RAIN.RDY
-- Contiene al menos un 20% de material reciclado y renovable
-- Suela Traxion
-- Forro textil
-- Drop: 10 mm (talón: 27 mm / antepié: 17 mm)
 - Peso: 390 g (talla 42 2/3)
+- Mediasuela de EVA
+- Drop: 10 mm (talón: 27 mm / antepié: 17 mm)
+- Contiene al menos un 20% de material reciclado y renovable
+- Empeine textil con puntera reforzada
+- Suela Traxion
+- RAIN.RDY
+- Horma clásica
+- Forro textil
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CKXSNLZV{{</world>}}

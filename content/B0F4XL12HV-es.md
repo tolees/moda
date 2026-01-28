@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Cremallera
 - Media manga, acanalado, cintura acanalada
+- Cuello alto
 - Bolsillos ribeteados en la cintura
 - G-STAR Bordado en el pecho
-- Cuello alto
-- Cremallera
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F4XL12HV{{</world>}}

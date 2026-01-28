@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Detalle de la etiqueta
 - Corte estándar
 - Cuello redondo
+- Detalle de la etiqueta
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08LDCV2CF{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ENJUAGA Y REPITE: Fácil de hacer una y otra vez. Sólo tienes que lavar con agua y jabón, dejar que todo se seque, y empezar a crear de nuevo
-- APLÍCALOS: Para conseguir diseños precisos, aplica la esponja de doble punta en las acuarelas y luego directamente sobre la ropa y el pelo. ¡Hay muchas maneras de jugar!
-- KIT DE TINTE + PLANTILLAS: Incluye gomas elásticas para crear divertidos diseños tintados: espirales, “scrunch” y mucho más. Las plantillas permiten crear formas divertidas en el pelo y la ropa
 - MÓJALOS: Sólo tienes que añadir agua a los 6 polvos de colores del arco iris para crear acuarelas y después mojar la ropa y el pelo; incluye 6 colores (rosa, naranja, amarillo, verde, azul y morado) para hacer muchos diseños coloridos. Es muy fácil
+- APLÍCALOS: Para conseguir diseños precisos, aplica la esponja de doble punta en las acuarelas y luego directamente sobre la ropa y el pelo. ¡Hay muchas maneras de jugar!
+- ENJUAGA Y REPITE: Fácil de hacer una y otra vez. Sólo tienes que lavar con agua y jabón, dejar que todo se seque, y empezar a crear de nuevo
 - ROPA ADICIONAL: Además del conjunto totalmente blanco (top de color blanco, falda blanca con volantes y tacones blancos) con el que viene la muñeca, incluye una camiseta y unas zapatillas extra
+- KIT DE TINTE + PLANTILLAS: Incluye gomas elásticas para crear divertidos diseños tintados: espirales, “scrunch” y mucho más. Las plantillas permiten crear formas divertidas en el pelo y la ropa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CS13XW6D{{</world>}}

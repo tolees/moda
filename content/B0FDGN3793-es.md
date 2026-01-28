@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Este pijama de dos piezas en punto suave de viscosa es la combinación perfecta de comodidad y estilo
 - La camisa de manga larga presenta solapas de muesca y botones en la parte delantera
+- Este pijama de dos piezas en punto suave de viscosa es la combinación perfecta de comodidad y estilo
 - Ideal para dormir o estar en casa muy cómoda
 - Pijama camisero de manga larga
 

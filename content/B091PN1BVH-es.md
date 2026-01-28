@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Funcionamiento: repelente al agua
 - Corte largo
+- Funcionamiento: repelente al agua
 - Con capucha
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

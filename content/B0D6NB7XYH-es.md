@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- con estampado gráfico posicional de dibujo y texto en el delantero
 - Camiseta de manga corta
 - con cuello redono
-- con estampado gráfico posicional de dibujo y texto en el delantero
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D6NB7XYH{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Encantador vestido de invierno
 - Tejido suave
 - Corte holgado
 - Cuello cálido
+- Encantador vestido de invierno
 - Manga larga
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Horma clásica
 - Mediasuela con amortiguación para una pisada más cómoda
+- Horma clásica
 - Suela de goma
 - Forro textil
 - Parte superior de piel sintética

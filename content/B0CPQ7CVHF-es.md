@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Refuerzo en la puntera
 - Impermeables y transpirables
+- Refuerzo en la puntera
 - Con trabilla para calzar
 
 [🛒 Visítala!!!]({{< param buyurl >}})

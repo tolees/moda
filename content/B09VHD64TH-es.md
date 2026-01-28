@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Se cierra con una cremallera.
+- Medidas (alto x ancho x profundidad): 8 x 11 x 3 cm.
 - Bolso mediano TOUS de la colección New Dubai Saffiano en piel sintética Saffiano en rojo, rosa y rosa pálido.
 - El interior tiene 2 compartimentos para monedas y 2 ranuras para tarjetas.
-- Medidas (alto x ancho x profundidad): 8 x 11 x 3 cm.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09VHD64TH{{</world>}}

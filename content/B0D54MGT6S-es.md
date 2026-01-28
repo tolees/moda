@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Con un estilo casual
-- Tejido suave y ligero
 - Detalles distintivos de la marca
+- Tejido suave y ligero
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D54MGT6S{{</world>}}

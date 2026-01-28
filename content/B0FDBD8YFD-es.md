@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Solo se admiten cambios o devoluciones con precinto o en productos defectuosos o con taras
 - Diseñada para ofrecer cobertura completa y una silueta favorecedora; ideal para momentos relajados o looks modernos
+- Solo se admiten cambios o devoluciones con precinto o en productos defectuosos o con taras
 - Braga brasileña confeccionada en tejido de microfibra con estampado animal print y detalles de encaje a contraste
 
 [🛒 Aquí!!!]({{< param buyurl >}})

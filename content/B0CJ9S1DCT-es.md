@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gafas de sol
 - Producto de calidad óptima
 - Diseño atractivo
+- Gafas de sol
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CJ9S1DCT{{</world>}}

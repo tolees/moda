@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiene detalles distintivos de la marca
-- Ropa deportiva que se adapta a cualquier actividad deportiva
 - Ofrece comodidad y libertad de movimiento
+- Ropa deportiva que se adapta a cualquier actividad deportiva
+- Tiene detalles distintivos de la marca
 - Puños y dobladillo acanalados
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

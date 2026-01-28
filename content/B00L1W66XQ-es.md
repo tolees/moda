@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Puños de tela con ajuste de velcro.
 - 100% poliéster
+- Puños de tela con ajuste de velcro.
 - El tejido actúa como una barrera impermeable contra la lluvia y la nieve para garantizar la sequedad.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

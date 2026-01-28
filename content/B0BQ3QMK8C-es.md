@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Gafas de sol Polarizadas, otorga una visión sin reflejos y contraste natural de colores, lentes categoría 3 fabricadas con material bio tac polarizado y protección UV400
 - Modelo unisex, medidas: frontal 141 mm, patillas 140 mm, puente 17 mm, diámetro de lente 55.7 mm
-- Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el óptimo Nylon para monturas. Diseño ancho del terminal de la patilla para ergonomía y confort
 - Producto original Hawkers. La caja incluye funda en microfibra y caja
 - Modelo de la colección Made in Spain con lentes Polarizadas
+- Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el óptimo Nylon para monturas. Diseño ancho del terminal de la patilla para ergonomía y confort
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BQ3QMK8C{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño moderno
 - Para uso diario
+- Diseño moderno
 - Adecuado para los días de verano
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

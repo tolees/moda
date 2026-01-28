@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Cintura con goma elástica
 - Multicolor
+- Desigual
 - Cuello: de Camisa
 - Manga: Larga
-- Cintura con goma elástica
 - Bolsillos delanteros
-- Desigual
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DVCDHK9C{{</world>}}

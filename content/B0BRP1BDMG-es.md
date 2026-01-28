@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con capucha
-- Tejido suave y transpirable
-- Sudadera para hombre de la marca danesa JACK & JONES
 - Manga larga
-- Ajuste cómodo
 - Durabilidad con material sostenible
+- Sudadera para hombre de la marca danesa JACK & JONES
+- Ajuste cómodo
+- Tejido suave y transpirable
+- Con capucha
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BRP1BDMG{{</world>}}

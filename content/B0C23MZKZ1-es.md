@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Combínalo con cualquiera de nuestras partes de abajo para crear un look íntimo ideal
 - Con relleno y aro
-- Un básico súper cómodo perfecto para el día a día.
 - Sujetador clásico de algodón
+- Un básico súper cómodo perfecto para el día a día.
 - Sujetador clásico de algodón, con relleno y aro, en color gris
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

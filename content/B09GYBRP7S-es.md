@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tejido polar antipeeling 100% poliéster 280 gr/m2.
 - Chaqueta polar con cierre cremallera completa.
+- Puños elásticos con goma.
+- Tejido polar antipeeling 100% poliéster 280 gr/m2.
 - 3 bolsillos con cremallera.
 - Tapeta protección interna parte superior.
-- Puños elásticos con goma.
 - Cordón regulador elástico en cintura para un mejor ajuste.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

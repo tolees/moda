@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tirantes anchos ajustables
 - Tejido de microfibra y tul
+- Tirantes anchos ajustables
 - Sujetador con aros altos para una sujeción óptima
 
 [🛒 Aquí!!!]({{< param buyurl >}})

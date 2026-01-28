@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Producto original Hawkers; la caja incluye funda en microfibra y caja
-- Gafas de sol polarizadas: Reduce los reflejos superficiales y la fatiga ocular proporcionando nitidez y contrastes superiores; Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Color de la lente: Azul; Apariencia de la lente: Espejo
 - ONE LS es un rediseño del modelo ONE, uno de nuestros diseños más icónicos; este modelo, de la colección Made in Spain, tiene un diseño atemporal con lentes cuadradas y varillas finas; será el básico óptimo para tu día a día; disponible en varios colores de lentes y montura
-- Modelo Unisex; Medidas: Frontal 140;6 mm, Varillas 145 mm, Puente 16 mm, Alto 50 mm
+- Gafas de sol polarizadas: Reduce los reflejos superficiales y la fatiga ocular proporcionando nitidez y contrastes superiores; Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Color de la lente: Azul; Apariencia de la lente: Espejo
+- Producto original Hawkers; la caja incluye funda en microfibra y caja
 - Material de la montura: TR90; Color de la montura: Gris, Negro; Color de la varilla: Gris, Negro
+- Modelo Unisex; Medidas: Frontal 140;6 mm, Varillas 145 mm, Puente 16 mm, Alto 50 mm
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F21S4PXD{{</world>}}

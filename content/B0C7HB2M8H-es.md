@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sudadera con capucha
 - Ofrece comodidad y libertad de movimiento
 - Presentan detalles distintivos de la marca
+- Sudadera con capucha
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C7HB2M8H{{</world>}}

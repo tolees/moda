@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Instrucciones de cuidado: lavable a máquina
 - Ajuste: Auténtico Slim
-- Jeans Pantalones Largos
 - Tipo de estiramiento: baja elasticidad
+- Jeans Pantalones Largos
 - Composición: 56 por ciento algodón 25 por ciento poliéster 13 por ciento lyocell 5 por ciento elastomultiester 1 por ciento elastano
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diseño Collective
 - Manga Corta
+- Diseño Collective
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DNJX2MCY{{</world>}}

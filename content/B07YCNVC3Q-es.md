@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre de cremallera completo
 - Ajuste regular
 - Cintura y puños elásticos acanalados
+- Cierre de cremallera completo
 - Capucha forrada de jersey para óptimo cobertura y calidez
 
 [🛒 Aquí!!!]({{< param buyurl >}})
