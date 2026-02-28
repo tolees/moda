@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Camiseta Real Madrid temporada 24/25
-- Camiseta primera equipación Real Madrid para niños
-- Licencia Oficial
 - Replica oficial primera equipación Real Madrid Temporada 24/25 Niño
+- Licencia Oficial
+- Camiseta primera equipación Real Madrid para niños
+- Camiseta Real Madrid temporada 24/25
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D548TJDV{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Gafas de sol
 - Gafas de sol para protección ocular
 - Elemento de protección
+- Gafas de sol
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CJ9RZGDK{{</world>}}

@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Ángulo de visión amplio: ángulo de visión amplio de 178° que te permite ver películas de pantalla grande sin distorsión, lo que te proporciona una experiencia visual 3D superior
-- Antes de usar, asegúrate de que las gafas estén completamente cargadas y funcionen correctamente. Después de la carga, pulsa el botón situado en la parte superior de las gafas: cuando la luz azul está encendida, indica que las gafas están correctamente encendidas. Además, confirma que la función 3D de tu proyector está activada. Si has completado estos pasos y sigues teniendo problemas, no dudes en ponerte en contacto con nuestro equipo de atención al cliente para obtener ayuda
-- Batería recargable de larga duración: las baterías recargables integradas de alta capacidad te permiten reproducir hasta 50 horas continuamente, lo que significa que puedes disfrutar de 15 películas con 1 sola carga
 - Brillante y vívido: respuesta de menos de 1,5 ms y 38% de alta transmitancia que te ofrecen el efecto 3D más vivo, brillante y sin pérdidas
+- Batería recargable de larga duración: las baterías recargables integradas de alta capacidad te permiten reproducir hasta 50 horas continuamente, lo que significa que puedes disfrutar de 15 películas con 1 sola carga
+- Antes de usar, asegúrate de que las gafas estén completamente cargadas y funcionen correctamente. Después de la carga, pulsa el botón situado en la parte superior de las gafas: cuando la luz azul está encendida, indica que las gafas están correctamente encendidas. Además, confirma que la función 3D de tu proyector está activada. Si has completado estos pasos y sigues teniendo problemas, no dudes en ponerte en contacto con nuestro equipo de atención al cliente para obtener ayuda
 - Diseño ergonómico: el peso súper ligero de 28 gramos de material de policarbonato suave no te hará sentir ninguna molestia. Si llevas gafas miopes, el diseño de marco grande de estas gafas 3D también es adecuado para ti
 - Compatible con AWOL VISION LTV-2500, LTV-3000 Pro, LTV-3500 Pro, Vanish TV y otros proyectores 3D DLP-LINK. Con muy pocos ajustes simples, tendrás un cine en casa 3D 4K inmersivo con tu AWOL VISION
 

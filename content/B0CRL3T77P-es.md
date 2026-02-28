@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Bolsillos de parche
 - Acabado resistente al agua
 - Con detalles de pana
-- Bolsillos de parche
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CRL3T77P{{</world>}}

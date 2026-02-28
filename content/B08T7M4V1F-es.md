@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- DETALLES: Escote en “V” y cierre delantero con botones para un estilo versátil. Detalle de canalé en puños y bajo.
+- HILO DE SUÉTER LIGERO DE MEZCLA DE ALGODÓN: hilo de suéter suave y ligero con un hermoso drapeado.
 - AJUSTE CLÁSICO: ajustado pero cómodo, permite el movimiento.
 - REBECA CLÁSICA: Una prenda moderna y clásica, perfecta tanto para un aspecto elegante como para uno informal.
-- HILO DE SUÉTER LIGERO DE MEZCLA DE ALGODÓN: hilo de suéter suave y ligero con un hermoso drapeado.
+- DETALLES: Escote en “V” y cierre delantero con botones para un estilo versátil. Detalle de canalé en puños y bajo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08T7M4V1F{{</world>}}

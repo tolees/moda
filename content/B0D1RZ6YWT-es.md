@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ofrece una óptima comodidad
 - Insignia con monograma de Calvin Klein en la manga
+- Ofrece una óptima comodidad
 - Cuello, puños y bajo de canalé
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

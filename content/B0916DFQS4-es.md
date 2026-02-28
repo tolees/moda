@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corte normal
-- Logotipo del PUMA estampado por transferencia de calor en el centro del pecho
 - dryCELL: La denominación de PUMA para las propiedades repelentes de la humedad que ayudan a que la piel permanezca seca y cómoda
-- Ribetes de las mangas de malla en un color de contraste
+- Logotipo del PUMA estampado por transferencia de calor en el centro del pecho
 - Cuello redondo
+- Ribetes de las mangas de malla en un color de contraste
+- Corte normal
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0916DFQS4{{</world>}}

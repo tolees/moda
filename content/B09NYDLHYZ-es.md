@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Un modelo redondo y metálico con lentes polarizadas de color gris oscuro. La montura de acero inoxidable negro tiene detalles punteados a lo largo de los aros y el puente, y las puntas de los terminales negros brillantes hacen juego con la montura.
-- Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores. Lentes categoría 3 fabricadas con material bio tac polarizado y protección uv400.
 - Montura en acero inoxidable libre de níquel que las hace altamente resistentes a la corrosión y mucho más fuertes. Almohadillas de silicona ajustables.
+- Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores. Lentes categoría 3 fabricadas con material bio tac polarizado y protección uv400.
 - Producto original Hawkers. La caja incluye funda en microfibra y caja
+- Un modelo redondo y metálico con lentes polarizadas de color gris oscuro. La montura de acero inoxidable negro tiene detalles punteados a lo largo de los aros y el puente, y las puntas de los terminales negros brillantes hacen juego con la montura.
 - Medidas: Frontal 130 mm; Patillas 145 mm ; Puente 21 mm ; Alto 49 mm. Modelo Unisex
 
 [🛒 Comprar!!!]({{< param buyurl >}})

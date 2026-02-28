@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin cordones
-- Ultra Go
 - 3M Scotchgard
 - Alfombrilla Goga refrigerada por aire
+- Sin cordones
+- Ultra Go
 - Ajuste sin atar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

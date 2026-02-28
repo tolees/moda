@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sudadera con capucha clásica
 - 100% algodón
+- Sudadera con capucha clásica
 - Sudadera largo clásico
 
 [🛒 Visítala!!!]({{< param buyurl >}})

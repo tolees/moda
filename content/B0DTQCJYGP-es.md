@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Modelo Unisex
+- Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes de TR18 con el sello de Eastman, gran calidad óptica y resistencia; respetuoso con el medio ambiente; protección 100% UV; Color de la lente: Plateado; Apariencia de la lente: Espejo
+- Producto original Hawkers; la caja incluye funda en microfibra y caja
 - Material de la montura: TR90; Color de la montura: Negro; Color de la varilla: Negro
 - Una evolución retrofuturista de nuestra icónica silueta ONE; el modelo ONE VENM RAW, de la colección Made in Spain, destaca por su ligereza y comodidad; disponible en varios colores de lentes y montura
-- Producto original Hawkers; la caja incluye funda en microfibra y caja
-- Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes de TR18 con el sello de Eastman, gran calidad óptica y resistencia; respetuoso con el medio ambiente; protección 100% UV; Color de la lente: Plateado; Apariencia de la lente: Espejo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DTQCJYGP{{</world>}}

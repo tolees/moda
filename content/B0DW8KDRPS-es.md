@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuello redondo
 - Las mangas son cortas
 - Tiene un logotipo impreso, hecho de algodón, tiene un estampado en la parte delantera
 - Tejido suave de calidad
+- Cuello redondo
 - Corte regular
 
 [🛒 Aquí!!!]({{< param buyurl >}})

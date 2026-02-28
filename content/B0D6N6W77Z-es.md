@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cojín de contorno
 - Clarks Shoes, Easeway Lace, Black Combi, 8 (Men)
+- Cojín de contorno
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D6N6W77Z{{</world>}}

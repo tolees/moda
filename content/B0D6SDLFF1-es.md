@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Categoría de filtro 2, coloración medianamente oscura, utilizar en exteriores con luminosidad media. Absorben entre un 57% y un 81% de luz solar. Material de la lente: Lente de tritan renew material de alto rendimiento con el sello de Eastman. Obtenido por tecnologia de reciclaje molecular. Respetuoso con el medio ambiente y sostenible. Protección 100 % UV. Color de la lente: Marrón. Apariencia de la lente: Sólida.
-- Modelo Unisex. Medidas: Frontal 146 mm, Varillas 145 mm , Puente 20 mm , Alto 48 mm.
-- Te presentamos un nuevo diseño de nuestra línea ECO. Una silueta chunky con forma D-frame rectangular de ángulos muy rectos y marcados para contrastar con los rostros más redondos. Sin duda un must para los que buscan un look “ElementalElegance”. Disponible en varios colores de monturas y lentes.
 - Producto original Hawkers. La caja incluye funda en microfibra y caja
+- Te presentamos un nuevo diseño de nuestra línea ECO. Una silueta chunky con forma D-frame rectangular de ángulos muy rectos y marcados para contrastar con los rostros más redondos. Sin duda un must para los que buscan un look “ElementalElegance”. Disponible en varios colores de monturas y lentes.
+- Modelo Unisex. Medidas: Frontal 146 mm, Varillas 145 mm , Puente 20 mm , Alto 48 mm.
 - Material del montura: Tritan Renew. Color del montura: Negro, Carey. Color de la varilla: Negro.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

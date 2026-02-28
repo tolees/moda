@@ -31,8 +31,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Terminal de la patilla en acabado engomado para mejorar la ergonomía y confort. Bisagra de doble acción para un cierre de patillas seguro y durabilidad.
 - Diseño all black deportivo y casual con montura de Tr90 en acabado mate. Sus varillas poseen terminales de goma, así como sus nose-pads, para mejorar su sujeción. Sus lentes son polarizadas y de color negro, a juego con el resto de la montura.
 - Producto original Hawkers. La caja incluye funda en microfibra y caja
-- Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores. Lentes categoría 3 fabricadas con material bio tac polarizado y protección uv400.
 - Modelo Unisex. Medidas: Frontal 142 mm; Patillas 138 mm ; Puente 15 mm ; Alto 50 mm
+- Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores. Lentes categoría 3 fabricadas con material bio tac polarizado y protección uv400.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C2Z1MPS8{{</world>}}

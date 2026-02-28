@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - TALLA: XL COLOR: Negro
-- COMPOSICIÓN Y CUIDADOS: Experimenta la suavidad y adaptabilidad de esta camiseta de manga larga, hecha con 95% algodón y 5% elastano. Lavar a 30º delicado y evitar la secadora para conservar su elegancia.
 - YSABEL MORA: Desde 1988 confeccionamos ropa de calidad para toda la familia, especializándonos en moda íntima, ropa interior y baño. Nuestra experiencia y diseño nos posicionan como referentes en el sector.
-- CAMISETA DE MANGA LARGA: Confeccionada en algodón natural y elastano, ofrece suavidad y adaptabilidad. Su escote en V con encaje y tul plumeti añade un toque de elegancia y feminidad.
 - ADAPTABILIDAD: Nuestras prendas están confeccionadas con materiales que se ajustan a cualquier cuerpo y situación, promoviendo la sostenibilidad y el cuidado del medio ambiente.
+- COMPOSICIÓN Y CUIDADOS: Experimenta la suavidad y adaptabilidad de esta camiseta de manga larga, hecha con 95% algodón y 5% elastano. Lavar a 30º delicado y evitar la secadora para conservar su elegancia.
+- CAMISETA DE MANGA LARGA: Confeccionada en algodón natural y elastano, ofrece suavidad y adaptabilidad. Su escote en V con encaje y tul plumeti añade un toque de elegancia y feminidad.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FQCY18Q1{{</world>}}

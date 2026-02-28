@@ -29,11 +29,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Diseñada para perdurar en el tiempo: las joyas Swarovski lucen por si solas gracias al y la talla del cristal junto a los metales resistentes. Evita el agua, las lociones o el perfume
+- Medidas: largo del collar: 38 cm. Largo de los pendientes: 0,4 cm
 - Colisión de colores: pendientes, collar y pulsera presentan una dispersión de cristales facetados. Con una Zirconia colocada en el del alargador del collar para un toque de lujo
 - Sofisticación y elegancia: el conjunto de la colección Mesmera resalta por su atrevida y delicada combinación de tallas y tamaños, para un estilo chic
-- Un imán : este conjunto realza estilo y también es adecuado como regalo, regálaselo a un ser querido para conseguir un look elegante y llamativo
-- Medidas: largo del collar: 38 cm. Largo de los pendientes: 0,4 cm
 - Contenido de envío: 1x Swarovski Conjunto de la colección Mesmera, bañado en rodio, con cristales y Swarovski Zirconia transparentes, incl. embalaje de Swarovski
+- Un imán : este conjunto realza estilo y también es adecuado como regalo, regálaselo a un ser querido para conseguir un look elegante y llamativo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C4ZWLF8R{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Logotipo de la marca en el pecho
 - Con un estilo casual
+- Logotipo de la marca en el pecho
 - Tejido ligero y suave
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

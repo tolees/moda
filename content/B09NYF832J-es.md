@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Almohadillas de TR90 para una sujeción mucho más cómoda. Bisagra de 3 barras para un mayor agarre y durabilidad.
 - Medidas: Frontal 139,5 mm; Patillas 145 mm ; Puente 16 mm ; Alto 49,2 mm. Modelo Unisex
 - Producto original Hawkers. La caja incluye funda en microfibra y caja
-- Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Almohadillas de TR90 para una sujeción mucho más cómoda. Bisagra de 3 barras para un mayor agarre y durabilidad.
 - Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores. Lentes categoría 3 fabricadas con material bio tac polarizado y protección uv400.
 - Las ONE LS Rodeo son unas gafas de sol de diseño clásico con aros cuadrados y patillas finas. Este modelo de carey mate tiene lentes verdes polarizadas.
 

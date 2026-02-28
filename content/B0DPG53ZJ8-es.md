@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Detalles del paquete: Embroidery on Chest
 - Ajuste: __ Comfort Fit
 - Rib 1 x 1 en cuffs and Bottom Hem
-- Detalles del paquete: Embroidery on Chest
 - Material: algodón, reciclado, poliéster, 280 g/m2
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Medidas: Frontal 144 mm; Alto 46 mm; Patillas 140 mm; Puente 19 mm; Diámetro de lente 52 mm
-- Las siluetas de los modelos elegantes y sofisticados de los 70 inspiran este diseño de gafas de sol estilo mariposa y lentes negras un modelo que combina frontal en estampado habana a rayas negras y grises con puntas y patillas en rosa transparente
-- Producto original Hawkers. La caja incluye funda en microfibra y caja
 - Lentes categoría 3 y protección uv400 Lentes de TR18 con el sello de Eastman, uno de los líderes mundiales en tecnología de copoliéster respetuoso con el medio ambiente y proporciona un equilibrio entre claridad y resistencia
 - Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el Nylon para monturas del mundo que proporciona flexibilidad y resistencia Bisagra de 5 barras para un adecuado agarre y durabilidad
+- Producto original Hawkers. La caja incluye funda en microfibra y caja
+- Medidas: Frontal 144 mm; Alto 46 mm; Patillas 140 mm; Puente 19 mm; Diámetro de lente 52 mm
+- Las siluetas de los modelos elegantes y sofisticados de los 70 inspiran este diseño de gafas de sol estilo mariposa y lentes negras un modelo que combina frontal en estampado habana a rayas negras y grises con puntas y patillas en rosa transparente
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B084CNLFX9{{</world>}}

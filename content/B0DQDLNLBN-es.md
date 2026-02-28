@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sudadera con capucha de manga larga con cuello acanalado, puños y dobladillo
-- Logotipo artístico en el pecho y doble costura en las sisas
 - 100 % algodón
+- Logotipo artístico en el pecho y doble costura en las sisas
+- Sudadera con capucha de manga larga con cuello acanalado, puños y dobladillo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DQDLNLBN{{</world>}}

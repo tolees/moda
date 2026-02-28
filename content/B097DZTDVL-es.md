@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El Chunky está de moda. Rediseñamos nuestra montura icónica ONE elaborada en acetato para brindar una sensación robusta y lujosa. La montura verde transparente y pulida combinada con lentes oscuras es una combinación fresca y natural.
-- Producto original Hawkers. La caja incluye funda en microfibra y caja
-- Modelo Unisex. Medidas: Frontal 144,3 mm; Patillas 145 mm; Puente 24 mm; Diámetro de lente 49 mm
-- Lentes de TR18 con el sello de Eastman , uno de los líderes mundiales en tecnología de copoliéster. Respetuoso con el medio ambiente y proporciona un equilibrio único entre claridad y resistencia. Lentes categoría 3 y protección uv400 que ofrecen una protección antideslumbrante superior.
 - Montura en acetato de celulosa de alta calidad que aporta una máxima resistencia y durabilidad. Almohadillas de acetato para una sujeción mucho más cómoda. Bisagra de 5 barras para un mayor agarre y durabilidad. Diseño más ancho del terminal de la patilla para mejorar la ergonomía y confort.
+- El Chunky está de moda. Rediseñamos nuestra montura icónica ONE elaborada en acetato para brindar una sensación robusta y lujosa. La montura verde transparente y pulida combinada con lentes oscuras es una combinación fresca y natural.
+- Modelo Unisex. Medidas: Frontal 144,3 mm; Patillas 145 mm; Puente 24 mm; Diámetro de lente 49 mm
+- Producto original Hawkers. La caja incluye funda en microfibra y caja
+- Lentes de TR18 con el sello de Eastman , uno de los líderes mundiales en tecnología de copoliéster. Respetuoso con el medio ambiente y proporciona un equilibrio único entre claridad y resistencia. Lentes categoría 3 y protección uv400 que ofrecen una protección antideslumbrante superior.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B097DZTDVL{{</world>}}

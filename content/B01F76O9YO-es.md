@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Azul (Black Iris)
-- Camisa Manga Larga Mujer
 - 38 (Talla del fabricante: Medium)
+- Camisa Manga Larga Mujer
 - VMMAXI MY LS SOFT LONG U-NECK NOOS
+- Azul (Black Iris)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01F76O9YO{{</world>}}

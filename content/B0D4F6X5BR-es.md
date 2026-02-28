@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fabricado con Omni Freeze Zero: tecnología de refrigeración activada por el sudor para mantenerte fresco y seco.
 - Ajuste activo que garantiza una total libertad de movimiento, 100% poliéster
+- Fabricado con Omni Freeze Zero: tecnología de refrigeración activada por el sudor para mantenerte fresco y seco.
 - Contenido: 1x Columbia Camiseta Zero Rules Light SS Crew para Hombre, Color: River Blue (Verde), Talla: M
 - Confort elástico, paneles laterales Omni Wick, ajuste moderno, uso versátil, esencial para el aire libre, ligero, marca Columbia,
 - La manga corta Zero Rules es una camiseta ligera para actividades al aire libre con tecnología elástica y de refrigeración activada por el sudor

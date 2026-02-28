@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tejidos GORE Selected Fabrics: Altamente transpirables con rápida evacuación del sudor
 - Badana especial para mujer, Cintura elástica, Material elástico fino y suave
-- Bóxer de ciclismo para mujer para cualquier condición meteorológica
 - GORE C3 WOMEN GORE Base Layer Pantalón corto interior, Talla: 36, Color: Negro, 100016
+- Bóxer de ciclismo para mujer para cualquier condición meteorológica
+- Tejidos GORE Selected Fabrics: Altamente transpirables con rápida evacuación del sudor
 - Talle recto/Corte específico para ciclismo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

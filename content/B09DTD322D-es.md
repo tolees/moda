@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Camisa Oxford clásica con bolsillo en el pecho
+- Corte ajustado
 - Con botones
 - Cuello de camisa
-- Corte ajustado
-- Camisa Oxford clásica con bolsillo en el pecho
 - Manga larga
 
 [🛒 Visítala!!!]({{< param buyurl >}})

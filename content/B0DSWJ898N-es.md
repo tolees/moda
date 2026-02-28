@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- SENCILLO E INFORMAL: La camiseta básica destaca por su agradable algodón orgánico y es perfecta para looks más informales, para usar como pijama o ropa interior. La bandera de Tommy Jeans en el pecho completa el estilo de la prenda.
-- PARA CUALQUIER OCASIÓN: Esta prenda minimalista sienta superbién y convence por su gran comodidad. Ya sea con vaqueros, shorts o pantalones elegantes, combina a la perfección con cualquier look ya sea informal o de oficina.
-- MODA URBANA REINTERPRETADA: Para acercar las populares prendas de los 90 a las nuevas generaciones, Tommy Jeans se inspira en los iconos del hip-hop de aquella época. Apostando por prendas de alta calidad y diseños modernos con mucho denim.
-- AJUSTE PERFECTO: La camiseta de manga de corte holgado de algodón orgánico suave tiene un diseño atemporal e informal y se adaptan perfectamente al cuerpo.
 - MATERIAL Y CUIDADO: Camiseta confeccionada en algodón sostenible 100 %. Se puede lavar a máquina.
+- SENCILLO E INFORMAL: La camiseta básica destaca por su agradable algodón orgánico y es perfecta para looks más informales, para usar como pijama o ropa interior. La bandera de Tommy Jeans en el pecho completa el estilo de la prenda.
+- MODA URBANA REINTERPRETADA: Para acercar las populares prendas de los 90 a las nuevas generaciones, Tommy Jeans se inspira en los iconos del hip-hop de aquella época. Apostando por prendas de alta calidad y diseños modernos con mucho denim.
+- PARA CUALQUIER OCASIÓN: Esta prenda minimalista sienta superbién y convence por su gran comodidad. Ya sea con vaqueros, shorts o pantalones elegantes, combina a la perfección con cualquier look ya sea informal o de oficina.
+- AJUSTE PERFECTO: La camiseta de manga de corte holgado de algodón orgánico suave tiene un diseño atemporal e informal y se adaptan perfectamente al cuerpo.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DSWJ898N{{</world>}}

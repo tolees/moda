@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ABERTURA DE LA PIERNA: La talla 42 mide 19 cm.
-- DETALLES: Presenta bragueta con cremallera y cierre de botón, bolsillos delanteros oblicuos, pequeño bolsillo en la cintura y bolsillos traseros clásicos de ojal con botón.
-- AJUSTE ATLÉTICO: Espacio extra en la cadera y el muslo para complexiones atléticas. Queda por la cintura.
-- PANTALÓN CHINO DE COLOR CAQUI: Estos clásicos pantalones chinos de color caqui están confeccionados en un ligero tejido lavado y se convertirán en un básico de tu armario. Una prenda muy versátil, que puedes ponerte a diario o para conseguir un outfit arreglado pero informal para ir a trabajar.
 - CHINO DE ALGODÓN: Este tejido de sarga de algodón se ha lavado para darle mayor suavidad y tiene un poco de elasticidad para mayor comodidad y flexibilidad.
+- AJUSTE ATLÉTICO: Espacio extra en la cadera y el muslo para complexiones atléticas. Queda por la cintura.
+- DETALLES: Presenta bragueta con cremallera y cierre de botón, bolsillos delanteros oblicuos, pequeño bolsillo en la cintura y bolsillos traseros clásicos de ojal con botón.
+- ABERTURA DE LA PIERNA: La talla 42 mide 19 cm.
+- PANTALÓN CHINO DE COLOR CAQUI: Estos clásicos pantalones chinos de color caqui están confeccionados en un ligero tejido lavado y se convertirán en un básico de tu armario. Una prenda muy versátil, que puedes ponerte a diario o para conseguir un outfit arreglado pero informal para ir a trabajar.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07JHYWRC3{{</world>}}

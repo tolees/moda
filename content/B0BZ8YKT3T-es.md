@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Producto original Hawkers; la caja incluye funda en microfibra y caja
 - Material de la montura: Metal, TR90; Color de la montura: Negro; Color de la varilla: Plateado, Negro
 - Rediseño de nuestra clásica One LS, esta vez con una patilla metálica de color plata mate y pins frontales en forma de media H que le dan un toque más sofisticado; combina con un frontal y terminales negros en acabado brillo que le aportan un look más urbano; incorporan lentes negras polarizadas
 - Modelo Unisex; Medidas: Frontal 142 mm, Varillas 145 mm, Puente 17 mm, Alto 52 mm
 - Gafas de sol polarizadas: Reduce los reflejos superficiales y la fatiga ocular proporcionando nitidez y contrastes superiores; Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes fabricadas en material bio tac polarizado; protección 100 % UV; Color de la lente: Negro; Apariencia de la lente: Sólida
+- Producto original Hawkers; la caja incluye funda en microfibra y caja
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BZ8YKT3T{{</world>}}

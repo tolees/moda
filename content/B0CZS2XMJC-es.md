@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Hombros con las costuras caídas
-- Corte clásico
 - 100% algodón
+- Corte clásico
+- Hombros con las costuras caídas
 - Cuello redondo de canalé
 
 [🛒 Visítala!!!]({{< param buyurl >}})

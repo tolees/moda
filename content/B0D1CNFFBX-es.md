@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Camiseta para hombre
 - Jjsimon Tee SS Crew Neck - Camiseta
 - Camiseta para hombre de la marca danesa JACK & JONES
-- Camiseta para hombre
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D1CNFFBX{{</world>}}

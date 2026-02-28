@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- AJUSTE NORMAL: Ajuste cómodo en hombros, pecho y cintura.
-- DETALLES: Presenta estilo camisero clásico, parte delantera abotonada, puños de las mangas abotonados, dos bolsillos delanteros de ojal para las manos y dos bolsillos en el pecho con solapas y cierres de botón.
-- ESTILO PARA EL FRÍO: Este chaqueta de forro polar está diseñada para actividades al aire libre y te llevará a donde tengas que ir. Es ideal para darle el toque final a tu outfit cuando empiece a refrescar o como una cómoda capa interior para cuando llegue el momento de abrigarse.
 - FORRO POLAR: Tejido de punto de doble cara con acabado cepillado y una textura sutil. Este suave y acogedor forro polar de gramaje medio te mantendrá abrigado y aislado, y es ideal para uso diario.
+- AJUSTE NORMAL: Ajuste cómodo en hombros, pecho y cintura.
+- ESTILO PARA EL FRÍO: Este chaqueta de forro polar está diseñada para actividades al aire libre y te llevará a donde tengas que ir. Es ideal para darle el toque final a tu outfit cuando empiece a refrescar o como una cómoda capa interior para cuando llegue el momento de abrigarse.
+- DETALLES: Presenta estilo camisero clásico, parte delantera abotonada, puños de las mangas abotonados, dos bolsillos delanteros de ojal para las manos y dos bolsillos en el pecho con solapas y cierres de botón.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B085YVVBQ1{{</world>}}

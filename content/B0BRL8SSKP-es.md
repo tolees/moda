@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Simple pero versátil, este suéter es perfecto para usar en capas y sirve como un elemento adicional de estilo y comodidad
 - Jerséis
 - Fabricado en piqué de algodón ligero, este suéter de media cremallera cuenta con una silueta de ajuste regular y nuestro clásico logotipo de GANT bordado en el pecho
+- Simple pero versátil, este suéter es perfecto para usar en capas y sirve como un elemento adicional de estilo y comodidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BRL8SSKP{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño de gafas de sol deportivas para los nostálgicos y nostálgicas de los ‘90. Este diseño unisex estilo athleisure, de la colección Made in Spain, combina montura negra de efecto envolvente en acabado mate y lentes POLARIZADAS espejadas de color verde/azul iridiscente.
-- Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores. Lentes categoría 3 de ECO TAC polarizado de 1,2 mm que proporcionan protección 100% UV400.
-- Modelo Unisex. Medidas: Frontal 142 mm; Patillas 135 mm ; Puente 15 mm ; Alto 49,3 mm
 - Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Bisagra de doble acción para un cierre de patillas seguro y durabilidad. Diseño más ancho del terminal de la patilla para mejorar la ergonomía y confort.
+- Diseño de gafas de sol deportivas para los nostálgicos y nostálgicas de los ‘90. Este diseño unisex estilo athleisure, de la colección Made in Spain, combina montura negra de efecto envolvente en acabado mate y lentes POLARIZADAS espejadas de color verde/azul iridiscente.
+- Modelo Unisex. Medidas: Frontal 142 mm; Patillas 135 mm ; Puente 15 mm ; Alto 49,3 mm
+- Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores. Lentes categoría 3 de ECO TAC polarizado de 1,2 mm que proporcionan protección 100% UV400.
 - Producto original Hawkers. La caja incluye funda en microfibra y caja
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

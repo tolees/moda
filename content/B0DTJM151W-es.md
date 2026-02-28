@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Pantalón chino ajustado de algodón en estructura de sarga
 - Bolsillos con botones en la parte trasera
 - Tinte para prendas con lavado reactivo
-- Pantalón chino ajustado de algodón en estructura de sarga
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DTJM151W{{</world>}}

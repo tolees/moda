@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- CORTE HOLGADO: Ajuste holgado y cómodo en todo el cuerpo
-- SUDADERA CORTA: Una sudadera clásica de felpa francesa con un diseño moderno y una longitud corta
-- LONGITUD: 31,1 cm desde el lado del cuello en la talla de 3 años de España, 39,4 cm desde el lado del cuello en la talla de 8 años de España
-- DETALLES: Cuello redondo, puños y parte inferior confeccionados con un cómodo canalé de algodón
 - FELPA FRANCESA LIGERA: Confeccionado con un forro polar de felpa francesa en mezcla de algodón y poliéster con bucle en la espalda, que es naturalmente suave, elástico y transpirable
+- SUDADERA CORTA: Una sudadera clásica de felpa francesa con un diseño moderno y una longitud corta
+- CORTE HOLGADO: Ajuste holgado y cómodo en todo el cuerpo
+- DETALLES: Cuello redondo, puños y parte inferior confeccionados con un cómodo canalé de algodón
+- LONGITUD: 31,1 cm desde el lado del cuello en la talla de 3 años de España, 39,4 cm desde el lado del cuello en la talla de 8 años de España
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DNFM88HY{{</world>}}

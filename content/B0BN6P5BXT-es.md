@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Talla del zapato: Medium
-- Grado de resistencia al agua: no impermeable
 - Forma del tacón: plano
+- Grado de resistencia al agua: no impermeable
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BN6P5BXT{{</world>}}

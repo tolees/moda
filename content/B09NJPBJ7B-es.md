@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Plantilla contorneada
+- Parte superior sintética
+- Forro textil
 - Entresuela Cloudfoam
 - Construcción sin cordones
-- Forro textil
-- Parte superior sintética
 - Compra 1 talla más grande
 
 [🛒 Visítala!!!]({{< param buyurl >}})

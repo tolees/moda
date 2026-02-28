@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Detalles distintivos de Tommy Jeans
 - Cuello inglés
-- Corte slim
 - Logo de Tommy Jeans bordado en el pecho
 - Puños con botón
+- Corte slim
 - Popelín de algodón elástico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

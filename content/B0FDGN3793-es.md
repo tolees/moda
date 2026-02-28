@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pijama camisero de manga larga
 - Este pijama de dos piezas en punto suave de viscosa es la combinación perfecta de comodidad y estilo
 - La camisa de manga larga presenta solapas de muesca y botones en la parte delantera
+- Pijama camisero de manga larga
 - Ideal para dormir o estar en casa muy cómoda
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bufanda tubular
-- Manga corta
-- Estampado de pigmentos para una impresión suave en ropa ligera
 - Camiseta de alta calidad para uso diario
+- Estampado de pigmentos para una impresión suave en ropa ligera
+- Bufanda tubular
 - Cuello redondo
+- Manga corta
 - Corte normal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

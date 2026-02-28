@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Capa versátil: Esta camiseta es una excelente capa de absorción para todo el año.
-- Camiseta técnica: Esta camiseta de alto rendimiento está diseñada para actividades al aire libre y está fabricada con tejido suave de mezcla de algodón que absorbe el sudor.
 - Fabricada para durar: La atención al detalle de Columbia es lo que diferencia nuestras prendas de las demás. Utilizamos solo materiales de la más alta calidad, artesanía experta y costuras resistentes. Una prenda supercómoda que disfrutarás durante las próximas temporadas.
+- Camiseta técnica: Esta camiseta de alto rendimiento está diseñada para actividades al aire libre y está fabricada con tejido suave de mezcla de algodón que absorbe el sudor.
 - Algodón y poliéster reciclado: Hecha de una mezcla de algodón y poliéster reciclado que proporciona una sensación elástica cómoda para un rango de movimiento sin restricciones, perfecta para cualquier salida.
+- Capa versátil: Esta camiseta es una excelente capa de absorción para todo el año.
 - Omni-Wick: la más reciente tecnología de gestión de la humedad para el aire libre. Omni-wick aleja la humedad de la piel y la dispersa por la superficie del tejido para permitir una evaporación rápida que te ayuda a permanecer seco y cómodo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

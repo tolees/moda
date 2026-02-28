@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Cuello redondo
-- Largo estándar
 - Corte holgado
-- Punto simple
 - Manga corta
+- Largo estándar
+- Punto simple
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DJDR5D8V{{</world>}}

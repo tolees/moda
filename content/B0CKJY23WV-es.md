@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Puma Logotipo número uno en la correa
 - Correa sintética
+- Puma Logotipo número uno en la correa
 - Suela de EVA inyectada para mayor suavidad y amortiguación
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- REPLAY es una de las principales marcas italianas de denim y estilo de vida para hombres y mujeres desde hace 40 años. La marca es sinónimo de innovación, autenticidad y se centra en la sostenibilidad.
-- Aspecto casual: la camiseta de manga corta tiene un ajuste normal y un estampado minimalista en la parte delantera.
-- Cuello redondo: la forma del cuello es un cuello redondo básico. La parte superior queda suelta y se siente agradable en la piel gracias al algodón ligero.
 - Instrucciones de cuidado: se recomienda lavar la camiseta en el programa para prendas delicadas a 30 °C y hasta máx. Planchar a 110 °C.
+- Aspecto casual: la camiseta de manga corta tiene un ajuste normal y un estampado minimalista en la parte delantera.
+- REPLAY es una de las principales marcas italianas de denim y estilo de vida para hombres y mujeres desde hace 40 años. La marca es sinónimo de innovación, autenticidad y se centra en la sostenibilidad.
 - Algodón puro: el material de alta calidad no solo es suave y flexible en la piel, sino también transpirable.
+- Cuello redondo: la forma del cuello es un cuello redondo básico. La parte superior queda suelta y se siente agradable en la piel gracias al algodón ligero.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CX5DJ19P{{</world>}}

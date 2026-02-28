@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sl Gottero Oh Hoody (SHC07407)
-- Ropa deportiva Ellesse
 - Sudadera tiempo libre y sportwear hombre
+- Ropa deportiva Ellesse
+- Sl Gottero Oh Hoody (SHC07407)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07R639NGW{{</world>}}

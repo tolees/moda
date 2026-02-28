@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ofrecen una comodidad óptima
 - Diseño ligero y transpirable
+- Ofrecen una comodidad óptima
 - Con una plantilla desmontable
 
 [🛒 Visítala!!!]({{< param buyurl >}})

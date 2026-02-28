@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuello con muesca y mangas cortas
+- Ajuste fácil
 - Estándar
 - Ajuste regular
-- Ajuste fácil
+- Cuello con muesca y mangas cortas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07CJR7BRP{{</world>}}

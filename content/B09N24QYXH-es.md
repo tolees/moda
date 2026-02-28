@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fomenta la sabiduría, la diplomacia y la prudencia, desarrolla la intuición, la imaginación y la capacidad de visualización. Es un escudo energético muy poderoso que protege contra la negatividad en general, combinado con la turquesa se vuelve aún más potente (como enseñan los chamanes indios americanos).
-- Precioso collar con piedras naturales de 5 a 8 mm.
 - Longitud de 84 cm.
+- Precioso collar con piedras naturales de 5 a 8 mm.
+- Fomenta la sabiduría, la diplomacia y la prudencia, desarrolla la intuición, la imaginación y la capacidad de visualización. Es un escudo energético muy poderoso que protege contra la negatividad en general, combinado con la turquesa se vuelve aún más potente (como enseñan los chamanes indios americanos).
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09N24QYXH{{</world>}}

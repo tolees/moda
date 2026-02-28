@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- JERSEY DE PUNTO TRENZADO CON CUELLO REDONDO: Una prenda moderna y clásica, perfecta tanto para un aspecto elegante como para uno informal.
 - DETALLES: Presenta clásico cuello redondo y mangas largas con detalle de canalé en puños y bajo. Precioso diseño de punto trenzado texturizado por toda la prenda.
 - JERSEY DE PUNTO FINO EN MEZCLA DE ALGODÓN: Hilo ligero de punto fino con una bonita caída.
 - AJUSTE NORMAL: Ajuste ceñido pero cómodo en pecho, cintura y cadera.
+- JERSEY DE PUNTO TRENZADO CON CUELLO REDONDO: Una prenda moderna y clásica, perfecta tanto para un aspecto elegante como para uno informal.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08C8GYDTB{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Un clásico por excelencia que puedes combinar con todo
-- La base perfecta para cualquier conjunto. La camiseta Classic Graphic que lo tiene todo: un perfil atemporal y uno de los logotipos más emblemáticos que existen.
-- LEVIS TAB: Existen diferentes variaciones de la conocida lengüeta roja. Todos los productos son originales de Levis, no importa si pone LEVIS, Levis, no está escrito o es de otro color.
 - Acabada con un gráfico atrevido
+- La base perfecta para cualquier conjunto. La camiseta Classic Graphic que lo tiene todo: un perfil atemporal y uno de los logotipos más emblemáticos que existen.
+- Un clásico por excelencia que puedes combinar con todo
+- LEVIS TAB: Existen diferentes variaciones de la conocida lengüeta roja. Todos los productos son originales de Levis, no importa si pone LEVIS, Levis, no está escrito o es de otro color.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CY2VSGZ7{{</world>}}

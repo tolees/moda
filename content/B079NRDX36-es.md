@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Dimensiones de la bolsa: 17 x 4,5 x 16 cm (largo x ancho x alto), 8 g de peso neto
 - ESTILO DE USO FLEXIBLE: 1 correa de hombro ajustable con nudos para mayor comodidad individual
 - LIGERA Y COMPACTA: bolsa pequeña con solapa o solapa con cierre magnético y 1 compartimento principal
-- DISEÑO PURO: Esta serie Ida impresiona por su aspecto limpio y sencillo, ligera como una pluma, con una decoración de borlas y un fino logotipo estampado en el material exterior granulado
 - TOM TAILOR: La despreocupación en esencia. Nuestro lema: «Casual»: no es solo un código de vestimenta, sino una forma de vida. «Tom Tailor es su gente»: lo casual es nuestra identidad.
-- Dimensiones de la bolsa: 17 x 4,5 x 16 cm (largo x ancho x alto), 8 g de peso neto
+- DISEÑO PURO: Esta serie Ida impresiona por su aspecto limpio y sencillo, ligera como una pluma, con una decoración de borlas y un fino logotipo estampado en el material exterior granulado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B079NRDX36{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ENTRA EN EL MUNDO KOOKYLOOS – El cambio de expresión y la cantidad de accesorios intercambiables entre muñecas hace de las KookyLoos un juego perfecto para niños y niñas a partir de 3 años. Podrán desarrollar su imaginación creando divertidas historias
-- DESCUBRE LAS 12 KOOKYLOOS GLITTER GLAM PARA COLECCIONAR – ¡Más glamurosas y brillantes que nunca! Todas las muñecas vienen con muchos detalles de purpurina, y puedes encontrar nuevos accesorios y mascotas. ¿Y tú, de qué grupo de amigas eres? ¿Glitter Divas, Glitter Fantasy, Glitter Geeks o Glitter Gala? ¡Colecciónalas todas!
+- CAMBIO DE EXPRESIÓN – Las KookyLoos son súper expresivas. Con un solo clic les puedes cambiar la expresión. Cada muñeca tiene 3 diferentes y divertidas expresiones
 - MUCHOS ACCESORIOS PARA LAS MUÑECAS – Cada KookyLoos viene con complementos de moda y accesorios según sus gustos y hobbies
 - CONSIGUE LA MUÑECA EXCLUSIVA – ¿Te tocará Cora, la muñeca VIP de la colección? Viene con dos outfits y accesorios extra ¡y su adorable mascota unicornio!
-- CAMBIO DE EXPRESIÓN – Las KookyLoos son súper expresivas. Con un solo clic les puedes cambiar la expresión. Cada muñeca tiene 3 diferentes y divertidas expresiones
+- DESCUBRE LAS 12 KOOKYLOOS GLITTER GLAM PARA COLECCIONAR – ¡Más glamurosas y brillantes que nunca! Todas las muñecas vienen con muchos detalles de purpurina, y puedes encontrar nuevos accesorios y mascotas. ¿Y tú, de qué grupo de amigas eres? ¿Glitter Divas, Glitter Fantasy, Glitter Geeks o Glitter Gala? ¡Colecciónalas todas!
+- ENTRA EN EL MUNDO KOOKYLOOS – El cambio de expresión y la cantidad de accesorios intercambiables entre muñecas hace de las KookyLoos un juego perfecto para niños y niñas a partir de 3 años. Podrán desarrollar su imaginación creando divertidas historias
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BZSWCP2W{{</world>}}

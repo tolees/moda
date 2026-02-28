@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material interior: sintético
-- Cierre: cordones
 - Forma del talón: plano
+- Material interior: sintético
 - Suela: Caucho
+- Cierre: cordones
 - Material exterior: sintético
 
 [🛒 Aquí!!!]({{< param buyurl >}})

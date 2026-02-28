@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Con estuche y una tela para limpiar los cristales
 - Varillas finas
 - Marca del producto: Tommy Hilfiger
-- Con estuche y una tela para limpiar los cristales
 - Diseño atractivo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

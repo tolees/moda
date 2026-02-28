@@ -29,12 +29,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Robusto cabezal de engranaje de metal
+- Tope de profundidad ajustable sin escalonamiento
 - Rotación a derecha / izquierda
-- Recepción de herramienta ¼“ (6,35 mm) llave Allen
 - Engranaje de arranque y parada automático
 - Botón de fijación para funcionamiento permanente
-- Tope de profundidad ajustable sin escalonamiento
 - Unidad electrónica para regular el número de revoluciones con preselección de número de revoluciones
+- Recepción de herramienta ¼“ (6,35 mm) llave Allen
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00IYEESUM{{</world>}}

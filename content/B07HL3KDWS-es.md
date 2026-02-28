@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- DETALLES: Tradicional camisa de estilo western con cuello abierto, tapeta central con cierre de corchetes en la parte delantera, canesú angulado delantero y trasero, bolsillos dobles con solapa y corchetes en el pecho y puños tipo barril ajustables con dos botones.
-- AJUSTE CEÑIDO: Ajuste ceñido en hombros, pecho y cintura.
 - CAMISA PARA EL DÍA A DÍA: Esta camisa de tejido vaquero de manga larga es un básico de armario para todo el año. La puedes llevar desabrochada con una camiseta debajo para un look desenfadado, o abotonada para un look más elegante.
+- AJUSTE CEÑIDO: Ajuste ceñido en hombros, pecho y cintura.
 - TELA VAQUERA LIGERA: Camisa vaquera de algodón 100 % teñido en añil de 221 gramos, de tejido tupido para mayor durabilidad, pero lo suficientemente ligera para que puedas ponértela durante todas las estaciones del año.
+- DETALLES: Tradicional camisa de estilo western con cuello abierto, tapeta central con cierre de corchetes en la parte delantera, canesú angulado delantero y trasero, bolsillos dobles con solapa y corchetes en el pecho y puños tipo barril ajustables con dos botones.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07HL3KDWS{{</world>}}

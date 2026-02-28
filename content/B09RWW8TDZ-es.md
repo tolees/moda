@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Corte ajustado
 - Chaleco corto de punto para mujer en diseño clásico
+- Corte ajustado
 - Cuello de pico con puños y tira de botones
 - De poliacrílico, viscosa y nailon
 - Puños y dobladillo sin puños

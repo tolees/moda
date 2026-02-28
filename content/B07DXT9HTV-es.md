@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Volumen de suministro: 1 x Camiseta oversized Pray de mangas cortas, corte moderno y relajado, de hombre, distintos colores, tallas XS-5XL de Mister Tee
 - Un must-have: esta prenda no te puede faltar si te gusta combinar básicos con complementos u otras prendas que resalten en tu outfit casual, sin tener que invertir mucho tiempo
 - Cómoda y transpirable: por su material en algodón, es ideal para el día a día por su alta transpirabilidad, se lava a máquina
-- Volumen de suministro: 1 x Camiseta oversized Pray de mangas cortas, corte moderno y relajado, de hombre, distintos colores, tallas XS-5XL de Mister Tee
 - El fondo de armario: esta camiseta ancha es de moda callera y es muy fácil de combinar con cualquier look de diario, por lo que es un imprescindible en cualquier armario de gente cool
 - Diseño moderno: aunque es una camiseta básica, su corte es especial, dándole un aspecto más relajado y moderno. El estampado frontal es tipico de la moda Hip Hop y Rap
 

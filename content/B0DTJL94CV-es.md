@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Logotipo clásico de Pepe Jeans más grande en la parte delantera
 - 100 % algodón
 - Camiseta clásica de manga corta con cuello redondeado
-- Logotipo clásico de Pepe Jeans más grande en la parte delantera
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DTJL94CV{{</world>}}

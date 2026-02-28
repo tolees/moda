@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Etiqueta de la bandera en el dobladillo.
 - Cremallera frontal central.
-- Capucha con cordón de ajuste.
-- alpha industries t-shirts 126564 59 Tank black HOMBRE TALLA L
+- Etiqueta de la bandera en el dobladillo.
 - Puños acanalados en mangas y cadera.
+- alpha industries t-shirts 126564 59 Tank black HOMBRE TALLA L
+- Capucha con cordón de ajuste.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B074PKQQ2F{{</world>}}

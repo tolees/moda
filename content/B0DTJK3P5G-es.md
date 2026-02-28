@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 100 % algodón
-- Marca centrada en el pecho
 - Camiseta de manga corta
+- Marca centrada en el pecho
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DTJK3P5G{{</world>}}

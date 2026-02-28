@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Altura del tacón: 3.5 cm / 1.4 inch
 - Calce fácil gracias al cierre con cremallera
+- Altura del tacón: 3.5 cm / 1.4 inch
 - Los sistemas patentados Geox ofrecen la transpirabilidad de la suela y el bienestar del pie
 - Fácil de llevar para un confort optimo
 

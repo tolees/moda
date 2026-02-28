@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pack de tres bragas clásicas de algodón y detalle de logo WomenSecret en el elástico de la cintura
 - Un básico que debes tener en tu cajón de la ropa interior
+- Pack de tres bragas clásicas de algodón y detalle de logo WomenSecret en el elástico de la cintura
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DQYP2G6X{{</world>}}

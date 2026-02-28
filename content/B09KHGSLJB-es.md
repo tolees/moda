@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Modelo Unisex; Medidas: Frontal 141;2 mm, Varillas 140 mm, Puente 17 mm, Alto 50;5 mm
 - ONE es nuestro diseño más icónico de todos los tiempos; el modelo ONE RAW, de la colección Made in Spain, destaca por su ligereza, comodidad y diseño atemporal; todo un básico para los días soleados; disponible en varios colores de lentes y montura
 - Gafas de sol polarizadas: Reduce los reflejos superficiales y la fatiga ocular proporcionando nitidez y contrastes superiores; Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes fabricadas en material bio tac polarizado; protección 100 % UV; Color de la lente: Negro; Apariencia de la lente: Sólida
-- Producto original Hawkers; la caja incluye funda en microfibra y caja
 - Material de la montura: TR90; Color de la montura: Negro; Color de la varilla: Negro
-- Modelo Unisex; Medidas: Frontal 141;2 mm, Varillas 140 mm, Puente 17 mm, Alto 50;5 mm
+- Producto original Hawkers; la caja incluye funda en microfibra y caja
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09KHGSLJB{{</world>}}

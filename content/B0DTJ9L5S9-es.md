@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sudadera de cuello redondo en tela cepillada de mezcla de algodón y poliéster
 - 70 % algodón, 30 % poliéster
 - Gran logotipo de temporada impreso en el pecho y etiqueta tejida con logotipo insertado en la costura lateral
+- Sudadera de cuello redondo en tela cepillada de mezcla de algodón y poliéster
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DTJ9L5S9{{</world>}}

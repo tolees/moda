@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Paneles acolchados en la puntera y el talón
-- Costuras anatómicas en la puntera
-- Refuerzo en el arco plantar
 - Tres pares por paquete
+- Costuras anatómicas en la puntera
+- Paneles acolchados en la puntera y el talón
+- Refuerzo en el arco plantar
 - Largo clásico
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Modelo Femenino; Medidas: Frontal 146 mm, Varillas 145 mm, Puente 20 mm, Alto 45 mm
 - Este modelo rectangular tiene un diseño con reminiscencia de los 90; combina varillas bold y frontal estrecho con ángulos muy marcados que contrastan con lentes redondas; sus colores de motivos atrevidos y en tendencia las convierten en un verdadero statement
 - Producto original Hawkers; la caja incluye funda en microfibra y caja
 - Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes de TR18 con el sello de Eastman, gran calidad óptica y resistencia; respetuoso con el medio ambiente; protección 100% UV; Color de la lente: Marrón, Azul; Apariencia de la lente: Gradiente
 - Material de la montura: Acetato; Color de la montura: Carey, Gris, Azul; Color de la varilla: Carey, Gris, Azul
-- Modelo Femenino; Medidas: Frontal 146 mm, Varillas 145 mm, Puente 20 mm, Alto 45 mm
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D6SN8YHV{{</world>}}

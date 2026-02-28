@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Modelo Unisex. Medidas: Frontal 145 mm, Varillas 145 mm , Puente 13 mm , Alto 51 mm.
-- Producto original Hawkers. La caja incluye funda en microfibra y caja
 - Material del montura: TR90. Color del montura: Negro. Color de la varilla: Negro.
-- Ampliamos nuestra línea ECO con estos Gafas de sol oversized. Una silueta vintage que se define por su sutil forma de ojo de gato angulada para reforzar un look sofisticado y misterioso y darte un estilo digno de una auténtica estrella de Hollywood. Disponible en varios colores de monturas y lentes.
+- Modelo Unisex. Medidas: Frontal 145 mm, Varillas 145 mm , Puente 13 mm , Alto 51 mm.
 - Categoría de filtro 3, color suficientemente oscuro para usar en exterior a pleno sol. Absorben entre un 82% y un 92% de luz solar. Material de la lente: Lentes de TR18 con el sello de Eastman, gran calidad óptica y resistencia. Respetuoso con el medio ambiente. Protección 100% UV. Color de la lente: Negro. Apariencia de la lente: Sólida.
+- Producto original Hawkers. La caja incluye funda en microfibra y caja
+- Ampliamos nuestra línea ECO con estos Gafas de sol oversized. Una silueta vintage que se define por su sutil forma de ojo de gato angulada para reforzar un look sofisticado y misterioso y darte un estilo digno de una auténtica estrella de Hollywood. Disponible en varios colores de monturas y lentes.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D6SKQ95R{{</world>}}

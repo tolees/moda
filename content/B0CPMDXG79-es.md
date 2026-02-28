@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Zapatos fáciles de poner
 - Zapato cómodo que aporta ligereza y bienestar
 - Plantilla extraíble
-- Zapatos fáciles de poner
 - Transpirable
 
 [🛒 Comprar!!!]({{< param buyurl >}})

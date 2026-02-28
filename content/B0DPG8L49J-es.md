@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Mangas cortas: pantalones cortos
+- Marca: Pantalla suave y trasera
 - Etiqueta de bandera lateral
 - Impresión suave a mano frontal y trasera
-- Marca: Pantalla suave y trasera
-- Mangas cortas: pantalones cortos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DPG8L49J{{</world>}}

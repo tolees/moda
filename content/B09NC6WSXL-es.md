@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Interior cepillado suave
-- País de origen: LK
 - Delicada mezcla de algodón
 - Con puños acanalados
+- País de origen: LK
+- Interior cepillado suave
 - Impresión de alto contraste
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

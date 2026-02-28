@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- IMPRESCINDIBLE PARA EL VERANO: Confeccionados en suave y transpirable algodón orgánico para brindar comodidad todo el día. Cuentan con un clásico tejido piqué, cuello y puños de canalé para un toque atemporal, y aberturas laterales para facilitar el movimiento. Perfectos para el trabajo, un look casual, golf y tenis.
 - MATERIALES PREMIUM: Elaborados con 60% de algodón (orgánico), 34% de poliéster y 6% de elastano. Certificados según el estándar OEKO-TEX 100 y libres de sustancias nocivas. Lavables a máquina a 30°C (86°F). No usar secadora.
-- ELIGE UNA TALLA MAYOR: Si prefieres un corte holgado, te recomendamos pedir una talla más grande, ya que estos polos para hombre tienen un ajuste de regular a ajustado. Ideales para el trabajo diario, un estilo casual, golf y tenis.
 - EXCELENTE SERVICIO AL CLIENTE: Queremos que nuestros clientes estén satisfechos. Si tienes cualquier pregunta acerca de nuestros polos, no dudes en contactarnos. Nuestro equipo estará encantado de ayudarte.
 - DISEÑADOS EN DINAMARCA: Somos una empresa familiar con sede en Copenhague. Estos polos han sido diseñados por nuestro equipo para brindarte la máxima comodidad sin comprometer el estilo ni la calidad.
+- ELIGE UNA TALLA MAYOR: Si prefieres un corte holgado, te recomendamos pedir una talla más grande, ya que estos polos para hombre tienen un ajuste de regular a ajustado. Ideales para el trabajo diario, un estilo casual, golf y tenis.
+- IMPRESCINDIBLE PARA EL VERANO: Confeccionados en suave y transpirable algodón orgánico para brindar comodidad todo el día. Cuentan con un clásico tejido piqué, cuello y puños de canalé para un toque atemporal, y aberturas laterales para facilitar el movimiento. Perfectos para el trabajo, un look casual, golf y tenis.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BF9TJT7G{{</world>}}

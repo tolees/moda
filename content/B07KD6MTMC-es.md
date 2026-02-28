@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ribetes y puños acanalados adherentes
 - Ofrece una comodidad óptima
+- Ribetes y puños acanalados adherentes
 - El material absorbe el calor y se seca rápidamente
 - Marca del producto: Nike
 

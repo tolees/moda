@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Almohadillas de TR90 para una sujeción mucho más cómoda
-- Medidas: Frontal 141 mm; Patillas 148 mm ; Puente 19 mm ; Alto 46,3 mm. Modelo Unisex
 - El modelo Jack es un diseño de gafas de sol sencillo, clásico, con lentes cuadradas, un puente en forma de campana, patillas finas y detalles de doble remache en las bisagras. Este modelo combina una montura de carey brillante con lentes azul cielo polarizadas.
 - Producto original Hawkers. La caja incluye funda en microfibra y caja
+- Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Almohadillas de TR90 para una sujeción mucho más cómoda
+- Medidas: Frontal 141 mm; Patillas 148 mm ; Puente 19 mm ; Alto 46,3 mm. Modelo Unisex
 - Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores. Lentes categoría 3 fabricadas con material bio tac polarizado y protección uv400.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

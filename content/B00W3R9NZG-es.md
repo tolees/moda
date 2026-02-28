@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ideal para prácticas deportivas al aire libre, como running
-- Ofrece resistencia, transpiración y durabilidad
 - Fabricada en 100% poliéster
+- Ofrece resistencia, transpiración y durabilidad
+- Ideal para prácticas deportivas al aire libre, como running
 - Sudadera con cremallera, ajustada en puños y cintura
 
 [🛒 Comprar!!!]({{< param buyurl >}})

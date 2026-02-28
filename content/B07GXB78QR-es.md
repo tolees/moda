@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Regular fit
-- Soft fabric
 - "Just do It" graphics
+- Soft fabric
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07GXB78QR{{</world>}}

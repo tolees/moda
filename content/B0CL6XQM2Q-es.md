@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diseño de estampado
 - Con tejido ligero y suave
 - Ofrece una comodidad óptima
+- Diseño de estampado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CL6XQM2Q{{</world>}}

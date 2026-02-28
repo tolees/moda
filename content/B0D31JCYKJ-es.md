@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Estampado en la parte delantera
 - Tejido suave y ligero
 - Ofrece una comodidad óptima
-- Estampado en la parte delantera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D31JCYKJ{{</world>}}

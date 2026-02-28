@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Color: negro
-- Producto de calidad
 - Camiseta masculina
+- Producto de calidad
 - Cuello redondo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

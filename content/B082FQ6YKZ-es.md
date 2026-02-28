@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- DISEÑO Y FUNCIONALIDAD: Transpirable, corta viento resistente al agua; Dinámico tejido interior en contraste; Puños ajustables con cierre autoadherente para un firme ajuste; La generosa capucha es moderna y práctica; Mangas pre-curvadas que facilitan una mayor libertad de movimiento; Líneas reflectantes para mayor visibilidad; Cintura con cordón para un cómodo ajuste; Bolsillo con cremallera en el pecho; Acabado del tejido extremadamente resistente al agua, el agua forma bolitas que ruedan de la superficie del tejido; Bolsillos laterales con cremallera; Capucha con forma ergonómica para un perfecto ajuste.
-- CUIDADO DEL LAVADO: Temp. máx. lavado 30ºC, proceso suave. No usar blanqueante. No usar secadora. Secar escurriendo tendiendo. No planchar. No limpiar en seco.
 - NORMAS: Waterproof / Breathability - (WP 8,000mm, MVP 3,000g/m2/24hr).
+- DISEÑO Y FUNCIONALIDAD: Transpirable, corta viento resistente al agua; Dinámico tejido interior en contraste; Puños ajustables con cierre autoadherente para un firme ajuste; La generosa capucha es moderna y práctica; Mangas pre-curvadas que facilitan una mayor libertad de movimiento; Líneas reflectantes para mayor visibilidad; Cintura con cordón para un cómodo ajuste; Bolsillo con cremallera en el pecho; Acabado del tejido extremadamente resistente al agua, el agua forma bolitas que ruedan de la superficie del tejido; Bolsillos laterales con cremallera; Capucha con forma ergonómica para un perfecto ajuste.
 - MATERIALES, TAMAÑO Y GAMA: Tejido Exterior: 92% Poliéster, 8% Elastán, laminado a un polar de micro-polar 100% Poliéster,. Composición del Tejido Exterior: 92% Poliéster, 8% Elastán, laminado a un polar de micro-polar 100% Poliéster,. Tamaños Disponible: L, M, S, XL, XS, XXL, XXXL. Colores Disponibles: Azul metro, Negro.
+- CUIDADO DEL LAVADO: Temp. máx. lavado 30ºC, proceso suave. No usar blanqueante. No usar secadora. Secar escurriendo tendiendo. No planchar. No limpiar en seco.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B082FQ6YKZ{{</world>}}

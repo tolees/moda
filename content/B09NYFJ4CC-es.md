@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Las ONE LS Rodeo son unas gafas de sol de diseño clásico con aros cuadrados y patillas finas; este modelo negro brillante tiene lentes polarizadas de color gris oscuro
+- Material de la montura: TR90; Color de la montura: Negro; Color de la varilla: Negro
 - Producto original Hawkers; la caja incluye funda en microfibra y caja
 - Modelo Unisex; Medidas: Frontal 139;5 mm, Varillas 138;6 mm, Puente 17;5 mm, Alto 43;8 mm
-- Las ONE LS Rodeo son unas gafas de sol de diseño clásico con aros cuadrados y patillas finas; este modelo negro brillante tiene lentes polarizadas de color gris oscuro
 - Gafas de sol polarizadas: Reduce los reflejos superficiales y la fatiga ocular proporcionando nitidez y contrastes superiores; Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes fabricadas en material bio tac polarizado; protección 100 % UV; Color de la lente: Gris; Apariencia de la lente: Sólida
-- Material de la montura: TR90; Color de la montura: Negro; Color de la varilla: Negro
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09NYFJ4CC{{</world>}}

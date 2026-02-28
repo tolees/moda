@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Jeans ajustados
-- Corte entallado
 - Composición del material: 71% algodón, 22% poliéster, 5% algodón reciclado, 2% elastano
+- Corte entallado
+- Jeans ajustados
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CL7JMXKG{{</world>}}

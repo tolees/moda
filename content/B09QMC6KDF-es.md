@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Con un discreto logo en la parte izquierda del pecho
+- Cuello redondo
 - Camiseta de manga corta
 - Adecuada para un look relajado
-- Cuello redondo
-- Con un discreto logo en la parte izquierda del pecho
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09QMC6KDF{{</world>}}

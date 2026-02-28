@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ancho del paquete del artículo: 160 mm
-- Peso del paquete del artículo: 0.132 kg
-- Longitud del paquete del artículo: 250 mm
 - Altura del paquete del artículo: 100 mm
+- Ancho del paquete del artículo: 160 mm
+- Longitud del paquete del artículo: 250 mm
+- Peso del paquete del artículo: 0.132 kg
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B083RQD5GL{{</world>}}

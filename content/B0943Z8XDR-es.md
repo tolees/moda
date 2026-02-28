@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- DETALLES: Ribete de canalé en el escote y los puños de las mangas, tapeta central delantera de tres botones y detalle de media luna en la nuca.
-- AJUSTE NORMAL: Ajuste cómodo en hombros, pecho y cintura.
-- TEJIDO TÉRMICO LIGERO TIPO GOFRE: Una mezcla de algodón supersuave, tejida con textura de gofre.
 - CAMISETA DE DIARIO CON CUELLO HENLEY: Esta camiseta de cuello henley se puede llevar sola o como una capa adicional de abrigo, y es un básico de armario muy versátil para todo el año.
+- DETALLES: Ribete de canalé en el escote y los puños de las mangas, tapeta central delantera de tres botones y detalle de media luna en la nuca.
+- TEJIDO TÉRMICO LIGERO TIPO GOFRE: Una mezcla de algodón supersuave, tejida con textura de gofre.
+- AJUSTE NORMAL: Ajuste cómodo en hombros, pecho y cintura.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0943Z8XDR{{</world>}}

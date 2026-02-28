@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Tela repelente al agua
-- EK30Y, 30 años
 - Tejido resistente al agua
+- EK30Y, 30 años
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F62WVDBZ{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte regular
 - Camisa Oxford
+- Corte regular
 - Bordado de marca en el pecho
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Detalles distintivos de la marca
 - Con una cinturilla elástica
+- Detalles distintivos de la marca
 - Tejido ligero y suave
 
 [🛒 Visítala!!!]({{< param buyurl >}})

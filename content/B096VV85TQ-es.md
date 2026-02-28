@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Instrucciones de cuidado: lavar a 30 °C, programa normal, no usar lejía, no secar en secadora, no planchar, no limpiar en seco
-- Color: lila
 - Gorilla Wear, la marca de culturismo, fitness, estilo de vida y artes marciales
 - Ajuste (corte): Regular Fit
+- Instrucciones de cuidado: lavar a 30 °C, programa normal, no usar lejía, no secar en secadora, no planchar, no limpiar en seco
+- Color: lila
 - Sudadera con capucha para un espacio de movimiento óptimo.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Marca: Geox
 - Transpirable
+- Marca: Geox
 - Mocasin
 
 [🛒 Aquí!!!]({{< param buyurl >}})

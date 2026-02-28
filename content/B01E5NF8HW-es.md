@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- LIBERTAD DE MOVIMIENTO: Sin restricciones ni rozaduras. Diseño holgado y sin mangas para acción en cualquier deporte.
-- ALTA TRANSPIRABILIDAD Y SECADO RÁPIDO: Máximo confort con una camiseta diseñada con tecnología de tejido avanzada para un mejor rendimiento.
-- ESTILO Y FUNCIONALIDAD: Elegancia y rendimiento que Joma proporciona a tu atuendo
 - DURABILIDAD Y ESTILO: Material de alta resistencia expulsa el sudo al exterior. Diseño clásico con logotipo Joma serigrafiado.
+- ALTA TRANSPIRABILIDAD Y SECADO RÁPIDO: Máximo confort con una camiseta diseñada con tecnología de tejido avanzada para un mejor rendimiento.
+- LIBERTAD DE MOVIMIENTO: Sin restricciones ni rozaduras. Diseño holgado y sin mangas para acción en cualquier deporte.
+- ESTILO Y FUNCIONALIDAD: Elegancia y rendimiento que Joma proporciona a tu atuendo
 - FÁCIL LAVADO: Hecha para durar - Resiste el uso intensivo y los lavados sin perder forma o color. Siempre impecable, siempre listo para usar.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

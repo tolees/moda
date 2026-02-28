@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ajuste Regular: cómodo y de ajuste fácil en hombros, pecho y cintura.
-- PRODUCTO CON LICENCIA OFICIAL: Amazon Essentials ofrece productos únicos con tus personajes favoritos para que añadas maravillas a tu armario. Todos los productos tienen licencia oficial y son de diseño propio.
-- JERSEY DE DIARIO: Esta ligero jersey de escote en “V” es de tacto suave e ideal tanto para llevar varias capas de ropa como para ponértelo solo.
 - DETALLES: Canalé en el escote en “V”, los puños de las mangas y el dobladillo inferior.
 - HILO DE ALGODÓN: Producto confeccionado en hilo de algodón 100 % de tacto suave y elasticidad natural.
+- Ajuste Regular: cómodo y de ajuste fácil en hombros, pecho y cintura.
+- JERSEY DE DIARIO: Esta ligero jersey de escote en “V” es de tacto suave e ideal tanto para llevar varias capas de ropa como para ponértelo solo.
+- PRODUCTO CON LICENCIA OFICIAL: Amazon Essentials ofrece productos únicos con tus personajes favoritos para que añadas maravillas a tu armario. Todos los productos tienen licencia oficial y son de diseño propio.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B079R8GMQK{{</world>}}

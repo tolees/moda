@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Camisa con botones del mismo color: solapa, patrón a cuadros, ajuste holgado, lados curvos, bolsillo en el pecho, estilo boyfriend, camisa informal
 - Nota: se recomienda lavar a máquina o a mano en agua fría, no usar lejía
-- Camisa a cuadros: hecha de 35% algodón, 65% poliéster. Suave, transpirable, absorbe el sudor
 - La blusa de mujer puede combinarse con jeans, pantalones cortos, leggings, etc. También se puede combinar con chalecos, suéteres, vestidos, chaquetas, etc. Casual y de moda, muy versátil
 - Ocasiones: adecuado para primavera, verano, otoño e invierno. Adecuado para el trabajo, el desplazamiento diario y las fiestas como el Oktoberfest
+- Camisa a cuadros: hecha de 35% algodón, 65% poliéster. Suave, transpirable, absorbe el sudor
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DDPF5Q3C{{</world>}}

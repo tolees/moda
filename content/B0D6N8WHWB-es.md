@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cazadora con cuello camisero
 - con cierre de botones y con botones en los puños
 - con bolsillsos en los laterales y dos bolsillos a la altura del pecho
+- Cazadora con cuello camisero
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D6N8WHWB{{</world>}}

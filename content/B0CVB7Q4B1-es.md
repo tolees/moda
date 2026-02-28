@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Soporte de arco acanalado
-- Ligero y transpirable
 - No esponja
+- Ligero y transpirable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CVB7Q4B1{{</world>}}

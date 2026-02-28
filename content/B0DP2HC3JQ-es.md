@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- [Nuestra Marca]: REFRESH con estilo fresco y juvenil. Calzado versátil y moderno diseñado para quienes buscan estar siempre a la moda sin renunciar a la comodidad.
-- Logo a contraste en el lateral. Con plantilla extraíble. Piso volumen con suela de goma antideslizante
-- Zapatilla de hombre, de la marca Refresh. Fabricada en tejido técnico bicolor
 - Cordones regulables. Tirador trasero para facilitar el calce
+- [Nuestra Marca]: REFRESH con estilo fresco y juvenil. Calzado versátil y moderno diseñado para quienes buscan estar siempre a la moda sin renunciar a la comodidad.
+- Zapatilla de hombre, de la marca Refresh. Fabricada en tejido técnico bicolor
+- Logo a contraste en el lateral. Con plantilla extraíble. Piso volumen con suela de goma antideslizante
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DP2HC3JQ{{</world>}}

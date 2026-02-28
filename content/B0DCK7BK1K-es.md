@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Fácil de limpiar y de secado rápido
 - Plantillas ligeras y no marcadas
 - La correa del talón proporciona un ajuste seguro
-- Fácil de limpiar y de secado rápido
 - Calzado adecuado para la playa o el barco
 - Los puertos de ventilación añaden transpirabilidad y ayudan a fluir el agua y los escombros
 

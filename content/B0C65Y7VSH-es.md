@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Altura del paquete del artículo: 100 mm
 - Peso del paquete del artículo: 0.132 kg
+- Altura del paquete del artículo: 100 mm
 - Ancho del paquete del artículo: 160 mm
 - Longitud del paquete del artículo: 250 mm
 

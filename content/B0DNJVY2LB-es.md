@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Manga Corta
 - Gráfico delantero
+- Manga Corta
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DNJVY2LB{{</world>}}

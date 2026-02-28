@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material suave y transpirable para comodidad todo el día
-- Estampados únicos para un look llamativo
 - Disponible en varios colores y diseños
+- Estampados únicos para un look llamativo
+- Material suave y transpirable para comodidad todo el día
 - Fácil de cuidar y duradero
 - Corte clásico que complementa cualquier conjunto
 

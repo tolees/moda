@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tiene mangas largas
-- Con puños de canalé para un óptimo ajuste
-- Sudadera con cremallera y canesú en contraste
 - Presenta el logotipo bordado
+- Con puños de canalé para un óptimo ajuste
+- Tiene mangas largas
+- Sudadera con cremallera y canesú en contraste
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07FJMWB8Q{{</world>}}

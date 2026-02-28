@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Diseñada con un fit estilizado y ajustado
 - Acabada con un discreto logotipo en el pecho
 - Una camisa versátil que puedes combinar con vaqueros o chinos
-- Diseñada con un fit estilizado y ajustado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CNHJLM3H{{</world>}}

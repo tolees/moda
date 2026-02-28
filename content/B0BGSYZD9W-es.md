@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Producto original Hawkers. La caja incluye funda en microfibra y caja
 - Modelo Unisex. Medidas: Frontal 141 mm; Alto 50 mm; Patillas 140 mm; Puente 18 mm; Diámetro de lente 54 mm
-- Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores. Lentes categoría 3 fabricadas con material bio tac polarizado y protección uv400.
 - Montura en estampado havana marrón y lentes negras.
 - Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia.
+- Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores. Lentes categoría 3 fabricadas con material bio tac polarizado y protección uv400.
+- Producto original Hawkers. La caja incluye funda en microfibra y caja
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BGSYZD9W{{</world>}}

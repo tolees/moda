@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Corte normal
 - Bolsillo tipo canguro
 - Bordado gráfico GANT en el pecho
-- Corte normal
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BG5MK537{{</world>}}

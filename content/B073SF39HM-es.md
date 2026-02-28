@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Producto original Hawkers. La caja incluye funda en microfibra y caja
-- Mono lente negra con efecto espejo fabricada en TR18, con reducción de brillos y con gran equilibrio entre claridad y protección; lente de categoría 3 con protección UV400
-- Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Diseño más ancho del terminal de la patilla para mejorar la ergonomía y confort. Bisagra rotativa de alta calidad que permite libre movimientos entre patilla y frontal.
-- Este modelo es un atrevido rediseño del icónico modelo Hawkers ONE; mantiene las formas y curvas de la montura del clásico, pero introduciendo una lente de máscara negra espejada, montada sobre una montura negra con acabado brillo
 - Modelo Unisex. Medidas: Frontal 141 mm; Patillas 140 mm; Puente 18 mm; Alto 52 mm
+- Mono lente negra con efecto espejo fabricada en TR18, con reducción de brillos y con gran equilibrio entre claridad y protección; lente de categoría 3 con protección UV400
+- Este modelo es un atrevido rediseño del icónico modelo Hawkers ONE; mantiene las formas y curvas de la montura del clásico, pero introduciendo una lente de máscara negra espejada, montada sobre una montura negra con acabado brillo
+- Producto original Hawkers. La caja incluye funda en microfibra y caja
+- Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Diseño más ancho del terminal de la patilla para mejorar la ergonomía y confort. Bisagra rotativa de alta calidad que permite libre movimientos entre patilla y frontal.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B073SF39HM{{</world>}}

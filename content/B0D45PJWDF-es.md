@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - HECHOS EN EUROPA: Nuestras calcetas de senderismo se prueban con el atleta de resistencia Rasmus Kragh para garantizar los más altos estándares de calidad y rendimiento. Los calcetines se fabrican de forma justa en Portugal
+- GARANTÍA ANTIAGUJEROS: ¿Tiene un agujero en sus calzoncillos durante el primer año tras la compra? Le enviaremos un recambio gratis. Si tiene alguna duda, nuestro servicio de atención al cliente estará encantado de ayudarle
 - MATERIALES PREMIUM: Fabricados con 38% Lana (Merina), 30% Poliamida, 30% Acrílico, y 2% Elastano. Certificado OEKO-TEX estándar 100. Libre de sustancias nocivas. Lavar a máquina a máx. 40°C. No usar secadora
 - CALCETINES LIGEROS PARA OUTDOOR: Nuestras calcetas de senderismo ligeros y antibacterianos cuentan con una amortiguación específica para reducir el riesgo de ampollas y dolor de pies. Ideales para senderismo, trekking, caminar, viajar y el día a día
-- GARANTÍA ANTIAGUJEROS: ¿Tiene un agujero en sus calzoncillos durante el primer año tras la compra? Le enviaremos un recambio gratis. Si tiene alguna duda, nuestro servicio de atención al cliente estará encantado de ayudarle
 - LANA MERINO TERMOREGULADORA: Confeccionados con Lana Merino termorreguladora y Poliamida para aumentar su durabilidad, con amplios carriles de ventilación que proporcionan una excelente transpirabilidad, manteniendo los pies secos en condiciones suaves sobre terrenos de ligeros a moderados
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

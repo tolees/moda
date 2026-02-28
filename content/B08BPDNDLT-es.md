@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cintura: cintura baja
-- Los vaqueros son clic de cinco bolsillos
 - La mezclilla es un tejido de sarga duradero hecho de hilos de urdimbre teñidos e hilos de trama sin teñir
+- Los vaqueros son clic de cinco bolsillos
+- Cintura: cintura baja
 - Bolsillos traseros, bolsillo para monedas y bolsillos en la parte delantera
 - Cierre: cremallera
 

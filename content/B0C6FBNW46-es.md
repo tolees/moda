@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Con un ancho de lente de 140 mm y una montura frontal de 144 mm, estas gafas potencian las facciones de cualquier rostro. Las varillas laterales tienen una longitud de 149 mm y cuentan con Composición hipoalergénicos y resistentes. Construidas sobre un frontal de TR90, un Composición ligero que aporta resistencia a los impactos. Cuenta también con lentes REVO de efecto espejo y protección ultravioleta UV 400 cat. 3. Categoría: 3 (Alta protección solar, ideal para días soleados y condiciones de
 - D.Franklin - Gafas de sol unisex con cristales de protección UV - Modelo infinity.
+- [Gafas de Sol D.Franklin] Sus lentes de policarbonato azules y su contorno negro mate definen la esencia de sus características. Cuenta con nuestros detalles distintivos D.Franklin: el logo grabado en la parte frontal al lado derecho e izquierdo y nuestro emblema en ambas patillas.
 - D. Franklin es una marca española referente para los amantes de la moda y los accesorios gracias a nuestro estilo único, calidad y compromiso medioambiental. Productos fabricados con materiales sostenibles y de alta calidad.
 - Gafas de sol con definición propia. Creamos y afianzamos una estética innovadora de la mano de un modelo rectangular con identidad icónica. Los detalles infinitos de su montura y marco superior invitan a revelar la singularidad de cada estilo. Diseño unisex sin limites con el que desbordar la autenticidad de tu espíritu
-- [Gafas de Sol D.Franklin] Sus lentes de policarbonato azules y su contorno negro mate definen la esencia de sus características. Cuenta con nuestros detalles distintivos D.Franklin: el logo grabado en la parte frontal al lado derecho e izquierdo y nuestro emblema en ambas patillas.
-- Con un ancho de lente de 140 mm y una montura frontal de 144 mm, estas gafas potencian las facciones de cualquier rostro. Las varillas laterales tienen una longitud de 149 mm y cuentan con Composición hipoalergénicos y resistentes. Construidas sobre un frontal de TR90, un Composición ligero que aporta resistencia a los impactos. Cuenta también con lentes REVO de efecto espejo y protección ultravioleta UV 400 cat. 3. Categoría: 3 (Alta protección solar, ideal para días soleados y condiciones de
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C6FBNW46{{</world>}}

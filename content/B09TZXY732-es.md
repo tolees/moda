@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Comodidad al usar: Las gafas de sol polarizadas KANASTAL están fabricadas con lentes de calidad AAA ultraligeros, brindando comodidad al usar. El puente nasal integrado se ajusta perfectamente al rostro.
-- Lentes polarizadas y UV400: Las gafas de sol KANASTAL cuentan con lentes polarizadas de categoría 3, que mejoran la saturación del color, el contraste, reducen la fatiga ocular y bloquean de manera efectiva los reflejos y deslumbramientos de las luces. Las lentes UV400 bloquean el 100% de los rayos UVA, UVB y UVC. Relaja tus ojos y disfruta de una visión más clara.
 - Excelente artesanía: Entendemos la importancia de unas gafas de sol cómodas, por eso prestamos especial atención a la calidad de nuestras gafas de sol para hombres y mujeres. Utilizamos lentes polarizadas irrompibles, almohadillas nasales ergonómicas y pulimos cuidadosamente cada borde para evitar presionar las orejas o dejar marcas en la nariz, incluso olvidarás que llevas puestas las gafas de sol bajo el sol.
-- Adecuadas para diversas ocasiones: Usar las gafas de sol polarizadas KANASTAL no provoca distorsión visual ni mareos. Estas gafas de sol cuadradas tienen una apariencia elegante y un encanto clásico, son adecuadas para diferentes ocasiones y estilos de vestimenta. Son ideales para usar a diario durante todo el año, como protección contra el viento, el polvo, viajes, compras, actividades en la playa, conducción, pesca, navegación, esquí, caza, entre otros.
+- Comodidad al usar: Las gafas de sol polarizadas KANASTAL están fabricadas con lentes de calidad AAA ultraligeros, brindando comodidad al usar. El puente nasal integrado se ajusta perfectamente al rostro.
 - Incluye en el paquete: Gafas de sol fucsia 1, estuche para gafas 1, bolsa suave 1, paño de limpieza 1, tarjeta de prueba de polarización 1.
+- Lentes polarizadas y UV400: Las gafas de sol KANASTAL cuentan con lentes polarizadas de categoría 3, que mejoran la saturación del color, el contraste, reducen la fatiga ocular y bloquean de manera efectiva los reflejos y deslumbramientos de las luces. Las lentes UV400 bloquean el 100% de los rayos UVA, UVB y UVC. Relaja tus ojos y disfruta de una visión más clara.
+- Adecuadas para diversas ocasiones: Usar las gafas de sol polarizadas KANASTAL no provoca distorsión visual ni mareos. Estas gafas de sol cuadradas tienen una apariencia elegante y un encanto clásico, son adecuadas para diferentes ocasiones y estilos de vestimenta. Son ideales para usar a diario durante todo el año, como protección contra el viento, el polvo, viajes, compras, actividades en la playa, conducción, pesca, navegación, esquí, caza, entre otros.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09TZXY732{{</world>}}

@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - manga larga con escote redondo
-- con costuras francesas en los hombros
-- Jersey estructurado
 - ajuste regular.
+- Jersey estructurado
 - con una insignia del logo lateral en el dobladillo
+- con costuras francesas en los hombros
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B081LPBX1F{{</world>}}

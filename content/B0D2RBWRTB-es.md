@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- PROTECCIÓN UVA Y UVB. Protegen al 100% de los rayos UVA y UVB
-- FUNDA INCLUIDA. Gafas de sol con funda de protección incluida, de tejido semi-rígido y cierre de cremallera
-- LIGERAS Y FLEXIBLES. Para una mayor comodidad y resistencia
-- CON CINTA DE SUJECIÓN que se puede ajustar para mayor comodidad
 - POLARIZADAS. Gafas de sol para niños y niñas de 2 a 3 años polarizadas, filtran los rayos de sol para disminuir el deslumbramiento y mejoran el contraste con la luz intensa
-- CON FILTRO UV400 de categoría 3. Cuentan con un amplio espectro de protección
+- CON CINTA DE SUJECIÓN que se puede ajustar para mayor comodidad
+- PROTECCIÓN UVA Y UVB. Protegen al 100% de los rayos UVA y UVB
+- LIGERAS Y FLEXIBLES. Para una mayor comodidad y resistencia
 - ERGONÓMICAS - AJUSTE PERFECTO. La montura está especialmente diseñada para niños y niñas de 2 a 3 años. Se ajustan a la fisionomía de la cara y proporcionan una sujeción total sin apretar. Perfectas para correr y jugar sin que se caigan
+- CON FILTRO UV400 de categoría 3. Cuentan con un amplio espectro de protección
+- FUNDA INCLUIDA. Gafas de sol con funda de protección incluida, de tejido semi-rígido y cierre de cremallera
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D2RBWRTB{{</world>}}

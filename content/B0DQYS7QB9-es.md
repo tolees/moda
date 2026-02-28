@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pack de 3 bragas clásicas confeccionadas en suave tejido de microfibra, sin gomas
 - Dos bragas lisas y una estampada
+- Pack de 3 bragas clásicas confeccionadas en suave tejido de microfibra, sin gomas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DQYS7QB9{{</world>}}

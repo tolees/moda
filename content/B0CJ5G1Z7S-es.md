@@ -29,11 +29,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Producto 2:BCI: Al comprar productos de algodón de PUMA, apoyas una producción más sostenible de algodón mediante la Iniciativa del Mejor Algodón (Better Cotton Initiative). Más información en: bettercotton.org/massbalance
+- Producto 2:Cuello redondo acanalado
+- Producto 1:Cordones interiores para ajustar mejor la prenda
 - Producto 1:El corte cómodo permite una mayor comodidad y un movimiento natural
 - Producto 2:Corte normal
-- Producto 2:Cuello redondo acanalado
 - Producto 1:Tela ligera
-- Producto 1:Cordones interiores para ajustar mejor la prenda
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CJ5G1Z7S{{</world>}}

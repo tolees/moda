@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cinturilla elástica cómoda
 - Los bordes de las perneras se mantienen en su sitio
+- Cinturilla elástica cómoda
 - Confeccionados con algodón orgánico
 - Algodón elástico suave
 - Escudete de doble capa

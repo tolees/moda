@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Logo Springfield bordado
 - Puños en canalé y bajo liso
+- Logo Springfield bordado
 - Jersey básico cuello rendondo en 100% algodón
 
 [🛒 Aquí!!!]({{< param buyurl >}})

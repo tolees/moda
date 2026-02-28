@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Impresión de pigmentos para un estampado suave
-- Corte entallado
 - Tejido de punto con agarre suave
+- Corte entallado
+- Impresión de pigmentos para un estampado suave
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CQCDC4LR{{</world>}}

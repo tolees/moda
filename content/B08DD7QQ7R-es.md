@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Detalles de la marca PUMA
 - Costuras planas en la puntera para evitar molestias
-- Sea cual sea el producto, PUMA quiere ser la marca deportiva rápida del mundo, yendo siempre allá
 - Algodón suave para confort
+- Sea cual sea el producto, PUMA quiere ser la marca deportiva rápida del mundo, yendo siempre allá
 - Multipack de calcetines PUMA
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Características técnicas: Capacidad de la batería: 300mah Voltaje: 5v/3.7v Tiempo de carga completa: 2 horas
-- Incluye una batería de litio fija, cuya vida alcanza para mantenerse encendida durante 1-2 horas Incluye cargador
 - Ventilador de mano, portátil, de pequeño tamaño, ideal para llevarlo en el bolso y refrescarse cuando sea necesario
+- Incluye una batería de litio fija, cuya vida alcanza para mantenerse encendida durante 1-2 horas Incluye cargador
+- Características técnicas: Capacidad de la batería: 300mah Voltaje: 5v/3.7v Tiempo de carga completa: 2 horas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DZWFDSP1{{</world>}}

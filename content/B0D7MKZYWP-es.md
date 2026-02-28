@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- EMOCIONANTE Y CLARO: La marca de moda Calvin Klein, fundada en 1968, es conocida por su singular look y lleva conquistando el mundo de la moda desde entonces. La marca americana apuesta por una estética minimalista.
 - VERSÁTIL: Este sencillo pero moderno top de bikini puede combinarse con varias braguitas de bikini y accesorios. Permite crea nuevos looks para la playa o la piscina una y otra vez.
 - MATERIAL Y CUIDADO: Top del bikini confeccionada en 84 % nailon y 16 % elastano. Se puede lavar a máquina.
 - DISEÑO ELEGANTE: El top de bikini con los detalles distintivos de CK realza tu pecho de manera discreta, además su bonito escote en U y su corte favorecedor llaman la atención. Perfecto para los días soleados en la playa o la piscina.
+- EMOCIONANTE Y CLARO: La marca de moda Calvin Klein, fundada en 1968, es conocida por su singular look y lleva conquistando el mundo de la moda desde entonces. La marca americana apuesta por una estética minimalista.
 - AJUSTE PERFECTO: Para ofrecerte la mejor sujeción, la prenda tiene un relleno y una cómoda cinta elástica.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

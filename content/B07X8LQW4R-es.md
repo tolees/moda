@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con trabillas para el cinturón
 - LEVIS TAB: Existen diferentes variaciones de la conocida lengüeta roja. Todos los productos son originales de Levis, no importa si pone LEVIS, Levis, no está escrito o es de otro color.
+- Con trabillas para el cinturón
 - Parche con el logo en la parte trasera
 - Proporciona una elasticidad notable para mayor comodidad sin perder estructura. Ideal para un ajuste ceñido pero no restrictivo.
 - Estilo de 5 bolsillos

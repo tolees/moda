@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pantalón de traje
 - Elegante
+- Pantalón de traje
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B098TJB8M8{{</world>}}

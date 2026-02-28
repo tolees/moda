@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con un estilo casual
 - Detalles distintivos de la marca
+- Con un estilo casual
 - Tejido suave y ligero
 
 [🛒 Aquí!!!]({{< param buyurl >}})

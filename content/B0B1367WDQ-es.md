@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - El set de juego PLAYMOBIL incluye al personaje de Naruto Shippuden, Iruka, con su característica cicatriz que le cruza la cara, vestido con un traje de batalla azul y una chaqueta verde de chunin
-- Con grandes detalles y extras auténticos, las figuras diseñadas con precisión invitan a recrear escenas legendarias e inventar nuevas historias, Diversión creativa para fans del anime de todas las edades
+- 2002 MASASHI KISHIMOTO / 2007 SHIPPUDEN All Rights Reserved
 - Para todos los niños y fans del anime: Justo a tiempo para el 20º aniversario, los primeros personajes exclusivos de la popular serie NARUTO SHIPPUDEN aparecen ahora en formato PLAYMOBIL
 - Contenido: Figura de Iruka; accesorios: 1 kunai, 1 tarjeta (hoja de prueba)
-- 2002 MASASHI KISHIMOTO / 2007 SHIPPUDEN All Rights Reserved
+- Con grandes detalles y extras auténticos, las figuras diseñadas con precisión invitan a recrear escenas legendarias e inventar nuevas historias, Diversión creativa para fans del anime de todas las edades
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B1367WDQ{{</world>}}

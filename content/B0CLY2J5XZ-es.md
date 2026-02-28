@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - El cuello y los puños acanalados brindan un ajuste cómodo y seguro.
+- Confeccionado en tejido waffle 100% poliéster, de peso medio, suave y cálido en invierno.
 - Perfecto para cualquier ocasión: informal de fin de semana, para la oficina, para correr, para caminar, al aire libre, para el gimnasio, para hacer ejercicio o para la vida diaria.
 - Ajuste holgado con mangas raglán, muesca en V en el cuello redondo.
-- Confeccionado en tejido waffle 100% poliéster, de peso medio, suave y cálido en invierno.
 - Combina perfectamente con camisetas interiores o tops casuales, con una chaqueta ligera se ajusta mejor y se siente más cálido.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- MODA URBANA REINTERPRETADA: Para acercar las populares prendas de los 90 a las nuevas generaciones, Tommy Jeans se inspira en los iconos del hip-hop de aquella época. Apostando por prendas de alta calidad y diseños modernos con mucho denim.
-- MATERIAL Y CUIDADO: Camiseta de algodón de transición 100 %. Se puede lavar a máquina y secar en secadora.
 - SENCILLO E INFORMAL: La camiseta básica destaca por su agradable algodón orgánico y es perfecta para looks más informales, para usar como pijama o ropa interior. La bandera de Tommy Jeans en el pecho completa el estilo de la prenda.
 - AJUSTE PERFECTO: La camiseta de manga de corte holgado de algodón orgánico suave tiene un diseño atemporal e informal y se adaptan perfectamente al cuerpo.
+- MATERIAL Y CUIDADO: Camiseta de algodón de transición 100 %. Se puede lavar a máquina y secar en secadora.
 - DISEÑO PREMIUM: El estilo sencillo de este top es la base de cualquier conjunto. Esta moderna camiseta también es perfecta como regalo.
+- MODA URBANA REINTERPRETADA: Para acercar las populares prendas de los 90 a las nuevas generaciones, Tommy Jeans se inspira en los iconos del hip-hop de aquella época. Apostando por prendas de alta calidad y diseños modernos con mucho denim.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DK293KV9{{</world>}}

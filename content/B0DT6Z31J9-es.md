@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Logotipo icónico de Nike.
+- Ideal para uso casual o actividades ligeras.
 - Ajuste regular para facilitar el movimiento.
 - Tejido de material suave para mayor comodidad.
-- Ideal para uso casual o actividades ligeras.
 - Diseño clásico de cuello redondo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

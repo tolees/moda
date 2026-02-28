@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Manga larga
 - Composición del material: capa exterior: 100 % poliéster; acolchado: 100 % poliéster; forro: 100 % poliéster
 - Corte normal
+- Manga larga
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CL7D5CDT{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Producto Oficial Hawkers. Incluye: Funda en microfibra y caja.
-- Gafa deportiva con un diseño casual, de montura gris transparente y acabado brillante que rodea sus lentes polarizadas cromadas espejadas de forma cuadrada. Sus patillas poseen terminales engomados color amarillo cítrico, a la vez que sus nose-pads, para mejorar su sujeción.
 - Modelo Unisex. Medidas: Frontal 142 mm; Patillas 138 mm ; Puente 15 mm ; Alto 50 mm
-- Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores. Lentes categoría 3 fabricadas con material bio tac polarizado y protección uv400.
 - Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Terminal de la patilla en acabado engomado para mejorar la ergonomía y confort. Bisagra de doble acción para un cierre de patillas seguro y durabilidad.
+- Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores. Lentes categoría 3 fabricadas con material bio tac polarizado y protección uv400.
+- Gafa deportiva con un diseño casual, de montura gris transparente y acabado brillante que rodea sus lentes polarizadas cromadas espejadas de forma cuadrada. Sus patillas poseen terminales engomados color amarillo cítrico, a la vez que sus nose-pads, para mejorar su sujeción.
+- Producto Oficial Hawkers. Incluye: Funda en microfibra y caja.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C2YX8P92{{</world>}}

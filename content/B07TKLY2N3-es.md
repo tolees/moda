@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Modelo Unisex; Medidas: Frontal 141 mm, Varillas 140 mm, Puente 17 mm, Alto 50 mm
-- Producto original Hawkers; la caja incluye funda en microfibra y caja
-- Montura negra en acabado mate y lentes negras de Nylon de alto rendimiento óptico
 - Gafas de sol polarizadas: Reduce los reflejos superficiales y la fatiga ocular proporcionando nitidez y contrastes superiores; Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes fabricadas en material bio tac polarizado; protección 100 % UV; Color de la lente: Negro; Apariencia de la lente: Sólida
+- Montura negra en acabado mate y lentes negras de Nylon de alto rendimiento óptico
+- Producto original Hawkers; la caja incluye funda en microfibra y caja
 - Material de la montura: TR90; Color de la montura: Negro; Color de la varilla: Negro
 
 [🛒 Aquí!!!]({{< param buyurl >}})

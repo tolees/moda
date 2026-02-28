@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con un bolsillo en el pecho
 - Tejido ligero y suave
+- Con un bolsillo en el pecho
 - Ofrece un ajuste cómodo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

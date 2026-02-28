@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Herrajes dorados brillantes
 - Bolsillo interior con cremallera y 2 bolsillos deslizantes
 - 7.75 x 3 x 5 pulgadas
+- Herrajes dorados brillantes
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D94ZT88S{{</world>}}

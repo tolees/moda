@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pack de 2 para hombre
 - Portañuela de doble capa para una sujeción
+- Pack de 2 para hombre
 - Cinturilla cómoda
 - Comodidad para el día a día
 - Tela elástica de algodón

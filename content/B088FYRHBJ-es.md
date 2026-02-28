@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Apto para trabajo / ocio
+- #M: Longitud de los pantalones: 49cm vita:76.5cm anca: 102cm #L: Longitud de los pantalones: 50cm vita:81.5cm anca: 107cm #XL: Longitud de los pantalones: 51.2cm vita:86.5cm anca: 112cm #2XL: Longitud de los pantalones: 52.4cm vita:91.5cm anca: 117cm #3XL: Longitud de los pantalones: 53.6cm vita:96.5cm anca: 122cm
 - 100% algodón
 - Lo último en 2020
-- #M: Longitud de los pantalones: 49cm vita:76.5cm anca: 102cm #L: Longitud de los pantalones: 50cm vita:81.5cm anca: 107cm #XL: Longitud de los pantalones: 51.2cm vita:86.5cm anca: 112cm #2XL: Longitud de los pantalones: 52.4cm vita:91.5cm anca: 117cm #3XL: Longitud de los pantalones: 53.6cm vita:96.5cm anca: 122cm
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B088FYRHBJ{{</world>}}

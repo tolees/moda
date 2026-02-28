@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- con estampado de flores y cenefas en el canesú en la espalda y en las mangas
 - con cuello redondo con abertura con cierre de cordón con borlas
+- con estampado de flores y cenefas en el canesú en la espalda y en las mangas
 - Blusa de manga larga con volumen
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

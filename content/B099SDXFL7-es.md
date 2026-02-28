@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Gafas de sol polarizadas: otorga una visión sin reflejos, y contraste naturales de colores. Lentes categoría 3 y protección uv400 que ofrecen una protección antideslumbrante superior
-- Modelo Unisex. Medidas: Frontal 144 mm; Patillas 140 mm; Puente 18 mm; Diámetro de mica 55 mm
-- El verde oliva mate de este clásico frontal cuadrado con puente de ojo de cerradura truncado combina a la perfección con los tonos verde musgo de las lentes degradadas. Las patillas metálicas color gun metal contrastan con los terminales engomados de color verde. La combinación de materiales y colores, la unión angular y el ligero biselado de las patillas confieren a este modelo un carácter fresco y deportivo.
-- Material de la lente: Lentes de TR18 con el sello de Eastman, gran calidad óptica y resistencia. Respetuoso con el medio ambiente. Protección 100% UV.
 - Producto original Hawkers. La caja incluye funda en microfibra y caja
+- El verde oliva mate de este clásico frontal cuadrado con puente de ojo de cerradura truncado combina a la perfección con los tonos verde musgo de las lentes degradadas. Las patillas metálicas color gun metal contrastan con los terminales engomados de color verde. La combinación de materiales y colores, la unión angular y el ligero biselado de las patillas confieren a este modelo un carácter fresco y deportivo.
+- Modelo Unisex. Medidas: Frontal 144 mm; Patillas 140 mm; Puente 18 mm; Diámetro de mica 55 mm
+- Gafas de sol polarizadas: otorga una visión sin reflejos, y contraste naturales de colores. Lentes categoría 3 y protección uv400 que ofrecen una protección antideslumbrante superior
+- Material de la lente: Lentes de TR18 con el sello de Eastman, gran calidad óptica y resistencia. Respetuoso con el medio ambiente. Protección 100% UV.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B099SDXFL7{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- AEROREADY
 - Corte clásico
+- 100% poliéster (reciclado)
 - Primegreen
 - Cuello redondo
-- 100% poliéster (reciclado)
+- AEROREADY
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B4D5GCSY{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseño de gafas de sol deportivas para los nostálgicos y nostálgicas de los ‘90; este diseño Made in Spain tiene un estilo athleisure con efecto envolvente; óptimas tanto para el uso diario como para actividades deportivas de bajo impacto; disponible en varios colores de lentes y montura
-- Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes de TR18 con el sello de Eastman, gran calidad óptica y resistencia; respetuoso con el medio ambiente; protección 100% UV; Color de la lente: Azul; Apariencia de la lente: Espejo
 - Producto original Hawkers; la caja incluye funda en microfibra y caja
-- Modelo Masculino; Medidas: Frontal 142 mm, Varillas 135 mm, Puente 15 mm, Alto 49;3 mm
+- Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes de TR18 con el sello de Eastman, gran calidad óptica y resistencia; respetuoso con el medio ambiente; protección 100% UV; Color de la lente: Azul; Apariencia de la lente: Espejo
+- Diseño de gafas de sol deportivas para los nostálgicos y nostálgicas de los ‘90; este diseño Made in Spain tiene un estilo athleisure con efecto envolvente; óptimas tanto para el uso diario como para actividades deportivas de bajo impacto; disponible en varios colores de lentes y montura
 - Material de la montura: TR90; Color de la montura: Gris, Negro; Color de la varilla: Gris, Negro
+- Modelo Masculino; Medidas: Frontal 142 mm, Varillas 135 mm, Puente 15 mm, Alto 49;3 mm
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F21S5ZN8{{</world>}}

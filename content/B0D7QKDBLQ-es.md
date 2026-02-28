@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pespunte de rombos
+- Corte estándar
 - Resistente al agua
 - Longitud por encima de la cadera
-- Corte estándar
+- Pespunte de rombos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D7QKDBLQ{{</world>}}

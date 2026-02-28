@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Características: Estilo casual; mangas cortas en verano; cuello en V atado;Relajado y cómodo.Adecuado para verano, primavera, otoño
-- Tamaño y lavado: Consulte la tabla de tamaño que ofrecemos en la imagen o descripción del producto. Lavarse con agua fría;No lejía; Lavar por separado de la ropa de color claro
 - Combinación: Ideal para combinar con jeans; zapatillas deportivas; sandalias; leggings y sombreros de playa
+- Tamaño y lavado: Consulte la tabla de tamaño que ofrecemos en la imagen o descripción del producto. Lavarse con agua fría;No lejía; Lavar por separado de la ropa de color claro
 - Material: Elástico, transpirable y suave, cómodo de usar. Una variedad de colores y tamaños para que usted elija
 - Ocasión: Adecuado para cualquier ocasión de ocio. Adecuado para el trabajo; el día a día; la oficina; los viajes; la playa;hacer ejercicio
 

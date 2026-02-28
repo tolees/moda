@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Nombre de la marca en la cintura
-- Hecho de algodón con contenido elástico
-- Cintura elástica
 - Calidad Only & Sons probada hecha de 95 % algodón y 5 % elastano
 - Only & Sons Calzoncillos tipo bóxer de mezcla de algodón
+- Cintura elástica
+- Nombre de la marca en la cintura
+- Hecho de algodón con contenido elástico
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C7Y2X6Q4{{</world>}}

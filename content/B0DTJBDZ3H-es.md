@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Ideal para usar en capas o solo, cuenta con nuestro logotipo central en el lado izquierdo del pecho, añadiendo un toque sutil y moderno con gráficos de manga para mayor toque de diseño
-- El ajuste estándar garantiza una silueta relajada pero pulida, complementada con un clásico cuello redondo
 - Esta camiseta de manga larga con logotipo es esencial para el armario que combina comodidad y estilo sin esfuerzo; hecha de nuestro tejido de punto central súper ligero, ofrece una sensación transpirable y suave, óptima para llevar todo el día
+- El ajuste estándar garantiza una silueta relajada pero pulida, complementada con un clásico cuello redondo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DTJBDZ3H{{</world>}}

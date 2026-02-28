@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tiene mangas largas
 - Sudadera con cremallera y canesú en contraste
+- Tiene mangas largas
 - Presenta el logotipo bordado
 - Con puños de canalé para un óptimo ajuste
 

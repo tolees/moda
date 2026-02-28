@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El ribete en los puños le da un aspecto acabado y el dobladillo ajustable con cordón protege de los elementos
 - Contenido: 1x Columbia Mujer Chaqueta con Cremallera Completa Powder Lite II, Color: Azul (Collegiate Navy), Talla: XS, Artículo: 2089451
-- Mantén tus pertenencias seguras con el bolsillo de seguridad interior y los bolsillos laterales con cremallera
 - Con tecnología Omni-Shield que repele la humedad y resiste las manchas, Con forro termorreflectante Omni-Heat para mantenerte abrigado
+- El ribete en los puños le da un aspecto acabado y el dobladillo ajustable con cordón protege de los elementos
+- Mantén tus pertenencias seguras con el bolsillo de seguridad interior y los bolsillos laterales con cremallera
 - Clásica chaqueta acolchada con forro termorreflectante y tejido resistente a la lluvia ligera, Una prenda imprescindible para los días fríos al aire libre
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

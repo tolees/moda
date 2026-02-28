@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pepe jeans Logotipo bordado en el pecho
 - Cuello redondo
 - Manga corta
+- Pepe jeans Logotipo bordado en el pecho
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CSNRZ6D7{{</world>}}

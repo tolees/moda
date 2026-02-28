@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Una sudadera con capucha de inspiración vintage
-- Para nuestros amantes vintage: teñimos esta pieza para darle ese aspecto vivo y una sensación de rota
 - Corte con un ajuste relajado
+- Para nuestros amantes vintage: teñimos esta pieza para darle ese aspecto vivo y una sensación de rota
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D5HN6Y2F{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Producto original Hawkers. La caja incluye funda en microfibra y caja
-- Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Bisagra de 3 barras para un mayor agarre y durabilidad.
-- Lentes categoría 3 y protección uv400 que ofrecen una protección antideslumbrante superior. Lentes de TR18 con el sello de Eastman , uno de los líderes mundiales en tecnología de copoliéster. Respetuoso con el medio ambiente y proporciona un equilibrio único entre claridad y resistencia.
-- Modelo Unisex. Medidas: Frontal 147 mm; Patillas 145 mm ; Puente 20 mm ; Alto 53 mm
 - Diseño oversized de inspiración retro presentado en una montura de Tr90 con diseño hexagonal de color “caramel brown” transparente en acabado brillante y lentes color caramelo. Las varillas, también de estilo retro, presentan un juego de líneas que le da un toque único al diseño.
+- Lentes categoría 3 y protección uv400 que ofrecen una protección antideslumbrante superior. Lentes de TR18 con el sello de Eastman , uno de los líderes mundiales en tecnología de copoliéster. Respetuoso con el medio ambiente y proporciona un equilibrio único entre claridad y resistencia.
+- Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Bisagra de 3 barras para un mayor agarre y durabilidad.
+- Modelo Unisex. Medidas: Frontal 147 mm; Patillas 145 mm ; Puente 20 mm ; Alto 53 mm
+- Producto original Hawkers. La caja incluye funda en microfibra y caja
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CC2V9QPS{{</world>}}

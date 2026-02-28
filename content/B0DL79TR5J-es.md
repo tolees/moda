@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre de cordones elásticos y correas autoadherentes
-- Horma clásica
 - Forro textil
+- Horma clásica
+- Cierre de cordones elásticos y correas autoadherentes
 - Empeine de material sintético
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

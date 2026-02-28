@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Mantén los elementos a raya con la capucha ajustable, los puños de las mangas y el dobladillo con cordón de ajuste
 - Con tecnología impermeable Omni-Tech con costuras selladas transpirables
 - Compacta: la chaqueta se puede guardar dentro de su propio bolsillo para facilitar su transporte y almacenaje
+- Mantén los elementos a raya con la capucha ajustable, los puños de las mangas y el dobladillo con cordón de ajuste
 - Esta chaqueta ligera es impermeable y transpirable y cuenta con una capucha ajustable, bolsillos con cremallera para las manos y puños ajustables
 - Contenido: 1x Columbia Hombre Chaqueta Pouring Adventure III, Color: Negro, Talla: L, Artículo: 2117171
 

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Hermoso unicornio: el juego viene con un hermoso unicornio blanco con una melena y cola moradas, pezuñas perladas y un cuerno verde azulado, a juego con la tiara de la princesa.
 - Equipo de conducción glamuroso: sillín y novia incluidos en el juego para que tu princesa Sparkle Girlz monte con estilo.
 - Accesorio de cepillo para el cabello: accesorio para cepillo: utiliza el elegante peine de pelo morado, cepilla y peina tanto el cabello de la princesa como del unicornio y crea intrincados estilos de cabello para ambos
-- Hermoso unicornio: el juego viene con un hermoso unicornio blanco con una melena y cola moradas, pezuñas perladas y un cuerno verde azulado, a juego con la tiara de la princesa.
 - Muñeca posable: hay 5 puntos diferentes para moverse y posar.
 - Colecciónalos todos: todos los trajes y accesorios son intercambiables con otras muñecas Sparkle Girlz (se venden por separado). Colecciona las 12 muñecas mágicas Cupcake Sparkle Girlz Los estilos pueden variar.
 

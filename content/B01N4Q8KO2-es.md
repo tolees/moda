@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Carrera de la Mujer
 - Estuche incluido
 - Los lentes recetados hijo listo (RX-Poder)
+- Carrera de la Mujer
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01N4Q8KO2{{</world>}}

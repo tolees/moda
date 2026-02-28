@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajuste del ajuste elástico en la capucha y el bajo.
-- Puños elásticos
 - Cremallera de espiral invertida en la parte delantera central con acabado repelente al agua
 - Dos bolsillos para las manos con cremallera
+- Ajuste del ajuste elástico en la capucha y el bajo.
+- Puños elásticos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00G36YUEM{{</world>}}

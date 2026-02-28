@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Un básico atemporal, que no puede faltar en tu armario. Este modelo ha obtenido el certificado vegano por la organización mundial PETA (Organización de los derechos de los animales)
-- [Nuestra Marca]: REFRESH con estilo fresco y juvenil. Calzado versátil y moderno diseñado para quienes buscan estar siempre a la moda sin renunciar a la comodidad.
 - Zapato de hombre, de la marca Refresh. Fabricado en un material que imita la piel
+- [Nuestra Marca]: REFRESH con estilo fresco y juvenil. Calzado versátil y moderno diseñado para quienes buscan estar siempre a la moda sin renunciar a la comodidad.
 - Cierre mediante cordones ajustables. Suela de goma gruesa deportiva antideslizante
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ancho de la correa: 30 mm
 - 100% cuero bovino de grano completo
+- Ancho de la correa: 30 mm
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B083F8XCCT{{</world>}}

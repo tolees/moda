@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Mango largo
 - Bolsillos altos: Bolsillo canguro
-- Corte casual
 - Con capucha
+- Corte casual
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CLV7Q51R{{</world>}}

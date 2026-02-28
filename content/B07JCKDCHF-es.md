@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Contenido: 1x Columbia Powder Lite Chaqueta Mid para mujer, Exterior: Storm-Lite DP II 100% poliéster; Forro: Omni-Heat Reflective Forro 100% poliéster; Aislamiento: Thermarator 100% poliéster, Color: Negro, Talla: M, Art.No.1748311
 - Tejido resistente al agua que la protege de la lluvia y la niebla, Aislamiento Thermarator para mayor calidez
+- Contenido: 1x Columbia Powder Lite Chaqueta Mid para mujer, Exterior: Storm-Lite DP II 100% poliéster; Forro: Omni-Heat Reflective Forro 100% poliéster; Aislamiento: Thermarator 100% poliéster, Color: Negro, Talla: M, Art.No.1748311
 - Chaqueta ligera para mujer con cremallera bidireccional, Una prenda duradera y elegante en tu armario
 - Los bolsillos con cremallera te dan versatilidad Mantén tus manos calientes cuando lo necesites o guarda tu teléfono y otros accesorios sin temor a que se caigan
 - La tecnología reflectante Omni-Heat de la chaqueta ofrece un mayor aislamiento para mantenerte caliente incluso en los días más fríos
