@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://moda.tole.es/sitemap.xml
