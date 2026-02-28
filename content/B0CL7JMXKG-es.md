@@ -1,0 +1,36 @@
+---
+layout: post
+title: 'Jack & Jones Pantalones Vaqueros para Hombre Azul Denim. 29W x 32L'
+date: 2026-02-24 14:31:09
+image: 'https://m.media-amazon.com/images/I/31v0vHUrmLL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0CL7JMXKG-es Jack & Jones Pantalones Vaqueros para Hombre Azul Denim....'
+sku: 'B0CL7JMXKG-es'
+tags: [ 'vaqueros','🇪🇸', ]
+actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
+comparePrice: 29.99 EUR
+prodname: 'Jack & Jones Pantalones Vaqueros para Hombre Azul Denim. 29W x 32L'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0CL7JMXKG/?tag=tolees-21'
+descuento: '33.34'
+average: '19.99'
+---
+
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Jeans ajustados
+- Corte entallado
+- Composición del material: 71% algodón, 22% poliéster, 5% algodón reciclado, 2% elastano
+
+[🛒 Visítala!!!]({{< param buyurl >}})
+{{<world>}}B0CL7JMXKG{{</world>}}
