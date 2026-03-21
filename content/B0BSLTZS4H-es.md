@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'HAWKERS Gafas de Sol WARWICK para hombre y mujer'
+date: 2026-03-15 18:51:43
+image: 'https://m.media-amazon.com/images/I/314umDFOonL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0BSLTZS4H-es HAWKERS Gafas de Sol WARWICK para hombre y mujer'
+sku: 'B0BSLTZS4H-es'
+tags: [ 'gafas','🇪🇸', ]
+actualPrice: 15.16 EUR
+currency: EUR
+price: 15.16
+comparePrice: 20.99 EUR
+prodname: 'HAWKERS Gafas de Sol WARWICK para hombre y mujer'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0BSLTZS4H/?tag=tolees-21'
+descuento: '27.78'
+average: '15.16'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Producto original Hawkers; la caja incluye funda en microfibra y caja
+- Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes de TR18 con el sello de Eastman, gran calidad óptica y resistencia; respetuoso con el medio ambiente; protección 100% UV; Color de la lente: Azul; Apariencia de la lente: Gradiente
+- Material de la montura: TR90; Color de la montura: Verde; Color de la varilla: Verde
+- Nuestro diseño Warwick, con sus lentes redondeadas, puente de ojo de cerradura y varillas delgadas, es uno de nuestros iconos; este modelo, de la colección Made in Spain, es el fondo de armario óptimo; disponible en varios colores de lentes y montura
+- Modelo Unisex; Medidas: Frontal 142 mm, Varillas 140 mm, Puente 20 mm, Alto 51;7 mm
+
+[🛒 Comprar!!!]({{< param buyurl >}})
+{{<world>}}B0BSLTZS4H{{</world>}}
