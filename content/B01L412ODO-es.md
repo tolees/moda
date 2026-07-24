@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Havaianas Top Tiras Mujer Chanclas Oro Rosa 37/38 EU'
+date: 2026-07-17 18:36:54
+image: 'https://m.media-amazon.com/images/I/51VjhLS3PoL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B01L412ODO-es Havaianas Top Tiras Mujer Chanclas Oro Rosa 37/38 EU'
+sku: 'B01L412ODO-es'
+tags: [ 'chanclas','🇪🇸', ]
+actualPrice: 14.75 EUR
+currency: EUR
+price: 14.75
+comparePrice: 24.0 EUR
+prodname: 'Havaianas Top Tiras Mujer Chanclas Oro Rosa 37/38 EU'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B01L412ODO/?tag=tolees-21'
+descuento: '38.54'
+average: '13.0534615384616'
+---
+
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- TIRAS ESTILIZADAS. El modelo destaca por sus tiras metálicas con diseño en forma de greca, que aportan un toque sofisticado y moderno. La suela superior incluye motivos de granos de arroz y la inferior, de ladrillos, ofreciendo un diseño clásico con un acabado de colores elegantes
+- TOP TIRAS. Las chanclas brasileñas para mujeres, una reinterpretación moderna del clásico modelo Top. Con su diseño versátil y elegante, combinan comodidad y estilo, convirtiéndose en la elección perfecta para cualquier ocasión
+- FUNCIONALIDAD Y ESTILO. El calzado destaca por su ligereza, resistencia al agua y al calor, con extra de seguridad gracias a su suela antideslizante. Con una altura de 1,5 cm, combinan funcionalidad y estilo, garantizando confort en cualquier entorno
+- MATERIALES DE CALIDAD. Fabricadas en Brasil, las tiras están hechas de 100% PVC y la suela de goma 100%. Estos componentes de alta calidad aseguran durabilidad y flexibilidad, mientras que su diseño garantiza que sean seguras y cómodas
+- COMPROMETIDOS CON LA SOSTENIBILIDAD. Con un 40% de la suela hecha de restos de goma reciclados y el 100% de los residuos de las tiras reintegrados en el proceso de fabricación, estas chanclas combinan estilo y responsabilidad ambiental
+
+[🛒 Visítala!!!]({{< param buyurl >}})
+{{<world>}}B01L412ODO{{</world>}}

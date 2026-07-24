@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Wayleb Camiseta Henley de Hombre Manga Corta de Algodón Cuello Tunisino Hombre con Botones Camiseta Casual de Verano'
+date: 2026-05-12 20:43:27
+image: 'https://m.media-amazon.com/images/I/41tvyWZE45L._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0GT9GPCDS-es Wayleb Camiseta Henley de Hombre Manga Corta de Algodón...'
+sku: 'B0GT9GPCDS-es'
+tags: [ 'camiseta','🇪🇸', ]
+actualPrice: 14.99 EUR
+currency: EUR
+price: 14.99
+comparePrice: 22.99 EUR
+prodname: 'Wayleb Camiseta Henley de Hombre Manga Corta de Algodón Cuello Tunisino Hombre con Botones Camiseta Casual de Verano'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0GT9GPCDS/?tag=tolees-21'
+descuento: '34.80'
+average: '14.99'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- CUIDADO DE LA ROPA: Se recomienda lavar a mano o lavar a máquina en frío esta camisa henley de algodón para hombre. Por favor, consulte la tabla de tallas cuidadosamente antes de comprar.
+- OCASIONES VERSATILES: La camiseta Henley de manga corta es perfecta para la vida diaria, el ocio, el trabajo, el deporte, caminar, hacer ejercicio, correr, viajar, ir de picnic, ir de fiesta, salir, vacaciones y otras ocasiones. Diseño ligero y elástico le permite moverse con facilidad todos los días.
+- VERSATILIDAD CLÁSICA: Esta camiseta Henley para hombre está diseñada en colores clásicos y es perfecta para ropa informal y de fiesta. En primavera, verano y principios de otoño, puedes combinarlo con accesorios como sombreros, gafas de sol y relojes; en invierno, puedes usarlo como capa interior debajo de un abrigo.
+- CONFORTABLE Y AMIGABLE CON LA PIEL: Esta camiseta henley para hombre está hecha de tejido de alta calidad agradable a la piel, suave y cómodo, que le proporciona comodidad durante todo el día.
+- DISEÑO HENLEY: Esta camiseta para hombre cuenta con un cuello henley clásico con 3 botones en el pecho para abrir y cerrar libremente. El diseño más grueso de la tapeta de botones, las costuras más anchas de los puños y el dobladillo no son fáciles de deformar, la ropa es más duradera.
+
+[🛒 Comprar!!!]({{< param buyurl >}})
+{{<world>}}B0GT9GPCDS{{</world>}}

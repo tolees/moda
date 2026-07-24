@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Calvin Klein Camiseta de Manga Corta Hombre Regular tee con Logotipo Tipo Etiqueta Blanco Bright White S'
+date: 2026-04-30 22:38:36
+image: 'https://m.media-amazon.com/images/I/31H5bs4Z7mL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0BTDZ6Z26-es Calvin Klein Camiseta de Manga Corta Hombre Regular tee...'
+sku: 'B0BTDZ6Z26-es'
+tags: [ 'camiseta','🇪🇸', ]
+actualPrice: 17.95 EUR
+currency: EUR
+price: 17.95
+comparePrice: 39.9 EUR
+prodname: 'Calvin Klein Camiseta de Manga Corta Hombre Regular tee con Logotipo Tipo Etiqueta Blanco Bright White S'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0BTDZ6Z26/?tag=tolees-21'
+descuento: '55.01'
+average: '24.95'
+---
+
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- PARA CUALQUIER OCASIÓN: La camiseta básica de algodón de punto es supercómoda e ideal para el día a día o la oficina. La puedes llevar sola o debajo de un jersey, es la elección ideal para cualquier ocasión.
+- EMOCIONANTE Y CLARO: La marca de moda Calvin Klein, fundada en 1968, es conocida por su singular look y lleva conquistando el mundo de la moda desde entonces. La marca americana apuesta por una estética minimalista.
+- CLÁSICOS CÓMODOS: La camiseta destaca por su agradable algodón de jersey y es perfecta para looks más informales o como pijama. El logotipo tipo etiqueta de Calvin Klein en la manga completa el look de esta camiseta.
+- AJUSTE PERFECTO: El diseño atemporal de esta prenda minimalista es muy favorecedor. Además, esta camiseta es perfecta como regalo para jóvenes y mayores.
+- MATERIAL Y CUIDADO: Camiseta de algodón 100 %. Se puede lavar a máquina y secar en secadora.
+
+[🛒 Ver la oferta!!]({{< param buyurl >}})
+{{<world>}}B0BTDZ6Z26{{</world>}}

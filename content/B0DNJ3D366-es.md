@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'MISAKO Fulvia bolso bandolera mediano Mujer - Fulvia Piedra 22x40x11cm'
+date: 2026-05-30 14:23:42
+image: 'https://m.media-amazon.com/images/I/31NeQB1i6PL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0DNJ3D366-es MISAKO Fulvia bolso bandolera mediano Mujer - Fulvia...'
+sku: 'B0DNJ3D366-es'
+tags: [ 'bolso','🇪🇸', ]
+actualPrice: 15.0 EUR
+currency: EUR
+price: 15.0
+comparePrice: 23.99 EUR
+prodname: 'MISAKO Fulvia bolso bandolera mediano Mujer - Fulvia Piedra 22x40x11cm'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0DNJ3D366/?tag=tolees-21'
+descuento: '37.47'
+average: '15.0'
+---
+
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- En el interior, encontrarás un práctico bolsillo también con un seguro cierre de cremallera, ideal para guardar objetos pequeños de uso frecuente, como las llaves o el móvil
+- Disponible en vibrantes tonos, es el complemento perfecto para darle el broche de oro a tus looks informales o smart casual
+- Su forma de media luna permite acceder fácilmente a los artículos que necesites tener siempre a mano, mientras que el cierre superior protege tus pertenencias
+- Características: Tamaño: 22x40x11 cm Asa ajustable para mayor comodidad al llevarlo cruzado Tiradores alargados en efecto piel Herrajes metálicos de alta calidad Pespuntes decorativos en el centro Resistente forro interior en poliéster
+- Fulvia, el bolso bandolera mediano de Misako, está confeccionado en un tejido efecto piel que le aporta un toque sofisticado y mayor durabilidad
+
+[🛒 Ver la oferta!!]({{< param buyurl >}})
+{{<world>}}B0DNJ3D366{{</world>}}

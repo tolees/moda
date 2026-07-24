@@ -1,0 +1,37 @@
+---
+layout: post
+title: 'Levi s Housemark Polo Camiseta Mineral Black M Hombre'
+date: 2026-05-11 04:57:47
+image: 'https://m.media-amazon.com/images/I/31BCb8M-f7L._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B08PDHTTFP-es Levi s Housemark Polo Camiseta Mineral Black M Hombre'
+sku: 'B08PDHTTFP-es'
+tags: [ 'camiseta','🇪🇸', ]
+actualPrice: 18.99 EUR
+currency: EUR
+price: 18.99
+comparePrice: 40.0 EUR
+prodname: 'Levi s Housemark Polo Camiseta Mineral Black M Hombre'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B08PDHTTFP/?tag=tolees-21'
+descuento: '52.52'
+average: '22.0644444444442'
+---
+
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Cuenta con un diseño ligero
+- Ofrece comodidad y libertad de movimiento
+- Este producto es original Levis
+- Tiene detalles distintivos de la marca
+
+[🛒 Aquí!!!]({{< param buyurl >}})
+{{<world>}}B08PDHTTFP{{</world>}}
