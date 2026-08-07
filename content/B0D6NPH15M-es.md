@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Transpirable
 - Tobillo
 - Forma del talón: plano
-- Transpirable
 - Cierre: Velcro
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

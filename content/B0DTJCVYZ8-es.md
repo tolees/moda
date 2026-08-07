@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sudadera de cuello redondo en tela cepillada de mezcla de algodón y poliéster
 - 70 % algodón, 30 % poliéster
 - Arte impreso grande en el pecho
+- Sudadera de cuello redondo en tela cepillada de mezcla de algodón y poliéster
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DTJCVYZ8{{</world>}}

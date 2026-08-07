@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello : Cuello redondo
-- Corte : Corte regular
 - Artículo : Camiseta
-- Estampado : Estampado de goma para un tacto suave
 - Manga : Manga corta
+- Corte : Corte regular
+- Cuello : Cuello redondo
+- Estampado : Estampado de goma para un tacto suave
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CZS4F4X4{{</world>}}

@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 【Elección de tamaño】Confirme el tamaño a través de la tabla de tallas en la última foto para elegir la blusa más ajustada, más la camisa de gasa, se recomienda elegir el tamaño discretamente o el tamaño más pequeño (Altura del modelo 176CM, medidas 88∣ 62∣94 , puerto S)
-- 【Camisa Elegante Acampanada】Camisa de gasa para mujer con escote en pico de mangas 3/4 acampanadas, gasa de doble capa, transpirable pero no transparente, camisa de corte holgado y moderado, estilo sencillo y clásico.
-- 【Tela suave y fresca】La camisa de gasa para mujer está hecha de muselina 100% poliéster, la tela es una camisa transpirable ultra suave y agradable para la piel para primavera, verano y otoño.
 - 【Lavado y Cuidado de las Prendas】Se recomienda lavar la camiseta a mano con agua a menos de 40 grados, no usar la lavadora para evitar encoger / estirar / deformar
+- 【Tela suave y fresca】La camisa de gasa para mujer está hecha de muselina 100% poliéster, la tela es una camisa transpirable ultra suave y agradable para la piel para primavera, verano y otoño.
+- 【Camisa Elegante Acampanada】Camisa de gasa para mujer con escote en pico de mangas 3/4 acampanadas, gasa de doble capa, transpirable pero no transparente, camisa de corte holgado y moderado, estilo sencillo y clásico.
 - 【Ocasiones aplicables】Blusa elegante para mujer, adecuada para el trabajo e informal, combina perfectamente con jeans, pantalones rectos, pantalones de traje, estilo maduro lleno de encanto, camisa esencial para tu guardarropa.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

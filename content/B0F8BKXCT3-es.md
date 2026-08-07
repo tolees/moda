@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- COLECCIÓN MILLET SENECA: El modelo Seneca combina la calidad contrastada y el saber hacer técnico de MILLET con un diseño moderno y deportivo.
-- IDEAL PARA OUTDOOR: Perfecta como capa intermedia de abrigo o como chaqueta independiente para senderismo, trekking y actividades al aire libre.
-- DISEÑO PRÁCTICO: Detalles funcionales como bolsillos con cremallera y cuello alto para funcionalidad y protección en cada actividad.
-- TRANSPIRABLE Y CÓMODA: El tejido polar técnico garantiza una regulación óptima de la humedad y un confort agradable durante todo el día.
 - CHAQUETA POLAR CÁLIDA: Chaqueta polar de alta calidad de la línea Seneca que ofrece calidez y confort fiables en condiciones frescas de exterior.
+- IDEAL PARA OUTDOOR: Perfecta como capa intermedia de abrigo o como chaqueta independiente para senderismo, trekking y actividades al aire libre.
+- COLECCIÓN MILLET SENECA: El modelo Seneca combina la calidad contrastada y el saber hacer técnico de MILLET con un diseño moderno y deportivo.
+- TRANSPIRABLE Y CÓMODA: El tejido polar técnico garantiza una regulación óptima de la humedad y un confort agradable durante todo el día.
+- DISEÑO PRÁCTICO: Detalles funcionales como bolsillos con cremallera y cuello alto para funcionalidad y protección en cada actividad.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F8BKXCT3{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Producto adecuado para actividades deportivas
 - Diseño ligero que ofrece comodidad
 - Producto adecuado para múltiples ocasiones
+- Producto adecuado para actividades deportivas
 - Se adapta a cualquier actividad deportiva
 
 [🛒 Visítala!!!]({{< param buyurl >}})

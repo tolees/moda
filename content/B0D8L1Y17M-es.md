@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - DETALLES ICÓNICOS: Con la bandera de New Era finamente bordada en la manga, marcarás estilo. La camiseta ideal para cualquier fan que valore la calidad y el diseño oficial de la NFL.
-- SENSACIÓN MARAVILLOSA: la suave mezcla de algodón y los ojales bordados favorecen la transpirabilidad. Gracias a la zona del cuello sin etiquetas, esta camiseta de manga corta es muy cómoda de llevar.
-- PARA TU ESTILO DEPORTIVO: New Era es sinónimo de estilo auténtico desde 1920. Nuestras gorras y ropa deportiva combinan la herencia deportiva con el diseño urbano para tu look individual: un auténtico original.
 - AJUSTE PERFECTO: esta camiseta para hombre y mujer convence por su corte regular clásico en tallas europeas. Te ofrece la forma ideal para el día a día.
+- PARA TU ESTILO DEPORTIVO: New Era es sinónimo de estilo auténtico desde 1920. Nuestras gorras y ropa deportiva combinan la herencia deportiva con el diseño urbano para tu look individual: un auténtico original.
+- SENSACIÓN MARAVILLOSA: la suave mezcla de algodón y los ojales bordados favorecen la transpirabilidad. Gracias a la zona del cuello sin etiquetas, esta camiseta de manga corta es muy cómoda de llevar.
 - PRODUCTO CON LICENCIA OFICIAL: demuestra tu pasión por el deporte con el logotipo y la inscripción auténticos de los Green Bay Packers. Una camiseta unisex con estilo para fans apasionados.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Clarks Shoes, Hollyhock Walk, Off White Lea, 5 (Women)
-- Los zapatos pueden combinar con multitud de conjuntos
 - Presentan detalles distintivos de la marca
+- Los zapatos pueden combinar con multitud de conjuntos
+- Clarks Shoes, Hollyhock Walk, Off White Lea, 5 (Women)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CQPHDVVM{{</world>}}

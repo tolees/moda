@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Muslo estrecho, apretado en la rodilla, puños de pierna súper apretados
 - Con bielástico para mayor flexibilidad
+- Muslo estrecho, apretado en la rodilla, puños de pierna súper apretados
 - Bragueta con cremallera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

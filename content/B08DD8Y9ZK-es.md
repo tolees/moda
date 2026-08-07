@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sea cual sea el producto, PUMA quiere ser la marca deportiva rápida del mundo, yendo siempre allá
 - Las costuras planas en la puntera evitan molestias
+- Sea cual sea el producto, PUMA quiere ser la marca deportiva rápida del mundo, yendo siempre allá
 - Diseño de talón real para un ajuste adecuado
 - Tacto de algodón suave
 - Planta acolchada para comodidad

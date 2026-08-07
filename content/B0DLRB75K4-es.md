@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- DALE TU PROPIO ESTILO: combínala con jeans para salidas urbanas o úsala en capas para aventuras activas—diseño versátil que se adapta a cualquier ocasión
-- MATERIALES AVANZADOS Y CUIDADO: polar de secado rápido con construcción transpirable, costura duradera; el forro Omni-Heat Infinity refleja y retiene más calor corporal para una calidez instantánea—lavar a máquina con agua fría y ciclo delicado, secar en secadora a temperatura baja
 - ROPA EXTERIOR LISTA PARA LA AVENTURA: chaqueta aislante para hombre con cubierta impermeable—ideal para senderismo, capas o uso diario de invierno
+- MATERIALES AVANZADOS Y CUIDADO: polar de secado rápido con construcción transpirable, costura duradera; el forro Omni-Heat Infinity refleja y retiene más calor corporal para una calidez instantánea—lavar a máquina con agua fría y ciclo delicado, secar en secadora a temperatura baja
+- DALE TU PROPIO ESTILO: combínala con jeans para salidas urbanas o úsala en capas para aventuras activas—diseño versátil que se adapta a cualquier ocasión
 - ENFRENTA LOS ELEMENTOS: forro Omni-Heat Infinity, relleno sintético reciclado, capucha ajustable, dobladillo y puños para calidez y comodidad
 - CONTENIDO: 1x Columbia Oak Harbor II Chaqueta Aislante, Hombre, Talla: M, Color: Stone Green (Verde)
 

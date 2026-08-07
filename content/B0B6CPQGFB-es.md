@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pack
 - Cotton
-- Boxer briefs
 - Care Label:
+- Boxer briefs
+- Pack
 - materialFabricComposition: 95% Cotton, 5% Elastane
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

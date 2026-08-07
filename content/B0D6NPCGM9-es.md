@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ligeras y flexibles
 - Ofrecen amortiguación y comodidad
 - Plantilla desmontable
+- Ligeras y flexibles
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D6NPCGM9{{</world>}}

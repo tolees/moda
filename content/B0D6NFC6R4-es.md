@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ofrecen una amortiguación óptima
 - Transpirables y ligeras
+- Ofrecen una amortiguación óptima
 - Con un estilo informal
 
 [🛒 Comprar!!!]({{< param buyurl >}})

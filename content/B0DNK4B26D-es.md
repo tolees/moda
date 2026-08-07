@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño Popeye
 - Manga Corta
+- Diseño Popeye
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DNK4B26D{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Skech-Air
 - Diseño ligero
+- Skech-Air
 - MF refrigerado por aire
 
 [🛒 Visítala!!!]({{< param buyurl >}})

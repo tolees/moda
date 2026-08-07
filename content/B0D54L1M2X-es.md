@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Hecha de jersey suave para comodidad durante todo el día
 - Acabado con un sutil logotipo en el pecho
+- Hecha de jersey suave para comodidad durante todo el día
 - Hecho para combinar con casi cualquier par de jeans Levis
 
 [🛒 Visítala!!!]({{< param buyurl >}})

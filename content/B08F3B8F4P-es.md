@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cuello acanalado – Esta camiseta de running ofrece una sensación cómoda sobre la piel y proporciona un look clásico gracias a su cuello acanalado.
-- Camiseta ligera de secado rápido – Esta camiseta para entrenar mantiene fresca a la atleta porque su tejido aleja el sudor y se seca muy rápido.
 - Camiseta deportiva transpirable – La camiseta clásica es de un tejido suave y ligero que no limita la movilidad y es ideal para entrenar o relajarse.
+- Camiseta ligera de secado rápido – Esta camiseta para entrenar mantiene fresca a la atleta porque su tejido aleja el sudor y se seca muy rápido.
 - Material y forma – Under Armour UA Live Sportstyle Tank Top Camiseta deportiva sin mangas, camiseta para mujer. Material: 60% algodón y 40% poliéster. Forma: ancha.
 - Cómoda camiseta de tirantes – Esta camiseta para correr ofrece la máxima comodidad durante todo el día gracias a su suave tejido de mezcla de algodón.
 

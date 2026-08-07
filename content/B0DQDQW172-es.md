@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Sudadera básica de ajuste regular
-- 100 % algodón
 - Con logotipo impreso en el pecho
+- 100 % algodón
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DQDQW172{{</world>}}

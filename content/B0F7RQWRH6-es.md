@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Estilo informal
-- Montura resistente y duradera
 - Ofrece protección contra los rayos solares
+- Montura resistente y duradera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F7RQWRH6{{</world>}}

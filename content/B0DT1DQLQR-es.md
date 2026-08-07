@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - CÓMODO: La cintura elástica icónica permite que los calzoncillos se ajusten al cuerpo como un guante. No oprimen y son muy agradables y cómodos de llevar.
+- MATERIAL Y CUIDADO: Calzoncillos bóxer confeccionados con 57 % algodón orgánico, 38 % algodón de la iniciativa Better Cotton y 5 % elastano. Se puede lavar a máquina, pero no se puede secar en la secadora.
 - CALIDAD DEMOSTRADA: Desde 1985, esta marca de diseñador lleva demostrando por todo el mundo la calidad y la ligereza mediante una gran variedad de diseños en los míticos colores azul oscuro, blanco y rojo.
 - PARA TODOS Y TODAS: Estos calzoncillos trunk se pueden usar para hacer deporte o a diario y garantizan que te sientas bien todo el día. Además, este set es el regalo perfecto para hombres modernos y seguros de sí mismos.
-- MATERIAL Y CUIDADO: Calzoncillos bóxer confeccionados con 57 % algodón orgánico, 38 % algodón de la iniciativa Better Cotton y 5 % elastano. Se puede lavar a máquina, pero no se puede secar en la secadora.
 - DISEÑO CLÁSICO: Los calzoncillos bóxer originales de Tommy Hilfiger se ajustan perfectamente a tu figura. La parte posterior sin costuras y los detalles distintivos de la marca en la cintura acentúan el diseño masculino.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

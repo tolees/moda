@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tela suave
 - Ajuste regular
+- Tela suave
 - Logotipo de Nike en la parte delantera
 - Detalles distintivos de la marca
 

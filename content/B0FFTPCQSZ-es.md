@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mezcla de tela premium: Hecha de 100% algodón para comodidad, flexibilidad y durabilidad.
-- Colección SS27MC: Parte de la colección.
-- Estilo distintivo: Camiseta de cuello redondo. Manga corta. Marca impresa centrada en el frente.
-- Jersey simple: Construcción de tela auténtica con un aspecto y tacto premium.
 - Múltiples tallas y largos de pierna: Disponible en tallas 4-16 y largos de pierna para un ajuste a medida.
+- Estilo distintivo: Camiseta de cuello redondo. Manga corta. Marca impresa centrada en el frente.
+- Colección SS27MC: Parte de la colección.
+- Jersey simple: Construcción de tela auténtica con un aspecto y tacto premium.
+- Mezcla de tela premium: Hecha de 100% algodón para comodidad, flexibilidad y durabilidad.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FFTPCQSZ{{</world>}}

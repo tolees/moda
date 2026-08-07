@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Solapa delantera interior completa
-- Puños elásticos
-- Bolsillos para las manos con cremallera YKK
 - Manga raglán para libertad de movimiento.
 - Dobladillo elástico
+- Puños elásticos
+- Solapa delantera interior completa
+- Bolsillos para las manos con cremallera YKK
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BKLPG9K4{{</world>}}

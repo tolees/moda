@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con la tenaza llave XS: de 100 mm de longitud, la apertura paralela de la mordaza tiene un ancho de boca de hasta 21 mm
 - Dimensiones (A x A x P): 30 x 110 x 45 mm
+- Siempre a mano, siempre útil: Tenaza llave XS y KNIPEX Cobra XS en una práctica funda para el cinturón
 - Con la KNIPEX Cobra XS: de 100 mm de longitud, puedes agarrar piezas de trabajo redondas de hasta 28 mm, con efecto autoretención
 - Bolsa portaherramientas de un tejido de poliéster resistente, con cierre adhesivo y hebilla de cinturón
-- Siempre a mano, siempre útil: Tenaza llave XS y KNIPEX Cobra XS en una práctica funda para el cinturón
+- Con la tenaza llave XS: de 100 mm de longitud, la apertura paralela de la mordaza tiene un ancho de boca de hasta 21 mm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09FW6VJVD{{</world>}}

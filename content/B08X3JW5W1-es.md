@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fabricado con algodón orgánico
 - Impresión frontal clásica
-- Cuello redondo clásico
 - De manga corta
 - Camiseta de manga corta para hombre
+- Fabricado con algodón orgánico
+- Cuello redondo clásico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08X3JW5W1{{</world>}}

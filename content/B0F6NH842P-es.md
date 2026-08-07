@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- LONGITUD DE LA PRENDA: 73,7cm desde el lado del cuello en la talla M de España
 - CORTE AJUSTADO: corte ajustado en los hombros, las mangas, el pecho y la cintura
-- ALGODÓN JERSEY: mezcla de algodón suave y liso. Este tejido natural ligero y transpirable tiene un tacto suave, mientras que el elastano añadido ofrece un ajuste flexible que se adapta a tus movimientos
 - DETALLES: mangas cortas y dobladillo recto rematado con costuras flexibles supersuaves. El cuello en V está reforzado para mayor durabilidad y tiene una etiqueta estampada en la parte trasera
 - Certificado STANDARD 100 de OEKO-TEX que exige que los productos textiles se prueben con más de 1000 productos químicos para limitar los que puedan ser perjudiciales para la salud humana
 - CUELLO EN V: camiseta interior casual que ofrece comodidad y funcionalidad para el uso diario
+- ALGODÓN JERSEY: mezcla de algodón suave y liso. Este tejido natural ligero y transpirable tiene un tacto suave, mientras que el elastano añadido ofrece un ajuste flexible que se adapta a tus movimientos
+- LONGITUD DE LA PRENDA: 73,7cm desde el lado del cuello en la talla M de España
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F6NH842P{{</world>}}

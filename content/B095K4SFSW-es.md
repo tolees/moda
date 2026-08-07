@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Largo Midi
-- Cómodo de llevar
 - Falda clásica para mujer con aspecto elegante
+- Cómodo de llevar
+- Largo Midi
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B095K4SFSW{{</world>}}

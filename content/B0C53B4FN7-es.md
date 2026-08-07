@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - CORTE ESTÁNDAR: corte ajustado pero cómodo en el pecho, la cintura y las caderas
-- DETALLES: cuello de barco moderno y mangas tipo dolman
-- LONGITUD: 61 cm desde el lado del cuello en la talla S de España
-- CAMISETA CON CUELLO DE BARCO: esta versátil camiseta es un clásico imprescindible en tu armario, perfecta para ponértela debajo de otra prenda o sola para un estilo casual y diario
 - JERSEY ELÁSTICO DE VISCOSA: jersey ligero, suave y holgado con un acabado liso y refinado
+- LONGITUD: 61 cm desde el lado del cuello en la talla S de España
+- DETALLES: cuello de barco moderno y mangas tipo dolman
+- CAMISETA CON CUELLO DE BARCO: esta versátil camiseta es un clásico imprescindible en tu armario, perfecta para ponértela debajo de otra prenda o sola para un estilo casual y diario
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C53B4FN7{{</world>}}

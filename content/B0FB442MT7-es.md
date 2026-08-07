@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Deportiva con un estilo activo
 - Amortiguado y cómodo
 - Con luces integradas en la suela para encender la diversión a cada paso
+- Deportiva con un estilo activo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FB442MT7{{</world>}}

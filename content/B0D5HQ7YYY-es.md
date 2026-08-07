@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con un ajuste cómodo
 - Tejido ligero y suave
+- Con un ajuste cómodo
 - Logotipo de la marca en el pecho
 
 [🛒 Visítala!!!]({{< param buyurl >}})

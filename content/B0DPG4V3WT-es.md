@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Boardshorts
 - jams
+- Boardshorts
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DPG4V3WT{{</world>}}

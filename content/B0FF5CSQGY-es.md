@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- LONGITUD DE LA PRENDA: 62,9cm desde el lado del cuello en la talla S de España
-- CORTE HOLGADO: corte cómodo y holgado en los hombros, el pecho y la cintura
-- CAMISETA SIN MANGAS: un elemento básico moderno para combinar en capas con un estilo desenfadado
-- ALGODÓN JERSEY: tejido ligero y suave 100% algodón con elasticidad natural y comodidad transpirable, ideal para todo el año
-- LA ELECCIÓN DE DEMI: Demi Lovato ha elegido este producto de nuestra nueva colección Amazon Essentials
 - DETALLES: cuello redondo acanalado, sisa baja
+- LA ELECCIÓN DE DEMI: Demi Lovato ha elegido este producto de nuestra nueva colección Amazon Essentials
+- CORTE HOLGADO: corte cómodo y holgado en los hombros, el pecho y la cintura
+- ALGODÓN JERSEY: tejido ligero y suave 100% algodón con elasticidad natural y comodidad transpirable, ideal para todo el año
+- LONGITUD DE LA PRENDA: 62,9cm desde el lado del cuello en la talla S de España
+- CAMISETA SIN MANGAS: un elemento básico moderno para combinar en capas con un estilo desenfadado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FF5CSQGY{{</world>}}

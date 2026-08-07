@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Costuras planas para mayor comodidad y durabilidad
-- Exterior de lana merina 100 %
 - LIFA MERINO
+- Exterior de lana merina 100 %
+- Costuras planas para mayor comodidad y durabilidad
 - Confección en 2 capas
 - Artículos entregados: 1x Helly Hansen Mens Lifa Merino Midweight Hoodie - LS Baselayer BLACK M
 

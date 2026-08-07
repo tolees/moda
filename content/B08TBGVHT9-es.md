@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Marca: JACK&JONES
-- Polo de manga corta de color blanco. Cierre con botones. Detalle bordado.
 - Modelo: 12143859 JJEPAULOS POLO SS NOOS PS
+- Polo de manga corta de color blanco. Cierre con botones. Detalle bordado.
+- Marca: JACK&JONES
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08TBGVHT9{{</world>}}

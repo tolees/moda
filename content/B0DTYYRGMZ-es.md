@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- plantilla acolchada
 - punta afilada
 - Altura tacón: 3 cm
 - Zapato de salón efecto charol
-- plantilla acolchada
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DTYYRGMZ{{</world>}}

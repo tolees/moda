@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ICÓNICO Y ATEMPORAL: El vestido tipo polo original de Tommy Hilfiger con escote de pico tiene un diseño desenfadado. La bandera de Tommy Hilfiger bordada proporciona un toque especial.
-- AJUSTE PERFECTO: Este vestido atemporal con un cuello clásico tipo polo se ajusta perfectamente a tu figura. El vestido de corte slim convence por su material suave y su corte femenino.
+- MATERIAL Y CUIDADO: Vestido tipo polo confeccionado con 96 % algodón orgánico y 4 % elastano. Se puede lavar a máquina.
 - CALIDAD DEMOSTRADA: Desde 1985, esta marca de diseñador lleva demostrando por todo el mundo la calidad y la ligereza mediante una gran variedad de diseños en los míticos colores azul oscuro, blanco y rojo.
 - PARA CUALQUIER OCASIÓN: El vestido destaca por su comodidad y es indispensable para un estilo informal o más elegante. El vestido tipo polo es perfecto para usarlos todos los días o para la oficina y se puede combinar de muchas maneras.
-- MATERIAL Y CUIDADO: Vestido tipo polo confeccionado con 96 % algodón orgánico y 4 % elastano. Se puede lavar a máquina.
+- ICÓNICO Y ATEMPORAL: El vestido tipo polo original de Tommy Hilfiger con escote de pico tiene un diseño desenfadado. La bandera de Tommy Hilfiger bordada proporciona un toque especial.
+- AJUSTE PERFECTO: Este vestido atemporal con un cuello clásico tipo polo se ajusta perfectamente a tu figura. El vestido de corte slim convence por su material suave y su corte femenino.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D7J2QN54{{</world>}}

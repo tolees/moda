@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Puntera de cincha
+- Puntera abierta
 - Forro de goma, nailon y elastano, diseño de bloques de color
 - Tommy Hilfiger Bandera bordada en la parte delantera
-- Puntera abierta
 - Plantilla moldeada
+- Puntera de cincha
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C8JZP3Y6{{</world>}}

@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Producto original Hawkers; la caja incluye funda en microfibra y caja
 - Material de la montura: TR90; Color de la montura: Gris; Color de la varilla: Estampado
-- Gafas de sol polarizadas: Reduce los reflejos superficiales y la fatiga ocular proporcionando nitidez y contrastes superiores; Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes fabricadas en material bio tac polarizado; protección 100 % UV; Color de la lente: Beis; Apariencia de la lente: Espejo
 - Esta versión polarizada del modelo más vendido de todos los tiempos, ONE, tiene un motivo de hojas doradas en las patillas; la montura gris oscura translúcida con acabado mate se complementa con las lentes beige espejadas
+- Gafas de sol polarizadas: Reduce los reflejos superficiales y la fatiga ocular proporcionando nitidez y contrastes superiores; Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes fabricadas en material bio tac polarizado; protección 100 % UV; Color de la lente: Beis; Apariencia de la lente: Espejo
 - Modelo Unisex; Medidas: Frontal 141 mm, Varillas 140 mm, Puente 17 mm, Alto 50 mm
 
 [🛒 Comprar!!!]({{< param buyurl >}})

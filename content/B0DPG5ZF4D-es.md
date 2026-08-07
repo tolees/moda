@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fleece Top
 - Capa exterior
+- Fleece Top
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DPG5ZF4D{{</world>}}

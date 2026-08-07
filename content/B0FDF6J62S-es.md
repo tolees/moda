@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Tommy jeans Logotipo bordado en el pecho
-- Tommy jeans Marca:
 - Cuello, puños y dobladillo de punto acanalado
+- Tommy jeans Marca:
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FDF6J62S{{</world>}}

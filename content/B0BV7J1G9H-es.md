@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Producto original Hawkers; la caja incluye funda en microfibra y caja
 - Material de la montura: TR90; Color de la montura: Negro, Estampado; Color de la varilla: Negro, Estampado
-- Diseño de gafas de sol deportivas para los nostálgicos y nostálgicas de los ‘90; este diseño estilo athleisure, de la colección Made in Spain, tiene un llamativo efecto fibra de carbono en el frontal y exterior de las varillas; óptimas tanto para el uso diario como para actividades deportivas de bajo impacto; disponible en varios colores de lentes y montura
-- Modelo Unisex; Medidas: Frontal 142 mm, Varillas 130 mm, Puente 15 mm, Alto 49;3 mm
 - Gafas de sol polarizadas: Reduce los reflejos superficiales y la fatiga ocular proporcionando nitidez y contrastes superiores; Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes fabricadas en material bio tac polarizado; protección 100 % UV; Color de la lente: Negro; Apariencia de la lente: Sólida
+- Diseño de gafas de sol deportivas para los nostálgicos y nostálgicas de los ‘90; este diseño estilo athleisure, de la colección Made in Spain, tiene un llamativo efecto fibra de carbono en el frontal y exterior de las varillas; óptimas tanto para el uso diario como para actividades deportivas de bajo impacto; disponible en varios colores de lentes y montura
+- Producto original Hawkers; la caja incluye funda en microfibra y caja
+- Modelo Unisex; Medidas: Frontal 142 mm, Varillas 130 mm, Puente 15 mm, Alto 49;3 mm
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BV7J1G9H{{</world>}}

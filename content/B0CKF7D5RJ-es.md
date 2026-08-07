@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Este modelo ha obtenido el certificado vegano por la organización mundial PETA (Organización de los derechos de los animales)
-- Sandalia de mujer con cuña, de la marca Xti. Diseño de nudos de macramé combinado con material que imita la piel con acabado metalizado
 - [Nuestra Marca]: XTI se caracteriza por su moda urbana y funcional con calzado que combina las últimas tendencias con comodidad y versatilidad para un estilo de vida activo y moderno.
+- Sandalia de mujer con cuña, de la marca Xti. Diseño de nudos de macramé combinado con material que imita la piel con acabado metalizado
+- Este modelo ha obtenido el certificado vegano por la organización mundial PETA (Organización de los derechos de los animales)
 - Cierre con hebilla metálica para facilitar el ajuste. Cuña de 10 cm de yute con plataforma delantera y suela de goma antideslizante
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

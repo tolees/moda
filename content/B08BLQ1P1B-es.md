@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Peso del paquete del artículo: 0.135 kg
-- Ancho del paquete del artículo: 150 mm
 - Longitud del paquete del artículo: 220 mm
+- Ancho del paquete del artículo: 150 mm
+- Peso del paquete del artículo: 0.135 kg
 - Altura del paquete del artículo: 90 mm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

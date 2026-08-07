@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ajuste regular
-- Tecnología Dri-Fit
 - Capucha con cordón
+- Ajuste regular
 - Ofrece comodidad y libertad de movimiento
+- Tecnología Dri-Fit
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08T6N12NW{{</world>}}

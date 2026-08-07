@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Los jeans estrechos definitivos
 - LEVIS TAB: Existen diferentes variaciones de la conocida lengüeta roja. Todos los productos son originales de Levis, no importa si pone LEVIS, Levis, no está escrito o es de otro color.
+- Los jeans estrechos definitivos
 - Estrechos en el trasero y en el muslo pero aún así espaciosos
 - Las tallas grandes sientan bien justo donde tienen que hacerlo
 

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tejido suave
 - Corte holgado
-- Manga larga
+- Tejido suave
 - Cuello cálido
+- Manga larga
 - Encantador vestido de invierno
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tom Tailor - Camiseta de manga corta para hombre
 - Ajuste óptimo y gran comodidad
+- Tom Tailor - Camiseta de manga corta para hombre
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F2YPN5L9{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- LEVIS TAB: Existen diferentes variaciones de la conocida lengüeta roja. Todos los productos son originales de Levis, no importa si pone LEVIS, Levis, no está escrito o es de otro color.
+- La camiseta básica perfecta
+- Con un discreto logotipo
 - Ideal para combinar con cualquiera de tus jeans
 - Algunas cosas son perfectas tal y como son. Nuestra camiseta Original Housemark es una de ellas. Por eso, hemos mantenido su sencillez con un fit atemporal y un estampado discreto.
-- LEVIS TAB: Existen diferentes variaciones de la conocida lengüeta roja. Todos los productos son originales de Levis, no importa si pone LEVIS, Levis, no está escrito o es de otro color.
-- Con un discreto logotipo
-- La camiseta básica perfecta
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D54MK7H5{{</world>}}

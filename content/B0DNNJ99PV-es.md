@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Dos bolsillos laterales
 - Logotipo en el pecho
 - Cómodo de llevar
+- Dos bolsillos laterales
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DNNJ99PV{{</world>}}

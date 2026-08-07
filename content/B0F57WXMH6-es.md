@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 95% algodón 5% elastano
 - Con logotipo en la parte delantera
 - Camiseta de manga corta estrecha
-- 95% algodón 5% elastano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F57WXMH6{{</world>}}

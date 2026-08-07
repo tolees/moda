@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ajuste: ajuste delgado, longitud de espalda para talla M aprox. 47 cm
 - Mangas cortas con cuello redondo
+- Sé parte: El artí contiene al menos un 50% de algodón orgánico (algodón orgánico). El algodón orgánico se cultiva con fertilizantes naturales. El cultivo protege los recursos naturales y se lleva a cabo sin el uso de productos químicos nocivos. Esto crea un entorno de trabajo más saludable para los agricultores. Instrucciones de lavado: no lavar en seco, no secar en secadora, no usar blanqueador, planchar a alta temperatura (200 C), ciclo normal a máx. 90C
+- Ajuste: ajuste delgado, longitud de espalda para talla M aprox. 47 cm
 - Camiseta básica clásica con logotipo redondo impreso en la parte delantera. Dos camisetas en diferentes colores por paquete de 2.
 - Hecho de tela suave de punto individual
-- Sé parte: El artí contiene al menos un 50% de algodón orgánico (algodón orgánico). El algodón orgánico se cultiva con fertilizantes naturales. El cultivo protege los recursos naturales y se lleva a cabo sin el uso de productos químicos nocivos. Esto crea un entorno de trabajo más saludable para los agricultores. Instrucciones de lavado: no lavar en seco, no secar en secadora, no usar blanqueador, planchar a alta temperatura (200 C), ciclo normal a máx. 90C
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B9BNKG7D{{</world>}}

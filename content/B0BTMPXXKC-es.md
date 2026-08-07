@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Detalles distintivos de la marca
 - Tela suave
-- Cuenta con un amplio bolsillo frontal
 - Sudadera con capucha ajustable mediante cordones
+- Detalles distintivos de la marca
+- Cuenta con un amplio bolsillo frontal
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BTMPXXKC{{</world>}}

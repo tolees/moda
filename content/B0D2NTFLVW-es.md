@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Puertos de agua para drenaje
 - Parte superior de malla resistente al agua que protege de los residuos
-- Estilo atrevido y divertido
 - Correa ajustable para un ajuste seguro
-- Entresuela Croslite con protección para los dedos y tracción
+- Puertos de agua para drenaje
+- Estilo atrevido y divertido
 - Iconic Crocs Comfort: comodidad ligera y flexible
+- Entresuela Croslite con protección para los dedos y tracción
 - Pestañas fáciles de poner
 
 [🛒 Visítala!!!]({{< param buyurl >}})

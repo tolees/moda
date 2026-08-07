@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- LONGITUD DE LA PRENDA: 54,0cm desde el lado del cuello en la talla S de EE. UU.
 - DETALLES: cuello redondo, mangas cortas
-- TEJIDO ACANALADO: se ajusta perfectamente, con elasticidad y recuperación uniformes que mantendrá su forma
 - CAMISETA ACANALADA: un básico moderno que combina un estilo pulido con la comodidad. Combínala con vaqueros o una falda
 - CORTE AJUSTADO: corte ajustado que se pega al cuerpo
+- LONGITUD DE LA PRENDA: 54,0cm desde el lado del cuello en la talla S de EE. UU.
+- TEJIDO ACANALADO: se ajusta perfectamente, con elasticidad y recuperación uniformes que mantendrá su forma
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FF5JQV7V{{</world>}}

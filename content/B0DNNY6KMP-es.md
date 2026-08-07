@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Nuestro característico fit recto
 - LEVIS TAB: Existen diferentes variaciones de la conocida lengüeta roja. Todos los productos son originales de Levis, no importa si pone LEVIS, Levis, no está escrito o es de otro color.
-- Nuestros atemporales 501 Originals reinterpretados en una versión moderna con un largo medio
 - Un lienzo en blanco para personalizarlo y expresar tu estilo
+- Nuestros atemporales 501 Originals reinterpretados en una versión moderna con un largo medio
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DNNY6KMP{{</world>}}

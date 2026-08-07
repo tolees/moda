@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Corte clásico
-- Cuello redondo de canalé
 - AEROREADY
 - 100% poliéster (reciclado)
+- Cuello redondo de canalé
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZ9L5HFN{{</world>}}

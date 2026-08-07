@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Camiseta vintage
 - Cinta de firma en el cuello
 - Cuello redondo
 - Logotipo metálico de Tommy Hilfiger en la parte delantera
+- Camiseta vintage
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F6QTCK4C{{</world>}}

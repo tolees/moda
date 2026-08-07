@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 1 compartimento principal con llavero interior
 - Soporte para teléfono móvil, bolsillo trasero, bolsillo delantero
 - Logotipo de CC en la parte delantera. Tamaño: __ 12 [H] x 39 [B] cm __Volumen:__ 1,5 L
+- 1 compartimento principal con llavero interior
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CBBP8K7Q{{</world>}}

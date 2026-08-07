@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Sudadera de ajuste regular
 - Con cuello redondo y ilustraciones en la parte delantera
 - 100 % algodón
-- Sudadera de ajuste regular
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DQDMFDS6{{</world>}}

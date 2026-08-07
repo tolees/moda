@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El té cae hasta por encima de las nalgas
-- Con su cuello redondo y acanalado y su amplio ajuste de camiseta
 - Proporciona la máxima libertad
+- Con su cuello redondo y acanalado y su amplio ajuste de camiseta
+- El té cae hasta por encima de las nalgas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BWHDH5T4{{</world>}}

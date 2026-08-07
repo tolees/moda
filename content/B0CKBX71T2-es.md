@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Proporciona comodidad
-- Abertura delantera
 - Lengüeta con botones sin ojales al lado para ajustar el ancho
 - Bolsillos en el canesú, cierre de botones a presión
+- Proporciona comodidad
+- Abertura delantera
 - Bolsillos insertados, bolsillos traseros con trabilla para herramientas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

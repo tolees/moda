@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Hecho de EVA
 - Suela perfilada que garantiza comodidad de uso y protege contra el deslizamiento del pie
-- Aberturas para la circulación del aire
 - Correa de talón de doble función
+- Aberturas para la circulación del aire
 - Fácil de limpiar
 
 [🛒 Comprar!!!]({{< param buyurl >}})

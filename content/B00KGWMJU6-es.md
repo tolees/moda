@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajuste: ajuste regular, longitud de espalda en L aprox. 74 cm
 - Instrucciones de lavado: no es posible limpiar en seco, no secar en secadora, no usar lejía, planchar a baja temperatura (110 °C), lavado normal a máx. 40 °C
+- Ajuste: ajuste regular, longitud de espalda en L aprox. 74 cm
 - Manga corta con cuello redondo
 - Camiseta básica en colores lisos en un práctico paquete de 2 unidades: dos camisetas de cuello redondo del mismo color por paquete
 - Hecho de tela de algodón suave y fácil de limpiar

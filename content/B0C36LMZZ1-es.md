@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estampado estampado en la tela con aspecto 3D
 - Forro de la capucha del mismo material
+- Estampado estampado en la tela con aspecto 3D
 - Material cepillado con interior suave
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

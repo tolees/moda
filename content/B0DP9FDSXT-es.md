@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material: 100% nailon
 - Palma: 100% poliéster y estampado de leopardo falso
-- Tecnología
 - Warmth: __ WarmFlight x1 tecnología para ultra ligero y transpirable warmth, peso de 70 g
+- Tecnología
+- Material: 100% nailon
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DP9FDSXT{{</world>}}

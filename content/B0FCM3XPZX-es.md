@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Rib 1 x 1 con collar
-- Chest Pocket
 - Tela de algodón orgánico [180 g/m2]
+- Rib 1 x 1 con collar
 - Cuello:
+- Chest Pocket
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FCM3XPZX{{</world>}}

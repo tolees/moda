@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Patrón: el diseño de la marca es visible
-- Temporada: clima frío
 - Código de vestimenta: informal
+- Temporada: clima frío
+- Patrón: el diseño de la marca es visible
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BMGG1PCW{{</world>}}

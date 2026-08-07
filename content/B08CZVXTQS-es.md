@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Abrigo largo acolchado de cuello alto
 - Estándar
+- Abrigo largo acolchado de cuello alto
 - Capucha, bolsillos con cremallera
 
 [🛒 Aquí!!!]({{< param buyurl >}})

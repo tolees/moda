@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 98 % algodón, 2 % elastano
-- Tinte de ropa con lavado ácido; bolsillos ribeteados y etiqueta tejida en la parte posterior
 - Pantalón chino regular de algodón en estructura de lona
+- Tinte de ropa con lavado ácido; bolsillos ribeteados y etiqueta tejida en la parte posterior
+- 98 % algodón, 2 % elastano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DTJN1SDQ{{</world>}}

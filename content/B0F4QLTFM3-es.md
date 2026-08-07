@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Gargantilla
-- Puños con punta distintiva
 - Jersey de algodón puro
 - Cuello, puños y dobladillo acanalados
 - Suéter fino
+- Gargantilla
+- Puños con punta distintiva
 - Cierre con botones
 
 [🛒 Aquí!!!]({{< param buyurl >}})

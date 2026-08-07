@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cortavientos en sisa
 - Cierre central con cremallera, oculta con tapeta
 - Tapeta central con botones automáticos
 - Cinturilla elástica lateral
+- Cortavientos en sisa
 - Siete bolsillos: 1 bolsillo de parche en el pecho, con tapeta y velcro 2 bolsillos inferiores de parche, con tapeta y velcro. Debajo de cada uno, 2 bolsillos laterales 1 bolsillo de fuelle en el pecho, con tapeta y velcro. Sobre él, compartimentos para bolígrafos 1 bolsillo interior de parche
 
 [🛒 Visítala!!!]({{< param buyurl >}})

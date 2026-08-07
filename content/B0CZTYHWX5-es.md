@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Hombre Essentials Big Logo Single Jersey Shirt Black/White L'
-date: 2026-07-17 08:46:06
+date: 2026-08-06 22:12:17
 image: 'https://m.media-amazon.com/images/I/31ocVj1fRCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0CZTYHWX5-es adidas Hombre Essentials Big Logo Single Jersey Shirt...'
 sku: 'B0CZTYHWX5-es'
 tags: [ 'jersey','🇪🇸', ]
-actualPrice: 16.79 EUR
+actualPrice: 14.0 EUR
 currency: EUR
-price: 16.79
+price: 14.0
 comparePrice: 28.0 EUR
 prodname: 'adidas Hombre Essentials Big Logo Single Jersey Shirt Black/White L'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CZTYHWX5/?tag=tolees-21'
-descuento: '40.04'
-average: '16.79'
+descuento: '50.00'
+average: '15.395'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Corte clásico
-- Cuello redondo
 - 100% algodón
+- Cuello redondo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZTYHWX5{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Contiene tela reciclada
 - Pack de 3 unisex
 - Calcetines versátiles
-- Contiene tela reciclada
 - Algodón suave
 - Costura de los dedos plana para evitar la irritación
 

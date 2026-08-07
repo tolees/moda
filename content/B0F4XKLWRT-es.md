@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseño con capucha y cierre de cordón
 - Gráfico del logotipo bordado en la parte delantera
+- Diseño con capucha y cierre de cordón
 - Manga larga y puños acanalados
 
 [🛒 Comprar!!!]({{< param buyurl >}})

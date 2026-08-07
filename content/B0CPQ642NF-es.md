@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cinta adhesiva única
 - Calzado fácil de poner
+- Cinta adhesiva única
 - Correas internas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

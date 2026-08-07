@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pantalones anchos de franela de viscosa, bolsillos laterales franceses, bolsillo ribeteado detrás del lado derecho, planchado con pliegue central. Apertura frontal con cremallera y botón.
 - 66 % poliéster, 28 % viscosa, 6 % elastano
+- Pantalones anchos de franela de viscosa, bolsillos laterales franceses, bolsillo ribeteado detrás del lado derecho, planchado con pliegue central. Apertura frontal con cremallera y botón.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FD44QRNB{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Correa sintética acolchada
 - Marca PUMA
+- Correa sintética acolchada
 - Suela exterior CMEVA moldeada para agarre y durabilidad.
 - CMEVA: material EVA moldeado por compresión de PUMA para un rendimiento liviano
 

@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Tipo de deporte: Ropa deportiva atlética
 - 3 pair pack
-- Nike es un nombre de marca reconocido
-- Soft fabric
 - Ribbed hems
+- Soft fabric
+- Nike es un nombre de marca reconocido
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00SABYHRI{{</world>}}

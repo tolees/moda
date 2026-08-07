@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Combina montura translúcida bicolor en azul y rosa con lentes degradadas de azul a rosa
 - Material de la montura: TR90; Color de la montura: Azul, Rosa; Color de la varilla: Azul, Rosa
+- Combina montura translúcida bicolor en azul y rosa con lentes degradadas de azul a rosa
 - Modelo Femenino; Medidas: Frontal 139 mm, Varillas 145 mm, Puente 16 mm, Alto 42;3 mm
-- Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes de TR18 con el sello de Eastman, gran calidad óptica y resistencia; respetuoso con el medio ambiente; protección 100% UV; Color de la lente: Azul, Rosa; Apariencia de la lente: Gradiente
 - Producto original Hawkers; la caja incluye funda en microfibra y caja
+- Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes de TR18 con el sello de Eastman, gran calidad óptica y resistencia; respetuoso con el medio ambiente; protección 100% UV; Color de la lente: Azul, Rosa; Apariencia de la lente: Gradiente
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D2J19CQL{{</world>}}

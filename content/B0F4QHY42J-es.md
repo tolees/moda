@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - DISEÑO PREMIUM: El estilo sencillo de este top es la base de cualquier conjunto. Esta moderna camiseta también es perfecta como regalo.
-- CALIDAD DEMOSTRADA: Desde 1985, esta marca de diseñador lleva demostrando por todo el mundo la calidad y la ligereza mediante una gran variedad de diseños en los míticos colores azul oscuro, blanco y rojo.
 - MATERIAL DE ALTA CALIDAD: La camiseta versátil está confeccionada en algodón 100 %.
+- CALIDAD DEMOSTRADA: Desde 1985, esta marca de diseñador lleva demostrando por todo el mundo la calidad y la ligereza mediante una gran variedad de diseños en los míticos colores azul oscuro, blanco y rojo.
 - SENCILLO E INFORMAL: La camiseta básica con escote redondo destaca por su agradable algodón y es perfecta para looks más informales. Los detalles distintivos de Tommy Hilfiger completan el look de la prenda.
 - AJUSTE PERFECTO: Esta camiseta de manga corta de algodón suave tiene un diseño informal y favorece tu figura.
 

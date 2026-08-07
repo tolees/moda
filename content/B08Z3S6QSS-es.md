@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Ropa de abrigo
 - Adecuado para climas fríos
 - Tiene detalles distintivos de la marca "JOMA"
-- Ropa de abrigo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08Z3S6QSS{{</world>}}

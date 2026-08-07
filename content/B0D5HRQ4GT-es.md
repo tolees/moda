@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Piernas más ajustadas
 - Corte personalizado
+- Piernas más ajustadas
 - Lo suficientemente elástico como para mantenerse cómodo todo el día
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- El ajuste estándar garantiza una silueta relajada pero pulida, complementada con un clásico cuello redondo
 - Esta camiseta de manga corta es esencial para el armario que combina comodidad y estilo sin esfuerzo; hecha de nuestro tejido de punto central, ofrece una sensación transpirable y suave, óptima para llevar todo el día
 - Ideal para usar en capas o solo, cuenta con nuestro logotipo gráfico de temporada en el lado izquierdo del pecho, añadiendo un toque sutil y moderno
-- El ajuste estándar garantiza una silueta relajada pero pulida, complementada con un clásico cuello redondo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DTJ9P5TR{{</world>}}

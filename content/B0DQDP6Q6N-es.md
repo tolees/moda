@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 100 % algodón
 - Camiseta con logotipo impreso en el pecho
 - Algodón de manga corta de ajuste regular
-- 100 % algodón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DQDP6Q6N{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Monograma frontal minimalista
 - Tejido suave al tacto con un toque ligero
 - Una línea esencial adecuada para looks sencillos
+- Monograma frontal minimalista
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F4NTKBDM{{</world>}}

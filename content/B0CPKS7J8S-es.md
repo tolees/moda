@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ya sabes, es My Scene. Las muñecas My Scene han vuelto para rendir homenaje con estilo a las chicas de moda que era capaces de convertir cada lugar al que iban en la escena más fabulosa posible.
-- Dos moños altos y unos rizos voluminosos enmarcan la forma original de su rostro. La muñeca Madison My Scene viene en un embalaje desechable superadorable, por lo que no podría ser más fabulosa.
 - ¡Reúne al grupo de amigas! Las muñecas Madison, Barbie y Chelsea son un trío icónico, por lo que se convertirán en imprescindibles tanto para los fans de My Scene como para los coleccionistas de muñecas Barbie.
+- Dos moños altos y unos rizos voluminosos enmarcan la forma original de su rostro. La muñeca Madison My Scene viene en un embalaje desechable superadorable, por lo que no podría ser más fabulosa.
 - Completa su look con otros detalles en azul gélido, joyas plateadas, un bolso de mano de tela vaquera y unos zapatos de plataforma ancha que solo una experta en moda como ella podría elegir.
+- Ya sabes, es My Scene. Las muñecas My Scene han vuelto para rendir homenaje con estilo a las chicas de moda que era capaces de convertir cada lugar al que iban en la escena más fabulosa posible.
 - La muñeca Madison de la línea My Scene representa la moda de los 2000 con un conjunto vaquero inspirado en el look debut de su personaje. Lleva un top corto con mariposas de color azul claro que combina con una camiseta de malla brillante y unos pantalones cargo.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

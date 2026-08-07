@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello de la pluma
 - Quiksilver woven label at sleeve.
 - Tejido de algodón reciclado
+- Cuello de la pluma
 - Impresión de pantalla en chest
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

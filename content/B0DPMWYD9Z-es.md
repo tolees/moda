@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Camisa Oxford de algodón orgánico, unido y fantasía, cuello abotonado. Botones de nácar de imitación Fit Regular.
 - Material: 100% algodón
+- Camisa Oxford de algodón orgánico, unido y fantasía, cuello abotonado. Botones de nácar de imitación Fit Regular.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DPMWYD9Z{{</world>}}

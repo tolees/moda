@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Cierre: cordones
 - Grado de resistencia al agua: no impermeable
-- Fácil de combinar
-- Artículo de la marca Geox
 - Tipo de tacón: plano
+- Artículo de la marca Geox
+- Fácil de combinar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D6NNVX51{{</world>}}

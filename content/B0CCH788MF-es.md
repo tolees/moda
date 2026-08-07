@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Color: Negro": "Este modelo está disponible en negro para un aspecto elegante y sobrio
-- Parte superior de gamuza": "La parte superior de gamuza ofrece una comodidad óptima y un estilo chic
+- Suela de crepé de guijarros": "La suela de crepé de guijarros garantiza un excelente agarre y un aspecto retro-fresco
 - Plantilla de cuero": "La plantilla de cuero proporciona la máxima comodidad para un día cómodo de caminar
 - Cierre con cordones": "El cierre con cordones permite un ajuste personalizado para una comodidad óptima
-- Suela de crepé de guijarros": "La suela de crepé de guijarros garantiza un excelente agarre y un aspecto retro-fresco
+- Parte superior de gamuza": "La parte superior de gamuza ofrece una comodidad óptima y un estilo chic
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CCH788MF{{</world>}}

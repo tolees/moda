@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Material de la montura: TR90; Color de la montura: Negro; Color de la varilla: Negro
-- Nuestro diseño Warwick, con sus lentes redondeadas, puente de ojo de cerradura y varillas delgadas, es uno de nuestros iconos; este modelo, de la colección Made in Spain, es el fondo de armario óptimo; disponible en varios colores de lentes y montura
-- Modelo Unisex; Medidas: Frontal 142 mm, Varillas 140 mm, Puente 20 mm, Alto 51;7 mm
 - Producto original Hawkers; la caja incluye funda en microfibra y caja
+- Modelo Unisex; Medidas: Frontal 142 mm, Varillas 140 mm, Puente 20 mm, Alto 51;7 mm
+- Nuestro diseño Warwick, con sus lentes redondeadas, puente de ojo de cerradura y varillas delgadas, es uno de nuestros iconos; este modelo, de la colección Made in Spain, es el fondo de armario óptimo; disponible en varios colores de lentes y montura
 - Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes de TR18 con el sello de Eastman, gran calidad óptica y resistencia; respetuoso con el medio ambiente; protección 100% UV; Color de la lente: Negro; Apariencia de la lente: Sólida
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

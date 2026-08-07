@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Una marca de Amazon
-- Corte holgado que ofrece una silueta relajada menos estructurada
 - Diseñado con un corte bajo y un silueta sugerente que favorece tus curvas
+- Corte holgado que ofrece una silueta relajada menos estructurada
+- Una marca de Amazon
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08X2F1XCK{{</world>}}

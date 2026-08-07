@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- PROTECCIÓN FLEXIBLE: Guantes finos unisex con tecnología GORE-TEX INFINIUM para condiciones climáticas más frescas. Ofrecen propiedades cortavientos, alta resistencia al agua y transpirabilidad extrema con la máxima libertad de movimiento.
-- CONSTRUCCIÓN INNOVADORA: Manejo de pantalla táctil para un uso sin restricciones de tus dispositivos. Elasticidad en 4 direcciones para una máxima libertad de movimiento. Construcción 3D ergonómicamente preformada. Menos costuras y menos peso. Puños ceñidos.
 - PROTEGIDO Y FLEXIBLE: Disfruta de una protección fiable contra el viento y la humedad ligera con total destreza en los dedos. El material elástico en 4 direcciones permite un manejo preciso y movimientos naturales.
+- CONSTRUCCIÓN INNOVADORA: Manejo de pantalla táctil para un uso sin restricciones de tus dispositivos. Elasticidad en 4 direcciones para una máxima libertad de movimiento. Construcción 3D ergonómicamente preformada. Menos costuras y menos peso. Puños ceñidos.
+- PROTECCIÓN FLEXIBLE: Guantes finos unisex con tecnología GORE-TEX INFINIUM para condiciones climáticas más frescas. Ofrecen propiedades cortavientos, alta resistencia al agua y transpirabilidad extrema con la máxima libertad de movimiento.
 - ¿QUÉ INCLUYE LA CAJA? 1 par de guantes elásticos unisex GOREWEAR M GORE-TEX INFINIUM, Color: Amarillo, Talla: 10, Art. 100410
 - VERSATILIDAD: Perfectos para ciclismo, running o senderismo en condiciones frescas, cuando se necesita tanto protección como destreza en los dedos.
 

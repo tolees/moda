@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Adecuados para deportes o para uso diario
 - Tienen un material transpirable y elástico
-- Tienen impreso logotipo de Puma
 - Cómodos de llevar
+- Adecuados para deportes o para uso diario
+- Tienen impreso logotipo de Puma
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B014QWJQ9I{{</world>}}

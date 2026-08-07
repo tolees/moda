@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Calzado ligero
 - Rápido y fácil de poner
+- Calzado ligero
 - Cierre de encaje y cremallera
 
 [🛒 Visítala!!!]({{< param buyurl >}})

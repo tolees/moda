@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Chaqueta Ligera Puffa Funnel Resistente Al Agua
 - Chaqueta Ligera
+- Chaqueta Ligera Puffa Funnel Resistente Al Agua
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FCN1KSCP{{</world>}}

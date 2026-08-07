@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pants
 - Pantalones de mezclilla
+- Pants
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DPG9HZNJ{{</world>}}

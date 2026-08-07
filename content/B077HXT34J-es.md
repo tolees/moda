@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Detalles plisados en las mangas
-- Chaqueta de corte regular
-- Blazer para mujer de la marca danesa PIECES
 - Manga de 3/4
-- Composición: 79% poliéster, 16% viscosa, 5% elastano, forro: 100% poliéster
+- Chaqueta de corte regular
 - Con un tejido ligero
+- Composición: 79% poliéster, 16% viscosa, 5% elastano, forro: 100% poliéster
+- Detalles plisados en las mangas
+- Blazer para mujer de la marca danesa PIECES
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B077HXT34J{{</world>}}

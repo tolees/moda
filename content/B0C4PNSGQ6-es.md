@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- PUMA logotipo para reconocimiento de marca
 - Ajuste cómodo para actividades atléticas
+- PUMA logotipo para reconocimiento de marca
 - Diseño de cuello en V para un aspecto clásico
 - Jersey adecuado para uso en días de partido
 

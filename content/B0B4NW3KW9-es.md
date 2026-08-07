@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Entresuela de doble densidad para mayor comodidad y apoyo
-- Puente de doble capa
 - Cinta de lona de algodón con lavado y bordes deshilachados
 - Apoyo anatómicamente correcto del arco del pie
+- Puente de doble capa
 - Correas forradas de poliéster suave
 
 [🛒 Comprar!!!]({{< param buyurl >}})

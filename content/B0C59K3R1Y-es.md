@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- DETALLE 2: Cinta para el cuello "Remove Before Flight"
-- Sudadera para hombre
-- DETALLE 1: Logotipo pequeño en el pecho
 - FIT: Regular Fit
+- DETALLE 1: Logotipo pequeño en el pecho
+- Sudadera para hombre
+- DETALLE 2: Cinta para el cuello "Remove Before Flight"
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C59K3R1Y{{</world>}}

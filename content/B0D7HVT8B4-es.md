@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - ESTILO: Este top de corte moderno y diseño minimalista favorece la figura y puede combinarse con todo.
-- MODA URBANA REINTERPRETADA: Para acercar las populares prendas de los 90 a las nuevas generaciones, Tommy Jeans se inspira en los iconos del hip-hop de aquella época. Apostando por prendas de alta calidad y diseños modernos con mucho denim.
 - MATERIAL Y CUIDADO: Top de tirantes confeccionado en 95 % algodón regenerativo y 5 % elastano. Se puede lavar a máquina.
+- MODA URBANA REINTERPRETADA: Para acercar las populares prendas de los 90 a las nuevas generaciones, Tommy Jeans se inspira en los iconos del hip-hop de aquella época. Apostando por prendas de alta calidad y diseños modernos con mucho denim.
 - PARA CUALQUIER OCASIÓN: Esta prenda minimalista sienta superbién y convence por su gran comodidad. Ya sea con vaqueros, shorts o pantalones elegantes, combina a la perfección con cualquier look ya sea informal o de oficina.
 - AJUSTE PERFECTO: El diseño atemporal de este top minimalista destaca por su escote redondo. El tejido de alta calidad garantiza que se adapte perfectamente y a tu figura y convierte a esta camiseta en una prenda esencial en tu armario.
 

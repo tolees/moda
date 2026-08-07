@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Secado rápido – El sistema de distribución de la humedad de esta camisa transpirable elimina el sudor del cuerpo, manteniéndolo fresco y seco
 - Material y forma – Polo para hombres Under Armour Tech, polo de manga corta transpirable y ultraligero, forma – ancha, material – 100% de poliéster
 - Ligera y transpirable – Esta camiseta polo es ideal para jugar al golf;Es muy ligera y garantiza el máximo nivel de transpirabilidad
-- Camisa ultraligera – Esta camisa polo masculina de manga corta está hecha de material ultraligero y ofrece comodidad absoluta con su corte suelto
+- Secado rápido – El sistema de distribución de la humedad de esta camisa transpirable elimina el sudor del cuerpo, manteniéndolo fresco y seco
 - Camisa polo cómoda – Esta prenda de ropa deportiva masculina tiene un corte ancho para una mayor libertad de movimiento y resulta muy cómoda
+- Camisa ultraligera – Esta camisa polo masculina de manga corta está hecha de material ultraligero y ofrece comodidad absoluta con su corte suelto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01GH5KPU6{{</world>}}

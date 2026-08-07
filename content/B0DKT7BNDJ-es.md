@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Vaqueros de corte recto
 - Corte recto
 - Composición: 91% algodón, 5% poliéster, 4% elastano
+- Vaqueros de corte recto
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DKT7BNDJ{{</world>}}

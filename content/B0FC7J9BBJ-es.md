@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bolsillos con cremallera.
-- Ribete en capucha y dobladillo.
 - Dobladillo ajustable con cordón.
-- Híbrido para elasticidad y transpirabilidad.
+- Bolsillos con cremallera.
 - Repelencia avanzada Omni-Shield.
 - Aislamiento Thermarator 100% poliéster reciclado.
+- Híbrido para elasticidad y transpirabilidad.
+- Ribete en capucha y dobladillo.
 - Protector de barbilla.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

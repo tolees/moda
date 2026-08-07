@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Un juego clásico para 2 jugadores donde cada uno elige una carta de personaje y hace preguntas de sí o no para adivinar el personaje misterioso del oponente antes de que él adivine el tuyo.
-- Quién Es Quién Español es perfecto para todos, a partir de 6 años, incluyendo niños, adultos y fans de Paw Patrol. Ideal para jugar en casi cualquier lugar.
-- Contenido: 2 bandejas de juego, 4 soportes (2 para cada bandeja), 4 selectores de personajes, 2 deslizadores de puntuación, 2 hojas de personajes con 24 tarjetas pequeñas de personajes, 24 tarjetas de personajes, 1 hoja de instrucciones.
 - Ideal para regalo niña 6 años o niño 6 años, perfecto para los fans de Paw Patrol. Un regalo divertido y educativo.
 - Únete a los valientes cachorros de Paw Patrol, donde los jugadores deben encontrar a sus héroes favoritos como Chase y Marshall en este emocionante juego de quién es quien.
+- Contenido: 2 bandejas de juego, 4 soportes (2 para cada bandeja), 4 selectores de personajes, 2 deslizadores de puntuación, 2 hojas de personajes con 24 tarjetas pequeñas de personajes, 24 tarjetas de personajes, 1 hoja de instrucciones.
+- Quién Es Quién Español es perfecto para todos, a partir de 6 años, incluyendo niños, adultos y fans de Paw Patrol. Ideal para jugar en casi cualquier lugar.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CL4TZHGR{{</world>}}

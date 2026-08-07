@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ACCESORÍZATE COMO JANIS: Zapatillas, calcetines de rayas, pajarita, corona, cuaderno de dibujo, barra Kalteen, pinzas para el pelo, pendientes y tarro de crema para los pies
-- EMBALAJE ICÓNICO: Una caja inspirada en el anuario de North Shore High, con soporte para la muñeca, cepillo para el pelo, hoja de pegatinas y certificado
-- DOBLE ESTILO ATREVIDOI: Janis lleva un esmoquin púrpura del Spring Fling, además de su chaqueta oversize con falda para un segundo conjunto audaz
 - GLAM AL MÁXIMO: Maquillaje grunge como en la película con elegantes accesorios
-- PRESENTACIÓN DE BRATZ x MEAN GIRLS SPRING FLING: Sube al escenario del gimnasio de North Shore High con Janis en sus conjuntos de Spring Fling inspirados en la película
+- EMBALAJE ICÓNICO: Una caja inspirada en el anuario de North Shore High, con soporte para la muñeca, cepillo para el pelo, hoja de pegatinas y certificado
+- ACCESORÍZATE COMO JANIS: Zapatillas, calcetines de rayas, pajarita, corona, cuaderno de dibujo, barra Kalteen, pinzas para el pelo, pendientes y tarro de crema para los pies
+- DOBLE ESTILO ATREVIDOI: Janis lleva un esmoquin púrpura del Spring Fling, además de su chaqueta oversize con falda para un segundo conjunto audaz
 - QUÉ INCLUYE: Muñeca Janis, 2 chaquetas, 2 tops, falda, pantalón, calcetines, zapatos, pieza de corona, cuaderno, barra Kalteen, pinzas para el pelo, pendientes, tarro de crema para los pies, cepillo, hoja de pegatinas, soporte para la muñeca, certificado
+- PRESENTACIÓN DE BRATZ x MEAN GIRLS SPRING FLING: Sube al escenario del gimnasio de North Shore High con Janis en sus conjuntos de Spring Fling inspirados en la película
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DXGPHGGG{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Exterior: 60% poliéster (reciclado), 40% polipropileno
-- Artículos entregados: 1x Helly Hansen Hombre Camiseta HH Lifa Active Solen,L,Blanco
 - Hemos diseñado esta camiseta para ofrecerte protección solar y comodidad en los días calurosos; es óptimo para cualquier aventura con larga exposición al sol, como la navegación, el esquí de primavera, el senderismo y mucho más; como parte de nuestra colección Solen, combina dos tecnologías; el proceso S.Café impregna el tejido de la camiseta con posos de café usados, proporcionándole una protección solar UPF 50+ sin utilizar productos químicos; también es de secado rápido, resistente a los olores y duradero; nuestra tecnología LIFA ACTIVE es buena para la evacuación de la humedad, alejándola de la piel para que te mantengas seco; este producto contiene materiales reciclados
+- Artículos entregados: 1x Helly Hansen Hombre Camiseta HH Lifa Active Solen,L,Blanco
+- Exterior: 60% poliéster (reciclado), 40% polipropileno
 - Aventúrate bajo el sol con protección solar UPF 50+ y tecnología LIFA ACTIVE ligera y transpirable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

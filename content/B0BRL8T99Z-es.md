@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Puños acanalados en cuello, dobladillo y puños
 - Corte normal
 - Rayas de contraste en el interior del cuello acanalado
-- Puños acanalados en cuello, dobladillo y puños
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BRL8T99Z{{</world>}}

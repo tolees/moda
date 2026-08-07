@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Calvin klein Hebilla con logotipo de monograma
 - Cuero granulado de grano completo
+- Calvin klein Hebilla con logotipo de monograma
 - Textura granulada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

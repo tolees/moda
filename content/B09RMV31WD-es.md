@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cotton
 - Outer material: cotton
+- Cotton
 - Fit: regular
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

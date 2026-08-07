@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- DISEÑO MODERNO: con capucha, mangas insertadas y práctico bolsillo canguro.
-- Sudadera con capucha para hombre de la marca danesa Jack & Jones.
 - MATERIAL SOSTENIBLE: fabricado con al menos un 50 % de algodón orgánico, ecológico y respetuoso con los recursos.
+- Sudadera con capucha para hombre de la marca danesa Jack & Jones.
+- DISEÑO MODERNO: con capucha, mangas insertadas y práctico bolsillo canguro.
 - CÓMODO AJUSTE: corte holgado para una comodidad óptima en el día a día.
 - Fácil de limpiar y versátil: ideal para el ocio, la escuela o la oficina en casa, un auténtico básico para cualquier armario.
 

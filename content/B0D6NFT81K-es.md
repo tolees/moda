@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Transpirable
-- Rápido y fácil de poner
 - Plantilla extraíble
+- Rápido y fácil de poner
+- Transpirable
 - Cierre con cordones y cremallera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

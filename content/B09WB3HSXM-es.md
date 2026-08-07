@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bolsillos ribeteados con botones de presión, bolsillo interior
 - Corte regular
+- Bolsillos ribeteados con botones de presión, bolsillo interior
 - Resistente al agua
 
 [🛒 Aquí!!!]({{< param buyurl >}})

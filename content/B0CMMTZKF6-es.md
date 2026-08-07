@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aislamiento de 100 g
 - EVA moldeada
 - EVA moldeada con cubierta superior de microforro polar
-- Disponible en una parte superior de gamuza impermeable (CW 010,253, 327), o cuero metálico impermeable (CW 034). Superposiciones sintéticas recubiertas de poliuretano. Forro de microfibra. Cremallera medial. Construcción de botín impermeable. Los cordones no son impermeables.
+- Aislamiento de 100 g
 - Cápsulas de goma DUOTREAD moldeadas en zonas de tracción clave. Perímetro EVA de contacto con el suelo.
+- Disponible en una parte superior de gamuza impermeable (CW 010,253, 327), o cuero metálico impermeable (CW 034). Superposiciones sintéticas recubiertas de poliuretano. Forro de microfibra. Cremallera medial. Construcción de botín impermeable. Los cordones no son impermeables.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CMMTZKF6{{</world>}}

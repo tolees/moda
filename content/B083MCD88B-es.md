@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Té negro con rayas blancas
-- Visita la tienda Urban Classics: un clic en el enlace conduce a la tienda de la marca Urban Classics y aún más elegante ropa de calle para hombre y mujer
 - Si quieres que sea un poco más que un solo color
+- Visita la tienda Urban Classics: un clic en el enlace conduce a la tienda de la marca Urban Classics y aún más elegante ropa de calle para hombre y mujer
+- Té negro con rayas blancas
 - Corte regular
 
 [🛒 Aquí!!!]({{< param buyurl >}})

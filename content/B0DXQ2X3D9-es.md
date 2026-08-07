@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tres paquetes de calcetines de longitud corta
 - El paquete consiste en calcetines de color negro
+- Tres paquetes de calcetines de longitud corta
 - Embellished with ikon artwork at the back
 
 [🛒 Comprar!!!]({{< param buyurl >}})

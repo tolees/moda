@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Plantilla moldeada y cómoda que ofrece una amortiguación duradera
 - Suela ligera de EVA que absorbe los impactos
+- Plantilla moldeada y cómoda que ofrece una amortiguación duradera
 - Los cordones dan un aspecto clásico y un pie personalizado
 - Parte superior de gamuza de alta calidad
 

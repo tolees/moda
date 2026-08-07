@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Capucha ajustable
 - Cierre con cremallera
+- Capucha ajustable
 - Bolsillos para artículos esenciales
 
 [🛒 Comprar!!!]({{< param buyurl >}})

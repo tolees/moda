@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Puños acanalados
-- Manga larga
 - Chaqueta bomber para hombre de la marca danesa JACK & JONES
+- Manga larga
+- Puños acanalados
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F445DD4L{{</world>}}

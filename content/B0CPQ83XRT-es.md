@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Fabricado con materiales sostenibles
 - Suela suave para un movimiento suave
-- Adecuado para: todas las estaciones
 - Tenis de la marca Geox
+- Adecuado para: todas las estaciones
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CPQ83XRT{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajuste cómodo que ofrece flexibilidad
 - Diseño ligero y flexible
+- Ajuste cómodo que ofrece flexibilidad
 - Tiene detalles distintivos de la marca
 - Material resistente y duradero
 

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con un patrón gráfico en la parte posterior
 - Cintura con cordón y bolsillos laterales
+- Con un patrón gráfico en la parte posterior
 - Fabricado con materiales duraderos y de calidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})

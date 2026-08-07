@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- TEJIDO DE ALGODÓN MODAL: Este tejido supersuave de punto elástico de algodón modal con elasticidad añadida ofrece comodidad y confort durante todo el día, a la vez que mantiene su forma para que la prenda te quede perfectamente entallada. El tejido que no querrás quitarte en todo el año.
-- CORTE CEÑIDO: ajuste ceñido que se pega al cuerpo.
-- DETALLES: Presenta cuello redondo, tirantes finos y costuras dobles para mayor durabilidad.
 - CAMISETA BÁSICA DE TIRANTES: Esta versátil camiseta de tirantes es un básico de armario imprescindible, perfecta para llevarla debajo de tu sudadera con capucha o rebeca favorita, o sola con unos vaqueros o unos pantalones cortos de lino para conseguir un look sencillo para el día a día. Su corte ajustado hace que quede entallada y sea muy favorecedora.
+- DETALLES: Presenta cuello redondo, tirantes finos y costuras dobles para mayor durabilidad.
+- CORTE CEÑIDO: ajuste ceñido que se pega al cuerpo.
+- TEJIDO DE ALGODÓN MODAL: Este tejido supersuave de punto elástico de algodón modal con elasticidad añadida ofrece comodidad y confort durante todo el día, a la vez que mantiene su forma para que la prenda te quede perfectamente entallada. El tejido que no querrás quitarte en todo el año.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09HCMYF7J{{</world>}}

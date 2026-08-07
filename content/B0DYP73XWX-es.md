@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Un bolso shopper que va más allá del estilo
 - Combina un estampado geométrico con una estructura ligera, resistente y con un interior amplio
-- ¿Eres de las que sale de casa lista para todo? Entonces Metri de Misako es para ti
 - Un shopper pensado para acompañarte en días con mil planes y darte ese extra de espacio que siempre viene bien
+- ¿Eres de las que sale de casa lista para todo? Entonces Metri de Misako es para ti
 - ¿Su detalle más práctico? Una bolsa adicional que puedes colocar o retirar según lo necesites, perfecta como organizador o incluso como neceser
 
 [🛒 Aquí!!!]({{< param buyurl >}})

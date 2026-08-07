@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Pantalón skinny con cinturilla regulada mediante cordón a tono y bajos ajustados con goma
-- Top liso con escote redondo con canalé y pequeño detalle triangular, bordado de “Mickey Mouse” en centro delantero, hombro caído y ceñido en cintura y puños con pieza del mismo género
 - Ideal para dormir o estar en casa muy cómoda
+- Top liso con escote redondo con canalé y pequeño detalle triangular, bordado de “Mickey Mouse” en centro delantero, hombro caído y ceñido en cintura y puños con pieza del mismo género
 - Pijama largo en tejido de algodón
 
 [🛒 Aquí!!!]({{< param buyurl >}})

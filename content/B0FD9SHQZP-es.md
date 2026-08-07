@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Chino slim de terciopelo 1000 rayas teñidas en prenda. Bolsillos ribeteados detrás.
 - 98 % algodón, 2 % elastano
+- Chino slim de terciopelo 1000 rayas teñidas en prenda. Bolsillos ribeteados detrás.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FD9SHQZP{{</world>}}

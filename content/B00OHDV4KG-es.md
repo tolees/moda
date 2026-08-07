@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cuentan con logotipo
-- Diseño moderno y colorido
-- Adecuadas para entrenamiento
 - Durabilidad y comodidad
+- Adecuadas para entrenamiento
+- Diseño moderno y colorido
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00OHDV4KG{{</world>}}

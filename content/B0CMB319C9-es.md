@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Helly Hansen Hombres Sudadera con Capucha Nord Graphic Pull-On Ebenholz 2.0 M'
-date: 2026-08-05 01:01:44
+date: 2026-08-06 20:02:18
 image: 'https://m.media-amazon.com/images/I/31KlKthld+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CMB319C9/?tag=tolees-21'
 descuento: '60.06'
-average: '38.65'
+average: '37.0833333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

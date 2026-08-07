@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Plantillas de espuma
 - Sandalia de plataforma
+- Plantillas de espuma
 - Correas suaves y flexibles
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CREMA HIDRATANTE, 100 ml. Crema hidratante para bebés y recién nacidos. Hidrata en profundidad, cuida y calma su piel. Crema de textura ligera y fácil absorción, ideal para usar después del baño. Uso diario
-- APTO PARA PIELES SENSIBLES. Los productos de cosmética se pueden utilizar desde el primer día y son aptos para pieles sensibles. Están testados dermatológica y pediátricamente, también oftalmológicamente en el casos de champús y geles
 - BABY COLOGNE MEMORIES, 50 ml. Colonia para bebés baja en alcohol, que no mancha la ropa. En formato viaje. Te encantará su aroma, con notas de jazmín, azahar, madera de cedro blanco, madera de cahsmere, musk, almizcle y ambar
-- PARA REGALAR. Incluye todos los imprescindibles para el cuidado y aseo del bebé en un formato ideal para llevar de paseo, de viaje o a la escuela infantil
-- GEL ESPUMOSO, 300 ml. Limpia de forma delicada piel y cabello, no pica en los ojos. Para un baño espumoso que estimula los sentidos. Textura ligera sin colorante, sin jabón. Complejo exclusivo Avena BIO + Prebiótico
-- BOLSO PANERA. Bolso tipo mini bag para el carro o la sillita de paseo del bebé. Tamaño compacto que permite llevar lo esencial. Incluye: Gel Baño Espumoso 300 ml + Champú Extra Suave 100 ml + Leche Hidratante Corporal 100 ml + Baby Cologne Memories 50 ml + Toallitas Aqua 60 uds. El bolso tiene cierre de cremallera y dos bolsillos delanteros. Se puede colgar del manillar del carrito gracias a sus dos asas con botones. También puede colgarse de la cuna
-- TOALLITAS 99% AGUA. Pack 60 toallitas aqua care, con 0% alcohol y sin perfume. Aptas para pieles ultrasensibles y con tendencia atópica. Toallitas con 100% fibra vegetal. Limpian de forma suave culito, manos y cara del bebé
 - CHAMPÚ EXTRA SUAVE, 100 ml. Lava y desenreda el cabello dejándolo suave y brillante, no pica en los ojos. Fórmula sin jabón. Con tensioactivos suaves y sutil aroma a bebé
+- GEL ESPUMOSO, 300 ml. Limpia de forma delicada piel y cabello, no pica en los ojos. Para un baño espumoso que estimula los sentidos. Textura ligera sin colorante, sin jabón. Complejo exclusivo Avena BIO + Prebiótico
+- APTO PARA PIELES SENSIBLES. Los productos de cosmética se pueden utilizar desde el primer día y son aptos para pieles sensibles. Están testados dermatológica y pediátricamente, también oftalmológicamente en el casos de champús y geles
+- CREMA HIDRATANTE, 100 ml. Crema hidratante para bebés y recién nacidos. Hidrata en profundidad, cuida y calma su piel. Crema de textura ligera y fácil absorción, ideal para usar después del baño. Uso diario
+- BOLSO PANERA. Bolso tipo mini bag para el carro o la sillita de paseo del bebé. Tamaño compacto que permite llevar lo esencial. Incluye: Gel Baño Espumoso 300 ml + Champú Extra Suave 100 ml + Leche Hidratante Corporal 100 ml + Baby Cologne Memories 50 ml + Toallitas Aqua 60 uds. El bolso tiene cierre de cremallera y dos bolsillos delanteros. Se puede colgar del manillar del carrito gracias a sus dos asas con botones. También puede colgarse de la cuna
+- PARA REGALAR. Incluye todos los imprescindibles para el cuidado y aseo del bebé en un formato ideal para llevar de paseo, de viaje o a la escuela infantil
+- TOALLITAS 99% AGUA. Pack 60 toallitas aqua care, con 0% alcohol y sin perfume. Aptas para pieles ultrasensibles y con tendencia atópica. Toallitas con 100% fibra vegetal. Limpian de forma suave culito, manos y cara del bebé
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0G2RVJ9TZ{{</world>}}

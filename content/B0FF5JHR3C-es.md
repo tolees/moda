@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- LONGITUD DE LA PRENDA: 72,4cm desde el lado del cuello en la talla M de España
-- CAMISA VAQUERA MODERNA: modernización esencial de un clásico versátil reinventado con un corte más holgado, para llevar sola o sobre una camiseta
-- MEZCLILLA CAMBRAY: algodón ligero y transpirable para mayor comodidad y durabilidad
 - CORTE EXTRAGRANDE: corte cómodo y amplio en los hombros, el pecho y la cintura
+- CAMISA VAQUERA MODERNA: modernización esencial de un clásico versátil reinventado con un corte más holgado, para llevar sola o sobre una camiseta
+- LONGITUD DE LA PRENDA: 72,4cm desde el lado del cuello en la talla M de España
 - DETALLES: cuello abierto, bolsillo en el pecho, cierre frontal con botones, manga larga, pliegue trasero en el canesú, tapeta en las mangas
+- MEZCLILLA CAMBRAY: algodón ligero y transpirable para mayor comodidad y durabilidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FF5JHR3C{{</world>}}

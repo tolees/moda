@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Nueva colección de Kappa para la temporada primavera/verano 2024.
 - Lavar a máquina con colores similares a 30º máximo sin usar lejía. Se puede meter en la lavadora sin miedo a que se deforme o encoja.
+- Nueva colección de Kappa para la temporada primavera/verano 2024.
 - Cintura elástica con cordón de ajuste para mayor confort. Incluye bolsillos y cremalleras en la zona inferior de cada pierna para mejorar su ajuste. Cierre: Pull on.
 - Pantalón de chándal largo, slim fit. KRISMANO tiene corte controlado, ofreciendo comodidad y libertad de movimiento. El icónico logotipo de Kappa se encuentra bordado en el lateral dando un diseño elegante con el mismo color del pantalón, dando un look mixto.
 - El pantalón largo KRISMANO es de punto polidiamante 100% poliéster y está forrado en punto de algodón (105mgs). Su diseño otorga mayor comodidad al permitir mantenerse fresco y ofrecer movilidad máxima. Este pantalón largo tiene ADN 100% deportivo gracias a los materiales con los que ha sido fabricado.

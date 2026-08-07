@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Punto medio
-- Jersey manga larga con botones
 - Corte recto
 - Botones decorativos en el hombro
+- Cuello alto
+- Punto medio
+- Jersey manga larga con botones
+- Manga larga
 - Detalles con hilos metalizados
 - Punto acanalado
-- Manga larga
-- Cuello alto
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FGDMJSLN{{</world>}}

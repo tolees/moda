@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Lavar a máquina
 - Sudadera Sudadera
 - Sudadera
+- Lavar a máquina
 - material: 60% algodón, 40% poliéster
 - Cierre a presión
 

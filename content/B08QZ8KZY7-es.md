@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Camiseta deportiva
 - camisetas
 - Manga corta
+- Camiseta deportiva
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08QZ8KZY7{{</world>}}

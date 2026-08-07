@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Máxima amortiguación
 - Slip-Ins
 - Plantilla Goga Mat refrigerada por aire
-- Máxima amortiguación
 - Amortiguación ultraligera
 - Tecnología Natural Rocker
 

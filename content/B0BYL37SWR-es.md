@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Ofrece libertad de movimiento
-- Tiene detalles distintivos de la marca
 - Camiseta para mujer
+- Tiene detalles distintivos de la marca
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BYL37SWR{{</world>}}

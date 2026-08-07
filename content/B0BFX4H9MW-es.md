@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Diseño rectangular oversized inspirado en el clásico modelo aviador; gafas de sol total black con montura de acetato negro, lentes polarizadas negras y una sutil placa de metal que conecta con la bisagra
 - Modelo Unisex; Medidas: Frontal 140;9 mm, Varillas 145 mm, Puente 18;5 mm, Alto 44;5 mm
 - Gafas de sol polarizadas: Reduce los reflejos superficiales y la fatiga ocular proporcionando nitidez y contrastes superiores; Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes fabricadas en material bio tac polarizado; protección 100 % UV; Color de la lente: Negro; Apariencia de la lente: Sólida
-- Material de la montura: Acetato; Color de la montura: Negro; Color de la varilla: Negro
 - Producto original Hawkers; la caja incluye funda en microfibra y caja
-- Diseño rectangular oversized inspirado en el clásico modelo aviador; gafas de sol total black con montura de acetato negro, lentes polarizadas negras y una sutil placa de metal que conecta con la bisagra
+- Material de la montura: Acetato; Color de la montura: Negro; Color de la varilla: Negro
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BFX4H9MW{{</world>}}

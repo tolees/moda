@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Descubre todas las marcas de EMP!
 - Básicos, Ropa de Calle, Vestidos de punto
+- Vestido Corto con las siguientes características:
 - Ajuste : Normal
 - Vestido || Ajuste normal || Cuello Redondo || Muy elástico
-- Vestido Corto con las siguientes características:
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01HUNA2O8{{</world>}}

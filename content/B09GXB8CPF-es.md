@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Curva de base 8
-- 100% Protección UV
-- Rectángulo modificado
 - Lentes polarizadas
+- Curva de base 8
 - Full Rim
+- Rectángulo modificado
+- 100% Protección UV
 - Almohadillas nasales de goma
 
 [🛒 Aquí!!!]({{< param buyurl >}})

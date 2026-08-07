@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- __Pockets:__ Side pockets
-- __Other Features:__ Heart embroidery on backside right pocket.
 - __Fabric:__ Flax linen viscose blend fabric [200 g/m2]
+- __Other Features:__ Heart embroidery on backside right pocket.
+- __Pockets:__ Side pockets
 - __Fly/Waist:__ Elasticated waistband
 
 [🛒 Comprar!!!]({{< param buyurl >}})

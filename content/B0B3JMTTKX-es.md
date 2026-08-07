@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Tipo de producto: bufanda tubular
-- Cuello: cuello redondo
 - Longitud de la manga: manga corta
+- Cuello: cuello redondo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B3JMTTKX{{</world>}}

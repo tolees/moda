@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Bolsillo de parche para monedas en la parte delantera y bolsillos de parche en la parte trasera
-- Pantalón delgado de cinco bolsillos con estructura de tela de pana ligera
 - Tinte y lavado reactivo
+- Pantalón delgado de cinco bolsillos con estructura de tela de pana ligera
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DTJKPK79{{</world>}}

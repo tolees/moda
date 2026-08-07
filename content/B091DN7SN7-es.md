@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - ¿QUIERES HACER UN REGALO ESPECIAL? Si estás buscando ideas para regalar a una mujer, este collar es el regalo perfecto para sorprender a esa persona especial, ya sea tu pareja, amiga o mamá. Presentado en una caja redonda de joyería original de TOUS. Ideal para ocasiones especiales como cumpleaños, San Valentín, Día de la Madre y Navidad
-- CERTIFICADO DE AUTENTICIDAD: Todas las joyas de mujer TOUS incluyen el certificado de autenticidad garantiza la genuinidad del producto además del cumplimento de los estándares de certificación y garantía de metales preciosos de ley 925, gemas y otras piedras preciosas..
 - PLATA DE PRIMERA LEY : Este collar está fabricado en plata de primera ley 925 que le brinda brillo a la joya. La plata de primera ley 925 es hipoalergénica y libre de niquel, haciendo que sea una gran opción para las personas con piel sensible.
-- DIMENSIONES: Collar TOUS Nocturne de plata de primera ley con oso y estrella con perla de Ø4 mm. Tamaño del colgante: 1,2 cm. Largo: 45 cm..
+- CERTIFICADO DE AUTENTICIDAD: Todas las joyas de mujer TOUS incluyen el certificado de autenticidad garantiza la genuinidad del producto además del cumplimento de los estándares de certificación y garantía de metales preciosos de ley 925, gemas y otras piedras preciosas..
 - COLECCIÓN NOCTURNE: Luminosa y elegante, la colección Nocturne simboliza la versión nocturna del Paraíso. En ella, utilizamos técnicas de alta joyería para crear piezas de plata..
+- DIMENSIONES: Collar TOUS Nocturne de plata de primera ley con oso y estrella con perla de Ø4 mm. Tamaño del colgante: 1,2 cm. Largo: 45 cm..
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B091DN7SN7{{</world>}}

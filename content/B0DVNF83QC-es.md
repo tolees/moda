@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- LEVIS: Desde 1873, Levis es sinónimo de originalidad, saber hacer y calidad duradera. La marca combina tradición e innovación. Levis Tab puede variar en su diseño: todos los productos con Tab son originales, independientemente de logotipo o color.
-- BÁSICO VERSÁTIL: Ideal para usar todos los días, se puede usar sola o debajo de chaquetas o camisas. Esta camiseta de la colección Dry Goods combina con cualquier look.
-- SLIM FIT: Camiseta de corte entallado que realza la silueta.
-- MEZCLA DE ALGODÓN: Prenda confeccionada en 94 % algodón y 6 % elastano. El material resulta muy agradable al tacto, elástico y es muy cómodo de llevar.
 - ESTILO ATEMPORAL: La camiseta Dry Goods Pointelle Tee para mujer representa el auténtico estilo Levis. Gracias a sus pequeños detalles florales en el cuello redondo y sus mangas cortas combina un diseño atemporal a la vez que versátil y desenfadado.
+- SLIM FIT: Camiseta de corte entallado que realza la silueta.
+- BÁSICO VERSÁTIL: Ideal para usar todos los días, se puede usar sola o debajo de chaquetas o camisas. Esta camiseta de la colección Dry Goods combina con cualquier look.
+- LEVIS: Desde 1873, Levis es sinónimo de originalidad, saber hacer y calidad duradera. La marca combina tradición e innovación. Levis Tab puede variar en su diseño: todos los productos con Tab son originales, independientemente de logotipo o color.
+- MEZCLA DE ALGODÓN: Prenda confeccionada en 94 % algodón y 6 % elastano. El material resulta muy agradable al tacto, elástico y es muy cómodo de llevar.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DVNF83QC{{</world>}}

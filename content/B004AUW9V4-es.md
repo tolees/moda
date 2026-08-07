@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Están hechos de neopreno
-- Fáciles de usar
 - Guantes de entrenamiento de natación
+- Están hechos de neopreno
 - Tienen detalles distintivos de la marca
+- Fáciles de usar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B004AUW9V4{{</world>}}

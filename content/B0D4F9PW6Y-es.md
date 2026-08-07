@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tejido con tratamiento de secado rápido, trabillas para cinturón y lazo de utilidad, cintura interior ajustable, bolsillos de mano para objetos pequeños, orificios de drenaje para aventuras a lo largo del agua.
-- Contenido: 1x Columbia Pantalón Corto Youth Girls Tech Trail Utility, Color: Collegiate Navy (Azul), Talla: XL
 - Pantalones cortos duraderos para niñas, confeccionados en tejido de secado rápido, perfectos para aventuras al aire libre, que proporcionan comodidad y libertad de movimiento.
 - Corte recto para una mayor libertad de movimiento, Exterior: 95% poliéster, 5% elastán
 - Omni-Shield: Una tecnología duradera y de secado rápido que repele el agua y las manchas impidiendo que los líquidos se absorban en los hilos y saturen o manchen tu ropa.
+- Contenido: 1x Columbia Pantalón Corto Youth Girls Tech Trail Utility, Color: Collegiate Navy (Azul), Talla: XL
+- Tejido con tratamiento de secado rápido, trabillas para cinturón y lazo de utilidad, cintura interior ajustable, bolsillos de mano para objetos pequeños, orificios de drenaje para aventuras a lo largo del agua.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D4F9PW6Y{{</world>}}

@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bolsillos : Bolsillo canguro
+- Cuello : Capucha
+- Artículo : Sudadera con capucha
 - Corte : Corte relaxed
 - Manga : Manga larga
-- Artículo : Sudadera con capucha
-- Cuello : Capucha
 - Mangas : Sisa en disminución
+- Bolsillos : Bolsillo canguro
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C7HFKBT8{{</world>}}

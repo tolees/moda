@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Diseño moderno
 - Adecuado para uso diario
 - Con el monograma CK en la parte delantera
-- Diseño moderno
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FDGY9QZN{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- adorno ollados dorados
+- Plantilla acolchada
 - Altura tacón: 4cm
 - Material : piel
-- Plantilla acolchada
-- adorno ollados dorados
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DTTXLMB3{{</world>}}

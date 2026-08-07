@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Nota Considera la talla BR = talla de la UE, independientemente de lo que muestre la suela del producto, la talla BR se ajusta adecuado y corresponde a la talla de la UE + prueba siempre el producto primero
-- CORREA: PVC Material de la suela: Caucho
 - Tipo de suela: cómoda, duradera, ligera, resistente al calor, antideslizante y resistente al agua
-- Color de las chanclas: limonada rosa
 - Género: chanclas unisex para niños
+- CORREA: PVC Material de la suela: Caucho
+- Nota Considera la talla BR = talla de la UE, independientemente de lo que muestre la suela del producto, la talla BR se ajusta adecuado y corresponde a la talla de la UE + prueba siempre el producto primero
+- Color de las chanclas: limonada rosa
 - Tamaño: al comprar sandalias Havaianas en Amazon, debes considerar la talla BR/proveedor como equivalente al tamaño de la UE, independientemente de lo que se muestra en la suela del producto
 
 [🛒 Comprar!!!]({{< param buyurl >}})

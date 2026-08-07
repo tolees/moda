@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Amplia libertad de movimiento
 - Detalles distintivos de la marca
-- Camiseta de manga corta de 100% algodón
 - Tejido ligero y suave
+- Amplia libertad de movimiento
+- Camiseta de manga corta de 100% algodón
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BTMRH2DY{{</world>}}

@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Puente de nariz ajustable
+- Protección uv
 - Las lentes antivaho fogbuster para un control fantástico de la humedad
 - Ideal para uso en interiores y al aire libre natación
-- Protección uv
 - Diseñado para niños de entre 6-14 years-old
 
 [🛒 Visítala!!!]({{< param buyurl >}})

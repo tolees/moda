@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Corte holgado
 - Composición del material: 100% algodón – En conversión directa a granja
 - manga corta
 - Camiseta
-- Corte holgado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DKK2DMPR{{</world>}}

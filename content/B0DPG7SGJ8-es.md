@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Serigrafía frontal y trasera de tacto suave
 - Etiqueta sellada con calor en el cuello
+- Serigrafía frontal y trasera de tacto suave
 - Manga corta
 
 [🛒 Aquí!!!]({{< param buyurl >}})

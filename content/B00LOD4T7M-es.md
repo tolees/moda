@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Forro de la mentonera y del cuello en tejido cepillado
 - DryVent 2L impermeable, transpirable y con costuras totalmente selladas
 - Cierre central delantero con cremallera y velcro
-- Forro de la mentonera y del cuello en tejido cepillado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00LOD4T7M{{</world>}}

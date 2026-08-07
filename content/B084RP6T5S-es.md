@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Chaqueta de plumón para hombre, cálida y ligera, para alpinismo y esquí de travesía.
-- Construcción especial de la manga (fuelle) para una buena libertad de movimientos
-- 2 bolsillos exteriores con cremallera
-- Estándar de sostenibilidad: Salewa Committed
-- Cuello muy alto para una protección óptima
 - Capucha con ribete elástico
+- 2 bolsillos exteriores con cremallera
+- Construcción especial de la manga (fuelle) para una buena libertad de movimientos
+- Estándar de sostenibilidad: Salewa Committed
+- Chaqueta de plumón para hombre, cálida y ligera, para alpinismo y esquí de travesía.
+- Cuello muy alto para una protección óptima
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B084RP6T5S{{</world>}}

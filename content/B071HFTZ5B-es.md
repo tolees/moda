@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello ribeteado
-- Bordado de G-Star RAW en el pecho
 - Proporciona comodidad
+- Cuello ribeteado
 - Sisa ribeteada
+- Bordado de G-Star RAW en el pecho
 - Bajo recto
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

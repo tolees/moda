@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseño ligero y transpirable
 - Ofrecen una comodidad óptima
+- Diseño ligero y transpirable
 - Detalles distintivos de la marca
 
 [🛒 Aquí!!!]({{< param buyurl >}})

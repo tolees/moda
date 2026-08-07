@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Un lienzo en blanco para personalizarlo y expresar tu estilo
 - Fabricados con nuestro elástico cómodo que cuenta con la cantidad de elasticidad necesaria para ir cómodamente durante todo el día
+- Un lienzo en blanco para personalizarlo y expresar tu estilo
 - Nuestro característico corte recto
 - Los jeans azules originales
 

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Estilo: Esta blusa informal de manga corta combina a la perfección con vaqueros, leggings, pantalones deportivos, faldas y chaquetas. Esta camiseta de verano con escote en V crea looks de moda versátiles.
-- Instrucciones de cuidado: Para obtener mejores resultados, lavar a máquina con suavidad o a mano en una bolsa de lavandería y secar al aire. No usar lejía.
 - Uso versátil: Esta blusa boho de manga corta para mujer es perfecta para el día a día, actividades al aire libre, compras, fiestas y mucho más. Esta camiseta de manga corta de color liso es una prenda versátil que combina a la perfección estilo y comodidad para cualquier ocasión.
 - Tejido cómodo: Esta camiseta de manga corta para mujer está confeccionada con tejido premium ligero, suave, transpirable y excepcionalmente elástico, lo que garantiza comodidad durante todo el día.
+- Estilo: Esta blusa informal de manga corta combina a la perfección con vaqueros, leggings, pantalones deportivos, faldas y chaquetas. Esta camiseta de verano con escote en V crea looks de moda versátiles.
+- Instrucciones de cuidado: Para obtener mejores resultados, lavar a máquina con suavidad o a mano en una bolsa de lavandería y secar al aire. No usar lejía.
 - Diseño: Esta ligera camiseta de manga corta luce un clásico escote en V con detalles de encaje de crochet en el pecho. Esta camiseta básica informal añade un toque de estilo a tus looks de diario.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

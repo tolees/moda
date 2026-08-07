@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Patrón: el diseño de la marca es visible
-- Código de vestimenta: informal
 - Temporada: Todas las estaciones
+- Código de vestimenta: informal
+- Patrón: el diseño de la marca es visible
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07RHZBY37{{</world>}}

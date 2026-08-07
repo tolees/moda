@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tela suave
 - Camiseta de manga corta
+- Tela suave
 - Ofrece comodidad y libedad de movimiento
 - Tiene detalles distintivos de la marca
 

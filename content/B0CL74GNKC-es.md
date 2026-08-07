@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Manga larga
-- Composición del material: 80% algodón, 20% poliéster
 - Corte ancho
+- Composición del material: 80% algodón, 20% poliéster
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CL74GNKC{{</world>}}

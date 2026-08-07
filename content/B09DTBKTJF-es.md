@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Vaqueros Ajustados
-- Cintura mediana
 - Composición: 99% algodón orgánico, 1% elastano
+- Vaqueros Ajustados
 - Hecho de algodón orgánico
+- Cintura mediana
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09DTBKTJF{{</world>}}

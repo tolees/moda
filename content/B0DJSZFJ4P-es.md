@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - La muñeca Debbie Allen de Barbie luce un conjunto inspirado en su look de coreógrafa de la exitosa serie “FAMA”. La parte superior, brillante y sin hombros, se ciñe a la cintura con un cinturón dorado.
-- Como artista multidisciplinar con una prolífica e ilustre carrera, uno de sus mayores logros es la creación de la Academia de Danza Debbie Allen, una organización sin ánimo de lucro que fundó en 2001.
+- Barbie homenajea a la sensacional Debbie Allen con una muñeca que rinde tributo a esta galardonada y polifacética artista que ha dejado huella como actriz, bailarina, coreógrafa, directora y mucho más.
 - Los pantalones de flecos morados y los calentadores completan este conjunto listo para bailar. ¡Su look de baile urbano evoca una estética que sigue siendo icónica hoy en día!
 - Con su cuerpo articulado, esta muñeca de Debbie Allen de Barbie está lista para adoptar cualquier pose de baile. ¡Es un magnífico recuerdo para fans y coleccionistas!
-- Barbie homenajea a la sensacional Debbie Allen con una muñeca que rinde tributo a esta galardonada y polifacética artista que ha dejado huella como actriz, bailarina, coreógrafa, directora y mucho más.
+- Como artista multidisciplinar con una prolífica e ilustre carrera, uno de sus mayores logros es la creación de la Academia de Danza Debbie Allen, una organización sin ánimo de lucro que fundó en 2001.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DJSZFJ4P{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material de la montura: TR90; Color de la montura: Negro, Estampado; Color de la varilla: Negro, Estampado
 - Gafas de sol polarizadas: Reduce los reflejos superficiales y la fatiga ocular proporcionando nitidez y contrastes superiores; Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes fabricadas en material bio tac polarizado; protección 100 % UV; Color de la lente: Negro; Apariencia de la lente: Sólida
+- Producto original Hawkers; la caja incluye funda en microfibra y caja
 - Modelo Unisex; Medidas: Frontal 141 mm, Varillas 140 mm, Puente 17 mm, Alto 50 mm
 - Montura negra mate con print de fibra de carbono a rayas y lentes polarizadas negras
-- Producto original Hawkers; la caja incluye funda en microfibra y caja
+- Material de la montura: TR90; Color de la montura: Negro, Estampado; Color de la varilla: Negro, Estampado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08TQYN4DG{{</world>}}

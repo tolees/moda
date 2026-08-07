@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Cómodo algodón de calidad
 - Mangas largas con puños, estilo Oxford, 100% algodón
 - Composición: 100% algodón
-- Cómodo algodón de calidad
 - Blusa clásica con botones
 
 [🛒 Aquí!!!]({{< param buyurl >}})

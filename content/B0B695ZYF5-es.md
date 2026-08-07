@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Camiseta de uso diario
 - Tiene detalles distintivos de la marca
 - Prenda para varones adultos
-- Camiseta de uso diario
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B695ZYF5{{</world>}}

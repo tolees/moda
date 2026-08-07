@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Vestido corto midi
-- Ajuste cómodo
-- Vestido de mujer de la marca danesa PIECES
-- De manga corta
 - Cuello redondo
+- Vestido de mujer de la marca danesa PIECES
+- Ajuste cómodo
+- De manga corta
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C4WLF7SY{{</world>}}

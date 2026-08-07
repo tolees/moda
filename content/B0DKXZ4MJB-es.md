@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Detalles estampados
-- Composición: 100 % algodón
 - Cuello redondo
+- Composición: 100 % algodón
+- Detalles estampados
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DKXZ4MJB{{</world>}}

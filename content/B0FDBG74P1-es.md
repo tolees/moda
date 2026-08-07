@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sujetador Push Up
 - Colección Wild Helanka
+- Sujetador Push Up
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FDBG74P1{{</world>}}

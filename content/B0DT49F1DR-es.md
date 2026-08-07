@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Pliegue de movimiento en la espalda para mayor comodidad
+- Protección fiable contra la radiación solar intensa
 - Bolsillo en el pecho con botón
 - Ligera y de secado rápido
 - Tratada con HeiQ Fresh: tecnología natural que reduce los malos olores
-- Pliegue de movimiento en la espalda para mayor comodidad
-- Protección fiable contra la radiación solar intensa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DT49F1DR{{</world>}}

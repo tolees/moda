@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Camiseta de alta calidad para uso diario
 - Estampado de pigmentos para una impresión suave en ropa ligera
+- Camiseta de alta calidad para uso diario
 - Tejido de punto con tacto suave
 
 [🛒 Visítala!!!]({{< param buyurl >}})

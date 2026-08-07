@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuero Skintex premium
 - Costuras reforzadas
 - Mesh thermo regulador
+- Cuero Skintex premium
 - Absorción de choques imcomparables
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Timberland White LEDGE Chukka/Mid
 - Zapatos
+- Timberland White LEDGE Chukka/Mid
 - Resistente al agua
 
 [🛒 Visítala!!!]({{< param buyurl >}})

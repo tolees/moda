@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Suela intermedia: plantilla Techlite Eco con un 20 % de contenido reciclado para una comodidad duradera.
 - Suela: goma de tracción Omni-Grip que no deja marcas.
 - Parte superior: parte superior de malla transpirable con jaula protectora de cuero para apoyo en el medio pie. Puntera y talón para mayor durabilidad. Ventana flexible Met para mayor comodidad y expansión en el antepié, específicamente diseñada para ella.
 - Suela intermedia: sistema Omni-Max: utilizando una entresuela Techlite, un talón y medio pie especialmente diseñados ayudan a crear una plataforma estable. Las cúpulas de desviación en el antepié y el talón reducen el impacto de la carga para una mejor comodidad y rebote. Las ranuras flexibles en el antepié proporcionan f
-- Suela intermedia: plantilla Techlite Eco con un 20 % de contenido reciclado para una comodidad duradera.
 - PERFIL: Sirve al aventurero diario que busca una solución ligera y protectora. Ofrece comodidad durante todo el día, protección visual y tracción bajo los pies para manejar la puerta a los senderos.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

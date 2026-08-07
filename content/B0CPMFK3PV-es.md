@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Plantilla desmontable
 - Cuentan con un estilo informal
 - Ligeros y fáciles de combinar
-- Plantilla desmontable
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CPMFK3PV{{</world>}}

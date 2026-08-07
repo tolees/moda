@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Cuello alto perfilado y sellos ajustables de doble puño
+- Helly Tech Performance fabric and waterproof, windproof and Breathable
+- 60 gramos de aislamiento Sintético
 - Chaqueta de navegación costera totalmente impermeable
 - Tejido Helly Tech Performance e impermeable, resistente al viento y transpirable
-- 60 gramos de aislamiento Sintético
-- Helly Tech Performance fabric and waterproof, windproof and Breathable
-- Cuello alto perfilado y sellos ajustables de doble puño
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07ZRJPGRT{{</world>}}

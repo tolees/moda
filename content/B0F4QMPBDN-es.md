@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseño sencillo
 - Ofrece comodidad
+- Diseño sencillo
 - Cuello redondo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

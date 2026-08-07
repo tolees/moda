@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Cristales hidroscópicos curvados con una forma que permite la máxima visión periférica y foveal
 - Montura de perfil muy bajo
-- Puente nasal ajustable
 - Clip trasero con curvatura ergonómica
+- Puente nasal ajustable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01M8K0QK1{{</world>}}

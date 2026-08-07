@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuando se trata de una fiesta, ¡cuantos más seamos, mejor! ¡Echa un vistazo a toda la colección Cumplespantos de Monster High para celebrar una fiesta espeluznante con toda la pandilla de monstruitas!
-- ¡Draculaura cumple 1600 años y las alumnas de Monster High lo celebran con una fiesta de cumplespantos de lo más terrorífica! La muñeca Cleo De Nile está lista para un baile de la realeza con su faraónico atuendo y sus accesorios regios.
 - Con accesorios como un pintalabios negro y un bolso de glaseado de tarta, ¡tanto los niños y niñas como los coleccionistas se lo pasarán en grande ayudando a la muñeca Cleo De Nile a prepararse para la gran fiesta de medianoche de su amiga!
+- ¡Draculaura cumple 1600 años y las alumnas de Monster High lo celebran con una fiesta de cumplespantos de lo más terrorífica! La muñeca Cleo De Nile está lista para un baile de la realeza con su faraónico atuendo y sus accesorios regios.
+- Cuando se trata de una fiesta, ¡cuantos más seamos, mejor! ¡Echa un vistazo a toda la colección Cumplespantos de Monster High para celebrar una fiesta espeluznante con toda la pandilla de monstruitas!
 - ¡Esta monstruita está resplandeciente! Una falda dorada en forma de jaula con detalles de pedrería se extiende sobre su vestido, mientras que las mangas negras transparentes con cintas en cascada añaden un toque majestuoso.
 - Los accesorios con temática de fiesta crean el ambiente perfecto para un cumplespantos terrorífico, como una bolsa de regalo para Draculaura con un regalo sorpresa en su interior. También incluye una invitación, un globo en forma de escarabajo y una tarjeta de cumpleaños.
 

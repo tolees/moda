@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Correa cruzada extraíble
-- Dos asas superiores
 - Acabado texturizado
+- Dos asas superiores
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FDGYV1D5{{</world>}}

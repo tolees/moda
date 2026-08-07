@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cómodo
-- Clásico
 - Camiseta Para hombre
 - Cuello redondo y serigrafía estampada en el pecho
 - Corte normal
+- Clásico
+- Cómodo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0825NLSKP{{</world>}}

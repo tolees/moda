@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Con un amplio compartimento principal y un bolsillo oculto en la solapa
-- Lleva toda la tecnología contigo: su funda acolchada tiene capacidad para portátiles de hasta 17 pulgadas
 - Para que sea cómoda, tiene una correa para el hombro ajustable y íble
 - Alto: 30,5 cm, ancho: 38,5 cm, fondo: 13 cm
+- Lleva toda la tecnología contigo: su funda acolchada tiene capacidad para portátiles de hasta 17 pulgadas
 - Confeccionada en una mezcla de 60 % poliéster y 40 % nailon
 
 [🛒 Visítala!!!]({{< param buyurl >}})

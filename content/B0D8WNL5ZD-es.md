@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Una mirada original
 - Estampado flocado de G-STAR en el pecho
+- Una mirada original
 - Cuello acanalado
 - Mangas con vuelta fija con remaches
 - Proporciona comodidad

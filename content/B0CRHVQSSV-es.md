@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - CERDÁ LIFES LITTLE MOMENTS: Desde hace 50 años realizamos experimentos icónicos en el mundo de las licencias. Convirtiéndonos en científicos locos, diseñamos productos para todas las edades. ¡Descubre nuestro catálogo y únete a la aventura!
-- MUNDO DISNEY: Contamos con la licencia oficial del maravilloso universo Disney. Todas las princesas y los personajes más míticos te esperan en nuestros productos originales: accesorios, ropa, calzado, papelería, complementos ¡y mucho más!
-- CAMISETA DE DISNEY: Destaca el estilo de tus hijos con esta camiseta inspirada en el tus personajes favoritos. Los flecos inferiores le dan un toque extraterrestre. Además, está elaborada con tejido, tan suave como la ternura de Stitch, Mickey, Minnie, etc.
 - COMODIDAD LICENCIAS: Prepara a tu peque para que experimente la máxima libertad de movimiento y una comodidad tan extraordinaria como las travesuras y aventuras del personaje más divertido de la infancia. ¡Vístelos con estilo!
 - MATERIALES DE CALIDAD: Diseñamos nuestras colecciones en España con la magia de Disney, utilizando materiales tan resistentes como la lealtad de Stitch hacia Lilo y su familia, ¡la diversión nunca termina!
+- CAMISETA DE DISNEY: Destaca el estilo de tus hijos con esta camiseta inspirada en el tus personajes favoritos. Los flecos inferiores le dan un toque extraterrestre. Además, está elaborada con tejido, tan suave como la ternura de Stitch, Mickey, Minnie, etc.
+- MUNDO DISNEY: Contamos con la licencia oficial del maravilloso universo Disney. Todas las princesas y los personajes más míticos te esperan en nuestros productos originales: accesorios, ropa, calzado, papelería, complementos ¡y mucho más!
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CRHVQSSV{{</world>}}

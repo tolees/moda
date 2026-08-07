@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Combinala con unos jeans o unos pantalones chinos.
-- Manga larga con puños y cintura en canalé. Interior perchado. Bordado Rigby Go en el lado izquierdo del pecho.
 - Esta pieza confeccionada en algodón se convertirá en una de tus favoritas.
-- Cuello redondo de terminación acanalada.
+- Combinala con unos jeans o unos pantalones chinos.
 - Polo Club sigue siendo fiel a prendas imprescindibles como la sudadera de cuello redondo.
+- Manga larga con puños y cintura en canalé. Interior perchado. Bordado Rigby Go en el lado izquierdo del pecho.
+- Cuello redondo de terminación acanalada.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CNGXDF4J{{</world>}}

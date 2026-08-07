@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Capa exterior
 - Parte superior de forro polar
+- Capa exterior
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DPGGCNFY{{</world>}}

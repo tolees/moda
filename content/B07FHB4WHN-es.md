@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- AJUSTE NORMAL: Ajuste ceñido pero cómodo en pecho, cintura y cadera.
 - HILO DE SUÉTER LIGERO DE MEZCLA DE ALGODÓN: hilo de suéter suave y ligero con un hermoso drapeado.
 - DETALLES: Parte delantera abierta para un estilo cómodo y versátil. Mangas largas con detalle de canalé en puños y bajo. Largo hasta la mitad del muslo.
-- AJUSTE NORMAL: Ajuste ceñido pero cómodo en pecho, cintura y cadera.
 - REBECA BÁSICA: Una prenda de abrigo moderna y clásica, perfecta tanto para un look elegante como para uno informal. Llévala encima de tu camiseta o camiseta de tirantes favorita.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

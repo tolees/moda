@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Detalles decorativos que complementan el diseño
+- Monedero de 17,5 cm x 9,5 cm x 2 cm fabricado en Poliester y PU
 - Tres compartimentos con cierre cremallera, dos de ellos con tres ranuras para las tarjetas y compartimento de cremallera en medio para monedas
 - Tamaño optimo para llevar monedas, tarjetas y recibos
-- Monedero de 17,5 cm x 9,5 cm x 2 cm fabricado en Poliester y PU
-- Detalles decorativos que complementan el diseño
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FF55Y4W3{{</world>}}

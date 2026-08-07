@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Detalles distintivos de la marca
 - Capucha ajustable mediante cordones
+- Detalles distintivos de la marca
 - Con bolsillos laterales
 - Sudadera con cierre de cremallera frontal
 

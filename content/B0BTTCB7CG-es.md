@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Capucha ajustable mediante cordones
 - Con bolsillos laterales
 - Detalles distintivos de la marca
-- Capucha ajustable mediante cordones
 - Sudadera con cierre de cremallera frontal
 
 [🛒 Visítala!!!]({{< param buyurl >}})

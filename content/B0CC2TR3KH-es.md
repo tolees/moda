@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Clarks Sandals, Aristella Sun, Black Leather, 5 (Women)
 - Alta calidad
+- Clarks Sandals, Aristella Sun, Black Leather, 5 (Women)
 - Cojín suave
 - Flexibles
 - Aspecto y tacto clásicos

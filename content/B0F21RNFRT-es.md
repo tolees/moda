@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Una zapatilla que aúna comodidad y estilo ideal para esta temporada. Con plantilla extraíble. Este modelo ha obtenido el certificado vegano por la organización mundial PETA (Organización de los derechos de los animales)
-- [Nuestra Marca]: REFRESH con estilo fresco y juvenil. Calzado versátil y moderno diseñado para quienes buscan estar siempre a la moda sin renunciar a la comodidad.
 - Zapatilla de mujer, de la marca Refresh. Fabricada en material que imita a la piel con diferentes acabados y detalles en reptil
+- [Nuestra Marca]: REFRESH con estilo fresco y juvenil. Calzado versátil y moderno diseñado para quienes buscan estar siempre a la moda sin renunciar a la comodidad.
 - Cierre mediante cremallera lateral con cordones regulables para un mejor ajuste. Con suela de goma antideslizante
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

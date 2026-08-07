@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Con logotipo de la marca en el frontal y la espalda
-- Disponible en varios colores
 - Camiseta de manga corta con cuello redondo
 - Hecho 60% de algodón y 40% de poliéster
+- Disponible en varios colores
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B006JGXCEK{{</world>}}

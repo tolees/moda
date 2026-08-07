@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - CAMEL CLARO
-- SOCOOL CHO CHO
 - 739127-10-116
+- SOCOOL CHO CHO
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08M9MW6MZ{{</world>}}

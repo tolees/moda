@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Loose Fit
 - Carhartt "Signature Logo" soft hand plastisol graphic print on left sleeve
+- Loose Fit
 - Long Sleeve
 - Rib knit cuffs
 - Rib knit crew neck

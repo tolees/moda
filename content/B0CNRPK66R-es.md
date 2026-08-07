@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Artículo de marca Love Moschino
 - Los zapatos pueden combinar con multitud de conjuntos
+- Artículo de marca Love Moschino
 - Presentan detalles distintivos de la marca
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

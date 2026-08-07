@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- PROTECCIÓN UVA Y UVB. Protegen al 100% de los rayos UVA y UVB
-- POLARIZADAS. Gafas de sol para bebés de 0 a 12 meses polarizadas, filtran los rayos de sol para disminuir el deslumbramiento y mejoran el contraste con la luz intensa. Gafas de sol aptas para recién nacidos
-- CON FILTRO UV400 de categoría 3. Cuentan con un amplio espectro de protección. Cumplen con EN ISO 12312-1:2013+A1:2015
-- FUNDA INCLUIDA. Gafas de sol con funda de protección incluida, de tejido semi-rígido y cierre de cremallera
-- AJUSTE PERFECTO. Se ajustan a la fisionomía de la cara y proporcionan una sujeción total sin apretar
-- LIGERAS Y FLEXIBLES. Para una mayor comodidad y resistencia
 - ERGONÓMICAS. La montura está especialmente diseñada para bebés de 0 a 12 meses, cuyo puente de la nariz no está completamente formado todavía
+- LIGERAS Y FLEXIBLES. Para una mayor comodidad y resistencia
+- PROTECCIÓN UVA Y UVB. Protegen al 100% de los rayos UVA y UVB
+- CON FILTRO UV400 de categoría 3. Cuentan con un amplio espectro de protección. Cumplen con EN ISO 12312-1:2013+A1:2015
+- AJUSTE PERFECTO. Se ajustan a la fisionomía de la cara y proporcionan una sujeción total sin apretar
+- FUNDA INCLUIDA. Gafas de sol con funda de protección incluida, de tejido semi-rígido y cierre de cremallera
+- POLARIZADAS. Gafas de sol para bebés de 0 a 12 meses polarizadas, filtran los rayos de sol para disminuir el deslumbramiento y mejoran el contraste con la luz intensa. Gafas de sol aptas para recién nacidos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F4RV9MLX{{</world>}}

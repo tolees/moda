@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Capucha con cordones
 - LEVIS TAB: Existen diferentes variaciones de la conocida lengüeta roja. Todos los productos son originales de Levis, no importa si pone LEVIS, Levis, no está escrito o es de otro color.
 - Confeccionada con un corte holgado
 - Una sudadera con capucha de inspiración vintage
-- Capucha con cordones
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CNHDHZ7H{{</world>}}

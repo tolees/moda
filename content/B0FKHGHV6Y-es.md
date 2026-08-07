@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Colores básicos con cinturilla recubierta.
 - Algodón Elástico cotton Stretch.
+- Colores básicos con cinturilla recubierta.
 - Comodidad para el día a día.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

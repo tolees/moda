@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Detalles : Trabillas, Remaches
-- Cintura : Cintura media
 - Klavado/acabado : Lavado a la piedra para un acabado desgastado y desteñido
+- Detalles : Trabillas, Remaches
+- Bolsillos : Bolsillos traseros, Bolsillo relojero, Bolsillos delanteros
+- Cintura : Cintura media
 - Corte : Corte slim straight
 - Cierre : Bragueta con cremallera
 - Artículo : Vaqueros ajustados
-- Bolsillos : Bolsillos traseros, Bolsillo relojero, Bolsillos delanteros
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CXJDH1QH{{</world>}}

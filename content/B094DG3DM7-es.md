@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - __ Cuello:__ cuello redondo
-- __Tejido:__ Tejido de algodón [200 g / m2]
 - __ Corte:__ diseño ajustado
 - Estampado en el centro del bolsillo
+- __Tejido:__ Tejido de algodón [200 g / m2]
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B094DG3DM7{{</world>}}

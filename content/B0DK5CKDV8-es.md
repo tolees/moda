@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuello acanalado
 - Estampado gráfico de G-STAR en la parte delantera
 - Etiqueta de G-STAR Originals tejida en la costura lateral inferior
+- Cuello acanalado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DK5CKDV8{{</world>}}

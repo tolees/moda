@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camiseta de manga corta y pantalón corto 100% algodón peinado ligero para dormir cómodamente por las noches
 - Procedentes de fuentes éticas y responsables, en consonancia con la Iniciativa de Comercio Ético (ETI).
-- Ropa con licencia oficial Disney, con Simba, Timón y Pumba del Rey León. Perfecta para las cálidas noches de verano o para unas vacaciones Disney
+- Camiseta de manga corta y pantalón corto 100% algodón peinado ligero para dormir cómodamente por las noches
 - Tabla de dimensiones: 18-24 Meses: 92cm, 2-3 Años: 98cm, 3-4 Años: 104cm, 4-5 Años: 110cm, 5-6 Años: 116cm, 6-7 Años: 122cm
+- Ropa con licencia oficial Disney, con Simba, Timón y Pumba del Rey León. Perfecta para las cálidas noches de verano o para unas vacaciones Disney
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CST85LNM{{</world>}}

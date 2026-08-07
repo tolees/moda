@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- normale Passform
 - Pflegehinweis: Maschinenwäsche linksrum 30°
+- normale Passform
 - Material: 100% Baumwolle
 - großer front Print
 

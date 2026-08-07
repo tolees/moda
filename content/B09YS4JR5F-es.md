@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tallas 70B a 85J
 - Sujetador deportivo Active
 - Logotipo térmico en la pantorrilla
+- Tallas 70B a 85J
 - Doble cierre y correas ajustables para sujetar el pecho durante el movimiento.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

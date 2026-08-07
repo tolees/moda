@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con capucha
 - Puños y dobladillo de canalé
+- Con capucha
 - Alta calidad
 - Bolsillos canguro
 

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CHICCO: Siempre al lado de las familias, escuchando sus historias y necesidades; con nuestros productos innovadores, siempre respondemos a las nuevas necesidades de los padres y madres y de quienes cuidan a los niños
-- SANDALIAS NIÑA: Sandalias Chicco, con cómodo cierre doble, ideales para un look casual y a la moda. Adecuadas para cualquier ocasión
+- Nota: Según los clientes, esta prenda suele quedar algo ajustada. Si su hijo está entre dos tallas o prefiere un ajuste más holgado, le aconsejamos pedir una talla más
 - COMODIDAD: Las sandalias Chicco son cómodas, flexibles, ligeras, transpirables y prácticas
 - CHICCO: Siempre al lado de las familias, escuchando sus historias y necesidades. Con nuestros productos innovadores, siempre respondemos a las nuevas necesidades de los padres y de todos aquellos que cuidan de los niños
-- Nota: Según los clientes, esta prenda suele quedar algo ajustada. Si su hijo está entre dos tallas o prefiere un ajuste más holgado, le aconsejamos pedir una talla más
+- CHICCO: Siempre al lado de las familias, escuchando sus historias y necesidades; con nuestros productos innovadores, siempre respondemos a las nuevas necesidades de los padres y madres y de quienes cuidan a los niños
+- SANDALIAS NIÑA: Sandalias Chicco, con cómodo cierre doble, ideales para un look casual y a la moda. Adecuadas para cualquier ocasión
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07V1MJ76H{{</world>}}

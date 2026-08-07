@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Plantillas ligeras y no marcadas
 - Los puertos de ventilación añaden transpirabilidad y ayudan a fluir el agua y los escombros
 - Calzado adecuado para la playa o el barco
 - Fácil de limpiar y de secado rápido
-- Plantillas ligeras y no marcadas
 - La correa del talón proporciona un ajuste seguro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

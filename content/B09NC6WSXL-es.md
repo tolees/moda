@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Impresión de alto contraste
 - País de origen: LK
-- Delicada mezcla de algodón
 - Con puños acanalados
+- Impresión de alto contraste
+- Delicada mezcla de algodón
 - Interior cepillado suave
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

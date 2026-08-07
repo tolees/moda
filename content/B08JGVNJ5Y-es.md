@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Peso: 180 g (#38)
 - Parte superior de licra con correa de poliéster
 - 2 sistemas de cierre y ajuste
-- Peso: 180 g (#38)
 - Plantilla de cuero
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

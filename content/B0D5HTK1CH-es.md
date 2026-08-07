@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fabricado con al menos un 51% de algodón orgánico
-- Pack de 2 para hombre
 - Contiene algodón orgánico
+- Pack de 2 para hombre
+- Fabricado con al menos un 51% de algodón orgánico
 - Tela elástica de algodón suave
 - Cinturilla cómoda
 

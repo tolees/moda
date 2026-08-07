@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 100 % algodón
-- Camiseta de manga corta con cuello redondo
 - Pepe jeans Obra de arte en la parte delantera
+- Camiseta de manga corta con cuello redondo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DTJKHGQP{{</world>}}

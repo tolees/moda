@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Nike logo on the front
-- Soft fabric
 - Regular fit
+- Soft fabric
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07FKFFTQS{{</world>}}

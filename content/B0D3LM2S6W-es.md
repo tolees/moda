@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 【Material y corte】 El jersey de hombre con cuello polo está confeccionado con un tejido de punto de alta calidad, suave y elástico al tacto. El jersey de hombre tiene un corte regular que resulta cómodo y favorecedor a la vez. Ofrece suficiente libertad de movimiento sin quedar demasiado holgado ni demasiado ajustado
-- 【Elección ideal】 Si buscas un jersey de invierno clásico y cómodo, este es un imprescindible en tu armario. Tallas estadounidenses. Consulta la tabla de tallas antes de comprar
 - 【Polo de manga larga】 Este jersey de punto de manga larga para hombre combina la elegancia clásica de un cuello polo con la calidez de un jersey de manga larga para hombre. El cuello tiene una tapeta oculta. Los puños y el dobladillo están rematados con ribetes elásticos de alta elasticidad
+- 【Elección ideal】 Si buscas un jersey de invierno clásico y cómodo, este es un imprescindible en tu armario. Tallas estadounidenses. Consulta la tabla de tallas antes de comprar
+- 【Material y corte】 El jersey de hombre con cuello polo está confeccionado con un tejido de punto de alta calidad, suave y elástico al tacto. El jersey de hombre tiene un corte regular que resulta cómodo y favorecedor a la vez. Ofrece suficiente libertad de movimiento sin quedar demasiado holgado ni demasiado ajustado
 - 【Business casual】 Este jersey para hombre muestra su gusto único y su temperamento maduro, y le permite sentirse cómodo y elegante en cualquier ocasión, ya sea en la oficina, en la escuela, en una cita, en una cena, jugando al golf o de vacaciones
 - 【Verdaderamente versátil】 El jersey polo para hombre se puede combinar a menudo con vaqueros o pantalones informales para el día a día, y cuando hace un poco más de frío, queda perfecto debajo de una chaqueta de cuero, un abrigo de lana o una chaqueta vaquera. El jersey polo de manga larga para hombre es simplemente muy versátil
 

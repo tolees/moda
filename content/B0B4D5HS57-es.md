@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- AEROREADY
-- Carta del tamaño: 116,128,140,152,164
-- Interlock 100% poliéster reciclado
 - Mangas de malla
+- AEROREADY
+- Interlock 100% poliéster reciclado
+- Carta del tamaño: 116,128,140,152,164
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B4D5HS57{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Composición: 100 % algodón
 - Cuello redondo
+- Composición: 100 % algodón
 - Detalles estampados
 
 [🛒 Visítala!!!]({{< param buyurl >}})

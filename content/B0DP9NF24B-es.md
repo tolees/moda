@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ofrecen una comodidad óptima
 - Detalles distintivos de la marca
+- Ofrecen una comodidad óptima
 - Con un diseño ligero
 
 [🛒 Comprar!!!]({{< param buyurl >}})

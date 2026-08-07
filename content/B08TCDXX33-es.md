@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NIKE M Nk Park20 SS tee Camiseta Hombre Tour Yellow/Black S'
-date: 2026-07-27 06:31:23
+date: 2026-08-06 10:29:15
 image: 'https://m.media-amazon.com/images/I/21fRyflS99L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material de calidad
 - Tejido ligero
 - Ofrece comodidad y libertad de movimiento
+- Material de calidad
 - Detalles distintivos de la marca
 
 [🛒 Aquí!!!]({{< param buyurl >}})

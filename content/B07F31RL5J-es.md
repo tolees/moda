@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Artículos entregados: 1x Helly Hansen Mujer Chubasquero Moss,XS,Negro
 - Un chubasquero icónico y ventas inspirado en el chubasquero de pescador original de Helly Hansen
 - Exterior: 100% poliuretano
 - Confeccionado con nuestra tecnología de tejido PU impermeable, el chubasquero Moss le mantiene seco bajo el aguacero; nos hemos inspirado en el chubasquero de pescador Helly Hansen de los años 50 para crear el Moss; tenemos una larga historia protegiendo a los pescadores noruegos en todo tipo de condiciones meteorológicas
+- Artículos entregados: 1x Helly Hansen Mujer Chubasquero Moss,XS,Negro
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07F31RL5J{{</world>}}

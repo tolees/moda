@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre de botones y cremallera
 - Superelástico
 - Costuras reforzadas para más durabilidad
+- Cierre de botones y cremallera
 - Varios bolsillos con cremallera
 
 [🛒 Visítala!!!]({{< param buyurl >}})

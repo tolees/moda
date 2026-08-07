@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Corte cómodo y regular para un ajuste perfecto
 - Escote redondo y elegante para un look clásico
 - Estampado de moda y mangas cortas para un toque trendy
 - Vestido camisero elegante de algodón 100%
+- Corte cómodo y regular para un ajuste perfecto
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BHPRTZ8J{{</world>}}

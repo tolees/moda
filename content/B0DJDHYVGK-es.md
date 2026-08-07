@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Chaqueta de longitud estándar
 - Diseño con capucha
+- Chaqueta de longitud estándar
 - Tejido de punto plano
 - Ajuste estándar
 - Cierre de cremallera

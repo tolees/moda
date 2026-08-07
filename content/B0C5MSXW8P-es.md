@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Composición del material: 50% poliéster, 50% poliéster reciclado
-- Chaqueta acolchada con mangas largas
 - Cuello redondo
 - Solapa de botón a presión
+- Chaqueta acolchada con mangas largas
+- Composición del material: 50% poliéster, 50% poliéster reciclado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C5MSXW8P{{</world>}}

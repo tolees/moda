@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Basic Shirt with viscose
 - Shirt with o-neck
+- Basic Shirt with viscose
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01MSZ0OMZ{{</world>}}

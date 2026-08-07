@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con una silueta D-Frame sencilla y líneas deportivas con terminaciones aerodinámicas, este diseño casual es óptimo para el ajetreo de tu día a día; combina montura en TR90 con terminales y almohadillas nasales engomados para un mejor agarre; disponible en varios colores de lentes y monturas en acabados brillo y mate
-- Modelo Masculino; Medidas: Frontal 142 mm, Varillas 132 mm, Puente 16 mm, Alto 49 mm
-- Material de la montura: TR90; Color de la montura: Negro; Color de la varilla: Negro
 - Producto original Hawkers; la caja incluye funda en microfibra y caja
 - Gafas de sol polarizadas: Reduce los reflejos superficiales y la fatiga ocular proporcionando nitidez y contrastes superiores; Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes fabricadas en material bio tac polarizado; protección 100 % UV; Color de la lente: Negro; Apariencia de la lente: Sólida
+- Modelo Masculino; Medidas: Frontal 142 mm, Varillas 132 mm, Puente 16 mm, Alto 49 mm
+- Material de la montura: TR90; Color de la montura: Negro; Color de la varilla: Negro
+- Con una silueta D-Frame sencilla y líneas deportivas con terminaciones aerodinámicas, este diseño casual es óptimo para el ajetreo de tu día a día; combina montura en TR90 con terminales y almohadillas nasales engomados para un mejor agarre; disponible en varios colores de lentes y monturas en acabados brillo y mate
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D6S39P5H{{</world>}}

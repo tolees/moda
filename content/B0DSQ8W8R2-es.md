@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tejido de tafetán ligero hecho de fibra de poliéster con acabado mate. repelente al agua;
-- Chaqueta de invierno acolchada de estilo deportivo con dobladillo elástico ajustable y puños acanalados en los puños para proteger contra el viento y el frío. Bolsillos laterales delanteros y bolsillos interiores adicionales ideales para guardar tu cartera, llaves o teléfono móvil.
 - Cuello alto | Manga larga
-- No planchar sobre adornos. Dar la vuelta y agitar la prenda varias veces para secar al aire. Planchar a baja temperatura. No limpiar en seco. Cerrar todos los cierres antes del lavado. No usar lejía. Lavar a 30 °C. Secar en secadora con pelotas de tenis. Lavar del revés. No utilizar suavizante. Lavar con colores similares. Secado suave
+- Tejido de tafetán ligero hecho de fibra de poliéster con acabado mate. repelente al agua;
 - Ajuste: corte regular, longitud de espalda en talla M aprox. 74 cm
+- Chaqueta de invierno acolchada de estilo deportivo con dobladillo elástico ajustable y puños acanalados en los puños para proteger contra el viento y el frío. Bolsillos laterales delanteros y bolsillos interiores adicionales ideales para guardar tu cartera, llaves o teléfono móvil.
+- No planchar sobre adornos. Dar la vuelta y agitar la prenda varias veces para secar al aire. Planchar a baja temperatura. No limpiar en seco. Cerrar todos los cierres antes del lavado. No usar lejía. Lavar a 30 °C. Secar en secadora con pelotas de tenis. Lavar del revés. No utilizar suavizante. Lavar con colores similares. Secado suave
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DSQ8W8R2{{</world>}}

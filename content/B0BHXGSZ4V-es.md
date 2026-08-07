@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Modo de vida : Tradicional
-- Estampado : Estampa en la parte delantera del producto, Estampado con pigmentos para un acabado delicado en los tejidos más ligeros
+- Manga : Manga corta
 - Artículo : Camiseta
 - Cuello : Cuello redondo
-- Manga : Manga corta
+- Estampado : Estampa en la parte delantera del producto, Estampado con pigmentos para un acabado delicado en los tejidos más ligeros
 - Mangas : Sisa en disminución
 - Corte : Corte regular
 

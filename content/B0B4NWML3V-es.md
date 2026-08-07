@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Suela: Caucho
-- Material exterior: poliéster
-- Material interior: sintético
 - Forma del tacón: sin tacón
+- Material interior: sintético
+- Material exterior: poliéster
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B4NWML3V{{</world>}}

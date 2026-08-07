@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con logo
 - Ideal para dar un toque desenfadado
 - Garantiza un confort óptimo
+- Con logo
 - Ofrece una gran libertad de movimiento
 
 [🛒 Aquí!!!]({{< param buyurl >}})

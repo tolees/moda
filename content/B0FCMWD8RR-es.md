@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Vestido Midi
 - Vestido Lencero
+- Vestido Midi
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FCMWD8RR{{</world>}}

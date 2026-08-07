@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Confeccionada con un corte holgado
 - Capucha con cordones
 - Una sudadera con capucha de inspiración vintage
+- Confeccionada con un corte holgado
 - LEVIS TAB: Existen diferentes variaciones de la conocida lengüeta roja. Todos los productos son originales de Levis, no importa si pone LEVIS, Levis, no está escrito o es de otro color.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- CERTIFICACIÓN DE SEGURIDAD: Cumple con la norma ISO 12312-2 y certificación CE para observación directa del sol
+- KIT COMPLETO TODO EN UNO: Todo lo necesario para disfrutar del eclipse en un solo pack
 - PERFECTO PARA GRUPOS: Ideal para familias, colegios y eventos que quieren ver y capturar el momento
+- CERTIFICACIÓN DE SEGURIDAD: Cumple con la norma ISO 12312-2 y certificación CE para observación directa del sol
 - PROTECCIÓN PARA TU CÁMARA: Los filtros reducen la intensidad de la luz al tomar fotos del eclipse con el móvil
 - OBSERVA Y CAPTURA EL ECLIPSE: Incluye gafas de eclipse y filtros para el móvil para ver y fotografiar el eclipse de forma segura
-- KIT COMPLETO TODO EN UNO: Todo lo necesario para disfrutar del eclipse en un solo pack
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0H2BKRJLZ{{</world>}}

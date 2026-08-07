@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Camisa de manga corta
 - Adecuada para uso diario
 - Cierre de botones
+- Camisa de manga corta
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FDL7K642{{</world>}}

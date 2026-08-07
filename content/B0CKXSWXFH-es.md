@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'adidas - Runfalcon 5 Shoes Kids  Zapatos Bajos Que no Son de fútbol  Core Black/FTWR White/Core Black '
-date: 2025-10-17 06:53:30
-image: 'https://m.media-amazon.com/images/I/21uSt1htEwL._SL500_._SL400_.jpg'
+title: 'adidas Unisex Kids Zapatilla Runfalcon 5'
+date: 2026-08-06 18:27:02
+image: 'https://m.media-amazon.com/images/I/31gUUOm7w0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0CKXSWXFH-es adidas - Runfalcon 5 Shoes Kids Zapatos Bajos Que no Son...'
+slug: 'B0CKXSWXFH-es adidas Unisex Kids Zapatilla Runfalcon 5'
 sku: 'B0CKXSWXFH-es'
-tags: [ 'Moda','Moda Niño','Zapatillas casual para niño','Zapatillas deportivas y de moda para niños','Zapatos de niño','adidas','zapatos','🇪🇸', ]
-actualPrice: 29.99 EUR
+tags: [ 'zapatilla','🇪🇸', ]
+actualPrice: 24.99 EUR
 currency: EUR
-price: 29.99
+price: 24.99
 comparePrice: 45.0 EUR
-prodname: 'adidas - Runfalcon 5 Shoes Kids  Zapatos Bajos Que no Son de fútbol  Core Black/FTWR White/Core Black '
+prodname: 'adidas Unisex Kids Zapatilla Runfalcon 5'
 country: 'es'
 flag: '🇪🇸'
-brand: 'adidas'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CKXSWXFH/?tag=tolees-21'
-descuento: '33.36'
-average: '29.99'
+descuento: '44.47'
+average: '27.49'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forro textil
 - Empeine textil
-- Horma clásica
-- Mediasuela Cloudfoam
 - Forro textil
 - Cierre de cordones
+- Forro textil
+- Mediasuela Cloudfoam
+- Horma clásica
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CKXSWXFH{{</world>}}

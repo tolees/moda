@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre con correas autoadherentes
-- Forro textil
-- Horma clásica
 - Compra una talla más pequeña
-- Empeine sintético
-- Suela de goma
 - Forro textil
+- Forro textil
+- Suela de goma
+- Horma clásica
+- Cierre con correas autoadherentes
+- Empeine sintético
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CKXT51PW{{</world>}}

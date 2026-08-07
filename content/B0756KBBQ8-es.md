@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material de la suela: hecho a mano
-- Material: tela
 - Estilo de la punta: punta abierta
 - Tipo de cierre: velcro
+- Material de la suela: hecho a mano
+- Material: tela
 - Estilo: sandalias deportivas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

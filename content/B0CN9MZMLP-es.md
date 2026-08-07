@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Detalles reflectantes
 - Capucha desmontable para mayor seguridad
 - Puños acanalados
-- Detalles reflectantes
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CN9MZMLP{{</world>}}

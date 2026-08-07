@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con el logotipo en la parte posterior de la cintura
 - Este producto es original Levis
+- Con el logotipo en la parte posterior de la cintura
 - Tiene cinco bolsillos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

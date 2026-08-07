@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 100 % algodón
 - Camiseta con logotipo impreso en el pecho
+- 100 % algodón
 - Algodón de manga larga ajustada
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- puños elásticos, cremallera con protector de barbilla
-- Sin PFC, bueno para usted y el medio ambiente
-- Columna de agua de 10.000 mm, costuras selladas, 100% impermeable.
 - Chaqueta funcional con capucha para niños pequeños
+- Sin PFC, bueno para usted y el medio ambiente
+- puños elásticos, cremallera con protector de barbilla
+- Columna de agua de 10.000 mm, costuras selladas, 100% impermeable.
 - Función de crecimiento, las mangas se pueden alargar unos 4 cm
 
 [🛒 Aquí!!!]({{< param buyurl >}})

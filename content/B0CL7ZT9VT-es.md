@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello : Cuello redondo
 - Estampado : Estampado con pigmentos para un acabado delicado en los tejidos más ligeros
 - Manga : Manga corta
+- Cuello : Cuello redondo
 - Artículo : Camiseta
 - Corte : Corte slim
 

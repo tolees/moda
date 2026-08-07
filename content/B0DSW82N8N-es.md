@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Un look original
 - Cómodo de llevar
+- Un look original
 - Ajuste cómodo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

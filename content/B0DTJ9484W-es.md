@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Camiseta fácil de poner de Dickies
 - Corte de punto de algodón con cuello redondo, manga corta y corte cuadrado en las piernas
+- Camiseta fácil de poner de Dickies
 - Con un eslogan "Never need ironing" en el pecho y una caja con logotipo al revés, solo en UO
 
 [🛒 Comprar!!!]({{< param buyurl >}})

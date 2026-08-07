@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Logotipo del felino PUMA en la parte derecha del pecho
-- Algodón, poliéster y elastano
 - Capucha con cordón ajustable
+- Logotipo del felino PUMA en la parte derecha del pecho
 - Manga larga
+- Algodón, poliéster y elastano
 - Bolsillo delantero tipo canguro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

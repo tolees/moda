@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Fabricado con telas aptas para niños que tienen un tacto genial durante todo el día
 - Logo estampado en el pecho
+- Camiseta de punto 100 % algodón
 - Diseñado para una comodidad y uso duraderos
 - Confeccionado con materiales duraderos y suaves al tacto
-- Camiseta de punto 100 % algodón
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DY1NLLN2{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Características: forro polar Polartec, construcción de 2 capas, forrado para mayor comodidad, longitud a la cadera, puños ajustables, apto para bordar, forro polar cepillado, poliéster cepillado en el interior del cuello y bolsillos para las manos, cordón ajustable en el dobladillo, capucha plegable en el cuello, ajuste de cordón interior de la capucha, sin PFC
-- Bueno para: navegación en tierra, vela náutica, estilo de vida marino, urbano, vida urbana, casual y desplazamientos
 - Una elegante chaqueta de capa intermedia con capucha diseñada para mantenerte caliente y seco en el agua
 - Ajuste: regular, ni delgada ni de gran tamaño. Las prendas de ajuste regular se pueden usar sobre capas intermedias más gruesas. Los pantalones tendrán una entrepierna estándar con un corte recto a través de la pierna.
 - Protección HELLY TECH: tejidos y construcciones totalmente impermeables, resistentes al viento y transpirables. Para todas las situaciones y condiciones climáticas en las que se necesita protección contra los elementos. Costuras totalmente selladas. Tratamiento repelente al agua duradero (DWR).
+- Características: forro polar Polartec, construcción de 2 capas, forrado para mayor comodidad, longitud a la cadera, puños ajustables, apto para bordar, forro polar cepillado, poliéster cepillado en el interior del cuello y bolsillos para las manos, cordón ajustable en el dobladillo, capucha plegable en el cuello, ajuste de cordón interior de la capucha, sin PFC
+- Bueno para: navegación en tierra, vela náutica, estilo de vida marino, urbano, vida urbana, casual y desplazamientos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CKSRSF6W{{</world>}}

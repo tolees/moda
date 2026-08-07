@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con capucha
-- Largo: estándar
-- Corte: estándar
 - Material principal: felpa francesa
 - Manga larga
+- Corte: estándar
+- Con capucha
+- Largo: estándar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DLKXVW18{{</world>}}

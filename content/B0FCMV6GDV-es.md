@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Camisa de manga larga con cuello camisero
 - Detalle de encaje en el canesú
 - Escote en v
-- Cierre con botones en la parte delantera y en los puños
 - Springfield new structure camisa con bordado de árboles, marrón, 38
-- Camisa de manga larga con cuello camisero
+- Cierre con botones en la parte delantera y en los puños
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FCMV6GDV{{</world>}}

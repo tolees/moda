@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Adecuado para fitness, montañismo y otro actividades al aire libre
 - Camiseta sin mangas con cuello redondeado
-- Con tecnología DRY MX, capaz de controlar la transpiración del deportista
+- Adecuado para fitness, montañismo y otro actividades al aire libre
 - Hecho de 100% poliéster
+- Con tecnología DRY MX, capaz de controlar la transpiración del deportista
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01CSU6DAK{{</world>}}

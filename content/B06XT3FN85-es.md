@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajuste regular
 - Cuello redondo
+- Ajuste regular
 - Camiseta algodón manga larga
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

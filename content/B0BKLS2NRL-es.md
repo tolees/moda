@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- CREMALLERA YKK
-- Cremallera YKK
 - Bolsillos laterales con cremallera
 - Polartec
+- Cremallera YKK
+- CREMALLERA YKK
 - Construcción con cremallera completa
 
 [🛒 Visítala!!!]({{< param buyurl >}})

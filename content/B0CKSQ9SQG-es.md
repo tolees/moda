@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Ajuste: regular, ni delgada ni de gran tamaño. Las prendas de ajuste regular se pueden usar sobre capas intermedias más gruesas. Los pantalones tendrán una entrepierna estándar con un corte recto a través de la pierna.
-- Bueno para: navegación en tierra, vela náutica, estilo de vida marino, urbano, vida urbana, casual y desplazamientos
-- Una elegante chaqueta de vela con capucha diseñada para mantenerte caliente y seco en el agua
 - Protección HELLY TECH: tejidos y construcciones totalmente impermeables, resistentes al viento y transpirables. Para todas las situaciones y condiciones climáticas en las que se necesita protección contra los elementos. Costuras totalmente selladas. Tratamiento repelente al agua duradero (DWR).
+- Una elegante chaqueta de vela con capucha diseñada para mantenerte caliente y seco en el agua
+- Bueno para: navegación en tierra, vela náutica, estilo de vida marino, urbano, vida urbana, casual y desplazamientos
 - Características: construcción de 2 capas, longitud a la cadera, puños ajustables, apto para bordados, poliéster cepillado en el interior del cuello y bolsillos para las manos, capucha plegable en el cuello, forro de malla para mayor comodidad, cordón ajustable en el dobladillo, capucha ajustable con cordón, sin PFC
 
 [🛒 Comprar!!!]({{< param buyurl >}})

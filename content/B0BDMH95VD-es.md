@@ -29,11 +29,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - GARANTÍA: No se preocupe, los productos Edihome disponen de garantía europea, asegurando a los clientes que su compra es totalmente fiable y protegida. La garantía de fábrica sólo está disponible a través de vendedores autorizados.
+- MEDIDAS: En la caja del producto verá indicadas las medidas de la propia caja por motivos logísticos. Estas medidas NO corresponden al producto. Por favor, abra la caja y verifique el contenido antes de interponer una queja o realizar la devolución.
+- FÁCIL LIMPIEZA Y VARIEDAD DE ENGANCHES: bastará con un paño húmedo para dejar tu perchero impecable. Nuestro burro tiene gran cantidad de colgadores que permiten aumentar la capacidad de almacenaje.
 - PORTÁTIL Y SEGURO: Gracias a su fácil montaje y a un peso contenido este perchero resulta ideal para ser trasladado o montado sin ningún tipo de problemas. Dispone de topes de seguridad para que las perchas no resbalen.
 - MATERIALES DE ALTA CALIDAD: Fabricado con tubos de acero pintado, con superficie lisa y pulida, resistente a la corrosión, el perchero Edihome presenta una alta resistencia y durabilidad, puede soportar hasta 30Kg.
 - MONTAJE SENCILLO: Herramienta incluida, fácil de montar y de desmontar. Incluye instrucciones para que no tengas ningún tipo de problema a la hora de montarlo.
-- FÁCIL LIMPIEZA Y VARIEDAD DE ENGANCHES: bastará con un paño húmedo para dejar tu perchero impecable. Nuestro burro tiene gran cantidad de colgadores que permiten aumentar la capacidad de almacenaje.
-- MEDIDAS: En la caja del producto verá indicadas las medidas de la propia caja por motivos logísticos. Estas medidas NO corresponden al producto. Por favor, abra la caja y verifique el contenido antes de interponer una queja o realizar la devolución.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BDMH95VD{{</world>}}

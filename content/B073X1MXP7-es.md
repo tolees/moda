@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ideal para combinar con vaqueros o pantalones cortos.
+- : TB International GmbH
 - Camisetas versátiles para cualquier ocasión
+- Ideal para combinar con vaqueros o pantalones cortos.
 - Disponible en varios colores y diseños
 - Cómodo cuello redondo.
-- : TB International GmbH
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B073X1MXP7{{</world>}}

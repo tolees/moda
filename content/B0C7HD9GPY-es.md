@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corte holgado
 - Bolsillo tipo canguro
+- Corte holgado
 - Forro de la capucha del mismo material
 
 [🛒 Comprar!!!]({{< param buyurl >}})

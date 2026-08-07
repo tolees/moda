@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - MEZCLA DE ALGODÓN Y LYOCELL: la mezcla de algodón y lyocell crea una textura de tela vaquera suave y ofrece una mayor comodidad
-- VESTIDO CON BOTONES: elegante vestido con botones para un estilo desenfadado, ideal para el trabajo y el fin de semana
 - DETALLES: mangas cortas, bolsillos en el pecho, cinturón en la cintura y botones en la parte delantera
+- VESTIDO CON BOTONES: elegante vestido con botones para un estilo desenfadado, ideal para el trabajo y el fin de semana
 - CORTE HOLGADO: Se ajusta a los hombros y tiene un ajuste holgado en todo el cuerpo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

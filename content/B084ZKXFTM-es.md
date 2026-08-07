@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Elegantes y originales
-- Moda mujer moda mezclando ropa
 - Jersey de cuello alto
+- Moda mujer moda mezclando ropa
 - Cómodo y práctico
 
 [🛒 Comprar!!!]({{< param buyurl >}})

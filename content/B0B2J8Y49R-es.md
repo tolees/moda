@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La chaqueta Hydropower Ocean es una chaqueta de regata versátil y ligera; pensando en el medio ambiente, está fabricada con más del 50% de materiales reciclados
+- Exterior: 57% poliéster (reciclado), 31% viscosa, 9% poliéster, 3% elastán
 - Chaqueta de vela versátil y ligera fabricada con materiales reciclados
 - Artículos entregados: 1x Helly Hansen Hombre Chaqueta Hydropower Ocean Cierre Completo 2;0,2XL,Gris Melange
-- Exterior: 57% poliéster (reciclado), 31% viscosa, 9% poliéster, 3% elastán
+- La chaqueta Hydropower Ocean es una chaqueta de regata versátil y ligera; pensando en el medio ambiente, está fabricada con más del 50% de materiales reciclados
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B2J8Y49R{{</world>}}

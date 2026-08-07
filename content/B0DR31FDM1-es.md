@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Garantía internacional de 2 años
-- NO
-- Talla 56/17/140
 - Silver
+- Garantía internacional de 2 años
+- Talla 56/17/140
+- NO
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DR31FDM1{{</world>}}

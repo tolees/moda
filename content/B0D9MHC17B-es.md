@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bordado de G-STAR en el pecho
 - Etiqueta de G-STAR Originals tejida en la parte trasera
+- Bordado de G-STAR en el pecho
 - Cuello acanalado
 - Inserción acanalada y pespunte bordado en la parte delantera
 - Medio puño, acanalado

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Este estilo ha sido producido de forma sostenible
 - CLARKS Sailview Step Light, color nobuck, color tostado, 39,5
+- Este estilo ha sido producido de forma sostenible
 - Garantiza un ajuste óptimo
 - Cómodo de llevar
 

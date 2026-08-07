@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Acolchado de contorno
 - Clarks Shoes, Bratton Loafer, Navy Leather, 8 (Men)
+- Acolchado de contorno
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CC2WX1FS{{</world>}}

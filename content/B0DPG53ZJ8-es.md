@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material: algodón, reciclado, poliéster, 280 g/m2
 - Ajuste: __ Comfort Fit
+- Material: algodón, reciclado, poliéster, 280 g/m2
 - Rib 1 x 1 en cuffs and Bottom Hem
 - Detalles del paquete: Embroidery on Chest
 

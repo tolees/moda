@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- G-Star Originals label at the chest
 - Faux uni design pattern
-- Button closure
+- G-Star Originals label at the chest
 - Shirt collar
+- Button closure
 - Long sleeves
 
 [🛒 Visítala!!!]({{< param buyurl >}})

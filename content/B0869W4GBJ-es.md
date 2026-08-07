@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Bicolor
-- Corte ajustado
-- Jersey de cuello alto bicolor
 - Malla fina
+- Jersey de cuello alto bicolor
+- Corte ajustado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0869W4GBJ{{</world>}}

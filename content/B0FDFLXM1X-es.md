@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CLÁSICO TODOTERRENO: Esta camisa, imprescindible en cualquier armario, es una prenda muy fácil de combinar y que realza cualquier conjunto. Es el complemento perfecto para llevar con vaqueros informales todos los días.
-- MATERIAL Y CUIDADO: Camisa confeccionada en 60 % algodón y 40 % nailon. Se puede lavar a máquina.
-- COMODA Y CON DETALLES ESPECIALES: Gracias a su tejido de alta calidad, la camisa oversized es supercómoda de llevar todo el día. Los detalles distintivos de Tommy Jeans proporcionan un toque especial.
 - ICÓNICO Y ATEMPORAL: La camisa original de Tommy Jeans con cuello inglés tiene un corte holgado. El diseño sencillo y depurado convierte a esta camisa holgada en un clásico que no puede faltar en ningún armario.
 - MODA URBANA REINTERPRETADA: Para acercar las populares prendas de los 90 a las nuevas generaciones, Tommy Jeans se inspira en los iconos del hip-hop de aquella época. Apostando por prendas de alta calidad y diseños modernos con mucho denim.
+- COMODA Y CON DETALLES ESPECIALES: Gracias a su tejido de alta calidad, la camisa oversized es supercómoda de llevar todo el día. Los detalles distintivos de Tommy Jeans proporcionan un toque especial.
+- MATERIAL Y CUIDADO: Camisa confeccionada en 60 % algodón y 40 % nailon. Se puede lavar a máquina.
+- CLÁSICO TODOTERRENO: Esta camisa, imprescindible en cualquier armario, es una prenda muy fácil de combinar y que realza cualquier conjunto. Es el complemento perfecto para llevar con vaqueros informales todos los días.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FDFLXM1X{{</world>}}

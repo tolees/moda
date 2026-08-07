@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Fabricado con Omni-Shade: combinaciones diseñadas de fibras, hilos y estructuras de tejido que bloquean una gama más amplia de dañinos rayos UVA y UVB.
-- Ajuste activo que garantiza una amplitud de movimiento completa, diseño de talle medio, Exterior: 94% nailon, 6% elastano
 - Contenido: 1x Columbia Pantalón Leslie Falls Capri II para Mujer, Color: Collegiate Navy (Azul), Talla: W6/C
-- Leslie Falls Capri es la prenda que necesitas para tus aventuras al aire libre. Con protección UPF 50 y longitud ajustable, puedes personalizar su ajuste para cada sendero que explores.
+- Ajuste activo que garantiza una amplitud de movimiento completa, diseño de talle medio, Exterior: 94% nailon, 6% elastano
 - Trabillas para el cinturón, rodillas articuladas, pantalones capri que se enrollan hasta la rodilla, bolsillos para las manos, bolsillo de caída y bolsillo de seguridad con cremallera, dobladillo ajustable a presión y lazo de utilidad.
+- Leslie Falls Capri es la prenda que necesitas para tus aventuras al aire libre. Con protección UPF 50 y longitud ajustable, puedes personalizar su ajuste para cada sendero que explores.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D4F8TQ35{{</world>}}

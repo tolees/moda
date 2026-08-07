@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Vuelve la marca Matutano, para traer memorias y nuevos productos para toda la familia
 - Formato de 150 gramos, optimo tanto para compartir como para comer de manera individual
 - Sabor a barbacoa en forma de cilindros
-- Vuelve la marca Matutano, para traer memorias y nuevos productos para toda la familia
 - Aperitivo de maíz
 
 [🛒 Comprar!!!]({{< param buyurl >}})

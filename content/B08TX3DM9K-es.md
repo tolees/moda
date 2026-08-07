@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corte bota
-- Tipo: vaquero de campana azul oscuro lavado, ajustado y ceñido en la parte superior, de talle bajo.
-- 99% Algodón, 1% Elástico
 - Cierre: Botón
 - Lavar a máquina
+- 99% Algodón, 1% Elástico
+- Corte bota
+- Tipo: vaquero de campana azul oscuro lavado, ajustado y ceñido en la parte superior, de talle bajo.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08TX3DM9K{{</world>}}

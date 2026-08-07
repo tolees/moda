@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Modelo Unisex; Medidas: Frontal 140 mm, Varillas 127 mm, Puente 7 mm, Alto 43 mm
-- Material de la montura: TR90; Color de la montura: Rojo; Color de la varilla: Rojo
 - Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes de TR18 con el sello de Eastman, gran calidad óptica y resistencia; respetuoso con el medio ambiente; protección 100% UV; Color de la lente: Beis; Apariencia de la lente: Espejo
 - Producto original Hawkers; la caja incluye funda en microfibra y caja
+- Material de la montura: TR90; Color de la montura: Rojo; Color de la varilla: Rojo
 - Este diseño slim racer trae de vuelta el estilo #Y2K; una silueta deportiva envolvente y ergonómica que evoluciona con una estética más fashion agregando un toque urbano y futurista a los looks más casuales; un verdadero statement para los que quieren reafirmar su status de trendsetter; disponible en varios colores de monturas y lentes
 
 [🛒 Visítala!!!]({{< param buyurl >}})

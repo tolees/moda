@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers TRESMEN GARO Sandalias para Hombre Black Synthetic 42 EU'
-date: 2026-08-06 07:43:42
+date: 2026-08-07 18:34:09
 image: 'https://m.media-amazon.com/images/I/41uO2yh0vmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WM8XC31/?tag=tolees-21'
 descuento: '40.00'
-average: '38.218'
+average: '38.4328571428571'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

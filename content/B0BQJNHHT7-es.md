@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cintura elástica con cordón
 - Corte regular y cónico
+- Cintura elástica con cordón
 - Bolsillos laterales
 
 [🛒 Visítala!!!]({{< param buyurl >}})

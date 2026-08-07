@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cuidado: Dado que el material es fácil de cuidar, se puede lavar fácilmente a máquina.
-- Diseño: Las camisetas de manga corta para niñas tienen un diseño clásico de cuello redondo y mangas voladoras de moda. Hay cordones en ambos lados de la ropa, lo que hace que la camiseta sea más delgada, divertida y linda.
 - Ocasión: Ya sea en el patio de recreo, en una fiesta en el jardín o como prenda informal, esta versátil camiseta es imprescindible en el guardarropa de cualquier chica con estilo.
 - Material: esta bonita camiseta de manga corta está hecha de material de alta calidad, suave y cómodo al tacto.
+- Diseño: Las camisetas de manga corta para niñas tienen un diseño clásico de cuello redondo y mangas voladoras de moda. Hay cordones en ambos lados de la ropa, lo que hace que la camiseta sea más delgada, divertida y linda.
 - Maridaje: Las camisetas para niña se pueden combinar fácilmente con pantalones cortos, faldas, vaqueros, pantalones deportivos, zapatos planos, zapatillas de deporte o con cárdigans o chaquetas en primavera y otoño.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

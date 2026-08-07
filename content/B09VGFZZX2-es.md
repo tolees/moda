@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Cuello, dobladillo y puños plegables
 - Puños acanalados
 - Cuello redondo
-- Cuello, dobladillo y puños plegables
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09VGFZZX2{{</world>}}

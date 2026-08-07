@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre de cordones
 - Contiene al menos un 70% de material reciclado y renovable
+- Cierre de cordones
 - Corte clásico
 - Bolsillos laterales
 - 74% algodón / 26% poliéster (reciclado)

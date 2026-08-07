@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Marca: HAIMAYEE
 - Talla: 38 UE
+- Marca: HAIMAYEE
 - HAIMAYEE Zapatos de Seguridad S3 Mujer 38 Zapatos de Trabajo con Puntera de Acero Hombres Zapatos de Trabajo de Verano Zapatillas de Seguridad Ligeras Kevlar Zapatos de Protección para Niños Niños Gris
 
 [🛒 Aquí!!!]({{< param buyurl >}})

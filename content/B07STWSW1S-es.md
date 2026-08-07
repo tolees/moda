@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre: pull-on
-- Suela: goma
 - Forma del tacón: plano
+- Suela: goma
+- Cierre: pull-on
 - Material interior: sintético
 - Material exterior: sintético
 

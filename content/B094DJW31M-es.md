@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- __ Corte:__ diseño ajustado
 - __Tejido:__ Tejido de algodón [200 g / m2]
-- Estampado en el centro del bolsillo
 - __ Cuello:__ cuello redondo
+- Estampado en el centro del bolsillo
+- __ Corte:__ diseño ajustado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B094DJW31M{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Corte entallado
-- Interlock 100% poliéster reciclado
 - Tejido transpirable AEROREADY
+- Interlock 100% poliéster reciclado
+- Corte entallado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09H7LWYNC{{</world>}}

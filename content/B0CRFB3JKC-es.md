@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Forro antibacteriano
-- Suela y goma acanalada flexible
 - Plantilla de espuma de poliuretano parcialmente reciclada
+- Suela y goma acanalada flexible
+- Forro antibacteriano
 - Cuero duradero de origen responsable
 - Cremallera interior para poner y quitar fácilmente
 

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Camiseta de media longitud con canalé en el cuello. Gráficos multicolor con purpurina. Corte regular
 - Camiseta de manga corta con cuello acanalado y ajuste regular, gráficos multicolor con purpurina
 - Camiseta de manga corta con ribete en el cuello. Gráficos multicolor con purpurina. Corte regular
+- Camiseta de media longitud con canalé en el cuello. Gráficos multicolor con purpurina. Corte regular
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C9QV9FGM{{</world>}}

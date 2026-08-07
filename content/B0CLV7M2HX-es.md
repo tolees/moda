@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Longitud estándar
 - Cuello de botón hacia abajo
 - Puños redondeados
 - Ajuste normal
+- Longitud estándar
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CLV7M2HX{{</world>}}

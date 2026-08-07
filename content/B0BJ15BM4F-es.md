@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Longitud, tamaño: longitud midi
 - Ajuste: corte normal
+- Longitud, tamaño: longitud midi
 - Mangas: manga corta
 
 [🛒 Comprar!!!]({{< param buyurl >}})

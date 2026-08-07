@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cómoda y transpirable: por su material 100% algodón, es ideal para el día a día por su alta transpirabilidad, es hipoalergénica y a la vez adecuada para hacer deporte; se lava a máquina.
-- Un must-have: esta prenda no te puede faltar si te gusta combinar básicos con complementos u otras prendas que resalten en tu outfit casual, sin tener que invertir mucho tiempo.
-- Diseño moderno: aunque es una camiseta básica, su corte es especial, ya que su cuello es amplio dejando la clavícula visible y es holgada en la parte inferior, aspecto más relajado y moderno.
 - El fondo de armario: esta camiseta ancha es tan básica que es muy fácil de combinar con cualquier look de diario o más arreglado, por lo que es un imprescindible en cualquier armario.
+- Cómoda y transpirable: por su material 100% algodón, es ideal para el día a día por su alta transpirabilidad, es hipoalergénica y a la vez adecuada para hacer deporte; se lava a máquina.
 - Volumen de suministro: Camiseta oversized larga de mangas cortas, corte moderno y relajado, de mujer, mangas remangadas, distintos colores y tallas, de Urban Classics.
+- Diseño moderno: aunque es una camiseta básica, su corte es especial, ya que su cuello es amplio dejando la clavícula visible y es holgada en la parte inferior, aspecto más relajado y moderno.
+- Un must-have: esta prenda no te puede faltar si te gusta combinar básicos con complementos u otras prendas que resalten en tu outfit casual, sin tener que invertir mucho tiempo.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01MUBA72H{{</world>}}

@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Cierre mediante cremallera lateral y cordones para un buen ajuste. Tirador trasero para facilitar la puesta
 - [Nuestra Marca]: XTI se caracteriza por su moda urbana y funcional con calzado que combina las últimas tendencias con comodidad y versatilidad para un estilo de vida activo y moderno.
-- Suela gruesa de goma antideslizante con 6 cm de tacón. Un buen básico para tu armario. Este modelo ha obtenido el certificado vegano por la organización mundial PETA (Organización de los derechos de los animales)
 - Botín de mujer, de la marca Xti. Fabricado en material que imita la piel
+- Suela gruesa de goma antideslizante con 6 cm de tacón. Un buen básico para tu armario. Este modelo ha obtenido el certificado vegano por la organización mundial PETA (Organización de los derechos de los animales)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CZY2HYKQ{{</world>}}

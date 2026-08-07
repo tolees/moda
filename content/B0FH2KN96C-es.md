@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pierna recta
-- Composición: 74% algodón 24 por ciento poliéster 2 por ciento elastano
 - Corte estándar
+- Composición: 74% algodón 24 por ciento poliéster 2 por ciento elastano
+- Pierna recta
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FH2KN96C{{</world>}}

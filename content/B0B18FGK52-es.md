@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Corte entallado
-- camisa de negocios popelina
 - Cierre de botón, una buena camisa para cualquier ocasión
+- camisa de negocios popelina
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B18FGK52{{</world>}}

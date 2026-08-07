@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Este muñeco de Allan se parece mucho al personaje de la película, entre otras cosas, porque tiene el pelo rojo ondulado.
-- Allan es el mejor amigo de Ken, por lo que es un juguete coleccionable perfecto para fans de la película. ¡Echa un vistazo a la colección entera para descubrir más ideas de regalo fantásticas! Se venden por separado y están sujetas a disponibilidad.
-- Recrea además otra escena de la película con el segundo conjunto intercambiable de Allan: una camiseta de rayas, un bañador azul y unas sandalias a juego.
 - ¡Allan no hay más que uno! Barbie celebra la película de “Barbie” recreando los looks característicos del personaje de Michael Cera en la película.
 - Allan lleva un conjunto inspirado en una escena icónica de la película, formado por un mono rosa y unas gafas de sol negras.
+- Recrea además otra escena de la película con el segundo conjunto intercambiable de Allan: una camiseta de rayas, un bañador azul y unas sandalias a juego.
+- Allan es el mejor amigo de Ken, por lo que es un juguete coleccionable perfecto para fans de la película. ¡Echa un vistazo a la colección entera para descubrir más ideas de regalo fantásticas! Se venden por separado y están sujetas a disponibilidad.
+- Este muñeco de Allan se parece mucho al personaje de la película, entre otras cosas, porque tiene el pelo rojo ondulado.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F2594KSN{{</world>}}

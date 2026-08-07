@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- La clásica camiseta de manga larga
 - Adecuada para temperaturas frías
 - Cuello redondo debajo de un cárdigan abierto y con una chaqueta vaquera
-- La clásica camiseta de manga larga
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0085SFZZE{{</world>}}

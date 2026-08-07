@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Contenido: 1x Columbia Pantalón Corto Rapid Rivers Cargo para Hombre, Color: City Grey (Gris), Talla: W28/L9
-- Fabricado con tecnología Omni-Shade: Combinaciones de ingeniería de estructuras de fibras, hilos y tejidos seleccionados que bloquean una gama más amplia de rayos UVA y UVB nocivos.
 - Elástico en 2 direcciones para mayor comodidad, bolsillos traseros y para las manos de fácil acceso, bolsillos cargo, cintura elástica con cordón ajustable, puños ceñibles
+- Fabricado con tecnología Omni-Shade: Combinaciones de ingeniería de estructuras de fibras, hilos y tejidos seleccionados que bloquean una gama más amplia de rayos UVA y UVB nocivos.
+- Contenido: 1x Columbia Pantalón Corto Rapid Rivers Cargo para Hombre, Color: City Grey (Gris), Talla: W28/L9
 - El pantalón corto Rapid River Cargo es tu pantalón corto de aventura, diseñado para ofrecer comodidad y utilidad, para moverte con facilidad gracias a su tejido elástico bidireccional que bloquea los rayos UV y para guardar tu equipo de forma segura en los bolsillos cargo.
 - Corte recto con elasticidad que permite una gran amplitud de movimiento, 9" entrepierna, 97% algodón, 3% elastano.
 

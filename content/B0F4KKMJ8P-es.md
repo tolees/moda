@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cremallera oculta con cierre de botón a presión
 - Dos bolsillos ribeteados en ángulo en la cintura
+- Cremallera oculta con cierre de botón a presión
 - Un bolsillo interior con cremallera
 
 [🛒 Aquí!!!]({{< param buyurl >}})

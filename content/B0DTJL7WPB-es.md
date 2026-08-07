@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pepe jeans Logotipo con lentejuelas
 - Camiseta de manga corta con cuello redondo
 - 100 % algodón
+- Pepe jeans Logotipo con lentejuelas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DTJL7WPB{{</world>}}

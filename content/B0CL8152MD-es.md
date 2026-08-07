@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuello redondo
 - Ajuste estándar
+- Cuello redondo
 - Impresión de pigmentos para una impresión suave en tejidos más claros
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cuello redondo
 - Camiseta masculina
 - Producto de calidad
-- Cuello redondo
 - Color: negro
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

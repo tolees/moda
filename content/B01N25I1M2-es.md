@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material exterior: Cuero
 - Cierre: Cordones
+- Material exterior: Cuero
 - Material de la suela: Caucho
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -32,9 +32,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - Horma clásica
 - Forro textil
 - Puntera reforzada
-- Empeine textil
 - Forro textil
 - Cierre de cordones
+- Empeine textil
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CKXZQ1S7{{</world>}}

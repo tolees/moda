@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Detalle gráfico en el pecho
+- Tela ligera
+- Una mirada original
 - Paquete individual
 - Proporciona comodidad
-- Una mirada original
-- Tela ligera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CB1W971Z{{</world>}}

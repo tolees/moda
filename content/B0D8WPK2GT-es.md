@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Una mirada original
 - Proporciona comodidad
-- Estampado gráfico en el pecho
 - Estampado gráfico en la parte posterior
+- Estampado gráfico en el pecho
+- Una mirada original
 - Cuello acanalado
 
 [🛒 Visítala!!!]({{< param buyurl >}})

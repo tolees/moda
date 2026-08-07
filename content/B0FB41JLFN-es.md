@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Calzado transpirable
 - Ofrece comodidad
 - Estilo deportivo
+- Calzado transpirable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FB41JLFN{{</world>}}

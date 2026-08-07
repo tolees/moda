@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Chaqueta vaquera clásica para mujer de la marca. Only
-- Corte entallado que abraza el cuerpo
-- Se puede cerrar con botones
 - Cuello abatible
+- Se puede cerrar con botones
 - Mezclilla elástica
+- Corte entallado que abraza el cuerpo
+- Chaqueta vaquera clásica para mujer de la marca. Only
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BBH79RLP{{</world>}}

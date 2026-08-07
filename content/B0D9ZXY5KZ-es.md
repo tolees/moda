@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- DETALLES: Los pies unidos mantienen los dedos calientes. Cremallera unidireccional completa desde el tobillo hasta la barbilla. Diseñado con un tiro de longitud completa
-- COLABORACIÓN CON SOFIA GRAINGE: Estilos inspirados para los más pequeños, creados en colaboración con Sofia Grainge
 - AJUSTE CLÁSICO: Ajuste cómodo en todo el cuerpo
+- COLABORACIÓN CON SOFIA GRAINGE: Estilos inspirados para los más pequeños, creados en colaboración con Sofia Grainge
+- DETALLES: Los pies unidos mantienen los dedos calientes. Cremallera unidireccional completa desde el tobillo hasta la barbilla. Diseñado con un tiro de longitud completa
 - TELA: Tejido de punto de algodón suave, transpirable y superdelicado para bebés
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

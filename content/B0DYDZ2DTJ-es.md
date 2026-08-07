@@ -28,14 +28,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuello de solapa
 - Punto fino
+- Cierre de cremallera en la parte delantera
+- Manga larga
+- Cuello de solapa
+- Punto aterciopelado
+- Apliques solapas con un botón en el pecho
 - Corte recto y corto
 - Cárdigan manga larga cuello de solapa
-- Manga larga
-- Apliques solapas con un botón en el pecho
-- Punto aterciopelado
-- Cierre de cremallera en la parte delantera
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DYDZ2DTJ{{</world>}}

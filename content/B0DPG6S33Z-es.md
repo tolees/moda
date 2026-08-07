@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sleeves: __ Sleeves largas
-- Colección Mainline
 - Ajuste: __ Relax Fit
+- Colección Mainline
+- Sleeves: __ Sleeves largas
 - Neck:__ Mock Necck
 
 [🛒 Aquí!!!]({{< param buyurl >}})

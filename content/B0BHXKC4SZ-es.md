@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Tipo de detalle: chaqueta tipo blusón
 - Tipo de puño: puños acados
-- Tejido: ante sintético
 - Composición del material: exterior: 100% poliéster; forro: 100% poliéster; manga: 100% poliéster; acado: 100% poliéster
+- Tejido: ante sintético
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BHXKC4SZ{{</world>}}

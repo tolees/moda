@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tiene logotipo de la marca impreso en el pecho
-- Ajuste regular
-- Capucha con cordón
 - Tela suave
+- Capucha con cordón
+- Ajuste regular
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08QZ8VHP6{{</world>}}

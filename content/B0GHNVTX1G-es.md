@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camiseta Manga Corta Mujer Material: 92% Algodón + 8% Elastano, confeccionado en tejido de punto acanalado. Es suave, elástico, ligero, transpirable y cómodo de llevar.
-- Nota: Lavar a mano o a máquina a una temperatura inferior a 30 grados. No blanquear, colgar para secar.
 - Partido: Esta camiseta básica es sencilla pero elegante y estilosa para combinar con vaqueros moda, faldas leggings, pantalones cortos, vestidos o pantalones largos en verano.
-- Ocasión: Moda y2k blusa es elección perfecta para desgaste diario, casual, actividades al aire libre, ir de compras, vacaciones, viajes, salir, club, fiesta, citas.
+- Camiseta Manga Corta Mujer Material: 92% Algodón + 8% Elastano, confeccionado en tejido de punto acanalado. Es suave, elástico, ligero, transpirable y cómodo de llevar.
 - Diseño: Top punto para mujer, manga corta, cuello cuadrado, corte entallado, color sólido, casual verano túnica t shirts.
+- Nota: Lavar a mano o a máquina a una temperatura inferior a 30 grados. No blanquear, colgar para secar.
+- Ocasión: Moda y2k blusa es elección perfecta para desgaste diario, casual, actividades al aire libre, ir de compras, vacaciones, viajes, salir, club, fiesta, citas.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GHNVTX1G{{</world>}}

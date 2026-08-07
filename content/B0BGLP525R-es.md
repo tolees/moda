@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Color: Marino
 - Talla: 10,5 UK
 - CLARKS Botines para hombre 26168085 DESERT BT EVO NAVY talla 45
+- Color: Marino
 - Clarks Boots, Desert Bt Evo, Navy Suede, 10,5 (Men)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

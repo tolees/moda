@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- DETALLES: capucha que se guarda, cierre frontal con cremallera y broche, puños ajustables, bolsillos con cremallera y costuras estilizadas, selladas e impermeables. Se guarda en su propia bolsa
 - LONGITUD DE LA PRENDA: 64,8cm desde el cuello en la talla S de España
+- DETALLES: capucha que se guarda, cierre frontal con cremallera y broche, puños ajustables, bolsillos con cremallera y costuras estilizadas, selladas e impermeables. Se guarda en su propia bolsa
 - CHAQUETA IMPERMEABLE PLEGABLE: la chaqueta moderna y ligera te mantiene seca en los días más lluviosos; combínala con una prenda interior para mayor calidez
-- CORTE ESTÁNDAR: corte ajustado pero cómodo en el pecho, cintura y caderas
 - NAILON ELÁSTICO IMPERMEABLE: el elegante nailon elástico impermeable con acabado mate ofrece una mayor protección contra todo tipo de clima y facilita el movimiento
+- CORTE ESTÁNDAR: corte ajustado pero cómodo en el pecho, cintura y caderas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F351W6TD{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diseño y detalles：El diseño de efecto dos piezas con contraste de color y tejido de canalé realza la silueta, mientras que el cuello U aporta un toque femenino y moderno
+- Cuidado y mantenimiento：Lavar a máquina o a mano, colgar o secar al aire libre, no usar lejía, no limpiar en seco, seguir la talla habitual y consultar la tabla de tallas en la descripción o imágenes del producto
 - Ocasiones de uso：Ideal para el día a día, salidas, citas, vacaciones o looks casual chic, fácil de combinar con vaqueros, faldas o pantalones de cintura alta
 - Estilo y ajuste：Corte slim fit que se adapta al cuerpo, creando un look sexy y elegante sin perder comodidad, perfecto para quienes buscan un top mujer ajustado y actual
+- Diseño y detalles：El diseño de efecto dos piezas con contraste de color y tejido de canalé realza la silueta, mientras que el cuello U aporta un toque femenino y moderno
 - Material suave y elástico：Confeccionada en 92% viscosa y 8% spandex, esta camiseta mujer ofrece un tacto suave, buena transpirabilidad y elasticidad cómoda, ideal para primavera y verano
-- Cuidado y mantenimiento：Lavar a máquina o a mano, colgar o secar al aire libre, no usar lejía, no limpiar en seco, seguir la talla habitual y consultar la tabla de tallas en la descripción o imágenes del producto
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0G64NWX7N{{</world>}}

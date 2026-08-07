@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia.
+- Producto oficial Northweek.Incluye: Funda en microfibra y caja
+- Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores. Lentes categoría 3 fabricadas con material bio tac polarizado y protección uv400.
 - Te presentamos la versión Made in Spain de “REGULAR”, nuestro mayor Best Seller. Fabricado en España con las últimas tecnologías y dando como resultado una montura aún más ligera, resistente y sostenible gracias al Desperdicio Cero, este diseño actualizado presenta una montura atemporal de gran versatilidad y estilo deportivo. Un modelo perfecto para las mentes conscientes y hambrientas de estilo en su día a día.
 - Modelo Unisex. Medidas: Frontal 140 mm; Alto 47 mm; Patillas 143 mm
-- Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores. Lentes categoría 3 fabricadas con material bio tac polarizado y protección uv400.
-- Producto oficial Northweek.Incluye: Funda en microfibra y caja
+- Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CDQGV9K9{{</world>}}

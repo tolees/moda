@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material de la montura: TR90. Color de la montura: Rosa. Color de la varilla: Rosa.
-- Producto original Hawkers, la caja incluye funda en microfibra y caja
+- Modelo Femenino. Medidas: Frontal 140.6 mm, Varillas 145 mm , Puente 16 mm , Alto 50 mm.
 - ONE LS es un rediseño del modelo ONE, uno de nuestros diseños más icónicos. Este modelo, de la colección Made in Spain, tiene un diseño atemporal con lentes cuadradas y varillas finas. Será el básico perfecto para tu día a día. Disponible en varios colores de lentes y montura.
 - Categoría de filtro 3, color suficientemente oscuro para usar en exterior a pleno sol. Absorben entre un 82% y un 92% de luz solar. Material de la lente: Lentes de TR18 con el sello de Eastman, gran calidad óptica y resistencia. Respetuoso con el medio ambiente. Protección 100% UV. Color de la lente: Negro, Rosa. Apariencia de la lente: Gradiente.
-- Modelo Femenino. Medidas: Frontal 140.6 mm, Varillas 145 mm , Puente 16 mm , Alto 50 mm.
+- Material de la montura: TR90. Color de la montura: Rosa. Color de la varilla: Rosa.
+- Producto original Hawkers, la caja incluye funda en microfibra y caja
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GFPF5XZC{{</world>}}

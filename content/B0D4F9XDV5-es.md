@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Duraderos pantalones cortos para chicos, confeccionados en tejido de secado rápido, perfectos para aventuras al aire libre, que proporcionan comodidad y libertad de movimientos.
-- Tejido con tratamiento de secado rápido, trabillas para cinturón y lazo de utilidad, cintura interior ajustable, bolsillos de mano para objetos pequeños, orificios de drenaje para aventuras a lo largo del agua.
-- Omni-Shield: Una tecnología duradera y de secado rápido que repele el agua y las manchas impidiendo que los líquidos se absorban en los hilos y saturen o manchen tu ropa.
-- Contenido: 1x Columbia Pantalón Corto Youth Tech Trail Utility, Color: tuscan (Naranja), Talla: XL
 - Corte recto para una mayor libertad de movimiento, Exterior: 95% poliéster, 5% elastán
+- Omni-Shield: Una tecnología duradera y de secado rápido que repele el agua y las manchas impidiendo que los líquidos se absorban en los hilos y saturen o manchen tu ropa.
+- Duraderos pantalones cortos para chicos, confeccionados en tejido de secado rápido, perfectos para aventuras al aire libre, que proporcionan comodidad y libertad de movimientos.
+- Contenido: 1x Columbia Pantalón Corto Youth Tech Trail Utility, Color: tuscan (Naranja), Talla: XL
+- Tejido con tratamiento de secado rápido, trabillas para cinturón y lazo de utilidad, cintura interior ajustable, bolsillos de mano para objetos pequeños, orificios de drenaje para aventuras a lo largo del agua.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D4F9XDV5{{</world>}}

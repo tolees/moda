@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Camiseta de punto de manga corta de algodón orgánico
-- Imagen de búho con tinta de efecto metálico
 - Imagen de la marca KARL LAGERFELD
+- Imagen de búho con tinta de efecto metálico
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DY1N8DFZ{{</world>}}

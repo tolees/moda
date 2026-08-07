@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ofrece comodidad
 - Cuello redondo
+- Ofrece comodidad
 - Manga corta
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

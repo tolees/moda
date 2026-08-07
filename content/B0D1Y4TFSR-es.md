@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Estampado de G-STAR en el pecho
 - Etiqueta de G-STAR tejida en la costura lateral inferior
 - Aberturas laterales
-- Proporciona comodidad
 - Cuello e inserción acanalados
+- Estampado de G-STAR en el pecho
+- Proporciona comodidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D1Y4TFSR{{</world>}}

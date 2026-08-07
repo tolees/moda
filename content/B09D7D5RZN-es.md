@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Longitud hasta 170 cm
-- Cierre de metal de alta
 - Ancho: aprox. 4 cm
+- Cierre de metal de alta
 - La mejor piel de vacuno
+- Longitud hasta 170 cm
 - Se puede acortar tú mismo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- YKK VISLON
 - PROTECCIÓN HELLY TECH
 - Puño ajustable con botones a presión
+- YKK VISLON
 - Logotipo impreso de HH
 - Capucha ajustable
 

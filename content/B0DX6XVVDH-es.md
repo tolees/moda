@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers Sandalias Planas 141473 Mujer Marino'
-date: 2026-08-06 06:08:06
+date: 2026-08-07 16:21:49
 image: 'https://m.media-amazon.com/images/I/41YoU+p2doL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

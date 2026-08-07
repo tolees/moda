@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Instrucciones de cuidado: lavable a máquina
-- Jeans Pantalones Largos
-- Composición: 94 por ciento de algodón 5 por ciento elastomultiéster 1 por ciento de elastano
 - Tipo de estiramiento: Medium Stretch
+- Composición: 94 por ciento de algodón 5 por ciento elastomultiéster 1 por ciento de elastano
+- Jeans Pantalones Largos
 - Ajuste: Slim Tapered
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

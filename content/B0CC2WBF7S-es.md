@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Concebido para la práctica de cualquier deporte, este llamativo diseño ultraligero combina montura de color verde neón en acabado brillo, lentes polaraizadas negras montadas al aire y terminales y nosepads negros engomados para mejorar su sujeción al realizar cualquier movimiento
-- Producto original Hawkers; la caja incluye funda en microfibra y caja
-- Material de la montura: TR90; Color de la montura: Verde; Color de la varilla: Verde, Negro
-- Modelo Masculino; Medidas: Frontal 145;1 mm, Varillas 123 mm, Puente 18 mm, Alto 45;4 mm
 - Gafas de sol polarizadas: Reduce los reflejos superficiales y la fatiga ocular proporcionando nitidez y contrastes superiores; Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes fabricadas en material bio tac polarizado; protección 100 % UV; Color de la lente: Negro; Apariencia de la lente: Sólida
+- Concebido para la práctica de cualquier deporte, este llamativo diseño ultraligero combina montura de color verde neón en acabado brillo, lentes polaraizadas negras montadas al aire y terminales y nosepads negros engomados para mejorar su sujeción al realizar cualquier movimiento
+- Material de la montura: TR90; Color de la montura: Verde; Color de la varilla: Verde, Negro
+- Producto original Hawkers; la caja incluye funda en microfibra y caja
+- Modelo Masculino; Medidas: Frontal 145;1 mm, Varillas 123 mm, Puente 18 mm, Alto 45;4 mm
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CC2WBF7S{{</world>}}

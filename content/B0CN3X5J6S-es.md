@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contenido: 1x Columbia Hombre Chaqueta Slope Style, Color: Verde (Canteen, Safari, Black), Talla: XL, Artículo: 2087401
-- Chaqueta de esquí aislante diseñada para mantenerte caliente y seco en las pistas, Con forro térmico reflectante y tejido impermeable
 - Mantén los elementos del clima a raya con la capucha y los puños ajustables, mientras que el faldón ajustable bloquea el viento y la nieve
 - Con forro transpirable termorreflectante Omni-Heat para que te mantengas abrigado y cómodo cuando bajan las temperaturas
+- Contenido: 1x Columbia Hombre Chaqueta Slope Style, Color: Verde (Canteen, Safari, Black), Talla: XL, Artículo: 2087401
+- Chaqueta de esquí aislante diseñada para mantenerte caliente y seco en las pistas, Con forro térmico reflectante y tejido impermeable
 - Mantén tus pertenencias seguras en las pistas con los bolsillos laterales con cremallera, el bolsillo interior de seguridad, el bolsillo para gafas y el bolsillo para el forfait
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Cuello : De cuello vuelto
+- Artículo : Jersey de punto
 - Manga : Manga larga
 - Corte : Corte relaxed
-- Artículo : Jersey de punto
-- Cuello : De cuello vuelto
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DZHY3SMP{{</world>}}

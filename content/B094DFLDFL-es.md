@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- __ Cuello:__ cuello redondo
-- __Tejido:__ Tejido de algodón [200 g / m2]
 - __ Corte:__ corte normal, clásico, cómodo
+- __Tejido:__ Tejido de algodón [200 g / m2]
+- __ Cuello:__ cuello redondo
 - Estampado en el pecho
 
 [🛒 Comprar!!!]({{< param buyurl >}})

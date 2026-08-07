@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Longitud estándar
 - Cintura media
 - Vaqueros suaves y texturizados para hombre
+- Longitud estándar
 - Estos vaqueros de corte regular con perneras cónicas están hechos de tela vaquera negra superelástica y proporcionan libertad de movimiento y comodidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

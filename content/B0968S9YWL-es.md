@@ -31,9 +31,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 - Manga larga
 - Ajuste informal
 - Hombros superpuestos
+- Jersey para mujer de la marca danesa PIECES
 - Color liso
 - Costuras en el dobladillo, cuello y puños
-- Jersey para mujer de la marca danesa PIECES
 - Cuello redondo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

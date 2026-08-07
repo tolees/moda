@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Camiseta de manga larga con cuello alto
 - Aspecto de punto acanalado
+- Camiseta de manga larga con cuello alto
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09PRH62DN{{</world>}}

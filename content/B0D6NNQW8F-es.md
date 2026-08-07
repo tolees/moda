@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Suela flexible y amortiguada
-- Plantilla desmontable
 - Adecuadas para correr y jugar
+- Plantilla desmontable
+- Suela flexible y amortiguada
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D6NNQW8F{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Puños acanalados, bajo redondeado
 - Cierre de cremallera
 - Bolsillo estilo canguro dividido
-- Paneles laterales y cintura acanalados
 - Capucha con cordón y parte delantera alzada
+- Puños acanalados, bajo redondeado
+- Paneles laterales y cintura acanalados
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B093SWZ6J7{{</world>}}

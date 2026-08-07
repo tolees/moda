@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cuello holgado
+- BCI: Al comprar productos de algodón de PUMA, apoyas una producción más sostenible de algodón mediante la Iniciativa del Mejor Algodón (Better Cotton Initiative). Más información en: bettercotton.org/massbalance
+- Corte normal
 - Algodón 100 %
 - Estampado del logotipo PUMA N.º 1 de goma en el centro del pecho
-- Corte normal
-- BCI: Al comprar productos de algodón de PUMA, apoyas una producción más sostenible de algodón mediante la Iniciativa del Mejor Algodón (Better Cotton Initiative). Más información en: bettercotton.org/massbalance
-- Cuello holgado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B089Z6JVHM{{</world>}}

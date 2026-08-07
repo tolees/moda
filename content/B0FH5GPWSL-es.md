@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Lentes polarizadas con protección UV400 al 100 % contra los rayos UVA y UVB.
 - Cressi es una empresa familiar que desarrolla con pasión productos deportivos acuáticos desde 1946.
-- Almohadillas ergonómicas con diseño anticaída, cómodas de llevar, útiles en todo tipo de actividades y usos.
 - La montura y las lentes de las gafas de sol son resistentes a los golpes, a los arañazos, duraderas e irrompibles.
 - Fabricadas en material TR90, un material para monturas que garantiza una resistencia excepcional en todo tipo de entornos y usos.
+- Lentes polarizadas con protección UV400 al 100 % contra los rayos UVA y UVB.
+- Almohadillas ergonómicas con diseño anticaída, cómodas de llevar, útiles en todo tipo de actividades y usos.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FH5GPWSL{{</world>}}

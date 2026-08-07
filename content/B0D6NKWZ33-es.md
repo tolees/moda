@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fácil y rápido de poner
 - Cierre Riptape
+- Fácil y rápido de poner
 - Soporte de tobillo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Resistencia a la absorción de líquidos gracias a la tecnología patentada Omni-Shield
 - Polainas internas en las piernas y tecnología Hammerhead de refuerzo de los dobladillos para más protección y durabilidad
-- Pantalón aislado para la nieve para niño, Tejido impermeable con cintura ajustable, Para largas horas de deporte al aire libre en invierno
 - Contenido: 1 x Columbia Ice Slope II Pantalones para niño, Azul (Navy), S, Art. 1523671
+- Pantalón aislado para la nieve para niño, Tejido impermeable con cintura ajustable, Para largas horas de deporte al aire libre en invierno
 - Ajustables extensiones OUTGROWN en los puños para acomodar el crecimiento a lo largo de varias temporadas, Bolsillo Cargo para guardar objetos de valor
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

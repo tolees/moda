@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- SANDALIAS: Sandalias Chicco, con cómodo cierre doble, ideales para la playa y la piscina
 - CONFORT: Las sandalias para la playa y la piscina Chicco son flexibles, ligeras y prácticas
+- SANDALIAS: Sandalias Chicco, con cómodo cierre doble, ideales para la playa y la piscina
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B098NWC2Y8{{</world>}}

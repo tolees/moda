@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Algodón de manga corta ajustada
-- Camiseta con logotipo impreso en el pecho
 - Paquete de dos colores
+- Camiseta con logotipo impreso en el pecho
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DQDNH2KG{{</world>}}

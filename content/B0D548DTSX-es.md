@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Producto de calidad óptima
-- Replica oficial primera equipación Real Madrid
 - Tejido ligero
+- Replica oficial primera equipación Real Madrid
+- Producto de calidad óptima
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D548DTSX{{</world>}}

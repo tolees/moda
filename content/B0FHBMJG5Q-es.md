@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Muy comodo
 - Muy elegante
 - Muy practico
-- Muy comodo
 - Alta calidad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

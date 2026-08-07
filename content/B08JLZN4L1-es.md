@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - STRONG SEAMS - Well sewn, We use the best machines and components for sewing. Our product is therefore very durable. We have many years of experience in making clothes. You can trust us!
-- DIFFERENT SIZES - T-shirt in different sizes: S, M, L, XL, XXL, XXXL, 4XL, 5XL. Every customer finds something for himself. We invite you to express your opinion. We look forward to your purchase!
 - COMFORTABLE and SOFT T-Shirt - Durable and resistant to stretching. It is easy to machine wash or hand wash. Easy to iron. It does not lose its properties over time. For long-term use.
 - PERFECT - adapts to the body and is very comfortable. Guaranteed freedom of movement. Attractive graphics and classic Lonsdale London logo. Very cool look.
+- DIFFERENT SIZES - T-shirt in different sizes: S, M, L, XL, XXL, XXXL, 4XL, 5XL. Every customer finds something for himself. We invite you to express your opinion. We look forward to your purchase!
 - MATERIAL - 100% cotton High quality t-shirt for men and boys. A product with excellent parameters. Offers good breathability. Comfortable and airy.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

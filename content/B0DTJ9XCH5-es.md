@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hecha de tela acanalada suave y elástica, ofrece un ajuste favorecedor y cercano al cuerpo que se mueve contigo
 - Con un clásico cuello redondo y mangas cortas, su diseño minimalista hace que sea óptima para usar en capas o sola; ya sea combinada con jeans, faldas o debajo de una chaqueta, esta camiseta es una pieza ideal para un estilo diario sin esfuerzo
+- Hecha de tela acanalada suave y elástica, ofrece un ajuste favorecedor y cercano al cuerpo que se mueve contigo
 - Esta camiseta elástica acanalada es un elemento esencial versátil, diseñada tanto para comodidad como para estilo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

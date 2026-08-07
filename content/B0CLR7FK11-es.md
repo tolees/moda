@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MATERIAL DURADERO Y CUIDADO: 100% poliéster, tela resistente al agua, repelencia impermeable Omni-Shield—lavar a máquina con agua fría y ciclo delicado, secar en secadora a temperatura baja
 - AJUSTE IDEAL: ajuste ceñido, espalda extendida, cierre con cremallera, calidez de plumón sintético, puños cómodos con ranuras para pulgares, bolsillo de seguridad interior
-- CONTENIDO: 1x Columbia Heavenly Chaqueta, Mujer, Talla: L, Color: Collegiate Navy (Azul)
+- MATERIAL DURADERO Y CUIDADO: 100% poliéster, tela resistente al agua, repelencia impermeable Omni-Shield—lavar a máquina con agua fría y ciclo delicado, secar en secadora a temperatura baja
 - DESAFÍA EL FRÍO: chaqueta para mujer con forro reflectante térmico Omni-Heat y capucha forrada de polar—perfecta para aventuras de invierno y caminatas al aire libre
+- CONTENIDO: 1x Columbia Heavenly Chaqueta, Mujer, Talla: L, Color: Collegiate Navy (Azul)
 - PREPÁRATE PARA EL SENDERISMO: combínala con pantalones impermeables o úsala sobre capas base—ideal para días lluviosos y uso versátil al aire libre
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

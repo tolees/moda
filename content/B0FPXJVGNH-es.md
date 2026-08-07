@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La elegancia está asegurada con nuestro jersey de cuello redondo de algodón para mujer de tricot.
+- Su fit regular se adapta a todo tipo de siluetas.
+- El sutil detalle de tapacosturas en el cuello azul marino con el logo grabado Polo Club, acompañan la elegancia de este jersey.
 - Bordado icónico de nuestro logo Rigby Go a color contraste en el pecho. Acompáñalo con un vaquero para un look más casual o un pantalón chino para un outfit más elegante.
 - Los ribs en cuello, mangas y cintura proporcionan un ajuste perfecto.
-- El sutil detalle de tapacosturas en el cuello azul marino con el logo grabado Polo Club, acompañan la elegancia de este jersey.
-- Su fit regular se adapta a todo tipo de siluetas.
+- La elegancia está asegurada con nuestro jersey de cuello redondo de algodón para mujer de tricot.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FPXJVGNH{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fáciles de limpiar
 - Zuecos clásicos de la marca. Crocs
+- Fáciles de limpiar
 - Hecho de acetato de vinilo de etileno
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

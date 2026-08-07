@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diseño ergonómico que apoya la forma natural del pie
 - Suela TR ligera y flexible
+- Diseño ergonómico que apoya la forma natural del pie
 - Plantilla acolchada para una comodidad duradera
 
 [🛒 Visítala!!!]({{< param buyurl >}})

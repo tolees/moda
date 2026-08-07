@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Los materiales aprobados por Bluesign y el DWR sin PFC garantizan un rendimiento sostenible.
-- Los puños ajustables y el cordón del dobladillo permiten un ajuste y comodidad a medida.
 - El tejido de protección HELLY TECH proporciona una cobertura total impermeable y cortavientos para condiciones impredecibles.
+- Los puños ajustables y el cordón del dobladillo permiten un ajuste y comodidad a medida.
 - El diseño hasta la cadera te mantiene protegido sin restringir el movimiento.
 - Los bolsillos para las manos con forro polar suave ofrecen calidez y almacenamiento seguro durante los días activos.
 

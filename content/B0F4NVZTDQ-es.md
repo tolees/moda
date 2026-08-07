@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Monograma bordado
-- Cierres con botones en la parte delantera
 - Manga larga
+- Cierres con botones en la parte delantera
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F4NVZTDQ{{</world>}}

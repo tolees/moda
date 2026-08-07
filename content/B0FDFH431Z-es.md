@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- AJUSTE PERFECTO: Este top minimalista de corte normal se adapta perfectamente a tu figura y ofrece una libertad de movimiento óptima. Gracias a su material de alta calidad, es muy agradable al tacto y resulta muy cómodo de llevar.
-- PARA CUALQUIER OCASIÓN: Esta prenda minimalista sienta superbién y convence por su gran comodidad. Ya sea con vaqueros, shorts o pantalones elegantes, combina a la perfección con cualquier look todos los días.
-- MODA URBANA REINTERPRETADA: Para acercar las populares prendas de los 90 a las nuevas generaciones, Tommy Jeans se inspira en los iconos del hip-hop de aquella época. Apostando por prendas de alta calidad y diseños modernos con mucho denim.
-- SENCILLO E INFORMAL: La camiseta básica de algodón es supercómoda y perfecta para looks más informales. El logotipo de Tommy Jeans en el pecho completa el diseño.
 - MATERIAL Y CUIDADO: Camiseta de algodón 100 %. Se puede lavar a máquina.
+- AJUSTE PERFECTO: Este top minimalista de corte normal se adapta perfectamente a tu figura y ofrece una libertad de movimiento óptima. Gracias a su material de alta calidad, es muy agradable al tacto y resulta muy cómodo de llevar.
+- MODA URBANA REINTERPRETADA: Para acercar las populares prendas de los 90 a las nuevas generaciones, Tommy Jeans se inspira en los iconos del hip-hop de aquella época. Apostando por prendas de alta calidad y diseños modernos con mucho denim.
+- PARA CUALQUIER OCASIÓN: Esta prenda minimalista sienta superbién y convence por su gran comodidad. Ya sea con vaqueros, shorts o pantalones elegantes, combina a la perfección con cualquier look todos los días.
+- SENCILLO E INFORMAL: La camiseta básica de algodón es supercómoda y perfecta para looks más informales. El logotipo de Tommy Jeans en el pecho completa el diseño.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FDFH431Z{{</world>}}

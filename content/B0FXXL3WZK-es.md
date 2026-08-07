@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- [Nuestra Marca]: XTI se caracteriza por su moda urbana y funcional con calzado que combina las últimas tendencias con comodidad y versatilidad para un estilo de vida activo y moderno.
-- Modelo plano, con cierre mediante hebilla al tobillo para un ajuste seguro y cómodo. Perfecta para looks veraniegos con estilo y comodidad
 - Cuenta con suela antideslizante, para mayor seguridad en cada paso. Este modelo ha obtenido el certificado vegano por la organización mundial PETA (Organización de los derechos de los animales)
+- Modelo plano, con cierre mediante hebilla al tobillo para un ajuste seguro y cómodo. Perfecta para looks veraniegos con estilo y comodidad
+- [Nuestra Marca]: XTI se caracteriza por su moda urbana y funcional con calzado que combina las últimas tendencias con comodidad y versatilidad para un estilo de vida activo y moderno.
 - Sandalia de mujer, de la marca Xti. Fabricada en material que imita la piel, con diseño estilo romana caracterizado por múltiples tiras decoradas con tachuelas que aportan un toque moderno y sofisticado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

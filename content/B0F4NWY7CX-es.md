@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Manga larga
-- Monograma bordado
 - Cierres con botones en la parte delantera
+- Monograma bordado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F4NWY7CX{{</world>}}

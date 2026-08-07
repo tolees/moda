@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - AJUSTE PERFECTO: El top de tirantes atemporal con escote cuadrado tiene un diseño moderno y un corte cropped acampanado.
-- SENCILLO E INFORMAL: La camiseta básica de canalé es perfecta para tus looks informales. El logotipo de Calvin Klein en el pecho completa el diseño.
-- EMOCIONANTE Y CLARO: La marca de moda Calvin Klein, fundada en 1968, es conocida por su singular look y lleva conquistando el mundo de la moda desde entonces. La marca americana apuesta por una estética minimalista.
 - PARA CUALQUIER OCASIÓN: Esta prenda minimalista sienta superbién y convence por su gran comodidad. Ya sea con vaqueros, shorts o pantalones elegantes, combina a la perfección con cualquier look ya sea informal o de oficina.
 - MATERIAL Y CUIDADO: Top de tirantes confeccionado con 95 % algodón y 5% elastano. Se puede lavar a máquina.
+- EMOCIONANTE Y CLARO: La marca de moda Calvin Klein, fundada en 1968, es conocida por su singular look y lleva conquistando el mundo de la moda desde entonces. La marca americana apuesta por una estética minimalista.
+- SENCILLO E INFORMAL: La camiseta básica de canalé es perfecta para tus looks informales. El logotipo de Calvin Klein en el pecho completa el diseño.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DK42THBN{{</world>}}

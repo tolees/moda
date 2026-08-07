@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Protección 100% contra rayos uv
 - Acabado reflectante litemirror, con antirreflejos y filtro i-r
+- Protección 100% contra rayos uv
 - Puente nariz y patillas suaves extra-suevas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

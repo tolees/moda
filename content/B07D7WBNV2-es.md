@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuello en U
 - Ajuste regular
-- Manga larga
 - 5% elastano
+- Manga larga
+- Cuello en U
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07D7WBNV2{{</world>}}

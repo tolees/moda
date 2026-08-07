@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - ESTILO PARA CLIMAS FRÍOS: abrígate con esta versátil chaqueta acolchada ligera y resistente al agua que cuenta con una cremallera y capucha en toda la parte delantera central
+- TAFETÁN DE NYLON RESISTENTE AL AGUA: tejido exterior liso de nailon y forro de poliéster. Totalmente forrado, acolchado y aislante. (Revestimiento 100% nailon y forro 100% poliéster en combinación de colores con estampado de mármol)
 - CORTE ESTÁNDAR: corte cómodo y sencillo en los hombros, el pecho y la cintura
 - DETALLES: dos bolsillos con cremallera para las manos y abertura elástica en la capucha, los puños y la parte inferior. La chaqueta se guarda perfectamente en la bolsa de transporte incluida con cierre de cordón
-- TAFETÁN DE NYLON RESISTENTE AL AGUA: tejido exterior liso de nailon y forro de poliéster. Totalmente forrado, acolchado y aislante. (Revestimiento 100% nailon y forro 100% poliéster en combinación de colores con estampado de mármol)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08SS8J6SV{{</world>}}

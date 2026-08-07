@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Confort óptimo gracias a su tejido de punto de 100 % algodón
 - Contenido: 1x Columbia Camiseta de Manga Corta para Hombre, CSC Basic Logo, Color: Blanco (White, LC CSC Branded Graphic), Talla: XL, Art.: 1680053
+- Confort óptimo gracias a su tejido de punto de 100 % algodón
 - Disponible en varios colores con combinaciones emocionantes y versátiles
 - Camiseta de manga corta para hombre, Ideal para usar durante todo el año, Idónea como capa superior o como capa base
 - Elegante diseño del logotipo de Columbia, Contrastes de colores frescos y clásicos, También es una opción divertida para los que la usan por primera vez.

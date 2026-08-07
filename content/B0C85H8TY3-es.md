@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tela: 30% lana 70% poliéster, Forro: 100% poliéster. Más cómodo y cálido, no es fácil de arrugar
 - El forro interior es con cremallera y extraíble. El forro es más corto que la chaqueta
-- Lavado: Lavado en seco.
+- Tela: 30% lana 70% poliéster, Forro: 100% poliéster. Más cómodo y cálido, no es fácil de arrugar
 - Dos bolsillos reales en la parte delantera, dos bolsillos falsos en el pecho, y dos bolsillos reales en el interior,
+- Lavado: Lavado en seco.
 - Ideal para primavera, otoño e invierno. Perfecto para actividades diarias y de negocios.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

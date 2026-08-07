@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cómoda y transpirable: por su material 100% algodón, es ideal para el día a día por su alta transpirabilidad, es hipoalergénica y a la vez adecuada para hacer deporte; se lava a máquina.
 - Volumen de suministro: 6 x Camiseta clásica de manga corta, corte moderno y ajustado, de hombre, cuello redondo ajustado, color negro, talla M, de Urban Classics.
 - Diseño moderno: aunque es una camiseta básica, su corte es especial, ya que su ajuste le aporta un aspecto más arreglado y moderno, además de garantizar comodidad al llevar la prenda.
+- Cómoda y transpirable: por su material 100% algodón, es ideal para el día a día por su alta transpirabilidad, es hipoalergénica y a la vez adecuada para hacer deporte; se lava a máquina.
 - El fondo de armario: esta camiseta ajustada es muy básica y muy fácil de combinar con cualquier look de diario o más arreglado, por lo que es un imprescindible en cualquier armario.
 - Un must-have: esta prenda no te puede faltar si te gusta combinar básicos con complementos u otras prendas que resalten en tu outfit casual, sin tener que invertir mucho tiempo.
 

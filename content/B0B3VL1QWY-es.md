@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillos laterales
-- Mangas fruncidas
+- Cuello redondo
 - Viscosa fluida
 - Conjunto de dos piezas
-- Cuello redondo
+- Bolsillos laterales
+- Mangas fruncidas
 - Logotipo tachonado
 - Cintura elástica
 

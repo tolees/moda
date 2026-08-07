@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Colección: artículo para todo el año
 - Casual
+- Colección: artículo para todo el año
 - Modelo: Basic Quilt Bomber Jacket
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

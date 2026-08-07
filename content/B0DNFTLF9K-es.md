@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- MARCA DISTINTIVA: Logo transferido por calor en el centro del pecho para un look deportivo limpio
 - IDEAL PARA: Entrenamiento
-- DISEÑO DE CAMISETA DE ENTRENAMIENTO COMERCIAL: Camiseta versátil para entrenamientos diarios
-- AJUSTE: Corte regular para un movimiento cómodo durante el ejercicio
+- MARCA DISTINTIVA: Logo transferido por calor en el centro del pecho para un look deportivo limpio
 - TEJIDO LIGERO DE RENDIMIENTO: Construcción en jersey de poliéster para una sensación suave y transpirable
+- AJUSTE: Corte regular para un movimiento cómodo durante el ejercicio
+- DISEÑO DE CAMISETA DE ENTRENAMIENTO COMERCIAL: Camiseta versátil para entrenamientos diarios
 - DETALLE DE MARCA ADICIONAL: Cinta en el cuello con branding Reebok para un acabado premium
 
 [🛒 Comprar!!!]({{< param buyurl >}})

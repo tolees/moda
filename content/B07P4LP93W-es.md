@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- SARGA RESISTENTE A LAS MANCHAS Y LAS ARRUGAS: Producto confeccionado en una mezcla de sarga de polialgodón resistente, antiarrugas y que absorbe la humedad.
 - AJUSTE HOLGADO: Ajuste cómodo y holgado en hombros, pecho y cintura.
+- SARGA RESISTENTE A LAS MANCHAS Y LAS ARRUGAS: Producto confeccionado en una mezcla de sarga de polialgodón resistente, antiarrugas y que absorbe la humedad.
 - DETALLES: Cuello abierto, tapeta con botones en el centro, costuras dobles, bolsillos dobles en el pecho con cierre de botón y canesú en la espalda.
 - VE AL TRABAJO CON ESTILO: Su ajuste y su diseño reúnen todas las características que buscas en una camisa de trabajo resistente y duradera. Producto diseñado para garantizar tu comodidad durante todo el día mientras trabajas.
 

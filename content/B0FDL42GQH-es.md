@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Cierre de botones a presión
 - Cuello estilo béisbol
 - Felpa de puro algodón
-- Cierre de botones a presión
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FDL42GQH{{</world>}}

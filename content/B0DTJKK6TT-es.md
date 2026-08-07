@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Camiseta de manga corta con cuello redondo
-- 100 % algodón
 - Pepe Jeans Logotipo en la parte delantera
+- 100 % algodón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DTJKK6TT{{</world>}}

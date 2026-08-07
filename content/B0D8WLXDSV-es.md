@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Una mirada original
-- Cinco bolsillos
 - Bragueta de cremallera
+- Cinco bolsillos
+- Una mirada original
 - Etiqueta trasera de G-STAR hecha de un tejido de papel que imita a la piel
 - Proporciona comodidad
 

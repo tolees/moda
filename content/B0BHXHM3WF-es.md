@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Hecho de algodón suave y cómodo
 - A máx. Lavar a 40 grados
+- Hecho de algodón suave y cómodo
 - Camiseta de manga corta para hombre
 
 [🛒 Aquí!!!]({{< param buyurl >}})

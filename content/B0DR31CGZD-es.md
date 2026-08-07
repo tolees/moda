@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Los cordones dan un aspecto clásico y un pie personalizado
 - Suela ligera de EVA que absorbe los impactos
 - Plantilla moldeada y cómoda que ofrece una amortiguación duradera
+- Los cordones dan un aspecto clásico y un pie personalizado
 - Detalles de ribete de cuero resistente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

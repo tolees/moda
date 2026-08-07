@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bolsillos laterales
 - Botones delanteros
+- Bolsillos laterales
 - Puños con botón
 
 [🛒 Aquí!!!]({{< param buyurl >}})

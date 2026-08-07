@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte holgado y diseño básico: Camiseta básica de manga corta con ajuste relajado y cuello redondo clásico, favorecedora y cómoda para el uso diario.
-- Suave y transpirable para el verano: Camiseta de verano para mujer confeccionada en tejido agradable para la piel, ligera y transpirable, ayuda a mantenerte fresca y cómoda durante todo el día.
-- Diseño minimalista y esencial diario: Camiseta lisa de color sólido, adecuada para todas las edades, imprescindible en armarios de ropa femenina minimalista.
 - Estilo casual fácil de combinar: Ideal como top casual para looks diarios, fines de semana o estilos urbanos sencillos y modernos.
+- Diseño minimalista y esencial diario: Camiseta lisa de color sólido, adecuada para todas las edades, imprescindible en armarios de ropa femenina minimalista.
+- Suave y transpirable para el verano: Camiseta de verano para mujer confeccionada en tejido agradable para la piel, ligera y transpirable, ayuda a mantenerte fresca y cómoda durante todo el día.
 - Perfecta para llevar sola o en capas: Esta camiseta ligera se puede usar sola o como prenda interior bajo chaquetas, cárdigans o camisas.
+- Corte holgado y diseño básico: Camiseta básica de manga corta con ajuste relajado y cuello redondo clásico, favorecedora y cómoda para el uso diario.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0G6L1ZJPM{{</world>}}

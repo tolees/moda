@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 【Estilo versátil】: Esta camiseta de manga corta para niña se puede combinar fácilmente con diversas prendas inferiores, como shorts, leggings y faldas, ofreciendo una amplia gama de opciones. Una camiseta básica versátil y moderna para niña, perfecta para el tiempo libre y las vacaciones.
 - 【Regalo perfecto】: Esta camiseta básica para niña es ideal para el verano o para combinar en temporadas más frías, y es un regalo perfecto para cumpleaños, vacaciones o cualquier otra ocasión especial.
 - 【Material】Camiseta de manga corta para niña, confeccionada en 95 % poliéster, 5 % elastano. Es agradable al tacto y transpirable, cómoda y duradera durante todo el día.
+- 【Estilo versátil】: Esta camiseta de manga corta para niña se puede combinar fácilmente con diversas prendas inferiores, como shorts, leggings y faldas, ofreciendo una amplia gama de opciones. Una camiseta básica versátil y moderna para niña, perfecta para el tiempo libre y las vacaciones.
 - 【Estilo de diseñador】Esta camiseta de verano para niña, con un encantador estampado de mariposas, le da un toque divertido a cualquier look. Su corte entallado crea una silueta elegante y estilizada.
 - 【INSTRUCCIONES DE CUIDADO Y TALLAS】: Esta elegante camiseta de verano es lavable a máquina y está disponible en 6 colores y 5 tallas para niñas de 5 a 12 años.
 

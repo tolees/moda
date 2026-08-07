@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Suela exterior: suela de goma
 - Plantilla de goma texturizada
 - Material superior: __ Empeine de goma con pin de metal oxidado
+- Suela exterior: suela de goma
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07SX4P8LD{{</world>}}

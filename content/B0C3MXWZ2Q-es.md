@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Con capucha
 - Bolsillos altos: Bolsillo canguro
 - Ajuste normal
-- Con capucha
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C3MXWZ2Q{{</world>}}

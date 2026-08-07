@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuello Mao
 - Diseño Oxford
+- Cuello Mao
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DNKDLN2J{{</world>}}

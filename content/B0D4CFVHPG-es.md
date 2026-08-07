@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Aislamiento de poliéster 100% reciclado, construcción híbrida para mayor elasticidad y transpirabilidad, capucha estilo submarinista, ribete en capucha y puños, bolsillos para las manos con cremallera, dobladillo ajustable con cordón.
-- Contenido: 1x Columbia Chaqueta Powder Pass II Hybrid con Capucha para Mujer, Color: Negro, Talla: L
-- Fabricado con tecnología Omni-Shield: Una tecnología duradera y de secado rápido que repele el agua y las manchas impidiendo que los líquidos se absorban en los hilos y saturen o manchen tu ropa.
-- El corte activo garantiza una gran amplitud de movimiento, talla pequeña, considera la posibilidad de aumentar la talla si estás entre 2 tallas, Exterior: 91% poliéster, 9% elastano, Forro: 100% nailon, Aislamiento: 100% poliéster reciclado
 - La chaqueta con capucha Powder Pass II Hybrid combina lo mejor de un puffer y un softshell, lo que la convierte en una capa esencial para los días fríos de primavera/otoño en la montaña.
+- Aislamiento de poliéster 100% reciclado, construcción híbrida para mayor elasticidad y transpirabilidad, capucha estilo submarinista, ribete en capucha y puños, bolsillos para las manos con cremallera, dobladillo ajustable con cordón.
+- Fabricado con tecnología Omni-Shield: Una tecnología duradera y de secado rápido que repele el agua y las manchas impidiendo que los líquidos se absorban en los hilos y saturen o manchen tu ropa.
+- Contenido: 1x Columbia Chaqueta Powder Pass II Hybrid con Capucha para Mujer, Color: Negro, Talla: L
+- El corte activo garantiza una gran amplitud de movimiento, talla pequeña, considera la posibilidad de aumentar la talla si estás entre 2 tallas, Exterior: 91% poliéster, 9% elastano, Forro: 100% nailon, Aislamiento: 100% poliéster reciclado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D4CFVHPG{{</world>}}

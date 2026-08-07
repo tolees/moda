@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ONLY Only Girl Parka Lang 140black abrigos hombre Niñas Black/Detail:FUR LIGHT GREY 140'
-date: 2026-03-07 16:59:18
+date: 2026-08-07 11:51:49
 image: 'https://m.media-amazon.com/images/I/31XB1Lvhi9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09DC1WMJK-es ONLY Only Girl Parka Lang 140black abrigos hombre Niñas...'
 sku: 'B09DC1WMJK-es'
 tags: [ 'parka','🇪🇸', ]
-actualPrice: 24.4 EUR
+actualPrice: 23.44 EUR
 currency: EUR
-price: 24.4
+price: 23.44
 comparePrice: 64.99 EUR
 prodname: 'ONLY Only Girl Parka Lang 140black abrigos hombre Niñas Black/Detail:FUR LIGHT GREY 140'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09DC1WMJK/?tag=tolees-21'
-descuento: '62.46'
-average: '28.175'
+descuento: '63.93'
+average: '26.5966666666667'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Capucha con borde de piel sintética
 - KIDS ONLY - Parka de color liso
-- Composición: 100% poliéster
 - Color liso
+- Capucha con borde de piel sintética
+- Composición: 100% poliéster
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09DC1WMJK{{</world>}}

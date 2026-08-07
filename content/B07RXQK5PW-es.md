@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - VERSÁTIL Y FÁCIL DE COMBINAR – Ideal para cualquier ocasión. Llévala con vaqueros y zapatillas para un look casual o bajo una chaqueta para un estilo más sofisticado.
-- BÁSICA, CÓMODA Y SIEMPRE LISTA – Una camiseta Jack & Jones esencial para cualquier armario. Con un ajuste estándar y cuello redondo, es perfecta para combinar con todo, desde vaqueros hasta ropa deportiva.
-- 100% ALGODÓN ORGÁNICO – SUAVIDAD Y TRANSPIRABILIDAD – Confeccionada en algodón puro, esta camiseta hombre proporciona una sensación ligera y transpirable, ideal para el día a día.
 - AJUSTE ESTÁNDAR PARA MÁXIMA COMODIDAD – Diseñada con un corte regular, se adapta perfectamente al cuerpo sin apretar. Libertad de movimiento sin renunciar al estilo.
+- 100% ALGODÓN ORGÁNICO – SUAVIDAD Y TRANSPIRABILIDAD – Confeccionada en algodón puro, esta camiseta hombre proporciona una sensación ligera y transpirable, ideal para el día a día.
+- BÁSICA, CÓMODA Y SIEMPRE LISTA – Una camiseta Jack & Jones esencial para cualquier armario. Con un ajuste estándar y cuello redondo, es perfecta para combinar con todo, desde vaqueros hasta ropa deportiva.
 - FÁCIL DE LAVAR Y RESISTENTE AL USO DIARIO – Lavable a máquina a 40°C, con secado en secadora a baja temperatura. Diseñada para mantener su forma y color lavado tras lavado.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

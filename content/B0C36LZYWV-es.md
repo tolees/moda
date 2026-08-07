@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Modo de vida : Tradicional
 - Manga : Manga corta
 - Artículo : Camiseta
-- Cuello : Cuello redondo
-- Modo de vida : Tradicional
-- Corte : Corte relaxed
 - Estampado : Estampado con pigmentos para un acabado delicado en los tejidos más ligeros
 - Mangas : Sisa en disminución
+- Corte : Corte relaxed
+- Cuello : Cuello redondo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C36LZYWV{{</world>}}

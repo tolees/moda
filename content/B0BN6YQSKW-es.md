@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parte superior de malla y sintética
 - Skechers Detalle del logotipo
+- Parte superior de malla y sintética
 - Entresuela con detalle de perno y zigzag
 - Suela de tracción flexible
 

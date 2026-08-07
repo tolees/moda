@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Set 3 piezas: 1 gorro niña, 1 bufanda, guantes niñas, talla unica
-- Conjunto bufanda y gorro y guantes niña con licencia oficial de Warner Bros
-- Detalles y dimensiones en las imágenes
 - Composición: accesorios de invierno cálidos y suaves en 100% acrílico
+- Conjunto bufanda y gorro y guantes niña con licencia oficial de Warner Bros
+- Set 3 piezas: 1 gorro niña, 1 bufanda, guantes niñas, talla unica
+- Detalles y dimensiones en las imágenes
 - Prepara a los niños para el invierno con este set bufanda, gorro y guantes de Harry Potter
 
 [🛒 Comprar!!!]({{< param buyurl >}})

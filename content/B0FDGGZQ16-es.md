@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Pantalón largo tipo skinny, con cinturilla elástica y puños en los bajos
-- Conjunto de camisa de manga larga y pantalón
-- El tejido principal contiene al menos un 50% de fibras de poliéster reciclado
 - Camiseta de cuello redondo, con el bajo ajustable
+- El tejido principal contiene al menos un 50% de fibras de poliéster reciclado
+- Conjunto de camisa de manga larga y pantalón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FDGGZQ16{{</world>}}

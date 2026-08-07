@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Altura del paquete del artículo: 120 mm
+- Longitud del paquete del artículo: 340 mm
 - Peso del paquete del artículo: 0.295 kg
 - Ancho del paquete del artículo: 250 mm
-- Longitud del paquete del artículo: 340 mm
+- Altura del paquete del artículo: 120 mm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08QMD6DHN{{</world>}}

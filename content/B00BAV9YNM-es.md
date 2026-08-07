@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Como parte de un traje de calle con estilo o adecuado como base para un vestido de festival
 - Disponible en negro, azul claro y azul vaquero en las tallas s, m, l, xl y xxl
 - 16 bolsillos de pecho izquierda y derecha con botones
 - Bolsillos en el lado izquierdo y derecho
+- Como parte de un traje de calle con estilo o adecuado como base para un vestido de festival
 - Chaleco de hombre de tejido robusto de jeans con tapeta de botones
 
 [🛒 Comprar!!!]({{< param buyurl >}})

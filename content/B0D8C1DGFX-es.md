@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camiseta clásica con logotipo impreso en la parte delantera y puños acanalados en el cuello
 - Manga corta con cuello redondo, ideal para la primavera y el verano o para usar debajo
 - Ajuste: ajuste básico, longitud de espalda en talla L aprox. 74 cm
+- Camiseta clásica con logotipo impreso en la parte delantera y puños acanalados en el cuello
 - Hecho de suave tejido de punto simple
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

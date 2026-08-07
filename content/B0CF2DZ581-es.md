@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pantalones cortos de mezclilla para hombre con cremallera abotonada, bolsillos traseros, bolsillo para monedas, bolsillos delanteros, corte normal
 - Tamaño normal, termina por encima de la rodilla
+- Pantalones cortos de mezclilla para hombre con cremallera abotonada, bolsillos traseros, bolsillo para monedas, bolsillos delanteros, corte normal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CF2DZ581{{</world>}}

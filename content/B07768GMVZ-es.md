@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- CORTE ESTÁNDAR: corte ajustado pero cómodo con fácil movimiento
 - CAMISETA IMPRESCINDIBLE: esta versátil camiseta es un imprescindible del armario, perfecta para ponértela debajo de tu chaqueta o cárdigan favorito, o para llevarla sola para un estilo informal
 - DETALLES: cuenta con un clásico cuello en V y manga corta para un estilo casual y sin esfuerzo
 - JERSEY DE MEZCLA DE ALGODÓN Y MODAL: jersey de algodón y modal supersuave con elasticidad adicional para mayor comodidad durante todo el día
+- CORTE ESTÁNDAR: corte ajustado pero cómodo con fácil movimiento
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07768GMVZ{{</world>}}

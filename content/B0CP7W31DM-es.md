@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Incluyen banda elástica ajustable y desmontable para mayor sujeción. Perfectas para carrito, guardería, viajes y actividades outdoor. Seguridad y estabilidad incluso en bebés más activos.
 - Protección solar total con lentes polarizadas categoría 3 y filtro UV400. Bloquean el 100% de los rayos UVA y UVB y reducen reflejos intensos. Ideales como gafas de sol infantil para playa, montaña, piscina o paseo diario.
+- Diseñadas para bebés de 8 meses a 2 años (8, 12, 18 y 24 meses). Su forma redonda infantil se adapta ergonómicamente al rostro del bebé niño o bebé niña, ofreciendo un ajuste cómodo y seguro en cada etapa de crecimiento.
 - Montura en TPE flexible de alta calidad, ligera, resistente y libre de BPA. Material seguro para uso infantil, sin sustancias nocivas. Se doblan sin romperse, pensadas para el ritmo activo de un niño pequeño.
 - Ultraligeras y cómodas para uso prolongado. No presionan nariz ni sienes, permitiendo que el bebé, niño o niña las lleve durante horas sin molestias.
-- Diseñadas para bebés de 8 meses a 2 años (8, 12, 18 y 24 meses). Su forma redonda infantil se adapta ergonómicamente al rostro del bebé niño o bebé niña, ofreciendo un ajuste cómodo y seguro en cada etapa de crecimiento.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CP7W31DM{{</world>}}

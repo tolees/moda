@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fabricado con al menos 50% algodón sostenible
 - Ajuste relajado
 - Manga larga
+- Fabricado con al menos 50% algodón sostenible
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CSNG79RY{{</world>}}

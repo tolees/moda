@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Rápido y fácil de poner
-- Plantilla extraíble
 - Cinta de rasgado única y cierre de encaje elástico
+- Plantilla extraíble
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DP9MV2VR{{</world>}}

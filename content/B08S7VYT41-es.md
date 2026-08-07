@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Color liso con estampado
-- Logo Detailing
-- Cuello redondo
-- Camiseta cómoda
 - Manga larga
+- Cuello redondo
+- Logo Detailing
+- Camiseta cómoda
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08S7VYT41{{</world>}}

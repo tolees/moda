@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 100% algodón
 - Camiseta de manga corta relajada
+- 100% algodón
 - Cuello redondo con logotipo impreso en el pecho
 
 [🛒 Comprar!!!]({{< param buyurl >}})

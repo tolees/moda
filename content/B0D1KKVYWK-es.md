@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tejido ligero
 - Ofrece comodidad
+- Tejido ligero
 - Adecuado para los días de verano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

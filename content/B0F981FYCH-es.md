@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fabricado con material suave y transpirable para mayor comodidad durante todo el día.
-- Diseño clásico y versátil: ideal para el uso diario.
 - Construcción robusta para una larga durabilidad, incluso con lavados frecuentes.
+- Diseño clásico y versátil: ideal para el uso diario.
+- Fabricado con material suave y transpirable para mayor comodidad durante todo el día.
 - Con el icónico logotipo de The North Face para una apariencia deportiva y moderna.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

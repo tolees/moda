@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Material transpirable que absorbe la humedad
 - Protección de codo acolchada
 - Cuello en V flexible y ventilado
-- Material transpirable que absorbe la humedad
 - Gran calidad de camiseta a un precio asequible
 - Construcción de múltiples paneles para un corte y ajuste ergonómicamente correctos
 

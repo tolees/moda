@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cómoda cuña
 - Fabricada en material efecto piel y tejido
 - Sandalia de mujer con tiras cruzadas
+- Cómoda cuña
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FB3RTYJH{{</world>}}

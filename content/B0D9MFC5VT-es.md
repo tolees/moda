@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Provides comfort
-- Stand up collar
 - Zip closure
-- An original look
+- Stand up collar
 - Padded and quilted
+- Provides comfort
+- An original look
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D9MFC5VT{{</world>}}

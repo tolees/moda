@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Manga : Manga corta
+- Artículo : Blusa
 - Corte : Corte regular
+- Manga : Manga corta
 - Detalles : Detalle en encaje
 - Forro : Forro de poliéster para una apariencia no transparente
-- Artículo : Blusa
 - Cuello : Cuello redondo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

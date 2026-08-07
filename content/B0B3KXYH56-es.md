@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajuste óptimo gracias a su tejido elástico
 - Capucha ajustable, bolsillos con cremallera en el pecho y para las manos, puños ajustables, dobladillo ajustable con cordón, capucha forrada en tafetán
 - Chaqueta Softshell para hombre
+- Ajuste óptimo gracias a su tejido elástico
 - Aislante para una mayor calidez
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

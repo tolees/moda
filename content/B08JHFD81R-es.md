@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Correa de velcro
 - Skechers Detalle del logotipo
 - Diseño deportivo de sandalia de punta abierta
+- Correa de velcro
 - Parte superior de punto de malla atlética
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

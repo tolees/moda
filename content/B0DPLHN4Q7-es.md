@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 100% lana virgen
 - Camiseta de cuello en V femenino con acabado minimalista, ajuste regular suave, fondo y puños acanalados
+- 100% lana virgen
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DPLHN4Q7{{</world>}}

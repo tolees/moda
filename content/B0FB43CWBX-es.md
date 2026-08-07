@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Deportiva cómoda y amortiguada
-- Realza los looks informales de la temporada cálida
 - Suave y ligera
+- Realza los looks informales de la temporada cálida
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FB43CWBX{{</world>}}

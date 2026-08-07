@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corte debajo del busto
 - Camiseta con cuello en v
+- Corte debajo del busto
 - Top de manga corta con escote en v
 - Dobladillo acampanado
 

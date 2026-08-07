@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Mid Rise
-- Composición: 99% algodón, 1% elastano
-- Vaqueros Ajustados
 - Corte ajustado
+- Mid Rise
+- Vaqueros Ajustados
+- Composición: 99% algodón, 1% elastano
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07G3G6CS2{{</world>}}

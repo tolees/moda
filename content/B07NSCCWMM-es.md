@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Tallas: S (contorno del pecho: 16 a 21 pulgadas), M (contorno del pecho: 22 a 28 pulgadas), L (contorno del pecho: 25 a 38 pulgadas), XL (contorno del pecho: 30 a 45 pulgadas). Ver tabla de tallas en las imágenes
-- El forro acolchado es un nailon duradero con bateo de poliéster para mayor calidez. Las pestañas mejoradas en el cuello y el pecho hacen que sea fácil de poner y quitar
 - Fabricado con lona de pato firme que protege a tu cachorro en climas fríos y ventosos
+- El forro acolchado es un nailon duradero con bateo de poliéster para mayor calidez. Las pestañas mejoradas en el cuello y el pecho hacen que sea fácil de poner y quitar
 - Correas forradas de velcro para pecho y cintura, lo que permite un ajuste completo
 - Carhartt Abrigo de tareas para perros con aislamiento de pato firme. Abrigo duradero para perro con raíces icónicas para los perros más duros que trabajan
 

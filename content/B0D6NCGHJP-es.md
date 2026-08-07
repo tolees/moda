@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - regular fit en tejido 100% algodón de estructura bicolor
-- Botón al tono y placa metálica de adorno
 - Camisa manga larga de vestir
+- Botón al tono y placa metálica de adorno
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D6NCGHJP{{</world>}}

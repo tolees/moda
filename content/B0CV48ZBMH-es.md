@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Zapatos negros estilo Mary Jane efecto charol con tacón, punta cuadrada y talón abierto
 - Altura tacón 5,5 cm
 - Punta cuadrada y talón abierto
+- Zapatos negros estilo Mary Jane efecto charol con tacón, punta cuadrada y talón abierto
 - Planta de piel transpirable y acolchada, piso de caucho y cierres regulables
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Camiseta de moda deportiva con el lema "I Love 90s", disfraz para mujer, camiseta retro de fiesta de estrella del pop, camiseta de fiesta de los 80, globo terráqueo negro de los 80, 12/14 Reino Unido
 - Marca: Fashion Sports Dude
 - Tamaño: 45640
-- Camiseta de moda deportiva con el lema "I Love 90s", disfraz para mujer, camiseta retro de fiesta de estrella del pop, camiseta de fiesta de los 80, globo terráqueo negro de los 80, 12/14 Reino Unido
 - Color: Globo terráqueo con terraza de color negro de los años 80
 - Tipo de producto: CAMISA
 
