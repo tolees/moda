@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Tommy Hilfiger Pantalón Corto Holgado Hombre Shorts Track con Bolsillos Laterales Azul Preppy Navy XL'
+date: 2026-08-09 20:31:26
+image: 'https://m.media-amazon.com/images/I/31pTl+WsRuL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0FDH1P1XJ-es Tommy Hilfiger Pantalón Corto Holgado Hombre Shorts Track...'
+sku: 'B0FDH1P1XJ-es'
+tags: [ 'pantalón','🇪🇸', ]
+actualPrice: 18.92 EUR
+currency: EUR
+price: 18.92
+comparePrice: 49.9 EUR
+prodname: 'Tommy Hilfiger Pantalón Corto Holgado Hombre Shorts Track con Bolsillos Laterales Azul Preppy Navy XL'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0FDH1P1XJ/?tag=tolees-21'
+descuento: '62.08'
+average: '18.92'
+---
+
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- CLÁSICOS CÓMODOS: Este pantalón de pijama destaca por su tejido suave y agradable y su alto nivel de confort. Es ideal para dormir o relajarse en casa.
+- AJUSTE PERFECTO: Los shorts holgados de diseño minimalista ofrecen la máxima comodidad. Gracias a la cintura elástica, el pantalón se ajusta perfectamente y permite una total libertad de movimientos en la cama.
+- CALIDAD DEMOSTRADA: Desde 1985, esta marca de diseñador lleva demostrando por todo el mundo la calidad y la ligereza mediante una gran variedad de diseños en los míticos colores azul oscuro, blanco y rojo.
+- MATERIAL Y CUIDADO: Pantalón corto confeccionado con 82 % algodón regenerativo y 18% poliéster. Se puede lavar a máquina.
+- CÓMODO Y ELEGANTE: El pantalón corto lounge de Tommy Hilfiger convence por su material suave y su gran comodidad. Destaca la bandera cosida de Tommy Hilfiger, que aporta al pantalón un toque especial.
+
+[🛒 Ver la oferta!!]({{< param buyurl >}})
+{{<world>}}B0FDH1P1XJ{{</world>}}
