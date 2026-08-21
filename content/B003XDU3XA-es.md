@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Esta camiseta de los muchachos cuenta con una gran Impreso Vans Graphic Logo con un pequeño destacado Color Vans emblema en la manga izquierda.
 - Esta camiseta de los muchachos tiene manga corta con cuello redondo con pliegues cosidos individuales.
+- Esta camiseta de los muchachos cuenta con una gran Impreso Vans Graphic Logo con un pequeño destacado Color Vans emblema en la manga izquierda.
 - 100% algodón. Lavar en frío con colores similares.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

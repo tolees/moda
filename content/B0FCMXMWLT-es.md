@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre con botones en la parte delantera y en los puños
-- Camisa holgada lisa con cuello camisero
 - Blusa de gran tamaño
+- Camisa holgada lisa con cuello camisero
 - Escote en v
+- Cierre con botones en la parte delantera y en los puños
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FCMXMWLT{{</world>}}

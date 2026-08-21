@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bajo redondeado con aberturas laterales
-- Bolsillos con solapa en el pecho, uno de ellos de parche
-- Manga larga, puños, botón a presión
 - Costura horizontal que cruza la cintura
+- Bolsillos con solapa en el pecho, uno de ellos de parche
+- Bajo redondeado con aberturas laterales
 - Cuello de camisa
+- Manga larga, puños, botón a presión
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CB1XJ5GQ{{</world>}}

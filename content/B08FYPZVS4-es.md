@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Havaianas - Top Tiras Mujer Chanclas'
-date: 2026-08-19 02:21:57
+date: 2026-08-21 06:21:07
 image: 'https://m.media-amazon.com/images/I/416FHgalTlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FYPZVS4/?tag=tolees-21'
 descuento: '25.04'
-average: '17.4285714285714'
+average: '17.5533333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

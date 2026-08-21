@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ✅ PRÁCTICA: la silla tiene unas gomas especiales para sujetar el arnés, lo que facilita sentar al niño. Cuando ya toque abrochar al peque con el cinturón del coche, solo tienes que guardar el arnés interior sin necesidad de desengancharlo de la silla
 - ✅ FUNCIONAL: silla de coche para niños de 75-150 cm de estatura (entre 9 meses y 12 años o 9-36 kg). Cumple la última normativa R129 i-Size, ha aprobado todas las pruebas de impacto
 - ✅ CÓMODA: el reposacabezas se regula en 11 niveles, y gracias a EASY GROW SYSTEM, se puede ajustar simultáneamente junto con el arnés interior. Tiene un asiento amplio y blando de tela transpirable
+- ✅ PRÁCTICA: la silla tiene unas gomas especiales para sujetar el arnés, lo que facilita sentar al niño. Cuando ya toque abrochar al peque con el cinturón del coche, solo tienes que guardar el arnés interior sin necesidad de desengancharlo de la silla
 - ✅ FUNCIONAL: silla de coche para niños de 75-150 cm de estatura (entre 15 meses y 12 años o 9-36 kg). Cumple la última normativa R129 i-Size, ha aprobado todas las pruebas de impacto.
 - ✅ SEGURA: garantiza un montaje sencillo mediante el cinturón de coche de 3 puntos, tiene guías cómodas de usar. La silla posee un arnés interior de 5 puntos con acolchados suaves y protector de entrepierna
 

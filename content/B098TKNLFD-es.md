@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Totalmente forrado
 - Solapas y botones brillan un poco
 - Traje de corte muy ajustado
-- Totalmente forrado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B098TKNLFD{{</world>}}

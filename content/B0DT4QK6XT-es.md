@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ICÓNICO Y ATEMPORAL: La camisa original de Calvin Klein con cuello abotonado tiene un corte clásico. El diseño sencillo y depurado convierte a esta camisa en un clásico que no puede faltar en ningún armario.
-- COMODA Y CON DETALLES ESPECIALES: Gracias a su material de alta calidad, la camisa de corte normal es supercómoda de llevar. El bordado de Calvin Klein en el bajo proporcionan un toque especial.
-- MATERIAL Y CUIDADO: Camisa de algodón 100 %. Se puede lavar a máquina y secar en secadora.
 - CLÁSICOS CÓMODOS: La parte de arriba del pijama destaca por su tejido suave y agradable y su alto nivel de confort. Es ideal para dormir o relajarse en casa.
+- COMODA Y CON DETALLES ESPECIALES: Gracias a su material de alta calidad, la camisa de corte normal es supercómoda de llevar. El bordado de Calvin Klein en el bajo proporcionan un toque especial.
+- ICÓNICO Y ATEMPORAL: La camisa original de Calvin Klein con cuello abotonado tiene un corte clásico. El diseño sencillo y depurado convierte a esta camisa en un clásico que no puede faltar en ningún armario.
+- MATERIAL Y CUIDADO: Camisa de algodón 100 %. Se puede lavar a máquina y secar en secadora.
 - EMOCIONANTE Y CLARO: La marca de moda Calvin Klein, fundada en 1968, es conocida por su singular look y lleva conquistando el mundo de la moda desde entonces. La marca americana apuesta por una estética minimalista.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

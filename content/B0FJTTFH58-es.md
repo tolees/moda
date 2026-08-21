@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ¡Los niños y niñas a partir de 3 años pueden descubrir toda la colección de muñecas Barbie Petal Pop para disfrutar de emocionantes experiencias al abrir las cajas, aromas florales y diversión con temática floral!
 - ¡Las sorpresas florales empiezan por el embalaje con forma de jarrón! Paso 1: desprende los pétalos para descubrir una regadera. Paso 2: añádele agua y viértela en el orificio situado en el lateral del jarrón.
-- ¡Cada muñeca Barbie perfumada huele tan fresca y dulce como una flor! Sus alegres vestidos cuentan con un corpiño decorativo con flores y faldas con pétalos.
-- ¡Abre las bolsas sorpresa para descubrir más accesorios y ropa con los que imaginar historias, como un conejito mascota, un collar y un par de pendientes!
-- Estas muñecas Barbie Petal Pop florecen con sorpresas... ¡y fragancia! Cada una de estas muñecas perfumadas aparece como por arte de magia al añadir agua. Además, vienen con varios accesorios sorpresa, ¡como un conejito!
+- ¡Los niños y niñas a partir de 3 años pueden descubrir toda la colección de muñecas Barbie Petal Pop para disfrutar de emocionantes experiencias al abrir las cajas, aromas florales y diversión con temática floral!
 - Paso 3: ¡mira cómo aparece la muñeca Barbie! Vuelve a meter la muñeca en el ramo y pulsa un botón para repetir la revelación una y otra vez.
+- Estas muñecas Barbie Petal Pop florecen con sorpresas... ¡y fragancia! Cada una de estas muñecas perfumadas aparece como por arte de magia al añadir agua. Además, vienen con varios accesorios sorpresa, ¡como un conejito!
+- ¡Abre las bolsas sorpresa para descubrir más accesorios y ropa con los que imaginar historias, como un conejito mascota, un collar y un par de pendientes!
+- ¡Cada muñeca Barbie perfumada huele tan fresca y dulce como una flor! Sus alegres vestidos cuentan con un corpiño decorativo con flores y faldas con pétalos.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FJTTFH58{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Camiseta normal
 - 100% algodón
 - Camiseta individual con logotipo impreso en la parte delantera
-- Camiseta normal
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FFTNZ592{{</world>}}

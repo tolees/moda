@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- 70 % algodón, 30 % poliéster
 - Sudadera de cuello redondo en tela cepillada de mezcla de algodón y poliéster
 - Gran logotipo de temporada impreso en el pecho y etiqueta tejida con logotipo insertado en la costura lateral
-- 70 % algodón, 30 % poliéster
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DTJ9L5S9{{</world>}}

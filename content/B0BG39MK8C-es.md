@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Corte normal
 - Pliegue del sótano con lazo holgado en la espalda
+- Corte normal
 - Gráfico bordado GANT en el bolsillo del pecho
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Gafas de sol para hombre
 - Color: marrón
 - Compra con confianza; distribuidor autorizado; autenticidad garantizada; paquete completo con todos los accesorios
+- Gafas de sol para hombre
 - Tamaño: 5319
 
 [🛒 Aquí!!!]({{< param buyurl >}})

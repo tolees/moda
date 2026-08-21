@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cárdigan de punto abierto
-- Bordes acanalados
 - Bolsillos en la parte delantera
+- Bordes acanalados
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C7KHWXFL{{</world>}}

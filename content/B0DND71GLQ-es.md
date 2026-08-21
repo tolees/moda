@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hecho de acetato de vinilo de etileno
 - Zuecos clásicos de la marca. Crocs
+- Hecho de acetato de vinilo de etileno
 - Fáciles de limpiar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

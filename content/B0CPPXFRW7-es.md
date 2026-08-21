@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con un tacón bajo
 - Presentan un estilo informal
 - Transpirables y cómodas
+- Con un tacón bajo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CPPXFRW7{{</world>}}

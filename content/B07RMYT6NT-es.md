@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El top viene con el Genio de la película animada del año 1992, y el eslogan “Your wihs is my command” junto a detalles azules oscuros en el cuello.
-- Mercancía con licencia oficial de Disney.
 - Pijama para hombres de Aladdin de Disney.
-- ¡Sentirás que tienes poderes mágicos con esta grandiosa pijama!
+- El top viene con el Genio de la película animada del año 1992, y el eslogan “Your wihs is my command” junto a detalles azules oscuros en el cuello.
 - La camiseta viene en conjunto con pantalones largos de pijama con el eslogan “Say the magic words” y el estampado de la icónica lámpara del genio con pretina elástica para mayor comodidad.
+- Mercancía con licencia oficial de Disney.
+- ¡Sentirás que tienes poderes mágicos con esta grandiosa pijama!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07RMYT6NT{{</world>}}

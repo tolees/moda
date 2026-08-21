@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Manga corta con cuello redondo, ideal para la primavera y el verano o para usar debajo
+- Ajuste: ajuste básico, longitud de espalda en talla L aprox. 74 cm
 - Camiseta clásica con logotipo impreso en la parte delantera y puños acanalados en el cuello
 - Hecho de suave tejido de punto simple
-- Ajuste: ajuste básico, longitud de espalda en talla L aprox. 74 cm
+- Manga corta con cuello redondo, ideal para la primavera y el verano o para usar debajo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D8C1DGFX{{</world>}}

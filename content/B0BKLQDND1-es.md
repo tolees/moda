@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Abertura frontal con cremallera helicoidal YKK completa
 - Polartec
-- CREMALLERA YKK
 - Bolsillos para las manos con cremallera YKK
+- Abertura frontal con cremallera helicoidal YKK completa
+- CREMALLERA YKK
 - Costuras planas para poco volumen.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

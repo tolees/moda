@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Camiseta esencial de cuello redondo con mangas cortas
 - Gran logotipo clásico en la parte delantera en calidad de jersey básico
 - 100% algodón
-- Camiseta esencial de cuello redondo con mangas cortas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FFTQ44HN{{</world>}}

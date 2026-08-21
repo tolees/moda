@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material Exterior: Sintético
-- Material de la suela: EVA
 - Cierre: Sin Cordones
+- Material de la suela: EVA
+- Material Exterior: Sintético
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B015OK3ZSE{{</world>}}

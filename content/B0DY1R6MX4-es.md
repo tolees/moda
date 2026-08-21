@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Camiseta de punto de manga corta 100 % algodón
 - Gran logotipo de BOSS estampado en la parte delantera
 - Corte recto
-- Camiseta de punto de manga corta 100 % algodón
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DY1R6MX4{{</world>}}

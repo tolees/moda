@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pantalones técnicos
 - Nieve Pant
+- Pantalones técnicos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DPG67WMT{{</world>}}

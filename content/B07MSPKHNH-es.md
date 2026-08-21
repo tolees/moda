@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Acentos de color blanco y negro en las mangas como contraste con el color principal
-- Puños elásticos para un ajuste perfecto
 - El material arrugado garantiza que la chaqueta no solo tenga un aspecto retro, sino que también se siente
 - Chaqueta deportiva en estilo retro de los años 90
+- Acentos de color blanco y negro en las mangas como contraste con el color principal
+- Puños elásticos para un ajuste perfecto
 - Un clic en el logotipo de la marca lleva a la tienda Urban Classics y a la moda de la calle
 
 [🛒 Visítala!!!]({{< param buyurl >}})

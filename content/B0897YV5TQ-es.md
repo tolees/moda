@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño de cinco bolsillos
 - Este producto es original Levis
+- Diseño de cinco bolsillos
 - Eleva el trasero y alarga las piernas
 - Alisa el vientre y moldea las curvas
 

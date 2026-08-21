@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Puños acanalados, bajo redondeado
 - Cierre de cremallera
 - Bolsillo estilo canguro dividido
-- Puños acanalados, bajo redondeado
 - Capucha con parte delantera alzada y cordón ajustable
 - Paneles laterales y cintura acanalados
 

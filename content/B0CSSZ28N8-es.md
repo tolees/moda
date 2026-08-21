@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- CAROLINA HERRERA GAFAS CAROLINA HERRERA Modelo HER 0226S C HAVANA PINK Eye – Other Beauty auténtico y reconocido.
-- Ideal para uso diario, aporta beneficio inmediata.
-- Disfruta de una experiencia de energía con cada aplicación.
-- Presentación práctica de alta calidad, fácil de usar y llevar contigo.
 - CAROLINA HERRERA fragancia original con aroma único.
+- Ideal para uso diario, aporta beneficio inmediata.
+- Presentación práctica de alta calidad, fácil de usar y llevar contigo.
+- Disfruta de una experiencia de energía con cada aplicación.
+- CAROLINA HERRERA GAFAS CAROLINA HERRERA Modelo HER 0226S C HAVANA PINK Eye – Other Beauty auténtico y reconocido.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CSSZ28N8{{</world>}}

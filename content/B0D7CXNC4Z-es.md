@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Con capucha
 - Relleno de fibras sintéticas
 - Cremallera lateral oculta
-- Con capucha
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D7CXNC4Z{{</world>}}

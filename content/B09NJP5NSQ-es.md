@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Horma clásica
 - Plantilla de EVA
+- Horma clásica
 - Parte superior de piel sintética
 - Diseño acolchado
 - Suela de goma

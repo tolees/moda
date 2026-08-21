@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuero duradero de origen responsable
 - Suela de goma antideslizante
+- Cuero duradero de origen responsable
 - Plantilla Contour Comfort moldeada, parcialmente reciclada, forrada de cuero
 
 [🛒 Aquí!!!]({{< param buyurl >}})

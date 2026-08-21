@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Algodón suave para confort
 - Diseño de talón real para un ajuste adecuado
+- Algodón suave para confort
 - Suela antideslizante para evitar resbalones
 - Las costuras planas en la puntera evitan molestias
 - Detalles con el logotipo de PUMA

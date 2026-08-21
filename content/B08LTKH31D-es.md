@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - La chaqueta de punto combina con una camiseta blanca, pantalones casuales o jeans que ayudan a mejorar tu imagen pública y dejar una impresión inolvidable en las personas
 - Cárdigan casual con forro polar sintético con cuello alto y cierre de cremallera completo
-- Suéter grueso de invierno para hombre con manga larga, cuello alto y 2 bolsillos laterales
 - Cárdigan de punto de ajuste regular con forro polar para hombre con dobladillo y puños acanalados
+- Suéter grueso de invierno para hombre con manga larga, cuello alto y 2 bolsillos laterales
 - La chaqueta tipo cárdigan para hombre es ideal para la oficina, uso diario, uso casual, etc
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

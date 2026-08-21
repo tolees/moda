@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Plantilla extraíble
 - Cómodos y transpirables de corte bajo
+- Plantilla extraíble
 - Cierre de cordones
 
 [🛒 Comprar!!!]({{< param buyurl >}})

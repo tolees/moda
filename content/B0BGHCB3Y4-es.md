@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- TOTTO: Somos una marca líder en la comercialización de mochilas, maletas y accesorios que nace con la misión de desarrollar productos renovados, sostenibles y de excelente calidad. Queremos estar cerca de ti, acompañarte en cada etapa y en cada aventura.
-- GRAN CAPACIDAD: Con medidas de 34 x 34 x 14 cm y una capacidad de 16,18 litros, el bolso es lo suficientemente grande para llevar todo lo necesario sin ser voluminoso. Su diseño versátil lo convierte en una opción cómoda y estilosa para cualquier estudiante.
 - BOLSO ESCOLAR: El bolso escolar modelo Cutara tipo shopping destaca por su originalidad y variedad de colores, permitiéndote crear combinaciones únicas. Ideal para llevar tu portátil o tablet y tus objetos, ya sea al instituto, la universidad o el trabajo.
 - BOLSILLO PARA PORTÁTIL 14 PULGADAS: El bolso escolar cuenta con un bolsillo específico para un ordenador portátil de hasta 14", ofreciendo una capa adicional de protección y manteniéndolo seguro y accesible en todo momento, ideal para estudiantes.
+- TOTTO: Somos una marca líder en la comercialización de mochilas, maletas y accesorios que nace con la misión de desarrollar productos renovados, sostenibles y de excelente calidad. Queremos estar cerca de ti, acompañarte en cada etapa y en cada aventura.
+- GRAN CAPACIDAD: Con medidas de 34 x 34 x 14 cm y una capacidad de 16,18 litros, el bolso es lo suficientemente grande para llevar todo lo necesario sin ser voluminoso. Su diseño versátil lo convierte en una opción cómoda y estilosa para cualquier estudiante.
 - PRÁCTICOS BOLSILLOS: Este bolso escolar cuenta con 1 compartimento principal y 2 bolsillos delanteros, ofreciendo suficiente espacio para libros y otros útiles escolares. Además, cuenta con 2 bolsillos laterales para poder llevar botellas de agua.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

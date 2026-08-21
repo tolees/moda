@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- HERMANA PEQUEÑA: Ya puedes crear historias con las hermanas pequeñas de tus muñecas favoritas; te presentamos a la hermana pequeña de Stella Monroe: Magenta. Magenta es feliz cuando está con su hermana mayor, Stella. Hará lo que sea para hacerla sonreír
-- RASGOS ADORABLES: Tiene un adorable rostro esculpido más joven y un precioso pelo rosa rizado con dos coletas
 - MODA ROSA: Magenta Monroe tiene su propio estilo. Lleva un vestido rosa con falda de suave tweed y top moldeado, así como una chaqueta de suave piel sintética, zapatos y bolso rosas a juego
 - MASCOTA MÁGICA: Viene con una gatita mágica rosa muy mona que lleva un cuerno
+- RASGOS ADORABLES: Tiene un adorable rostro esculpido más joven y un precioso pelo rosa rizado con dos coletas
+- HERMANA PEQUEÑA: Ya puedes crear historias con las hermanas pequeñas de tus muñecas favoritas; te presentamos a la hermana pequeña de Stella Monroe: Magenta. Magenta es feliz cuando está con su hermana mayor, Stella. Hará lo que sea para hacerla sonreír
 - MUÑECA PEQUEÑA ARTICULABLE: Tiene la altura perfecta para su edad, 14 cm. Y como está articulada por la cabeza, los hombros y las piernas, puede adoptar poses muy fácilmente
 
 [🛒 Comprar!!!]({{< param buyurl >}})

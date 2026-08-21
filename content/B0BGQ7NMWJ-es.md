@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Plano
+- Punta redonda
 - Caucho
+- Plano
 - Adjuntar
 - Sintético
-- Punta redonda
 - Tanga
 
 [🛒 Visítala!!!]({{< param buyurl >}})

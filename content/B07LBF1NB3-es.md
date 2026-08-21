@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Exterior: 90% poliéster (reciclado), 10% elastán
 - Cálida, flexible y transpirable, esta chaqueta softshell multifuncional con capucha tiene forro polar y propiedades de resistencia a la intemperie; el tratamiento repelente al agua no contiene PFC, y la chaqueta está fabricada de forma responsable con el proceso de fabricación textil certificado bluesign: tú y el medio ambiente salís ganando
 - Una chaqueta softshell con capucha diseñada para ofrecer versatilidad en cualquier salida atlética
 - Artículos entregados: 1x Helly Hansen Hombre Chaqueta Softshell Paramount Con Capucha,L,Azul marino
+- Exterior: 90% poliéster (reciclado), 10% elastán
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07LBF1NB3{{</world>}}

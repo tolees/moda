@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Zapatillas bajas
-- Cierre con cordones
 - Suela perforada
+- Cierre con cordones
+- Zapatillas bajas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D6ND9C6Y{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 5.Sugerencia de lavado: lavar a máquina, secar en secadora, no blanquear. Al lavar a máquina, se recomienda utilizar una bolsa de lavandería para cubrirlo primero, lo que puede proteger la imagen animal del body de ser dañado, como la cola o las orejas. Recuerde elegir un programa suave.
-- 2.Tejido: el tejido del body es un suave forro polar, hecho de poliéster, elastano y algodón, después de muchos procesos para fabricar el tejido. Ligero y cálido, cómodo y transpirable, sin electricidad estática, sin decoloración, sin pilling.
 - 3. Los bodies de animales pueden usarse en primavera, otoño e invierno. En ciudades con bajas temperaturas, puedes llevar ropa de abrigo dentro del body. Puede estar en casa o al aire libre, con estilo de cremallera y estilo de botón para satisfacer diferentes necesidades.
 - 4.Peleles de animales que se pueden utilizar para múltiples fiestas y celebraciones: Halloween, Navidad, Acción de Gracias, Mardi Gras, Fiesta de Pijamas, Fiesta de Cumpleaños, Fiesta de Juegos de Rol.
+- 2.Tejido: el tejido del body es un suave forro polar, hecho de poliéster, elastano y algodón, después de muchos procesos para fabricar el tejido. Ligero y cálido, cómodo y transpirable, sin electricidad estática, sin decoloración, sin pilling.
+- 5.Sugerencia de lavado: lavar a máquina, secar en secadora, no blanquear. Al lavar a máquina, se recomienda utilizar una bolsa de lavandería para cubrirlo primero, lo que puede proteger la imagen animal del body de ser dañado, como la cola o las orejas. Recuerde elegir un programa suave.
 - 1.Tamaño unisex: XS (140-153cm,≤45KG)---S (146-159cm,≤50KG)---M (160-169cm,≤60KG)---L (170-178cm,≤70KG)---XL (179-188cm,≤80KG).
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

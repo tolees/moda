@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Paneles laterales
-- Cuello de camisa
 - Puños ajustables con botones
+- Cuello de camisa
 - Bordado de G-STAR en el pecho
 - Cierre de botones
 

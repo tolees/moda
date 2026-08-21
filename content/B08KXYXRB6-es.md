@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte regular
 - Sudadera con Capucha con Cordones
+- Corte regular
 - Puños y dobladillo acanalados
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

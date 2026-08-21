@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- STANDARD FIT: Camiseta de corte clásico y muy cómoda para usar todos los días.
-- ESTILO ATEMPORAL: La camiseta Original Tee para hombre representa el auténtico estilo Levis. Gracias a su clásico cuello redondo y sus mangas cortas combina un diseño atemporal a la vez que versátil y desenfadado.
-- BÁSICO VERSÁTIL: Ideal para usar todos los días, sola o debajo de camisas y chaquetas. Esta camiseta puede combinarse de muchas maneras.
 - LEVIS: Desde 1873, Levis es sinónimo de originalidad, saber hacer y calidad duradera. La marca combina tradición e innovación. Levis Tab puede variar en su diseño: todos los productos con Tab son originales, independientemente de logotipo o color.
+- ESTILO ATEMPORAL: La camiseta Original Tee para hombre representa el auténtico estilo Levis. Gracias a su clásico cuello redondo y sus mangas cortas combina un diseño atemporal a la vez que versátil y desenfadado.
 - ALGODÓN 100 %: Prenda confeccionada en suave punto de algodón 100 %. El tejido es resistente, mantiene la forma y resulta muy cómodo.
+- BÁSICO VERSÁTIL: Ideal para usar todos los días, sola o debajo de camisas y chaquetas. Esta camiseta puede combinarse de muchas maneras.
+- STANDARD FIT: Camiseta de corte clásico y muy cómoda para usar todos los días.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0G25VYGQD{{</world>}}

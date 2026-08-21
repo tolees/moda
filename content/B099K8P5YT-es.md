@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El vestido es hasta la rodilla/mediano
-- Un clic en el nombre de la marca lleva a la tienda Urban Classics Brand y aún más ropa de calle de moda
 - El vestido de cuello alto es deportivo y elegante combinable
-- Cuello redondo
 - Vestido de manga larga para negocios, ocio y cualquier época del año
+- Cuello redondo
+- Un clic en el nombre de la marca lleva a la tienda Urban Classics Brand y aún más ropa de calle de moda
+- El vestido es hasta la rodilla/mediano
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B099K8P5YT{{</world>}}

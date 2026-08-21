@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto original Hawkers; la caja incluye funda en microfibra y caja
-- Modelo Unisex; Medidas: Frontal 145 mm, Varillas 145 mm, Puente 13 mm, Alto 51 mm
-- Material de la montura: TR90; Color de la montura: Negro; Color de la varilla: Negro
-- Redefinimos y mejoramos nuestro best seller One Downtown con una nueva montura ligeramente más grande y de ajuste más cómodo; gracias a sus lentes encajadas sutilmente a ras del marco, las Downtown Max aportan un estilo urbano creando un efecto todo lente; una silueta que huye de lo convencional para destacar en tu día a día; disponible en varios colores de monturas y lentes
 - Gafas de sol categoría filtro 2, coloración medianamente oscura, utilizar en exteriores con luminosidad media; absorben entre un 57% y un 81% de luz solar; Material de la lente: Lentes de TR18 con el sello de Eastman, gran calidad óptica y resistencia; respetuoso con el medio ambiente; protección 100% UV; Color de la lente: Rosa, Gris; Apariencia de la lente: Gradiente
+- Producto original Hawkers; la caja incluye funda en microfibra y caja
+- Material de la montura: TR90; Color de la montura: Negro; Color de la varilla: Negro
+- Modelo Unisex; Medidas: Frontal 145 mm, Varillas 145 mm, Puente 13 mm, Alto 51 mm
+- Redefinimos y mejoramos nuestro best seller One Downtown con una nueva montura ligeramente más grande y de ajuste más cómodo; gracias a sus lentes encajadas sutilmente a ras del marco, las Downtown Max aportan un estilo urbano creando un efecto todo lente; una silueta que huye de lo convencional para destacar en tu día a día; disponible en varios colores de monturas y lentes
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D6S1SDNM{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- En el ONE DREAM, nuestra montura más vendida de todos los tiempos se combina con una lente de máscara de una sola pieza sin aros. Este modelo negro brillante tiene una lente gris.
-- Medidas: Frontal 142 mm; Patillas 140 mm ; Alto 50,5 mm. Modelo Unisex
-- Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Almohadillas de TR90 para una sujeción mucho más cómoda. Bisagra de 3 barras para un mayor agarre y durabilidad.
 - Lentes categoría 3 y protección uv400 que ofrecen una protección antideslumbrante superior. Lente de policarbonato de alta resistencia a los golpes que proporciona máxima comodidad por su flexibilidad y ligereza.
 - Producto original Hawkers. La caja incluye funda en microfibra y caja
+- Medidas: Frontal 142 mm; Patillas 140 mm ; Alto 50,5 mm. Modelo Unisex
+- En el ONE DREAM, nuestra montura más vendida de todos los tiempos se combina con una lente de máscara de una sola pieza sin aros. Este modelo negro brillante tiene una lente gris.
+- Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Almohadillas de TR90 para una sujeción mucho más cómoda. Bisagra de 3 barras para un mayor agarre y durabilidad.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BGLXJTJJ{{</world>}}

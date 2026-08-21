@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Placa de metal en el dobladillo
 - Blusa con hombros descubiertos y mangas cortas
 - Extremo fruncido en mangas y dobladillo.
+- Placa de metal en el dobladillo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FFTMR5V2{{</world>}}

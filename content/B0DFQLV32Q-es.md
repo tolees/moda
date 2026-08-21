@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- DETTAGLIO 3: Doppia cucitura
-- DETTAGLIO 1: Logo Alpha stampato in raso sul petto
-- Maglietta da uomo
 - VESTIBILITA: Vestibilità regolare
+- DETTAGLIO 1: Logo Alpha stampato in raso sul petto
+- DETTAGLIO 3: Doppia cucitura
 - DETTAGLIO 2: Nastro interno sul collo RBF
+- Maglietta da uomo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DFQLV32Q{{</world>}}

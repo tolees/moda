@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tejido ligero y suave
 - Detalles distintivos de la marca
 - Con un ajuste cómodo
+- Tejido ligero y suave
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DSYBYTM9{{</world>}}

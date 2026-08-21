@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre de hebilla
 - Sandalias modernas para mujer de la marca Crocs
 - Hecho de etileno acetato de vinilo
+- Cierre de hebilla
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DCK6TC54{{</world>}}

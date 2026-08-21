@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- manga corta
-- Composición del material: 100% algodón – En conversión directa a granja
 - Corte holgado
+- Composición del material: 100% algodón – En conversión directa a granja
 - Camiseta
+- manga corta
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DKJZ2VXY{{</world>}}

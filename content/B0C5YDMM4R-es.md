@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Falda de mezclilla casual y elegante para mujeres
-- Raja para mayor libertad de movimiento
 - Cintura alta para una silueta favorecedora
+- Raja para mayor libertad de movimiento
+- Falda de mezclilla casual y elegante para mujeres
 - Longitud máxima para un look de moda
 
 [🛒 Comprar!!!]({{< param buyurl >}})

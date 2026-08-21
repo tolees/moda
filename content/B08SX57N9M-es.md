@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - FRANELA SUAVE Y CÓMODA: La franela de algodón proporciona calidez con una sensación suave y cepillada
-- CORTE HOLGADO: Parte de arriba: corte holgado en los hombros, el pecho y la cintura. Parte de abajo: ajuste holgado en la cadera, el muslo y la pierna. Se ajusta por debajo de la cintura natural
 - DETALLES: Camiseta de manga larga y pantalones con cinturilla elástica, cordón funcional, cierre con botones en la parte delantera y bolsillos laterales
+- CORTE HOLGADO: Parte de arriba: corte holgado en los hombros, el pecho y la cintura. Parte de abajo: ajuste holgado en la cadera, el muslo y la pierna. Se ajusta por debajo de la cintura natural
 - CONJUNTO DE PIJAMA: cómodo conjunto de pijama para un sueño reparador, perfecto para relajarse en casa
 
 [🛒 Comprar!!!]({{< param buyurl >}})

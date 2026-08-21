@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Luces altas: nuestro traje de baile de lentejuelas hecho de poliéster y spandex de fácil cuidado. Muchos diseños incluyen materiales especiales llamativos diseñados para mejorar el rendimiento del escenario.
 - El paquete incluye: chaqueta, chaleco, pantalones cortos, calcetines. Adecuado para niños de 4 a 15 años, altura entre 110-170 cm.
-- Detalles fabulosos: el cuello, el dobladillo y los puños son de tela metálica plateada lisa, combinan perfectamente con el conjunto de lentejuelas rosadas y no es fácil mancharse.
-- Instrucciones de cuidado: no lavar a máquina, limpiar con un paño húmedo estará bien, no usar lejía, no planchar.
 - Ideal para actividades: actividades de equipo, club de baile callejero, actuación de baile hip hop, competencia de baile en solitario, escenario, fiestas, carnaval, salón de baile, sesión de fotos de arte, Halloween, etc.
+- Instrucciones de cuidado: no lavar a máquina, limpiar con un paño húmedo estará bien, no usar lejía, no planchar.
+- Detalles fabulosos: el cuello, el dobladillo y los puños son de tela metálica plateada lisa, combinan perfectamente con el conjunto de lentejuelas rosadas y no es fácil mancharse.
+- Luces altas: nuestro traje de baile de lentejuelas hecho de poliéster y spandex de fácil cuidado. Muchos diseños incluyen materiales especiales llamativos diseñados para mejorar el rendimiento del escenario.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C9T9TDB3{{</world>}}

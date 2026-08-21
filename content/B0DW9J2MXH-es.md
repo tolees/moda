@@ -30,10 +30,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Cuello: en V
 - Fit: Slim
-- Desigual
 - Estampado Paisley
-- Largo: Midi
 - Manga: Larga
+- Desigual
+- Largo: Midi
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DW9J2MXH{{</world>}}

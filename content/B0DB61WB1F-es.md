@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Aplicación multifuncional: esta mini impresora es versátil, admite la impresión de fotos, scrapbook, diario, lista, memo, libro falso, muy adecuado para la oficina, estudiantes, uso en el hogar
 - Impresora térmica sin tinta: impresión en blanco y negro, no admite impresión tarbol; no se requiere tinta o tóner, imprime claramente con tecnología térmica
 - Modo de empleo: 1. Descarga la aplicación "Phomemo"; 2. Enciende el Bluetooth y conecta la impresora en la aplicación (Nota: conecta la impresora en la aplicación, no en la función Bluetooth); 3. Seleccione la impresora mini "M02X" y conéctela
-- Mini impresora portátil: tamaño 85 x 85 x 39,5 mm, peso de solo 162 gramos, puedes ponerlo en tu bolsillo o bolsa y llevarlo contigo, 1 rollo de papel térmico de 50 mm*1,5 m están incluidos en la mini impresora
 - Mini impresora de fotos móvil con soporte Bluetooth para teléfono móvil y tableta: utiliza la tecnología de conexión inalámbrica Bluetooth para conectarse rápidamente con su teléfono móvil o tableta, de modo que pueda imprimir sus fotos en cualquier momento y en cualquier lugar
-- Aplicación multifuncional: esta mini impresora es versátil, admite la impresión de fotos, scrapbook, diario, lista, memo, libro falso, muy adecuado para la oficina, estudiantes, uso en el hogar
+- Mini impresora portátil: tamaño 85 x 85 x 39,5 mm, peso de solo 162 gramos, puedes ponerlo en tu bolsillo o bolsa y llevarlo contigo, 1 rollo de papel térmico de 50 mm*1,5 m están incluidos en la mini impresora
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DB61WB1F{{</world>}}

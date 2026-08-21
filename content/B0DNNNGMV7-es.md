@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Esta es la camiseta esencial en su máxima expresión
-- Acabado con un sutil logotipo en el pecho
 - Una silueta cuadrada con hombros caídos
+- Acabado con un sutil logotipo en el pecho
+- Esta es la camiseta esencial en su máxima expresión
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DNNNGMV7{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- [Gafas de Sol D.Franklin] 3 Lentes redondas polarizadas Frontal en TR90 y varillas de acetato Caja de cartón resistente, estuche protector de microfibra y set de pegatinas Logo en ambas varillas Estilo unisex Categoría 3 Protección UV 400 Frontal TR90 Puente TR90 Varillas Acetato Lentes Polarizadas Altura Lente 43mm Ancho Lente 47mm Ancho Frontal 138mm Ancho Puente 22mm Largo Varilla 145mm..
-- D.Franklin - Gafas de sol unisex con cristales de protección UV - Polarizadas - Modelo ultra-light-s-round
-- Estilo y diseño vanguardista y atemporal inspirado en las últimas tendencias siendo siempre fieles a nuestra esencia. Por ello, D. Franklin se ha convertido en una marca referente y líder en el mercado.
 - D. Franklin es una marca española referente para los amantes de la moda y los accesorios gracias a nuestro estilo único, calidad y compromiso medioambiental. Productos fabricados con materiales sostenibles y de alta calidad.
+- [Gafas de Sol D.Franklin] 3 Lentes redondas polarizadas Frontal en TR90 y varillas de acetato Caja de cartón resistente, estuche protector de microfibra y set de pegatinas Logo en ambas varillas Estilo unisex Categoría 3 Protección UV 400 Frontal TR90 Puente TR90 Varillas Acetato Lentes Polarizadas Altura Lente 43mm Ancho Lente 47mm Ancho Frontal 138mm Ancho Puente 22mm Largo Varilla 145mm..
 - La colección Ultra Light S Round Limited Edition renueva una de las colecciones más icónicas de D.Franklin con un rediseño de su montura y mejorando la comodidad para convertir este modelo en un must have. Las Ultra Light S Round Crystal Grey / Black aportan un estilo sofisticado e innovador gracias a su acabado transparente. Protección UV, UV 400 cat
+- Estilo y diseño vanguardista y atemporal inspirado en las últimas tendencias siendo siempre fieles a nuestra esencia. Por ello, D. Franklin se ha convertido en una marca referente y líder en el mercado.
+- D.Franklin - Gafas de sol unisex con cristales de protección UV - Polarizadas - Modelo ultra-light-s-round
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09TPYZWNQ{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camiseta
 - Ajuste holgado
 - Composición del material: 100 % algodón
+- Camiseta
 - Manga corta
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

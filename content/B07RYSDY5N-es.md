@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Basic T-Shirt with crew neck
 - organic cotton for a comfortable wear
+- Basic T-Shirt with crew neck
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07RYSDY5N{{</world>}}

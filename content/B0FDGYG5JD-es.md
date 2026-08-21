@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con el monograma CK en la parte delantera
-- Bolso para colgar al hombro
 - Destaca por su elegante diseño
+- Bolso para colgar al hombro
+- Con el monograma CK en la parte delantera
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FDGYG5JD{{</world>}}

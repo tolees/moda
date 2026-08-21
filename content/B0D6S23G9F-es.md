@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Material del montura: TR90. Color del montura: Negro. Color de la varilla: Negro.
+- Categoría de filtro 3, color suficientemente oscuro para usar en exterior a pleno sol. Absorben entre un 82% y un 92% de luz solar. Material de la lente: Lentes de policarbonato que proporcionan gran resistencia, ideal para uso deportivo y niños. Protección 100 % UV. Color de la lente: Plateado. Apariencia de la lente: Espejo.
 - Producto original Hawkers. La caja incluye funda en microfibra y caja
 - Un diseño creado técnicamente para la práctica de cualquier disciplina deportiva. Su montura ultraligera y envolvente de TR90 con almohadillas nasales y terminales engomados permiten un ajuste perfecto. Mientras que su lente de máscara ofrece una visión panorámica antirreflejante. Incluye: un estuche protector compacto, con cremallera y agarre para facilitar el transporte, funda de microfibra y puente de diferente tamaño intercambiable para una mejor adaptación al rostro.
-- Material del montura: TR90. Color del montura: Negro. Color de la varilla: Negro.
 - Modelo Unisex. Medidas: Frontal 155 mm, Varillas 120 mm , Puente 0 mm , Alto 66 mm.
-- Categoría de filtro 3, color suficientemente oscuro para usar en exterior a pleno sol. Absorben entre un 82% y un 92% de luz solar. Material de la lente: Lentes de policarbonato que proporcionan gran resistencia, ideal para uso deportivo y niños. Protección 100 % UV. Color de la lente: Plateado. Apariencia de la lente: Espejo.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D6S23G9F{{</world>}}

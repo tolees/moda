@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Modelo casual
-- Este producto es original Levis
 - Dos bolsillos con botón en el pecho
+- Este producto es original Levis
 - Camisa denim clásica de manga larga Western Shirt
 
 [🛒 Visítala!!!]({{< param buyurl >}})

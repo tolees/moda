@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Estampado en la parte delantera
 - Presenta un estilo casual
 - Tejido suave y cómodo
+- Estampado en la parte delantera
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CNHC4JY2{{</world>}}

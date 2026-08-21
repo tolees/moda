@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Correas Matlite suaves y flexibles
 - Plantilla elevada
 - Base de maquillaje Croslite ligera
+- Correas Matlite suaves y flexibles
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DNN1H8NG{{</world>}}

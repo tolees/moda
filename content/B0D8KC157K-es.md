@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Múltiples tallas y largos de entrepierna: Disponible en tallas 4-16 y largos de entrepierna para un ajuste a medida.
 - Estilo distintivo: Camiseta de manga corta de ajuste entallado con cuello redondo. Estampado de glitter en el pecho frontal.
 - Colección SS27MC: Parte de la colección.
-- Cotton Lycra: Construcción auténtica del tejido con aspecto y tacto premium.
 - Mezcla premium de tejido: Hecho de 95% algodón, 5% elastano para comodidad, flexibilidad y durabilidad.
+- Cotton Lycra: Construcción auténtica del tejido con aspecto y tacto premium.
+- Múltiples tallas y largos de entrepierna: Disponible en tallas 4-16 y largos de entrepierna para un ajuste a medida.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D8KC157K{{</world>}}

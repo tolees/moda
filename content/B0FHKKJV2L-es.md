@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La muñeca Barbie Basics Modelo 07 atrae todas las miradas con unos pantalones palazzo blancos con un elegante estampado dorado y una camiseta corta de color canela.
-- La icónica línea de Barbie Signature presenta la colección Neutral con 5 sofisticadas siluetas perfectas para cualquier ocasión.
-- Barbie Basics ha vuelto más versátil que nunca con una línea de muñecas atemporales con prendas básicas de talla universal y cuerpos articulados.
-- Descubre toda la línea Barbie Basics, en la que cada Barbie viene con básicos de armario para llevar, intercambiar y crear looks en su estilo único.
 - El conjunto se ha diseñado con tejido elástico de primera calidad y la talla es compatible con cualquier muñeca, para que puedas intercambiar y combinar diferentes modelitos en cualquier tipo de cuerpo Barbie.
+- Barbie Basics ha vuelto más versátil que nunca con una línea de muñecas atemporales con prendas básicas de talla universal y cuerpos articulados.
+- La icónica línea de Barbie Signature presenta la colección Neutral con 5 sofisticadas siluetas perfectas para cualquier ocasión.
+- Descubre toda la línea Barbie Basics, en la que cada Barbie viene con básicos de armario para llevar, intercambiar y crear looks en su estilo único.
+- La muñeca Barbie Basics Modelo 07 atrae todas las miradas con unos pantalones palazzo blancos con un elegante estampado dorado y una camiseta corta de color canela.
 - Los tacones marrones le dan un toque minimalista a la par que atrevido y su pelo rubio rizado con volumen complementa sus llamativos pendientes.
 - Gracias al cuerpo original hecho para moverse, es perfecta para posar, fotografiar y publicar sus transformaciones con las etiquetas #OOTD y #YouCreateBarbieBasics.
 

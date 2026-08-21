@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tejido teñido en prenda
-- Dos bolsillos de parche en el pecho
 - Cuello inglés
+- Dos bolsillos de parche en el pecho
+- Tejido teñido en prenda
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FDL8DVNB{{</world>}}

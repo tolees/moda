@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Camiseta unisex de manga corta con la “H” en el pecho y frase “THIS WEEKEND PRAY FOR ME” en la espalda. *¡Aviso! No nos hacemos responsables del estado en que termines después del finde. Disponible en dos colores.
-- 100% algodón. Grosor: 230g
-- Camiseta manga corta unisex.
-- Modelo 188 cm Talla M
 - Detalle con gráfico y texto en la parte trasera y delantera. Aplique logo lateral.
+- Modelo 188 cm Talla M
+- Camiseta manga corta unisex.
+- 100% algodón. Grosor: 230g
+- Camiseta unisex de manga corta con la “H” en el pecho y frase “THIS WEEKEND PRAY FOR ME” en la espalda. *¡Aviso! No nos hacemos responsables del estado en que termines después del finde. Disponible en dos colores.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09TBJVDHQ{{</world>}}

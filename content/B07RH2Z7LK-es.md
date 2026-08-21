@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuello redondo
-- Cómoda tela elástica
 - Una mirada original
+- Cómoda tela elástica
+- Cuello redondo
 - Proporciona comodidad
 - Manga larga
 

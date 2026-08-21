@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sintético
-- Adjuntar
-- Punta redonda
 - Tanga
+- Sintético
+- Punta redonda
+- Adjuntar
 - Caucho
 
 [🛒 Visítala!!!]({{< param buyurl >}})

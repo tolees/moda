@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - BÁSICO - Diseño atemporal y minimalista, un clásico en el mundo de la moda. Chaleco ligero y cálido sin mangas para la temporada. ¡Un básico del modelo SKYLAR 15220630 de Jacqueline de Yong!
-- DETALLES - Cierre de cremallera de doble vía y 2 bolsillos laterales con cierre completan el diseño acolchado de la chaleco con capucha. La modelo lleva la talla S. La longitud de la talla S es: 88 cm.
 - MATERIAL - El tejido fácil de cuidar de 100% poliéster ofrece comodidad al usarlo con una excelente calidad de fabricación.
 - PERFECTO - Corte Regular. Sensación de calidez irresistible en otoño e invierno gracias al forro interior acolchado tipo plumífero. ¡El punto álgido de la moda que se puede combinar de diversas maneras!
+- DETALLES - Cierre de cremallera de doble vía y 2 bolsillos laterales con cierre completan el diseño acolchado de la chaleco con capucha. La modelo lleva la talla S. La longitud de la talla S es: 88 cm.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CF3V37ZQ{{</world>}}

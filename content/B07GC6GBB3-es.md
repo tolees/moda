@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Grande estilo diseñador.
-- Fuerza +1,50.
-- Gafas de lectura para hombres.
 - Diseño de marco robusto con bisagras de resorte.
+- Gafas de lectura para hombres.
+- Fuerza +1,50.
+- Grande estilo diseñador.
 - Acabado de carey de marrón.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

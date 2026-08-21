@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Biquini
 - Talle bajo con cobertura media
-- Tejido suave y elástico de mezcla de algodón y modal
 - Elástico suave al tacto
+- Tejido suave y elástico de mezcla de algodón y modal
+- Biquini
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B084R2XYP1{{</world>}}

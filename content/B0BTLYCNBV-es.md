@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela de goma duradera
-- Flexibles y cómodos
 - Estilo clásico
 - Luz
+- Suela de goma duradera
+- Flexibles y cómodos
 - Plantilla artificial acolchada de EVA súper suave.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

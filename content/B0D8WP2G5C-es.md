@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Costura adicional para darle forma en la parte trasera de la manga
 - Bolsillo en el pecho
 - Cuello acanalado
-- Proporciona comodidad
 - Estampado gráfico de G-STAR en el bolsillo
+- Proporciona comodidad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D8WP2G5C{{</world>}}

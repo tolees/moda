@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Patrón GANT bordado en el pecho
 - Escote redondo
 - Mangas cortas
+- Patrón GANT bordado en el pecho
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DSGF5TGB{{</world>}}

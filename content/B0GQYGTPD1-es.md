@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- DIVERSIÓN Y APRENDIZAJE: El balanceo del columpio para bebés mejora la capacidad de coordinación y equilibrio de los más pequeños, fundamental a la hora de aprender a caminar. También ayuda al sistema psicomotriz. Para que se diviertan, se relajen acompañados de música, etc.
-- DISEÑO DE DOBLE SEGURIDAD: La barra en T delantera y el respaldo del asiento cuentan con un cinturón de seguridad adjunto para garantizar que tu pequeño esté totalmente seguro. El asiento está unido a 4 cuerdas de PE para distribuir el peso de manera uniforme
+- MEDIDAS TOTALES: 42x33x120-180 cm (LxANxAL). Adecuado para 9-36 meses. Capacidad de peso: 70 kg. Certificaciones: EN71-1-2-3, EN71-8. Este columpio de jardín requiere montaje
 - DISEÑO 3 EN 1: Columpio infantil evolutivo para que se pueda adaptar al crecimiento de tu bebé. Al tener el respaldo y la barra en T frontal desmontables, podrás poner o quitar estos 2 elementos para conseguir el columpio más adecuado en cada etapa
 - CUERDAS AJUSTABLES: Las cuerdas de este columpio de jardín exterior se pueden ajustar en altura entre 1,2 y 1,8 metros, para adaptar, según necesidades de uso y también al soporte elegido. Proporciona un balanceo suave y agradable. El montaje rápido y sin herramientas, con todos los accesorios incluidos, facilita la instalación
-- MEDIDAS TOTALES: 42x33x120-180 cm (LxANxAL). Adecuado para 9-36 meses. Capacidad de peso: 70 kg. Certificaciones: EN71-1-2-3, EN71-8. Este columpio de jardín requiere montaje
+- DIVERSIÓN Y APRENDIZAJE: El balanceo del columpio para bebés mejora la capacidad de coordinación y equilibrio de los más pequeños, fundamental a la hora de aprender a caminar. También ayuda al sistema psicomotriz. Para que se diviertan, se relajen acompañados de música, etc.
+- DISEÑO DE DOBLE SEGURIDAD: La barra en T delantera y el respaldo del asiento cuentan con un cinturón de seguridad adjunto para garantizar que tu pequeño esté totalmente seguro. El asiento está unido a 4 cuerdas de PE para distribuir el peso de manera uniforme
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GQYGTPD1{{</world>}}

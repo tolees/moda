@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela de tracción flexible
-- Skechers Detalle del logotipo
 - Parte superior de malla y sintética
+- Skechers Detalle del logotipo
+- Suela de tracción flexible
 - Entresuela con detalle de perno y zigzag
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

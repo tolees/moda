@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño flexible y detalles reflectantes
 - Ajuste regular y relación calidad-precio
+- Diseño flexible y detalles reflectantes
 - Cremallera completa con cuello alto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

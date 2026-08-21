@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Instrucciones de cuidado: lavar a mano/lavar Planchar después de recibir y lavar.
 - Material: mezcla de algodón y lino, muy cómodo de llevar, buena calidad. Gracias al tejido transpirable y ligero, la camisa ofrece una excelente comodidad, especialmente a altas temperaturas.
 - La camisa de verano casual de manga larga tiene un aspecto casual y elegante, combina muy bien con pantalones, pantalones cortos, jeans, pantalones cargo. Clásico y moderno.
-- Si quieres saber más sobre Ropa de moda para hombre, haz clic en "RUNCATI" para entrar en nuestra tienda.
+- Instrucciones de cuidado: lavar a mano/lavar Planchar después de recibir y lavar.
 - Diseño: decoración de rayas en el cierre, cuello alto, mangas largas, cierre de botones, ajuste regular.
+- Si quieres saber más sobre Ropa de moda para hombre, haz clic en "RUNCATI" para entrar en nuestra tienda.
 - Elección perfecta para cualquier situación cotidiana, por ejemplo, con pantalones chinos o vaqueros en el tiempo libre o en las fiestas, con chaqueta en la oficina para un look elegante de trabajo. La camisa se puede combinar en diferentes estilos. Ideal para verano, primavera y otoño.
 - Talla (contorno de pecho: M - 115,5 cm, L - 122,5 cm, XL - 129,5 cm, XXL - 136,5 cm, 3XL - 143,5 cm). Consulta la última imagen para obtener más medidas antes de realizar el pedido.
 

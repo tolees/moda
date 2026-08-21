@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Lengüetas en las mangas, que permiten enrollar las mangas para acortarlas.
-- Cierre de botones, botón a presión debajo
 - Bolsillos en el pecho con solapa y botones a presión
+- Cierre de botones, botón a presión debajo
+- Lengüetas en las mangas, que permiten enrollar las mangas para acortarlas.
 - Cuello de camisa
 - Panel en los hombros, trabilla añadida
 

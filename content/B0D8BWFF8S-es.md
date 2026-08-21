@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Número de modelo: 1045645
 - Sudadera de manga larga para hombre de Tom Tailor
 - Ajuste óptimo y gran comodidad
-- Número de modelo: 1045645
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D8BWFF8S{{</world>}}

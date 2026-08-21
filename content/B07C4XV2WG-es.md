@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Revestimiento: Sintético
-- Cierre: Cremallera
-- Material exterior: Sintético
 - Material de la suela: Sintético
+- Revestimiento: Sintético
 - Tipo de tacón: Plano
+- Material exterior: Sintético
+- Cierre: Cremallera
 - Altura del tacón: 2.3 centímetros
 
 [🛒 Visítala!!!]({{< param buyurl >}})

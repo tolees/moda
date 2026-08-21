@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Al comprar productos de algodón de PUMA, apoyas un cultivo de algodón más sostenible. Más información en PUMA.COM/FOREVERBETTER
-- Algodón y poliéster
-- Logotipo PUMA Cat en la parte derecha del pecho
 - Cremallera completa
+- Logotipo PUMA Cat en la parte derecha del pecho
+- Algodón y poliéster
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07X8PDBN5{{</world>}}

@@ -31,8 +31,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Producto original Hawkers; la caja incluye funda en microfibra y caja
 - Modelo Unisex; Medidas: Frontal 150 mm, Varillas 121 mm, Puente 0 mm, Alto 53 mm
 - Este modelo ultraligero ha sido concebido al detalle para adaptarse a cualquier actividad deportiva; combina una lente de máscara al aire con visión panorámica y almohadillas nasales y terminales de goma para mejorar su comodidad y sujeción al realizar cualquier movimiento; disponible en varios colores de monturas y lentes; incluye: un estuche protector compacto, con cremallera y agarre para facilitar el transporte, funda de microfibra y puente de diferente tamaño intercambiable para una mejor adaptación al rostro
-- Material de la montura: TR90; Color de la montura: Azul; Color de la varilla: Azul, Verde
 - Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes de policarbonato que proporcionan gran resistencia, para uso deportivo y niños; protección 100 % UV; Color de la lente: Azul; Apariencia de la lente: Espejo
+- Material de la montura: TR90; Color de la montura: Azul; Color de la varilla: Azul, Verde
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D6RZNHGD{{</world>}}

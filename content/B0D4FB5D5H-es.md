@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte recto con elasticidad que permite una gran amplitud de movimiento, 9" entrepierna, 97% algodón, 3% elastano.
-- El pantalón corto Rapid River Cargo es tu pantalón corto de aventura, diseñado para ofrecer comodidad y utilidad, para moverte con facilidad gracias a su tejido elástico bidireccional que bloquea los rayos UV y para guardar tu equipo de forma segura en los bolsillos cargo.
-- Elástico en 2 direcciones para mayor comodidad, bolsillos traseros y para las manos de fácil acceso, bolsillos cargo, cintura elástica con cordón ajustable, puños ceñibles
 - Fabricado con tecnología Omni-Shade: Combinaciones de ingeniería de estructuras de fibras, hilos y tejidos seleccionados que bloquean una gama más amplia de rayos UVA y UVB nocivos.
+- Corte recto con elasticidad que permite una gran amplitud de movimiento, 9" entrepierna, 97% algodón, 3% elastano.
+- Elástico en 2 direcciones para mayor comodidad, bolsillos traseros y para las manos de fácil acceso, bolsillos cargo, cintura elástica con cordón ajustable, puños ceñibles
+- El pantalón corto Rapid River Cargo es tu pantalón corto de aventura, diseñado para ofrecer comodidad y utilidad, para moverte con facilidad gracias a su tejido elástico bidireccional que bloquea los rayos UV y para guardar tu equipo de forma segura en los bolsillos cargo.
 - Contenido: 1x Columbia Pantalón Corto Rapid Rivers Cargo para Hombre, Color: Negro, Talla: W30/L9
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

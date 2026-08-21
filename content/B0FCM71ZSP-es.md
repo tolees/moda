@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tela de algodón orgánico [160 g/m2]
 - Rib 1 x 1 con collar
+- Tela de algodón orgánico [160 g/m2]
 - Chest embroidery
 - Cuello:
 

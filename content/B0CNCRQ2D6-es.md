@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tejido suave – Fabricada con una mezcla optimizada de 60% algodón y 40% poliéster para garantizar la comodidad transpirable del algodón con la resistencia y estabilidad del poliéster
-- Diseñada en California – Estilo icónico, diseño deportivo y contemporáneo. Exclusividad y prestigio de la marca Alpinestars
-- Ajuste cómodo – Camiseta de cuello redondo y mangas cortas Alpinestars diseñada para la máxima comodidad, transpirabilidad y frescura. Funcionalidad deportiva con una estética moderna
 - Para cualquier ocasión – T-shirt para hombre/unisex disponible en diferentes colores y tallas, lavable a máquina
 - Producto oficial Alpinestars – Desarrollado y producido gracias a la experiencia en competiciones de carreras, probado por los mejores atletas del mundo.
+- Diseñada en California – Estilo icónico, diseño deportivo y contemporáneo. Exclusividad y prestigio de la marca Alpinestars
+- Ajuste cómodo – Camiseta de cuello redondo y mangas cortas Alpinestars diseñada para la máxima comodidad, transpirabilidad y frescura. Funcionalidad deportiva con una estética moderna
+- Tejido suave – Fabricada con una mezcla optimizada de 60% algodón y 40% poliéster para garantizar la comodidad transpirable del algodón con la resistencia y estabilidad del poliéster
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CNCRQ2D6{{</world>}}

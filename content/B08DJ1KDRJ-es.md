@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Producto practico
+- De la marca: NIKE
 - Fácil de usar
 - Producto de alta calidad
-- De la marca: NIKE
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08DJ1KDRJ{{</world>}}

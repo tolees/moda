@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ajuste : Regular
 - Descubre todas las marcas de EMP!
-- Básicos, Ropa casual, Ropa de Calle
 - Camiseta con las siguientes características:
+- Ajuste : Regular
+- Básicos, Ropa casual, Ropa de Calle
 - Camiseta || Ajuste normal || Cuello Redondo || Material duradero
 
 [🛒 Aquí!!!]({{< param buyurl >}})

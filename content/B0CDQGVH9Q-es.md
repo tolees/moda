@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Producto oficial Northweek.Incluye: Funda en microfibra y caja
-- Presentamos la versión Made in Spain de nuestro best seller “WALL”. Un rediseño fabricado en España con las últimas tecnologías que dan como resultado un nuevo modelo ergonómico perfeccionado, más ligero y sostenible gracias al Desperdicio Cero. Este diseño actualizado presenta líneas más depuradas y estilizadas para crear una silueta slim urbana que será una auténtica declaración de estilo estés donde estés.
-- Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores. Lentes categoría 3 fabricadas con material bio tac polarizado y protección uv400.
 - Gafas de sol fabricadas en TR90 con el sello de EMS, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia
+- Gafas de sol polarizadas: otorga una visión sin reflejos y contraste natural de colores. Lentes categoría 3 fabricadas con material bio tac polarizado y protección uv400.
+- Presentamos la versión Made in Spain de nuestro best seller “WALL”. Un rediseño fabricado en España con las últimas tecnologías que dan como resultado un nuevo modelo ergonómico perfeccionado, más ligero y sostenible gracias al Desperdicio Cero. Este diseño actualizado presenta líneas más depuradas y estilizadas para crear una silueta slim urbana que será una auténtica declaración de estilo estés donde estés.
 - Modelo Unisex. Medidas: Frontal 140 mm; Alto 45 mm; Patillas 145 mm.
+- Producto oficial Northweek.Incluye: Funda en microfibra y caja
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CDQGVH9Q{{</world>}}

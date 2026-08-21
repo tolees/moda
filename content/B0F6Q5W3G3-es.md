@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Este es un producto auténtico y original de Calvin Klein
 - Este estilo se ha producido de forma sostenible
+- Este es un producto auténtico y original de Calvin Klein
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F6Q5W3G3{{</world>}}

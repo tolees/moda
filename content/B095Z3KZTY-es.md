@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Corte recto
 - Jeans para mamá
+- Corte recto
 - Cintura alta
 - Composición del material: 99% algodón, 1% elastano
 

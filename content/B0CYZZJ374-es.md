@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Los pantalones cortos Silver Ridge Utility Cargo son los clásicos pantalones cortos cargo con protección solar UPF 50, absorben el sudor y cuentan con un cinturón extraíble para un ajuste seguro, ideal para excursiones.
 - Contenido: 1x Columbia Pantalón Corto Silver Ridge Utility para Hombre, Color: Stone Green (Verde), Talla: W34/L10
-- Confort elástico bidireccional, cintura ajustable con cinturón integrado, bolsillos de seguridad para las manos, traseros y con cremallera, entrepierna con fuelle para mayor libertad de movimientos.
 - Corte normal con elasticidad que permite un amplio rango de movimiento, 10" o 8" de costura interior, 100% poliéster reciclado.
+- Los pantalones cortos Silver Ridge Utility Cargo son los clásicos pantalones cortos cargo con protección solar UPF 50, absorben el sudor y cuentan con un cinturón extraíble para un ajuste seguro, ideal para excursiones.
+- Confort elástico bidireccional, cintura ajustable con cinturón integrado, bolsillos de seguridad para las manos, traseros y con cremallera, entrepierna con fuelle para mayor libertad de movimientos.
 - Fabricado con tecnología Omni-Shade: Combinaciones de ingeniería de estructuras de fibras, hilos y tejidos seleccionados que bloquean una gama más amplia de rayos UVA y UVB nocivos.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

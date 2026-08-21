@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Detalles distintivos de la marca
 - Presentan un estilo casual
+- Detalles distintivos de la marca
 - Con trabillas para el cinturón
 
 [🛒 Aquí!!!]({{< param buyurl >}})

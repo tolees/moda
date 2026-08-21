@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Iconic Crocs Comfort: ligero. Flexibles. Comodidad de 360 grados.
 - Fáciles de limpiar y de secado rápido
 - Correas de talón giratorias para un ajuste más seguro
 - Increíblemente ligeros y divertidos de llevar
+- Iconic Crocs Comfort: ligero. Flexibles. Comodidad de 360 grados.
 - Recortes femeninos de inspiración floral
 
 [🛒 Comprar!!!]({{< param buyurl >}})

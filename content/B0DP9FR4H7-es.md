@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Quiksilver branding embroidery on chest
 - Material: algodón [160 g/m2]
+- Quiksilver branding embroidery on chest
 - Quiksilver recycled woven label pack
 - Collar de la cinta
 

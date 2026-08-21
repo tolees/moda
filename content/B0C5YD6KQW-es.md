@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Composición del material: 79 % algodón, 20 % algodón reciclado, 1 % elastano
-- Detalles:
-- Falda vaquera
 - Cintura alta
+- Falda vaquera
+- Detalles:
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C5YD6KQW{{</world>}}

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Este producto es original Levis
-- Vaqueros para mujer
 - Con tejido elástico desarrollado para esculpir la silueta
+- Vaqueros para mujer
 - Tienen un parche de cuero en la parte posterior de la cintura
 
 [🛒 Comprar!!!]({{< param buyurl >}})

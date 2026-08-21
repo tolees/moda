@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Sudadera con capucha de algodón/poliéster mezclado, con pequeño logotipo bordado en el pecho
 - 70% algodón, 30% poliéster
 - Etiqueta tejida con logotipo insertado en la costura lateral y banda interior del cuello de color contrastante
-- Sudadera con capucha de algodón/poliéster mezclado, con pequeño logotipo bordado en el pecho
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F57LFXLB{{</world>}}

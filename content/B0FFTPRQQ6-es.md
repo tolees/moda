@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Marca impresa centrada en la parte delantera
-- Manga corta
 - Camiseta de cuello redondo de corte regular
+- Manga corta
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FFTPRQQ6{{</world>}}

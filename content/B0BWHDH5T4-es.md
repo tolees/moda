@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Proporciona la máxima libertad
 - El té cae hasta por encima de las nalgas
+- Proporciona la máxima libertad
 - Con su cuello redondo y acanalado y su amplio ajuste de camiseta
 
 [🛒 Comprar!!!]({{< param buyurl >}})

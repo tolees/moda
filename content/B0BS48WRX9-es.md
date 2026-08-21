@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Nueva colección de Kappa para la temporada primavera/verano 2024.
-- La camiseta CREMY es de material jersey algodón 100%. Su diseño confeccionado con algodón otorga una sensación de suavidad al tacto. Esta camiseta está confeccionada para tener estilo deportivo.
 - Estilo de cuello: Cuello redondo. Cierre: Pull on
-- Camiseta de manga corta regular fit. Tiene corte controlado, ofreciendo comodidad y libertad de movimiento. El logotipo de Kappa se encuentra estampado en la parte central dando un diseño elegante.
+- Nueva colección de Kappa para la temporada primavera/verano 2024.
 - Lavar a máquina con colores similares a 30º máximo, no usar lejía. Se puede meter en la lavadora sin miedo a que se deforme o encoja.
+- La camiseta CREMY es de material jersey algodón 100%. Su diseño confeccionado con algodón otorga una sensación de suavidad al tacto. Esta camiseta está confeccionada para tener estilo deportivo.
+- Camiseta de manga corta regular fit. Tiene corte controlado, ofreciendo comodidad y libertad de movimiento. El logotipo de Kappa se encuentra estampado en la parte central dando un diseño elegante.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BS48WRX9{{</world>}}

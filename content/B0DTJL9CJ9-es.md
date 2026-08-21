@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Manga corta de ajuste regular
 - 95 % algodón, 5 % elastano
+- Manga corta de ajuste regular
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DTJL9CJ9{{</world>}}

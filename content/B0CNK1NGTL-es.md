@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Nuestro característico corte recto
 - Fabricados con nuestro elástico cómodo que cuenta con la cantidad de elasticidad necesaria para ir cómodamente durante todo el día
-- Los jeans azules originales
+- Nuestro característico corte recto
 - Un lienzo en blanco para personalizarlo y expresar tu estilo
+- Los jeans azules originales
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CNK1NGTL{{</world>}}

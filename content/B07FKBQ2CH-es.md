@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ropa deportiva Nike
-- Muy conveniente
 - Comodidad clásica
+- Muy conveniente
+- Ropa deportiva Nike
 - Camiseta Tiempo libre y sportwear Hombre
 
 [🛒 Visítala!!!]({{< param buyurl >}})

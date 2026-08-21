@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Metaleria con calma en oro
 - Exterior de paja tejida
 - Cierre ligero con cremallera
+- Metaleria con calma en oro
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C6MKD8LK{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 70 % algodón, 30 % poliéster
 - Logotipo grande en el pecho y etiqueta tejida con logotipo insertado en la costura lateral
 - Sudadera con capucha en tela de mezcla de algodón y poliéster
+- 70 % algodón, 30 % poliéster
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DTJDG9Z5{{</world>}}

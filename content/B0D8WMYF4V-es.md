@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Una mirada original
 - Manga corta
 - Cuello de pico
+- Una mirada original
 - Proporciona comodidad
 - Elástico cómodo
 

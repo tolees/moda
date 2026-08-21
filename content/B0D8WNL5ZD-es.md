@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello acanalado
 - Mangas con vuelta fija con remaches
+- Cuello acanalado
 - Estampado flocado de G-STAR en el pecho
 - Una mirada original
 - Proporciona comodidad

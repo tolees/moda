@@ -30,10 +30,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Puños : Puños doblados
 - Cuello : Cuello de tortuga
-- Artículo : Vestido camisero
 - Mangas : Mangas dobladas
 - Bolsillos : Bolsillos en la pechera
 - Cierre : Cierre de botones
+- Artículo : Vestido camisero
 - Manga : Manga corta
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sudadera deportiva
 - Protege del frío
 - Cómoda de llevar
+- Sudadera deportiva
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DJDFV8KB{{</world>}}

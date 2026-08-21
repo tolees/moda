@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Dos bolsillos delanteros inferiores con cremallera
 - Dos bolsillos en el pecho con solapas y botones de presión, bolsillo oculto con cremallera en el lado izquierdo del usuario
+- Composición del material: nailon
 - País de fabricación: Vietnam
 - Capucha de tres piezas con cordón ajustable oculto
-- Composición del material: nailon
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B4P82BL7{{</world>}}

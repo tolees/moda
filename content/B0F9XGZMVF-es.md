@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Base ligera Croslite
 - Revolucionaria espuma Lite Ride
+- Base ligera Croslite
 - Silueta de dos correas con dos puntos de ajuste
 
 [🛒 Comprar!!!]({{< param buyurl >}})

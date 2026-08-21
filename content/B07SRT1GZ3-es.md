@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - El modelo es increíblemente elástico y suave, cómodo y duradero, difícil de deformar y de arrugar.
 - Los hilos son fuertes y resistentes dando como resultado un producto de calidad y confianza además de ser duradero.
-- Sin mangas.
 - Pack de 5, estilo clásico, talla S- 5XL, excelente combinación de colores.
+- Sin mangas.
 - Seleccione la talla adecuada del cuadro de tamaños a nuestra izquierda antes de comprarlo. Si quieres que te quede más holgado, simplemente pide una talla más grande.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

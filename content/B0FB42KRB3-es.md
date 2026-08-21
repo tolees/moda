@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseño moderno inspirado en el running
 - Transpirables y cómodas
+- Diseño moderno inspirado en el running
 - Deportiva para niño
 
 [🛒 Aquí!!!]({{< param buyurl >}})

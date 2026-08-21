@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte ajustado
 - Banda en contraste en el escote
 - Cuello en V
+- Corte ajustado
 - Jersey de manga larga con cuello en V
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

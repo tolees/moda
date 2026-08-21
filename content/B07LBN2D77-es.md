@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Resistente al agua, a prueba de viento y transpirable.
+- Construcción de tela Softshell
 - Dobladillo ajustable
 - Cremalleras YKK de mano, pecho y frente.
-- Construcción de tela Softshell
 - Tejido softshell cómodo y ligero con membrana.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

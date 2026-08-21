@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hombres
 - Sudadera de forro polar para hombre
+- Hombres
 - 1373880-012-SM
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

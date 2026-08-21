@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Logotipo frontal flocado
-- Camiseta corta de corte cuadrado
 - 100 % algodón
+- Camiseta corta de corte cuadrado
+- Logotipo frontal flocado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DTJBJT9Q{{</world>}}

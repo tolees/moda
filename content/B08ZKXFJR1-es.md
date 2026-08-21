@@ -31,8 +31,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Logotipo en el dobladillo
 - Logotipo impreso en el pecho mediante un proceso de impresión de alta calidad
 - alpha industries sweatshirts_and_hoodies 178325 Basic Zip Hoody rep.blue HOMBRE TALLA 4XL
-- Cómodo de llevar gracias al algodón suave
 - Cuello redondo acanalado, dobladillo y puños elásticos
+- Cómodo de llevar gracias al algodón suave
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08ZKXFJR1{{</world>}}

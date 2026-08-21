@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuenta con un estilo casual
 - Ajuste cómodo
+- Cuenta con un estilo casual
 - Presenta detalles distintivos de la marca
 
 [🛒 Visítala!!!]({{< param buyurl >}})

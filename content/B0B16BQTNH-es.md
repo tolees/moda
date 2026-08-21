@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 3 años de garantía en herramientas de bricolaje y jardinería: todas nuestras herramientas y baterías tienen una garantía total de 24 meses, prorrogable por 1 año más si el consumidor registra el producto en los 30 días
-- Tecnología de aire comprimido AirStrike: esta tecnología funciona sin cartucho de gas, compresor o manguera. La empuñadura GripZone de la clavadora eléctrica garantiza un agarre firme y cómodo y un mejor control de la máquina
 - Trabaja con seguridad: el desbloqueo sin herramientas de la clavadora de acabado facilita la extracción de una punta que se haya atascado en la cámara. El mecanismo de seguridad incluido sólo se activa cuando la grapadora está contra el material
+- Tecnología de aire comprimido AirStrike: esta tecnología funciona sin cartucho de gas, compresor o manguera. La empuñadura GripZone de la clavadora eléctrica garantiza un agarre firme y cómodo y un mejor control de la máquina
 - Contenido del paquete: el aparato viene con 500 puntas 50mm, 2 boquillas de protección del material y 1 gancho para el cinturón. Es ideal para fijar en la madera sin taladrar ni atornillar previamente y para trabajos de acabado que requieran clavos largos
 - Concept 18V ONE+: alimenta este modelo y todas tus herramientas de bricolaje y jardinería con la misma batería (más de 200 herramientas). A prueba de golpes, cuenta con la tecnología Lithium+ IntelliCell y previene la sobrecarga y el sobrecalentamiento
 

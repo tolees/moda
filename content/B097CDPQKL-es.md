@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Costuras externas de la pernera abiertas
 - Los básicos por naturaleza
-- Comodidad para el día a día
 - Algodón adecuado
+- Comodidad para el día a día
 - Cinturilla elástica con la marca Levi’s
 
 [🛒 Visítala!!!]({{< param buyurl >}})

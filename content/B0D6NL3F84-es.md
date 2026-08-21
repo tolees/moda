@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuentan con un estilo informal
 - Con una suela cómoda en contraste
 - Ligeras y flexibles
+- Cuentan con un estilo informal
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D6NL3F84{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Camiseta Tricolor
 - Camiseta Bordada
+- Camiseta Tricolor
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FCSM7C2S{{</world>}}

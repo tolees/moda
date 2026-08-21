@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Capucha para óptimo calidez y cobertura
 - Bolsillos delanteros
 - Cierre de cremallera completo para poner y quitar fácilmente
+- Capucha para óptimo calidez y cobertura
 - Hecho de rizo francés de gamuza material suave para un ajuste cómodo y diario
 
 [🛒 Visítala!!!]({{< param buyurl >}})

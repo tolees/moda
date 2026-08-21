@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- LONGITUD: 66,7 cm desde el lado del cuello en la talla S de España
-- CORTE ESTÁNDAR: corte ajustado pero cómodo en el pecho, la cintura y las caderas
 - CAMISETAS SIN MANGAS: esta versátil camiseta sin mangas es un imprescindible del armario, perfecta para ponértela debajo de tu chaqueta o cárdigan favorito, o para llevarla sola para un estilo informal
-- DETALLES: cuenta con un favorecedor escote redondo, tirantes anchos para mayor cobertura y un diseño sin mangas
+- LONGITUD: 66,7 cm desde el lado del cuello en la talla S de España
 - ALGODÓN JERSEY: tejido ligero y suave de algodón 100 % con elasticidad natural y comodidad transpirable, ideal para todo el año
+- CORTE ESTÁNDAR: corte ajustado pero cómodo en el pecho, la cintura y las caderas
+- DETALLES: cuenta con un favorecedor escote redondo, tirantes anchos para mayor cobertura y un diseño sin mangas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DT2M4JZB{{</world>}}

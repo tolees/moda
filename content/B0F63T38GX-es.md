@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ofrecen comodidad en cada zancada
 - Puntera redondeada
+- Ofrecen comodidad en cada zancada
 - Cierre con cordones
 
 [🛒 Aquí!!!]({{< param buyurl >}})

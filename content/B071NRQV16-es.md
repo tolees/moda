@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 40% poliéster
+- Cuello en V con bordado de encaje
 - Ajuste regular
 - Manga larga
-- Cuello en V con bordado de encaje
+- 40% poliéster
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B071NRQV16{{</world>}}

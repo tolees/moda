@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Hecho de algodón suave
-- Se puede lavar a máquina
 - Logotipo en el pecho y bandera en la manga
+- Se puede lavar a máquina
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F4KLHYT7{{</world>}}

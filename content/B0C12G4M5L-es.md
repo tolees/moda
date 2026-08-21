@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Para uso diario
-- Prenda de vestimenta
 - Tiene detalles distintivos de la marca
+- Prenda de vestimenta
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C12G4M5L{{</world>}}

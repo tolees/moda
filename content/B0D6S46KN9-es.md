@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Producto original Hawkers; la caja incluye funda en microfibra y caja
-- Modelo Unisex; Medidas: Frontal 143 mm, Varillas 145 mm, Puente 21 mm, Alto 49 mm
 - Actualizamos nuestro icónico modelo Minimal con una nueva montura ligeramente más grande y de ajuste más cómodo; con un diseño geométrico nostálgico y un juego de volúmenes con bisel de relieve en el frontal, este modelo es un must para un look retro racer; disponible en varios colores de monturas y lentes
-- Material de la montura: TR90; Color de la montura: Negro; Color de la varilla: Negro
+- Modelo Unisex; Medidas: Frontal 143 mm, Varillas 145 mm, Puente 21 mm, Alto 49 mm
 - Gafas de sol categoría filtro 2, coloración medianamente oscura, utilizar en exteriores con luminosidad media; absorben entre un 57% y un 81% de luz solar; Material de la lente: Lentes de TR18 con el sello de Eastman, gran calidad óptica y resistencia; respetuoso con el medio ambiente; protección 100% UV; Color de la lente: Azul; Apariencia de la lente: Cosmética
+- Material de la montura: TR90; Color de la montura: Negro; Color de la varilla: Negro
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D6S46KN9{{</world>}}

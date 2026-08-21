@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Para uso diario
-- Pantalón corto
 - Contiene detalles distintivos de la marca "Levis"
+- Pantalón corto
+- Para uso diario
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DHW4DYPG{{</world>}}

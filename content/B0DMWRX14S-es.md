@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello redondo
-- 35 % poliamida
-- 30 % lana
 - Detalles bordados
+- 35 % poliamida
 - Composición: 35 % viscosa
+- Cuello redondo
+- 30 % lana
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DMWRX14S{{</world>}}

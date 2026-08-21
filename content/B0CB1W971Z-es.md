@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tela ligera
-- Paquete individual
 - Una mirada original
 - Detalle gráfico en el pecho
+- Paquete individual
 - Proporciona comodidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

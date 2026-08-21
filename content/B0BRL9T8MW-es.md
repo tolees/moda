@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Nuestra camiseta Gant Shield para hombre tiene un pequeño logotipo bordado en el pecho
 - Con fino punto acanalado en el cuello para mayor comodidad
+- Nuestra camiseta Gant Shield para hombre tiene un pequeño logotipo bordado en el pecho
 - Hecho de algodón
 
 [🛒 Aquí!!!]({{< param buyurl >}})

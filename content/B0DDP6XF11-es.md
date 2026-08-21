@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ALGODÓN JERSEY PESADO: tejido de algodón jersey 100 % de gran gramaje, duradero y cómodo, prelavado para mayor suavidad y resistencia al encogimiento
-- CORTE HOLGADO: corte cómodo y holgado en los hombros, el pecho y la cintura
 - CAMISETA HOLGADA: diseñada con un corte holgado actualizado, esta versátil camiseta es imprescindible en tu armario, ideal para ponerla en capas en los meses más fríos o como prenda independiente a mitad de temporada para lucir un estilo natural
+- CORTE HOLGADO: corte cómodo y holgado en los hombros, el pecho y la cintura
 - DETALLES: presenta un cuello redondo acanalado y mangas cortas
 - LONGITUD: 71,8 cm desde el lado del cuello en la talla M de España
+- ALGODÓN JERSEY PESADO: tejido de algodón jersey 100 % de gran gramaje, duradero y cómodo, prelavado para mayor suavidad y resistencia al encogimiento
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DDP6XF11{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- De algodón de punto simple
-- Los caracteres significan "clásicos urbanos"
-- Camiseta para hombre con gran impresión china UC en el pecho y la espalda
-- Visita la tienda Urban Classics: un clic en el enlace conduce a la tienda de la marca Urban Classics y aún más elegante ropa de calle para hombre y mujer
 - Cuello redondo deportivo
+- Los caracteres significan "clásicos urbanos"
+- Visita la tienda Urban Classics: un clic en el enlace conduce a la tienda de la marca Urban Classics y aún más elegante ropa de calle para hombre y mujer
+- Camiseta para hombre con gran impresión china UC en el pecho y la espalda
+- De algodón de punto simple
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08R6BLTJY{{</world>}}

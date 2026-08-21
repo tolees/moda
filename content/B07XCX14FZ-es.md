@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bloques de color en contraste en los hombros y el dobladillo
-- Bajos elásticos
 - Sin forro
 - Logotipo PUMA Cat en la parte izquierda del pecho
+- Bajos elásticos
+- Bloques de color en contraste en los hombros y el dobladillo
 - Cremallera completa
 
 [🛒 Comprar!!!]({{< param buyurl >}})

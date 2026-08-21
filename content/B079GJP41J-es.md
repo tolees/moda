@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ACCESORIOS: Para completar este disfraz la máscara esta incluida y es imprescindible. Hecha en material de poliester y máscara moldeada
 - Ocasiones: disfraz para halloween; noches de brujas terror; disfraz de monja adulto; the nun; eventos de terror
+- Para adultos, hombres y mujeres a partir de 18 años. Disponible en dos tallas, STD (Talla única) y XL,
+- ACCESORIOS: Para completar este disfraz la máscara esta incluida y es imprescindible. Hecha en material de poliester y máscara moldeada
 - TRAJE: Este disfraz incluye túnica larga negra con cuello estilo yuju blanco separado, cinturón de cuero sintético marrón con pequeña hebilla y máscara. Cierre de velcro trasero para facilitar la colocación
 - The Nun es una película de terror gótico sobrenatural de Warner Bros sobre una monja demonio y un sacerdote que descubren un secreto impío en 2952 Rumania. Perfecto para fiestas de Halloween o truco o trato, este disfraz de monja está un poco más en el lado oscuro y puede verte dirigiéndote directamente al infierno en lugar de elevarte al cielo.
-- Para adultos, hombres y mujeres a partir de 18 años. Disponible en dos tallas, STD (Talla única) y XL,
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B079GJP41J{{</world>}}

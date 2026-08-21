@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fabricado con al menos un 70 % de algodón sostenible
 - Cuello redondeado
 - Manga larga
+- Fabricado con al menos un 70 % de algodón sostenible
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CSN7K5HN{{</world>}}

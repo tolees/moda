@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ajuste regular
-- Corte clásico
 - Tejido ligero y duradero
+- Corte clásico
+- Ajuste regular
 - La tecnología del material elimina el sudor de la piel
 
 [🛒 Comprar!!!]({{< param buyurl >}})

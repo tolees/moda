@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suave jersey de forro polar para minimizar el frío antes del amanecer y por la noche, Un ajuste clásico-moderno para una respuesta a cualquier demanda de capas en climas frescos
-- Contenido: 1x Columbia Klamath Range II, Forro polar con media cremallera para hombre, Marrón (Ancient Fossil/Black), XS, Art. No. 1352472
 - Protección adicional contra el viento y el frío gracias al cuello alto y a la media cremallera
+- Contenido: 1x Columbia Klamath Range II, Forro polar con media cremallera para hombre, Marrón (Ancient Fossil/Black), XS, Art. No. 1352472
 - Especialmente cálido y acogedor gracias al material de vellón de alta calidad, Tecnología Omni-Shade con protección solar UPF 50
+- Suave jersey de forro polar para minimizar el frío antes del amanecer y por la noche, Un ajuste clásico-moderno para una respuesta a cualquier demanda de capas en climas frescos
 - Estilo funcional y cálido combinado con otros productos de Columbia
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Lo suficientemente elástico como para mantenerse cómodo todo el día
 - Corte personalizado
+- Lo suficientemente elástico como para mantenerse cómodo todo el día
 - Piernas más ajustadas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

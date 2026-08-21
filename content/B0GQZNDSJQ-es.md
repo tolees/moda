@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- **COMPOSICIÓN Y CUIDADOS:** Confeccionado con 82% poliamida y 18% elastano, este producto ofrece comodidad y elasticidad. Para mantener su calidad, lavar a mano, no usar secadora y no planchar.
-- TALLA: 95C.
-- YSABEL MORA: Desde 1988 confeccionamos ropa de calidad para toda la familia, especializándonos en moda íntima, ropa interior y baño. Nuestra experiencia y diseño nos posicionan como referentes en el sector.
-- DISEÑO ESTAMPADO con top bikini de aro y relleno que ofrece soporte y comodidad, tirantes anchos regulables para un ajuste perfecto y la opción de combinar con braga a conjunto para un look completo.
 - ADAPTABILIDAD: Nuestras prendas están confeccionadas con materiales que se ajustan a cualquier cuerpo y situación, promoviendo la sostenibilidad y el cuidado del medio ambiente.
+- TALLA: 95C.
+- **COMPOSICIÓN Y CUIDADOS:** Confeccionado con 82% poliamida y 18% elastano, este producto ofrece comodidad y elasticidad. Para mantener su calidad, lavar a mano, no usar secadora y no planchar.
+- DISEÑO ESTAMPADO con top bikini de aro y relleno que ofrece soporte y comodidad, tirantes anchos regulables para un ajuste perfecto y la opción de combinar con braga a conjunto para un look completo.
+- YSABEL MORA: Desde 1988 confeccionamos ropa de calidad para toda la familia, especializándonos en moda íntima, ropa interior y baño. Nuestra experiencia y diseño nos posicionan como referentes en el sector.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GQZNDSJQ{{</world>}}

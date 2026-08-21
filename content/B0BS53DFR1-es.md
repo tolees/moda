@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- L: 11" ancho: 4.75" alto: 13.5"
-- Herrajes dorados brillantes
 - El interior cuenta con 1 bolsillo con cremallera y 2 deslizadores
+- Herrajes dorados brillantes
+- L: 11" ancho: 4.75" alto: 13.5"
 - Correa de asa superior
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

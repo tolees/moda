@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- [Nuestra Marca]: REFRESH con estilo fresco y juvenil. Calzado versátil y moderno diseñado para quienes buscan estar siempre a la moda sin renunciar a la comodidad.
-- Sandalia de mujer de la marca Refresh. Fabricada en material que imita la piel con detalle calado
 - Suela de goma. Este modelo ha obtenido el certificado vegano por la organización mundial PETA (Organización de los derechos de los animales)
+- [Nuestra Marca]: REFRESH con estilo fresco y juvenil. Calzado versátil y moderno diseñado para quienes buscan estar siempre a la moda sin renunciar a la comodidad.
 - Correa cruzada con hebilla para un buen ajuste al pie. Cuña de 8 cm con plataforma
+- Sandalia de mujer de la marca Refresh. Fabricada en material que imita la piel con detalle calado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DJ2V3PWV{{</world>}}

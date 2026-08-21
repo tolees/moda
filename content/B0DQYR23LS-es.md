@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pack de siete bragas clásicas de algodón variadas entre lisas y estampadas con motivos de aves
 - Sin duda, un must en tu cajón de la ropa interior
+- Pack de siete bragas clásicas de algodón variadas entre lisas y estampadas con motivos de aves
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DQYR23LS{{</world>}}

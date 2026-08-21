@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- DETALLES: cuello redondo acanalado, sisa baja
 - CORTE HOLGADO: corte cómodo y holgado en los hombros, el pecho y la cintura
 - LONGITUD DE LA PRENDA: 62,9cm desde el lado del cuello en la talla S de EE. UU
-- ALGODÓN JERSEY: tejido ligero y suave 100% algodón con elasticidad natural y comodidad transpirable, ideal para todo el año
-- DETALLES: cuello redondo acanalado, sisa baja
 - CAMISETA SIN MANGAS: un elemento básico moderno para combinar en capas con un estilo desenfadado
+- ALGODÓN JERSEY: tejido ligero y suave 100% algodón con elasticidad natural y comodidad transpirable, ideal para todo el año
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FF5F7X4W{{</world>}}

@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- algodón peinado puro
-- escote redondo
 - cuello, puños y dobladillo acanalados
-- Marca Tommy Hilfiger
-- Bandera de Tommy Hilfiger bordada en el pecho
+- escote redondo
 - Banda distintiva en el escote
+- algodón peinado puro
+- Bandera de Tommy Hilfiger bordada en el pecho
+- Marca Tommy Hilfiger
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F4KGVC3W{{</world>}}

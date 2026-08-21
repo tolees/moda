@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Ocasiones: apto para el uso diario de primavera, verano y otoño y para deportes al aire libre como senderismo, montañismo, escalada, pesca, equitación, caza, conducción, acampada.
-- Material: exterior 100% poliéster Softshell, forro de malla transpirable.
 - Múltiples bolsillos: 2 bolsillos laterales y 1 bolsillo interior, 1 bolsillo en el pecho. Bolsillos con cremallera de goma impermeable.
-- Resistente al viento y al agua: la capucha extraíble con cordón, puños elásticos con gancho y bucles, dobladillo ajustable y cierre de cremallera oculto son para una mejor resistencia al viento. La capa exterior impermeable te mantiene seco en días lluviosos y actividades al aire libre.
 - Transpirable y liviana: la capa de forro es de malla y está bien colocada para absorber el sudor de la piel, lo que lo hace transpirable y fresco. La chaqueta liviana es plegable y fácil de transportar.
+- Resistente al viento y al agua: la capucha extraíble con cordón, puños elásticos con gancho y bucles, dobladillo ajustable y cierre de cremallera oculto son para una mejor resistencia al viento. La capa exterior impermeable te mantiene seco en días lluviosos y actividades al aire libre.
+- Material: exterior 100% poliéster Softshell, forro de malla transpirable.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D7Q5BDWY{{</world>}}

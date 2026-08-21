@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Instrucciones de cuidado: apto para lavadora
 - Ajuste: regular
-- Jeans Pantalones Largos
 - Composición: 72 por ciento de algodón 26 por ciento de poliéster y 2 por ciento de elastano
+- Jeans Pantalones Largos
 - Tipo de estiramiento: Medium Stretch
 
 [🛒 Comprar!!!]({{< param buyurl >}})

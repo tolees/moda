@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- - Tejido: rizo francés (estructura de bucles en la parte posterior/no rugoso), mercancía ligera
 - Sudadera de cuello redondo para hombre
 - - Calidad: 80% algodón peinado, 20% poliéster
+- - Tejido: rizo francés (estructura de bucles en la parte posterior/no rugoso), mercancía ligera
 - - Descripción del modelo: sudadera de cuello redondo con pequeño logotipo impreso en el pecho izquierdo (impresión de goma 3D)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

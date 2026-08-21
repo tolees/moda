@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ligeras y transpirables
 - Ajuste cómodo
+- Ligeras y transpirables
 - Con detalles distintivos de la marca
 
 [🛒 Comprar!!!]({{< param buyurl >}})

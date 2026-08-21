@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Moderno logo de Columbia
 - Contenido: 1x Columbia Hombre Camiseta, M Rapid Ridge Graphic, Color: Blanco (White, Heavenly Stacked Gem), Talla: XS, Art.: 1888813
 - Camiseta para hombre, Adecuada para usar a diario
-- Moderno logo de Columbia
 - Disponible en diversos y elegantes colores
 - Confort óptimo gracias al material de jersey 100% algodón
 

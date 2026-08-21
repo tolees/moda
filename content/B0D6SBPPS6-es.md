@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Modelo Masculino; Medidas: Frontal 142 mm, Varillas 132 mm, Puente 16 mm, Alto 49 mm
-- Gafas de sol polarizadas: Reduce los reflejos superficiales y la fatiga ocular proporcionando nitidez y contrastes superiores; Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Color de la lente: Plateado; Apariencia de la lente: Espejo
-- Con una silueta D-Frame sencilla y líneas deportivas con terminaciones aerodinámicas, este diseño casual es óptimo para el ajetreo de tu día a día; combina montura en TR90 con terminales y almohadillas nasales engomados para un mejor agarre; disponible en varios colores de lentes y monturas en acabados brillo y mate
 - Material de la montura: TR90; Color de la montura: Gris; Color de la varilla: Gris, Naranja
 - Producto original Hawkers; la caja incluye funda en microfibra y caja
+- Con una silueta D-Frame sencilla y líneas deportivas con terminaciones aerodinámicas, este diseño casual es óptimo para el ajetreo de tu día a día; combina montura en TR90 con terminales y almohadillas nasales engomados para un mejor agarre; disponible en varios colores de lentes y monturas en acabados brillo y mate
+- Modelo Masculino; Medidas: Frontal 142 mm, Varillas 132 mm, Puente 16 mm, Alto 49 mm
+- Gafas de sol polarizadas: Reduce los reflejos superficiales y la fatiga ocular proporcionando nitidez y contrastes superiores; Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Color de la lente: Plateado; Apariencia de la lente: Espejo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D6SBPPS6{{</world>}}

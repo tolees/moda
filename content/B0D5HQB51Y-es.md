@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con un bolsillo en el pecho
 - Detalles distintivos de la marca
 - Ofrece un ajuste cómodo
+- Con un bolsillo en el pecho
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D5HQB51Y{{</world>}}

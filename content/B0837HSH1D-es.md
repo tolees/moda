@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Superior: goma con pin Roxy de metal
 - Paquete: bolsa de plástico y colgador
-- Suela exterior: goma
+- Superior: goma con pin Roxy de metal
 - Footbed: Textured Rubber
+- Suela exterior: goma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0837HSH1D{{</world>}}

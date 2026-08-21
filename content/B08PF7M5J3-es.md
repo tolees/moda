@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Cuenta con un diseño ligero
-- Este producto es original Levis
 - Tiene detalles distintivos de la marca
+- Este producto es original Levis
 - Ofrece comodidad y libertad de movimiento
 
 [🛒 Aquí!!!]({{< param buyurl >}})

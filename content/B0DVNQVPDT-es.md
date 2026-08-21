@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- COMBINACIONES INFINITAS: Ideal para el día a día: llévala abierta sobre una camiseta o cerrada para un look más clásico. Esta camisa de manga corta se puede combinar de muchas maneras y combina con cualquier estilo.
-- RELAXED FIT: Camisa de corte holgado y cómodo.
 - ESTILO CLÁSICO: La camisa Short-Sleeve Authentic Button-Down Shirt de hombre representa el auténtico estilo Levis. Gracias a su cuello abotonado clásico combina un diseño atemporal a la vez que versátil y desenfadado.
+- RELAXED FIT: Camisa de corte holgado y cómodo.
 - ALGODÓN 100 %: Prenda confeccionada en algodón 100 %. El tejido ligero es muy agradable al tacto y muy cómodo de llevar.
+- COMBINACIONES INFINITAS: Ideal para el día a día: llévala abierta sobre una camiseta o cerrada para un look más clásico. Esta camisa de manga corta se puede combinar de muchas maneras y combina con cualquier estilo.
 - LEVIS: Desde 1873, Levis es sinónimo de originalidad, saber hacer y calidad duradera. La marca combina tradición e innovación. Levis Tab puede variar en su diseño: todos los productos con Tab son originales, independientemente de logotipo o color.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

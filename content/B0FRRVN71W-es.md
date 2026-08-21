@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- ALGODÓN ACANALADO Y MODAL: la mezcla transpirable de algodón y modal ofrece una sensación suave y tersa con un estiramiento ligero
 - CORTE AJUSTADO: ajuste ceñido en hombros, cuerpo y mangas
 - CAMISETA CLÁSICA CON CUELLO EN V: esta camiseta versátil es ideal para el uso diario, y sirve tanto para uso formal con pantalones como informal con vaqueros para cualquier ocasión
 - DETALLES: con escote en V, mangas cortas, corte ajustado en todo el cuerpo y paquete de 2 unidades para una buena relación calidad-precio
-- ALGODÓN ACANALADO Y MODAL: la mezcla transpirable de algodón y modal ofrece una sensación suave y tersa con un estiramiento ligero
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FRRVN71W{{</world>}}

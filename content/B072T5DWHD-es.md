@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Amortiguación ligera y sensible 5Gen
 - Marca: Skechers
+- Amortiguación ligera y sensible 5Gen
 - Plantilla Sketchers Goga Max de alto rebote para máxima comodidad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

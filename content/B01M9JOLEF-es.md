@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Detalles destruidos
 - Talle bajo
-- Composición del material: 54 % algodón, 22 % poliéster, 14 % lyocell, 9 % viscosa, 1 % elastano
 - Vaqueros ajustados
+- Composición del material: 54 % algodón, 22 % poliéster, 14 % lyocell, 9 % viscosa, 1 % elastano
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01M9JOLEF{{</world>}}

@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Estilo: Falda básica elástica con banda interior elástica, imprescindible para hacer un outfit espectacular.
 - Colocaciones: las faldas skater acampanadas son geniales para combinar con camisetas, camisas, blusas cortas, suéteres o blusas en cualquier temporada.
-- Ocasiones: perfecto para una salida nocturna, la escuela, la oficina, una cita, una fiesta, unas vacaciones en la playa, una luna de miel, etc.
 - Paquete: minifalda informal de 1 pieza. Se recomienda lavar a mano en frío/sin lejía/colgar para secar.
+- Ocasiones: perfecto para una salida nocturna, la escuela, la oficina, una cita, una fiesta, unas vacaciones en la playa, una luna de miel, etc.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B3WVRQL3{{</world>}}

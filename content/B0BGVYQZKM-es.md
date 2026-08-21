@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Puños y dobladillo inferior acanalados
 - Lo hacemos con innovación de rendimiento y zapatos, camisas y herramientas digitales que cambian el juego y empujan los límites de lo que uno pensaba posible
+- Puños y dobladillo inferior acanalados
 - Eso significa que si uno establece un objetivo, ayudaremos a aplastarlo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cierre mediante cremallera interior con cordones elásticos al tono para un mejor ajuste. Cordón decorativo en parte trasera
-- [Nuestra Marca]: REFRESH con estilo fresco y juvenil. Calzado versátil y moderno diseñado para quienes buscan estar siempre a la moda sin renunciar a la comodidad.
 - Zapatilla tipo Botín de mujer, de la marca Refresh. Fabricado en suave antelina
+- [Nuestra Marca]: REFRESH con estilo fresco y juvenil. Calzado versátil y moderno diseñado para quienes buscan estar siempre a la moda sin renunciar a la comodidad.
 - Talón de goma. Gruesa suela de goma antideslizante. Con plantilla extraíble
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

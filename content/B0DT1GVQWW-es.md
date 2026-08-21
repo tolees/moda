@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Sudadera Mujer Classic Script Terry con Cuello Redondo Azul Brisk Blue Heather M'
-date: 2026-07-23 11:31:08
+date: 2026-08-20 05:30:35
 image: 'https://m.media-amazon.com/images/I/31rttfDv0CL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0DT1GVQWW-es Tommy Hilfiger Sudadera Mujer Classic Script Terry con...'
 sku: 'B0DT1GVQWW-es'
 tags: [ 'sudadera','🇪🇸', ]
-actualPrice: 79.95 EUR
+actualPrice: 25.3 EUR
 currency: EUR
-price: 79.95
+price: 25.3
 comparePrice: 99.9 EUR
 prodname: 'Tommy Hilfiger Sudadera Mujer Classic Script Terry con Cuello Redondo Azul Brisk Blue Heather M'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DT1GVQWW/?tag=tolees-21'
-descuento: '19.97'
-average: '79.95'
+descuento: '74.67'
+average: '52.625'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- AJUSTE PERFECTO: El diseño atemporal de este jersey informal es muy favorecedor. Además, esta sudadera minimalista también es perfecta como regalo para personas de todas las edades.
+- ICÓNICO Y ATEMPORAL: Este parte de arriba versátil es supercómoda y se puede usar a diario o para cualquier momento de relax. Destacan los detalles distintivos de Tommy Hilfiger en el pecho.
+- CALIDAD DEMOSTRADA: Desde 1985, esta marca de diseñador lleva demostrando por todo el mundo la calidad y la ligereza mediante una gran variedad de diseños en los míticos colores azul oscuro, blanco y rojo.
 - MATERIAL Y CUIDADO: Sudadera de algodón regenerativo 100 %. Se puede lavar a máquina.
 - ESTILO: Sudadera original de Tommy Hilfiger de diseño informal. Esta prenda informal y cómoda es especialmente popular gracias a su material de excelente calidad y su corte clásico.
-- CALIDAD DEMOSTRADA: Desde 1985, esta marca de diseñador lleva demostrando por todo el mundo la calidad y la ligereza mediante una gran variedad de diseños en los míticos colores azul oscuro, blanco y rojo.
-- ICÓNICO Y ATEMPORAL: Este parte de arriba versátil es supercómoda y se puede usar a diario o para cualquier momento de relax. Destacan los detalles distintivos de Tommy Hilfiger en el pecho.
+- AJUSTE PERFECTO: El diseño atemporal de este jersey informal es muy favorecedor. Además, esta sudadera minimalista también es perfecta como regalo para personas de todas las edades.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DT1GVQWW{{</world>}}

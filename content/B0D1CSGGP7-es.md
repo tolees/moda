@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tiene detalles distintivos de la marca "Helly Hansen"
 - Ropa de abrigo
 - Adecuado para climas fríos
+- Tiene detalles distintivos de la marca "Helly Hansen"
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D1CSGGP7{{</world>}}

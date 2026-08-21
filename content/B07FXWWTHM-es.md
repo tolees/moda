@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fine blouse with cotton.
 - JDYMIO L/S SHIRT WVN NOOS by JACQUELINE de YONG.
+- Fine blouse with cotton.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07FXWWTHM{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- MATERIAL Y CUIDADO: Camiseta de algodón 100 %. Se puede lavar a máquina y secar en secadora.
 - AJUSTE PERFECTO: Esta camiseta de manga corta de algodón suave tiene un diseño informal y favorece tu figura.
 - PARA CUALQUIER OCASIÓN: Esta prenda minimalista sienta superbién y convence por su gran comodidad. Ya sea con vaqueros, shorts o pantalones elegantes, combina a la perfección con cualquier look.
 - SENCILLO E INFORMAL: La camiseta básica de algodón es supercómoda y perfecta para looks más informales. Los detalles distintivos de Tommy Hilfiger en el pecho completan el estilo.
 - CALIDAD DEMOSTRADA: Desde 1985, esta marca de diseñador lleva demostrando por todo el mundo la calidad y la ligereza mediante una gran variedad de diseños en los míticos colores azul oscuro, blanco y rojo.
-- MATERIAL Y CUIDADO: Camiseta de algodón 100 %. Se puede lavar a máquina y secar en secadora.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FDGP93YK{{</world>}}

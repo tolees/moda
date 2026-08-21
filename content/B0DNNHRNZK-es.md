@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Ajuste Midi
 - Ajuste holgado en la cadera
 - En diseño vaquero asimétrico
-- Ajuste Midi
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DNNHRNZK{{</world>}}

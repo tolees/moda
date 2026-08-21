@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Modelo Unisex; Medidas: Frontal 141 mm, Varillas 140 mm, Puente 17 mm, Alto 50 mm
-- Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes de TR18 con el sello de Eastman, gran calidad óptica y resistencia; respetuoso con el medio ambiente; protección 100% UV; Color de la lente: Azul; Apariencia de la lente: Espejo
-- Montura negra con la parte inferior de la misma tonalidad que la lente de espejo azul turquesa
-- Producto original Hawkers; la caja incluye funda en microfibra y caja
 - Material de la montura: TR90; Color de la montura: Negro, Azul; Color de la varilla: Negro
+- Producto original Hawkers; la caja incluye funda en microfibra y caja
+- Modelo Unisex; Medidas: Frontal 141 mm, Varillas 140 mm, Puente 17 mm, Alto 50 mm
+- Montura negra con la parte inferior de la misma tonalidad que la lente de espejo azul turquesa
+- Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes de TR18 con el sello de Eastman, gran calidad óptica y resistencia; respetuoso con el medio ambiente; protección 100% UV; Color de la lente: Azul; Apariencia de la lente: Espejo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07HRRN3QW{{</world>}}

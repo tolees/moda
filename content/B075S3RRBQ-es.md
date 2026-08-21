@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Protección eficaz contra el frío gracias a los insertos GORE WINDSTOPPER, Material elástico fino y suave, Sección de la espalda alargada
-- Talle recto
-- GORE M GORE WINDSTOPPER Base Layer Camiseta, Talla: M, Color: Negro, 100024
 - Ligera camiseta interior de hombre para cualquier condición meteorológica
+- Protección eficaz contra el frío gracias a los insertos GORE WINDSTOPPER, Material elástico fino y suave, Sección de la espalda alargada
+- GORE M GORE WINDSTOPPER Base Layer Camiseta, Talla: M, Color: Negro, 100024
+- Talle recto
 - Tecnología GORE WINDSTOPPER: cortaviento, repelente al agua y extremadamente transpirable
 
 [🛒 Aquí!!!]({{< param buyurl >}})

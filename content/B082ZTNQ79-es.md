@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - SENCILLO VESTIDO POPOVER: Este vestido popover es chic y holgado, perfecto para ir a trabajar, ir de viaje o salir a pasear durante el fin de semana. Combina este producto con unas sandalias para un look veraniego, fresco y sencillo
-- SARGA FLUIDA CON CAÍDA: Producto confeccionado en viscosa 100 %. Nuestra viscosa no es elástica, pero sí extremadamente transpirable y ligera. Este tejido tiene una caída muy bonita y un acabado suave y liso. Además, es cómodo e ideal para todo el año
 - ACAMPANADO: Ajustado por el pecho; se ensancha ligeramente hasta llegar al bajo
+- SARGA FLUIDA CON CAÍDA: Producto confeccionado en viscosa 100 %. Nuestra viscosa no es elástica, pero sí extremadamente transpirable y ligera. Este tejido tiene una caída muy bonita y un acabado suave y liso. Además, es cómodo e ideal para todo el año
 - DETALLES: Presenta un sencillo escote en “V”, cierre de solapa, bajo curvado tipo faldón, diseño sin mangas y un femenino fruncido en la banda del cuello que le da una caída y una fluidez muy bonitas
 - INFORMACIÓN ADICIONAL SOBRE TEJIDOS Y CUIDADOS: debido a la delicada naturaleza del tejido de viscosa, te recomendamos lavarlo en frío y colgarlo para evitar que el tejido encoja y se arrugue debido al calor adicional. Plancha o vaporiza suavemente para lograr un aspecto aún más liso y pulido
 

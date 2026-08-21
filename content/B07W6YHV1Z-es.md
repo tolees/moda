@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con cuello redondo
 - Fabricada en tejido transpirable que mantiene la piel fresca y seca
+- Con cuello redondo
 - Camiseta de fútbol para hombre
 - Detalles distintivos de la marca
 

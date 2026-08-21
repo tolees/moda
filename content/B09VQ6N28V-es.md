@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Hecho de materiales suaves y duraderos.
 - Camisetas versátiles para cualquier ocasión
 - Disponible en varios colores y diseños
 - Cómodo cuello redondo.
-- Hecho de materiales suaves y duraderos.
 - Ideal para combinar con vaqueros o pantalones cortos.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

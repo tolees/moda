@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camisa de manga corta
-- Estilo informal
 - Cierre de botones
+- Estilo informal
+- Camisa de manga corta
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FDL49B6L{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sostenibilidad: estamos comprometidos a seguir abogando por el uso responsable y el disfrute del aire libre. Aplicando un enfoque holístico y científico a todas las decisiones, nos esforzamos por garantizar que nuestras acciones apoyen a las personas y al planeta para prosperar
 - Una chaqueta polar Polartec cálida pero ligera y altamente transpirable fabricada con materiales 100% reciclados
+- Sostenibilidad: estamos comprometidos a seguir abogando por el uso responsable y el disfrute del aire libre. Aplicando un enfoque holístico y científico a todas las decisiones, nos esforzamos por garantizar que nuestras acciones apoyen a las personas y al planeta para prosperar
 - Características: Polartec, cremallera YKK, apertura frontal con cremallera YKK completa, bolsillos con cremallera YKK, costuras planas para bajo volumen, logotipo HH bordado en el pecho, Polartec, producto bluesign, contenido reciclado
 
 [🛒 Visítala!!!]({{< param buyurl >}})

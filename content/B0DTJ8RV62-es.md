@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Óptimo para llevar en capas o solo, presenta nuestro logotipo gráfico de temporada en el pecho izquierdo, añadiendo un toque fino y moderno
 - Esta camiseta de manga corta es una prenda esencial de armario que combina comodidad y estilo sin esfuerzo; fabricada con nuestro tejido de punto central ofrece una sensación transpirable y suave, óptima para llevar todo el día
+- Óptimo para llevar en capas o solo, presenta nuestro logotipo gráfico de temporada en el pecho izquierdo, añadiendo un toque fino y moderno
 - El ajuste estándar garantiza una silueta relajada pero brillante, complementada con un clásico cuello redondo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- [Nuestra Marca]: XTI se caracteriza por su moda urbana y funcional con calzado que combina las últimas tendencias con comodidad y versatilidad para un estilo de vida activo y moderno.
 - Con trabilla decorativa al en color oro. Suela plana y antideslizante
 - Mocasín destalonado de mujer, de la marca Xti. Fabricado en material de rafia, perfecto para tus looks de primavera/ verano pero con un toque sofisticado
 - Este modelo ha obtenido el certificado vegano por la organización mundial PETA (Organización de los derechos de los animales)
+- [Nuestra Marca]: XTI se caracteriza por su moda urbana y funcional con calzado que combina las últimas tendencias con comodidad y versatilidad para un estilo de vida activo y moderno.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DP1BN1D2{{</world>}}

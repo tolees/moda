@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Camiseta de manga corta para mujer de 150 g con logotipo serigrafiado
 - Corte clásico
+- Camiseta de manga corta para mujer de 150 g con logotipo serigrafiado
 - 100 % algodón
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Material y forma – Under Armour UA Tech Camiseta de entrenamiento sin mangas para hombre, camiseta entallada. Material: 100% poliéster.
-- Libertad de movimiento – La camiseta ajustada sin mangas tiene las sisas caídas para aumentar la movilidad en cuaquier dirección y no quedarse atrás.
 - Elegante camiseta transpirable – Esta ligera camiseta para hombre es muy funcional y tiene un diseño aerodinámico gracias a su bajo contorneado.
+- Libertad de movimiento – La camiseta ajustada sin mangas tiene las sisas caídas para aumentar la movilidad en cuaquier dirección y no quedarse atrás.
 - Básica camiseta de poliéster – La camiseta para correr está hecha con el tejido UA Tech para sentirse cómodo, ligero y fresco cuando más se necesita.
 - Camiseta funcional – Esta camiseta para entrenar cuenta con un tejido suave, ligero y transpirable que se seca rápido y ofrece un alto rendimiento.
 

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Categoría de filtro 3, color suficientemente oscuro para usar en exterior a pleno sol. Absorben entre un 82% y un 92% de luz solar. Material de la lente: Lentes de TR18 con el sello de Eastman, gran calidad óptica y resistencia. Respetuoso con el medio ambiente. Protección 100% UV. Color de la lente: Azul. Apariencia de la lente: Gradiente.
-- ONE es nuestro diseño más icónico de todos los tiempos. El modelo ONE RAW, de la colección Made in Spain, destaca por su ligereza, comodidad y diseño atemporal. Todo un básico para los días soleados. Disponible en varios colores de lentes y montura.
-- Modelo Unisex. Medidas: Frontal 141.2 mm, Varillas 140 mm , Puente 17 mm , Alto 50.5 mm.
 - Material de la montura: TR90. Color de la montura: Verde. Color de la varilla: Verde.
+- Categoría de filtro 3, color suficientemente oscuro para usar en exterior a pleno sol. Absorben entre un 82% y un 92% de luz solar. Material de la lente: Lentes de TR18 con el sello de Eastman, gran calidad óptica y resistencia. Respetuoso con el medio ambiente. Protección 100% UV. Color de la lente: Azul. Apariencia de la lente: Gradiente.
 - Producto original Hawkers, la caja incluye funda en microfibra y caja
+- Modelo Unisex. Medidas: Frontal 141.2 mm, Varillas 140 mm , Puente 17 mm , Alto 50.5 mm.
+- ONE es nuestro diseño más icónico de todos los tiempos. El modelo ONE RAW, de la colección Made in Spain, destaca por su ligereza, comodidad y diseño atemporal. Todo un básico para los días soleados. Disponible en varios colores de lentes y montura.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0GFPD39L9{{</world>}}

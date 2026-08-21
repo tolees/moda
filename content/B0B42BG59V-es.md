@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Modelo Unisex; Medidas: Frontal 139 mm, Varillas 145 mm, Puente 19 mm, Alto 49 mm
-- Producto original Hawkers; la caja incluye funda en microfibra y caja
 - La montura tiene un efecto traslúcido beige y unos pins metalizados en el frontal; diseño en acetato con acabado brillante y lentes polarizadas green alligator; las varillas forman una curva pronunciada aportando mayor dinamismo a esta versión premium de la clásica One
-- Material de la montura: Acetato Eco; Color de la montura: Beis; Color de la varilla: Beis
+- Producto original Hawkers; la caja incluye funda en microfibra y caja
 - Gafas de sol polarizadas: Reduce los reflejos superficiales y la fatiga ocular proporcionando nitidez y contrastes superiores; Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes fabricadas en material bio tac polarizado; protección 100 % UV; Color de la lente: Verde; Apariencia de la lente: Sólida
+- Material de la montura: Acetato Eco; Color de la montura: Beis; Color de la varilla: Beis
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B42BG59V{{</world>}}

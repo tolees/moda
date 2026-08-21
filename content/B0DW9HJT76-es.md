@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Desigual
 - Estampado floral
-- Abotonadura frontal
 - Fit: Regular
 - Manga: Larga
+- Abotonadura frontal
+- Desigual
 - Cuello: de Camisa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

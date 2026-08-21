@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Top liso con escote redondo con canalé y pequeño detalle triangular, bordado de “Mickey Mouse” en centro delantero, hombro caído y ceñido en cintura y puños con pieza del mismo género
+- Ideal para dormir o estar en casa muy cómoda
 - Pantalón skinny con cinturilla regulada mediante cordón a tono y bajos ajustados con goma
 - Pijama largo en tejido de algodón
-- Ideal para dormir o estar en casa muy cómoda
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FDGH8XBS{{</world>}}

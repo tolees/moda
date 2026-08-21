@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- __Corte:__ corte normal, clásico, cómodo
-- Etiqueta de la marca en el lateral
-- __Tejido:__ Tejido de algodón [160 g / m2]
 - Diseño con serigrafía en la parte delantera y la espalda
+- __Tejido:__ Tejido de algodón [160 g / m2]
+- Etiqueta de la marca en el lateral
+- __Corte:__ corte normal, clásico, cómodo
 - __Cuello:__ cuello redondo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

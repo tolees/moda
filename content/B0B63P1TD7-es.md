@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Material exterior: poliuretano
 - Forro: sintético
 - Cierre: cordones
-- Material exterior: poliuretano
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B63P1TD7{{</world>}}

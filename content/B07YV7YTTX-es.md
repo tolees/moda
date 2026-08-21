@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Manga larga
 - Diseño con capucha
 - Un ajuste cómodo
-- Manga larga
 - Proporciona comodidad
 - Una mirada original
 

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Una versión moderna de la camiseta clásica
 - Hecho de suave jersey
+- Una versión moderna de la camiseta clásica
 - Cuello redondo
 - Manga corta
 - Ajuste holgado, corte holgado

@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Material de la montura: Acetato; Color de la montura: Lila; Color de la varilla: Lila
-- Gafas de sol categoría filtro 2, coloración medianamente oscura, utilizar en exteriores con luminosidad media; absorben entre un 57% y un 81% de luz solar; Material de la lente: Lentes de TR18 con el sello de Eastman, gran calidad óptica y resistencia; respetuoso con el medio ambiente; protección 100% UV; Color de la lente: Gris; Apariencia de la lente: Cosmética
 - Producto original Hawkers; la caja incluye funda en microfibra y caja
 - Gafas de sol cuadradas inspiradas en el Hollywood de los años 70; una silueta cat eye geométrica estilo pin-up que combina un frontal robusto con varillas cónicas para un look retro, elegante y glamouroso digno de una auténtica estrella
 - Modelo Femenino; Medidas: Frontal 144 mm, Varillas 145 mm, Puente 23 mm, Alto 56 mm
+- Gafas de sol categoría filtro 2, coloración medianamente oscura, utilizar en exteriores con luminosidad media; absorben entre un 57% y un 81% de luz solar; Material de la lente: Lentes de TR18 con el sello de Eastman, gran calidad óptica y resistencia; respetuoso con el medio ambiente; protección 100% UV; Color de la lente: Gris; Apariencia de la lente: Cosmética
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D6S351FW{{</world>}}

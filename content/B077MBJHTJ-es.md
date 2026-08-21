@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Llévalo con casi cualquier cosa para añadir ese toque extra
 - Cuenta con logotipo de Levis en relieve
+- Llévalo con casi cualquier cosa para añadir ese toque extra
 - Cada par de jeans necesita un buen cinturón, y este está hecho para una calidad y uso duraderos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

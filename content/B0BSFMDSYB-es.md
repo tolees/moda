@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La camiseta ZAIVER es de punto jersey algodón 100% (280 gms). Su diseño confeccionado con mezcla de algodón natural otorga una sensación de suavidad al tacto. Esta sudadera tiene ADN 100% deportivo gracias a los materiales con los que ha sido fabricada.
 - Nueva colección de Kappa para la temporada primavera/verano 2024.
-- Estilo de cuello: Cuello sweatshirt. Tiene capucha ajustable con cordón para mayor comodidad. Cierre: Pull on.
 - Sudadera de manga larga, slim fit, con corte controlado ofreciendo comodidad y libertad de movimiento. Incluye un bolsillo central en la parte inferior de la sudadera. El conocido logotipo de Kappa se encuentra estampado en el mismo color que el de la sudadera en la parte central dando un diseño elegante.
+- La camiseta ZAIVER es de punto jersey algodón 100% (280 gms). Su diseño confeccionado con mezcla de algodón natural otorga una sensación de suavidad al tacto. Esta sudadera tiene ADN 100% deportivo gracias a los materiales con los que ha sido fabricada.
+- Estilo de cuello: Cuello sweatshirt. Tiene capucha ajustable con cordón para mayor comodidad. Cierre: Pull on.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BSFMDSYB{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Con un bolsillo en el pecho
 - Detalles distintivos de la marca
 - Tejido suave y ligero
-- Con un bolsillo en el pecho
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DPBBHLK2{{</world>}}

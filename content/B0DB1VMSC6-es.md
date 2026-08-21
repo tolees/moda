@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsos
 - Tote
+- Bolsos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DB1VMSC6{{</world>}}

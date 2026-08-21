@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Montura negra con la parte inferior de la misma tonalidad que la lente de espejo rose gold
-- Producto original Hawkers; la caja incluye funda en microfibra y caja
 - Modelo Femenino; Medidas: Frontal 141 mm, Varillas 140 mm, Puente 17 mm, Alto 50 mm
+- Producto original Hawkers; la caja incluye funda en microfibra y caja
 - Material de la montura: TR90; Color de la montura: Negro, Oro rosa; Color de la varilla: Negro
+- Montura negra con la parte inferior de la misma tonalidad que la lente de espejo rose gold
 - Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes de TR18 con el sello de Eastman, gran calidad óptica y resistencia; respetuoso con el medio ambiente; protección 100% UV; Color de la lente: Oro rosa; Apariencia de la lente: Espejo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

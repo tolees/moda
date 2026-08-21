@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño con capucha
-- Cierre de cremallera
 - Chaqueta de longitud estándar
-- Ajuste estándar
+- Cierre de cremallera
+- Diseño con capucha
 - Tejido de punto plano
+- Ajuste estándar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DJDHYVGK{{</world>}}

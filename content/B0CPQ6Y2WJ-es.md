@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Transpirables y confortables
 - Punta redonda
+- Transpirables y confortables
 - Cuentan con un estilo informal
 
 [🛒 Visítala!!!]({{< param buyurl >}})

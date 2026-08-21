@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sostenibilidad: este producto contiene algodón orgánico. El algodón orgánico se cultiva sin productos químicos nocivos. El cultivo de algodón orgánico protege los recursos naturales y protege la biodiversidad.
 - Jack & Jones - Camiseta de manga corta para hombre
-- Pack de 3 camisetas clásicas para hombre de la marca. JACK & JONES
 - Camiseta de Manga Corta con Cuello Redondo
+- Sostenibilidad: este producto contiene algodón orgánico. El algodón orgánico se cultiva sin productos químicos nocivos. El cultivo de algodón orgánico protege los recursos naturales y protege la biodiversidad.
+- Pack de 3 camisetas clásicas para hombre de la marca. JACK & JONES
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08QW96JFV{{</world>}}

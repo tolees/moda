@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vans Gafas de sol Spicoli color negro Negro Talla única'
-date: 2026-08-07 09:30:57
+date: 2026-08-21 13:49:43
 image: 'https://m.media-amazon.com/images/I/21hqWjYRABL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0F7RPQ93C/?tag=tolees-21'
 descuento: '30.00'
-average: '14.0'
+average: '13.384'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- *Montura: 100 % policarbonato; lente: 100 % policarbonato. Gafas de sol con montura clásica. Protección UVA/UVB 400. *Bolsa para gafas de sol Cinch
 - Protección UVA/UVB 400
+- *Montura: 100 % policarbonato; lente: 100 % policarbonato. Gafas de sol con montura clásica. Protección UVA/UVB 400. *Bolsa para gafas de sol Cinch
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F7RPQ93C{{</world>}}

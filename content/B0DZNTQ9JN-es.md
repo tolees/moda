@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Manejo - las tijeras de podar delgadas y manejables están equipadas con un clip de cinturón para un almacenamiento temporal rápido.
-- Motor Brushless - el motor sin escobillas potente y de bajo mantenimiento aporta la máxima potencia con mayor vida útil. Tras el registro se aplican 10 años de garantía en el motor.
-- Cuchillas de alta calidad - las cuchillas de derivación duraderas de acero SK5 están diseñadas para trabajos de corte eficientes y el corte afilado promueve el crecimiento del verde.
 - Capacidad de corte ajustable - la capacidad de corte se puede ajustar a 14 o 28 mm con solo presionar un botón para cortar rápidamente ramas más delgadas o cortar ramas más gruesas.
 - Power X-Change - las tijeras de podar con batería GP-LS 18/28 Li BL-Solo Einhell Professional es parte de la familia PXC, donde se pueden combinar baterías y equipos del sistema.
+- Manejo - las tijeras de podar delgadas y manejables están equipadas con un clip de cinturón para un almacenamiento temporal rápido.
 - Envío sin batería - las tijeras de podar con batería GP-LS 18/28 Li BL-Solo Einhell Professional se envían sin batería Power X-Change ni cargador. Son adquiribles por separado.
+- Motor Brushless - el motor sin escobillas potente y de bajo mantenimiento aporta la máxima potencia con mayor vida útil. Tras el registro se aplican 10 años de garantía en el motor.
+- Cuchillas de alta calidad - las cuchillas de derivación duraderas de acero SK5 están diseñadas para trabajos de corte eficientes y el corte afilado promueve el crecimiento del verde.
 - Transporte - para un almacenamiento y transporte seguros, las tijeras de podar disponen de un interruptor de bloqueo y una cubierta de plástico incluida para las cuchillas.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

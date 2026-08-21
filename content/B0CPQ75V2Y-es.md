@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Zapatillas para mujer
 - Marca: Geox
 - Transpirable
+- Zapatillas para mujer
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CPQ75V2Y{{</world>}}

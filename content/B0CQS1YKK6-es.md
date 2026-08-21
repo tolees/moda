@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Diseño simple y liso: fácil de combinar, un básico atemporal para cualquier armario.
-- Malla de poliéster de alta calidad: proporciona frescura y comodidad durante las actividades deportivas y el tiempo libre.
 - Diseño holgado y relajado: la camiseta sin mangas de malla es perfecta para un máximo rendimiento y libertad de movimiento durante cualquier entrenamiento.
+- Malla de poliéster de alta calidad: proporciona frescura y comodidad durante las actividades deportivas y el tiempo libre.
 - Versátil para deportes y uso diario: perfecta para el gimnasio o como camiseta casual para el día a día.
 - Fácil de cuidar: duradera y de secado rápido, ideal para uso frecuente y entrenamiento regular.
 

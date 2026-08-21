@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Suela flexible y amortiguada
-- Adecuadas para correr y jugar
 - Plantilla desmontable
+- Adecuadas para correr y jugar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D6NMXGTP{{</world>}}

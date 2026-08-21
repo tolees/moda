@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Tejido suave al tacto
 - Algodón elástico cómodo
-- Comodidad diaria sencilla
 - Cinturilla cómoda
+- Comodidad diaria sencilla
 - Ropa interior deportiva para niños
 
 [🛒 Comprar!!!]({{< param buyurl >}})

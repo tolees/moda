@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Producto original Hawkers; la caja incluye funda en microfibra y caja
+- Modelo Unisex; Medidas: Frontal 133 mm, Varillas 140 mm, Puente 20 mm, Alto 47;6 mm
 - Pierre Gasly eligió nuestro diseño metálico redondo Moma como parte de su colección Hawkers 2021, optando por unas lentes cosméticas amarillas, diseñadas especialmente para días y espacios poco luminosos, y una montura metálica pulida color oro con terminales transparentes
+- Producto original Hawkers; la caja incluye funda en microfibra y caja
 - Gafas de sol categoría filtro 1, coloración suave, utilizar con luminosidad baja, no se recomiendan usar a pleno sol; absorben entre un 20% y un 56% de luz solar; Material de la lente: Lentes de TR18 con el sello de Eastman, gran calidad óptica y resistencia; respetuoso con el medio ambiente; protección 100% UV; Color de la lente: Amarillo; Apariencia de la lente: Cosmética
 - Material de la montura: Metal; Color de la montura: Dorado; Color de la varilla: Dorado
-- Modelo Unisex; Medidas: Frontal 133 mm, Varillas 140 mm, Puente 20 mm, Alto 47;6 mm
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B097RTCV9K{{</world>}}

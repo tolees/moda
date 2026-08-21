@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tiene bolsillos laterales oblicuos
 - Cuenta con el logo de la marca en el pecho
-- Chaqueta de deporte para hombre
 - Con tecnología Nike Dri-FIT para eliminar el sudor de la piel y para una evaporación rápida
+- Tiene bolsillos laterales oblicuos
+- Chaqueta de deporte para hombre
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07W4SYSDR{{</world>}}

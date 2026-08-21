@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Detalle de lazos en los tirantes
 - El tejido principal contiene al menos un 5% de fibras de poliamida reciclada
+- Detalle de lazos en los tirantes
 - Sujetador GORGEOUS push up, con relleno y con aro, con la parte de delante con bordados de flores a tono, con la espalda de micro
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material: 100% algodón
 - Cuello acanalado de 1 cm
+- Material: 100% algodón
 - Camiseta de algodón de la banda
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

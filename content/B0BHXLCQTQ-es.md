@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Manga larga
 - Cierre de cremallera
+- Manga larga
 - Chaqueta con capucha
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

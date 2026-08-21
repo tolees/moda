@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - 100% poliéster con tratamiento específico para evacuar el sudor. Cuenta con tecnología quick dry para un secado rápido. Lavar a máquina a 30º.
-- La DOVOL es de corte recto, garantiza la amplitud e incluye líneas en el lateral de cada manga.
-- Omini silueteado en contraste en el pecho.
 - Esta camiseta deportiva de manga larga y cuello redondo es ideal para tus partidos y entrenamientos gracias a su material transpirable.
 - CAMISETA DE JUEGO DOVOL
+- Omini silueteado en contraste en el pecho.
+- La DOVOL es de corte recto, garantiza la amplitud e incluye líneas en el lateral de cada manga.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09VQ19VKK{{</world>}}

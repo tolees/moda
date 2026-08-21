@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Artículos entregados: 1x Helly Hansen Niño Unisex Chubasquero Shelter 2;0,7,Azul marino
-- Confeccionada para mantenerte seco y abrigado cuando juegas al aire libre con tiempo fresco y húmedo, nuestra chaqueta Shelter transestacional hace exactamente lo que dice: proporciona abrigo; el tejido patentado HELLY TECH Performance es impermeable, cortaviento y transpirable; el interior de tafetán y los forros del cuello de tricot son cómodos y suaves; hemos añadido una capucha desmontable de color amarillo neón y un estampado reflectante en las mangas para que los niños estén más seguros
 - Exterior: 100% poliamida - Forro: 100% poliéster
+- Confeccionada para mantenerte seco y abrigado cuando juegas al aire libre con tiempo fresco y húmedo, nuestra chaqueta Shelter transestacional hace exactamente lo que dice: proporciona abrigo; el tejido patentado HELLY TECH Performance es impermeable, cortaviento y transpirable; el interior de tafetán y los forros del cuello de tricot son cómodos y suaves; hemos añadido una capucha desmontable de color amarillo neón y un estampado reflectante en las mangas para que los niños estén más seguros
 - Versátil chaqueta impermeable y transpirable de 2 capas, hecha para jugar al aire libre con tiempo cambiante
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

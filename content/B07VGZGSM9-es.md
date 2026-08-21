@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- High neck Pullover e of cotton
 - Fine high neck Pullover
+- High neck Pullover e of cotton
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07VGZGSM9{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Flexibles
 - Clarks Shoes, Hana Sun, Tan Leather, 5 (Women)
-- Cojín suave
 - Aspecto y tacto clásicos
+- Cojín suave
+- Flexibles
 - Alta calidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

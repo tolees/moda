@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Exterior: 100 % poliéster. Forro: 100 % poliéster. Relleno: 80 % plumón y 20 % pluma
 - Plumón con capucha de poliéster acolchado. Acolchado horizontal. Apertura con cremallera y superposición Bolsillos laterales con solapa y botón oculto a presión. Elástico en la parte inferior y en las muñecas. Fit. Regular
+- Exterior: 100 % poliéster. Forro: 100 % poliéster. Relleno: 80 % plumón y 20 % pluma
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DPMTK19Z{{</world>}}

@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Proporciona comodidad
-- Cuello redondo
-- Una mirada original
-- Aberturas laterales
 - Manga corta
+- Aberturas laterales
+- Una mirada original
+- Cuello redondo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07VNMMS1K{{</world>}}

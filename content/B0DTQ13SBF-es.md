@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - EL MEJOR BOLSO PARA CADA OCASIÓN: Nuestro bolso de hombro es ideal para cada ocasión, trabajar, ir de compras, salir a eventos, tiene un tamaño ideal para guardar tus cosas y puedes utilizar los diferentes bolsillos, además quitando las asas puede ser una cartera de mano perfecta.
-- DISEÑO PRÁCTICO Y VERSÁTIL: Bolso bandolera fabricada en material PU para facilitar su durabilidad y limpieza.
 - DISEÑO ESPAÑOL DE CALIDAD: Gioseppo presenta una propuesta de accesorios creada en España, destacando por su diseño cuidado y materiales de alta calidad, ideales para cualquier ocasión.
+- DISEÑO PRÁCTICO Y VERSÁTIL: Bolso bandolera fabricada en material PU para facilitar su durabilidad y limpieza.
 - TAMAÑO DE LA BOLSA: Nuestra bandolera de mujer tiene un tamaño de (Largo x Ancho x Alto cm) (28,5*10,5*14,5) Pesa menos de 500g. Correa al hombro ajustable: medidas de la asa 1,8cm ancho y 29 cm largo.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

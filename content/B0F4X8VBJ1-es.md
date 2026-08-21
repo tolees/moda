@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tela rígida
-- Bragueta de botones
 - Cinco bolsillos
+- Bragueta de botones
+- Tela rígida
 - Etiqueta G-STAR en la parte trasera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

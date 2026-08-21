@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estilo: tallado.
-- Camisa lisa con cuello pequeño
-- Tipo de tamaño especial: estándar
 - Ajuste: ajustado
+- Camisa lisa con cuello pequeño
+- Estilo: tallado.
 - Ajuste: a medida
+- Tipo de tamaño especial: estándar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08Q36VLJ5{{</world>}}

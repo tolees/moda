@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Instrucciones de cuidado: lavar a 30 °C, lavado normal, no usar lejía, no secar en secadora, no planchar en caliente (110 °C), precaución al planchar con vapor, no lavar en seco
+- Color: rojo y negro
+- Gorilla Wear, La marca de culturismo, fitness, estilo de vida y artes marciales
 - Ajuste (corte: gran ajuste extraancho)
 - Sudadera de gran tamaño para todas las ocasiones
-- Gorilla Wear, La marca de culturismo, fitness, estilo de vida y artes marciales
-- Color: rojo y negro
+- Instrucciones de cuidado: lavar a 30 °C, lavado normal, no usar lejía, no secar en secadora, no planchar en caliente (110 °C), precaución al planchar con vapor, no lavar en seco
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08XWJMX68{{</world>}}

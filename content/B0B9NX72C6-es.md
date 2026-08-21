@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Artículos entregados: 1 camiseta Helly Hansen W HH Lifa Active Solen - SS Baselayer Blanco M
-- Tela: construcción plisada de 2 capas
 - Tela: excelente gestión de la humedad
-- Tela: resistencia natural al olor
 - Tela: polipropileno hidrofóbico
+- Tela: resistencia natural al olor
+- Tela: construcción plisada de 2 capas
+- Artículos entregados: 1 camiseta Helly Hansen W HH Lifa Active Solen - SS Baselayer Blanco M
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B9NX72C6{{</world>}}

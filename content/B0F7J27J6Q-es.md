@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Perfecto para un look con personalidad y estilo
 - Cuenta con una decoración lateral en forma de alpaca de animal, que añade un toque original y moderno al diseño. Suela de goma resistente que garantiza comodidad y buen agarre
-- Botín estilo militar de niña, de la marca Xti Kids. Fabricado en charol glitter, que aporta un brillo intenso y llamativo
 - [Nuestra Marca]: XTI se caracteriza por su moda urbana y funcional con calzado que combina las últimas tendencias con comodidad y versatilidad para un estilo de vida activo y moderno.
+- Botín estilo militar de niña, de la marca Xti Kids. Fabricado en charol glitter, que aporta un brillo intenso y llamativo
+- Perfecto para un look con personalidad y estilo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F7J27J6Q{{</world>}}

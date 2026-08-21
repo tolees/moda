@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de producto: BOTA
-- Talla: 42.5 EU Ancho
-- Marca: SL-Saint
 - SL-Saint Botas de trabajo para hombre Soft Moc Toe Clásico Tobillo Moda Casual 6 pulgadas Zapatos de cuña Marrón/Negro
+- Talla: 42.5 EU Ancho
+- Tipo de producto: BOTA
+- Marca: SL-Saint
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BTMCTYLF{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- BANDOLERA: Con cadenas, permite llevar hombro, cruzado, a través. BOLSILLOS: 3 compartimentos con 1 bolsillo interior con cremallera.
 - DIMENSIONES Y CIERRE: 19 x 14 x 7 cm. Bolsa con solapa. Bolso pequeño, capacidad suficiente para una pequeña cartera, teléfono y tus cosas diarias.
+- BANDOLERA: Con cadenas, permite llevar hombro, cruzado, a través. BOLSILLOS: 3 compartimentos con 1 bolsillo interior con cremallera.
+- MARCA DAVID JONES: Diseño en Francia. Bolso de mano y marroquinería para mujer o niña, de piel sintética premium. Detalles y acabados de calidad.
 - MATERIAL Y DETALLES: Piel sintética rígida, imitación de piel auténtica. Partes metálicas de color plateado.
 - MODELO Y DISENO: Bolso bandolera pequeño con cadenas. Bolso de mano de hombro, talla mini. Bolso de moda Bolsillo en formato práctico para todos los días: ciudad, viajes, compras, fiestas, etc.
-- MARCA DAVID JONES: Diseño en Francia. Bolso de mano y marroquinería para mujer o niña, de piel sintética premium. Detalles y acabados de calidad.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C912QSF1{{</world>}}

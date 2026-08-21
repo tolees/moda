@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Clarks Cordones con ojales de la marca
 - Calcetín y forro de cuero transpirable
 - TPR antideslizante y flexible
-- Clarks Cordones con ojales de la marca
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CC2W6H9N{{</world>}}

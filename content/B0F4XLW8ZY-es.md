@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Largo regular
-- Bajo recto
 - Cuello de chimenea
+- Bajo recto
+- Largo regular
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F4XLW8ZY{{</world>}}

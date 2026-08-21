@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Malla corta elástica interior, con protecciones en cadera.
 - Incorpora una importante zona elástica en la cintura para una perfecta sujeción.
 - Proporciona una mayor protección en campos sintéticos y de gran abrasión.
+- Malla corta elástica interior, con protecciones en cadera.
 - Compuesta de poliéster con alta elasticidad.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

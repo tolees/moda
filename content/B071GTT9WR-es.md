@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Logotipo grande en el pecho
 - Forro interior cepillado
 - Cable del túnel para ajustar el ancho del capó
-- Puños de nervadura en el cuello, la cintura y las muñecas
+- Logotipo grande en el pecho
 - Etiqueta con bandera en el dobladillo
+- Puños de nervadura en el cuello, la cintura y las muñecas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B071GTT9WR{{</world>}}

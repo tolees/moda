@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - CORTE ENTALLADO DE ALGODÓN: tejido de punto microacanalado 100% algodón de gramaje medio, naturalmente transpirable, elástico y suave
-- CORTE ENTALLADO: para garantizar la seguridad de los niños, la ropa de dormir debe ser resistente al fuego o ajustada. Este artículo es ajustado, pero no es resistente al fuego
 - DETALLES: con ribete acanalado en el escote, los puños y los tobillos y una cintura elástica
 - CONJUNTO DE PIJAMA: este conjunto de pijama ceñido los mantendrá calentitos para que duerman bien toda la noche
+- CORTE ENTALLADO: para garantizar la seguridad de los niños, la ropa de dormir debe ser resistente al fuego o ajustada. Este artículo es ajustado, pero no es resistente al fuego
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CXT8GZK7{{</world>}}

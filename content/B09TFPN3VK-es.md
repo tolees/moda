@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Camiseta ligera de manga corta
 - Espalda y laterales confeccionados en tejido Micro Mesh elástico para maximizar la transpirabilidad
+- Camiseta ligera de manga corta
 - Logo J en el pecho
 - Joma en la espalda en printing 100%
 

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ligero, Encaje clasico, Manga de doble puntada y bastilla baja
 - Ropa de pádel y un regalo original para pádel con un dicho gracioso
+- Ligero, Encaje clasico, Manga de doble puntada y bastilla baja
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C3J4KL2F{{</world>}}

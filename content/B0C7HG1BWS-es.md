@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Composición del material: 61% poliéster, 39% algodón
-- Tipo de producto: sudadera con capucha
-- Escote: capucha
 - Manga: manga larga
+- Composición del material: 61% poliéster, 39% algodón
+- Escote: capucha
+- Tipo de producto: sudadera con capucha
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C7HG1BWS{{</world>}}

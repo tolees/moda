@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con un diseño de cremallera integral
 - Cremallera completa
+- Con un diseño de cremallera integral
 - Una cómoda prenda de sherpa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

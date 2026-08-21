@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Longitud, tamaño: longitud midi
 - Mangas: manga corta
 - Ajuste: corte normal
+- Longitud, tamaño: longitud midi
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BJ15BM4F{{</world>}}

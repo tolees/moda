@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Forro de piel
-- Cierre ajustable para facilitar el calce
 - Sandalias de piel con tiras color cuero y metalizado
 - Piso flexible
+- Cierre ajustable para facilitar el calce
+- Forro de piel
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CBVK8CMY{{</world>}}

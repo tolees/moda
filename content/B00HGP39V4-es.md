@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bolsillos laterales
 - Rib en el bajo
+- Bolsillos laterales
 - Pantalón largo
 - Cintura elastica
 

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tirantes finos
+- Apertura en el escote
 - Corte recto
 - Gota en la espalda cerrada por un botón
 - Escote americano
-- Apertura en el escote
+- Tirantes finos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B010VHJDPO{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Ligeras
 - Suela de CMEVA moldeada
 - Comodidad
-- Ligeras
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C33YFXVX{{</world>}}

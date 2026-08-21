@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- PANTALÓN CHINO DE COLOR CAQUI: Este clásico pantalón chino de color caqui se convertirá en un básico de tu fondo de armario. Una prenda muy versátil, que puedes ponerte a diario o para conseguir un outfit arreglado pero informal para ir a trabajar
+- ABERTURA DE LA PIERNA: La talla 42 mide 17,8 cm.
+- DETALLES: Presenta bragueta con cremallera y cierre de botón, bolsillos delanteros oblicuos, pequeño bolsillo en la cintura y bolsillos traseros clásicos de ojal con botón
 - SARGA ELÁSTICA: Producto confeccionado en sarga de algodón elástico con un ligero lavado para darle un tacto ligeramente gastado
 - CORTE CEÑIDO: se ajusta a la cadera, el muslo y la pierna. Se ajusta por debajo de la cintura de forma natural
-- DETALLES: Presenta bragueta con cremallera y cierre de botón, bolsillos delanteros oblicuos, pequeño bolsillo en la cintura y bolsillos traseros clásicos de ojal con botón
-- ABERTURA DE LA PIERNA: La talla 42 mide 17,8 cm.
+- PANTALÓN CHINO DE COLOR CAQUI: Este clásico pantalón chino de color caqui se convertirá en un básico de tu fondo de armario. Una prenda muy versátil, que puedes ponerte a diario o para conseguir un outfit arreglado pero informal para ir a trabajar
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07JLCKBCY{{</world>}}

@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Manga: Larga
-- Color: Liso
-- Desigual
 - Cintura con goma elástica
+- Color: Liso
 - Con capucha
 - Acabado metalizado
+- Manga: Larga
+- Desigual
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DVCBQV28{{</world>}}

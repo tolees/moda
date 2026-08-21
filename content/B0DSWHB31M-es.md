@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MATERIAL Y CUIDADO: Camiseta de algodón regenerativo 100 %. Se puede lavar a máquina y secar en secadora.
 - PARA CUALQUIER OCASIÓN: Esta prenda minimalista sienta superbién y es muy cómoda. Ya sea con vaqueros, shorts o pantalones elegantes, combina a la perfección con cualquier look ya sea informal o de oficina.
 - AJUSTE PERFECTO: Esta camiseta de manga corta de algodón suave tiene un diseño informal y favorece tu figura.
-- MODA URBANA REINTERPRETADA: Para acercar las populares prendas de los 90 a las nuevas generaciones, Tommy Jeans se inspira en los iconos del hip-hop de aquella época. Apostando por prendas de alta calidad y diseños modernos con mucho denim.
 - SENCILLO E INFORMAL: La camiseta básica de algodón es supercómoda y perfecta para looks más informales. Los detalles distintivos de Tommy Jeans en el pecho completan el diseño.
+- MATERIAL Y CUIDADO: Camiseta de algodón regenerativo 100 %. Se puede lavar a máquina y secar en secadora.
+- MODA URBANA REINTERPRETADA: Para acercar las populares prendas de los 90 a las nuevas generaciones, Tommy Jeans se inspira en los iconos del hip-hop de aquella época. Apostando por prendas de alta calidad y diseños modernos con mucho denim.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DSWHB31M{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ajuste cómodo: más relajado, ajuste generoso para un rango completo de movimiento
 - Tallas de XS a XXL
 - Logotipo impreso
 - Tejido de algodón jersey ligero (150 g)
+- Ajuste cómodo: más relajado, ajuste generoso para un rango completo de movimiento
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BN6P92LN{{</world>}}

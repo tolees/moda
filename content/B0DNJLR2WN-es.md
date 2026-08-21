@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cintura con cordón
 - La parte superior cuenta con prácticos bolsillos
+- Cintura con cordón
 - Fabricado con materiales duraderos y de calidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 100 % algodón
 - Una camisa clásica de corte ajustado hecha de un fino peso ligero
 - Lavado limpio y oscuro
+- 100 % algodón
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DTJJQKY2{{</world>}}

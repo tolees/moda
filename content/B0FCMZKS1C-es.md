@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Vestido midi ajustado con mangas y escote asimétrico
-- Detalle fruncido en la cintura y en color liso
-- Vestido midi
 - vestido sin mangas
+- Vestido midi ajustado con mangas y escote asimétrico
+- Vestido midi
+- Detalle fruncido en la cintura y en color liso
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FCMZKS1C{{</world>}}

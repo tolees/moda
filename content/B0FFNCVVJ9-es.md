@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- AJUSTE: Regular
-- IDEAL PARA: Entrenamientos y ejercicios de alta intensidad
 - ESTILO LIMPIO: Corte atlético en color Gris 5 para un look moderno y versátil
 - TEJIDO TRANSPIRABLE: Punto de poliéster de alto rendimiento que mantiene fresco durante cada sesión
+- AJUSTE: Regular
 - CAMISETA LIGERA DE RENDIMIENTO: Diseñada para transpirabilidad y libertad de movimiento
+- IDEAL PARA: Entrenamientos y ejercicios de alta intensidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FFNCVVJ9{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parte inferior de la visera del mismo color, visera precurvada
+- Forma atlética de perfil medio, con 6 paneles
 - Tejido suave y de calidad
 - 63% de poliéster, 34% de algodón, 3% de elastáno
-- Forma atlética de perfil medio, con 6 paneles
+- Parte inferior de la visera del mismo color, visera precurvada
 - Tejido buckram, visera con 8 filas de pespuntes
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

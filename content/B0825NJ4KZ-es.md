@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corte normal
-- Cuello redondo y serigrafía en parte delantera
-- Clásico
 - Camiseta Para hombre
+- Corte normal
+- Clásico
+- Cuello redondo y serigrafía en parte delantera
 - Cómodo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

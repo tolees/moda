@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Corte: estándar
+- Con capucha
 - Largo: estándar
 - Manga larga
-- Con capucha
 - Material principal: felpa francesa
 
 [🛒 Aquí!!!]({{< param buyurl >}})

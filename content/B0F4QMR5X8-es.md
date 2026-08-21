@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Acabado sedoso
 - Algodón puro
 - Textura acanalada
 - Cuello barco
+- Acabado sedoso
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F4QMR5X8{{</world>}}

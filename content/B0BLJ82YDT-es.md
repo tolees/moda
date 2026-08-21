@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diseño: Pantalón elegante con pliegues delanteros de tiro medio, corte recto, con bolsillos, trabillas para cinturón y cierre de cremallera con botón. Ideal para trabajar en la empleados de oficina, camareros en hostelería o dependientes de tienda.
 - Tallas: Consulta las medidas de cada talla según el pais de compra para asegurarse de realizar su compra correctamente.
+- Diseño: Pantalón elegante con pliegues delanteros de tiro medio, corte recto, con bolsillos, trabillas para cinturón y cierre de cremallera con botón. Ideal para trabajar en la empleados de oficina, camareros en hostelería o dependientes de tienda.
 - Cuidados: Lavado a máquina con agua fría, no usar lejía, no secar en secadora. Plachado al vapor a baja temperatura.
-- Tejido: 80% Algodón 20% Poliéster: fino, fresco y elegante.
 - Modelo: El modelo de las fotos lleva una talla 40 española. Sus medidas son altura: 1.76 cm, peso: 70 kg, cintura: 80cm
+- Tejido: 80% Algodón 20% Poliéster: fino, fresco y elegante.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BLJ82YDT{{</world>}}

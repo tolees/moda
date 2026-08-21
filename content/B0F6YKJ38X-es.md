@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ajuste estándar
 - Cuello redondo
-- Detalles de la marca PUMA
+- Ajuste estándar
 - Sin mangas
+- Detalles de la marca PUMA
 - Largo estándar
 
 [🛒 Aquí!!!]({{< param buyurl >}})

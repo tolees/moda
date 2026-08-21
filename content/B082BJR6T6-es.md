@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- REPLAY es una de las marcas italianas líderes en denim y estilo de vida para hombres y mujeres desde hace 40 años La marca es sinónimo de innovación, autenticidad y se centra cada vez en la sostenibilidad
-- INSTRUCCIONES DE CUIDADO: Se recomienda lavar los jeans en programa suave a 30 °C y planchar hasta un máximo de 110 °C
-- NEWLUZ: Los vaqueros pitillo tienen un corte de cintura normal ligeramente elevado y un corte de pernera estrecho
 - CASUAL & COOL: Los vaqueros con parte elástica son especialmente cómodos para el día a día y se pueden combinar adecuadomente con camisetas informales
+- NEWLUZ: Los vaqueros pitillo tienen un corte de cintura normal ligeramente elevado y un corte de pernera estrecho
+- INSTRUCCIONES DE CUIDADO: Se recomienda lavar los jeans en programa suave a 30 °C y planchar hasta un máximo de 110 °C
+- REPLAY es una de las marcas italianas líderes en denim y estilo de vida para hombres y mujeres desde hace 40 años La marca es sinónimo de innovación, autenticidad y se centra cada vez en la sostenibilidad
 - CON COMFORT STRETCH: Los jeans se sienten como una segunda piel gracias al material con COMFORT stretch El tejido suave garantiza una comodidad óptima y un ajuste adecuado, sin importar cuánto tiempo lleves los pantalones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

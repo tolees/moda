@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Gafas de sol polarizadas: Reduce los reflejos superficiales y la fatiga ocular proporcionando nitidez y contrastes superiores; Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes fabricadas en material bio tac polarizado; protección 100 % UV; Color de la lente: Gris; Apariencia de la lente: Gradiente
 - Producto original Hawkers; la caja incluye funda en microfibra y caja
-- Material de la montura: Metal, TR90; Color de la montura: Negro, Plateado; Color de la varilla: Negro
 - Las patillas negras brillantes, los aros superiores de este modelo se combinan con el puente de acero inoxidable plateado y los aros inferiores; las lentes gris degradado polarizadas completan el look
+- Material de la montura: Metal, TR90; Color de la montura: Negro, Plateado; Color de la varilla: Negro
 - Modelo Unisex; Medidas: Frontal 142 mm, Varillas 145 mm, Puente 19 mm, Alto 40;5 mm
 
 [🛒 Aquí!!!]({{< param buyurl >}})

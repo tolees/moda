@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camiseta termal de manga corta.
 - Tejido de máxima suavidad e interior afelpado, que proporciona un calor extra a la prenda.
 - Cuello pico.
+- Camiseta termal de manga corta.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FKHDFR5S{{</world>}}

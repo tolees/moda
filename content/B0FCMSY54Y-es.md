@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Camisa Oxford
 - Camisa Ligera
+- Camisa Oxford
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FCMSY54Y{{</world>}}

@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - DETALLES: cuenta con un clásico cuello redondo y manga corta para un estilo casual y sin esfuerzo
+- CAMISETA IMPRESCINDIBLE: esta versátil camiseta es un imprescindible del armario, perfecta para ponértela debajo de tu chaqueta o cárdigan favorito, o para llevarla sola para un estilo informal
 - CORTE ESTÁNDAR: corte ajustado pero cómodo con fácil movimiento
 - JERSEY DE MEZCLA DE ALGODÓN Y MODAL: jersey de algodón y modal supersuave con elasticidad adicional para mayor comodidad durante todo el día
-- CAMISETA IMPRESCINDIBLE: esta versátil camiseta es un imprescindible del armario, perfecta para ponértela debajo de tu chaqueta o cárdigan favorito, o para llevarla sola para un estilo informal
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09QJGT5JW{{</world>}}

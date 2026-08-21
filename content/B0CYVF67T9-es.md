@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Cierre de cordones
 - Puntera Adituff
 - Empeine textil y sintético
 - Horma clásica
-- Cierre de cordones
-- Mediasuela Bounce
 - Amortiguación Cloudfoam
+- Mediasuela Bounce
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CYVF67T9{{</world>}}

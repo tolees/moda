@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cuello redondo acanalado
-- Bajo recto
 - Estampado de rayas en el pecho y en la espalda
 - Aberturas laterales
+- Bajo recto
 - Manga larga
 
 [🛒 Visítala!!!]({{< param buyurl >}})

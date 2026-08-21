@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 30% lana, 70% poliéster. Alta calidad, suave, agradable al tacto, cómodo de llevar y muy buen ajuste
 - Diseño moderno, se puede llevar formal y casual; perfecto para el exterior, fiesta, escuela, negocios
+- 30% lana, 70% poliéster. Alta calidad, suave, agradable al tacto, cómodo de llevar y muy buen ajuste
 - Diseñado para un ajuste estrecho sin abertura trasera. Si estás entre dos tallas, te recomendamos elegir la talla más grande
 - Completamente forrado con cálido acolchado y el forro interior es extraíble. En comparación con el año pasado, hemos mejorado la longitud del forro. La longitud del forro del abrigo de este año se encuentra debajo del tercer botón, por lo que permaneces más caliente.
 - Gabardina de lana para hombre: solapa doble, cremallera y botones, forro a cuadros continuo, bolsillo falso en el pecho con cremallera, 2 bolsillos laterales inclinados, 2 bolsillos interiores

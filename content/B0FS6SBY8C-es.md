@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- MARCO EXTRA GRANDE DE 50 MM - Ofrece un 43% más de cobertura que un marco estándar de 35 mm. Cubre mejor la zona de cejas y sienes para reducir la entrada de luz lateral durante la observación solar.
 - ECLIPSE TOTAL EN ESPAÑA - 12 AGOSTO 2026 - La franja de totalidad cruzará zonas de España, incluyendo ciudades como Zaragoza, Valencia y Palma. Pack adecuado para familias.
 - GAFAS PARA VER EL ECLIPSE SOLAR 2026 - Fabricadas por Absolute Eclipse, fabricante europeo incluido por la American Astronomical Society como proveedor reconocido de visores solares seguros.
-- SEGURIDAD CERTIFICADA PARA ECLIPSE SOLAR - Gafas eclipse solar homologadas según ISO 12312-2, marcado CE y Reglamento EPI (UE) 2016/425 Cat. II. Las gafas de sol normales no protegen durante la observación directa del Sol.
 - CÓDIGO QR Y NÚMERO DE SERIE ÚNICO - Cada par incluye un código QR rascable y un número de serie para verificar la autenticidad. El sistema ayuda a detectar copias y escaneos repetidos.
-- MARCO EXTRA GRANDE DE 50 MM - Ofrece un 43% más de cobertura que un marco estándar de 35 mm. Cubre mejor la zona de cejas y sienes para reducir la entrada de luz lateral durante la observación solar.
+- SEGURIDAD CERTIFICADA PARA ECLIPSE SOLAR - Gafas eclipse solar homologadas según ISO 12312-2, marcado CE y Reglamento EPI (UE) 2016/425 Cat. II. Las gafas de sol normales no protegen durante la observación directa del Sol.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FS6SBY8C{{</world>}}

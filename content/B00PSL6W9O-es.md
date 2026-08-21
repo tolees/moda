@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Ajuste : Regular
-- Básicos, Ropa casual, Ropa de Calle
-- Camiseta || Ajuste normal || Cuello Redondo || Material duradero
 - Camiseta con las siguientes características:
+- Camiseta || Ajuste normal || Cuello Redondo || Material duradero
+- Básicos, Ropa casual, Ropa de Calle
 - Descubre todas las marcas de EMP!
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuello redondo
 - Detalles estampados
+- Cuello redondo
 - Composición: 100 % algodón
 
 [🛒 Aquí!!!]({{< param buyurl >}})

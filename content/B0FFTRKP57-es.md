@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Gran logotipo clásico en la parte delantera de jersey de calidad básica
 - Camiseta básica con cuello redondo y manga corta
 - 100% algodón
-- Gran logotipo clásico en la parte delantera de jersey de calidad básica
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FFTRKP57{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Altura tacón 5,5 cm
+- Zapatos estilo Mary Jane con tacón, punta cuadrada y cierres regulables
 - Piso es de caucho
 - Planta de piel transpitable y acolchada
-- Zapatos estilo Mary Jane con tacón, punta cuadrada y cierres regulables
-- Altura tacón 5,5 cm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DVGWHB1Q{{</world>}}

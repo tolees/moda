@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Seneca Bay Oxford TIMBERLAND COLOR BLANC DE BLANC TALLA 45 PARA HOMBRE
-- País de fabricación: Filipinas
 - Ancho del zapato: medio
 - 1
+- País de fabricación: Filipinas
+- Seneca Bay Oxford TIMBERLAND COLOR BLANC DE BLANC TALLA 45 PARA HOMBRE
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B98WRXZL{{</world>}}

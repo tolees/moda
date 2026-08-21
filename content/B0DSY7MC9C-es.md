@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La prenda dispone de cremallera y de un cinturón desmontable con el logotipo de Calvin Klein
-- Con dos bolsillos y capucha
 - Cazadora acolchada
+- Con dos bolsillos y capucha
+- La prenda dispone de cremallera y de un cinturón desmontable con el logotipo de Calvin Klein
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DSY7MC9C{{</world>}}

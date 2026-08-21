@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hecha de mezcla de algodón suave
 - Sudadera para hombre de la marca danesa JACK & JONES
 - Tejido suave y cálido
+- Hecha de mezcla de algodón suave
 - Cuello redondo clásico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

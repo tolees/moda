@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- PROTECCIÓN ADECUADA: Protección lateral: barrera UV en los laterales de la montura; protección adecuada contra los rayos solares; protección frontal: lentes de categoría 3 y 4 que proporcionan una protección UV del 100%
 - Protecciones laterales y forma envolvente: bloquea la luz y los rayos desde todos los lados
 - GAFAS DESARROLLADAS CON PROFESIONALES DE LA SALUD: ópticos, oftalmólogos y osteópatas
 - MANTENIMIENTO: Limpieza de las lentes con un paño de microfibra y de la montura con un paño húmedo
-- PROTECCIÓN ADECUADA: Protección lateral: barrera UV en los laterales de la montura; protección adecuada contra los rayos solares; protección frontal: lentes de categoría 3 y 4 que proporcionan una protección UV del 100%
 - CONFORT ÓPTIMO: Las zonas de la nariz, las patillas y el interior de las monturas están fabricadas con material Fit Tech; material suave y cómodo que se adapta a la morfología de la cara de los niños
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material de la montura: TR90; Color de la montura: Carey, Dorado; Color de la varilla: Carey
-- La montura de carey pulida, semitransparente, en color miel, marrón, de este modelo de ojo de gato redondo se complementa con detalles metálicos en tono dorado a lo largo de la línea de las cejas y con lentes polarizadas en marrón degradado
+- Producto original Hawkers; la caja incluye funda en microfibra y caja
 - Gafas de sol polarizadas: Reduce los reflejos superficiales y la fatiga ocular proporcionando nitidez y contrastes superiores; Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes fabricadas en material bio tac polarizado; protección 100 % UV; Color de la lente: Marrón; Apariencia de la lente: Gradiente
 - Modelo Femenino; Medidas: Frontal 143 mm, Varillas 145 mm, Puente 23;5 mm, Alto 43;3 mm
-- Producto original Hawkers; la caja incluye funda en microfibra y caja
+- Material de la montura: TR90; Color de la montura: Carey, Dorado; Color de la varilla: Carey
+- La montura de carey pulida, semitransparente, en color miel, marrón, de este modelo de ojo de gato redondo se complementa con detalles metálicos en tono dorado a lo largo de la línea de las cejas y con lentes polarizadas en marrón degradado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09NYCK1SF{{</world>}}

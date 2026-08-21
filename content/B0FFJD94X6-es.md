@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- COLABORACIÓN CON SOFIA GRAINGE: Estilos inspirados para los más pequeños, creados en colaboración con Sofia Grainge
 - Detalles: puños y cuello acanalados, cremallera completa de tobillo a barbilla y pies unidos con puntos antideslizantes en la suela. Diseñado para ser una entrepierna de longitud completa
-- Tela: tejido de punto microacanalado de algodón suave de peso medio con un elástico suave para mayor comodidad
 - CORTE ENTALLADO: para garantizar la seguridad de los niños, la ropa de dormir debe ser resistente al fuego o ajustada. Este artículo es ajustado, pero no es resistente al fuego
+- COLABORACIÓN CON SOFIA GRAINGE: Estilos inspirados para los más pequeños, creados en colaboración con Sofia Grainge
+- Tela: tejido de punto microacanalado de algodón suave de peso medio con un elástico suave para mayor comodidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FFJD94X6{{</world>}}

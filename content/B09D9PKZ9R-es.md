@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Forro cálido de cachemira
 - Guantes de cuero suave: use piel de oveja 100% suave y cómoda
+- Forro cálido de cachemira
 - SMS en pantalla táctil
 
 [🛒 Comprar!!!]({{< param buyurl >}})

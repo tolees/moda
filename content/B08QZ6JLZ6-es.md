@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- camisetas
 - Camiseta deportiva
 - Manga corta
+- camisetas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08QZ6JLZ6{{</world>}}

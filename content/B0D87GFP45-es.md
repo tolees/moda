@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño elegante
 - Cómodo y ligero
 - Fabricado con prácticas sostenibles
+- Diseño elegante
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D87GFP45{{</world>}}

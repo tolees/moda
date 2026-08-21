@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Los colores contrastantes del diseño de etiquetado lo hacen más atractivo en general.
-- El collar se puede levantar o bajar para un estilo más versátil.
-- Cuidado de lavado: lavar a máquina en frío con colores similares, secar en secadora a baja temperatura si es necesario o secar en plano, usar detergente suave, secar inmediatamente, no usar blanqueador
 - Comprueba nuestra tabla de tallas antes de comprar, si es un ajuste holgado, elige una o dos tallas más grandes.
 - Los bolsillos grandes en ambos lados están diseñados para un almacenamiento más cómodo.
+- Cuidado de lavado: lavar a máquina en frío con colores similares, secar en secadora a baja temperatura si es necesario o secar en plano, usar detergente suave, secar inmediatamente, no usar blanqueador
+- El collar se puede levantar o bajar para un estilo más versátil.
+- Los colores contrastantes del diseño de etiquetado lo hacen más atractivo en general.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CWX8JDYR{{</world>}}

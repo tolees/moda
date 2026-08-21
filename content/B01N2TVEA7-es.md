@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tirantes finos
-- Camiseta básica de tirantes
 - Detalle de encaje en la parte delantera
+- Camiseta básica de tirantes
+- Tirantes finos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01N2TVEA7{{</world>}}

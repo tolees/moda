@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Transpirable
 - Regulación de la humedad
 - Comodidad
-- Transpirable
 - 0 unidades
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

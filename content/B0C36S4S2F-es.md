@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuello : Capucha
-- Bolsillos : Bolsillo canguro
-- Manga : Manga larga
-- Artículo : Sudadera con capucha
-- Corte : Corte relaxed
-- Mangas : Sisa en disminución
 - Estampado : Estampa en la parte delantera del producto
+- Corte : Corte relaxed
+- Bolsillos : Bolsillo canguro
+- Cuello : Capucha
+- Artículo : Sudadera con capucha
+- Manga : Manga larga
+- Mangas : Sisa en disminución
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C36S4S2F{{</world>}}

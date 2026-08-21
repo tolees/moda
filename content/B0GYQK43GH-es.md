@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- INCLUIDA POR LA AAS PARA SEGURIDAD EN OBSERVACIÓN SOLAR: ORRO figura en la lista de la American Astronomical Society como proveedor de visores solares seguros.
-- ALTURA DE MONTURA MÁS GRANDE DE 45 mm: Diseñadas con mayor cobertura alrededor de los ojos para ayudar a reducir la luz lateral durante la observación solar, ofreciendo una sensación de visualización más segura que las gafas de eclipse estándar.
-- LENTES DE FILTRO SOLAR 4 VECES MÁS GRUESAS Y RESISTENTES: Fabricadas con lentes de filtro solar mejoradas, hasta 4 veces más gruesas que las lentes estándar de gafas para eclipse, ayudan a reducir dobleces, pliegues y daños durante el uso.
 - SE AJUSTAN SOBRE LA MAYORÍA DE GAFAS: Diseñadas para usarse solas o sobre la mayoría de gafas, ofreciendo un ajuste cómodo para la observación solar.
+- INCLUIDA POR LA AAS PARA SEGURIDAD EN OBSERVACIÓN SOLAR: ORRO figura en la lista de la American Astronomical Society como proveedor de visores solares seguros.
 - CERTIFICADAS PARA OBSERVACIÓN SOLAR DIRECTA: Ensayadas según EN ISO 12312-2:2015, la norma europea para la observación solar directa, y con marcado CE para un uso seguro durante eclipses.
+- LENTES DE FILTRO SOLAR 4 VECES MÁS GRUESAS Y RESISTENTES: Fabricadas con lentes de filtro solar mejoradas, hasta 4 veces más gruesas que las lentes estándar de gafas para eclipse, ayudan a reducir dobleces, pliegues y daños durante el uso.
+- ALTURA DE MONTURA MÁS GRANDE DE 45 mm: Diseñadas con mayor cobertura alrededor de los ojos para ayudar a reducir la luz lateral durante la observación solar, ofreciendo una sensación de visualización más segura que las gafas de eclipse estándar.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0GYQK43GH{{</world>}}

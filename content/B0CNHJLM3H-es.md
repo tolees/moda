@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Acabada con un discreto logotipo en el pecho
 - Una camisa versátil que puedes combinar con vaqueros o chinos
+- Acabada con un discreto logotipo en el pecho
 - Diseñada con un fit estilizado y ajustado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

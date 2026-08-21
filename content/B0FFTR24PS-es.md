@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello redondo con logotipo impreso en el pecho
 - 100% algodón
+- Cuello redondo con logotipo impreso en el pecho
 - Camiseta de manga corta relajada
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bajo y puños elásticos
 - Cierre de cremallera
-- Bolsillos en la cintura cubiertos con cinta y cierre de botón a presión
-- Cuello alzado acanalado por dentro
 - Bolsillo y trabilla en el interior
+- Cuello alzado acanalado por dentro
+- Bajo y puños elásticos
+- Bolsillos en la cintura cubiertos con cinta y cierre de botón a presión
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CRZTFGLK{{</world>}}

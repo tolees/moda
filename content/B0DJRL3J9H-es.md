@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sin mangas
 - Largo estándar
-- Detalles de la marca PUMA
-- Corte ajustado
 - Tejido interlock
+- Sin mangas
+- Corte ajustado
+- Detalles de la marca PUMA
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DJRL3J9H{{</world>}}

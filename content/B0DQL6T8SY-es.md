@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Con cremallera
 - Puños y dobladillo de punto acanalado
 - Con capucha
-- Con cremallera
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DQL6T8SY{{</world>}}

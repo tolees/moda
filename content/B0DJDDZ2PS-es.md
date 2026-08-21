@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Corte: normal
 - Material principal: tejido spacer
-- Manga larga
 - Cuello: cuello camisero
 - Cierre: de cremallera
+- Corte: normal
+- Manga larga
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DJDDZ2PS{{</world>}}

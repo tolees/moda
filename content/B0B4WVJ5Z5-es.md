@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Es una muñeca articulada en brazos, piernas y cabeza, con unos ojos muy grandes con efecto de emoji que se cambian cuando le presionas en la cabeza, mostrando así hasta 3 estados de emoción diferentes
-- Lleva ropa de tela con un look contemporáneo al más puro estilo parisino que consiste en un mono, una camiseta de rayas y unas botas en conjunto
-- Trottie Sophie de 25 centímetros adora viajar y, sobre todo, París, que es de donde viene. Tiene un conejito de mascota
-- Un juguete ideal para niñas y niños a partir de 3 años de edad, a los que les gusten las muñecas, las aventuras y la magia
 - Como accesorios lleva unas gafas, un lazo negro que decora su pelo rosa y una mochila morada para llevarse de viaje, su folleto de personalidad, óptimo para que las niñas creen un sinfín de divertidas historias
 - El personaje de Sophie Le encanta la moda, el diseño y dibujar cosas bonitas, son sus verdaderas pasiones. Su súper poder es que todo lo que dibuja puede cobrar vida, desde una prenda de ropa hasta una escalera; pero lo que dibuja no puede ser tocado por el agua o se borrará y disipará
+- Un juguete ideal para niñas y niños a partir de 3 años de edad, a los que les gusten las muñecas, las aventuras y la magia
+- Es una muñeca articulada en brazos, piernas y cabeza, con unos ojos muy grandes con efecto de emoji que se cambian cuando le presionas en la cabeza, mostrando así hasta 3 estados de emoción diferentes
+- Trottie Sophie de 25 centímetros adora viajar y, sobre todo, París, que es de donde viene. Tiene un conejito de mascota
+- Lleva ropa de tela con un look contemporáneo al más puro estilo parisino que consiste en un mono, una camiseta de rayas y unas botas en conjunto
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B4WVJ5Z5{{</world>}}

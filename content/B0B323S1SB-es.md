@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Composición: 100% algodón
 - Camiseta en paquete de 3 unidades
 - Cuello redondo
-- Composición: 100% algodón
 - Corte estándar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

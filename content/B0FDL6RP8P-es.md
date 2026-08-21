@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre de botones
 - Camisa de manga corta
+- Cierre de botones
 - Estilo informal
 
 [🛒 Aquí!!!]({{< param buyurl >}})

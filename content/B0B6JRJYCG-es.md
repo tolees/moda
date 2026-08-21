@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Un ajuste moderno de gran tamaño con hombros superpuestos y un cuello redondo acanalado perfectamente completado
 - Logotipo de Urban Classics bordado en el pecho
 - Con su aspecto desgastado
+- Un ajuste moderno de gran tamaño con hombros superpuestos y un cuello redondo acanalado perfectamente completado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B6JRJYCG{{</world>}}

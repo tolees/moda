@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Con asa larga, perfecta para llevar al hombro.
 - Dos compartimentos específicos: uno para un ordenador de hasta 15 pulgadas y otro para una Tablet de hasta 10,2 pulgadas.
-- By Joumma Bags
 - Bolso con dimensiones de 38 cm x 33 cm x 15 cm fabricado en Poliéster.
+- By Joumma Bags
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DNR237RS{{</world>}}

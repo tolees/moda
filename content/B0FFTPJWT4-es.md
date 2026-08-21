@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bandera impresa en la parte delantera
 - Camiseta regular de punto individual
+- Bandera impresa en la parte delantera
 - 100% algodón
 
 [🛒 Comprar!!!]({{< param buyurl >}})

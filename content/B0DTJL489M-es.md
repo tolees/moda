@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Ilustración con logotipo en la parte delantera y adornos
-- Camiseta de manga corta y cuello redondo
 - 100% algodón
+- Camiseta de manga corta y cuello redondo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DTJL489M{{</world>}}

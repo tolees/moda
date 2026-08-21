@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Resistente al agua
+- Sandalias unisex adulto
 - Correa sintética acolchada
 - Suela de EVA inyectada para mayor suavidad y comodidad
+- Resistente al agua
 - Lleva el PUMA No. 1 logotipo en la cinta
-- Sandalias unisex adulto
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D1ZBH7G2{{</world>}}

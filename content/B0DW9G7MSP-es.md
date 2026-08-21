@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Cuello: de Camisa
 - Fit: Regular
+- Abotonadura frontal
 - Estampado floral
 - Manga: Larga
-- Abotonadura frontal
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DW9G7MSP{{</world>}}

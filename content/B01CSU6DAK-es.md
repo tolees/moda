@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Hecho de 100% poliéster
 - Adecuado para fitness, montañismo y otro actividades al aire libre
 - Con tecnología DRY MX, capaz de controlar la transpiración del deportista
-- Hecho de 100% poliéster
 - Camiseta sin mangas con cuello redondeado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Dos asas superiores
 - Correa cruzada ajustable
 - Cierre de cremallera
+- Dos asas superiores
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DT1VL3YN{{</world>}}

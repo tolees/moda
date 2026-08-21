@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Nuestro ligero jersey de cuello redondo para hombre Gant Classic de algodón
-- Gant Logotipo bordado en el pecho
 - Con puños y dobladillo acanalados
+- Gant Logotipo bordado en el pecho
+- Nuestro ligero jersey de cuello redondo para hombre Gant Classic de algodón
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BG5F45QG{{</world>}}

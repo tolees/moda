@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Elástico: no elástico
 - Talla: S, M, L, XL
+- Elástico: no elástico
 - Patrón: color liso
 
 [🛒 Visítala!!!]({{< param buyurl >}})

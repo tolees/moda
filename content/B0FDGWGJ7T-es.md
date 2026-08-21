@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Bolso con logo metálico
-- Acabado liso
 - Dos asas superiores
+- Acabado liso
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FDGWGJ7T{{</world>}}

@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - MATERIAL Y CUIDADO: Camiseta confeccionada en 60 % algodón y 40 % poliéster. Se puede lavar a máquina y secar en secadora.
 - CALIDAD DEMOSTRADA: Desde 1985, esta marca de diseñador lleva demostrando por todo el mundo la calidad y la ligereza mediante una gran variedad de diseños en los míticos colores azul oscuro, blanco y rojo.
-- SENCILLO E INFORMAL: La camiseta básica de algodón es supercómoda y perfecta para looks más informales. Los detalles distintivos de Tommy Hilfiger completan el look de la prenda.
 - AJUSTE PERFECTO: Esta camiseta atemporal de manga corta con volantes, confeccionada en suave algodón tiene un diseño desenfadado.
 - PARA CUALQUIER OCASIÓN: La camiseta básica es supercómoda e ideal para usarla a diario.
+- SENCILLO E INFORMAL: La camiseta básica de algodón es supercómoda y perfecta para looks más informales. Los detalles distintivos de Tommy Hilfiger completan el look de la prenda.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FDGNWHN3{{</world>}}

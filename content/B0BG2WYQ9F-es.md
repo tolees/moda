@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Gafas de sol inspiradas en el clásico modelo aviador; con montura oversized rectangular de acetato color carey volcano, lentes degradadas color terracota y una ligera placa de metal que conecta con la bisagra
 - Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes de TR18 con el sello de Eastman, gran calidad óptica y resistencia; respetuoso con el medio ambiente; protección 100% UV; Color de la lente: Marrón; Apariencia de la lente: Gradiente
-- Material de la montura: Acetato; Color de la montura: Carey; Color de la varilla: Carey
-- Producto original Hawkers; la caja incluye funda en microfibra y caja
 - Modelo Unisex; Medidas: Frontal 140;9 mm, Varillas 145 mm, Puente 18;5 mm, Alto 44;5 mm
+- Producto original Hawkers; la caja incluye funda en microfibra y caja
+- Gafas de sol inspiradas en el clásico modelo aviador; con montura oversized rectangular de acetato color carey volcano, lentes degradadas color terracota y una ligera placa de metal que conecta con la bisagra
+- Material de la montura: Acetato; Color de la montura: Carey; Color de la varilla: Carey
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BG2WYQ9F{{</world>}}

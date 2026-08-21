@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre con cremallera
-- Diseño moderno
 - Con el monograma CK en la parte delantera
+- Diseño moderno
+- Cierre con cremallera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FDGZK6WB{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Si quieres que sea un poco más que un solo color
 - Visita la tienda Urban Classics: un clic en el enlace conduce a la marca Urban Classics y aún más elegante ropa de calle para hombres y mujeres
 - Corte regular
-- Si quieres que sea un poco más que un solo color
 - Té negro con rayas blancas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

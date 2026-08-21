@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Producto original Hawkers; la caja incluye funda en microfibra y caja
+- Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes de TR18 con el sello de Eastman, gran calidad óptica y resistencia; respetuoso con el medio ambiente; protección 100% UV; Color de la lente: Negro; Apariencia de la lente: Gradiente
 - Un sutil rediseño de 2021 de nuestro icónico diseño ONE; fabricadas con acetato de alta calidad en estampado habana oscuro, combinan frontal grueso y elegante con lentes ahumadas degradadas en color negro
 - Modelo Unisex; Medidas: Frontal 144;3 mm, Varillas 145 mm, Puente 24 mm, Alto 48;4 mm
-- Producto original Hawkers; la caja incluye funda en microfibra y caja
 - Material de la montura: Acetato; Color de la montura: Carey; Color de la varilla: Carey
-- Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes de TR18 con el sello de Eastman, gran calidad óptica y resistencia; respetuoso con el medio ambiente; protección 100% UV; Color de la lente: Negro; Apariencia de la lente: Gradiente
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B097F18TBD{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Resistente al agua
-- Cierre de cremallera
 - Bolsillos delanteros con cremallera
+- Cierre de cremallera
+- Resistente al agua
 - Detalle acolchado, detalle de cremallera
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El color puede ser más claro o más oscuro debido a las diferentes pantallas de ordenador
-- Nuestras camisetas casuales están hechas de telas suaves de punto de alta calidad, que son suaves, elásticas y elásticas, flexibles y transpirables, cómodas de llevar
-- Casual de verano
 - Tejido ligero, fluido y suave. Cuando uses estas camisetas de verano sentirás que la tela es sedosa y agradable al tacto
 - Material ligero y ligeramente suave, antiarrugas y cómodo para llevar todo el día
-- Manga casquillo
 - Características: camisetas modernas para mujer, camisetas de manga corta, cuello redondo, camisas casuales
+- Manga casquillo
+- Nuestras camisetas casuales están hechas de telas suaves de punto de alta calidad, que son suaves, elásticas y elásticas, flexibles y transpirables, cómodas de llevar
+- El color puede ser más claro o más oscuro debido a las diferentes pantallas de ordenador
+- Casual de verano
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D9P35VPK{{</world>}}

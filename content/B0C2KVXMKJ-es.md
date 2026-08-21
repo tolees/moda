@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Clarks Detalles de la marca
-- Puntera cerrada
 - No es resistente al agua
+- Puntera cerrada
+- Clarks Detalles de la marca
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C2KVXMKJ{{</world>}}

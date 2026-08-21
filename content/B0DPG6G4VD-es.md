@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- __Marca:__ Etiqueta tejida Billabong recortada
 - Otras características: impresión gráfica en la parte delantera
 - Tela: tejido de punto de algodón [160 g/m2]
-- __Marca:__ Etiqueta tejida Billabong recortada
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DPG6G4VD{{</world>}}

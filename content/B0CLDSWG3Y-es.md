@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- HECHO CON LANA RECICLADA Este producto contiene lana reciclada; La lana reciclada reduce el consumo de recursos naturales y residuos textiles
 - Chaqueta de lana para hombre de la marca danesa JACK & JONES
+- HECHO CON LANA RECICLADA Este producto contiene lana reciclada; La lana reciclada reduce el consumo de recursos naturales y residuos textiles
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CLDSWG3Y{{</world>}}

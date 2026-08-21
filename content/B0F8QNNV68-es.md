@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- CONJUNTO NIÑO: Conjunto Chicco compuesto por pantalones cortos y camiseta sin mangas, ideal para una vestimenta casual y práctica para tu niño. Estas prendas Chicco son lavables a máquina, para una alta higiene
 - A LA MODA: Este conjunto está enriquecido con estampados de gráficas coloridas y a la moda. Está disponible en diferentes tallas. Verifica cuál es la más adecuada para tu pequeño, eligiendo entre las disponibles
+- CONJUNTO NIÑO: Conjunto Chicco compuesto por pantalones cortos y camiseta sin mangas, ideal para una vestimenta casual y práctica para tu niño. Estas prendas Chicco son lavables a máquina, para una alta higiene
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F8QNNV68{{</world>}}

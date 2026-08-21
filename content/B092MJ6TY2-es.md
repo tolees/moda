@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- AJUSTE CEÑIDO: Ajuste ceñido que abraza el cuerpo.
-- Camisetas para mujer.
-- TEJIDO DE ALGODÓN MODAL: Este tejido supersuave de punto elástico de algodón modal con elasticidad añadida ofrece comodidad y confort durante todo el día, a la vez que mantiene su forma para que la prenda te quede perfectamente entallada. El tejido que no querrás quitarte en todo el año.
 - Camiseta básica de tirantes de canalé: Esta versátil camiseta sin mangas es un básico en cualquier armario. Es perfecta para ponértela debajo de tu sudadera o cárdigan preferido. También puedes llevarla sola con unos vaqueros o pantalones cortos de lino para crear un estilo desenfadado y de diario. La silueta entallada aporta un aspecto ajustado y favorecedor.
 - Detalles: Cuenta con un escote redondo abierto, tirantes finos y costuras de doble aguja para una mayor durabilidad.
+- TEJIDO DE ALGODÓN MODAL: Este tejido supersuave de punto elástico de algodón modal con elasticidad añadida ofrece comodidad y confort durante todo el día, a la vez que mantiene su forma para que la prenda te quede perfectamente entallada. El tejido que no querrás quitarte en todo el año.
+- AJUSTE CEÑIDO: Ajuste ceñido que abraza el cuerpo.
+- Camisetas para mujer.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B092MJ6TY2{{</world>}}

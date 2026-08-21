@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- DETALLES: este conjunto incluye una camiseta de manga corta con botones frontales, cuello de camisa clásico y delicados ribetes en la apertura frontal y el cuello. Los pantalones cortos cuentan con una cintura elástica para un corte cómodo
 - COLABORACIÓN CON SOFIA GRAINGE: Estilos inspirados para ti y tus pequeños, creados en colaboración con Sofia Grainge
 - PIJAMA DE PERSONAJES: divertido pijama con sus personajes favoritos para dormir cómodamente
+- DETALLES: este conjunto incluye una camiseta de manga corta con botones frontales, cuello de camisa clásico y delicados ribetes en la apertura frontal y el cuello. Los pantalones cortos cuentan con una cintura elástica para un corte cómodo
 - CORTE HOLGADO: corte holgado en la cadera, el muslo y la pierna. Se ajusta por debajo de la cintura natural
 - PUNTO DE MEZCLA DE MODAL: la mezcla de elastano y modal proporciona una sensación suave y sedosa con elasticidad para mayor comodidad
 

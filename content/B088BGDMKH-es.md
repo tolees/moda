@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Bolsillos cargo, Bolsillo de seguridad con cierre de cremallera y con bolsillos detrás, Prácticos también por sus cierres de velcro y los bolsillos con malla.
 - Pantalones transpirables Capri con un diseño inspirado en la aventura y un duradero material de nailon Ripstop
-- Ajuste óptimo gracias al elástico en la cintura, al cinturón extraíble integrado y a la construcción de corte recto
-- Buena circulación de aire gracias a la construcción ventilada con control de humedad Omni-Wick, Protección solar Omni-Shade UPF 50
 - Contenido: 1x Columbia Hombre Pantalón Capri, Silver Ridge II, Color: Negro (BLACK), Talla: W34/L19, Art.: 1794911
+- Buena circulación de aire gracias a la construcción ventilada con control de humedad Omni-Wick, Protección solar Omni-Shade UPF 50
+- Ajuste óptimo gracias al elástico en la cintura, al cinturón extraíble integrado y a la construcción de corte recto
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B088BGDMKH{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 100 % poliamida
 - Chaqueta larga básica de nailon reciclado repelente al agua con una cintura interior ajustable para un ajuste personalizable
+- 100 % poliamida
 - Detallado con información técnica de la prenda impresa en la cara interior, un tirador de cremallera de goma de la marca y un parche de goma de la marca en la manga izquierda
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

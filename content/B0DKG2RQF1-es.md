@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Un clásico del armario: esta falda midi con cintura alta está diseñada para ajustarse con una abertura frontal
 - 94 % algodón, 4,5 % poliéster, 1,5 % elastano
+- Un clásico del armario: esta falda midi con cintura alta está diseñada para ajustarse con una abertura frontal
 - Hecha de una característica mezclilla elástica lavada en un índigo oscuro medio desteñido
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

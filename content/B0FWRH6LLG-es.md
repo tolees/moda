@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camiseta para mujer
-- Medidas en talla M de la UE aprox. Ancho inferior: 50,5 cm. Longitud delantera: 66 cm. Pecho: 48 cm. Longitud del brazo: 48 cm
-- Manga 3/4
 - Cuello barco
+- Camiseta para mujer
 - Versátil todoterreno en color liso
+- Manga 3/4
+- Medidas en talla M de la UE aprox. Ancho inferior: 50,5 cm. Longitud delantera: 66 cm. Pecho: 48 cm. Longitud del brazo: 48 cm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FWRH6LLG{{</world>}}

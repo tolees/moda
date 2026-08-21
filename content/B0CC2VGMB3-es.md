@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Aspecto y tacto clásicos
-- Clarks Sandals, Ezoria Mae, Navy Leather, 6,5 (Women)
-- Cojín suave
-- Alta calidad
 - Flexibles
+- Clarks Sandals, Ezoria Mae, Navy Leather, 6,5 (Women)
+- Alta calidad
+- Cojín suave
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CC2VGMB3{{</world>}}

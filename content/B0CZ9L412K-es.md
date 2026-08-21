@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- AEROREADY
 - 100% poliéster (reciclado)
-- Espacio para personalización
-- Corte ajustado
 - Cuello redondo de canalé
+- AEROREADY
+- Corte ajustado
+- Espacio para personalización
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CZ9L412K{{</world>}}

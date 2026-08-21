@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte recto
+- Cuello redondo acanalado
 - Logotipo del felino de PUMA estampado
 - Para uso diario o entrenamiento
-- Cuello redondo acanalado
+- Corte recto
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07D5SCDNW{{</world>}}

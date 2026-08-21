@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Jersey de punto, cuello redondo adornado con diamantes de imitación
 - Puños anchos
+- Jersey de punto, cuello redondo adornado con diamantes de imitación
 - Estándar
 
 [🛒 Visítala!!!]({{< param buyurl >}})

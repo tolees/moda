@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forro ligero y con capucha
 - Una sensación agradable y suave al tacto
+- Forro ligero y con capucha
 - Con cordón en la cintura
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

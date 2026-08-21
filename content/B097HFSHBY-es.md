@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Camiseta para hombre de la marca danesa JACK & JONES
 - Calidad elástica y suave
+- Manga larga
 - Durabilidad con material sostenible
 - Fabricado con algodón orgánico
-- Manga larga
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B097HFSHBY{{</world>}}

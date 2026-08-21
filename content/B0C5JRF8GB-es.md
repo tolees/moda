@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Mannschaft: default
-- Futter: default
-- Ausschnitt: default
-- Extras: default
 - Gattung: Socken
+- Mannschaft: default
+- Extras: default
+- Ausschnitt: default
+- Futter: default
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C5JRF8GB{{</world>}}

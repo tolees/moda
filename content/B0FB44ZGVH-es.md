@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suave y ligera
 - Realza los looks informales de la temporada cálida
+- Suave y ligera
 - Deportiva cómoda y amortiguada
 
 [🛒 Comprar!!!]({{< param buyurl >}})

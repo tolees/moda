@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- DETALLES: Ribete acanalado en el cuello, etiqueta estampada para mayor comodidad, resistentes costuras dobles y suave cinta de algodón jersey en la costura del cuello.
 - LARGO: La talla M mide 73,7 cm desde el lateral del cuello.
 - CAMISETA CLÁSICA: Esta camiseta básica de fondo de armario presenta un corte clásico, cuello redondo y mangas cortas.
 - AJUSTE CEÑIDO: Ajuste ceñido en hombros, pecho y cintura.
+- DETALLES: Ribete acanalado en el cuello, etiqueta estampada para mayor comodidad, resistentes costuras dobles y suave cinta de algodón jersey en la costura del cuello.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09NNZZ4M5{{</world>}}

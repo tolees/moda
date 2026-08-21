@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Perfecto para trajes elegantes y casuales
 - El diseño se completa con el cuello redondo y las mangas cortas
+- Perfecto para trajes elegantes y casuales
 - El suave jersey está fabricado en una silueta ancha y grande
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Algodón de manga corta de ajuste regular
 - Camiseta con logotipo impreso en el pecho
+- Algodón de manga corta de ajuste regular
 - 100 % algodón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Bandolera cubo pequeña de piel
 - 1 correa bandolera ajustable y extraíble 1 correa de hombro
+- 184 נ127 נ178 cm (largo נancho נalto)
 - Material interior: poliuretano
 - Detalle del interior: 1 bolsillo deslizante
-- 184 נ127 נ178 cm (largo נancho נalto)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D8L6TRSF{{</world>}}

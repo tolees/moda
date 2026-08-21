@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Plantilla extraíble
+- Zapatos ligeros
 - Cierre con cordones
 - Transpirable
-- Zapatos ligeros
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D6NF35T1{{</world>}}

@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Cintura media
 - Corte entallado
-- Composición del material: 53% viscosa Lenzing Ecovero, 29% algodón, 17% poliéster, 1% elastano
 - Vaqueros ajustados
+- Composición del material: 53% viscosa Lenzing Ecovero, 29% algodón, 17% poliéster, 1% elastano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B072LS3PK1{{</world>}}

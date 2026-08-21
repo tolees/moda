@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estampado Waterbased
 - Cremallera garaje
+- Estampado Waterbased
 - Cinta Chevron
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

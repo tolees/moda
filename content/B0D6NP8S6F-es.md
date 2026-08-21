@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Plantilla desmontable
 - Ligeras y flexibles
+- Plantilla desmontable
 - Ofrecen amortiguación y comodidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

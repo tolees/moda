@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Modelo Unisex; Gafas para niños entre 4 y 10 años; Medidas: Frontal 125 mm, Varillas 120 mm, Puente 14 mm, Alto 38 mm
-- Inspirado en la escena rave de finales de los 90, este modelo deportivo envolvente está especialmente diseñado y adaptado para los niños y niñas más inquietos, irreverentes y descarados; disponible en varios colores de monturas y lentes
 - Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes de policarbonato que proporcionan gran resistencia, para uso deportivo y niños; protección 100 % UV; Color de la lente: Negro; Apariencia de la lente: Sólida
 - Material de la montura: PC; Color de la montura: Azul; Color de la varilla: Azul
 - Producto original Hawkers; la caja incluye funda en microfibra y caja
+- Modelo Unisex; Gafas para niños entre 4 y 10 años; Medidas: Frontal 125 mm, Varillas 120 mm, Puente 14 mm, Alto 38 mm
+- Inspirado en la escena rave de finales de los 90, este modelo deportivo envolvente está especialmente diseñado y adaptado para los niños y niñas más inquietos, irreverentes y descarados; disponible en varios colores de monturas y lentes
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D45NCQ1K{{</world>}}

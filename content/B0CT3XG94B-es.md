@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Composición del material: 100% algodón
 - Corte entallado
 - Camiseta
-- Composición del material: 100% algodón
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CT3XG94B{{</world>}}

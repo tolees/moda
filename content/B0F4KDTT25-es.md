@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Puños y dobladillo de punto acanalado
 - Tejido de rizo de algodón puro
 - Bolsillo tipo canguro
-- Puños y dobladillo de punto acanalado
 - Cuello con capucha y cordón
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Buena relación calidad-precio
 - Capó con cordón ajustable, también en el dobladillo
+- Buena relación calidad-precio
 - Bolsos con cremalleras y forro de malla E.Dye
 
 [🛒 Aquí!!!]({{< param buyurl >}})

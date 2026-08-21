@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Capucha ajustable.
-- Bolsillo tipo canguro.
 - Cómodo acanalado en puños y dobladillo.
+- Bolsillo tipo canguro.
+- Capucha ajustable.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FCGRV4V9{{</world>}}

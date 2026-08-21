@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Corte relajado
-- __Ancho de pierna:__ 20 cm [7.9"]
 - __Longitud de la entrepierna:__ 68 cm [26.5"]
-- __Medidas de la rodilla:__ 22 cm [8.6"] de longitud
+- __Ancho de pierna:__ 20 cm [7.9"]
 - __Tejido:__ algodón reciclado/poliéster [276 g/m2]
+- __Medidas de la rodilla:__ 22 cm [8.6"] de longitud
+- Corte relajado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DPGFV3TZ{{</world>}}

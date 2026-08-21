@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 100% algodón
-- Camiseta regular de manga corta
 - Con un pequeño logotipo bordado en color de contraste
+- Camiseta regular de manga corta
+- 100% algodón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F57KYCG3{{</world>}}

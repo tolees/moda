@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- 100 % algodón
 - Algodón de manga corta ajustada
 - Camiseta con un gran logotipo en el pecho
-- 100 % algodón
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DQDML4YY{{</world>}}

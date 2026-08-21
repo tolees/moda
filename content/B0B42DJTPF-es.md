@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Modelo Femenino; Medidas: Frontal 149 mm, Varillas 145 mm, Puente 19 mm, Alto 57 mm
-- Gafas de sol polarizadas: Reduce los reflejos superficiales y la fatiga ocular proporcionando nitidez y contrastes superiores; Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes fabricadas en material bio tac polarizado; protección 100 % UV; Color de la lente: Negro; Apariencia de la lente: Sólida
-- Producto original Hawkers; la caja incluye funda en microfibra y caja
 - Gafas de sol total black con acabado brillante, lentes polarizadas y pins en los laterales para aportar a este modelo un toque distintivo; este diseño cuadrado oversized se inspira en el clásico look de diva que no quiere ser reconocida
 - Material de la montura: Acetato; Color de la montura: Negro; Color de la varilla: Negro
+- Producto original Hawkers; la caja incluye funda en microfibra y caja
+- Modelo Femenino; Medidas: Frontal 149 mm, Varillas 145 mm, Puente 19 mm, Alto 57 mm
+- Gafas de sol polarizadas: Reduce los reflejos superficiales y la fatiga ocular proporcionando nitidez y contrastes superiores; Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes fabricadas en material bio tac polarizado; protección 100 % UV; Color de la lente: Negro; Apariencia de la lente: Sólida
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B42DJTPF{{</world>}}

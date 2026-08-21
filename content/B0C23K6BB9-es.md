@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Produce un increíble efecto aumento natural de hasta una talla
 - Sujetador push up de algodón
+- Produce un increíble efecto aumento natural de hasta una talla
 - Con relleno y aro
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - SENCILLO E INFORMAL: La camiseta básica de algodón es supercómoda y perfecta para looks más informales. La bandera de Tommy Hilfiger en el pecho completa el estilo de la prenda.
-- CALIDAD DEMOSTRADA: Desde 1985, esta marca de diseñador lleva demostrando por todo el mundo la calidad y la ligereza mediante una gran variedad de diseños en los míticos colores azul oscuro, blanco y rojo.
 - DISEÑO PREMIUM: El estilo sencillo de este top es la base de cualquier conjunto. Esta moderna camiseta también es perfecta como regalo.
+- CALIDAD DEMOSTRADA: Desde 1985, esta marca de diseñador lleva demostrando por todo el mundo la calidad y la ligereza mediante una gran variedad de diseños en los míticos colores azul oscuro, blanco y rojo.
 - MATERIAL Y CUIDADO: Camiseta confeccionada en 50 % algodón regenerativo y 50 % algodón de la iniciativa Better Cotton. Se puede lavar a máquina.
 - AJUSTE PERFECTO: Esta camiseta de manga corta de algodón suave tiene un diseño informal y favorece tu figura.
 

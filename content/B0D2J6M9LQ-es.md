@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Camiseta para hombre 100 % poliéster reciclado (nuda)
 - MCFC Réplica de camiseta de casa, ropa, deportes de equipo, masculino/unisex, réplica del MCFC Matchday, RE:FIBRE, ropa para adultos, ropa con licencia de Teamsport
+- Camiseta para hombre 100 % poliéster reciclado (nuda)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D2J6M9LQ{{</world>}}

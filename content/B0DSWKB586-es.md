@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- AJUSTE PERFECTO: El diseño atemporal de este jersey regular fit de corte casual es muy favorecedor. Además, esta sudadera minimalista también es perfecta como regalo para personas de todas las edades.
-- MATERIAL Y CUIDADO: Sudadera de algodón regenerativo 100 %. Se puede lavar a máquina.
-- MODA URBANA REINTERPRETADA: Para acercar las populares prendas de los 90 a las nuevas generaciones, Tommy Jeans se inspira en los iconos del hip-hop de aquella época. Apostando por prendas de alta calidad y diseños modernos con mucho denim.
 - ICÓNICO Y ATEMPORAL: Este versátil jersey es supercómodo y se puede usar a diario o para cualquier momento de relax. Destaca el logotipo de Tommy Jeans en el pecho.
+- MATERIAL Y CUIDADO: Sudadera de algodón regenerativo 100 %. Se puede lavar a máquina.
+- AJUSTE PERFECTO: El diseño atemporal de este jersey regular fit de corte casual es muy favorecedor. Además, esta sudadera minimalista también es perfecta como regalo para personas de todas las edades.
+- MODA URBANA REINTERPRETADA: Para acercar las populares prendas de los 90 a las nuevas generaciones, Tommy Jeans se inspira en los iconos del hip-hop de aquella época. Apostando por prendas de alta calidad y diseños modernos con mucho denim.
 - ESTILO: Sudadera original de Tommy Jeans de diseño informal. Esta prenda informal y cómoda es especialmente popular gracias a su material de excelente calidad y su corte clásico.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Medio puño, acanalado
-- Bolsillo estilo canguro incorporado con entradas ribeteadas
 - Cintura acanalada
+- Medio puño, acanalado
 - Cremallera corta
+- Bolsillo estilo canguro incorporado con entradas ribeteadas
 - Cuello alzado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fitness -, Perfil: HOMBRE UNISEX, Material:, Color: Grey Heather/(Black)/White/(Bl
 - Calcetines Nike calcetines 3ppk value cotton crew smlx grey heather/(black)/white/(bl
+- Fitness -, Perfil: HOMBRE UNISEX, Material:, Color: Grey Heather/(Black)/White/(Bl
 - 3PPK VALUE COTTON CREW SMLX Negro S
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

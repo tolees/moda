@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Efecto amortiguador
 - Cierre de cordones
 - Correas internas
+- Efecto amortiguador
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CPQ6P2VG{{</world>}}

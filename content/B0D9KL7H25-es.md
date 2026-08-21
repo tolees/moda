@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ideal para montañismo en invierno, o para un estilo deportivo informal en la ciudad
-- Disponible en 2 colores
 - Chaqueta softshell con capucha justable, detalle en los cierres, contraste de color
 - Chaqueta SOFTSHEL, neopreno de Geographical Norway, hombre
+- Ideal para montañismo en invierno, o para un estilo deportivo informal en la ciudad
+- Disponible en 2 colores
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D9KL7H25{{</world>}}

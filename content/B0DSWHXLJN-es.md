@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Elástico cómodo
-- Cuello de pico
+- Manga corta
 - Una mirada original
 - Proporciona comodidad
-- Manga corta
+- Cuello de pico
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DSWHXLJN{{</world>}}

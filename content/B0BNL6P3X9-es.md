@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Paneles acolchados en la puntera y el talón
-- Largo clásico
-- Refuerzo en el arco plantar
 - Tres pares por paquete
+- Refuerzo en el arco plantar
+- Largo clásico
 - Costuras anatómicas en la puntera
 
 [🛒 Comprar!!!]({{< param buyurl >}})

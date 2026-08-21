@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Temporada: Todas las estaciones
-- Cómodo y práctico
 - Patrón: el diseño de la marca es visible
 - Código de vestimenta: informal
+- Temporada: Todas las estaciones
+- Cómodo y práctico
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BG38SFCQ{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Proporciona comodidad
-- Etiqueta de G-STAR en la parte trasera, hecha de un tejido de papel que imita a la piel
 - Una mirada original
+- Proporciona comodidad
 - Cinco bolsillos
+- Etiqueta de G-STAR en la parte trasera, hecha de un tejido de papel que imita a la piel
 - Bragueta de cremallera
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material exterior: Espuma
-- Composición: Sintético
-- Cierre: Sin cordones
 - Material de la suela: EVA
+- Material exterior: Espuma
+- Cierre: Sin cordones
+- Composición: Sintético
 - Tipo de tacón: Plano
 - Revestimiento: Sin forro
 

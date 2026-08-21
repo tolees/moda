@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Esta fabricada en 100% poliéster
-- Mantiene la piel fresca y seca
 - Con DRY MX, una tecnología capaz de controlar la humedad corporal
+- Mantiene la piel fresca y seca
+- Esta fabricada en 100% poliéster
 - Combina un diseño de cuello redondo con manga corta
 
 [🛒 Visítala!!!]({{< param buyurl >}})

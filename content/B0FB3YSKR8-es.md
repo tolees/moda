@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Destaca por su ajuste sencillo y rápido sin necesidad de usar las manos
 - Zapatilla deportiva
+- Destaca por su ajuste sencillo y rápido sin necesidad de usar las manos
 - Flexible y dinámica
 
 [🛒 Aquí!!!]({{< param buyurl >}})

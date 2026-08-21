@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- D.Franklin - Gafas de sol unisex con cristales de protección UV - Modelo infinity
-- La colección Infinity tiene su propia definición. Un modelo de gafas de sol rectangulares que destaca por los detalles infinitos de su montura y marco superior. Las gafas de sol Infinity Black / Black afianzan un estilo innovador. Acabadas totalmente en negro, son perfectas para combinar en cualquier ocasión
 - [Gafas de Sol D.Franklin] Lentes de policarbonato resistentes a impactos Protección ultravioleta, UV 400 cat. 3 Montura rectangular en TR90
+- La colección Infinity tiene su propia definición. Un modelo de gafas de sol rectangulares que destaca por los detalles infinitos de su montura y marco superior. Las gafas de sol Infinity Black / Black afianzan un estilo innovador. Acabadas totalmente en negro, son perfectas para combinar en cualquier ocasión
 - Varillas de Cellulosa Propionate, un nuevo Composición que ofrece mayor resistencia y además es hipoalergénico. Incluye caja de cartón resistente, funda protectora de microfibra y adhesivos Logo metalizado en ambas varillas Modelo unisex Categoría 3 Protección UV 400 Frontal TR90 Puente TR90 Varillas Propionato de celulosa Lentes Policarbonato resistente Altura Lente 50mm Ancho Lente 140mm Ancho Frontal 144mm Largo Varilla 149mm.
+- D.Franklin - Gafas de sol unisex con cristales de protección UV - Modelo infinity
 - D. Franklin es una marca española referente para los amantes de la moda y los accesorios gracias a nuestro estilo único, calidad y compromiso medioambiental. Productos fabricados con materiales sostenibles y de alta calidad.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

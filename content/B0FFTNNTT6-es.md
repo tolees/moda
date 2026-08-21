@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño de ajuste regular: Diseñado para la comodidad y una silueta moderna.
-- Estilo icónico: Camiseta básica de cuello redondo con mangas cortas y gran logotipo clásico en el frente, de calidad básica de jersey
 - Múltiples tallas y largos de pierna: Disponible en tallas XS-XL y largos de pierna para un ajuste a medida.
-- Colección SS27MC: Parte de la colección.
 - Estilo icónico: Camiseta básica de cuello redondo con mangas cortas y gran logotipo clásico en el frente, de calidad básica de jersey
+- Estilo icónico: Camiseta básica de cuello redondo con mangas cortas y gran logotipo clásico en el frente, de calidad básica de jersey
+- Colección SS27MC: Parte de la colección.
+- Diseño de ajuste regular: Diseñado para la comodidad y una silueta moderna.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FFTNNTT6{{</world>}}

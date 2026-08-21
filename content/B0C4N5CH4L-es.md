@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Característica: cuello de pie, cierre de cremallera, dobladillo y puños acanalados.
-- Se puede lavar a máquina, lavar en seco, sin blanquear, planchar a 150 grados y colgar para secar. Además, como las prendas deben plancharse y coserse antes de salir de fábrica, es necesario volver a coser los bolsillos. Por tanto, es necesario cortar las costuras del bolsillo al recibir la prenda. Lavar antes de usar, luego lavar por separado
 - Chaqueta de punto grueso con cremallera completa y cuello alto para hombre
+- Se puede lavar a máquina, lavar en seco, sin blanquear, planchar a 150 grados y colgar para secar. Además, como las prendas deben plancharse y coserse antes de salir de fábrica, es necesario volver a coser los bolsillos. Por tanto, es necesario cortar las costuras del bolsillo al recibir la prenda. Lavar antes de usar, luego lavar por separado
+- Característica: cuello de pie, cierre de cremallera, dobladillo y puños acanalados.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C4N5CH4L{{</world>}}

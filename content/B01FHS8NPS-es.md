@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- top made of organic cotton
 - single-colored basic top
+- top made of organic cotton
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01FHS8NPS{{</world>}}

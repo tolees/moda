@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- RELAXED FIT: Camisa con corte holgado y cómodo.
 - LEVIS: Desde 1873, Levis es sinónimo de originalidad, saber hacer y calidad duradera. La marca combina tradición e innovación. Levis Tab puede variar en su diseño: todos los productos con Tab son originales, independientemente de logotipo o color.
 - DISEÑO VAQUERO AUTÉNTICO: La camisa vaquera Harlie Boyfriend Shirt de mujer representa el auténtico estilo Levi’s. Gracias a su tapeta de botones continua, su cuello francés clásico y su bolsillo en el pecho combina funcionalidad con un diseño que perdura generación tras generación.
 - DENIM DE ALGODÓN 100 %: Prenda confeccionada en resistente denim de algodón 100 %. El tejido es resistente, mantiene la forma y gana carácter con el uso.
 - VERSÁTIL: Fácil de combinar con una camiseta o abotonada con vaqueros o pantalones de tela. Esta camisa vaquera de corte holgado se adapta a distintos estilos y se puede usar todos los días o en ocasiones especiales.
+- RELAXED FIT: Camisa con corte holgado y cómodo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DPQTQ6M1{{</world>}}

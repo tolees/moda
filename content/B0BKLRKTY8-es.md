@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Mentonera anti-rozaduras
 - Construcción híbrida de tejido Micro Fleece
-- Bolsillo en el pecho con cremallera YKK
-- Polartec
 - Bolsillos para las manos con cremallera YKK
+- Polartec
+- Bolsillo en el pecho con cremallera YKK
+- Mentonera anti-rozaduras
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BKLRKTY8{{</world>}}

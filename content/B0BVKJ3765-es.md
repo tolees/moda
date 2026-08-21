@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Color de lente: Negro, marrón y verde antirreflectante
 - Forma: NAVEGADOR
-- Color: Negro y dorado
+- Color de lente: Negro, marrón y verde antirreflectante
 - Talla: 63
+- Color: Negro y dorado
 - Material: Metal
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ajuste estándar desde el trasero hasta el muslo
 - Diseño de cinco bolsillos
+- Ajuste estándar desde el trasero hasta el muslo
 - Este producto es original Levis
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Fit: Straight
+- Bolsillos delanteros
 - Color: Liso
 - Manga: Larga
-- Bolsillos delanteros
 - Desigual
 - Cuello: de Camisa
 

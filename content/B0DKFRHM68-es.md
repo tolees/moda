@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Camiseta de manga corta relajada
 - Jersey individual a rayas con parche frontal
 - 100% algodón
+- Camiseta de manga corta relajada
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DKFRHM68{{</world>}}

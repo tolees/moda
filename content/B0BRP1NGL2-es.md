@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Manga: manga larga (L/S)
-- Mangas: en las mangas
-- Tipo de detalle: sudaderas
-- Ajuste: ajuste relajado
 - Forro: tejido interior de la capucha
+- Ajuste: ajuste relajado
+- Manga: manga larga (L/S)
+- Tipo de detalle: sudaderas
 - Cuello: cuello alto
+- Mangas: en las mangas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BRP1NGL2{{</world>}}

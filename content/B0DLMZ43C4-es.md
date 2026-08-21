@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Nota -- Contenido del paquete: pack de 3 camisetas. Debido a la naturaleza de la tela, puede haber encogimiento, decoloración. Por favor, tenga en cuenta que antes de realizar el pedido, revise la tabla de tallas que proporcionamos
 - Ajuste: estas camisetas básicas y casuales de manga corta combinan bien con pantalones de traje, pantalones casuales, chinos y jeans, se pueden llevar como capa interior, para un look casual diario o formal
+- Nota -- Contenido del paquete: pack de 3 camisetas. Debido a la naturaleza de la tela, puede haber encogimiento, decoloración. Por favor, tenga en cuenta que antes de realizar el pedido, revise la tabla de tallas que proporcionamos
+- Tela -- Estas camisas Henley están hechas de poliéster, algodón y elastano, básicas, transpirables y con un tacto suave, para que siempre te sientas cómodo
 - Diseño: camiseta de cuello Henley, manga corta, cuello redondo, un bolsillo en el pecho, cierre de 3 botones, color sólido, estilo clásico
 - Ocasión: En cualquier otra época del año, la camiseta también se puede llevar. Primavera, otoño y verano, estilo de moda, trabajo formal, negocios, uso diario, playa y boda, fiesta, vacaciones, deporte, etc
-- Tela -- Estas camisas Henley están hechas de poliéster, algodón y elastano, básicas, transpirables y con un tacto suave, para que siempre te sientas cómodo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DLMZ43C4{{</world>}}

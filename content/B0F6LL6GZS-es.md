@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Características: camiseta básica de cuello redondo para niña, diseño de hombro con caída que añade una sensación informal, ajuste holgado, color sólido nunca pasa de moda, se puede combinar con cualquier atuendo.
-- Material: La camiseta de manga corta para niñas está hecha de suave mezcla de algodón, ligera y transpirable, sensación suave, cómoda de llevar.
-- Fácil de combinar: La blusa holgada para niñas se puede combinar fácilmente con jeans, pantalones cortos, pantalones, faldas y más. También se puede combinar con cualquier chaqueta o cárdigan, perfecto para trajes de primavera, verano y otoño.
 - Cuidado de la prenda y advertencia: Lavar a máquina en agua fría o a mano, tender o secar al aire, no usar blanqueador, no limpiar en seco, fácil de cuidar. El color blanco puede ser un poco transparente. Por favor, consulta la tabla de tallas para elegir la talla que más te convenga antes de hacer el pedido.
+- Fácil de combinar: La blusa holgada para niñas se puede combinar fácilmente con jeans, pantalones cortos, pantalones, faldas y más. También se puede combinar con cualquier chaqueta o cárdigan, perfecto para trajes de primavera, verano y otoño.
+- Material: La camiseta de manga corta para niñas está hecha de suave mezcla de algodón, ligera y transpirable, sensación suave, cómoda de llevar.
+- Características: camiseta básica de cuello redondo para niña, diseño de hombro con caída que añade una sensación informal, ajuste holgado, color sólido nunca pasa de moda, se puede combinar con cualquier atuendo.
 - Ocasión: Esta camiseta clásica y atemporal se puede llevar de manera casual en cualquier ocasión. Adecuado para uso diario, escuela, correr, deportes, senderismo, ciclismo, interior, exterior, vacaciones, etc. También es un gran regalo para cumpleaños y fiestas.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

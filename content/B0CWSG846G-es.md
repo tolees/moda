@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Composición: 92% poliamida, 8% elastano
-- ONLY PLAY es un moderno y funcional interno
 - Un cómodo sujetador deportivo ofrece soporte y movimiento
+- ONLY PLAY es un moderno y funcional interno
 - Sujetador deportivo
+- Composición: 92% poliamida, 8% elastano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CWSG846G{{</world>}}

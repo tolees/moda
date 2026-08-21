@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Diseño Versátil y Moderno: Camiseta de verano sin mangas, con cuello redondo, espalda deportiva (racerback), corte relajado y estilo acanalado. Su diseño clásico de color sólido la convierte en una camiseta básica mujer perfecta para cualquier ocasión.
 - Ideal para Múltiples Ocasiones: Perfecto para actividades diarias, trabajo, casa, playa, compras o vacaciones. También es una excelente opción como ropa deportiva mujer para yoga, gimnasio, running o cualquier tipo de entrenamiento.
-- Tejido Suave y Transpirable: Confeccionado con 92% algodón y 8% spandex, este top sin mangas para mujer ofrece una sensación suave, elástica y cómoda. Ideal para el verano gracias a su excelente transpirabilidad.
 - Fácil de Combinar: Este top casual mujer combina perfectamente con shorts, pantalones de yoga, faldas, jeans o leggins. Agrega una chaqueta o blazer para un look más elegante. Ideal para estilos deportivos o urbanos.
+- Tejido Suave y Transpirable: Confeccionado con 92% algodón y 8% spandex, este top sin mangas para mujer ofrece una sensación suave, elástica y cómoda. Ideal para el verano gracias a su excelente transpirabilidad.
 - Cuidado Fácil: Lavar a mano o en máquina con agua fría en ciclo delicado. No usar lejía ni planchar. Secar al aire. Un esencial de verano que no puede faltar en tu armario para mantenerte fresca y con estilo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

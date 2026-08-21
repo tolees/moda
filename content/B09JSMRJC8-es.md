@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Camisa para hombre en tallas grandes de la marca danesa JACK & JONES Plus
-- Manga larga
-- JACK & JONES apoya la iniciativa Better Cotton usando algodón orgánico o reciclado
 - Fabricado con algodón orgánico
+- JACK & JONES apoya la iniciativa Better Cotton usando algodón orgánico o reciclado
+- Manga larga
 - Durabilidad con material sostenible
 
 [🛒 Aquí!!!]({{< param buyurl >}})

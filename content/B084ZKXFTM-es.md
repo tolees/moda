@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Moda mujer moda mezclando ropa
-- Cómodo y práctico
 - Jersey de cuello alto
 - Elegantes y originales
+- Moda mujer moda mezclando ropa
+- Cómodo y práctico
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B084ZKXFTM{{</world>}}

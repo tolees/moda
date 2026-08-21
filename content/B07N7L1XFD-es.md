@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Training
 - Ropa deportiva Nike
-- Camiseta Tiempo libre y sportwear Hombre
 - M Nsw Tee Icon Futura (Ar5004-010)
+- Camiseta Tiempo libre y sportwear Hombre
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07N7L1XFD{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuidado fácil: lavar a máquina estos pantalones en frío con colores similares para un fácil cuidado que reduce la energía.
 - El ajuste: pantalones de descanso para mujer de ajuste estándar con entrepierna de 31.5 pulgadas.
+- Cuidado fácil: lavar a máquina estos pantalones en frío con colores similares para un fácil cuidado que reduce la energía.
 - Sensación: cómoda mezcla de algodón o algodón de 5.5 onzas que se siente muy bien en la piel.
 - Comodidad añadida: estos pantalones para mujer tienen un cordón que se ajusta para un ajuste personalizado.
 

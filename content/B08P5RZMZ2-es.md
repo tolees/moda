@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Gorilla Wear, La marca de culturismo, fitness, estilo de vida y artes marciales
-- Sudadera funcional y ligera para ayudar a tus máximos rendimientos.
 - Instrucciones de cuidado: lavar a 30 °C, lavado normal, no usar lejía, no secar en secadora, no planchar en caliente (110 °C), precaución al planchar con vapor, no lavar en seco
+- Sudadera funcional y ligera para ayudar a tus máximos rendimientos.
+- Gorilla Wear, La marca de culturismo, fitness, estilo de vida y artes marciales
 - Color: gris
 - Ajuste (corte): ajuste ajustado (ajustado)
 

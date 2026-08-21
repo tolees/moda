@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bordado de G-Star RAW en el pecho
 - Etiqueta informativa en la parte inferior delantera, quita las puntadas para retirarla
 - Puños y cintura acanalados
-- Estructura de punto encima de los puños y de la cintura
+- Bordado de G-Star RAW en el pecho
 - Falso cuello vuelto acanalado
+- Estructura de punto encima de los puños y de la cintura
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D1XZQLB7{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Chaqueta de plumón para mujer, con cremallera y cuello alto con capucha
 - Impermeable, bolsillos laterales
+- Chaqueta de plumón para mujer, con cremallera y cuello alto con capucha
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08RCB61PY{{</world>}}

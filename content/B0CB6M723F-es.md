@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Los accesorios multiplican las posibilidades de narración de historias: la muñeca viene con una mochila, un cepillo para el pelaje salvaje, una agenda, una botella de agua, un sándwich, un aperitivo y unas gafas.
-- Echa un vistazo a toda la colección de muñecas y conjuntos de juego Monster High para divertirte aún más con la moda y vivir miles de aventuras terroríficas. Se venden por separado y están sujetos a disponibilidad.
 - Su gatita mascota Crescent, tan terrorífica como adorable, también presume de estilo con un collar dorado de una luna. Los niños y las niñas podrán imaginarse todas las aventuras que quieran con esta mascota tan adorable como aterradora.
 - Clawdeen Wolf marca tendencia con su chaqueta de piel sintética y unos pantalones de corte capri con estampado de leopardo. Un collar, un cinturón y unas botas de plataforma completan su look.
+- Los accesorios multiplican las posibilidades de narración de historias: la muñeca viene con una mochila, un cepillo para el pelaje salvaje, una agenda, una botella de agua, un sándwich, un aperitivo y unas gafas.
+- Echa un vistazo a toda la colección de muñecas y conjuntos de juego Monster High para divertirte aún más con la moda y vivir miles de aventuras terroríficas. Se venden por separado y están sujetos a disponibilidad.
 - El atuendo elegante y aterrador de la muñeca Clawdeen Wolf, de Monster High, le da un aspecto fabuloso. Viene con su mascota Crescent y varios accesorios que te harán aullar de la emoción.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

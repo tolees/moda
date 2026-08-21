@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pijama Largo
 - Mix And Match Cosmic Collection
+- Pijama Largo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FJ1R4CXQ{{</world>}}

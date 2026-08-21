@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Lavado a máquina
 - Corte clásico
 - Logo con tipografía grande en el pecho
+- Lavado a máquina
 - 100% original, lonsdale
 - 60% algodón, 40% poliéster
 

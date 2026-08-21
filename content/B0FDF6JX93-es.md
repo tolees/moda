@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- SENCILLO E INFORMAL: La camiseta básica con escote redondo destaca por su agradable algodón y es perfecta para looks más informales. Los detalles distintivos de Tommy Jeans en el pecho completan el diseño.
-- MODA URBANA REINTERPRETADA: Para acercar las populares prendas de los 90 a las nuevas generaciones, Tommy Jeans se inspira en los iconos del hip-hop de aquella época. Apostando por prendas de alta calidad y diseños modernos con mucho denim.
-- MATERIAL Y CUIDADO: Camiseta de algodón 100 %. Se puede lavar a máquina.
-- PARA CUALQUIER OCASIÓN: Esta prenda minimalista sienta superbién y convence por su gran comodidad. Ya sea con vaqueros, shorts o pantalones elegantes, combina a la perfección con cualquier look todos los días.
 - AJUSTE PERFECTO: Esta camiseta de manga corta de algodón puro tiene un diseño minimalista y favorece tu figura.
+- SENCILLO E INFORMAL: La camiseta básica con escote redondo destaca por su agradable algodón y es perfecta para looks más informales. Los detalles distintivos de Tommy Jeans en el pecho completan el diseño.
+- PARA CUALQUIER OCASIÓN: Esta prenda minimalista sienta superbién y convence por su gran comodidad. Ya sea con vaqueros, shorts o pantalones elegantes, combina a la perfección con cualquier look todos los días.
+- MATERIAL Y CUIDADO: Camiseta de algodón 100 %. Se puede lavar a máquina.
+- MODA URBANA REINTERPRETADA: Para acercar las populares prendas de los 90 a las nuevas generaciones, Tommy Jeans se inspira en los iconos del hip-hop de aquella época. Apostando por prendas de alta calidad y diseños modernos con mucho denim.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FDF6JX93{{</world>}}

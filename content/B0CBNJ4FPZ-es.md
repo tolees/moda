@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cintura: cintura baja
 - Cierre: bragueta con cierre de botones
+- Cintura: cintura baja
 - Composición: 68% algodón, 30% poliéster, 2% elastano
 - Tipo de producto: vaqueros ajustados
 

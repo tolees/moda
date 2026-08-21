@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - DETALLES: cuello camisero clásico, cierre con botones en la parte delantera, manga larga con puños que se pueden enrollar hacia atrás para un look casual. Dobladillo redondeado, bolsillo en el pecho y canesú trasero con plisado que proporciona una sensación relajada y holgada
 - CAMISAS DE USO DIARIO: esta camisa de franela increíblemente suave se convertirá en la camisa más cómoda y versátil de tu armario. Perfecta para usarla debajo de otra prenda o sola. Combínala con tu par de vaqueros favoritos para un look casual y relajado
-- FRANELA CEPILLADA: esta franela de algodón de peso medio cuenta con un acabado cepillado supersuave que proporciona la máxima sensación de comodidad
 - CORTE ESTÁNDAR: corte ajustado pero cómodo con fácil movimiento
+- FRANELA CEPILLADA: esta franela de algodón de peso medio cuenta con un acabado cepillado supersuave que proporciona la máxima sensación de comodidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08WQVDT9Q{{</world>}}

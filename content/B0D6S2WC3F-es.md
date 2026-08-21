@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes de TR18 con el sello de Eastman, gran calidad óptica y resistencia; respetuoso con el medio ambiente; protección 100% UV; Color de la lente: Azul; Apariencia de la lente: Gradiente
 - Modelo Unisex; Medidas: Frontal 143 mm, Varillas 145 mm, Puente 21 mm, Alto 49 mm
+- Actualizamos nuestro icónico modelo Minimal con una nueva montura ligeramente más grande y de ajuste más cómodo; con un diseño geométrico nostálgico y un juego de volúmenes con bisel de relieve en el frontal, este modelo es un must para un look retro racer; disponible en varios colores de monturas y lentes
 - Producto original Hawkers; la caja incluye funda en microfibra y caja
 - Material de la montura: TR90; Color de la montura: Azul; Color de la varilla: Azul
-- Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes de TR18 con el sello de Eastman, gran calidad óptica y resistencia; respetuoso con el medio ambiente; protección 100% UV; Color de la lente: Azul; Apariencia de la lente: Gradiente
-- Actualizamos nuestro icónico modelo Minimal con una nueva montura ligeramente más grande y de ajuste más cómodo; con un diseño geométrico nostálgico y un juego de volúmenes con bisel de relieve en el frontal, este modelo es un must para un look retro racer; disponible en varios colores de monturas y lentes
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D6S2WC3F{{</world>}}

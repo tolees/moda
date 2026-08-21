@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Tipo de fábrica: 100% Textile
 - Soft fabric
 - 3 pair pack
-- Tipo de fábrica: 100% Textile
 - Ribbed hems
 
 [🛒 Comprar!!!]({{< param buyurl >}})

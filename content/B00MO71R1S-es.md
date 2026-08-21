@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Calcetines largos || Longitud: || altura de la cintura: normal
-- Básicos, Nu Goth, Ocasiones Especiales, Pastel Goth, Ropa de Calle, Steampunk
 - El regalo perfecto para el día de San Valentín
-- Calcetines hasta Rodilla con las siguientes características:
+- Calcetines largos || Longitud: || altura de la cintura: normal
 - Ajuste : Regular
+- Calcetines hasta Rodilla con las siguientes características:
+- Básicos, Nu Goth, Ocasiones Especiales, Pastel Goth, Ropa de Calle, Steampunk
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00MO71R1S{{</world>}}

@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- DETALLES: camisa con botones en la parte delantera, cuello con muesca y un solo bolsillo de parche. Cintura elástica con cordón ajustable para mayor comodidad, cierre con botones y bolsillos laterales para guardar tus objetos personales
 - CONJUNTO DE PIJAMA DE POPELINA DE ALGODÓN: nuestros conjuntos de pijama proporcionan un sueño cómodo y fresco
+- CERTIFICADO DE OEKO-TEX: Certificado STANDARD 100 de OEKO-TEX que exige que los productos textiles se prueben con más de 1000 productos químicos con el fin de limitar aquellos que puedan ser perjudiciales para la salud humana
 - CORTE HOLGADO: Parte de arriba: corte holgado en los hombros, el pecho y la cintura. Parte de abajo: ajuste holgado en la cadera, el muslo y la abertura de la pierna. Se ajusta por debajo de la cintura natural
 - POPELINA DE ALGODÓN SUAVE Y ELÁSTICA: la popelina de algodón ligera y suave con una sutil proporciona la máxima comodidad y transpirabilidad mientras duermes
 - MEDIDAS DE LA PRENDA: longitud de la parte superior de 72,1cm desde el lado del cuello y entrepierna de 22,9cm en la talla M de España
-- CERTIFICADO DE OEKO-TEX: Certificado STANDARD 100 de OEKO-TEX que exige que los productos textiles se prueben con más de 1000 productos químicos con el fin de limitar aquellos que puedan ser perjudiciales para la salud humana
-- DETALLES: camisa con botones en la parte delantera, cuello con muesca y un solo bolsillo de parche. Cintura elástica con cordón ajustable para mayor comodidad, cierre con botones y bolsillos laterales para guardar tus objetos personales
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FHPR9SG8{{</world>}}

@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Placa de metal
 - Costura exterior
-- Exterior de piel sintética con interior de poliéster
-- Diseño plegable en 3 capas
 - Ranura interna para tarjetas y solapa de identificación
+- Diseño plegable en 3 capas
+- Exterior de piel sintética con interior de poliéster
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08RLB2J7M{{</world>}}

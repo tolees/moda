@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello redondo con logotipo impreso en el pecho
 - Camiseta casual de manga corta
+- Cuello redondo con logotipo impreso en el pecho
 - 100% algodón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

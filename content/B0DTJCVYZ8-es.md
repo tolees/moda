@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Arte impreso grande en el pecho
 - Sudadera de cuello redondo en tela cepillada de mezcla de algodón y poliéster
+- Arte impreso grande en el pecho
 - 70 % algodón, 30 % poliéster
 
 [🛒 Aquí!!!]({{< param buyurl >}})

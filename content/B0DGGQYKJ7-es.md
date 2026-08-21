@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- GAFAS DE SOL MASK
 - DETALLE DEL LOGOTIPO DE LA BANDERA
+- GAFAS DE SOL MASK
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DGGQYKJ7{{</world>}}

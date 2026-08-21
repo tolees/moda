@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estilo de tiro medio
 - Fabricado con al menos un 50% de algodón sostenible
 - Corte recto
+- Estilo de tiro medio
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CSPFNWKF{{</world>}}

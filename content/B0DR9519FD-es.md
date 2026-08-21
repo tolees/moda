@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Prenda de vestimenta
 - Tiene detalles distintivos de la marca "NIKE"
 - Para uso diario
-- Prenda de vestimenta
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DR9519FD{{</world>}}

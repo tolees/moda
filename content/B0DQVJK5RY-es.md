@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño súper confort con cortes modernos y detalles sensuales
 - Sujetador clásico PRETTY , en tejido de microfibra con detalle de chapita con logo "WS" en el pecho
+- Diseño súper confort con cortes modernos y detalles sensuales
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DQVJK5RY{{</world>}}

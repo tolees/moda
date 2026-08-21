@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Puente nariz y patillas suaves extra-suevas
-- Acabado reflectante litemirror, con antirreflejos y filtro i-r
 - Protección 100% contra rayos uv
+- Acabado reflectante litemirror, con antirreflejos y filtro i-r
+- Puente nariz y patillas suaves extra-suevas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07GRQL312{{</world>}}

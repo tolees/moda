@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Instrucciones de cuidado: lavable a máquina
 - Composición: 100% algodón
 - Ajuste: corte regular
+- Instrucciones de cuidado: lavable a máquina
 - Chaqueta forrada
 - Chaqueta Sherpa
 

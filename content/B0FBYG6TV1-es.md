@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cintura elástica con cordón ajustable
 - Tejido ligero de secado rápido para actividades acuáticas
+- Cintura elástica con cordón ajustable
 - Prácticos bolsillos laterales
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

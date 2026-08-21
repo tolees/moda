@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Deportiva baja, ligera y transpirable
 - Con un diseño moderno inspirado en el running
+- Deportiva baja, ligera y transpirable
 - Suela amortiguada que proporciona el máximo confort
 
 [🛒 Visítala!!!]({{< param buyurl >}})

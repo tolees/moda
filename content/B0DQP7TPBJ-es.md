@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre joya - Cierre langosta
-- Color de la joyería de plata
-- Tipo de joyería - Collar
 - Material de joyería: acero inoxidable
+- Cierre joya - Cierre langosta
+- Tipo de joyería - Collar
+- Color de la joyería de plata
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DQP7TPBJ{{</world>}}

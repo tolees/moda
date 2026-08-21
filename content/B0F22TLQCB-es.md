@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Lona con logotipo impreso y ribete de piel.
 - Diseño versátil para uso diario.
+- Lona con logotipo impreso y ribete de piel.
 - Interior espacioso con correas de hombro ajustables.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

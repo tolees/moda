@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Estampado en el centro de la espalda
 - Alta calidad
 - Logotipo de The North Face impreso en la parte delantera del pecho
+- Estampado en el centro de la espalda
 - Cuello, puños y canalé inferior
 
 [🛒 Comprar!!!]({{< param buyurl >}})

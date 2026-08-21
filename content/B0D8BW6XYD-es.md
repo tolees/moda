@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forro interior de malla
 - Chaqueta con cierre de cremallera
 - Estilo informal
+- Forro interior de malla
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D8BW6XYD{{</world>}}

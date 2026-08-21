@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - IMEVA: material de PUMA para una sensación cómoda y ligera
-- Tipo chancla
 - Tira acolchada de piel sintética
+- Tipo chancla
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B097C7KV1X{{</world>}}

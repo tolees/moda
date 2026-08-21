@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Manga corta cuello redondo
 - Tejido de máxima suavidad e interior afelpado, que proporciona un calor extra a la prenda
+- Manga corta cuello redondo
 - Las agujas son retiradas para lograr un pequeño dibujo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Logotipo
 - Alto porcentaje de algodón
 - Reg Archive Shield - Camiseta para mujer
+- Logotipo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CRL7BZ2D{{</world>}}

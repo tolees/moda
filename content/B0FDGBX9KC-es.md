@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Acabado texturizado
-- Detalles distintivos de Tommy Hilfiger
 - Hebilla metálica rectangular
+- Detalles distintivos de Tommy Hilfiger
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FDGBX9KC{{</world>}}

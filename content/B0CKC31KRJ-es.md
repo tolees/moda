@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bajo recto
 - Una mirada original
-- Estampado gráfico en la parte delantera
-- Proporciona comodidad
 - Cuello acanalado
+- Estampado gráfico en la parte delantera
+- Bajo recto
+- Proporciona comodidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CKC31KRJ{{</world>}}

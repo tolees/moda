@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello redondo con textura especial de punto
 - Puños y dobladillo inferiores estrechos; etiqueta de marca en la manga
+- Cuello redondo con textura especial de punto
 - 100% algodón
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- COMODIDAD: Las sandalias para playa y piscina Chicco son flexibles, ligeras y prácticas
 - SANDALIAS NIÑA: Sandalias Chicco, con cómodo cierre de correa, ideales para la playa y la piscina
+- COMODIDAD: Las sandalias para playa y piscina Chicco son flexibles, ligeras y prácticas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CB674NRH{{</world>}}

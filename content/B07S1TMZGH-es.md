@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Short-sleeved tee with o-neck
 - Cotton fabric for a soft and comfortable wear
+- Short-sleeved tee with o-neck
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07S1TMZGH{{</world>}}

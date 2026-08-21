@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Plantilla extraíble
 - Rápido y fácil de poner
 - Calzado con luces, interruptor de encendido o apagado
+- Plantilla extraíble
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D6NMNW95{{</world>}}

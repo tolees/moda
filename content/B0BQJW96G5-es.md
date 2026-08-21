@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Altura del talón: 18 mm
 - Zapatillas para mujeres
 - Suela de goma
+- Altura del talón: 18 mm
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BQJW96G5{{</world>}}

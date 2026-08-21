@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pack de 3 bodies para bebés de 0 a 18 meses. Son los padres, abuelos, hermanos y hermanas que dan el mejor regalo para el bebé.
 - Mamelucos para bebés con diseño clásico de cuello de solapa, técnicas de corte exquisitas, el body perfecto para el uso diario en general.
-- Mamelucos para bebés recién nacidos hechos de tela de algodón, suaves y transpirables, que tampoco dañan la piel.
-- Tenga en cuenta que debe consultar nuestra Tabla de tallas que se muestra en la imagen y la descripción antes de realizar un pedido, si no está seguro, no dude en contactarnos
 - Body de manga corta para bebé con diseño de cierre a presión, es fácil de poner y quitar y está convenientemente ubicado para cambiar fácilmente los pañales.
+- Mamelucos para bebés recién nacidos hechos de tela de algodón, suaves y transpirables, que tampoco dañan la piel.
+- Pack de 3 bodies para bebés de 0 a 18 meses. Son los padres, abuelos, hermanos y hermanas que dan el mejor regalo para el bebé.
+- Tenga en cuenta que debe consultar nuestra Tabla de tallas que se muestra en la imagen y la descripción antes de realizar un pedido, si no está seguro, no dude en contactarnos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08Z7QT3PG{{</world>}}

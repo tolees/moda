@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Una versión chunky de nuestra icónica montura ONE en acetato de alta calidad; el frontal superior y las patillas en negro pulido contrastan con el inferior del frontal y los terminales en carey; las lentes color terracota con efecto degradé completan el look
-- Modelo Unisex; Medidas: Frontal 144;3 mm, Varillas 145 mm, Puente 24 mm, Alto 48;4 mm
-- Material de la montura: Acetato; Color de la montura: Negro, Carey; Color de la varilla: Negro, Carey
-- Producto original Hawkers; la caja incluye funda en microfibra y caja
 - Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes de TR18 con el sello de Eastman, gran calidad óptica y resistencia; respetuoso con el medio ambiente; protección 100% UV; Color de la lente: Marrón; Apariencia de la lente: Gradiente
+- Modelo Unisex; Medidas: Frontal 144;3 mm, Varillas 145 mm, Puente 24 mm, Alto 48;4 mm
+- Producto original Hawkers; la caja incluye funda en microfibra y caja
+- Material de la montura: Acetato; Color de la montura: Negro, Carey; Color de la varilla: Negro, Carey
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B097DYRKXX{{</world>}}

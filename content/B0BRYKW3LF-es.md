@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Bolsillo y trabilla en el interior
+- Bolsillos con solapa en el pecho, bolsillos laterales con botón a presión oculto
 - Bajo recto con cordón ajustable en el interior
 - Manga larga con puños elásticos
-- Bolsillos con solapa en el pecho, bolsillos laterales con botón a presión oculto
 - Cuello alzado
-- Bolsillo y trabilla en el interior
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BRYKW3LF{{</world>}}

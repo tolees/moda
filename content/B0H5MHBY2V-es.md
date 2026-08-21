@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - SELLADAS PARA UNA MANIPULACIÓN SEGURA – Todas las gafas vienen selladas para ayudar a mantenerlas limpias, protegidas y fáciles de compartir antes del eclipse.
-- PATILLAS MÁS LARGAS PARA MAYOR COMODIDAD DIARIA – Las patillas alargadas ayudan a que las gafas se ajusten de forma más natural y cómoda, con una sensación más cercana a unas gafas convencionales.
 - ALTURA DE MONTURA MÁS GRANDE DE 45 mm – Una montura más grande ayuda a cubrir una mayor zona de los ojos, reduciendo la luz ambiental durante la observación solar.
-- SE PUEDEN USAR SOBRE LA MAYORÍA DE GAFAS DE VISTA – Diseñadas para usarse solas o sobre la mayoría de gafas de uso diario para una observación cómoda del eclipse.
+- PATILLAS MÁS LARGAS PARA MAYOR COMODIDAD DIARIA – Las patillas alargadas ayudan a que las gafas se ajusten de forma más natural y cómoda, con una sensación más cercana a unas gafas convencionales.
 - PROTECCIÓN OCULAR CERTIFICADA PARA ECLIPSE SOLAR – Cumple con altos estándares europeos de seguridad para la observación directa del sol, con pruebas EN ISO 12312-2:2015 y marcado CE.
+- SE PUEDEN USAR SOBRE LA MAYORÍA DE GAFAS DE VISTA – Diseñadas para usarse solas o sobre la mayoría de gafas de uso diario para una observación cómoda del eclipse.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0H5MHBY2V{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cómodo
-- Cuello con escote redondo abierto y FOIL Dorado y estampado en la parte delantera
 - Corte normal
-- Clásico
 - Punto jersey de algodón ligero
+- Clásico
+- Cuello con escote redondo abierto y FOIL Dorado y estampado en la parte delantera
+- Cómodo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0825PYHT4{{</world>}}

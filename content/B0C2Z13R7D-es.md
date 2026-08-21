@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Gafas de sol polarizadas: Reduce los reflejos superficiales y la fatiga ocular proporcionando nitidez y contrastes superiores; Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes fabricadas en material bio tac polarizado; protección 100 % UV; Color de la lente: Negro; Apariencia de la lente: Sólida
-- Modelo Unisex; Medidas: Frontal 144 mm, Varillas 145 mm, Puente 20 mm, Alto 52 mm
-- Diseño redondo total black estilo pantos, con montura de Tr90 en acabado brillo y pins frontales en forma de media H en ambos lados de su frontal con lentes negras polarizadas y puente en forma de ojo de cerradura
 - Producto original Hawkers; la caja incluye funda en microfibra y caja
+- Diseño redondo total black estilo pantos, con montura de Tr90 en acabado brillo y pins frontales en forma de media H en ambos lados de su frontal con lentes negras polarizadas y puente en forma de ojo de cerradura
 - Material de la montura: TR90; Color de la montura: Negro; Color de la varilla: Negro
+- Modelo Unisex; Medidas: Frontal 144 mm, Varillas 145 mm, Puente 20 mm, Alto 52 mm
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C2Z13R7D{{</world>}}

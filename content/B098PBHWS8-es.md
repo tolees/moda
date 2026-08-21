@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Para uso diario
 - Prenda de vestir
+- Para uso diario
 - Calzado deportivo informal
 
 [🛒 Aquí!!!]({{< param buyurl >}})

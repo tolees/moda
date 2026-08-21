@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tipo de estiramiento: no elástico
-- Ajuste: regular
 - Composición: 100% algodón
+- Ajuste: regular
 - Camisa vaquera
 - Instrucciones de cuidado: lavable a máquina
 

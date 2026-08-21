@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Composición: Compuesto
 - Ropa deportiva Nike
+- Composición: Compuesto
 - M nsw club tee (ar4997-133)
 - Camiseta Tiempo libre y sportwear Hombre
 

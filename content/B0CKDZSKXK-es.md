@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Este modelo ha obtenido el certificado vegano por la organización mundial PETA (Organización de los derechos de los animales)
-- Zapato de mujer tipo valenciana, de la marca Xti. Fabricada en suave antelina
 - Cuña de 8 cm forrada en yute con suela de goma antideslizante. Ideal para todos tus looks
+- Zapato de mujer tipo valenciana, de la marca Xti. Fabricada en suave antelina
 - [Nuestra Marca]: XTI se caracteriza por su moda urbana y funcional con calzado que combina las últimas tendencias con comodidad y versatilidad para un estilo de vida activo y moderno.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

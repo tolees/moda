@@ -28,14 +28,14 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Puños : Puños abotonados
 - Bolsillos : Bolsillos en la pechera
-- Corte : Corte relaxed
-- Modo de vida : Tradicional
-- Artículo : Camisa
 - Manga : Manga larga
-- Cierre : Cierre de botones
+- Artículo : Camisa
+- Corte : Corte relaxed
+- Puños : Puños abotonados
 - Cuello : Cuello de camisa
+- Modo de vida : Tradicional
+- Cierre : Cierre de botones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DQNBCC96{{</world>}}

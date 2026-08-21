@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Winner royal-marino
-- Resto textil
 - Sudaderas
+- Resto textil
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07FB15Y2J{{</world>}}

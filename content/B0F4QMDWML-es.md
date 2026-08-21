@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Dos bolsillos laterales abiertos
 - Detalles distintivos de Tommy Jeans
 - Cintura elástica con cordón
+- Dos bolsillos laterales abiertos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F4QMDWML{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre con cremallera superior
 - Asa superior
+- Cierre con cremallera superior
 - Correa de hombro de tela ajustable y extraíble
 
 [🛒 Aquí!!!]({{< param buyurl >}})

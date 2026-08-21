@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cintura alta
-- Corte holgado
-- algodón
 - Composición: 95% algodón, 5% algodón reciclado
+- Cintura alta
+- algodón
+- Corte holgado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DKJT1HLL{{</world>}}

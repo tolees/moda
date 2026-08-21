@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- JERSEY DE MEZCLA DE ALGODÓN Y MODAL: jersey de algodón y modal supersuave con elasticidad adicional para mayor comodidad durante todo el día
-- DETALLES: cuenta con un clásico cuello redondo y manga corta para un estilo casual y sin esfuerzo
 - CORTE ESTÁNDAR: corte ajustado pero cómodo con fácil movimiento
+- DETALLES: cuenta con un clásico cuello redondo y manga corta para un estilo casual y sin esfuerzo
 - CAMISETA IMPRESCINDIBLE: esta versátil camiseta es un imprescindible del armario, perfecta para ponértela debajo de tu chaqueta o cárdigan favorito, o para llevarla sola para un estilo informal
+- JERSEY DE MEZCLA DE ALGODÓN Y MODAL: jersey de algodón y modal supersuave con elasticidad adicional para mayor comodidad durante todo el día
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0775M3QXF{{</world>}}

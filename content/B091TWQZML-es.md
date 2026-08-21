@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Artículo : Chaqueta bomber
 - Bolsillos : Bolsillos delanteros
-- Cierre : Cierre de cremallera
+- Artículo : Chaqueta bomber
 - Detalles : Detalle de bloques de color, Detalle del logo
 - Manga : Manga larga
+- Cierre : Cierre de cremallera
 - Puños : Puños acanalados
 - Largo/talla : Corto
 - Cuello : Capucha

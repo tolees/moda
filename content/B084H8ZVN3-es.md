@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tiempo de carga de los auriculares: 1, 2 h; tiempo de carga 2 h.
 - 2 pilas de 40 mAh; batería de 300 mAh.
-- Tiempo de conversación de hasta 3,5 h; música hasta 4 h.
 - Soporta Bluetooth V 5. 0
+- Tiempo de carga de los auriculares: 1, 2 h; tiempo de carga 2 h.
+- Tiempo de conversación de hasta 3,5 h; música hasta 4 h.
 - Alcance: hasta 10 m.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

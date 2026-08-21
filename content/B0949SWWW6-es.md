@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- tejido interior: cuerpo con tejido interior de punto jersey
+- Corte: corte normal, clásico, cómodo
 - Serigrafía en parte delantera
 - Tejido: Tejido de mezcla de algodón y poliéster [280 g / m2]
-- Corte: corte normal, clásico, cómodo
-- tejido interior: cuerpo con tejido interior de punto jersey
 - Bolsillos: bolsillo amplio
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

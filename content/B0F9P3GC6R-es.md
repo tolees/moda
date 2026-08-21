@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Alta calidad
 - Tecnología Dri-FIT
+- Alta calidad
 - Cómodo
 - Sudadera
 

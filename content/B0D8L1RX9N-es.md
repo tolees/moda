@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Camiseta del equipo Washington Commanders de New Era | El accesorio perfecto para todos los fans de la NFL
 - Fabricada con material de alta calidad y duradero
+- Camiseta del equipo Washington Commanders de New Era | El accesorio perfecto para todos los fans de la NFL
 - Elegante camiseta para aficionados con una gran impresión del logotipo del equipo en la parte delantera
 
 [🛒 Comprar!!!]({{< param buyurl >}})

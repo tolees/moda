@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Logotipo impreso en posición en la parte delantera
 - Manga corta y corte entallado
 - Camiseta esencial de cuello redondo
+- Logotipo impreso en posición en la parte delantera
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F57NF2X2{{</world>}}

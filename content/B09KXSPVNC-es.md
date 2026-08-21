@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cintura alta
-- Composición del material: 100% algodón
 - Jeans de pierna ancha
+- Cintura alta
 - Longitud normal
+- Composición del material: 100% algodón
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09KXSPVNC{{</world>}}

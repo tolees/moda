@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bolsillos traseros, bolsillos delanteros, bolsillo para monedas
 - Un clásico de cinco bolsillos vaqueros
+- Bolsillos traseros, bolsillos delanteros, bolsillo para monedas
 - Con cintura alta, muslos holgados, rodillas holgadas y aberturas anchas en las piernas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

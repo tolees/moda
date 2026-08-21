@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiene bolsillo canguro para un estilo clásico
 - Con ajuste cómodo y suave tejido
+- Tiene bolsillo canguro para un estilo clásico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01MSRQNPM{{</world>}}

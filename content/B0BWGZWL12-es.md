@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 100% ALGODÓN: material transpirable y agradable para la piel para una gran comodidad, perfecto para el verano, entrenamiento o uso diario.
 - Sin mangas y flexible: el diseño de borde abierto garantiza la máxima libertad de movimiento, perfecto para fitness, gimnasio o como camiseta de ocio.
 - Ropa de calle urbana: diseño minimalista, versátil combinable con vaqueros, pantalones cortos o pantalones de chándal – imprescindible para hombres conscientes de la moda.
 - Cuidado fácil: lavable a máquina a 30 °C, mantiene la forma y es duradera, tu nueva camiseta favorita para entrenamiento, ocio y aspecto veraniego.
+- 100% ALGODÓN: material transpirable y agradable para la piel para una gran comodidad, perfecto para el verano, entrenamiento o uso diario.
 - Ajuste holgado: camiseta Urban Classics de corte informal para hombre sin mangas – ideal para atuendos deportivos, ocio o ropa de calle relajada.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Back to Black
 - Bugatti Care Impregnate/bugatti Hand Finish/bugatti Genial Insole
+- Back to Black
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08WLSZP4J{{</world>}}

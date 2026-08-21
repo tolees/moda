@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Modelo casual
 - Tiene el logo de Tommy Hilfiger bordado en el pecho
+- Modelo casual
 - Puños con botón
 
 [🛒 Aquí!!!]({{< param buyurl >}})

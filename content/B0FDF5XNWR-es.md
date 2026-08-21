@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MATERIAL Y CUIDADO: Camisa confeccionada en 55 % lino y 45 % algodón. Se puede lavar a máquina.
+- MODA URBANA REINTERPRETADA: Para acercar las populares prendas de los 90 a las nuevas generaciones, Tommy Jeans se inspira en los iconos del hip-hop de aquella época. Apostando por prendas de alta calidad y diseños modernos con mucho denim.
 - COMODA Y CON DETALLES ESPECIALES: Gracias a su material de alta calidad, la camisa de corte normal es supercómoda de llevar. Los detalles distintivos de Tommy Jeans proporcionan un toque especial.
 - CLÁSICO TODOTERRENO: Esta camisa, imprescindible en cualquier armario, es una prenda muy fácil de combinar y que realza cualquier conjunto. Es el complemento perfecto para llevar con vaqueros informales todos los días.
-- MODA URBANA REINTERPRETADA: Para acercar las populares prendas de los 90 a las nuevas generaciones, Tommy Jeans se inspira en los iconos del hip-hop de aquella época. Apostando por prendas de alta calidad y diseños modernos con mucho denim.
 - ICÓNICO Y ATEMPORAL: Blusa original de Tommy Jeans con cuello corte clásico y cuello francés. El diseño sencillo y depurado convierte a esta camisa holgada en un clásico que no puede faltar en ningún armario.
+- MATERIAL Y CUIDADO: Camisa confeccionada en 55 % lino y 45 % algodón. Se puede lavar a máquina.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FDF5XNWR{{</world>}}

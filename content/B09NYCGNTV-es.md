@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Gafas de sol polarizadas: Reduce los reflejos superficiales y la fatiga ocular proporcionando nitidez y contrastes superiores; Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes fabricadas en material bio tac polarizado; protección 100 % UV; Color de la lente: Rosa; Apariencia de la lente: Espejo
 - Material de la montura: TR90; Color de la montura: Negro, Rosa; Color de la varilla: Negro
 - Producto original Hawkers; la caja incluye funda en microfibra y caja
-- La ONE es nuestro diseño más vendido de todos los tiempos en Europa, y la ONE COLT es nuestra versión norteamericana; la montura negra brillante de este modelo se fusiona con los aros inferiores de color rosa transparente, combinados con lentes rosas polarizadas y espejadas
-- Gafas de sol polarizadas: Reduce los reflejos superficiales y la fatiga ocular proporcionando nitidez y contrastes superiores; Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes fabricadas en material bio tac polarizado; protección 100 % UV; Color de la lente: Rosa; Apariencia de la lente: Espejo
 - Modelo Unisex; Medidas: Frontal 141 mm, Varillas 140 mm, Puente 18;5 mm, Alto 44;1 mm
+- La ONE es nuestro diseño más vendido de todos los tiempos en Europa, y la ONE COLT es nuestra versión norteamericana; la montura negra brillante de este modelo se fusiona con los aros inferiores de color rosa transparente, combinados con lentes rosas polarizadas y espejadas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09NYCGNTV{{</world>}}

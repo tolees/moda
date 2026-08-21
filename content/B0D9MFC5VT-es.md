@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Padded and quilted
-- Provides comfort
 - Stand up collar
+- Provides comfort
+- Padded and quilted
 - Zip closure
 - An original look
 

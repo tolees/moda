@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tejido muy suave de mezcla de algodón que proporciona comodidad durante todo el día
-- Nuestro tejido de mezcla de algodón es ligero, suave y de secado rápido para ofrecer comodidad durante todo el día
+- Cuello acanalado
 - 60 % algodón/40 % poliéster
 - Encontrarás miles de camisetas, pero ninguna como las de Under Armour
-- Cuello acanalado
+- Tejido muy suave de mezcla de algodón que proporciona comodidad durante todo el día
+- Nuestro tejido de mezcla de algodón es ligero, suave y de secado rápido para ofrecer comodidad durante todo el día
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0785FGJPB{{</world>}}

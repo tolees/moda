@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello redondo suave
-- Manga corta
 - Logotipo gráfico de Hurley en el pecho
+- Manga corta
 - Hecho de jersey aireado de calidad
+- Cuello redondo suave
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0GHZYRFT4{{</world>}}

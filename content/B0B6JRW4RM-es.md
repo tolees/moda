@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corte regular
 - Casual
+- Corte regular
 - Suave
 
 [🛒 Comprar!!!]({{< param buyurl >}})
