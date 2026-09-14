@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Calvin Klein Camiseta S/S de Cuello Redondo para Hombre 3 Unidades Lv00Nb4185 S/S Color Negro con Blanco EMB/Blanco y Negro E S'
+date: 2026-09-07 10:04:54
+image: 'https://m.media-amazon.com/images/I/31JfXEh72jL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0GFN1559Y-es Calvin Klein Camiseta S/S de Cuello Redondo para Hombre 3...'
+sku: 'B0GFN1559Y-es'
+tags: [ 'camiseta','🇪🇸', ]
+actualPrice: 24.95 EUR
+currency: EUR
+price: 24.95
+comparePrice: 49.9 EUR
+prodname: 'Calvin Klein Camiseta S/S de Cuello Redondo para Hombre 3 Unidades Lv00Nb4185 S/S Color Negro con Blanco EMB/Blanco y Negro E S'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0GFN1559Y/?tag=tolees-21'
+descuento: '50.00'
+average: '24.95'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- AJUSTE PERFECTO: Estos tops minimalistas de corte normal se adaptan perfectamente a tu figura y ofrecen una libertad de movimiento óptima. Gracias a su material de alta calidad, son muy agradable al tacto y resultan muy cómodos de llevar.
+- ICÓNICO Y ATEMPORAL: Las camisetas originales de Calvin Klein tienen un diseño depurado y convencen por su look deportivo. El logotipo de Calvin Klein en el bajo completa el look de las camisetas.
+- EMOCIONANTE Y CLARO: La marca de moda Calvin Klein, fundada en 1968, es conocida por su singular look y lleva conquistando el mundo de la moda desde entonces. La marca americana apuesta por una estética minimalista.
+- MATERIAL Y CUIDADO: Camisetas confeccionadas con 57 % algodón, 38 % poliéster pes. y 5 % elastano. Se pueden lavar a máquina.
+- PARA CUALQUIER OCASIÓN: Las camisetas básicas destacan por su agradable algodón de punto y son perfectas para usar a diario o para la oficina. Se pueden usar solas o debajo del jersey, son la elección ideal para cualquier ocasión.
+
+[🛒 Comprar!!!]({{< param buyurl >}})
+{{<world>}}B0GFN1559Y{{</world>}}
