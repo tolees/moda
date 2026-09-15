@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Crisp mid-waist shape
 - Cool skinny Jeans from vero moda
+- Crisp mid-waist shape
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07RRQ66SW{{</world>}}

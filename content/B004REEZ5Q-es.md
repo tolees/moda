@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 100% original, lonsdale
 - Corte clásico
 - Logo con tipografía grande en el pecho
 - Lavado a máquina
 - 100% algodón
-- 100% original, lonsdale
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B004REEZ5Q{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- denim jacket
 - light blue wash
+- denim jacket
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07PR754PC{{</world>}}

@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Estampado : Estampa en la parte delantera del producto, Estampado con pigmentos para un acabado delicado en los tejidos más ligeros
-- Mangas : Sisa en disminución
 - Cuello : Cuello redondo
+- Estampado : Estampa en la parte delantera del producto, Estampado con pigmentos para un acabado delicado en los tejidos más ligeros
 - Modo de vida : Tradicional
-- Artículo : Camiseta
 - Manga : Manga corta
+- Mangas : Sisa en disminución
+- Artículo : Camiseta
 - Corte : Corte regular
 
 [🛒 Comprar!!!]({{< param buyurl >}})

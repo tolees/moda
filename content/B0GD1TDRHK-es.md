@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 25,4 cm de ancho x 18,4 cm de alto x 12 cm de profundidad
 - Bolso
+- 25,4 cm de ancho x 18,4 cm de alto x 12 cm de profundidad
 - Detalles metálicos de color dorado
 - Altura del asa: 8,9 cm
 - Correa de hombro ajustable: 53-61 cm

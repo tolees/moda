@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ligeras y transpirables
 - Plantilla desmontable
 - Cuentan con un estilo informal
+- Ligeras y transpirables
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CPQ1CMQ4{{</world>}}

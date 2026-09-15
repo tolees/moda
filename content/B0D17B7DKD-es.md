@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Extra Slim Fit
-- Las telas satinadas son más brillantes que otras telas
 - Tira de botones
+- Las telas satinadas son más brillantes que otras telas
+- Extra Slim Fit
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D17B7DKD{{</world>}}

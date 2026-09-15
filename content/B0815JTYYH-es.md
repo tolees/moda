@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajuste atlético profesional
-- Tejidos duraderos utilizados por jugadores en el más alto nivel de los juegos
 - Detalle de aro sublimado y diseño de cuello de bucle cuadrado
+- Ajuste atlético profesional
 - Acabado Vapodri para mantenerte fresco y cómodo mientras entrenas en el campo
+- Tejidos duraderos utilizados por jugadores en el más alto nivel de los juegos
 - Cuello Canterbury desarrollado y utilizado para la Copa Mundial de rugby 2019 en Japón
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

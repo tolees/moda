@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Estampado gráfico en la parte delantera
 - Etiqueta de G-Star RAW tejida en la costura lateral inferior
-- Extremos de las mangas con vuelta fija
 - Cuello acanalado
+- Extremos de las mangas con vuelta fija
 - Bajo curvado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Logotipo impreso en la parte delantera
 - 100 % algodón
 - Manga larga de ajuste regular en jersey individual
-- Logotipo impreso en la parte delantera
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DTJMFJ5S{{</world>}}

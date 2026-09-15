@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camiseta regular
 - logo springfield bordado a contraste
+- Camiseta regular
 - camiseta bordada
 - Camiseta básica de manga larga en tejido suave con textura «peach"
 

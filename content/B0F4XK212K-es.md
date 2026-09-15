@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuello de camisa
-- Cierre de botones
-- Cómoda tela elástica
 - Bolsillos cargo en el pecho
+- Cierre de botones
+- Cuello de camisa
+- Cómoda tela elástica
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F4XK212K{{</world>}}

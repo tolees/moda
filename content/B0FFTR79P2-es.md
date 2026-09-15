@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cuello redondo y detalles de puños enrollados
-- Camiseta de manga corta relajada
 - Logotipo impreso en la parte delantera
+- Camiseta de manga corta relajada
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FFTR79P2{{</world>}}

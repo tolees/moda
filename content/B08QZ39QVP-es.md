@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello alto con capucha
 - Dos bolsillos laterales abiertos
 - Zip entero
+- Cuello alto con capucha
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08QZ39QVP{{</world>}}

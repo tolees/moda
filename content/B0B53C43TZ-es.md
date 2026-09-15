@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Forma del tacón: sin tacón
 - Material exterior: poliéster
 - Talla del zapato: Medium
-- Correa: tanga
 - Material interior: sintético
+- Correa: tanga
+- Forma del tacón: sin tacón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B53C43TZ{{</world>}}

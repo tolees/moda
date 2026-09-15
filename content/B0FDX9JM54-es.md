@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CONFORT: Las sandalias para la playa y la piscina Chicco son flexibles, ligeras y prácticas
 - SANDALIAS NIÑA: Sandalias de araña Chicco, con cómoda cierre con correa, ideales para la playa y la piscina
-- CHICCO: Siempre al lado de las familias, escuchando sus historias y necesidades; con nuestros productos innovadores, siempre respondemos a las nuevas necesidades de los padres y madres y de quienes cuidan a los niños
 - GUÍA DE TALLAS: elige la talla más adecuada para tu niña, siguiendo las indicaciones de la imagen
+- CONFORT: Las sandalias para la playa y la piscina Chicco son flexibles, ligeras y prácticas
+- CHICCO: Siempre al lado de las familias, escuchando sus historias y necesidades; con nuestros productos innovadores, siempre respondemos a las nuevas necesidades de los padres y madres y de quienes cuidan a los niños
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FDX9JM54{{</world>}}

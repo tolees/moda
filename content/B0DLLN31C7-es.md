@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- esencial
 - Manga a rayas en contraste
+- esencial
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DLLN31C7{{</world>}}

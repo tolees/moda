@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Prenda para mujeres adultas
 - Tiene detalles distintivos de la marca
+- Prenda para mujeres adultas
 - Sudadera de uso diario
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

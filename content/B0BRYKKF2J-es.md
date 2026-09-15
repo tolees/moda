@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- An original look
+- Provides comfort
 - Zip fly
 - G-Star label at the back, made from a leather-like paper fabric
 - 5 pockets
-- Provides comfort
-- An original look
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BRYKKF2J{{</world>}}

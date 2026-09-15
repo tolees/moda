@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Cinta icónica en el interior del cuello
 - Hombros ligeramente bajados
 - Jersey de algodón puro
-- Cinta icónica en el interior del cuello
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F4KHMJRC{{</world>}}

@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Cuello abotonado
 - Botones más grandes a partir de la talla 4 XL
-- Ajuste moderno
 - Mezcla de lino fresco
+- Ajuste moderno
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DLX15CHT{{</world>}}

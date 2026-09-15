@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Con un bolsillo en el pecho
-- Tejido suave y ligero
 - Detalles distintivos de la marca
+- Tejido suave y ligero
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DPBBHLK2{{</world>}}

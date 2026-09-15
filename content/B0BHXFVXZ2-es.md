@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Secado rápido
 - Regulación de la humedad
 - Transpirable
+- Secado rápido
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BHXFVXZ2{{</world>}}

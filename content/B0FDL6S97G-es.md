@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Manga corta
 - Cuello redondo
+- Manga corta
 - Adecuada para uso diario
 
 [🛒 Visítala!!!]({{< param buyurl >}})

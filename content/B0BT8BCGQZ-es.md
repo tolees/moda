@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tela suave
-- Ajuste ligero
 - Ofrece comodidad y libertad de movimiento
+- Ajuste ligero
+- Tela suave
 - Tiene detalles distintivos de la marca
 
 [🛒 Aquí!!!]({{< param buyurl >}})

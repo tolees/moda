@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Composición del material: 100% poliéster
 - Parka lisa de Kids Only
+- Composición del material: 100% poliéster
 - Liso
 - Capucha con ribete de piel sintética
 

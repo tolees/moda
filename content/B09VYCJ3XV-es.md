@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cinturón
 - Hebilla ajustable
+- Cinturón
 - Longitud: normal
 
 [🛒 Aquí!!!]({{< param buyurl >}})

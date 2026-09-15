@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tejido resistente al agua que la protege de la lluvia y la niebla, Aislamiento Thermarator para mayor calidez
-- Contenido: 1x Columbia Mujer Chaqueta, Powder Lite Mid, Exterior: Storm-Lite DP II 100% poliéster; Forro: Omni-Heat Reflective 100% poliéster; Aislamiento: Thermarator 100% poliéster, Color: Marrón (Dark Stone), Talla: XS, Art. 1748311
 - La tecnología reflectante Omni-Heat de la chaqueta ofrece un mayor aislamiento para mantenerte caliente incluso en los días más fríos
 - Chaqueta ligera para mujer con cremallera bidireccional, Una prenda duradera y elegante en tu armario
+- Contenido: 1x Columbia Mujer Chaqueta, Powder Lite Mid, Exterior: Storm-Lite DP II 100% poliéster; Forro: Omni-Heat Reflective 100% poliéster; Aislamiento: Thermarator 100% poliéster, Color: Marrón (Dark Stone), Talla: XS, Art. 1748311
+- Tejido resistente al agua que la protege de la lluvia y la niebla, Aislamiento Thermarator para mayor calidez
 - Los bolsillos con cremallera te dan versatilidad Mantén tus manos calientes cuando lo necesites o guarda tu teléfono y otros accesorios sin temor a que se caigan
 
 [🛒 Aquí!!!]({{< param buyurl >}})

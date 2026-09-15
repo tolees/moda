@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Llano tejido
 - Pull on cierre
-- Material: 80% Algodón orgánico, 20% Poliéster Reciclado
 - Lavado a máquina
+- Material: 80% Algodón orgánico, 20% Poliéster Reciclado
+- Llano tejido
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DQM5MDJ1{{</world>}}

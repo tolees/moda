@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Inserción frontal del cuello y detalle de ribetes
-- Chevrones y logotipo impresos a base de agua
 - Tejido entrelazado
+- Chevrones y logotipo impresos a base de agua
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09VRR2L26{{</world>}}

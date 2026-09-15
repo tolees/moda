@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material de la montura: Metal, TR90; Color de la montura: Transparente; Color de la varilla: Gris
-- Modelo Unisex
 - Producto original Hawkers; la caja incluye funda en microfibra y caja
 - Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes de TR18 con el sello de Eastman, gran calidad óptica y resistencia; respetuoso con el medio ambiente; protección 100% UV; Color de la lente: Gris, Azul; Apariencia de la lente: Gradiente
 - Este diseño se caracteriza por tener una lente de máscara integrada al ras del frontal, lo que le aporta un toque vanguardista; la lente presenta un degradado de azul a gris, evocando los colores de una tormenta, y se combina armoniosamente con el frontal y los terminales en tr90 azul y negro transparente; las varillas metálicas planas en color gun metal complementan esta silueta de manera elegante
+- Material de la montura: Metal, TR90; Color de la montura: Transparente; Color de la varilla: Gris
+- Modelo Unisex
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CC2RG9QJ{{</world>}}

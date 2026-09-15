@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pepe jeans Logotipo con lentejuelas
 - Camiseta de manga corta con cuello redondo
+- Pepe jeans Logotipo con lentejuelas
 - 100 % algodón
 
 [🛒 Visítala!!!]({{< param buyurl >}})

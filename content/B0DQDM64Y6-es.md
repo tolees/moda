@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Algodón de manga larga ajustada
-- 100 % algodón
 - Camiseta con logotipo impreso en el pecho
+- 100 % algodón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DQDM64Y6{{</world>}}

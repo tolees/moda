@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Propiedades elásticas ligeras
+- Camiseta para entrenamiento o presentación.
 - Cuello redondo loco
 - Impresión de logo Nike grande
-- Camiseta para entrenamiento o presentación.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08QWB4PTF{{</world>}}

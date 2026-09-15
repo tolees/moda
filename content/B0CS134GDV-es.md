@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Cintura ajustable con cordón en el interior
+- Cremallera bidireccional, panel cortavientos y cierre de botones a presión oculto
 - Capucha con visera, alzada por delante y con cordón ajustable por dentro
 - Bolsillo y trabilla en el interior
 - Bolsillos con solapa en el pecho y en la cintura, botones a presión ocultos
-- Cintura ajustable con cordón en el interior
-- Cremallera bidireccional, panel cortavientos y cierre de botones a presión oculto
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CS134GDV{{</world>}}

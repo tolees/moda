@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con bolsillos delanteros
 - Capucha con cordón de ajuste
+- Con bolsillos delanteros
 - Ofrece calidez y comodidad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

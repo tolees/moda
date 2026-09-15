@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Instrucciones de lavado: no lavar en seco, no secar en secadora, no usar lejía, planchar a baja temperatura (110 °C), ciclo normal a máx. 30 °C
 - Con trabillas para cinturón y logotipo en la parte posterior de la cintura
 - Ajuste: ajuste recto Alexa: cintura media, pierna recta, abertura de pierna regular. Longitud interior de la pernera: 30 L aprox. 76 cm, 32 L aprox. 81 cm, 34 L aprox. 86 cm.
-- Instrucciones de lavado: no lavar en seco, no secar en secadora, no usar lejía, planchar a baja temperatura (110 °C), ciclo normal a máx. 30 °C
-- Con porcentaje elástico para un ajuste cómodo y más libertad de movimiento
 - Jeans clásicos en estilo de cinco bolsillos con bolsillos laterales y bolsillos de parche en la parte posterior
+- Con porcentaje elástico para un ajuste cómodo y más libertad de movimiento
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BF4Z24PX{{</world>}}

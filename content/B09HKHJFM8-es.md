@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Presenta un estilo casual
 - Cuenta con un diseño ligero
 - Ofrece comodidad y libertad de movimiento
-- Presenta un estilo casual
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09HKHJFM8{{</world>}}

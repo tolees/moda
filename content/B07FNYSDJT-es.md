@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Puños elásticos
+- Costuras selladas
 - Acabado hidrófugo duradero
 - Capucha de una pieza
-- Costuras selladas
+- Puños elásticos
 - Tejido de poliéster Hydrafort impermeable
 
 [🛒 Visítala!!!]({{< param buyurl >}})

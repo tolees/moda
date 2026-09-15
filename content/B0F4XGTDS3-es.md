@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bajo recto
-- Detalle gráfico en la parte delantera
 - Cuello redondo
+- Detalle gráfico en la parte delantera
+- Bajo recto
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F4XGTDS3{{</world>}}

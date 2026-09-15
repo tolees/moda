@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Detalles distintivos de la marca
-- Sudadera con cierre de cremallera frontal
 - Capucha ajustable mediante cordones
+- Sudadera con cierre de cremallera frontal
+- Detalles distintivos de la marca
 - Con bolsillos laterales
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cómodo
-- Camiseta sin mangas para hombre
-- Cuello redondo y estampado gráfico en la parte frontal
-- Corte normal
 - Características incluyen: tejido en punto jersey de algodón
+- Corte normal
+- Cuello redondo y estampado gráfico en la parte frontal
+- Camiseta sin mangas para hombre
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B082BV2K9T{{</world>}}

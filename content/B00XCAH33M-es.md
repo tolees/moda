@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Prenda básica imprescindible
-- Fácil cuidado
-- Corte cómodo
 - Fácil de combinar
+- Fácil cuidado
+- Prenda básica imprescindible
+- Corte cómodo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00XCAH33M{{</world>}}

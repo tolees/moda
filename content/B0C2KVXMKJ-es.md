@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- No es resistente al agua
 - Clarks Detalles de la marca
+- No es resistente al agua
 - Puntera cerrada
 
 [🛒 Visítala!!!]({{< param buyurl >}})

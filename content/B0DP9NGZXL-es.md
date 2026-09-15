@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con detalles distintivos de la marca
-- Ajuste cómodo
 - Ligeras y transpirables
+- Ajuste cómodo
+- Con detalles distintivos de la marca
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DP9NGZXL{{</world>}}

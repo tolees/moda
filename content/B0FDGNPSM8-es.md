@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pijama de manga larga Pantalón largo
 - Colección Daily Rose
+- Pijama de manga larga Pantalón largo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FDGNPSM8{{</world>}}

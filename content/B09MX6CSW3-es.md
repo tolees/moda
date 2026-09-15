@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Este producto es original Levis
 - Tiene cinco bolsillos
 - Con el logotipo en la parte posterior de la cintura
-- Este producto es original Levis
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09MX6CSW3{{</world>}}

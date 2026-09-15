@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Etiqueta de la marca en el lateral
 - __Corte:__ corte normal, clásico, cómodo
 - __Cuello:__ cuello redondo
-- __Tejido:__ Tejido de algodón [160 g / m2]
 - Etiqueta gráfica en el bolsillo del pecho
+- Etiqueta de la marca en el lateral
+- __Tejido:__ Tejido de algodón [160 g / m2]
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09JGQK8BH{{</world>}}

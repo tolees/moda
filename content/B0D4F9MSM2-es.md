@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Disponible en diversos y elegantes colores
 - Moderno logo de Columbia
-- Camiseta para hombre, Adecuada para usar a diario
 - Confort óptimo gracias al material de jersey 100% algodón
+- Disponible en diversos y elegantes colores
+- Camiseta para hombre, Adecuada para usar a diario
 - Contenido: 1x Columbia Hombre Camiseta, M Rapid Ridge Graphic, Color: Negro (Black, C Sportswear Explorer), Talla: M, Art.: 1888813
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Suela de tracción flexible
 - Ligeras
 - Amortiguación sensible
-- Suela de tracción flexible
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BZ9HGBCK{{</world>}}

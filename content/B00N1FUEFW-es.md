@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Una camiseta con este estampado completa cualquier look urbano e informal.
+- Camiseta lisa informal con una declaración clara.
 - Parte delantera con imagen y las palabras «Fuck It».
 - Camiseta de algodón lisa de alta calidad para la mayor comodidad.
-- Camiseta lisa informal con una declaración clara.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00N1FUEFW{{</world>}}

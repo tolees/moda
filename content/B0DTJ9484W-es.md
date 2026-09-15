@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Corte de punto de algodón con cuello redondo, manga corta y corte cuadrado en las piernas
-- Con un eslogan "Never need ironing" en el pecho y una caja con logotipo al revés, solo en UO
 - Camiseta fácil de poner de Dickies
+- Con un eslogan "Never need ironing" en el pecho y una caja con logotipo al revés, solo en UO
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DTJ9484W{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuello elevado
-- Una mirada original
-- Acolchada
 - Cierre de cremallera
+- Una mirada original
+- Cuello elevado
+- Acolchada
 - Proporciona comodidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajuste regular
-- Estampado de logotipo integral
 - Cremallera completa
+- Ajuste regular
 - Chaqueta acolchada de corte cuadrado
+- Estampado de logotipo integral
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B098QMKJ61{{</world>}}

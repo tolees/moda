@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Forro en cuero transpirable
-- Suela de caucho suave con dibujo en forma de C
 - Parte superior de piel de charol negra
+- Suela de caucho suave con dibujo en forma de C
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CCCF3FLF{{</world>}}

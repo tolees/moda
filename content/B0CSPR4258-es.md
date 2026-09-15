@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fabricado en piel de ante de vaca con forro cálido de color
-- Suela de plataforma
 - Botines de piel baja
+- Suela de plataforma
+- Fabricado en piel de ante de vaca con forro cálido de color
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CSPR4258{{</world>}}

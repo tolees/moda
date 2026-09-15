@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bajo con abertura lateral
-- Bolsillos laterales abiertos
-- Cintura elástica con revestimiento y cordón interior
 - Material que capilariza el sudor y se seca rápidamente
+- Bolsillos laterales abiertos
 - Tejido ligero para una comodidad y durabilidad superiores
+- Bajo con abertura lateral
+- Cintura elástica con revestimiento y cordón interior
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F34RQV6Q{{</world>}}

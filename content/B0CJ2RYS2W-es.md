@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- DETALLE 3: Parka
 - FIT: Regular Fit
 - Chaqueta de invierno para hombre
 - DETALLE 2: Parches bordados
-- DETALLE 3: Parka
 - DETALLE 1: Expedición polar con cuello de piel sintética desmontable
 
 [🛒 Visítala!!!]({{< param buyurl >}})

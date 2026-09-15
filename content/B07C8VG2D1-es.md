@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- DETALLES FUNCIONALES: diseñado con un patrón acolchado clásico y líneas de costura favorecedoras para un ajuste a medida. Cuenta con un cierre frontal con cremallera bidireccional, bolsillos con cremallera, capucha y puños elásticos para mantener el calor. Se guarda perfectamente en la bolsa de transporte incluida con un cierre de cordón para un almacenamiento cómodo o para viajar.
 - ABRIGO ACOLCHADO CON CAPUCHA: este abrigo acolchado ultraligero es un artículo esencial versátil cuando hace frío. Llévalo sobre una camiseta en los días frescos de otoño o combínalo con un suéter para abrigarte aún más durante el invierno. Combínalo con bufandas y gorros de Amazon Essentials para completar tu look.
-- TAFETÁN RESISTENTE AL AGUA: hecho de 100 % nailon para colores lisos y 100 % poliéster para estampados y colores neón. Totalmente forrado, acolchado y aislante para mantenerte caliente y protegido en los días más fríos del invierno.
 - CREMALLERA BIDIRECCIONAL: para mayor comodidad, la cremallera bidireccional se puede abrir desde arriba o desde abajo. Para cerrarla, alinea el cursor pasador con el cursor inferior y tira del cursor superior hacia arriba. Para abrirla, tira del cursor superior hacia abajo y extrae el pasador.
+- TAFETÁN RESISTENTE AL AGUA: hecho de 100 % nailon para colores lisos y 100 % poliéster para estampados y colores neón. Totalmente forrado, acolchado y aislante para mantenerte caliente y protegido en los días más fríos del invierno.
+- DETALLES FUNCIONALES: diseñado con un patrón acolchado clásico y líneas de costura favorecedoras para un ajuste a medida. Cuenta con un cierre frontal con cremallera bidireccional, bolsillos con cremallera, capucha y puños elásticos para mantener el calor. Se guarda perfectamente en la bolsa de transporte incluida con un cierre de cordón para un almacenamiento cómodo o para viajar.
 - AJUSTE NORMAL: Ajuste ceñido pero cómodo en pecho, cintura y cadera.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

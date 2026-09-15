@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cómoda de llevar
-- Producto deportivo
 - Mejora tu experiencia deportiva
+- Producto deportivo
+- Cómoda de llevar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D8K948SX{{</world>}}

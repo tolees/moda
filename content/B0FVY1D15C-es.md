@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - DISEÑO PREMIUM: El calzado de alta calidad con el estiloso logotipo de Tommy Jeans convence gracias a su elegante diseño. Los detalles distintivos de Tommy Jeans completan el look.
 - MODA URBANA REINTERPRETADA: Para acercar las populares prendas de los 90 a las nuevas generaciones, Tommy Jeans se inspira en los iconos del hip-hop de aquella época. Apostando por prendas de alta calidad y diseños modernos con mucho denim.
-- SLIPPERS DEPORTIVOS: Puedes combinar este calzado de mujer con cualquier conjunto veraniego. Es el complemento ideal para las vacaciones. Este zapato combina con cualquier look veraniego, ya sea deportivo o informal.
 - MATERIAL DE ALTA CALIDAD: Chanclas de nailon 100 %.
+- SLIPPERS DEPORTIVOS: Puedes combinar este calzado de mujer con cualquier conjunto veraniego. Es el complemento ideal para las vacaciones. Este zapato combina con cualquier look veraniego, ya sea deportivo o informal.
 - AJUSTE PERFECTO: Las chanclas originales de Tommy Jeans destacan por su aspecto deportivo y su cómoda plantilla. Son perfectas para unas vacaciones relajantes o para el día a día.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

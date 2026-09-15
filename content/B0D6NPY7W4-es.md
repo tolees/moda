@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ligeras y flexibles
 - Presentan detalles distintivos de la marca
 - Ajuste cómodo
+- Ligeras y flexibles
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D6NPY7W4{{</world>}}

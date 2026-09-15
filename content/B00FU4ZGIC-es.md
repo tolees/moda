@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El toque Tommy adecuado para tu look
 - Calcetines versátiles para hombre
+- El toque Tommy adecuado para tu look
 - Algodón peinado
 - Un básico por naturaleza para hombre
 - Costura de los dedos cerrada a mano para evitar la irritación

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Bolsillo y trabilla en el interior
 - Capucha con visera, alzada por delante y con cordón ajustable por dentro
 - Cremallera bidireccional, panel cortavientos y cierre de botones a presión oculto
-- Bolsillo y trabilla en el interior
 - Bolsillos con solapa en el pecho y en la cintura, botones a presión ocultos
 - Cintura ajustable con cordón en el interior
 

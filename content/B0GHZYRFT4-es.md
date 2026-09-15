@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Logotipo gráfico de Hurley en el pecho
 - Cuello redondo suave
 - Manga corta
-- Logotipo gráfico de Hurley en el pecho
 - Hecho de jersey aireado de calidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

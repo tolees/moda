@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cinturilla cómoda
-- La base para look
 - Tela elástica de algodón suave
+- La base para look
 - Contiene algodón orgánico
+- Cinturilla cómoda
 - Pack de 2 para niños
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

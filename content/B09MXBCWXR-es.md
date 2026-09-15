@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con el logotipo en la parte posterior de la cintura
-- Este producto es original Levis
 - Tiene cinco bolsillos
+- Este producto es original Levis
+- Con el logotipo en la parte posterior de la cintura
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09MXBCWXR{{</world>}}

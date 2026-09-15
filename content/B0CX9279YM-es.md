@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Clarks Sandals, Saltway Cove, Dark Brown Lea, 9 (Men)
 - MARRON
 - CLARKS
-- Clarks Sandals, Saltway Cove, Dark Brown Lea, 9 (Men)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CX9279YM{{</world>}}

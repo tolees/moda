@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte normal
 - Rayas de contraste en el interior del cuello acanalado
+- Corte normal
 - Puños y dobladillo acanalados
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

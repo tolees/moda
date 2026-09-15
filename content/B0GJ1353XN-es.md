@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuello redondo suave
-- Hecho de jersey aireado de calidad
 - Manga corta
+- Hecho de jersey aireado de calidad
+- Cuello redondo suave
 - Estampado gráfico Hurley en el pecho
 
 [🛒 Aquí!!!]({{< param buyurl >}})

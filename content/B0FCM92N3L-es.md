@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - __Tejido: __ jersey de algodón [160 g/m2]
-- __Cuello: __ cuello redondo
 - __Corte: __ premium
+- __Cuello: __ cuello redondo
 - __Gráfico: __ serigrafía en el pecho
 
 [🛒 Aquí!!!]({{< param buyurl >}})

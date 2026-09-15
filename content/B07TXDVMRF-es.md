@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Modelo casual
 - Minilogotipo de Levis en el pecho
+- Modelo casual
 - Con faldón curvado
 
 [🛒 Visítala!!!]({{< param buyurl >}})

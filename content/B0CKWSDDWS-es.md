@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Costuras planas para un bajo volumen
 - Logotipo HH bordado en el pecho
+- Costuras planas para un bajo volumen
 - Apertura frontal con cremallera YKK completa
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

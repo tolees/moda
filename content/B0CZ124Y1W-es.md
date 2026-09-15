@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cristales envolventes para ampliar la visión periférica
 - desde que se fundó nuestra empresa en Australia en 1928, nos hemos dedicado a la vida dentro y alrededor del agua. Nuestro propósito es inspirar a la gente para que nade, ya sea para entrenar, competir, hacer fitness o divertirse, de modo que disfrute más cada momento en el agua
 - Bordes suaves para una comodidad duradera
+- Cristales envolventes para ampliar la visión periférica
 - Puente de la nariz moldeado para ofrecer más espacio y garantizar un ajuste cómodo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

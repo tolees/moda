@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Hebilla con el grabado de G-STAR
 - Hebilla de metal pintada y pulida
-- Correa de piel gruesa con acabado cuarteado
 - Proporciona comodidad
+- Correa de piel gruesa con acabado cuarteado
+- Hebilla con el grabado de G-STAR
 - Logotipo estampado en el extremo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

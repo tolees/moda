@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Estilo informal
-- Adecuada para uso diario
 - Camiseta de manga larga
+- Adecuada para uso diario
+- Estilo informal
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DPB85SC8{{</world>}}

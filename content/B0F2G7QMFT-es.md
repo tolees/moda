@@ -28,14 +28,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Plumón largo con capucha
+- Capucha con borde de pelo de imitación
+- Cuello alto
+- Cintura con elástico
+- 2 bolsillos con ribete cerrados por un botón en la parte delantera
 - Manga larga
 - Corte ajustado
 - Cierre de cremallera en la parte delantera
-- Plumón largo con capucha
-- 2 bolsillos con ribete cerrados por un botón en la parte delantera
-- Cintura con elástico
-- Capucha con borde de pelo de imitación
-- Cuello alto
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F2G7QMFT{{</world>}}

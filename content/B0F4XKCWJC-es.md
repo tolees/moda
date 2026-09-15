@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Bajo recto
 - Estampado gráfico en el pecho
 - Cuello redondo
-- Bajo recto
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F4XKCWJC{{</world>}}

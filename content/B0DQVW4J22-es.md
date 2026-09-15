@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Felpa
+- Largo estándar
+- Cierre de cremallera
 - Corte estándar
 - Con capucha
-- Cierre de cremallera
-- Largo estándar
-- Felpa
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DQVW4J22{{</world>}}

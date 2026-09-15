@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- No es resistente al agua
 - Puntera cerrada
+- No es resistente al agua
 - Utilizado como casual
 
 [🛒 Comprar!!!]({{< param buyurl >}})

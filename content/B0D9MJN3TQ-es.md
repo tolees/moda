@@ -31,8 +31,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - Bolsillos internos y externos
 - Asa extraíble
 - Cierre de solapa, imán y cremallera
-- Bolsillos tipo traje
 - Asas intercambiables
+- Bolsillos tipo traje
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D9MJN3TQ{{</world>}}

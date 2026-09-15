@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Modelo Unisex
 - Producto original Hawkers; la caja incluye funda en microfibra y caja
-- Material de la montura: Acetato; Color de la montura: Negro; Color de la varilla: Negro
 - Gafas de sol slim rectangulares fabricadas en acetato de alta calidad; una silueta retro que trae de vuelta los códigos de finales de los 50 y principios de los 60, pero con un twist actual gracias al protagonismo de sus “end pieces” y pins frontales en forma de media H; una auténtica declaración de identidad; disponibles en varios colores de lentes
 - Gafas de sol categoría filtro 2, coloración medianamente oscura, utilizar en exteriores con luminosidad media; absorben entre un 57% y un 81% de luz solar; Material de la lente: Lentes de TR18 con el sello de Eastman, gran calidad óptica y resistencia; respetuoso con el medio ambiente; protección 100% UV; Color de la lente: Verde; Apariencia de la lente: Cosmética
+- Material de la montura: Acetato; Color de la montura: Negro; Color de la varilla: Negro
+- Modelo Unisex
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DJFVW8ZK{{</world>}}

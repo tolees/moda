@@ -1,19 +1,19 @@
 ---
 layout: post
-title: 'Barbie Deluxe Style Muñeca n.º 15 con Vestido Barbiecore Rosa Intenso coleta Alta Rubia Medias de Encaje Negras Bolso de Mano Plateado y Joyas Plateadas JJN73'
-date: 2026-09-11 18:03:38
+title: 'Barbie Muñeca Deluxe Style n.º 15 con vestido Barbiecore rosa'
+date: 2026-09-13 21:22:34
 image: 'https://m.media-amazon.com/images/I/316avZAgyiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0G43VCRD4-es Barbie Deluxe Style Muñeca n.º 15 con Vestido Barbiecore...'
+slug: 'B0G43VCRD4-es Barbie Muñeca Deluxe Style n.º 15 con vestido Barbiecore rosa'
 sku: 'B0G43VCRD4-es'
-tags: [ 'bolso','vestido','🇪🇸', ]
+tags: [ 'vestido','🇪🇸', ]
 actualPrice: 18.05 EUR
 currency: EUR
 price: 18.05
 comparePrice: 22.99 EUR
-prodname: 'Barbie Deluxe Style Muñeca n.º 15 con Vestido Barbiecore Rosa Intenso coleta Alta Rubia Medias de Encaje Negras Bolso de Mano Plateado y Joyas Plateadas JJN73'
+prodname: 'Barbie Muñeca Deluxe Style n.º 15 con vestido Barbiecore rosa'
 country: 'es'
 flag: '🇪🇸'
 brand: ''

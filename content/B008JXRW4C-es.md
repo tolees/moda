@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Camiseta con las siguientes características:
+- Festival, Ropa de Calle
 - Descubre todas las marcas de EMP!
 - Camiseta || Mangas Normales || Cuello Redondo Sin cuello || Material duradero
-- Camiseta con las siguientes características:
 - Ajuste : Regular
-- Festival, Ropa de Calle
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B008JXRW4C{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Cómodo y práctico
 - Código de vestimenta: informal
 - Temporada: Todas las estaciones
-- Cómodo y práctico
 - Patrón: el diseño de la marca es visible
 
 [🛒 Aquí!!!]({{< param buyurl >}})

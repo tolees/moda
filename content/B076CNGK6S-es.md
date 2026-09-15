@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de cierre: cierre de langosta
-- Color: 2 tonos, oro, plata
-- Material: CZ, plata esterlina
 - Acabado: pulido
+- Material: CZ, plata esterlina
 - Medidas: longitud total: 420 mm + 50 mm
+- Color: 2 tonos, oro, plata
+- Tipo de cierre: cierre de langosta
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B076CNGK6S{{</world>}}

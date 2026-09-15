@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Constructed in our durable 100% cotton perfect for everyday wear
-- Reinforced seams
-- Rib knit collar
 - Iconic Dickies logo side hem tag
+- Constructed in our durable 100% cotton perfect for everyday wear
+- Rib knit collar
+- Reinforced seams
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07PVXKKSL{{</world>}}

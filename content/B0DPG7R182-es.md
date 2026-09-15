@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pockets: __ Chest Pocket
-- Impresión suave a mano en el bolsillo
 - Etiqueta de bandera lateral
 - Cuello:
+- Impresión suave a mano en el bolsillo
+- Pockets: __ Chest Pocket
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DPG7R182{{</world>}}

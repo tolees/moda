@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Comodidad
-- Material: poliéster
-- Número de modelo: 706728
 - Libertad
+- Material: poliéster
+- Comodidad
+- Número de modelo: 706728
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D41KJYMC{{</world>}}

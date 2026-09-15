@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Transpirables y ligeras
 - Ajuste cómodo
 - Plantilla desmontable
+- Transpirables y ligeras
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DP9KCW9F{{</world>}}

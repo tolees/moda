@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Capa exterior
 - Chaquetas
+- Capa exterior
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DPGFK5BW{{</world>}}

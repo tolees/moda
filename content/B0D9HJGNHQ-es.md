@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Bolsillos canguro
 - Puños y dobladillo de canalé
 - Alta calidad
-- Bolsillos canguro
 - Con capucha
 
 [🛒 Comprar!!!]({{< param buyurl >}})

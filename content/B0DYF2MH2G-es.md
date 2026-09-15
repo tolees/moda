@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Punto fino
-- Cierre de botones en la parte delantera
-- Corte recto
 - Cuello tipo polo
+- Cierre de botones en la parte delantera
 - Apliques solapas para un efecto falso bolsillo en el pecho
-- Manga larga
 - Cárdigan manga larga
+- Punto fino
+- Corte recto
+- Manga larga
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DYF2MH2G{{</world>}}

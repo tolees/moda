@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bolsillos para las manos
 - CREMALLERA YKK
 - Capucha ajustable con cordón
+- Bolsillos para las manos
 - Anillo en D para cable de matar
 - Hilos AMANN - calidad alemana
 

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Material de calidad
 - Tiene el logo distintivo de la marca
 - Ropa deportiva cómoda de llevar
-- Material de calidad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C3W5QSJN{{</world>}}

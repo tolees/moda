@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Cordón ajustable en el bajo
+- Cierre de cremallera
 - Bolsillos con ribete en la cintura, botón a presión oculto, bolsillo interior
 - Cuello plano
-- Cordón ajustable en el bajo
 - Gráfico de G-STAR estampado en el pecho
-- Cierre de cremallera
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D8WM4GT2{{</world>}}

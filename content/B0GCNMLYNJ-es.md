@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pantalones Cortos Cargo Mujer: Shorts mujer talle alto combinan fácilmente con tops, blazers y camisetas. Ideales para uso diario, desplazamientos laborales y oficina. Cuentan con tejido suave y corte clásico, siendo un básico práctico e imprescindible para tu armario.
-- Colores y Tallas: Los pantalones cortos de traje casuales y holgados están disponibles en seis colores: negro, caqui, gris, azul marino, blanco y beige. Complementan tu estilo con total facilidad. Disponibles en tallas de la S a la XXL, con cortes que van desde el ajustado hasta el holgado, para un ajuste ideal en todo tipo de siluetas.
 - Bermudas Mujer Verano: Pantalones cortos casuales mujer tienen cintura semielástica en la parte trasera, botón ajustable en la parte delantera y presillas en la cintura. Sus discretos pliegues y su corte entallado crean una silueta elegante que realza la figura. Combinan comodidad con un look cuidado.
-- Short Mujer Elegante: Los pantalones cortos tipo bermuda de Fashora para mujer disponen de prácticos bolsillos para guardar llaves tarjetas y otros objetos. Es una prenda muy útil para el armario. Cuentan con corte holgado y largo hasta la rodilla que garantiza libertad de movimiento con un estilo elegante ideal para el tiempo libre.
+- Colores y Tallas: Los pantalones cortos de traje casuales y holgados están disponibles en seis colores: negro, caqui, gris, azul marino, blanco y beige. Complementan tu estilo con total facilidad. Disponibles en tallas de la S a la XXL, con cortes que van desde el ajustado hasta el holgado, para un ajuste ideal en todo tipo de siluetas.
 - Pantalon Corto Mujer: Fashora pantalones cortos de verano para mujer están confeccionados con 80 % poliéster y 20 % rayón, son suaves al tacto, agradables para la piel y muy cómodos de llevar en días calurosos. Ideales para uso diario y momentos de ocio.
+- Short Mujer Elegante: Los pantalones cortos tipo bermuda de Fashora para mujer disponen de prácticos bolsillos para guardar llaves tarjetas y otros objetos. Es una prenda muy útil para el armario. Cuentan con corte holgado y largo hasta la rodilla que garantiza libertad de movimiento con un estilo elegante ideal para el tiempo libre.
+- Pantalones Cortos Cargo Mujer: Shorts mujer talle alto combinan fácilmente con tops, blazers y camisetas. Ideales para uso diario, desplazamientos laborales y oficina. Cuentan con tejido suave y corte clásico, siendo un básico práctico e imprescindible para tu armario.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GCNMLYNJ{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MATERIALES DE CALIDAD. Cuentan con tiras anchas de tela resistentes y una suela de goma duradera, conservando las propiedades clásicas de Havaianas: resistencia al calor, al agua y al uso diario
-- DISEÑO CON ESTAMPADO. Incorporan detalles gráficos que aportan personalidad al diseño, manteniendo una estética actual y fácil de combinar. Ideales para looks casuales y urbanos
 - URBAN PRINT. Chanclas de estilo urbano inspiradas en el estilo de vida surfero y las playas urbanas. Un modelo pensado para quienes buscan comodidad diaria con un toque moderno y desenfadado
+- DISEÑO CON ESTAMPADO. Incorporan detalles gráficos que aportan personalidad al diseño, manteniendo una estética actual y fácil de combinar. Ideales para looks casuales y urbanos
+- MATERIALES DE CALIDAD. Cuentan con tiras anchas de tela resistentes y una suela de goma duradera, conservando las propiedades clásicas de Havaianas: resistencia al calor, al agua y al uso diario
 - MANTENIMIENTO. Limpiar con una esponja suave humedecida en agua y jabón neutro. Evitar productos químicos y secar en un lugar aireado y a la sombra para preservar su forma y diseño
 - CONFORT Y SEGURIDAD. Su suela de goma blanda ofrece una pisada ligera, flexible y cómoda. El acabado antideslizante garantiza estabilidad y confort durante todo el día
 

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Altura tacón: 3 cm
 - punta afilada
+- Altura tacón: 3 cm
 - Zapato de salón efecto charol
 - plantilla acolchada
 

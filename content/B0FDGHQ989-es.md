@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Colección Lifewear
 - Pijama de manga larga Pantalón largo
+- Colección Lifewear
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FDGHQ989{{</world>}}

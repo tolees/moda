@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Logotipo de Nike en la parte delantera
 - El diseño otorga libertad a los movimientos
-- Tecnología Dri-Fit
 - Ajuste regular
+- Logotipo de Nike en la parte delantera
+- Tecnología Dri-Fit
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07W4SWFNR{{</world>}}

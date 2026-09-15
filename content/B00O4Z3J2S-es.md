@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cintura baja
 - Pierna recta
 - Ajuste regular
+- Cintura baja
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00O4Z3J2S{{</world>}}

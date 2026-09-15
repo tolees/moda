@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 95 % algodón, 5 % elastano
 - Logotipo bordado en el pecho
+- 95 % algodón, 5 % elastano
 - Camiseta de manga larga con cuello redondeado en canalé
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bolsillos con cremallera.
 - Bolsillo en el pecho con cremallera.
+- Bolsillos con cremallera.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FB39FT28{{</world>}}

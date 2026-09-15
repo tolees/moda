@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Corte holgado
 - Chaqueta con capucha
-- Composición: 61% poliéster, 39% algodón
 - Manga larga
+- Composición: 61% poliéster, 39% algodón
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CLDQBHFN{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 18TKOG00046A-001
 - Ligero, Encaje clasico, Manga de doble puntada y bastilla baja
 - Officially Licensed Star Trek Apparel
+- 18TKOG00046A-001
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09GCWT5LD{{</world>}}

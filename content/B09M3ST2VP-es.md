@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Chaleco acolchado sin mangas para mujer, cuello alto y capucha con elástico
 - Bolsillos laterales
 - Cremallera frontal completa, ligeramente entallada
+- Chaleco acolchado sin mangas para mujer, cuello alto y capucha con elástico
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09M3ST2VP{{</world>}}

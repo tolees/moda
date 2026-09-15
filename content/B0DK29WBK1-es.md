@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - MATERIAL Y CUIDADO: Este top de tirantes está confeccionado con 95 % viscosa y 5% elastano. Se puede lavar a máquina.
-- ESTILO: Este top de corte moderno y diseño minimalista favorece la figura y puede combinarse con todo.
 - PARA CUALQUIER OCASIÓN: Esta prenda minimalista sienta superbién y convence por su gran comodidad. Ya sea con vaqueros, shorts o pantalones elegantes, combina a la perfección con cualquier look ya sea informal o de oficina.
+- ESTILO: Este top de corte moderno y diseño minimalista favorece la figura y puede combinarse con todo.
 - AJUSTE PERFECTO: El diseño atemporal de este top minimalista destaca por su escote cuadrado. El tejido de alta calidad garantiza que se adapte perfectamente a tu figura y convierte a esta camiseta de tirantes en una prenda esencial en tu armario.
 - CALIDAD DEMOSTRADA: Desde 1985, esta marca de diseñador lleva demostrando por todo el mundo la calidad y la ligereza mediante una gran variedad de diseños en los míticos colores azul oscuro, blanco y rojo.
 

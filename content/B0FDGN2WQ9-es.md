@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Colección Daily Rose
 - Pijama de manga larga Pantalón largo
+- Colección Daily Rose
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FDGN2WQ9{{</world>}}

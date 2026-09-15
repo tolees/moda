@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Hecho de un tejido de punto ligero
 - Cuello redondo
-- De manga corta
 - Fabricado con algodón orgánico
+- De manga corta
+- Hecho de un tejido de punto ligero
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08CVQB7QG{{</world>}}

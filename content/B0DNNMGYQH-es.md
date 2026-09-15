@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte de fit estándar
-- Un suéter versátil para el día a día
-- LEVIS TAB: Existen diferentes variaciones de la conocida lengüeta roja. Todos los productos son originales de Levis, no importa si pone LEVIS, Levis, no está escrito o es de otro color.
 - Con puños y dobladillo de canalé
+- Un suéter versátil para el día a día
+- Corte de fit estándar
+- LEVIS TAB: Existen diferentes variaciones de la conocida lengüeta roja. Todos los productos son originales de Levis, no importa si pone LEVIS, Levis, no está escrito o es de otro color.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DNNMGYQH{{</world>}}

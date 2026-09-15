@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello alto y capucha
-- Alimentación ligera
 - Parka corta, ajustada con cordón
 - Dos bolsillos con ribetes y dos bolsillos delanteros
+- Cuello alto y capucha
 - Cremallera oculta y botones de presión ocultos
+- Alimentación ligera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08L9HDXZ6{{</world>}}

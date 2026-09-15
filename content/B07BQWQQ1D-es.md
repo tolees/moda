@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Rib knit crew neck
+- Loose Fit
 - Rib knit cuffs
 - Carhartt "Signature Logo" soft hand plastisol graphic print on left sleeve
-- Loose Fit
+- Rib knit crew neck
 - Long Sleeve
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ribete en capucha y dobladillo.
-- Dobladillo ajustable con cordón.
-- Protector de barbilla.
 - Repelencia avanzada Omni-Shield.
+- Dobladillo ajustable con cordón.
+- Ribete en capucha y dobladillo.
 - Aislamiento Thermarator 100% poliéster reciclado.
+- Protector de barbilla.
 - Bolsillos con cremallera.
 - Híbrido para elasticidad y transpirabilidad.
 

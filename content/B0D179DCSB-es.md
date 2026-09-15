@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Manga larga
-- Composición: 70% algodón, 30% poliéster
 - Ajuste estándar
+- Composición: 70% algodón, 30% poliéster
+- Manga larga
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D179DCSB{{</world>}}

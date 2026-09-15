@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cuello elevado.
+- Esta sudadera está confeccionada en algodón, de interior no perchado.
+- Polo Club sigue siendo fiel a prendas como la sudadera de cremallera con aire deportivo.
 - Cierre de cremallera completa en la parte delantera. Dos bolsillos delanteros. Cinturilla y puños acanalados. Bordado Rigby Go en el lado izquierdo del pecho.
 - Ideal para combinar con un pantalón de chándal, unos jeans o unos pantalones chinos.
-- Polo Club sigue siendo fiel a prendas como la sudadera de cremallera con aire deportivo.
-- Esta sudadera está confeccionada en algodón, de interior no perchado.
-- Cuello elevado.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CNH11XRR{{</world>}}

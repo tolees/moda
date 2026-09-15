@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Bajo recto
 - Manga corta
 - Bordado de G-Star RAW en el pecho
-- Bajo recto
 - Cuello de pico
 - Proporciona comodidad
 

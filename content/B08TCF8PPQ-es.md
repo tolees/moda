@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ajuste estándar para una sensación relajada y fácil
 - Collar acanalado
+- Ajuste estándar para una sensación relajada y fácil
 - Agradable, ligero y de tacto suave
 - Ligero esencial para la formación o competencia
 

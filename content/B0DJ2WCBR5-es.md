@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre mediante cremallera lateral cubierta. Cordones regulables
 - [Nuestra Marca]: REFRESH con estilo fresco y juvenil. Calzado versátil y moderno diseñado para quienes buscan estar siempre a la moda sin renunciar a la comodidad.
+- Cierre mediante cremallera lateral cubierta. Cordones regulables
 - Un imprescindible que no puede faltar en tu armario esta temporada. Este modelo ha obtenido el certificado vegano por la organización mundial PETA (Organización de los derechos de los animales)
 - Zapatilla de mujer, de la marca Refresh. Fabricada en material que imita a la piel combinada con antelina
 

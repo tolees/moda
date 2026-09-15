@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - El cuero es una inversión que disfrutarás durante muchos años porque es suave, naturalmente repelente al agua y duradero
-- No lavar ni usar blanqueador
-- 100 % piel de búfalo
 - Completa tu ropa de negocios o atuendo festivo con accesorios atemporales que se ven refinados y elegantes
+- 100 % piel de búfalo
+- No lavar ni usar blanqueador
 - Tiene un cierre con una hebilla de pin
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

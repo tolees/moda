@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fabricado con telas aptas para niños que tienen un tacto genial durante todo el día
 - Confeccionado con materiales duraderos y suaves al tacto
+- Fabricado con telas aptas para niños que tienen un tacto genial durante todo el día
 - Camiseta de punto 100 % algodón
-- Logo estampado en el pecho
 - Diseñado para una comodidad y uso duraderos
+- Logo estampado en el pecho
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DY1NLLN2{{</world>}}

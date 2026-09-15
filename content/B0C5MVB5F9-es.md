@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Composición del material: 50% poliéster, 50% poliéster reciclado
+- Cuello redondo
 - Solapa de botón a presión
 - Chaqueta acolchada con mangas largas
-- Cuello redondo
+- Composición del material: 50% poliéster, 50% poliéster reciclado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C5MVB5F9{{</world>}}

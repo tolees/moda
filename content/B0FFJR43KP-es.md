@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- DETALLES: Borde festoneado bordado, cuello y puños acanalados y cintura fácil de poner con bolsillos
-- COLABORACIÓN CON SOFIA GRAINGE: Estilos inspirados para los más pequeños, creados en colaboración con Sofia Grainge
 - TELA: Acogedor tejido de rizo francés
+- COLABORACIÓN CON SOFIA GRAINGE: Estilos inspirados para los más pequeños, creados en colaboración con Sofia Grainge
+- DETALLES: Borde festoneado bordado, cuello y puños acanalados y cintura fácil de poner con bolsillos
 - CORTE HOLGADO: La sudadera tiene un corte holgado con hombros caídos y el pantalón de chándal tiene un corte cómodo y holgado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

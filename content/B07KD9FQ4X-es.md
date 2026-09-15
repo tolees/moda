@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ofrece una comodidad óptima
 - El material absorbe el calor y se seca rápidamente
+- Ofrece una comodidad óptima
 - Ribetes y puños acanalados adherentes
 - Marca del producto: Nike
 

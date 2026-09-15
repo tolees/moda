@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NIKE Victori One Chanclas Hombre Black White Black 45 EU'
-date: 2026-09-03 15:05:02
+date: 2026-09-14 14:19:30
 image: 'https://m.media-amazon.com/images/I/317zFuc3p3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,6 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre: Sin cordones
-- Tipo de tacón: Plano
-- Material de la suela: Caucho
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08PKGGYXP{{</world>}}

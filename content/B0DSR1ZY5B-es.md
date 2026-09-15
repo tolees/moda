@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Camiseta con gran logotipo impreso en la parte delantera. Hecho de una tela de algodón de punto simple.
+- Ajuste: corte regular, longitud de espalda en talla L aprox. 74 cm
 - Manga corta con cuello redondo, ideal para primavera, otoño y verano
 - Hecho de suave tejido de punto simple
-- Ajuste: corte regular, longitud de espalda en talla L aprox. 74 cm
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DSR1ZY5B{{</world>}}

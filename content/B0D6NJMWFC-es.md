@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajuste: cintura alta flaco
 - Instrucciones de cuidado: apto para lavadora
+- Jeans Pantalones Largos
+- Ajuste: cintura alta flaco
 - Composición: 44 por ciento algodón 42 por ciento lyocell 13 por ciento poliéster 1 por ciento elastano
 - Tipo de estiramiento: alta elasticidad
-- Jeans Pantalones Largos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D6NJMWFC{{</world>}}

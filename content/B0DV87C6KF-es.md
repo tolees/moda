@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 95 % poliéster, 5 % poliuretano
-- Grayson - Riñonera con cierre de cremallera oculto, correa de hombro ajustable, tirador de cremallera personalizado
 - Compartimento trasero y parche de goma con logotipo en la parte delantera
+- Grayson - Riñonera con cierre de cremallera oculto, correa de hombro ajustable, tirador de cremallera personalizado
+- 95 % poliéster, 5 % poliuretano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DV87C6KF{{</world>}}

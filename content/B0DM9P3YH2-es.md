@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Lavar del revés. Lavar a máquina en agua fría con prendas de colores similares. Utilizar exclusivamente lejía sin cloro si es necesario;Secar en secadora a baja temperatura. No planchar. No utilizar suavizantes. No limpiar en seco
 - Tejido muy suave de mezcla de algodón que proporciona comodidad durante todo el día
-- Encontrarás miles de camisetas estampadas, pero ninguna como las de Under Armour
 - Cuello acanalado
+- Lavar del revés. Lavar a máquina en agua fría con prendas de colores similares. Utilizar exclusivamente lejía sin cloro si es necesario;Secar en secadora a baja temperatura. No planchar. No utilizar suavizantes. No limpiar en seco
 - El tejido que utilizamos cuenta con una confección ligera, suave y de secado rápido
+- Encontrarás miles de camisetas estampadas, pero ninguna como las de Under Armour
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DM9P3YH2{{</world>}}

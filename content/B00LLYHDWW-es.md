@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Manga larga || Mangas Normales || Cuello Redondo Sin cuello || Material duradero
 - Camiseta Manga Larga con las siguientes características:
 - Descubre todas las marcas de EMP!
 - Básicos, Ropa de Calle
-- Manga larga || Mangas Normales || Cuello Redondo Sin cuello || Material duradero
 - Ajuste : Regular
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

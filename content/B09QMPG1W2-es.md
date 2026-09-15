@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Estilo informal
-- Jersey de manga larga
 - Ajuste óptimo y gran comodidad
+- Jersey de manga larga
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09QMPG1W2{{</world>}}

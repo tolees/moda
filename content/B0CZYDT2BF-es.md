@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cintura : Talle medio
-- Klavado/acabado : Lavado a la piedra para un acabado desgastado y desteñido
+- Corte : Ajuste regular con cintura media, muslo regular y parte baja regular
 - Artículo : Shorts de ajuste regular
 - Cierre : Bragueta de botones
+- Cintura : Talle medio
 - Bolsillos : Bolsillos traseros, Bolsillo relojero, Bolsillos delanteros
-- Corte : Ajuste regular con cintura media, muslo regular y parte baja regular
+- Klavado/acabado : Lavado a la piedra para un acabado desgastado y desteñido
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CZYDT2BF{{</world>}}

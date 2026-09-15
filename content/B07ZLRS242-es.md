@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Calzoncillos negros para hombre en paquete de 5 unidades
 - Cintura elástica
+- Calzoncillos negros para hombre en paquete de 5 unidades
 - Cuenta con un ajuste regular
 - Mezcla de algodón y elastano para durabilidad y flexibilidad
 

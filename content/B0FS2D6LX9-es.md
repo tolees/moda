@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - TOP MODERNO: camisa esencial de verano ideal para salidas informales o días de playa; combina fácilmente con pantalones cortos, chinos o bañadores para un look veraniego elegante
 - DETALLES: cuello abotonado, bolsillo de parche, canesú trasero con pliegues y dobladillo redondeado
-- MEZCLA DE LINO TEJIDO: la mezcla de lino y algodón proporciona una comodidad fresca y transpirable con un suave drapeado
 - CORTE HOLGADO: corte holgado en los hombros, el pecho y la cintura
+- MEZCLA DE LINO TEJIDO: la mezcla de lino y algodón proporciona una comodidad fresca y transpirable con un suave drapeado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FS2D6LX9{{</world>}}

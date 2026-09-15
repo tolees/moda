@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ABERTURA DE LA PIERNA: 19,1cm en la talla 32 de España
 - CHINO RESISTENTE A LAS ARRUGAS: tejido chino de mezcla de algodón de fácil cuidado con un acabado resistente a las arrugas y un tacto aterciopelado. Estos pantalones no evitan las arrugas, pero están tratados para facilitar su cuidado con un acabado resistente a las arrugas
-- ESTILO CLÁSICO: chino de corte recto con diseño versátil, aspecto entallado y comodidad durante todo el día
-- DETALLES: bolsillos frontales inclinados y bolsillos traseros con botones; cierre con cremallera y botón. Se pueden lavar a máquina
 - CORTE RECTO: se ajusta a la cadera y el muslo con una pernera recta. Se ajusta a la cintura
+- ESTILO CLÁSICO: chino de corte recto con diseño versátil, aspecto entallado y comodidad durante todo el día
+- ABERTURA DE LA PIERNA: 19,1cm en la talla 32 de España
+- DETALLES: bolsillos frontales inclinados y bolsillos traseros con botones; cierre con cremallera y botón. Se pueden lavar a máquina
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07FHB5WQ3{{</world>}}

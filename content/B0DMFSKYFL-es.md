@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Logotipo de adidas bordado
 - Dobladillo elástico acanalado
+- Logotipo de adidas bordado
 - Cintura elástica
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

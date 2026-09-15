@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Una sandalia ideal para completar tus looks más veraniegos esta temporada
 - [Nuestra Marca]: XTI se caracteriza por su moda urbana y funcional con calzado que combina las últimas tendencias con comodidad y versatilidad para un estilo de vida activo y moderno.
 - Cierre mediante tira adherente. Plataforma rodeada por tira de yute con suela de goma antideslizante
-- Una sandalia ideal para completar tus looks más veraniegos esta temporada
 - Sandalia multicolor de niña, de la marca Xti Kids. Fabricada en una suave antelina
 
 [🛒 Visítala!!!]({{< param buyurl >}})

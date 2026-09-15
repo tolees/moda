@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseñado para mejorar la transpirabilidad
 - Ligeras y flexibles
 - Fáciles de limpiar y de secado rápido
+- Diseñado para mejorar la transpirabilidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DW4G5K84{{</world>}}

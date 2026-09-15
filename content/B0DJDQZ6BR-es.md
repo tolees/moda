@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Manga corta
 - Cuello: cuello redondo
 - Material principal: punto simple
-- Manga corta
-- Largo: corto
 - Corte: normal
+- Largo: corto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DJDQZ6BR{{</world>}}

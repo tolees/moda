@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Provides comfort
 - Button fly
+- Provides comfort
 - Long sleeves
-- Shirt collar
 - Lightweight fabric
+- Shirt collar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D8WMRSGN{{</world>}}

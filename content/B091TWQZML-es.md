@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cierre : Cierre de cremallera
-- Cuello : Capucha
-- Detalles : Detalle de bloques de color, Detalle del logo
 - Manga : Manga larga
 - Largo/talla : Corto
+- Cuello : Capucha
+- Detalles : Detalle de bloques de color, Detalle del logo
 - Bolsillos : Bolsillos delanteros
 - Artículo : Chaqueta bomber
 - Puños : Puños acanalados

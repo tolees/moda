@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ELEGANTE Y CÓMODO
 - GAFAS DE SOL RECTANGULARES
+- ELEGANTE Y CÓMODO
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DGGRNJS1{{</world>}}

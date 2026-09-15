@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sujetador triangular, en tejido de microfibra, con estampado animal print, con detalle de chapita con logo "WS" en el pecho
 - Diseño súper confort con cortes modernos y detalles sensuales
+- Sujetador triangular, en tejido de microfibra, con estampado animal print, con detalle de chapita con logo "WS" en el pecho
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DQVJJGSJ{{</world>}}

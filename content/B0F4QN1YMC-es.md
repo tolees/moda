@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Algodón puro
 - Cinta distintiva en el interior del cuello
 - Cuello redondo
 - Cuello, puños y dobladillo acanalados
+- Algodón puro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F4QN1YMC{{</world>}}

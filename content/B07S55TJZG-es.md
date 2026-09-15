@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 5-pocket jeans without lavation
 - Elastic jeans made of cotton
+- 5-pocket jeans without lavation
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07S55TJZG{{</world>}}

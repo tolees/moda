@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ajuste regular
 - Logotipo Levis Batwing en el pecho
+- Ajuste regular
 - Ajuste regular
 
 [🛒 Visítala!!!]({{< param buyurl >}})

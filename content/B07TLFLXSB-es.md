@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Este producto es original Levis
 - Camisa denim clásica de manga larga Western Shirt
+- Este producto es original Levis
 - Modelo casual
 - Dos bolsillos con botón en el pecho
 

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ESTILO VERSÁTIL: combina con jeans para salidas aventureras, perfecto para caminatas o relajarse, adecuado para todas las estaciones
 - ESTILO AUDAZ: polar gráfico listo para la aventura con emblema Columbia llamativo y tela rica en algodón—ideal como ropa para exterior
-- TELAS PREMIUM: 67% algodón, 33% mezcla de poliéster, textura ultra suave, lavar a máquina con agua fría, ciclo delicado, secar en secadora a temperatura baja
+- ESTILO VERSÁTIL: combina con jeans para salidas aventureras, perfecto para caminatas o relajarse, adecuado para todas las estaciones
 - IDEAL PARA LA AVENTURA: cuello, puños y dobladillo acanalados, estilo cuello redondo, manga larga, sin bolsillos para un ajuste clásico
 - CONTENIDO: 1x Columbia Trek Crew Sudadera, Hombre, Color: Gris (Charcoal Heather, Boxy Brand), Talla: L
+- TELAS PREMIUM: 67% algodón, 33% mezcla de poliéster, textura ultra suave, lavar a máquina con agua fría, ciclo delicado, secar en secadora a temperatura baja
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DLYVTKXD{{</world>}}

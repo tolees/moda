@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseñada con un fit estilizado y ajustado
 - Acabada con un discreto logotipo en el pecho
+- Diseñada con un fit estilizado y ajustado
 - Una camisa versátil que puedes combinar con vaqueros o chinos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

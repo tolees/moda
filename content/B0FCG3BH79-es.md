@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Puente de doble capa
 - Correas suaves forradas de poliéster
 - Cinta de tela de algodón con lavados y bordes deshilachados
+- Puente de doble capa
 - Soporte de arco anatómicamente correcto
 - Entresuela de doble densidad para mayor comodidad y agarre
 

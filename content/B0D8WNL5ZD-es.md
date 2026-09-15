@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Mangas con vuelta fija con remaches
+- Estampado flocado de G-STAR en el pecho
 - Una mirada original
 - Proporciona comodidad
-- Estampado flocado de G-STAR en el pecho
-- Mangas con vuelta fija con remaches
 - Cuello acanalado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

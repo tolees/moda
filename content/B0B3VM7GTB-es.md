@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Micro águila frontal
 - Corte entallado
+- Micro águila frontal
 - Manga corta
 
 [🛒 Visítala!!!]({{< param buyurl >}})

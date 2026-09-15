@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Logotipo de AIX Milano/NY en el pecho
 - Hecho de 100% algodón
-- Exclusivo de Amazon
+- Logotipo de AIX Milano/NY en el pecho
 - Escote redondo
+- Exclusivo de Amazon
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DMWWN8M2{{</world>}}

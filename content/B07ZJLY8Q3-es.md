@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con elástico para mayor flexibilidad
 - Muslo estrecho, ajustado en la rodilla, puños de pierna súper apretados
+- Con elástico para mayor flexibilidad
 - Cierre de cremallera
 
 [🛒 Aquí!!!]({{< param buyurl >}})

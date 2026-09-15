@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Artículos entregados: 1x Sudadera Helly Hansen Womens W Nord Graphic - Sudadera con capucha Ocean XS
-- RIB - dobladillo inferior/puños
-- Cuello redondo
 - Tejido mezcla de algodón y poliéster
+- RIB - dobladillo inferior/puños
 - Gráfico de Helly Hansen Nord en el pecho
+- Cuello redondo
+- Artículos entregados: 1x Sudadera Helly Hansen Womens W Nord Graphic - Sudadera con capucha Ocean XS
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B2JBZR4J{{</world>}}

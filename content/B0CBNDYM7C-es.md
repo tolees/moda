@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cintura baja
 - Corte ajustado
-- Vaqueros Ajustados
 - Composición: 68% algodón, 30% poliéster, 2% elastano
+- Cintura baja
+- Vaqueros Ajustados
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CBNDYM7C{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estilo informal
 - Manga corta
+- Estilo informal
 - Cuello redondo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

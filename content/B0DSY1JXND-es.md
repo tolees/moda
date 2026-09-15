@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Detalles distintivos de la marca
-- Tejido ligero y transpirable
 - Ofrece una comodidad óptima
+- Tejido ligero y transpirable
+- Detalles distintivos de la marca
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DSY1JXND{{</world>}}

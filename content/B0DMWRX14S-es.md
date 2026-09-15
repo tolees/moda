@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Composición: 35 % viscosa
 - 35 % poliamida
 - 30 % lana
+- Composición: 35 % viscosa
 - Detalles bordados
 - Cuello redondo
 

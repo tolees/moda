@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - G-Star Estampado RAW en el pecho
-- Un aspecto original
 - Cuello acanalado
-- Un ajuste cómodo
+- Un aspecto original
 - Etiqueta tejida G-Star Originals en la parte inferior de la costura lateral
+- Un ajuste cómodo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DK5DC39R{{</world>}}

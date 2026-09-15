@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Presenta el logotipo bordado
-- Con puños de canalé para un óptimo ajuste
 - Sudadera con cremallera y canesú en contraste
 - Tiene mangas largas
+- Con puños de canalé para un óptimo ajuste
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07F9YXHPV{{</world>}}

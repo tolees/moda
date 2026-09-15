@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- QUÉ RECIBIRÁS: 1 chaqueta impermeable Columbia para hombre, Pouring Adventure III, chubasquero plegable para hombre, color: negro, talla: M
-- COBERTURA AJUSTABLE: Capucha y dobladillo con cordón para protegerte del viento y la lluvia con ajuste seguro.
 - PROTECCIÓN IMPERMEABLE OMNI-TECH: Construcción totalmente sellada para mantenerte seco con comodidad transpirable.
 - LIGERA Y EMPAQUETABLE: Diseño plegable para guardar la chaqueta en mochila o equipaje de mano con facilidad.
+- COBERTURA AJUSTABLE: Capucha y dobladillo con cordón para protegerte del viento y la lluvia con ajuste seguro.
+- QUÉ RECIBIRÁS: 1 chaqueta impermeable Columbia para hombre, Pouring Adventure III, chubasquero plegable para hombre, color: negro, talla: M
 - CONFORT TRANSPIRABLE MEJORADO: Forro de malla que mejora la ventilación y evita la sensación de humedad.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

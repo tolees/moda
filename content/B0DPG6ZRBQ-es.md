@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tejido: algodón jersey [160 g/m2]
 - Trim/Patch: Billabong woven label
+- Tejido: algodón jersey [160 g/m2]
 - Impresión de pantalla en frente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

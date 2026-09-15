@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Revestimiento: Cuero
 - Cierre: Cordones
 - Material exterior: Cuero
-- Revestimiento: Cuero
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B001LTKSNI{{</world>}}

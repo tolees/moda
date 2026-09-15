@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - G-Star RAW bordado en el pecho
-- Ranuras laterales
 - Escote acanalado y inserto
 - Proporciona comodidad
+- Ranuras laterales
 - Etiqueta tejida G-Star Originals en la costura lateral inferior
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sudadera Sudadera
 - Sudadera De Cuello Alto
+- Sudadera Sudadera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FCSNG21T{{</world>}}

@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Material exterior: exterior de TPU con material superior de purpurina inyectada y pin con logotipo de Roxy
-- Suela exterior: suela exterior de goma
 - Plantilla: goma estructurada con impresión gráfica y purpurina
+- Suela exterior: suela exterior de goma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B539V1MN{{</world>}}

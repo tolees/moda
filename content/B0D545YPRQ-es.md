@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Replica oficial primera equipación Real Madrid
 - Tejido ligero
 - Producto de calidad óptima
+- Replica oficial primera equipación Real Madrid
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D545YPRQ{{</world>}}

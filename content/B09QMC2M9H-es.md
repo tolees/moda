@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Camiseta de manga corta
 - Con un discreto logo en la parte izquierda del pecho
-- Adecuada para un look relajado
 - Cuello redondo
+- Adecuada para un look relajado
+- Camiseta de manga corta
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09QMC2M9H{{</world>}}

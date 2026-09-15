@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gafas de sol polarizadas: Reduce los reflejos superficiales y la fatiga ocular proporcionando nitidez y contrastes superiores. Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol. absorben entre un 82% y un 92% de luz solar. Material de la lente: Lentes fabricadas en material bio tac polarizado. protección 100 % UV. Color de la lente: Marrón. Apariencia de la lente: Sólida
-- Material de la montura: Metal, Acetato. Color de la montura: Carey. Color de la varilla: Carey
 - Producto original Hawkers. la caja incluye funda en microfibra y caja
+- Gafas de sol polarizadas: Reduce los reflejos superficiales y la fatiga ocular proporcionando nitidez y contrastes superiores. Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol. absorben entre un 82% y un 92% de luz solar. Material de la lente: Lentes fabricadas en material bio tac polarizado. protección 100 % UV. Color de la lente: Marrón. Apariencia de la lente: Sólida
 - El frontal y los terminales de la varilla lucen un acetato color carey que contrasta con las varillas de acero inoxidable; los terminales de la varilla en acetato proporcionan una sujeción más cómoda que combinan en color con el frontal
 - Modelo Unisex. Medidas: Frontal 140.8 mm, Varillas 145 mm, Puente 20.5 mm, Alto 46.4 mm
+- Material de la montura: Metal, Acetato. Color de la montura: Carey. Color de la varilla: Carey
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BTPCPKBV{{</world>}}

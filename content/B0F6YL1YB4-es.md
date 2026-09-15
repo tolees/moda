@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello: cuello redondo
-- Corte: holgado
-- Manga corta
 - Material principal: piqué
 - Largo: estándar
+- Corte: holgado
+- Cuello: cuello redondo
+- Manga corta
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F6YL1YB4{{</world>}}

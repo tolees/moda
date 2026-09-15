@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 85 % algodón, 15 % poliéster
 - Sudadera de cuello redondeado con acanalado en puños, dobladillo y cuello
+- 85 % algodón, 15 % poliéster
 - Logotipo en la parte delantera con corazón con alas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

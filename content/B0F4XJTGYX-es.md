@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Una mirada original
-- Detalles gráficos
 - Cuello redondo
+- Detalles gráficos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F4XJTGYX{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Presenta el logotipo de la marca
-- Este producto es original Levis
 - Adecuado para días calurosos
+- Este producto es original Levis
+- Presenta el logotipo de la marca
 - Ofrece una comodidad óptima
 
 [🛒 Visítala!!!]({{< param buyurl >}})

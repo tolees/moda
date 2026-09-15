@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material exterior: correa de piel sintética con logotipo de metal ROXY
 - __Plantilla: __ plantilla de EVA texturizada con diseño ROXY en relieve
+- Material exterior: correa de piel sintética con logotipo de metal ROXY
 - Suela exterior: __ suela de goma con estampado floral ROXY
 
 [🛒 Visítala!!!]({{< param buyurl >}})

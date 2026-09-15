@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Adecuada para un look relajado
 - Cuello redondo
 - Con un discreto logo en la parte izquierda del pecho
 - Camiseta de manga corta
-- Adecuada para un look relajado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09QMCG8NT{{</world>}}

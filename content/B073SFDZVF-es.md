@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Montura fabricada en TR90 que dota a las gafas de gran ligereza, flexibilidad y resistencia, resistente a altas y bajas temperaturas
 - Modelo unisex, frontal 14.1 cm, alto 5.1 cm, patillas 14 cm
+- Montura fabricada en TR90 que dota a las gafas de gran ligereza, flexibilidad y resistencia, resistente a altas y bajas temperaturas
 - Producto original Hawkers, la caja incluye funda, caja y set de pegatinas decorativas
 - Montura negra en acabado brillante y máscara frontal de lente espejo cromado
 - Mono lente efecto espejo gris, fabricada en TR18, con reducción de brillos y con gran equilibrio entre claridad y protección

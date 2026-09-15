@@ -29,11 +29,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - CORTE HOLGADO: corte holgado en la cadera, el muslo y la pierna. Se ajusta por debajo de la cintura natural
-- DETALLES: este conjunto incluye una camiseta de manga corta con botones frontales, cuello de camisa clásico y delicados ribetes en la apertura frontal y el cuello. Los pantalones cortos cuentan con una cintura elástica para un corte cómodo
-- PUNTO DE MEZCLA DE MODAL: la mezcla de elastano y modal proporciona una sensación suave y sedosa con elasticidad para mayor comodidad
 - PIJAMA DE PERSONAJES: divertido pijama con sus personajes favoritos para dormir cómodamente
-- COLABORACIÓN CON SOFIA GRAINGE: Estilos inspirados para ti y tus pequeños, creados en colaboración con Sofia Grainge
+- DETALLES: este conjunto incluye una camiseta de manga corta con botones frontales, cuello de camisa clásico y delicados ribetes en la apertura frontal y el cuello. Los pantalones cortos cuentan con una cintura elástica para un corte cómodo
 - Certificado STANDARD 100 de OEKO-TEX que exige que los productos textiles se prueben con más de 1000 productos químicos con el fin de limitar aquellos que puedan ser perjudiciales para la salud humana
+- COLABORACIÓN CON SOFIA GRAINGE: Estilos inspirados para ti y tus pequeños, creados en colaboración con Sofia Grainge
+- PUNTO DE MEZCLA DE MODAL: la mezcla de elastano y modal proporciona una sensación suave y sedosa con elasticidad para mayor comodidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FTZ54SFK{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte: estándar
-- Material principal: punto plano
-- Cuello: cuello redondo
-- Manga larga
 - Cierre: de cremallera
+- Manga larga
+- Cuello: cuello redondo
+- Material principal: punto plano
+- Corte: estándar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DJDGRFKY{{</world>}}

@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Logotipo de cocodrilo y marca de texto
-- 100% algodón
-- Ajuste clásico
 - Cuello redondo
+- Ajuste clásico
+- 100% algodón
 - Camiseta de algodón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Monedero de 11,5 cm x 8 cm x 1,5 cm fabricado en piel sintética.
 - Cuenta un compartimento con cierre de cremallera y dos ranuras para tarjetas a cada lado.
 - Tamaño ideal para llevarlo en un bolso pequeño o bandolera.
-- Monedero de 11,5 cm x 8 cm x 1,5 cm fabricado en piel sintética.
 - Sistema especial de protección para las tarjetas RFID que bloquea las señales de dispositivos de escaneo no autorizados por radiofrecuencia.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

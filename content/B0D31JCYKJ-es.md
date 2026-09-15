@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tejido suave y ligero
 - Ofrece una comodidad óptima
+- Tejido suave y ligero
 - Estampado en la parte delantera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

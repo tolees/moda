@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cuello, puños y bajo de canalé
 - Logotipos en la parte delantera y trasera
 - Cuello redondo
 - Alta calidad
-- Cuello, puños y bajo de canalé
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DFYTYHSW{{</world>}}

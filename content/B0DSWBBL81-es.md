@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- An original look
 - Provides comfort
+- A comfortable fit
+- An original look
 - Button fly
 - Inset pockets, including coin pocket
-- A comfortable fit
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DSWBBL81{{</world>}}

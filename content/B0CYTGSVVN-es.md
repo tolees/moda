@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - 100% poliéster (reciclado)
 - Cuello interior en contraste
-- Corte clásico
 - Cuello alzado con cremallera hasta el pecho
+- Corte clásico
 - Tejido suave y ligero
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

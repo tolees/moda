@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Corte entallado
 - Dobladillo redondeado
 - Bordado gráfico GANT en el pecho
-- Corte entallado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BG4X71WB{{</world>}}

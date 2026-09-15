@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Flexible
 - Aspecto y tacto clásicos
 - Producto de alta calidad
-- Flexible
 - Clarks Sandals, Arwell Glide, Metallic Combi, 5 (Women)
 - Cojín suave
 

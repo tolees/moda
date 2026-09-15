@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- De la marca Nike
-- Tipo de deporte: Running
 - Alta calidad
 - Productos ideales para ti y tu vida diaria
-- Diseño funcional
+- Tipo de deporte: Running
+- De la marca Nike
 - Tipo de fábrica: 50% Algodón 50% Poliéster
+- Diseño funcional
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B008GNOHAM{{</world>}}

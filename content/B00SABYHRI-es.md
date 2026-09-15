@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de deporte: Ropa deportiva atlética
 - Nike es un nombre de marca reconocido
+- Tipo de deporte: Ropa deportiva atlética
 - Ribbed hems
-- 3 pair pack
 - Soft fabric
+- 3 pair pack
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00SABYHRI{{</world>}}

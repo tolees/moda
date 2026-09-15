@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con tecnología Nike Dri-Fit para eliminar el sudor de la piel y para una evaporación rápida
 - Los puños acanalados ayudan a mantener los calcetines en su lugar
+- Con tecnología Nike Dri-Fit para eliminar el sudor de la piel y para una evaporación rápida
 - La banda del arco proporciona una sensación de apoyo
 - Pack de 3 unidades
 

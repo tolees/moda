@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Estructura acanalada recortada
-- Contenido elástico ligero
 - Top corto acanalado
+- Contenido elástico ligero
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C2H1ZCRF{{</world>}}

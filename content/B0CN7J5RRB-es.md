@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Ajuste de ancho: estándar
 - Parte superior: Cuero
 - Altura del tacón: 2 cm
-- Forro: piel
 - Suela: hecha a mano
+- Forro: piel
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CN7J5RRB{{</world>}}

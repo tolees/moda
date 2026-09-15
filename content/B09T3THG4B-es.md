@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Composición: sudadera hecha en tela de forro polar muy calentita y suave al tacto (100% poliéster)
-- Talla única: sudadera para niños en talla única. Ajuste holgado
-- Modelos, detalles y tabla de tallas en las imágenes
 - Genial para acurrucarse en el sofá: la sudadera oversize de Pokemon en forro polar super suave
+- Talla única: sudadera para niños en talla única. Ajuste holgado
+- Composición: sudadera hecha en tela de forro polar muy calentita y suave al tacto (100% poliéster)
+- Modelos, detalles y tabla de tallas en las imágenes
 - Merchandising Pokémon con licencia oficial
 
 [🛒 Comprar!!!]({{< param buyurl >}})

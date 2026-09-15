@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- 95% poliéster reciclado / 5% elastán
+- HEAT.RDY
 - Inserciones estratégicas de malla
 - Largo clásico
-- 95% poliéster reciclado / 5% elastán
 - FORMOTION
-- HEAT.RDY
 - Paneles acolchados en la puntera y el talón
 
 [🛒 Aquí!!!]({{< param buyurl >}})

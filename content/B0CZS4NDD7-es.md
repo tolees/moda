@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Ajuste: corte normal
 - Camiseta clásica y sencilla
 - Cuello: redondo
-- Ajuste: corte normal
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CZS4NDD7{{</world>}}

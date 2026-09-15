@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Planta de piel transpitable y acolchada
 - Piso es de caucho
 - Zapatos estilo Mary Jane con tacón, punta cuadrada y cierres regulables
 - Altura tacón 5,5 cm
+- Planta de piel transpitable y acolchada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DVGWHB1Q{{</world>}}

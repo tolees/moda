@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Sudadera con capucha de ajuste regular
-- 100 % algodón
 - Con un gran logotipo impreso en la parte delantera
+- 100 % algodón
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DQDKCXCD{{</world>}}

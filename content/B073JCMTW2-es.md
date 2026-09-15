@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La hoja es afilada para cortar rápidamente un cinturón de seguridad; el mango de plástico naranja brillante proporciona un agarre seguro.
-- El martillo no sirve para el vidrio laminado
 - Martillo de dos cabezas, hecho de duro metal tungsteno, para romper rápidamente una ventanilla de coche.
 - Diseñado para ayudar a escapar de un coche hundiéndose, cabeza abajo, destrozado o en llamas.
+- El martillo no sirve para el vidrio laminado
+- La hoja es afilada para cortar rápidamente un cinturón de seguridad; el mango de plástico naranja brillante proporciona un agarre seguro.
 - Incluye un soporte protector para guardarlo de forma segura; guárdalo en el cajoncito entre los asientos o en la puerta del copiloto.
 - Herramienta 2 en 1 para escape, con un martillo rompecristales y un cortador de cinturón de seguridad; pack de 2.
 

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Fabricado con materiales sostenibles
 - Chaqueta de la marca VERO MODA
 - Adecuado para: clima frío
-- Fabricado con materiales sostenibles
 - Diseño cálido y cómodo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

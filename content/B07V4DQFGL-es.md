@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- De algodón elástico y suave
-- Manga corta con cuello redondo
 - BE PART: Somos miembros orgullosos de la iniciativa Better Cotton (BCI). Con la compra de este artículo apoyas un cultivo de algodón más sostenible.
 - Ajuste: Regular Fit
+- Manga corta con cuello redondo
+- De algodón elástico y suave
 - Camiseta con logotipo impreso en la parte delantera
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La parte superior cuenta con prácticos bolsillos
 - Cintura con cordón
+- La parte superior cuenta con prácticos bolsillos
 - Fabricado con materiales duraderos y de calidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 22,9 × 24,1 × 38,7 cm
 - Cuero martillado con detalles dorados.
+- 22,9 × 24,1 × 38,7 cm
 - Amplio interior con bolsillo trasero con abertura.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

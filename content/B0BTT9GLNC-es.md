@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sudadera con cierre de cremallera frontal
 - Capucha ajustable mediante cordones
+- Sudadera con cierre de cremallera frontal
 - Detalles distintivos de la marca
 - Con bolsillos laterales
 

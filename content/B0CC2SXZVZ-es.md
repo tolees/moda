@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Plantilla acolchada de contorno extraíble
 - Clarks Shoes, Courtlite2 Run, Navy Nubuck, 8 (Men)
+- Plantilla acolchada de contorno extraíble
 - Talón de goma y clip de talón de TPU
 
 [🛒 Visítala!!!]({{< param buyurl >}})

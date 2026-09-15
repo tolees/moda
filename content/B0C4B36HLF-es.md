@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camisa manga corta
 - corte ajustado
+- Camisa manga corta
 - Tecnología Dri-Fit
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

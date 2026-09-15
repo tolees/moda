@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Cuello redondo
 - Corte clásico
 - Tejido transpirable
-- Cuello redondo
 - Interlock 100% poliéster reciclado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

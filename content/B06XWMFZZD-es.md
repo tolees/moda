@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - DETALLES: Bolsillos delanteros oblicuos y bolsillos traseros con botón; bragueta con cremallera y cierre con botón. Se puede lavar a máquina
-- ESTILO CLÁSICO: Pantalones chinos con pliegues con un aspecto versátil pero entallado, que aportan comodidad durante todo el día
 - Abertura de la pierna: La talla 42 mide 21,6 cm.
+- ESTILO CLÁSICO: Pantalones chinos con pliegues con un aspecto versátil pero entallado, que aportan comodidad durante todo el día
 - PANTALONES CHINOS ANTIARRUGAS: Tejido de mezcla de algodón muy fácil de cuidar, con acabado antiarrugas y tacto amelocotonado. Estos pantalones no son inmunes a las arrugas, pero están tratados con un acabado antiarrugas que facilita su cuidado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

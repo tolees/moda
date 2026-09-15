@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Combinaciones: Camiseta básica elegante combina con vaqueros, faldas, leggings, pantalones o cárdigans. Perfecta para primavera y verano.
-- Cuidado: Lavar a mano o a máquina bajo 30 grados. No usar blanqueador. Secar colgado.
-- Diseño: Top de punto mujer, manga corta, cuello V, corte entallado, color sólido, estilo casual básico.
 - Camiseta Manga Corta Mujer Material: 92% algodón, 8% elastano, tejido de punto acanalado. Suave, elástico, ligero, transpirable y cómodo.
 - Ocasiones: Blusa moda y2k ideal para uso diario, actividades al aire libre, compras, vacaciones, viajes, salidas, club, fiestas y citas.
+- Cuidado: Lavar a mano o a máquina bajo 30 grados. No usar blanqueador. Secar colgado.
+- Diseño: Top de punto mujer, manga corta, cuello V, corte entallado, color sólido, estilo casual básico.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DSC5P53R{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 100 % poliuretano
 - Bolso cruzado Edith Moon fabricado en poliuretano con tachuelas redondas metálicas
+- 100 % poliuretano
 - Cierre de cremallera, compartimento único, bolsillo interior, correa de hombro larga ajustable con cadena metálica, placa de metal con logotipo en la parte delantera
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

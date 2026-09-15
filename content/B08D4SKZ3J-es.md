@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Fabricada en tejido ligero
+- Modelo casual
 - Con el logotipo deportivo de Levis
 - Este producto es original Levis
-- Modelo casual
-- Fabricada en tejido ligero
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08D4SKZ3J{{</world>}}

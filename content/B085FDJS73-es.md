@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Una reinterpretación de las clásicas gafas de sol estilo pantos con un toque sutil de ojos de gato; combina montura de acetato en estampado habana beige y marrón con lentes marrones degradadas categoría 3
-- Modelo Femenino; Medidas: Frontal 140 mm, Varillas 140 mm, Puente 19 mm, Alto 51;9 mm
-- Producto original Hawkers; la caja incluye funda en microfibra y caja
 - Material de la montura: Acetato; Color de la montura: Carey; Color de la varilla: Carey
+- Modelo Femenino; Medidas: Frontal 140 mm, Varillas 140 mm, Puente 19 mm, Alto 51;9 mm
+- Una reinterpretación de las clásicas gafas de sol estilo pantos con un toque sutil de ojos de gato; combina montura de acetato en estampado habana beige y marrón con lentes marrones degradadas categoría 3
 - Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes de TR18 con el sello de Eastman, gran calidad óptica y resistencia; respetuoso con el medio ambiente; protección 100% UV; Color de la lente: Marrón; Apariencia de la lente: Gradiente
+- Producto original Hawkers; la caja incluye funda en microfibra y caja
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B085FDJS73{{</world>}}

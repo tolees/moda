@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Hecho de tela de algodón suave y fácil de limpiar
-- Camiseta básica en colores lisos en un práctico paquete de 2 unidades: dos camisetas de cuello redondo del mismo color por paquete
-- Ajuste: ajuste regular, longitud de espalda en L aprox. 74 cm
-- Manga corta con cuello redondo
 - Instrucciones de lavado: no es posible limpiar en seco, no secar en secadora, no usar lejía, planchar a baja temperatura (110 °C), lavado normal a máx. 40 °C
+- Manga corta con cuello redondo
+- Ajuste: ajuste regular, longitud de espalda en L aprox. 74 cm
+- Camiseta básica en colores lisos en un práctico paquete de 2 unidades: dos camisetas de cuello redondo del mismo color por paquete
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00KGWMJU6{{</world>}}

@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Material de la montura: Metal; Color de la montura: Dorado; Color de la varilla: Dorado
-- Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes de TR18 con el sello de Eastman, gran calidad óptica y resistencia; respetuoso con el medio ambiente; protección 100% UV; Color de la lente: Oro rosa; Apariencia de la lente: Espejo
 - Modelo Unisex; Medidas: Frontal 140 mm, Varillas 140 mm, Puente 14 mm, Alto 47 mm
-- Producto original Hawkers; la caja incluye funda en microfibra y caja
 - Las gafas de sol LAX con montura dorada y lente espejo rosa no dejarán de ser la tendencia más destacada de esta temporada
+- Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes de TR18 con el sello de Eastman, gran calidad óptica y resistencia; respetuoso con el medio ambiente; protección 100% UV; Color de la lente: Oro rosa; Apariencia de la lente: Espejo
+- Producto original Hawkers; la caja incluye funda en microfibra y caja
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07PJ1J3TH{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuello redondo
 - Pepe jeans Logotipo bordado en el pecho
+- Cuello redondo
 - Manga corta
 
 [🛒 Visítala!!!]({{< param buyurl >}})

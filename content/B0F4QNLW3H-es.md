@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tejido suave
-- Sudadera con capucha
 - Diseño desenfadado
+- Sudadera con capucha
+- Tejido suave
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F4QNLW3H{{</world>}}

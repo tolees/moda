@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mingtawn Gafas Inteligentes Hombre Mujer Gafas IA con Llamadas Bluetooth/Música/Traducción Gafas de Sol con Lentes Fotocromáticas Smart Glasses 32g Ultraligeras Negro'
-date: 2026-09-11 17:48:18
+date: 2026-09-13 08:41:24
 image: 'https://m.media-amazon.com/images/I/41bmzhRMR9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0H6M4CLW1/?tag=tolees-21'
 descuento: '33.00'
-average: '83.49'
+average: '77.99'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

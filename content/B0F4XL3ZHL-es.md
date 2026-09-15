@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Estampado gráfico en la parte delantera
-- Cuello redondo
 - Manga corta
+- Cuello redondo
+- Estampado gráfico en la parte delantera
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F4XL3ZHL{{</world>}}

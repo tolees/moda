@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cuenta con tecnología OMNI-WICK de Columbia para mantenerte seco durante más tiempo en excursiones y aventuras
-- Camiseta para hombre Hike Crewneck, Diseñada para actividades al aire libre
 - Corte activo: Permite una mayor libertad de movimientos durante las actividades físicas
+- Camiseta para hombre Hike Crewneck, Diseñada para actividades al aire libre
 - Contenido: 1x Columbia Hombre Camiseta de manga corta Hike, Material: 100% poliéster, Talla: M, Color: Blanco, Art.: 1990391
 - El tejido captura y neutraliza el olor para una frescura duradera
 

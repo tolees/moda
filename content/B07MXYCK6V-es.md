@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - TELA DE ALTO RENDIMIENTO: tela ultraligera y transpirable con un acabado suave que absorbe la humedad y se seca rápido para mayor comodidad y frescura. Este tejido de punto en panal es elástico
 - PAQUETE DE CAMISETAS DEPORTIVAS: combina estas dos camisetas clásicas y sencillas. Diseñadas con mayor longitud para una mayor cobertura. Nuestra ropa está hecha para hacer ejercicio, vivir y descansar
-- DETALLES: cuenta con un cuello redondo, un diseño de manga corta y una cinta decorativa en la parte posterior del cuello
 - LONGITUD DE LA PRENDA: 74.9cm desde el lado del cuello en la talla M de España
+- DETALLES: cuenta con un cuello redondo, un diseño de manga corta y una cinta decorativa en la parte posterior del cuello
 - CORTE HOLGADO: corte cómodo y holgado en los hombros, el pecho y la cintura
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

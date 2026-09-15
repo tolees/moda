@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Algodón Elástico cotton Stretch.
 - Comodidad para el día a día.
 - Colores básicos con cinturilla recubierta.
+- Algodón Elástico cotton Stretch.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FKHGHV6Y{{</world>}}

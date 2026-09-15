@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Costuras totalmente selladas
-- Cremallera completa, capucha fija, cordón en la capucha y la parte inferior de la chaqueta, doble bolsillo lateral con cremallera, cierre de velcro en las muñecas y logotipo de CMP en el hombro
 - La prenda es totalmente plegable y se puede guardar en la cómoda bolsa incluida
-- Membrana con laminado térmico que garantiza impermeabilidad (WP 10.000) y transpirabilidad (MVP 4.000)
 - Chaqueta que ofrece protección contra la lluvia
+- Membrana con laminado térmico que garantiza impermeabilidad (WP 10.000) y transpirabilidad (MVP 4.000)
+- Cremallera completa, capucha fija, cordón en la capucha y la parte inferior de la chaqueta, doble bolsillo lateral con cremallera, cierre de velcro en las muñecas y logotipo de CMP en el hombro
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CD2LQCFD{{</world>}}

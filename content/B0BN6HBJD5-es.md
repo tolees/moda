@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La talla L es adecuada para niños de 11 a 12 años
 - Logotipo impreso
 - Ajuste regular: ajuste sencillo y cómodo con espacio para moverse
+- La talla L es adecuada para niños de 11 a 12 años
 - Tejido ultra-light powerblend fleece afelpado (240 g)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

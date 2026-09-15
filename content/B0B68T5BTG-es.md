@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sistema especial de protección para las tarjetas RFID que bloquea las señales de dispositivos de escaneo no autorizados por radiofrecuencia.
 - Cartera de 8,5 cm x 11,5 cm x 1 cm fabricada en Piel.
 - De Joumma Bags.
+- Sistema especial de protección para las tarjetas RFID que bloquea las señales de dispositivos de escaneo no autorizados por radiofrecuencia.
 - Cuenta con seis ranuras para guardar las tarjetas, un compartimento para el DNI y dos espacios independientes para los billetes.
 - Incorpora un monedero con cierre de clic.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'VASAGLE Banco para Zapatos Repisa para Zapatos Armario de Almacenamiento 10 Compartimentos con Cojín para Entrada 104 x 30 x 48 cm Blanco LHS10WT'
-date: 2026-09-11 08:29:36
+date: 2026-09-13 20:21:29
 image: 'https://m.media-amazon.com/images/I/31WJXffiGQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DBZJ986/?tag=tolees-21'
 descuento: '21.38'
-average: '50.5772727272727'
+average: '49.8099999999999'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

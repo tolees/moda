@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bolsillos laterales
-- Logotipo del felino PUMA en el muslo izquierdo
-- Cinturilla elástica
 - Pernera recta con bajo ajustado
+- Cinturilla elástica
+- Logotipo del felino PUMA en el muslo izquierdo
+- Bolsillos laterales
 - Largo completo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre: con cordones
-- Suela: goma
 - Zapatillas transpirables para mujer
+- Suela: goma
+- Cierre: con cordones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D6NDSLNM{{</world>}}

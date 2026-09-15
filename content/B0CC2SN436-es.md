@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Silueta moderna con forma anatómica
 - Entresuela ligera de EVA
+- Silueta moderna con forma anatómica
 - Glastonbury o logotipo en relieve
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

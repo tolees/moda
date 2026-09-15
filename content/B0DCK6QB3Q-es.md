@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Hecho de acetato de vinilo de etileno
 - Diseño especial para niños
+- Hecho de acetato de vinilo de etileno
 - Zuecos modernos para niños de la marca Crocs
 
 [🛒 Aquí!!!]({{< param buyurl >}})

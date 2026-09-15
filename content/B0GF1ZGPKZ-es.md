@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Haarlosy Depiladora Láser IPL Sin Dolor para Rostro Bikini y Cuerpo IFE03'
-date: 2026-09-11 09:55:32
+date: 2026-09-14 16:20:18
 image: 'https://m.media-amazon.com/images/I/31Y34bKaF0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- COMODA Y CON DETALLES ESPECIALES: Gracias a su material, la blusa relaxed fit es supercómoda de llevar durante todo el día. Los puños y el tejido de viscosa y crep, así como los detalles distintivos de Tommy Hilfiger conceden un toque muy especial.
-- CLÁSICO TODOTERRENO: Esta blusa, imprescindible en cualquier armario, es una prenda muy fácil de combinar y que realza cualquier conjunto. Es el complemento perfecto para pantalones business para el trabajo o vaqueros informales para el día a día.
-- ICÓNICO Y ATEMPORAL: Blusa original de Tommy Hilfiger con corte holgado y cuello en pico muy estiloso. El diseño sencillo y depurado convierte a esta prenda holgada en un clásico que no puede faltar en ningún armario.
 - MATERIAL Y CUIDADO: Blusa de viscosa 100 %. Se puede lavar a máquina.
+- ICÓNICO Y ATEMPORAL: Blusa original de Tommy Hilfiger con corte holgado y cuello en pico muy estiloso. El diseño sencillo y depurado convierte a esta prenda holgada en un clásico que no puede faltar en ningún armario.
+- CLÁSICO TODOTERRENO: Esta blusa, imprescindible en cualquier armario, es una prenda muy fácil de combinar y que realza cualquier conjunto. Es el complemento perfecto para pantalones business para el trabajo o vaqueros informales para el día a día.
+- COMODA Y CON DETALLES ESPECIALES: Gracias a su material, la blusa relaxed fit es supercómoda de llevar durante todo el día. Los puños y el tejido de viscosa y crep, así como los detalles distintivos de Tommy Hilfiger conceden un toque muy especial.
 - CALIDAD DEMOSTRADA: Desde 1985, esta marca de diseñador lleva demostrando por todo el mundo la calidad y la ligereza mediante una gran variedad de diseños en los míticos colores azul oscuro, blanco y rojo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

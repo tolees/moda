@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Detalle de encaje en la parte delantera
 - Tirantes finos
+- Detalle de encaje en la parte delantera
 - Camiseta básica de tirantes
 
 [🛒 Visítala!!!]({{< param buyurl >}})

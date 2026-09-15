@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Chaleco
 - Cerrado alto
-- Composición: 100% poliéster
 - Sin mangas
+- Chaleco
+- Composición: 100% poliéster
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BW9YMMXC{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Logotipo bordado en la parte delantera
-- Bolsillos tipo canguro
 - Sudadera de corte clásico
+- Logotipo bordado en la parte delantera
 - Puños y bajo con ribete de punto elástico
 - Cierre de cordón ajustable
+- Bolsillos tipo canguro
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07C2LVQY3{{</world>}}

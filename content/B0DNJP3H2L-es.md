@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fabricado con materiales duraderos y de calidad
 - Cintura con cordón
+- Fabricado con materiales duraderos y de calidad
 - La parte superior cuenta con prácticos bolsillos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

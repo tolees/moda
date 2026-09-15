@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Capucha con ajuste de un punto
 - Porcentaje de poliéster reciclado
 - 2 bolsillos frontales con cremallera
 - GORE-TEX laminado de 2 capas con membrana ePE libre de PFC
 - Cremallera frontal resistente al agua
+- Capucha con ajuste de un punto
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DSPW7B54{{</world>}}

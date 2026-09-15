@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tejido: 30% lana 70% poliéster, Forro: 100% poliéster. Más cómodo y cálido, no se arruga fácilmente.
-- El forro interior tiene cremallera y es extraíble. El forro es más corto que la chaqueta.
 - Lavado: Lavado en seco.
 - Dos bolsillos reales en el frente, dos bolsillos falsos en el pecho y dos bolsillos reales en el interior.
+- El forro interior tiene cremallera y es extraíble. El forro es más corto que la chaqueta.
 - Ideal para primavera, otoño e invierno. Perfecto para actividades diarias y empresariales."
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

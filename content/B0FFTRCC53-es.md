@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Pequeño estampado frontal
-- 95 % algodón, 5 % elastano
 - Camiseta ajustada de manga corta en licra básica
+- 95 % algodón, 5 % elastano
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FFTRCC53{{</world>}}

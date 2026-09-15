@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Exterior: 100% poliéster - Forro: 100% poliéster
 - Ahora con un cuello alto y bolsillos con cremallera, hemos aumentado nuestra chaqueta de mujer Crew Fleece Jacket, aumentando la versatilidad y el calor para cuando estás en el agua; como el resto de la serie Crew, está diseñada para tener espacio para añadir tu propio logotipo o marca
-- Una chaqueta náutica para mujer de forro polar suave y liso con un diseño marino atemporal de Helly Hansen
 - Artículos entregados: 1x Helly Hansen Mujer Chaqueta Forro Polar Crew,L,Azul marino
+- Una chaqueta náutica para mujer de forro polar suave y liso con un diseño marino atemporal de Helly Hansen
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08LZ2RDJB{{</world>}}

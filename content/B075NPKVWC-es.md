@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiene un diseño clásico
 - Cinturón óptimo para completar los looks informales de todos los días
+- Tiene un diseño clásico
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B075NPKVWC{{</world>}}

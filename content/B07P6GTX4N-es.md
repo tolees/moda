@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Ofrece comodidad y libertad de movimiento
-- Tiene detalles distintivos de la marca
 - Cintura elástica ajustable con cordón
+- Tiene detalles distintivos de la marca
 - Falda con pantalón interior
 
 [🛒 Comprar!!!]({{< param buyurl >}})

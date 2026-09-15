@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Color de lente: Gris polarizado
-- Material: policarbonato
-- Color: Negro y Gris Mate
 - Talla: 56
+- Material: policarbonato
 - Forma rectangular
+- Color: Negro y Gris Mate
+- Color de lente: Gris polarizado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BVKJS2XH{{</world>}}

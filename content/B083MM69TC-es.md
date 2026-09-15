@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Model: Polaroid Pld 1016/s/new 807/M9 BLACK 50
-- Protective Case Included
+- Brand: Polaroid
 - Colour: 807/M9 BLACK
 - Calibre: 50 Millimeters
-- Brand: Polaroid
+- Protective Case Included
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B083MM69TC{{</world>}}

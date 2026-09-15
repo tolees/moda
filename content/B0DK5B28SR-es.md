@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Proporciona comodidad
 - Un ajuste cómodo
-- Un aspecto original
 - G-STAR Bordado en el pecho
+- Un aspecto original
 - Cuello acanalado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

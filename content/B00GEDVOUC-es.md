@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Protección solar Omni-Shade UPF 30
 - Tejido Omni-Wick
+- Protección solar Omni-Shade UPF 30
 - Tejido elástico
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

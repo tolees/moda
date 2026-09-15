@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ALGODÓN JERSEY: tejido ligero y suave 100% algodón con elasticidad natural y comodidad transpirable, ideal para todo el año
-- LONGITUD DE LA PRENDA: 62,9cm desde el lado del cuello en la talla S de EE. UU
 - DETALLES: cuello redondo acanalado, sisa baja
+- ALGODÓN JERSEY: tejido ligero y suave 100% algodón con elasticidad natural y comodidad transpirable, ideal para todo el año
 - CORTE HOLGADO: corte cómodo y holgado en los hombros, el pecho y la cintura
 - CAMISETA SIN MANGAS: un elemento básico moderno para combinar en capas con un estilo desenfadado
+- LONGITUD DE LA PRENDA: 62,9cm desde el lado del cuello en la talla S de EE. UU
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FF5F7X4W{{</world>}}

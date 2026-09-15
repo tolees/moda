@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Material: algodón y poliéster slub
 - Ajuste: __ Slightly floose
 - Bottom curved
 - Cuello:
-- Material: algodón y poliéster slub
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0G6FW1TD4{{</world>}}

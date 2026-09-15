@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pflegehinweis: Maschinenwäsche linksrum 30°
 - großer front Print
 - Material: 100% Baumwolle
+- Pflegehinweis: Maschinenwäsche linksrum 30°
 - normale Passform
 
 [🛒 Comprar!!!]({{< param buyurl >}})

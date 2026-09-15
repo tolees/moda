@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bolsillos laterales, cordón interno, cómodo slip interior, longitud lateral: 32 cm. El tejido principal de este producto cuenta con la certificación Global Recycle Standard.
 - Bañador corto de playa inspirado en el deporte para niño que celebra el ADN de arena reinterpretando los rasgos de diseño más característicos del legado de la marca.
 - 100% poliéster (tejido ecológico: 100% poliéster reciclado)
+- Bolsillos laterales, cordón interno, cómodo slip interior, longitud lateral: 32 cm. El tejido principal de este producto cuenta con la certificación Global Recycle Standard.
 - Tejido reciclado cómodo, suavísimo y de secado rápido para una gran comodidad de uso.
 - Ideal para la natación, el tiempo libre y otras actividades deportivas en la piscina o en la playa
 

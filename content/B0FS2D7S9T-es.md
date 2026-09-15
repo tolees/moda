@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CORTE HOLGADO: Se ajusta a los hombros y tiene un ajuste holgado en todo el cuerpo
-- VESTIDO CON BOTONES: elegante vestido con botones para un estilo desenfadado, ideal para el trabajo y el fin de semana
-- MEZCLA DE ALGODÓN Y LYOCELL: la mezcla de algodón y lyocell crea una textura de tela vaquera suave y ofrece una mayor comodidad
 - DETALLES: mangas cortas, bolsillos en el pecho, cinturón en la cintura y botones en la parte delantera
+- MEZCLA DE ALGODÓN Y LYOCELL: la mezcla de algodón y lyocell crea una textura de tela vaquera suave y ofrece una mayor comodidad
+- VESTIDO CON BOTONES: elegante vestido con botones para un estilo desenfadado, ideal para el trabajo y el fin de semana
+- CORTE HOLGADO: Se ajusta a los hombros y tiene un ajuste holgado en todo el cuerpo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FS2D7S9T{{</world>}}

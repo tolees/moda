@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte clásico
 - Cuello redondo
+- Corte clásico
 - 100% algodón
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

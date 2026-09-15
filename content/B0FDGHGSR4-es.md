@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pijama masculino de manga larga
 - Colección Mix And Match
+- Pijama masculino de manga larga
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FDGHGSR4{{</world>}}

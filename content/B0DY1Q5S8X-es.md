@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - El color simple garantiza un estilo sin esfuerzo que garantiza que el momento de vestir sea lo más fácil posible para ti y tu hijo/a
-- Las mangas cortas y el clásico cuello redondo crean una silueta atemporal que trasciende perfectamente estaciones y tendencias
 - Confeccionada por expertos con punto elástico de algodón puro, esta camiseta garantiza la máxima comodidad para el más joven de la casa con su tacto suave y transpirable
 - Lavar a máquina según las instrucciones de la etiqueta de cuidado
+- Las mangas cortas y el clásico cuello redondo crean una silueta atemporal que trasciende perfectamente estaciones y tendencias
 - Eleva el estilo diario de tu hijo con la camiseta de algodón con el logotipo de Hugo sobre cuadrado grande
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Cuello
-- Suave
+- Tira de botones
 - algodón
 - Camisa
-- Tira de botones
+- Suave
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08MV9GQ78{{</world>}}

@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - TEJIDO TRANSPIRABLE: Punto de poliéster de alto rendimiento que mantiene fresco durante cada sesión
-- IDEAL PARA: Entrenamientos y ejercicios de alta intensidad
-- ESTILO LIMPIO: Corte atlético en color Gris 5 para un look moderno y versátil
-- CAMISETA LIGERA DE RENDIMIENTO: Diseñada para transpirabilidad y libertad de movimiento
 - AJUSTE: Regular
+- ESTILO LIMPIO: Corte atlético en color Gris 5 para un look moderno y versátil
+- IDEAL PARA: Entrenamientos y ejercicios de alta intensidad
+- CAMISETA LIGERA DE RENDIMIENTO: Diseñada para transpirabilidad y libertad de movimiento
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FFNPYZ29{{</world>}}

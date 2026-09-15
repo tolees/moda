@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Talla: 66
 - Color: negro y gris
+- Talla: 66
 - Forma rectangular
-- Material: caucho
 - Color de lente: Gris polarizado
+- Material: caucho
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09V28HXGC{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ofrece una comodidad óptima
 - Diseño de estampado
+- Ofrece una comodidad óptima
 - Con tejido ligero y suave
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fácil de llevar para un confort optimo
 - Los sistemas patentados Geox ofrecen la transpirabilidad de la suela y el bienestar del pie
-- Calzado ligero para una libertad de movimiento
+- Fácil de llevar para un confort optimo
 - Calzado que ofrece una amortiguación óptima y protege contra choques y esfuerzos
+- Calzado ligero para una libertad de movimiento
 - Calce fácil y rápido gracias al elástico en la empella
 
 [🛒 Comprar!!!]({{< param buyurl >}})

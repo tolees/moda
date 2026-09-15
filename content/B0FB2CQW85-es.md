@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El tejido captura y neutraliza el olor para una frescura duradera
-- Contenido: 1x Columbia Hombre Camiseta de manga corta Hike, Color: Azul (Ripple Blue Heather), Talla: XL
 - Corte activo: Permite una mayor libertad de movimientos durante las actividades físicas
 - Cuenta con tecnología OMNI-WICK de Columbia para mantenerte seco durante más tiempo en excursiones y aventuras
+- El tejido captura y neutraliza el olor para una frescura duradera
+- Contenido: 1x Columbia Hombre Camiseta de manga corta Hike, Color: Azul (Ripple Blue Heather), Talla: XL
 - Camiseta para hombre Hike Crewneck, Diseñada para actividades al aire libre
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

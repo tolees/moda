@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Mocasin
 - Transpirable
 - Marca: Geox
-- Mocasin
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CPQ6RT8V{{</world>}}

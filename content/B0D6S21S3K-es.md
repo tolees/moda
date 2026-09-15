@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Actualizamos nuestro icónico modelo Minimal con una nueva montura ligeramente más grande y de ajuste más cómodo; con un diseño geométrico nostálgico y un juego de volúmenes con bisel de relieve en el frontal, este modelo es un must para un look retro racer; disponible en varios colores de monturas y lentes
-- Material de la montura: TR90; Color de la montura: Carey; Color de la varilla: Carey
-- Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes de TR18 con el sello de Eastman, gran calidad óptica y resistencia; respetuoso con el medio ambiente; protección 100% UV; Color de la lente: Verde; Apariencia de la lente: Gradiente
-- Producto original Hawkers; la caja incluye funda en microfibra y caja
 - Modelo Unisex; Medidas: Frontal 143 mm, Varillas 145 mm, Puente 21 mm, Alto 49 mm
+- Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes de TR18 con el sello de Eastman, gran calidad óptica y resistencia; respetuoso con el medio ambiente; protección 100% UV; Color de la lente: Verde; Apariencia de la lente: Gradiente
+- Material de la montura: TR90; Color de la montura: Carey; Color de la varilla: Carey
+- Producto original Hawkers; la caja incluye funda en microfibra y caja
+- Actualizamos nuestro icónico modelo Minimal con una nueva montura ligeramente más grande y de ajuste más cómodo; con un diseño geométrico nostálgico y un juego de volúmenes con bisel de relieve en el frontal, este modelo es un must para un look retro racer; disponible en varios colores de monturas y lentes
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D6S21S3K{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diseño simple y versátil
 - Cierre de hebilla grabado con el logo de la marca
+- Diseño simple y versátil
 - Cinturón marca Wrangler
 
 [🛒 Visítala!!!]({{< param buyurl >}})

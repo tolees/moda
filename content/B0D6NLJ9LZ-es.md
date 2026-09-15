@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ligeras y transpirables
-- Adecuadas para llevar a diario
 - Diseño relajado y veraniego
+- Adecuadas para llevar a diario
+- Ligeras y transpirables
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D6NLJ9LZ{{</world>}}

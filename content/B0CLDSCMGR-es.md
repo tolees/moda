@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte normal
-- Composición del material: Exterior: 55% Poliéster, 40% Lana Reciclada, 5% Otras Fibras; Forro: 100% Poliéster
 - Cuello Fly-Away
+- Composición del material: Exterior: 55% Poliéster, 40% Lana Reciclada, 5% Otras Fibras; Forro: 100% Poliéster
+- Corte normal
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CLDSCMGR{{</world>}}

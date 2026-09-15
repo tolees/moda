@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Una mirada original
 - Paquete individual
 - Mangas casquillo
-- Una mirada original
 - Cuello de pico
 - Proporciona comodidad
 

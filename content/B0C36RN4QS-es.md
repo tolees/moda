@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Artículo : Shorts de chándal
 - Bolsillos : Bolsillos laterales
 - Largo/talla : Largo por las rodillas
 - Detalles : Cordón de ajuste en la cintura, Interior de la prenda sin cepillar
+- Artículo : Shorts de chándal
 - Cierre : Bragueta decorativa
 - Corte : Corte regular
 

@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Bolsillos con cremallera
 - Ribete elástico en el puño.
 - Cremallera de fácil acceso
-- Dobladillo ajustable con cordón
 - Ribete elástico en el cuello
+- Dobladillo ajustable con cordón
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DLRFTHDZ{{</world>}}

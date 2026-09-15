@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sujetador triangular acolchado
 - Lavar a máquina
+- Sujetador triangular acolchado
 - Colección Lovely Cotton
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

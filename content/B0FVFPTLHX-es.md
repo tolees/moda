@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material: ECO ACETATE
 - Gender: WOMAN
-- Model: HER 0322/S
 - Color: HAVANA
+- Model: HER 0322/S
+- Material: ECO ACETATE
 - Brand: CAROLINA HERRERA
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

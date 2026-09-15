@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Vero Moda Erica Holly Long Hooded Puffer Coat
 - 100% Poliamida
+- Vero Moda Erica Holly Long Hooded Puffer Coat
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09M9QHG4H{{</world>}}

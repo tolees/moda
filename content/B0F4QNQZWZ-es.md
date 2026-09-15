@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Adecuado para múltiples ocasiones
-- Tiene detalles distintivos de la marca
 - Jersey de manga larga
+- Tiene detalles distintivos de la marca
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F4QNQZWZ{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Dos bolsillos delanteros inferiores con cremallera
-- Capucha de tres piezas con cordón ajustable oculto
 - País de fabricación: Vietnam
+- Dos bolsillos delanteros inferiores con cremallera
 - Dos bolsillos en el pecho con solapas y botones de presión, bolsillo oculto con cremallera en el lado izquierdo del usuario
+- Capucha de tres piezas con cordón ajustable oculto
 - Composición del material: nailon
 
 [🛒 Visítala!!!]({{< param buyurl >}})

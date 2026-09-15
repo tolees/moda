@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuello : Cuello redondo
-- Manga : Manga corta
-- Corte : Corte standard
-- Estampado : Estampa en la parte delantera del producto
-- Artículo : Camiseta
 - Modo de vida : Aptitud, Al aire libre, Padel, Corriente
+- Artículo : Camiseta
+- Estampado : Estampa en la parte delantera del producto
+- Cuello : Cuello redondo
+- Corte : Corte standard
+- Manga : Manga corta
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DFMZWG57{{</world>}}

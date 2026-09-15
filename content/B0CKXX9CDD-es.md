@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Horma clásica
+- Forro textil
 - Empeine sintético
 - Compra una talla más pequeña
 - Cierre con correas autoadherentes
-- Forro textil
 - Suela de goma
 - Forro textil
+- Horma clásica
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CKXX9CDD{{</world>}}

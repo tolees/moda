@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Bolsillos: bolsillo frontal de canguro
 - Con logotipo impreso en el pecho en la parte delantera
-- Composición del material: 70 % algodón, 30 % poliéster
 - Manga larga
+- Composición del material: 70 % algodón, 30 % poliéster
 - Sudadera con capucha para hombre
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Hombres - Camiseta de manga corta
 - Especificaciones: Camisas funcionales
 - 63% Poliéster - 30% Poliamida - 7% Elastano
-- Hombres - Camiseta de manga corta
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08GPPT9YV{{</world>}}

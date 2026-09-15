@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Corte : Corte regular
-- Cuello : Cuello redondo
-- Manga : Manga corta
 - Estampado : Estampado con pigmentos para un acabado delicado en los tejidos más ligeros
+- Cuello : Cuello redondo
 - Artículo : Camiseta
+- Manga : Manga corta
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09MV2ZJV2{{</world>}}

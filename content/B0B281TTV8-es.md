@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Presenta 2 bolsillos
 - Tiene un diseño casual
+- Presenta 2 bolsillos
 - Adecuada para días fríos
 - Este producto es original Levis
 

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Camiseta de pantalla
 - Tops
+- Camiseta de pantalla
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DP9GG8BG{{</world>}}

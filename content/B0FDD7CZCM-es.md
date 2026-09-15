@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuello en V
-- Manga corta
 - Estilo informal
+- Manga corta
+- Cuello en V
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FDD7CZCM{{</world>}}

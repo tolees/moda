@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Gafas de natación unisex adulto
 - Proporciona protección y visibilidad óptima
-- Correas ajustables
 - Material resistente y duradero
+- Correas ajustables
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07WSHPTTQ{{</world>}}

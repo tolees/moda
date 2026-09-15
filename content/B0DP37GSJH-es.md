@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Lavar a máquina
 - 100 % poliéster
-- Capucha con cordón
 - Puños y dobladillo elásticos.
+- Capucha con cordón
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DP37GSJH{{</world>}}

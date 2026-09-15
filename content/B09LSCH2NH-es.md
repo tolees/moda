@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Patrón: liso
-- Escote: cuello redondo
-- Ajuste: normal
 - Longitud: normal
+- Escote: cuello redondo
 - Material: 100 % algodón
+- Ajuste: normal
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09LSCH2NH{{</world>}}

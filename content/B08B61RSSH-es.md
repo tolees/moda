@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Trabillas para
 - Hasta el tobillo
 - Corte ajustado
-- Trabillas para
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08B61RSSH{{</world>}}

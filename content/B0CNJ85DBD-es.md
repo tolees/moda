@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Piel lisa blanca/beige
 - Suela de copa de 3 cm
-- Logotipo de Guess bordado en el lateral.
 - FMPVIBLEA12WBEIB
+- Logotipo de Guess bordado en el lateral.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CNJ85DBD{{</world>}}

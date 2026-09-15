@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con un gran logotipo impreso en la parte delantera
 - Sudadera con capucha de ajuste regular
+- Con un gran logotipo impreso en la parte delantera
 - 100 % algodón
 
 [🛒 Aquí!!!]({{< param buyurl >}})

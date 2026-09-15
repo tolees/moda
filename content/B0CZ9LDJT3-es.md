@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- 100% poliéster (reciclado)
 - Espacio para personalizarla
 - Corte entallado
-- 100% poliéster (reciclado)
 - AEROREADY
 
 [🛒 Aquí!!!]({{< param buyurl >}})

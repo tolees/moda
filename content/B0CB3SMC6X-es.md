@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuero Responsable
 - Cómodo
+- Cuero Responsable
 - Cuero liso
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

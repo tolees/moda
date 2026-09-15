@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con un estilo casual
 - Ofrece una comodidad óptima
+- Con un estilo casual
 - Detalles distintivos de la marca
 
 [🛒 Aquí!!!]({{< param buyurl >}})

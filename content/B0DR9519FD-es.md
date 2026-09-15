@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Para uso diario
 - Tiene detalles distintivos de la marca "NIKE"
+- Para uso diario
 - Prenda de vestimenta
 
 [🛒 Comprar!!!]({{< param buyurl >}})

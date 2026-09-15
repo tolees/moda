@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillo y bolsillos laterales con cremallera
 - Diseño flexible y detalles reflectantes
+- Bolsillo y bolsillos laterales con cremallera
 - Mangas y hombros ergonómicos para un buen ajuste
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

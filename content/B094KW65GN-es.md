@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Serigrafía estampada en el pecho
-- Tejido: punto jersey de algodón ligero [160g/m2]
-- Cuello: cuello redondo
 - Corte: corte normal, clásico, cómodo
+- Cuello: cuello redondo
+- Tejido: punto jersey de algodón ligero [160g/m2]
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B094KW65GN{{</world>}}

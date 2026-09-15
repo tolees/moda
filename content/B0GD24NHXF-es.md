@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Detalles metálicos de color dorado
+- Correa de hombro ajustable: 53-61 cm
 - Altura del asa: 8,9 cm
 - Bolso
 - 25,4 cm de ancho x 18,4 cm de alto x 12 cm de profundidad
-- Correa de hombro ajustable: 53-61 cm
+- Detalles metálicos de color dorado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0GD24NHXF{{</world>}}

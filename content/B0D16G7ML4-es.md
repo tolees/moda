@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Material muy cómodo, ligero, de secado rápido y resistente
 - Corte clásico
 - Diseño flexible y detalles reflectantes
-- Material muy cómodo, ligero, de secado rápido y resistente
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D16G7ML4{{</world>}}

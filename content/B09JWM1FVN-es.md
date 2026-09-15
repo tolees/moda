@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de mango: mango largo
 - Instrucciones de lavado: lavar a 30 °C, ACT muy reducido
-- Composición del material: 78% viscosa, 22% poliamidas
 - Material interior: 78% viscosa 22% poliamida
+- Tipo de mango: mango largo
+- Composición del material: 78% viscosa, 22% poliamidas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09JWM1FVN{{</world>}}

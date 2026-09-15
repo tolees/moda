@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Pierna recta
 - Composición: 77% algodón 21 por ciento poliéster 2 por ciento elastano
 - Corte ajustado
-- Pierna recta
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FH2LPYVK{{</world>}}

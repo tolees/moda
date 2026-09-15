@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Diseño deportivo
 - Tela suave
 - Tiene detalles distintivos de la marca
-- Diseño deportivo
 - Diseño ligero que ofrece comodidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

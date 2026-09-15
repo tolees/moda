@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Disponible en varios colores
 - Camiseta de manga corta con cuello redondo
+- Disponible en varios colores
 - Hecho 60% de algodón y 40% de poliéster
 - Con logotipo de la marca en el frontal y la espalda
 

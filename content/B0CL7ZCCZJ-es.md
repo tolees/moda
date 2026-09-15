@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Corte : Corte wide
+- Cuello : Cuello redondo
 - Manga : Manga corta
 - Estampado : Estampado de goma para un tacto suave
+- Corte : Corte wide
 - Artículo : Camiseta
-- Cuello : Cuello redondo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CL7ZCCZJ{{</world>}}

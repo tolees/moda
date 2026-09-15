@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Aspecto elegante
 - Cómodo de llevar y suave al tacto
+- Aspecto elegante
 - Cintura con cordón
 
 [🛒 Comprar!!!]({{< param buyurl >}})

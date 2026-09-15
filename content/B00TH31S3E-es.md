@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La camiseta básica perfecta para el deporte y el ocio
 - Corte recto y buena adaptación
+- La camiseta básica perfecta para el deporte y el ocio
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00TH31S3E{{</world>}}

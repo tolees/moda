@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- PIJAMA DE PERSONAJES: divertido pijama con sus personajes favoritos para dormir cómodamente
-- COLABORACIÓN CON SOFIA GRAINGE: Estilos inspirados para los más pequeños, creados en colaboración con Sofia Grainge
 - Certificado STANDARD 100 de OEKO-TEX que exige que los productos textiles se prueben con más de 1000 productos químicos con el fin de limitar aquellos que puedan ser perjudiciales para la salud humana
-- MEZCLA DE ALGODÓN: algodón transpirable con elasticidad suave para mayor comodidad en el día a día
-- Fabricado con algodón 100% estadounidense (sin incluir los ribetes), según lo verificado por el U.S Cotton Trust Protocol
 - CORTE ENTALLADO: para garantizar la seguridad de los niños, la ropa de dormir debe ser resistente al fuego o ajustada. Este artículo es ajustado, pero no es resistente al fuego.
+- MEZCLA DE ALGODÓN: algodón transpirable con elasticidad suave para mayor comodidad en el día a día
+- PIJAMA DE PERSONAJES: divertido pijama con sus personajes favoritos para dormir cómodamente
+- Fabricado con algodón 100% estadounidense (sin incluir los ribetes), según lo verificado por el U.S Cotton Trust Protocol
+- COLABORACIÓN CON SOFIA GRAINGE: Estilos inspirados para los más pequeños, creados en colaboración con Sofia Grainge
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FTZ82T1F{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cómoda de llevar
 - Producto deportivo
 - Mejora tu experiencia deportiva
+- Cómoda de llevar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CSN9CJJN{{</world>}}

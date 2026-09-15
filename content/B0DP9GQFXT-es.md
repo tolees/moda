@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material muy cómodo, ligero, de secado rápido y duradero
 - Ajuste regular y relación calidad-precio
+- Material muy cómodo, ligero, de secado rápido y duradero
 - Diseño flexible y detalles reflectantes
 
 [🛒 Comprar!!!]({{< param buyurl >}})

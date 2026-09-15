@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tipo de estiramiento: no elástico
+- Instrucciones de cuidado: lavable a máquina
 - Camiseta
 - Ajuste: Slim
-- Instrucciones de cuidado: lavable a máquina
 - Composición: 48 por ciento algodón 48 por ciento modal 4 por ciento elastano
+- Tipo de estiramiento: no elástico
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DQYFQW3K{{</world>}}

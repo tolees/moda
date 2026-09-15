@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto original Hawkers; la caja incluye funda en microfibra y caja
-- Montura oversized hexagonal de tendencia retro, hecha en TR90 de color verde oscuro transparente en acabado brillante y lentes degradadas de verde a lila; sus varillas presentan un especial juego de líneas dando como resultado las varillas más especiales que hemos hecho hasta ahora
 - Modelo Femenino; Medidas: Frontal 147 mm, Varillas 140 mm, Puente 20 mm, Alto 53 mm
 - Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes de TR18 con el sello de Eastman, gran calidad óptica y resistencia; respetuoso con el medio ambiente; protección 100% UV; Color de la lente: Morado; Apariencia de la lente: Gradiente
+- Montura oversized hexagonal de tendencia retro, hecha en TR90 de color verde oscuro transparente en acabado brillante y lentes degradadas de verde a lila; sus varillas presentan un especial juego de líneas dando como resultado las varillas más especiales que hemos hecho hasta ahora
 - Material de la montura: TR90; Color de la montura: Verde; Color de la varilla: Verde
+- Producto original Hawkers; la caja incluye funda en microfibra y caja
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CC2W241P{{</world>}}

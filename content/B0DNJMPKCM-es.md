@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillos para artículos esenciales
 - Capucha ajustable
+- Bolsillos para artículos esenciales
 - Cierre con cremallera
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

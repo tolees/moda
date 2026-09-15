@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre: Hebilla
 - Material exterior: Textil
 - Material de la suela: Caucho
+- Cierre: Hebilla
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CKDZ3738{{</world>}}

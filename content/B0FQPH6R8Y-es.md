@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La capota independiente y ajustable protege del sol y del viento, y la ventanita te permite echar un vistazo al peque durante el trayecto.
-- La función de pedales libres permite pedalear “en vacío”, y tú sigues teniendo el control de la velocidad y la dirección.
-- El manillar regulable para el adulto permite llevar ASTON 2 PRO como un carrito, controlando el ritmo y la trayectoria sin tirones.
 - El respaldo ajustable a la posición semitumbada, a favor y en contra de la marcha, garantiza una siesta sin interrupciones, no solo durante paseos más largos.
+- La función de pedales libres permite pedalear “en vacío”, y tú sigues teniendo el control de la velocidad y la dirección.
+- La capota independiente y ajustable protege del sol y del viento, y la ventanita te permite echar un vistazo al peque durante el trayecto.
+- El manillar regulable para el adulto permite llevar ASTON 2 PRO como un carrito, controlando el ritmo y la trayectoria sin tirones.
 - CLICK & TWIST gira el asiento 360° - cambias rápidamente el sentido de marcha sin sacar al niño del triciclo.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

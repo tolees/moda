@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Longitud: 37,5 cm en talla 3 años (EE. UU.) (98 UE), 48,3 cm en talla M (EE. UU.) (122-128 UE, 7-8 años) Tiro: 8,3 cm en talla 3 años (EE. UU.) (98 UE), 11,4 cm en talla M (EE. UU.) (122-128 UE, 7-8 años)
-- Hemos actualizado nuestras tallas infantiles. Durante esta transición, la etiqueta de la prenda puede diferir de la talla pedida. Pruébatela para confirmarlo
-- Conjunto de sudadera de manga corta y pantalón corto: sudadera de manga corta combinada con pantalones cortos fáciles de poner, ambos confeccionados en forro polar suave de peso medio para un fácil ajuste.
-- Ajuste: corte relajado en la parte inferior con un ajuste cómodo en cadera y muslo, se ajusta a la cintura. Top con corte relajado en la parte inferior con un ajuste cómodo y relajado en el cuerpo.
 - Detalles: el top es de manga corta con parte inferior acanalada. El pantalón corto tiene cintura de ajuste fácil, cordón (cordón decorativo en la talla para niños pequeños), bolsillos laterales en la costura y un bolsillo trasero de parche.
 - ACOGEDOR FORRO POLAR CEPILLADO: Suave y cómodo forro polar cepillado con mezcla de algodón y poliéster de gramaje medio, que te mantendrá cómodo y abrigado.
+- Conjunto de sudadera de manga corta y pantalón corto: sudadera de manga corta combinada con pantalones cortos fáciles de poner, ambos confeccionados en forro polar suave de peso medio para un fácil ajuste.
+- Longitud: 37,5 cm en talla 3 años (EE. UU.) (98 UE), 48,3 cm en talla M (EE. UU.) (122-128 UE, 7-8 años) Tiro: 8,3 cm en talla 3 años (EE. UU.) (98 UE), 11,4 cm en talla M (EE. UU.) (122-128 UE, 7-8 años)
+- Ajuste: corte relajado en la parte inferior con un ajuste cómodo en cadera y muslo, se ajusta a la cintura. Top con corte relajado en la parte inferior con un ajuste cómodo y relajado en el cuerpo.
+- Hemos actualizado nuestras tallas infantiles. Durante esta transición, la etiqueta de la prenda puede diferir de la talla pedida. Pruébatela para confirmarlo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DNFJMMZX{{</world>}}

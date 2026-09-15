@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Espalda redonda
-- Insignia de Tommy en la parte delantera
 - Cuello redondo
+- Insignia de Tommy en la parte delantera
+- Espalda redonda
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C8MN6PLJ{{</world>}}

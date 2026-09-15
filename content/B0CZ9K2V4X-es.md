@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- AEROREADY
-- Material Principal: 100% Poliéster(100% Reciclado)
-- Cuello redondo de canalé
 - Corte ajustado
+- Cuello redondo de canalé
+- Material Principal: 100% Poliéster(100% Reciclado)
+- AEROREADY
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CZ9K2V4X{{</world>}}

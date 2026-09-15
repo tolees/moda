@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Regulación de la humedad
-- 0 unidades
 - Transpirable
 - Comodidad
+- 0 unidades
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CMTLRBP6{{</world>}}

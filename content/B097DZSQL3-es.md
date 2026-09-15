@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Los tonos morados se combinan en este modelo de ojo de gato de lentes color uva; montura de acetato de alta calidad en estampado habana morado semitransparente y patillas estilizadas
-- Producto original Hawkers; la caja incluye funda en microfibra y caja
-- Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes de TR18 con el sello de Eastman, gran calidad óptica y resistencia; respetuoso con el medio ambiente; protección 100% UV; Color de la lente: Morado; Apariencia de la lente: Sólida
-- Material de la montura: Acetato; Color de la montura: Carey, Morado; Color de la varilla: Carey, Morado
 - Modelo Femenino; Medidas: Frontal 141 mm, Varillas 145 mm, Puente 17 mm, Alto 49;9 mm
+- Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes de TR18 con el sello de Eastman, gran calidad óptica y resistencia; respetuoso con el medio ambiente; protección 100% UV; Color de la lente: Morado; Apariencia de la lente: Sólida
+- Producto original Hawkers; la caja incluye funda en microfibra y caja
+- Los tonos morados se combinan en este modelo de ojo de gato de lentes color uva; montura de acetato de alta calidad en estampado habana morado semitransparente y patillas estilizadas
+- Material de la montura: Acetato; Color de la montura: Carey, Morado; Color de la varilla: Carey, Morado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B097DZSQL3{{</world>}}

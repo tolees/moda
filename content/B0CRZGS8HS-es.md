@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Proporciona comodidad
 - Etiqueta trasera de G-STAR hecha de un tejido de papel que imita a la piel
+- Proporciona comodidad
 - Cinco bolsillos, incluido un bolsillo para monedas
 - Bragueta de cremallera
 - Una mirada original

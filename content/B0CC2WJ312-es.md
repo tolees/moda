@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Clarks Shoes, WallabeeEVO, Dark Olive Sde, 6,5 (Men)
 - Cojín de contorno
+- Clarks Shoes, WallabeeEVO, Dark Olive Sde, 6,5 (Men)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CC2WJ312{{</world>}}

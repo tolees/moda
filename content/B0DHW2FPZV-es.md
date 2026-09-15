@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Para uso diario
 - Contiene detalles distintivos de la marca "Levis"
 - Pantalón corto
+- Para uso diario
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DHW2FPZV{{</world>}}

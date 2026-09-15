@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Descubre todas las marcas de EMP!
 - Ajuste : Regular
 - Camiseta con las siguientes características:
+- Descubre todas las marcas de EMP!
 - Ropa de Calle
 - Camiseta || Mangas Normales || Cuello Redondo Sin cuello || Material duradero
 

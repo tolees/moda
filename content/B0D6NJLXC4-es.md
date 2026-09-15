@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Tipo de estiramiento: Medium Stretch
-- Instrucciones de cuidado: apto para lavadora
 - Ajuste: regular
 - Composición: 72 por ciento de algodón 26 por ciento de poliéster y 2 por ciento de elastano
 - Jeans Pantalones Largos
+- Instrucciones de cuidado: apto para lavadora
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D6NJLXC4{{</world>}}

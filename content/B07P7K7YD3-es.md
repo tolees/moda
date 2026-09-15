@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Ideal para juego y entrenamiento
 - Pantalón baloncesto
-- Máximo confort
 - Omini Kappa
+- Máximo confort
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07P7K7YD3{{</world>}}

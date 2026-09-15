@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cierre: de cremallera
-- Material principal: tejido spacer
-- Largo: chaqueta estándar
 - Manga corta
+- Largo: chaqueta estándar
+- Material principal: tejido spacer
 - Corte: estándar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

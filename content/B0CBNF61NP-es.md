@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Klavado/acabado : Lavado a la piedra para un acabado desgastado y desteñido
-- Cintura : Tiro bajo
 - Bolsillos : Bolsillos traseros, Bolsillo relojero, Bolsillos delanteros
-- Cierre : Bragueta con cremallera
 - Modo de vida : Tradicional
-- Artículo : Jeans de corte slim
+- Cintura : Tiro bajo
+- Cierre : Bragueta con cremallera
+- Klavado/acabado : Lavado a la piedra para un acabado desgastado y desteñido
 - Corte : Vaqueros ajustados con talla media, muslo fino, rodilla fina, apertura ajustada en la pierna
+- Artículo : Jeans de corte slim
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CBNF61NP{{</world>}}

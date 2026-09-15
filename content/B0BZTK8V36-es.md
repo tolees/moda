@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Vaqueros Pantalones Largos
 - Instrucciones de cuidado: apto para lavadora
-- Composición: 79 por ciento algodón Bci - 15 por ciento lyocell - 4 por ciento elastomultiéster - 2 por ciento de elastano
-- Ajuste: ajuste ajustado
 - Cierre: cierre de cremallera y botón
+- Ajuste: ajuste ajustado
+- Composición: 79 por ciento algodón Bci - 15 por ciento lyocell - 4 por ciento elastomultiéster - 2 por ciento de elastano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BZTK8V36{{</world>}}

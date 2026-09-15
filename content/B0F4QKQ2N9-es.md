@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello redondo
 - Punto de algodón elástico
+- Cuello redondo
 - Cinta distintiva en el interior del cuello
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cinco bolsillos
-- Bragueta de botones
 - Tela rígida
+- Bragueta de botones
 - Etiqueta G-STAR en la parte trasera
+- Cinco bolsillos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F4X9T6RN{{</world>}}

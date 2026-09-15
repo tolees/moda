@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Calcetines puma puma calcetines sport white
 - Atletismo y running -, perfil hombre unisex, material 3p, color white
+- Calcetines puma puma calcetines sport white
 - Sport blanco 43-46
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajuste regular para una comodidad diaria
-- Bolsillos tipo funda para guardar objetos pequeños
 - Etiqueta con el logotipo de Dickies
+- Bolsillos tipo funda para guardar objetos pequeños
+- Ajuste regular para una comodidad diaria
 - Bolsillo para regla y bolsillo de carga para transportar herramientas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

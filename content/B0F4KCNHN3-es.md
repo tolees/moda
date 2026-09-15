@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bandera de Tommy Hilfiger bordada en el pecho
 - Cinta icónica en el cuello
+- Bandera de Tommy Hilfiger bordada en el pecho
 - Cuello, puños y dobladillo acanalados
 
 [🛒 Aquí!!!]({{< param buyurl >}})

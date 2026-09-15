@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camiseta interior de secado rápido para un aislamiento ligero en actividades de buen rendimiento
 - Exterior: 100% polipropileno
 - HH LIFA es una capa base de buen rendimiento que proporciona un aislamiento ligero y comodidad para el uso diario y las actividades de buen rendimiento; HH LIFA está fabricada con fibras 100% LIFA de secado rápido, transpirables y ligeras; la tecnología LIFA Stay Warm es el ingrediente de todas las capas base de Helly Hansen
+- Camiseta interior de secado rápido para un aislamiento ligero en actividades de buen rendimiento
 - Artículos entregados: 1x Helly Hansen Hombre Camiseta HH Lifa,M,Negro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

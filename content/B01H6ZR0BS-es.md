@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material de la suela: EVA
-- Revestimiento: Sin forro
-- Tipo de tacón: Plano
 - Material exterior: Espuma
+- Tipo de tacón: Plano
+- Revestimiento: Sin forro
+- Material de la suela: EVA
 - Composición: Sintético
 - Cierre: Sin cordones
 
