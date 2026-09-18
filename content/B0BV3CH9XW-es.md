@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello resort para un aspecto relajado y moderno
-- Diseño de mangas cortas, ideal para días cálidos de verano y tiempo libre
 - Ajuste regular para una comodidad óptima durante todo el día
 - Elegante camisa de hombre de alta calidad de mezcla de algodón y lino
+- Diseño de mangas cortas, ideal para días cálidos de verano y tiempo libre
+- Cuello resort para un aspecto relajado y moderno
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BV3CH9XW{{</world>}}

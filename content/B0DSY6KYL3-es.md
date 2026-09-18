@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con un ajuste cómodo
 - Tejido ligero y suave
+- Con un ajuste cómodo
 - Detalles distintivos de la marca
 
 [🛒 Aquí!!!]({{< param buyurl >}})

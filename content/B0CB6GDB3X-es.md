@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cada equipo tiene un guante de boxeo acolchado de robot de color rojo o azul.
 - Para desatar aún más caos, las cartas especiales obligan a los jugadores a lanzar sus guantes a un compañero de equipo antes de golear.
+- Cada equipo tiene un guante de boxeo acolchado de robot de color rojo o azul.
 - ¡GOLPÉALAS! ¡Los jugadores con guantes compiten para golpear las cartas y ganar la pila!
 - ¡Cada ronda, los jugadores pasan su guante a sus compañeros para que todos tengan la oportunidad de dar un buen gancho!
 - Este juego está basado en Rock Em Sock Em Robots, el clásico juego de lucha de robots en el que combaten el Red Rocker y el Blue Bomber.

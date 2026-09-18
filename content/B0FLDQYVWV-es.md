@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CONJUNTO CHÁNDAL NIÑO: Conjunto casual de 2 piezas para niño compuesto por pantalón largo y sudadera, ideal para un vestuario casual y práctico. Estas prendas de Prénatal son lavables a máquina, para una alta higiene
 - A LA MODA: Conjunto de sudadera enriquecido con estampado frontal en la sudadera azul a juego con los pantalones verdes; pantalones enriquecidos con un bolsillo en la parte trasera
+- CONJUNTO CHÁNDAL NIÑO: Conjunto casual de 2 piezas para niño compuesto por pantalón largo y sudadera, ideal para un vestuario casual y práctico. Estas prendas de Prénatal son lavables a máquina, para una alta higiene
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FLDQYVWV{{</world>}}

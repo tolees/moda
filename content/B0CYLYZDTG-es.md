@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Consulte la siguiente guía de tallas
-- Suela sintética
 - Mediasuela Cloudfoam
+- Suela sintética
 - Empeine de piel
 - Plantilla moldeada
 - Diseño sin cordones

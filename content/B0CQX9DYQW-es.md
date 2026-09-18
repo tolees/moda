@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- MATERIAL Y CUIDADO: Las camisetas están fabricadas con 95 % algodón y 5 % elastano y se pueden lavar a máquina
 - Camiseta de manga corta
 - Confeccionadas en suave algodón transpirable, estas camisetas atemporales se adaptan perfectamente al cuerpo
+- MATERIAL Y CUIDADO: Las camisetas están fabricadas con 95 % algodón y 5 % elastano y se pueden lavar a máquina
 - Set de 3 prendas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

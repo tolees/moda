@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estampado gráfico en la parte delantera
-- Diseño con capucha y cordones
 - Puños y bajo acanalados
+- Diseño con capucha y cordones
+- Estampado gráfico en la parte delantera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F4XKJ51V{{</world>}}

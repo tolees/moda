@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte recto
 - Composición: 100% algodón
+- Corte recto
 - Vaqueros de corte holgado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

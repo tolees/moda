@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sandalia de mujer, de la marca Refresh. Fabricada en rafia
-- Modelo de doble pala con pulsera al tobillo. Cierre mediante hebilla
 - Tacón ancho de 9 cm con plataforma delantera para mayor comodidad, forrado en el mismo material. Suela antideslizante. Este modelo ha obtenido el certificado vegano por la organización mundial PETA (Organización de los derechos de los animales)
 - [Nuestra Marca]: REFRESH con estilo fresco y juvenil. Calzado versátil y moderno diseñado para quienes buscan estar siempre a la moda sin renunciar a la comodidad.
+- Sandalia de mujer, de la marca Refresh. Fabricada en rafia
+- Modelo de doble pala con pulsera al tobillo. Cierre mediante hebilla
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CKF1RPLY{{</world>}}

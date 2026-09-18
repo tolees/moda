@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Código de vestimenta: informal
-- Temporada: clima cálido
 - Patrón: el diseño de la marca es visible
+- Temporada: clima cálido
+- Código de vestimenta: informal
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09M9SCQRW{{</world>}}

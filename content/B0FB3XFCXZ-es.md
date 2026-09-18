@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pensada para la vida en la ciudad
 - Ofrece transpirabilidad y comodidad
+- Pensada para la vida en la ciudad
 - Deportiva para hombre de estilo dinámico y contemporáneo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

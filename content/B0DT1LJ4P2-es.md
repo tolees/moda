@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cremallera superior
 - Logotipo con monograma en la parte delantera
+- Cremallera superior
 - Bandolera ajustable
 
 [🛒 Visítala!!!]({{< param buyurl >}})

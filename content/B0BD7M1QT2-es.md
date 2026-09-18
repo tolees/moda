@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pantalones cargo
 - Ajuste perfecto
+- Pantalones cargo
 - Fabricado con algodón reciclado. Este producto ha sido fabricado con algodón reciclado. El algodón reciclado conserva los recursos naturales y reduce la cantidad de residuos.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

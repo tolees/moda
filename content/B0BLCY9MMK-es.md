@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fabricada en material cómodo
 - Camiseta de manga corta
+- Fabricada en material cómodo
 - Para uso diario
 
 [🛒 Comprar!!!]({{< param buyurl >}})

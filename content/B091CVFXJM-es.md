@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ligero
-- Flujo de aire
 - Transpirabilidad
+- Flujo de aire
+- Ligero
 - Gestión de la humedad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

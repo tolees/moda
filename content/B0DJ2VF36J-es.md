@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- [Nuestra Marca]: REFRESH con estilo fresco y juvenil. Calzado versátil y moderno diseñado para quienes buscan estar siempre a la moda sin renunciar a la comodidad.
 - Talón cerrado y pulsera al tobillo con hebilla. Cuña de 8 cm forrada en yute trenzado
+- [Nuestra Marca]: REFRESH con estilo fresco y juvenil. Calzado versátil y moderno diseñado para quienes buscan estar siempre a la moda sin renunciar a la comodidad.
 - Suela de goma antideslizante. Este modelo ha obtenido el certificado vegano por la organización mundial PETA (Organización de los derechos de los animales)
 - Valenciana de mujer, de la marca Refresh. Fabricada en antelina
 

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Gota en la espalda cerrada por un botón
-- Apertura en el escote
 - Tirantes finos
+- Apertura en el escote
 - Escote americano
 - Corte recto
 

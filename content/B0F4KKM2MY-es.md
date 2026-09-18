@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Hombros ligeramente bajados
 - Jersey de algodón puro
 - Cinta icónica en el interior del cuello
+- Hombros ligeramente bajados
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F4KKM2MY{{</world>}}

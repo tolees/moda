@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sudadera sencilla de cuello redondo
 - Estilo polar
+- Sudadera sencilla de cuello redondo
 - Hecho de una suave mezcla de algodón
 - Cuello redondo clásico
 

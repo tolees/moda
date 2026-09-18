@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Detalles distintivos de la marca
 - Sudadera con cierre de cremallera frontal
 - Con bolsillos laterales
+- Detalles distintivos de la marca
 - Capucha ajustable mediante cordones
 
 [🛒 Visítala!!!]({{< param buyurl >}})

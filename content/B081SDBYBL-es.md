@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Ofrece comodidad y libertad de movimiento
 - Este producto es original Levis
-- Cuenta con un diseño ligero
 - Dispone de 5 bolsillos
+- Cuenta con un diseño ligero
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B081SDBYBL{{</world>}}

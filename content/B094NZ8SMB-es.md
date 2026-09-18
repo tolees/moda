@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseño ligero
-- El material ofrece una comodidad óptima
 - Material resistente y duradero
+- El material ofrece una comodidad óptima
+- Diseño ligero
 - Marca del producto: Helly Hansen
 
 [🛒 Aquí!!!]({{< param buyurl >}})

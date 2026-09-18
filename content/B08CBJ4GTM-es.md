@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 2 bolsillos y 1 bolsillo delantero para billetes, 2 bolsillos de parche en la parte posterior
-- Traslados en la cintura
-- Corte pitillo
 - Cintura baja
 - Cierre con cremallera y botones
+- 2 bolsillos y 1 bolsillo delantero para billetes, 2 bolsillos de parche en la parte posterior
+- Corte pitillo
+- Traslados en la cintura
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08CBJ4GTM{{</world>}}

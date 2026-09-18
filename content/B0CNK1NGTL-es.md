@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Un lienzo en blanco para personalizarlo y expresar tu estilo
-- Los jeans azules originales
 - Fabricados con nuestro elástico cómodo que cuenta con la cantidad de elasticidad necesaria para ir cómodamente durante todo el día
+- Los jeans azules originales
+- Un lienzo en blanco para personalizarlo y expresar tu estilo
 - Nuestro característico corte recto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

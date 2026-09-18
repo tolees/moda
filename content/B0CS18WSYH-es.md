@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bolsillos con solapa en el pecho
 - Cuello de camisa
-- Panel en los hombros con detalle de trabilla debajo
-- Cierre de botones
+- Bolsillos con solapa en el pecho
 - Puños ajustables con cierre de botón
+- Cierre de botones
+- Panel en los hombros con detalle de trabilla debajo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CS18WSYH{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Forro textil
 - Horma clásica
+- Mediasuela Bounce 2.0
 - Cierre de cordones
 - Suela de goma
-- Mediasuela Bounce 2.0
-- Forro textil
 - Empeine de malla
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 74% algodón / 26% poliéster (reciclado)
-- Corte clásico
 - Contiene al menos un 70% de material reciclado y renovable
+- Corte clásico
 - Bolsillos laterales
 - Cierre de cordones
+- 74% algodón / 26% poliéster (reciclado)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CZTSMG8P{{</world>}}

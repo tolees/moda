@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuello con media cremallera
-- Puños y dobladillo acanalados
-- Bordado gráfico GANT en el pecho
 - Corte regular
+- Puños y dobladillo acanalados
+- Cuello con media cremallera
+- Bordado gráfico GANT en el pecho
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BG5BST7L{{</world>}}

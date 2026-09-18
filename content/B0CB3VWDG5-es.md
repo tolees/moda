@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela de EVA delgada y ligera con contenido reciclado
-- Clarks Shoes, Atticus LTLace, Grey Nubuck, 6,5 (Men)
 - La plantilla de espuma reciclada Cushion Plus ofrece comodidad respetuosa con el medio ambiente
+- Clarks Shoes, Atticus LTLace, Grey Nubuck, 6,5 (Men)
+- Suela de EVA delgada y ligera con contenido reciclado
 - El calcetín de cuero transpirable es ideal para usar descalzo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

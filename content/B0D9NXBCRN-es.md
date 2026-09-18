@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Modelo Unisex; Medidas: Frontal 148 mm, Varillas 145 mm, Puente 16 mm, Alto 50 mm
 - Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes de TR18 con el sello de Eastman, gran calidad óptica y resistencia; respetuoso con el medio ambiente; protección 100% UV; Color de la lente: Azul; Apariencia de la lente: Gradiente
 - Diseño de gafas de sol cutting-edge y atemporal de estilo aviador; combina frontal flat-top de corte geométrico con lentes de bordes redondeados y varillas anchas para un look robusto y con mucha personalidad; disponible en varios colores de monturas y lentes
-- Material de la montura: Acetato; Color de la montura: Azul; Color de la varilla: Azul
+- Modelo Unisex; Medidas: Frontal 148 mm, Varillas 145 mm, Puente 16 mm, Alto 50 mm
 - Producto original Hawkers; la caja incluye funda en microfibra y caja
+- Material de la montura: Acetato; Color de la montura: Azul; Color de la varilla: Azul
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D9NXBCRN{{</world>}}

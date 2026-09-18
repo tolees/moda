@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cuello de camisa
-- Botón a presión en la manga para fijar la vuelta si se desea acortar el largo
-- Bolsillos con solapa en el pecho
 - Panel en el hombro, trabilla tejida
+- Bolsillos con solapa en el pecho
 - Bajo ligeramente redondeado
+- Botón a presión en la manga para fijar la vuelta si se desea acortar el largo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CKBZTCQD{{</world>}}

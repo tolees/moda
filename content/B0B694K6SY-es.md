@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sudadera de uso diario
 - Prenda para mujeres adultas
+- Sudadera de uso diario
 - Tiene detalles distintivos de la marca
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

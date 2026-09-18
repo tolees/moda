@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cintura : Cintura alta
 - Cierre: cintura elástica
+- Cintura : Cintura alta
 - Ajuste: corte holgado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

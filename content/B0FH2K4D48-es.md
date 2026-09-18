@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Camiseta
 - Composición: 100% algodón
+- Camiseta
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FH2K4D48{{</world>}}

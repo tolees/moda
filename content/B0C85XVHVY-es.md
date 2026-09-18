@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Marca: JOISIDE
 - Tamaño: 46 EU
+- Marca: JOISIDE
 - Zapatos de Seguridad Hombre Botas de Trabajo Mujer 46 Botas de Seguridad Botas Puntera de Acero Botas de Seguridad S3 Calzado de Seguridad Deportivo Verano Tenis de Seguridad para Hombre Verano Rojo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

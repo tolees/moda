@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'G-STAR 3301 Flare Jeans Vaqueros Azul Worn In Icy Blue D21290-d987-h281 23W / 28L Mujer'
-date: 2026-09-12 22:44:48
+date: 2026-09-16 22:53:07
 image: 'https://m.media-amazon.com/images/I/31OerQsjCJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0D8WLXDSV/?tag=tolees-21'
 descuento: '81.39'
-average: '29.61'
+average: '27.18'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

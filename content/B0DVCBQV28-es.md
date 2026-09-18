@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Manga: Larga
+- Con capucha
+- Acabado metalizado
 - Cintura con goma elástica
 - Desigual
-- Manga: Larga
-- Acabado metalizado
-- Con capucha
 - Color: Liso
 
 [🛒 Aquí!!!]({{< param buyurl >}})

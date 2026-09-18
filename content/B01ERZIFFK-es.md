@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camiseta de manga corta indicada para deportistas que buscan comodidad y transpirabilidad
-- Modelo con un diseño simple
 - Producto adecuado para los días de verano
 - Ofrece comodidad y libertad de movimiento
+- Camiseta de manga corta indicada para deportistas que buscan comodidad y transpirabilidad
+- Modelo con un diseño simple
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01ERZIFFK{{</world>}}

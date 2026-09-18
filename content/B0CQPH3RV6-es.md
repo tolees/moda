@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cuero de calidad
 - Parte superior de cuero
+- Duradero
 - Aspecto clásico
 - Tecnología del cojín
-- Duradero
-- Cuero de calidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CQPH3RV6{{</world>}}

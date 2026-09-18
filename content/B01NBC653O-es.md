@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Correa trasera: correa trasera con hebilla para ajustar el cierre libremente
-- Puntera acabada en punta: la puntera acabada en punta muestra tu encanto y atractivo
 - Plantilla de cuero: la cómoda plantilla acolchada los hace ideales para llevar todo el día.
+- Puntera acabada en punta: la puntera acabada en punta muestra tu encanto y atractivo
+- Correa trasera: correa trasera con hebilla para ajustar el cierre libremente
 - Tacones de aguja cortos: los clásicos y atractivos tacones de aguja cortos son los mejores para vestir
 - Medidas: Altura del tacón: 6,35 cm; Altura de la plataforma: 0,63 cm
 

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Manga corta y corte entallado
-- Camiseta esencial de cuello redondo
 - Logotipo impreso en posición en la parte delantera
+- Camiseta esencial de cuello redondo
+- Manga corta y corte entallado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F588QGWR{{</world>}}

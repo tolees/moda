@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Cuello acanalado
+- Una mirada original
+- Proporciona comodidad
 - Estampado gráfico en la parte delantera
 - Etiqueta de G-STAR Originals tejida en la costura lateral inferior
-- Proporciona comodidad
-- Una mirada original
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D1Y3JTJP{{</world>}}

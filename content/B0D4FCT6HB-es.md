@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fabricado con tecnología Omni-Shield: Una tecnología duradera y de secado rápido que repele el agua y las manchas impidiendo que los líquidos se absorban en los hilos y saturen o manchen tu ropa.
-- Tejido neutralizador de olores, bolsillos para las manos, bolsillo con cremallera, bolsillos traseros, bolsillos abiertos para lo esencial, lazo trasero para mosquetón, cómoda cintura para todo el día.
 - Ajuste activo que garantiza una gran amplitud de movimiento, diseño de talle medio, 5" de entrepierna, Exterior: 94% nailon, 6% elastano
+- Tejido neutralizador de olores, bolsillos para las manos, bolsillo con cremallera, bolsillos traseros, bolsillos abiertos para lo esencial, lazo trasero para mosquetón, cómoda cintura para todo el día.
+- Fabricado con tecnología Omni-Shield: Una tecnología duradera y de secado rápido que repele el agua y las manchas impidiendo que los líquidos se absorban en los hilos y saturen o manchen tu ropa.
 - Pantalón corto Leslie Falls: el pantalón corto de senderismo perfecto para climas cálidos con protección UV de amplio espectro, tecnología antimanchas y tejido ligero con la elasticidad justa.
 - Contenido: 1x Columbia Pantalón Corto Leslie Falls II para Mujer, Color: Collegiate Navy (Azul), Talla: W2/L5
 

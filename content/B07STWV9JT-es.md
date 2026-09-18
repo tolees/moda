@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material exterior: poliéster
-- Suela: Caucho
 - Material interior: sintético
+- Suela: Caucho
+- Material exterior: poliéster
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07STWV9JT{{</world>}}

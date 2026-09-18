@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - 100% algodón
-- Cuello redondo
 - Corte clásico
+- Cuello redondo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CZP44TGS{{</world>}}

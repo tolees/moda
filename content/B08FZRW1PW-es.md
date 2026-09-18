@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material composición: 98% algodón, 2% elastano
 - Bolsillos con solapas en cada pierna
-- Pantalón cargo
+- Material composición: 98% algodón, 2% elastano
 - Cintura media
+- Pantalón cargo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08FZRW1PW{{</world>}}

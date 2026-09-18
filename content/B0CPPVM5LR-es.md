@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Presentan un estilo informal
 - Transpirables y cómodas
+- Presentan un estilo informal
 - Con un tacón bajo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Calzado ligero
 - Cierre con cordones
 - Plantilla desmontable
+- Calzado ligero
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DP7TX71C{{</world>}}

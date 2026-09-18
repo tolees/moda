@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Caucho-Caucho
 - AdjuntarSintético
+- Caucho-Caucho
 - Caucho
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

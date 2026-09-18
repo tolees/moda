@@ -29,11 +29,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - cuello de punto acanalado
-- escote redondo
-- costuras decorativas en los puños
-- Calibre fino
 - Logotipo de Tommy Hilfiger
 - Jersey de puro algodón peinado
+- escote redondo
+- Calibre fino
+- costuras decorativas en los puños
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F4QMTQPZ{{</world>}}

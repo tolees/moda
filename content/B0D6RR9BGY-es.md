@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Ajuste: Slim Tapered
-- Composición: 56 por ciento algodón 25 por ciento poliéster 13 por ciento lyocell 5 por ciento elastomultiester 1 por ciento elastano
 - Tipo de estiramiento: baja elasticidad
 - Instrucciones de cuidado: lavable a máquina
+- Composición: 56 por ciento algodón 25 por ciento poliéster 13 por ciento lyocell 5 por ciento elastomultiester 1 por ciento elastano
 - Jeans Pantalones Largos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

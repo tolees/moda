@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Color: Naranja
+- Vestido sin mangas de la colección mujer
 - 88 % viscosa, 12 % poliamida
 - Colección primavera-verano
-- Vestido sin mangas de la colección mujer
+- Color: Naranja
 - Hecho en: Rumania
 
 [🛒 Visítala!!!]({{< param buyurl >}})

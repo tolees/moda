@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ajuste relajado
-- Manga larga
 - Fabricado con al menos 50% algodón sostenible
+- Manga larga
+- Ajuste relajado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CSNG79RY{{</world>}}

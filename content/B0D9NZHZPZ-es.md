@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Estampado de logo en el pecho
 - Cuenta con un estilo casual
 - Ajuste cómodo
-- Estampado de logo en el pecho
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D9NZHZPZ{{</world>}}

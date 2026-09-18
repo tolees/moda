@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Alta calidad
-- Tecnología Dri-FIT
 - Sudadera
+- Tecnología Dri-FIT
 - Cómodo
+- Alta calidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F9P3GC6R{{</world>}}

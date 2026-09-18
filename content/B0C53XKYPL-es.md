@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Tipo de tacón: Plano
 - Material único: 100% termoplástico (EVA)
 - Tipo de cierre: Enhebrador
-- Tipo de tacón: Plano
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C53XKYPL{{</world>}}

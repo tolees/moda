@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Abrigo De Lana A Cuadros
 - Capa De Lana
+- Abrigo De Lana A Cuadros
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FCMY8T34{{</world>}}

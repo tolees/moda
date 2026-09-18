@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Producto original Hawkers; la caja incluye funda en microfibra y caja
-- Un diseño sofisticado que combina montura de acetato en carey blanco y negro con lentes en azul oscuro degradado
 - Material de la montura: Acetato; Color de la montura: Negro, Blanco, Carey; Color de la varilla: Negro, Blanco, Carey
-- Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes de TR18 con el sello de Eastman, gran calidad óptica y resistencia; respetuoso con el medio ambiente; protección 100% UV; Color de la lente: Azul; Apariencia de la lente: Gradiente
+- Un diseño sofisticado que combina montura de acetato en carey blanco y negro con lentes en azul oscuro degradado
 - Modelo Masculino; Medidas: Frontal 139 mm, Varillas 140 mm, Puente 20;5 mm, Alto 47;5 mm
+- Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes de TR18 con el sello de Eastman, gran calidad óptica y resistencia; respetuoso con el medio ambiente; protección 100% UV; Color de la lente: Azul; Apariencia de la lente: Gradiente
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08K3D5SCY{{</world>}}

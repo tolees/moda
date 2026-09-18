@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cuenta con un diseño ligero
 - Presenta un estilo casual
 - Ofrece comodidad y libertad de movimiento
-- Cuenta con un diseño ligero
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B072N21MPJ{{</world>}}

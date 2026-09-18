@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Ropa de abrigo
-- En talle mediano
 - En color azul
+- En talle mediano
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BKQTYZR8{{</world>}}

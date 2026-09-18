@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Garment wash
-- Collar clásico
-- Sleeves largas
 - Tejido de algodón brushed franel grindle [170 g/m2]
+- Garment wash
+- Sleeves largas
+- Collar clásico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DPG64T21{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cuello redondo
 - Fabricado con 100% algodón sostenible
 - Corte regular
-- Cuello redondo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CSP9DCK6{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Para más información, consulta la descripción del producto.
 - Levis - Cinturón de piel Ashland
+- Para más información, consulta la descripción del producto.
 - Producto original. Somos un vendedor autorizado de Levis.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

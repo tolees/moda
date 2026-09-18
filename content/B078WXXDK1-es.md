@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Modern short sleeved shirt with o-neck.
 - onlMOSTER S/S O-NECK TOP NOOS JRS by ONLY.
+- Modern short sleeved shirt with o-neck.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B078WXXDK1{{</world>}}

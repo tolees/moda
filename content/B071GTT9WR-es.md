@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Etiqueta con bandera en el dobladillo
-- Logotipo grande en el pecho
 - Forro interior cepillado
+- Logotipo grande en el pecho
 - Cable del túnel para ajustar el ancho del capó
 - Puños de nervadura en el cuello, la cintura y las muñecas
 

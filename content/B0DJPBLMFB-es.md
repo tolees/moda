@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ideal para usar en otras prendas para añadir un toque de estilo
-- Combínalo con unos vaqueros como opción para el día a día o con una falda y unas botas los días en los que desees un look sofisticado
 - El cárdigan es imprescindible para la temporada de otoño
+- Combínalo con unos vaqueros como opción para el día a día o con una falda y unas botas los días en los que desees un look sofisticado
+- Ideal para usar en otras prendas para añadir un toque de estilo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DJPBLMFB{{</world>}}

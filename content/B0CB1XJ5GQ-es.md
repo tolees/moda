@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello de camisa
 - Manga larga, puños, botón a presión
 - Bajo redondeado con aberturas laterales
-- Costura horizontal que cruza la cintura
 - Bolsillos con solapa en el pecho, uno de ellos de parche
+- Costura horizontal que cruza la cintura
+- Cuello de camisa
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CB1XJ5GQ{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Color: Negro (Black, Metal); chaleco de Carrera Unisexo con frascos de hidratación incluidos; talla ES (EUR): M
 - Todo lo que necesitas para tus aventuras en carreras de distancia al alcance de la mano, con un montón de espacio y bolsillos seguros; compatible con nuestro Custom Quiver para llevar los bastones
+- Color: Negro (Black, Metal); chaleco de Carrera Unisexo con frascos de hidratación incluidos; talla ES (EUR): M
 - Dos bolsillos en el pecho proporcionan un acceso rápido a los bidones sobre la marcha. 2 bidones blandos de 500 ml incluidos; también es compatible con una bolsa de hidratación de 1,5 litros
 - Un diseño SensiFit con tejidos suaves, libertad de movimiento, malla interior para una óptima comodidad, ajustes sencillos y correas de compresión para fijar el peso sobre la espalda
 - Empieza tus aventuras en carreras de distancia con una hidratación sencilla

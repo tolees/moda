@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Blusa de manga larga con volumen
-- con cuello redondo con abertura con cierre de cordón con borlas
 - con estampado de flores y cenefas en el canesú en la espalda y en las mangas
+- con cuello redondo con abertura con cierre de cordón con borlas
+- Blusa de manga larga con volumen
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D6N86GBL{{</world>}}

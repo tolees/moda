@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- departam_x: MUJER
 - Sandalias Planas Mujer Skechers 119975 Negro
-- familia_x: SANDALIAS PLANAS
 - Talla: 36
+- departam_x: MUJER
 - tacon_x: PLANO
+- familia_x: SANDALIAS PLANAS
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CKS4M2QT{{</world>}}

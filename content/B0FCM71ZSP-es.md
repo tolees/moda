@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Rib 1 x 1 con collar
 - Cuello:
-- Tela de algodón orgánico [160 g/m2]
 - Chest embroidery
+- Tela de algodón orgánico [160 g/m2]
+- Rib 1 x 1 con collar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FCM71ZSP{{</world>}}

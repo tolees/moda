@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Instrucciones de cuidado: limpiar con un paño húmedo
-- Composición: 100 % piel
 - Cinturón
+- Composición: 100 % piel
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FH2TRH55{{</world>}}

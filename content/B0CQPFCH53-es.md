@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Parte superior de cuero
-- Duradero
 - Aspecto clásico
 - Tecnología del cojín
+- Parte superior de cuero
+- Duradero
 - Cuero de calidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})

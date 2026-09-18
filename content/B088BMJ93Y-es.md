@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Contenido: 1 x Columbia CSC Basic Logo, Camiseta de manga corta, Hombre, Material: 100% algodón orgánico, Color: Azul, Blanco (Collegiate Navy, White), Talla: XS, Art.No. 1680053
 - Diseño con estilo del logo de Columbia
+- Confort óptimo gracias al material de jersey 100% algodón
 - Camiseta de hombre de manga corta, Óptimo para llevar todo el año
 - Disponible en varios colores
-- Confort óptimo gracias al material de jersey 100% algodón
-- Contenido: 1 x Columbia CSC Basic Logo, Camiseta de manga corta, Hombre, Material: 100% algodón orgánico, Color: Azul, Blanco (Collegiate Navy, White), Talla: XS, Art.No. 1680053
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B088BMJ93Y{{</world>}}

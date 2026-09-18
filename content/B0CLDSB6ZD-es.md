@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre : Cierre de cremallera
 - Bolsillos : Bolsillos delanteros
-- Artículo : Chaleco acolchado
-- Acolchado : Acolchado de plumón de fibra sintética para una mayor sensación de suavidad y calidez
 - Cuello : Cuello levantado
 - Manga : Sin mangas
+- Cierre : Cierre de cremallera
+- Acolchado : Acolchado de plumón de fibra sintética para una mayor sensación de suavidad y calidez
+- Artículo : Chaleco acolchado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CLDSB6ZD{{</world>}}

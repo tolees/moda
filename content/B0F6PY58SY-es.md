@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cinta adhesiva en la nuca
+- Cuello, puños y dobladillo de punto acanalado
 - Cuello redondo
 - Forro polar de mezcla de algodón cepillado
-- Cuello, puños y dobladillo de punto acanalado
+- Cinta adhesiva en la nuca
 - Tommy Hilfiger Logotipo en el pecho
 
 [🛒 Aquí!!!]({{< param buyurl >}})

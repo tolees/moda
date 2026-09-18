@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Rib at top part of the leg
 - Chevrons de punto
 - Tallas de punto en la parte inferior del pie
+- Rib at top part of the leg
 - Efecto acanalado en el medio pie para dar un ajuste cómodo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

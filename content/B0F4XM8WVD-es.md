@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Detalle de manga enrollada
 - Bajo recto
 - Cuello redondo
+- Detalle de manga enrollada
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F4XM8WVD{{</world>}}

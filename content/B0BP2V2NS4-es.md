@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Elementos de metal de oro pálido
 - Impresión de logotipo 4G
+- Elementos de metal de oro pálido
 - Bolsa de hombro
 
 [🛒 Comprar!!!]({{< param buyurl >}})

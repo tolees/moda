@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tenga en cuenta que debe consultar nuestra Tabla de tallas que se muestra en la imagen y la descripción antes de realizar un pedido, si no está seguro, no dude en contactarnos
+- Conjunto de pijama familiar a juego para mamá bebé, color sólido, clásico y moderno, especialmente adecuado para usar en primavera-verano-otoño-invierno
+- Conjunto de pijamas para niñas y niños hecho de tela 100% algodón y poliéster, suave y transpirable, que tampoco daña la piel.
 - Ropa de dormir de 2 piezas con cierre de botón y diseño de cordón elástico en la cintura, que te hace sentir cómodo y en forma, inofensivo para la piel tierna de la cintura.
 - El paquete de ropa de estar informal incluye: 1 x top + 1 x bottom, ideal para sesiones de fotos informales, diarias, fiestas, días festivos, ropa de dormir, ropa interior y para el hogar
-- Conjunto de pijamas para niñas y niños hecho de tela 100% algodón y poliéster, suave y transpirable, que tampoco daña la piel.
-- Conjunto de pijama familiar a juego para mamá bebé, color sólido, clásico y moderno, especialmente adecuado para usar en primavera-verano-otoño-invierno
+- Tenga en cuenta que debe consultar nuestra Tabla de tallas que se muestra en la imagen y la descripción antes de realizar un pedido, si no está seguro, no dude en contactarnos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B097MCFJKQ{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Allied traceable European dow
 - Duck down 60/40 480FP
 - Waterproof, windproof and breathable
 - Helly Tech construction
-- Allied traceable European dow
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01ET4E2RO{{</world>}}

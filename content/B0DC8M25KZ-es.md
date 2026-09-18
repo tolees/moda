@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Detalle del logotipo de Bobs de Skechers
-- Entresuela con ribete de chapa de corcho
 - Suela de tracción flexible
+- Entresuela con ribete de chapa de corcho
+- Detalle del logotipo de Bobs de Skechers
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DC8M25KZ{{</world>}}

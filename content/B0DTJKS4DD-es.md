@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Camiseta de manga corta con logotipo bordado en el pecho
 - 100 % algodón
 - Corte regular
-- Camiseta de manga corta con logotipo bordado en el pecho
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DTJKS4DD{{</world>}}

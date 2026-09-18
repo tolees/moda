@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hecho en: China
-- Colección primavera-verano
-- 99 % algodón, 1 % elastano
 - Pantalón denim de la colección mujer
+- Colección primavera-verano
 - Color: Azul
+- Hecho en: China
+- 99 % algodón, 1 % elastano
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FGPSSSCV{{</world>}}

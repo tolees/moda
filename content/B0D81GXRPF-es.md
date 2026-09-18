@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Clarks Sandals, Tuscan Strap, Black Leather, 7 (Women)
-- Cojín suave
 - Aspecto y tacto clásicos
 - Flexibles
+- Cojín suave
+- Clarks Sandals, Tuscan Strap, Black Leather, 7 (Women)
 - Alta calidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

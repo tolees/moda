@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Compartimento principal y bolsillo frontal
-- Bolso bandolera con solapa y cierre magnético
 - Forro interior
 - Dimensiones: 15 x 20 x 7 cm
+- Bolso bandolera con solapa y cierre magnético
 - Correa al hombro ajustable de 120cm
 
 [🛒 Comprar!!!]({{< param buyurl >}})

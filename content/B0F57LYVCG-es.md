@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 85 % algodón, 15 % poliéster
 - Con ilustraciones de labios y logotipo de Pepe Jeans
 - Sudadera de manga larga con cuello redondeado
+- 85 % algodón, 15 % poliéster
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F57LYVCG{{</world>}}

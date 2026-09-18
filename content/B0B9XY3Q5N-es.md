@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Peso: 180 g
-- Entresuela de EVA y banda de rodadura de TPR
-- Puntera cerrada para la protección de los dedo
-- Suede
 - Cordones Fast Lace
+- Suede
+- Peso: 180 g
+- Puntera cerrada para la protección de los dedo
+- Entresuela de EVA y banda de rodadura de TPR
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B9XY3Q5N{{</world>}}

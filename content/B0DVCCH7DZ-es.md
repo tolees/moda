@@ -30,10 +30,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Acabado metalizado
 - Cintura con goma ajustable
-- Desigual
 - Manga: Larga
-- Con capucha
+- Desigual
 - Color: Liso
+- Con capucha
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DVCCH7DZ{{</world>}}

@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Camiseta sin manga de la colección mujer
-- Color: Gris
-- Colección primavera-verano
 - 80 % viscosa, 20 % poliéster
+- Colección primavera-verano
+- Color: Gris
 - Hecho en: Marruecos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

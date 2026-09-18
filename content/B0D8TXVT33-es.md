@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tacón 3 cm
 - Piel natural
+- Tacón 3 cm
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D8TXVT33{{</world>}}

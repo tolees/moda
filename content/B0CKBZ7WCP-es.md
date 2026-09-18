@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre de botones
-- Cuello de camisa
+- Costura diagonal en la parte trasera de la manga
 - Panel en los hombros
 - Bolsillos con solapa en el pecho con cierre de botón
-- Costura diagonal en la parte trasera de la manga
+- Cierre de botones
+- Cuello de camisa
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CKBZ7WCP{{</world>}}

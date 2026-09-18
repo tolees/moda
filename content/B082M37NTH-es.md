@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bajo curvado
-- Proporciona comodidad
 - Corte relajado
+- Bajo curvado
 - Manga corta
 - Largo regular
+- Proporciona comodidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B082M37NTH{{</world>}}

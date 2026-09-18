@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Clarks Detalle de marca
 - Peso ligero
+- Clarks Detalle de marca
 - No es resistente al agua
 
 [🛒 Aquí!!!]({{< param buyurl >}})

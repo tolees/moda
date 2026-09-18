@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Moderno, moderno y moderno
-- Muslo largo
-- El abrigo perfecto para días incómodos
-- Parka funcional para mujer de la marca Onky
 - Repele el viento, el agua y el frío
+- Moderno, moderno y moderno
+- El abrigo perfecto para días incómodos
+- Muslo largo
+- Parka funcional para mujer de la marca Onky
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08BTKJWMQ{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Corte recto
 - Estilo de tiro medio
+- Corte recto
 - Fabricado con al menos un 50 % de algodón sostenible
 
 [🛒 Aquí!!!]({{< param buyurl >}})

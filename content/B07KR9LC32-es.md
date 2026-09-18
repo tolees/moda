@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Mares flexa classsic 3 mm
 - color Negro
+- Mares flexa classsic 3 mm
 - talla M
 
 [🛒 Visítala!!!]({{< param buyurl >}})

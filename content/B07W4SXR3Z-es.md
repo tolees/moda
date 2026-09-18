@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tejido ligero y duradero
 - Corte clásico
 - Ajuste regular
+- Tejido ligero y duradero
 - La tecnología del material elimina el sudor de la piel
 
 [🛒 Aquí!!!]({{< param buyurl >}})

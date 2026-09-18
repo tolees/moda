@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cuello redondo
-- Manga corta
 - Detalles gráficos en el pecho
+- Manga corta
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F4XJRWW1{{</world>}}

@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cuenta con suela antideslizante, para mayor seguridad en cada paso. Este modelo ha obtenido el certificado vegano por la organización mundial PETA (Organización de los derechos de los animales)
-- Sandalia de mujer, de la marca Xti. Modelo de pala, con diseño minimalista y actual, ideal para los días de verano
-- Fabricada en materiales de alta calidad, proporciona un calce cómodo y fácil. Su estilo versátil la hace perfecta para looks relajados y urbanos
 - [Nuestra Marca]: XTI se caracteriza por su moda urbana y funcional con calzado que combina las últimas tendencias con comodidad y versatilidad para un estilo de vida activo y moderno.
+- Fabricada en materiales de alta calidad, proporciona un calce cómodo y fácil. Su estilo versátil la hace perfecta para looks relajados y urbanos
+- Sandalia de mujer, de la marca Xti. Modelo de pala, con diseño minimalista y actual, ideal para los días de verano
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GFFYK9Y5{{</world>}}

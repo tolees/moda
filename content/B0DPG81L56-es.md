@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cordón en la cintura elástica
 - Ajuste regular y relación calidad-precio
+- Cordón en la cintura elástica
 - Diseño flexible y detalles reflectantes
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

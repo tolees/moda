@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cremallera completa con ajuste regular
 - Bolsillo y bolsillos laterales con cremallera
+- Cremallera completa con ajuste regular
 - Diseño flexible y detalles reflectantes
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

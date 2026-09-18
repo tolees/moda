@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Medio
-- Sintético
 - Plano
+- Sintético
 - Adjuntar
 - Caucho
 

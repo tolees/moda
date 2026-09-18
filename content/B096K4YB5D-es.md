@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Felpa 53% algodón / 36% poliéster reciclado / 11% viscosa
 - Cintura elástica con cordón
-- Ropa deportiva fabricada con materiales de primera calidad que se adaptan a cualquier actividad deportiva
-- Corte ajustado
 - Los productos deportivos de la marca adidas están diseñados para que disfrutes de tu deporte favorito sin preocuparte de nada más que rendir al máximo
+- Felpa 53% algodón / 36% poliéster reciclado / 11% viscosa
+- Corte ajustado
+- Ropa deportiva fabricada con materiales de primera calidad que se adaptan a cualquier actividad deportiva
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B096K4YB5D{{</world>}}

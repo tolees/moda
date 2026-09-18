@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Mangas raglán
 - Totalmente de moda
-- Puños, cuello acanalado
 - Dobladillo recto
+- Puños, cuello acanalado
 - Mango texturizado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

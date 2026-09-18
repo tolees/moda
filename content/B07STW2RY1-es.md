@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Elástico sintético flexible fijado en 3 puntos
 - Suela de goma espumada con logotipos multiángulo para mayor agarre
+- Elástico sintético flexible fijado en 3 puntos
 - Quiksilver Logotipo y logotipo de Mountain and Wave
 - Plantilla con textura antideslizante
 - Poppige líneas estrechas en el lado

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cintura elástica con cordón
 - Bolsillos frontales
-- 74% algodón / 26% poliéster (reciclado)
 - Contiene al menos un 70% de material reciclado y renovable
+- Cintura elástica con cordón
+- 74% algodón / 26% poliéster (reciclado)
 - Corte clásico
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

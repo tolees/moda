@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cierre : Cierre de botones
-- Corte : Corte super slim
 - Artículo : Camisa
+- Corte : Corte super slim
 - Manga : Manga larga
 - Cuello : Cuello de camisa
 

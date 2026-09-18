@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Manga larga
-- Un ajuste cómodo
-- Diseño sin relleno
-- Botón a presión y cierre con cremallera
 - Diseño con capucha
+- Botón a presión y cierre con cremallera
+- Diseño sin relleno
+- Un ajuste cómodo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FJ8VS346{{</world>}}

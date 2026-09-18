@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Jersey_Trousers
 - Marca: BOSS
 - Vaqueros para hombre
+- Jersey_Trousers
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DKXP1XQV{{</world>}}

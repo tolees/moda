@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Este es un producto auténtico y original de Tommy Jeans
 - Este estilo ha sido producido de forma sosteni
+- Este es un producto auténtico y original de Tommy Jeans
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FVPPY8J2{{</world>}}

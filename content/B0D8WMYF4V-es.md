@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Elástico cómodo
 - Cuello de pico
-- Una mirada original
 - Manga corta
+- Una mirada original
 - Proporciona comodidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

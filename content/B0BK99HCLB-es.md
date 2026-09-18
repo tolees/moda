@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Suela de goma para mayor agarre.
-- Bota baja
-- Logotipo de PUMA Cat en la puntera y la lengüeta.
 - Entresuela de EVA para mayor comodidad
+- Logotipo de PUMA Cat en la puntera y la lengüeta.
+- Bota baja
 - Parte superior de malla ADN de Anzarun
 
 [🛒 Comprar!!!]({{< param buyurl >}})

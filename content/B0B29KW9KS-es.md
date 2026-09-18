@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fit ajustado para un look informal y desenfadado
+- Un polo refinado con estilo, versátil y todo menos aburrido
 - Este producto es original Levis
 - Acabado en tonos luz malva
-- Un polo refinado con estilo, versátil y todo menos aburrido
+- Fit ajustado para un look informal y desenfadado
 - Textura de piqué clásico
 
 [🛒 Comprar!!!]({{< param buyurl >}})

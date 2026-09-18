@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Ideal para dormir o estar en casa muy cómoda
 - La camisa de manga larga presenta solapas de muesca y botones en la parte delantera
 - Pijama camisero de manga larga
-- Ideal para dormir o estar en casa muy cómoda
 - Este pijama de dos piezas en punto suave de viscosa es la combinación perfecta de comodidad y estilo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Empeine de ante y material sintético
 - Cordones elásticos y cierre autoadherente
 - Horma clásica
-- Empeine de ante y material sintético
 - Lengüeta acolchada
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

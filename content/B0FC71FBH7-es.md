@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Elige una talla más para un ajuste cómodo y relajado
 - LEVIS TAB: Existen diferentes variaciones de la conocida lengüeta roja. Todos los productos son originales de Levis, no importa si pone LEVIS, Levis, no está escrito o es de otro color.
 - Un estilo clásico inspirado en una prenda del archivo
-- Elige una talla más para un ajuste cómodo y relajado
 - Detalle atemporal de un solo bolsillo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de tacón: Plano
 - Material de la suela: EVA
+- Composición: Sintético
 - Material exterior: Espuma
 - Cierre: Sin cordones
-- Composición: Sintético
+- Tipo de tacón: Plano
 - Revestimiento: Sin forro
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

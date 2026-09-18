@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Corte normal
-- Rayas de contraste en el interior del cuello acanalado
 - Puños acanalados en cuello, dobladillo y puños
+- Rayas de contraste en el interior del cuello acanalado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BRL8T99Z{{</world>}}

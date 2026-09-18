@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Entresuela ligera de EVA que absorbe los impactos
-- Altura del tacón: 40 mm
 - Plantilla contorneada moldeada y extraíble que soporta cada paso
+- Altura del tacón: 40 mm
 - Marca Clarks reconocible
 
 [🛒 Comprar!!!]({{< param buyurl >}})

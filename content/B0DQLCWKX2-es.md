@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Puños y dobladillo de punto acanalado
 - Cuello redondo
+- Puños y dobladillo de punto acanalado
 - Manga larga
 
 [🛒 Visítala!!!]({{< param buyurl >}})

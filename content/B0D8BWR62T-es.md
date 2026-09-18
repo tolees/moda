@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Número de modelo: 1045238
-- Ajuste óptimo y gran comodidad
 - Blusa de manga corta para mujer Tom Tailor
+- Ajuste óptimo y gran comodidad
+- Número de modelo: 1045238
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D8BWR62T{{</world>}}

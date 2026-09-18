@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Zapatilla deportiva
 - Destaca por su ajuste sencillo y rápido sin necesidad de usar las manos
+- Zapatilla deportiva
 - Flexible y dinámica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Con logotipo discreto
-- Combina perfectamente con cualquiera de estos vaqueros
 - La camiseta básica perfecciona
+- Combina perfectamente con cualquiera de estos vaqueros
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D54JK2FY{{</world>}}

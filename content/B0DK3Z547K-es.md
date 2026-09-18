@@ -1,25 +1,25 @@
 ---
 layout: post
 title: 'Calvin Klein Camiseta de Manga Corta Mujer Classic Logo tee de algodón Negro Black XS'
-date: 2026-07-09 13:55:59
-image: 'https://m.media-amazon.com/images/I/31KvBGQ0aPL._SL500_._SL400_.jpg'
+date: 2026-09-18 17:08:01
+image: 'https://m.media-amazon.com/images/I/41+i00bQh2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B0DK3Z547K-es Calvin Klein Camiseta de Manga Corta Mujer Classic Logo...'
 sku: 'B0DK3Z547K-es'
 tags: [ 'camiseta','🇪🇸', ]
-actualPrice: 14.98 EUR
+actualPrice: 8.84 EUR
 currency: EUR
-price: 14.98
+price: 8.84
 comparePrice: 35.9 EUR
 prodname: 'Calvin Klein Camiseta de Manga Corta Mujer Classic Logo tee de algodón Negro Black XS'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DK3Z547K/?tag=tolees-21'
-descuento: '58.27'
-average: '14.98'
+descuento: '75.38'
+average: '11.91'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,6 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ofrece una comodidad óptima
-- Detalles distintivos de la marca
-- Tejido ligero y transpirable
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DK3Z547K{{</world>}}

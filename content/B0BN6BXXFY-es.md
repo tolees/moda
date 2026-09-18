@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Talla del zapato: Medium
-- Forma del tacón: tacón de bloque
 - Grado de resistencia al agua: no impermeable
+- Forma del tacón: tacón de bloque
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BN6BXXFY{{</world>}}

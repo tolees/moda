@@ -29,11 +29,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Corte : Corte slim
-- Cierre : Cierre de botones
-- Artículo : Camisa
 - Manga : Manga larga
 - Modo de vida : Tradicional
 - Cuello : Cuello de camisa
+- Artículo : Camisa
+- Cierre : Cierre de botones
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B696JJD7{{</world>}}

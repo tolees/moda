@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Consigue esta PRECIOSA Princesa para JUGAR o COLECCIONAR, ¡Los FANS de las Princesas Disney no se RESISTIRÁN!
 - La Muñeca Jasmine está Articulada y Tiene PRECIOSOS DETALLES e Incluye Purpurina Color PLATINO en la Falda. Jasmine Mide Aproximadamente 38 cm de ALTURA
 - Incluye: 1 Muñeca, 1 Vestido, 1 par de Zapatos, 1 Tiara Desmontable
 - Jasmine Tiene los OJOS BRILLANTES y Tiene su Característico PELO LARGO y SUELTO para Peinar
+- Consigue esta PRECIOSA Princesa para JUGAR o COLECCIONAR, ¡Los FANS de las Princesas Disney no se RESISTIRÁN!
 - Recomendada para Mayores de 3 años
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

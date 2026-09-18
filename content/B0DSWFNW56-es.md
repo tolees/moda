@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - An original look
-- Graphics included
-- Provides comfort
 - A comfortable fit
 - Short sleeves
+- Graphics included
+- Provides comfort
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DSWFNW56{{</world>}}

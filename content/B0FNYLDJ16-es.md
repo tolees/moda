@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CELESTE
-- MUJER
 - SANDALIAS PLANAS
+- MUJER
+- CELESTE
 - V-26
 - ANCHO
 

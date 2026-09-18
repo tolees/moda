@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Inspirada en una de las primeras prendas de punto que confeccionamos a principios del siglo pasado, Levis Dry Goods resucitó a finales de los 90 y ahora vuelve a estar disponible.
-- Forma parte de Dry Goods de Levis: una colección de todas las prendas que nos gustaron de los 90, fabricadas para el presente
 - Una camiseta de punto waffle
+- Inspirada en una de las primeras prendas de punto que confeccionamos a principios del siglo pasado, Levis Dry Goods resucitó a finales de los 90 y ahora vuelve a estar disponible.
 - Fit ajustado
+- Forma parte de Dry Goods de Levis: una colección de todas las prendas que nos gustaron de los 90, fabricadas para el presente
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FCSHW43G{{</world>}}

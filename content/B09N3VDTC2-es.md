@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuello redondo
 - Mangas cortas
-- Tejido de jersey
 - Calidad: 100% algodón
 - Logotipo en el pecho estampado y bordado
+- Cuello redondo
+- Tejido de jersey
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09N3VDTC2{{</world>}}

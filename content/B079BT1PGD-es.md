@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- sujetador de cazoleta sin aros
 - colección Maternidad de Anita
+- sujetador de cazoleta sin aros
 - línea Miss Lovely
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

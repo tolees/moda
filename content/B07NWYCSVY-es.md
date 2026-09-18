@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Adecuado para correr o para cualquier otra actividad deportiva
 - Modelo con un diseño simple
 - Diseño ligero que ofrece comodidad
-- Adecuado para correr o para cualquier otra actividad deportiva
 - Cintura elástica ajustable
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Color liso
-- Fit: Regular
 - Cuello: redondo
+- Fit: Regular
 - Poliéster reciclado
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cojín de contorno
 - Clarks Shoes, WallabeeEVO, Red Suede, 9,5 (Men)
+- Cojín de contorno
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CC2TNM1C{{</world>}}

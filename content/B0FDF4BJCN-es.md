@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Estilo desenfadado
-- Cuello redondo
 - Manga corta
+- Cuello redondo
+- Estilo desenfadado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FDF4BJCN{{</world>}}

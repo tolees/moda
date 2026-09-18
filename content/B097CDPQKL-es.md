@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Cinturilla elástica con la marca Levi’s
 - Comodidad para el día a día
 - Algodón adecuado
 - Los básicos por naturaleza
-- Cinturilla elástica con la marca Levi’s
 - Costuras externas de la pernera abiertas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bolso con dimensiones de 31 cm x 34 cm x 12 cm fabricado en Poliéster.
 - Con asa larga, perfecta para llevar al hombro.
+- Bolso con dimensiones de 31 cm x 34 cm x 12 cm fabricado en Poliéster.
 - Dos compartimentos específicos: uno para un ordenador de hasta 15 pulgadas y otro para una Tablet de hasta 10,2 pulgadas.
 - de Reebok
 

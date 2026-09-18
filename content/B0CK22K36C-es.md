@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material de la suela: TR
 - Clarks Shoes, Howard Over, Black Leather, 6,5 (Men)
+- Material de la suela: TR
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CK22K36C{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bolsillos laterales
 - Chaleco acolchado sin mangas para mujer, cuello alto y capucha con elástico
+- Bolsillos laterales
 - Cremallera frontal completa, ligeramente entallada
 
 [🛒 Visítala!!!]({{< param buyurl >}})

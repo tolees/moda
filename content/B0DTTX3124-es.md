@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cómoda y fashion
-- Suela antideslizante
-- Resistente al agua
 - Bota de agua
+- Cómoda y fashion
+- Resistente al agua
+- Suela antideslizante
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DTTX3124{{</world>}}

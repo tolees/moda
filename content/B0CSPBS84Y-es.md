@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Gamuza
 - Longitud media
 - Cierre abotonado de botonadura única
+- Gamuza
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CSPBS84Y{{</world>}}

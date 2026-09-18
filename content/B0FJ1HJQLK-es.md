@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sujetador acolchado
 - Sensualidad y comodidad
 - Tirantes ajustables
+- Sujetador acolchado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FJ1HJQLK{{</world>}}

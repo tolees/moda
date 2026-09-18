@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Proporciona comodidad
 - Un ajuste cómodo
+- Proporciona comodidad
 - Un aspecto original
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

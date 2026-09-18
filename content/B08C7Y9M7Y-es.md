@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Multi Ocasión: gracias a su diseño , combina bien en cualquier ocasión: trabajo, negocios, citas, diario o viajes. Básico para combinarlo con cualquier conjunto, un complemento indispensable en tu fondo de armario.
+- Albertina
 - Bandolera
 - Compartimento principal con interior forrado con un bolsillo interior con cremallera. Resistente al desgaste. Costuras y materiales de alta calidad.
-- Albertina
+- Multi Ocasión: gracias a su diseño , combina bien en cualquier ocasión: trabajo, negocios, citas, diario o viajes. Básico para combinarlo con cualquier conjunto, un complemento indispensable en tu fondo de armario.
 - Bandolera de Coronel Tapiocca ( 29 X22X12 cm) Fabricado en nylon con interior en poliéster.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

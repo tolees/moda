@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Patrón: gráfico
+- Estilo de cuello: cuello redondo
+- Sudaderas
 - Combina con los pantalones deportivos GANT a juego para un conjunto acogedor y coordinado
 - Cuenta con un clásico cuello redondo, dobladillo y puños acanalados y un pequeño gráfico de escudo de GANT bordado en el pecho
 - Fabricada en una mezcla de algodón con bucle trasero para una sensación auténtica, esta sudadera GANT está diseñada para un ajuste regular
-- Estilo de cuello: cuello redondo
-- Sudaderas
+- Patrón: gráfico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BG5C71SJ{{</world>}}

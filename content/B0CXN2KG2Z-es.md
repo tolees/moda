@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 3 bolsillos (1 pecho y 2 frontales)
 - Muy confortable
+- 3 bolsillos (1 pecho y 2 frontales)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CXN2KG2Z{{</world>}}

@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Material de calidad
-- Producto deportivo
 - Sencillo de usar
+- Producto deportivo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C4PP7YKL{{</world>}}

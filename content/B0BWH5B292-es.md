@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El diseño se completa con el cuello redondo y las mangas cortas
 - El suave jersey está fabricado en una silueta ancha y grande
+- El diseño se completa con el cuello redondo y las mangas cortas
 - Perfecto para trajes elegantes y casuales
 
 [🛒 Visítala!!!]({{< param buyurl >}})

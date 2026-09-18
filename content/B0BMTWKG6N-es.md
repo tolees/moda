@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- D. Franklin es una marca española referente para los amantes de la moda y los accesorios gracias a nuestro estilo único, calidad y compromiso medioambiental. Productos fabricados con materiales sostenibles y de alta calidad.
+- D.Franklin - Gafas de sol unisex con cristales de protección UV - Modelo hurricane
 - Arriésgate. Siente la aerodinámica. Disfruta del camino con la nueva colección Hurricane de D. Franklin
 - Lentes de policarbonato. Almohadilla de silicona en puente nasal y varillas Protección ultravioleta, UV 400 cat. 3. Incluye caja de cartón resistente, funda protectora de microfibra y adhesivos. Modelo unisex. Esperamos que con tus nuevas gafas vivas millones de experiencias y explores lugares que ni imaginas. Su cuidado es muy importante para que puedan acompañarte durante mucho tiempo.Para limpiar tus gafas, te recomendamos usar jabón neutro y agua. Para secarlas, utiliza un paño suave y limpio. Evita secar las lentes con un paño abrasivo.
-- D.Franklin - Gafas de sol unisex con cristales de protección UV - Modelo hurricane
 - [Gafas de Sol D.Franklin] Una línea de gafas training con diseños deportivos inspirados en la velocidad y la aventura. Las Hurricane Black / Green han sido diseñadas para facilitar el movimiento del aire y ofrecer una ventilación óptima. Estas gafas disponen de almohadillas de silicona en el puente nasal y las varillas, que aseguran una adherencia sin precedentes incrementando la sujeción a pesar del sudor.
+- D. Franklin es una marca española referente para los amantes de la moda y los accesorios gracias a nuestro estilo único, calidad y compromiso medioambiental. Productos fabricados con materiales sostenibles y de alta calidad.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BMTWKG6N{{</world>}}

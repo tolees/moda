@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cremallera ykk
-- Helly tech protection
-- Impermeable, cortavientos y transpirable
-- Primaloft black eco
 - Artículos entregados: 1x helly hansen womens w long belfast winter jacket - shell jacket ebony s
+- Impermeable, cortavientos y transpirable
+- Cremallera ykk
+- Primaloft black eco
+- Helly tech protection
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B083NFYPWZ{{</world>}}

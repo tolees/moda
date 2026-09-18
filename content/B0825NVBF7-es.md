@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Clásico
 - Camiseta Para hombre
-- Cómodo
 - Cuello redondo y serigrafía estampada en el pecho
+- Cómodo
 - Corte normal
 
 [🛒 Visítala!!!]({{< param buyurl >}})

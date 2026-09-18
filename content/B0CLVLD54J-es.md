@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 94 % algodón, 4 % elastomultiéster, 2 % elastano
 - Tira de botones
-- Estilo de cintura: mediana
 - Lavable a
+- 94 % algodón, 4 % elastomultiéster, 2 % elastano
+- Estilo de cintura: mediana
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CLVLD54J{{</world>}}

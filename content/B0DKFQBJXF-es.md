@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 95 % algodón, 5 % elastano
-- Camiseta esencial de cuello redondo con mangas cortas y corte entallado
 - Logotipo impreso en posición en la parte delantera
+- Camiseta esencial de cuello redondo con mangas cortas y corte entallado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DKFQBJXF{{</world>}}

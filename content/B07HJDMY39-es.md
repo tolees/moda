@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - CAMISETA SIN MANGAS: Esta camiseta sin mangas es tu básico de armario perfecto para los días de calor. Combina este producto con una camisa de cuello o con unos pantalones cortos, unos vaqueros o incluso unos chinos para los días más calurosos.
-- DETALLES: Ribete de algodón jersey en sisas y cuello que le da una apariencia limpia. Etiqueta estampada en la nuca, sin etiqueta, para mayor comodidad. Bajo recto.
 - AJUSTE NORMAL: Ajuste cómodo en hombros, pecho y cintura.
+- DETALLES: Ribete de algodón jersey en sisas y cuello que le da una apariencia limpia. Etiqueta estampada en la nuca, sin etiqueta, para mayor comodidad. Bajo recto.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07HJDMY39{{</world>}}

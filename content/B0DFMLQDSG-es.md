@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - estampado
+- Cuello redondo
 - Composición: 50% algodón, 50% algodón orgánico
 - Corte holgado
-- Cuello redondo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DFMLQDSG{{</world>}}

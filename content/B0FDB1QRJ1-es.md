@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Chaqueta de pana con cuello de solapa y mangas largas. Bolsillos delanteros con parche. Cierre frontal con 2 botones.
 - Exterior: 86% poliéster, 12% poliamida, 2% elastano. Forro: 100% algodón
+- Chaqueta de pana con cuello de solapa y mangas largas. Bolsillos delanteros con parche. Cierre frontal con 2 botones.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FDB1QRJ1{{</world>}}

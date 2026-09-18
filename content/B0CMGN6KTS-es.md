@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Al igual que en la película, tiene la piel verde y lleva el pelo negro trenzado recogido en una coleta. Además, cuenta con articulaciones en el torso, los codos y las muñecas para que puedas tanto jugar con ella como exponerla
-- ¡Adéntrate en la tierra de Oz con esta muñeca de moda de Elphaba, inspirada en “Wicked”!
-- Las muñecas de “Wicked” representan la magia de la sororidad y la amistad, y son un regalo inspirador para que niños, niñas y adultos hagan realidad sus sueños más encantadores y emocionantes
 - Inspirada en “Wicked”, de Universal Pictures, la muñeca Elphaba lleva su inconfundible vestido con las mangas de encaje, que es de quita y pon, además de unas botas y el sombrero que la caracteriza
+- Las muñecas de “Wicked” representan la magia de la sororidad y la amistad, y son un regalo inspirador para que niños, niñas y adultos hagan realidad sus sueños más encantadores y emocionantes
+- ¡Adéntrate en la tierra de Oz con esta muñeca de moda de Elphaba, inspirada en “Wicked”!
 - Los fans pueden coleccionar sus personajes favoritos para recrear las escenas de la película e imaginar sus propias historias y aventuras. Se venden por separado y están sujetas a disponibilidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

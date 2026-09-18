@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Corte regular, forma normal
+- Cuello redondo
 - El clásico retro de Levis
 - El algodón puro proporciona un tacto suave
-- Cuello redondo
+- Corte regular, forma normal
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DPBB543N{{</world>}}

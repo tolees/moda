@@ -1,25 +1,25 @@
 ---
 layout: post
 title: 'PIECES Pcboss 3/4 Blazer Noos Chaqueta de traje Mujer Negro Black Black 42 Talla del fabricante: Large'
-date: 2026-06-01 20:39:37
-image: 'https://m.media-amazon.com/images/I/31cZ+2QcxGL._SL500_._SL400_.jpg'
+date: 2026-09-17 09:59:44
+image: 'https://m.media-amazon.com/images/I/216fjaC4GrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B077J1ZFCZ-es PIECES Pcboss 3/4 Blazer Noos Chaqueta de traje Mujer...'
 sku: 'B077J1ZFCZ-es'
 tags: [ 'chaqueta','🇪🇸', ]
-actualPrice: 24.49 EUR
+actualPrice: 29.99 EUR
 currency: EUR
-price: 24.49
+price: 29.99
 comparePrice: 39.99 EUR
 prodname: 'PIECES Pcboss 3/4 Blazer Noos Chaqueta de traje Mujer Negro Black Black 42 Talla del fabricante: Large'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B077J1ZFCZ/?tag=tolees-21'
-descuento: '38.76'
-average: '25.2022222222222'
+descuento: '25.01'
+average: '26.0727272727273'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,12 +28,6 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Blazer para mujer de la marca danesa PIECES
-- Chaqueta de corte regular
-- Detalles plisados en las mangas
-- Con un tejido ligero
-- Composición: 79% poliéster, 16% viscosa, 5% elastano, forro: 100% poliéster
-- Manga de 3/4
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B077J1ZFCZ{{</world>}}

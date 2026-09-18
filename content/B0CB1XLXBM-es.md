@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño de rayas tejido
 - Manga larga y puños acanalados
 - Cuello redondo acanalado
+- Diseño de rayas tejido
 - Etiqueta de G-Star Originals tejida en el borde inferior
 - Bajo recto con borde acanalado
 

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- MODA EN TUS PIES: Sandalias para eventos y fiesta, ir a la oficina y para cualquier ocasión gracias a tu tacón medio de 6,5 cm, diseño original con detalles artesanales
 - EXCLUSIVO ONLINE: Gioseppo ha creado una cápusla exclusiva de venta online, disfruta de una línea de producto con pocas unidades a la venta
+- MODA EN TUS PIES: Sandalias para eventos y fiesta, ir a la oficina y para cualquier ocasión gracias a tu tacón medio de 6,5 cm, diseño original con detalles artesanales
 - DISEÑO ESPAÑOL DE CALIDAD: Gioseppo presenta una propuesta de calzado creada en España, destacando por su diseño cuidado y materiales de alta calidad, ideales para cualquier ocasión
 - CONFORT: Cierre ajustable hebilla, plantilla piel acolchada y piso ligero
 - DISEÑO Y ELEGANCIA: Sandalias de tacón para mujer de piel con detalle flor

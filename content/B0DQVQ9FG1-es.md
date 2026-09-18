@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 10 cm de largo x 4 cm de profundidad x 8 cm de alto
 - El Nano Tote Shoulder Shoulder Bag encarna la irreverencia y las proporciones características de Marc Jacobs.
+- 10 cm de largo x 4 cm de profundidad x 8 cm de alto
 - Con una correa de hombro de cadena elevada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

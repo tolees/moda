@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ancho ajustable
-- 100% cuero
 - Revestimiento de poliuretano
+- 100% cuero
+- Ancho ajustable
 - Hebilla de metal
 
 [🛒 Aquí!!!]({{< param buyurl >}})

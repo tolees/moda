@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Producto deportivo
 - Cómoda de llevar
+- Producto deportivo
 - Mejora tu experiencia deportiva
 
 [🛒 Visítala!!!]({{< param buyurl >}})

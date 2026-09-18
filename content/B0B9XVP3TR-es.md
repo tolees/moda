@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cordones Fast Lace y bolsillo para cordones
 - Lengüeta y monstruo de microfibra para optimo comodidad en el empeine; forro interior de licra para optimo suavidad y comodidad
+- Cordones Fast Lace y bolsillo para cordones
 - Sistema de sujeción al tobillo
 - Banda de rodadura de TPR
 

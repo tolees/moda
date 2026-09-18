@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - LENTES 100% POLARIZADOS UV400: pueden bloquear al 100% la radiación dañina de los rayos UVA y UVB, protegen sus ojos contra el daño UV a largo plazo y mantiene saludables tus ojos. También pueden reducir el resplandor reflejado en las carreteras, cuerpos de agua, nieve y otras superficies horizontales, proporcionando comodidad y una visibilidad mejorada.
-- MATERIAL DE ALTA CALIDAD: El marco está hecho de TR90, el cual es flexible y duradero. Para garantizar la durabilidad y evitar roturas mientras realiza actividades deportivas y recreativas. El marco TR90 hace que las gafas de sol sean livianas y se adapten a cualquier forma de cara. Pueden proporcionarle la máxima comodidad.
 - ADECUADO PARA CUALQUIER OCASIÓN: es una opción ideal para deportes al aire libre, como correr, conducir, viajar, andar en bicicleta, pescar, caminar, etc. También son adecuados como accesorios a la moda y de uso diario durante todo el año.
+- MATERIAL DE ALTA CALIDAD: El marco está hecho de TR90, el cual es flexible y duradero. Para garantizar la durabilidad y evitar roturas mientras realiza actividades deportivas y recreativas. El marco TR90 hace que las gafas de sol sean livianas y se adapten a cualquier forma de cara. Pueden proporcionarle la máxima comodidad.
 - SERVICIO AL CLIENTE: Si tiene algún problema, háganoslo saber. Le ayudaremos a resolver el problema la primera vez.
 - DISEÑO ÚNICO: los remaches en el marco y el bloque de metal en los armazones hacen que las gafas de sol se vean únicas y elegantes. Además, el caucho suave en la punta del armazón es amigable con la piel e hipoalergénico. Su rendimiento antideslizante evita que sus gafas de sol se resbalen de su rostro cuando está al aire libre.
 

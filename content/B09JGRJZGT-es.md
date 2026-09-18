@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Etiqueta gráfica en el bolsillo del pecho
 - __Corte:__ corte normal, clásico, cómodo
-- Etiqueta de la marca en el lateral
 - __Tejido:__ Tejido de algodón [160 g / m2]
 - __Cuello:__ cuello redondo
+- Etiqueta de la marca en el lateral
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09JGRJZGT{{</world>}}

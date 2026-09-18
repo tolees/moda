@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Modelo Femenino; Medidas: Frontal 149 mm, Varillas 145 mm, Puente 19 mm, Alto 57 mm
-- Producto original Hawkers; la caja incluye funda en microfibra y caja
 - Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes de TR18 con el sello de Eastman, gran calidad óptica y resistencia; respetuoso con el medio ambiente; protección 100% UV; Color de la lente: Marrón; Apariencia de la lente: Gradiente
-- Material de la montura: Acetato; Color de la montura: Carey; Color de la varilla: Carey
+- Modelo Femenino; Medidas: Frontal 149 mm, Varillas 145 mm, Puente 19 mm, Alto 57 mm
 - Este diseño cuadrado oversized con lentes degradadas color terracota se inspira en el clásico look de diva que no quiere ser reconocida; el acabado brillante de su montura en acetato carey y los pins de los laterales aportan a este diseño versátil un toque distintivo
+- Material de la montura: Acetato; Color de la montura: Carey; Color de la varilla: Carey
+- Producto original Hawkers; la caja incluye funda en microfibra y caja
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B42C96VZ{{</world>}}

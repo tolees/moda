@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mantén la respiración: esta prenda se elabora utilizando agua reciclada, lo que nos ayuda a reducir nuestro impacto en este recurso finito
 - Una chaqueta denim atemporal con cremallera
 - Nuestra chaqueta Jaanai demuestra que una chaqueta denim clásica nunca pasa de moda. Esta cuenta con un diseño de cremallera central, costuras decorativas y bordes elásticos.
-- Confeccionado con un fit holgado
 - LEVIS TAB: Existen diferentes variaciones de la conocida lengüeta roja. Todos los productos son originales de Levis, no importa si pone LEVIS, Levis, no está escrito o es de otro color.
+- Confeccionado con un fit holgado
+- Mantén la respiración: esta prenda se elabora utilizando agua reciclada, lo que nos ayuda a reducir nuestro impacto en este recurso finito
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FC6VLSH4{{</world>}}

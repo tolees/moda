@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello redondo
 - Tejido fino y ligero que aporta calidez y mayor comodidad al ser una prenda más ligera y fina que no molesta bajo la ropa
+- Cuello redondo
 - Ideal para deportes de exterior, práctica de moto y bici, y actividades de frío extremo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

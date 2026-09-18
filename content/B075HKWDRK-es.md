@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Manga larga
+- Cuello redondo
 - Colores: blanco y negro
 - Térmica polar
 - Interior afelpado
-- Cuello redondo
+- Manga larga
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B075HKWDRK{{</world>}}

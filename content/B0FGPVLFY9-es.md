@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 95 % algodón, 5 % elastano
-- Hecho en: India
-- Color: Blanco
 - Camiseta manga corta de la colección mujer
+- Hecho en: India
+- 95 % algodón, 5 % elastano
+- Color: Blanco
 - Colección primavera-verano
 
 [🛒 Comprar!!!]({{< param buyurl >}})

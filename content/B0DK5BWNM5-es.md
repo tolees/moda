@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cómodo de llevar
-- Ajuste cómodo
-- Un aspecto original
-- Cuello acanalado
 - G-Star Estampado crudo en el pecho
+- Un aspecto original
+- Ajuste cómodo
+- Cuello acanalado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DK5BWNM5{{</world>}}

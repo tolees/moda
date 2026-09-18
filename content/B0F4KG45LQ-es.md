@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tommy Hilfiger Bandera bordada en el pecho
-- Tommy Hilfiger Marca:
 - Dos bolsillos laterales con cremallera
+- Tommy Hilfiger Marca:
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F4KG45LQ{{</world>}}

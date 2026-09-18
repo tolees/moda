@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - La base adecuado para look
-- Detalles de la marca PUMA
 - Tela duradera de tacto suave
 - Hecho con tela reciclada
+- Detalles de la marca PUMA
 - Resistente al cloro para una larga duración y resistencia
 
 [🛒 Aquí!!!]({{< param buyurl >}})

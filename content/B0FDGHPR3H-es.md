@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Colección MenS Autumn
 - Pijama de manga larga Pantalón largo
+- Colección MenS Autumn
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FDGHPR3H{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 74% algodón, 15% nailon, 7% poliéster, 3% elastodieno, 1% elastano
 - Paquete de 3 unidades del mismo color
+- 74% algodón, 15% nailon, 7% poliéster, 3% elastodieno, 1% elastano
 - Calcetines con logotipo de Vans
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

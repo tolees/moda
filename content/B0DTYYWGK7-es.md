@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material : piel
-- bailarian total black
-- plantilla acolchada
 - super ligero
+- bailarian total black
+- Material : piel
+- plantilla acolchada
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DTYYWGK7{{</world>}}

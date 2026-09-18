@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cierre a presión
+- 100% poliéster
+- Lavar a máquina
 - Blusa De Manga Larga
 - Blusa Estampada
 - Ajuste moderno
-- Lavar a máquina
-- Cierre a presión
-- 100% poliéster
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FCMQRNLM{{</world>}}

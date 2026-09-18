@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Este producto es original Levis
 - Manga larga con cierre de botón en los puños
+- Este producto es original Levis
 - Bolsillos de parche en el pecho con solapa y cierre de botón automático
 - Bajo ajustable en el lateral
 

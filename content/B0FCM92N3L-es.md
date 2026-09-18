@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- __Gráfico: __ serigrafía en el pecho
 - __Tejido: __ jersey de algodón [160 g/m2]
 - __Corte: __ premium
-- __Gráfico: __ serigrafía en el pecho
 - __Cuello: __ cuello redondo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

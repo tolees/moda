@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Conscious by Naturaleza: __ Poliéster reciclado
 - Peso del material: 350 g/m2
+- Conscious by Naturaleza: __ Poliéster reciclado
 - Ajuste: __ Relax Fit
 - Terry francés
 

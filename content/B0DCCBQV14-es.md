@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ribete cómodo
 - Pack de 5 infantil
+- Ribete cómodo
 - Algodón suave
 - Costura de los dedos plana para evitar la irritación
 - Contiene tela reciclada

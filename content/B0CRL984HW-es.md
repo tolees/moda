@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Vaqueros
 - Alto porcentaje de algodón
+- Vaqueros
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CRL984HW{{</world>}}

@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Puntera cerrada para la protección de los dedo
+- Entresuela de EVA y banda de rodadura de TPR
 - Peso: 180 g
 - Suede
 - Completa impermeabilidad
-- Entresuela de EVA y banda de rodadura de TPR
 - Neutral
 - Cordones Fast Lace
 

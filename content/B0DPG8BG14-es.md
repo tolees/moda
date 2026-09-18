@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Etiqueta sellada con calor en el cuello
-- Manga corta
 - Serigrafía frontal y trasera de tacto suave
+- Manga corta
+- Etiqueta sellada con calor en el cuello
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DPG8BG14{{</world>}}

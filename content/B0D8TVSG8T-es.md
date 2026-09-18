@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuentan con plantilla anatómica de microfibra
 - Sandalias con hebillas
+- Cuentan con plantilla anatómica de microfibra
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D8TVSG8T{{</world>}}

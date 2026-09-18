@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 70 % viscosa, 30 % seda
 - Camiseta con cuello en V, ajuste regular, acabado afeitado, acabado acanalado
+- 70 % viscosa, 30 % seda
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DPLG5KBG{{</world>}}

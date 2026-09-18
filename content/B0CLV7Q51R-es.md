@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillos altos: Bolsillo canguro
 - Corte casual
 - Con capucha
+- Bolsillos altos: Bolsillo canguro
 - Mango largo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

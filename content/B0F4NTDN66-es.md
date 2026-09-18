@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ofrece comodidad
 - Estilo informal
+- Ofrece comodidad
 - Manga larga
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

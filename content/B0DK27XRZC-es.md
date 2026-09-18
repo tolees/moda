@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Pantalón Chino Hombre Harlem Satin Relaxed Fit Azul Desert Sky 31W/34L'
-date: 2026-09-11 19:03:53
+date: 2026-09-16 22:14:38
 image: 'https://m.media-amazon.com/images/I/31fEsPjpCmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

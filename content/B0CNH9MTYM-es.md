@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Con un diseño sin mangas
-- Un básico para verano
+- LEVIS TAB: Existen diferentes variaciones de la conocida lengüeta roja. Todos los productos son originales de Levis, no importa si pone LEVIS, Levis, no está escrito o es de otro color.
 - Confeccionada con un fit cuadrado y relajado
 - La definición de un básico para verano: nuestra camiseta Boxy tiene el cuello redondo, un diseño sin mangas y un corte holgado para mayor movimiento.
-- LEVIS TAB: Existen diferentes variaciones de la conocida lengüeta roja. Todos los productos son originales de Levis, no importa si pone LEVIS, Levis, no está escrito o es de otro color.
+- Un básico para verano
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CNH9MTYM{{</world>}}

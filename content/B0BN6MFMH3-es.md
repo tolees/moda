@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Plateado
 - Longitud: 2cm
+- Plateado
 - Acero inoxidable
 
 [🛒 Aquí!!!]({{< param buyurl >}})

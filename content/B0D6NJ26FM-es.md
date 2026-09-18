@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela de goma
 - Transpirables para el uso diario
+- Suela de goma
 - Sandalias modernas para mujer de la marca. Geox
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

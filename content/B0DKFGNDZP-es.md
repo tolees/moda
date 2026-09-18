@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Correa CLARKS Aldwin Limit Mid Tan 39.5
-- La suela TR proporciona una tracción superior
-- Diseño con cordones para un ajuste personalizado
 - Hebilla en el talón para ponérselo y quitárselo fácilmente
+- Correa CLARKS Aldwin Limit Mid Tan 39.5
+- Diseño con cordones para un ajuste personalizado
+- La suela TR proporciona una tracción superior
 - Plantilla cómoda para un soporte duradero
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

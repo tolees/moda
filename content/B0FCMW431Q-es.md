@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Efecto holgado
 - Vestido midi
+- Efecto holgado
 - Manga corta
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

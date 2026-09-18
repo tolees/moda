@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - JERSEY DE HILO LIGERO DE MEZCLA DE ALGODÓN: jersey de hilo suave y ligero con una bonita caída
-- JERSEY CON CUELLO EN V DE USO DIARIO: una prenda moderna y clásica que combina con un look elegante e informal
-- CORTE ESTÁNDAR: corte ajustado pero cómodo con fácil movimiento
 - DETALLES: presenta un clásico cuello en V y manga larga con detalles acanalados en los puños y el dobladillo
+- CORTE ESTÁNDAR: corte ajustado pero cómodo con fácil movimiento
+- JERSEY CON CUELLO EN V DE USO DIARIO: una prenda moderna y clásica que combina con un look elegante e informal
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B079R8JHRD{{</world>}}

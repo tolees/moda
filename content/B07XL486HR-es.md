@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - CAMISETA BÁSICA: Esta versátil camiseta es un clásico esencial en cualquier armario y es perfecta para llevarla debajo de tu chaqueta o rebeca favorita, o para llevarla sola con unos vaqueros y unas deportivas sin cierre de Amazon Essentials para mujer.
-- CORTE CEÑIDO: ajuste ceñido que se pega al cuerpo.
 - TEJIDO DE ALGODÓN MODAL: Este tejido supersuave de punto elástico de algodón modal con elasticidad añadida ofrece comodidad y confort durante todo el día, a la vez que mantiene su forma para que la prenda te quede perfectamente entallada. El tejido que no querrás quitarte en todo el año.
+- CORTE CEÑIDO: ajuste ceñido que se pega al cuerpo.
 - DETALLES: Clásico escote en “V” y mangas cortas para un estilo informal y desenfadado.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

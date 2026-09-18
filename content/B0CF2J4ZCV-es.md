@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseño retro classic de gafas de sol inspirado en los años 70’; una silueta cuadrada de geometrías muy marcadas que combina montura negra de acetato negro pulido y lentes negras polarizadas; incorpora pins ornamentales plateados con forma de media H en el frontal que le aportan al conjunto un look lujoso y sofisticado
-- Material de la montura: Acetato; Color de la montura: Negro; Color de la varilla: Negro
 - Gafas de sol polarizadas: Reduce los reflejos superficiales y la fatiga ocular proporcionando nitidez y contrastes superiores; Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes fabricadas en material bio tac polarizado; protección 100 % UV; Color de la lente: Negro; Apariencia de la lente: Sólida
+- Material de la montura: Acetato; Color de la montura: Negro; Color de la varilla: Negro
+- Diseño retro classic de gafas de sol inspirado en los años 70’; una silueta cuadrada de geometrías muy marcadas que combina montura negra de acetato negro pulido y lentes negras polarizadas; incorpora pins ornamentales plateados con forma de media H en el frontal que le aportan al conjunto un look lujoso y sofisticado
 - Modelo Masculino; Medidas: Frontal 144 mm, Varillas 145 mm, Puente 16 mm, Alto 51 mm
 - Producto original Hawkers; la caja incluye funda en microfibra y caja
 

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tira de Puma cosida en los lados medial y lateral
 - Plantilla cómoda diseñada para proporcionar una amortiguación suave
+- Tira de Puma cosida en los lados medial y lateral
 - Logotipo en pinta de aluminio en los laterales
 
 [🛒 Aquí!!!]({{< param buyurl >}})

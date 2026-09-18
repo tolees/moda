@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Sandalia de mujer, de la marca Refresh. Fabricada en material que imita a la piel
 - Suela de goma. Este modelo ha obtenido el certificado vegano por la organización mundial PETA (Organización de los derechos de los animales)
 - [Nuestra Marca]: REFRESH con estilo fresco y juvenil. Calzado versátil y moderno diseñado para quienes buscan estar siempre a la moda sin renunciar a la comodidad.
-- Sandalia de mujer, de la marca Refresh. Fabricada en material que imita a la piel
 - Diseño de pala formada por tres tiras cruzadas entre si. Pulsera trasera con hebilla para ajustar al tobillo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

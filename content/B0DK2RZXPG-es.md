@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Entresuela: plantilla Techlite Eco con un 20% de material reciclado para una comodidad duradera.
-- PERFIL La mezcla perfecta de patrimonio y contemporáneo, el Newton Nimble combina diseño clásico y materiales con tecnología moderna bajo los pies.
 - Suela exterior: goma de tracción Omni-Grip que no deja marcas
+- PERFIL La mezcla perfecta de patrimonio y contemporáneo, el Newton Nimble combina diseño clásico y materiales con tecnología moderna bajo los pies.
 - Parte superior: parte superior de cuero impermeable con accesorios de metal. Construcción Omni-Tech, impermeable y transpirable.
 - Entresuela: sistema Omni-Max: con una entresuela Techlite, un talón y un metatarso especialmente diseñados ayudan a crear una plataforma estable. Dobladillos de flexión en el pie delantero y el talón reducen el impacto de la carga para una mejor comodidad y rebote. Las ranuras flexibles en el antepié proporcionan F
 

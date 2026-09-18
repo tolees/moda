@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Durabilidad con material sostenible
 - Camiseta para hombre de la marca Jack&Jones
 - De manga corta
-- Ajuste cómodo
+- Durabilidad con material sostenible
 - Tiene detalles distintivos de la marca
+- Ajuste cómodo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CL7ZXR8G{{</world>}}

@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - COLABORACIÓN CON SOFIA GRAINGE: Estilos inspirados para ti y tus pequeños, creados en colaboración con Sofia Grainge
-- PUNTO DE MEZCLA DE MODAL: la mezcla de elastano y modal proporciona una sensación suave y sedosa con elasticidad para mayor comodidad
-- DETALLES: este conjunto incluye una camiseta de manga corta con botones frontales, cuello de camisa clásico y delicados ribetes en la apertura frontal y el cuello. Los pantalones cortos cuentan con una cintura elástica para un corte cómodo
-- PIJAMA DE PERSONAJES: divertido pijama con sus personajes favoritos para dormir cómodamente
 - CORTE HOLGADO: corte holgado en la cadera, el muslo y la pierna. Se ajusta por debajo de la cintura natural
+- PUNTO DE MEZCLA DE MODAL: la mezcla de elastano y modal proporciona una sensación suave y sedosa con elasticidad para mayor comodidad
+- PIJAMA DE PERSONAJES: divertido pijama con sus personajes favoritos para dormir cómodamente
+- DETALLES: este conjunto incluye una camiseta de manga corta con botones frontales, cuello de camisa clásico y delicados ribetes en la apertura frontal y el cuello. Los pantalones cortos cuentan con una cintura elástica para un corte cómodo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DNJHR7H8{{</world>}}

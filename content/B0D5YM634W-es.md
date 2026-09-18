@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 100% piel de grano completo
-- Metal Harness Buckle And Keeper
-- 40 mm. Ancho:
 - By Purchasing This Product, You Are Support Leather Working Group Certified Curtidurías
+- Metal Harness Buckle And Keeper
+- 100% piel de grano completo
+- 40 mm. Ancho:
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D5YM634W{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Camisetas versátiles para cualquier ocasión
-- : TB International GmbH
-- Disponible en varios colores y diseños
 - Cómodo cuello redondo.
+- Disponible en varios colores y diseños
+- : TB International GmbH
+- Camisetas versátiles para cualquier ocasión
 - Ideal para combinar con vaqueros o pantalones cortos.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

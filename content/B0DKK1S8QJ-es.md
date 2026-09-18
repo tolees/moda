@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ajuste holgado
 - Bolsillos en el pecho con cierre de botón
+- Ajuste holgado
 - Manga larga
 
 [🛒 Aquí!!!]({{< param buyurl >}})

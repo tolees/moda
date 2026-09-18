@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 100 % algodón
 - Tejido fino y ligero en mezclilla gris limpio
+- 100 % algodón
 - Una camisa clásica de corte entallado
 
 [🛒 Visítala!!!]({{< param buyurl >}})

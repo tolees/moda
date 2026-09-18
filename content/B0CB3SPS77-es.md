@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Suela TR ligera y flexible
 - Plantilla acolchada para una comodidad duradera
+- Suela TR ligera y flexible
 - Diseño ergonómico que apoya la forma natural del pie
 
 [🛒 Visítala!!!]({{< param buyurl >}})

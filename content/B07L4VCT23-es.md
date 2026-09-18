@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre : Bragueta de botones
-- Cintura : Tiro bajo
-- Artículo : Jeans de corte slim
-- Klavado/acabado : Lavado a la piedra para un acabado desgastado y desteñido
-- Modo de vida : Tradicional
-- Bolsillos : Bolsillos traseros, Bolsillo relojero, Bolsillos delanteros
 - Corte : Vaqueros ajustados con talla media, muslo fino, rodilla fina, apertura ajustada en la pierna
+- Cierre : Bragueta de botones
+- Bolsillos : Bolsillos traseros, Bolsillo relojero, Bolsillos delanteros
+- Cintura : Tiro bajo
+- Klavado/acabado : Lavado a la piedra para un acabado desgastado y desteñido
+- Artículo : Jeans de corte slim
+- Modo de vida : Tradicional
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07L4VCT23{{</world>}}

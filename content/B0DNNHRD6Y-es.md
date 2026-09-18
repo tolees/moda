@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Largo hasta la rodilla
-- Fabricada con un toque elástico
 - Una falda midi retro
+- Fabricada con un toque elástico
 - LEVIS TAB: Existen diferentes variaciones de la conocida lengüeta roja. Todos los productos son originales de Levis, no importa si pone LEVIS, Levis, no está escrito o es de otro color.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

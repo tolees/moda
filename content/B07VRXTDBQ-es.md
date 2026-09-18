@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Proporciona comodidad
 - Manga corta
 - Una mirada original
-- Proporciona comodidad
 - Cuello redondo
 - Aberturas laterales
 

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ajuste: Jona Extra Skinny Fit: cintura baja, pierna muy estrecha, abertura de la pierna estrecha
-- El porcentaje de elastano garantiza un ajuste y comodidad óptimos
-- Instrucciones de lavado: no se puede lavar en seco, no se puede secar en la secadora, no se permite lejía, planchar a baja temperatura (110 °C), programa para prendas delicadas a hasta 30 °C
-- Con trabillas para cinturón en la cintura
 - Pantalones vaqueros clásicos en estilo cinco bolsillos
+- Ajuste: Jona Extra Skinny Fit: cintura baja, pierna muy estrecha, abertura de la pierna estrecha
+- Con trabillas para cinturón en la cintura
+- Instrucciones de lavado: no se puede lavar en seco, no se puede secar en la secadora, no se permite lejía, planchar a baja temperatura (110 °C), programa para prendas delicadas a hasta 30 °C
+- El porcentaje de elastano garantiza un ajuste y comodidad óptimos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09QMGFB2Q{{</world>}}

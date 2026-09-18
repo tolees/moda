@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Manga larga
 - Cuello de lazo
 - Vestido de gasa Plumeti
-- Manga larga
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CSNNCDDB{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Puños elásticos.
-- Capucha con cordel de ajuste.
 - Bolsillo tipo canguro.
-- Con cinta/cordón.
 - Tacto suave.
+- Capucha con cordel de ajuste.
+- Con cinta/cordón.
+- Puños elásticos.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BFP2FXVM{{</world>}}

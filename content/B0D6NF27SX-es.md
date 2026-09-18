@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ligeras y transpirables
 - Rápido y fácil de poner
+- Ligeras y transpirables
 - Diseño sin cordones
 
 [🛒 Visítala!!!]({{< param buyurl >}})

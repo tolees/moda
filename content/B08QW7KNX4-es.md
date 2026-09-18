@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pack de 3 camisetas para hombre en negro, azul y blanco con cuello redondo
-- Camiseta de manga corta
-- Camisetas de algodón para hombre
 - Camisetas de corte recto con el logotipo de Jack&Jones en la parte delantera
+- Pack de 3 camisetas para hombre en negro, azul y blanco con cuello redondo
+- Camisetas de algodón para hombre
+- Camiseta de manga corta
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08QW7KNX4{{</world>}}

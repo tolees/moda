@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Suela flexible TPR (goma termoplástica) que ofrece la máxima tracción bajo los pies
-- Parte superior suave y deconstruida con sintéticos novedosos
 - Forro de plantilla de microfibra transpirable
+- Parte superior suave y deconstruida con sintéticos novedosos
+- Suela flexible TPR (goma termoplástica) que ofrece la máxima tracción bajo los pies
 - Presentamos Jazmynn Gem, un zapato clásico moderno inspirado en la bailarina centrado en la comodidad diseñado para llevar todo el día. Hecho de materiales suaves y deconstruidos y sintéticos novedosos, cuenta con una suela TPR para agarre y flexibilidad, y una plantilla de espuma de poliuretano Ultimate Comfort de 5 mm para facilidad y apoyo durante todo el día.
 - La plantilla de espuma Ultimate Comfort ofrece apoyo durante todo el día
 

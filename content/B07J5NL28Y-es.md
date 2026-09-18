@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Medidas: longitud total: 40 cm + 5 cm de cadena de extensión
-- Tipo de cierre: cierre de langosta
 - Color: oro rosa
-- Acabado: pulido
 - Material: Acero inoxidable
+- Medidas: longitud total: 40 cm + 5 cm de cadena de extensión
+- Acabado: pulido
+- Tipo de cierre: cierre de langosta
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07J5NL28Y{{</world>}}

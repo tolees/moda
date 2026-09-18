@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuando se trata de una fiesta, ¡cuantos más seamos, mejor! ¡Echa un vistazo a toda la colección Cumplespantos de Monster High para celebrar una fiesta espeluznante con toda la pandilla de monstruitas!
 - Criada en el Monte Olimpo, ¡a Cupid Asteria le encanta el amor! Tiene un don para hacer amigos, dar consejos y flotar por los cielos estrellados con sus alas de hueso.
 - Con accesorios como una bolsa de mano con estampado de flecha y una paleta de sombras, ¡tanto los niños y niñas como los coleccionistas se lo pasarán en grande ayudando a la muñeca Cupid Asteria a prepararse para la gran fiesta de medianoche de su amiga!
-- ¡Su look de fiesta es terroríficamente enternecedor! Unos bombachos rojos con estampado de corazones asoman por debajo de un vestido brillante. ¡El detalle del corazón atravesado por una flecha y el brazalete con forma de ballesta hacen que su atuendo sea aún más glamuroso!
 - ¡Draculaura cumple 1600 años y las alumnas de Monster High lo celebran con una fiesta de cumplespantos de lo más terrorífica! La muñeca Cupid Asteria está lista para un baile apasionante con su irresistible atuendo y sus accesorios románticos.
+- ¡Su look de fiesta es terroríficamente enternecedor! Unos bombachos rojos con estampado de corazones asoman por debajo de un vestido brillante. ¡El detalle del corazón atravesado por una flecha y el brazalete con forma de ballesta hacen que su atuendo sea aún más glamuroso!
 - Los accesorios con temática de fiesta crean el ambiente perfecto para un cumplespantos terrorífico, como una bolsa de regalo para Draculaura con un regalo sorpresa en su interior. También incluye una invitación, un globo y una tarjeta de cumpleaños.
+- Cuando se trata de una fiesta, ¡cuantos más seamos, mejor! ¡Echa un vistazo a toda la colección Cumplespantos de Monster High para celebrar una fiesta espeluznante con toda la pandilla de monstruitas!
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DLC8JQLY{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sin cordones
 - Material exterior: poliéster
 - Suela: goma
 - Material interior: sintético
+- Sin cordones
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B4NWXGRQ{{</world>}}

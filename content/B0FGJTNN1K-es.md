@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Color: Gris oscuro
-- Hecho en: China
-- Colección primavera-verano
 - 100 % algodón
+- Hecho en: China
 - Sudadera de la colección mujer
+- Color: Gris oscuro
+- Colección primavera-verano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FGJTNN1K{{</world>}}

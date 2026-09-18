@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuello redondo
-- Camiseta de manga corta
 - Ofrece comodidad
+- Camiseta de manga corta
+- Cuello redondo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F4QRSYD2{{</world>}}

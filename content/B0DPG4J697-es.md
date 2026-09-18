@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diseño flexible y detalles reflectantes
 - Cremallera completa con ajuste regular
 - Bolsillo y bolsillos laterales con cremallera
+- Diseño flexible y detalles reflectantes
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DPG4J697{{</world>}}

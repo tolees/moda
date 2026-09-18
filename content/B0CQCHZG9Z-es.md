@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Top Camiseta Hombre Cuello Redondo Pull-On Estampado Detalles
 - Pack de 3 Mangas Cortas, Corte Ajustado
+- Top Camiseta Hombre Cuello Redondo Pull-On Estampado Detalles
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CQCHZG9Z{{</world>}}

@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Manga : Manga larga
-- Bolsillos : Bolsillo canguro
-- Corte : Corte relaxed
-- Mangas : Sisa en disminución
-- Artículo : Sudadera con capucha
-- Estampado : Estampado de goma para un tacto suave
-- Cuello : Capucha
 - Forro : Interior de la capucha forrado con el tejido del cuerpo
+- Mangas : Sisa en disminución
+- Bolsillos : Bolsillo canguro
+- Cuello : Capucha
+- Artículo : Sudadera con capucha
+- Manga : Manga larga
+- Estampado : Estampado de goma para un tacto suave
+- Corte : Corte relaxed
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CBSC3GJQ{{</world>}}

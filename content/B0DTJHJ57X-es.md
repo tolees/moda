@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 100 % algodón
 - Manga larga de ajuste regular en jersey individual
 - Logotipo impreso en la parte delantera
+- 100 % algodón
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DTJHJ57X{{</world>}}

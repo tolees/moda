@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El corte recto original
 - Un lienzo en blanco para la expresión propia
 - Este producto es original Levis
+- El corte recto original
 - Un icono del estilo estadounidense
 - Los vaqueros azules originales desde 1873
 

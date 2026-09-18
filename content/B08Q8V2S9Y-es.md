@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tipo de tacón: Plano
 - Material de la suela: Caucho
+- Tipo de tacón: Plano
 - Cierre: Sin cordones
 
 [🛒 Comprar!!!]({{< param buyurl >}})

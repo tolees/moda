@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camiseta de rayas de color profundo con cuello redondo y corte regular
-- Manga corta
 - Pequeña obra de arte en el pecho y etiqueta en el dobladillo.
+- Manga corta
+- Camiseta de rayas de color profundo con cuello redondo y corte regular
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FFTPYVZR{{</world>}}

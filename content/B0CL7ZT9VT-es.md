@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Estampado : Estampado con pigmentos para un acabado delicado en los tejidos más ligeros
-- Manga : Manga corta
-- Corte : Corte slim
 - Cuello : Cuello redondo
+- Manga : Manga corta
 - Artículo : Camiseta
+- Corte : Corte slim
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CL7ZT9VT{{</world>}}

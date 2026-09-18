@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Camiseta de uso diario
 - Tiene detalles distintivos de la marca
+- Camiseta de uso diario
 - Prenda para varones adultos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

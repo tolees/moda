@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Estampado estampado en la tela con aspecto 3D
-- Material cepillado con interior suave
 - Forro de la capucha del mismo material
+- Material cepillado con interior suave
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C36LMZZ1{{</world>}}

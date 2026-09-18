@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Ajuste : Regular
 - Básicos, Nu Goth, Ocasiones Especiales, Pastel Goth, Ropa de Calle, Steampunk
 - Calcetines hasta Rodilla con las siguientes características:
 - Calcetines largos || Longitud: || altura de la cintura: normal
-- Ajuste : Regular
 - El regalo perfecto para el día de San Valentín
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

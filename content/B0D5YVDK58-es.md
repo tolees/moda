@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fáciles de limpiar
 - Zuecos clásicos para niños de la marca Crocs
+- Fáciles de limpiar
 - Hecho de acetato de vinilo de etileno
 
 [🛒 Aquí!!!]({{< param buyurl >}})

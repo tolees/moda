@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Alisa el vientre y moldea las curvas
 - Este producto es original Levis
+- Alisa el vientre y moldea las curvas
 - Diseño de cinco bolsillos
 - Eleva el trasero y alarga las piernas
 

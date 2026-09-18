@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diseño Best
 - Manga Corta
+- Diseño Best
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DNJWZ42C{{</world>}}

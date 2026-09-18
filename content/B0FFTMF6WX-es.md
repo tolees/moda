@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camiseta relajada con cuello redondo
 - Pequeño logotipo impreso en el pecho
+- Camiseta relajada con cuello redondo
 - 100% algodón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Timberland Seneca Bay Oxford Blanco White Talla 42'
-date: 2026-09-06 14:02:52
+title: 'Seneca Bay Oxford Timberland Color Blanc DE Blanc Talla 42 para Hombre'
+date: 2026-09-17 14:02:36
 image: 'https://m.media-amazon.com/images/I/21FCjrSTO4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B09ZGNFTKY-es Timberland Seneca Bay Oxford Blanco White Talla 42'
+slug: 'B09ZGNFTKY-es Seneca Bay Oxford Timberland Color Blanc DE Blanc Talla 42...'
 sku: 'B09ZGNFTKY-es'
 tags: [ 'timberland','🇪🇸', ]
-actualPrice: 58.12 EUR
+actualPrice: 55.16 EUR
 currency: EUR
-price: 58.12
+price: 55.16
 comparePrice: 115.0 EUR
-prodname: 'Timberland Seneca Bay Oxford Blanco White Talla 42'
+prodname: 'Seneca Bay Oxford Timberland Color Blanc DE Blanc Talla 42 para Hombre'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09ZGNFTKY/?tag=tolees-21'
-descuento: '49.46'
-average: '58.12'
+descuento: '52.03'
+average: '57.1333333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,12 +28,6 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- modelo SENECA BAY OXFORD
-- color BLANCO
-- Forro de Textil. Exterior de Piel. Tipo de construcción: Pegado. Fabricado en Filipinas.
-- Talla: 42
-- marca TIMBERLAND
-- Sneakers Hombre
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09ZGNFTKY{{</world>}}

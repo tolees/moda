@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Clarks Shoes, Easeway Lace, White Combi, 6 (Men)
 - Cojín de contorno
+- Clarks Shoes, Easeway Lace, White Combi, 6 (Men)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D6N5QYB3{{</world>}}

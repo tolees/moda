@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Camiseta con cuello redondo
 - Ajuste estándar
 - Fabricado con algodón orgánico Este producto ha sido fabricado con algodón orgánico. El algodón orgánico se cultiva sin el uso de productos químicos nocivos. En el cultivo agrícola de algodón orgánico, los recursos naturales y los agricultores están protegidos.
-- Camiseta con cuello redondo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BCBDLT3Z{{</world>}}

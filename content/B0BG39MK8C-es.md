@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Corte normal
-- Gráfico bordado GANT en el bolsillo del pecho
 - Pliegue del sótano con lazo holgado en la espalda
+- Gráfico bordado GANT en el bolsillo del pecho
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BG39MK8C{{</world>}}

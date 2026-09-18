@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Celebra un hito icónico con esta exclusiva colección intergaláctica, honrando 60 años de aventuras atemporales. icónica serie de ciencia ficción. Para Whovianos devotos o aquellos simplemente fascinados por el concepto de viaje en el tiempo y el mundo extraterrestre.
 - Diseñado para el Whovian definitivo, sumérgete en la nostalgia de la ciencia ficción de los 80 con este tributo al legendario Señor del Tiempo. Dale un poco de fanatismo a tu hijo, hija, mamá, papá, marido, esposa, novio, novia
+- Celebra un hito icónico con esta exclusiva colección intergaláctica, honrando 60 años de aventuras atemporales. icónica serie de ciencia ficción. Para Whovianos devotos o aquellos simplemente fascinados por el concepto de viaje en el tiempo y el mundo extraterrestre.
 - Ligero, Encaje clasico, Manga de doble puntada y bastilla baja
 
 [🛒 Visítala!!!]({{< param buyurl >}})

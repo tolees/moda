@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Durabilidad con material sostenible
-- Hecho de algodón para mayor suavidad y comodidad
-- Polo de manga corta
 - Cuello estilo polo
-- JACK & JONES apoya la iniciativa Better Cotton usando algodón orgánico o reciclado
+- Hecho de algodón para mayor suavidad y comodidad
+- Durabilidad con material sostenible
 - Tipo de ajuste: regular
+- JACK & JONES apoya la iniciativa Better Cotton usando algodón orgánico o reciclado
+- Polo de manga corta
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B091TXMGFL{{</world>}}

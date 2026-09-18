@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Chaqueta Ligera
 - Chaqueta Con Cuello Camisero
+- Chaqueta Ligera
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FCMWM82Q{{</world>}}

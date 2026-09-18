@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - The personalized metal core wire, featuring a delicate piqué pattern, is visible through the transparency of the temples.
-- Global XL fit with RXable frame that allows the application of prescription lenses.
 - The Lacoste crocodile logo is positioned on the temples as a signature brand element.
-- The temples showcase a matte solid color in the first half to transit into a shiny transparent section.
+- Global XL fit with RXable frame that allows the application of prescription lenses.
 - The bio-injected material with dual finish and color-block enhances the urban and activewear aesthetic.
+- The temples showcase a matte solid color in the first half to transit into a shiny transparent section.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0GF93JHNC{{</world>}}

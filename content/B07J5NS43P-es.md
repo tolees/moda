@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 8 milimetros calendario - -
 - Analógico para Unisex Adulto
+- 8 milimetros calendario - -
 - Guess Modelo Reloj W0799G2
 
 [🛒 Aquí!!!]({{< param buyurl >}})

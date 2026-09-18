@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Plantilla: textil
 - Clarks Sandals, Saltway Trail, Light Tan Lea, 10,5 (Men)
 - Forro interior: textil
-- Plantilla: textil
 - Material: piel lisa
 
 [🛒 Visítala!!!]({{< param buyurl >}})

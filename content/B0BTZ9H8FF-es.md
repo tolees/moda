@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Este producto es original Levis
 - Una alternativa refinada y moderna a los jeans rectos
+- Este producto es original Levis
 - Se coloca debajo de la cintura Estilo de cinco bolsillos
 - Espacio adicional para mayor comodidad
 - Elástico

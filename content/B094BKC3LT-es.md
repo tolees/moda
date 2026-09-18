@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Dobladillo y puños con punto acanalado
-- 2 estampados con el logo en el pecho
 - Bolsillos: bolsillo amplio
+- 2 estampados con el logo en el pecho
+- Dobladillo y puños con punto acanalado
 - Corte: corte normal, clásico, cómodo
 - tejido: tejido en mezcla de algodón y poliéster
 

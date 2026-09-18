@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Ajuste activo: Ajuste ceñido al cuerpo pensando en la movilidad final, entrepierna de 7" o 9", confeccionado con 95% y 5% de elastano.
 - Cintura ajustable con cordón para un ajuste perfecto, lazo multifuncional, orificios de drenaje, bolsillos para las manos y bolsillos traseros autoadherentes para guardar cosas.
-- Los pantalones cortos Tech trail Utility están fabricados con una repelencia avanzada y una utilidad preparada para el agua, para que puedas estar cómodo mientras te aventuras cerca del agua.
 - Contenido: 1x Columbia Pantalón Corto Tech Trail Utility para Hombre, Color: Stone Green (Verde), Talla: W30/L7
+- Los pantalones cortos Tech trail Utility están fabricados con una repelencia avanzada y una utilidad preparada para el agua, para que puedas estar cómodo mientras te aventuras cerca del agua.
 - Fabricado con tecnología Omni-Shield: Una tecnología duradera y de secado rápido que repele el agua y las manchas impidiendo que los líquidos se absorban en los hilos y saturen o manchen tu ropa.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

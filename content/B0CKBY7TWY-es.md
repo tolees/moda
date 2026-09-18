@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bolsillos con ribete en la cintura
-- Cuello plano, trabilla en el interior
+- Bolsillos estilo Oeste en el pecho con botones sin ojales
 - Cierre de botón sin ojales
 - Etiqueta trasera de G-STAR hecha de tejido de papel imitando al cuero
-- Bolsillos estilo Oeste en el pecho con botones sin ojales
+- Cuello plano, trabilla en el interior
+- Bolsillos con ribete en la cintura
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CKBY7TWY{{</world>}}

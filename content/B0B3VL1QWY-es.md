@@ -29,12 +29,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Mangas fruncidas
-- Cintura elástica
-- Logotipo tachonado
+- Bolsillos laterales
 - Conjunto de dos piezas
 - Cuello redondo
+- Logotipo tachonado
 - Viscosa fluida
-- Bolsillos laterales
+- Cintura elástica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B3VL1QWY{{</world>}}

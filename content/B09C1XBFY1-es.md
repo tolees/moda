@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Chaqueta larga
-- Sin cierre
 - Cárdigan
+- Sin cierre
+- Chaqueta larga
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09C1XBFY1{{</world>}}

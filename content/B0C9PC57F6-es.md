@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Selección de colores versátil: ya sea clásico o llamativo, elige tu camiseta favorita entre una amplia gama de colores.
-- Material de alta calidad: fabricado en algodón puro, la camiseta Urban Classics Tall ofrece una sensación agradable y al mismo tiempo es resistente.
 - Cuello redondo acanalado: el cuello redondo acanalado proporciona una comodidad adicional y un ajuste duradero.
+- Material de alta calidad: fabricado en algodón puro, la camiseta Urban Classics Tall ofrece una sensación agradable y al mismo tiempo es resistente.
 - Variedad de tallas: disponible hasta la talla 6XL, la camiseta Urban Classics Tall ofrece a cada hombre la posibilidad de expresar su estilo individual.
 - Gran tamaño: la camiseta Urban Classics Tall se presenta en un moderno aspecto oversized que ofrece espacio libre para el movimiento y al mismo tiempo tiene un aspecto elegante.
 

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tela suave
 - Tiene detalles distintivos de la marca
-- Camiseta de manga corta
 - Ofrece comodidad y libedad de movimiento
+- Tela suave
+- Camiseta de manga corta
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BQW7XBQ7{{</world>}}

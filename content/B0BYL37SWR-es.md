@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Camiseta para mujer
 - Ofrece libertad de movimiento
 - Tiene detalles distintivos de la marca
+- Camiseta para mujer
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BYL37SWR{{</world>}}

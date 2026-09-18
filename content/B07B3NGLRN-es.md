@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Logotipo de Carhartt estampado en el pecho
+- Puños y cintura de canalé elástico reforzado con elastano
 - Capucha de tres piezas con cordón ajustable
 - Loose Fit
-- Tejido polar de peso medio
-- Puños y cintura de canalé elástico reforzado con elastano
 - Dos bolsillos calientamanos en la parte baja del frente
+- Tejido polar de peso medio
 - Manga larga
-- Logotipo de Carhartt estampado en el pecho
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07B3NGLRN{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Las agujas son retiradas para lograr un pequeño dibujo
 - Tejido de máxima suavidad e interior afelpado, que proporciona un calor extra a la prenda
+- Las agujas son retiradas para lograr un pequeño dibujo
 - Manga larga y cuello redondo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

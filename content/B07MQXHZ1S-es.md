@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Revestimiento: Poliéster
-- Color negro
 - Cierre: Cremallera
+- Color negro
+- Revestimiento: Poliéster
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07MQXHZ1S{{</world>}}

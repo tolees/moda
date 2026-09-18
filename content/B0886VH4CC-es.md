@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Este producto es original Levis
-- Ofrece comodidad y libertad de movimiento
 - Cuenta con un diseño ligero
+- Ofrece comodidad y libertad de movimiento
+- Este producto es original Levis
 - Tiene detalles distintivos de la marca
 
 [🛒 Comprar!!!]({{< param buyurl >}})

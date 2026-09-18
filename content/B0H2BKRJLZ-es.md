@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '10 Gafas Eclipse Solar con 3 Filtros para Móvil – Certificadas ISO 12312-2 CE & UKCA AAS 2026 Kit Completo para Ver y Fotografiar el Eclipse'
-date: 2026-09-14 21:09:27
+date: 2026-09-17 14:36:37
 image: 'https://m.media-amazon.com/images/I/51h+2FsCqLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0H2BKRJLZ/?tag=tolees-21'
 descuento: '49.28'
-average: '9.59285714285715'
+average: '9.40750000000001'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

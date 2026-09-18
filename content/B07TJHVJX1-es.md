@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Modelo BUTTERFLY
-- Producto oficial Hawkers
-- Lentes de TR18 con el sello de Eastman, uno de los líderes mundiales en tecnología de copoliéster, proporciona un equilibrio único entre claridad y resistencia; lentes categoría 3 y protección uv400
 - Modelo para mujer
 - Gafas de sol fabricadas en TR90 con el sello de EMS, considerado un gran Nylon para monturas del mundo que proporciona más flexibilidad y resistencia; almohadillas de TR90 para una sujeción cómoda
+- Lentes de TR18 con el sello de Eastman, uno de los líderes mundiales en tecnología de copoliéster, proporciona un equilibrio único entre claridad y resistencia; lentes categoría 3 y protección uv400
+- Producto oficial Hawkers
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07TJHVJX1{{</world>}}

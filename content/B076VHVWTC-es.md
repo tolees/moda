@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contenido: 1x Columbia Chaleco para Mujer, Benton Springs, Color: Gris (Cirrus Grey Heather), Talla: M, Art.: 1372121
-- Cremallera completa, Cuello ajustable y protección para la barbilla, 2 bolsillos con cremallera para mantener las manos calientes y seguras
-- Tejido ligero y suave, Lavable a máquina, Disponible en varios colores
 - Diseño moderno de corte clásico, Sirve como una capa adicional para vestir al aire libre, Logotipo de Columbia
+- Cremallera completa, Cuello ajustable y protección para la barbilla, 2 bolsillos con cremallera para mantener las manos calientes y seguras
+- Contenido: 1x Columbia Chaleco para Mujer, Benton Springs, Color: Gris (Cirrus Grey Heather), Talla: M, Art.: 1372121
+- Tejido ligero y suave, Lavable a máquina, Disponible en varios colores
 - Chaleco cómodo, Ideal para usar todo el año, Perfecto para hacer senderismo, trail running y otras actividades al aire libre
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

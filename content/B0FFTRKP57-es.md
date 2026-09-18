@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 100% algodón
 - Camiseta básica con cuello redondo y manga corta
+- 100% algodón
 - Gran logotipo clásico en la parte delantera de jersey de calidad básica
 
 [🛒 Visítala!!!]({{< param buyurl >}})

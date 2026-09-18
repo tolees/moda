@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- CAMISETA DE MANGA CORTA: camiseta interior de alta calidad que ofrece comodidad y funcionalidad para el uso diario
-- CORTE AJUSTADO: corte ajustado en los hombros, las mangas, el pecho y la cintura
-- LONGITUD DE LA PRENDA: 69,9cm desde el lado del cuello en la talla M de España
 - DETALLES: mangas cortas y dobladillo recto rematado con costuras flexibles supersuaves. El cuello redondo está reforzado para mayor durabilidad y tiene una etiqueta estampada en la parte trasera
+- CORTE AJUSTADO: corte ajustado en los hombros, las mangas, el pecho y la cintura
 - MODAL SUPERSUAVE: mezcla de modal suave. Este tejido ligero y transpirable proporciona una sensación de lujo, mientras que el elastano añadido ofrece un ajuste flexible que se adapta a tus movimientos
+- LONGITUD DE LA PRENDA: 69,9cm desde el lado del cuello en la talla M de España
+- CAMISETA DE MANGA CORTA: camiseta interior de alta calidad que ofrece comodidad y funcionalidad para el uso diario
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F7S8NMPL{{</world>}}

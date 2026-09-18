@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- cierres regulables
 - tacón kitten
+- cierres regulables
 - plantilla acolchada
 - zapato de salón destalonado
 

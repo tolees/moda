@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Clásico
-- Cómodo
-- Corte normal
-- Camiseta Para hombre
 - Cuello redondo y serigrafía en parte delantera
+- Camiseta Para hombre
+- Corte normal
+- Cómodo
+- Clásico
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0825NJ4KZ{{</world>}}

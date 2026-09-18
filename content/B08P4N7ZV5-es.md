@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- JERSEY DE MEZCLA DE ALGODÓN Y MODAL: jersey de algodón y modal supersuave con elasticidad adicional para mayor comodidad durante todo el día
 - CAMISETA CON CUELLO REDONDO Y MANGAS PLEGADAS: mejora tu estilo diario con esta moderna camiseta femenina perfecta para trabajar, irte de viaje o lucirla los fines de semana
 - DETALLES: presenta un cuello redondo clásico y mangas abullonadas con una bonita caída y un toque interesante
-- JERSEY DE MEZCLA DE ALGODÓN Y MODAL: jersey de algodón y modal supersuave con elasticidad adicional para mayor comodidad durante todo el día
 - CORTE ESTÁNDAR: corte ajustado pero cómodo con fácil movimiento
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

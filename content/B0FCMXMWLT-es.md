@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camisa holgada lisa con cuello camisero
 - Cierre con botones en la parte delantera y en los puños
+- Camisa holgada lisa con cuello camisero
 - Blusa de gran tamaño
 - Escote en v
 

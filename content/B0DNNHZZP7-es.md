@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- CHAQUETAS
-- Cómodo de llevar
 - Este es un producto original de Levis
 - Logotipo en el pecho
+- CHAQUETAS
+- Cómodo de llevar
 - Dos bolsillos laterales
 
 [🛒 Visítala!!!]({{< param buyurl >}})

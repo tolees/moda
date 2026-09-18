@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Chest "Arch" logo embroidery
 - Cuello de la pluma
 - Tejido: algodón jersey [160 g/m2]
-- Chest "Arch" logo embroidery
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FCM5SYHG{{</world>}}

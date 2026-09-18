@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Todo un ejemplo de versatilidad. Nuestro bolso pequeño de hombro Ali queda bien tanto con un estilo formal como informal gracias a su elegante diseño, cierre de cremallera y correa ajustable.
 - LEVIS TAB: Existen diferentes variaciones de la conocida lengüeta roja. Todos los productos son originales de Levis, no importa si pone LEVIS, Levis, no está escrito o es de otro color.
-- Con cierre de cremallera lateral
 - Un versátil bolso de hombro
+- Con cierre de cremallera lateral
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FDGRR71S{{</world>}}

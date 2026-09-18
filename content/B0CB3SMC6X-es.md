@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cómodo
 - Cuero liso
 - Cuero Responsable
+- Cómodo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CB3SMC6X{{</world>}}

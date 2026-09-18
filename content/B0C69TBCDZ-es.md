@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Base redondeada de la camiseta
-- Estampado ROXY en la parte delantera del pecho
-- Camiseta mujer de algodón Regular fit
 - Manga corta enrollada
+- Camiseta mujer de algodón Regular fit
+- Estampado ROXY en la parte delantera del pecho
+- Base redondeada de la camiseta
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C69TBCDZ{{</world>}}

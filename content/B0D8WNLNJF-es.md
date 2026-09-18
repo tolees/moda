@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Estampado gráfico de G-STAR en la parte delantera
-- Puños y cintura acanalados
 - Una mirada original
+- Puños y cintura acanalados
 - Cuello acanalado
+- Estampado gráfico de G-STAR en la parte delantera
 - Proporciona comodidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})

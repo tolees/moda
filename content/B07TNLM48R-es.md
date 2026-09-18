@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- De algodón orgánico 100% ecológico y sostenible
 - Cuello redondo
+- De algodón orgánico 100% ecológico y sostenible
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07TNLM48R{{</world>}}

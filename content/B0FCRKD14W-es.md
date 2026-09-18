@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Etiqueta tejida
-- Billabong Logotipo bordado en el pecho
 - Tela: forro polar de doble tinte de 280 g/m2 hecho de algodón y poliéster reciclado
+- Billabong Logotipo bordado en el pecho
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FCRKD14W{{</world>}}

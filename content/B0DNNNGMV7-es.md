@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Esta es la camiseta esencial en su máxima expresión
 - Acabado con un sutil logotipo en el pecho
+- Esta es la camiseta esencial en su máxima expresión
 - Una silueta cuadrada con hombros caídos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

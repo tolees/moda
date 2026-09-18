@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Capucha con ribete elástico
 - Estándar de sostenibilidad: Salewa Committed
+- Capucha con ribete elástico
 - Chaqueta de plumón para hombre, cálida y ligera, para alpinismo y esquí de travesía.
-- Cuello muy alto para una protección óptima
 - Construcción especial de la manga (fuelle) para una buena libertad de movimientos
 - 2 bolsillos exteriores con cremallera
+- Cuello muy alto para una protección óptima
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B084RP6T5S{{</world>}}

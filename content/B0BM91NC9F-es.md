@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corte trasero con botón
 - Parte superior curvada estampada
+- Corte trasero con botón
 - Tejido elástico
 
 [🛒 Comprar!!!]({{< param buyurl >}})

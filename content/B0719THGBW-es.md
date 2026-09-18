@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseño ligero que ofrece comodidad
 - Cuello de canalé
+- Diseño ligero que ofrece comodidad
 - Tejido tubular, sin costuras laterales
 
 [🛒 Comprar!!!]({{< param buyurl >}})

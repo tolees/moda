@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Material exterior: poliéster
 - Suela: Caucho
 - Material interior: sintético
-- Material exterior: poliéster
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07SX4X83Y{{</world>}}

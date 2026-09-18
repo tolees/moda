@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Calzado transpirable
 - Proporciona un confort que dura todo el día
 - Ofrece una amortiguación excepcional a cada paso
+- Calzado transpirable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DP7RD2R1{{</world>}}

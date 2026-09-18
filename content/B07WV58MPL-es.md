@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Compra con confianza; distribuidor autorizado; autenticidad garantizada; paquete completo con todos los accesorios
-- Tamaño: 5319
 - Gafas de sol para hombre
+- Tamaño: 5319
 - Color: marrón
+- Compra con confianza; distribuidor autorizado; autenticidad garantizada; paquete completo con todos los accesorios
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07WV58MPL{{</world>}}

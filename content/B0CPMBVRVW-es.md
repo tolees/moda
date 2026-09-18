@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Respirable
 - Color: Marina Multicolor
 - Tipo de producto: SHOES
-- TAMAÑO: 28 UE
+- Respirable
 - Marca: Geox
+- TAMAÑO: 28 UE
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CPMBVRVW{{</world>}}

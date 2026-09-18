@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tecnología Dri-Fit
-- Cuello redondo acanalado
 - Corte normal
+- Cuello redondo acanalado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B086KDYDSG{{</world>}}

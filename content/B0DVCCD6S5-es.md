@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Manga: Larga
-- Acabado metalizado
-- Con capucha
 - Color: Liso
-- Cintura con goma ajustable
+- Acabado metalizado
 - Desigual
+- Cintura con goma ajustable
+- Con capucha
+- Manga: Larga
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DVCCD6S5{{</world>}}

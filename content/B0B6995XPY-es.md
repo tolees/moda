@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ESTILO - Cuero genuino de un solo color con hebilla de metal.
 - BÁSICO - Un versátil básico JACROCK - 12228996.
+- ESTILO - Cuero genuino de un solo color con hebilla de metal.
 - IDEAL - Cinturón clásico, ancho de 4 cm.
 - COMPUESTO - 100% cuero auténtico recubierto.
 

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cinta en la cintura
 - Cuello de camisa
-- Bolsillos con solapa y botones en el pecho
 - Cierre de botones
+- Cinta en la cintura
 - Bolsillos en las costuras laterales
+- Bolsillos con solapa y botones en el pecho
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D8WLHTRW{{</world>}}

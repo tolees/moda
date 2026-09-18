@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Manga larga con cierre de botón en los puños
+- Bajo ajustable en el lateral
 - Este producto es original Levis
 - Bolsillos de parche en el pecho con solapa y cierre de botón automático
-- Bajo ajustable en el lateral
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07ZVPM2JS{{</world>}}

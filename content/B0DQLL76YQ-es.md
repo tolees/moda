@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Corte estándar
 - Composición: 58% poliéster, 42% algodón
 - Chaqueta con capucha
-- Corte estándar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DQLL76YQ{{</world>}}

@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Estilo informal
-- Medidas: tamaño estándar
-- Ajuste regular
 - Camiseta básico
+- Ajuste regular
+- Medidas: tamaño estándar
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07PHGQ572{{</world>}}

@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Corte : Corte regular
-- Cuello : Cuello de camisa
+- Modo de vida : Tradicional
 - Cierre : Cierre de botones
 - Estampado : Estampado que se repite en toda la superficie del artículo
-- Modo de vida : Tradicional
+- Cuello : Cuello de camisa
 - Manga : Manga corta
 - Artículo : Camisa
+- Corte : Corte regular
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F8J6F8D7{{</world>}}

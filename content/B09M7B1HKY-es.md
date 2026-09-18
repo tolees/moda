@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tejido duradero de doble punto
 - Tecnología Beecool
-- Mangas cortas con ángulos característicos
 - Cuello deportivo con inserto frontal
 - Tejido doble resistente
+- Tejido duradero de doble punto
+- Mangas cortas con ángulos característicos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09M7B1HKY{{</world>}}

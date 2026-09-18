@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Montura resistente y duradera
 - Ofrece protección contra los rayos solares
+- Montura resistente y duradera
 - Estilo informal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

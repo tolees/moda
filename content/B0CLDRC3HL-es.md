@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Composición: Exterior: 100% Poliéster; Padding: 100% Poliéster; Forro: 100% Poliéster
 - Corte normal
 - Manga larga
-- Composición: Exterior: 100% Poliéster; Padding: 100% Poliéster; Forro: 100% Poliéster
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CLDRC3HL{{</world>}}

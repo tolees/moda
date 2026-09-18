@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto deportivo
 - Mejora tu experiencia deportiva
 - Cómoda de llevar
+- Producto deportivo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D47J9QF6{{</world>}}

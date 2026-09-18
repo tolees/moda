@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camiseta sin mangas acanalada con logotipo impreso en la parte delantera
 - 95 % algodón, 5 % elastano
+- Camiseta sin mangas acanalada con logotipo impreso en la parte delantera
 - 0 unidades
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

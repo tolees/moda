@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sudadera con capucha
 - Manga larga
+- Sudadera con capucha
 - Tiene detalles distintivos de la marca
 
 [🛒 Aquí!!!]({{< param buyurl >}})

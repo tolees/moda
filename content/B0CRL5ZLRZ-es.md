@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Adecuada para estar por casa o para días de ocio
 - Puños y bajo acanalados
+- Adecuada para estar por casa o para días de ocio
 - Bolsillos con vivo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

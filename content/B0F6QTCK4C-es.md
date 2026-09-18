@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Camiseta vintage
 - Cinta de firma en el cuello
+- Camiseta vintage
 - Cuello redondo
 - Logotipo metálico de Tommy Hilfiger en la parte delantera
 

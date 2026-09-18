@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Deportiva cómoda y amortiguada
-- Realza los looks informales de la temporada cálida
 - Suave y ligera
+- Realza los looks informales de la temporada cálida
+- Deportiva cómoda y amortiguada
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FB44ZGVH{{</world>}}

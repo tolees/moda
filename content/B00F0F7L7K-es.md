@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Schott NYC de calidad desde 1913
 - Casual
+- Schott NYC de calidad desde 1913
 - Cremallera
 - Manga larga
 

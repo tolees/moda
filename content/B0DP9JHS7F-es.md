@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Plantilla extraíble
-- Rápido y fácil de poner
 - Cierre Riptape
+- Rápido y fácil de poner
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DP9JHS7F{{</world>}}

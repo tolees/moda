@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Garantía internacional de 2 años
-- GOLD/DARK BLUE SHADED
-- NO
 - Talla 63/12/145
+- NO
+- GOLD/DARK BLUE SHADED
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BVHC3QVZ{{</world>}}

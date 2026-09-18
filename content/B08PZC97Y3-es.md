@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Doble costura y logo Samsonite grabado
 - Cartera: 12,8 x 2 x 10 cm
 - 100 % piel de vaca
 - Interior: 2 compartments, 2 billeteros, 11 ranuras para tarjeta de crédito, y 1 monedero
-- Doble costura y logo Samsonite grabado
 - Incluye protección RFID
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cintura elástica con revestimiento y cordón exterior
 - Bolsillos laterales abiertos
-- Tratamiento repelente al agua sin flúor
 - Tecnología UA Storm que repele el agua sin renunciar a la transpirabilidad
+- Cintura elástica con revestimiento y cordón exterior
+- Tratamiento repelente al agua sin flúor
 - Tejido suave, ligero y extremadamente duradero
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

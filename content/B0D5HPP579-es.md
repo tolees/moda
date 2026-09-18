@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Con un tejido ligero
-- Detalles distintivos de la marca
 - Ajuste relajado
+- Detalles distintivos de la marca
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D5HPP579{{</world>}}

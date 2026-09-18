@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Estilo Puffer
 - PEPE JEANS AMMY SHORT DULWICH Ladies XS
+- Estilo Puffer
 - Sudadera con capucha desmontable
 
 [🛒 Visítala!!!]({{< param buyurl >}})

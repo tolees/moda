@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contenido: 1x Columbia Hombre Pantalón Capri, Silver Ridge II, Color: Verde (Stone Green), Talla: 30, Art.: 1794911
-- Buena circulación de aire gracias a la construcción ventilada con control de humedad Omni-Wick, Protección solar Omni-Shade UPF 50
 - Bolsillos cargo, Bolsillo de seguridad con cierre de cremallera y con bolsillos detrás, Prácticos también por sus cierres de velcro y los bolsillos con malla.
-- Ajuste óptimo gracias al elástico en la cintura, al cinturón extraíble integrado y a la construcción de corte recto
 - Pantalones transpirables Capri con un diseño inspirado en la aventura y un duradero material de nailon Ripstop
+- Contenido: 1x Columbia Hombre Pantalón Capri, Silver Ridge II, Color: Verde (Stone Green), Talla: 30, Art.: 1794911
+- Ajuste óptimo gracias al elástico en la cintura, al cinturón extraíble integrado y a la construcción de corte recto
+- Buena circulación de aire gracias a la construcción ventilada con control de humedad Omni-Wick, Protección solar Omni-Shade UPF 50
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D4F9XK66{{</world>}}

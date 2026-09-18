@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Acabado con un estampado único
 - Tacto suave, ni fino ni grueso
 - Una sudadera con capucha básica y cómoda
-- Acabado con un estampado único
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CNHD6FW2{{</world>}}

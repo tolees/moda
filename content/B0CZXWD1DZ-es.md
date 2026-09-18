@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Cuello redondo de canalé
 - Hombros con las costuras caídas
-- Corte clásico
 - 100% algodón
+- Corte clásico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZXWD1DZ{{</world>}}

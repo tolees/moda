@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Larga vida útil
 - Camiseta de manga corta para hombre
+- Larga vida útil
 - Excelente mano de obra
 
 [🛒 Comprar!!!]({{< param buyurl >}})

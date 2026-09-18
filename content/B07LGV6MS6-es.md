@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ribbed hems
 - Soft fabric
+- Ribbed hems
 - 3 pair pack
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

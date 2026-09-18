@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aptos para el contacto con todos los alimentos, excepto los alimentos ácidos. Se recomienda comprobar que los guantes son adecuados para el uso previsto.
 - Estos guantes de nitrilo son ambidiestros, por lo que no es necesario dividir un par en el caso de que un guante se estropee durante el uso.
+- Aptos para el contacto con todos los alimentos, excepto los alimentos ácidos. Se recomienda comprobar que los guantes son adecuados para el uso previsto.
 - Guantes desechables de nitrilo negros aptos para personas con alergia al látex y libres de silicona, que se adaptan perfectamente a la mano.
 - Con bordillos enrollados y superficie microtexturizada en los dedos, proporcionando así un mejor agarre.
 - Los guantes de nitrilo negro se presentan en un cómodo dispensador de cartón que incluye 20 unidades. Están disponibles en la talla S y M.

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dobladillo redondeado
 - Bordado gráfico GANT en el pecho
+- Dobladillo redondeado
 - Corte entallado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Dos bolsillos traseros
 - Cierre de cremallera
 - Trabillas para cinturón
-- Dos bolsillos traseros
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BG526V3X{{</world>}}

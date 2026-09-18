@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Algunas cosas son sencillamente lo que son. Esta clásica camiseta con bolsillo es una de ellas. Por eso la hemos mantenido sencilla con una silueta estilizada y un solo bolsillo en el pecho.
 - Una camiseta atemporal sin adornos ni florituras
 - LEVIS TAB: Existen diferentes variaciones de la conocida lengüeta roja. Todos los productos son originales de Levis, no importa si pone LEVIS, Levis, no está escrito o es de otro color.
+- Algunas cosas son sencillamente lo que son. Esta clásica camiseta con bolsillo es una de ellas. Por eso la hemos mantenido sencilla con una silueta estilizada y un solo bolsillo en el pecho.
 - Una silueta clásica rematada con un solo bolsillo en el pecho
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

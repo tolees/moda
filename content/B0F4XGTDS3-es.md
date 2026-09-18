@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Detalle gráfico en la parte delantera
 - Bajo recto
+- Detalle gráfico en la parte delantera
 - Cuello redondo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

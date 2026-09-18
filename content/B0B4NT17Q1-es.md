@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Slip On
 - Material exterior: poliéster
+- Slip On
 - Suela: goma
 - Material interior: sintético
 

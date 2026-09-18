@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pantalón largo
 - Cintura elástica
+- Pantalón largo
 - Manga larga
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

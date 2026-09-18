@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Forro textil
-- Mediasuela Cloudfoam
 - Empeine textil
-- Cordones elásticos y correa autoadherente
 - Corte clásico
+- Cordones elásticos y correa autoadherente
+- Mediasuela Cloudfoam
 - Forro textil
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

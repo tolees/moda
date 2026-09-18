@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Compartimento para celular
 - Cuero falso
 - Logotipo básico 4G
+- Compartimento para celular
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BY5RMHGX{{</world>}}

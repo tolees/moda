@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Ajuste: corte regular
+- Camiseta informal
 - Manga Corta
 - Instrucciones de cuidado: lavable a máquina
-- Camiseta informal
-- Ajuste: corte regular
 - Composición: 70 por ciento lyocell 30 por ciento de lino
 
 [🛒 Aquí!!!]({{< param buyurl >}})

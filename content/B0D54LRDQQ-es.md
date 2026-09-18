@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Jersey no elástico
 - Diseñada para mayor comodidad, estilo y versatilidad
+- Jersey no elástico
 - El corte clásico hace de esta tu camisa favorita
 
 [🛒 Comprar!!!]({{< param buyurl >}})

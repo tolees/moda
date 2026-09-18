@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello redondo de terminación acanalada.
-- Esta pieza confeccionada en algodón se convertirá en una de tus favoritas.
 - Manga larga con puños y cintura en canalé. Interior perchado. Bordado Rigby Go en el lado izquierdo del pecho.
-- Polo Club sigue siendo fiel a prendas imprescindibles como la sudadera de cuello redondo.
+- Esta pieza confeccionada en algodón se convertirá en una de tus favoritas.
+- Cuello redondo de terminación acanalada.
 - Combinala con unos jeans o unos pantalones chinos.
+- Polo Club sigue siendo fiel a prendas imprescindibles como la sudadera de cuello redondo.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CNGXDF4J{{</world>}}

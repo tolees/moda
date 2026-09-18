@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mangas largas
 - Cerraduras con botones
 - Cuello de encaje
+- Mangas largas
 - Bordado con monograma
 
 [🛒 Comprar!!!]({{< param buyurl >}})

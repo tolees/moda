@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Corte : Corte slim
 - Artículo : Pantalones chinos
+- Corte : Corte slim
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CBNC8HLN{{</world>}}

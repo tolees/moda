@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Amortiguado y cómodo
 - Con luces integradas en la suela para encender la diversión a cada paso
+- Amortiguado y cómodo
 - Deportiva con un estilo activo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

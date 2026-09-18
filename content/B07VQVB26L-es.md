@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cuello de pico
-- Bajo recto
-- Bordado de G-Star RAW en el pecho
 - Manga corta
+- Bordado de G-Star RAW en el pecho
 - Proporciona comodidad
+- Bajo recto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07VQVB26L{{</world>}}

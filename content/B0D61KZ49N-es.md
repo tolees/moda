@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre sin cordones
 - Sandalia moderna para mujer de la marca Crocs
 - Hecho de etileno acetato de vinilo
+- Cierre sin cordones
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D61KZ49N{{</world>}}

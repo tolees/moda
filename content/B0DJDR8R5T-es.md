@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajuste estándar
-- Estampado integral en el panel frontal e inserción de malla en las mangas
 - Manga corta
-- Detalles de la marca PUMA
+- Ajuste estándar
 - Logotipo PUMA Cat estampado por transferencia térmica en la parte derecha del pecho
+- Estampado integral en el panel frontal e inserción de malla en las mangas
+- Detalles de la marca PUMA
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DJDR8R5T{{</world>}}

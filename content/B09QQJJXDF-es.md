@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cordones en el cuello. Parte inferior de vestido más corta.
+- Vestido tipo túnica
 - 100 % poliéster
 - Vestido suave con cuello en V y mangas anchas.
-- Vestido tipo túnica
+- Cordones en el cuello. Parte inferior de vestido más corta.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09QQJJXDF{{</world>}}

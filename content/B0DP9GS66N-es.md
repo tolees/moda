@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- No Denim Pants
 - Pants
+- No Denim Pants
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DP9GS66N{{</world>}}

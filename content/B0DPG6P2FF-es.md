@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Serigrafía frontal y trasera de tacto suave
 - Etiqueta sellada con calor en el cuello
 - Manga corta
+- Serigrafía frontal y trasera de tacto suave
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DPG6P2FF{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 1x Columbia Fast Trek II Forro polar con cremallera para hombre, Fibra sintética, Gris (City Grey), M, Art. 1420421
-- Cómoda chaqueta polar para hombre, Ideal para senderismo, trail running y otras actividades al aire libre o como capa intermedia en los días fríos de invierno, Regular fit
-- Cómoda cremallera completa, Bolsillos con cremallera para mantener las manos calientes, Bolsillo con cremallera en el pecho
 - Protección adicional contra el viento y el frío gracias al cuello alto y al agradable tejido polar
 - Ajuste óptimo y mayor movilidad gracias a las mangas raglánicas
+- 1x Columbia Fast Trek II Forro polar con cremallera para hombre, Fibra sintética, Gris (City Grey), M, Art. 1420421
+- Cómoda cremallera completa, Bolsillos con cremallera para mantener las manos calientes, Bolsillo con cremallera en el pecho
+- Cómoda chaqueta polar para hombre, Ideal para senderismo, trail running y otras actividades al aire libre o como capa intermedia en los días fríos de invierno, Regular fit
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07V7RNMRM{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tejido transpirable
 - Sensación suave al tacto que garantiza un ajuste cómodo
 - Urban Classics Camiseta para hombre ultrapesada de gran tamaño Bottlegreen
+- Tejido transpirable
 - No olvides empacar uno de ellos para tus vacaciones
 
 [🛒 Visítala!!!]({{< param buyurl >}})

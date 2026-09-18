@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Artículo de la marca Geox
 - Grado de resistencia al agua: no impermeable
 - Cierre: cordones
-- Artículo de la marca Geox
 - Tipo de tacón: plano
 - Fácil de combinar
 

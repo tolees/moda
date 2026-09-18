@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Bolsillo tipo canguro
 - Tejido de rizo de algodón puro
-- Puños y dobladillo de punto acanalado
 - Cuello con capucha y cordón
+- Puños y dobladillo de punto acanalado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F4KDTT25{{</world>}}

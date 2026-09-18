@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Officially Licensed Star Trek Apparel
 - 17TKOG00035A-001
+- Officially Licensed Star Trek Apparel
 - Ligero, Encaje clasico, Manga de doble puntada y bastilla baja
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

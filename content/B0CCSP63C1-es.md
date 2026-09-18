@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Dos bolsillos para las manos con cremallera
+- Tiradores de cremallera con la marca
+- Puños con elástico revestido
 - Bajo con ajustes elásticos
 - Bolsillo interno en el pecho
-- Puños con elástico revestido
-- Tiradores de cremallera con la marca
-- Dos bolsillos para las manos con cremallera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CCSP63C1{{</world>}}

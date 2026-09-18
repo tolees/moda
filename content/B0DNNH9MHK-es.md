@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Una cómoda prenda de sherpa
 - Cremallera completa
+- Una cómoda prenda de sherpa
 - Con un diseño de cremallera integral
 
 [🛒 Comprar!!!]({{< param buyurl >}})

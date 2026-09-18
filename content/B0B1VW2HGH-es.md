@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Corte voluminoso en el brazo
-- Las blusas son las piezas más versátiles de tu armario
 - Se pueden llevar con casi cualquier cosa, desde jeans hasta pantalones hasta faldas
+- Las blusas son las piezas más versátiles de tu armario
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B1VW2HGH{{</world>}}

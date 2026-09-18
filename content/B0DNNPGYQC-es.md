@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estilo informal
 - Jersey de manga larga
+- Estilo informal
 - Adecuado para uso diario
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

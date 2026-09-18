@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Tacón de 10 cm
-- Plantilla de piel muy acolchada de látex
 - Sandalias de tacón alto con detalle de pala acolchada
+- Plantilla de piel muy acolchada de látex
 - Cierre ajustable con hebilla
 
 [🛒 Aquí!!!]({{< param buyurl >}})

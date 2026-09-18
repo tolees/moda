@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Contenido: 1 camiseta Columbia Silver Ridge 3.0 para mujer, L, color blanco
-- Ajuste clásico que permite una amplia gama de movimientos, mangas enrollables con soportes para pestañas para mayor versatilidad
 - Camisa cómoda para actividades de día soleado, te mantiene fresco y seco
+- Ajuste clásico que permite una amplia gama de movimientos, mangas enrollables con soportes para pestañas para mayor versatilidad
 - Dos bolsillos en el pecho para guardar accesorios u objetos de valor
 - Tecnología Omni-Wick de secado rápido para eliminar el sudor, tecnología Omni-Shade con protección solar UPF 50 de amplio espectro
 

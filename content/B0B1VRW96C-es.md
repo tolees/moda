@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Longitud normal
 - Corte normal
 - Cuello redondo
+- Longitud normal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B1VRW96C{{</world>}}

@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Base ligera Croslite
-- Revolucionario paseo ligero
 - Elegante silueta de dos correas
+- Revolucionario paseo ligero
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D615B3JH{{</world>}}

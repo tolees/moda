@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tamaño: 2xl
 - Material: 95% algodón, 5% elastano
+- Tamaño: 2xl
 - Color: negro
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Camiseta de manga corta de 100% algodón
 - Detalles distintivos de la marca
 - Tejido ligero y suave
-- Camiseta de manga corta de 100% algodón
 - Amplia libertad de movimiento
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

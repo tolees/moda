@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Marca: JACK&JONES
 - Sudadera con capucha de manga larga de color gris claro. Cierre con cremallera. Dos bolsillos. Detalle bordado.
+- Marca: JACK&JONES
 - Modelo: 12181901 JJEBASIC SWEAT ZIP HOOD NOOS
 
 [🛒 Aquí!!!]({{< param buyurl >}})

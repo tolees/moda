@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Exterior: 100% poliéster
 - Artículos entregados: 1x Helly Hansen Mujer Camiseta HH Tech,XL,Gris Claro
 - Los productos HH Tech son tops técnicos ligeros para actividades multideportivas; se componen de un tejido ligero que evacua la humedad y proporciona un tacto suave y cómodo sobre la piel
-- Exterior: 100% poliéster
 - Tops técnicos ligeros para actividades multideportivas con un confort a la piel
 
 [🛒 Aquí!!!]({{< param buyurl >}})

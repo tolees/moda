@@ -29,12 +29,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cierre con correas autoadherentes
-- Horma clásica
-- Empeine de piel sintética
-- Forro textil
+- Puntera de ante
 - Suela de goma
 - Forro textil
-- Puntera de ante
+- Forro textil
+- Empeine de piel sintética
+- Horma clásica
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CKS13K9D{{</world>}}

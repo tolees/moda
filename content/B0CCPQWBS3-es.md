@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dim Boxer Pack Ecodim Coton Stretch Confortable Negro Hombre x8'
-date: 2026-09-16 04:40:29
+date: 2026-09-17 20:42:29
 image: 'https://m.media-amazon.com/images/I/31Wlda3ouCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

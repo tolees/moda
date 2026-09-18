@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Costuras planas para un bajo volumen
-- Logotipo HH bordado en el pecho
 - Apertura frontal con cremallera YKK completa
+- Logotipo HH bordado en el pecho
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CKWR3HRN{{</world>}}

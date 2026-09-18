@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Protege del frío
 - Cómoda de llevar
+- Protege del frío
 - Sudadera deportiva
 
 [🛒 Visítala!!!]({{< param buyurl >}})

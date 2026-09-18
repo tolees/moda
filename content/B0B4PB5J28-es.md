@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Capucha de tres piezas con cordón ajustable oculto
 - Cremallera frontal completa con solapas interiores y protector de barbilla; puños elásticos
+- Capucha de tres piezas con cordón ajustable oculto
 - Rain Defender - Acabado duradero repelente al agua
 - Wind Fighter - Detiene el viento
 - Dos bolsillos en el pecho con solapas y botones de presión

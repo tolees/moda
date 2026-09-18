@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Tejido de algodón transpirable
 - Con estampado gráfico
 - Corte informal
-- Tejido de algodón transpirable
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BXFHF5HB{{</world>}}

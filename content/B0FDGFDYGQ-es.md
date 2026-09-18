@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ideal para dormir o estar en casa muy cómoda
-- Pijama de manga corta y pantalón largo en tejido de algodón
 - Top liso con escote en redondo, abotonadura con tapeta central con botones a tono y bordado de Mickey en el pecho
+- Pijama de manga corta y pantalón largo en tejido de algodón
+- Ideal para dormir o estar en casa muy cómoda
 - Pantalón lounge con estampado allover de cuadros+Mickey, cinturilla con elástico ancho
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

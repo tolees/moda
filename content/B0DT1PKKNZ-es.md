@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dos asas superiores
 - Cierre de cremallera
+- Dos asas superiores
 - Correa cruzada ajustable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

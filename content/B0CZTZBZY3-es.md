@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuello redondo
-- 100% algodón
 - Corte clásico
+- 100% algodón
+- Cuello redondo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CZTZBZY3{{</world>}}

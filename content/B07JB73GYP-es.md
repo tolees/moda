@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tejido elástico
 - Clasico botón tipo “donut”
 - Cintura flexible
+- Tejido elástico
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07JB73GYP{{</world>}}

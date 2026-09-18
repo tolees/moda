@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Cuenta con un gran gráfico frontal a nivel del pecho y un pequeño detalle de marca en la parte inferior izquierda de la manga
+- Camiseta de manga corta de ajuste regular hecha de tela de punto individual de 160 g/m²
 - Acabado con cuello acanalado y detalle de cinta de contraste
 - Composición: 100 % algodón
-- Camiseta de manga corta de ajuste regular hecha de tela de punto individual de 160 g/m²
-- Cuenta con un gran gráfico frontal a nivel del pecho y un pequeño detalle de marca en la parte inferior izquierda de la manga
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FWLNBQ79{{</world>}}

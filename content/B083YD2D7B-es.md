@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 100% Poliamida
+- Bolso bandolera mediano con correa ajustable para el hombro
 - 30 Alto x 35.5 Ancho x 18.5 Fondo cm
 - 0.4 kg
-- Bolso bandolera mediano con correa ajustable para el hombro
 - Hidrófugo
+- 100% Poliamida
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B083YD2D7B{{</world>}}

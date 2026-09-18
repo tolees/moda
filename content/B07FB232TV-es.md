@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Detalles distintivos de la marca
 - Fabricada en material cómodo
 - Sudadera deportiva
 - Con cremallera en la parte delantera
+- Detalles distintivos de la marca
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07FB232TV{{</world>}}

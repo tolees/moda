@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pequeño logotipo impreso en el pecho
 - 100% algodón
 - Camiseta relajada con cuello redondo
+- Pequeño logotipo impreso en el pecho
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FFTPTVZG{{</world>}}

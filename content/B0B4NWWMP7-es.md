@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Suela: goma
 - Forma del tacón: sin talón
 - Material exterior: poliéster
 - Material interior: sintético
-- Suela: goma
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B4NWWMP7{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Un aspecto original
-- Un ajuste cómodo
 - Cuello acanalado
+- Un ajuste cómodo
+- Un aspecto original
 - Etiqueta tejida G-Star Originals en la parte inferior de la costura lateral
 - G-Star RAW bordado en el pecho
 

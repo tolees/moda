@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - NEXT - la marca inglesa para el hogar y la familia
 - Looks a la última
-- Consigue el look NEXT
 - Básicos atemporales
+- Consigue el look NEXT
 - La marca inglesa para toda la familia
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

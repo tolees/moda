@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Colgar en la caja de zapatos
 - Sandalia Bay Beach Party M con suela de EVA
 - Tanga de goma colgada en la caja de zapatos y logotipo clásico en la tanga y la plantilla
+- Colgar en la caja de zapatos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FFTRZ1L7{{</world>}}

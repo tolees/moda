@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Con un diseño ligero
 - Detalles distintivos de la marca
 - Transpirables y cómodas
-- Con un diseño ligero
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DP9LYQ91{{</world>}}

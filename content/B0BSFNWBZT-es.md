@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camiseta de manga corta slim fit. CAFERS tiene corte controlado, ofreciendo comodidad y libertad de movimiento. El conocido logotipo de Kappa se encuentra bordado silueteado en la parte superior dando un diseño elegante.
-- La camiseta CAFERS es de punto jersey algodón 100% (160 gms). Su diseño confeccionado con algodón otorga una sensación de suavidad al tacto. Esta camiseta tiene ADN 100% deportivo gracias a los materiales con los que ha sido fabricada.
-- Estilo de cuello: Cuello redondo. Cierre: Pull on
 - Nueva colección de Kappa para la temporada primavera/verano 2024.
 - Lavar a máquina con colores similares a 30º máximo, no usar lejía. Se puede meter en la lavadora sin miedo a que se deforme o encoja.
+- La camiseta CAFERS es de punto jersey algodón 100% (160 gms). Su diseño confeccionado con algodón otorga una sensación de suavidad al tacto. Esta camiseta tiene ADN 100% deportivo gracias a los materiales con los que ha sido fabricada.
+- Camiseta de manga corta slim fit. CAFERS tiene corte controlado, ofreciendo comodidad y libertad de movimiento. El conocido logotipo de Kappa se encuentra bordado silueteado en la parte superior dando un diseño elegante.
+- Estilo de cuello: Cuello redondo. Cierre: Pull on
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BSFNWBZT{{</world>}}

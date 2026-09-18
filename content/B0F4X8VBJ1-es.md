@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Etiqueta G-STAR en la parte trasera
 - Cinco bolsillos
 - Tela rígida
 - Bragueta de botones
+- Etiqueta G-STAR en la parte trasera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F4X8VBJ1{{</world>}}

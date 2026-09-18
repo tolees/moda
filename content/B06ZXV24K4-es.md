@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tipo de tejido: 50% Viscosa, 27% Poliamida, 23% Poliéster
 - tipo de patrón: Lis
+- Tipo de tejido: 50% Viscosa, 27% Poliamida, 23% Poliéster
 - Tacto ultra suave
 - material exterior: Sintético
 

@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Material de la montura: TR90. Color de la montura: Negro. Color de la varilla: Negro, Azul.
-- ONE es nuestro diseño más icónico de todos los tiempos. El modelo ONE SPORT RAW, de la colección Made in Spain, destaca por su ligereza, comodidad y agarre gracias a los terminales y nasales engomados. Perfectas tanto para el uso diario como para actividades deportivas de bajo impacto. Disponible en varios colores de lentes y montura.
 - Modelo Unisex.
+- ONE es nuestro diseño más icónico de todos los tiempos. El modelo ONE SPORT RAW, de la colección Made in Spain, destaca por su ligereza, comodidad y agarre gracias a los terminales y nasales engomados. Perfectas tanto para el uso diario como para actividades deportivas de bajo impacto. Disponible en varios colores de lentes y montura.
 - Lente Polarizada: Reduce los reflejos superficiales y la fatiga ocular proporcionando nitidez y contrastes superiores. Categoría de filtro 3, color suficientemente oscuro para usar en exterior a pleno sol. Absorben entre un 82% y un 92% de luz solar. Color de la lente: Negro. Apariencia de la lente: Sólida.
 - Producto original Hawkers, la caja incluye funda en microfibra y caja
 

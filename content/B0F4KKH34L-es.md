@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre de botones
 - Estilo informal
+- Cierre de botones
 - Camisa de manga larga
 
 [🛒 Comprar!!!]({{< param buyurl >}})

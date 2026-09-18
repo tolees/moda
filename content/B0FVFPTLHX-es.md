@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CAROLINA HERRERA GAFAS DE SOL HER 0322/S HAVANA 50 WOMAN'
-date: 2026-08-19 10:42:52
+date: 2026-09-17 08:04:42
 image: 'https://m.media-amazon.com/images/I/31AbHm-RiZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,6 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Model: HER 0322/S
-- Brand: CAROLINA HERRERA
-- Material: ECO ACETATE
-- Color: HAVANA
-- Gender: WOMAN
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FVFPTLHX{{</world>}}

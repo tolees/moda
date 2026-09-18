@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Bolsillos : Bolsillo canguro
 - Artículo : Sudadera con capucha
 - Cuello : Capucha
 - Corte : Corte relaxed
-- Bolsillos : Bolsillo canguro
 - Manga : Manga larga
 - Mangas : Sisa en disminución
 

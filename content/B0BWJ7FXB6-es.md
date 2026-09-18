@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Artículo : Vestido
-- Detalles : Con cinturón a nivel de la cintura
-- Cuello : Doble cuello
-- Largo/talla : Largo por las rodillas
 - Corte : Corte regular
 - Manga : Manga larga
+- Detalles : Con cinturón a nivel de la cintura
+- Artículo : Vestido
+- Largo/talla : Largo por las rodillas
+- Cuello : Doble cuello
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BWJ7FXB6{{</world>}}

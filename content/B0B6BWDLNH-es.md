@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Artículo : Camisa
-- Cierre : Cierre de botones
 - Cuello : Cuello de camisa
 - Modo de vida : Tradicional
-- Corte : Corte slim
 - Manga : Manga larga
+- Corte : Corte slim
+- Cierre : Cierre de botones
+- Artículo : Camisa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B6BWDLNH{{</world>}}

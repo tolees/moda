@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Calmante para gatos: Demostrado en estudios científicos y recomendado por veterinarios
 - Relajantes para gatos: Sin feromonas - Con hierba gatera de verdad
-- Fabricado en Alemania
 - Remedio antiestrés: Contenido: 1 x collar
+- Fabricado en Alemania
 - Calmante natural para gatos: doble efecto: reduce el comportamiento estresante y favorece la socialización
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Un lienzo en blanco para que te expreses como quieras y que adorarán muchas generaciones
-- LEVIS TAB: Existen diferentes variaciones de la conocida lengüeta roja. Todos los productos son originales de Levis, no importa si pone LEVIS, Levis, no está escrito o es de otro color.
 - Confeccionada con un toque único característico de los 90 y un diseño de dos bolsillos con solapa
+- LEVIS TAB: Existen diferentes variaciones de la conocida lengüeta roja. Todos los productos son originales de Levis, no importa si pone LEVIS, Levis, no está escrito o es de otro color.
+- Un lienzo en blanco para que te expreses como quieras y que adorarán muchas generaciones
 - Un homenaje a nuestra emblemática Trucker Jacket Levis
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
