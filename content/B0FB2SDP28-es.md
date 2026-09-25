@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Columbia Zero Rules - Camiseta técnica de Manga Corta para Hombre Color Gris Ciudad Talla M'
+date: 2026-08-25 08:25:23
+image: 'https://m.media-amazon.com/images/I/31f2qWOM8NL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0FB2SDP28-es Columbia Zero Rules - Camiseta técnica de Manga Corta para...'
+sku: 'B0FB2SDP28-es'
+tags: [ 'camiseta','🇪🇸', ]
+actualPrice: 17.99 EUR
+currency: EUR
+price: 17.99
+comparePrice: 35.0 EUR
+prodname: 'Columbia Zero Rules - Camiseta técnica de Manga Corta para Hombre Color Gris Ciudad Talla M'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0FB2SDP28/?tag=tolees-21'
+descuento: '48.60'
+average: '17.99'
+---
+
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Contenido: 1x Columbia Camiseta Zero Rules Light SS Crew para Hombre, Color: Gris (City Grey), Talla: M
+- Fabricado con Omni Freeze Zero: tecnología de refrigeración activada por el sudor para mantenerte fresco y seco.
+- Confort elástico, paneles laterales Omni Wick, ajuste moderno, uso versátil, esencial para el aire libre, ligero, marca Columbia,
+- Ajuste activo que garantiza una total libertad de movimiento, 100% poliéster
+- La manga corta Zero Rules es una camiseta ligera para actividades al aire libre con tecnología elástica y de refrigeración activada por el sudor
+
+[🛒 Aquí!!!]({{< param buyurl >}})
+{{<world>}}B0FB2SDP28{{</world>}}
