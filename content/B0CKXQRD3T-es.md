@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Empeine textil con puntera reforzada
+- Horma clásica
 - Peso: 390 g (talla 42 2/3)
+- Empeine textil con puntera reforzada
+- Forro textil
 - Mediasuela de EVA
 - Contiene al menos un 20% de material reciclado y renovable
-- Forro textil
-- Horma clásica
 - Suela Traxion
 - Drop: 10 mm (talón: 27 mm / antepié: 17 mm)
 

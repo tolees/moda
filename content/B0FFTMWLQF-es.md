@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Hecha de tela acanalada de algodón y elastano, esta camiseta de manga corta ofrece un ajuste ceñido al cuerpo para una máxima adaptabilidad a todos los tipos de cuerpo.
-- Acabado con un llamativo gráfico de temporada en el pecho con detalles bordados, es una pieza destacada para cualquier armario
 - 95 % algodón, 5 % elastano
+- Acabado con un llamativo gráfico de temporada en el pecho con detalles bordados, es una pieza destacada para cualquier armario
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FFTMWLQF{{</world>}}

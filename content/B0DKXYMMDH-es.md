@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 10 % poliéster
-- Cuello redondo
 - Composición: 90 % algodón
+- Cuello redondo
+- 10 % poliéster
 - Detalles estampados
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Transpirables y cómodas
-- Deportiva para niño
 - Diseño moderno inspirado en el running
+- Deportiva para niño
+- Transpirables y cómodas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FB42KRB3{{</world>}}

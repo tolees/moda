@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuello en V, manga corta
 - Material de calidad cómodo
 - Camiseta básica monocromática
+- Cuello en V, manga corta
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BNBP63ND{{</world>}}

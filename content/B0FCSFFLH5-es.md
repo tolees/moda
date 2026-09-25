@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- __Tejido: __ algodón regular con algodón y poliéster reciclados [280 g/m²]
+- Lavado de prenda para un tacto suave
 - Bolsillos canguro
 - Serigrafía en parte delantera y la espalda
-- Lavado de prenda para un tacto suave
-- __Tejido: __ algodón regular con algodón y poliéster reciclados [280 g/m²]
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FCSFFLH5{{</world>}}

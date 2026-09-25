@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con logotipo discreto
 - Combina perfectamente con cualquiera de estos vaqueros
+- Con logotipo discreto
 - La camiseta básica perfecciona
 
 [🛒 Aquí!!!]({{< param buyurl >}})

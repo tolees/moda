@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tommy Hilfiger Marca:
 - Tommy Hilfiger Logotipo en el pecho
 - Cinta distintiva en el interior del cuello
+- Tommy Hilfiger Marca:
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F4QK13XX{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bolsillos laterales
 - Puños anchos y acanalados en mangas y dobladillo
+- Bolsillos laterales
 - Con hombros superpuestos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

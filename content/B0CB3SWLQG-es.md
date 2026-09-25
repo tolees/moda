@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Clarks Cloudsteppers Sandals, Arla Stroll, Black, 5,5 (Women)
 - Entresuela ligera de EVA que apoya y amortigua tu pie
+- Clarks Cloudsteppers Sandals, Arla Stroll, Black, 5,5 (Women)
 - Plantilla de espuma suave acolchada que ofrece comodidad duradera
 
 [🛒 Aquí!!!]({{< param buyurl >}})

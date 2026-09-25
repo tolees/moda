@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Flexibles
 - Alta calidad
 - Aspecto y tacto clásicos
-- Cojín suave
 - Clarks Sandals, Orinoco Cross, Tan Leather, 5,5 (Women)
+- Cojín suave
+- Flexibles
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CC2W3GYC{{</world>}}

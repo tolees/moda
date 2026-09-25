@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Ligeras
 - Cuero responsable
 - Cómodo
-- Ligeras
 - CLARKS Tilden Cap Dark Tan Lea 39,5
 
 [🛒 Visítala!!!]({{< param buyurl >}})

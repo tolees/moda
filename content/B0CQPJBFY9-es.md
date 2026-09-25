@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fácil de poner y
-- Suela TPR (caucho termoplástico) que ofrece un agarre estable
 - Parte superior de cuero duradero
+- Suela TPR (caucho termoplástico) que ofrece un agarre estable
+- Fácil de poner y
 - Calcetín de cuero transpirable
 
 [🛒 Comprar!!!]({{< param buyurl >}})

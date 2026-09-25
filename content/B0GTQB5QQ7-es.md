@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Patrón: color liso
 - Talla: S, M, L, XL
 - Elástico: no elástico
-- Patrón: color liso
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0GTQB5QQ7{{</world>}}

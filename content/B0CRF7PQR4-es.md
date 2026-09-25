@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Ligera
 - Clarks Collection Shoes, Cotrell Edge, Blk Smooth Lea, 6,5 (Men)
 - Cuero Responsable
-- Ligera
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CRF7PQR4{{</world>}}

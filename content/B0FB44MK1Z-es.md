@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Calzado transpirable
 - Deportiva inspirada en el baloncesto
 - Óptimas para los looks informales del colegio y del fin de semana
+- Calzado transpirable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FB44MK1Z{{</world>}}

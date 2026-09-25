@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Altura de la plataforma de 1,27 cm en el antepié
-- Altura total del tacón de cuña de 2 1/4 pulgadas
 - Plantilla acolchada de espuma viscoelástica
 - Suela flexible
+- Altura total del tacón de cuña de 2 1/4 pulgadas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B072P2YCVG{{</world>}}

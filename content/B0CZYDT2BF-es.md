@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Artículo : Shorts de ajuste regular
-- Bolsillos : Bolsillos traseros, Bolsillo relojero, Bolsillos delanteros
-- Klavado/acabado : Lavado a la piedra para un acabado desgastado y desteñido
 - Cintura : Talle medio
+- Bolsillos : Bolsillos traseros, Bolsillo relojero, Bolsillos delanteros
+- Artículo : Shorts de ajuste regular
 - Cierre : Bragueta de botones
+- Klavado/acabado : Lavado a la piedra para un acabado desgastado y desteñido
 - Corte : Ajuste regular con cintura media, muslo regular y parte baja regular
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 100% algodón
 - Cuello redondo
+- 100% algodón
 - Corte clásico
 
 [🛒 Aquí!!!]({{< param buyurl >}})

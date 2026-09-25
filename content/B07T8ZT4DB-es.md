@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Puños de canalé
-- Manga larga
 - Relaxed Fit
-- Cuello redondo de punto ribeteado
-- Punto grueso
 - Logotipo de Carhartt estampado en el pecho
+- Cuello redondo de punto ribeteado
+- Puños de canalé
+- Punto grueso
+- Manga larga
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07T8ZT4DB{{</world>}}

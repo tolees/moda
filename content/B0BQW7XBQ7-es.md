@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tiene detalles distintivos de la marca
 - Tela suave
 - Ofrece comodidad y libedad de movimiento
+- Tiene detalles distintivos de la marca
 - Camiseta de manga corta
 
 [🛒 Visítala!!!]({{< param buyurl >}})

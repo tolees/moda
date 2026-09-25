@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Básicos, Ropa casual, Ropa de Calle
 - Ajuste : Normal
-- Leggings || Longitud: Normal || altura de la cintura: Talla Mediana
 - Leggins con las siguientes características:
+- Básicos, Ropa casual, Ropa de Calle
+- Leggings || Longitud: Normal || altura de la cintura: Talla Mediana
 - Descubre todas las marcas de EMP!
 
 [🛒 Aquí!!!]({{< param buyurl >}})

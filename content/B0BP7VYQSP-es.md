@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Horma clásica
 - Parte de malla con refuerzos sintéticos para una adecuado resistencia al desgaste
+- Horma clásica
 - Cierre de cordones
 - Forro textil
 

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Maxi dress with thin straps
 - Fluent fabric
+- Maxi dress with thin straps
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07Q1QHQ8P{{</world>}}

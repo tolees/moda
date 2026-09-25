@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El material de algodón para uso diario es suave y ligero.
 - La silueta con ajuste clásico de camiseta se adapta al cuerpo y a la cadera.
+- El material de algodón para uso diario es suave y ligero.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DTZ4KM99{{</world>}}

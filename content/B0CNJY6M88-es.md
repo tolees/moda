@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s 511 Slim Vaqueros Master Of None 31W / 34L para Hombre'
-date: 2026-09-11 19:00:22
+date: 2026-09-24 05:25:25
 image: 'https://m.media-amazon.com/images/I/31HT-wXFCVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0CNJY6M88-es Levi s 511 Slim Vaqueros Master Of None 31W / 34L para Hombre'
 sku: 'B0CNJY6M88-es'
 tags: [ 'vaqueros','🇪🇸', ]
-actualPrice: 41.02 EUR
+actualPrice: 61.2 EUR
 currency: EUR
-price: 41.02
+price: 61.2
 comparePrice: 120.0 EUR
 prodname: 'Levi s 511 Slim Vaqueros Master Of None 31W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CNJY6M88/?tag=tolees-21'
-descuento: '65.82'
-average: '41.02'
+descuento: '49.00'
+average: '51.11'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

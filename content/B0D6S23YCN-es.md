@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes de TR18 con el sello de Eastman, gran calidad óptica y resistencia; respetuoso con el medio ambiente; protección 100% UV; Color de la lente: Verde; Apariencia de la lente: Sólida
+- Modelo Unisex; Medidas: Frontal 148 mm, Varillas 145 mm, Puente 15 mm, Alto 47 mm
 - Producto original Hawkers; la caja incluye funda en microfibra y caja
 - Material de la montura: Acetato; Color de la montura: Blanco; Color de la varilla: Blanco
 - Este sutil diseño cat eye es óptimo para un look instant cool; una montura premium de acetato cuyas suaves líneas anguladas del frontal contrastan con varillas extrabold para reforzar un estilo cosmopolita y misterioso digno de cualquier trendsetter; disponible en varios colores de monturas y lentes
-- Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes de TR18 con el sello de Eastman, gran calidad óptica y resistencia; respetuoso con el medio ambiente; protección 100% UV; Color de la lente: Verde; Apariencia de la lente: Sólida
-- Modelo Unisex; Medidas: Frontal 148 mm, Varillas 145 mm, Puente 15 mm, Alto 47 mm
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D6S23YCN{{</world>}}

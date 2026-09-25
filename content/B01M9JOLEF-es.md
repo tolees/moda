@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Vaqueros ajustados
 - Composición del material: 54 % algodón, 22 % poliéster, 14 % lyocell, 9 % viscosa, 1 % elastano
+- Vaqueros ajustados
 - Detalles destruidos
 - Talle bajo
 

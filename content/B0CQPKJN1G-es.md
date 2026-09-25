@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parte superior de cuero de origen responsable
-- Calcetín de cuero transpirable
 - Suela TR (goma termoplástica) antideslizante y flexible
+- Calcetín de cuero transpirable
+- Parte superior de cuero de origen responsable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CQPKJN1G{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Acabados acanalados en cuello, puños y cintura confeccionado en suave algodón.
 - Jersey básico para hombre de cuello de pico.
+- Acabados acanalados en cuello, puños y cintura confeccionado en suave algodón.
 - Logo Rigby Go bordado ubicado en pecho izquierdo.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

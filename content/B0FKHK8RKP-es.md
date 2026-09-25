@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Comodidad para el día a día.
 - Colores básicos con cinturilla recubierta.
+- Comodidad para el día a día.
 - Algodón Elástico cotton Stretch.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

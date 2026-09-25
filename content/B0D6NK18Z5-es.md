@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Parte superior: cuero, 90 por ciento de piel de napa de vacuno -10 por ciento de poliuretano sintético
-- Forma del talón: plano
 - Cierre: Velcro
+- Forma del talón: plano
 - Transpirable
+- Parte superior: cuero, 90 por ciento de piel de napa de vacuno -10 por ciento de poliuretano sintético
 - Material interior: 100% piel de napa de oveja
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

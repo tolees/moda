@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Columbia Chaqueta para Hombre Powder Lite II'
-date: 2026-09-16 14:46:31
+date: 2026-09-21 06:32:55
 image: 'https://m.media-amazon.com/images/I/41RC859S9mL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

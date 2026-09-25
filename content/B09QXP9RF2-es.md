@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material exterior: cinta EVA preformada con efecto 3D y logotipo Roxy repetitivo
 - Plantilla: EVA preformada
+- Material exterior: cinta EVA preformada con efecto 3D y logotipo Roxy repetitivo
 - Suela exterior: EVA texturizada para mayor agarre
 
 [🛒 Visítala!!!]({{< param buyurl >}})

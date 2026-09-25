@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bolsillo en el pecho con cremallera YKK
-- Polartec
 - Mentonera anti-rozaduras
 - Bolsillos para las manos con cremallera YKK
+- Polartec
+- Bolsillo en el pecho con cremallera YKK
 - Construcción híbrida de tejido Micro Fleece
 
 [🛒 Comprar!!!]({{< param buyurl >}})

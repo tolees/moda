@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - __Parte superior:__ tiras de TR con logo metálico Roxy
-- __Tejido:__ materiales sin PVC
-- __Suela:__ espuma reciclada EVA con detalles clásicos Roxy
 - __Plantilla:__ eVA de goma mullida reciclada
+- __Suela:__ espuma reciclada EVA con detalles clásicos Roxy
+- __Tejido:__ materiales sin PVC
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FD3HC4CZ{{</world>}}

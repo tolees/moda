@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Cierre de cremallera completo y capucha plegable
+- Logotipo del PUMA estampado por transferencia en la parte derecha del pecho
 - Nailon y poliéster
 - Formstrip PUMA estampada por transferencia en los hombros
-- Logotipo del PUMA estampado por transferencia en la parte derecha del pecho
-- Cierre de cremallera completo y capucha plegable
 - dryCELL: La denominación de PUMA para las propiedades repelentes de la humedad que ayudan a que la piel permanezca seca y cómoda
 
 [🛒 Aquí!!!]({{< param buyurl >}})

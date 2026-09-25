@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Parte superior curvada estampada
 - Corte trasero con botón
 - Tejido elástico
-- Parte superior curvada estampada
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BM91NC9F{{</world>}}

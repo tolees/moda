@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Chaqueta Acolchada De Ante
 - Chaqueta De Ante
+- Chaqueta Acolchada De Ante
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FCN2ND83{{</world>}}

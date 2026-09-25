@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Logotipo de Levis bordado
-- Este producto es original Levis
 - óptima para llevar a capas con un tejido ribeteado con textura
+- Este producto es original Levis
 - Nos hemos unido a la Better Cotton Initiative para mejorar el cultivo de algodón en todo el mundo
+- Logotipo de Levis bordado
 - Nos hemos unido a la Better Cotton Initiative para mejorar el cultivo de algodón en todo el mundo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

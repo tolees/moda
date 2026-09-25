@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Corte relajado
-- Detalle delantero con logotipo
 - Cuello redondo
+- Detalle delantero con logotipo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F4XKKM5C{{</world>}}

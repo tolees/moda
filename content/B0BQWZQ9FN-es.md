@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ropa deportiva Azul de la marca adidas
 - Ropa deportiva fabricada con materiales de primera calidad que se adaptan a cualquier actividad deportiva
-- Pantalón corto para practicar Yoga de Hombre
 - Pantalón corto MT RR 2.5L RaiJ ACEMAR
+- Pantalón corto para practicar Yoga de Hombre
+- Ropa deportiva Azul de la marca adidas
 - Los productos deportivos de la marca adidas están diseñados para que disfrutes de tu deporte favorito sin preocuparte de nada más que rendir al máximo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

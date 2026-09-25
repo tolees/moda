@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Proporciona comodidad
+- Bolsillos con cremallera en la cintura
 - Lengüetas en los hombros con botones a presión
 - Manga larga con cierre de cremallera
-- Bolsillos con cremallera en la cintura
-- Proporciona comodidad
 - Cuello de solapa con cierre a presión
 
 [🛒 Comprar!!!]({{< param buyurl >}})

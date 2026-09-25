@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Presenta 2 bolsillos
 - Adecuada para días fríos
 - Tiene un diseño casual
 - Este producto es original Levis
+- Presenta 2 bolsillos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07TJ9SDFF{{</world>}}

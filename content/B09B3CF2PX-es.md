@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Ajuste cómodo JP1880
-- Cuello de polo deportivo
-- Piqué, estructura fina transpirable, muy agradable
 - Corte especial hasta 10 XL
+- Cuello de polo deportivo
 - Con certificación Öko-Tex Standard 100, número de prueba: 14.0.49629
+- Piqué, estructura fina transpirable, muy agradable
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09B3CF2PX{{</world>}}

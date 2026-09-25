@@ -31,8 +31,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - DISEÑO CON CAPUCHA Y CREMALLERA: Sudadera para hombre con capucha ajustable y cremallera frontal, adecuada para el uso diario.
 - BOLSILLO PRÁCTICO: Incluye bolsillo frontal para guardar pertenencias durante el ejercicio o el día a día.
 - TALLAS DISPONIBLES: Disponible en tallas desde la S hasta la 3XL, para adaptarse a distintas complexiones.
-- PARA DEPORTE Y CASUAL: Diseñada para running y actividades deportivas, también válida para un look casual en otoño e invierno.
 - CORTE HOLGADO Y CÓMODO: Manga larga y silueta holgada que permite libertad de movimiento.
+- PARA DEPORTE Y CASUAL: Diseñada para running y actividades deportivas, también válida para un look casual en otoño e invierno.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0HDBYCCH1{{</world>}}

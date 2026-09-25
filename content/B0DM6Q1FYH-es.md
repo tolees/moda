@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Chaqueta de aspecto atemporal
 - Bolsillos delanteros
+- Chaqueta de aspecto atemporal
 - Cierre de botones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

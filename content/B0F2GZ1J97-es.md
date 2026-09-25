@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- GUESS perfume duradero con toque elegante.
-- Presentación práctica de alta calidad, fácil de usar y llevar contigo.
-- GUESS GAFAS GUESSGU00212 C shiny black 55x20x349x145 – Other Beauty auténtico y reconocido.
 - Disfruta de una experiencia de elegancia con cada aplicación.
+- GUESS perfume duradero con toque elegante.
+- GUESS GAFAS GUESSGU00212 C shiny black 55x20x349x145 – Other Beauty auténtico y reconocido.
+- Presentación práctica de alta calidad, fácil de usar y llevar contigo.
 - Ideal para uso diario, aporta confianza inmediata.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

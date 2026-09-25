@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Stranger Things is a sci-fi horror series set in the 1980s that follows a group of kids in Indiana as they encounter supernatural forces, government conspiracies, and a girl with psychokinetic powers while searching for their missing friend.
 - Ligero, Encaje clasico, Manga de doble puntada y bastilla baja
+- Stranger Things is a sci-fi horror series set in the 1980s that follows a group of kids in Indiana as they encounter supernatural forces, government conspiracies, and a girl with psychokinetic powers while searching for their missing friend.
 - Stranger Things ST5 Poster is officially licensed Stranger Things merchandise! (NFLIX10620)
 
 [🛒 Comprar!!!]({{< param buyurl >}})

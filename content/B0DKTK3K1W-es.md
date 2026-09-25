@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dobladillo recto
 - Mango texturizado
 - Mangas raglán
-- Puños, cuello acanalado
+- Dobladillo recto
 - Totalmente de moda
+- Puños, cuello acanalado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DKTK3K1W{{</world>}}

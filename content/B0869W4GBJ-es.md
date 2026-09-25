@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Malla fina
 - Corte ajustado
+- Malla fina
 - Bicolor
 - Jersey de cuello alto bicolor
 

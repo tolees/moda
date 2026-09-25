@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte ajustado en los muslos
 - Diseño de cinco bolsillos
 - Con apertura de pierna pitillo
+- Corte ajustado en los muslos
 - Este producto es original Levis
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

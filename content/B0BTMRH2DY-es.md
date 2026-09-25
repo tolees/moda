@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tejido ligero y suave
 - Camiseta de manga corta de 100% algodón
 - Detalles distintivos de la marca
+- Tejido ligero y suave
 - Amplia libertad de movimiento
 
 [🛒 Visítala!!!]({{< param buyurl >}})

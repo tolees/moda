@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material principal: tejido spacer
-- Manga corta
 - Cierre: de cremallera
-- Corte: estándar
+- Manga corta
+- Material principal: tejido spacer
 - Largo: chaqueta estándar
+- Corte: estándar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DKJKTCXL{{</world>}}

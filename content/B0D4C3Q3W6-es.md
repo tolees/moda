@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - El corte regular proporciona total libertad de movimientos y comodidad, longitud de la espalda: 29 pulgadas, exterior y forro de malla: 100% poliéster
+- Contenido: 1x Columbia Hikebound II Chaqueta para Hombre, Color: Collegiate Navy (Azul), Talla: M
 - Fabricado con Omni-Tech: Tecnología impermeable y transpirable que proporciona una protección versátil en condiciones volátiles con una construcción multicapa que repele el agua y el viento a la vez que te mantiene seco y cómodo.
 - Capucha con cordón para bloquear la lluvia y el viento, puños y dobladillo ajustables para sellar las corrientes de aire, bolsillos con cremallera para tus objetos de valor, práctico para excursiones y para llevar a diario.
 - Hikebound II Jacket es una chaqueta impermeable con un forro de malla ligero y transpirable para ofrecer comodidad en condiciones frescas y húmedas, ya sea en la montaña o en la ciudad durante todas las estaciones del año
-- Contenido: 1x Columbia Hikebound II Chaqueta para Hombre, Color: Collegiate Navy (Azul), Talla: M
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D4C3Q3W6{{</world>}}

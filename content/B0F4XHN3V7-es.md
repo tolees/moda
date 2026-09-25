@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Superelástico
 - Varios bolsillos con cremallera
+- Superelástico
 - Cierre de botones y cremallera
 - Costuras reforzadas para más durabilidad
 

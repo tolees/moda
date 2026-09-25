@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte normal
 - Gant bordado gráfico en el pecho
+- Corte normal
 - Bolsillo tipo canguro
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Exterior: 54% poliamida, 46% poliéster
 - Artículos entregados: 1x Helly Hansen Hombre Camisa Fjord Secado Rápido 2;0,L,Blanco
-- Una camisa de manga corta limpia y clásica para hombre confeccionada con tejido elástico de secado rápido
 - Esta camisa deportiva clásica de manga corta y botones tiene un material elástico de secado rápido, por lo que sirve tanto para navegar como para relajarse en el club náutico; el diseño técnico incluye un canesú de malla oculto en la espalda para mantenerte fresco y cómodo; la zona del pecho tiene espacio para el bordado del equipo; esta camiseta es un producto bluesign certificado
+- Una camisa de manga corta limpia y clásica para hombre confeccionada con tejido elástico de secado rápido
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B095L7CFXT{{</world>}}

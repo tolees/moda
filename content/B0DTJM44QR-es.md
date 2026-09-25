@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bolsillos con botones en la parte trasera
 - Pantalón chino ajustado de algodón en estructura de sarga
+- Bolsillos con botones en la parte trasera
 - Tinte para prendas con lavado reactivo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

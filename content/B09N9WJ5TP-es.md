@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Relaxed fit, corte cómodo, manga recta:<br/> dulces sueños. Garantizado.
 - Tejido de punto de algodón stretch:<br/> transpirable y elástico.
-- Pijama de hombre Lacoste en tejido de punto con estampado de cocodrilo
 - Logo a contraste en la cinturilla:<br/> espíritu Lacoste noche y día.
 - Estampado de cocodrilos:<br/> el ADN del cocodrilo.
+- Pijama de hombre Lacoste en tejido de punto con estampado de cocodrilo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09N9WJ5TP{{</world>}}

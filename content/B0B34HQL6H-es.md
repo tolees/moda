@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Talla 1-2 años, EU 86. Talla 2-3 años, EU 92/98. Talla 3-4 años, EU 104/110. Talla 4-5 años, EU 116. Talla 5-7 años, EU 122/128. Talla 7-9 años, EU 134/140.
+- Tejido suave y elástico, secado rápido.
 - Protección UV: 50+
 - 85 % poliéster, 15 % elastano
-- Tejido suave y elástico, secado rápido.
 - El bañador tiene la cintura elástica con cordón para aportar seguridad y comodidad.
-- Talla 1-2 años, EU 86. Talla 2-3 años, EU 92/98. Talla 3-4 años, EU 104/110. Talla 4-5 años, EU 116. Talla 5-7 años, EU 122/128. Talla 7-9 años, EU 134/140.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B34HQL6H{{</world>}}

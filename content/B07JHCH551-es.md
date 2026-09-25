@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Columbia Crestwood Zapatos para senderismo Hombre Shark Columbia Grey 41.5 EU'
-date: 2026-09-11 19:16:58
+date: 2026-09-22 13:36:52
 image: 'https://m.media-amazon.com/images/I/31THxvoZ9gL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JHCH551/?tag=tolees-21'
 descuento: '34.21'
-average: '50.6699999999999'
+average: '51.1055555555555'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

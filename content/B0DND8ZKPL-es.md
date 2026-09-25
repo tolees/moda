@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Plantilla y suela Croslite caída
 - Parte superior de TPU suave y flexible
+- Plantilla y suela Croslite caída
 - Elegantes correas y lazo para los dedos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

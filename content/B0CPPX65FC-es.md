@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Calzado ligero
 - Cierre de cordones
+- Calzado ligero
 - Plantilla extraíble
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

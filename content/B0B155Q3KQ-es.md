@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ofrece un resultado óptimo y adecuado
 - Producto deportivo
+- Ofrece un resultado óptimo y adecuado
 - Sencillo de usar
 
 [🛒 Aquí!!!]({{< param buyurl >}})

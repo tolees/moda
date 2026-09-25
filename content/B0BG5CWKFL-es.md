@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte normal
 - Bordado GANT gráfico en el pecho
+- Corte normal
 - Cuello con cierre de cremallera
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

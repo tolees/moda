@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Dobladillo elástico acanalado
 - Cintura elástica
 - Logotipo de adidas bordado
-- Dobladillo elástico acanalado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DMFSKYFL{{</world>}}

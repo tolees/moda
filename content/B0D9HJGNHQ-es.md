@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Alta calidad
+- Con capucha
 - Bolsillos canguro
 - Puños y dobladillo de canalé
-- Con capucha
-- Alta calidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D9HJGNHQ{{</world>}}

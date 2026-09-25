@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Camiseta Para hombre
-- Corte normal
-- Clásico
 - Cuello redondo y serigrafía en parte delantera
+- Clásico
+- Corte normal
 - Cómodo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

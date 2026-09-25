@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - La estructura de soporte ligero estabiliza el pie dentro de la bota para permitir cambios de dirección rápidos
 - Cierre: de cordones
-- Ancho: estándar
 - Tipo de puntera: redondeada
+- Ancho: estándar
 - Tipo de talón: plano
 
 [🛒 Aquí!!!]({{< param buyurl >}})

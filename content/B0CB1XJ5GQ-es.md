@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Costura horizontal que cruza la cintura
 - Cuello de camisa
 - Manga larga, puños, botón a presión
 - Bolsillos con solapa en el pecho, uno de ellos de parche
+- Costura horizontal que cruza la cintura
 - Bajo redondeado con aberturas laterales
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

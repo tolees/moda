@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Tejido de algodón reciclado
 - Impresión de pantalla en chest
 - Cuello de la pluma
-- Tejido de algodón reciclado
 - Quiksilver woven label at sleeve.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

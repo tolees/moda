@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Artículo : Sudadera
 - Mangas : Sisa en disminución
-- Cuello : Cuello alto
-- Corte : Corte relaxed
 - Manga : Manga larga
+- Corte : Corte relaxed
+- Cuello : Cuello alto
+- Artículo : Sudadera
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BXXRH5W5{{</world>}}

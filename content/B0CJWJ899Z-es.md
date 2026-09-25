@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Moderna falda vaquera de la popular marca. Only
 - Corte hasta la pantorrilla
 - Estilo clásico de 5 bolsillos
 - Cierre con botón y cremallera
-- Moderna falda vaquera de la popular marca. Only
 - Con ranura en la parte delantera
 
 [🛒 Comprar!!!]({{< param buyurl >}})

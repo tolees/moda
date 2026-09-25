@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Uso diario versátil
 - Con el logotipo como elemento central de diseño
+- Uso diario versátil
 - Fabricado con materiales duraderos y de calidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})

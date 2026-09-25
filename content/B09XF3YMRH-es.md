@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Gafas de sol
 - Estilo deportivo
+- Gafas de sol
 - Elemento de protección
 
 [🛒 Aquí!!!]({{< param buyurl >}})

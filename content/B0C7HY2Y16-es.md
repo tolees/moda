@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillos inclinados con cremallera
-- Cremallera frontal
-- Absolutamente moderno y muy moderno
 - Acolchado con capucha
+- Absolutamente moderno y muy moderno
+- Cremallera frontal
+- Bolsillos inclinados con cremallera
 - Gran chaleco para mujer para la temporada otoño-invierno
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pantalones de mezclilla
 - Pants
+- Pantalones de mezclilla
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DPG8QVNC{{</world>}}

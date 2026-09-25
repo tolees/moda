@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con nuestro logo gráfico como elemento central del diseño en el frente
 - Hecho con materiales y construcción duraderos
+- Con nuestro logo gráfico como elemento central del diseño en el frente
 - Versatilidad para el día a día
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

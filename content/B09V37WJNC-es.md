@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- BILBBT00019
 - Warner Bros Official Licensed Product
 - Ligero, Encaje clasico, Manga de doble puntada y bastilla baja
+- BILBBT00019
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09V37WJNC{{</world>}}

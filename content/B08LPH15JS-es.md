@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MUEBLES PITARCH | Zapatero Recibidor Mueble Auxiliar Estrecho 2 Puertas para Entrada Roble Cambrian 12 Pares de Zapatos 82x74x25cm Colección Tibet'
-date: 2026-09-19 08:24:22
+date: 2026-09-24 12:11:47
 image: 'https://m.media-amazon.com/images/I/41kbnWSFeJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08LPH15JS/?tag=tolees-21'
 descuento: '17.00'
-average: '48.2280952380952'
+average: '47.9218181818182'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

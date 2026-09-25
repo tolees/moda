@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Klavado/acabado : Lavado a la piedra para un acabado desgastado y desteñido
 - Cintura : Tiro alto
-- Cierre : Bragueta con cremallera
+- Klavado/acabado : Lavado a la piedra para un acabado desgastado y desteñido
 - Artículo : Vaqueros de corte comfort
+- Cierre : Bragueta con cremallera
 - Corte : Vaqueros de corte cónico con tiro regular, muslo relajado, rodilla regular, abertura delgada en la pierna
 - Bolsillos : Bolsillos traseros, Bolsillo relojero, Bolsillos delanteros
 

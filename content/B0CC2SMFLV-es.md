@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Detalle clásico de lazo
 - Plantilla Contour Cushion y comodidad duradera
+- Detalle clásico de lazo
 - Forro completo de cuero para uso descalzo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

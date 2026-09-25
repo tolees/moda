@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Cremallera
+- Para mujeres de la marca danesa. VERO MODA
 - Cuello de banda
 - Longitud corta
 - Ideal para los días en los que todavía está fresco y demasiado caliente
-- Cremallera
-- Para mujeres de la marca danesa. VERO MODA
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D35N9GWF{{</world>}}

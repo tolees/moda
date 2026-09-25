@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 100% POLIURETANO
-- CÁMARA BANDOLERA NOELLE II
-- BOLSO PEQUEÑO BRAMINA
-- PESO: 0,612 KG
 - BOLSOS SATCHEL
+- 100% POLIURETANO
+- BOLSO PEQUEÑO BRAMINA
+- CÁMARA BANDOLERA NOELLE II
+- PESO: 0,612 KG
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F11VFP7X{{</world>}}

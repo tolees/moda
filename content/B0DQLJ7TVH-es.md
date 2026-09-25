@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Corte : Corte relaxed
-- Mangas : Sisa en disminución
 - Artículo : Sudadera con capucha
-- Bolsillos : Bolsillo canguro
 - Cuello : Capucha
+- Bolsillos : Bolsillo canguro
+- Mangas : Sisa en disminución
+- Corte : Corte relaxed
 - Manga : Manga larga
 
 [🛒 Visítala!!!]({{< param buyurl >}})

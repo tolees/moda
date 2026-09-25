@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Diseño: diseño de triángulo
 - Tejido: Tejido reciclado, elástico, suave y resistente al cloro
 - Sujeción: sujeción baja
 - Acolchado: Almohadillas extraíbles
-- Diseño: diseño de triángulo
 - Tirantes: tirantes ajustables con lazada
 
 [🛒 Comprar!!!]({{< param buyurl >}})

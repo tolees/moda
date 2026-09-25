@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Chubasquero infantil
-- Resistente al agua WP 5.000 y costuras totalmente selladas
+- Cremallera completa, dos bolsillos laterales con cremallera, capucha fija con goma, cintura elástica en los puños y cintura de la chaqueta, logotipo de CMP en el hombro
 - Resistente al viento
 - La prenda se puede plegar completamente y guardar en la práctica bolsa
-- Cremallera completa, dos bolsillos laterales con cremallera, capucha fija con goma, cintura elástica en los puños y cintura de la chaqueta, logotipo de CMP en el hombro
+- Resistente al agua WP 5.000 y costuras totalmente selladas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BMPDV65J{{</world>}}

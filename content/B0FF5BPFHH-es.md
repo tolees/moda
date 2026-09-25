@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- DETALLES: la camiseta tiene tirantes extraíbles para llevarla como top sin mangas, cárdigan con botones en la parte delantera y ribetes lisos
-- CÁRDIGAN Y CAMISETA DE TIRANTES: combinación versátil para un sinfín de conjuntos
-- TEJIDO ACANALADO: se ajusta perfectamente, con elasticidad y recuperación uniformes que mantendrá su forma
-- LONGITUD DEL CÁRDIGAN: 52,1cm desde el lateral del cuello en la talla S de Estados Unidos LONGITUD DE LA CAMISETA: 31,8cm desde el borde superior del cuello en la talla S de Estados Unidos
 - CORTE AJUSTADO: corte ajustado que se pega al cuerpo
+- CÁRDIGAN Y CAMISETA DE TIRANTES: combinación versátil para un sinfín de conjuntos
+- DETALLES: la camiseta tiene tirantes extraíbles para llevarla como top sin mangas, cárdigan con botones en la parte delantera y ribetes lisos
+- LONGITUD DEL CÁRDIGAN: 52,1cm desde el lateral del cuello en la talla S de Estados Unidos LONGITUD DE LA CAMISETA: 31,8cm desde el borde superior del cuello en la talla S de Estados Unidos
+- TEJIDO ACANALADO: se ajusta perfectamente, con elasticidad y recuperación uniformes que mantendrá su forma
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FF5BPFHH{{</world>}}

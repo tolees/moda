@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hebilla de palanca para un ajuste preciso
-- Tratamiento antivaho y protección UV
-- Correa doble de silicona de fácil ajuste
-- Estructura de silicona
 - Lentes de policarbonato
+- Correa doble de silicona de fácil ajuste
+- Tratamiento antivaho y protección UV
+- Estructura de silicona
+- Hebilla de palanca para un ajuste preciso
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BXFKX1SQ{{</world>}}

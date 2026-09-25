@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bajo ligeramente redondeado
 - Panel en los hombros
 - Cuello de camisa
-- Bordado de G-Star RAW en el pecho
 - Puños ajustables con cierre de botón
+- Bordado de G-Star RAW en el pecho
+- Bajo ligeramente redondeado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07Z5CRFYJ{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre de cinta adhesiva única
 - Cierre de encaje elástico
+- Cierre de cinta adhesiva única
 - Rápido y fácil de poner
 
 [🛒 Visítala!!!]({{< param buyurl >}})

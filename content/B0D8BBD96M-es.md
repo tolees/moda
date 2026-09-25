@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela exterior: __ Suela de goma espuma optimizada con lengüetas de logotipo multiángulo para mayor agarre
-- Material: material exterior de lona de algodón
 - Líneas estrechas de color a juego en el lateral
 - Forro de poliéster suave y resistente al agua para mayor comodidad
+- Material: material exterior de lona de algodón
+- Suela exterior: __ Suela de goma espuma optimizada con lengüetas de logotipo multiángulo para mayor agarre
 - __Plantilla: __ Plantilla texturizada con gráficos de pantalones cortos y camisetas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Montura negra en acabado brillante y máscara frontal de lente espejo cromado
-- Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lente de nylon primera calidad para el deporte y las monturas de rendimiento, por su gran resistencia y ligereza; protección 100 % UV; Color de la lente: Plateado; Apariencia de la lente: Espejo
-- Producto original Hawkers; la caja incluye funda en microfibra y caja
 - Material de la montura: TR90; Color de la montura: Negro; Color de la varilla: Negro
+- Producto original Hawkers; la caja incluye funda en microfibra y caja
 - Modelo Unisex; Medidas: Frontal 140 mm, Varillas 140 mm, Puente 18 mm, Alto 49;7 mm
+- Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lente de nylon primera calidad para el deporte y las monturas de rendimiento, por su gran resistencia y ligereza; protección 100 % UV; Color de la lente: Plateado; Apariencia de la lente: Espejo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B073SF93SZ{{</world>}}

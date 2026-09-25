@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Composición: 100 % algodón
 - Detalles estampados
 - Cuello redondo
-- Composición: 100 % algodón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DKXYQR13{{</world>}}

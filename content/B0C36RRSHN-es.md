@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Artículo : Sudadera con capucha
-- Corte : Corte relaxed
 - Manga : Manga larga
-- Cuello : Capucha
 - Mangas : Sisa en disminución
+- Artículo : Sudadera con capucha
+- Cuello : Capucha
+- Corte : Corte relaxed
 - Estampado : Estampa en la parte delantera del producto
 - Bolsillos : Bolsillo canguro
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Under Armour UA Global Lockertag SS Camiseta de manga corta de hombre para hacer deporte camiseta estampada con cuello acanalado color gris medio jaspeado/celeste'
-date: 2026-08-31 05:52:34
+date: 2026-09-23 15:52:20
 image: 'https://m.media-amazon.com/images/I/31BLQ+niJmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0C12DYCMS-es Under Armour UA Global Lockertag SS Camiseta de manga...'
 sku: 'B0C12DYCMS-es'
 tags: [ 'camiseta','🇪🇸', ]
-actualPrice: 14.6 EUR
+actualPrice: 17.32 EUR
 currency: EUR
-price: 14.6
+price: 17.32
 comparePrice: 28.0 EUR
 prodname: 'Under Armour UA Global Lockertag SS Camiseta de manga corta de hombre para hacer deporte camiseta estampada con cuello acanalado color gris medio jaspeado/celeste'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0C12DYCMS/?tag=tolees-21'
-descuento: '47.86'
-average: '17.325'
+descuento: '38.14'
+average: '17.324'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,6 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Camiseta casual para hombre – Esta camiseta para correr cuenta con un elegante y cómodo cuello acanalado que completa su look informal.
-- Camiseta ligera con múltiples usos – Esta camiseta de deporte resultará también muy útil en el día a día porque queda bien y es muy cómoda.
-- Básica camiseta con logo – Esta camiseta para entrenar se ha fabricado con un tejido de calidad que es ligero, suave y de secado rápido.
-- Camiseta de algodón – La camiseta ancha se ha confeccionado con un tejido muy suave de mezcla de algodón que proporciona comodidad todo el día.
-- Material y forma – Under Armour UA Global Lockertag SS Camiseta deportiva para hombre, camiseta de gimnasia. Material: 60% algodón y 40% poliéster. Forma: ancha.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C12DYCMS{{</world>}}

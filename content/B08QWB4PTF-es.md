@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Impresión de logo Nike grande
 - Camiseta para entrenamiento o presentación.
+- Impresión de logo Nike grande
 - Propiedades elásticas ligeras
 - Cuello redondo loco
 

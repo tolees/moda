@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camiseta deportiva
 - Mejora tu experiencia deportiva
+- Camiseta deportiva
 - Cómoda de llevar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

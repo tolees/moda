@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Tela rígida
-- Cierre de botones
-- Un bolsillo en el pecho
 - Cuello de camisa
+- Un bolsillo en el pecho
+- Cierre de botones
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F4XH13DJ{{</world>}}

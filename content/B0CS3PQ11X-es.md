@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Puños : Puños doblados
-- Bolsillos : Bolsillos en la pechera
-- Manga : Manga corta
 - Mangas : Mangas dobladas
+- Puños : Puños doblados
+- Manga : Manga corta
+- Cierre : Cierre de botones
+- Bolsillos : Bolsillos en la pechera
 - Cuello : Cuello de tortuga
 - Artículo : Vestido camisero
-- Cierre : Cierre de botones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CS3PQ11X{{</world>}}

@@ -29,11 +29,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Durabilidad con material sostenible
-- JACK & JONES apoya la iniciativa Better Cotton usando algodón orgánico o reciclado
-- Con logotipo
 - Transpirable y cómodo
 - Fabricado con algodón orgánico
 - De manga corta
+- JACK & JONES apoya la iniciativa Better Cotton usando algodón orgánico o reciclado
+- Con logotipo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CL7ZKRLL{{</world>}}

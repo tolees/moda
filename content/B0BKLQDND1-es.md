@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Helly Hansen Hombres Chaqueta polar Daybreaker Marina 2.0 L'
-date: 2026-09-10 10:28:45
+date: 2026-09-22 15:39:19
 image: 'https://m.media-amazon.com/images/I/31-xQ7UVNfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0BKLQDND1/?tag=tolees-21'
 descuento: '45.64'
-average: '44.9733333333333'
+average: '44.6024999999999'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

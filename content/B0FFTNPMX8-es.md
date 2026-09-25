@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Camiseta normal
 - Camiseta individual con logotipo impreso en la parte delantera
 - 100% algodón
-- Camiseta normal
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FFTNPMX8{{</world>}}

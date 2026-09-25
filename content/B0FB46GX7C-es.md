@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con un diseño moderno inspirado en el running
 - Suela amortiguada que proporciona el máximo confort
+- Con un diseño moderno inspirado en el running
 - Deportiva baja, ligera y transpirable
 
 [🛒 Visítala!!!]({{< param buyurl >}})

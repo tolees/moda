@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Calcetines unisex. negro 43-46'
-date: 2026-09-18 10:44:47
+date: 2026-09-25 16:47:17
 image: 'https://m.media-amazon.com/images/I/31QclgN6U1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DD7CT8Y/?tag=tolees-21'
 descuento: '39.39'
-average: '9.65536231884058'
+average: '9.66507042253522'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

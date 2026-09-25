@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Material exterior: sintético
 - Material interior: sintético
 - Suela: goma
-- Material exterior: sintético
 - Pull On
 
 [🛒 Aquí!!!]({{< param buyurl >}})

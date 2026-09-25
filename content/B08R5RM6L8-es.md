@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Relleno de plumón
 - Importado
-- Ropa exterior cálida
 - Peso del producto: 0,5 kg
+- Ropa exterior cálida
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08R5RM6L8{{</world>}}

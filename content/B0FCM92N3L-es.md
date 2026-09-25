@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- __Corte: __ premium
 - __Gráfico: __ serigrafía en el pecho
+- __Corte: __ premium
 - __Tejido: __ jersey de algodón [160 g/m2]
 - __Cuello: __ cuello redondo
 

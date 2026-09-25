@@ -28,14 +28,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Artículo : Abrigo de lana
 - Funcionalidad : Resistente al viento
-- Bolsillos : Bolsillos delanteros
 - Largo/talla : Corto
-- Cuello : Cuello alto
-- Puños : Puños abotonados
 - Forro : Forro de poliéster para una sensación cómoda
+- Puños : Puños abotonados
 - Cierre : Cierre de botones
+- Cuello : Cuello alto
+- Bolsillos : Bolsillos delanteros
+- Artículo : Abrigo de lana
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CLDRW7GH{{</world>}}

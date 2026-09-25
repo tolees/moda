@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Jersey con Capucha Mujer || Ajuste normal || Capucha || Material duradero
-- Sudadera con capucha con las siguientes características:
-- Descubre todas las marcas de EMP!
-- Ajuste : Regular
 - Básicos
+- Ajuste : Regular
+- Descubre todas las marcas de EMP!
+- Sudadera con capucha con las siguientes características:
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07WG37SDB{{</world>}}

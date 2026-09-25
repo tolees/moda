@@ -30,10 +30,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Alta calidad
 - Productos ideales para ti y tu vida diaria
-- Diseño funcional
-- Tipo de deporte: Running
-- Tipo de fábrica: 50% Algodón 50% Poliéster
 - De la marca Nike
+- Diseño funcional
+- Tipo de fábrica: 50% Algodón 50% Poliéster
+- Tipo de deporte: Running
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B008GNOHAM{{</world>}}

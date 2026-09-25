@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello redondo de canalé
-- Espacio para personalización
 - AEROREADY
-- Corte ajustado
+- Cuello redondo de canalé
 - 100% poliéster (reciclado)
+- Corte ajustado
+- Espacio para personalización
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CZ9LGGLL{{</world>}}

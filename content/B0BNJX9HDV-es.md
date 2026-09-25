@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material exterior: algodón
-- Material interior: sintético
 - Cierre: cremallera
+- Material interior: sintético
+- Material exterior: algodón
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BNJX9HDV{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material de la suela: Caucho
 - Cierre: Hebilla
+- Material de la suela: Caucho
 - Material exterior: Textil
 
 [🛒 Comprar!!!]({{< param buyurl >}})

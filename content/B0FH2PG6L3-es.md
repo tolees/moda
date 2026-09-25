@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Composición: 80 % algodón, 20 % poliéster
 - Ajuste holgado
+- Composición: 80 % algodón, 20 % poliéster
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FH2PG6L3{{</world>}}

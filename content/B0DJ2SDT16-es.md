@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Este modelo ha obtenido el certificado vegano por la organización mundial PETA (Organización de los derechos de los animales)
-- Sandalia de mujer, de la marca Xti. Fabricada en material textil metalizado
 - [Nuestra Marca]: XTI se caracteriza por su moda urbana y funcional con calzado que combina las últimas tendencias con comodidad y versatilidad para un estilo de vida activo y moderno.
+- Sandalia de mujer, de la marca Xti. Fabricada en material textil metalizado
 - Diseño de pala cruzada y entrelazada con distintos colores para aportar diferencia y deslumbrar con tus looks. Cuña con plataforma con suela antideslizante
+- Este modelo ha obtenido el certificado vegano por la organización mundial PETA (Organización de los derechos de los animales)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DJ2SDT16{{</world>}}

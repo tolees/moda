@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Descubre todas las marcas de EMP!
-- Vestido || Ajuste normal || Cuello Redondo || Muy elástico
 - Ajuste : Normal
 - Vestido Corto con las siguientes características:
+- Descubre todas las marcas de EMP!
 - Básicos, Ropa de Calle, Vestidos de punto
+- Vestido || Ajuste normal || Cuello Redondo || Muy elástico
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01HUNA2O8{{</world>}}

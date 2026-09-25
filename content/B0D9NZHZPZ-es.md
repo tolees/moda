@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cuenta con un estilo casual
-- Ajuste cómodo
 - Estampado de logo en el pecho
+- Ajuste cómodo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D9NZHZPZ{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corte regular
 - Cintura elástica
+- Corte regular
 - Estampado a base de agua
 
 [🛒 Comprar!!!]({{< param buyurl >}})

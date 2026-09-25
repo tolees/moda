@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Manga : Manga larga
+- Artículo : Sudadera con capucha
+- Estampado : Estampado de goma para un tacto suave
 - Cuello : Capucha
 - Corte : Corte standard
 - Mangas : Sisa en disminución
-- Artículo : Sudadera con capucha
-- Manga : Manga larga
-- Estampado : Estampado de goma para un tacto suave
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CL7B1LZF{{</world>}}

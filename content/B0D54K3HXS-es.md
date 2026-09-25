@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tejido ligero y suave
 - Detalles distintivos de la marca
+- Tejido ligero y suave
 - Con un diseño cómodo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El pantalón deportivo Luchia de Guess es a la vez de la vieja escuela y nuevo. La divertida silueta moderna cuenta con el icónico logotipo de la marca y ribete metálico que se verá bien con cualquier cosa. Luchia 180.
 - Cierre con cordones.
+- El pantalón deportivo Luchia de Guess es a la vez de la vieja escuela y nuevo. La divertida silueta moderna cuenta con el icónico logotipo de la marca y ribete metálico que se verá bien con cualquier cosa. Luchia 180.
 - Puntera cerrada.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

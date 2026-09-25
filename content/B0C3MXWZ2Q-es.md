@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ajuste normal
 - Con capucha
+- Ajuste normal
 - Bolsillos altos: Bolsillo canguro
 
 [🛒 Visítala!!!]({{< param buyurl >}})

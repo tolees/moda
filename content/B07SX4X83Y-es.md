@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material exterior: poliéster
 - Material interior: sintético
+- Material exterior: poliéster
 - Suela: Caucho
 
 [🛒 Aquí!!!]({{< param buyurl >}})

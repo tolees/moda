@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Dobladillo ajustable
-- Construcción de tela Softshell
 - Cremalleras YKK de mano, pecho y frente.
 - Resistente al agua, a prueba de viento y transpirable.
+- Dobladillo ajustable
+- Construcción de tela Softshell
 - Tejido softshell cómodo y ligero con membrana.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

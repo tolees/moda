@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Corte clásico
+- 100% poliéster (reciclado)
 - AEROREADY
 - Cuello redondo de canalé
-- 100% poliéster (reciclado)
-- Corte clásico
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CZ9J8YFF{{</world>}}

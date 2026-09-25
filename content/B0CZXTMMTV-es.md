@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Talle medio
-- Material Principal: 74% Algodón / 26% Poliéster(100% Reciclado)
-- Corte clásico
 - Cintura elástica con cordón
+- Corte clásico
+- Material Principal: 74% Algodón / 26% Poliéster(100% Reciclado)
+- Talle medio
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZXTMMTV{{</world>}}

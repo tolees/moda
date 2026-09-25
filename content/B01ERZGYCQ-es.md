@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Hecho de material de alta calidad
 - Hecho en España
 - Fácil de usar
-- Hecho de material de alta calidad
 - Camiseta Tiempo libre y sportwear Unisex Adulto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

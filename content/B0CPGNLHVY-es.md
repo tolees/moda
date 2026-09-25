@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Columbia Pouring Adventure 3 Jacket Chaqueta impermeable para la lluvia Hombre Black S'
-date: 2026-09-16 09:09:47
+date: 2026-09-21 11:32:23
 image: 'https://m.media-amazon.com/images/I/4133KgR+lYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CPGNLHVY/?tag=tolees-21'
 descuento: '40.01'
-average: '46.4985714285714'
+average: '48.185'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

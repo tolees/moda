@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Columbia Redmond IV Low Zapatos Impermeables Construidos para Resistir los Elementos Malla Transpirable Puntera Robusta Entresuela Liviana Agarre Superior - Hombre'
-date: 2026-04-07 18:36:19
+date: 2026-09-21 13:07:53
 image: 'https://m.media-amazon.com/images/I/31efBwtxxhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0DLQRCJGM-es Columbia Redmond IV Low Zapatos Impermeables Construidos...'
 sku: 'B0DLQRCJGM-es'
 tags: [ 'zapatos','🇪🇸', ]
-actualPrice: 57.95 EUR
+actualPrice: 53.99 EUR
 currency: EUR
-price: 57.95
+price: 53.99
 comparePrice: 90.0 EUR
 prodname: 'Columbia Redmond IV Low Zapatos Impermeables Construidos para Resistir los Elementos Malla Transpirable Puntera Robusta Entresuela Liviana Agarre Superior - Hombre'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DLQRCJGM/?tag=tolees-21'
-descuento: '35.61'
-average: '57.95'
+descuento: '40.01'
+average: '56.63'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,6 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ESTILO VERSÁTIL: úsalos para caminatas al aire libre o el uso urbano—las capas de cuero y múltiples combinaciones de colores se adaptan a cualquier aventura
-- DISEÑO AUDAZ: zapatos de caminar con cordones para hombre con construcción impermeable Omni-Tech, malla transpirable y puntera robusta—ideales para paseos urbanos o senderos ligeros
-- PROTECCIÓN AVANZADA: construcción impermeable Omni-Tech, entresuela liviana Techlite proporciona amortiguación duradera, caucho de tracción antideslizante Omni-Grip, suela exterior resistente para estabilidad y pies secos y cálidos
-- COMODIDAD SUPERIOR: la entresuela acolchada Techlite ofrece comodidad duradera y soporte del arco, las partes superiores de malla aireada mantienen los pies frescos
-- CONTENIDO: 1x Columbia Redmond IV Low Zapatos Impermeables, Hombre, Talla: 42 EU, Color: Graphite, Citron Haze (Gris)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DLQRCJGM{{</world>}}

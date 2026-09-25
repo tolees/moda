@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Modelo: 12181901 JJEBASIC SWEAT ZIP HOOD NOOS
-- Marca: JACK&JONES
 - Sudadera con capucha de manga larga de color gris claro. Cierre con cremallera. Dos bolsillos. Detalle bordado.
+- Marca: JACK&JONES
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08KXWSXBG{{</world>}}

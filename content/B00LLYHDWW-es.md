@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Básicos, Ropa de Calle
-- Camiseta Manga Larga con las siguientes características:
 - Manga larga || Mangas Normales || Cuello Redondo Sin cuello || Material duradero
+- Camiseta Manga Larga con las siguientes características:
+- Básicos, Ropa de Calle
 - Ajuste : Regular
 - Descubre todas las marcas de EMP!
 

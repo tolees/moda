@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- __Shape:__ V Bralette
-- __Neck:__ V neck
-- __Collection:__ Sol Searcher collection
 - __Straps:__ Adjustable ring & slider straps
+- __Neck:__ V neck
+- __Shape:__ V Bralette
+- __Collection:__ Sol Searcher collection
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C9QWYGS7{{</world>}}

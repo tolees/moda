@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ocasiones: Blusa moda y2k ideal para uso diario, actividades al aire libre, compras, vacaciones, viajes, salidas, club, fiestas y citas.
 - Cuidado: Lavar a mano o a máquina bajo 30 grados. No usar blanqueador. Secar colgado.
-- Combinaciones: Camiseta básica elegante combina con vaqueros, faldas, leggings, pantalones o cárdigans. Perfecta para primavera y verano.
 - Camiseta Manga Corta Mujer Material: 92% algodón, 8% elastano, tejido de punto acanalado. Suave, elástico, ligero, transpirable y cómodo.
+- Combinaciones: Camiseta básica elegante combina con vaqueros, faldas, leggings, pantalones o cárdigans. Perfecta para primavera y verano.
+- Ocasiones: Blusa moda y2k ideal para uso diario, actividades al aire libre, compras, vacaciones, viajes, salidas, club, fiestas y citas.
 - Diseño: Top de punto mujer, manga corta, cuello V, corte entallado, color sólido, estilo casual básico.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

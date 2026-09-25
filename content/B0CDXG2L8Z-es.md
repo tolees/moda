@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuenta un compartimento con cierre de cremallera y dos ranuras para tarjetas.
-- Bolsillo de cremallera en la parte trasera.
 - Tamaño ideal para llevarlo en la bandolera o en el bolsillo del pantalón.
+- Bolsillo de cremallera en la parte trasera.
 - De Joumma Bags.
+- Cuenta un compartimento con cierre de cremallera y dos ranuras para tarjetas.
 - Monedero de 11 cm x 7 cm x 1,5 cm fabricado de piel en .
 
 [🛒 Aquí!!!]({{< param buyurl >}})

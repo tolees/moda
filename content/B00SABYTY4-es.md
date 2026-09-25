@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ribbed hems
-- Tipo de fábrica: 100% Textile
-- Soft fabric
 - 3 pair pack
+- Tipo de fábrica: 100% Textile
+- Ribbed hems
+- Soft fabric
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00SABYTY4{{</world>}}

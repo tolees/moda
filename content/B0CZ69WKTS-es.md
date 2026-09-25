@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Instrucciones de cuidado: Lavar a mano / Lavar a máquina. Planchar solo después de recibir y lavar.
+- Suave, transpirable y agradable al tacto. Tejido natural de alta calidad. Muy cómodo de llevar, excelente comodidad.
 - Moderno y clásico. Perfecto para todas las necesidades diarias: trabajo en la oficina, foros, salón, tiempo libre en casa, vacaciones en el mar, salir a pasear, citas, bodas, compras, excursiones, etc.
 - Talla (pecho): M - 116 cm, L - 123 cm, XL - 132 cm, XXL - 141 cm. LAS TALLAS PUEDEN SER UN POCO GRANDES, ¡por favor, consulta la última imagen para obtener medidas adicionales antes de hacer el pedido!! !
-- Suave, transpirable y agradable al tacto. Tejido natural de alta calidad. Muy cómodo de llevar, excelente comodidad.
 - Diseño simple pero elegante e informal. Cuello vuelto, mangas largas, cierre de botones, sin bolsillos, color liso, ajuste regular.
 - Camisa ligera de manga larga para hombre. Ideal para verano, primavera y otoño. Adecuado para combinar con vaqueros, pantalones de lino, pantalones cortos.
-- Instrucciones de cuidado: Lavar a mano / Lavar a máquina. Planchar solo después de recibir y lavar.
 - Si deseas saber más sobre la ropa de moda para hombre, haz clic en "RUNCATI" para entrar en nuestra tienda.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

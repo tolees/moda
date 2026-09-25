@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tejido: algodón jersey [160 g/m2]
 - Cuello de la pluma
+- Tejido: algodón jersey [160 g/m2]
 - Chest "Arch" logo embroidery
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

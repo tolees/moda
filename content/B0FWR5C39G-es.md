@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Disponible en XS, S, M, L, XL. (XS = 0-2, S = 4-6, M = 8-10, L = 12-14, XL = 16-18). Consulta nuestra tabla de tallas para ver las medidas específicas para lograr el ajuste perfecto.
 - Ocasión: el mejor regalo de vacaciones para mamá, esposa, novia o mujeres que amas. Perfecto para vacaciones tropicales, verano, playa y piscina, luna de miel, crucero.
 - Cuidado de la prenda: lavado regular. Se recomienda lavar con agua fría. No usar blanqueador. No secar en secadora.
 - Acerca del estilo de copa: con almohadillas extraíbles
 - Diseño: este elegante conjunto de bikini de dos piezas para mujer cuenta con un diseño favorecedor de cuello en V con tela texturizada de moda, detalle de lazo en la espalda y correas ajustables para un ajuste personalizable, perfecto para hacer una declaración elegante en la playa o la piscina
+- Disponible en XS, S, M, L, XL. (XS = 0-2, S = 4-6, M = 8-10, L = 12-14, XL = 16-18). Consulta nuestra tabla de tallas para ver las medidas específicas para lograr el ajuste perfecto.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FWR5C39G{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- PRODUCTO OFICIAL LICENCIA GRAND PRIX - Edición limitada de Joma y el icónico programa de televisión. Ideal para fans
-- LIBERTAD DE MOVIMIENTO - Sin restricciones ni rozaduras. Mangas raglán y corte holgado están diseñados para acción en cualquier deporte
-- ALTA TRANSPIRABILIDAD Y SECADO RÁPIDO - Máximo confort con una camiseta diseñada conn tecnología de tejido avanzada para un mejor rendimiento
 - DURABILIDAD Y ESTILO - Material de alta resistencia expulsa el sudo al exterior. Diseño clásico con logotipo Joma serigrafiado
+- ALTA TRANSPIRABILIDAD Y SECADO RÁPIDO - Máximo confort con una camiseta diseñada conn tecnología de tejido avanzada para un mejor rendimiento
+- LIBERTAD DE MOVIMIENTO - Sin restricciones ni rozaduras. Mangas raglán y corte holgado están diseñados para acción en cualquier deporte
+- PRODUCTO OFICIAL LICENCIA GRAND PRIX - Edición limitada de Joma y el icónico programa de televisión. Ideal para fans
 - FÁCIL LAVADO - Hecha para durar - Resiste el uso intensivo y los lavados sin perder forma o color. Siempre impecable, siempre listo para usar
 
 [🛒 Comprar!!!]({{< param buyurl >}})

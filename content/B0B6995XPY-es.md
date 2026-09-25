@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- BÁSICO - Un versátil básico JACROCK - 12228996.
 - COMPUESTO - 100% cuero auténtico recubierto.
+- BÁSICO - Un versátil básico JACROCK - 12228996.
 - IDEAL - Cinturón clásico, ancho de 4 cm.
 - ESTILO - Cuero genuino de un solo color con hebilla de metal.
 

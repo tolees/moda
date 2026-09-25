@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Sudadera con Capucha Unisex M Cloudspun Paquete de 1'
-date: 2026-09-13 12:00:43
+date: 2026-09-24 13:27:16
 image: 'https://m.media-amazon.com/images/I/21-FvO2TzfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DJDDC4W5/?tag=tolees-21'
 descuento: '44.32'
-average: '38.9686666666667'
+average: '38.9675000000001'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

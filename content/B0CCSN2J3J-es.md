@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bolsillo interno en el pecho
-- Dos bolsillos para las manos con cremallera
 - Puños con elástico revestido
+- Bolsillo interno en el pecho
 - Tiradores de cremallera con la marca
+- Dos bolsillos para las manos con cremallera
 - Bajo con ajustes elásticos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

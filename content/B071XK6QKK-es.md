@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Vestidos para niña Talla 9-10 años. Por favor, ver la medida del tamaño abajo en la descripción del producto antes de comprar
 - hasta la rodilla.
-- Talla: Busto: 72CM, Cintura: 68CM, Longitud: 79CM
 - lavable a máquina, bajo retroceder seca
+- Talla: Busto: 72CM, Cintura: 68CM, Longitud: 79CM
 - 100% algodón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Guantes de portero
 - Material de calidad
+- Guantes de portero
 - Ofrece comodidad y libertad de movimiento
 - Detalles distintivos de la marca
 

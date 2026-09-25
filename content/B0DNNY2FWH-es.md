@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diseño de 5 bolsillos
 - Detalles distintivos de la marca
+- Diseño de 5 bolsillos
 - Con trabillas para el cinturón
 
 [🛒 Visítala!!!]({{< param buyurl >}})

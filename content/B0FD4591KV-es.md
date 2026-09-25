@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camisetas
 - Material: 100% algodón
+- Camisetas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FD4591KV{{</world>}}

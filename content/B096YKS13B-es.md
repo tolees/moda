@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - TEJIDO RESISTENTE Y DURADERO: entrena con confianza con estos pantalones de golf ligeros hechos con un tejido que absorbe la humedad, se estira suavemente y es resistente a las arrugas
-- ESTILO DE GOLF: diseñado para un rendimiento óptimo y comodidad durante todo el día dentro y fuera del campo. La cintura ajustable con agarre mantiene la camisa bien metida
 - DETALLES: cuenta con los clásicos bolsillos delanteros y traseros con un quinto bolsillo para tees, marcadores o monedas
+- ESTILO DE GOLF: diseñado para un rendimiento óptimo y comodidad durante todo el día dentro y fuera del campo. La cintura ajustable con agarre mantiene la camisa bien metida
 - CORTE RECTO: ajuste ligeramente holgado en caderas y muslos, con pernera recta. Se ajusta a la cintura
 - ABERTURA DE LA PIERNA: 19,4cm en la talla 42 de España
 

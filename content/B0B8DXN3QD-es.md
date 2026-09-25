@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Secado rápido y transpirable
 - Cuello alto y bien ajustado
 - Contenido de poliéster reciclado
+- Secado rápido y transpirable
 - Forro polar Polartec Power Grid ligero y muy elástico con excelente gestión de la humedad
 - 2 bolsillos laterales con cremallera
 

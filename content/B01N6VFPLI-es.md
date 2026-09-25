@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Logotipo estampado en la parte trasera
-- Camiseta clásica de manga corta con cuello redondo
 - Logotipo estampado al agua en la parte delantera
+- Camiseta clásica de manga corta con cuello redondo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01N6VFPLI{{</world>}}

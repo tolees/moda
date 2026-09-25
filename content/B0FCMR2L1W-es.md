@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camisa Melange
 - Camisa Oxford
+- Camisa Melange
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FCMR2L1W{{</world>}}

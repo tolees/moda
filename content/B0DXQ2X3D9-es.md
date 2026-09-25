@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Embellished with ikon artwork at the back
 - Tres paquetes de calcetines de longitud corta
 - El paquete consiste en calcetines de color negro
-- Embellished with ikon artwork at the back
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DXQ2X3D9{{</world>}}

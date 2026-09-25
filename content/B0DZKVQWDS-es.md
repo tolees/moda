@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- EN ISO 20347:2022, O1 SR
 - Encaje elástico sin cordones atlético con suela antideslizante
 - Antideslizante
+- EN ISO 20347:2022, O1 SR
 - Plantilla de espuma viscoelástica
 - Ajuste sin atar
 

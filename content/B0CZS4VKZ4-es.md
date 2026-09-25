@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello : Cuello de camisa
-- Artículo : Camisa
 - Manga : Manga larga
-- Corte : Corte regular
-- Cierre : Cierre de botones
+- Artículo : Camisa
 - Bolsillos : Bolsillos en la pechera
+- Cuello : Cuello de camisa
+- Cierre : Cierre de botones
+- Corte : Corte regular
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CZS4VKZ4{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre de media cremallera
 - Largo estándar
+- Cierre de media cremallera
 - Cuello alzado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pequeña obra de arte en el pecho y etiqueta en el dobladillo.
 - Camiseta de rayas de color profundo con cuello redondo y corte regular
+- Pequeña obra de arte en el pecho y etiqueta en el dobladillo.
 - Manga corta
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

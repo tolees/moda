@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuenta con bolsillos laterales
-- Tiene cierre de cremallera frontal
 - Detalles distintivos de la marca
+- Tiene cierre de cremallera frontal
+- Cuenta con bolsillos laterales
 - Chaqueta de deporte para hombre
 
 [🛒 Visítala!!!]({{< param buyurl >}})

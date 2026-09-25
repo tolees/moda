@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ajuste : Normal
 - Cortavientos con las siguientes características:
-- Cortavientos || Ajuste normal || Color intenso || Material duradero
-- Básicos, Festival, Ropa de Calle
 - Descubre todas las marcas de EMP!
+- Básicos, Festival, Ropa de Calle
+- Ajuste : Normal
+- Cortavientos || Ajuste normal || Color intenso || Material duradero
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0789DVYCF{{</world>}}

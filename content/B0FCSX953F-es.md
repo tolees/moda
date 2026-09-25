@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Camiseta De Algodón
 - Camiseta Estampada
+- Camiseta De Algodón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FCSX953F{{</world>}}

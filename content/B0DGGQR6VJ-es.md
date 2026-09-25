@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Talla 55/19/145
 - Black Grey/Grey
 - Polarizado
+- Talla 55/19/145
 - Garantía internacional de 2 años
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

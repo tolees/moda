@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Grado de resistencia al agua: no impermeable
 - Cierre: cordones
-- Tipo de tacón: plano
-- Fácil de combinar
 - Artículo de la marca Geox
+- Fácil de combinar
+- Grado de resistencia al agua: no impermeable
+- Tipo de tacón: plano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D6NNVX51{{</world>}}

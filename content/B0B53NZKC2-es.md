@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Chaqueta ligera para mujer para cualquier ocasión
 - Cuello clásico
 - hasta la cadera
-- Una chaqueta moderna en la oficina y el tiempo libre
+- Chaqueta ligera para mujer para cualquier ocasión
 - Cierre de botón delantero
+- Una chaqueta moderna en la oficina y el tiempo libre
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B53NZKC2{{</world>}}

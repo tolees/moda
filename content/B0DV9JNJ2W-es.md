@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Puños acanalados
-- Lavar a máquina
 - Cuerpo: 80% algodón / 20% poliéster; Bolso de bolsillo: 100% algodón
+- Lavar a máquina
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DV9JNJ2W{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gafas de sol polarizadas: Reduce los reflejos superficiales y la fatiga ocular proporcionando nitidez y contrastes superiores; Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes fabricadas en material bio tac polarizado; protección 100 % UV; Color de la lente: Verde; Apariencia de la lente: Sólida
-- Producto original Hawkers; la caja incluye funda en microfibra y caja
 - Modelo Unisex; Medidas: Frontal 140;5 mm, Varillas 145 mm, Puente 18 mm, Alto 46;6 mm
 - El frontal superior y las patillas en estampado habana se combinan con aros inferiores metálicos dorados y lentes verde cocodrilo
+- Producto original Hawkers; la caja incluye funda en microfibra y caja
 - Material de la montura: Metal, TR90; Color de la montura: Carey, Dorado; Color de la varilla: Carey
+- Gafas de sol polarizadas: Reduce los reflejos superficiales y la fatiga ocular proporcionando nitidez y contrastes superiores; Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes fabricadas en material bio tac polarizado; protección 100 % UV; Color de la lente: Verde; Apariencia de la lente: Sólida
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D2J2H36C{{</world>}}

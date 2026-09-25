@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bolsillos laterales
 - Cuerpo: 53 % algodón/ 47 % poliéster. Forro de la capucha: 69 % algodón/31 % poliéster.
+- Bolsillos laterales
 - Lavar a máquina
 
 [🛒 Aquí!!!]({{< param buyurl >}})

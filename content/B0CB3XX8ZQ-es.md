@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ajuste cómodo
 - Clarks Cloudsteppers Shoes, Brinkley Emily, Black, 7 (Women)
+- Ajuste cómodo
 - Suela ligera y flexible óptima para el uso diario
 
 [🛒 Aquí!!!]({{< param buyurl >}})

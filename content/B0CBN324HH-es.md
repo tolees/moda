@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Manguito para pierna
 - Tiene detalles distintivos de la marca
+- Manguito para pierna
 - Ofrece comodidad y libertad de movimientos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

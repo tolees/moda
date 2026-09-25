@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Timberland Seneca Bay Oxford Blanco White Talla 43.5'
-date: 2026-09-17 07:46:11
+date: 2026-09-24 09:16:01
 image: 'https://m.media-amazon.com/images/I/21FCjrSTO4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

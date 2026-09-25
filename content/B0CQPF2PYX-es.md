@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material interior: piel
-- Cierre: cordones
 - suela: goma
-- Material exterior: cuero
 - Forma del tacón: plano
+- Material interior: piel
+- Material exterior: cuero
+- Cierre: cordones
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CQPF2PYX{{</world>}}

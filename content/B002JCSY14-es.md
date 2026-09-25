@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material de la suela:EVA
 - Cierre:Sin Cordones
+- Material de la suela:EVA
 - Material exterior:Sintético
 
 [🛒 Comprar!!!]({{< param buyurl >}})

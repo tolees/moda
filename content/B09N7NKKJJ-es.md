@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre: goma
-- Forma del tacón: plano
-- Material interior: sintético
-- Material superior: cuero
 - Ancho del zapato: medio
+- Material superior: cuero
+- Cierre: goma
+- Material interior: sintético
+- Forma del tacón: plano
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09N7NKKJJ{{</world>}}

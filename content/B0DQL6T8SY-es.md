@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Puños y dobladillo de punto acanalado
 - Con capucha
+- Puños y dobladillo de punto acanalado
 - Con cremallera
 
 [🛒 Aquí!!!]({{< param buyurl >}})

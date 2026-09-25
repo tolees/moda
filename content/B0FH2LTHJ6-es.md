@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camiseta
 - Composición: 100% algodón
+- Camiseta
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FH2LTHJ6{{</world>}}

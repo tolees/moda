@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Puños acanalados en el dobladillo y los puños
-- Corte regular
 - Bordado gráfico GANT en el pecho
+- Corte regular
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BG5L1HCG{{</world>}}

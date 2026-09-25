@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Durabilidad con material sostenible
-- Tipo de ajuste: regular
-- Hecho de algodón para mayor suavidad y comodidad
 - Polo de manga corta
 - Cuello estilo polo
+- Hecho de algodón para mayor suavidad y comodidad
+- Tipo de ajuste: regular
 - JACK & JONES apoya la iniciativa Better Cotton usando algodón orgánico o reciclado
+- Durabilidad con material sostenible
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B091TVDR23{{</world>}}

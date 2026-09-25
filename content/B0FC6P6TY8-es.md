@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Stretch Oxford Shirt
-- Slim Fit
-- Fitted in the shoulders
-- Button-down collar
 - Tapered through the body
-- Long sleeves
+- Button-down collar
+- Stretch Oxford Shirt
+- Fitted in the shoulders
 - Spade patch pocket
+- Long sleeves
+- Slim Fit
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FC6P6TY8{{</world>}}

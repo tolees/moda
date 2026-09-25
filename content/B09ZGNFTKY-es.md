@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Seneca Bay Oxford Timberland Color Blanc DE Blanc Talla 42 para Hombre'
-date: 2026-09-17 14:02:36
+date: 2026-09-23 18:48:29
 image: 'https://m.media-amazon.com/images/I/21FCjrSTO4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09ZGNFTKY/?tag=tolees-21'
 descuento: '52.03'
-average: '57.1333333333333'
+average: '56.6399999999999'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - 4. Acolchado suave en el pecho y vientre para mayor comodidad.
-- 5. Consulta la imagen de la tabla de tallas para ver el tamaño correcto.
 - 2. Asa en la parte de la espalda: mejor control de movimiento del perro y cinturón de seguridad para fijar.
 - 3. Capacidad de carga de alta resistencia a la tracción: doble costura y hebillas que pueden soportar grandes tirones.
+- 5. Consulta la imagen de la tabla de tallas para ver el tamaño correcto.
 - 1. Dos puntos de sujeción para mayor control. Este arnés se coloca en la espalda/área de cuello normal y también bajo el vientre.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

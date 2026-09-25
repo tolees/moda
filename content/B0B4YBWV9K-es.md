@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Helly tech performance
+- Artículos entregados: 1x Helly-Hansen mens active puffy long jacket - parka nimbus clou s
+- Cremalleras ykk
 - Dobladillo y capucha ajustable
 - Aislamiento soplable sintético
-- Cremalleras ykk
-- Artículos entregados: 1x Helly-Hansen mens active puffy long jacket - parka nimbus clou s
-- Helly tech performance
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B4YBWV9K{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Puma Camiseta Marca Modelo teamRISE Jersey Jr'
-date: 2026-09-10 10:23:03
+date: 2026-09-21 04:38:44
 image: 'https://m.media-amazon.com/images/I/317RZ9Hn61L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B098TWLBJS/?tag=tolees-21'
 descuento: '19.80'
-average: '11.0075'
+average: '11.0968181818182'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

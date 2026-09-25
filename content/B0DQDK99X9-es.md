@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Camiseta con logotipo impreso en el pecho
 - Algodón de manga corta ajustada
+- Camiseta con logotipo impreso en el pecho
 - 100 % algodón
 
 [🛒 Comprar!!!]({{< param buyurl >}})

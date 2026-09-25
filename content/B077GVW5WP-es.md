@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Está confeccionado con un algodón resistente muy fácil de combinar y de cuidar
 - LEVIS TAB: Existen diferentes variaciones de la conocida lengüeta roja. Todos los productos son originales de Levis, no importa si pone LEVIS, Levis, no está escrito o es de otro color.
+- Está confeccionado con un algodón resistente muy fácil de combinar y de cuidar
 - Lleva el emblemático logotipo de Levis
 - Este bolso tote extragrande es perfecto para llevar cualquier cosa y resulta muy práctico
 

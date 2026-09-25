@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Estilo informal
 - Manga larga
+- Estilo informal
 - Cierre frontal con botones
 
 [🛒 Visítala!!!]({{< param buyurl >}})

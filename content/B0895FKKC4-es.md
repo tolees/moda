@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La suela de TPR duradera ofrece una buena tracción y resistencia al desgarro en todas las situaciones.
-- Ideal para la oficina, caminar, negocios, casual, trabajo y eventos diarios etc
-- Corre un poco grande, pide una talla 1/2 menos. El forro de microfibra transpirable mantiene tus pies cálidos y secos durante todo el día.
 - Botas chukka clásicas con cierre de cordones que ofrecen la máxima protección para tu tobillo.
+- Corre un poco grande, pide una talla 1/2 menos. El forro de microfibra transpirable mantiene tus pies cálidos y secos durante todo el día.
+- Ideal para la oficina, caminar, negocios, casual, trabajo y eventos diarios etc
+- La suela de TPR duradera ofrece una buena tracción y resistencia al desgarro en todas las situaciones.
 - El cuello acolchado grueso garantiza una caminata cómoda sin lastimar tu talón.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

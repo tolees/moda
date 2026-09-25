@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cómodos
 - Forro de piel
 - Clarks Shoes, Freva55 Strap, Black Leather, 6,5 (Women)
+- Cómodos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BNLDR1LS{{</world>}}

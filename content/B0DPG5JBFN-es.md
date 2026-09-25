@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cuffs
-- Rib at Collar
 - Ajuste normal: Ajuste normal
+- Rib at Collar
 - Material: algodón, poliéster, 280 g/m2
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

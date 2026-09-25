@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Compartment Main With Metal Zipper Closure And Interior Slip Pocket
 - 2,5 l
+- Compartment Main With Metal Zipper Closure And Interior Slip Pocket
 - Correa de algodón ajustable
 
 [🛒 Aquí!!!]({{< param buyurl >}})

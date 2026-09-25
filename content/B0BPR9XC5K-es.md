@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Montura y patillas TR90 ligeras
-- La lente cuenta con un revestimiento frontal hidrofóbico y un revestimiento posterior antivaho
-- Lentes de policarbonato ventiladas de una pieza, perfil cilíndrico, alta definición
-- Lente de espejo de color REVO
 - Patillas de goma moldeadas por inyección y pieza nasal de goma ajustable
+- Montura y patillas TR90 ligeras
+- Lentes de policarbonato ventiladas de una pieza, perfil cilíndrico, alta definición
+- La lente cuenta con un revestimiento frontal hidrofóbico y un revestimiento posterior antivaho
+- Lente de espejo de color REVO
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BPR9XC5K{{</world>}}

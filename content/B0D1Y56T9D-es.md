@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Provides comfort
-- Single pack
 - Graphic detail on chest
 - An original look
+- Single pack
 - Lightweight fabric
 
 [🛒 Comprar!!!]({{< param buyurl >}})

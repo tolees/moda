@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Hombre Squadra25 Jersey Short Sleeve Shirt White/White/Black M'
-date: 2026-09-12 12:20:28
+date: 2026-09-25 17:41:59
 image: 'https://m.media-amazon.com/images/I/21nIr3V6fIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

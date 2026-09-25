@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Chaqueta imitación cuero con las siguientes características:
 - Chaqueta Mujer || Ajuste normal || Color intenso || Material duradero
-- Biker, Ropa casual, Ropa de Calle, Ropa Rockera
 - Descubre todas las marcas de EMP!
+- Chaqueta imitación cuero con las siguientes características:
+- Biker, Ropa casual, Ropa de Calle, Ropa Rockera
 - Ajuste : Normal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

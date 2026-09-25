@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Con cinco bolsillos
-- Se coloca debajo de la cintura
-- Nota: Cómo lavar, paso a paso: 1. Darles la vuelta; 2. Cierra la cremallera y abotona todo; 3. Colores separados; 4. No sobrecargue la lavadora; 5. Utilice un detergente suave; 6. Evite los suavizantes de telas; 7. Lavar únicamente con agua fría; 8. Elige el ciclo más suave
 - Ajuste regular en el muslo
+- Nota: Cómo lavar, paso a paso: 1. Darles la vuelta; 2. Cierra la cremallera y abotona todo; 3. Colores separados; 4. No sobrecargue la lavadora; 5. Utilice un detergente suave; 6. Evite los suavizantes de telas; 7. Lavar únicamente con agua fría; 8. Elige el ciclo más suave
+- Se coloca debajo de la cintura
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CNJZSJW9{{</world>}}

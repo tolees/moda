@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Polaroid Hombre PLD 7005/S RC YYV 63 Gafas de sol Negro Black Rubber/Green Pz'
-date: 2026-09-20 17:24:55
+date: 2026-09-21 19:22:07
 image: 'https://m.media-amazon.com/images/I/31PgGzf2xmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BKO9VJ0/?tag=tolees-21'
 descuento: '48.36'
-average: '31.2570000000001'
+average: '31.1209523809524'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

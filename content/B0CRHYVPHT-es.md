@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con hombros caídos
 - Dispone de puños acanalados
+- Con hombros caídos
 - Presenta un estilo informal
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

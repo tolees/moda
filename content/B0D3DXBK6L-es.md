@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cintura ajustada por una banda elástica en la espalda
-- 2 bolsillos con cremallera
 - Material: piel sintética
-- Capucha extraíble con piel sintética
+- 2 bolsillos con cremallera
 - Chaqueta corta negra
+- Capucha extraíble con piel sintética
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D3DXBK6L{{</world>}}

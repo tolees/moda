@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Material de la montura: Metal, TR90; Color de la montura: Negro, Oro rosa; Color de la varilla: Oro rosa
 - Producto original Hawkers; la caja incluye funda en microfibra y caja
 - Modelo Unisex; Medidas: Frontal 140;5 mm, Varillas 140 mm, Puente 27 mm, Alto 30 mm
 - El modelo híbrido octogonal Citybreak de inspiración vintage es uno de los cuatro diseños escogidos personalmente por Pierre Gasly para su colección Hawkers 2021; gasly seleccionó una combinación de estructura metálica en oro rosa con frontal negro mate y lentes terracota degradadas polarizadas
-- Material de la montura: Metal, TR90; Color de la montura: Negro, Oro rosa; Color de la varilla: Oro rosa
 - Gafas de sol polarizadas: Reduce los reflejos superficiales y la fatiga ocular proporcionando nitidez y contrastes superiores; Gafas de sol categoría filtro 2, coloración medianamente oscura, utilizar en exteriores con luminosidad media; absorben entre un 57% y un 81% de luz solar; Material de la lente: Lentes fabricadas en material bio tac polarizado; protección 100 % UV; Color de la lente: Marrón; Apariencia de la lente: Gradiente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

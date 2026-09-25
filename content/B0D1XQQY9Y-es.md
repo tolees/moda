@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre de cremallera
 - Puños ajustables con botones a presión
 - Aberturas laterales
+- Cierre de cremallera
 - Bolsillos delanteros con cremallera, cogidos en la costura
 - Cuello alzado
 

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Lentes tintadas redondas
+- Gafas de sol modernas con marco llamativo
+- Bolsa protectora con logotipo de Urban Classics y cordón
 - Marco de plástico con puente de nariz recto y doble
 - Hecho de policarbonato, aleación de zinc y cobre
-- Bolsa protectora con logotipo de Urban Classics y cordón
-- Gafas de sol modernas con marco llamativo
-- Lentes tintadas redondas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08Y5J96YC{{</world>}}

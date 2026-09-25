@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material principal: punto simple
-- Cuello: cuello redondo
 - Largo: estándar
+- Cuello: cuello redondo
+- Material principal: punto simple
 - Manga corta
 - Corte: estándar
 

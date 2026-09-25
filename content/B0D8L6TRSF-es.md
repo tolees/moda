@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 1 correa bandolera ajustable y extraíble 1 correa de hombro
 - Material interior: poliuretano
-- 184 נ127 נ178 cm (largo נancho נalto)
+- 1 correa bandolera ajustable y extraíble 1 correa de hombro
 - Bandolera cubo pequeña de piel
 - Detalle del interior: 1 bolsillo deslizante
+- 184 נ127 נ178 cm (largo נancho נalto)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D8L6TRSF{{</world>}}

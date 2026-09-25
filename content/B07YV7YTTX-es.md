@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Diseño con capucha
 - Proporciona comodidad
 - Un ajuste cómodo
 - Una mirada original
-- Diseño con capucha
 - Manga larga
 
 [🛒 Visítala!!!]({{< param buyurl >}})

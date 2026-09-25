@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Estilo elegante
-- Cierre con botones
 - Camisa de manga larga
+- Cierre con botones
+- Estilo elegante
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F4QM3PHX{{</world>}}

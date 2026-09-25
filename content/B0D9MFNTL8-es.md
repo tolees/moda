@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre de solapa, cremallera y botón
 - Color liso
+- Cierre de solapa, cremallera y botón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D9MFNTL8{{</world>}}

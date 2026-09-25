@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Cuello redondo
+- Tommy Hilfiger Logotipo en el pecho
 - Cinta adhesiva en la nuca
 - Cuello, puños y dobladillo de punto acanalado
 - Forro polar de mezcla de algodón cepillado
-- Tommy Hilfiger Logotipo en el pecho
-- Cuello redondo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F6PY58SY{{</world>}}

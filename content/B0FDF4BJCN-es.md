@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Estilo desenfadado
 - Manga corta
+- Estilo desenfadado
 - Cuello redondo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

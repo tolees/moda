@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Correas de talón ajustables con hebilla inteligente
-- Base ligera Croslite
 - Correas ajustables en el talón
+- Base ligera Croslite
+- Correas de talón ajustables con hebilla inteligente
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D61BGP4C{{</world>}}

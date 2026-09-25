@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Este estilo ha sido producido de forma sostenible
 - Este es un producto original y auténtico Tommy Hilfiger
+- Este estilo ha sido producido de forma sostenible
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F6QPLYWM{{</world>}}

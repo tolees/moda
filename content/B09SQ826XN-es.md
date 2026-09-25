@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiene detalles distintivos de la marca
 - Costuras cómodas
+- Tiene detalles distintivos de la marca
 - Tejido suave y transpirable
 - Ofrece comodidad y libertad de movimiento
 

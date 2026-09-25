@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Una mirada original
 - Cuello redondo
-- Manga corta
-- Proporciona comodidad
 - Aberturas laterales
+- Proporciona comodidad
+- Manga corta
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07VMMSZ42{{</world>}}

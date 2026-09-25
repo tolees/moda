@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Ajuste estándar para una sensación relajada y sin complicaciones
-- Este producto está hecho de 100% poliéster reciclado
 - Malla en la parte trasera y en las mangas para que el aire circule
+- Este producto está hecho de 100% poliéster reciclado
 - La tecnología Dri-FIT proporciona una comodidad seca
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuello acanalado
-- Bolsillos cogidos en la costura
-- Cierre de botones
-- Tira ajustable en la parte trasera de la cintura con botón a presión
 - Gráfico de G-STAR RAW estampado en el pecho
+- Cierre de botones
+- Cuello acanalado
+- Tira ajustable en la parte trasera de la cintura con botón a presión
+- Bolsillos cogidos en la costura
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D8WLFSWB{{</world>}}

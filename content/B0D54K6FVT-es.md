@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Graphic Crewneck tee Camiseta Coolmax Ssnl HL Logo L para Hombre'
-date: 2026-09-12 19:40:48
+date: 2026-09-23 11:15:49
 image: 'https://m.media-amazon.com/images/I/41T1DwmqqVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0D54K6FVT/?tag=tolees-21'
 descuento: '45.74'
-average: '18.49'
+average: '18.59'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

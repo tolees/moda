@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Composición: 98% algodón, 2% elastano
-- Manga larga
 - Ajuste muy ajustado
+- Manga larga
+- Composición: 98% algodón, 2% elastano
 - Camisa
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

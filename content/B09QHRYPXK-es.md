@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 - Marca: ISOUS
 - tipo de producto: ZAPATOS
 - Tamano: 40 euros
-- Color: negro verde
 - Zapatos de trabajo ISOOUS, zapatos de seguridad para hombres, mujeres, deportivos ligeros con punta de arce, negro, verde, 40
+- Color: negro verde
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09QHRYPXK{{</world>}}

@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Material del forro: tela
-- Seneca Bay Oxford TIMBERLAND COLOR DARK DENIM TALLA 42 PARA HOMBRE
-- Cordones
 - Material de la base: Caucho
+- Cordones
+- Seneca Bay Oxford TIMBERLAND COLOR DARK DENIM TALLA 42 PARA HOMBRE
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09ZGNLNC9{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 95 % algodón, 5 % elastano
 - Camiseta ajustada de manga corta en licra básica
+- 95 % algodón, 5 % elastano
 - Pequeño estampado frontal
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dos bolsillos delanteros para chaqueta
 - Mangas con puños
 - Ajuste regular cómodo
 - Una camisa vaquera ligera
+- Dos bolsillos delanteros para chaqueta
 - Cierres abotonados
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La camiseta básica perfecciona
 - Con logotipo discreto
+- La camiseta básica perfecciona
 - Combina perfectamente con cualquiera de estos vaqueros
 
 [🛒 Comprar!!!]({{< param buyurl >}})

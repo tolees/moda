@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Jeans Camiseta de manga corta TJM Original Slim Fit Azul Black Iris XL'
-date: 2026-09-15 12:21:35
+date: 2026-09-24 12:58:20
 image: 'https://m.media-amazon.com/images/I/31rh5eSI9pL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07771HWBW/?tag=tolees-21'
 descuento: '50.00'
-average: '20.5925'
+average: '19.464'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

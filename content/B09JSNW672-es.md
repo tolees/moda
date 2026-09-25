@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre : Cremallera de un cuarto
-- Corte : Corte regular
-- Modo de vida : Tradicional
-- Puños : Puños acanalados
-- Manga : Manga larga
 - Cuello : Cuello alto
+- Puños : Puños acanalados
+- Cierre : Cremallera de un cuarto
+- Manga : Manga larga
+- Modo de vida : Tradicional
 - Artículo : Jersey de punto
+- Corte : Corte regular
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09JSNW672{{</world>}}

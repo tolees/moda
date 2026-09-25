@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Sudadera capucha hombre GYMCLASS de Geographical Norway
-- Bandera característica de la marca impresa sobre el pecho
 - Disponible en 6 colores
+- Bandera característica de la marca impresa sobre el pecho
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BG5Q5KNW{{</world>}}

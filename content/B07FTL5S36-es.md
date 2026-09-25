@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Manga corta
 - Logotipo bordado en el pecho
+- Manga corta
 - El tejido empleado es un cómodo piqué de algodón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

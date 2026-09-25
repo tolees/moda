@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Instrucciones de cuidado: lavable a máquina
-- Ajuste: regular
-- Tipo de estiramiento: no elástico
-- Composición: 100% algodón
 - Chaqueta vaquera
+- Composición: 100% algodón
+- Tipo de estiramiento: no elástico
+- Ajuste: regular
+- Instrucciones de cuidado: lavable a máquina
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DR32PJNN{{</world>}}

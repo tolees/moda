@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Este producto es original Levis
-- Un polo refinado con estilo, versátil y todo menos aburrido
 - Fit ajustado para un look informal y desenfadado
+- Un polo refinado con estilo, versátil y todo menos aburrido
+- Este producto es original Levis
 - Acabado en una combinación de colores náuticos
 - Textura de piqué clásico
 

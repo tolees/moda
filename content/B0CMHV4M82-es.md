@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tous Mini Bolso Pop Fucsia Para Mujer Medidas 20 5 x 16 x 6 cm Colección Rue New'
-date: 2026-09-15 18:38:48
+date: 2026-09-25 08:32:28
 image: 'https://m.media-amazon.com/images/I/41xM4TvzKbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CMHV4M82/?tag=tolees-21'
 descuento: '40.40'
-average: '61.2971428571429'
+average: '61.01'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

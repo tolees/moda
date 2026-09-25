@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Estilo informal
 - Medidas: tamaño estándar
 - Camiseta básico
+- Estilo informal
 - Ajuste regular
 
 [🛒 Visítala!!!]({{< param buyurl >}})

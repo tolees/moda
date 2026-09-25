@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ★☆Características y diseño☆★ Importado, manga larga, cierre de botones, monocolor, con bolsillo, de una sola fila, cuello con muescas, ajuste slim, chaqueta trench, doble cara, cálido, abrigo de longitud media.
 - ★☆Lavado☆★Agua fría, lavable a máquina, no usar blanqueador (se recomienda lavar a mano)
-- ★☆Notas☆★ Talla asiática, por favor, pide 1 talla más y comprueba la tabla de tallas de la izquierda y las descripciones de tallas cuidadosamente antes de realizar el pedido. Espero que hayas tenido un gran día de compras!
+- ★☆Características y diseño☆★ Importado, manga larga, cierre de botones, monocolor, con bolsillo, de una sola fila, cuello con muescas, ajuste slim, chaqueta trench, doble cara, cálido, abrigo de longitud media.
 - ★☆Tipo de material☆★95 % poliéster, 5 % elastano
 - ★☆Ocasión☆★Adecuación para juegos casuales, citas, formales, reuniones de negocios, trabajo, oficina, vida cotidiana y celebración de bodas, fiestas de Navidad, ceremonia, perfecto para primavera/otoño/invierno
+- ★☆Notas☆★ Talla asiática, por favor, pide 1 talla más y comprueba la tabla de tallas de la izquierda y las descripciones de tallas cuidadosamente antes de realizar el pedido. Espero que hayas tenido un gran día de compras!
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CP8VXY8G{{</world>}}

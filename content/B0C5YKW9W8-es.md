@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tiene detalles distintivos de la marca
 - Cuenta con un diseño ligero
+- Tiene detalles distintivos de la marca
 - Artículo de marca Vero Moda
 
 [🛒 Aquí!!!]({{< param buyurl >}})

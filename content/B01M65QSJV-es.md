@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Montura de perfil muy bajo
 - Puente nasal ajustable
 - Clip trasero con curvatura ergonómica
 - Cristales hidroscópicos curvados con una forma que permite la máxima visión periférica y foveal
-- Montura de perfil muy bajo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01M65QSJV{{</world>}}

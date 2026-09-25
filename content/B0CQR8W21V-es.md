@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dispone de un diseño transpirable
 - Con un material ligero y duradero
+- Dispone de un diseño transpirable
 - Correa pivotante en el talón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

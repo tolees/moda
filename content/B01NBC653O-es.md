@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Puntera acabada en punta: la puntera acabada en punta muestra tu encanto y atractivo
-- Medidas: Altura del tacón: 6,35 cm; Altura de la plataforma: 0,63 cm
 - Tacones de aguja cortos: los clásicos y atractivos tacones de aguja cortos son los mejores para vestir
 - Correa trasera: correa trasera con hebilla para ajustar el cierre libremente
+- Medidas: Altura del tacón: 6,35 cm; Altura de la plataforma: 0,63 cm
+- Puntera acabada en punta: la puntera acabada en punta muestra tu encanto y atractivo
 - Plantilla de cuero: la cómoda plantilla acolchada los hace ideales para llevar todo el día.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

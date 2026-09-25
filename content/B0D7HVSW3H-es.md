@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Camiseta de Manga Corta Mujer Stripe Gold con Botones Negro Black XXS'
-date: 2026-09-16 06:52:16
+date: 2026-09-21 08:29:51
 image: 'https://m.media-amazon.com/images/I/31n+a7LePTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0D7HVSW3H-es Tommy Hilfiger Camiseta de Manga Corta Mujer Stripe Gold...'
 sku: 'B0D7HVSW3H-es'
 tags: [ 'camiseta','🇪🇸', ]
-actualPrice: 36.76 EUR
+actualPrice: 11.75 EUR
 currency: EUR
-price: 36.76
+price: 11.75
 comparePrice: 59.9 EUR
 prodname: 'Tommy Hilfiger Camiseta de Manga Corta Mujer Stripe Gold con Botones Negro Black XXS'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0D7HVSW3H/?tag=tolees-21'
-descuento: '38.63'
-average: '14.73'
+descuento: '80.38'
+average: '14.134'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

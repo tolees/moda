@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JACK & JONES Jjecorp Logo tee SS Crew Neck 3pk MP Camiseta Pack de 3 1 Chaqueta Azul Marino 1 Blanco 1 Negro M EU'
-date: 2026-09-18 07:34:18
+date: 2026-09-24 08:39:58
 image: 'https://m.media-amazon.com/images/I/314myc7DFcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08QW74Q3H/?tag=tolees-21'
 descuento: '66.02'
-average: '17.353448275862'
+average: '16.7578787878787'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

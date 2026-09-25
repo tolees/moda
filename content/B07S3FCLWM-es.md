@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Grey skinny Jeans
 - Skinny ankle Jeans
+- Grey skinny Jeans
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07S3FCLWM{{</world>}}

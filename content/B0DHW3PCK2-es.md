@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Contiene detalles distintivos de la marca "Levis"
 - Pantalón corto
+- Contiene detalles distintivos de la marca "Levis"
 - Para uso diario
 
 [🛒 Visítala!!!]({{< param buyurl >}})

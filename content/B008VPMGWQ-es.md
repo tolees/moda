@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Cuello redondo
-- Tejido Canalé 1x1
 - Camiseta de algodón 100%
+- Tejido Canalé 1x1
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B008VPMGWQ{{</world>}}

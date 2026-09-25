@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- PESO: 0,875 KG
 - BOLSO
 - 100% POLIURETANO
-- PESO: 0,875 KG
-- SOLAPA DE BOLSAS
 - MOCHILA MANHATTAN II
+- SOLAPA DE BOLSAS
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F11RRZ1B{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Impresión llamativa en el pecho y las mangas
-- Cuello redondo
 - Camiseta deportiva Lonsdale
-- Corte regular
+- Cuello redondo
 - Hecho de algodón puro
+- Impresión llamativa en el pecho y las mangas
+- Corte regular
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BSP6L96F{{</world>}}

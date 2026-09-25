@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tela con ojales y detalles de cordones
 - 100 % algodón
+- Tela con ojales y detalles de cordones
 - Vestido midi de manga corta globo con solapa completa abotonada en la parte delantera, cuello en V
 
 [🛒 Aquí!!!]({{< param buyurl >}})

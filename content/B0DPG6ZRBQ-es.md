@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Trim/Patch: Billabong woven label
 - Tejido: algodón jersey [160 g/m2]
 - Impresión de pantalla en frente
-- Trim/Patch: Billabong woven label
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DPG6ZRBQ{{</world>}}

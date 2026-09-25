@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Se coloca debajo de la cintura
 - La combinación perfecta de Skinny y Taper
 - Pierna estrecha
+- Se coloca debajo de la cintura
 - Con una pierna hacia abajo para un aspecto ligeramente más ajustado
 - Ajuste estrecho en el muslo
 

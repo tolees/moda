@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Reinforced stitching
 - Cargo pockets with zippers
 - Zip & button closure
-- Reinforced stitching
 - Provides comfort
 - G-Star Originals label
 

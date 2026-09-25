@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - MATERIAL - 61% Poliéster, 39% Algodón.
+- BÁSICO - Un básico casual y limpio, JJEBRADLEY - 12249341!
 - AJUSTE - Corte de ajuste relajado con cuello redondo, puños elásticos y dobladillo.
 - COMODIDAD - Sudadera monocromática con interior suave.
-- BÁSICO - Un básico casual y limpio, JJEBRADLEY - 12249341!
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZWFLPMZ{{</world>}}

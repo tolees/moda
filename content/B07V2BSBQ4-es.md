@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Columbia Fast Trek 2 Full Zip Fleece Chaqueta De Forro Polar azul marino M Hombre'
-date: 2026-09-18 07:50:59
+date: 2026-09-22 15:04:39
 image: 'https://m.media-amazon.com/images/I/31CqbMulYeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V2BSBQ4/?tag=tolees-21'
 descuento: '53.86'
-average: '32.5861904761906'
+average: '32.3604347826088'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

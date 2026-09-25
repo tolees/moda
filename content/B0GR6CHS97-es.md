@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JinBei Camiseta Manga Corta Niña Verano T-Shirt 3-4 Años Blanco Lila'
-date: 2026-09-10 12:13:55
+date: 2026-09-21 06:37:52
 image: 'https://m.media-amazon.com/images/I/41ei27pjYcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

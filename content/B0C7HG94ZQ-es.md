@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tipo de producto: sudadera con capucha y cremallera
 - Escote: capucha
+- Tipo de producto: sudadera con capucha y cremallera
 - Manga: manga larga
 - Composición del material: 61% poliéster, 39% algodón
 

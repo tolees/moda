@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Longitud regular
 - Corte regular
+- Longitud regular
 - Cuello redondo
 - Manga corta
 - Jersey individual

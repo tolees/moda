@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Una mirada original
-- Estampado gráfico de G-STAR en la parte delantera
 - Cuello acanalado
-- Proporciona comodidad
+- Una mirada original
 - Etiqueta de G-STAR Originals tejida en la costura lateral inferior
+- Estampado gráfico de G-STAR en la parte delantera
+- Proporciona comodidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D8WPBS73{{</world>}}

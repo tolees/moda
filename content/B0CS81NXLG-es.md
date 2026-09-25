@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tiene un estilo óptimo y ofrece un ajuste cómodo
-- Detalles de la marca
 - Tiene detalles distintivos de la marca
+- Detalles de la marca
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CS81NXLG{{</world>}}

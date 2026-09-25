@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- HECHA PARA LA AVENTURA: duradera, cómoda y fácil de cuidar, una chaqueta polar pensada para el senderismo y el uso diario.
-- CALIDEZ ESENCIAL: microfleece ligera y ultrasuave que aporta abrigo y comodidad para el colegio, senderismo o el día a día.
 - CAPAS VERSÁTILES: úsala sobre una camiseta o bajo un abrigo impermeable para más abrigo y protección en clima cambiante.
-- QUÉ RECIBIRÁS: 1 forro polar para jóvenes unisex Columbia, Fast Trek V Full Zip, chaqueta para chicos de microfleece, Color: Azul (Mountain Blue, Collegiate Navy), Talla: S
 - CARACTERÍSTICAS PRÁCTICAS: bolsillos con cremallera para las manos y cremallera frontal completa para poner capas con facilidad.
+- CALIDEZ ESENCIAL: microfleece ligera y ultrasuave que aporta abrigo y comodidad para el colegio, senderismo o el día a día.
+- HECHA PARA LA AVENTURA: duradera, cómoda y fácil de cuidar, una chaqueta polar pensada para el senderismo y el uso diario.
+- QUÉ RECIBIRÁS: 1 forro polar para jóvenes unisex Columbia, Fast Trek V Full Zip, chaqueta para chicos de microfleece, Color: Azul (Mountain Blue, Collegiate Navy), Talla: S
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FB2KQHL1{{</world>}}

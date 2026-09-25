@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contiene al menos un 20% de material reciclado
 - Suela de goma
+- Cierre de cordones
+- Contiene al menos un 20% de material reciclado
+- Forro textil
 - Empeine de piel
 - Horma clásica
-- Cierre de cordones
-- Forro textil
 - Puntera reforzada
 - Forro textil
 

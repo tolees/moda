@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 3 bolsillos con cremallera.
-- Chaqueta polar con cierre cremallera completa.
 - Cordón regulador elástico en cintura para un mejor ajuste.
 - Tejido polar antipeeling 100% poliéster 280 gr/m2.
+- Chaqueta polar con cierre cremallera completa.
+- 3 bolsillos con cremallera.
 - Tapeta protección interna parte superior.
 - Puños elásticos con goma.
 

@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Detalles acanalados en el cuello
-- Ofrece una comodidad óptima
 - Diseño Gant estampado en el pecho
+- Ofrece una comodidad óptima
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C1KHL1RG{{</world>}}

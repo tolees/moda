@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Manga larga
-- Corte entallado
-- Composición del material: 100% algodón
 - Camisa informal
+- Composición del material: 100% algodón
+- Corte entallado
+- Manga larga
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CLDPPBWH{{</world>}}

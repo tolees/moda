@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La sudadera Shield C-NECK SWEAT de Gant
 - Sudadera de mezcla de algodón
 - Marca
+- La sudadera Shield C-NECK SWEAT de Gant
 - Ajuste relajado, pide una talla más pequeña si prefieres un ajuste ceñido
 
 [🛒 Aquí!!!]({{< param buyurl >}})

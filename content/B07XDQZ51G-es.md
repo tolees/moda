@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Talle medio: se ajusta a la cintura
 - Cómodos en las caderas y los muslos
+- Talle medio: se ajusta a la cintura
 - LEVIS TAB: Existen diferentes variaciones de la conocida lengüeta roja. Todos los productos son originales de Levis, no importa si pone LEVIS, Levis, no está escrito o es de otro color.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

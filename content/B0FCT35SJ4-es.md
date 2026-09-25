@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Jersey de manga larga
 - Corte holgado
+- Jersey de manga larga
 - Manga larga
 
 [🛒 Comprar!!!]({{< param buyurl >}})

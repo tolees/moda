@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cuello redondo
-- Estampado gráfico en la parte delantera
 - Cuello redondo
+- Estampado gráfico en la parte delantera
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F4XHDVDC{{</world>}}

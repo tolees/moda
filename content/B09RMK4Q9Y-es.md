@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corte Slim
 - Camiseta algodón manga larga
+- Corte Slim
 - Cuello redondo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

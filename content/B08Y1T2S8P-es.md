@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Joma - Camiseta Deportiva Manga Corta Hombre 7XS -2XL - Ligera y Transpirable Ideal para Todo Tipo de Deporte'
-date: 2026-09-19 17:14:45
+date: 2026-09-23 15:27:54
 image: 'https://m.media-amazon.com/images/I/313AgMWr1RL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08Y1T2S8P/?tag=tolees-21'
 descuento: '41.70'
-average: '7.20428571428571'
+average: '7.15666666666667'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

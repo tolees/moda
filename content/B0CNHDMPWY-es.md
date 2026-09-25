@@ -29,14 +29,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Una camiseta atemporal sin complicaciones ni adornos
-- MATERIAL: 100% ALGODÓN
-- ETIQUETA ROJA LEVIS: Existen diferentes variaciones de nuestra conocida etiqueta roja. Algunas dicen LEVIS, otras dicen Levis, algunas no muestran la marca en absoluto. Para ediciones especiales, a veces incluso cambiamos el color.
-- Este Clásico Camiseta con Bolsillo clásico es una de ellas.
-- DISEÑO CLÁSICO LEVIS: Algunas cosas son perfectas tal como son.
 - Por eso lo mantuvimos simple con una silueta estilizada y una un solo bolsillo en el pecho.
-- La modelo mide 185 cm, Cintura 30", Lleva una talla M
+- ETIQUETA ROJA LEVIS: Existen diferentes variaciones de nuestra conocida etiqueta roja. Algunas dicen LEVIS, otras dicen Levis, algunas no muestran la marca en absoluto. Para ediciones especiales, a veces incluso cambiamos el color.
+- DISEÑO CLÁSICO LEVIS: Algunas cosas son perfectas tal como son.
 - ELASTICIDAD: 0% SIN ELASTICIDAD - Espera un ajuste muy ceñido inicialmente. Se aflojará con el tiempo pero no recuperará su forma. Perfecto para un look de denim clásico y rígido.
+- MATERIAL: 100% ALGODÓN
 - Una silueta clásica con un solo bolsillo en el pecho
+- La modelo mide 185 cm, Cintura 30", Lleva una talla M
+- Este Clásico Camiseta con Bolsillo clásico es una de ellas.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CNHDMPWY{{</world>}}

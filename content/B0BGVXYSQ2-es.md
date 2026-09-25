@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sudadera deportiva
-- Protege del frío
 - Cómoda de llevar
+- Protege del frío
+- Sudadera deportiva
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BGVXYSQ2{{</world>}}

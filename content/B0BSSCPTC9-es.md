@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Bolso de mano de 20 cm x 11 cm x 4 cm fabricado en Piel Sintética.
 - Interior con cuatro compartimentos, un monedero, seis ranuras para las tarjetas y un bolsillo con cremallera.
-- Con sistema de protección antirrobo RFID.
 - Asa lateral para colgártelo de la muñeca.
+- Con sistema de protección antirrobo RFID.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BSSCPTC9{{</world>}}

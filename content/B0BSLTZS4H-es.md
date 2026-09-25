@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Material de la montura: TR90; Color de la montura: Verde; Color de la varilla: Verde
 - Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes de TR18 con el sello de Eastman, gran calidad óptica y resistencia; respetuoso con el medio ambiente; protección 100% UV; Color de la lente: Azul; Apariencia de la lente: Gradiente
-- Producto original Hawkers; la caja incluye funda en microfibra y caja
 - Nuestro diseño Warwick, con sus lentes redondeadas, puente de ojo de cerradura y varillas delgadas, es uno de nuestros iconos; este modelo, de la colección Made in Spain, es el fondo de armario óptimo; disponible en varios colores de lentes y montura
 - Modelo Unisex; Medidas: Frontal 142 mm, Varillas 140 mm, Puente 20 mm, Alto 51;7 mm
-- Material de la montura: TR90; Color de la montura: Verde; Color de la varilla: Verde
+- Producto original Hawkers; la caja incluye funda en microfibra y caja
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BSLTZS4H{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Longitud del collar: 61 cm
 - Material: Acero inoxidable
-- Decorada con logotipo de Tommy Hilfiger esmaltado
+- Longitud del collar: 61 cm
 - Cierre: mosquetón
 - Collar con placa para hombre de Tommy Hilfiger
+- Decorada con logotipo de Tommy Hilfiger esmaltado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08YN27QHH{{</world>}}

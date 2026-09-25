@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dos bragas lisas y una estampada
 - Pack de 3 bragas anchas brasileñas confeccionadas en suave tejido de microfibra, sin gomas
+- Dos bragas lisas y una estampada
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DQYRLKDH{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Chaqueta Columbia Pouring Adventure III para hombre chubasquero impermeable plegable'
-date: 2026-08-19 12:15:23
+date: 2026-09-21 20:36:55
 image: 'https://m.media-amazon.com/images/I/4133KgR+lYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0CPGM2MYQ-es Chaqueta Columbia Pouring Adventure III para hombre...'
 sku: 'B0CPGM2MYQ-es'
 tags: [ 'chaqueta','🇪🇸', ]
-actualPrice: 57.59 EUR
+actualPrice: 59.99 EUR
 currency: EUR
-price: 57.59
+price: 59.99
 comparePrice: 100.0 EUR
 prodname: 'Chaqueta Columbia Pouring Adventure III para hombre chubasquero impermeable plegable'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CPGM2MYQ/?tag=tolees-21'
-descuento: '42.41'
-average: '55.55'
+descuento: '40.01'
+average: '56.1842857142857'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,6 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- CONFORT TRANSPIRABLE MEJORADO: Forro de malla que mejora la ventilación y evita la sensación de humedad.
-- LIGERA Y EMPAQUETABLE: Diseño plegable para guardar la chaqueta en mochila o equipaje de mano con facilidad.
-- COBERTURA AJUSTABLE: Capucha y dobladillo con cordón para protegerte del viento y la lluvia con ajuste seguro.
-- QUÉ RECIBIRÁS: 1 chaqueta impermeable Columbia para hombre, Pouring Adventure III, chubasquero plegable para hombre, color: negro, talla: M
-- PROTECCIÓN IMPERMEABLE OMNI-TECH: Construcción totalmente sellada para mantenerte seco con comodidad transpirable.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CPGM2MYQ{{</world>}}

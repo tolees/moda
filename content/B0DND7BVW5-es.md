@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ligeras increíblemente ligeras para llevar todo el día
 - Las correas pueden estar sueltas en tarifas estrechas
+- Ligeras increíblemente ligeras para llevar todo el día
 - Correas extremadamente suaves
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

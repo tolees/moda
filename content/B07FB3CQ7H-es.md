@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Fabricada en material cómodo
 - Sudadera deportiva
 - Con cremallera en la parte delantera
-- Fabricada en material cómodo
 - Detalles distintivos de la marca
 
 [🛒 Visítala!!!]({{< param buyurl >}})

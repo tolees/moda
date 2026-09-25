@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Manga corta
 - Tejido 100 % poliéster
+- Manga corta
 - Corte regular
 
 [🛒 Visítala!!!]({{< param buyurl >}})

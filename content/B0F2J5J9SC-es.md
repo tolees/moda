@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseño de Cuello Redondo: Camiseta de punto para mujer, manga corta, corte entallado, color sólido clásico, túnica casual ideal para verano.
-- Nota: Lavar a mano o a máquina a menos de 30 grados. No usar blanqueador y secar al aire.
-- Match: Camiseta de manga corta para cualquier ocasión. Combina con cárdigans o abrigos en primavera, otoño e invierno. Úsala sola en verano para un look moderno. Fácil de combinar con jeans, leggings, faldas, pantalones cortos, vestidos o pantalones.
 - Basic Tops para Mujer: Hecho con tejido de punto acanalado de alta calidad. Suave, elástico, ligero, transpirable y cómodo de llevar.
 - Ocasión: Camiseta y2k perfecta para uso diario, actividades casuales, al aire libre, compras, vacaciones, viajes, salidas, playa, fiestas, citas o trabajo.
+- Nota: Lavar a mano o a máquina a menos de 30 grados. No usar blanqueador y secar al aire.
+- Match: Camiseta de manga corta para cualquier ocasión. Combina con cárdigans o abrigos en primavera, otoño e invierno. Úsala sola en verano para un look moderno. Fácil de combinar con jeans, leggings, faldas, pantalones cortos, vestidos o pantalones.
+- Diseño de Cuello Redondo: Camiseta de punto para mujer, manga corta, corte entallado, color sólido clásico, túnica casual ideal para verano.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F2J5J9SC{{</world>}}

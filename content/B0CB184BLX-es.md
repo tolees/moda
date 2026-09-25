@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Llévalo con una sobrecamisa en la parte superior, un par de jeans relajados para mamá y botas gruesas y obtén un aspecto relajado y fresco para todos los días
-- Tipo de cuerpo: curvo
 - Los estilos curvos están diseñados para adaptarse a cuerpos femeninos curvos
+- Tipo de cuerpo: curvo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CB184BLX{{</world>}}

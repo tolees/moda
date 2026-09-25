@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bolsillos delanteros
 - Longitud corta
+- Bolsillos delanteros
 - Goma elástica en la muñeca
 
 [🛒 Visítala!!!]({{< param buyurl >}})

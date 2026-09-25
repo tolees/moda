@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Vestido informal para mujer con hombros descubiertos
-- Cuello acanalado
+- Corte grande
 - De algodón orgánico con etiquetas orgánicas
 - El material agradable y el buen acabado garantizan una excelente comodidad
-- Corte grande
+- Cuello acanalado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09RWSQ1G6{{</world>}}

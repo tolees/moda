@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Bolsa de bolsillo
-- Estampado jersey con capucha
 - Tejido de algodón, poliéster brushed fleece [280 g/m2]
 - Cuello: capucha
+- Estampado jersey con capucha
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DPGFW7WW{{</world>}}

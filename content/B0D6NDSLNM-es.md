@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Zapatillas transpirables para mujer
 - Suela: goma
+- Zapatillas transpirables para mujer
 - Cierre: con cordones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Helly Hansen Dubliner Para Hombre Chaqueta Impermeable con Capucha'
-date: 2026-02-16 08:15:59
+title: 'Helly Hansen Hombres Chaqueta aislante Dubliner Negro L'
+date: 2026-09-20 20:09:24
 image: 'https://m.media-amazon.com/images/I/41t-CylJryL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B06XH6HWGD-es Helly Hansen Dubliner Para Hombre Chaqueta Impermeable con...'
+slug: 'B06XH6HWGD-es Helly Hansen Hombres Chaqueta aislante Dubliner Negro L'
 sku: 'B06XH6HWGD-es'
 tags: [ 'chaqueta','🇪🇸', ]
-actualPrice: 93.95 EUR
+actualPrice: 99.95 EUR
 currency: EUR
-price: 93.95
+price: 99.95
 comparePrice: 170.0 EUR
-prodname: 'Helly Hansen Dubliner Para Hombre Chaqueta Impermeable con Capucha'
+prodname: 'Helly Hansen Hombres Chaqueta aislante Dubliner Negro L'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XH6HWGD/?tag=tolees-21'
-descuento: '44.74'
-average: '86.8399999999999'
+descuento: '41.21'
+average: '88.1509999999999'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,6 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La capucha puede guardarse en el collar para cuando no llueva.
-- Protección total de los elementos a la vez que cómoda en el interior.
-- Forrado para la comodidad
-- Protección Helly Tech: totalmente impermeable, a prueba de viento y transpirable
-- El aislamiento sintético Primaloft Black 100 g ofrece propiedades térmicas y repelencia al agua, una excelente alternativa al uso del plumón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B06XH6HWGD{{</world>}}

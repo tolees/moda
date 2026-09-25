@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Material cepillado con interior suave
-- Estampado estampado en la tela con aspecto 3D
 - Forro de la capucha del mismo material
+- Estampado estampado en la tela con aspecto 3D
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C36RFKY2{{</world>}}

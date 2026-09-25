@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello de camisa
 - Puño ajustable con botón
 - Panel en los hombros con detalle de trabilla debajo
+- Cuello de camisa
 - Cierre de botones
 - Un bolsillo en el pecho
 

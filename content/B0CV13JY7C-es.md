@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Felpa perchada suave, cómoda y cálida
-- Capucha de 3 paneles forrada con tejido Single Jersey y cremallera de nylon
 - Cubrecosturas reforzado con cinta Jersey en el interior del cuello
+- Capucha de 3 paneles forrada con tejido Single Jersey y cremallera de nylon
 - Puños y cinturilla indeformables en punto canalé 2 x 1 con elastano
 - Bolsillo tipo canguro con vivos en las aberturas y costuras de refuerzo
 

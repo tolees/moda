@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Estas zapatillas Jelexa de GUESS, que incorporan un cierre de cordones y una placa metálica con un logotipo distintivo en un lateral, se presentan en una mezcla de colores y materiales de esta temporada. Son cómodas y frescas, perfectas para llevarlas sin calcetines
-- Parte superior de piel sintética y en textil
 - Puntera redonda; cierre con cordones
+- Parte superior de piel sintética y en textil
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D9PGV973{{</world>}}

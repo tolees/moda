@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- ONLY Debbie Lace Detail Cami Singlet Top
 - Regular
 - 51% Poliamida, 49% Poliamida
-- ONLY Debbie Lace Detail Cami Singlet Top
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08RDVQ4PF{{</world>}}

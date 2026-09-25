@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bordado del logo Arch Billabong en el pecho
-- __Tejido:__ polar con doble tinte de 280 g/m2, fabricado con algodón y poliéster reciclados
 - __Detalles:__ cara interior cepillada
+- __Tejido:__ polar con doble tinte de 280 g/m2, fabricado con algodón y poliéster reciclados
+- Bordado del logo Arch Billabong en el pecho
 - Etiqueta de tela
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

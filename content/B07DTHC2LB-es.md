@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Prenda de diseño ligero de la marca Jack&Jones para moda masculina
 - JACK & JONES apoya la iniciativa Better Cotton usando algodón orgánico o reciclado
+- Prenda de diseño ligero de la marca Jack&Jones para moda masculina
 - Durabilidad con material sostenible
-- Paquete múltiples unidades
 - Hecho con algodón orgánico
+- Paquete múltiples unidades
 - Tela suave y ligera
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Botones metálicos con la marca de Levi’s y costuras entalladas en “V” que la hacen inmediatamente reconocible
-- Este básico emblemático sienta igual de bien a todo el mundo, incluso en tallas o pequeñas
 - La chaqueta jean original diseñada con una artesanía ior y un cómodo forro sherpa
+- Este básico emblemático sienta igual de bien a todo el mundo, incluso en tallas o pequeñas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BMGLT5KC{{</world>}}

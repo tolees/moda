@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tipo de estiramiento: no elástico
-- Corte: normal
-- Sudadera
 - Instrucciones de cuidado: lavable a máquina
+- Corte: normal
+- Tipo de estiramiento: no elástico
+- Sudadera
 - Composición: 80% algodón, 20% poliéster
 
 [🛒 Visítala!!!]({{< param buyurl >}})

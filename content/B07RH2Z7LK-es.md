@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Cuello redondo
+- Proporciona comodidad
 - Una mirada original
 - Cómoda tela elástica
 - Manga larga
-- Cuello redondo
-- Proporciona comodidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07RH2Z7LK{{</world>}}

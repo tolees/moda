@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- DISEÑADO EN DINAMARCA Somos una empresa familiar con sede en Copenhague Estos calzoncillos han sido diseñados por nuestro equipo para ofrecerte la máxima comodidad sin renunciar al estilo ni a la calidad
 - MATERIALES DE PRIMERA CALIDAD Composición 90 % Poliéster (Reciclado) y 10 % Elastano. Lavar a máquina máx 40 °C No usar secadora
 - TRANSPIRABLES, LIGEROS Y FRESCOS: Nuestro calzoncillo deportivo para correr cuenta con materiales de secado rápido que absorben la humedad y paneles de malla que ayudan a mantenerte seco y cómodo con propiedades que reducen el mal olor
 - GARANTÍA ANTIAGUJEROS ¿Se te ha hecho un agujero en los calzoncillos durante el primer año desde la compra? Te enviamos un recambio gratis Si tienes alguna duda nuestro servicio de atención al cliente estará encantado de ayudarte
+- DISEÑADO EN DINAMARCA Somos una empresa familiar con sede en Copenhague Estos calzoncillos han sido diseñados por nuestro equipo para ofrecerte la máxima comodidad sin renunciar al estilo ni a la calidad
 - AJUSTE DEPORTIVO DE ALTO RENDIMIENTO: Disponible con pernera normal o larga, nuestros calzoncillos bóxer están diseñados para moverse contigo sin deslizarse ni subirse gracias a su ajuste sin bragueta que aporta sujeción óptima para el deporte
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

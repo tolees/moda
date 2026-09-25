@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Estampado Paisley
-- Desigual
-- Largo: Midi
 - Cuello: en V
-- Manga: Larga
+- Desigual
 - Fit: Slim
+- Estampado Paisley
+- Largo: Midi
+- Manga: Larga
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DW9J2MXH{{</world>}}

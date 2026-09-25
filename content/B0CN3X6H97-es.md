@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Columbia Chaqueta Larga para Mujer Panorama'
-date: 2026-06-11 05:00:15
+date: 2026-09-24 13:05:35
 image: 'https://m.media-amazon.com/images/I/31s3wlaqgWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0CN3X6H97-es Columbia Chaqueta Larga para Mujer Panorama'
 sku: 'B0CN3X6H97-es'
 tags: [ 'chaqueta','🇪🇸', ]
-actualPrice: 65.5 EUR
+actualPrice: 67.33 EUR
 currency: EUR
-price: 65.5
+price: 67.33
 comparePrice: 130.0 EUR
 prodname: 'Columbia Chaqueta Larga para Mujer Panorama'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CN3X6H97/?tag=tolees-21'
-descuento: '49.62'
-average: '65.5'
+descuento: '48.21'
+average: '66.415'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,6 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Confort y calor óptimos gracias al material de vellón sherpa
-- Sutil logo de Columbia, Un elemento básico de invierno imprescindible para el guardarropa de cualquier mujer
-- Bolsillo oculto y bolsillos para las manos para guardar objetos de valor
-- Disponible en una gran elegante variedad de colores otoñales
-- Contenido: 1x Columbia Chaqueta Larga para Mujer, Panorama, Color: Marrón (Dark Stone), Talla: L, Art.: 1862582
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CN3X6H97{{</world>}}

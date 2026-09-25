@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Ajuste cómodo
 - De manga corta
 - Camiseta para hombre de la marca Jack&Jones
 - Tiene detalles distintivos de la marca
-- Ajuste cómodo
 - Durabilidad con material sostenible
 
 [🛒 Aquí!!!]({{< param buyurl >}})

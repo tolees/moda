@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ofrecen una comodidad óptima
 - Tejido ligero y suave
+- Ofrecen una comodidad óptima
 - Detalles distintivos de la marca
 
 [🛒 Comprar!!!]({{< param buyurl >}})

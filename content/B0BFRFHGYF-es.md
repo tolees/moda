@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - GEORGETTE SATINADO LIGERO: con un acabado suave y una elegante caída, esta ligera tela georgette satinada ofrece un aspecto refinado durante todo el año
 - CORTE ESTÁNDAR: corte ajustado pero cómodo con fácil movimiento
-- DETALLES: cuenta con un cuello camisero clásico, cierre con botones en la parte delantera, mangas largas con puños anchos, dobladillo redondeado y canesú trasero con plisado que proporciona una sensación holgada
 - BLUSA DE SATÉN ESENCIAL: esta versátil blusa de satén es un clásico imprescindible de tu armario que se adapta perfectamente tanto al día como a la noche. Perfecta para un look informal combinada con vaqueros o para una noche de fiesta con pantalones y tacones
+- DETALLES: cuenta con un cuello camisero clásico, cierre con botones en la parte delantera, mangas largas con puños anchos, dobladillo redondeado y canesú trasero con plisado que proporciona una sensación holgada
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BFRFHGYF{{</world>}}

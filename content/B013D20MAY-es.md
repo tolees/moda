@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Camisetas versátiles para cualquier ocasión
 - Hecho de materiales suaves y duraderos.
 - Ideal para combinar con vaqueros o pantalones cortos.
-- Camisetas versátiles para cualquier ocasión
 - Cómodo cuello redondo.
 - Disponible en varios colores y diseños
 

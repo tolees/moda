@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JACK & JONES Chaqueta Bomber'
-date: 2026-09-17 13:29:35
+date: 2026-09-21 17:49:51
 image: 'https://m.media-amazon.com/images/I/31aFX8zJlZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B091TWQZML/?tag=tolees-21'
 descuento: '20.77'
-average: '23.348'
+average: '22.7257142857143'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

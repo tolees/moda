@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tejido tubular, sin costuras laterales
-- Diseño ligero que ofrece comodidad
 - Cuello de canalé
+- Diseño ligero que ofrece comodidad
+- Tejido tubular, sin costuras laterales
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B072PYKZLM{{</world>}}

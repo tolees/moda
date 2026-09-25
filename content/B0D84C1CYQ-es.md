@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Rayas navales clásicas
-- Gant Logotipo bordado en la manga
 - Corte ajustado
+- Gant Logotipo bordado en la manga
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D84C1CYQ{{</world>}}

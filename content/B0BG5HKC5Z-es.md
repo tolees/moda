@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Lazo suelto con logotipo en la parte posterior
 - Acolchado de rayas rectas
+- Lazo suelto con logotipo en la parte posterior
 - Corte regular
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Calzado fácil de poner
 - Plantilla extraíble
+- Calzado fácil de poner
 - Cierre de encaje y cremallera
 
 [🛒 Aquí!!!]({{< param buyurl >}})

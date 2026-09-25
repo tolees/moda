@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillo interior y ribetes
-- Abrigo clásico de hombre con cuello de solapa
-- Corte largo
 - Hecho de poliéster con forro de tafetán
+- Bolsillo interior y ribetes
+- Corte largo
 - Corte grande con hombros superpuestos
+- Abrigo clásico de hombre con cuello de solapa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B6JNHXW1{{</world>}}

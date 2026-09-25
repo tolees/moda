@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Ideal para combinar comodidad y tendencia en el día a día. Este modelo ha obtenido el certificado vegano por la organización mundial PETA (Organización de los derechos de los animales)
 - [Nuestra Marca]: XTI se caracteriza por su moda urbana y funcional con calzado que combina las últimas tendencias con comodidad y versatilidad para un estilo de vida activo y moderno.
-- Zapatilla de mujer, de la marca Xti. Fabricada en material que imita la piel, con un elegante detalle metalizado en el lateral que aporta un toque moderno
 - La talonera con diseño animal print añade un estilo atrevido y actual. Modelo plano con cordones para un ajuste cómodo y personalizado
+- Zapatilla de mujer, de la marca Xti. Fabricada en material que imita la piel, con un elegante detalle metalizado en el lateral que aporta un toque moderno
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GFGG5VVH{{</world>}}

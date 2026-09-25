@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Rápido y fácil de poner
 - Plantilla extraíble
 - Cómodo y ligero
+- Rápido y fácil de poner
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CPQ1YPPW{{</world>}}

@@ -1,19 +1,19 @@
 ---
 layout: post
-title: 'NIKE Victori One Chanclas Hombre Black White Black 45 EU'
-date: 2026-09-14 14:19:30
+title: 'NIKE - Chanclas para: Hombre Color: Black White Black Talla: 45'
+date: 2026-09-25 08:00:36
 image: 'https://m.media-amazon.com/images/I/317zFuc3p3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B08PKGGYXP-es NIKE Victori One Chanclas Hombre Black White Black 45 EU'
+slug: 'B08PKGGYXP-es NIKE - Chanclas para: Hombre Color: Black White Black...'
 sku: 'B08PKGGYXP-es'
 tags: [ 'chanclas','🇪🇸', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99
 comparePrice: 37.99 EUR
-prodname: 'NIKE Victori One Chanclas Hombre Black White Black 45 EU'
+prodname: 'NIKE - Chanclas para: Hombre Color: Black White Black Talla: 45'
 country: 'es'
 flag: '🇪🇸'
 brand: ''

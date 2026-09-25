@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tinte para prendas con lavado reactivo
-- Bolsillos con botones en la parte trasera
 - Pantalón chino ajustado de algodón en estructura de sarga
+- Bolsillos con botones en la parte trasera
+- Tinte para prendas con lavado reactivo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DTJKMGF3{{</world>}}

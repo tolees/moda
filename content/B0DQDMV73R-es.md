@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 100 % algodón
-- Algodón de manga corta de ajuste regular
 - Camiseta con un gran logotipo en el pecho
+- Algodón de manga corta de ajuste regular
+- 100 % algodón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DQDMV73R{{</world>}}

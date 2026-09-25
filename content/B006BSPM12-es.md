@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cierre de hebilla grabado con el logo de la marca
-- Diseño simple y versátil
 - Cinturón marca Wrangler
+- Diseño simple y versátil
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B006BSPM12{{</world>}}

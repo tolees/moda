@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cremallera de fácil acceso
-- Fabricado con contenido reciclado
 - Bolsillos con cremallera
+- Fabricado con contenido reciclado
 - Ribete elástico en puños y dobladillo.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

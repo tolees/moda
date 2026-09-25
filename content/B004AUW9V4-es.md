@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Tienen detalles distintivos de la marca
 - Guantes de entrenamiento de natación
 - Están hechos de neopreno
-- Tienen detalles distintivos de la marca
 - Fáciles de usar
 
 [🛒 Comprar!!!]({{< param buyurl >}})

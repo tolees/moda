@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 100% poliéster
 - Logotipo del felino PUMA en el pecho
-- Cuello redondo
 - Bloques de color en mangas, cuello y laterales del extremo inferior
+- Cuello redondo
+- 100% poliéster
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07XDZMKRH{{</world>}}

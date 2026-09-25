@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Camiseta Para hombre
 - Clásico
-- Corte normal
 - Cómodo
 - Cuello redondo y serigrafía estampada en el pecho
-- Camiseta Para hombre
+- Corte normal
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0825N2TQZ{{</world>}}

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Una camisa versátil que puedes combinar con vaqueros o chinos
-- Acabada con un discreto logotipo en el pecho
 - Diseñada con un fit estilizado y ajustado
+- Acabada con un discreto logotipo en el pecho
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CNHDNTXD{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cómodo jersey de algodón y poliéster
 - Sudadera con capucha
 - Bolsillos tipo canguro en la parte delantera
 - RIB en las mangas y en la parte inferior
+- Cómodo jersey de algodón y poliéster
 - Logotipo ROXY en lámina en la parte delantera
 
 [🛒 Aquí!!!]({{< param buyurl >}})

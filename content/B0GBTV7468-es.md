@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Arshiner Vestidos de Verano para niña Plisados Mangas onduladas Vestido Festivo Vestido de Camiseta para niña Manga Corta Corte A Vestidos Infantiles Rojo Talla 150 11-12 años'
-date: 2026-09-10 06:19:48
+date: 2026-09-20 22:19:50
 image: 'https://m.media-amazon.com/images/I/41t3M-mI39L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

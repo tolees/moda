@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- TEJIDO - 48% Modal, 48% Algodón, 4% Elastano.
-- COMODIDAD - La camiseta de manga 3/4 con escote de barco.
-- BÁSICO - Un básico versátil y combinable VMPANDA - 10274133, para tu look diario.
 - AJUSTE - Corte regular elástico. La modelo mide 175 cm y lleva la talla S. La longitud delantera en esta talla es de: 58cm.
+- BÁSICO - Un básico versátil y combinable VMPANDA - 10274133, para tu look diario.
+- COMODIDAD - La camiseta de manga 3/4 con escote de barco.
+- TEJIDO - 48% Modal, 48% Algodón, 4% Elastano.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09M9T3CKB{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- GORE R5 Camiseta, Talla: XXL, Color: negro, 100614
-- Corte recto/Específico para runners, Detalles reflectantes
-- Camiseta de running para clima templado
 - Confección confortable, Diseño versátil, Sumamente cómodo
 - GORE Selected Fabrics: Transporte rápido de la humedad y extremadamente transpirable
+- Camiseta de running para clima templado
+- Corte recto/Específico para runners, Detalles reflectantes
+- GORE R5 Camiseta, Talla: XXL, Color: negro, 100614
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07WLT7M6J{{</world>}}

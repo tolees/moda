@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Manga corta
 - Composición del material: 100 % algodón
+- Manga corta
 - Camiseta
 - Ajuste holgado
 

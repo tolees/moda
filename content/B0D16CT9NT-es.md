@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseño flexible y detalles reflectantes
 - Bolsillo y bolsillos laterales con cremallera
+- Diseño flexible y detalles reflectantes
 - Cremallera completa con ajuste regular
 
 [🛒 Comprar!!!]({{< param buyurl >}})

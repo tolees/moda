@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello: cuello redondo
 - Manga corta
+- Cuello: cuello redondo
 - Material principal: piqué
 - Corte: holgado
 - Largo: estándar

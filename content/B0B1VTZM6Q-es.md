@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Este chaleco es suave y mejora tu aspecto idealmente
-- Hombro caído
 - Corte normal
+- Hombro caído
+- Este chaleco es suave y mejora tu aspecto idealmente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B1VTZM6Q{{</world>}}

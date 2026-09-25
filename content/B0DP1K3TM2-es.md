@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Plantillas suaves y cómodas
 - Champion Logotipo C
+- Plantillas suaves y cómodas
 - Fabricado con materiales y construcción duraderos y de calidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})

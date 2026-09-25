@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con este famoso logotipo de Housemark
+- Ajuste estándar
 - Puños y dobladillo acanalados
 - Un suéter versátil para todos los días
-- Ajuste estándar
+- Con este famoso logotipo de Housemark
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D54JJ9Y4{{</world>}}

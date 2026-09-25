@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Estilo casual y actual
 - Adecuado para el uso diario
+- Estilo casual y actual
 - Bolso ligero, resistente y cómodo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

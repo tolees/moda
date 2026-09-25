@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GUESS MERIDIAN II GIRLFRIEND TOTE'
-date: 2026-09-12 14:34:19
+date: 2026-09-22 10:58:51
 image: 'https://m.media-amazon.com/images/I/31fMihJVBcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

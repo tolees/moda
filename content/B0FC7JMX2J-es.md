@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Bolsillos con cremallera.
+- Capucha ajustable integrada.
 - Dobladillo ajustable con cordón.
 - Bolsillos en el pecho impermeables con cremallera.
-- Bolsillos con cremallera.
 - Puños ajustables.
 - Omni-Tech impermeable/transpirable con costuras totalmente selladas.
-- Capucha ajustable integrada.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FC7JMX2J{{</world>}}

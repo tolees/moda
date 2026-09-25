@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Havaianas - Slim Chanclas Elegantes Duraderas y Versátiles con Suela Texturizada para Agarre y Soporte Mujer'
-date: 2026-09-15 09:58:10
+date: 2026-09-21 23:02:23
 image: 'https://m.media-amazon.com/images/I/51hCbStd8eL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LM6UN9Y/?tag=tolees-21'
 descuento: '36.37'
-average: '18.293125'
+average: '18.3816666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

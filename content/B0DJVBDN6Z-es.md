@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Los puertos de ventilación añaden transpirabilidad y ayudan a drenar el agua y los desechos
+- Zapatos adecuados para playa o barco
 - Fáciles de limpiar y de secado rápido
 - La correa del talón ofrece un ajuste seguro
-- Zapatos adecuados para playa o barco
 - Suela ligera que no deja marcas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

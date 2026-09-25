@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- __Correa:__ Elástico sintético flexible fijado en 3 puntos
 - __Forro:__ líneas estrechas en el lateral que coinciden con el resto de la variante de color
 - Suela exterior: __ Suela de goma de espuma revisada con nariz de logotipo en ángulo múltiple para mayor agarre
+- __Correa:__ Elástico sintético flexible fijado en 3 puntos
 - Plantilla antideslizante con textura
 - Tejido: material exterior sintético
 

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Lavar a máquina en agua fría con prendas de colores similares. No usar lejía. Secar en secadora a baja temperatura. No utilizar suavizantes. No planchar. No limpiar en seco
-- Cuello, puños y bajo acanalados
 - Tejido Fleece de mezcla de algodón ultrasuave de peso medio con interior cepillado para una mayor calidez
+- Cuello, puños y bajo acanalados
 - El objetivo del calentamiento no es solo entrar en calor antes del gran momento (aunque este tejido Fleece probablemente sea uno de los tejidos más cómodos del mundo), sino más bien sirve concentrarse y ponerse físicamente a punto.
 - Diseño alargado en el cuerpo y sisas caídas para un ajuste extragrande
+- Lavar a máquina en agua fría con prendas de colores similares. No usar lejía. Secar en secadora a baja temperatura. No utilizar suavizantes. No planchar. No limpiar en seco
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CCKB47LB{{</world>}}

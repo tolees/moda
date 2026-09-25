@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Care Label:
 - Slim Fit
-- 5-pocket trousers
 - Mid waist
 - materialFabricComposition: 77% Viscose - Polyurethane coated, 20% Nylon - Polyurethane coated, 3% Elastane - Polyurethane coated
+- Care Label:
+- 5-pocket trousers
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00X7VM5SY{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Una mirada original
-- Proporciona comodidad
 - Cuello alzado
 - Tela gruesa
+- Una mirada original
+- Proporciona comodidad
 - Cierre de cremallera
 
 [🛒 Aquí!!!]({{< param buyurl >}})

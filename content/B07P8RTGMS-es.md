@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Leggins con las siguientes características:
-- Ajuste : Estrechos
 - Descubre todas las marcas de EMP!
+- Ajuste : Estrechos
 - Básicos, Ropa de Calle
 - Leggings || Longitud: Normal || altura de la cintura: Talla Grande
 

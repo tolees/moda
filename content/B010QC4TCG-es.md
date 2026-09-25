@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Estos vaqueros ajustados de la casa ONLY se ajustan de forma suave y fiable a la pierna. Los pantalones tienen un corte estrecho y acentúan la pierna gracias al porcentaje elástico en la mezcla de fibras suaves.
-- El modelo de 5 bolsillos con cintura alta evoca grandes curvas e incluso logra hacer que la cintura sea visualmente más estrecha. Elegante también es el tejido azul uniforme, que permite muchas combinaciones.
-- Flaco
 - Material elástico
+- Estos vaqueros ajustados de la casa ONLY se ajustan de forma suave y fiable a la pierna. Los pantalones tienen un corte estrecho y acentúan la pierna gracias al porcentaje elástico en la mezcla de fibras suaves.
+- Flaco
+- El modelo de 5 bolsillos con cintura alta evoca grandes curvas e incluso logra hacer que la cintura sea visualmente más estrecha. Elegante también es el tejido azul uniforme, que permite muchas combinaciones.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B010QC4TCG{{</world>}}

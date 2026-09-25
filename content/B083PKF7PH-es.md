@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Estilo icónico de Element
 - Cordones de algodón orgánico
-- Adhesivos al agua
 - Empeine de cuero y ante con suela exterior de goma reciclada
+- Estilo icónico de Element
+- Adhesivos al agua
 - Interior de malla hecha de poliéster reciclado
 
 [🛒 Visítala!!!]({{< param buyurl >}})

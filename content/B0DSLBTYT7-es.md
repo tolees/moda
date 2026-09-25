@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Lavar a máquina
-- Cintura elástica con cordón
 - Logotipo bordado
 - Cuerpo/Malla: 100% Poliéster
+- Cintura elástica con cordón
+- Lavar a máquina
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DSLBTYT7{{</world>}}

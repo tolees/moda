@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Camisa de manga corta regular fit, tejido pinpoint 100% algodón
-- Camisa manga corta en tejido pinpoint 100% algodón
 - Cinta de rayas en el interior del cuello
+- Camisa manga corta en tejido pinpoint 100% algodón
+- Camisa de manga corta regular fit, tejido pinpoint 100% algodón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CQZ2TB48{{</world>}}

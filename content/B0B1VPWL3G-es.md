@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Logo de Helly Hansen (HH) bordado
 - Bolsillos
+- Logo de Helly Hansen (HH) bordado
 - CREMALLERA YKK
 - Artículos entregados: 1x Helly Hansen Womens W Maud Pile Jacket - Midlayer CREAM XS
 - Contenido reciclado
