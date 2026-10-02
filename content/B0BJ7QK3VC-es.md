@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cremallera
-- Pierna recta
 - Cintura media
 - Corte estándar
 - Bolsillos laterales
+- Pierna recta
+- Cremallera
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BJ7QK3VC{{</world>}}

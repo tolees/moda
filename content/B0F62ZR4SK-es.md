@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Resistentes al agua
 - Tiene detalles distintivos de la marca
+- Resistentes al agua
 - Chanclas para la piscina o la playa
 
 [🛒 Comprar!!!]({{< param buyurl >}})

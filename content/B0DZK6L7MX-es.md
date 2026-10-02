@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Resistente al agua
 - Antideslizante
 - Plantilla de espuma viscoelástica refrigerada por aire
+- Resistente al agua
 - EN ISO 20347:2022, OB FO WR SR
 - Cordones impermeables con suela antideslizante
 

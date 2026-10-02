@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fuerza +1,50.
-- Robusto diseño de marco con bisagras de calidad.
 - Elegante hombres / mujeres / unisex estilo diseñador lectores de sol gafas de lectura.
 - Para la lectura en el sol (protección UV400, bloquea los rayos UVA y UVB).
+- Robusto diseño de marco con bisagras de calidad.
 - Acabado de carey de marrón.
+- Fuerza +1,50.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B06XD8MRZ7{{</world>}}

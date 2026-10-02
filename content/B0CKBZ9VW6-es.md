@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello acanalado
-- Etiqueta de G-Star RAW tejida en la costura lateral inferior
 - Bajo curvado
+- Etiqueta de G-Star RAW tejida en la costura lateral inferior
+- Cuello acanalado
 - Extremos de las mangas con vuelta fija
 - Estampado gráfico en la parte delantera
 

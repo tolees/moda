@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material interior: sintético
-- Forma del talón: plano
 - Material superior: goma
 - Cierre: etilvinilacetato
+- Material interior: sintético
+- Forma del talón: plano
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B098JPX43V{{</world>}}

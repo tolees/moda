@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fabricado con contenido reciclado
 - Bolsillos con cremallera
+- Fabricado con contenido reciclado
 - Ribete elástico en puños y dobladillo.
 - Ribete elástico en el cuello
 

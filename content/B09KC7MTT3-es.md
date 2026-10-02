@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cintura elástica
 - Mezcla de algodón y elastano para durabilidad y flexibilidad
 - Cuenta con un ajuste regular
+- Cintura elástica
 - Calzoncillos negros para hombre en paquete de 5 unidades
 
 [🛒 Aquí!!!]({{< param buyurl >}})

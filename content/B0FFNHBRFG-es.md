@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Reebok 80 S Vector Camiseta'
-date: 2026-09-07 19:56:13
+date: 2026-10-01 04:38:55
 image: 'https://m.media-amazon.com/images/I/31BM-PEsrUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0FFNHBRFG-es Reebok 80 S Vector Camiseta'
 sku: 'B0FFNHBRFG-es'
 tags: [ 'camiseta','🇪🇸', ]
-actualPrice: 14.0 EUR
+actualPrice: 13.3 EUR
 currency: EUR
-price: 14.0
+price: 13.3
 comparePrice: 35.0 EUR
 prodname: 'Reebok 80 S Vector Camiseta'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FFNHBRFG/?tag=tolees-21'
-descuento: '60.00'
-average: '15.75'
+descuento: '62.00'
+average: '14.525'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,6 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- TEJIDO PREMIUM: Jersey 100 % algodón que proporciona sensación suave, transpirable y caída relajada
-- DETALLE DE ESTILO ICÓNICO: Logo vintage sobre base blanca limpia que añade carácter de archivo y versatilidad effortless
-- DISEÑO CLÁSICO: Camiseta de algodón con destacado branding vintage para un atractivo atemporal
-- AJUSTE: Corte regular para un uso cómodo y relajado
-- IDEAL PARA: Uso diario y estilo inspirado en el heritage
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FFNHBRFG{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sujetador con aros
 - Tirantes ajustables
+- Sujetador con aros
 - Tacto suave
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

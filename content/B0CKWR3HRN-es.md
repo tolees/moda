@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Helly Hansen Hombres Chaqueta polar Daybreaker Schwarz 3.0 L'
-date: 2026-03-23 18:25:43
+date: 2026-10-01 00:40:39
 image: 'https://m.media-amazon.com/images/I/31fQ9nVM-VL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0CKWR3HRN-es Helly Hansen Hombres Chaqueta polar Daybreaker Schwarz 3.0 L'
 sku: 'B0CKWR3HRN-es'
 tags: [ 'chaqueta','🇪🇸', ]
-actualPrice: 43.95 EUR
+actualPrice: 45.43 EUR
 currency: EUR
-price: 43.95
+price: 45.43
 comparePrice: 80.0 EUR
 prodname: 'Helly Hansen Hombres Chaqueta polar Daybreaker Schwarz 3.0 L'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CKWR3HRN/?tag=tolees-21'
-descuento: '45.06'
-average: '46.645'
+descuento: '43.21'
+average: '46.0375'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,6 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Apertura frontal con cremallera YKK completa
-- Logotipo HH bordado en el pecho
-- Costuras planas para un bajo volumen
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CKWR3HRN{{</world>}}

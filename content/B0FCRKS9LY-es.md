@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Billabong Sudadera Arch PO para Hombre Color Verde'
-date: 2026-09-08 22:21:51
+date: 2026-10-01 06:53:06
 image: 'https://m.media-amazon.com/images/I/314UxM0QV8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,6 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- __Tejido:__ polar con doble tinte de 280 g/m2, fabricado con algodón y poliéster reciclados
-- Etiqueta de tela
-- Bordado del logo Arch Billabong en el pecho
-- __Detalles:__ cara interior cepillada
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FCRKS9LY{{</world>}}

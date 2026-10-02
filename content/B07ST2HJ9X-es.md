@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Scratch
-- piel
 - Medio
 - Plano
+- piel
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07ST2HJ9X{{</world>}}

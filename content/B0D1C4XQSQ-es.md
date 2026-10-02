@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Corte : Corte relaxed
-- Cuello : Cuello cubano
-- Artículo : Camisa
-- Cierre : Cierre de botones
 - Manga : Manga corta
+- Cuello : Cuello cubano
+- Cierre : Cierre de botones
+- Artículo : Camisa
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D1C4XQSQ{{</world>}}

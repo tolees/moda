@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fabricada en material cómodo
-- Camiseta de manga corta
 - Para uso diario
+- Camiseta de manga corta
+- Fabricada en material cómodo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BLCY9MMK{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Anillo en D para cable de matar
+- Capucha ajustable con cordón
 - Hilos AMANN - calidad alemana
 - Bolsillos para las manos
-- Capucha ajustable con cordón
-- Anillo en D para cable de matar
 - CREMALLERA YKK
 
 [🛒 Visítala!!!]({{< param buyurl >}})

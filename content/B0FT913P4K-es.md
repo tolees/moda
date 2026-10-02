@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Corte de pierna más amplio
-- Vaqueros Anchos
 - Composición: 79% algodón, 20% algodón reciclado, 1% elastano
+- Vaqueros Anchos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FT913P4K{{</world>}}

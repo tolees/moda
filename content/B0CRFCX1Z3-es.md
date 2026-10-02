@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Composición: 70 por ciento lyocell 30 por ciento de lino
-- Camiseta informal
 - Ajuste: corte regular
+- Composición: 70 por ciento lyocell 30 por ciento de lino
 - Manga Corta
 - Instrucciones de cuidado: lavable a máquina
+- Camiseta informal
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CRFCX1Z3{{</world>}}

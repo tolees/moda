@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Vestido De Elastano
 - Vestido Corto
+- Vestido De Elastano
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FCMY6QC8{{</world>}}

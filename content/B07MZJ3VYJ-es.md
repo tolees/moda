@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bajo recto
-- Cuello acanalado
 - Proporciona comodidad
+- Cuello acanalado
+- Bajo recto
 - Una mirada original
 - Estampado de G-Star RAW en la parte delantera
 

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material exterior: poliuretano
 - Cierre: cordones
+- Material exterior: poliuretano
 - Forro: sintético
 
 [🛒 Visítala!!!]({{< param buyurl >}})

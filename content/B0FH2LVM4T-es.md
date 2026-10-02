@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corte ajustado
 - Pierna recta
+- Corte ajustado
 - Composición: 77% algodón 21 por ciento poliéster 2 por ciento elastano
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Material: CZ, plata esterlina
-- Medidas: longitud total: 420 mm + 50 mm
-- Tipo de cierre: cierre de langosta
 - Acabado: pulido
+- Tipo de cierre: cierre de langosta
+- Medidas: longitud total: 420 mm + 50 mm
 - Color: 2 tonos, oro, plata
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Corte ajustado en la cadera y los muslos y tiro alto que te mantiene bien
 - Una silueta bootcut clásica que alarga la pierna
-- Prenda confeccionada con TENCEL Lyocell, una fibra suave que se obtiene de madera de origen sostenible
 - Diseñados para lucir piernas
+- Prenda confeccionada con TENCEL Lyocell, una fibra suave que se obtiene de madera de origen sostenible
 - Este producto es original Levis
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -29,12 +29,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Dos bolsillos calientamanos en la parte baja del frente
+- Loose Fit
+- Manga larga
+- Tejido polar de peso medio
+- Capucha de tres piezas con cordón ajustable
 - Logotipo de Carhartt estampado en el pecho
 - Puños y cintura de canalé elástico reforzado con elastano
-- Capucha de tres piezas con cordón ajustable
-- Manga larga
-- Loose Fit
-- Tejido polar de peso medio
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07B3NGLRN{{</world>}}

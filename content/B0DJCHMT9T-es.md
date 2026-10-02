@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Detalles distintivos de la marca
 - Diseño flexible y ligero
+- Detalles distintivos de la marca
 - Ofrecen una comodidad óptima
 
 [🛒 Comprar!!!]({{< param buyurl >}})

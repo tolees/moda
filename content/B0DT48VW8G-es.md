@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ligera y de secado rápido
 - Protección fiable contra la radiación solar intensa
-- Bolsillo en el pecho con botón
 - Tratada con HeiQ Fresh: tecnología natural que reduce los malos olores
+- Bolsillo en el pecho con botón
+- Ligera y de secado rápido
 - Pliegue de movimiento en la espalda para mayor comodidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})

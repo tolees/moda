@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tinte y lavado reactivo
 - Bolsillo de parche para monedas en la parte delantera y bolsillos de parche en la parte trasera
+- Tinte y lavado reactivo
 - Pantalón delgado de cinco bolsillos con estructura de tela de pana ligera
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con suela transpirable y flexible
 - Ajuste cómodo
+- Con suela transpirable y flexible
 - Plantilla desmontable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

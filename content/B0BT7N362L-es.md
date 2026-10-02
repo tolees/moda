@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tela suave
 - Tiene detalles distintivos de la marca
 - Diseño ligero que ofrece comodidad
+- Tela suave
 - Diseño deportivo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

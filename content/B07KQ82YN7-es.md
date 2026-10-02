@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- hummel es una marca escandinava de ropa deportiva de alta calidad y se caracteriza por sus diseños deportivos de líneas rectas y looks extravagantes combinados con colores fuertes.
 - Unisex
-- tela.
 - 100 % poliéster
+- tela.
+- hummel es una marca escandinava de ropa deportiva de alta calidad y se caracteriza por sus diseños deportivos de líneas rectas y looks extravagantes combinados con colores fuertes.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07KQ82YN7{{</world>}}

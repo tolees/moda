@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Correa acolchada desplegable y ajustable para llevarla con facilidad
 - Fabricada 100% en nylon para un acabado impecable
 - Bolsillo interior con cremallera para mantener todo en orden
-- Altura: 24cm, Ancho: 33cm, Fondo: 11cm
 - Amplio compartimento principal con dos bolsillos debajo de la solapa
+- Altura: 24cm, Ancho: 33cm, Fondo: 11cm
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000CRHCCU{{</world>}}

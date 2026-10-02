@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Impresión de pantalla en chest
 - Tejido de algodón (160 g/m2)
-- Cuello:
 - Quiksilver woven label at sleeve
+- Impresión de pantalla en chest
+- Cuello:
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DP9GK47P{{</world>}}

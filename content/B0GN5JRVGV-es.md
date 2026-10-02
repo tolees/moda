@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forro: por defecto
-- Material 1: poliéster
-- Marca: Under Armour
-- Equipo: por defecto
 - Extras: Capucha
+- Forro: por defecto
+- Marca: Under Armour
+- Material 1: poliéster
+- Equipo: por defecto
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GN5JRVGV{{</world>}}

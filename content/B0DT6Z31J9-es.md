@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ajuste regular para facilitar el movimiento.
-- Diseño clásico de cuello redondo
 - Tejido de material suave para mayor comodidad.
 - Ideal para uso casual o actividades ligeras.
 - Logotipo icónico de Nike.
+- Diseño clásico de cuello redondo
+- Ajuste regular para facilitar el movimiento.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DT6Z31J9{{</world>}}

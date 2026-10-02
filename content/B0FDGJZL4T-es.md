@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 - PARA CUALQUIER OCASIÓN: Esta prensa clásica y elegante es muy cómoda y se puede combinar de muchas maneras. El jersey es ideal para la oficina, para usar de día o de noche.
 - COMODIDAD EXCEPCIONAL: Jersey de punto regular fit que combina un diseño atemporal con una gran comodidad. Gracias a su material de alta calidad, es muy agradable al tacto y ofrece una óptima libertad de movimientos.
 - MATERIAL Y CUIDADO: Jersey de algodón orgánico 100 %. Se puede lavar a máquina.
-- CALIDAD DEMOSTRADA: Desde 1985, esta marca de diseñador lleva demostrando por todo el mundo la calidad y la ligereza mediante una gran variedad de diseños en los míticos colores azul oscuro, blanco y rojo.
 - ICÓNICO Y ATEMPORAL: El jersey original de Tommy Hilfiger tiene un diseño sencillo y destaca por su aspecto elegante. El bonito cuello de redondo le da un toque especial a esta prenda.
+- CALIDAD DEMOSTRADA: Desde 1985, esta marca de diseñador lleva demostrando por todo el mundo la calidad y la ligereza mediante una gran variedad de diseños en los míticos colores azul oscuro, blanco y rojo.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FDGJZL4T{{</world>}}

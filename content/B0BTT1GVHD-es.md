@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ofrece libertad de movimiento
 - Camiseta de manga corta
 - Detalles distintivos de la marca
+- Ofrece libertad de movimiento
 - Fabricada en material cómodo y ligero
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

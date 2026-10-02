@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuello alto y Corte entallado
-- Excelente resultado frente al ensayo de la formación de pilling
 - Cubrecosturas reforzado con cinta espiga en el interior del cuello
+- Excelente resultado frente al ensayo de la formación de pilling
 - Cremallera completa invertida con cordón y tirador de plástico
+- Cuello alto y Corte entallado
 - Tejido Polar suave, cómodo y cálido y Bolsillos tipo canguro con vivos en aberturas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

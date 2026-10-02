@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de estiramiento: baja elasticidad
 - Ajuste: regular
 - Instrucciones de cuidado: lavable a máquina
+- Tipo de estiramiento: baja elasticidad
 - Composición: 100% algodón
 - Camisa tejida
 

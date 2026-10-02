@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tela lisa
-- Cuello redondo
 - Jersey 100% algodón
 - Puños y dobladillos lisos
+- Tela lisa
+- Cuello redondo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FCSKSW7W{{</world>}}

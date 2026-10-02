@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ropa deportiva atlética
-- Fácil de usar
-- Regular fit
-- Tipo de fábrica: 100% cotton
 - Soft fabric
+- Ropa deportiva atlética
+- Regular fit
+- Fácil de usar
+- Tipo de fábrica: 100% cotton
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07T1NM1LX{{</world>}}

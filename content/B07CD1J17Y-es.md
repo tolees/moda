@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sneakers Skechers Track-scloric Hombre Negro-negro
 - tacon_x: PLANO
-- departam_x: HOMBRE
-- Talla: 39
 - familia_x: SNEAKERS
+- departam_x: HOMBRE
+- Sneakers Skechers Track-scloric Hombre Negro-negro
+- Talla: 39
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07CD1J17Y{{</world>}}

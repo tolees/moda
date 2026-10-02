@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Etiqueta G-Star RAW en la parte posterior, de tejido de papel de cuero
-- Bolsillos en el pecho con solapa y botón de caña, bolsillos ribeteados en la cintura
-- Cierre de botón de vástago
-- Botones en los puños
 - Cuello plano
+- Bolsillos en el pecho con solapa y botón de caña, bolsillos ribeteados en la cintura
+- Etiqueta G-Star RAW en la parte posterior, de tejido de papel de cuero
+- Botones en los puños
+- Cierre de botón de vástago
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DSW8LL22{{</world>}}

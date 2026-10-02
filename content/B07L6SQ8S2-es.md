@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Con logotipo impreso en el pecho en la parte delantera
-- Manga larga
-- Sudadera con capucha para hombre
 - Bolsillos: bolsillo frontal de canguro
+- Sudadera con capucha para hombre
+- Manga larga
 - Composición del material: 70 % algodón, 30 % poliéster
 
 [🛒 Visítala!!!]({{< param buyurl >}})

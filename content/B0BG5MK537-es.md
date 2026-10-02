@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bordado gráfico GANT en el pecho
 - Corte normal
+- Bordado gráfico GANT en el pecho
 - Bolsillo tipo canguro
 
 [🛒 Visítala!!!]({{< param buyurl >}})

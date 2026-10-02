@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Número de modelo: 1035680
 - Tom Tailor - Camiseta de manga larga para mujer
+- Número de modelo: 1035680
 - Ajuste óptimo y gran comodidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})

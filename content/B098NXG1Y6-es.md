@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CONFORT: Las sandalias Chicco son cómodas, flexibles, ligeras, transpirables y prácticas
 - SANDALIAS NIÑA: Sandalias Chicco, con cómodo cierre doble, ideales para un look casual y a la moda. Adecuadas para cualquier ocasión
+- CONFORT: Las sandalias Chicco son cómodas, flexibles, ligeras, transpirables y prácticas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B098NXG1Y6{{</world>}}

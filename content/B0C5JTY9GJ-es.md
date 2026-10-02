@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ausschnitt: default
-- Futter: default
-- Mannschaft: default
-- Extras: default
 - Gattung: Socken
+- Extras: default
+- Mannschaft: default
+- Futter: default
+- Ausschnitt: default
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C5JTY9GJ{{</world>}}

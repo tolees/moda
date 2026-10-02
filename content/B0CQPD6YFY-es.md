@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tecnología del cojín
-- Cuero de calidad
-- Aspecto clásico
 - Parte superior de cuero
+- Cuero de calidad
+- Tecnología del cojín
+- Aspecto clásico
 - Duradero
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

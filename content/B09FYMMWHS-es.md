@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cordura 100% nailon
-- TOTALMENTE AJUSTABLE CON AJUSTADORES DE CORREA
 - Nylon Cordura de 500 deniers
+- TOTALMENTE AJUSTABLE CON AJUSTADORES DE CORREA
+- Cordura 100% nailon
 - Hebilla de apertura lateral
 
 [🛒 Comprar!!!]({{< param buyurl >}})

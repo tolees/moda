@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Provides comfort
-- Button fly
 - A comfortable fit
+- Button fly
+- Provides comfort
 - Inset pockets, including coin pocket
 - An original look
 

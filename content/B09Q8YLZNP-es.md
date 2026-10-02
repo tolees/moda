@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Etiqueta de G-Star RAW en el lateral
-- Bajo recto con borde acanalado
-- Proporciona comodidad
 - Cuello de cisne con pieza triangular de punto insertada
+- Etiqueta de G-Star RAW en el lateral
+- Proporciona comodidad
+- Bajo recto con borde acanalado
 - Manga larga y puños acanalados
 
 [🛒 Aquí!!!]({{< param buyurl >}})

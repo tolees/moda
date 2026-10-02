@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Longitud corta
-- Goma elástica en la muñeca
 - Bolsillos delanteros
+- Goma elástica en la muñeca
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CL78CGRG{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Suela de goma suave y adherente
 - Entresuela ligera de EVA parcialmente reciclada que absorbe los golpes
+- Suela de goma suave y adherente
 - Cremallera fácil de poner y quitar
 - Calcetín de piel que mejora la frescura
 

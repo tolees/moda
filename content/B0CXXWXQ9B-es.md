@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Protección UV: las lycras tienen un índice UPF de 50+. la camiseta uv protege eficazmente tu piel de las quemaduras solares.
 - La camiseta de natación rashguard para hombre es adecuada para muchos tipos de actividades al aire libre, como surf, natación, pesca, senderismo, footing, surf, fitness, fútbol, etc.
 - Se seca rápidamente: el tejido es ligero y transpirable, lo que resulta muy cómodo para la ropa deportiva
 - Características: Las bandas reflectantes a ambos lados de los hombros garantizan una mayor seguridad por la noche o en la oscuridad
+- Protección UV: las lycras tienen un índice UPF de 50+. la camiseta uv protege eficazmente tu piel de las quemaduras solares.
 - Escote redondo clásico: Un escote bien cortado y redondeado con forma curvada para mayor comodidad.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

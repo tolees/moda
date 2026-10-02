@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bajo contorneado y más largo para una mayor protección en la parte trasera
 - UA Tech es nuestro equipo de entrenamiento de referencia: suelto, ligero y te mantiene fresco. Es todo lo que necesitas.
+- Bajo contorneado y más largo para una mayor protección en la parte trasera
 - Tejido UA Tech de secado rápido, ultrasuave y de tacto más natural
 - Material que capilariza el sudor y se seca rápidamente
 - Tecnología de control de olores que reduce el olor

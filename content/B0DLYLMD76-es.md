@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 100% Algodón
 - esencial
+- 100% Algodón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DLYLMD76{{</world>}}

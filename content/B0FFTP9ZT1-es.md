@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Camiseta casual de manga corta
-- 100% algodón
 - Cuello redondo con logotipo impreso en el pecho
+- 100% algodón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FFTP9ZT1{{</world>}}

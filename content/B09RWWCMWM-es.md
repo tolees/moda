@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Leggins con las siguientes características:
-- Leggings || Longitud: Largo || altura de la cintura: Talla Grande
 - Básicos, Ropa de Calle
 - Ajuste : X-tra Ancho de Botas
+- Leggings || Longitud: Largo || altura de la cintura: Talla Grande
 - Descubre todas las marcas de EMP!
 
 [🛒 Comprar!!!]({{< param buyurl >}})

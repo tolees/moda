@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 2022
 - Permanente
 - algodón
+- 2022
 - Este producto es original Levis
 
 [🛒 Visítala!!!]({{< param buyurl >}})

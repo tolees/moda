@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 140 g, 60 g
-- Insulación:__ Reciclated [Peso del pelo: 200 g body
 - Warmth: __ ROXY WarmFlight X3 máximo warmth, ligero y transpirable insulación para mantenerte cómodo en los días de invierno fríos
 - Tecnología
+- Insulación:__ Reciclated [Peso del pelo: 200 g body
+- 140 g, 60 g
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DPG784ZV{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fabricado con materiales duraderos y de calidad
 - Bolsillos funcionales para mayor comodidad
+- Fabricado con materiales duraderos y de calidad
 - Parte superior e inferior a juego para un aspecto coordinado
 
 [🛒 Comprar!!!]({{< param buyurl >}})

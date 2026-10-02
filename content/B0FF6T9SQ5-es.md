@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Herrajes dorados brillantes
 - Largo: 15,24 cm ancho: 3,81 cm (alto): 10,16 cm
 - 3 bolsillos deslizantes, 1 bolsillo con cremallera, 6 ranuras para tarjetas y ventana de identificación
-- Herrajes dorados brillantes
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FF6T9SQ5{{</world>}}

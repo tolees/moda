@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- FRONTIERS marca Guess
-- Brazalete marca Guess
 - Referencia JUMB01342JWYGT-U
+- Brazalete marca Guess
+- FRONTIERS marca Guess
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B2Q1YZZR{{</world>}}

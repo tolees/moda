@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Color del fabricante: gris pastel
-- Número de artículo: 100501-666
-- Logotipo básico
-- Material: algodón
 - Basic T-Shirt
+- Número de artículo: 100501-666
+- Color del fabricante: gris pastel
+- Material: algodón
+- Logotipo básico
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B4SL2D9G{{</world>}}

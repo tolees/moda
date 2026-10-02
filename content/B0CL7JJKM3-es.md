@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Ajuste estándar
 - Manga larga
 - Composición del material: 70% algodón, 30% poliéster
-- Ajuste estándar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CL7JJKM3{{</world>}}

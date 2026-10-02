@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- La ONE es nuestro diseño más vendido de todos los tiempos en Europa, y la ONE COLT es nuestra versión norteamericana; la montura de cristal esmerilado de este modelo se combina con lentes polarizadas y espejadas de color oro rosa
 - Gafas de sol polarizadas: Reduce los reflejos superficiales y la fatiga ocular proporcionando nitidez y contrastes superiores; Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes fabricadas en material bio tac polarizado; protección 100 % UV; Color de la lente: Oro rosa; Apariencia de la lente: Espejo
 - Modelo Unisex; Medidas: Frontal 141 mm, Varillas 140 mm, Puente 18;5 mm, Alto 44;1 mm
 - Producto original Hawkers; la caja incluye funda en microfibra y caja
-- La ONE es nuestro diseño más vendido de todos los tiempos en Europa, y la ONE COLT es nuestra versión norteamericana; la montura de cristal esmerilado de este modelo se combina con lentes polarizadas y espejadas de color oro rosa
 - Material de la montura: TR90; Color de la montura: Transparente; Color de la varilla: Transparente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

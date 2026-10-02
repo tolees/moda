@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Cremallera en la espalda
 - 3 enchufes CC/1 cremallera interior
 - Herrajes dorados brillantes
-- Cremallera en la espalda
 - 10 x 2 x 6 cm
 
 [🛒 Aquí!!!]({{< param buyurl >}})

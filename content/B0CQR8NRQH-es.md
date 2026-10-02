@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ligeros y flexibles
 - Con orificios de ventilación
+- Ligeros y flexibles
 - Correas pivotantes en el talón
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Descubre todas las marcas de EMP!
 - Camiseta Manga Larga con las siguientes características:
-- Básicos, Ropa de Calle
 - Manga larga || Mangas Normales || Cuello Redondo Sin cuello || Material duradero
 - Ajuste : Regular
+- Básicos, Ropa de Calle
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00LLYHDWW{{</world>}}

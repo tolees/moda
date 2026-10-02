@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CONJUNTO CHÁNDAL NIÑA: Conjunto casual de 2 piezas para niña compuesto por una sudadera y pantalones largos, ideal para un vestuario casual y práctico. Estas prendas de Prénatal son lavables a máquina, para una alta higiene.
 - A LA MODA: la sudadera se presenta en azul sólido y está adornada con un estampado de micro flores en contraste. Volantes en los hombros. Modelo de cuello redondo. Cierre con botones en la parte posterior. Pantalones rosa sólido.
+- CONJUNTO CHÁNDAL NIÑA: Conjunto casual de 2 piezas para niña compuesto por una sudadera y pantalones largos, ideal para un vestuario casual y práctico. Estas prendas de Prénatal son lavables a máquina, para una alta higiene.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FLDQZM91{{</world>}}

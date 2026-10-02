@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Altura: 18cm, Ancho: 13cm, Fondo: 2cm
-- Correa de hombro ajustable para que puedas llevarla como quieras
 - Fabricado con 60% nylon y 40% poliéster
 - Aprovecha el espacio al máximo con el amplio compartimento principal
+- Correa de hombro ajustable para que puedas llevarla como quieras
+- Altura: 18cm, Ancho: 13cm, Fondo: 2cm
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00MGOJNO2{{</world>}}

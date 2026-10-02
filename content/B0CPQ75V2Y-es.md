@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Marca: Geox
 - Zapatillas para mujer
+- Marca: Geox
 - Transpirable
 
 [🛒 Visítala!!!]({{< param buyurl >}})

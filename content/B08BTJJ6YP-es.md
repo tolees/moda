@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Repele el viento, el agua y el frío
 - El abrigo perfecto para días incómodos
-- Parka funcional para mujer de la marca Onky
 - Moderno, moderno y moderno
+- Parka funcional para mujer de la marca Onky
 - Muslo largo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

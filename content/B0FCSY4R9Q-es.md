@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Dobladillo acampanado
 - Corte debajo del busto
 - Top de manga corta con escote en v
 - Camiseta con cuello en v
+- Dobladillo acampanado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FCSY4R9Q{{</world>}}

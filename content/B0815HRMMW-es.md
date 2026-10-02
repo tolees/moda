@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Esta sudadera cuenta con medio cierre ajustable para retención de calor
 - Tiene detalles distintivos de la marca
+- Esta sudadera cuenta con medio cierre ajustable para retención de calor
 - Columbia Glacial IV Forro polar con 1/2 cremallera para mujer
 - Ofrece comodidad y libertad de movimiento
 

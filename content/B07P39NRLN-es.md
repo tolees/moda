@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- elastic cotton blend
 - high waist skinny jeans
+- elastic cotton blend
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07P39NRLN{{</world>}}

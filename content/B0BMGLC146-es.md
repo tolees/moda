@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pantalón de pierna ancha
-- Cintura elástica, detalles de botones
 - Pantalones para mujer de la marca danesa. Vero Moda
+- Cintura elástica, detalles de botones
+- Pantalón de pierna ancha
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BMGLC146{{</world>}}

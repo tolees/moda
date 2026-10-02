@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Patrón: el diseño de la marca es visible
-- Temporada: Todas las estaciones
 - Código de vestimenta: informal
+- Temporada: Todas las estaciones
+- Patrón: el diseño de la marca es visible
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B081DFTR8Q{{</world>}}

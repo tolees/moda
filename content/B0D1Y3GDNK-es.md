@@ -31,8 +31,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - Cuello alzado
 - Cierre de cremallera
 - Bolsillos con ribete en la cintura
-- Puños y cintura acanalados
 - Bordado de G-STAR en el pecho
+- Puños y cintura acanalados
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D1Y3GDNK{{</world>}}

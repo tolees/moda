@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bajo recto y ligeramente largo por detrás con aberturas
-- Panel en el hombro, pliegue cogido en la costura
 - Bolsillos en el pecho, uno de ellos doble
-- Cuello de camisa
+- Panel en el hombro, pliegue cogido en la costura
 - Botón con ojal en la manga para acortar el largo si se desea
+- Cuello de camisa
+- Bajo recto y ligeramente largo por detrás con aberturas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CKC1JSLM{{</world>}}

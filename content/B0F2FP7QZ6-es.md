@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillos tipo canguro con vivos en las aberturas y costuras de refuerzo
 - Felpa perchada suave, cómoda y cálida
 - Cremallera de nylon
+- Bolsillos tipo canguro con vivos en las aberturas y costuras de refuerzo
 - Puños y cinturilla indeformables en punto canalé 2x1 con elastano
 - Cubrecosturas reforzado con cinta Jersey en el interior del cuello y Regular fit
 

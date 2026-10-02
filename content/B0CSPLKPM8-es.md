@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuello de embudo de peso medio estilo puffer
 - Fabricado con relleno 100% reciclado
 - Forro de marca en el cuerpo, forro polar en bolsillos
+- Cuello de embudo de peso medio estilo puffer
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CSPLKPM8{{</world>}}

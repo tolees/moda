@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corte recto
 - Gran logotipo de BOSS estampado en la parte delantera
+- Corte recto
 - Camiseta de punto de manga corta 100 % algodón
 
 [🛒 Comprar!!!]({{< param buyurl >}})

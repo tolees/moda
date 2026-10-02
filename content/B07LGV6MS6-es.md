@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Soft fabric
-- 3 pair pack
 - Ribbed hems
+- 3 pair pack
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07LGV6MS6{{</world>}}

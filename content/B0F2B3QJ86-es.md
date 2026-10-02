@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estilo informal
 - Ofrece comodidad
 - Camiseta de manga corta
+- Estilo informal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F2B3QJ86{{</world>}}

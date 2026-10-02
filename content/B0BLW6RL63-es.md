@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Camiseta para hombre de la marca danesa JACK JONES
 - Este producto está fabricado con algodón orgánico
+- Camiseta para hombre de la marca danesa JACK JONES
 - El algodón orgánico se cultiva sin el uso de productos químicos nocivos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

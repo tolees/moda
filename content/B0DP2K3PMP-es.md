@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Alpargata tipo valenciana de la marca Refresh. Fabricada en textil
 - Piso recubierto en yute trenzado con suela de goma antideslizante. Este modelo ha obtenido el certificado vegano por la organización mundial PETA (Organización de los derechos de los animales)
 - [Nuestra Marca]: REFRESH con estilo fresco y juvenil. Calzado versátil y moderno diseñado para quienes buscan estar siempre a la moda sin renunciar a la comodidad.
+- Alpargata tipo valenciana de la marca Refresh. Fabricada en textil
 - Pulsera trasera con hebilla. Cómoda planta
 
 [🛒 Aquí!!!]({{< param buyurl >}})

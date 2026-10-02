@@ -30,11 +30,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Nota: Esta chaqueta es más pequeña
 - con cuello alto
-- especialmente delgada
-- chaqueta acolchada ultraligera para mujer
-- Ideal para el verano y el periodo de transición
-- Cremallera con protector de barbilla
 - dos bolsillos laterales con cremallera, bolsillo interior
+- Ideal para el verano y el periodo de transición
+- especialmente delgada
+- Cremallera con protector de barbilla
+- chaqueta acolchada ultraligera para mujer
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DZXZHBB5{{</world>}}

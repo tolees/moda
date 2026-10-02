@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- *Montura: 100 % policarbonato; lente: 100 % policarbonato. Gafas de sol con montura clásica. Protección UVA/UVB 400. *Bolsa para gafas de sol Cinch
 - Protección UVA/UVB 400
+- *Montura: 100 % policarbonato; lente: 100 % policarbonato. Gafas de sol con montura clásica. Protección UVA/UVB 400. *Bolsa para gafas de sol Cinch
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F7RPQ93C{{</world>}}

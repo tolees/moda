@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Puedes descargar las siluetas en el sitio web de Buki para dibujar ropa al infinito
 - Elige una silueta, dibuja la ropa con las plantillas y dales volumen gracias a los numerosos accesorios incluidos
-- Incluye: tela adhesiva, plumas, lentejuelas, fieltro, cintas, rotuladores, lápices de colores acuarelables, tijeras, sacapuntas etc
-- Folleto ilustrado de colores. A partir de 7 años
 - Inspírate en el portafolio para crear tus propias tendencias
+- Folleto ilustrado de colores. A partir de 7 años
+- Puedes descargar las siluetas en el sitio web de Buki para dibujar ropa al infinito
+- Incluye: tela adhesiva, plumas, lentejuelas, fieltro, cintas, rotuladores, lápices de colores acuarelables, tijeras, sacapuntas etc
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07DD3S3K5{{</world>}}

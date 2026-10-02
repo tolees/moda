@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Estilo deportivo
-- Requiere colocación
 - Producto de recreación para uso exterior
+- Requiere colocación
+- Estilo deportivo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08FCC8ZNX{{</world>}}

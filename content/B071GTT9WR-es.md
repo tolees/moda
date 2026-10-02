@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Forro interior cepillado
 - Cable del túnel para ajustar el ancho del capó
-- Etiqueta con bandera en el dobladillo
-- Logotipo grande en el pecho
 - Puños de nervadura en el cuello, la cintura y las muñecas
+- Logotipo grande en el pecho
+- Etiqueta con bandera en el dobladillo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B071GTT9WR{{</world>}}

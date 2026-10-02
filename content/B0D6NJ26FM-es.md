@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sandalias modernas para mujer de la marca. Geox
 - Transpirables para el uso diario
+- Sandalias modernas para mujer de la marca. Geox
 - Suela de goma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Artículo de marca Clarks
 - Los zapatos pueden combinar con multitud de conjuntos
+- Artículo de marca Clarks
 - Presentan detalles distintivos de la marca
 
 [🛒 Comprar!!!]({{< param buyurl >}})

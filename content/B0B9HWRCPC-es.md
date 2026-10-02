@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Acolchado Ultra Go ligero y con buena capacidad de respuesta.
-- Se pueden lavar a máquina.
 - Plantilla cómoda Goga Mat contorneada.
+- Se pueden lavar a máquina.
+- Acolchado Ultra Go ligero y con buena capacidad de respuesta.
 - Suela de tracción flexible.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

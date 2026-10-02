@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Puños y dobladillo acanalados
 - Ajuste estándar
 - Un suéter versátil para todos los días
+- Puños y dobladillo acanalados
 - Con este famoso logotipo de Housemark
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Manga Larga
 - Con rayas
+- Manga Larga
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DNK2L17Y{{</world>}}

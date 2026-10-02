@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Género: zapatos de moda para niñas
-- Tipo de suela: cómoda, duradera, ligera, resistente al calor, antideslizante y resistente al agua
 - Color de las chanclas: rosa brillante
 - Composición: tira: 100% PVC + logotipo: 100% PVC + purpurina: 100% poliéster Suela: 100% goma + serigrafía: 100% (sustrato, pintura, resinas y etiquetas, barniz holográfico 5%)
+- Tipo de suela: cómoda, duradera, ligera, resistente al calor, antideslizante y resistente al agua
+- Género: zapatos de moda para niñas
 - Tamaño: al comprar sandalias Havaianas en Amazon, debes considerar la talla BR/proveedor como equivalente a la talla de la UE, independientemente de lo que se muestre en la suela del producto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Detalles distintivos de la marca
 - Tejido ligero y suave
 - Con un ajuste cómodo
+- Detalles distintivos de la marca
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DSY446C2{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela: goma
 - Material interior: sintético
+- Suela: goma
 - Pull On
 - Material exterior: sintético
 

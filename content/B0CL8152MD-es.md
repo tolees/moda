@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Impresión de pigmentos para una impresión suave en tejidos más claros
-- Ajuste estándar
 - Cuello redondo
+- Ajuste estándar
+- Impresión de pigmentos para una impresión suave en tejidos más claros
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CL8152MD{{</world>}}

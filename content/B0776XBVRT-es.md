@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte slim
 - Cuello inglés
-- Puños con botón
-- Popelín de algodón elástico
-- Detalles distintivos de Tommy Jeans
+- Corte slim
 - Logo de Tommy Jeans bordado en el pecho
+- Puños con botón
+- Detalles distintivos de Tommy Jeans
+- Popelín de algodón elástico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0776XBVRT{{</world>}}

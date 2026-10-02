@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuentan con un estilo informal
 - Confortables y transpirables
+- Cuentan con un estilo informal
 - Con detalles distintivos de la marca
 
 [🛒 Aquí!!!]({{< param buyurl >}})

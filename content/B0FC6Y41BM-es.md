@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- LEVIS TAB: Existen diferentes variaciones de la conocida lengüeta roja. Todos los productos son originales de Levis, no importa si pone LEVIS, Levis, no está escrito o es de otro color.
-- Una camisa clásica de botones
-- Confeccionado con un fit holgado
 - Confección en algodón suave
+- LEVIS TAB: Existen diferentes variaciones de la conocida lengüeta roja. Todos los productos son originales de Levis, no importa si pone LEVIS, Levis, no está escrito o es de otro color.
+- Confeccionado con un fit holgado
+- Una camisa clásica de botones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FC6Y41BM{{</world>}}

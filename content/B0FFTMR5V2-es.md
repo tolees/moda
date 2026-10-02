@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Blusa con hombros descubiertos y mangas cortas
 - Placa de metal en el dobladillo
+- Blusa con hombros descubiertos y mangas cortas
 - Extremo fruncido en mangas y dobladillo.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

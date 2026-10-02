@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Chaqueta impermeable para niños, Adecuada para pasear por la ciudad, hacer senderismo y otras actividades al aire libre
-- A prueba de viento y agua, transpirable y repelente gracias a las costuras termoselladas y la tecnología Omni-Tech
-- Mayor seguridad en la oscuridad gracias a los detalles reflectantes, Capucha ajustable para una protección adicional contra la lluvia
 - Contenido: 1x Columbia Chubasquero para Niño, Watertight II, Color: Azul (Crushed Blue), Talla: XS
+- Chaqueta impermeable para niños, Adecuada para pasear por la ciudad, hacer senderismo y otras actividades al aire libre
+- Mayor seguridad en la oscuridad gracias a los detalles reflectantes, Capucha ajustable para una protección adicional contra la lluvia
+- A prueba de viento y agua, transpirable y repelente gracias a las costuras termoselladas y la tecnología Omni-Tech
 - Cremallera completa, Bolsillos con cremallera para mantener las manos calentitas y protegidas, Puños ajustables
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

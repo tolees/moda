@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Disponible en diferentes colores
-- Abertura completa con cremallera, dos bolsillos laterales con cremallera, capucha fija, cordón en la capucha y en la parte inferior de la chaqueta, cintas elásticas en los puños, logotipo de CMP en el pecho
-- Chaqueta que ofrece protección contra la lluvia
 - La prenda es completamente plegable y se puede guardar en la práctica bolsa provista
+- Chaqueta que ofrece protección contra la lluvia
 - A prueba de viento, impermeable WP 3000 y costuras totalmente selladas
+- Abertura completa con cremallera, dos bolsillos laterales con cremallera, capucha fija, cordón en la capucha y en la parte inferior de la chaqueta, cintas elásticas en los puños, logotipo de CMP en el pecho
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01NAFSOQV{{</world>}}

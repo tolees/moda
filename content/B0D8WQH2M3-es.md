@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Bolsillos traseros
+- Bragueta de cremallera
 - Bolsillos insertados con remache de refuerzo
 - Proporciona comodidad
-- Bragueta de cremallera
-- Bolsillos traseros
 - Etiqueta de G-STAR Originals tejida en la costura lateral
 
 [🛒 Aquí!!!]({{< param buyurl >}})

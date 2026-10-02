@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Completo con un lema "Never needs ironing" en el pecho y una caja con logotipo para invertir; solo en UO
-- Corte de punto de algodón con cuello redondo, mangas cortas y un ajuste cuadrado a través de la pierna
 - Camiseta fácil de poner de Dickies
+- Corte de punto de algodón con cuello redondo, mangas cortas y un ajuste cuadrado a través de la pierna
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DTJ91F2S{{</world>}}

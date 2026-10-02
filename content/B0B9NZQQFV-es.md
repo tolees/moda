@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- POCKET - Bolsillos para las manos con cremallera
-- Solapa con botones/solapa antitormenta: parte delantera interior
-- ELÁSTICO - Puños
 - ILUSTRACIONES - BORDADO Logotipo de Helly Hansen (HH)
+- ELÁSTICO - Puños
+- Solapa con botones/solapa antitormenta: parte delantera interior
+- POCKET - Bolsillos para las manos con cremallera
 - Artículos entregados: 1x Helly Hansen Hombre Sirdal Softshell Jacket - Softshell Jacket Navy XL
 
 [🛒 Comprar!!!]({{< param buyurl >}})

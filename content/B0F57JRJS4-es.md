@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Acabado en carbono capturado
 - Sudadera de cuello redondo de tejido cepillado con pequeños gráficos en el pecho
 - Gran obra de arte en la parte posterior y etiqueta tejida con logotipo insertado en la costura lateral
+- Acabado en carbono capturado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F57JRJS4{{</world>}}

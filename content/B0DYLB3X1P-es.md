@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Membrana TEX impermeable
 - Plantilla blanda
+- Membrana TEX impermeable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DYLB3X1P{{</world>}}

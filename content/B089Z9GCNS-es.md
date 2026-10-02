@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corte normal
 - Logotipo PUMA N.º 1 en el pecho
-- BCI: Al comprar productos de algodón de PUMA, apoyas una producción más sostenible de algodón mediante la Iniciativa del Mejor Algodón (Better Cotton Initiative). Más información en: bettercotton.org/massbalance
 - Contiene material reciclado: Producto elaborado con fibras recicladas. Una de las soluciones de PUMA para reducir el impacto ambiental
 - Cuello redondo acanalado
+- BCI: Al comprar productos de algodón de PUMA, apoyas una producción más sostenible de algodón mediante la Iniciativa del Mejor Algodón (Better Cotton Initiative). Más información en: bettercotton.org/massbalance
+- Corte normal
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B089Z9GCNS{{</world>}}

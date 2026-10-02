@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Acolchado de rayas rectas
 - Corte regular
 - Lazo suelto con logotipo en la parte posterior
+- Acolchado de rayas rectas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BG5HKC5Z{{</world>}}

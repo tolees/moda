@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 10 % poliéster
 - Composición: 90 % algodón
+- 10 % poliéster
 - Cuello redondo
 - Detalles estampados
 

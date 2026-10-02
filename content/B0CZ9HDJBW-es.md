@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Corte entallado
-- Espacio para personalizarla
 - 100% poliéster (reciclado)
-- AEROREADY
 - Cuello redondo de canalé
+- Espacio para personalizarla
+- AEROREADY
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CZ9HDJBW{{</world>}}

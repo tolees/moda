@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Estiliza tu silueta y es perfecto para llevar bajo las prendas que más se ciñen al cuerpo
-- con detalle de logo WS en la espalda
 - Short de tipo “ciclista” con efecto reductor y push up
+- con detalle de logo WS en la espalda
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DQYP8QQN{{</world>}}

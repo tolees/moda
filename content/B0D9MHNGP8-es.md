@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Asa extraíble
-- Cierre de cremallera
-- Color liso
 - Asas intercambiables
+- Asa extraíble
+- Color liso
+- Cierre de cremallera
 - Bolsillos frontales y traseros
 
 [🛒 Aquí!!!]({{< param buyurl >}})

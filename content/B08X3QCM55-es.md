@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cuello redondo clásico
-- Composición del material: 100% algodón orgánico
 - Hecha de algodón suave
+- Composición del material: 100% algodón orgánico
 - Camiseta en paquete de 3 unidades
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

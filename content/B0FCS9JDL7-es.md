@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Placa metálica con la marca
-- __Tejido:__ doble gasa de algodón
-- Cuello con base
 - Corte holgado
 - Placa metálica con la marca
+- __Tejido:__ doble gasa de algodón
+- Cuello con base
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FCS9JDL7{{</world>}}

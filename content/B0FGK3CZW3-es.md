@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 93 % poliéster, 7 % elastano
 - Vestido sin mangas de la colección mujer
-- Hecho en: Marruecos
 - Color: Verde
+- Hecho en: Marruecos
 - Colección primavera-verano
+- 93 % poliéster, 7 % elastano
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FGK3CZW3{{</world>}}

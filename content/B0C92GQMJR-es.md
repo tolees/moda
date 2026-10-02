@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Aberturas laterales
-- Logotipo de la marca
+- Manga corta
 - Cuello redondo
 - Jersey
-- Manga corta
+- Logotipo de la marca
+- Aberturas laterales
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C92GQMJR{{</world>}}

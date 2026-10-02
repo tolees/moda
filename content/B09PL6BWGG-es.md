@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Logotipo de HH en el frente
 - Bolsillo canguro delantero.
 - Tejido de entrenamiento activo LIFA
-- Capucha ajustable
 - Artículos entregados: 1x Helly Hansen Womens W Lifa Tech Lite Hoodie - Hoodie BLACK M
+- Capucha ajustable
+- Logotipo de HH en el frente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09PL6BWGG{{</world>}}

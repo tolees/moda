@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre con botones
-- Estilo elegante
 - Camisa de manga larga
+- Estilo elegante
+- Cierre con botones
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F4QP5GPN{{</world>}}

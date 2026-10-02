@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Hecho de acetato de vinilo de etileno
 - Cierre de hebilla
+- Hecho de acetato de vinilo de etileno
 - Sandalias modernas para mujer de la marca. Crocs
 
 [🛒 Aquí!!!]({{< param buyurl >}})

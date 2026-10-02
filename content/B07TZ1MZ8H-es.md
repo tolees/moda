@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Anillo en D
 - Logotipo redondo de Kipling
-- Mono robot
-- Correa de hombro desmontable
 - Tres bolsillos interiores: uno con cremallera y dos abiertos
 - Dos bolsillos para bolígrafos
 - Asas de transporte superiores
-- Anillo en D
+- Mono robot
 - Compartimentos principales con cremallera
+- Correa de hombro desmontable
 - Llavero
 
 [🛒 Aquí!!!]({{< param buyurl >}})

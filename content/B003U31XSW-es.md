@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvin Klein Low Rise Trunk 3pk 0000u2664g Bóxer Blanco L Hombre'
-date: 2026-09-29 05:44:53
+date: 2026-10-01 08:40:51
 image: 'https://m.media-amazon.com/images/I/31CnoDF6lKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B003U31XSW/?tag=tolees-21'
 descuento: '42.20'
-average: '27.5844444444445'
+average: '27.421'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

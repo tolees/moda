@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre de cordones
 - Plantilla extraíble
+- Cierre de cordones
 - Cómodos y transpirables de corte bajo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

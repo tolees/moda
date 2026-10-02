@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dr. Scholl s Bolas desodorantes x4 Mantienen tus zapatos bolsos de deporte y mochilas con un olor fresco Clínicamente probado frescura todo el día Reutilizable y de larga duración'
-date: 2026-09-25 08:47:10
+date: 2026-10-01 07:19:34
 image: 'https://m.media-amazon.com/images/I/41J728lLkEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

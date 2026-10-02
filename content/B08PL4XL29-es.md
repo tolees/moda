@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Flexibilidad
-- Material exterior: Cuero
 - Fácil de llevar para un confort optimo
 - Transpirable
 - Revestimiento: Sintético
+- Flexibilidad
+- Material exterior: Cuero
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08PL4XL29{{</world>}}

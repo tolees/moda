@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Jersey de manga larga
-- Corte holgado
 - Manga larga
+- Corte holgado
+- Jersey de manga larga
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FCT35SJ4{{</world>}}

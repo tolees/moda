@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre de cremallera
-- Puños y bajo acanalados
 - Cuello alzado
+- Puños y bajo acanalados
+- Cierre de cremallera
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F4XL97DL{{</world>}}

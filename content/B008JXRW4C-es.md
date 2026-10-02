@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Descubre todas las marcas de EMP!
-- Festival, Ropa de Calle
 - Camiseta || Mangas Normales || Cuello Redondo Sin cuello || Material duradero
+- Festival, Ropa de Calle
 - Camiseta con las siguientes características:
 - Ajuste : Regular
 

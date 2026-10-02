@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- DETALLES: presenta un cuello redondo clásico y mangas abullonadas con una bonita caída y un toque interesante
 - CORTE ESTÁNDAR: corte ajustado pero cómodo con fácil movimiento
 - JERSEY DE MEZCLA DE ALGODÓN Y MODAL: jersey de algodón y modal supersuave con elasticidad adicional para mayor comodidad durante todo el día
+- DETALLES: presenta un cuello redondo clásico y mangas abullonadas con una bonita caída y un toque interesante
 - CAMISETA CON CUELLO REDONDO Y MANGAS PLEGADAS: mejora tu estilo diario con esta moderna camiseta femenina perfecta para trabajar, irte de viaje o lucirla los fines de semana
 
 [🛒 Comprar!!!]({{< param buyurl >}})

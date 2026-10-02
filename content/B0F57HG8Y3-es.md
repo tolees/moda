@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sudadera de cuello redondo de tejido cepillado con pequeños gráficos en el pecho
 - Gran obra de arte en la parte posterior y etiqueta tejida con logotipo insertado en la costura lateral
+- Sudadera de cuello redondo de tejido cepillado con pequeños gráficos en el pecho
 - Acabado en carbono capturado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

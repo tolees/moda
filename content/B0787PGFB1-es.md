@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Composición: Sintético
-- Material de la suela: EVA
+- Tipo de tacón: Plano
+- Material exterior: Espuma
 - Cierre: Sin cordones
 - Revestimiento: Sin forro
-- Material exterior: Espuma
-- Tipo de tacón: Plano
+- Material de la suela: EVA
+- Composición: Sintético
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0787PGFB1{{</world>}}

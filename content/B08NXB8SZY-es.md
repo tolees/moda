@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- LONGITUD: 99,1 cm desde el lado del cuello en la talla S de España
 - DETALLES: presenta clásico cuello redondo, mangas cortas y dos capas fruncidas que le dan una caída y un movimiento muy bonitos
-- AJUSTE Y CAMPANA: ajustado por el pecho y la cintura, acampanado hasta el bajo
 - ALGODÓN VINTAGE: tejido de algodón 100 % flameado con tacto suave y una bonita caída
+- LONGITUD: 99,1 cm desde el lado del cuello en la talla S de España
+- AJUSTE Y CAMPANA: ajustado por el pecho y la cintura, acampanado hasta el bajo
 - MODERNO VESTIDO TIPO CAMISETA: este vestido escalonado es perfecto para el día a día. Combina este producto con tus deportivas favoritas para pasear por la ciudad durante el día o con unas sandalias para un look veraniego fresco y desenfadado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

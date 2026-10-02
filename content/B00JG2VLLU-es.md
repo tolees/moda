@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Talla con 72% algodón, 26% poliéster, 2% elastano
 - Esto no solo se hace con calzado adecuado, sino también con un calcetín cómodo que asegura un alto nivel de confort
+- Talla con 72% algodón, 26% poliéster, 2% elastano
 - Tus pies también quieren que te acuesten suavemente
 
 [🛒 Visítala!!!]({{< param buyurl >}})

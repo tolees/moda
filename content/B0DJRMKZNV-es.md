@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Manga corta
+- Longitud regular
+- Cuello redondo
 - Corte regular
 - Tejido de punto individual
-- Cuello redondo
-- Longitud regular
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DJRMKZNV{{</world>}}

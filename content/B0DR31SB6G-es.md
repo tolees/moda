@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela antideslizante que garantiza una base segura
 - Los cordones dan un aspecto clásico y un pie personalizado
+- Suela antideslizante que garantiza una base segura
 - Clarks El detalle de costura añade un toque de calidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

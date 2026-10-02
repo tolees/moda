@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Helly tech performance
-- Forro interior teñido en solución e.dye
-- Cremallera ykk
 - Artículos entregados: 1x helly hansen mens swift team jacket - ins jacket black xl
 - Life pocket
+- Cremallera ykk
+- Helly tech performance
+- Forro interior teñido en solución e.dye
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B4YMZF7J{{</world>}}

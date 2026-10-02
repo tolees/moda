@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Ajuste normal - ADULT
-- Tejido de jersey
 - Impresión a base de agua
 - Corte normal
+- Tejido de jersey
 - Cinta Chevron
 
 [🛒 Comprar!!!]({{< param buyurl >}})

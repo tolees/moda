@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para uso diario
 - Tiene detalles distintivos de la marca
+- Para uso diario
 - Prenda de vestimenta
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Corte clásico
 - Material muy cómodo, ligero, de secado rápido y resistente
 - Diseño flexible y detalles reflectantes
-- Corte clásico
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D16G7ML4{{</world>}}

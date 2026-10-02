@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Estilo retro con colores y trazos que recuerdan a los diseños de los años 90.
 - Diseño icónico con Curro, la mascota de la Expo 92.
+- Estilo retro con colores y trazos que recuerdan a los diseños de los años 90.
 - Ligero, Encaje clasico, Manga de doble puntada y bastilla baja
 
 [🛒 Aquí!!!]({{< param buyurl >}})

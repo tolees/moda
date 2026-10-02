@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Perfil de plantilla elevado
 - Base ligera Croslite
+- Perfil de plantilla elevado
 - Correas Matlite suaves y flexibles
 
 [🛒 Comprar!!!]({{< param buyurl >}})

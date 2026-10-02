@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Gran comodidad
-- Impresión frontal significativa
-- Escote: cuello redondo
-- Longitud: regular
 - Camiseta de gran tamaño
+- Impresión frontal significativa
+- Longitud: regular
+- Escote: cuello redondo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C9D3C2G3{{</world>}}

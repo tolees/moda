@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ofrecen una comodidad óptima
 - Cuentan con un estilo informal
+- Ofrecen una comodidad óptima
 - Transpirables y ligeras
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Estilo informal
 - Chaqueta de manga larga
+- Estilo informal
 - Adecuada para múltiples ocasiones
 
 [🛒 Visítala!!!]({{< param buyurl >}})

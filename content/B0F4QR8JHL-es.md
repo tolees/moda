@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con dos bolsillos
 - Pantalones de jogging
+- Con dos bolsillos
 - Con un cordón en la cintura
 
 [🛒 Aquí!!!]({{< param buyurl >}})

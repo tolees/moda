@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- BÁSICO - Un versátil todoterreno, NMYOLANDA - 27025067.
-- ADAPTACIÓN - Corte recto elástico.
 - IDEAL - Pantalones vaqueros de tiro medio en estilo de 5 bolsillos.
+- ADAPTACIÓN - Corte recto elástico.
+- BÁSICO - Un versátil todoterreno, NMYOLANDA - 27025067.
 - TEJIDO - 75% algodón, 1% elastano.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

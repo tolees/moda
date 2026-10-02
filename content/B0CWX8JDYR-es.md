@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- El collar se puede levantar o bajar para un estilo más versátil.
+- Comprueba nuestra tabla de tallas antes de comprar, si es un ajuste holgado, elige una o dos tallas más grandes.
 - Cuidado de lavado: lavar a máquina en frío con colores similares, secar en secadora a baja temperatura si es necesario o secar en plano, usar detergente suave, secar inmediatamente, no usar blanqueador
 - Los bolsillos grandes en ambos lados están diseñados para un almacenamiento más cómodo.
-- Comprueba nuestra tabla de tallas antes de comprar, si es un ajuste holgado, elige una o dos tallas más grandes.
-- El collar se puede levantar o bajar para un estilo más versátil.
 - Los colores contrastantes del diseño de etiquetado lo hacen más atractivo en general.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Elegante camiseta para aficionados con una gran impresión del logotipo del equipo en la parte delantera
 - Camiseta del equipo Arizona Cardinals de New Era | El accesorio perfecto para todos los fans de la NFL
+- Elegante camiseta para aficionados con una gran impresión del logotipo del equipo en la parte delantera
 - Fabricada con material de alta calidad y duradero
 
 [🛒 Visítala!!!]({{< param buyurl >}})

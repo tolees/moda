@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JACK & JONES Sudadera con Capucha Impresión Posterior'
-date: 2026-09-26 18:59:42
+date: 2026-10-01 07:38:39
 image: 'https://m.media-amazon.com/images/I/3161mW8Pv3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

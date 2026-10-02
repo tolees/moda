@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Ventilado
 - Protección solar Omni-Shade UPF 40
 - Soporte para cañas
-- Ventilado
 - Omni-Wick elimina la humedad del cuerpo para que el sudor se evapore rápidamente
 - Secado rápido
 

@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Collar clásico
-- Tejido de algodón brushed franel grindle [170 g/m2]
 - Garment wash
+- Tejido de algodón brushed franel grindle [170 g/m2]
 - Sleeves largas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

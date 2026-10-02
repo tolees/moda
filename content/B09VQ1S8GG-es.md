@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Tejido elástico para mayor comodidad
-- Tiene detalles distintivos de la marca
 - Diseño moderno
+- Tiene detalles distintivos de la marca
 - Otorga libertad de movimientos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

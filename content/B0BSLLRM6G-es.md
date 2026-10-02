@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte: corte entallado y relajado: cintura baja, pernera recta, abertura de pernera estándar
-- BE PART: El artículo contiene al menos un 20% de algodón reciclado
 - Con trabillas en la cintura y parche con el logo en la espalda
-- Instrucciones de lavado: no lavar en seco, no secar en secadora, no se permite lejía, planchar a baja temperatura (110°C), Lavar a máquina a un máximo de 30°C
-- Confeccionado con tejido de algodón suave y elástico para ofrecer libertad de movimiento y un ajuste cómodo
 - Vaqueros clásicos y cómodos con estilo de cinco bolsillos
+- Instrucciones de lavado: no lavar en seco, no secar en secadora, no se permite lejía, planchar a baja temperatura (110°C), Lavar a máquina a un máximo de 30°C
+- BE PART: El artículo contiene al menos un 20% de algodón reciclado
+- Corte: corte entallado y relajado: cintura baja, pernera recta, abertura de pernera estándar
+- Confeccionado con tejido de algodón suave y elástico para ofrecer libertad de movimiento y un ajuste cómodo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BSLLRM6G{{</world>}}

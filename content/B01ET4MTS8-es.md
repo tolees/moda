@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Helly Hansen Mujeres Abrigo largo W Aden Negro XL'
-date: 2026-09-27 19:33:26
+date: 2026-10-01 09:34:08
 image: 'https://m.media-amazon.com/images/I/41ceB9oLOKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01ET4MTS8/?tag=tolees-21'
 descuento: '48.01'
-average: '69.5916666666667'
+average: '71.69125'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

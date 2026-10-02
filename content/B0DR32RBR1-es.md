@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La plantilla Contour Cushion soporta cada paso
 - Entresuela ligera de EVA que absorbe el impacto
+- La plantilla Contour Cushion soporta cada paso
 - Suela de goma que ofrece una excelente tracción y durabilidad
 - Construcción de talón de fácil entrada y cordones elásticos que ofrecen un fácil encendido y apagado
 

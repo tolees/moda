@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tiene detalles distintivos de la marca
 - Adecuado para múltiples ocasiones
+- Tiene detalles distintivos de la marca
 - Prenda deportiva de vestir
 
 [🛒 Comprar!!!]({{< param buyurl >}})

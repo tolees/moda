@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cremallera frontal central.
-- Puños acanalados en mangas y cadera.
 - alpha industries t-shirts 126564 59 Tank black HOMBRE TALLA L
+- Cremallera frontal central.
 - Etiqueta de la bandera en el dobladillo.
+- Puños acanalados en mangas y cadera.
 - Capucha con cordón de ajuste.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fabricado con algodón orgánico
 - Cuello redondo
-- De manga corta
+- Fabricado con algodón orgánico
 - Hecho de un tejido de punto ligero
+- De manga corta
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08CVQN6SN{{</world>}}

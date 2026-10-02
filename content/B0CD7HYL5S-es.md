@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Cierre: mosquetón
 - Collar femenino de Calvin Klein
+- Longitud del collar: 40,6 cm y 6 cm de extensor
 - Decorada con logo Calvin Klein grabado en la barra
 - Material: Acero inoxidable pulido con chapado iónico oro amarillo
-- Longitud del collar: 40,6 cm y 6 cm de extensor
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CD7HYL5S{{</world>}}

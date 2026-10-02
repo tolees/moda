@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Excelente relación calidad-precio, muy buena calidad, excelente mano de obra
 - Cuello en V, longitud en la cadera, corte recto, color liso, fácil de combinar
-- Ajuste: se adapta a la mayoría de las tallas
+- Excelente relación calidad-precio, muy buena calidad, excelente mano de obra
 - Moderna camiseta básica de la marca de moda. Jack & Jones
+- Ajuste: se adapta a la mayoría de las tallas
 - Un gran modelo para muchas ocasiones, perfecto para el trabajo o el tiempo libre, para llevar debajo o simplemente así, súper cómodo de llevar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

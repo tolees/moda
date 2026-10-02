@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Logotipo impreso en el pecho
 - Totalmente forrada
+- Logotipo impreso en el pecho
 - Resistente al agua
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

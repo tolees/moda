@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Suela: etileno acetato de vinilo
-- Forma del tacón: plano
 - Material interior: sintético
+- Forma del tacón: plano
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CB3SMQ7S{{</world>}}

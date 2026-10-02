@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Adecuada para uso diario
-- Manga corta
 - Cuello redondo
+- Manga corta
+- Adecuada para uso diario
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FDL6S97G{{</world>}}

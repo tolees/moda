@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tejido suave y ligero
 - Detalles distintivos de la marca
+- Tejido suave y ligero
 - Con un estilo casual
 
 [🛒 Comprar!!!]({{< param buyurl >}})

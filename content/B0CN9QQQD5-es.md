@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ropa interior con estampados modernos y cintura a la moda
 - Fabricada en algodón elástico para una comodidad y libertad de movimientos óptimas
+- Ropa interior con estampados modernos y cintura a la moda
 - Marca francesa
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

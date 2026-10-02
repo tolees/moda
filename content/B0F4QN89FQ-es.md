@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Puños con punta exclusiva
-- Suéter fino
-- Jersey de algodón puro
 - Gargantilla
-- Cuello, puños y dobladillo acanalados
+- Jersey de algodón puro
+- Suéter fino
 - Cierre con botones
+- Puños con punta exclusiva
+- Cuello, puños y dobladillo acanalados
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F4QN89FQ{{</world>}}

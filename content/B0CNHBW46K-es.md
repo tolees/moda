@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tejido ligero y suave
 - Ofrece una comodidad óptima
+- Tejido ligero y suave
 - Presenta un estilo casual
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

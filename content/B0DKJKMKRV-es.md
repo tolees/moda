@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello redondo
-- Escudo oficial del equipo en el pecho
 - Corte normal
+- Escudo oficial del equipo en el pecho
 - Potente tecnología que elimina la humedad del cuerpo y te mantiene libre de sudor durante el entrenamiento
+- Cuello redondo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DKJKMKRV{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ofrece una comodidad óptima
 - Con un diseño ligero
+- Ofrece una comodidad óptima
 - Bolsillo tipo canguro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Corte estándar
 - Cuello redondo
+- Corte estándar
 - Detalle de la etiqueta
 
 [🛒 Visítala!!!]({{< param buyurl >}})

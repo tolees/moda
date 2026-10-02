@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Este artículo ha sido fabricado respetando las normas de producción
-- Fácil de llevar
 - Específico para razas de galgo
+- Fácil de llevar
 - Agradable al cuello de tu perro gracias al suave acolchado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

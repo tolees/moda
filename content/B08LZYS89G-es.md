@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Primaloft black
+- Bolsillos con cremallera ykk
+- Cremallera ykk
 - Artículos entregados: 1x helly hansen womens w crew insulator vest 2.0 - insulator white m
 - Trabilla externa para colgar
-- Bolsillos con cremallera ykk
-- Primaloft black
-- Cremallera ykk
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08LZYS89G{{</world>}}

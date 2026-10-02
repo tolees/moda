@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material: vaquero.
-- Bolsillos: bolsillos traseros.
-- Material del tejido exterior: algodón.
 - Ajuste: estándar.
 - Grosor del tejido: 330,6 g/m2.
+- Material del tejido exterior: algodón.
+- Material: vaquero.
+- Bolsillos: bolsillos traseros.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07RFLHLK2{{</world>}}

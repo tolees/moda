@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Proporciona comodidad
-- Manga corta
 - Corte relajado
+- Manga corta
 - Bajo curvado
+- Proporciona comodidad
 - Largo regular
 
 [🛒 Visítala!!!]({{< param buyurl >}})

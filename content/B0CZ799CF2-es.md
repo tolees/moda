@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cintura elástica
-- Tejido Infinitex Fitness
 - Corte ajustado
 - 78% poliamida (reciclada) / 22% elastano
+- Tejido Infinitex Fitness
+- Cintura elástica
 - Sujeción ligera
 
 [🛒 Visítala!!!]({{< param buyurl >}})

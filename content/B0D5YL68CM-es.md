@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Correa de algodón ajustable
 - Compartment Main With Metal Zipper Closure And Interior Slip Pocket
+- Correa de algodón ajustable
 - 2,5 l
 
 [🛒 Aquí!!!]({{< param buyurl >}})

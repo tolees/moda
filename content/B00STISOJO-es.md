@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camiseta con las siguientes características:
-- Descubre todas las marcas de EMP!
 - Camiseta || Mangas Raglan || Cuello Redondo Sin cuello || Material duradero
+- Descubre todas las marcas de EMP!
+- Camiseta con las siguientes características:
 - Básicos, Ropa de Calle
 - Ajuste : Regular
 

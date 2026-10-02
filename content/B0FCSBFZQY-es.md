@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- __Rib: __ At Cuffs and Bottom Hem
 - Pockets: __ Kangaroo Pocket
+- __Rib: __ At Cuffs and Bottom Hem
 - Hood:__ Yes
 - Material: algodón, poliéster, 280 g/m2, cepillado
 

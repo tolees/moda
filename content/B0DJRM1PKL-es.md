@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Corte regular
-- Longitud regular
+- Manga corta
 - Impresión completa en el panel frontal e inserción de malla en las mangas
 - Marca PUMA Cat termotransferible en el pecho derecho
-- Manga corta
+- Longitud regular
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DJRM1PKL{{</world>}}

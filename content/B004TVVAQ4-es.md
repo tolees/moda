@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 100% algodón
-- Tamaño normal
-- tamaño_normal
-- Cierre: botón
-- Multipack: 1
-- Lavar a máquina
 - Tipo de cuello: Cuello de camisa clásico
+- 100% algodón
+- Multipack: 1
+- Tamaño normal
+- Lavar a máquina
+- Cierre: botón
+- tamaño_normal
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B004TVVAQ4{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Hecho en: Marruecos
 - Color: Gris
-- Colección primavera-verano
 - 80 % viscosa, 20 % poliéster
+- Hecho en: Marruecos
+- Colección primavera-verano
 - Camiseta sin manga de la colección mujer
 
 [🛒 Visítala!!!]({{< param buyurl >}})

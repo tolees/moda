@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tejido transpirable
 - Ofrece comodidad y libertad de movimiento
+- Tejido transpirable
 - Tiene detalles distintivos de la marca
 - Apertura con presilla para pulgares
 

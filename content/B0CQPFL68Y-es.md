@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Plantilla Contour Comfort moldeada, parcialmente reciclada, forrada de cuero
 - Suela de goma antideslizante
+- Plantilla Contour Comfort moldeada, parcialmente reciclada, forrada de cuero
 - Cuero duradero de origen responsable
 
 [🛒 Aquí!!!]({{< param buyurl >}})

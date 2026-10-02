@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Moderno logo de Columbia
-- Camiseta para hombre, Adecuada para usar a diario
 - Contenido: 1x Columbia Hombre Camiseta, M Rapid Ridge Graphic, Color: Gris (Columbia Grey Hthr, C Sportswear Explore), Talla: L, Art.: 1888813
-- Disponible en diversos y elegantes colores
 - Confort óptimo gracias al material de jersey 100% algodón
+- Disponible en diversos y elegantes colores
+- Camiseta para hombre, Adecuada para usar a diario
+- Moderno logo de Columbia
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D4F6Z54B{{</world>}}

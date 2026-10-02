@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Proporciona un uso cómodo
-- Bolsillos laterales
 - Capucha y dobladillo con cordón de ajuste
+- Bolsillos laterales
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B69YRTKV{{</world>}}

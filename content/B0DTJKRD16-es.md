@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte normal
 - 100% algodón
+- Corte normal
 - Camiseta de manga corta con logotipo bordado en el pecho
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

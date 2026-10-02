@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - El equilibrio óptimo entre estrechos y ajustados
 - Las tallas para Big & Tall sientan bien justo donde tienen que hacerlo
-- Vaqueros con abertura de la pierna entallada que dan un aspecto más formal
 - Un corte moderno y versátil
+- Vaqueros con abertura de la pierna entallada que dan un aspecto más formal
 - Este producto es original Levis
 
 [🛒 Comprar!!!]({{< param buyurl >}})

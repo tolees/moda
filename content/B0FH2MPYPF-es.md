@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Cierre frontal con botones
 - Manga corta
 - Estilo informal
-- Cierre frontal con botones
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FH2MPYPF{{</world>}}

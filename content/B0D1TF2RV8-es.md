@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ofrece una comodidad óptima
 - Cuello, dobladillo y puños acanalados
 - Detalles distintivos de la marca
+- Ofrece una comodidad óptima
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D1TF2RV8{{</world>}}

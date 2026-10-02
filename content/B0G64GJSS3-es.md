@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Aottori Camiseta Mujer Manga Corta para Verano Canalé Elástico Cuello Barco'
-date: 2026-09-29 04:42:26
+date: 2026-10-01 07:45:53
 image: 'https://m.media-amazon.com/images/I/41WLFMxwCCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,13 +12,13 @@ tags: [ 'camiseta','🇪🇸', ]
 actualPrice: 7.59 EUR
 currency: EUR
 price: 7.59
-comparePrice: 19.99 EUR
+comparePrice: 12.99 EUR
 prodname: 'Aottori Camiseta Mujer Manga Corta para Verano Canalé Elástico Cuello Barco'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0G64GJSS3/?tag=tolees-21'
-descuento: '62.03'
+descuento: '41.57'
 average: '7.59'
 ---
 

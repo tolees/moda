@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre a presión
-- material: 60% algodón, 40% poliéster
 - Sudadera
 - Lavar a máquina
+- material: 60% algodón, 40% poliéster
+- Cierre a presión
 - Sudadera Sudadera
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Corte ajustado
 - Jersey de manga larga
+- Corte ajustado
 - Botones decorativos en el escote
 - Cuello en V
 

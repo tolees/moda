@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Liso
 - Composición del material: 100% poliéster
-- Capucha con ribete de piel sintética
 - Parka lisa de Kids Only
+- Capucha con ribete de piel sintética
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09DC2G96X{{</world>}}

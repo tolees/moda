@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sencillo de usar
 - Producto deportivo
+- Sencillo de usar
 - Material de calidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})

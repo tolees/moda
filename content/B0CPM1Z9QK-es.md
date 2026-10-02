@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Morgan Vestido punto corto evasé Blanco L'
-date: 2026-09-29 13:13:03
+date: 2026-10-01 05:45:01
 image: 'https://m.media-amazon.com/images/I/3185P+2wrgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

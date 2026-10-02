@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Anillo marca Guess
 - Referencia JUBR02139JWYG54
 - ANEL GUESS marca Guess
+- Anillo marca Guess
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BGRZY976{{</world>}}

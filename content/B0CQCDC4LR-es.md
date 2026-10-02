@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corte entallado
 - Tejido de punto con agarre suave
+- Corte entallado
 - Impresión de pigmentos para un estampado suave
 
 [🛒 Comprar!!!]({{< param buyurl >}})

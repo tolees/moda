@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- AJUSTE REGULAR FIT VERSÁTIL: Su corte clásico de caída recta ofrece una silueta impecable y masculina sin sacrificar la comodidad ni limitar tus movimientos. Una prenda atemporal diseñada para adaptarse de forma natural a cualquier fisonomía.
 - Botones en el cuello y puños. Corte regular. Logo bordado Rigby Go en el pecho.
 - CUELLO BUTTON-DOWN CLÁSICO: Diseñada con el icónico cuello con botones que asegura que permanezca siempre en su sitio, ofreciendo una estructura impecable tanto si la llevas completamente abotonada como con los primeros botones abiertos para un estilo más relajado.
 - TEJIDO OXFORD 100% ALGODÓN: Confeccionada íntegramente con algodón de primera calidad utilizando el característico tramado Oxford. Este tejido destaca por su textura con cuerpo, su excelente resistencia al desgaste y una transpirabilidad superior que te mantiene cómodo todo el día.
+- AJUSTE REGULAR FIT VERSÁTIL: Su corte clásico de caída recta ofrece una silueta impecable y masculina sin sacrificar la comodidad ni limitar tus movimientos. Una prenda atemporal diseñada para adaptarse de forma natural a cualquier fisonomía.
 - Detalle de etiqueta Oxford Collection en el bajo de la camisa.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

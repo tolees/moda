@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Corte estándar
 - Un Henley versátil de manga corta
 - Hecho de tejido de punto suave
-- Corte estándar
 - Acabado con nuestro logotipo de firma
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Camiseta de manga corta de tejido grueso
+- Hecho 100 % de algodón
 - Corte clásico
 - Disenado con un logotipo estampado en el pecho
-- Hecho 100 % de algodón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B007WPK1T6{{</world>}}

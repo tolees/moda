@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajuste óptimo y comodidad óptima
 - Tom Tailor - Sudadera de manga larga para mujer
+- Ajuste óptimo y comodidad óptima
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DSR9HZB1{{</world>}}

@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Ajuste: regular
-- Instrucciones de cuidado: lavable a máquina
-- Camiseta
-- Composición: 100% algodón
 - Tipo de estiramiento: no elástico
+- Composición: 100% algodón
+- Camiseta
+- Instrucciones de cuidado: lavable a máquina
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DQYLHWGL{{</world>}}

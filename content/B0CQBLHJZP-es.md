@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Sudadera con capucha de Lonsdale
 - Hecho de tela mixta de alta calidad
-- Ajuste entallado
 - Cómodo bolsillo tipo canguro
+- Ajuste entallado
 - Bonito estampado en dos tonos en el pecho
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

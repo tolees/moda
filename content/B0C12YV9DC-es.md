@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Training
 - Mujeres - Sujetador deportivo
 - 87% Poliéster - 13% Elastano
-- Training
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C12YV9DC{{</world>}}

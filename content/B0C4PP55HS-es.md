@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño ligero que ofrece comodidad
 - Ajuste regular
+- Diseño ligero que ofrece comodidad
 - Tiene detalles distintivos de la marca
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

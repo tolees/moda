@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Instrucciones de cuidado: lavable a máquina
 - Composición: 69 por ciento de algodón 31 por ciento lyocell
 - Ajuste: pierna ancha de cintura alta
-- Tipo de estiramiento: no elástico
+- Instrucciones de cuidado: lavable a máquina
 - Jeans Pantalones Largos
+- Tipo de estiramiento: no elástico
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DR1YR5T9{{</world>}}

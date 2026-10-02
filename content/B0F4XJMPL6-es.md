@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello de camisa
 - Bragueta de botones
 - Manga larga
+- Cuello de camisa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F4XJMPL6{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Logo Rigby Go bordado ubicado en pecho izquierdo.
 - Jersey básico para hombre de cuello alto y cremallera.
-- Diseñado con un corte cómodo y práctico.
-- Confeccionado en suave algodón.
 - Acabados acanalados en cuello, puños y cintura.
+- Logo Rigby Go bordado ubicado en pecho izquierdo.
+- Confeccionado en suave algodón.
+- Diseñado con un corte cómodo y práctico.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CNPW6KC4{{</world>}}

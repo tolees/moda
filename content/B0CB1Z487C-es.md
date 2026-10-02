@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bolsillos en el pecho con solapa y cierre a presión
-- Panel en los hombros
-- Puños con botones a presión
-- Cuello de camisa
 - Cierre de botones a presión
+- Puños con botones a presión
+- Bolsillos en el pecho con solapa y cierre a presión
+- Cuello de camisa
+- Panel en los hombros
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CB1Z487C{{</world>}}

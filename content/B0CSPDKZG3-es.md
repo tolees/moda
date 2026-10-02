@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Forro de marca en el cuerpo, forro polar en bolsillos
 - Cuello de embudo de peso medio estilo puffer
+- Forro de marca en el cuerpo, forro polar en bolsillos
 - Fabricado con relleno 100% reciclado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

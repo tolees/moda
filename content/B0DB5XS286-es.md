@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello redondo de canalé
-- Logotipo del equipo Mercedes - AMG Petronas Formula One Team
-- 100% poliéster (reciclado)
 - AEROREADY
+- Logotipo del equipo Mercedes - AMG Petronas Formula One Team
+- Cuello redondo de canalé
+- 100% poliéster (reciclado)
 - Corte clásico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

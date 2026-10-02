@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvin Klein Calzoncillos bóxer Hombre Pack de 3 Low Rise Trunks Ropa Interior Negro Black W Black WB M'
-date: 2026-09-27 14:29:41
+date: 2026-09-30 03:23:26
 image: 'https://m.media-amazon.com/images/I/31kEaJjvdqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B077B63VMG/?tag=tolees-21'
 descuento: '42.20'
-average: '26.6872972972974'
+average: '26.6494871794873'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

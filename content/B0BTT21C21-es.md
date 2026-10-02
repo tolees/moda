@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camiseta de manga corta
 - Detalles distintivos de la marca
+- Camiseta de manga corta
 - Fabricada en material cómodo y ligero
 - Ofrece libertad de movimiento
 

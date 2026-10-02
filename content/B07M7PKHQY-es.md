@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Print T-Shirt
 - Cotton T-Shirt
+- Print T-Shirt
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07M7PKHQY{{</world>}}

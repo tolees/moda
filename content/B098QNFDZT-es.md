@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Logotipo Levis Batwing en el pecho
 - Manga corta
 - Corte regular
-- Cuello redondo
 - 95% algodón
+- Logotipo Levis Batwing en el pecho
+- Cuello redondo
 - 5% elastano
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- CARTERA SLG
-- DEBORA SLG MULTI CLUB
 - 100% POLIURETANO
-- PESO: 0,376 KG
+- DEBORA SLG MULTI CLUB
 - LAUREL II SLG GRANDE CON CREMALLERA
+- CARTERA SLG
+- PESO: 0,376 KG
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0GF3PZXMW{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cárdigan De Nailon
 - Cárdigan Cárdigan
+- Cárdigan De Nailon
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FCSNJ3M7{{</world>}}

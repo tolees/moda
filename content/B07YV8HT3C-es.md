@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseño con capucha
-- Proporciona comodidad
 - Una mirada original
 - Un ajuste cómodo
 - Manga larga
+- Diseño con capucha
+- Proporciona comodidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07YV8HT3C{{</world>}}

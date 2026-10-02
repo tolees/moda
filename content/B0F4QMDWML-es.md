@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Detalles distintivos de Tommy Jeans
 - Cintura elástica con cordón
+- Detalles distintivos de Tommy Jeans
 - Dos bolsillos laterales abiertos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

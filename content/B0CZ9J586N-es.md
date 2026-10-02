@@ -31,8 +31,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Coderas acolchadas
 - Cuello redondo de canalé
 - Corte entallado
-- 100% poliéster (reciclado)
 - AEROREADY
+- 100% poliéster (reciclado)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZ9J586N{{</world>}}

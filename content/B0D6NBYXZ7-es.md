@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cómodos y transpirables de corte bajo
 - Plantilla extraíble
+- Cómodos y transpirables de corte bajo
 - Cierre de cordones
 
 [🛒 Visítala!!!]({{< param buyurl >}})

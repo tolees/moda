@@ -29,11 +29,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Manga larga
-- Cárdigan manga larga
-- Apliques solapas para un efecto falso bolsillo en el pecho
+- Punto fino
 - Corte recto
 - Cuello tipo polo
-- Punto fino
+- Apliques solapas para un efecto falso bolsillo en el pecho
+- Cárdigan manga larga
 - Cierre de botones en la parte delantera
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tipo de correa: Correa trasera.
 - Comodidad.
+- Tipo de correa: Correa trasera.
 - Plantilla interior Luxe Foam acolchada y contorneada para mayor comodidad.
 - Detalles de los diamantes de imitación:
 

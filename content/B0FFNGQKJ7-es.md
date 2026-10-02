@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - MEJOR PARA: Uso diario y estilo casual inspirado en la herencia deportiva
+- AJUSTE: Corte regular para comodidad relajada durante todo el día
 - CARACTERÍSTICAS: Color Vintage Chalk que aporta un estilo limpio inspirado en archivos con carácter colegial clásico
 - DISEÑO Y ESTILO: Camiseta clásica de algodón que ofrece comodidad natural con un look varsity atemporal
-- AJUSTE: Corte regular para comodidad relajada durante todo el día
 - TEJIDO: Punto liso 100% algodón que proporciona suavidad y transpirabilidad con una caída natural
 
 [🛒 Visítala!!!]({{< param buyurl >}})

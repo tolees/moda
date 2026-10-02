@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Material exterior: sintético
 - Talla del zapato: Medium
 - Forma del tacón: plano
-- Material exterior: sintético
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07SQRSV1S{{</world>}}

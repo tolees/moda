@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Recco
-- Primaloft black eco
 - Ykk aquaguard
 - Helly tech performance
+- Primaloft black eco
 - Artículos entregados: 1x helly hansen womens w alphelia jacket - down jacket snow s
+- Recco
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B1VPLTHB{{</world>}}

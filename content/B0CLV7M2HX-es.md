@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Longitud estándar
-- Puños redondeados
 - Cuello de botón hacia abajo
 - Ajuste normal
+- Puños redondeados
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CLV7M2HX{{</world>}}

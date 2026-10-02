@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Solapas y botones brillan un poco
 - Traje de corte muy ajustado
+- Solapas y botones brillan un poco
 - Totalmente forrado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello plano
 - Panel en los hombros, pinza para crear volumen debajo
+- Cuello plano
 - Cierre de cremallera
 - Bolsillos de solapa 3D en la parte delantera, bolsillos laterales por debajo
 - Bolsillos con ribete y cierre a presión oculto en el pecho

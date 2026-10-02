@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Artículo : Camiseta
-- Cuello : Cuello redondo
 - Estampado : Estampado de goma para un tacto suave
+- Cuello : Cuello redondo
 - Corte : Corte wide
+- Artículo : Camiseta
 - Manga : Manga corta
 
 [🛒 Visítala!!!]({{< param buyurl >}})

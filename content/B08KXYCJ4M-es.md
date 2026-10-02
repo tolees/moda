@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sudadera capucha con cremallera || Ajuste normal || Color intenso || Material duradero
 - Descubre todas las marcas de EMP!
-- Ajuste : Regular
 - Capucha con cremallera con las siguientes características:
+- Sudadera capucha con cremallera || Ajuste normal || Color intenso || Material duradero
+- Ajuste : Regular
 - Básicos, Ropa casual, Ropa de Calle
 
 [🛒 Comprar!!!]({{< param buyurl >}})

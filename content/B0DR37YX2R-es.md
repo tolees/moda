@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Jeans Pantalones Largos
-- Ajuste: corte de bota regular original
-- Cierre: cremallera y botón
 - Composición: 100% algodón
+- Ajuste: corte de bota regular original
+- Jeans Pantalones Largos
+- Cierre: cremallera y botón
 - Instrucciones de cuidado: lavable a máquina
 
 [🛒 Visítala!!!]({{< param buyurl >}})

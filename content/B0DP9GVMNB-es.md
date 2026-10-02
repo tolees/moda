@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Logotipo embroidery on chest
 - Quiksilver woven label at side seam
+- Logotipo embroidery on chest
 - Cuello:
 - Material: algodón, poliéster nep jersey fabric [160 g/m2]
 

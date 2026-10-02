@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - CHAQUETA VAQUERA: una prenda imprescindible para combinar. Estilo camionero clásico con comodidad moderna
-- BAJA ELASTICIDAD Y ALTO GRAMAJE: tejido resistente y duradero con un toque de elasticidad para mayor comodidad y facilidad de movimiento. Mantiene su forma incluso después de varios lavados
 - DETALLES: botones de caña en la solapa delantera. Bolsillos de parche en el pecho con solapas y botones. Lengüetas en las costuras laterales para un corte ajustable. Bolsillos ribeteados en ángulo
+- BAJA ELASTICIDAD Y ALTO GRAMAJE: tejido resistente y duradero con un toque de elasticidad para mayor comodidad y facilidad de movimiento. Mantiene su forma incluso después de varios lavados
 - CORTE ESTÁNDAR: corte cómodo y sencillo en los hombros, el pecho y la cintura
 - LONGITUD DE LA PRENDA: 69,9cm desde el lado del cuello en la talla M de España
 

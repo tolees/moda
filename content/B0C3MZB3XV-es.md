@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Con cuello redondo, corte regular
-- BOSS Logotipo bordado en el pecho
 - De algodón producido de forma responsable
-- BOSS Camiseta para hombre Mix & Match
 - Lavable a máquina a 40 °C, apto para secadora
+- BOSS Logotipo bordado en el pecho
+- BOSS Camiseta para hombre Mix & Match
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C3MZB3XV{{</world>}}

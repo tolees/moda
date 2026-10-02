@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Chaqueta bomber para hombre de la marca danesa JACK & JONES
 - Manga larga
+- Chaqueta bomber para hombre de la marca danesa JACK & JONES
 - Puños acanalados
 
 [🛒 Comprar!!!]({{< param buyurl >}})

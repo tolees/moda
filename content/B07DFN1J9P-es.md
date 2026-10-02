@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello alto con cierre a presión
-- Chaqueta acolchada hasta el muslo
 - Ajuste regular
+- Chaqueta acolchada hasta el muslo
+- Cuello alto con cierre a presión
 - Cómoda capucha para proteger de la lluvia y el viento
 
 [🛒 Comprar!!!]({{< param buyurl >}})

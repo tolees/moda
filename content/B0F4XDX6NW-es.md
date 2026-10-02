@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Largo hasta la rodilla
 - Cuello de chimenea
 - Manga larga
-- Largo hasta la rodilla
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F4XDX6NW{{</world>}}

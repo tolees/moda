@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ventilado.
 - Omni-Wick.
 - Secado rápido.
 - Soporte para caña.
+- Ventilado.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00261DXXC{{</world>}}

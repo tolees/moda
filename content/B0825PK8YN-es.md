@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Bajo en curva y mangas enrollables
 - Cuello con escote redondo abierto
-- Punto jersey de algodón ligero
 - Punto canalé en el cuello
 - Corte normal, clásico, cómodo
+- Punto jersey de algodón ligero
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0825PK8YN{{</world>}}

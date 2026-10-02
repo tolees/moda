@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ofrece comodidad y libertad de movimiento
 - Bóxer para hombre
 - Material de calidad
+- Ofrece comodidad y libertad de movimiento
 - Detalles distintivos de la marca
 
 [🛒 Aquí!!!]({{< param buyurl >}})

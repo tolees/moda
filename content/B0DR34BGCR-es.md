@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ajuste: regular
-- Chaqueta sin mezclilla
-- Composición: 95 por ciento de poliéster y 5 por ciento de elastano
 - Tipo de estiramiento: baja elasticidad
+- Ajuste: regular
+- Composición: 95 por ciento de poliéster y 5 por ciento de elastano
+- Chaqueta sin mezclilla
 - Instrucciones de cuidado: lavable a máquina
 
 [🛒 Comprar!!!]({{< param buyurl >}})

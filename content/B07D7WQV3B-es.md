@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseño de cinco bolsillos
 - Corte ajustado en los muslos
+- Diseño de cinco bolsillos
 - Este producto es original Levis
 - Con apertura de pierna pitillo
 

@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - PrimaLoft NEGRO
-- Lazo para colgar externo
-- Bolsillos en el pecho y las manos
-- CREMALLERA YKK
 - Logotipo impreso de HH
+- Bolsillos en el pecho y las manos
+- Lazo para colgar externo
+- CREMALLERA YKK
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BKLRK864{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 100% poliéster (reciclado)
+- AEROREADY
+- Corte entallado
 - Espacio para personalizarla
 - Cuello redondo de canalé
-- Corte entallado
-- AEROREADY
+- 100% poliéster (reciclado)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CZ9DD3HV{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- LEVIS TAB: Existen diferentes variaciones de la conocida lengüeta roja. Todos los productos son originales de Levis, no importa si pone LEVIS, Levis, no está escrito o es de otro color.
 - Proporciona una elasticidad notable para mayor comodidad sin perder estructura. Ideal para un ajuste ceñido pero no restrictivo.
+- LEVIS TAB: Existen diferentes variaciones de la conocida lengüeta roja. Todos los productos son originales de Levis, no importa si pone LEVIS, Levis, no está escrito o es de otro color.
 - Classic Bootcut
 
 [🛒 Aquí!!!]({{< param buyurl >}})

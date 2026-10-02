@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suela flexible y amortiguada
 - Adecuadas para correr y jugar
+- Suela flexible y amortiguada
 - Plantilla desmontable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

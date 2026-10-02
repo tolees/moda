@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 - Bragueta de cremallera
 - Una mirada original
 - Etiqueta de G-STAR en la parte trasera, hecha de un tejido de papel que imita a la piel
-- Proporciona comodidad
 - Cinco bolsillos
+- Proporciona comodidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DSW8XR4Y{{</world>}}

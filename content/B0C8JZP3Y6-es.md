@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Forro de goma, nailon y elastano, diseño de bloques de color
 - Puntera abierta
 - Puntera de cincha
 - Tommy Hilfiger Bandera bordada en la parte delantera
-- Forro de goma, nailon y elastano, diseño de bloques de color
 - Plantilla moldeada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

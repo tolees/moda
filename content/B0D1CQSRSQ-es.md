@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ropa de abrigo
 - Adecuado para climas fríos
+- Ropa de abrigo
 - Tiene detalles distintivos de la marca "Helly Hansen"
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

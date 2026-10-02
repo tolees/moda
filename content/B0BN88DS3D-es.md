@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Este producto es original Levis
 - Ofrece comodidad y libertad de movimiento
-- Cuenta con un diseño ligero
 - Tiene detalles distintivos de la marca
+- Cuenta con un diseño ligero
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BN88DS3D{{</world>}}

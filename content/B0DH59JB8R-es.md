@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Nudo en la cintura
 - Cuello en V
+- Nudo en la cintura
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DH59JB8R{{</world>}}

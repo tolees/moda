@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bajo y puños elásticos
+- Cuello alzado acanalado por dentro
 - Cierre de cremallera
 - Bolsillos en la cintura cubiertos con cinta y cierre de botón a presión
-- Cuello alzado acanalado por dentro
+- Bajo y puños elásticos
 - Bolsillo y trabilla en el interior
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

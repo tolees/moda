@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CAMISETA COMMERCIAL TRAINING: Diseñada para rendimiento fiable en el entrenamiento diario
-- DETALLES DE MARCA: Logo en el pecho por transferencia térmica y cinta Reebok en la parte trasera del cuello
 - AJUSTE: Regular
+- DETALLES DE MARCA: Logo en el pecho por transferencia térmica y cinta Reebok en la parte trasera del cuello
 - IDEAL PARA: Entrenamiento
+- CAMISETA COMMERCIAL TRAINING: Diseñada para rendimiento fiable en el entrenamiento diario
 - TEJIDO DURADERO: Confección en jersey de poliéster para comodidad ligera
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

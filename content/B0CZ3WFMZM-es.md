@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Clarks Sandals, Saltway Cove, Dark Brown Lea, 11 (Men)
 - Material de la suela: goma
+- Clarks Sandals, Saltway Cove, Dark Brown Lea, 11 (Men)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CZ3WFMZM{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con un pequeño logotipo bordado en color de contraste
 - Camiseta regular de manga corta
+- Con un pequeño logotipo bordado en color de contraste
 - 100% algodón
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

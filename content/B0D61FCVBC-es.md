@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Plantillas de espuma
-- Correas suaves y flexibles
 - Sandalia de plataforma
+- Correas suaves y flexibles
+- Plantillas de espuma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D61FCVBC{{</world>}}

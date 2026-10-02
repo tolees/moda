@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre de cordones
 - Horma clásica
-- Lengüeta acolchada
-- Suela de goma
-- Forro textil
 - Contiene al menos un 20% de material reciclado
 - Empeine de ante
+- Forro textil
+- Suela de goma
+- Cierre de cordones
+- Lengüeta acolchada
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DMVJBNM9{{</world>}}

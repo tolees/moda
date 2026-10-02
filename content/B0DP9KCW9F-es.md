@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ajuste cómodo
 - Plantilla desmontable
+- Ajuste cómodo
 - Transpirables y ligeras
 
 [🛒 Comprar!!!]({{< param buyurl >}})

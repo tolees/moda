@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre mediante botones de presión
-- chaqueta ligera para mujer no solo para días lluviosos
-- Corte regular, ajuste normal
 - Material resistente al viento y al agua
 - Capucha con cordón
+- chaqueta ligera para mujer no solo para días lluviosos
+- Cierre mediante botones de presión
+- Corte regular, ajuste normal
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C5JM69XL{{</world>}}

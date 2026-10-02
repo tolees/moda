@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Estilo informal
 - Cuello redondo
 - Manga corta
+- Estilo informal
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F4NWN9K7{{</world>}}

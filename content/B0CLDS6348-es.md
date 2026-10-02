@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Detalles : El artículo se puede plegar en el bolsillo para facilitar su transporte y almacenamiento
+- Cuello : Cuello levantado
 - Artículo : Chaleco acolchado
-- Manga : Sin mangas
 - Acolchado : Acolchado de plumón de fibra sintética para una mayor sensación de suavidad y calidez
+- Detalles : El artículo se puede plegar en el bolsillo para facilitar su transporte y almacenamiento
 - Bolsillos : Bolsillos delanteros
 - Cierre : Cierre de cremallera
-- Cuello : Cuello levantado
+- Manga : Sin mangas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CLDS6348{{</world>}}

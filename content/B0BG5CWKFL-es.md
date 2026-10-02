@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Corte normal
-- Bordado GANT gráfico en el pecho
 - Cuello con cierre de cremallera
+- Bordado GANT gráfico en el pecho
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BG5CWKFL{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Manga corta
+- Etiqueta colgante en costura lateral
+- Etiqueta colgante en costura lateral
 - __Tejido:__ algodón [160 g/m2]
-- Etiqueta colgante en costura lateral
-- Etiqueta colgante en costura lateral
 - Serigrafía frontal y trasera de tacto suave
+- Manga corta
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DPG6QVTH{{</world>}}

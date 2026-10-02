@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Niorasen Calcetines Deportivos Hombre 6 Pares Cortos y Acolchados'
-date: 2026-09-28 16:44:58
+date: 2026-10-01 01:21:51
 image: 'https://m.media-amazon.com/images/I/51WL5RSBrwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CY1ZCTVF/?tag=tolees-21'
 descuento: '34.40'
-average: '11.24'
+average: '11.1036363636364'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

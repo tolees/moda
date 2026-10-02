@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con un aspecto casual para el armario diario
 - Zapatillas de deporte junior de corte bajo en diseño simple, adecuadas para la escuela y actividades de ocio
+- Con un aspecto casual para el armario diario
 - El zapato cómodo y transpirable
 
 [🛒 Comprar!!!]({{< param buyurl >}})

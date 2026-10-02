@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La misión de Under Armour es simple: hacerte mejor.
 - Esto significa que si estableces un lente, te ayudaremos a aplastarlo.
 - Hacemos eso con innovación de rendimiento y zapatos, camisas y herramientas digitales que cambian el juego que superan los límites de lo que pensabas posible.
+- La misión de Under Armour es simple: hacerte mejor.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C12G5M1H{{</world>}}

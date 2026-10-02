@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Para uso diario
-- Calzado deportivo
 - Cierre con cordones
+- Calzado deportivo
+- Para uso diario
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D7QC25H7{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ribete elástico en puños y dobladillo.
 - Ribete elástico en el cuello
 - Bolsillos con cremallera
+- Ribete elástico en puños y dobladillo.
 - Fabricado con contenido reciclado
 
 [🛒 Comprar!!!]({{< param buyurl >}})

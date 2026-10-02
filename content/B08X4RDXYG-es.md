@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- - Tejido: rizo francés (estructura de bucles en la parte posterior/no rugoso), mercancía ligera
 - - Descripción del modelo: sudadera de cuello redondo con pequeño logotipo impreso en el pecho izquierdo (impresión de goma 3D)
 - Sudadera de cuello redondo para hombre
-- - Tejido: rizo francés (estructura de bucles en la parte posterior/no rugoso), mercancía ligera
 - - Calidad: 80% algodón peinado, 20% poliéster
 
 [🛒 Comprar!!!]({{< param buyurl >}})

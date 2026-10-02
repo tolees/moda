@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Ajuste regular: La camiseta es de ajuste regular y tiene mangas cortas, proporcionando un ajuste relajado y cómodo.
-- Lavable: fácil de lavar, es a máquina. Lavable, por lo que es práctico y opción de bajo mantenimiento
 - Aspecto clásico: camisetas con cuello redondo y manga corta que crean un aspecto clásico y atemporal. Material: Hecho de 100% algodón Material que es suave, transpirable y cómodo.
+- Lavable: fácil de lavar, es a máquina. Lavable, por lo que es práctico y opción de bajo mantenimiento
 - Cierre: diseño de tirar, por lo que es fácil de poner y quitar
 
 [🛒 Comprar!!!]({{< param buyurl >}})

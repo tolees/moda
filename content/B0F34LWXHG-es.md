@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Tejido ligero para una comodidad y durabilidad superiores
-- Material que capilariza el sudor y se seca rápidamente
-- Cintura elástica con revestimiento y cordón interior
 - Bajo con abertura lateral
+- Cintura elástica con revestimiento y cordón interior
+- Material que capilariza el sudor y se seca rápidamente
 - Bolsillos laterales abiertos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

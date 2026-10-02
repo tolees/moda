@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Artículo : Vaqueros ajustados
-- Cierre : Bragueta con cremallera
 - Cintura : Cintura media
-- Detalles : Trabillas, Remaches
-- Corte : Corte slim straight
 - Klavado/acabado : Lavado a la piedra para un acabado desgastado y desteñido
+- Artículo : Vaqueros ajustados
+- Detalles : Trabillas, Remaches
 - Bolsillos : Bolsillos traseros, Bolsillo relojero, Bolsillos delanteros
+- Cierre : Bragueta con cremallera
+- Corte : Corte slim straight
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CXJDH1QH{{</world>}}

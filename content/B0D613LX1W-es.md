@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Base ligera Croslite
-- Revolucionario paseo ligero
 - Elegante silueta de dos correas
+- Revolucionario paseo ligero
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D613LX1W{{</world>}}

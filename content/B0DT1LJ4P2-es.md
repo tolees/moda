@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bandolera ajustable
 - Logotipo con monograma en la parte delantera
+- Bandolera ajustable
 - Cremallera superior
 
 [🛒 Visítala!!!]({{< param buyurl >}})

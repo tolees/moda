@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bolsillos : Bolsillos delanteros
-- Forro : Forro de poliéster para una sensación cómoda
 - Cuello : Cuello alto
-- Artículo : Abrigo de lana
+- Cierre : Cierre de botones
+- Forro : Forro de poliéster para una sensación cómoda
+- Bolsillos : Bolsillos delanteros
 - Puños : Puños abotonados
 - Funcionalidad : Resistente al viento
-- Cierre : Cierre de botones
+- Artículo : Abrigo de lana
 - Largo/talla : Corto
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Chaleco cómodo, Se puede llevar todo el año, Para senderismo, trail running y otras actividades al aire libre
 - Práctica cremallera completa, Protección ajustable para el cuello y la barbilla, 2 bolsillos con cremallera para tener las manos calientes y seguras
-- Corte clásico, Puede usarse como prenda básica para vestir al aire libre, Logotipo de Columbia
 - Tejido ligero y suave, Lavable a máquina, Disponible en varios colores
+- Corte clásico, Puede usarse como prenda básica para vestir al aire libre, Logotipo de Columbia
 - Contenido: 1x Columbia Mujer Chaleco Benton Springs, S, Black (Negro)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

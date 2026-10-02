@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Casual Parka
 - Parka Corta De Diario
+- Casual Parka
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FCN14LNX{{</world>}}

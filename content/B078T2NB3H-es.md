@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Puntera y talón de algodón para comodidad
 - Malla de punto para mejor transpirabilidad
 - Calcetines de fútbol
+- Puntera y talón de algodón para comodidad
 - Bolsillo de ojal en contraste
 
 [🛒 Aquí!!!]({{< param buyurl >}})

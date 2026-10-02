@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Espuma inyectada para una mejor absorción de impactos
 - Diseñado con cuero artificial
+- Espuma inyectada para una mejor absorción de impactos
 - Marca: Venum
 - Cierre de velcro doble para una mayor estabilidad y agilidad
 

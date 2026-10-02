@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre: Velcro
-- Revestimiento: Malla
 - Altura del tacón: 2 centímetros
-- Material de la suela: Goma
+- Cierre: Velcro
 - Material exterior: Cuero
+- Revestimiento: Malla
+- Material de la suela: Goma
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B003JMFG78{{</world>}}

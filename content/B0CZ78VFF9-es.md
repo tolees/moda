@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sujeción ligera
+- Tejido Infinitex Fitness
 - Cintura elástica
 - Corte ajustado
-- Tejido Infinitex Fitness
 - 78% poliamida (reciclada) / 22% elastano
+- Sujeción ligera
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CZ78VFF9{{</world>}}

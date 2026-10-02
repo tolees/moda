@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cazadora de VERO MODA
-- Con puños acanalados
 - Forma con cremallera
+- Con puños acanalados
 - De material de fácil cuidado con porcentaje elástico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

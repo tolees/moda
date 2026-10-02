@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Solapa delantera interior completa
-- Dobladillo elástico
 - Puños elásticos
+- Dobladillo elástico
+- Solapa delantera interior completa
 - Bolsillos para las manos con cremallera YKK
 - Manga raglán para libertad de movimiento.
 

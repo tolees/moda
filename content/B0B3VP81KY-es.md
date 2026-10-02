@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Micro águila frontal
 - Manga corta
+- Micro águila frontal
 - Corte entallado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

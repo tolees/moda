@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Marca: JOISIDE
 - Color: Cl797 negro
+- Marca: JOISIDE
 - Zapatos de seguridad S3 Hombre 43 Zapatos de Trabajo con Punta Acero Verano Ligero Zapatos Deportivos de Seguridad Zapatillas Kevlar Transpirables Zapatos de Trabajo Antideslizante Negro
 - Medición: 43 EU
 

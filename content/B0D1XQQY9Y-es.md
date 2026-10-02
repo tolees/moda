@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Aberturas laterales
-- Cierre de cremallera
-- Cuello alzado
 - Puños ajustables con botones a presión
+- Cuello alzado
+- Aberturas laterales
 - Bolsillos delanteros con cremallera, cogidos en la costura
+- Cierre de cremallera
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D1XQQY9Y{{</world>}}

@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Mallas deportivos
 - Ofrece comodidad y libertad de movimiento
-- Sin bolsillos
 - Cuenta con el logotipo bordado
+- Sin bolsillos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08CBWDT41{{</world>}}

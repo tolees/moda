@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Ajuste regular
-- Logotipo Levis Batwing en el pecho
 - Ajuste regular
+- Logotipo Levis Batwing en el pecho
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01LL2KYZQ{{</world>}}

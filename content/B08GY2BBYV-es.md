@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Este pijama de una pieza es la prenda que no puede faltar para no pasar nada de frío en casa
 - Más detalles y tabla de tallas en las imágenes
-- Todas las tallas de M a 3XL
 - Composición: pijama mono de hombre en polar suave 100% poliéster
+- Este pijama de una pieza es la prenda que no puede faltar para no pasar nada de frío en casa
+- Todas las tallas de M a 3XL
 - Varios modelos para elegir
 
 [🛒 Visítala!!!]({{< param buyurl >}})

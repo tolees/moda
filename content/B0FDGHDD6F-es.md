@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Colección Mix And Match Green House
 - Pijama masculino de manga larga
+- Colección Mix And Match Green House
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FDGHDD6F{{</world>}}

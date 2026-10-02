@@ -30,10 +30,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Detalles : Interior de la prenda cepillado
 - Corte : Corte relaxed
-- Cuello : Cuello redondo
 - Manga : Manga larga
-- Mangas : Sisa en disminución
 - Artículo : Sudadera
+- Mangas : Sisa en disminución
+- Cuello : Cuello redondo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DQNZ7GZS{{</world>}}

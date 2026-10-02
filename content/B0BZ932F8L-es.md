@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Skechers Detalle del logotipo
 - Diseño deportivo con cordones y una parte superior de malla diseñada
 - Entresuela moteada Skech-Lite que absorbe los golpes
+- Skechers Detalle del logotipo
 - Suela de tracción flexible
 
 [🛒 Aquí!!!]({{< param buyurl >}})

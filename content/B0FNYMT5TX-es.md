@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Comodidad vegana: estas sandalias para mujer cuentan con un diseño vegano con una parte superior de punto suave y transpirable y plantilla acolchada de espuma de yoga para comodidad durante todo el día.
-- Cuidado fácil: estas sandalias para mujer son lavables a máquina para una limpieza y mantenimiento sin complicaciones.
 - Flexibilidad ligera: la suela ultra flexible Ultra Flex 3.0 proporciona amortiguación ligera y tracción en una variedad de superficies.
+- Cuidado fácil: estas sandalias para mujer son lavables a máquina para una limpieza y mantenimiento sin complicaciones.
 - Ajuste ajustable: las correas dobles de te permiten personalizar el ajuste para una sensación segura y personalizada con cada paso.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajuste: ajuste básico, longitud de espalda en talla L aprox. 74 cm
 - Camiseta clásica con logotipo impreso en la parte delantera y puños acanalados en el cuello
+- Ajuste: ajuste básico, longitud de espalda en talla L aprox. 74 cm
 - Hecho de suave tejido de punto simple
 - Manga corta con cuello redondo, ideal para la primavera y el verano o para usar debajo
 

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Training
+- Camiseta entrenamiento
 - Tipo de fábrica: Poliéster
 - Marino
-- Camiseta entrenamiento
-- Training
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07DXLY7X8{{</world>}}

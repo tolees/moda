@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Deportiva inspirada en el baloncesto
 - Calzado transpirable
+- Deportiva inspirada en el baloncesto
 - Óptimas para los looks informales del colegio y del fin de semana
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

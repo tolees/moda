@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Correas ajustables
 - Proporciona protección y visibilidad óptima
+- Correas ajustables
 - Gafas de natación unisex adulto
 - Material resistente y duradero
 

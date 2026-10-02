@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Jeans Camiseta de manga corta TJM Original Slim Fit Azul Black Iris XL'
-date: 2026-09-24 12:58:20
+date: 2026-10-01 10:52:44
 image: 'https://m.media-amazon.com/images/I/31rh5eSI9pL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07771HWBW-es Tommy Jeans Camiseta de manga corta TJM Original Slim Fit...'
 sku: 'B07771HWBW-es'
 tags: [ 'camiseta','🇪🇸', ]
-actualPrice: 14.95 EUR
+actualPrice: 17.95 EUR
 currency: EUR
-price: 14.95
+price: 17.95
 comparePrice: 29.9 EUR
 prodname: 'Tommy Jeans Camiseta de manga corta TJM Original Slim Fit Azul Black Iris XL'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07771HWBW/?tag=tolees-21'
-descuento: '50.00'
-average: '19.464'
+descuento: '39.97'
+average: '19.2116666666667'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

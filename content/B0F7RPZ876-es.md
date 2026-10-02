@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- * Marco: 100% policarbonato; lentes: 100% policarbonato. * Gafas de sol clásicas con montura de gafas. * Protección UVA/UVB 400. * Bolsa para gafas de sol RCA
 - Protección UVA/UVB 400
+- * Marco: 100% policarbonato; lentes: 100% policarbonato. * Gafas de sol clásicas con montura de gafas. * Protección UVA/UVB 400. * Bolsa para gafas de sol RCA
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F7RPZ876{{</world>}}

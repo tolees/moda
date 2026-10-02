@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Manga corta
-- Etiqueta sellada con calor en el cuello
 - Serigrafía frontal y trasera de tacto suave
+- Etiqueta sellada con calor en el cuello
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DPG7SGJ8{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto oficial Alpinestars – Desarrollado y producido gracias a la experiencia en competiciones de carreras, probado por los mejores atletas del mundo.
-- Para cualquier ocasión – T-shirt para hombre/unisex disponible en diferentes colores y tallas, lavable a máquina
 - Tejido suave – Fabricada con una mezcla optimizada de 60% algodón y 40% poliéster para garantizar la comodidad transpirable del algodón con la resistencia y estabilidad del poliéster
 - Ajuste cómodo – Camiseta de cuello redondo y mangas cortas Alpinestars diseñada para la máxima comodidad, transpirabilidad y frescura. Funcionalidad deportiva con una estética moderna
+- Producto oficial Alpinestars – Desarrollado y producido gracias a la experiencia en competiciones de carreras, probado por los mejores atletas del mundo.
+- Para cualquier ocasión – T-shirt para hombre/unisex disponible en diferentes colores y tallas, lavable a máquina
 - Diseñada en California – Estilo icónico, diseño deportivo y contemporáneo. Exclusividad y prestigio de la marca Alpinestars
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

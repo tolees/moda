@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Acabado de pierna con borde plano
 - Cintura baja
-- Suave y transpirable
+- Acabado de pierna con borde plano
 - Calvin klein Cintura elástica distintiva
+- Suave y transpirable
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CC9QBDH9{{</world>}}

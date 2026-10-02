@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sudadera para hombre, capucha con cordón ajustable
-- Bolsillos laterales
 - Manga larga, cremallera, ajuste holgado
+- Bolsillos laterales
+- Sudadera para hombre, capucha con cordón ajustable
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CBNH8MB3{{</world>}}

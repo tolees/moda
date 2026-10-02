@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TENBST Carteras para Hombre - Tarjetero Hombre con Monedero & Bloqueo RFID'
-date: 2026-09-28 22:26:12
+date: 2026-10-01 09:26:52
 image: 'https://m.media-amazon.com/images/I/414J8oegUkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FVFQJRXJ/?tag=tolees-21'
 descuento: '22.65'
-average: '23.1033333333333'
+average: '22.16'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

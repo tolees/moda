@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Corte recto
-- Cárdigan con escote en v
-- Escote en v
-- Detalles con hilos metalizados
 - Punto acanalado
+- Escote en v
+- Cárdigan con escote en v
+- Detalles con hilos metalizados
 - Manga larga
 - Punto fino
 - Cierre de botones en la parte delantera

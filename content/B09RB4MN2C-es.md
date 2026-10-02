@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Camiseta con texto usado en la parte delantera
+- Cuello redondo en contraste
 - Corte holgado
 - Puntadas tono-en-tono en los acabados
-- Cuello redondo en contraste
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09RB4MN2C{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Zapatillas de la marca Geox
 - Fabricado con materiales sostenibles
+- Zapatillas de la marca Geox
 - Adecuado para todo el año
 - Suela suave para movimientos suaves
 

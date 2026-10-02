@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hebilla con el grabado de G-Star RAW
 - Remaches de refuerzo
 - Logotipo estampado en el extremo
+- Hebilla con el grabado de G-Star RAW
 - Cinturón con hebilla de rodillo
 - Correa de piel gruesa
 

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Pantalones para hombre
 - Tienen un parche en la parte posterior de la marca. Lee
 - 5 bolsillos
-- Pantalones para hombre
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D6NKXM5R{{</world>}}

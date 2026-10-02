@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fabricado con contenido reciclado
-- Ribete elástico en el cuello
-- Bolsillos con cremallera
 - Ribete elástico en puños y dobladillo.
+- Ribete elástico en el cuello
+- Fabricado con contenido reciclado
+- Bolsillos con cremallera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DLX5D6TQ{{</world>}}

@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Combínalo con su braga a juego para hacerte con el conjunto completo
 - Sujetador triangular charming, con relleno y sin aro, para quienes buscan comodidad sin renunciar a la sujeción
-- Confeccionado en tejido de encaje animal print, ofrece un look femenino y sensual.
 - Para asegurar sujeción y confort, el diseño se adapta desde la talla 95c
+- Confeccionado en tejido de encaje animal print, ofrece un look femenino y sensual.
 - Detalle de cinta elástica bajo el pecho con logo a contraste
 
 [🛒 Visítala!!!]({{< param buyurl >}})

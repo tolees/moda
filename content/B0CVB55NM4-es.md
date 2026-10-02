@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Altura de la tripulación
-- Acolchado en el talón y la puntera
-- Acanalado en la parte superior
-- Suela acolchada
 - Soporte de medio cinturón
+- Acolchado en el talón y la puntera
+- Suela acolchada
+- Altura de la tripulación
+- Acanalado en la parte superior
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CVB55NM4{{</world>}}

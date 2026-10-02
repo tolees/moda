@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Versátil combinable: como básico de buen gusto en la vida cotidiana, para ocasiones festivas o para salir por la noche
 - Opaco gracias al ligero tejido inferior
 - Encaje elaborado – aporta un toque romántico a cualquier look en un abrir y cerrar de ojos
-- Versátil combinable: como básico de buen gusto en la vida cotidiana, para ocasiones festivas o para salir por la noche
 - camiseta de encaje femenina y elegante
 - Con pequeño cuello alto
 

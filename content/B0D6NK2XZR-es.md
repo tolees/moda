@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sandalias deportivas modernas para hombre
 - Suela: goma
+- Sandalias deportivas modernas para hombre
 - Cierre: hebilla
 
 [🛒 Visítala!!!]({{< param buyurl >}})

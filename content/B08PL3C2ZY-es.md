@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Suela: Caucho antideslizante
-- Entresuela Microwobbleboard
 - Material: Piel
+- Entresuela Microwobbleboard
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08PL3C2ZY{{</world>}}

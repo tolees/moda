@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuello redondo de canalé
+- 100% poliéster (reciclado)
 - Corte entallado
 - Inserciones de malla en las sisas
-- 100% poliéster (reciclado)
+- Cuello redondo de canalé
 - AEROREADY
 
 [🛒 Visítala!!!]({{< param buyurl >}})

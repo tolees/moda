@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Tiene mangas largas
+- Presenta el logotipo bordado
 - Sudadera con cremallera y canesú en contraste
 - Con puños de canalé para un óptimo ajuste
-- Presenta el logotipo bordado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07FJMWB8Q{{</world>}}

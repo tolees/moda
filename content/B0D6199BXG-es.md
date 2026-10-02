@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fabricado con etilvinilacetato
 - Sandalia moderna para mujer de la marca Crocs
+- Fabricado con etilvinilacetato
 - Cierre deslizante
 
 [🛒 Comprar!!!]({{< param buyurl >}})

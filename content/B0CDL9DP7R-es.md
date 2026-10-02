@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Longitud de la espalda: en talla L aprox. 72 cm
+- Escote: cuello redondo, cuello con ribete acanalado
 - Detalles: logotipo
 - Ajuste: corte regular
-- Escote: cuello redondo, cuello con ribete acanalado
-- Longitud de la espalda: en talla L aprox. 72 cm
 - Mangas: mangas largas, con puños acanalados
 
 [🛒 Visítala!!!]({{< param buyurl >}})

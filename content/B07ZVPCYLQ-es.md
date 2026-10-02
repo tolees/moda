@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Type 3 Sherpa Trucker Chaqueta Fable XS Hombre'
-date: 2026-09-28 07:46:56
+date: 2026-09-29 18:50:25
 image: 'https://m.media-amazon.com/images/I/51tcl9hv5FL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZVPCYLQ/?tag=tolees-21'
 descuento: '56.65'
-average: '68.6673684210526'
+average: '67.9076190476191'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

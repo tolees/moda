@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Lavado: aspecto desgastado
 - Ajuste: corte largo
+- Lavado: aspecto desgastado
 - Detalles: dobladillo redondeado
 
 [🛒 Visítala!!!]({{< param buyurl >}})

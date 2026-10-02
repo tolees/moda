@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Hombre Squadra25 Jersey Short Sleeve Shirt Team Power Red 2 / White M'
-date: 2026-07-15 16:00:49
+date: 2026-09-29 18:43:39
 image: 'https://m.media-amazon.com/images/I/31RsnyCejvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0CZ9JLJPZ-es adidas Hombre Squadra25 Jersey Short Sleeve Shirt Team...'
 sku: 'B0CZ9JLJPZ-es'
 tags: [ 'jersey','🇪🇸', ]
-actualPrice: 14.99 EUR
+actualPrice: 11.5 EUR
 currency: EUR
-price: 14.99
+price: 11.5
 comparePrice: 23.0 EUR
 prodname: 'adidas Hombre Squadra25 Jersey Short Sleeve Shirt Team Power Red 2 / White M'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CZ9JLJPZ/?tag=tolees-21'
-descuento: '34.83'
-average: '14.99'
+descuento: '50.00'
+average: '13.245'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,6 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello redondo de canalé
-- Material Principal: 100% Poliéster(100% Reciclado)
-- AEROREADY
-- Corte ajustado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CZ9JLJPZ{{</world>}}

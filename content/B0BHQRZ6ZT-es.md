@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Etiqueta tejida en la parte inferior
 - Tejido de punto
+- Etiqueta tejida en la parte inferior
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BHQRZ6ZT{{</world>}}

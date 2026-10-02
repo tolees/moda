@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 3 sistemas de cierre y ajuste
 - Plantilla de Phylon EVA para secado rápido
+- 3 sistemas de cierre y ajuste
 - Empeine de tela
 - Suela de goma
 
