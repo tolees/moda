@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pepe Jeans Camiseta Gigi para niña Color Blanco Blanco 8'
-date: 2026-10-06 08:44:06
+date: 2026-10-15 11:03:56
 image: 'https://m.media-amazon.com/images/I/21kZvQ47kpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0FFTQ6CWN-es Pepe Jeans Camiseta Gigi para niña Color Blanco Blanco 8'
 sku: 'B0FFTQ6CWN-es'
 tags: [ 'camiseta','🇪🇸', ]
-actualPrice: 13.29 EUR
+actualPrice: 10.76 EUR
 currency: EUR
-price: 13.29
+price: 10.76
 comparePrice: 19.0 EUR
 prodname: 'Pepe Jeans Camiseta Gigi para niña Color Blanco Blanco 8'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FFTQ6CWN/?tag=tolees-21'
-descuento: '30.05'
-average: '11.07'
+descuento: '43.37'
+average: '10.9925'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Este producto es original Levis
 - Los jeans originales
 - el característico corte recto
-- Este producto es original Levis
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B2BC2MRJ{{</world>}}

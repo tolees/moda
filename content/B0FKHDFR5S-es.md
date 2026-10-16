@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tejido de máxima suavidad e interior afelpado, que proporciona un calor extra a la prenda.
 - Camiseta termal de manga corta.
+- Tejido de máxima suavidad e interior afelpado, que proporciona un calor extra a la prenda.
 - Cuello pico.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

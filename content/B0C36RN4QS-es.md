@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corte : Corte regular
-- Detalles : Cordón de ajuste en la cintura, Interior de la prenda sin cepillar
-- Cierre : Bragueta decorativa
 - Largo/talla : Largo por las rodillas
+- Cierre : Bragueta decorativa
 - Bolsillos : Bolsillos laterales
+- Detalles : Cordón de ajuste en la cintura, Interior de la prenda sin cepillar
 - Artículo : Shorts de chándal
+- Corte : Corte regular
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C36RN4QS{{</world>}}

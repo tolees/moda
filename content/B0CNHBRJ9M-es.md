@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Una sudadera infinitamente versátil
 - LEVIS TAB: Existen diferentes variaciones de la conocida lengüeta roja. Todos los productos son originales de Levis, no importa si pone LEVIS, Levis, no está escrito o es de otro color.
-- Confeccionada con un corte holgado
 - Confección en suave forro polar cepillado
+- Confeccionada con un corte holgado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CNHBRJ9M{{</world>}}

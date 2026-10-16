@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - DIVIÉRTETE CON LOS PEINADOS: Su pelo largo y cepillable te permite dar rienda suelta a tu creatividad como artista de la peluquería
-- RAINBOW HIGH ICONOS DE ESTILO: Explora el colorido mundo de la moda con nuestras muñecas Rainbow High de 28 cm
-- ESTILO CON PERSONALIDAD: Jade está vestida con un elegante outfit que combina con su personalidad
 - MÁS SORPRESAS DE MODA: Viene con un segundo outfit, un bolso a juego y un segundo par de zapatos
+- ESTILO CON PERSONALIDAD: Jade está vestida con un elegante outfit que combina con su personalidad
+- RAINBOW HIGH ICONOS DE ESTILO: Explora el colorido mundo de la moda con nuestras muñecas Rainbow High de 28 cm
 - FLEXIBLE: Con 13 puntos de articulación, podrás posar tu muñeca como quieras
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Este es un producto auténtico y original de Calvin Klein
 - Este estilo se ha producido de forma sostenible
+- Este es un producto auténtico y original de Calvin Klein
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FDGYMLGJ{{</world>}}

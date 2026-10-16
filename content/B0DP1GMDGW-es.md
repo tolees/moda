@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ligero, Encaje clasico, Manga de doble puntada y bastilla baja
 - Stranger Things Cartoon Characters is 100% authentic, officially licensed Stranger Things merchandise! (NFLIX10072)
 - Stranger Things is a sci-fi horror series set in the 1980s that follows a group of kids in Indiana as they encounter supernatural forces, government conspiracies, and a girl with psychokinetic powers while searching for their missing friend.
+- Ligero, Encaje clasico, Manga de doble puntada y bastilla baja
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DP1GMDGW{{</world>}}

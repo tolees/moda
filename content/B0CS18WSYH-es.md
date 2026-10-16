@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Panel en los hombros con detalle de trabilla debajo
 - Cierre de botones
-- Puños ajustables con cierre de botón
-- Bolsillos con solapa en el pecho
 - Cuello de camisa
+- Bolsillos con solapa en el pecho
+- Puños ajustables con cierre de botón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CS18WSYH{{</world>}}

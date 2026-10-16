@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ajuste óptimo y gran comodidad
 - Jersey de manga larga
+- Ajuste óptimo y gran comodidad
 - Estilo informal
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Encuentra tu talla: recomendamos una talla más grande (por ejemplo, Si eres una talla 7.5, talla hasta una 8)
-- Sandalias
 - Sandalias de tacón Brooklyn
+- Sandalias
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DCK7LTDM{{</world>}}

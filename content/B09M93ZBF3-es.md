@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Corte entallado
 - Hecho de algodón transpirable
 - Cuello redondo
-- Corte entallado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09M93ZBF3{{</world>}}

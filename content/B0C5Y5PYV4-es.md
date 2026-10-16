@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Este producto es original Levis
 - No gráficos
+- Este producto es original Levis
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C5Y5PYV4{{</world>}}

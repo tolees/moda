@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Manga larga y puños acanalados
-- Bajo recto con borde acanalado
-- Etiqueta de G-Star RAW en el lateral
-- Cuello de cisne con pieza triangular de punto insertada
 - Proporciona comodidad
+- Cuello de cisne con pieza triangular de punto insertada
+- Manga larga y puños acanalados
+- Etiqueta de G-Star RAW en el lateral
+- Bajo recto con borde acanalado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09Q8YLZNP{{</world>}}

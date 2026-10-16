@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - En poliuretano brillante estacional con forma asimétrica.
 - Correa cruzada de cuero ajustable
+- Logotipo de metal en la parte trasera.
 - Top Handle Mini Crossbody Bag
 - Logotipo K plateado en la parte delantera
-- Logotipo de metal en la parte trasera.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DXQBHQRY{{</world>}}

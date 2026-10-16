@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material de calidad
 - Producto deportivo
+- Material de calidad
 - Sencillo de usar
 
 [🛒 Aquí!!!]({{< param buyurl >}})

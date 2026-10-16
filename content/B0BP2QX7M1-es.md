@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- bolsa de hombro
-- Correa de hombro ajustable más la cadena corta
 - Un bolsillo externo
+- Correa de hombro ajustable más la cadena corta
+- bolsa de hombro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BP2QX7M1{{</world>}}

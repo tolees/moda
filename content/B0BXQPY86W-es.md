@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Versace. Los productos de esta marca están fabricados con los materiales de la mejor calidad.
 - Gafas de sol modelo 0VE4361 53 539787
 - 0VE4361 53 539787 de la marca Versace
+- Versace. Los productos de esta marca están fabricados con los materiales de la mejor calidad.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BXQPY86W{{</world>}}

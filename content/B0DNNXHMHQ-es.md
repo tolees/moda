@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño de 5 bolsillos
 - Detalles distintivos de la marca
+- Diseño de 5 bolsillos
 - Con trabillas para el cinturón
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Mangas de malla
 - Corte ajustado
-- AEROREADY
 - Cuello redondo
 - 100% poliéster (reciclado)
+- Mangas de malla
+- AEROREADY
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DJCFTN78{{</world>}}

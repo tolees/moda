@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello del mismo tejido
-- Material que capilariza el sudor y se seca rápidamente
 - Tejido texturizado suave, ligero y transpirable
+- Cuello del mismo tejido
 - Solapa de 3 botones
+- Material que capilariza el sudor y se seca rápidamente
 - La tecnología antiolores previene el crecimiento de microbios responsables de olor
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

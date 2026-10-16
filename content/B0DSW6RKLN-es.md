@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- An original look
 - Minimalistic design
+- An original look
 - A comfortable fit
-- Provides comfort
 - Buckle closure
+- Provides comfort
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DSW6RKLN{{</world>}}

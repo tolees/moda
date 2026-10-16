@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Descubre todas las marcas de EMP!
 - Camiseta con las siguientes características:
 - Ajuste : Regular
 - Básicos, Ropa de Calle
 - Camiseta || Mangas Raglan || Cuello Redondo || Material duradero
-- Descubre todas las marcas de EMP!
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B077TX1F4Z{{</world>}}

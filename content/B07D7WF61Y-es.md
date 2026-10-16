@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forro polar interior
 - Ajuste regular
+- Forro polar interior
 - Chaqueta acolchada de corte regular
 - Cremallera completa
 

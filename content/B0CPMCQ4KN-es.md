@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Parte superior: piel
+- Plantilla: lana sintética
+- Plantilla extraíble: verdadera
+- Material de la suela: cuero/sintético/poliuretano
 - Forro: malla
 - Tipo de tacón: plano
-- Parte superior: piel
-- Plantilla extraíble: verdadera
-- Plantilla: lana sintética
-- Material de la suela: cuero/sintético/poliuretano
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CPMCQ4KN{{</world>}}

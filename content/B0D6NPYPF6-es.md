@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Presentan detalles distintivos de la marca
 - Ajuste cómodo
+- Presentan detalles distintivos de la marca
 - Ligeras y flexibles
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

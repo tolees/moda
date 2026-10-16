@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bordado gráfico GANT
 - Cremallera frontal bidireccional
+- Bordado gráfico GANT
 - Bolsillo tipo canguro
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

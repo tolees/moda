@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- protección UV: Protección solar 50+ UPF
 - Tejido: Mezcla de 85% Poliéster reciclado, 15% elastane
 - Corte: Corte de alto rendimiento
-- protección UV: Protección solar 50+ UPF
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B6CDNKN9{{</world>}}

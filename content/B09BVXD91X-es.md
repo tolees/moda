@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Al comprar nuestros productos de algodón, apoyan un cultivo más sostenible de algodón
-- 100% algodón
-- Lavable a
-- Camiseta para niño de la marca danesa JACK JONES JUNIOR
 - El algodón proviene de un sistema de balance de masas
+- Lavable a
+- Al comprar nuestros productos de algodón, apoyan un cultivo más sostenible de algodón
+- Camiseta para niño de la marca danesa JACK JONES JUNIOR
 - Apoyo a la iniciativa Better Cotton Somos miembros orgullosos de la iniciativa Better Cotton Initiative
+- 100% algodón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09BVXD91X{{</world>}}

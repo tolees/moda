@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Para uso diario
-- Tiene detalles distintivos de la marca "NIKE"
 - Prenda de vestimenta
+- Tiene detalles distintivos de la marca "NIKE"
+- Para uso diario
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DR9519FD{{</world>}}

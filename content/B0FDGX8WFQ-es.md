@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Dos asas superiores
 - Adecuado para uso diario
+- Dos asas superiores
 - Tiene detalles distintivos de la marca
 
 [🛒 Aquí!!!]({{< param buyurl >}})

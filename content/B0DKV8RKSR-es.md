@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ajuste regular
-- Puños acanalados
-- Cierre en la parte superior: cierre con cremallera
 - Longitud estándar
+- Ajuste regular
+- Cierre en la parte superior: cierre con cremallera
+- Puños acanalados
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DKV8RKSR{{</world>}}

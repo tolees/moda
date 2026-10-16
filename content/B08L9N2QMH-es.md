@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cordones Fast Lace y bolsillo para cordones
 - Membrana impermeable CLIMAPROTECT
+- Cordones Fast Lace y bolsillo para cordones
 - Sistema de soporte en el tobillo
 - Lengüeta y monstruo de microfibra para optimo comodidad en el empeine: forro interior de licra para una sensación más suave y cómoda
 

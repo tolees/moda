@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sudadera de cuello redondo en tejido suave
 - Óptimo para un look casual y refinado
+- Sudadera de cuello redondo en tejido suave
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DMPM36S8{{</world>}}

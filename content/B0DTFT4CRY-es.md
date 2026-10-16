@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Largo estándar
-- punto
 - Ajuste estándar
+- punto
 - Manga corta
 - Cuello redondo
 

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Camiseta Estampada
 - Camiseta De Manga Larga
+- Camiseta Estampada
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FCTCTRC2{{</world>}}

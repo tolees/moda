@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Felpa
-- Corte estándar
 - Largo estándar
 - Cierre de cremallera
 - Con capucha
+- Corte estándar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DQVWTL6B{{</world>}}

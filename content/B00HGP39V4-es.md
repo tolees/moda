@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pantalón largo
-- Cintura elastica
 - Rib en el bajo
+- Cintura elastica
+- Pantalón largo
 - Bolsillos laterales
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Guantes de protección
 - Tiene detalles distintivos de la marca
+- Guantes de protección
 - Ajuste en la muñeca
 
 [🛒 Visítala!!!]({{< param buyurl >}})

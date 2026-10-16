@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- BILLABONG
 - Tipo de fábrica: 100% cotton
+- BILLABONG
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09JGRHYPT{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Embalaje: caja
 - Cuello redondo
 - Corte estándar
+- Embalaje: caja
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B4BMPGPK{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Corte ancho y suelto.
-- Hecha de tela de jersey extragruesa.
 - Moderno aspecto urbano para el día a día.
+- Corte ancho y suelto.
 - Ideal para ocio y deporte.
+- Hecha de tela de jersey extragruesa.
 - Excelente comodidad gracias a su acabado de alta calidad.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

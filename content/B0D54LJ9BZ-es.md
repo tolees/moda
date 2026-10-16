@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuenta con el logotipo de Levis
 - Hecha de jersey suave
+- Cuenta con el logotipo de Levis
 - Elástico añadido para mayor movilidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

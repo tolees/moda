@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Logo de la marca en el frente
 - Mangas cortas
 - Camiseta deportiva
-- Logo de la marca en el frente
 - Para ambos géneros
 
 [🛒 Visítala!!!]({{< param buyurl >}})

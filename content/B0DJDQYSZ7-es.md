@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuello: cuello redondo
-- Largo: estándar
-- Material principal: punto simple
-- Manga corta
 - Corte: estándar
+- Material principal: punto simple
+- Largo: estándar
+- Cuello: cuello redondo
+- Manga corta
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DJDQYSZ7{{</world>}}

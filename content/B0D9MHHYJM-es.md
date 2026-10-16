@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Efecto piel
+- Patchwork
 - Cierre: de cremallera
 - Bolsillo exterior trasero con cremallers
-- Patchwork
 - Cintura elástica
-- Efecto piel
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D9MHHYJM{{</world>}}

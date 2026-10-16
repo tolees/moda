@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Clarks Sandals, Tuscan Cross, Mauve Suede, 3 (Women)
-- Cojín suave
 - Alta calidad
 - Aspecto y tacto clásicos
+- Cojín suave
+- Clarks Sandals, Tuscan Cross, Mauve Suede, 3 (Women)
 - Flexibles
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

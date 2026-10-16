@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 100% algodón
 - Camiseta regular de punto individual
 - Bandera impresa en la parte delantera
+- 100% algodón
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FFTPJWT4{{</world>}}

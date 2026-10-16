@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre: Sin cordones
-- Tipo de tacón: Plano
 - Material de la suela: Caucho
+- Tipo de tacón: Plano
+- Cierre: Sin cordones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08Q9W6RBP{{</world>}}

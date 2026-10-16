@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte regular
 - Bordado gráfico GANT en el pecho
+- Corte regular
 - Puños y dobladillo acanalados
 - Cuello con media cremallera
 

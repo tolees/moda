@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Libertad
-- BASE LAYER TOPS MERINO 200 ODLO black XL MUJER
-- Diseño moderno
 - Material de alta calidad
+- Diseño moderno
+- BASE LAYER TOPS MERINO 200 ODLO black XL MUJER
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C9TKJDRB{{</world>}}

@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Comodidad para el día a día
 - Portañuela de doble capa para una sujeción
-- Tela elástica de algodón
 - Cinturilla cómoda
+- Tela elástica de algodón
 - Pack de 2 para hombre
 
 [🛒 Aquí!!!]({{< param buyurl >}})

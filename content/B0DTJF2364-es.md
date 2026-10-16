@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 98 % algodón, 2 % elastano
 - Camiseta de manga corta con cuello redondo
+- 98 % algodón, 2 % elastano
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DTJF2364{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Camiseta
 - Camiseta De Algodón
+- Camiseta
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FCSS9DWX{{</world>}}

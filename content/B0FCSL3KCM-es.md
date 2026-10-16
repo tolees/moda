@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sudadera Con Capucha Estampada
 - Sudadera Con Capucha
+- Sudadera Con Capucha Estampada
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FCSL3KCM{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CAMISETA ACANALADA: un básico moderno que combina un estilo pulido con la comodidad. Combínala con vaqueros o una falda
 - CORTE AJUSTADO: corte ajustado que se pega al cuerpo
 - TEJIDO ACANALADO: se ajusta perfectamente, con elasticidad y recuperación uniformes que mantendrá su forma
-- LONGITUD DE LA PRENDA: 54,0cm desde el lado del cuello en la talla S de EE. UU.
+- CAMISETA ACANALADA: un básico moderno que combina un estilo pulido con la comodidad. Combínala con vaqueros o una falda
 - DETALLES: cuello redondo, mangas cortas
+- LONGITUD DE LA PRENDA: 54,0cm desde el lado del cuello en la talla S de EE. UU.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FF5JXCYM{{</world>}}

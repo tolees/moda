@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sudadera con cremallera y canesú en contraste
 - Tiene mangas largas
 - Presenta el logotipo bordado
+- Sudadera con cremallera y canesú en contraste
 - Con puños de canalé para un óptimo ajuste
 
 [🛒 Comprar!!!]({{< param buyurl >}})

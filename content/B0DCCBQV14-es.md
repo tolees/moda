@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Costura de los dedos plana para evitar la irritación
-- Ribete cómodo
 - Pack de 5 infantil
+- Ribete cómodo
 - Algodón suave
 - Contiene tela reciclada
 

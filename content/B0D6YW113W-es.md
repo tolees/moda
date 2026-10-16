@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Personalizables con dijes Jibbitz
-- Increíblemente ligeros y fáciles de llevar
 - Correas de talón giratorias para un ajuste más seguro
+- Increíblemente ligeros y fáciles de llevar
+- Personalizables con dijes Jibbitz
 - El forro suave y mullido añade amortiguación y comodidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})

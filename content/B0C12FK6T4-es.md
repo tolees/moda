@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Camiseta transpirable muy cómoda – La camiseta para mujer es suave y de tacto natural, aleja el sudor del cuerpo y se seca muy rápido.
 - Básica camiseta de poliéster – La camiseta de running cuenta con el tejido UA Tech, que es perfecto para cualquier tipo de actividad deportiva.
-- Ajuste femenino – La camiseta ancha tiene media cremallera frontal, cuello alto y mangas raglán, por lo que ofrece un diseño deportivo y femenino.
 - Material y forma – Under Armour Tech 1/2 Zip Solid Camiseta de deporte para mujer, camiseta con mangas largas. Material: 100% poliéster. Forma: ancha.
+- Ajuste femenino – La camiseta ancha tiene media cremallera frontal, cuello alto y mangas raglán, por lo que ofrece un diseño deportivo y femenino.
 - Mantiene la frescura – Esta camiseta deportiva de mujer con media cremallera mantiene fresca a la atleta gracias a su corte suelto y ligero.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

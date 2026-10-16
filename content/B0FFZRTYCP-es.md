@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cuello redondo
-- Manga corta
 - Ofrece comodidad
+- Manga corta
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FFZRTYCP{{</world>}}

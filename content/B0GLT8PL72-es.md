@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Marks & Spencer Camisa Denim Estilo Western UK 6 EU 34'
-date: 2026-10-09 04:16:16
+date: 2026-10-15 12:21:48
 image: 'https://m.media-amazon.com/images/I/414yV4dtsnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

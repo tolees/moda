@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Adecuada para días calurosos
 - Ofrece una comodidad óptima
+- Adecuada para días calurosos
 - Tiene un diseño casual
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

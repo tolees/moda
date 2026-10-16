@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Forro: por defecto
-- Extras: por defecto
-- Equipo: default
 - Género: Maillot
+- Extras: por defecto
 - Marca: Hummel
+- Equipo: default
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0948TPRNL{{</world>}}

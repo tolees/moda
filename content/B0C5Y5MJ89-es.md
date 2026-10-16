@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuentan con un diseño ligero
 - Este producto es original Levis
+- Cuentan con un diseño ligero
 - Disponen de 5 bolsillos
 - Ofrecen comodidad y libertad de movimiento
 

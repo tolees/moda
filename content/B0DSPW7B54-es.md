@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- GORE-TEX laminado de 2 capas con membrana ePE libre de PFC
-- Capucha con ajuste de un punto
+- Porcentaje de poliéster reciclado
 - 2 bolsillos frontales con cremallera
 - Cremallera frontal resistente al agua
-- Porcentaje de poliéster reciclado
+- GORE-TEX laminado de 2 capas con membrana ePE libre de PFC
+- Capucha con ajuste de un punto
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DSPW7B54{{</world>}}

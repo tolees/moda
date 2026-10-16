@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cómodo de llevar y suave al tacto
 - Aspecto clásico y elegante
+- Cómodo de llevar y suave al tacto
 - Corte regular
 
 [🛒 Aquí!!!]({{< param buyurl >}})

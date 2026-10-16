@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Escudo oficial del equipo en el pecho
 - Potente tecnología que elimina la humedad del cuerpo y te mantiene libre de sudor durante el entrenamiento
+- Escudo oficial del equipo en el pecho
 - Corte normal
 - Cuello redondo
 

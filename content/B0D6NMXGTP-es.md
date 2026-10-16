@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Plantilla desmontable
 - Suela flexible y amortiguada
 - Adecuadas para correr y jugar
+- Plantilla desmontable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D6NMXGTP{{</world>}}

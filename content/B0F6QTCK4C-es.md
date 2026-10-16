@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello redondo
-- Camiseta vintage
 - Logotipo metálico de Tommy Hilfiger en la parte delantera
+- Camiseta vintage
+- Cuello redondo
 - Cinta de firma en el cuello
 
 [🛒 Comprar!!!]({{< param buyurl >}})

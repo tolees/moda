@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 100% algodón. Lavar en frío con colores similares.
 - Esta camiseta de los muchachos cuenta con una gran Impreso Vans Graphic Logo con un pequeño destacado Color Vans emblema en la manga izquierda.
+- 100% algodón. Lavar en frío con colores similares.
 - Esta camiseta de los muchachos tiene manga corta con cuello redondo con pliegues cosidos individuales.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

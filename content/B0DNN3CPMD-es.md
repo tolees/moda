@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Perfil de plantilla elevado
 - Correas Matlite suaves y flexibles
+- Perfil de plantilla elevado
 - Base ligera Croslite
 
 [🛒 Aquí!!!]({{< param buyurl >}})

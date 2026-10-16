@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseño elegante
 - Asa ajustable
+- Diseño elegante
 - Cierre con dos cremalleras
 
 [🛒 Comprar!!!]({{< param buyurl >}})

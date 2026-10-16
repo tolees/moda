@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Un ajuste cómodo
-- Diseño con capucha
 - Proporciona comodidad
+- Diseño con capucha
+- Un ajuste cómodo
 - Manga larga
 - Una mirada original
 

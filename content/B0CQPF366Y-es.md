@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Duradero
 - Cuero de calidad
 - Parte superior de cuero
+- Duradero
 - Aspecto clásico
 - Tecnología del cojín
 

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte holgado que ofrece una silueta relajada menos estructurada
 - Una marca de Amazon
+- Corte holgado que ofrece una silueta relajada menos estructurada
 - Pile mediamente pesante, comodissimo, caldo e morbido con retro spazzolato
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

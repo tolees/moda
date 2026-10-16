@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Diseño sin relleno
+- Manga larga
 - Diseño con capucha
 - Botón a presión y cierre con cremallera
-- Manga larga
-- Diseño sin relleno
 - Un ajuste cómodo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

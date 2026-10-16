@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con detalles de canesú al estilo tejano original, bolsillos en el pecho y cierre a presión en la parte delantera, es todo un símbolo de la inquebrantable cultura americana
 - Camisa Western en denim de manga larga
 - Diseñada con un faldón curvado
+- Con detalles de canesú al estilo tejano original, bolsillos en el pecho y cierre a presión en la parte delantera, es todo un símbolo de la inquebrantable cultura americana
 - LEVIS TAB: Existen diferentes variaciones de la conocida lengüeta roja. Todos los productos son originales de Levis, no importa si pone LEVIS, Levis, no está escrito o es de otro color.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

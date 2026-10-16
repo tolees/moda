@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Tirantes extraíbles
-- Balconette Top con lazo
 - De poliéster y elastano
 - Bikini para mujer con parte superior y pantalón de cintura alta
+- Balconette Top con lazo
 - Visita la tienda Urban Classics: un clic en el enlace te llevará a la tienda Urban Classics Brand Store y aún más ropa de calle elegante para hombre y mujer
 
 [🛒 Visítala!!!]({{< param buyurl >}})

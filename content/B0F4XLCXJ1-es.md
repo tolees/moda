@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cuello redondo
 - Estampado gráfico en el pecho
 - Bajo recto
-- Cuello redondo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F4XLCXJ1{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Vestido suave con cuello en V y mangas anchas.
 - Vestido tipo túnica
 - 100 % poliéster
+- Vestido suave con cuello en V y mangas anchas.
 - Cordones en el cuello. Parte inferior de vestido más corta.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

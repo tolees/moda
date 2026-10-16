@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Con tacto suave de forro polar
-- Este producto es original Levis
 - Modelo casual
+- Este producto es original Levis
 - Tiene estampado la marca Levis
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

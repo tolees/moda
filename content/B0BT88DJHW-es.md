@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuello Mao
-- Manga larga
-- Desigual
 - Corte ajustado
 - monocolor
+- Desigual
 - Corto
+- Cuello Mao
+- Manga larga
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BT88DJHW{{</world>}}

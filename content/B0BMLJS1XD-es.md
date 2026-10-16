@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Textura de piqué clásico
+- Fit ajustado para un look informal y desenfadado
 - Un polo refinado con estilo, versátil y todo menos aburrido
+- Textura de piqué clásico
 - Este producto es original Levis
 - Acabado en una combinación de colores náuticos
-- Fit ajustado para un look informal y desenfadado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BMLJS1XD{{</world>}}

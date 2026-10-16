@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- especialmente delgada
+- Nota: Esta chaqueta es más pequeña
 - Ideal para el verano y el periodo de transición
 - con cuello alto
-- Nota: Esta chaqueta es más pequeña
-- especialmente delgada
 - chaqueta acolchada ultraligera para mujer
 - dos bolsillos laterales con cremallera, bolsillo interior
 - Cremallera con protector de barbilla

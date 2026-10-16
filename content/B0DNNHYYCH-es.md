@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Type 3 Sherpa Trucker Chaqueta Beige M Hombre'
-date: 2026-07-01 01:42:12
+date: 2026-10-15 11:46:59
 image: 'https://m.media-amazon.com/images/I/41pqcLMHk2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0DNNHYYCH-es Levi s Type 3 Sherpa Trucker Chaqueta Beige M Hombre'
 sku: 'B0DNNHYYCH-es'
 tags: [ 'chaqueta','🇪🇸', ]
-actualPrice: 62.95 EUR
+actualPrice: 110.95 EUR
 currency: EUR
-price: 62.95
+price: 110.95
 comparePrice: 140.0 EUR
 prodname: 'Levi s Type 3 Sherpa Trucker Chaqueta Beige M Hombre'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DNNHYYCH/?tag=tolees-21'
-descuento: '55.04'
-average: '71.345'
+descuento: '20.75'
+average: '84.5466666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,6 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Este básico emblemático sienta igual de bien a todo el mundo, incluso en tallas más grandes o más pequeñas
-- Botones metálicos con la marca de Levis y costuras entalladas en “V” que la hacen inmediatamente reconocible
-- LEVIS TAB: Existen diferentes variaciones de la conocida lengüeta roja. Todos los productos son originales de Levis, no importa si pone LEVIS, Levis, no está escrito o es de otro color.
-- La chaqueta jean original diseñada con una artesanía superior y un cómodo forro sherpa
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DNNHYYCH{{</world>}}

@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cierres abotonados
-- Ajuste regular cómodo
 - Una camisa vaquera ligera
-- Dos bolsillos delanteros para chaqueta
 - Mangas con puños
+- Dos bolsillos delanteros para chaqueta
+- Ajuste regular cómodo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07C2B1MNW{{</world>}}

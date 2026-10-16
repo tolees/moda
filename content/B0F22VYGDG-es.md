@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Amplio interior con bolsillo trasero con abertura.
 - 22,9 × 24,1 × 38,7 cm
+- Amplio interior con bolsillo trasero con abertura.
 - Cuero martillado con detalles dorados.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

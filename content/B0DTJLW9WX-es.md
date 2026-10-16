@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Lavado limpio y oscuro
 - 100% algodón
 - Una camisa clásica de corte estrecho hecha de un fino peso ligero
-- Lavado limpio y oscuro
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DTJLW9WX{{</world>}}

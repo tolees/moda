@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Etiqueta con el logotipo de Dickies
+- Bolsillo para regla y bolsillo de carga para transportar herramientas
 - Ajuste regular para una comodidad diaria
 - Bolsillos tipo funda para guardar objetos pequeños
-- Bolsillo para regla y bolsillo de carga para transportar herramientas
+- Etiqueta con el logotipo de Dickies
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00IZILNIC{{</world>}}

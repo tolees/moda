@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Zapatilla trail
 - Material suela: Rubber
+- Zapatilla trail
 - Material superior: Material textil
 - Carretera
 

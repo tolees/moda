@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Corte holgado
 - Composición: 80 % algodón y 20 % poliéster
+- Corte holgado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FH2R2GJX{{</world>}}

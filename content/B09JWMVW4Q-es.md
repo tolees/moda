@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Paseo
+- Ajustado y acampanado
 - 78% viscosa, 22% poliamidas
 - Lavado a 30 °C, ACT MUY REDUCIDO
-- Paseo
 - Mango largo
 - Cuello alto
-- Ajustado y acampanado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09JWMVW4Q{{</world>}}

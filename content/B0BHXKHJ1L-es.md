@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillo interior
 - Capucha con cordón
 - Dobladillos con bordes
+- Bolsillo interior
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BHXKHJ1L{{</world>}}

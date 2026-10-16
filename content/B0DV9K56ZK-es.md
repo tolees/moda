@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Logotipo bordado
 - Cuerpo: 100% poliéster; Malla: 100% Poliéster
+- Logotipo bordado
 - Lavar a máquina
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

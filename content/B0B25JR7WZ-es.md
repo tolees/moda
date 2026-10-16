@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Composición del material: Exterior: 100 % poliéster; forro: 100 % poliéster; relleno: 100 % poliéster; manga: 100 % poliéster
 - Cremallera
-- Bolsillos laterales, resistente al viento
 - Chaqueta acolchada con capucha para hombre
+- Bolsillos laterales, resistente al viento
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B25JR7WZ{{</world>}}

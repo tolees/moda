@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ligero, Encaje clasico, Manga de doble puntada y bastilla baja
 - Warner Bros Official Licensed Product
 - BILBBT00019
+- Ligero, Encaje clasico, Manga de doble puntada y bastilla baja
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09V37WJNC{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Caucho
 - Punta redonda
+- Sintético
 - Adjuntar
 - Tanga
-- Sintético
-- Caucho
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BGQ4WJ4N{{</world>}}

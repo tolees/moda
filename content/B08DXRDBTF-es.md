@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Cierre de cordones
-- Importado
-- Guess Detalles del logotipo
 - Punta redonda
 - Este look con cordones cuenta con el logotipo de GUESS en el lateral con los colores de moda más populares de la temporada mezclados y combinados. Este zapato es cómodo, fresco y listo para quitarte los calcetines.
+- Guess Detalles del logotipo
+- Importado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08DXRDBTF{{</world>}}

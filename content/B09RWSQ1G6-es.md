@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte grande
-- El material agradable y el buen acabado garantizan una excelente comodidad
-- Vestido informal para mujer con hombros descubiertos
 - De algodón orgánico con etiquetas orgánicas
+- Corte grande
+- Vestido informal para mujer con hombros descubiertos
+- El material agradable y el buen acabado garantizan una excelente comodidad
 - Cuello acanalado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

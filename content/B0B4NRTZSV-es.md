@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Prepara a los niños para el invierno con este set bufanda, gorro y guantes de Harry Potter
-- Conjunto bufanda y gorro y guantes niña con licencia oficial de Warner Bros
-- Detalles y dimensiones en las imágenes
 - Composición: accesorios de invierno cálidos y suaves en 100% acrílico
+- Detalles y dimensiones en las imágenes
+- Conjunto bufanda y gorro y guantes niña con licencia oficial de Warner Bros
 - Set 3 piezas: 1 gorro niña, 1 bufanda, guantes niñas, talla unica
 
 [🛒 Comprar!!!]({{< param buyurl >}})

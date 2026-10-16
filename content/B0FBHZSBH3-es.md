@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Manga corta
+- Costura plana con dos agujas
 - Corte holgado
 - Carhartt Logotipo de la firma en el pecho
 - Cuello redondo de punto acanalado
-- Costura plana con dos agujas
+- Manga corta
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FBHZSBH3{{</world>}}

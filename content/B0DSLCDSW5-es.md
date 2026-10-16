@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cintura elástica con cordón
-- Logotipo bordado
 - Cuerpo/Malla: 100% Poliéster
+- Logotipo bordado
 - Lavar a máquina
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

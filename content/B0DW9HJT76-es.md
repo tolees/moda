@@ -31,9 +31,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Estampado floral
 - Cuello: de Camisa
 - Abotonadura frontal
-- Manga: Larga
-- Fit: Regular
 - Desigual
+- Fit: Regular
+- Manga: Larga
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DW9HJT76{{</world>}}

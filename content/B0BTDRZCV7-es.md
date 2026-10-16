@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Detalles distintivos de la marca
 - Cintura elástica que se fija a la cintura, que se puede ajustar mediante cordones
+- Detalles distintivos de la marca
 - Cuenta con dos bolsillos laterales con cremallera
 - Pantalón largo con tejido cálido y suave al tacto que abriga y protege del frío
 

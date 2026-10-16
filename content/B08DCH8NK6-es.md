@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Puma 100003578 002 043 Calcetines Unisex Adulto'
-date: 2026-10-14 00:03:12
+date: 2026-10-15 06:42:50
 image: 'https://m.media-amazon.com/images/I/31pH3YhYBzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DCH8NK6/?tag=tolees-21'
 descuento: '40.00'
-average: '9.96833333333326'
+average: '9.9652272727272'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

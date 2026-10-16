@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Long Sleeves
-- materialFabricComposition: Outer: 100% Polyester; Coating: 100% Polyurethane; Lining: 100% Polyester; Padding: 100% Polyester
 - Jacket
+- materialFabricComposition: Outer: 100% Polyester; Coating: 100% Polyurethane; Lining: 100% Polyester; Padding: 100% Polyester
+- Long Sleeves
 - Hood
 
 [🛒 Visítala!!!]({{< param buyurl >}})

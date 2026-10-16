@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuello redondo clásico
 - Dos camisetas en un práctico paquete doble de Lonsdale
 - Impresiones diferentes
-- Corte regular
+- Cuello redondo clásico
 - Hecho de algodón puro
+- Corte regular
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BKK98TWW{{</world>}}

@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Detalles distintivos de la marca
+- Fabricada en material cómodo y ligero
 - Camiseta de manga corta
 - Ofrece libertad de movimiento
-- Fabricada en material cómodo y ligero
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BTT2M4W9{{</world>}}

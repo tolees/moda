@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Columbia Arcadia II Chaqueta Escudo Impermeable Material Transpirable Costuras Selladas Ajuste Personalizado Diseño Plegable - Mujer'
-date: 2026-10-01 08:48:18
+date: 2026-10-16 06:30:04
 image: 'https://m.media-amazon.com/images/I/41kvKYm6kIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DLRC8P9X/?tag=tolees-21'
 descuento: '40.01'
-average: '52.49'
+average: '52.99'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

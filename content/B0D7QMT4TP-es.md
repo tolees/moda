@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Una gran opción cálida para climas fríos
-- Bolsillo canguro para comodidad diaria
 - Corte regular con capucha
+- Bolsillo canguro para comodidad diaria
+- Una gran opción cálida para climas fríos
 - Bordado GANT gráfico en el pecho
 
 [🛒 Comprar!!!]({{< param buyurl >}})

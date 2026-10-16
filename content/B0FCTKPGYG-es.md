@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camiseta básica de manga larga en tejido suave con textura «peach"
 - Camiseta regular
-- logo springfield bordado a contraste
+- Camiseta básica de manga larga en tejido suave con textura «peach"
 - camiseta bordada
+- logo springfield bordado a contraste
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FCTKPGYG{{</world>}}

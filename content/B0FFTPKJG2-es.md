@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Camiseta individual con logotipo bordado en la parte delantera
-- 100% algodón
 - Camiseta regular de manga corta
+- 100% algodón
+- Camiseta individual con logotipo bordado en la parte delantera
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FFTPKJG2{{</world>}}

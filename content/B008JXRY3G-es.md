@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ajuste : Regular
-- Descubre todas las marcas de EMP!
-- Camiseta con las siguientes características:
 - Camiseta || Mangas Normales || Cuello Redondo Sin cuello || Material duradero
+- Descubre todas las marcas de EMP!
 - Ropa de Calle
+- Camiseta con las siguientes características:
+- Ajuste : Regular
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B008JXRY3G{{</world>}}

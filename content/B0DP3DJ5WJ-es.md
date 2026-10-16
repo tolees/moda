@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - secado rápido
+- Transpirable
 - Camiseta de manga corta con el logo de SALEWA, hecha de tejido de secado rápido y transpirable para senderismo, trekking y vida alpina.
 - Elástico en 2 direcciones
-- Transpirable
 - suave
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

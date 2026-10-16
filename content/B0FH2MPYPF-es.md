@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Estilo informal
 - Manga corta
 - Cierre frontal con botones
+- Estilo informal
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FH2MPYPF{{</world>}}

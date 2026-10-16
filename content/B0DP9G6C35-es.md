@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gloves
 - Handwear Technical
+- Gloves
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DP9G6C35{{</world>}}

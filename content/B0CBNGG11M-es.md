@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte : Corte slim
 - Artículo : Pantalones chinos
+- Corte : Corte slim
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CBNGG11M{{</world>}}

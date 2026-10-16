@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Camiseta de Manga Corta para Hombre Core Tommy Logo Cuello Redondo Negro Jet Black L'
-date: 2026-10-08 03:47:04
+date: 2026-10-15 04:19:41
 image: 'https://m.media-amazon.com/images/I/31oYEeDitgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QVTQ4R7/?tag=tolees-21'
 descuento: '47.92'
-average: '29.1933035714285'
+average: '29.1371052631578'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

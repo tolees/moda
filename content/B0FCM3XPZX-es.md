@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuello:
-- Tela de algodón orgánico [180 g/m2]
 - Rib 1 x 1 con collar
+- Tela de algodón orgánico [180 g/m2]
+- Cuello:
 - Chest Pocket
 
 [🛒 Aquí!!!]({{< param buyurl >}})

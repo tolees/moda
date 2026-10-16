@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Ajuste: ajuste regular
-- Mangas: manga corta
-- Longitud: recortada
 - Detalles adicionales: volantes
+- Longitud: recortada
+- Mangas: manga corta
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09JSQJTWZ{{</world>}}

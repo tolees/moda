@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Sudadera con Capucha y Cremallera Essentials con Logo n.º 1 Hombre M Medium Gray Heather'
-date: 2026-10-13 22:17:56
+date: 2026-10-15 07:49:16
 image: 'https://m.media-amazon.com/images/I/311VmiZ5zxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

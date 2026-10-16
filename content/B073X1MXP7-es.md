@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cómodo cuello redondo.
-- : TB International GmbH
-- Camisetas versátiles para cualquier ocasión
 - Ideal para combinar con vaqueros o pantalones cortos.
+- : TB International GmbH
+- Cómodo cuello redondo.
 - Disponible en varios colores y diseños
+- Camisetas versátiles para cualquier ocasión
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B073X1MXP7{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sintético
-- Adjuntar
-- Plano
 - Caucho
+- Adjuntar
+- Sintético
+- Plano
 - Medio
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

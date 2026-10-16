@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 100 % algodón
 - Sudadera básica de ajuste regular
+- 100 % algodón
 - Con logotipo impreso en el pecho
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

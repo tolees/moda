@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Prenda de vestir
 - Conjunto coordinado
+- Prenda de vestir
 - Contiene detalles distintivos de la marca "Levis"
 
 [🛒 Aquí!!!]({{< param buyurl >}})

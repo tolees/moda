@@ -29,12 +29,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cierre : Cierre de cremallera
-- Artículo : Chaqueta bomber
-- Manga : Manga larga
-- Bolsillos : Bolsillos delanteros
 - Cuello : Cuello levantado
 - Puños : Puños acanalados
+- Bolsillos : Bolsillos delanteros
+- Artículo : Chaqueta bomber
 - Largo/talla : Corto
+- Manga : Manga larga
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F443ZKF4{{</world>}}

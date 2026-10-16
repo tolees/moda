@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ligeras y flexibles
 - Detalle de Minnie en la correa del talón
+- Ligeras y flexibles
 - Correas de talón giratorias
 
 [🛒 Visítala!!!]({{< param buyurl >}})

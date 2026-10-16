@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mini
 - Cuello V
+- Mini
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DNKHDJ1N{{</world>}}

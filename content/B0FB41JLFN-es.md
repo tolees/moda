@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estilo deportivo
 - Ofrece comodidad
+- Estilo deportivo
 - Calzado transpirable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

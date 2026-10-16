@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tacto suave, ni fino ni grueso
 - Acabado con un estampado único
+- Tacto suave, ni fino ni grueso
 - Una sudadera con capucha básica y cómoda
 
 [🛒 Comprar!!!]({{< param buyurl >}})

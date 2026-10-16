@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Deportiva con un estilo activo
 - Con luces integradas en la suela para encender la diversión a cada paso
+- Deportiva con un estilo activo
 - Amortiguado y cómodo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

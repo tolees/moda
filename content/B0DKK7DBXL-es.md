@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Artículo : Sudadera
 - Cuello : Cuello alto
+- Manga : Manga larga
+- Artículo : Sudadera
 - Corte : Corte relaxed
 - Mangas : Sisa en disminución
-- Manga : Manga larga
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DKK7DBXL{{</world>}}

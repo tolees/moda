@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Gráfico del logotipo bordado en la parte delantera
-- Diseño con capucha y cierre de cordón
 - Manga larga y puños acanalados
+- Diseño con capucha y cierre de cordón
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F4XKLWRT{{</world>}}

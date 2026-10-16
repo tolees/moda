@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material de la suela: Caucho
 - Material exterior: Sintetico
 - Cierre: Velcro
+- Material de la suela: Caucho
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CKF5BJ89{{</world>}}

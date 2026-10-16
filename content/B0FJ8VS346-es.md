@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Un ajuste cómodo
 - Manga larga
 - Botón a presión y cierre con cremallera
-- Un ajuste cómodo
 - Diseño sin relleno
 - Diseño con capucha
 

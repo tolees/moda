@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cremallera completa
 - Una cómoda prenda de sherpa
 - Con un diseño de cremallera integral
+- Cremallera completa
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DNNH9MHK{{</world>}}

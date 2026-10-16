@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- No es resistente al agua
-- Uso informal
 - Puntera abierta
+- Uso informal
+- No es resistente al agua
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CB3P2HT7{{</world>}}

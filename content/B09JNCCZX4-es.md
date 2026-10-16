@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Los productos deportivos de la marca Tommy Hilfiger están diseñados para que disfrutes de tu deporte favorito sin preocuparte de nada más que rendir al máximo
 - fabricada con materiales de primera calidad que se adaptan a cualquier actividad deportiva
 - Gafas de sol TH 1862/S
+- Los productos deportivos de la marca Tommy Hilfiger están diseñados para que disfrutes de tu deporte favorito sin preocuparte de nada más que rendir al máximo
 - de la marca Tommy Hilfiger
 - GAFAS DE SOL TOMMY HILFIGER TH 1862/S COLOR BLACK TALLA 51/140/21 PARA WOMAN DARK GREY SHADED
 

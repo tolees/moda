@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Transpirable
 - Disponible en distintos colores
-- Logo serigrafiado
 - Cuello redondo
+- Logo serigrafiado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09D3Y7QY3{{</world>}}

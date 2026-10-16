@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Un fit versátil con un tiro alto y favorecedor
-- Con pierna recta ultramoderna
 - LEVIS TAB: Existen diferentes variaciones de la conocida lengüeta roja. Todos los productos son originales de Levis, no importa si pone LEVIS, Levis, no está escrito o es de otro color.
+- Con pierna recta ultramoderna
+- Un fit versátil con un tiro alto y favorecedor
 - Confeccionada con Vintage Stretch: un denim cómodo y de menor elasticidad con un look y sensación clásicos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

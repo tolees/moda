@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Peso ligero
-- Clarks Collection Shoes, Sailview Lace, Navy Nubuck, 10,5 (Men)
 - Tejido transpirable
+- Clarks Collection Shoes, Sailview Lace, Navy Nubuck, 10,5 (Men)
+- Peso ligero
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CB3VL2XN{{</world>}}

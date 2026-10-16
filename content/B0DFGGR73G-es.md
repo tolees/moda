@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Color: plateado
-- Material: acero inoxidable
-- Tipo de cierre: mosquetón
 - Acabado: mate
+- Color: plateado
+- Tipo de cierre: mosquetón
+- Material: acero inoxidable
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DFGGR73G{{</world>}}

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'JACK & JONES Sudadera con Capucha Logotipo'
-date: 2026-10-14 00:26:32
-image: 'https://m.media-amazon.com/images/I/31w3naWNkVL._SL500_._SL400_.jpg'
+date: 2026-10-15 04:48:45
+image: 'https://m.media-amazon.com/images/I/31x+y3JJzXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C61C6ZS/?tag=tolees-21'
 descuento: '56.29'
-average: '18.6922033898305'
+average: '18.6524590163934'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

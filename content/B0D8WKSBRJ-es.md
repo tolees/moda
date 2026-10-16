@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cierre de botones
 - Cinturón tejido
-- Cuello mao
-- Bolsillos con solapa en el pecho, bolsillos insertados
+- Cierre de botones
 - Superposición del panel trasero
+- Bolsillos con solapa en el pecho, bolsillos insertados
+- Cuello mao
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D8WKSBRJ{{</world>}}

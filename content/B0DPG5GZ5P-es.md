@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Tela de algodón orgánico [180 g/m2]
+- Cuello:
 - Rib 1 x 1 con collar
 - Chest Pocket
-- Cuello:
-- Tela de algodón orgánico [180 g/m2]
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DPG5GZ5P{{</world>}}

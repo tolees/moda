@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Classics
-- Carreteras
 - Unisex
+- Carreteras
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B083YCG4YD{{</world>}}

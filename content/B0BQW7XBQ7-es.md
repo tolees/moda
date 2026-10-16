@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tiene detalles distintivos de la marca
-- Ofrece comodidad y libedad de movimiento
 - Camiseta de manga corta
+- Tiene detalles distintivos de la marca
 - Tela suave
+- Ofrece comodidad y libedad de movimiento
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BQW7XBQ7{{</world>}}

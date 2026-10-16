@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - El bolsillo trasero se convierte en mini bolso
-- Poliéster reciclado
 - Modular
+- Poliéster reciclado
 - El bolsillo delantero se convierte en porta móvil
 
 [🛒 Aquí!!!]({{< param buyurl >}})

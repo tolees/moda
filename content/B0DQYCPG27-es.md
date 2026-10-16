@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Composición: 80% algodón, 20% poliéster
-- Instrucciones de cuidado: lavable a máquina
-- Sudadera
 - Corte: normal
+- Sudadera
 - Tipo de estiramiento: no elástico
+- Instrucciones de cuidado: lavable a máquina
+- Composición: 80% algodón, 20% poliéster
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DQYCPG27{{</world>}}

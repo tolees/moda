@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pequeño estampado frontal
 - Camiseta ajustada de manga corta en licra básica
+- Pequeño estampado frontal
 - 95 % algodón, 5 % elastano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

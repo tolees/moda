@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Ajuste regular
-- Detalles distintivos de la marca
 - Tejido suave y ligero
+- Detalles distintivos de la marca
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CL78FJS5{{</world>}}

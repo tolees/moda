@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Ajuste activo que garantiza una gran amplitud de movimiento, Exterior: 96% nailon, 4% elastán, Interior: 100% poliéster
 - Contenido: 1x Columbia Chaqueta con Capucha Sweet As III Mujer, Color: Safari (Verde), Talla: L
-- Ribete en el borde de la capucha para un aspecto pulido, protector de barbilla, bolsillos para las manos con cremallera, dobladillo ajustable con cordón, dobladillo de cola caída, puños cómodos con orificios para los pulgares, diseño híbrido elástico para mejorar la movilidad.
 - Sweet As III Hooded Softshell te protege de las manchas gracias a su tejido antimanchas y a su elegante diseño, ideal para ocasiones informales.
+- Ribete en el borde de la capucha para un aspecto pulido, protector de barbilla, bolsillos para las manos con cremallera, dobladillo ajustable con cordón, dobladillo de cola caída, puños cómodos con orificios para los pulgares, diseño híbrido elástico para mejorar la movilidad.
 - Fabricado con tecnología Omni-Shield: Una tecnología duradera y de secado rápido que repele el agua y las manchas impidiendo que los líquidos se absorban en los hilos y saturen o manchen tu ropa.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Helly Hansen Hombres Chaqueta de capa intermedia Crew 2 Azul Marino M'
-date: 2026-10-12 06:27:43
+date: 2026-10-15 06:36:14
 image: 'https://m.media-amazon.com/images/I/31PrA69QYFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CKSS9V1Z/?tag=tolees-21'
 descuento: '29.10'
-average: '103.757142857143'
+average: '106.697777777778'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

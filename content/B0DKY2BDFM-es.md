@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cuello redondo
-- Composición: 90 % algodón
 - Detalles estampados
+- Composición: 90 % algodón
 - 10 % poliéster
 
 [🛒 Visítala!!!]({{< param buyurl >}})

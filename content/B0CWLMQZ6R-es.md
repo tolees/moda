@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Muy suave y agradable cuyas propiedades
+- Cuello acanalado
 - Patrón en el pecho
 - Ajuste estándar
 - Logotipo TNF en el hombro.
-- Cuello acanalado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CWLMQZ6R{{</world>}}

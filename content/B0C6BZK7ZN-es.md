@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material elástico y cómodo, 100% Algodón, Apto para lavadora
-- Estampado del logo de Columbia en el pecho y la espalda
 - Contenido: 1x Columbia Hombre Camiseta de manga corta North Cascades, Material: 100% algodón, Talla: S, Color: Negro (Black, CSC Box Logo), Art.: 1834041
-- Columbia Camiseta de manga corta para hombre, Para el día a día y actividades al aire libre, Ajuste activo
+- Material elástico y cómodo, 100% Algodón, Apto para lavadora
 - Corte regular: Ajuste universal y cómodo
+- Columbia Camiseta de manga corta para hombre, Para el día a día y actividades al aire libre, Ajuste activo
+- Estampado del logo de Columbia en el pecho y la espalda
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C6BZK7ZN{{</world>}}

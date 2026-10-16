@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Botón
 - Manga larga
+- Botón
 - Corte regular
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bolsillo tipo canguro
-- Items delivered: 1x Helly Hansen Womens - W Nord Graphic PUllover Hoodie Apparel Navy M
 - Gráfico de HH Nord en el pecho
 - Tejido de mezcla de algodón y poliéster
+- Items delivered: 1x Helly Hansen Womens - W Nord Graphic PUllover Hoodie Apparel Navy M
+- Bolsillo tipo canguro
 - Capucha ajustable con cordón
 
 [🛒 Comprar!!!]({{< param buyurl >}})

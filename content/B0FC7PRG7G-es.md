@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- SENCILLA Y ESTILIZADA: Logotipo discreto de Columbia y diseño limpio para un look moderno y versátil.
 - UN BÁSICO IMPRESCINDIBLE EN TU ARMARIO: Cuello redondo y corte regular para llevar sola o como capa base.
-- QUÉ RECIBIRÁS: 1 camiseta Columbia de algodón orgánico para hombre, CSC Basic Tee, camiseta minimalista para hombre, Color: Marrón (Ancient Fossil), Talla: M
+- SENCILLA Y ESTILIZADA: Logotipo discreto de Columbia y diseño limpio para un look moderno y versátil.
 - 100% ALGODÓN ORGÁNICO: camiseta lisa para hombre suave con la piel confeccionada con algodón 100% orgánico.
+- QUÉ RECIBIRÁS: 1 camiseta Columbia de algodón orgánico para hombre, CSC Basic Tee, camiseta minimalista para hombre, Color: Marrón (Ancient Fossil), Talla: M
 - HECHA PARA PERDURAR: Algodón resistente y construcción robusta para conservar forma y comodidad.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Lightweight fabric
-- Provides comfort
 - Shirt collar
+- Provides comfort
 - Button fly
 - Long sleeves
 

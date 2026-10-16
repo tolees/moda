@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Impresión completa
-- Cinturón tejido ajustable
 - Marca clásica Vans
+- Cinturón tejido ajustable
+- Impresión completa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01MS6DOZZ{{</world>}}

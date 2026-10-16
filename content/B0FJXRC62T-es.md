@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - COMODIDAD TODO EL DÍA | La planta acolchada asegura una pisada confortable durante todo el día, mientras que la cuña de 10 cm aporta altura y un toque estilizado.
 - MATERIALES FUNCIONALES | Corte, forro y planta de piel que aportan comodidad, mientras que la suela de TPR garantiza flexibilidad y resistencia al uso.
-- DISEÑO ESPAÑOL | Gioseppo presenta una propuesta de calzado creada en España, destacando por su diseño cuidado y materiales pensados para cualquier ocasión.
 - VERSÁTILES Y ELEGANTES | Adecuadas para cualquier ocasión, desde un día casual hasta eventos informales, ofreciendo un diseño atractivo y comodidad en cada paso.
+- DISEÑO ESPAÑOL | Gioseppo presenta una propuesta de calzado creada en España, destacando por su diseño cuidado y materiales pensados para cualquier ocasión.
 - ESTILO Y CONFORT | Sandalias de piel en acabado serraje con detalles de flecos y cuña que combinan elegancia y comodidad. Cuentan con cierres ajustables en el tobillo para un ajuste personalizado.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

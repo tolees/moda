@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fácil de llevar para un confort optimo
-- Transpirable
-- Material exterior: Sintético
 - Flexibilidad
+- Fácil de llevar para un confort optimo
+- Material exterior: Sintético
+- Transpirable
 - Revestimiento: Sintético
 
 [🛒 Visítala!!!]({{< param buyurl >}})

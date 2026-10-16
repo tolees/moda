@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Solapa de botón a presión
-- Chaqueta acolchada con mangas largas
 - Composición del material: 50% poliéster, 50% poliéster reciclado
+- Chaqueta acolchada con mangas largas
 - Cuello redondo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

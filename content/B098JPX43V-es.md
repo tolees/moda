@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material superior: goma
 - Cierre: etilvinilacetato
 - Material interior: sintético
+- Material superior: goma
 - Forma del talón: plano
 
 [🛒 Aquí!!!]({{< param buyurl >}})

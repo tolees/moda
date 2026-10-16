@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Nuestro modelo más vanguardista. ¿Eres de las personas que les gusta estar siempre en la delantera, innovando? Las Hale tienen carácter, fuerza y personalidad. Las lentes polarizadas Northweek están fabricadas con Triacetato de Celulosa que aporta alta flexibilidad y protección UV400. Nuestras monturas de policarbonato de alta calidad se adaptan perfectamente al contorno facial y tienen una elevada durabilidad y resistencia.
 - La flexibilidad y la resistencia de la montura proporciona una alta protección contra golpes, ofreciendo mayor seguridad y menor riesgo de rotura. Las monturas Northweek destacan por su ligereza y flexibilidad, que proporcionan comodidad y adaptabilidad al contorno facial.
-- Producto oficial Northweek.Incluye: Funda en microfibra y caja
-- Gafas de sol unisex. Medidas: Frontal 14cm x Alto 5cm x Patillas 14cm
 - Nuestra lentes incluyen tecnología antireflejos que disminuye los deslumbramientos, reduciendo la fatiga ocular, aportando nitidez y un contraste superior.
+- Gafas de sol unisex. Medidas: Frontal 14cm x Alto 5cm x Patillas 14cm
+- Producto oficial Northweek.Incluye: Funda en microfibra y caja
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07XZ9NVHK{{</world>}}

@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Demi-zip avant
-- Tissu interlock doux
 - Logo impreso en la parte superior y chevrons sur les manches
+- Tissu interlock doux
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09N3QRTFV{{</world>}}

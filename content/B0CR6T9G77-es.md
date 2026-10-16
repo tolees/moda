@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ligeras
 - Cómodo
-- Cuero responsable
+- Ligeras
 - CLARKS Tilden Cap Dark Tan Lea 39,5
+- Cuero responsable
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CR6T9G77{{</world>}}

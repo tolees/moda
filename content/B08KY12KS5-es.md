@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte : Corte regular
 - Manga : Manga larga
-- Cuello : Cuello abotonado
-- Cierre : Cierre de botones
+- Corte : Corte regular
 - Bolsillos : Bolsillo en la pechera
+- Cierre : Cierre de botones
 - Artículo : Camisa informal
+- Cuello : Cuello abotonado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08KY12KS5{{</world>}}

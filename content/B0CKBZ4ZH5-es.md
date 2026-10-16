@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cuello acanalado
-- Proporciona comodidad
-- Sisa ribeteada
 - Estampado de G-Star RAW en la parte trasera
 - Bajo recto
+- Sisa ribeteada
+- Proporciona comodidad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CKBZ4ZH5{{</world>}}

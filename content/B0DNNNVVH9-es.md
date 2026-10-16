@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Acabado con un sutil logotipo en el pecho
-- Una silueta cuadrada con hombros caídos
 - Esta es la camiseta esencial en su máxima expresión
+- Una silueta cuadrada con hombros caídos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DNNNVVH9{{</world>}}

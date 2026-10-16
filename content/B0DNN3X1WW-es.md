@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Elegante silueta de dos correas
 - Revolucionario paseo ligero
+- Elegante silueta de dos correas
 - Base ligera Croslite
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Capucha extraíble
+- Tratamiento repelente al agua duradero (dwr)
 - Aislamiento soplable sintético
 - Artículos entregados: 1x helly hansen mens tromsoe jacket - ins jacket navy m
-- Tratamiento repelente al agua duradero (dwr)
 - Ykk vislon
-- Capucha extraíble
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09KXBDXG1{{</world>}}

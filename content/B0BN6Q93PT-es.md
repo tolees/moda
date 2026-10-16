@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Material exterior: sintético
+- Material interior: sintético
 - Cierre: cordones
 - Forma del tacón: plano
-- Material exterior: sintético
 - Suela: goma
-- Material interior: sintético
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BN6Q93PT{{</world>}}

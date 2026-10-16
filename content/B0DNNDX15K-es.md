@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Adecuada para múltiples ocasiones
 - Estilo informal
 - Chaqueta de manga larga
-- Adecuada para múltiples ocasiones
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DNNDX15K{{</world>}}

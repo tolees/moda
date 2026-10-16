@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material: Plata de ley 925Acabado: Oro amarillo de 18kPiedra: Circonita marrónAncho: 2,5mmDiámetro: 20mmCierre: PresiónPeso: 2,9 gr
 - Collar de Circonita Brillante acabado en oro amarillo de 18K - Ceol
+- Material: Plata de ley 925Acabado: Oro amarillo de 18kPiedra: Circonita marrónAncho: 2,5mmDiámetro: 20mmCierre: PresiónPeso: 2,9 gr
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F4XBG168{{</world>}}

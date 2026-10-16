@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bolsillos con solapa en el pecho y en la cintura, botones a presión ocultos
-- Capucha con visera, alzada por delante y con cordón ajustable por dentro
-- Bolsillo y trabilla en el interior
 - Cintura ajustable con cordón en el interior
+- Bolsillo y trabilla en el interior
+- Capucha con visera, alzada por delante y con cordón ajustable por dentro
+- Bolsillos con solapa en el pecho y en la cintura, botones a presión ocultos
 - Cremallera bidireccional, panel cortavientos y cierre de botones a presión oculto
 
 [🛒 Visítala!!!]({{< param buyurl >}})

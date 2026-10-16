@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Protector de mentón
 - YKK VISLON
-- Artículos entregados: 1x Helly Hansen Kids Unisex K Champ Reversible Jacket - Midlayer NAVY 7
 - Bolsillos
+- Artículos entregados: 1x Helly Hansen Kids Unisex K Champ Reversible Jacket - Midlayer NAVY 7
+- Protector de mentón
 - Hilos AMANN: calidad alemana
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

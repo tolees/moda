@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pantalón corto
 - Para uso diario
+- Pantalón corto
 - Ofrece comodidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})

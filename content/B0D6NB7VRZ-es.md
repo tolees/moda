@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Puños y bajo en canale
 - Jersey de 100% algodón liso
+- Puños y bajo en canale
 - Cuello pico
 
 [🛒 Visítala!!!]({{< param buyurl >}})

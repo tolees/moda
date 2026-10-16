@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tela rígida
 - Cinco bolsillos
+- Tela rígida
 - Etiqueta G-STAR en la parte trasera
 - Bragueta de botones
 

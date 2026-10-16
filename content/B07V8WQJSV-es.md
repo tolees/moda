@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material transpirable con zonas reguladoras de la humedad
-- Colección: Pasajeros
 - Calidad suave y antibacteriana, también apto para pieles sensibles
+- Colección: Pasajeros
+- Material transpirable con zonas reguladoras de la humedad
 - Patrón: monocolor
 
 [🛒 Aquí!!!]({{< param buyurl >}})

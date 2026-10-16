@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cómodo
+- Cuello redondo y serigrafía estampada en el pecho
 - Camiseta Para hombre
 - Corte normal
-- Cuello redondo y serigrafía estampada en el pecho
 - Clásico
 
 [🛒 Visítala!!!]({{< param buyurl >}})

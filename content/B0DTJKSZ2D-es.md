@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Camiseta de manga corta con cuello redondo
-- Logotipo de tachuelas en la parte delantera
 - 100 % algodón
+- Logotipo de tachuelas en la parte delantera
+- Camiseta de manga corta con cuello redondo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DTJKSZ2D{{</world>}}

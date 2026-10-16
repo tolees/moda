@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con un vestido de uso diario fácil de usar y elegante, estás lista para el trabajo, la escuela y todo lo demás
 - Mangas: mangas con sobre
+- Con un vestido de uso diario fácil de usar y elegante, estás lista para el trabajo, la escuela y todo lo demás
 - 62% algodón; 38% poliéster
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Capucha con cordón
-- Lavar a máquina
-- Puños y dobladillo elásticos.
 - 100 % poliéster
+- Puños y dobladillo elásticos.
+- Lavar a máquina
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DP37GSJH{{</world>}}

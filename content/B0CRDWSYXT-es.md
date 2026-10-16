@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Montura: 100 % policarbonato, lente: 100 % policarbonato
 - Vans Marca en el lateral
+- Montura: 100 % policarbonato, lente: 100 % policarbonato
 - Protección UVA/UVB 400
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

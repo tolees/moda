@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Jersey de algodón puro
-- Cuello redondo
 - Tommy Hilfiger Marca:
 - Cinta distintiva en el interior del cuello
+- Jersey de algodón puro
+- Cuello redondo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F4KKQSZG{{</world>}}

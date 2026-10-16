@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ¡Revive los momentos más divertidos de “Wish”, de Disney, con la muñeca de Dahlia del Reino de Rosas!
 - Inspirada en el personaje de la película de dibujos animados, la muñeca de moda lleva su vestido característico con zapatos, una cinta para el pelo.
+- ¡Revive los momentos más divertidos de “Wish”, de Disney, con la muñeca de Dahlia del Reino de Rosas!
 - Los muñecos de “Wish”, de Disney, representan la magia de los deseos y son un regalo inspirador para que los niños y las niñas hagan realidad sus sueños.
 - Los fans pueden coleccionar sus personajes favoritos para recrear las escenas de la película e imaginar sus propias historias y aventuras. Se venden por separado y están sujetos a disponibilidad.
 - La muñeca de Dahlia del Reino de Rosas cuenta con siete puntos de articulación, detalles fieles a la película y un pelo trenzado que podrás peinar una y otra vez.

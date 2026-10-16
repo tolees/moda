@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Correa giratoria
 - Diseñado para mejorar la transpirabilidad
+- Correa giratoria
 - Fácil de limpiar y secar
 
 [🛒 Comprar!!!]({{< param buyurl >}})

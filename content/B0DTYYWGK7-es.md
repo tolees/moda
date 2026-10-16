@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - super ligero
-- Material : piel
 - bailarian total black
+- Material : piel
 - plantilla acolchada
 
 [🛒 Visítala!!!]({{< param buyurl >}})

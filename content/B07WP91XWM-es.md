@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajuste : Regular
+- Descubre todas las marcas de EMP!
 - Básicos, Ropa casual, Ropa de Calle
 - Camisa de Franela con las siguientes características:
-- Descubre todas las marcas de EMP!
+- Ajuste : Regular
 - Camisa || Puños de las mangas || Cuello Redondo Cuello Camiseta || Interior afelpado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

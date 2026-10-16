@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Chaqueta ligera
-- Cremallera completa
 - Tela con acabado opaco
+- Cremallera completa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZWG871T{{</world>}}

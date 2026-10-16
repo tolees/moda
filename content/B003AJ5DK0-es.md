@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Chaqueta cortavientos para hombre con contraste en la zona de los hombros
 - Dos bolsillos delanteros, capucha ajustable
+- Chaqueta cortavientos para hombre con contraste en la zona de los hombros
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B003AJ5DK0{{</world>}}

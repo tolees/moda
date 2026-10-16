@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ofrecen una comodidad óptima
 - Transpirables y amortiguadas
+- Ofrecen una comodidad óptima
 - Con una plantilla desmontable
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cartera de 11 cm x 8 cm x 1 cm fabricada en Piel.
 - De Joumma Bags.
 - Cuenta con tres ranuras para guardar las tarjetas y un espacio para los billetes y tickets.
 - Sistema especial de protección para las tarjetas RFID que bloquea las señales de dispositivos de escaneo no autorizados por radiofrecuencia.
+- Cartera de 11 cm x 8 cm x 1 cm fabricada en Piel.
 - Incorpora un monedero con cierre de clic.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

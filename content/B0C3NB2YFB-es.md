@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Corte ajustado
 - Libertad de movimiento
 - Número de modelo: 50515392
+- Corte ajustado
 - Parte delantera forrada
 
 [🛒 Visítala!!!]({{< param buyurl >}})

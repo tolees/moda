@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cremallera bidireccional, panel cortavientos y cierre de botones a presión oculto
+- Capucha con visera, alzada por delante y con cordón ajustable por dentro
+- Bolsillos con solapa en el pecho y en la cintura, botones a presión ocultos
 - Cintura ajustable con cordón en el interior
 - Bolsillo y trabilla en el interior
-- Bolsillos con solapa en el pecho y en la cintura, botones a presión ocultos
-- Capucha con visera, alzada por delante y con cordón ajustable por dentro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CRZZX66X{{</world>}}

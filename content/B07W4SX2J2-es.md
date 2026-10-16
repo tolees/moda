@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Tiene ajuste regular
 - Presenta bolsillos laterales
 - Con tecnología Nike Dri-FIT para eliminar el sudor de la piel y para una evaporación rápida
-- Tiene ajuste regular
 - Chaqueta de deporte
 
 [🛒 Visítala!!!]({{< param buyurl >}})

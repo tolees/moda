@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Detalle gráfico en la parte delantera
 - Cuello redondo
+- Detalle gráfico en la parte delantera
 - Bajo recto
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forro de poliéster para un ajuste cómodo
-- Bolsillos laterales
 - Capucha
+- Bolsillos laterales
+- Forro de poliéster para un ajuste cómodo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BMGXGHQ1{{</world>}}

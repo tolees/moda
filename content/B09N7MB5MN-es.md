@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Vans Cartera de tres pliegues para hombre
 - Creado con atención al detalle
 - Explora nuestra gama de productos
-- Vans Cartera de tres pliegues para hombre
 - Disfruta de tu estilo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

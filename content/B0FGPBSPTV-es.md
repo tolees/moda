@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 97 % poliéster, 3 % elastano
-- Color: Blanco roto
-- Colección primavera-verano
-- Camiseta manga larga de la colección mujer
 - Hecho en: Marruecos
+- Camiseta manga larga de la colección mujer
+- 97 % poliéster, 3 % elastano
+- Colección primavera-verano
+- Color: Blanco roto
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FGPBSPTV{{</world>}}

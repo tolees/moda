@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con detalles distintivos de la marca
 - Bolsillo canguro
+- Con detalles distintivos de la marca
 - Puños y bajo de canalé
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

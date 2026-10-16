@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Regulación de la humedad
 - Comodidad
+- Regulación de la humedad
 - Transpirable
 - 0 unidades
 

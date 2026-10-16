@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Proporciona comodidad
 - Una mirada original
-- Manga larga
 - Cómoda tela elástica
+- Manga larga
 - Cuello redondo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Los jeans azules originales
-- Un lienzo en blanco para personalizarlo y expresar tu estilo
 - Fabricados con nuestro elástico cómodo que cuenta con la cantidad de elasticidad necesaria para ir cómodamente durante todo el día
 - Nuestro característico corte recto
+- Un lienzo en blanco para personalizarlo y expresar tu estilo
+- Los jeans azules originales
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CNK38VHP{{</world>}}

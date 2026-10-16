@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Marca: Billabong
 - Diseño ligero
+- Marca: Billabong
 - Manga corta
 - Cuello redondo
 

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tacón plano
-- Sandalias para mujer
 - Horma comfort
+- Sandalias para mujer
+- Tacón plano
 - Cierre de hebilla
 
 [🛒 Visítala!!!]({{< param buyurl >}})

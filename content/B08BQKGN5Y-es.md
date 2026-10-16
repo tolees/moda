@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Modelo Unisex; Medidas: Frontal 139 mm, Varillas 145 mm, Puente 16 mm, Alto 42;3 mm
-- Combina montura translúcida bicolor en negro y blanco con lentes degradadas azul oscuro
 - Gafas de sol categoría filtro 3, color suficientemente oscuro para usar en exterior a pleno sol; absorben entre un 82% y un 92% de luz solar; Material de la lente: Lentes de TR18 con el sello de Eastman, gran calidad óptica y resistencia; respetuoso con el medio ambiente; protección 100% UV; Color de la lente: Azul; Apariencia de la lente: Gradiente
 - Producto original Hawkers; la caja incluye funda en microfibra y caja
+- Combina montura translúcida bicolor en negro y blanco con lentes degradadas azul oscuro
+- Modelo Unisex; Medidas: Frontal 139 mm, Varillas 145 mm, Puente 16 mm, Alto 42;3 mm
 - Material de la montura: TR90; Color de la montura: Blanco, Negro; Color de la varilla: Blanco, Negro
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

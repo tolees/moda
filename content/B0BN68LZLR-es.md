@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Grado de resistencia al agua: no impermeable
 - Cierre: cremallera
 - Talla del zapato: Medium
-- Grado de resistencia al agua: no impermeable
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BN68LZLR{{</world>}}

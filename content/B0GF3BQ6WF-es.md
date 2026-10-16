@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Este es un producto Tommy Hilfiger
 - Este estilo se ha producido de forma sostenible
+- Este es un producto Tommy Hilfiger
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GF3BQ6WF{{</world>}}

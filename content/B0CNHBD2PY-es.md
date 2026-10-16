@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fit estándar con hombros caídos
-- Logotipo de Levis discreto
 - Cuello redondo, dobladillo vuelto en los puños y el bajo de la cintura
+- Logotipo de Levis discreto
+- Fit estándar con hombros caídos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CNHBD2PY{{</world>}}

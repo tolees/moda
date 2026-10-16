@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Micro águila frontal
 - Corte entallado
 - Manga corta
-- Micro águila frontal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B3VP81KY{{</world>}}

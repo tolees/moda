@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Mangas con puños
 - Puños con botones
 - Corte normal
-- Mangas con puños
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09M5LCWJ9{{</world>}}

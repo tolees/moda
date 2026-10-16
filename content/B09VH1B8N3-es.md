@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- 🧸TRUDI, una larga historia de cariño. La empresa se fundó en Tarcento (Udine) en 1954. Los primeros peluches los creó Trudi Müller Patriarca, en parte por diversión, pero con mucha pasión. Trudi pasa de ser una empresa artesanal a una realidad industrial, símbolo del Made in Italy en el mundo. El estilo Trudi es sinónimo de calidad, belleza e innovación.
+- 🧸MEDIDAS - 12x18x11 cm, peluche S
 - 🧸 CONTENIDO - Osito con vestido azul, peluche Trudi.Simpáticos animalitos en colores pastel típicos de la primera infancia.
 - 🧸MATERIAL - Materias primas de alta calidad - Poliéster ignífugo. Lavable a máquina a 30°, cuando el tamaño lo permita; alternativamente se puede lavar a mano, utilizando una esponja y jabón neutro. No secar en secadora, no planchar.
-- 🧸MEDIDAS - 12x18x11 cm, peluche S
-- 🧸TRUDI, una larga historia de cariño. La empresa se fundó en Tarcento (Udine) en 1954. Los primeros peluches los creó Trudi Müller Patriarca, en parte por diversión, pero con mucha pasión. Trudi pasa de ser una empresa artesanal a una realidad industrial, símbolo del Made in Italy en el mundo. El estilo Trudi es sinónimo de calidad, belleza e innovación.
 - 🧸USO - Peluche suave. Apto para niños. Regalo ideal para Navidad, cumpleaños. Apto pararegalo de nacimiento.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

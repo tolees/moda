@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 100% algodón
-- Logo con tipografía grande en el pecho
 - 100% original, lonsdale
+- Logo con tipografía grande en el pecho
+- 100% algodón
 - Corte clásico
 - Lavado a máquina
 

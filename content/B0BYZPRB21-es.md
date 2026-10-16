@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Resistente al agua WP 3000
-- Tecnología de impermeabilización sin PFC, sin PFC
-- Cierre de cremallera completo, cubierto con una lista protectora de botones que mantienen fuera el viento y el agua. Con capucha fija, doble bolsillo lateral y logotipo de CMP en el hombro. El interior está forrado con jersey de poliéster a rayas
-- La chaqueta proporciona protección contra la lluvia
 - Resistente al viento
+- La chaqueta proporciona protección contra la lluvia
+- Cierre de cremallera completo, cubierto con una lista protectora de botones que mantienen fuera el viento y el agua. Con capucha fija, doble bolsillo lateral y logotipo de CMP en el hombro. El interior está forrado con jersey de poliéster a rayas
+- Tecnología de impermeabilización sin PFC, sin PFC
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BYZPRB21{{</world>}}

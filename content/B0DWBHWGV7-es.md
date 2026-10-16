@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fit: Regular
 - Desigual
-- Cuello: en V
 - Largo: Corto
-- Manga: Larga
+- Cuello: en V
 - Fit: Regular
+- Fit: Regular
+- Manga: Larga
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DWBHWGV7{{</world>}}

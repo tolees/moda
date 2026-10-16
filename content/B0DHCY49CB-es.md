@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Un guiño de color: Blue para destacar con discreción
-- En planes rápidos o días largos, mantienen un estilo consistente y versátil
 - Si quieres renovar tus gafas, NIKE (modelo NIKE ZEUS EDGE EV24030) es una opción cómoda y moderna
+- En planes rápidos o días largos, mantienen un estilo consistente y versátil
 - Enfocadas en el día a día, combinan estilo y funcionalidad en cada salida
 - Prácticas para el día a día: un básico que siempre viene bien tener cerca
 

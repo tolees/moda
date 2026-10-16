@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cinta distintiva en el interior del cuello
 - Jersey de algodón puro
+- Cinta distintiva en el interior del cuello
 - Tommy Hilfiger Logotipo en el pecho
 - Cuello redondo
 

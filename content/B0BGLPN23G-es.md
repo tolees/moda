@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cojín de contorno"
 - Clarks Premium
+- Cojín de contorno"
 - Clarks Boots, Desert Bt Evo, Navy Suede, 7 (Men)
 
 [🛒 Aquí!!!]({{< param buyurl >}})

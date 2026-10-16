@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Manga: Larga
 - Color: Liso
 - Largo: Corto
-- Manga: Larga
 - Cuello: de Camisa
 - Fit: Regular
 

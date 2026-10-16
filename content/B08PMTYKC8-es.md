@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Suavidad: Tacto suave
+- Composición: 95% algodón y 5% elastano
 - Cinturón elástico: para una sujeción perfecta
 - Comodidad óptima
-- Composición: 95% algodón y 5% elastano
 - Extensible: se adapta a tus movimientos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

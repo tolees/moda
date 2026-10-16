@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Logotipo impreso en el pecho
-- Totalmente forrada
 - Resistente al agua
+- Totalmente forrada
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BG5FHJMV{{</world>}}

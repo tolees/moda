@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Talón de goma y clip de talón de TPU
 - Clarks Shoes, Courtlite2 Run, Navy Nubuck, 8 (Men)
+- Talón de goma y clip de talón de TPU
 - Plantilla acolchada de contorno extraíble
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Camiseta de manga corta
-- Pack de 5 camisetas básicas para hombre con cuello redondo
 - camisetas básicas de corte recto
 - Camisetas de algodón para hombre
+- Pack de 5 camisetas básicas para hombre con cuello redondo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08QW6YPT1{{</world>}}

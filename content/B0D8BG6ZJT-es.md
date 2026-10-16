@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Líneas estrechas de color a juego en el lateral
 - Forro de poliéster suave y resistente al agua para mayor comodidad
+- Líneas estrechas de color a juego en el lateral
 - Material: material exterior de lona de algodón
 - __Plantilla: __ Plantilla texturizada con gráficos de pantalones cortos y camisetas
 - Suela exterior: __ Suela de goma espuma optimizada con lengüetas de logotipo multiángulo para mayor agarre

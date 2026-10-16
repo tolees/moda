@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con forro de poliéster reciclado a contraste, cierre y bolsillos con cremallera, bolsillos interiores, y detalle de etiqueta decorativa
 - Chaqueta acolchada con relleno térmico de poliéster reciclado REPREVE en tejido de nylon repelente al agua libre de PFCs
+- Con forro de poliéster reciclado a contraste, cierre y bolsillos con cremallera, bolsillos interiores, y detalle de etiqueta decorativa
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FCMVS28J{{</world>}}

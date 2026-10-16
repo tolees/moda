@@ -28,15 +28,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MATERIAL: 100% ALGODÓN
-- DISEÑO CLÁSICO LEVIS: Algunas cosas son perfectas tal como son.
 - Acabado con un logo sutil
-- Nuestro Camiseta Original Housemark es una de ellas.
-- ETIQUETA ROJA LEVIS: Existen diferentes variaciones de nuestra conocida etiqueta roja. Algunas dicen LEVIS, otras dicen Levis, algunas no muestran la marca en absoluto. Para ediciones especiales, a veces incluso cambiamos el color.
-- La camiseta esencial, perfeccionada
-- AJUSTE: Por eso lo mantuvimos simple con un ajuste atemporal y nuestro icónico gráfico.
 - Hecho para combinar con cualquiera de nuestros jeans
+- ETIQUETA ROJA LEVIS: Existen diferentes variaciones de nuestra conocida etiqueta roja. Algunas dicen LEVIS, otras dicen Levis, algunas no muestran la marca en absoluto. Para ediciones especiales, a veces incluso cambiamos el color.
 - La modelo mide 188 cm, Cintura 30", Lleva una talla M
+- AJUSTE: Por eso lo mantuvimos simple con un ajuste atemporal y nuestro icónico gráfico.
+- Nuestro Camiseta Original Housemark es una de ellas.
+- DISEÑO CLÁSICO LEVIS: Algunas cosas son perfectas tal como son.
+- La camiseta esencial, perfeccionada
+- MATERIAL: 100% ALGODÓN
 - ELASTICIDAD: 0% SIN ELASTICIDAD - Espera un ajuste muy ceñido inicialmente. Se aflojará con el tiempo pero no recuperará su forma. Perfecto para un look de denim clásico y rígido.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Leggings || Longitud: Normal || altura de la cintura: normal
-- Leggins con las siguientes características:
-- Descubre todas las marcas de EMP!
-- Ajuste : Corte Botas
 - Básicos, Ropa de Calle, Sostenibilidad
+- Ajuste : Corte Botas
+- Leggings || Longitud: Normal || altura de la cintura: normal
+- Descubre todas las marcas de EMP!
+- Leggins con las siguientes características:
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B6JPXXK3{{</world>}}

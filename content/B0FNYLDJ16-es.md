@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - CELESTE
-- ANCHO
 - V-26
 - MUJER
+- ANCHO
 - SANDALIAS PLANAS
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

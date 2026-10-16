@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Artículos entregados: 1x Helly-Hansen mens patrol parka - parka black xl
+- Aislamiento soplable sintético
 - Cremallera bidireccional ykk
 - Forro interior teñido en solución e.dye
-- Artículos entregados: 1x Helly-Hansen mens patrol parka - parka black xl
 - water_resistant
-- Aislamiento soplable sintético
 - Primaloft black
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - G-STAR Bordado en el pecho
-- Proporciona comodidad
 - Un aspecto original
 - Cuello acanalado
+- Proporciona comodidad
 - Un ajuste cómodo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Máxima comodidad
 - Producto de calidad óptima
+- Suave, transpirable, ligero
+- Máxima comodidad
 - Tipo de fábrica: 100% Poliester
 - Camiseta de manga corta confeccionada en tejido traspirable, elástico y ligero para aportar el máximo confort al runner. diseño y logotipo sublimados.
-- Suave, transpirable, ligero
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B091CXRZ6N{{</world>}}

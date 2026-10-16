@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Textil transpirable
-- Clarks Collection Shoes, Sailview Lace, Light Tan Nubuck, 12 (Men)
 - Ligeras
+- Clarks Collection Shoes, Sailview Lace, Light Tan Nubuck, 12 (Men)
+- Textil transpirable
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CB3TSKJ3{{</world>}}

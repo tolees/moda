@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Botón crudo y logotipo de springfield a juego bordados
-- Tejido oxford en 100% algodón
 - Camisa casual de manga larga
+- Botón crudo y logotipo de springfield a juego bordados
 - Ajuste regular
+- Tejido oxford en 100% algodón
 - Ligera
 
 [🛒 Visítala!!!]({{< param buyurl >}})

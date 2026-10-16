@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Talla: 59
 - Forma: NAVEGADOR
-- Color de lente: Gris oscuro Degradado
 - Material: nailon
+- Talla: 59
+- Color de lente: Gris oscuro Degradado
 - Color: Negro a rayas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

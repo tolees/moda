@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - 11STW009WB
-- Officially Licensed Star Wars Apparel
 - Ligero, Encaje clasico, Manga de doble puntada y bastilla baja
+- Officially Licensed Star Wars Apparel
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08HRFH9RF{{</world>}}

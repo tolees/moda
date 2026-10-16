@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Detalles distintivos de la marca
-- Capucha ajustable mediante cordones
 - Sudadera con cierre de cremallera frontal
 - Con bolsillos laterales
+- Capucha ajustable mediante cordones
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BTTK8ZVC{{</world>}}

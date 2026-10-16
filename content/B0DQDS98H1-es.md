@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sudadera de manga larga con cuello redondeado y acanalado en el cuello, puños y dobladillo
 - Logotipo artístico en el pecho y doble costura en las sisas
+- Sudadera de manga larga con cuello redondeado y acanalado en el cuello, puños y dobladillo
 - 100 % algodón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

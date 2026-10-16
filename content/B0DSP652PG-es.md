@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DKNY Willa - Mini bolso para mujer 100% poliuretano talla S negro/plateado Small'
-date: 2026-10-14 21:08:55
+date: 2026-10-16 06:54:52
 image: 'https://m.media-amazon.com/images/I/31J0zjhai3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DSP652PG/?tag=tolees-21'
 descuento: '61.73'
-average: '53.4125'
+average: '52.604'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

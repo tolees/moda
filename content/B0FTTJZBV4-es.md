@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Herrajes dorados brillantes
 - 3 ranuras CC/1 cremallera interior
+- Herrajes dorados brillantes
 - 9 x 2 x 9 pulgadas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

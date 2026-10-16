@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Manga : Manga larga
-- Estampado : Estampa en la parte delantera del producto, Estampado con pigmentos para un acabado delicado en los tejidos más ligeros
-- Cuello : Cuello redondo
 - Corte : Corte relaxed
-- Artículo : Sudadera
+- Manga : Manga larga
 - Mangas : Sisa en disminución
+- Artículo : Sudadera
+- Cuello : Cuello redondo
+- Estampado : Estampa en la parte delantera del producto, Estampado con pigmentos para un acabado delicado en los tejidos más ligeros
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F448SX1S{{</world>}}

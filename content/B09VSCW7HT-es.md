@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material 1: poliéster
 - Extras: por defecto
-- Equipo: default
+- Material 1: poliéster
 - Forro: por defecto
 - Género: Chaqueta
+- Equipo: default
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09VSCW7HT{{</world>}}

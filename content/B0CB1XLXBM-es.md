@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Manga larga y puños acanalados
-- Cuello redondo acanalado
-- Bajo recto con borde acanalado
-- Diseño de rayas tejido
 - Etiqueta de G-Star Originals tejida en el borde inferior
+- Diseño de rayas tejido
+- Bajo recto con borde acanalado
+- Cuello redondo acanalado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CB1XLXBM{{</world>}}

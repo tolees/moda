@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Tela de algodón orgánico [160 g/m2]
-- Cuello:
 - Rib 1 x 1 con collar
+- Cuello:
 - Chest embroidery
 
 [🛒 Visítala!!!]({{< param buyurl >}})

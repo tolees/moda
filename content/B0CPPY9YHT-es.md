@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Transpirable
-- Zapatillas informales y transpirables de corte bajo para niñas
 - Cierre de velcro individual y cordones elásticos
 - Rápido y fácil de poner
+- Zapatillas informales y transpirables de corte bajo para niñas
+- Transpirable
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CPPY9YHT{{</world>}}

@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Fácil de llevar
-- Ajuste holgado
 - Diseño moderno
+- Ajuste holgado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BNBT938C{{</world>}}

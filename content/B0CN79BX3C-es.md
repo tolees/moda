@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La marca Cecil tiene una orientación informal y deportiva, recomendamos pedir una talla más pequeña
 - La camiseta básica es ideal como camiseta individual o interior y, por lo tanto, es muy fácil de combinar
 - Cecil Camiseta Style Lena con media manga y cuello redondo de algodón
+- La marca Cecil tiene una orientación informal y deportiva, recomendamos pedir una talla más pequeña
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CN79BX3C{{</world>}}

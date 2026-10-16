@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bolsillos para artículos esenciales
 - Cierre con cremallera
+- Bolsillos para artículos esenciales
 - Capucha ajustable
 
 [🛒 Aquí!!!]({{< param buyurl >}})

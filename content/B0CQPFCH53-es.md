@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Aspecto clásico
 - Tecnología del cojín
 - Parte superior de cuero
-- Aspecto clásico
 - Cuero de calidad
 - Duradero
 

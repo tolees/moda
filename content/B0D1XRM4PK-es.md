@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bolsillo con cremallera en el pecho, bolsillos con solapa en la cintura, cierre abotonado
 - Capucha con visera elevada y cordones
-- Cierre con cremallera oculta y botones
 - Puños internos, acanalados
 - Interior: trabilla para colgar, cordón ajustable en la cintura y bolsillo interior
+- Cierre con cremallera oculta y botones
+- Bolsillo con cremallera en el pecho, bolsillos con solapa en la cintura, cierre abotonado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D1XRM4PK{{</world>}}

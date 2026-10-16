@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sudadera de media cremallera
-- Manga larga
 - Sudadera de corte recto
 - Mangas caídas y volumen
 - Cuello alto y cierre con cremallera
+- Manga larga
+- Sudadera de media cremallera
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FCSP37MZ{{</world>}}

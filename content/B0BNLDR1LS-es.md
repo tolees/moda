@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Clarks Shoes, Freva55 Strap, Black Leather, 6,5 (Women)
 - Cómodos
+- Clarks Shoes, Freva55 Strap, Black Leather, 6,5 (Women)
 - Forro de piel
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diseño deportivo de sandalia casual y cómoda
 - Correas ajustables en los dedos, el empeine y el talón para un ajuste personalizado
 - Parte superior sintética suave y duradera con acabado de aspecto de cuero
+- Diseño deportivo de sandalia casual y cómoda
 - Costuras de color de contraste y ribete en los tirantes
 
 [🛒 Visítala!!!]({{< param buyurl >}})

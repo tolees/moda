@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Artículo : Sudadera con capucha
-- Corte : Corte relaxed
-- Cuello : Cuello redondo
-- Manga : Manga larga
 - Mangas : Hombros caídos
+- Manga : Manga larga
+- Cuello : Cuello redondo
+- Corte : Corte relaxed
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C36QS3C7{{</world>}}

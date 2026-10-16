@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Hombre Essentials Linear Single Jersey Shirt Pure Ruby/Black XXL'
-date: 2026-09-29 03:21:20
+date: 2026-10-15 06:44:39
 image: 'https://m.media-amazon.com/images/I/31kil5kD5mL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CZP3TWTT/?tag=tolees-21'
 descuento: '40.05'
-average: '12.07'
+average: '12.0433333333333'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

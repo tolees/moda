@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material agradable y corte informal que garantizan la comodidad adecuada
 - Camiseta informal de la casa Mister Tee
+- Material agradable y corte informal que garantizan la comodidad adecuada
 - El llamativo estampado proporciona un aspecto fantástico
 
 [🛒 Comprar!!!]({{< param buyurl >}})

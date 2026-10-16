@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cordón de poliamida cosido
 - Vaqueros para niña, cintura alta, ajustable en el interior, piernas anchas, estilo de 5 bolsillos, trabillas para cinturón
+- Cordón de poliamida cosido
 - Pantalones de chándal
 
 [🛒 Visítala!!!]({{< param buyurl >}})

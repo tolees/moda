@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Camiseta de manga larga para mujer Tom Tailor
 - Ajuste óptimo y gran comodidad
+- Camiseta de manga larga para mujer Tom Tailor
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DSQPYV99{{</world>}}

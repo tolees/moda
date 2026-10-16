@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BLITZSOX Calcetines Deportivos Hombre para Correr Tobilleros Acolchados Transpirables Algodón Calcetines Cortos Pack de 6 43-46 Negro'
-date: 2026-10-11 12:48:14
+date: 2026-10-16 00:40:46
 image: 'https://m.media-amazon.com/images/I/4104W3tMCsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0F5HDMSST/?tag=tolees-21'
 descuento: '53.47'
-average: '7.39333333333333'
+average: '7.26714285714285'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

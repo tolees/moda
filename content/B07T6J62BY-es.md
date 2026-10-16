@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Relaxed Fit
-- Punto grueso
-- Cuello redondo de punto ribeteado
 - Bolsillo lateral
-- Logo Carhartt cosido en el bolsillo
 - Manga corta
+- Relaxed Fit
+- Logo Carhartt cosido en el bolsillo
+- Punto grueso
 - Bajo plano con puntada a dos agujas
+- Cuello redondo de punto ribeteado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07T6J62BY{{</world>}}

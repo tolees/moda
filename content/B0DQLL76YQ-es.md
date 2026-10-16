@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Composición: 58% poliéster, 42% algodón
 - Chaqueta con capucha
+- Composición: 58% poliéster, 42% algodón
 - Corte estándar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

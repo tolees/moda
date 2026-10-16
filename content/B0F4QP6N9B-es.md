@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello con capucha y cordón
-- Forro polar de mezcla de algodón
 - Puños y dobladillo de punto acanalado
 - Bolsillo tipo canguro
+- Cuello con capucha y cordón
+- Forro polar de mezcla de algodón
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F4QP6N9B{{</world>}}

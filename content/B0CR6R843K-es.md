@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Jeans Pantalones Largos
 - Composición: 92 por ciento de algodón 6 por ciento elastomultiéster 2 por ciento de elastano
+- Ajuste: corte regular
 - Instrucciones de cuidado: lavable a máquina
 - Cierre: cremallera y botón
-- Ajuste: corte regular
-- Jeans Pantalones Largos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CR6R843K{{</world>}}

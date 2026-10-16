@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tiene un estilo casual
 - Ofrece una comodidad óptima
 - Adecuada para días fríos
+- Tiene un estilo casual
 - Este producto es original Levis
 
 [🛒 Aquí!!!]({{< param buyurl >}})

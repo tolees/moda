@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 0PR 27ZS 54 16K08Z de la marca Prada
 - Prada. Los productos de esta marca están fabricados con los materiales de la mejor calidad.
 - Gafas de sol modelo 0PR 27ZS 54 16K08Z
+- 0PR 27ZS 54 16K08Z de la marca Prada
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BTHPCXL3{{</world>}}
