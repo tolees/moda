@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela original de gofre
 - Brooklyn LS está inspirado en los clásicos de Vans con una influencia de estilo de zapatos de cancha. Cuenta con una puntera deportiva y una forma más cómoda para la fila de ojos.
-- Cierre de cordones
 - Puntera deportiva
+- Cierre de cordones
+- Suela original de gofre
 - Construcción vulcanizada
 
 [🛒 Comprar!!!]({{< param buyurl >}})

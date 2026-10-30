@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Cuello de camisa
 - Un bolsillo en el pecho
-- Cierre de botones
 - Tela rígida
+- Cierre de botones
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F4XH13DJ{{</world>}}

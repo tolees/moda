@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Mangas cortas
-- Calidad: 100% algodón
 - Tejido de jersey
+- Calidad: 100% algodón
 - Logotipo en el pecho estampado y bordado
 - Cuello redondo
 

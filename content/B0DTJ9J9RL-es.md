@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sudadera de cuello redondo en tejido de mezcla de algodón y poliéster con efecto mezcla
 - Logotipo grande en el pecho y etiqueta tejida con logotipo insertado en la costura lateral
+- Sudadera de cuello redondo en tejido de mezcla de algodón y poliéster con efecto mezcla
 - 55 % algodón, 45 % poliéster
 
 [🛒 Comprar!!!]({{< param buyurl >}})

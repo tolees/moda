@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Camisa para hombre en estándar
 - La parte superior se puede combinar bien
+- Camisa para hombre en estándar
 - Ajuste: corte ajustado
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- One main ZIP COMPARTMENT WITH INTERIOR SLIP POCKET To FIT TU ESENCIALS
 - 1,2 l
+- One main ZIP COMPARTMENT WITH INTERIOR SLIP POCKET To FIT TU ESENCIALS
 - ADJUSTABLE STRAP ALLOWS BAG TO BE A SHOULDER BAG OR CROSSBODY BAG
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

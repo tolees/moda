@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Acolchado: Almohadillas extraíbles
 - Tejido: tejido suave, elástico y resistente
 - Diseño: diseño de triángulo
+- Acolchado: Almohadillas extraíbles
 - Sujeción: sujeción baja
 - Tirantes: tirantes ajustables con lazada
 

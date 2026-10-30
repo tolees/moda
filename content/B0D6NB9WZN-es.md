@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Camisa semientallada de manga larga
 - con cuello camisero
+- Camisa semientallada de manga larga
 - con botones en el delantero y con doble botón en los puños
 
 [🛒 Comprar!!!]({{< param buyurl >}})

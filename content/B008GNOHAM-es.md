@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tipo de fábrica: 50% Algodón 50% Poliéster
 - Tipo de deporte: Running
-- Diseño funcional
-- Productos ideales para ti y tu vida diaria
 - De la marca Nike
+- Tipo de fábrica: 50% Algodón 50% Poliéster
+- Productos ideales para ti y tu vida diaria
+- Diseño funcional
 - Alta calidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})

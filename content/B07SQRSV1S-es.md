@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forma del tacón: plano
 - Material exterior: sintético
+- Forma del tacón: plano
 - Talla del zapato: Medium
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

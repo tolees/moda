@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Algodón suave
+- Costura de los dedos plana para evitar la irritación
 - Calcetines versátiles
 - Pack de 3 unisex
-- Costura de los dedos plana para evitar la irritación
-- Algodón suave
 - Contiene tela reciclada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

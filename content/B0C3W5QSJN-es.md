@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiene el logo distintivo de la marca
 - Ropa deportiva cómoda de llevar
+- Tiene el logo distintivo de la marca
 - Material de calidad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

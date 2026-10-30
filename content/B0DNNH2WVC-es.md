@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Estilo informal
 - Chaqueta de manga larga
 - Adecuada para múltiples ocasiones
-- Estilo informal
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DNNH2WVC{{</world>}}

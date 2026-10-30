@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ofrece comodidad y libertad de movimiento
 - Sujetador sin aros
+- Ofrece comodidad y libertad de movimiento
 - Tiene corte con tul para un look moderno
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

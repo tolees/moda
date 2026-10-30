@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Etiqueta con el logo de hh de metal
 - Aislamiento soplable sintético
 - Cremallera ykk
 - Artículos entregados: 1x helly hansen womens w blossom puffy parka - parka navy xs
+- Etiqueta con el logo de hh de metal
 - Bolsillos laterales y en el pecho con cremallera ykk
 
 [🛒 Aquí!!!]({{< param buyurl >}})

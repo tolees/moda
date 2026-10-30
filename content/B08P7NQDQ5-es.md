@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Manga : Manga corta
-- Corte : Corte standard
+- Cuello : Cuello redondo
 - Estampado : Estampado de goma para un tacto suave
 - Artículo : Camiseta
-- Cuello : Cuello redondo
+- Manga : Manga corta
+- Corte : Corte standard
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08P7NQDQ5{{</world>}}

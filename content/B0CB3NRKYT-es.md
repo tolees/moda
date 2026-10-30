@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Peso ligero
 - Clarks Marca
+- Peso ligero
 - Clarks Sandals, Alda Strap, Off White Lea, 5 (Women)
 
 [🛒 Aquí!!!]({{< param buyurl >}})

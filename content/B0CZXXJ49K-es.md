@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Hombros con las costuras caídas
-- 100% algodón
 - Cuello redondo de canalé
+- Hombros con las costuras caídas
 - Corte clásico
+- 100% algodón
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CZXXJ49K{{</world>}}

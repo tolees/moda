@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Modo de vida : Tradicional
-- Manga : Manga corta
 - Cuello : Cuello redondo
+- Manga : Manga corta
+- Modo de vida : Tradicional
 - Mangas : Sisa en disminución
-- Estampado : Estampado con pigmentos para un acabado delicado en los tejidos más ligeros
-- Corte : Corte relaxed
 - Artículo : Camiseta
+- Corte : Corte relaxed
+- Estampado : Estampado con pigmentos para un acabado delicado en los tejidos más ligeros
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BHXHJ42G{{</world>}}

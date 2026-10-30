@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Longitud máxima para un look de moda
-- Falda de mezclilla casual y elegante para mujeres
 - Cintura alta para una silueta favorecedora
+- Falda de mezclilla casual y elegante para mujeres
+- Longitud máxima para un look de moda
 - Raja para mayor libertad de movimiento
 
 [🛒 Comprar!!!]({{< param buyurl >}})

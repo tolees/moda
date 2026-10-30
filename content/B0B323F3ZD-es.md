@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- CLARKS Desert Bt Evo Sand Suede 47
 - Coussin contour
+- CLARKS Desert Bt Evo Sand Suede 47
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B323F3ZD{{</world>}}

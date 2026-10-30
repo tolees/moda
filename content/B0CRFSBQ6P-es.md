@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Mangas largas
 - Ajuste: corte regular
-- Composición: 100% algodón
-- Jersey
 - Instrucciones de cuidado: lavable a máquina
+- Jersey
+- Composición: 100% algodón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CRFSBQ6P{{</world>}}

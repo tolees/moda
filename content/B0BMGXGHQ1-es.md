@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forro de poliéster para un ajuste cómodo
 - Capucha
+- Forro de poliéster para un ajuste cómodo
 - Bolsillos laterales
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

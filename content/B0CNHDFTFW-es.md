@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Una camiseta esencial
-- Acabada con nuestro distintivo logotipo
 - LEVIS TAB: Existen diferentes variaciones de la conocida lengüeta roja. Todos los productos son originales de Levis, no importa si pone LEVIS, Levis, no está escrito o es de otro color.
+- Acabada con nuestro distintivo logotipo
+- Una camiseta esencial
 - Con un fit ajustado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Colección Otoño-Invierno 2018
-- Perteneciente a la sección Niños - Fitness y ejercicio
 - Camiseta de la marca Reebok
+- Perteneciente a la sección Niños - Fitness y ejercicio
+- Colección Otoño-Invierno 2018
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07F93CPS1{{</world>}}

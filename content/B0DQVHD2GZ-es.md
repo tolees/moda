@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sujetador LOVELY triangular confeccionado con algodón, con goma bajo el pecho con detalle de logo
 - Con copas extraíbles y sin aro
+- Sujetador LOVELY triangular confeccionado con algodón, con goma bajo el pecho con detalle de logo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DQVHD2GZ{{</world>}}

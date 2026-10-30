@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sudadera con capucha
 - Algodón
+- Sudadera con capucha
 - Cordón en la capucha
 
 [🛒 Aquí!!!]({{< param buyurl >}})

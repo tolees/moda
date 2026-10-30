@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Interior cepillado suave
 - País de origen: LK
-- Con puños acanalados
 - Impresión de alto contraste
+- Con puños acanalados
 - Delicada mezcla de algodón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

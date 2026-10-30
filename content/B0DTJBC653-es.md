@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Forro de contraste; bolsillos con forro polar tipo polo
-- 100% nailon
 - Chaleco acolchado con cuello embudo
+- 100% nailon
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DTJBC653{{</world>}}

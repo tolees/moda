@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Óptimoes de Levis
-- Tejido material suave y cómodo
 - Lote de 3 camisetas
+- Tejido material suave y cómodo
+- Óptimoes de Levis
 - Etiqueta roja clásico de Levis
 - Ajuste regular
 

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Muslo estrecho, ajustado en la rodilla, puños de pierna súper apretados
 - Con elástico para mayor flexibilidad
 - Cierre de cremallera
+- Muslo estrecho, ajustado en la rodilla, puños de pierna súper apretados
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07ZJLY8Q3{{</world>}}

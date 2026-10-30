@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Garantiza un confort óptimo
 - Ofrece una gran libertad de movimiento
-- Con logo
 - Ideal para dar un toque desenfadado
+- Con logo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08SJ4HJX8{{</world>}}

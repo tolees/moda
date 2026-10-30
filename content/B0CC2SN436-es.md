@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Entresuela ligera de EVA
-- Glastonbury o logotipo en relieve
 - Silueta moderna con forma anatómica
+- Glastonbury o logotipo en relieve
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CC2SN436{{</world>}}

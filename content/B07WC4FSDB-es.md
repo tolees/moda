@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Nike dry fabric
+- Tipo de deporte: fútbol
 - Regular fit
 - Ribbed crewneck
-- Tipo de deporte: fútbol
+- Nike dry fabric
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07WC4FSDB{{</world>}}

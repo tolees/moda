@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pijama camisero en tejido de algodón con estampado allover de florecillas
-- Ideal para dormir o estar en casa muy cómoda
-- Pantalón con cinturilla elástica regulable con cordón a tono y cenefa del mismo género en bajos
 - Top con cuello solapa, puños del mismo género y bolsillo en pecho, con tapeta central abrochada con botones a tono
+- Pantalón con cinturilla elástica regulable con cordón a tono y cenefa del mismo género en bajos
+- Ideal para dormir o estar en casa muy cómoda
+- Pijama camisero en tejido de algodón con estampado allover de florecillas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FDGKY9Q8{{</world>}}

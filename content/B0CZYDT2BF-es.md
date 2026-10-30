@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cintura : Talle medio
-- Corte : Ajuste regular con cintura media, muslo regular y parte baja regular
-- Artículo : Shorts de ajuste regular
 - Klavado/acabado : Lavado a la piedra para un acabado desgastado y desteñido
+- Cintura : Talle medio
+- Artículo : Shorts de ajuste regular
+- Corte : Ajuste regular con cintura media, muslo regular y parte baja regular
 - Cierre : Bragueta de botones
 - Bolsillos : Bolsillos traseros, Bolsillo relojero, Bolsillos delanteros
 

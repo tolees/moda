@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 3. Plano
 - Suecia
+- 3. Plano
 - Textil
 - Cordón
 

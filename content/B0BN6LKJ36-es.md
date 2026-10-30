@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Longitud del calcetín al tobillo
 - Lavable a máquina
+- Longitud del calcetín al tobillo
 - Liso
 - Logotipo "C" en el tobillo y logotipo pequeño en la suela
 

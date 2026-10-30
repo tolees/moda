@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Lentes polarizados reducen el deslumbramiento y mejoran la visión
+- Montura ligera para comodidad durante todo el día
 - Diseño elegante y moderno para cualquier look
 - Disponibles en varios colores y tipos de lentes
 - Protección UV400 para máxima protección solar
-- Lentes polarizados reducen el deslumbramiento y mejoran la visión
-- Montura ligera para comodidad durante todo el día
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DB68J1Z8{{</world>}}

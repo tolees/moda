@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Prenda para varones adultos
 - Sudadera de uso diario
 - Tiene detalles distintivos de la marca
-- Prenda para varones adultos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B699XHWZ{{</world>}}

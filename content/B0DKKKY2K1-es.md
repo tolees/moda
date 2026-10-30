@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cuello : Capucha
-- Artículo : Sudadera con capucha
-- Corte : Corte relaxed
 - Manga : Manga larga
 - Mangas : Sisa en disminución
+- Corte : Corte relaxed
+- Artículo : Sudadera con capucha
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DKKKY2K1{{</world>}}

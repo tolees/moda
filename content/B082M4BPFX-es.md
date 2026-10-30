@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Manga corta recta insertada con vuelta fija en el borde
-- Bajo curvado
 - Bordado de G-Star RAW en el pecho
 - Etiqueta de G-Star RAW tejida en la parte inferior delantera
+- Bajo curvado
 - Cuello redondo acanalado
 
 [🛒 Comprar!!!]({{< param buyurl >}})

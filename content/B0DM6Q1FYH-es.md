@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillos delanteros
-- Cierre de botones
 - Chaqueta de aspecto atemporal
+- Cierre de botones
+- Bolsillos delanteros
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DM6Q1FYH{{</world>}}

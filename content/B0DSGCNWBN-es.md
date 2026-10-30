@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tejido suave y ligero
 - Corte regular
+- Tejido suave y ligero
 - Con puños doblados
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

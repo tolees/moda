@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Clarks Shoes, Easeway Lace, Black Combi, 9,5 (Men)
 - Cojín de contorno
+- Clarks Shoes, Easeway Lace, Black Combi, 9,5 (Men)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D6N45X1V{{</world>}}

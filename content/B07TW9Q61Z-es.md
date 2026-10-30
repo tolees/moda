@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Con faldón curvado
-- Modelo casual
 - Minilogotipo de Levis en el pecho
+- Modelo casual
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07TW9Q61Z{{</world>}}

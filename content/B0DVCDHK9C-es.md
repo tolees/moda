@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bolsillos delanteros
-- Cuello: de Camisa
-- Desigual
 - Cintura con goma elástica
+- Desigual
+- Bolsillos delanteros
 - Manga: Larga
+- Cuello: de Camisa
 - Multicolor
 
 [🛒 Comprar!!!]({{< param buyurl >}})

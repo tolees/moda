@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Camiseta de manga corta: ideal para días cálidos y actividades deportivas
 - Cuello redondo con puños acanalados: cómodo y estable
 - Corte ajustado: acentúa la forma del cuerpo y ofrece un aspecto moderno
-- Camiseta de manga corta: ideal para días cálidos y actividades deportivas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BG38X6X9{{</world>}}

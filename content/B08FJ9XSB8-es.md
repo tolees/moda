@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Artículos entregados: 1x helly hansen womens w snowplay jacket - ins jacket black xs
-- Helly tech performance
 - Cremallera en el bolsillo del pecho resistente al agua ykk
-- Producto bluesign
+- Helly tech performance
 - Sin pfc
+- Producto bluesign
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08FJ9XSB8{{</world>}}

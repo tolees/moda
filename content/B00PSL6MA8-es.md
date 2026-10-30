@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Camiseta || Ajuste normal || Cuello Redondo || Material duradero
-- Camiseta con las siguientes características:
 - Descubre todas las marcas de EMP!
 - Ajuste : Regular
+- Camiseta con las siguientes características:
+- Camiseta || Ajuste normal || Cuello Redondo || Material duradero
 - Básicos, Ropa casual, Ropa de Calle
 
 [🛒 Aquí!!!]({{< param buyurl >}})

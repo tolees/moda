@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- DETALLES: Cuenta con un corpiño entallado para facilitar su uso, un borde femenino con volantes y tirantes finos ajustables y extraíbles para ofrecer opciones de estilo versátiles. La falda fruncida de línea A ofrece una caída y movimiento hermosos. El color blanco está completamente forrado; todos los demás colores no están forrados.
-- SATÉN DE ALGODÓN: Este tejido está confeccionado con un satén de algodón ligero y semitransparente, que ofrece una sensación suave y superior.
 - VESTIDO CORTO FRUNCIDO: Este vestido corto fruncido es un vestido cómodo para el día a día. Combínalo con tus zapatillas favoritas para pasar un día explorando la ciudad o con sandalias para un look casual y desenfadado de verano.
+- DETALLES: Cuenta con un corpiño entallado para facilitar su uso, un borde femenino con volantes y tirantes finos ajustables y extraíbles para ofrecer opciones de estilo versátiles. La falda fruncida de línea A ofrece una caída y movimiento hermosos. El color blanco está completamente forrado; todos los demás colores no están forrados.
 - CORTE ESTÁNDAR: Corte ajustado pero cómodo en el pecho, la cintura y las caderas.
+- SATÉN DE ALGODÓN: Este tejido está confeccionado con un satén de algodón ligero y semitransparente, que ofrece una sensación suave y superior.
 - LONGITUD: 90,1 cm desde el borde superior del tirante hasta el dobladillo en la talla S de España.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

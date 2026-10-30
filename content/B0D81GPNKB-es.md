@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Alta calidad
-- Aspecto y tacto clásicos
 - Flexibles
 - Clarks Collection Sandals, Nerisa Pearl, Black/Black, 7,5 (Women)
+- Alta calidad
+- Aspecto y tacto clásicos
 - Cojín suave
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

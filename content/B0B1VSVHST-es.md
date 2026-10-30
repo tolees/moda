@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Ajuste: corte holgado
-- Cierre: cintura elástica
 - Cintura : Cintura alta
+- Cierre: cintura elástica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B1VSVHST{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JACKETOWN Polo para Hombre Polo Manga Larga Camiseta de Golf Trabajo Transpirable T Shirt con Bolsillo Primavera Otoño Camisetas de Senderismo Pesca Azul Oscuro L'
-date: 2026-10-25 14:46:22
+date: 2026-10-29 14:48:10
 image: 'https://m.media-amazon.com/images/I/41tJ639TFpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

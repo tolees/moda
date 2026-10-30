@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Acabado granulado
 - Dos asas superiores
+- Acabado granulado
 - Correa cruzada extraíble
 
 [🛒 Aquí!!!]({{< param buyurl >}})

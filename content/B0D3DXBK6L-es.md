@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Chaqueta corta negra
 - 2 bolsillos con cremallera
 - Cintura ajustada por una banda elástica en la espalda
 - Capucha extraíble con piel sintética
-- Chaqueta corta negra
 - Material: piel sintética
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

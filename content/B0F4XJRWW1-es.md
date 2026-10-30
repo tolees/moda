@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello redondo
 - Manga corta
+- Cuello redondo
 - Detalles gráficos en el pecho
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

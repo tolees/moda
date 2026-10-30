@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Colgar en la caja de zapatos
 - Hawi Mix M Sandalia de playa con diseño abstracto en suela de EVA
 - Tanga monocolor colgada en la caja de zapatos con logotipo clásico
+- Colgar en la caja de zapatos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FFTTNZN9{{</world>}}

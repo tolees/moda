@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Prenda básica imprescindible
 - Fácil de combinar
 - Fácil cuidado
-- Prenda básica imprescindible
 - Corte cómodo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

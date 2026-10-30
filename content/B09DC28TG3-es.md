@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Capucha con borde de pelo sintético
-- Cintura elástica Dos bolsillos delanteros con solapa y botón
 - Cierre frontal Dos bolsillos en el pecho con cierre de botones
+- Cintura elástica Dos bolsillos delanteros con solapa y botón
+- Capucha con borde de pelo sintético
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09DC28TG3{{</world>}}

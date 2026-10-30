@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tejido: Tejido de mezcla de algodón y poliéster [280 g / m2]
-- Bolsillos: bolsillo amplio
 - Serigrafía en parte delantera
+- Bolsillos: bolsillo amplio
 - Corte: corte normal, clásico, cómodo
+- Tejido: Tejido de mezcla de algodón y poliéster [280 g / m2]
 - tejido interior: cuerpo con tejido interior de punto jersey
 
 [🛒 Aquí!!!]({{< param buyurl >}})

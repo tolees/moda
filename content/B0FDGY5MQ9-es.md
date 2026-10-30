@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvin Klein Bolso bandolera Mujer Bold Camera Bag con logotipo Blanco White Alyssum Talla Única'
-date: 2026-10-28 00:33:06
+date: 2026-10-30 07:17:17
 image: 'https://m.media-amazon.com/images/I/21pJOVOwTdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FDGY5MQ9/?tag=tolees-21'
 descuento: '21.16'
-average: '53.4293749999998'
+average: '53.9917647058822'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

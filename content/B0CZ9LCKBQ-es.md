@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- AEROREADY
 - 100% poliéster (reciclado)
+- AEROREADY
 - Espacio para personalizarla
 - Corte clásico
 

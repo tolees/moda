@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Costuras resistentes
 - Algodón suave y transpirable
-- La tecnología de absorción de la humedad te mantiene seco y fresco
 - Sin etiquetas para evitar la irritación
+- La tecnología de absorción de la humedad te mantiene seco y fresco
 - Cuello oculto plano
 - Longitud clásica para ajustarla fácilmente por dentro de los pantalones
 

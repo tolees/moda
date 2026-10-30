@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Cuello de la pluma
 - Quiksilver woven label at sleeve.
 - Impresión de pantalla en chest
 - Tejido de algodón reciclado
-- Cuello de la pluma
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DPG547TH{{</world>}}

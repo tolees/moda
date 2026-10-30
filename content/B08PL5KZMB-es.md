@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Los sistemas patentados Geox ofrecen la transpirabilidad de la suela y el bienestar del pie
-- Calce fácil y regulable con cremallera y cordones
 - Altura del tacón: 5 cm / 2 inch
+- Calce fácil y regulable con cremallera y cordones
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08PL5KZMB{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseño anatómico
 - Elástico flexible en cuatro direcciones
+- Diseño anatómico
 - Tallaje normal
 
 [🛒 Aquí!!!]({{< param buyurl >}})

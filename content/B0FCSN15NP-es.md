@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cuello alto y cierre con cremallera
-- Manga larga
 - Sudadera de media cremallera
-- Mangas caídas y volumen
 - Sudadera de corte recto
+- Mangas caídas y volumen
+- Manga larga
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FCSN15NP{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Manga larga
 - Capucha con borde de piel sintética extraíble
 - Composición: Exterior: 100% Poliéster; Forro: 100% Poliéster; Padding: 100% Poliéster
-- Manga larga
 - Parka larga
 
 [🛒 Comprar!!!]({{< param buyurl >}})

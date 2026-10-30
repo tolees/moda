@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ligeras. flexibles. Comodidad de 360 grados
 - Personalizables con dijes Jibbitz
+- Ligeras. flexibles. Comodidad de 360 grados
 - Fáciles de limpiar y de secado rápido
 
 [🛒 Comprar!!!]({{< param buyurl >}})

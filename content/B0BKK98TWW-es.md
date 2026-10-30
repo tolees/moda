@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Hecho de algodón puro
-- Impresiones diferentes
-- Corte regular
-- Dos camisetas en un práctico paquete doble de Lonsdale
 - Cuello redondo clásico
+- Dos camisetas en un práctico paquete doble de Lonsdale
+- Corte regular
+- Impresiones diferentes
+- Hecho de algodón puro
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BKK98TWW{{</world>}}

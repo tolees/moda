@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Algodón
 - Sudadera con
+- Algodón
 - Cordón en la capucha
 - JACK & JONES Letras
 

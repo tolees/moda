@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Vaqueros Mujer Pure Slim Talle Medio Azul Pure 26W/28L'
-date: 2026-10-27 09:31:25
+date: 2026-10-30 14:39:33
 image: 'https://m.media-amazon.com/images/I/31VWEbTnFhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Hecho de poliéster/spandex de alta calidad
 - Calcetines deportivos diseño unisex
 - La parte inferior del calcetín antideslizante le brinda un gran equilibrio al andar en bicicleta, correr, caminar, etc
 - Una talla le queda a la mayoría
+- Hecho de poliéster/spandex de alta calidad
 - Lavado a mano o a máquina
 
 [🛒 Comprar!!!]({{< param buyurl >}})

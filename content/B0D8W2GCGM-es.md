@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cinturilla cómoda
-- Portañuela de doble capa para una sujeción
 - Pack de 3 para niños
 - Detalles de la marca PUMA
+- Portañuela de doble capa para una sujeción
+- Cinturilla cómoda
 - Tela elástica de algodón
 
 [🛒 Visítala!!!]({{< param buyurl >}})

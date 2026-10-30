@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Tejido superligero y transpirable con paneles de malla 3D Air Mesh a ambos lados para proporcionar una refrigeración estratégica durante el ejercicio.
 - Destellos atómicos en el cuello y el dobladillo para un estilo único.
-- El tejido QuickDry absorbe la humedad y el sudor de la piel manteniéndote seca y cómoda.
 - Excelencia aprobada por atletas – En TCA, diseñamos nuestra ropa deportiva con las aportaciones de los mejores atletas y entrenadores, garantizando rendimiento y durabilidad. Desde los entrenamientos diarios hasta el uso cotidiano, nuestro equipamiento deportivo te acompaña en todo momento. Supera tus límites con TCA, diseñado para atletas, hecho para todos.
+- El tejido QuickDry absorbe la humedad y el sudor de la piel manteniéndote seca y cómoda.
 - La impresión reflectante garantiza la visibilidad cuando se corre en el exterior.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

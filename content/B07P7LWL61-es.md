@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Tiene detalles distintivos de la marca
 - Ofrece comodidad y libertad de movimiento
-- Cintura elástica ajustable con cordón
 - Falda con pantalón interior
+- Cintura elástica ajustable con cordón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07P7LWL61{{</world>}}

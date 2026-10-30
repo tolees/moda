@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Mezclilla rígida lavada Authetnic Medium
-- 100% algodón
 - Chaqueta de camionero clásica con una silueta delgada
+- 100% algodón
+- Mezclilla rígida lavada Authetnic Medium
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DTJ8Y7ZG{{</world>}}

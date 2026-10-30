@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Bolsillos laterales, resistente al viento
+- Composición del material: exterior: 100% poliéster; forro: 100% poliéster; relleno: 100% poliéster; manga: 100% poliéster
 - Cremallera
 - Chaqueta acolchada para hombre con capucha
-- Composición del material: exterior: 100% poliéster; forro: 100% poliéster; relleno: 100% poliéster; manga: 100% poliéster
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B25M73QW{{</world>}}

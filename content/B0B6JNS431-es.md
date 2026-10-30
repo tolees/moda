@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ideal para combinar con vaqueros o pantalones cortos
-- Disponible en varios colores y diseños
 - Hecho de materiales suaves y duraderos
-- Cuello redondo cómodo
 - Camisetas versátiles para cualquier ocasión
+- Ideal para combinar con vaqueros o pantalones cortos
+- Cuello redondo cómodo
+- Disponible en varios colores y diseños
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B6JNS431{{</world>}}

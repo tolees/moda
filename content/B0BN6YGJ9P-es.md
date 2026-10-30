@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Entresuela de airbag visible Skech-Air
-- Skechers Detalle del logotipo
 - Parte superior de piel sintética duraleather
+- Skechers Detalle del logotipo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BN6YGJ9P{{</world>}}

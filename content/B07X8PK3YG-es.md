@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bolsillos delanteros para guardar cosas
-- Logotipo PUMA Cat en la parte derecha del pecho
-- Manga larga
 - Al comprar productos de algodón de PUMA, apoyas un cultivo de algodón más sostenible. Más información en PUMA.COM/FOREVERBETTER
+- Manga larga
+- Logotipo PUMA Cat en la parte derecha del pecho
+- Bolsillos delanteros para guardar cosas
 - Algodón, poliéster y elastano
 
 [🛒 Aquí!!!]({{< param buyurl >}})

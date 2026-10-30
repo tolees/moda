@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajuste moderno
 - Cuello de alta calidad
+- Ajuste moderno
 - Elegante camiseta de agradable mezcla de algodón
-- Ideal para combinar con vaqueros o pantalones cortos
 - Apto para lavadora
+- Ideal para combinar con vaqueros o pantalones cortos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BMZ2LJL1{{</world>}}

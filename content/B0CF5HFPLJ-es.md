@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - DETALLE 2: Súper cómodo
-- Sudadera de mujer
 - DETALLE 1: Logo Alpha en el pecho
+- Sudadera de mujer
 - FIT: Regular Fit
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

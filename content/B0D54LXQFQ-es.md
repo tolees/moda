@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con un pequeño logotipo de la marca en el pecho
 - Gran comodidad
+- Con un pequeño logotipo de la marca en el pecho
 - El tejido de punto de algodón es muy flexible en la piel y elástico
 
 [🛒 Comprar!!!]({{< param buyurl >}})

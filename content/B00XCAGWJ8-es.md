@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Corte cómodo
 - Prenda básica imprescindible
+- Corte cómodo
 - Fácil cuidado
 - Fácil de combinar
 

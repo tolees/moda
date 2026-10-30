@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tejido en lino de algodón con lavado suavizante a la silicona
 - Pantalón de lino con pata ancha para mujer
 - Cintura elástica y bordado con corazón Roxy en el bolsillo derecho trasero
+- Tejido en lino de algodón con lavado suavizante a la silicona
 - Características incluyen: corte con vuelo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

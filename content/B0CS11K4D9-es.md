@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Etiqueta de G-STAR tejida en la costura lateral
 - Puños con botones
+- Cuello de camisa con trabilla en el interior
 - Panel en los hombros, pinza para crear volumen debajo
 - Cierre de botones
-- Cuello de camisa con trabilla en el interior
+- Etiqueta de G-STAR tejida en la costura lateral
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CS11K4D9{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Jersey adecuado para uso en días de partido
-- PUMA logotipo para reconocimiento de marca
 - Ajuste cómodo para actividades atléticas
+- PUMA logotipo para reconocimiento de marca
+- Jersey adecuado para uso en días de partido
 - Diseño de cuello en V para un aspecto clásico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

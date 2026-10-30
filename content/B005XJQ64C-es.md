@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Altura: 23cm, Ancho: 18cm, Fondo: 2cm
-- Fabricada con 60% nylon y 40% poliéster
-- Bolso de compartimento único con mucho espacio
 - 0
+- Bolso de compartimento único con mucho espacio
+- Fabricada con 60% nylon y 40% poliéster
+- Altura: 23cm, Ancho: 18cm, Fondo: 2cm
 - Dos bolsillos delanteros con cremallera para que tengas todo en orden en tus aventuras
 
 [🛒 Comprar!!!]({{< param buyurl >}})

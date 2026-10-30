@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cierre de cordones
-- Forro textil
 - Empeine de piel y material sintético
+- Forro textil
 - Corte clásico
 
 [🛒 Visítala!!!]({{< param buyurl >}})

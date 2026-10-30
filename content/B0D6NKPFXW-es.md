@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Jeans Pantalones Largos
-- Instrucciones de cuidado: apto para lavadora
 - Composición: 68 por ciento de algodón 32 por ciento lyocell
+- Instrucciones de cuidado: apto para lavadora
 - Ajuste: pierna ancha de cintura alta
+- Jeans Pantalones Largos
 - Tipo de estiramiento: no elástico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

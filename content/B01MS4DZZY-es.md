@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Material exterior: cuero
 - Revestimiento: sintético
 - Material de la suela: sintético
-- Material exterior: cuero
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01MS4DZZY{{</world>}}

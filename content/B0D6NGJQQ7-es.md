@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Plantilla desmontable
-- Ligeras y transpirables
 - Con detalles distintivos de la marca
+- Ligeras y transpirables
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D6NGJQQ7{{</world>}}

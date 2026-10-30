@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'KIDDLETOWN Conjunto de ropa para niña Conjunto Niña de Sudadera y Leggings Ropa de 2 Piezas Camiseta Manga Larga Algodón Conjuntos de camisetas estampadas 1-2 años'
-date: 2026-10-20 00:47:25
+date: 2026-10-29 17:28:17
 image: 'https://m.media-amazon.com/images/I/31zl-0OJUmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

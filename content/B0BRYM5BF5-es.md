@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Manga larga con puños elásticos
+- Bolsillos con solapa en el pecho, bolsillos laterales con botón a presión oculto
 - Bolsillo y trabilla en el interior
 - Bajo recto con cordón ajustable en el interior
-- Bolsillos con solapa en el pecho, bolsillos laterales con botón a presión oculto
 - Cuello alzado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

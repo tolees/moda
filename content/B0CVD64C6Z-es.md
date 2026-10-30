@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Clarks Shoes, Mapstone Lace, Mahogany Leather, 10 (Men)
 - Material de la suela: goma
+- Clarks Shoes, Mapstone Lace, Mahogany Leather, 10 (Men)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CVD64C6Z{{</world>}}

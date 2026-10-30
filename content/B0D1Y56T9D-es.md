@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Single pack
 - Graphic detail on chest
+- Single pack
 - Provides comfort
-- Lightweight fabric
 - An original look
+- Lightweight fabric
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D1Y56T9D{{</world>}}

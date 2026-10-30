@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Suela ligera y flexible óptima para el uso diario
 - Ajuste cómodo
+- Suela ligera y flexible óptima para el uso diario
 - Clarks Cloudsteppers Shoes, Brinkley Emily, Black, 7 (Women)
 
 [🛒 Aquí!!!]({{< param buyurl >}})

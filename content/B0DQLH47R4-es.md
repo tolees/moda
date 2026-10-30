@@ -29,11 +29,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Artículo : Sudadera con capucha
+- Bolsillos : Bolsillo canguro
 - Manga : Manga larga
-- Cuello : Capucha
 - Corte : Corte relaxed
 - Mangas : Sisa en disminución
-- Bolsillos : Bolsillo canguro
+- Cuello : Capucha
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DQLH47R4{{</world>}}

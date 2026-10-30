@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte de forma sencilla
 - Con logotipo floral de Batwing
+- Corte de forma sencilla
 - Máxima comodidad gracias al algodón puro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tres posiciones para llevar al bebé
 - Probado en seguridad para bebés de 0 a 12 meses
+- Tres posiciones para llevar al bebé
 - Ajustable para adaptarse a la mayoría de los usuarios, desde la talla XS hasta la XL
 - Diseño ergonómico y soporte adjustable para la cabeza de tu bebé
 - Peso recomendado: desde 3,2 kg hasta 8 kg

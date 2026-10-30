@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Leggings || Longitud: Normal || altura de la cintura: Talla Grande
 - Descubre todas las marcas de EMP!
-- Básicos, Ropa de Calle
 - Ajuste : Estrechos
 - Leggins con las siguientes características:
+- Básicos, Ropa de Calle
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07P6HVVTH{{</world>}}

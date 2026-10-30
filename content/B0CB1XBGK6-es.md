@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bordado de G-Star RAW en el pecho
-- Manga larga y puños acanalados
-- Cuello redondo acanalado
 - Proporciona comodidad
+- Cuello redondo acanalado
+- Bordado de G-Star RAW en el pecho
 - Bajo recto con borde acanalado
+- Manga larga y puños acanalados
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CB1XBGK6{{</world>}}

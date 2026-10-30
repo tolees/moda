@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Manga Larga
 - Básica
+- Manga Larga
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DNK759RJ{{</world>}}

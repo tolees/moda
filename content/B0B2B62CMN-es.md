@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s 725 High Rise Bootcut Vaqueros Blue Wave Rinse 27W / 30L Mujer'
-date: 2026-09-22 22:00:44
+date: 2026-10-29 16:06:28
 image: 'https://m.media-amazon.com/images/I/31ngDUW7VPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0B2B62CMN/?tag=tolees-21'
 descuento: '50.00'
-average: '57.89'
+average: '57.4771428571429'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

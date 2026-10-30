@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillos en la cintura
-- Proporciona comodidad
 - Bajo recto con ribete elástico
-- Manga larga con ribetes
+- Proporciona comodidad
+- Bolsillos en la cintura
 - Cuello alzado, trabilla en el interior
+- Manga larga con ribetes
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CB1TPLQM{{</world>}}

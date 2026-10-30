@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Esta sudadera clásica de uso diario es una prenda imprescindible para un aspecto sencillo y casual
 - Tenga en cuenta que la talla que se encuentra en la etiqueta de cuidado de esta prenda corresponde al tamaño de EE. UU. Utilice las tablas de tallas que se encuentran en la página de detalles del producto para encontrar el tamaño equivalente.
 - Lo hacemos mejor cada día: afinamos cada detalle para garantizar la calidad, el ajuste y la comodidad
+- Esta sudadera clásica de uso diario es una prenda imprescindible para un aspecto sencillo y casual
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09QJHK3QR{{</world>}}

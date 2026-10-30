@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Para uso diario
 - Tiene detalles distintivos de la marca "Kappa"
+- Para uso diario
 - Prenda deportiva de vestir
 
 [🛒 Aquí!!!]({{< param buyurl >}})

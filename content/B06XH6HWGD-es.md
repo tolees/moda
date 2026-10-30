@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Helly Hansen Hombres Chaqueta aislante Dubliner Negro L'
-date: 2026-10-25 18:22:55
+date: 2026-10-30 12:36:49
 image: 'https://m.media-amazon.com/images/I/41t-CylJryL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XH6HWGD/?tag=tolees-21'
 descuento: '45.32'
-average: '88.4224999999999'
+average: '88.7707692307691'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Mezcla de algodón de alta calidad
-- Corte regular
-- Liso, básico
 - Paquete de 2, cuello redondo, manga corta
+- Liso, básico
+- Corte regular
 - Logotipo de la marca
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

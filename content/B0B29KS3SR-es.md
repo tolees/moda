@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Textura de piqué clásico
 - Este producto es original Levis
-- Fit ajustado para un look informal y desenfadado
-- Teñido en tonos azul déjà vu
 - Un polo refinado con estilo, versátil y todo menos aburrido
+- Fit ajustado para un look informal y desenfadado
+- Textura de piqué clásico
+- Teñido en tonos azul déjà vu
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B29KS3SR{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Correas de talón giratorias
 - Puertos de ventilación
+- Correas de talón giratorias
 - Efecto jaspeado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

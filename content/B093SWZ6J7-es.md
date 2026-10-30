@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre de cremallera
 - Bolsillo estilo canguro dividido
-- Paneles laterales y cintura acanalados
 - Puños acanalados, bajo redondeado
+- Paneles laterales y cintura acanalados
+- Cierre de cremallera
 - Capucha con cordón y parte delantera alzada
 
 [🛒 Visítala!!!]({{< param buyurl >}})

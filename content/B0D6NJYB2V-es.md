@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Geox ha creado un nuevo par de sandalias blancas
 - Este diseño tiene una parte superior sintética y suela sintética
-- Transpirables
 - Estos zapatos combinan los beneficios de una plantilla sintética y un forro sintético
+- Transpirables
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D6NJYB2V{{</world>}}

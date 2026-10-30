@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bajo ligeramente redondeado
 - Botón a presión en la manga para fijar la vuelta si se desea acortar el largo
-- Cuello de camisa
+- Bajo ligeramente redondeado
 - Bolsillos con solapa en el pecho
 - Panel en el hombro, trabilla tejida
+- Cuello de camisa
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CKBZTCQD{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mangas y hombros ergonómicos para un buen ajuste
 - Diseño flexible y detalles reflectantes
+- Mangas y hombros ergonómicos para un buen ajuste
 - Bolsillo y bolsillos laterales con cremallera
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

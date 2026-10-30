@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Talla: XXL
-- Color: negro
-- Instrucciones de cuidado: lavar a máquina
 - Estilo: informal
+- Talla: XXL
+- Algodón elástico termosellado
+- Instrucciones de cuidado: lavar a máquina
+- Color: negro
 - Material:
 - Logotipo frontal
-- Algodón elástico termosellado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B3VKYW6R{{</world>}}

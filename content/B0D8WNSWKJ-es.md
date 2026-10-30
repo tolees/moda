@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Panel en los hombros con trabilla, pinza cogida debajo para dar volumen
-- Puños con botones
 - Cierre de botones con un botón a presión
+- Panel en los hombros con trabilla, pinza cogida debajo para dar volumen
 - Proporciona comodidad
+- Puños con botones
 - Cuello de camisa
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Modo de vida : Tradicional
 - Cuello : Cuello redondo
+- Mangas : Sisa en disminución
 - Corte : Corte regular
 - Artículo : Camiseta
-- Mangas : Sisa en disminución
-- Modo de vida : Tradicional
 - Manga : Manga corta
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

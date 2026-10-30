@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Soft fabric
-- Ribbed hems
 - Nike es un nombre de marca reconocido
+- Ribbed hems
 - 3 pair pack
 - Tipo de deporte: Ropa deportiva atlética
 

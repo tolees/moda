@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Amortiguación óptima que ofrece protección y absorción de los impactos y esfuerzos
 - Refuerzo en la puntera y el talón
+- Amortiguación óptima que ofrece protección y absorción de los impactos y esfuerzos
 - Fácil y rápido de poner
 
 [🛒 Aquí!!!]({{< param buyurl >}})

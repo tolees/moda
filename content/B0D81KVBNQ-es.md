@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cojín suave
-- Aspecto y tacto clásicos
 - Flexibles
+- Aspecto y tacto clásicos
+- Cojín suave
 - Alta calidad
 - Clarks Sandals, Tuscan Strap, Light Green Sde, 5,5 (Women)
 

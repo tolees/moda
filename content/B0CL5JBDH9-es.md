@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Cierre de botón
 - Bolsillos delanteros
 - Puños abotonados
-- Cierre de botón
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CL5JBDH9{{</world>}}

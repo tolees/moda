@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material: Piel
 - Entresuela Microwobbleboard
+- Material: Piel
 - Suela: Caucho antideslizante
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cinta distintiva en el interior del cuello
 - Tommy Hilfiger Marca:
+- Cinta distintiva en el interior del cuello
 - Jersey de algodón puro
 - Cuello redondo
 

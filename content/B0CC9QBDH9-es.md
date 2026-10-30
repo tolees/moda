@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Calvin klein Cintura elástica distintiva
+- Suave y transpirable
 - Cintura baja
 - Acabado de pierna con borde plano
-- Suave y transpirable
-- Calvin klein Cintura elástica distintiva
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CC9QBDH9{{</world>}}

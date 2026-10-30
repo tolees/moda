@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- GUÍA DE TALLAS: elige la talla más adecuada para tu niño, siguiendo las indicaciones de la imagen
-- SANDALIAS: Sandalias de araña Chicco, con cómoda cierre con correa, ideales para la playa y la piscina
 - CHICCO: Siempre al lado de las familias, escuchando sus historias y necesidades; con nuestros productos innovadores, siempre respondemos a las nuevas necesidades de los padres y madres y de quienes cuidan a los niños
 - COMODIDAD: Las sandalias para la playa y la piscina Chicco son flexibles, ligeras y prácticas
+- SANDALIAS: Sandalias de araña Chicco, con cómoda cierre con correa, ideales para la playa y la piscina
+- GUÍA DE TALLAS: elige la talla más adecuada para tu niño, siguiendo las indicaciones de la imagen
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FDX2L6GY{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuenta con protección de barbilla
-- Hecha de material exterior ligero con columna de agua de 8000 mm
 - Chaqueta de esquí con forro acolchado
+- Hecha de material exterior ligero con columna de agua de 8000 mm
+- Cuenta con protección de barbilla
 - A prueba de viento y tiene costuras selladas
 - Con capucha y varios bolsillos con cierre de cremallera
 

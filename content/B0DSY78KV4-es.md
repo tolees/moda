@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseño cómodo y ligero
 - Detalles distintivos de la marca
+- Diseño cómodo y ligero
 - Con un tejido suave
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Detalle acolchado
 - Una sensación agradable y suave al tacto
+- Detalle acolchado
 - Aspecto elegante
 
 [🛒 Visítala!!!]({{< param buyurl >}})

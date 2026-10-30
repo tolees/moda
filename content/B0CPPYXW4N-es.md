@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox - B GISLI Boy C Zapatillas'
-date: 2026-10-28 14:21:53
+date: 2026-10-29 14:41:37
 image: 'https://m.media-amazon.com/images/I/31e8fw1d3pL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

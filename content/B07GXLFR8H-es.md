@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Camiseta Nike Nike Sportswear JDI AR5006 100 Blanco'
-date: 2026-08-26 06:08:22
+date: 2026-10-30 17:46:57
 image: 'https://m.media-amazon.com/images/I/41L8MC+NERL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Regular fit
-- Soft fabric
 - "Just do It" graphics
+- Soft fabric
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07GXLFR8H{{</world>}}

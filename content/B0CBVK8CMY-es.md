@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Piso flexible
 - Forro de piel
 - Sandalias de piel con tiras color cuero y metalizado
 - Cierre ajustable para facilitar el calce
+- Piso flexible
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CBVK8CMY{{</world>}}

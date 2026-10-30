@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El diseño moderno se une a la comodidad clásica
 - El estilo de 5 bolsillos no solo ofrece una funcionalidad práctica
+- El diseño moderno se une a la comodidad clásica
 - Corte ajustado con cintura media
 
 [🛒 Visítala!!!]({{< param buyurl >}})

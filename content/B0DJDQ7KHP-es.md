@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Corte: normal
 - Material principal: punto simple
-- Cuello: cuello redondo
 - Manga corta
+- Cuello: cuello redondo
 - Largo: corto
 
 [🛒 Visítala!!!]({{< param buyurl >}})

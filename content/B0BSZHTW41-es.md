@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- De material de fácil cuidado con porcentaje elástico
 - Con puños acanalados
 - Forma con cremallera
+- De material de fácil cuidado con porcentaje elástico
 - Cazadora de VERO MODA
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

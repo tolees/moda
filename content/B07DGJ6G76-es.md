@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fácil de usar
 - Impresión de alta calidad de los logotipos y de los diseños para una máxima durabilidad
+- Fácil de usar
 - 100% algodón de alta calidad
 - Ajuste atlético
 

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseño flexible
 - Producto de alta calidad
+- Diseño flexible
 - Ajuste regular y relación calidad-precio
 
 [🛒 Comprar!!!]({{< param buyurl >}})

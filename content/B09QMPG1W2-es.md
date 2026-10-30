@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Estilo informal
 - Jersey de manga larga
+- Estilo informal
 - Ajuste óptimo y gran comodidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})

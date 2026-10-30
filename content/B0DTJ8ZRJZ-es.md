@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Camiseta fácil de poner de Dickies
-- Completo con un lema "Never needs ironing" en el pecho y una caja con logotipo para invertir; solo en UO
 - Corte de punto de algodón con cuello redondo, mangas cortas y un ajuste cuadrado a través de la pierna
+- Completo con un lema "Never needs ironing" en el pecho y una caja con logotipo para invertir; solo en UO
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DTJ8ZRJZ{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Plantilla suave Feel Me
 - Forro interior suave
+- Plantilla suave Feel Me
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DVCHRB82{{</world>}}

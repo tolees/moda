@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mantén los elementos a raya con la capucha ajustable, los puños de las mangas y el dobladillo con cordón de ajuste
-- Contenido: 1x Columbia Hombre Chaqueta Pouring Adventure III, Color: Negro (Black, Koi), Talla: XXL, Art.: 2117171
 - Esta chaqueta ligera es impermeable y transpirable y cuenta con una capucha ajustable, bolsillos con cremallera para las manos y puños ajustables
+- Contenido: 1x Columbia Hombre Chaqueta Pouring Adventure III, Color: Negro (Black, Koi), Talla: XXL, Art.: 2117171
 - Compacta: la chaqueta se puede guardar dentro de su propio bolsillo para facilitar su transporte y almacenaje
+- Mantén los elementos a raya con la capucha ajustable, los puños de las mangas y el dobladillo con cordón de ajuste
 - Con tecnología impermeable Omni-Tech con costuras selladas transpirables
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

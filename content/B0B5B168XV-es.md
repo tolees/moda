@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Prenda de vestimenta
 - Estilo deportivo
 - Para uso diario
-- Prenda de vestimenta
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B5B168XV{{</world>}}

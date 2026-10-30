@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Sudadera funcional y ligera para ayudar a tus máximos rendimientos.
-- Ajuste (corte): ajuste ajustado (ajustado)
 - Gorilla Wear, La marca de culturismo, fitness, estilo de vida y artes marciales
-- Color: gris
 - Instrucciones de cuidado: lavar a 30 °C, lavado normal, no usar lejía, no secar en secadora, no planchar en caliente (110 °C), precaución al planchar con vapor, no lavar en seco
+- Ajuste (corte): ajuste ajustado (ajustado)
+- Color: gris
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08P5RZMZ2{{</world>}}

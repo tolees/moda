@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Instrucciones de mantenimiento: limpiar con un paño húmedo
 - Composición: 100% Cuero
 - Cinturón
+- Instrucciones de mantenimiento: limpiar con un paño húmedo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FH2PG6Y2{{</world>}}

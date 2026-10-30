@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Marca francesa
 - Fabricada en algodón elástico para una comodidad y libertad de movimientos óptimas
+- Marca francesa
 - Ropa interior con estampados modernos y cintura a la moda
 
 [🛒 Comprar!!!]({{< param buyurl >}})

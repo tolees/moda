@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Color: Liso
 - Manga: Larga
 - Cuello: de Camisa
-- Bolsillos delanteros
 - Fit: Straight
+- Color: Liso
 - Desigual
+- Bolsillos delanteros
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DW9HCYS7{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Este producto es original Levis
 - Unos vaqueros cómodos con pierna ceñida favorecedora
 - Diseñados para moldear las curvas, alargar las piernas y realzar tu figura
 - Cintura normal
+- Este producto es original Levis
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0897YMK8C{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Replica oficial primera equipación Real Madrid
 - Producto de calidad óptima
+- Replica oficial primera equipación Real Madrid
 - Tejido ligero
 
 [🛒 Aquí!!!]({{< param buyurl >}})

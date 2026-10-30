@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Imagen de la marca KARL LAGERFELD
 - Imagen de búho con tinta de efecto metálico
+- Imagen de la marca KARL LAGERFELD
 - Camiseta de punto de manga corta de algodón orgánico
 
 [🛒 Aquí!!!]({{< param buyurl >}})

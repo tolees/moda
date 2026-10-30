@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Logotipo impreso en posición en la parte delantera
 - Camiseta esencial de cuello redondo
+- Logotipo impreso en posición en la parte delantera
 - Manga corta y corte entallado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

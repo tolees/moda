@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Comodidad: con estampado en el cuello respetuoso con la piel
-- Forma del cuello: cuello redondo con ancho favorecedor
 - TODO ROUNDER: una camiseta básica óptima para deporte y ocio en un diseño limpio, cómoda y versátil combinable
+- Forma del cuello: cuello redondo con ancho favorecedor
 - Material: 100% algodón, agradable al tacto, antiestático, transpirable, 100% natural
 - Ajuste: corte regular
 

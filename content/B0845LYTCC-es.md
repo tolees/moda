@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 100 % poliéster
 - Manga corta
-- Cuello redondo
+- 100 % poliéster
 - dryCELL: Tecnología de PUMA con propiedades que alejan la humedad de la piel y te ayudan a mantenerte seco y cómodo
+- Cuello redondo
 - Logotipo del felino PUMA en la parte derecha del pecho
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

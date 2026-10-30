@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Media cremallera para regular la temperatura de forma óptima y permitir la transpiración, Cuello suave para mantener el cuello calentito
 - Contenido: 1x Columbia Hombre Chaqueta polar con media cremallera, Steens Mountain, Color: Marrón (Ancient Fossil), Talla: XL, Art.: 1620191
-- También adecuado para los fríos días de invierno paseando por la ciudad, Ajuste Regular: Universal, ajuste fácil para una cómoda amplitud de movimiento
 - Cómodos y cálidos para recorrer senderos, pasear al perro o sentarse alrededor de una hoguera
+- También adecuado para los fríos días de invierno paseando por la ciudad, Ajuste Regular: Universal, ajuste fácil para una cómoda amplitud de movimiento
 - Chaqueta de forro polar con media cremallera para hombre fabricada en forro polar suave y duradero, Suave y aislante para actividades en condiciones más frías
 
 [🛒 Aquí!!!]({{< param buyurl >}})

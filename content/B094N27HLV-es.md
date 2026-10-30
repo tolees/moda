@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Transpirables, regulan la humedad
 - Zona de los pies acolchada, costuras planas en los dedos
 - Mezcla de algodón suave y densa
+- Transpirables, regulan la humedad
 - 6 pares de calcetines de entrenamiento con el típico logotipo de Swoosh
 - Elástico extrasuave
 

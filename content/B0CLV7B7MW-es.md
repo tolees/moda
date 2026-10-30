@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Longitud estándar
-- Puños redondeados
 - Cuello abotonado
 - Corte estándar
+- Puños redondeados
+- Longitud estándar
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CLV7B7MW{{</world>}}

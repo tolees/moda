@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Manga corta
 - Serigrafía frontal y trasera de tacto suave
+- Manga corta
 - __Tejido:__ algodón [160 g/m2]
 - Etiqueta colgante en costura lateral
 - Etiqueta colgante en costura lateral

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El tejido de punto simple es agradable y suave en la piel
-- Cuello redondo clásico
-- Camiseta de manga corta, perfecta para los días más cálidos o como base de capas
 - Hecho de algodón cómodo para un uso cómodo
+- Cuello redondo clásico
+- El tejido de punto simple es agradable y suave en la piel
+- Camiseta de manga corta, perfecta para los días más cálidos o como base de capas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C36LMVT1{{</world>}}

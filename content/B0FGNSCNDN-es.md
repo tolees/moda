@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Desigual Camiseta sin Manga de la colección Mujer Azul XS'
-date: 2026-10-28 09:40:38
+date: 2026-10-30 10:48:11
 image: 'https://m.media-amazon.com/images/I/41meqsFb2HL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

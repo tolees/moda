@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Etiqueta G-STAR tejida en la parte inferior de la costura lateral
-- Mangas con dobladillo, fijo
-- Proporciona comodidad
-- Cuello acanalado
 - G-STAR Estampado en el pecho
+- Proporciona comodidad
+- Mangas con dobladillo, fijo
+- Cuello acanalado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DK5CQWFQ{{</world>}}

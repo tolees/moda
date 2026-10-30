@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mangas: hombros bajos
 - Ajuste: corte normal
+- Mangas: hombros bajos
 - Detalles: detalle de cordón, interior liso
 
 [🛒 Comprar!!!]({{< param buyurl >}})

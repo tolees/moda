@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- CAMISETA LIGERA DE RENDIMIENTO: Fabricada con materiales reciclados para uso diario transpirable
 - TEJIDO TRANSPIRABLE: Punto interlock suave de poliéster reciclado 100 % para comodidad ligera y ventilación
 - AJUSTE: Regular
+- CAMISETA LIGERA DE RENDIMIENTO: Fabricada con materiales reciclados para uso diario transpirable
 - ESTILO DEPORTIVO LIMPIO: Diseño estilizado de Reebok en color Grit Green para libertad de movimiento y look atlético
 - IDEAL PARA: Sesiones de entrenamiento y recuperación activa
 

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CAMISETA NIÑO: Cómoda camiseta de suave algodón. Esta prenda de Chicco es lavable a máquina, para una alta higiene
 - A LA MODA: Camiseta enriquecida con un gráfico a la moda. Está disponible en diferentes tamaños. Verifica cuál es el más adecuado para tu niño, eligiendo entre las tallas disponibles
+- CAMISETA NIÑO: Cómoda camiseta de suave algodón. Esta prenda de Chicco es lavable a máquina, para una alta higiene
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F8P9H4RB{{</world>}}

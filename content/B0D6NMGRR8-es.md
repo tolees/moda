@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Composición: 90 por ciento de algodón 7 por ciento elastomultiéster 3 por ciento de elastano
+- Instrucciones de cuidado: apto para lavadora
 - Jeans Pantalones Largos
 - Ajuste: cintura alta flaco
-- Instrucciones de cuidado: apto para lavadora
 - Tipo de estiramiento: alta elasticidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})

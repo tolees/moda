@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ajuste : Normal
 - Chaqueta || Ajuste normal || Color intenso || Material duradero
 - Chaqueta entre-tiempo con las siguientes características:
-- Básicos
+- Ajuste : Normal
 - Descubre todas las marcas de EMP!
+- Básicos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09KNKHZNV{{</world>}}

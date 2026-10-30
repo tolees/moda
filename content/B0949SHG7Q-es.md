@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Capucha: capucha fija de 3 paneles
-- Tejido Reciclado: Tejido de poliéster reciclado [70 g/m2]
 - Tejido interior: interior de tafetán
+- Capucha: capucha fija de 3 paneles
 - bolsillos: bolsillos con cremallera oculto
+- Tejido Reciclado: Tejido de poliéster reciclado [70 g/m2]
 - Corte: corte normal, clásico, cómodo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

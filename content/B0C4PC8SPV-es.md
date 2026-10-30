@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Estilo deportivo, cómoda sensación
-- Para uso diario
 - Prenda de vestir
+- Para uso diario
+- Estilo deportivo, cómoda sensación
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C4PC8SPV{{</world>}}

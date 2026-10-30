@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material: 100% algodón
 - Ajuste cómodo con el logotipo de Red Bull Racing Team impreso en el pecho
+- Material: 100% algodón
 - Nuestra clásica sudadera con capucha con logotipo del equipo en nuestro tejido de rizo de algodón elástico Loopback
 
 [🛒 Aquí!!!]({{< param buyurl >}})

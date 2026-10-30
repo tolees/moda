@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Máxima amortiguación
 - Plantilla Goga Air Cooled Matten
-- Amortiguación ultraligera
 - Slip-ins
+- Amortiguación ultraligera
 - Tecnología Rocker Natural
 
 [🛒 Visítala!!!]({{< param buyurl >}})

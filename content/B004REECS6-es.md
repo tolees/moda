@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Logo con tipografía grande en el pecho
-- 60% algodón, 40% poliéster
-- 100% original, lonsdale
 - Corte clásico
+- 60% algodón, 40% poliéster
 - Lavado a máquina
+- 100% original, lonsdale
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B004REECS6{{</world>}}

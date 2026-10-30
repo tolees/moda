@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuello de solapa
 - abrigo
+- Cuello de solapa
 - Composición: 100% poliéster
 
 [🛒 Aquí!!!]({{< param buyurl >}})

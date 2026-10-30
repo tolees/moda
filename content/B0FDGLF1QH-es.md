@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Material: 100% algodón
-- Pijama masculino manga corta
-- Colección mix and match green house
 - Lavado a máquina
+- Colección mix and match green house
+- Pijama masculino manga corta
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FDGLF1QH{{</world>}}

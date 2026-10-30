@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material exterior: poliéster
-- Slip On
-- Suela: goma
 - Material interior: sintético
+- Material exterior: poliéster
+- Suela: goma
+- Slip On
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B4NX9VMQ{{</world>}}

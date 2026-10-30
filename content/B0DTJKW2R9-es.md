@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Camiseta de manga corta con cuello redondo
-- 100 % algodón
 - Pepe jeans Obra de arte en la parte delantera
+- 100 % algodón
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DTJKW2R9{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Largo: Corto
-- Cuello: de Camisa
 - Fit: Regular
 - Manga: Larga
 - Color: Liso
+- Cuello: de Camisa
+- Largo: Corto
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DW9HYKVY{{</world>}}

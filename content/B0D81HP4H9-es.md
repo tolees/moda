@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Alta calidad
 - Flexibles
-- Cojín suave
 - Clarks Collection Sandals, Nerisa West, Black Nubuck, 6,5 (Women)
 - Aspecto y tacto clásicos
+- Alta calidad
+- Cojín suave
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D81HP4H9{{</world>}}

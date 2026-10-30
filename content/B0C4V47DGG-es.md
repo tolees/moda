@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Presentan detalles distintivos de la marca
 - Artículo de marca Love Moschino
+- Presentan detalles distintivos de la marca
 - Puede ser el accesorio adecuado para todos los conjuntos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

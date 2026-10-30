@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Azul claro con un efecto vintage lavado a la piedra
 - 100 % algodón
+- Azul claro con un efecto vintage lavado a la piedra
 - La versatilidad de una camisa vaquera se traduce en esta blusa femenina, hecha de algodón ligero
 
 [🛒 Comprar!!!]({{< param buyurl >}})

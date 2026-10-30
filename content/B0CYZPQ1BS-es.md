@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sandalias de piel forrada en piel
-- Plantilla de piel y muy acolchada
 - Piso de caucho flexible y confortable
+- Plantilla de piel y muy acolchada
+- Sandalias de piel forrada en piel
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CYZPQ1BS{{</world>}}

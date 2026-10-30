@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Zapatilla Senda MTB Unisex Blanco T. 38'
-date: 2026-07-04 09:34:42
+date: 2026-10-30 08:46:57
 image: 'https://m.media-amazon.com/images/I/31DMMmGRivL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0DX7F9CPN-es Zapatilla Senda MTB Unisex Blanco T. 38'
 sku: 'B0DX7F9CPN-es'
 tags: [ 'zapatilla','🇪🇸', ]
-actualPrice: 70.3 EUR
+actualPrice: 75.99 EUR
 currency: EUR
-price: 70.3
+price: 75.99
 comparePrice: 109.9 EUR
 prodname: 'Zapatilla Senda MTB Unisex Blanco T. 38'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DX7F9CPN/?tag=tolees-21'
-descuento: '36.03'
-average: '70.3'
+descuento: '30.86'
+average: '73.145'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,11 +28,6 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Para uso en pistas y terrenos irregulares, donde se necesite un apoyo puntual en el suelo.
-- Ajuste microrregulable rápido, preciso y sin esfuerzo gracias a su BOA Fit System.
-- Zapatilla de ciclismo de montaña equipada con BOA Fit System.
-- Suela de Composite Avanzado, con taqueado profundo y durable, y compatible con calas SPD.
-- Estética minimalista y funcional orientada a un uso exigente y de fácil limpieza.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DX7F9CPN{{</world>}}

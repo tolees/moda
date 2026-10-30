@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Un chubasquero para mujer versátil y que protege contra los elementos en climas cálidos y fríos
-- Chubasquero versátil para mujer
 - Exterior: 100% poliéster - Forro: 100% poliéster - Forro 2: 100% poliéster
+- Chubasquero versátil para mujer
 - Artículos entregados: 1x Helly Hansen Mujer Chubasquero Aden,XL,Azul marino
 
 [🛒 Visítala!!!]({{< param buyurl >}})

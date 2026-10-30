@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Puños elásticos
-- Nuestro forro WindWall combina permeabilidad al aire con un interior polar súper cálido
 - Bolsillo en el pecho
-- Dobladillo ajustable
 - Capucha ajustable
+- Nuestro forro WindWall combina permeabilidad al aire con un interior polar súper cálido
+- Puños elásticos
+- Dobladillo ajustable
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D9HJHXQN{{</world>}}

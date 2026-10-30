@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello de chimenea
 - Largo hasta la rodilla
+- Cuello de chimenea
 - Manga larga
 
 [🛒 Comprar!!!]({{< param buyurl >}})

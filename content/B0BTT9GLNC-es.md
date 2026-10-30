@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Con bolsillos laterales
 - Sudadera con cierre de cremallera frontal
 - Capucha ajustable mediante cordones
-- Con bolsillos laterales
 - Detalles distintivos de la marca
 
 [🛒 Comprar!!!]({{< param buyurl >}})

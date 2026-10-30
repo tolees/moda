@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Hebilla de metal
 - Accesorio ajustable
+- Hebilla de metal
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B017XHVGUK{{</world>}}

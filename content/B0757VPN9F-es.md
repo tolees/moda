@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Dimensiones: 15 x 20 x 7 cm
 - Correa al hombro ajustable de 120cm
 - Bolso bandolera con solapa y cierre magnético
 - Compartimento principal y bolsillo frontal
+- Dimensiones: 15 x 20 x 7 cm
 - Forro interior
 
 [🛒 Comprar!!!]({{< param buyurl >}})

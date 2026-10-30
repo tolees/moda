@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Footbed: Textured Rubber
-- Suela exterior: goma
 - Paquete: bolsa de plástico y colgador
+- Suela exterior: goma
 - Superior: goma con pin Roxy de metal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

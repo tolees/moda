@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Plantilla contorneada Goga Mat cómoda
-- Diseño de sandalia de río con correa ajustable en el tobillo
 - Suela de tracción flexible
+- Diseño de sandalia de río con correa ajustable en el tobillo
+- Plantilla contorneada Goga Mat cómoda
 - Amortiguación ligera y sensible ultra go
 
 [🛒 Comprar!!!]({{< param buyurl >}})

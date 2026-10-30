@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Placa metálica con la marca
 - __Tejido:__ doble gasa de algodón
-- Cuello con base
 - Placa metálica con la marca
+- Placa metálica con la marca
+- Cuello con base
 - Corte holgado
 
 [🛒 Comprar!!!]({{< param buyurl >}})

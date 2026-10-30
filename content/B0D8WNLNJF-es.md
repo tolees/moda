@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Una mirada original
 - Proporciona comodidad
 - Estampado gráfico de G-STAR en la parte delantera
+- Una mirada original
 - Cuello acanalado
 - Puños y cintura acanalados
 

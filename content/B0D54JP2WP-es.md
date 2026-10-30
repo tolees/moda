@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pequeño logotipo de Batwing
-- El tejido de punto de mezcla de algodón es elástico
 - Corte ajustado con cuello redondo
+- El tejido de punto de mezcla de algodón es elástico
+- Pequeño logotipo de Batwing
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D54JP2WP{{</world>}}

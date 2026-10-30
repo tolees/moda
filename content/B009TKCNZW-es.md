@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Transpirable y suave
-- Camiseta con estampado de logotipo
 - Cuello redondo
+- Camiseta con estampado de logotipo
 - Suave banda para cuello
+- Transpirable y suave
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B009TKCNZW{{</world>}}

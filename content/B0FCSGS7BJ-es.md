@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material: algodón, poliéster
-- Ajuste: __ normal
 - Bolsos: __ Ribbed Collar, Cuff and Bottom Hem
+- Ajuste: __ normal
 - Características del interior:
+- Material: algodón, poliéster
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FCSGS7BJ{{</world>}}

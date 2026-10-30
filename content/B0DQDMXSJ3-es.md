@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 100 % algodón
-- Logotipo artístico en el pecho y doble costura en las sisas
 - Sudadera con capucha de manga larga con cuello acanalado, puños y dobladillo
+- Logotipo artístico en el pecho y doble costura en las sisas
+- 100 % algodón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DQDMXSJ3{{</world>}}

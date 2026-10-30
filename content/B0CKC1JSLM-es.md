@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cuello de camisa
-- Panel en el hombro, pliegue cogido en la costura
-- Bajo recto y ligeramente largo por detrás con aberturas
-- Bolsillos en el pecho, uno de ellos doble
 - Botón con ojal en la manga para acortar el largo si se desea
+- Bolsillos en el pecho, uno de ellos doble
+- Bajo recto y ligeramente largo por detrás con aberturas
+- Panel en el hombro, pliegue cogido en la costura
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CKC1JSLM{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Longitud por encima de la cadera
 - Corte estándar
 - Pespunte de rombos
-- Longitud por encima de la cadera
 - Resistente al agua
 
 [🛒 Visítala!!!]({{< param buyurl >}})

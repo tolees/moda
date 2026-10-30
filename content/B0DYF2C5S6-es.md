@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Jersey manga larga punto aterciopelado
 - Corte recto
-- Manga larga
-- Botones decorativos en los puños
 - Punto acanalado
+- Jersey manga larga punto aterciopelado
 - Punto aterciopelado
+- Botones decorativos en los puños
 - Escote en v
+- Manga larga
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DYF2C5S6{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Chaleco acolchado con cuello embudo
-- 100% nailon
 - Forro de contraste; bolsillos con forro polar tipo polo
+- 100% nailon
+- Chaleco acolchado con cuello embudo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DTJBBTC9{{</world>}}

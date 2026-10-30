@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Color: negro Puma
 - Número de modelo: 523170
+- Color: negro Puma
 - Cuello alto; cierre de cremallera de un cuarto; logotipo de PUMA en el pecho izquierdo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

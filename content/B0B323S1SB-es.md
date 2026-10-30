@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello redondo
-- Composición: 100% algodón
 - Camiseta en paquete de 3 unidades
 - Corte estándar
+- Cuello redondo
+- Composición: 100% algodón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B323S1SB{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Logotipo en la parte delantera con corazón con alas
 - 85 % algodón, 15 % poliéster
+- Logotipo en la parte delantera con corazón con alas
 - Sudadera de cuello redondeado con acanalado en puños, dobladillo y cuello
 
 [🛒 Visítala!!!]({{< param buyurl >}})

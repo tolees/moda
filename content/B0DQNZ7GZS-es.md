@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Detalles : Interior de la prenda cepillado
 - Mangas : Sisa en disminución
-- Corte : Corte relaxed
-- Artículo : Sudadera
-- Cuello : Cuello redondo
 - Manga : Manga larga
+- Artículo : Sudadera
+- Corte : Corte relaxed
+- Cuello : Cuello redondo
+- Detalles : Interior de la prenda cepillado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DQNZ7GZS{{</world>}}

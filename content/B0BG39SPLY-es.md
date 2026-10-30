@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Hecho de algodón
 - Con fino punto acanalado en el cuello para mayor comodidad
+- Hecho de algodón
 - Nuestra camiseta Gant Shield para hombre tiene un pequeño logotipo bordado en el pecho
 
 [🛒 Comprar!!!]({{< param buyurl >}})

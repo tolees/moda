@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cómodo de llevar y suave al tacto
 - Aspecto clásico y elegante
+- Cómodo de llevar y suave al tacto
 - La pieza se puede vestir fácilmente de manera formal o informal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

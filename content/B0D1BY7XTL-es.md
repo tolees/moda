@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Artículo : Camisa
 - Cierre : Cierre de botones
 - Manga : Manga corta
-- Cuello : Cuello cubano
+- Artículo : Camisa
 - Corte : Corte relaxed
+- Cuello : Cuello cubano
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D1BY7XTL{{</world>}}

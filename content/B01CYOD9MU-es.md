@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cuenta con bolsillos laterales
-- Pantalones largos deportivos
 - Tiene detalles distintivos de la marca
+- Pantalones largos deportivos
 - Ofrece comodidad y libertad de movimiento
 
 [🛒 Comprar!!!]({{< param buyurl >}})

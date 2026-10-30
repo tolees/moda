@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- cintura elástica que se fija a la cintura, que se puede ajustar mediante cordones.
 - cuenta con dos bolsillos laterales con cremallera
+- cintura elástica que se fija a la cintura, que se puede ajustar mediante cordones.
 - Pantalón largo con tejido cálido y suave al tacto que abriga y protege del frío.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

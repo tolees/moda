@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cierre de cremallera y botón
-- Tinte de prenda
 - Parches
 - Composición: 98 % algodón
+- Tinte de prenda
 - 2 % elastano
 
 [🛒 Visítala!!!]({{< param buyurl >}})

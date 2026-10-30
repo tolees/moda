@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - LEVIS TAB: Existen diferentes variaciones de la conocida lengüeta roja. Todos los productos son originales de Levis, no importa si pone LEVIS, Levis, no está escrito o es de otro color.
 - Confeccionada con un corte holgado
-- Una sudadera con capucha de inspiración vintage
 - Capucha con cordones
+- Una sudadera con capucha de inspiración vintage
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CNHC181S{{</world>}}

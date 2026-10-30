@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Model: Pld 4137/s
+- Size: 58 Millimetres
 - Protective case Included
 - GAFAS SOL PLD 4137/S PARA HOMBRE POLARIZADO TALLA 58/15/145
 - Colour: PJP/C3 BLUE
-- Size: 58 Millimetres
+- Model: Pld 4137/s
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BS74DVQC{{</world>}}

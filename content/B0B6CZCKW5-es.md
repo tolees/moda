@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Paneles laterales y cintura acanalados
+- Capucha con parte delantera alzada y cordón ajustable
 - Bolsillo estilo canguro dividido
 - Cierre de cremallera
-- Capucha con parte delantera alzada y cordón ajustable
 - Puños acanalados, bajo redondeado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Klavado/acabado : Rasgaduras abiertas
-- Bolsillos : Bolsillos traseros, Bolsillo relojero, Bolsillos delanteros
 - Cierre : Bragueta de botones
-- Artículo : Jeans de corte slim
-- Corte : Vaqueros ajustados con talla media, muslo fino, rodilla fina, apertura ajustada en la pierna
 - Cintura : Tiro bajo
+- Artículo : Jeans de corte slim
+- Bolsillos : Bolsillos traseros, Bolsillo relojero, Bolsillos delanteros
+- Corte : Vaqueros ajustados con talla media, muslo fino, rodilla fina, apertura ajustada en la pierna
+- Klavado/acabado : Rasgaduras abiertas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CNS3SC2X{{</world>}}

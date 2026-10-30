@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Relaxed Fit
-- Punto grueso
 - Puños de canalé
-- Manga larga
-- Cuello redondo de punto ribeteado
+- Relaxed Fit
 - Logotipo de Carhartt estampado en el pecho
+- Manga larga
+- Punto grueso
+- Cuello redondo de punto ribeteado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0843PRJBZ{{</world>}}

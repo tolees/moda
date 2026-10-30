@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte : Corte relaxed
-- Mangas : Sisa en disminución
 - Artículo : Camiseta
-- Cuello : Cuello redondo
+- Mangas : Sisa en disminución
+- Corte : Corte relaxed
 - Manga : Manga corta
-- Estampado : Estampado con pigmentos para un acabado delicado en los tejidos más ligeros
+- Cuello : Cuello redondo
 - Modo de vida : Tradicional
+- Estampado : Estampado con pigmentos para un acabado delicado en los tejidos más ligeros
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BHY6RC6Y{{</world>}}

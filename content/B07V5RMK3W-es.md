@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Colección: Pasajeros
 - Calidad suave y antibacteriana, también apto para pieles sensibles
+- Colección: Pasajeros
 - Patrón: monocolor
 - Material transpirable con zonas reguladoras de la humedad
 

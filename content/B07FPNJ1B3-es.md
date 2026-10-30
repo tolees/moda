@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Look naturalmente desgastado creado a mano
 - Vaqueros slim fit para una silueta estilizada
+- Look naturalmente desgastado creado a mano
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07FPNJ1B3{{</world>}}

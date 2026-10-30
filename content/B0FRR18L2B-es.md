@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- ALGODÓN ACANALADO Y MODAL: la mezcla transpirable de algodón y modal ofrece una sensación suave y tersa con un estiramiento ligero
 - CAMISETA DE TIRANTES DE USO DIARIO: esta versátil camiseta de tirantes es ideal para ponértela debajo de un cárdigan o para usarla sola en salidas informales y días calurosos
 - DETALLES: con tirantes finos, silueta ajustada, uso versátil y paquete de 2 unidades para una buena relación calidad-precio
-- ALGODÓN ACANALADO Y MODAL: la mezcla transpirable de algodón y modal ofrece una sensación suave y tersa con un estiramiento ligero
 - CORTE AJUSTADO: ajuste ceñido en hombros, cuerpo y mangas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

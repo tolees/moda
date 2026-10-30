@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bolsillo izquierdo en el pecho y bolsillos para las manos con cremalleras VISLON cerradas en el exterior
-- Logotipo Windwall transferido por calor en la manga trasera izquierda
-- Cierre de gancho y bucle en la parte central delantera en el reverso
 - Logotipo bordado en el bolsillo izquierdo del pecho y en la parte trasera del hombro derecho del exterior
+- Cierre de gancho y bucle en la parte central delantera en el reverso
+- Logotipo Windwall transferido por calor en la manga trasera izquierda
+- Bolsillo izquierdo en el pecho y bolsillos para las manos con cremalleras VISLON cerradas en el exterior
 - Cordón interno con trabas en el dobladillo para ajuste
 
 [🛒 Comprar!!!]({{< param buyurl >}})

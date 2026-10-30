@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Manga larga
 - 40% poliéster
-- Cuello en V con bordado de encaje
 - Ajuste regular
+- Cuello en V con bordado de encaje
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B071JYLV2K{{</world>}}

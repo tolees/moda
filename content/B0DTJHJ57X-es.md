@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Manga larga de ajuste regular en jersey individual
 - Logotipo impreso en la parte delantera
+- Manga larga de ajuste regular en jersey individual
 - 100 % algodón
 
 [🛒 Visítala!!!]({{< param buyurl >}})

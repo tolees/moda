@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Básicos
 - Chaqueta de Invierno con las siguientes características:
-- Descubre todas las marcas de EMP!
 - Ajuste : Normal
+- Descubre todas las marcas de EMP!
+- Básicos
 - Chaqueta || Ajuste normal || Color intenso || Material duradero
 
 [🛒 Aquí!!!]({{< param buyurl >}})

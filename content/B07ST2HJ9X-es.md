@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Medio
 - piel
+- Medio
 - Scratch
 - Plano
 

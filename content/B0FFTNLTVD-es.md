@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Colección SS27MC: parte de la colección.
 - Jersey simple: construcción auténtica del tejido con un aspecto y tacto premium.
 - Múltiples tallas y longitudes de entrepierna: disponible en tallas 4-16 y entrepiernas para un ajuste a medida.
 - Estilo distintivo: camiseta de cuello redondo. Mangas cortas. Marca impresa centrada en el frente.
-- Colección SS27MC: parte de la colección.
 - Mezcla de tejido premium: hecha 100% algodón para comodidad, flexibilidad y durabilidad.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

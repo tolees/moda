@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diseño ligero que ofrece comodidad
 - Modelo con un diseño simple
+- Diseño ligero que ofrece comodidad
 - Cintura elástica ajustable
 - Adecuado para correr o para cualquier otra actividad deportiva
 

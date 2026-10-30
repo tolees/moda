@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- A máx. Lavar a 40 grados
-- Camiseta de manga corta para hombre
 - Hecho de algodón suave y cómodo
+- Camiseta de manga corta para hombre
+- A máx. Lavar a 40 grados
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BHXHM3WF{{</world>}}

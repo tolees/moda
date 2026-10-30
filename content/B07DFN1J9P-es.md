@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cómoda capucha para proteger de la lluvia y el viento
-- Cuello alto con cierre a presión
 - Ajuste regular
 - Chaqueta acolchada hasta el muslo
+- Cuello alto con cierre a presión
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07DFN1J9P{{</world>}}

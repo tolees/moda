@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- No olvides empacar uno de ellos para tus vacaciones
 - Sensación suave al tacto que garantiza un ajuste cómodo
 - Tejido transpirable
+- No olvides empacar uno de ellos para tus vacaciones
 - Urban Classics Camiseta para hombre ultrapesada de gran tamaño Bottlegreen
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello acanalado
 - Panel en los hombros
-- Cierre de botón sin ojales
+- Cuello acanalado
 - Aberturas laterales
 - Bolsillos en las costuras laterales
+- Cierre de botón sin ojales
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D8WLQ6VR{{</world>}}
