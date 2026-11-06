@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tela con acabado opaco
 - Cremallera completa
+- Tela con acabado opaco
 - Chaqueta ligera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

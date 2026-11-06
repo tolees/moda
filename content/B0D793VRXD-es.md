@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Elástico flexible en cuatro direcciones
-- Diseño anatómico
 - Tallaje normal
+- Diseño anatómico
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D793VRXD{{</world>}}

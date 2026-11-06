@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Proporciona comodidad
 - Bordado de G-STAR RAW en el pecho
+- Proporciona comodidad
 - Cuello e inserción acanalados
 - Aberturas laterales
 - Etiqueta de G-STAR Originals tejida en la costura lateral inferior

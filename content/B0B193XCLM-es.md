@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Detalles de encaje en el escote y cuello en V.
 - Top para mujer. Tirantes delgados.
+- Detalles de encaje en el escote y cuello en V.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B193XCLM{{</world>}}

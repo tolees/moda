@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cómodo acanalado en puños y dobladillo
 - Cuello acanalado.
+- Cómodo acanalado en puños y dobladillo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DLYYCL3L{{</world>}}

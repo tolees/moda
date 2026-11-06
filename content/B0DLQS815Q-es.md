@@ -28,16 +28,16 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Omni-Tech impermeable/transpirable con costuras selladas
-- Puños ajustables en las mangas
-- Capucha ajustable con cordón
-- Solapa frontal central
-- Bolsillos con cremallera
-- Forro polar
-- Cremallera central de 2 vías
-- Puños cómodos con agujero para el pulgar.
-- Cintura ajustable con cordón
 - Cola caída
+- Cremallera central de 2 vías
+- Cintura ajustable con cordón
+- Bolsillos con cremallera
+- Puños ajustables en las mangas
+- Omni-Tech impermeable/transpirable con costuras selladas
+- Capucha ajustable con cordón
+- Forro polar
+- Solapa frontal central
+- Puños cómodos con agujero para el pulgar.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DLQS815Q{{</world>}}

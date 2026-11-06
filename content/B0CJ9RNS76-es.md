@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Protege tus ojos de los rayos de luz
-- Cómodas de llevar
 - Gafas de sol
+- Cómodas de llevar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CJ9RNS76{{</world>}}

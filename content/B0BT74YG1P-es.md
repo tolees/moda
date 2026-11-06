@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello alto; cierre de cremallera de un cuarto; logotipo de PUMA en el pecho izquierdo
 - Número de modelo: 523170
+- Cuello alto; cierre de cremallera de un cuarto; logotipo de PUMA en el pecho izquierdo
 - Color: negro Puma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

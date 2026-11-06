@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cuero, Cinturón
-- Anchura: 3,8 cm
 - Acabado de la hebilla: Rodillo de níquel
+- Anchura: 3,8 cm
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZXSKLHR{{</world>}}

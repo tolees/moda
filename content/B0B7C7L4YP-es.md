@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hot Wheels Skate Tony Hawk Fingerboard y Zapatos Skate Modelos Variados | Diseñado en colaboración con Tony Hawk 1 fingerboard y 1 par de zapatos extraíbles HGT46'
-date: 2026-11-01 08:29:43
+date: 2026-11-05 19:45:06
 image: 'https://m.media-amazon.com/images/I/517Ko-6ve0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0B7C7L4YP/?tag=tolees-21'
 descuento: '59.92'
-average: '3.094'
+average: '2.7814285714285716'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

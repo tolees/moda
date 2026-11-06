@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseño moderno
 - Otorga libertad de movimientos
+- Diseño moderno
 - Tiene detalles distintivos de la marca
 - Tejido elástico para mayor comodidad
 

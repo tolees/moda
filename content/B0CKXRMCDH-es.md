@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mediasuela de EVA
 - Peso: 390 g (talla 42 2/3)
-- RAIN.RDY
-- Suela Traxion
+- Empeine textil con puntera reforzada
+- Mediasuela de EVA
 - Drop: 10 mm (talón: 27 mm / antepié: 17 mm)
 - Lengüeta reforzada
-- Empeine textil con puntera reforzada
+- RAIN.RDY
 - Contiene al menos un 20% de material reciclado y renovable
+- Suela Traxion
 - Horma clásica
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

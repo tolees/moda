@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ofrecen una comodidad óptima
 - Con trabilla para calzar
+- Ofrecen una comodidad óptima
 - Transpirables y ligeras
 
 [🛒 Aquí!!!]({{< param buyurl >}})

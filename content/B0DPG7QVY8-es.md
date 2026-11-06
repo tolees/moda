@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Terry francés
 - Ajuste: __ Relax Fit
 - Conscious by Naturaleza: __ Poliéster reciclado
-- Terry francés
 - Peso del material: 350 g/m2
 
 [🛒 Aquí!!!]({{< param buyurl >}})

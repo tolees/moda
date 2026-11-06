@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Estampado floral
-- Fit: Regular
 - Manga: Larga
-- Abotonadura frontal
+- Fit: Regular
+- Estampado floral
 - Cuello: de Camisa
+- Abotonadura frontal
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DW9G7MSP{{</world>}}

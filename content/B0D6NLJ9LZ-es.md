@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Adecuadas para llevar a diario
 - Ligeras y transpirables
+- Adecuadas para llevar a diario
 - Diseño relajado y veraniego
 
 [🛒 Comprar!!!]({{< param buyurl >}})

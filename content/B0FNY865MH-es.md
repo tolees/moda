@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- SANDALIAS PLANAS
-- V-26
-- MUJER
-- NEGRO-NEGRO
 - Sandalias Planas Mujer Skechers Ultra Flex 3.0 All About U Negro-Negro
+- V-26
+- NEGRO-NEGRO
+- SANDALIAS PLANAS
+- MUJER
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FNY865MH{{</world>}}

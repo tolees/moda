@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillo con cremallera en el pecho, bolsillos laterales con botón a presión oculto
 - Panel trasero largo
-- Cierre de cremallera
 - Cuello alzado
+- Bolsillo con cremallera en el pecho, bolsillos laterales con botón a presión oculto
+- Cierre de cremallera
 - Bolsillo y trabilla en el interior
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

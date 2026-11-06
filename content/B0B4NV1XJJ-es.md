@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Enhebrar
-- Sintético
 - Caucho
+- Sintético
 - poliéster
 - Sin tacón
 

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Deportiva con un estilo activo
-- Con luces integradas en la suela para encender la diversión a cada paso
 - Amortiguado y cómodo
+- Con luces integradas en la suela para encender la diversión a cada paso
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FB44DVW4{{</world>}}

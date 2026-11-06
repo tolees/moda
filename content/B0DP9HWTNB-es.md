@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material: algodón [160 g/m2]
-- Quiksilver branding embroidery on chest
 - Collar de la cinta
 - Quiksilver recycled woven label pack
+- Material: algodón [160 g/m2]
+- Quiksilver branding embroidery on chest
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DP9HWTNB{{</world>}}

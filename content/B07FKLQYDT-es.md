@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Chaqueta con cremallera central
-- Ofrece comodidad y libertad de movimiento
 - Capucha ajustable con cordón elástico
+- Ofrece comodidad y libertad de movimiento
+- Chaqueta con cremallera central
 - Producto hecho con un material de calidad y resistente
 
 [🛒 Visítala!!!]({{< param buyurl >}})

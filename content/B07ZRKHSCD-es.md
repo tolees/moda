@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Tipo de fábrica: 100% Polyester
-- Chaqueta de navegación costera totalmente impermeable
-- Tejido Helly Tech Performance e impermeable, cortavientos y transpirable
 - Tipo de deporte: Outdoor Sports Apparel
 - 60 gramos de aislamiento Sintético
+- Chaqueta de navegación costera totalmente impermeable
+- Tejido Helly Tech Performance e impermeable, cortavientos y transpirable
 - Cuello alto perfilado y sellos ajustables de doble puño
 
 [🛒 Visítala!!!]({{< param buyurl >}})

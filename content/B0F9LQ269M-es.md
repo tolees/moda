@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Parte superior de ante y piel sintética, con tiras autoadherentes ajustables para un ajuste personalizado.
 - Fabricado con una entresuela Techlite para un equilibrio óptimo, cúpulas de deflexión que alivian el impacto, ranuras de flexión para mejorar la agilidad y una plantilla antimicrobiana.
+- Parte superior de ante y piel sintética, con tiras autoadherentes ajustables para un ajuste personalizado.
 - Sandalias Columbia Konos Hiker 2 tiras para hombre ideales para senderos escarpados, caminos rocosos y entornos húmedos
 - Contenido: 1x Columbia Sandalia Konos Hiker de 2 Correas para Hombre, Color: Negro (Black, Titanium II), Talla: 42 EU
 - Con goma de tracción Omni-Grip que no deja marcas, fabricada con materiales duraderos y transpirables, así como un sistema Omni-Max para mayor estabilidad.

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Capucha desmontable para mayor seguridad
 - Detalles reflectantes
+- Capucha desmontable para mayor seguridad
 - Puños acanalados
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Silver
 - Talla 56/17/140
 - NO
-- Silver
 - Garantía internacional de 2 años
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

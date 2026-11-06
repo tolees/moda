@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tamaño: 36-42
-- Marca: JARSEEN
 - JARSEEN 3 Caja Regalo Navidad Calcetines Dia de san Valentin Super Suaves Cómodos Calentar Mujer DIY Rosa, Amarillo, Morado, EU 36-42
+- Marca: JARSEEN
 - Tipo de producto: SOCKS
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

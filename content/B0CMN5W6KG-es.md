@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño con cuello alto y media cremallera con solapa para una mayor protección contra el viento y el frío
 - Capa interior de tejido micropolar para retener el calor corporal
+- Diseño con cuello alto y media cremallera con solapa para una mayor protección contra el viento y el frío
 - Transpirable: índice de transpirabilidad de 10 000 g/m²/día
 - Capa exterior resistente al agua hasta 10 000 mm de columna de agua
 - Membrana intermedia de TPU con protección cortavientos

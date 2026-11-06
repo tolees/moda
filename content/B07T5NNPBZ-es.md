@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Soft Viscose quality
 - Rollneck knit pullover
+- Soft Viscose quality
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07T5NNPBZ{{</world>}}

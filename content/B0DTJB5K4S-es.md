@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sudadera de cuello redondeado con acanalado en puños, dobladillo y cuello
 - Logotipo en la parte delantera con corazón con alas
 - 85 % algodón, 15 % poliéster
+- Sudadera de cuello redondeado con acanalado en puños, dobladillo y cuello
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DTJB5K4S{{</world>}}

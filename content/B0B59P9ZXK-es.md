@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Ofrece comodidad y libertad de movimiento
-- Ajuste regular
 - Camiseta deportiva de manga corta
+- Ajuste regular
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B59P9ZXK{{</world>}}

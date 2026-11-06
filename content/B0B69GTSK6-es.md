@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tiene detalles distintivos de la marca
-- Ofrece comodidad y libertad de movimiento
 - Tejido transpirable
+- Ofrece comodidad y libertad de movimiento
 - Tela suave
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

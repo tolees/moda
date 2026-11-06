@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre : Bragueta de botones
-- Cintura : Talle medio
 - Artículo : Corte slim straight
+- Cintura : Talle medio
+- Cierre : Bragueta de botones
 - Corte : Vaqueros slim/recto de tiro regular, muslo ajustado, rodilla ajustada, abertura de pierna delgada
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cojín suave
 - Flexibles
 - Aspecto y tacto clásicos
-- Cojín suave
 - Piel transpirable
 - Alta calidad
 

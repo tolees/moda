@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Aberturas laterales
+- Manga corta
 - Proporciona comodidad
 - Una mirada original
-- Manga corta
 - Cuello redondo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

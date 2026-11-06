@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Coderas acolchadas
 - 100% poliéster (reciclado)
+- AEROREADY
 - Corte entallado
 - Cuello redondo de canalé
-- AEROREADY
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CZ9LW62X{{</world>}}

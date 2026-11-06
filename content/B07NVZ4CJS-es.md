@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Corte clásico.
-- Escote en V
 - Mangas cortas
+- Escote en V
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07NVZ4CJS{{</world>}}

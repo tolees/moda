@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - El tejido que utilizamos cuenta con una confección ligera, suave y de secado rápido
-- 60 % algodón/40 % poliéster
 - Confección con material elástico en 4 direcciones que permite una mayor movilidad en cualquier dirección
 - Tejido Charged Cotton que ofrece la comodidad del algodón, pero se seca más rápidamente
+- 60 % algodón/40 % poliéster
 - Encontrarás miles de camisetas estampadas, pero ninguna como las de Under Armour
 
 [🛒 Comprar!!!]({{< param buyurl >}})

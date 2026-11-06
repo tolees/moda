@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Clarks Collection Shoes, Sailview Step, Light Tan Nubuck, 9 (Men)
-- Cordones ajustables
 - Antideslizante
+- Cordones ajustables
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CZ3NNQNR{{</world>}}

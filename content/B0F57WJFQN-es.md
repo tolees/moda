@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- 70 % algodón, 30 % poliéster
 - Sudadera con capucha en tela de mezcla de algodón y poliéster, con pequeño logotipo bordado en el lado del pecho
 - Etiqueta tejida con logotipo insertado en la costura lateral y cinta interior del cuello de color en contraste
-- 70 % algodón, 30 % poliéster
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F57WJFQN{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ideales para tus partidos y/o entrenamientos.
 - 100% Poliéster. Lavar a máquina a 30º. No usar lejía.
-- Omini de Kappa silueteado en la parte delantera inferior de la pierna izquierda.
 - Pantalon corto equipación fútbol Kappa
+- Ideales para tus partidos y/o entrenamientos.
 - Estos pantalones forman parte de la colección más deportiva de Kappa.
+- Omini de Kappa silueteado en la parte delantera inferior de la pierna izquierda.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09VPY3HHH{{</world>}}

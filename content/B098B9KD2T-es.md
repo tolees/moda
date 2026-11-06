@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La innovadora tecnología de sellado Air Seals tiene forma de nido de abeja para comprimirse y adaptarse a la cara proporcionando una sensación de gran ligereza. Las lentes panorámicas anchas proporcionan una visión lateral ampliada. Protección UV.
 - Las gafas de natación más tecnológicas para nadadores fitness, que combinan la ligereza de la innovadora tecnología de sellado Air Seals y la claridad de la tecnología Swipe Anti-Fog.
 - La protección Swipe Anti-Fog dura 10 veces más y se puede reactivar frotando las lentes con los dedos.
 - 50% policarbonato, 30% elastómero termoplástico, 20% silicona
+- La innovadora tecnología de sellado Air Seals tiene forma de nido de abeja para comprimirse y adaptarse a la cara proporcionando una sensación de gran ligereza. Las lentes panorámicas anchas proporcionan una visión lateral ampliada. Protección UV.
 - Diseñado para nadadores habituales y triatletas que quieren el mejor equipo que existe.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

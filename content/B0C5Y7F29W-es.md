@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Crops
 - Este producto es original Levis
+- Crops
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C5Y7F29W{{</world>}}

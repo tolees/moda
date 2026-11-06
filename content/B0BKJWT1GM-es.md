@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dos camisetas en un práctico paquete doble de Lonsdale
 - Corte regular
 - Hecho de algodón puro
+- Dos camisetas en un práctico paquete doble de Lonsdale
 - Cuello redondo clásico
 - Impresiones diferentes
 

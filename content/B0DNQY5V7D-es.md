@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Inserciones de malla en las sisas
-- Cuello redondo de canalé
-- AEROREADY
-- Corte entallado
 - 100% poliéster (reciclado)
+- AEROREADY
+- Cuello redondo de canalé
+- Corte entallado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DNQY5V7D{{</world>}}

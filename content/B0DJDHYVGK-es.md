@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Tejido de punto plano
 - Ajuste estándar
 - Diseño con capucha
-- Tejido de punto plano
 - Cierre de cremallera
 - Chaqueta de longitud estándar
 

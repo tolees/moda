@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Camiseta manga corta de la colección mujer
 - Colección primavera-verano
 - Hecho en: India
 - Color: Blanco
+- Camiseta manga corta de la colección mujer
 - 95 % algodón, 5 % elastano
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fácil de limpiar
 - Hecho de etileno acetato de vinilo
+- Fácil de limpiar
 - Zuecos clásicos para niños de la marca Crocs
 
 [🛒 Visítala!!!]({{< param buyurl >}})

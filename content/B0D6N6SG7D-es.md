@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clarks - Motion Trek Mix de los Hombres Black'
-date: 2026-11-04 12:02:00
+date: 2026-11-05 16:41:24
 image: 'https://m.media-amazon.com/images/I/31xPqhrQTNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0D6N6SG7D/?tag=tolees-21'
 descuento: '30.02'
-average: '48.4142857142858'
+average: '50.231250000000081'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

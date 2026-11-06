@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- NO
 - Garantía internacional de 2 años
 - Transparent light grey
-- NO
 - Talla 55/18/145
 
 [🛒 Comprar!!!]({{< param buyurl >}})

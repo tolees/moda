@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cintura elástica con cordón ajustable
-- Prácticos bolsillos laterales
 - Tejido ligero de secado rápido para actividades acuáticas
+- Prácticos bolsillos laterales
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FBYG6TV1{{</world>}}

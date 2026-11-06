@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- G-Star Bordado RAW en el pecho
 - Cuello acanalado
 - Etiqueta tejida G-Star Originals en la parte inferior de la parte delantera
 - Un ajuste cómodo
+- G-Star Bordado RAW en el pecho
 - Un aspecto original
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

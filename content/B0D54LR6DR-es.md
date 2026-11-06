@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajuste holgado, corte holgado
 - Una versión moderna de la camiseta clásica
+- Hecho de suave jersey
+- Ajuste holgado, corte holgado
 - Cuello redondo
 - Manga corta
-- Hecho de suave jersey
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D54LR6DR{{</world>}}

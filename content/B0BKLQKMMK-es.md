@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- construcción de 2 capas
-- Impermeable, a prueba de viento y transpirable.
-- PROTECCIÓN HELLY TECH
-- Tratamiento de repelencia al agua duradera (DWR)
 - Costura completamente sellada
+- construcción de 2 capas
+- Tratamiento de repelencia al agua duradera (DWR)
+- PROTECCIÓN HELLY TECH
+- Impermeable, a prueba de viento y transpirable.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BKLQKMMK{{</world>}}

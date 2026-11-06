@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corte: estándar
 - Material principal: punto simple
 - Manga corta
+- Corte: estándar
 - Cuello: cuello redondo
 - Largo: estándar
 

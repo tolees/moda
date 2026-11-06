@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello plano
-- Bolsillos con ribete y cierre a presión oculto en el pecho
-- Cierre de cremallera
-- Bolsillos de solapa 3D en la parte delantera, bolsillos laterales por debajo
 - Panel en los hombros, pinza para crear volumen debajo
+- Bolsillos de solapa 3D en la parte delantera, bolsillos laterales por debajo
+- Bolsillos con ribete y cierre a presión oculto en el pecho
+- Cuello plano
+- Cierre de cremallera
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D8WM4HLF{{</world>}}

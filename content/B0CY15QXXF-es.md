@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cinta Chevron
-- Cremallera garaje
 - Estampado Waterbased
+- Cremallera garaje
+- Cinta Chevron
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CY15QXXF{{</world>}}

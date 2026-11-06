@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Tommy Hilfiger Logotipo en el pecho
 - Cinta distintiva en el interior del cuello
-- Jersey de algodón puro
 - Cuello redondo
+- Jersey de algodón puro
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F4QLNM7M{{</world>}}

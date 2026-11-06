@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CHAQUETA NIÑA: Cómoda chaqueta de tejido suave y cálido, ideal para tu niña. Esta prenda Chicco se puede lavar en la lavadora para una fácil limpieza e higiene
-- A LA MODA: Esta chaqueta azul está decorada con un estampado de formas coloridas y es ideal para un look casual y a la moda
 - CHICCO: Siempre al lado de las familias, escuchando sus historias y necesidades. Con nuestros productos innovadores, siempre respondemos a las nuevas necesidades de los padres y de quienes cuidan de los niños
 - VARIAS TALLAS DISPONIBLES: Está disponible en varias tallas; elige la más adecuada para tu bebé
+- CHAQUETA NIÑA: Cómoda chaqueta de tejido suave y cálido, ideal para tu niña. Esta prenda Chicco se puede lavar en la lavadora para una fácil limpieza e higiene
+- A LA MODA: Esta chaqueta azul está decorada con un estampado de formas coloridas y es ideal para un look casual y a la moda
 - CÓMODO Y PRÁCTICO: Cuenta con una cómoda abertura frontal con cremallera, capucha y bolsillos, para una mayor practicidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Código de vestimenta: informal
 - Temporada: clima cálido
+- Código de vestimenta: informal
 - Patrón: el diseño de la marca es visible
 
 [🛒 Comprar!!!]({{< param buyurl >}})

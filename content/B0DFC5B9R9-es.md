@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cuello alto
-- Composición: Exterior: 60% Poliéster, 40% Nylon; Forro: 100% Poliéster; Padding: 100% Poliéster
 - Chaqueta de plumón
+- Composición: Exterior: 60% Poliéster, 40% Nylon; Forro: 100% Poliéster; Padding: 100% Poliéster
 - Manga larga
 
 [🛒 Comprar!!!]({{< param buyurl >}})

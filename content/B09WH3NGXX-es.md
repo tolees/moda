@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Black/Dark Grey Shaded
-- Talla 56/17/145
 - Garantía internacional de 2 años
+- Talla 56/17/145
+- Black/Dark Grey Shaded
 - Sin Polarizar
 
 [🛒 Aquí!!!]({{< param buyurl >}})

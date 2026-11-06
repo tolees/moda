@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Mezcla de lino fresco
+- Cuello abotonado
 - Ajuste moderno
 - Botones más grandes a partir de la talla 4 XL
-- Cuello abotonado
-- Mezcla de lino fresco
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DLX48T7C{{</world>}}

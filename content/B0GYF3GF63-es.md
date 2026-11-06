@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bresdk Sujetador Sin Aros Sin Costuras Acolchado Escote V Profundo Blanco L | Bra Invisible Bra Mujer Sin Costuras Espalda En U Tirantes Ajustables 60 % Nailon Y 40 % Elastano Extensor Cómodo'
-date: 2026-11-03 11:10:42
+date: 2026-11-05 10:28:51
 image: 'https://m.media-amazon.com/images/I/41yzuSgQZCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

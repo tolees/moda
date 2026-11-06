@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Aberturas laterales
+- Cuello acanalado
+- Cierre de cremallera
 - Costuras en diagonal en la parte delantera
 - Los remaches fijan la manga enrollada
-- Cuello acanalado
-- Aberturas laterales
-- Cierre de cremallera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DK5F4Q6S{{</world>}}

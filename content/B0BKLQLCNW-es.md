@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillos para las manos con forro cepillado
 - Capucha ajustable
 - PROTECCIÓN HELLY TECH
+- Bolsillos para las manos con forro cepillado
 - CREMALLERA YKKPrimaLoft NEGRO
 - Piel sintética desmontable
 

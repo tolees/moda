@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Skechers y detalle del logotipo de GO WALK
 - Estilo atlético de encaje elástico
-- Ligeras
 - Parte superior de malla
+- Ligeras
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BZ93T5SK{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Puños ajustables con botones
 - Cierre de botones
-- Paneles laterales
 - Bordado de G-STAR en el pecho
 - Cuello de camisa
+- Paneles laterales
+- Puños ajustables con botones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CS14GZ41{{</world>}}

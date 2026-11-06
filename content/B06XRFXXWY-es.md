@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Composición: 75% viscosa, 20% poliéster, 5% elastano
-- Corte normal
 - manga corta
 - Top
+- Corte normal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B06XRFXXWY{{</world>}}

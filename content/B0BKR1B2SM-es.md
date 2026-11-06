@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Tela suave al tacto
 - En color montaña oscura
 - Ropa de abrigo
-- Tela suave al tacto
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BKR1B2SM{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cómodo acanalado en puños y dobladillo.
 - Bolsillo tipo canguro.
+- Cómodo acanalado en puños y dobladillo.
 - Capucha ajustable.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

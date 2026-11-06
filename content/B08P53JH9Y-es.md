@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cordón en la capucha
-- Algodón
 - Sudadera con
 - JACK & JONES Letras
+- Algodón
+- Cordón en la capucha
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08P53JH9Y{{</world>}}

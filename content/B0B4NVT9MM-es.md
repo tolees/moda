@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- No impermeable
 - Material interior: sintético
+- No impermeable
 - Material exterior: poliéster
 - Suela: goma
 

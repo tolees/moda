@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Clarks Collection Shoes, Motion Trek MX, Khaki, 9 (Men)
 - Cierre de cordones para un ajuste seguro y personalizado
+- Clarks Collection Shoes, Motion Trek MX, Khaki, 9 (Men)
 - Tecnología de banda de rodadura de movimiento
 
 [🛒 Comprar!!!]({{< param buyurl >}})

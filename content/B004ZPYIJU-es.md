@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - 95 Percentage algodón, 5 Percentage elastano
-- Ataviar encima de sus fundamentos con el Emporio Armani 2 pack de camisetas. Dise andntilde;ado por expertos de un el andaacute;stico de algod andoacute;n para la comodidad andoacute;ptima, la funci andoacute;n de camisetas negras un escote cl andaacute;sico equipo y recibir un acabado de logotipo ic andoacute;nico de la etiqueta imprimido en el pecho. Las camisetas Emporio Armani son una gran inversi andoacute;n para la temporada de verano.
 - Logo impreso en pecho
 - Cuello redondo de canalé
+- Ataviar encima de sus fundamentos con el Emporio Armani 2 pack de camisetas. Dise andntilde;ado por expertos de un el andaacute;stico de algod andoacute;n para la comodidad andoacute;ptima, la funci andoacute;n de camisetas negras un escote cl andaacute;sico equipo y recibir un acabado de logotipo ic andoacute;nico de la etiqueta imprimido en el pecho. Las camisetas Emporio Armani son una gran inversi andoacute;n para la temporada de verano.
 - Paquete de dos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

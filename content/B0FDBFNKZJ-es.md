@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estilo sensual
-- Tirantes ajustables
 - Detalles de encaje
+- Tirantes ajustables
+- Estilo sensual
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FDBFNKZJ{{</world>}}

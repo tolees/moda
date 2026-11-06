@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Logo Levis housemark en el pecho
 - Clásico cuello tipo polo
-- Confeccionado en piqué de algodón transpirable y resistente
-- Mangas cortas
 - Corte regular
+- Logo Levis housemark en el pecho
+- Mangas cortas
+- Confeccionado en piqué de algodón transpirable y resistente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C6DSP11B{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Estándar
 - Abrigo largo acolchado de cuello alto
 - Capucha, bolsillos con cremallera
-- Estándar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08CZVXTQS{{</world>}}

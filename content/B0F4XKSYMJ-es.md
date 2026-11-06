@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Largo regular
 - Capucha con cierre de cordón
 - Detalle del logotipo bordado
-- Largo regular
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F4XKSYMJ{{</world>}}

@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Tejido de punto técnico
 - CREMALLERA YKK
+- Artículos entregados: 1x Helly Hansen Womens W Crew Fleece Jacket - Fleece RED XS
 - Cuello alto para mayor confort
 - Protector de mentón
-- Artículos entregados: 1x Helly Hansen Womens W Crew Fleece Jacket - Fleece RED XS
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08LYV5T7C{{</world>}}

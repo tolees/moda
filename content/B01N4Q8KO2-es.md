@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Talla 56/16/145
+- Sin Polarizar
 - Black/Dark Grey Shaded
 - Garantía internacional de 2 años
-- Sin Polarizar
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01N4Q8KO2{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- __Conscious by Nature:__ tejido reciclado
-- __Corte:__ corte normal
-- __Peso del tejido:__ 280 g/m2
 - __Tejido:__ algodón, algodón reciclado, poliéster reciclado
 - Cepillado
+- __Corte:__ corte normal
+- __Peso del tejido:__ 280 g/m2
+- __Conscious by Nature:__ tejido reciclado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FCRSG7F4{{</world>}}

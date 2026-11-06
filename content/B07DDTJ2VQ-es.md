@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Bordes abiertos en la parte inferior
+- Pierna estrecha y cintura media
 - Calidad probada
 - Vaqueros clásicos de 5 bolsillos
-- Pierna estrecha y cintura media
 - Vaqueros tobilleros ajustados
 
 [🛒 Visítala!!!]({{< param buyurl >}})

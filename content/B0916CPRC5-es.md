@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tipo de fábrica: 100% Cotton; Tipo de deporte: Fútbol; Instrucciones de cuidado: Lavar a máquina
-- Garantiza comodidad
-- Ofrece libertad de movimiento
-- Cuenta con logotipo
 - Óptima para dar un toque informal
+- Garantiza comodidad
+- Cuenta con logotipo
+- Ofrece libertad de movimiento
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0916CPRC5{{</world>}}

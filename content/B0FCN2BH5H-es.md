@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camisa Oxford
 - Camisa Bordada
+- Camisa Oxford
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FCN2BH5H{{</world>}}

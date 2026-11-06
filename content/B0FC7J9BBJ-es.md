@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Repelencia avanzada Omni-Shield.
-- Protector de barbilla.
-- Aislamiento Thermarator 100% poliéster reciclado.
 - Dobladillo ajustable con cordón.
 - Bolsillos con cremallera.
 - Ribete en capucha y dobladillo.
+- Aislamiento Thermarator 100% poliéster reciclado.
+- Repelencia avanzada Omni-Shield.
+- Protector de barbilla.
 - Híbrido para elasticidad y transpirabilidad.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

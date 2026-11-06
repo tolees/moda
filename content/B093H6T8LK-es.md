@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ocasión/Estilo: Camiseta de calidad para el uso diario
-- LONGITUD DE LA MANGA: Manga corta (S/S)
+- Detalles adicionales:
 - Ajuste: ajuste regular
+- LONGITUD DE LA MANGA: Manga corta (S/S)
+- Dobladillo curvo
+- Ocasión/Estilo: Camiseta de calidad para el uso diario
+- Tipo de detalle: camiseta
 - Bordado
 - Tipo de cuello: cuello redondo
-- Detalles adicionales:
-- Tipo de detalle: camiseta
-- Dobladillo curvo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B093H6T8LK{{</world>}}

@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Pierna estrecha y cintura media
 - Bordes abiertos en la parte inferior
-- Vaqueros tobilleros ajustados
 - Vaqueros clásicos de 5 bolsillos
+- Vaqueros tobilleros ajustados
 - Calidad probada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

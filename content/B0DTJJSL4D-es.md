@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La versatilidad de una camisa vaquera se traduce en esta blusa femenina, hecha de algodón ligero
 - Azul claro con un efecto vintage lavado a la piedra
+- La versatilidad de una camisa vaquera se traduce en esta blusa femenina, hecha de algodón ligero
 - 100 % algodón
 
 [🛒 Comprar!!!]({{< param buyurl >}})

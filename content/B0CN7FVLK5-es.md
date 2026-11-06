@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camiseta de cuello redondo de ajuste regular para hombre
 - Solapa de botones, mangas cortas
+- Camiseta de cuello redondo de ajuste regular para hombre
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CN7FVLK5{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Corte Slim
 - Camiseta algodón manga larga
+- Corte Slim
 - Cuello redondo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

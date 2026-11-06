@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ofrece comodidad
 - Manga corta
+- Ofrece comodidad
 - Cuello redondo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Camiseta
 - Corte entallado
+- Camiseta
 - Composición del material: 100% algodón
 
 [🛒 Comprar!!!]({{< param buyurl >}})

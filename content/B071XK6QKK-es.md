@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - lavable a máquina, bajo retroceder seca
 - hasta la rodilla.
-- 100% algodón
-- Vestidos para niña Talla 9-10 años. Por favor, ver la medida del tamaño abajo en la descripción del producto antes de comprar
 - Talla: Busto: 72CM, Cintura: 68CM, Longitud: 79CM
+- Vestidos para niña Talla 9-10 años. Por favor, ver la medida del tamaño abajo en la descripción del producto antes de comprar
+- 100% algodón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B071XK6QKK{{</world>}}

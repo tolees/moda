@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Corte ajustado en los muslos
-- Este producto es original Levis
 - Diseño de cinco bolsillos
+- Este producto es original Levis
+- Corte ajustado en los muslos
 - Con apertura de pierna pitillo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Acabado con un gráfico atrevido
 - Hecha de jersey suave
+- Acabado con un gráfico atrevido
 - Un clásico atemporal que se puede llevar con cualquier cosa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

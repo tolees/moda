@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Material suela: Rubber
-- Zapatilla trail
-- Carretera
 - Material superior: Material textil
+- Carretera
+- Zapatilla trail
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DMTZS29V{{</world>}}

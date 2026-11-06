@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Vaqueros pitillo
+- Composición del material: 54% algodón, 22% poliéster, 14% lyocell, 9% viscosa, 1% elastano
 - Tiro bajo
 - Detalles rotos
-- Composición del material: 54% algodón, 22% poliéster, 14% lyocell, 9% viscosa, 1% elastano
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01MG93TZB{{</world>}}

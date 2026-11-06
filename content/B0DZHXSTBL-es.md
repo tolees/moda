@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Artículo : Jersey de punto
 - Cuello : De cuello vuelto
+- Artículo : Jersey de punto
 - Corte : Corte relaxed
 - Manga : Manga larga
 

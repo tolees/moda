@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Manga : Manga corta
-- Artículo : Camiseta
-- Cuello : Cuello redondo
-- Modo de vida : Tradicional
 - Mangas : Sisa en disminución
 - Corte : Corte regular
+- Artículo : Camiseta
 - Estampado : Estampa en la parte delantera del producto
+- Cuello : Cuello redondo
+- Modo de vida : Tradicional
+- Manga : Manga corta
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09NYJSQRB{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cojín de contorno
 - Clarks Shoes, Polden Lace, Navy Leather, 8,5 (Men)
+- Cojín de contorno
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CC2SPTSN{{</world>}}

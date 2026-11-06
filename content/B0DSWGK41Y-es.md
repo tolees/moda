@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Lightweight fabric
 - Provides comfort
 - Long sleeves
-- Button fly
+- Lightweight fabric
 - Shirt collar
+- Button fly
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DSWGK41Y{{</world>}}

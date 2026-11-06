@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Puños con botones
 - Corte normal
+- Puños con botones
 - Mangas con puños
 
 [🛒 Comprar!!!]({{< param buyurl >}})

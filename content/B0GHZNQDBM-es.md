@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estampado gráfico Hurley en el pecho
-- Manga corta
 - Cuello redondo suave
 - Hecho de jersey aireado de calidad
+- Estampado gráfico Hurley en el pecho
+- Manga corta
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GHZNQDBM{{</world>}}

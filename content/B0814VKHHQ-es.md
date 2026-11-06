@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bolsillos funcionales para mayor comodidad
 - Parte superior e inferior a juego para un aspecto coordinado
+- Bolsillos funcionales para mayor comodidad
 - Fabricado con materiales duraderos y de calidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

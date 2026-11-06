@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sudadera Sudadera
 - Sudadera Smoking Collar
+- Sudadera Sudadera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FCSK6SRR{{</world>}}

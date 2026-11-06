@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Lavable a máquina
+- Ultra Go
 - Plantilla Goga Mat contorneada
 - Tecnología Goga Mat
-- Ultra Go
-- Lavable a máquina
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DDQB1TBD{{</world>}}

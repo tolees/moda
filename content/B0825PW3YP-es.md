@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Corte normal, clásico, cómodo
-- Cuello con escote redondo abierto
-- Punto jersey de algodón ligero
 - Bajo en curva y mangas enrollables
+- Punto jersey de algodón ligero
+- Cuello con escote redondo abierto
+- Corte normal, clásico, cómodo
 - Punto canalé en el cuello
 
 [🛒 Aquí!!!]({{< param buyurl >}})

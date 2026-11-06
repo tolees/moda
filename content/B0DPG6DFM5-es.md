@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Punto jersey sencillo
-- __Tejido:__ algodón orgánico
-- __Corte:__ corte normal
 - __Conscious by Nature:__ algodón orgánico
 - __Peso del tejido:__ 180 g/m2
+- __Corte:__ corte normal
+- __Tejido:__ algodón orgánico
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DPG6DFM5{{</world>}}

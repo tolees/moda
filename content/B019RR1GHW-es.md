@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'VELILLA 201502 Chaqueta polar color azul navy talla XXL'
-date: 2026-11-04 14:04:54
+date: 2026-11-05 22:32:44
 image: 'https://m.media-amazon.com/images/I/31KWEnkIUFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B019RR1GHW/?tag=tolees-21'
 descuento: '30.43'
-average: '12.4557142857143'
+average: '12.283333333333346'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

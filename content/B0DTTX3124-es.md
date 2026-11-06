@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Resistente al agua
-- Bota de agua
 - Cómoda y fashion
+- Bota de agua
 - Suela antideslizante
 
 [🛒 Comprar!!!]({{< param buyurl >}})

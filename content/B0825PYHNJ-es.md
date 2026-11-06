@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tejido ligero mezcla de viscosa poliéster
 - Corte normal, clásico, cómodo
-- Cuello redondo y panel bordado en canesú de la parte frontal
 - Diseño sin mangas
+- Cuello redondo y panel bordado en canesú de la parte frontal
+- Tejido ligero mezcla de viscosa poliéster
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0825PYHNJ{{</world>}}

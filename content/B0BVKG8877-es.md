@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Color: Negro a rayas
 - Forma: NAVEGADOR
 - Talla: 59
-- Color: Negro a rayas
 - Material: nailon
 - Color de lente: Gris oscuro Degradado
 

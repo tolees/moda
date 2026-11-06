@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Camiseta || Mangas Raglan || Cuello Redondo Sin cuello || Material duradero
-- Descubre todas las marcas de EMP!
-- Básicos, Ropa de Calle
 - Camiseta con las siguientes características:
+- Básicos, Ropa de Calle
+- Descubre todas las marcas de EMP!
 - Ajuste : Regular
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

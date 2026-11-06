@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Etiqueta colgante en costura lateral
-- Etiqueta colgante en costura lateral
-- Serigrafía frontal y trasera de tacto suave
 - __Tejido:__ algodón [160 g/m2]
+- Serigrafía frontal y trasera de tacto suave
 - Manga corta
+- Etiqueta colgante en costura lateral
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DPG6QVTH{{</world>}}

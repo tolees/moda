@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 95% poliéster, 5% elastano
 - La parte trasera y los laterales confeccionados en tejido Micro-Mesh para garantizar la transpiración
 - Ultraligera y elástica
+- 95% poliéster, 5% elastano
 - Camiseta de tirantes ideal para practicar deporte
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello acolchado con cordones y suela Sr
-- Vestido casual con cordones para el trabajo
 - EN ISO 20347:2012, ajuste relajado, MF refrigerado por aire, antideslizante, OB FO SRC
+- Vestido casual con cordones para el trabajo
+- Cuello acolchado con cordones y suela Sr
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07W86HPBM{{</world>}}

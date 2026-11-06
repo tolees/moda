@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fáciles de limpiar
 - Correas de talón giratorias
+- Fáciles de limpiar
 - Ligeras y flexibles
 
 [🛒 Comprar!!!]({{< param buyurl >}})

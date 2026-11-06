@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Soft cotton fabric
-- regular fit
 - Elastic waist with the brand logo
+- regular fit
+- Soft cotton fabric
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08LQGRV7S{{</world>}}

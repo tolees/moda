@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'adidas Mujer Essentials Rain Parka Coat black M'
-date: 2026-10-29 20:50:58
+title: 'adidas Mujer Essentials Rain Parka Coat Black M'
+date: 2026-11-05 21:57:57
 image: 'https://m.media-amazon.com/images/I/31Ltrz8xKnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0FVDS4R5K-es adidas Mujer Essentials Rain Parka Coat black M'
+slug: 'B0FVDS4R5K-es adidas Mujer Essentials Rain Parka Coat Black M'
 sku: 'B0FVDS4R5K-es'
 tags: [ 'parka','🇪🇸', ]
-actualPrice: 40.53 EUR
+actualPrice: 33.3 EUR
 currency: EUR
-price: 40.53
+price: 33.3
 comparePrice: 100.0 EUR
-prodname: 'adidas Mujer Essentials Rain Parka Coat black M'
+prodname: 'adidas Mujer Essentials Rain Parka Coat Black M'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FVDS4R5K/?tag=tolees-21'
-descuento: '59.47'
-average: '40.53'
+descuento: '66.70'
+average: '36.915'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

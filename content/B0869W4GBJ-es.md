@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Malla fina
-- Bicolor
 - Corte ajustado
 - Jersey de cuello alto bicolor
+- Bicolor
+- Malla fina
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0869W4GBJ{{</world>}}

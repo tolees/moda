@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Costura de los dedos cerrada a mano para evitar la irritación
 - Calcetines versátiles para hombre
-- Algodón peinado
 - El toque Tommy adecuado para tu look
+- Algodón peinado
 - Un básico por naturaleza para hombre
 
 [🛒 Comprar!!!]({{< param buyurl >}})

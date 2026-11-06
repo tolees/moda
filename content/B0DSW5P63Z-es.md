@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- A comfortable fit
 - Buckle closure
-- An original look
 - Provides comfort
+- A comfortable fit
+- An original look
 - Color block design
 
 [🛒 Aquí!!!]({{< param buyurl >}})

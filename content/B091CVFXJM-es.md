@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Transpirabilidad
 - Gestión de la humedad
 - Ligero
 - Flujo de aire
-- Transpirabilidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B091CVFXJM{{</world>}}

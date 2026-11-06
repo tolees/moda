@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Omni-Wick.
 - Paneles laterales Omni-Wick.
+- Omni-Wick.
 - OmniFreeze Zero - Superenfriamiento activado por el sudor.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

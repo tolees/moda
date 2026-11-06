@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Capucha ajustable
-- Puño ajustable con botones a presión
-- YKK VISLON
 - Logotipo impreso de HH
+- Puño ajustable con botones a presión
+- Capucha ajustable
+- YKK VISLON
 - PROTECCIÓN HELLY TECH
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

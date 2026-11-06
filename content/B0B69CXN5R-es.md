@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sudadera de uso diario
 - Tiene detalles distintivos de la marca
+- Sudadera de uso diario
 - Prenda para varones adultos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

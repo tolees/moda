@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 100% algodón
-- Camiseta individual con logotipo impreso en la parte delantera
 - Camiseta normal
+- Camiseta individual con logotipo impreso en la parte delantera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FFTMVF1Z{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Zapatillas bajas
 - Suela perforada
+- Zapatillas bajas
 - Cierre con cordones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

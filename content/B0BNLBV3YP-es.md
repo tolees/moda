@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Clarks Shoes, Freva55 Strap, Black Leather, 3,5 (Women)
-- Cómodos
 - Forro de piel
+- Cómodos
+- Clarks Shoes, Freva55 Strap, Black Leather, 3,5 (Women)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BNLBV3YP{{</world>}}

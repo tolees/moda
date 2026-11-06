@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 3 enchufes CC/1 cremallera interior
 - Cremallera en la espalda
+- 3 enchufes CC/1 cremallera interior
 - 10 x 2 x 6 cm
 - Herrajes dorados brillantes
 

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Porcentaje de poliéster reciclado
 - GORE-TEX laminado de 2 capas con membrana ePE libre de PFC
 - Cremallera frontal resistente al agua
+- Porcentaje de poliéster reciclado
 - 2 bolsillos frontales con cremallera
 - Capucha con ajuste de un punto
 

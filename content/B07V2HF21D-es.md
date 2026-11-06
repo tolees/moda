@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte ajustado
 - Malla fina
-- Manga larga
-- Cuello en V
 - Tejer costilla
+- Corte ajustado
+- Cuello en V
+- Manga larga
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07V2HF21D{{</world>}}

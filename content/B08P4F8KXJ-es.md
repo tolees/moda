@@ -30,10 +30,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Protección: 6 capas de material protector resistente a la abrasión. Certificadas para EN381-5 clase 1 (20 m/s)
 - Están hechas de cuero suave
-- Universales: Perneras de seguridad tipo A, solo con protección en la parte delantera. Talla única
-- Arnés en seis puntos fácil de ajustar
-- Casco de PP resistente a impactos
 - Guantes que proporcionan protección para las manos
+- Casco de PP resistente a impactos
+- Arnés en seis puntos fácil de ajustar
+- Universales: Perneras de seguridad tipo A, solo con protección en la parte delantera. Talla única
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08P4F8KXJ{{</world>}}

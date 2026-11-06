@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cintura: cintura normal
 - Cierre: bragueta con cremallera
 - Tipo de producto: pantalones chinos
+- Cintura: cintura normal
 - Composición: 50% poliéster reciclado, 21% nailon, 17% viscosa, 10% elastano, 2% poliéster
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

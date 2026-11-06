@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillo en el pecho con cremallera.
 - Fabricado con contenido reciclado.
+- Bolsillo en el pecho con cremallera.
 - Ribete elástico en puños y dobladillo.
 - Ribete elástico en el cuello.
 - Bolsillos para las manos.

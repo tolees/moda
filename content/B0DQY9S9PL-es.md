@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Proyecto de sostenibilidad de Armani
 - Ajuste normal
+- Proyecto de sostenibilidad de Armani
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DQY9S9PL{{</world>}}

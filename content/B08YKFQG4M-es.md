@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Más espacio para el acolchado Progel
-- Tejido del dorso muy absorbente
-- Puño ligado
 - Estampado de silicona en la palma
+- Tejido del dorso muy absorbente
+- Más espacio para el acolchado Progel
+- Puño ligado
 - Palma de ante Amara con perforaciones
 
 [🛒 Comprar!!!]({{< param buyurl >}})

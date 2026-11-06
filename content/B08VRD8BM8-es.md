@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Cuello redondo
 - Puños y dobladillo de canalé
+- Compra una talla más pequeña
 - Felpa 70% algodón / 30% poliéster reciclado
 - Corte clásico
-- Compra una talla más pequeña
-- Cuello redondo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08VRD8BM8{{</world>}}

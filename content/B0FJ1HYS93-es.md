@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Braga de diseño clásico
 - Tejido suave
+- Braga de diseño clásico
 - Ofrece comodidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Cómodo
+- Corte normal
 - Clásico
 - Camiseta Para hombre
-- Corte normal
-- Cómodo
 - Cuello redondo y serigrafía estampada en el pecho
 
 [🛒 Comprar!!!]({{< param buyurl >}})

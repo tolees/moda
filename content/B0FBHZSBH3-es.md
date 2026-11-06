@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Costura plana con dos agujas
+- Cuello redondo de punto acanalado
 - Carhartt Logotipo de la firma en el pecho
 - Manga corta
-- Cuello redondo de punto acanalado
+- Costura plana con dos agujas
 - Corte holgado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

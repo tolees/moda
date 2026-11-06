@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Este es un producto auténtico y original de Tommy Hilfiger
 - Este estilo se ha producido de forma sostenible
+- Este es un producto auténtico y original de Tommy Hilfiger
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F4KHDYC7{{</world>}}

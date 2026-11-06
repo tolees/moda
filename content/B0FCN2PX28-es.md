@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Chaqueta Ligera
 - Chaqueta Ligera Puffa Funnel Resistente Al Agua
+- Chaqueta Ligera
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FCN2PX28{{</world>}}

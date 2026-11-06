@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Camiseta sin mangas con cuello redondeado en canalé
-- Doble costura y doble tejido en sisas y cuello
 - Logotipo bordado en el dobladillo
+- Doble costura y doble tejido en sisas y cuello
+- Camiseta sin mangas con cuello redondeado en canalé
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FFTNZJZ9{{</world>}}

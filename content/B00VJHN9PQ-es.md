@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cuello redondo
-- Manga larga
 - Jersey de punto
+- Manga larga
 - Composición del material: 100% algodón
 
 [🛒 Comprar!!!]({{< param buyurl >}})

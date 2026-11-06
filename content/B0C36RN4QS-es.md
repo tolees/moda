@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Largo/talla : Largo por las rodillas
 - Detalles : Cordón de ajuste en la cintura, Interior de la prenda sin cepillar
-- Artículo : Shorts de chándal
+- Largo/talla : Largo por las rodillas
 - Corte : Corte regular
 - Bolsillos : Bolsillos laterales
 - Cierre : Bragueta decorativa
+- Artículo : Shorts de chándal
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C36RN4QS{{</world>}}

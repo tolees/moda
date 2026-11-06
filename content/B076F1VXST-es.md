@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Encantador vestido de invierno
-- Corte holgado
 - Manga larga
+- Corte holgado
 - Cuello cálido
 - Tejido suave
 

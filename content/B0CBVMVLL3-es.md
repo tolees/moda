@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sandalias de tacón alto con detalle de pala acolchada
-- Tacón de 10 cm
-- Cierre ajustable con hebilla
 - Plantilla de piel muy acolchada de látex
+- Sandalias de tacón alto con detalle de pala acolchada
+- Cierre ajustable con hebilla
+- Tacón de 10 cm
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CBVMVLL3{{</world>}}

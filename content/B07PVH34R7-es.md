@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Corte cómodo
-- Descubre todas las marcas de EMP
-- Cintura elástica
 - Abertura con cierre de botones
+- Corte cómodo
+- Cintura elástica
+- Descubre todas las marcas de EMP
 - Calzoncillos boxer
 
 [🛒 Visítala!!!]({{< param buyurl >}})

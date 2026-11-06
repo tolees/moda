@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Logotipo icónico PUMA No1 en estampado completo
 - Bóxer clásico
+- Logotipo icónico PUMA No1 en estampado completo
 - Tejido suave al tacto
 
 [🛒 Visítala!!!]({{< param buyurl >}})

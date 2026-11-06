@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Puños acanalados
 - Cuello alzado con botón a presión
-- Proporciona comodidad
 - Una mirada original
+- Proporciona comodidad
 - Proporciona comodidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})

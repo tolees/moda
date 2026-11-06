@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Amortiguación ligera
 - Suela de EVA inyectada para mayor suavidad
 - Correa sintética
+- Amortiguación ligera
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C343LSMB{{</world>}}

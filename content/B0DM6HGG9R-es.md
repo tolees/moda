@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 100% Poliéster
-- Running
 - Hombres - Camiseta de running
+- Running
+- 100% Poliéster
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DM6HGG9R{{</world>}}

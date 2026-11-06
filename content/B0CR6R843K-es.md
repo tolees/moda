@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Composición: 92 por ciento de algodón 6 por ciento elastomultiéster 2 por ciento de elastano
+- Instrucciones de cuidado: lavable a máquina
 - Ajuste: corte regular
 - Cierre: cremallera y botón
-- Instrucciones de cuidado: lavable a máquina
 - Jeans Pantalones Largos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Un pantalón de corte regular con pierna recta y estrecha
 - Vaqueros de corte sencillo
+- Un pantalón de corte regular con pierna recta y estrecha
 - El porcentaje elástico proporciona un ajuste óptimo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

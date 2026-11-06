@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- CREMALLERA YKK
+- Hilos AMANN - calidad alemana
+- Capucha ajustable con cordón
 - Anillo en D para cable de matar
 - Bolsillos para las manos
-- CREMALLERA YKK
-- Capucha ajustable con cordón
-- Hilos AMANN - calidad alemana
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BKLSZPT7{{</world>}}

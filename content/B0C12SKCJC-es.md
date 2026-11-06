@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Esto significa que si estableces un lente, te ayudaremos a aplastarlo.
-- Hacemos eso con innovación de rendimiento y zapatos, camisas y herramientas digitales que cambian el juego que superan los límites de lo que pensabas posible.
 - La misión de Under Armour es simple: hacerte mejor.
+- Hacemos eso con innovación de rendimiento y zapatos, camisas y herramientas digitales que cambian el juego que superan los límites de lo que pensabas posible.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C12SKCJC{{</world>}}

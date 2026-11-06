@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - CALIDAD DEMOSTRADA: Desde 1985, esta marca de diseñador lleva demostrando por todo el mundo la calidad y la ligereza mediante una gran variedad de diseños en los míticos colores azul oscuro, blanco y rojo.
+- MATERIAL Y CUIDADO: Prenda interior confeccionada en 84 % nailon y 16 % elastano. Se puede lavar a máquina.
 - CÓMODO: La cintura elástica estrecha permite que la ropa interior se adapte a tu figura como un guante. No oprime y es muy agradables y cómodo de llevar.
 - VERSÁTIL: Las cómodas braguitas con talle alto garantizan que te sientas bien durante todo el día. Las braguitas son indispensables en cualquier armario.
-- MATERIAL Y CUIDADO: Prenda interior confeccionada en 84 % nailon y 16 % elastano. Se puede lavar a máquina.
 - DISEÑO CLÁSICO: Slip original de Tommy Hilfiger muy cómodo de llevar. El look sencillo y la bandera de Tommy Hilfiger bordada en la cadera realzan su diseño favorecedor.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

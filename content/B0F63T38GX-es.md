@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Puntera redondeada
 - Cierre con cordones
 - Ofrecen comodidad en cada zancada
-- Puntera redondeada
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F63T38GX{{</world>}}

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tejido fino y ligero en mezclilla gris limpio
-- 100 % algodón
 - Una camisa clásica de corte entallado
+- 100 % algodón
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DTJJSTFY{{</world>}}

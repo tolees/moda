@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El tejido empleado es un cómodo piqué de algodón
 - Logotipo bordado en el pecho
 - Manga corta
+- El tejido empleado es un cómodo piqué de algodón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07FTL5S36{{</world>}}

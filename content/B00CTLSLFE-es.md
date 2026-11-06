@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Con correas laterales ajustables
+- Talla única
 - Color: amarillo y negro
 - Cierre: Cremallera
-- Talla única
-- Con correas laterales ajustables
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00CTLSLFE{{</world>}}

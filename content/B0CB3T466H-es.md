@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Encaje ajustable
-- Peso ligero
 - Tejido transpirable
+- Peso ligero
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CB3T466H{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Estilo deportivo
 - Para uso diario
+- Estilo deportivo
 - Prenda de vestimenta
 
 [🛒 Aquí!!!]({{< param buyurl >}})

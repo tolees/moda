@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Instrucciones de cuidado: lavable a máquina
 - Jersey
 - Mangas largas
-- Instrucciones de cuidado: lavable a máquina
-- Composición: 100% algodón
 - Ajuste: corte regular
+- Composición: 100% algodón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CRFSBQ6P{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El algodón orgánico se cultiva sin el uso de productos químicos nocivos
 - Este producto está fabricado con algodón orgánico
+- El algodón orgánico se cultiva sin el uso de productos químicos nocivos
 - Camiseta para hombre de la marca danesa JACK JONES
 
 [🛒 Visítala!!!]({{< param buyurl >}})

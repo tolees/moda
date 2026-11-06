@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Longitud por encima de la cadera
 - Resistente al agua
 - Corte estándar
 - Pespunte de rombos
-- Longitud por encima de la cadera
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D7QKDBLQ{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Comodidad.
-- Detalles de los diamantes de imitación:
 - Tipo de correa: Correa trasera.
+- Detalles de los diamantes de imitación:
+- Comodidad.
 - Plantilla interior Luxe Foam acolchada y contorneada para mayor comodidad.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

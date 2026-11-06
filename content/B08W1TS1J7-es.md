@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Lavado: aspecto desgastado
-- Ajuste: corte largo
 - Detalles: dobladillo redondeado
+- Ajuste: corte largo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08W1TS1J7{{</world>}}

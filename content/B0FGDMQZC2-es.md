@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Adecuado para múltiples ocasiones
 - Diseño atemporal
+- Adecuado para múltiples ocasiones
 - Jersey de manga larga
 
 [🛒 Visítala!!!]({{< param buyurl >}})

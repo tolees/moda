@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con nuestro diseño vintage de Batwing
-- 100% algodón
-- Lavado a máquina
-- Cuello redondo
 - Corte holgado
+- Con nuestro diseño vintage de Batwing
+- Cuello redondo
+- Lavado a máquina
 - Camiseta clásica con gráficos
+- 100% algodón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D8JNPVCM{{</world>}}

@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Polo Club sigue siendo fiel a prendas imprescindibles como la sudadera de cuello redondo.
 - Cuello redondo de terminación acanalada.
-- Combinala con unos jeans o unos pantalones chinos.
-- Esta pieza confeccionada en algodón se convertirá en una de tus favoritas.
 - Manga larga con puños y cintura en canalé. Interior perchado. Bordado Rigby Go en el lado izquierdo del pecho.
+- Esta pieza confeccionada en algodón se convertirá en una de tus favoritas.
+- Combinala con unos jeans o unos pantalones chinos.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CNGXDF4J{{</world>}}

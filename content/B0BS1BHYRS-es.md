@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello acanalado
 - Etiqueta de G-STAR Originals tejida en el bajo
+- Cuello acanalado
 - Una mirada original
 - Proporciona comodidad
 - Un ajuste cómodo

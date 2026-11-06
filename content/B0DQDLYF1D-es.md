@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 100 % algodón
 - Con cuello redondo y ilustraciones en la parte delantera
+- 100 % algodón
 - Sudadera de ajuste regular
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

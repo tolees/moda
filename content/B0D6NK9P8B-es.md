@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Tipo de estiramiento: no elástico
 - Instrucciones de cuidado: apto para lavadora
 - Jeans Pantalones Largos
-- Tipo de estiramiento: no elástico
 - Composición: 68 por ciento de algodón 32 por ciento lyocell
 - Ajuste: pierna ancha de cintura alta
 

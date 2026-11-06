@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tejido Infinitex
-- 78% poliamida (reciclada) / 22% elastano
 - Corte ajustado
+- 78% poliamida (reciclada) / 22% elastano
+- Tejido Infinitex
 - Forro en la entrepierna
 - Pernera de corte medio
 

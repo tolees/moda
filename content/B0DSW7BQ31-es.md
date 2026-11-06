@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Un aspecto original
 - Ajuste cómodo
+- Un aspecto original
 - Cómodo de llevar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

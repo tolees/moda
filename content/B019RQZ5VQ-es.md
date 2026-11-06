@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Pinzas
-- Cintas reflectantes en el bajo del pantalón
 - Pantalón con forro de punto liso y Cinturilla elástica
+- Cintas reflectantes en el bajo del pantalón
 - Seis bolsillos: 2 bolsillos franceses, 2 bolsillos de parche con fuelle central, tapeta y velcro, 2 bolsillos traseros de fuelle con tapeta y velcro
 - Cierre central con cremallera y botón y Costura trasera de seguridad
 

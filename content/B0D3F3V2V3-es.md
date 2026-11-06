@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Cuello en V
-- Jersey de manga larga
-- Corte ajustado
 - Botones decorativos en el escote
+- Corte ajustado
+- Jersey de manga larga
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D3F3V2V3{{</world>}}

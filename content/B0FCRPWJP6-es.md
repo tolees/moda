@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Gráfico abullonado en el pecho
 - __Corte: __ corte normal, clásico, cómodo
 - __Tejido: __ terry francés de algodón regular con algodón y poliéster reciclados
-- Gráfico abullonado en el pecho
 - __Cuello: __ cuello redondo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

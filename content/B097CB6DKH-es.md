@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Detalles clásicos de la etiqueta roja de Levi’s
-- Tela elástica de algodón suave
-- Un ribete elástico acanalado en el cuello para una caída cómoda sobre los hombros
 - La base adecuado para look
+- Un ribete elástico acanalado en el cuello para una caída cómoda sobre los hombros
+- Tela elástica de algodón suave
 - Detalles de la marca Levi’s
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

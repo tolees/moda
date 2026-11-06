@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ligeras y flexibles
 - Fáciles de limpiar y de secado rápido
+- Ligeras y flexibles
 - Diseñado para mejorar la transpirabilidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

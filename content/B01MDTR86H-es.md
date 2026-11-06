@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Logotipo estampado en el extremo
 - Una mirada original
 - Hebilla de metal pintado
+- Logotipo estampado en el extremo
 - Correa de piel gruesa
 - Proporciona comodidad
 

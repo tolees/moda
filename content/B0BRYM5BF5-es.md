@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Bolsillos con solapa en el pecho, bolsillos laterales con botón a presión oculto
-- Cuello alzado
-- Bajo recto con cordón ajustable en el interior
-- Manga larga con puños elásticos
 - Bolsillo y trabilla en el interior
+- Cuello alzado
+- Manga larga con puños elásticos
+- Bajo recto con cordón ajustable en el interior
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BRYM5BF5{{</world>}}

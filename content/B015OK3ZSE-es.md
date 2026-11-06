@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material Exterior: Sintético
 - Material de la suela: EVA
+- Material Exterior: Sintético
 - Cierre: Sin Cordones
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Diseñados para moldear las curvas, alargar las piernas y realzar tu figura
-- Cintura normal
 - Unos vaqueros cómodos con pierna ceñida favorecedora
+- Cintura normal
 - Este producto es original Levis
 
 [🛒 Aquí!!!]({{< param buyurl >}})

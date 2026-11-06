@@ -28,15 +28,15 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Dobladillo informal y suelto
-- Ajuste holgado en cadera y muslo
-- Pierna recta
-- Con cintura media y pierna recta
-- Un ajuste al estilo de nuestra generación de padres
-- 85% algodón, 15% lino
-- Cremallera
 - Altura media: 26 cm
+- Un ajuste al estilo de nuestra generación de padres
+- Ajuste holgado en cadera y muslo
+- Dobladillo informal y suelto
+- Cremallera
 - Ajuste ancho y desenfadado en caderas y muslos
+- Con cintura media y pierna recta
+- Pierna recta
+- 85% algodón, 15% lino
 - Lavado a máquina
 
 [🛒 Visítala!!!]({{< param buyurl >}})

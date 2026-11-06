@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Corte : Corte wide
-- Estampado : Estampado de goma para un tacto suave
 - Cuello : Cuello redondo
-- Manga : Manga corta
+- Estampado : Estampado de goma para un tacto suave
 - Artículo : Camiseta
+- Manga : Manga corta
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CL7ZCCZJ{{</world>}}

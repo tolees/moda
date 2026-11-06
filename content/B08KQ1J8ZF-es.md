@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sistema de soporte en el tobillo
 - Membrana impermeable CLIMAPROTECT
 - Cordones Fast Lace y bolsillo para cordones
+- Sistema de soporte en el tobillo
 - Lengüeta y monstruo de microfibra para optimo comodidad en el empeine: forro interior de licra para una sensación más suave y cómoda
 
 [🛒 Aquí!!!]({{< param buyurl >}})

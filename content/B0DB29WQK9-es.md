@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Disponible en tres colores
 - Parka acolchada perfecta para los dias de frio, bolsillos con cierre de cremallera, capucha ajustable
+- Disponible en tres colores
 - Idea regalos para navidad, perfecto para quien le gusta abrigarse con estilo y comodidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aspecto y tacto clásicos
 - Clarks Cloudsteppers Sandals, Arla Wave, Beige Combi, 6,5 (Women)
 - Cojín suave
+- Aspecto y tacto clásicos
 - Alta calidad
 - Flexibles
 

@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Longitud: normal
-- Hebilla ajustable
 - Cinturón
+- Hebilla ajustable
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09VYCJ3XV{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Los paneles laterales y traseros de malla proporcionan transpirabilidad adicional
 - La tela tejida suave se siente ligera y fresca
 - La tecnología Dri-FIT aleja el sudor de la piel para una evaporación más rápida
-- Los paneles laterales y traseros de malla proporcionan transpirabilidad adicional
 - Logotipo bordado
 
 [🛒 Visítala!!!]({{< param buyurl >}})

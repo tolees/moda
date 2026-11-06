@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Vestido de punto
 - Corte normal
 - Por encima de la rodilla longitud
-- Vestido de punto
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07WFQHWDQ{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Chaqueta con cierre de cremallera
 - Forro interior de malla
+- Chaqueta con cierre de cremallera
 - Estilo informal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

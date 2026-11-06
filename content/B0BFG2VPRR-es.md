@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Importado
-- Pack de 3 Camisetas de Algodón Cuello Redondo
-- Lavable a
 - 100% algodón
+- Pack de 3 Camisetas de Algodón Cuello Redondo
+- Importado
+- Lavable a
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BFG2VPRR{{</world>}}

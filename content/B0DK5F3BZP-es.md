@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bolsillos con solapa y cierre a presión en el pecho
 - Puños altos y botones a presión
-- Cierre de botones a presión
-- Panel en los hombros
 - Cuello de camisa
+- Bolsillos con solapa y cierre a presión en el pecho
+- Panel en los hombros
+- Cierre de botones a presión
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DK5F3BZP{{</world>}}

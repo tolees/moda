@@ -29,13 +29,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Funcionalidad : Resistente al viento
-- Largo/talla : Corto
-- Artículo : Abrigo de lana
-- Cierre : Cierre de botones
-- Puños : Puños abotonados
 - Forro : Forro de poliéster para una sensación cómoda
-- Cuello : Cuello alto
 - Bolsillos : Bolsillos delanteros
+- Cuello : Cuello alto
+- Puños : Puños abotonados
+- Artículo : Abrigo de lana
+- Largo/talla : Corto
+- Cierre : Cierre de botones
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CLDSZYNN{{</world>}}

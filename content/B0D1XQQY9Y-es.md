@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Puños ajustables con botones a presión
+- Aberturas laterales
 - Bolsillos delanteros con cremallera, cogidos en la costura
 - Cierre de cremallera
-- Aberturas laterales
+- Puños ajustables con botones a presión
 - Cuello alzado
 
 [🛒 Comprar!!!]({{< param buyurl >}})

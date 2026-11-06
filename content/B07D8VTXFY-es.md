@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Lavar a máquina a 40°
 - Tinte de gran calidad
+- Lavar a máquina a 40°
 - 100% Algodón
 - Corte estándar - se ajusta al tallaje real
 - Moderna camiseta de hombre

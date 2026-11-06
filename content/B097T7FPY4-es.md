@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Canvas
 - Plain
+- Canvas
 - Textile
-- Suede. Rubber. Lacing
 - Flat
+- Suede. Rubber. Lacing
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B097T7FPY4{{</world>}}

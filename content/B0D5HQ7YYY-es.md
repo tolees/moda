@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Tejido ligero y suave
-- Logotipo de la marca en el pecho
 - Con un ajuste cómodo
+- Logotipo de la marca en el pecho
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D5HQ7YYY{{</world>}}

@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Almohadillas nasales de goma
+- Full Rim
 - 100% Protección UV
 - Rectángulo modificado
-- Lentes polarizadas
-- Full Rim
 - Curva de base 8
-- Almohadillas nasales de goma
+- Lentes polarizadas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09GXB8CPF{{</world>}}

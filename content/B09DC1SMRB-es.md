@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Resistente a la intemperie: resistente al agua
-- Bolsillos: 2 bolsillos
 - Tipo de capucha: con capucha
+- Bolsillos: 2 bolsillos
 - Longitud: Longitud de la cadera
+- Resistente a la intemperie: resistente al agua
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09DC1SMRB{{</world>}}

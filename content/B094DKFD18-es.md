@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - __ Cuello:__ cuello redondo
 - __Tejido:__ Tejido de algodón [200 g / m2]
-- Estampado en el pecho
 - __ Corte:__ corte normal, clásico, cómodo
+- Estampado en el pecho
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B094DKFD18{{</world>}}

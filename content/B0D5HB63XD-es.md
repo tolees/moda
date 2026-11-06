@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Ajuste : Regular
+- Básicos
 - Descubre todas las marcas de EMP!
 - Sudadera con capucha con las siguientes características:
-- Ajuste : Regular
 - Sudadera con capucha || Ajuste normal || Color intenso || Material duradero
-- Básicos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D5HB63XD{{</world>}}

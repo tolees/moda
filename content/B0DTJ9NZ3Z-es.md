@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Una chaqueta clásica de camionero en un ajuste regular
-- 100% algodón
 - Auténtica mezclilla rígida media
+- 100% algodón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DTJ9NZ3Z{{</world>}}

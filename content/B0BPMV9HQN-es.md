@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cojín de contorno
 - Clarks Shoes, WallabeeEVO, Dark Sand Suede, 10,5 (Men)
+- Cojín de contorno
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BPMV9HQN{{</world>}}

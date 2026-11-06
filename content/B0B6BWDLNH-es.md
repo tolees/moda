@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Corte : Corte slim
-- Manga : Manga larga
 - Modo de vida : Tradicional
 - Artículo : Camisa
 - Cierre : Cierre de botones
+- Manga : Manga larga
 - Cuello : Cuello de camisa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

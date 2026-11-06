@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- blue jeans stone washed
 - slim fit jeans
+- blue jeans stone washed
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07L9HRQPN{{</world>}}

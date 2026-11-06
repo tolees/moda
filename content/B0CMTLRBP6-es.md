@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Transpirable
+- Comodidad
 - 0 unidades
 - Regulación de la humedad
-- Comodidad
-- Transpirable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CMTLRBP6{{</world>}}

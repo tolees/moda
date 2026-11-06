@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Marca: Sisttke
 - Tamaño: EU 39
 - Color: Verde
+- Marca: Sisttke
 - tipo de producto: SHOES
 - Zuecos Hombres Mujeres Zapatillas de Playa Sandalias Piscina Vernano Zapatos de Jardín Respirable Malla Casual Pantuflas, Verde, 39 EU
 

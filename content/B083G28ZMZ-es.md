@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Paquete de 3 pares
 - Tejido suave
+- Paquete de 3 pares
 - Acolchado en zonas clave
 
 [🛒 Aquí!!!]({{< param buyurl >}})

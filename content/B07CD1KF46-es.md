@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Talla Calzado 41
 - Zapatillas deportivas
+- Talla Calzado 41
 - Marca Skechers
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

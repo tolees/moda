@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Suela flexible de tracción
 - Cierre adaptativo
-- Ligera
 - Empeine sintético con cierre ajustable en el empeine
+- Ligera
 - Sandalia ligera con detalles lineales
 
 [🛒 Comprar!!!]({{< param buyurl >}})

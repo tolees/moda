@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Disfruta de tu estilo
+- Explora nuestra gama de productos
 - Creado con atención al detalle
 - Vans Cartera de tres pliegues para hombre
-- Explora nuestra gama de productos
-- Disfruta de tu estilo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09N7MB5MN{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Daily Forest Collection
 - Pijama Largo
+- Daily Forest Collection
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FJ1SXJPJ{{</world>}}

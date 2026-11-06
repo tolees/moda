@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Sin pfc
-- Cremallera en el bolsillo del pecho resistente al agua ykk
-- Artículos entregados: 1x helly hansen womens w snowplay jacket - ins jacket black xs
 - Producto bluesign
+- Artículos entregados: 1x helly hansen womens w snowplay jacket - ins jacket black xs
+- Cremallera en el bolsillo del pecho resistente al agua ykk
 - Helly tech performance
 
 [🛒 Aquí!!!]({{< param buyurl >}})

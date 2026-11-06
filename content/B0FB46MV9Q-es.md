@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Sandalia anatómica y ligera para niña
 - Estilo deportivo casual
 - Óptima para afrontar cualquier aventura al aire libre
-- Sandalia anatómica y ligera para niña
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FB46MV9Q{{</world>}}

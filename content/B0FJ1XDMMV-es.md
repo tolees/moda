@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sujetador Bustier Con Aros
 - Sequins Lace Collection
+- Sujetador Bustier Con Aros
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FJ1XDMMV{{</world>}}

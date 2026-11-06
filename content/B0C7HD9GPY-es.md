@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Forro de la capucha del mismo material
-- Corte holgado
 - Bolsillo tipo canguro
+- Corte holgado
+- Forro de la capucha del mismo material
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C7HD9GPY{{</world>}}

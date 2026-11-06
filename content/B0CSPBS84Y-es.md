@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Gamuza
 - Cierre abotonado de botonadura única
+- Gamuza
 - Longitud media
 
 [🛒 Comprar!!!]({{< param buyurl >}})

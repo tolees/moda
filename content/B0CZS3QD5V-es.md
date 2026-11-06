@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cuello redondo de canalé
 - 100% algodón
 - Corte clásico
-- Cuello redondo de canalé
 - Hombros con las costuras caídas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

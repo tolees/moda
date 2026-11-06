@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Instrucciones de cuidado: lavable a máquina
+- Jeans Pantalones Largos
 - Ajuste: ajuste holgado
 - Composición: 67 por ciento algodón 32 por ciento lyocell 1 por ciento elastano
 - Cierre: cremallera y botón
-- Jeans Pantalones Largos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CRFC82CZ{{</world>}}

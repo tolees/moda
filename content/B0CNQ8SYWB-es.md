@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Puede ser el accesorio adecuado para todos los conjuntos
 - Presentan detalles distintivos de la marca
+- Puede ser el accesorio adecuado para todos los conjuntos
 - Artículo de marca Love Moschino
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Confeccionada por expertos con punto elástico de algodón puro, esta camiseta garantiza la máxima comodidad para el más joven de la casa con su tacto suave y transpirable
-- El color simple garantiza un estilo sin esfuerzo que garantiza que el momento de vestir sea lo más fácil posible para ti y tu hijo/a
 - Lavar a máquina según las instrucciones de la etiqueta de cuidado
+- El color simple garantiza un estilo sin esfuerzo que garantiza que el momento de vestir sea lo más fácil posible para ti y tu hijo/a
+- Confeccionada por expertos con punto elástico de algodón puro, esta camiseta garantiza la máxima comodidad para el más joven de la casa con su tacto suave y transpirable
 - Eleva el estilo diario de tu hijo con la camiseta de algodón con el logotipo de Hugo sobre cuadrado grande
 - Las mangas cortas y el clásico cuello redondo crean una silueta atemporal que trasciende perfectamente estaciones y tendencias
 

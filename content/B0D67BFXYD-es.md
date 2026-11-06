@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Versatilidad para el día a día
-- Custom Fit
 - Hecho con materiales y construcción duraderos
+- Custom Fit
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D67BFXYD{{</world>}}

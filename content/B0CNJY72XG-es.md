@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Presentan un estilo casual
 - Con trabillas para el cinturón
+- Presentan un estilo casual
 - Detalles distintivos de la marca
 
 [🛒 Visítala!!!]({{< param buyurl >}})

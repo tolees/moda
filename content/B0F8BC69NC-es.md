@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Channo Ropa Interior Térmica para Hombre: Camiseta Manga Larga y Pantalones Térmicos - Ideal para Correr y Esquiar Negro M'
-date: 2026-10-15 23:46:20
+date: 2026-11-05 19:49:03
 image: 'https://m.media-amazon.com/images/I/31gpXGXfNWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0F8BC69NC-es Channo Ropa Interior Térmica para Hombre: Camiseta Manga...'
 sku: 'B0F8BC69NC-es'
 tags: [ 'camiseta','🇪🇸', ]
-actualPrice: 16.99 EUR
+actualPrice: 16.14 EUR
 currency: EUR
-price: 16.99
+price: 16.14
 comparePrice: 24.99 EUR
 prodname: 'Channo Ropa Interior Térmica para Hombre: Camiseta Manga Larga y Pantalones Térmicos - Ideal para Correr y Esquiar Negro M'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0F8BC69NC/?tag=tolees-21'
-descuento: '32.01'
-average: '16.99'
+descuento: '35.41'
+average: '16.565'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

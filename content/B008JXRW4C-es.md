@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Descubre todas las marcas de EMP!
 - Ajuste : Regular
-- Camiseta || Mangas Normales || Cuello Redondo Sin cuello || Material duradero
 - Festival, Ropa de Calle
+- Descubre todas las marcas de EMP!
 - Camiseta con las siguientes características:
+- Camiseta || Mangas Normales || Cuello Redondo Sin cuello || Material duradero
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B008JXRW4C{{</world>}}

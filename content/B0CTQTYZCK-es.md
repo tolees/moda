@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 12 OZ DEEP BLUE POWER STRETCH DENIM
 - Colección Aged
+- 12 OZ DEEP BLUE POWER STRETCH DENIM
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CTQTYZCK{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Hecho de algodón suave
 - Se puede lavar a máquina
+- Hecho de algodón suave
 - Logotipo en el pecho y bandera en la manga
 
 [🛒 Visítala!!!]({{< param buyurl >}})

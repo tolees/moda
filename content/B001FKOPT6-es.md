@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Material exterior y interior 100 percent poliéster, de composición Hardshell
+- Cuello con capucha, costuras selladas, puños elásticas
 - Lavar a máquina a 40°C, no utilizar secadora
 - Aperturas de ventilación en parte trasera y cremallera frontal completa, cubierto
 - Protección para la lluvia, cortaviento, transpirable, impermeable
-- Cuello con capucha, costuras selladas, puños elásticas
-- Material exterior y interior 100 percent poliéster, de composición Hardshell
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B001FKOPT6{{</world>}}

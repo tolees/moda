@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Deportiva con un estilo activo
 - Con luces integradas en la suela para encender la diversión a cada paso
+- Deportiva con un estilo activo
 - Amortiguado y cómodo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

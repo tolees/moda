@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Punta redonda
 - Cómodos
+- Punta redonda
 - Amortiguación
 
 [🛒 Aquí!!!]({{< param buyurl >}})

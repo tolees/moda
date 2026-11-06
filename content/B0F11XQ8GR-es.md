@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Herrajes dorados brillantes
-- El interior cuenta con 1 bolsillo con cremallera y 3 ranuras para tarjetas
 - L: 29,2 cm de ancho x 7 cm de alto
+- El interior cuenta con 1 bolsillo con cremallera y 3 ranuras para tarjetas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F11XQ8GR{{</world>}}

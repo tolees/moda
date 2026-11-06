@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello frontal insert and piping detail
 - Cuello y logotipo impresos en agua
+- Cuello frontal insert and piping detail
 - Tejido entrelazado
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- CELESTE
-- V-26
-- MUJER
-- SANDALIAS PLANAS
 - ANCHO
+- MUJER
+- V-26
+- CELESTE
+- SANDALIAS PLANAS
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FNYMTS3R{{</world>}}

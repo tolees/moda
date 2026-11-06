@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Colección packs 2
 - Pack bragas
 - Material: 75% poliamida, 25% elastano
+- Colección packs 2
 - Lavado a máquina
 
 [🛒 Visítala!!!]({{< param buyurl >}})

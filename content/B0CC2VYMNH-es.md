@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Flexibles
 - Aspecto y tacto clásicos
 - Alta calidad
-- Flexibles
 - Cojín suave
 - Clarks Sandals, Ezoria Sling, Cream Multi, 5 (Women)
 

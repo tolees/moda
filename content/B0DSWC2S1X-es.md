@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Reinforced stitching
-- Provides comfort
-- G-Star Originals label
 - Zip & button closure
 - Cargo pockets with zippers
+- Reinforced stitching
+- G-Star Originals label
+- Provides comfort
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DSWC2S1X{{</world>}}

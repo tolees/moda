@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material principal: tejido spacer
 - Manga larga
-- Corte: normal
-- Con capucha
 - Largo: normal
+- Con capucha
+- Material principal: tejido spacer
+- Corte: normal
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DJDCK5G8{{</world>}}

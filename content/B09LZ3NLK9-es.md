@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseño: diseño de triángulo
 - Acolchado: Almohadillas extraíbles
+- Diseño: diseño de triángulo
 - Tirantes: tirantes ajustables con lazada
 - Tejido: tejido suave, elástico y resistente
 - Sujeción: sujeción baja

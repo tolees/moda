@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ligero y fácil de cuidar
 - Comodidad y ajuste
 - Suela antideslizante
+- Ligero y fácil de cuidar
 - Estilo versátil
 - Materiales de alta calidad
 

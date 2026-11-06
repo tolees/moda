@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tejido suave de calidad
+- Corte regular
 - Cuello redondo
 - Tiene un logotipo impreso, hecho de algodón, tiene un estampado en la parte delantera
-- Corte regular
 - Las mangas son cortas
+- Tejido suave de calidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DW8KDRPS{{</world>}}

@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Cintura con goma ajustable
+- Desigual
+- Color: Liso
 - Con capucha
 - Acabado metalizado
-- Desigual
 - Manga: Larga
-- Color: Liso
-- Cintura con goma ajustable
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DVCCSN3J{{</world>}}

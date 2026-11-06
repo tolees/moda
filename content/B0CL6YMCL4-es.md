@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con un tejido ligero
 - Ofrece una comodidad óptima
+- Con un tejido ligero
 - Presenta un estilo casual
 
 [🛒 Comprar!!!]({{< param buyurl >}})

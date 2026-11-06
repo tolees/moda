@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - GUÍA DE TALLAS: elige la talla más adecuada para tu bebé, siguiendo las indicaciones de la imagen
 - CHICCO: Siempre al lado de las familias, escuchando sus historias y necesidades; con nuestros productos innovadores, siempre respondemos a las nuevas necesidades de los padres y madres y de quienes cuidan a los niños
-- SANDALIAS: Sandalias Chicco, con cómodo cierre, ideales para un look casual y a la moda. Adecuadas para cualquier ocasión
 - COMODIDAD: Las sandalias Chicco son cómodas, flexibles, ligeras, transpirables y prácticas
+- SANDALIAS: Sandalias Chicco, con cómodo cierre, ideales para un look casual y a la moda. Adecuadas para cualquier ocasión
 - Nota: Según los clientes, esta prenda suele quedar algo ajustada. Si su hijo está entre dos tallas o prefiere un ajuste más holgado, le aconsejamos pedir una talla más
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

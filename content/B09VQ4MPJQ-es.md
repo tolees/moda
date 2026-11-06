@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cómodo cuello redondo.
-- Disponible en varios colores y diseños
 - Ideal para combinar con vaqueros o pantalones cortos.
-- Hecho de materiales suaves y duraderos.
 - Camisetas versátiles para cualquier ocasión
+- Cómodo cuello redondo.
+- Hecho de materiales suaves y duraderos.
+- Disponible en varios colores y diseños
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09VQ4MPJQ{{</world>}}

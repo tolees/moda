@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Longitud: regular
 - Escote: cuello redondo
+- Longitud: regular
 - Impresión frontal significativa
-- Camiseta de gran tamaño
 - Gran comodidad
+- Camiseta de gran tamaño
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C2GPP139{{</world>}}

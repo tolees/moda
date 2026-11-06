@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mezcla de tejido premium: Hecho de 100% algodón para comodidad, flexibilidad y durabilidad.
-- Múltiples tallas y largos de pierna: Disponible en tallas 4-16 y largos de pierna para un ajuste a medida.
-- Colección SS27MC: Parte de la colección.
 - Popelina: Construcción de tejido auténtica con un aspecto y sensación premium.
+- Múltiples tallas y largos de pierna: Disponible en tallas 4-16 y largos de pierna para un ajuste a medida.
+- Mezcla de tejido premium: Hecho de 100% algodón para comodidad, flexibilidad y durabilidad.
+- Colección SS27MC: Parte de la colección.
 - Estilo distintivo: Camisa de popelina de manga larga con detalles contrastantes en el interior. Bordado de contraste de color en el pecho.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

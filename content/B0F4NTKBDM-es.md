@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Una línea esencial adecuada para looks sencillos
-- Tejido suave al tacto con un toque ligero
 - Monograma frontal minimalista
+- Tejido suave al tacto con un toque ligero
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F4NTKBDM{{</world>}}

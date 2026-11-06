@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuello: cuello redondo
-- Detalles: ribete con volantes
-- Top para damas de danés
 - Tipo de producto: Top
 - Longitud/tamaño: acortado
+- Top para damas de danés
+- Detalles: ribete con volantes
+- Cuello: cuello redondo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B3NBTNMH{{</world>}}

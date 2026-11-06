@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Camiseta deportiva para hombres
 - Tiene mangas largas y cuello redondo
+- Camiseta deportiva para hombres
 - El material absorbe el calor y se seca rápidamente
 - Ofrece una comodidad óptima
 

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Para uso diario
 - Prenda de vestimenta
 - Tiene destalles distintivos de la marca
+- Para uso diario
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BYKMVJX3{{</world>}}

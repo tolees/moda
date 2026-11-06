@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Encaje elaborado – aporta un toque romántico a cualquier look en un abrir y cerrar de ojos
-- camiseta de encaje femenina y elegante
-- Con pequeño cuello alto
 - Versátil combinable: como básico de buen gusto en la vida cotidiana, para ocasiones festivas o para salir por la noche
+- Con pequeño cuello alto
+- camiseta de encaje femenina y elegante
+- Encaje elaborado – aporta un toque romántico a cualquier look en un abrir y cerrar de ojos
 - Opaco gracias al ligero tejido inferior
 
 [🛒 Aquí!!!]({{< param buyurl >}})

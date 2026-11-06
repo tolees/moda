@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Etiqueta sellada con calor en el cuello
 - Serigrafía frontal y trasera de tacto suave
+- Etiqueta sellada con calor en el cuello
 - Manga corta
 
 [🛒 Visítala!!!]({{< param buyurl >}})

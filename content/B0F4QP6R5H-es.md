@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pantalones de jogging
-- Con dos bolsillos
 - Con un cordón en la cintura
+- Con dos bolsillos
+- Pantalones de jogging
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F4QP6R5H{{</world>}}

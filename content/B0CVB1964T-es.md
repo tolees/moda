@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Ajuste perfecto
+- Logotipo impreso en la parte delantera
 - Circuncidado
 - Logotipo de clip en la parte trasera
-- Logotipo impreso en la parte delantera
-- Ajuste perfecto
 - Con corte acortado y elegante
 
 [🛒 Comprar!!!]({{< param buyurl >}})

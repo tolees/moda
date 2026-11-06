@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Traslados en la cintura
+- Corte pitillo
 - 2 bolsillos y 1 bolsillo delantero para billetes, 2 bolsillos de parche en la parte posterior
 - Cierre con cremallera y botones
 - Cintura baja
-- Corte pitillo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08CBJKYQ5{{</world>}}

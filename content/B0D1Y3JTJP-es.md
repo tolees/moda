@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Estampado gráfico en la parte delantera
-- Una mirada original
 - Proporciona comodidad
+- Una mirada original
+- Estampado gráfico en la parte delantera
 - Etiqueta de G-STAR Originals tejida en la costura lateral inferior
 - Cuello acanalado
 

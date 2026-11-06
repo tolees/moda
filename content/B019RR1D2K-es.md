@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'VELILLA 201502 Chaqueta polar color azul navy talla L'
-date: 2026-10-30 15:07:29
+date: 2026-11-05 12:35:21
 image: 'https://m.media-amazon.com/images/I/31KWEnkIUFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

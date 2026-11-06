@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SOXCO 10 Pares Quarter Calcetines Hombre Trabajo Cortos WORK Socks 43-46'
-date: 2026-11-04 19:38:06
+date: 2026-11-05 20:49:54
 image: 'https://m.media-amazon.com/images/I/51m-TyM28fL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0D2RQ1MNF/?tag=tolees-21'
 descuento: '44.87'
-average: '12.564166666666617'
+average: '12.403076923076878'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ajuste óptimo y gran comodidad
 - Camiseta de manga corta para hombre de Tom Tailor
+- Ajuste óptimo y gran comodidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DSQQK7KZ{{</world>}}

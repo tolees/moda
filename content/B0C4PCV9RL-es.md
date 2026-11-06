@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tiene detalles distintivos de la marca
 - Ajuste regular
+- Tiene detalles distintivos de la marca
 - Diseño ligero que ofrece comodidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

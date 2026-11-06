@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre de botones
 - Puño ajustable con botón
-- Un bolsillo en el pecho
-- Cuello de camisa
 - Panel en los hombros con detalle de trabilla debajo
+- Cuello de camisa
+- Un bolsillo en el pecho
+- Cierre de botones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CB1XF6FR{{</world>}}
