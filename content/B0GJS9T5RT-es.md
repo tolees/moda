@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Una camiseta que se puede combinar fácilmente con otras prendas.
-- La camiseta se fabrica mediante el proceso de impresión por pigmentos, lo que crea un efecto suave y discreto.
 - Corte holgado, cuello redondo, manga corta
 - Una camiseta clásica con el logotipo estético de la marca danesa Jack & Jones JJSTAR.
+- La camiseta se fabrica mediante el proceso de impresión por pigmentos, lo que crea un efecto suave y discreto.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GJS9T5RT{{</world>}}

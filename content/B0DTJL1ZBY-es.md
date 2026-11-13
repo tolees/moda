@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillo de parche para monedas en la parte delantera y bolsillos de parche en la parte trasera
 - Tinte y lavado reactivo
+- Bolsillo de parche para monedas en la parte delantera y bolsillos de parche en la parte trasera
 - Pantalón delgado de cinco bolsillos con estructura de tela de pana ligera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ribete en el cuello, los puños y las sisas, Bolsillo interior de seguridad
 - Ajuste óptimo gracias al dobladillo ajustable con cordón
+- Ribete en el cuello, los puños y las sisas, Bolsillo interior de seguridad
 - Contenido: 1x Columbia Chaleco para Hombre, Powder Lite II, Color: Azul (Collegiate Navy), Talla: S, Art.: 2086974
 - La tecnología reflectante Omni-Heat ofrece un mejor aislamiento para mantenerte abrigado incluso en las temperaturas más bajas
 - Chaleco termorreflectante para hombre, Adecuado para retener el calor durante los fríos meses de invierno

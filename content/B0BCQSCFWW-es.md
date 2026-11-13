@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dobladillo trasero caído
+- Ajuste estándar
 - Mangas ajustadas
 - Diseño moderno
-- Ajuste estándar
 - Gráfico serigrafiado a base de agua
+- Dobladillo trasero caído
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BCQSCFWW{{</world>}}

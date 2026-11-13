@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Una mirada original
 - Cuello acanalado
 - Proporciona comodidad
+- Una mirada original
 - Mangas con vuelta fija con remaches
 - Estampado flocado de G-STAR en el pecho
 

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pantalones para mujer de Tom Tailor
 - Ajuste óptimo y gran comodidad
+- Pantalones para mujer de Tom Tailor
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FFVHVC4T{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- camisa de negocios popelina
 - Cierre de botón, una buena camisa para cualquier ocasión
+- camisa de negocios popelina
 - Corte entallado
 
 [🛒 Visítala!!!]({{< param buyurl >}})

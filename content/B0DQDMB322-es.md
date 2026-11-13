@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Algodón de manga larga ajustada
-- Camiseta con logotipo impreso en el pecho
 - 100 % algodón
+- Camiseta con logotipo impreso en el pecho
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DQDMB322{{</world>}}

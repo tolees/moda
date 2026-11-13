@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Caucho
-- Plano
-- Sintético
-- Medio
 - Adjuntar
+- Sintético
+- Plano
+- Caucho
+- Medio
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BGQ27VRW{{</world>}}

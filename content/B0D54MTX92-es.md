@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Un botón relajado
 - Cuenta con un solo bolsillo en el pecho
+- Un botón relajado
 - Corte holgado
 
 [🛒 Visítala!!!]({{< param buyurl >}})

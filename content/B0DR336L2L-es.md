@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Plantilla extraíble Contour Cushion que ofrece comodidad duradera
 - Altura del tacón: 35 mm
+- Plantilla extraíble Contour Cushion que ofrece comodidad duradera
 - Suela flexible TR (goma termoplástica) con tacos sutiles que ofrecen la máxima tracción bajo los pies
 
 [🛒 Visítala!!!]({{< param buyurl >}})

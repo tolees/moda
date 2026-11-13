@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuello clásico
-- Cierre de botón delantero
-- hasta la cadera
 - Chaqueta ligera para mujer para cualquier ocasión
+- Cierre de botón delantero
 - Una chaqueta moderna en la oficina y el tiempo libre
+- hasta la cadera
+- Cuello clásico
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B53NZKC2{{</world>}}

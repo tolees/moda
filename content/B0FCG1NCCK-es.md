@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Puntera de doble capa
-- Correas suaves con forro de poliéster
 - Entresuela de doble densidad para mayor comodidad y apoyo
 - Cinta de lona de algodón con bordes lavados y deshilachados
+- Correas suaves con forro de poliéster
 - Soporte de arco anatómicamente correcto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

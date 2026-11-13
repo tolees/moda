@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- DETALLE 1: Expedición polar con cuello de piel sintética desmontable
-- Chaqueta de invierno para hombre
 - DETALLE 2: Parches bordados
-- DETALLE 3: Parka
+- DETALLE 1: Expedición polar con cuello de piel sintética desmontable
 - FIT: Regular Fit
+- DETALLE 3: Parka
+- Chaqueta de invierno para hombre
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CJ2RYS2W{{</world>}}

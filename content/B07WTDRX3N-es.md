@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Proporciona protección y visibilidad óptima
-- Material resistente y duradero
 - Gafas de natación unisex adulto
+- Material resistente y duradero
 - Correas ajustables
 
 [🛒 Aquí!!!]({{< param buyurl >}})

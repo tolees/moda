@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tipo de cierre: cierre de mosquetón seguro
-- Longitud: 50 cm, ancho: 1,15 cm
 - Color y material: acero inoxidable plomizo
+- Longitud: 50 cm, ancho: 1,15 cm
+- Tipo de cierre: cierre de mosquetón seguro
 - Acabado: mate
 
 [🛒 Aquí!!!]({{< param buyurl >}})

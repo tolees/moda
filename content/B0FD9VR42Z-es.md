@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 98 % algodón, 2 % elastano
 - Pantalón largo de terciopelo 1500 rayas elásticas, con cintura alta y espalda elástica, planchado en la pierna delantera y trasera, apertura frontal con botón y cremallera, pierna ancha en la parte inferior
+- 98 % algodón, 2 % elastano
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FD9VR42Z{{</world>}}

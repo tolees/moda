@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Botón con ojal en la manga para acortar el largo si se desea
 - Bolsillos en el pecho, uno de ellos doble
 - Bajo recto y ligeramente largo por detrás con aberturas
+- Botón con ojal en la manga para acortar el largo si se desea
 - Cuello de camisa
 - Panel en el hombro, pliegue cogido en la costura
 

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Logo de la marca en el frente
-- Mangas cortas
 - Camiseta deportiva
+- Mangas cortas
 - Para ambos géneros
+- Logo de la marca en el frente
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09XMW1MY2{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Proporciona comodidad
-- Hebilla con el grabado de G-STAR
 - Logotipo estampado en el extremo
+- Hebilla con el grabado de G-STAR
+- Proporciona comodidad
 - Correa de piel gruesa con acabado cuarteado
 - Hebilla de metal pintada y pulida
 

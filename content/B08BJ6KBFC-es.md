@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camisa para hombre en estándar
 - La parte superior se puede combinar bien
+- Camisa para hombre en estándar
 - Ajuste: corte ajustado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Ajuste holgado
 - Camiseta
-- Manga corta
 - Composición del material: 100 % algodón
+- Manga corta
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F443C6MZ{{</world>}}

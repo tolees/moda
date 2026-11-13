@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Ropa interior deportiva para hombre
+- Comodidad diaria sencilla
 - Cinturilla elástica cómoda
 - Tejido suave al tacto
-- Comodidad diaria sencilla
-- Ropa interior deportiva para hombre
 - Ajuste cómodo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

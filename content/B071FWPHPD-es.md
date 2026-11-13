@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajuste : Estrechos
 - Básicos, Ropa casual, Ropa de Calle
 - Leggins con las siguientes características:
-- Leggings || Longitud: Largo || altura de la cintura: Talla Mediana
+- Ajuste : Estrechos
 - Descubre todas las marcas de EMP!
+- Leggings || Longitud: Largo || altura de la cintura: Talla Mediana
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B071FWPHPD{{</world>}}

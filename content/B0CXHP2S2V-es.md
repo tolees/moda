@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Material: 80% algodón, 20% polyester
 - Licencia de Bethesda
+- Material: 80% algodón, 20% polyester
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CXHP2S2V{{</world>}}

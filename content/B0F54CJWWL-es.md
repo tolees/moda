@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material Principal: 100% Poliéster(100% Reciclado) / Forro: 100% Poliéster(100% Reciclado) / Acolchado: 100% Poliuretano / Acolchado: 100% Polietileno
-- Dimensiones: 36 cm × 40 cm
 - Bolsillos sin cierre divididos
+- Dimensiones: 36 cm × 40 cm
+- Material Principal: 100% Poliéster(100% Reciclado) / Forro: 100% Poliéster(100% Reciclado) / Acolchado: 100% Poliuretano / Acolchado: 100% Polietileno
 - Capacidad: 32 L
 
 [🛒 Comprar!!!]({{< param buyurl >}})

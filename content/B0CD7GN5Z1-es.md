@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material: Acero inoxidable pulido con chapado iónico oro amarillo
+- Cierre: mosquetón
+- Collar de eslabones de bordillo para hombres de Lacoste
 - Longitud del collar: 55,8 cm
 - Esta pieza de joyería está adornada con el famoso logo de Lacoste, un cocodrilo esmaltado en color
-- Collar de eslabones de bordillo para hombres de Lacoste
-- Cierre: mosquetón
+- Material: Acero inoxidable pulido con chapado iónico oro amarillo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CD7GN5Z1{{</world>}}

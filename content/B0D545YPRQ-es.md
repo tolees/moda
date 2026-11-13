@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tejido ligero
 - Producto de calidad óptima
+- Tejido ligero
 - Replica oficial primera equipación Real Madrid
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

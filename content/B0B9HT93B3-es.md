@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseño de sandalia de río con correa ajustable en el tobillo
 - Amortiguación ligera y sensible ultra go
 - Suela de tracción flexible
+- Diseño de sandalia de río con correa ajustable en el tobillo
 - Plantilla contorneada Goga Mat cómoda
 
 [🛒 Aquí!!!]({{< param buyurl >}})

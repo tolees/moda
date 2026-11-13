@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Ofrece comodidad y libedad de movimiento
 - Tela suave
-- Tiene detalles distintivos de la marca
 - Camiseta de manga corta
+- Tiene detalles distintivos de la marca
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BQW7XBQ7{{</world>}}

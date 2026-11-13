@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con logotipo discreto
 - Combina perfectamente con cualquiera de estos vaqueros
+- Con logotipo discreto
 - La camiseta básica perfecciona
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

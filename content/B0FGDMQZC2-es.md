@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diseño atemporal
 - Adecuado para múltiples ocasiones
 - Jersey de manga larga
+- Diseño atemporal
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FGDMQZC2{{</world>}}

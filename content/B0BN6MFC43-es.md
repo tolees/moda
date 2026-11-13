@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Tejido de algodón jersey ligero (150 g)
-- Ajuste cómodo: más relajado, ajuste generoso para un rango completo de movimiento
 - Logotipo impreso
+- Ajuste cómodo: más relajado, ajuste generoso para un rango completo de movimiento
 - Tallas de XS a XXL
 
 [🛒 Aquí!!!]({{< param buyurl >}})

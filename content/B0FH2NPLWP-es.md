@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Camiseta
 - Composición: 70 por ciento viscosa 30 por ciento de lino
+- Camiseta
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FH2NPLWP{{</world>}}

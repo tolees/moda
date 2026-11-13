@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello de camisa
-- Bolsillos con solapa en el pecho con cierre de botón
 - Puños ajustables con cierre de botón
+- Bolsillos con solapa en el pecho con cierre de botón
 - Panel en los hombros
+- Cuello de camisa
 - Cierre de botones
 
 [🛒 Comprar!!!]({{< param buyurl >}})

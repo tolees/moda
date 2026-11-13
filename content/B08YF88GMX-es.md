@@ -31,8 +31,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - Ideal para viajes, aporta beneficio inmediata.
 - Presentación práctica de alta calidad, fácil de usar y llevar contigo.
 - MOSCHINO Moschino Toy 2 Bubble Gum Edt Sp 50 Ml – Other Beauty auténtico y reconocido.
-- MOSCHINO colonia duradero con aroma único.
 - Disfruta de una experiencia de energía con cada aplicación.
+- MOSCHINO colonia duradero con aroma único.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08YF88GMX{{</world>}}

@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cintura elástica con cordón redondo en el exterior.
-- Detalles sobre el producto
 - Bolsillos para las manos
+- Detalles sobre el producto
 - Lavar a máquina
 - 58% algodón/23% viscosa/19% poliéster. Bolsillo delantero: 100% algodón; Cintura: 49 % viscosa/47 % algodón/4 % spandex.
 

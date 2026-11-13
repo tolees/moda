@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Un bonito bolsillo en el pecho en el medio
 - Dos bolsillos laterales
 - Dos bolsillos traseros
-- Un bonito bolsillo en el pecho en el medio
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BWYKBB47{{</world>}}

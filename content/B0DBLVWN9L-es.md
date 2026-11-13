@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Decorado con el logotipo de la marca
 - Extremadamente suave
+- Decorado con el logotipo de la marca
 - Buena calidad
 - Cómodo
 

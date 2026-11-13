@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ajuste: cintura alta flaco
+- Composición: 90 por ciento de algodón 7 por ciento elastomultiéster 3 por ciento de elastano
 - Jeans Pantalones Largos
 - Tipo de estiramiento: alta elasticidad
-- Composición: 90 por ciento de algodón 7 por ciento elastomultiéster 3 por ciento de elastano
+- Ajuste: cintura alta flaco
 - Instrucciones de cuidado: apto para lavadora
 
 [🛒 Aquí!!!]({{< param buyurl >}})

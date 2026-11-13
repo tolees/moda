@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Durabilidad con material sostenible
 - Tiene detalles distintivos de la marca
-- Camiseta para hombre de la marca Jack&Jones
 - De manga corta
 - Ajuste cómodo
+- Durabilidad con material sostenible
+- Camiseta para hombre de la marca Jack&Jones
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CL89W5KH{{</world>}}

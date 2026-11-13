@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ofrece comodidad y libertad de movimiento
-- Capucha con cordón
 - Tecnología Dri-Fit
+- Capucha con cordón
+- Ofrece comodidad y libertad de movimiento
 - Ajuste regular
 
 [🛒 Visítala!!!]({{< param buyurl >}})

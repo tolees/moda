@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello, puños y dobladillo de punto acanalado
 - Tommy jeans Logotipo bordado en el pecho
+- Cuello, puños y dobladillo de punto acanalado
 - Tommy jeans Marca:
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

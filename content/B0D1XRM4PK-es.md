@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Interior: trabilla para colgar, cordón ajustable en la cintura y bolsillo interior
 - Bolsillo con cremallera en el pecho, bolsillos con solapa en la cintura, cierre abotonado
 - Capucha con visera elevada y cordones
 - Cierre con cremallera oculta y botones
+- Interior: trabilla para colgar, cordón ajustable en la cintura y bolsillo interior
 - Puños internos, acanalados
 
 [🛒 Comprar!!!]({{< param buyurl >}})

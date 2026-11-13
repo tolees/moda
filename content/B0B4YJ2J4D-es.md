@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Artículos entregados: 1x Helly-Hansen mens patrol parka - parka deep fjord XL
 - Cremallera bidireccional ykk
+- Artículos entregados: 1x Helly-Hansen mens patrol parka - parka deep fjord XL
 - Forro interior teñido en solución e.dye
 - Aislamiento soplable sintético
 - Primaloft black

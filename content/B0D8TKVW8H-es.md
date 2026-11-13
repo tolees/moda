@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sudadera con capucha del equipo New York Giants de New Era | El accesorio perfecto para todos los fans de la NFL
 - Elegante sudadera con capucha y bolsillo canguro | Impresión del logo del equipo en la parte delantera
+- Sudadera con capucha del equipo New York Giants de New Era | El accesorio perfecto para todos los fans de la NFL
 - Fabricada con material de alta calidad y duradero
 
 [🛒 Aquí!!!]({{< param buyurl >}})

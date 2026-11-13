@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Puños y dobladillo acanalados
-- Corte regular
 - Cremallera completa
 - Rayas de contraste dentro del cuello acanalado
+- Corte regular
+- Puños y dobladillo acanalados
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BG5GX7PD{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cocodrilo bordado y cosido en el pecho: estilo Lacoste
-- Capucha con forro de punto: comodidad y protección durante todo el año
-- Bolsillo tipo canguro: tan práctico como siempre
-- Felpa de algodón ecológico cepillado: un tejido ecológico y respetuoso con el medioambiente
 - Classic fit; comodidad natural: una silueta contemporánea
+- Bolsillo tipo canguro: tan práctico como siempre
+- Capucha con forro de punto: comodidad y protección durante todo el año
+- Felpa de algodón ecológico cepillado: un tejido ecológico y respetuoso con el medioambiente
+- Cocodrilo bordado y cosido en el pecho: estilo Lacoste
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09N9YQJGL{{</world>}}

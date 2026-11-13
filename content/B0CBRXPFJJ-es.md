@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ofrece comodidad y libertad de movimiento
 - Con logotipo
+- Ofrece comodidad y libertad de movimiento
 - Con un diseño minimalista
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

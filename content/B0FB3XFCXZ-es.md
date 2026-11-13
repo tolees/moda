@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Pensada para la vida en la ciudad
 - Deportiva para hombre de estilo dinámico y contemporáneo
 - Ofrece transpirabilidad y comodidad
-- Pensada para la vida en la ciudad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FB3XFCXZ{{</world>}}

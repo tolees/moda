@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Pepe Jeans Original Basic Camiseta para Hombre Slim Fit Manga Larga Azul L'
-date: 2026-04-25 12:40:10
-image: 'https://m.media-amazon.com/images/I/41YV5pRbrML._SL500_._SL400_.jpg'
+title: 'Pepe Jeans London Original Basic 2 Long Camiseta de Hombre Slim Fit Navy'
+date: 2026-11-13 08:37:49
+image: 'https://m.media-amazon.com/images/I/31wSPRC8mML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B09RMMX25G-es Pepe Jeans Original Basic Camiseta para Hombre Slim Fit...'
+slug: 'B09RMMX25G-es Pepe Jeans London Original Basic 2 Long Camiseta de Hombre...'
 sku: 'B09RMMX25G-es'
 tags: [ 'camiseta','🇪🇸', ]
-actualPrice: 24.64 EUR
+actualPrice: 13.98 EUR
 currency: EUR
-price: 24.64
-comparePrice: 29.9 EUR
-prodname: 'Pepe Jeans Original Basic Camiseta para Hombre Slim Fit Manga Larga Azul L'
+price: 13.98
+comparePrice: 24.95 EUR
+prodname: 'Pepe Jeans London Original Basic 2 Long Camiseta de Hombre Slim Fit Navy'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09RMMX25G/?tag=tolees-21'
-descuento: '17.59'
-average: '18.5403124999998'
+descuento: '43.97'
+average: '18.272058823529221'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,6 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte Slim
-- Cuello redondo
-- Camiseta algodón manga larga
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09RMMX25G{{</world>}}

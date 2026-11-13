@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Lote de 3 camisetas
 - Tejido material suave y cómodo
 - Óptimoes de Levis
-- Etiqueta roja clásico de Levis
 - Ajuste regular
+- Lote de 3 camisetas
+- Etiqueta roja clásico de Levis
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07J6H29JJ{{</world>}}

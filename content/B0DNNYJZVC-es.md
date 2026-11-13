@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Acabado con pierna acampanada
 - Para esos días en los que un jean ceñido no funciona
 - Diseñados para favorecer, todo el día, todos los días
+- Acabado con pierna acampanada
 - Lavado a máquina
 - Tiro alto que se ajusta a la cintura
 

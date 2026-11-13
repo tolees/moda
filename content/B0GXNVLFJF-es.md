@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ARYIMYDP Conjunto de Joyas para Mujer 3 Piezas Acero Titanio Color Oro Collar Pulsera Pendientes con Diseño de Lazo Ideal para Regalos Bodas Fiestas Citas Cumpleaños y Ocasiones Especiales'
-date: 2026-11-06 01:21:48
+date: 2026-11-13 01:23:18
 image: 'https://m.media-amazon.com/images/I/31sRYq9GuyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

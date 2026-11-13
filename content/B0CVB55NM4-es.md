@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Soporte de medio cinturón
 - Suela acolchada
+- Soporte de medio cinturón
 - Acanalado en la parte superior
 - Acolchado en el talón y la puntera
 - Altura de la tripulación

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Plantilla de espuma viscoelástica
 - EN ISO 20347:2012 - OB E SRC
-- Cordones atléticos con suela Sr
+- Plantilla de espuma viscoelástica
 - Patrón de banda de rodadura antideslizante
+- Cordones atléticos con suela Sr
 - Ajuste relajado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

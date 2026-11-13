@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Con fino punto acanalado en el cuello para mayor comodidad
-- Corte ajustado
 - Gant bordado gráfico en el pecho
+- Corte ajustado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BG3KCKHH{{</world>}}

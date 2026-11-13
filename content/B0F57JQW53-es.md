@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con logotipo frontal impreso
 - 95 % algodón, 5 % elastano
+- Con logotipo frontal impreso
 - Camiseta ajustada de manga corta
 
 [🛒 Aquí!!!]({{< param buyurl >}})

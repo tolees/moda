@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Clarks Detalle de marca
-- Puntera abierta
 - No es resistente al agua
+- Puntera abierta
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CB3MSQWB{{</world>}}

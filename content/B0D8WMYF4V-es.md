@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Una mirada original
-- Manga corta
 - Elástico cómodo
 - Proporciona comodidad
 - Cuello de pico
+- Una mirada original
+- Manga corta
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D8WMYF4V{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tipo de estiramiento: no elástico
-- Composición: 69 por ciento de algodón 31 por ciento lyocell
 - Jeans Pantalones Largos
+- Composición: 69 por ciento de algodón 31 por ciento lyocell
+- Tipo de estiramiento: no elástico
 - Instrucciones de cuidado: lavable a máquina
 - Ajuste: pierna ancha de cintura alta
 

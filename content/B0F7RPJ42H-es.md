@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ofrece protección contra los rayos solares
 - Estilo informal
+- Ofrece protección contra los rayos solares
 - Montura resistente y duradera
 
 [🛒 Visítala!!!]({{< param buyurl >}})

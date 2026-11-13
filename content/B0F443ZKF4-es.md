@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bolsillos : Bolsillos delanteros
 - Largo/talla : Corto
-- Puños : Puños acanalados
-- Cuello : Cuello levantado
 - Cierre : Cierre de cremallera
-- Artículo : Chaqueta bomber
+- Bolsillos : Bolsillos delanteros
+- Puños : Puños acanalados
 - Manga : Manga larga
+- Cuello : Cuello levantado
+- Artículo : Chaqueta bomber
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F443ZKF4{{</world>}}

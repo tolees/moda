@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre con cordones
 - Calzado deportivo
+- Cierre con cordones
 - Para uso diario
 
 [🛒 Comprar!!!]({{< param buyurl >}})

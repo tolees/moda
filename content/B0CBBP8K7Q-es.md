@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Logotipo de CC en la parte delantera. Tamaño: __ 12 [H] x 39 [B] cm __Volumen:__ 1,5 L
 - 1 compartimento principal con llavero interior
+- Logotipo de CC en la parte delantera. Tamaño: __ 12 [H] x 39 [B] cm __Volumen:__ 1,5 L
 - Soporte para teléfono móvil, bolsillo trasero, bolsillo delantero
 
 [🛒 Visítala!!!]({{< param buyurl >}})

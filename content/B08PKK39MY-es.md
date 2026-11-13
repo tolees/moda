@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NIKE Victori One Chanclas Hombre Black White 001 41 EU'
-date: 2026-11-11 20:35:43
+date: 2026-11-13 13:46:34
 image: 'https://m.media-amazon.com/images/I/21up7RvoVIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08PKK39MY/?tag=tolees-21'
 descuento: '65.81'
-average: '21.079090909090937'
+average: '19.834615384615407'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

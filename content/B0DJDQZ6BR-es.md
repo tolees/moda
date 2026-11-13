@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Manga corta
+- Material principal: punto simple
 - Cuello: cuello redondo
 - Corte: normal
-- Material principal: punto simple
 - Largo: corto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

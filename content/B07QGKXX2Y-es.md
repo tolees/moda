@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - AJUSTE CEÑIDO: Ajuste ceñido en hombros, pecho y cintura.
-- CAMISETA DE DIARIO CON CUELLO HENLEY: Esta camiseta de cuello henley se puede llevar sola o como una capa adicional de abrigo, y es un básico de armario muy versátil para todo el año.
 - TEJIDO TÉRMICO LIGERO TIPO GOFRE: Una mezcla de algodón supersuave, tejida con textura de gofre.
+- CAMISETA DE DIARIO CON CUELLO HENLEY: Esta camiseta de cuello henley se puede llevar sola o como una capa adicional de abrigo, y es un básico de armario muy versátil para todo el año.
 - DETALLES: Ribete de canalé en el escote y los puños de las mangas, tapeta central delantera de tres botones y detalle de media luna en la nuca.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

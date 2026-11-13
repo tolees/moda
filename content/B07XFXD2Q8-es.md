@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Manga larga
 - Nailon y poliéster
 - Logotipo PUMA Cat en el pecho
+- Manga larga
 - Con capucha
 
 [🛒 Aquí!!!]({{< param buyurl >}})

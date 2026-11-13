@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Camiseta de pantalla
 - Tops
+- Camiseta de pantalla
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DPG678P4{{</world>}}

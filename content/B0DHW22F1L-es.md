@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Horma clásica
-- Suela de goma
-- Mediasuela con plataforma
-- Forro textil
 - Empeine de piel sintética
+- Horma clásica
 - Cierre de cordones
+- Suela de goma
+- Forro textil
+- Mediasuela con plataforma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DHW22F1L{{</world>}}

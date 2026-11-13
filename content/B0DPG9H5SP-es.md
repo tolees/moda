@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - __Lavado:__ azul medio conseguido a través de múltiples procesos para un look vintage
-- __Otros:__ bolsillo interior con estampado Denim Story
 - __Tejido:__ mezcla de algodón y elastano [15 oz.]
+- __Otros:__ bolsillo interior con estampado Denim Story
 - __Corte:__ corte recto ligeramente con volumen
 - __Marca:__ etiqueta en el bolsillo para billetes, parche de cuero en la parte posterior de la cintura, etiqueta con el logo en el bolsillo trasero
 

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Corte ajustado
 - 100% poliéster (reciclado)
 - Espacio para personalización
-- Corte ajustado
 - AEROREADY
 - Cuello redondo de canalé
 

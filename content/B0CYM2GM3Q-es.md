@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ajuste relajado, pide una talla más pequeña si prefieres un ajuste ceñido
-- Marca
 - Sudadera de mezcla de algodón
 - La sudadera Shield C-NECK SWEAT de Gant
+- Marca
+- Ajuste relajado, pide una talla más pequeña si prefieres un ajuste ceñido
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CYM2GM3Q{{</world>}}

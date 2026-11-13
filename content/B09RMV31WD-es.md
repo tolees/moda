@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fit: regular
 - Outer material: cotton
 - Cotton
+- Fit: regular
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09RMV31WD{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 🏁 Diseño inspirado en la temporada 25/26: Conjunto infantil de camiseta y pantalón del Real Madrid, réplica fiel de la primera equipación con escudo y patrocinadores impresos.
 - 🎁 Regalo perfecto para pequeños madridistas: Un set completo que hará feliz a cualquier fan del Real Madrid. Disponible en varias tallas infantiles.
+- 🏁 Diseño inspirado en la temporada 25/26: Conjunto infantil de camiseta y pantalón del Real Madrid, réplica fiel de la primera equipación con escudo y patrocinadores impresos.
 - 🌬️ Tejido cómodo y transpirable: Ideal para uso diario, jugar al fútbol o animar al equipo. Ligero, suave y de secado rápido.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

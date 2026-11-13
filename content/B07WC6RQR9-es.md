@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Ropa deportiva
 - Tela seca
 - Ajuste regular
-- Ropa deportiva
 - Modelo: BV6706
 
 [🛒 Comprar!!!]({{< param buyurl >}})

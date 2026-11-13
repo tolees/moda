@@ -29,11 +29,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cuello : cuello redondo
-- Mangas : hombros caídos
-- Manga : manga larga
 - Artículo : jersey de punto
 - Puños : puños acanalados
+- Mangas : hombros caídos
 - Corte : corte regular
+- Manga : manga larga
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DR2WJ5CT{{</world>}}

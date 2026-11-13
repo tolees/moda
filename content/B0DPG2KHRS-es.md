@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Chaqueta de nieve
 - Technical Jackets
+- Chaqueta de nieve
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DPG2KHRS{{</world>}}

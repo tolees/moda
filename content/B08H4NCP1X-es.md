@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JACK & JONES Sudadera con Capucha Logotipo'
-date: 2026-11-12 11:59:34
+date: 2026-11-13 12:32:23
 image: 'https://m.media-amazon.com/images/I/21prFSyuhyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08H4NCP1X-es JACK & JONES Sudadera con Capucha Logotipo'
 sku: 'B08H4NCP1X-es'
 tags: [ 'sudadera','🇪🇸', ]
-actualPrice: 18.99 EUR
+actualPrice: 17.99 EUR
 currency: EUR
-price: 18.99
+price: 17.99
 comparePrice: 29.99 EUR
 prodname: 'JACK & JONES Sudadera con Capucha Logotipo'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08H4NCP1X/?tag=tolees-21'
-descuento: '36.68'
-average: '19.833333333333243'
+descuento: '40.01'
+average: '19.79046511627898'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

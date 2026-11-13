@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cremallera bidireccional, panel cortavientos y cierre de botones a presión oculto
-- Bolsillo y trabilla en el interior
 - Capucha con visera, alzada por delante y con cordón ajustable por dentro
 - Cintura ajustable con cordón en el interior
+- Bolsillo y trabilla en el interior
 - Bolsillos con solapa en el pecho y en la cintura, botones a presión ocultos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

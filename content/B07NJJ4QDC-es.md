@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fácil de combinar
 - Prenda básica imprescindible
+- Fácil de combinar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07NJJ4QDC{{</world>}}

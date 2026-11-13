@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ligero, Encaje clasico, Manga de doble puntada y bastilla baja
 - 23AKTI00021B-001
+- Ligero, Encaje clasico, Manga de doble puntada y bastilla baja
 - Officially Licensed Attack on Titan Apparel for Men - Women - Boys and Girls; Eren Yeager T-Shirts; Colossal Titan T-Shirts; Japanese Manga T-Shirts; Shingeki No Kyojin T-Shirts; Eren Jaeger T-Shirts;
 
 [🛒 Aquí!!!]({{< param buyurl >}})

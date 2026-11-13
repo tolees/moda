@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Trabillas para cinturón
 - Cierre de cremallera
+- Trabillas para cinturón
 - Dos bolsillos traseros
 
 [🛒 Aquí!!!]({{< param buyurl >}})

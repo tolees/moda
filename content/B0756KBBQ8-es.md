@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Estilo: sandalias deportivas
+- Estilo de la punta: punta abierta
+- Tipo de cierre: velcro
 - Material: tela
 - Material de la suela: hecho a mano
-- Tipo de cierre: velcro
-- Estilo de la punta: punta abierta
-- Estilo: sandalias deportivas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0756KBBQ8{{</world>}}

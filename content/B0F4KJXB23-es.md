@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Hecho de algodón suave
 - Logotipo en el pecho y bandera en la manga
+- Hecho de algodón suave
 - Se puede lavar a máquina
 
 [🛒 Aquí!!!]({{< param buyurl >}})

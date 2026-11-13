@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Una camiseta clásica con el logotipo estético de la marca danesa Jack & Jones JJSTAR.
 - Una camiseta que se puede combinar fácilmente con otras prendas.
+- Una camiseta clásica con el logotipo estético de la marca danesa Jack & Jones JJSTAR.
 - Corte holgado, cuello redondo, manga corta
 - La camiseta se fabrica mediante el proceso de impresión por pigmentos, lo que crea un efecto suave y discreto.
 

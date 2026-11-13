@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Este estilo ha sido producido de manera sostenible
 - Este es un producto auténtico y original Geox
+- Este estilo ha sido producido de manera sostenible
 - asegura un ajuste óptimo
 - Cómodo de llevar
 

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- manga corta
+- Programa Core
 - Corte estándar
 - Cuello redondo
-- manga corta
 - Costuras de contraste
-- Programa Core
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D4VSJLHY{{</world>}}

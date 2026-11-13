@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Logo de la marca bordado en el pecho
 - Camiseta básica de Tommy Hilfiger
+- Logo de la marca bordado en el pecho
 - Adecuada para completar cualquier atuendo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

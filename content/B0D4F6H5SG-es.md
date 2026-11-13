@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Contenido: 1x Columbia Camiseta Estampada para Hombre, Rapid Ridge II, Color: Naranja (Tuscan, Heavenly Horizons), Talla: L, Art.: 1934824
 - Adecuada para el día a día ya sea con unos vaqueros o unos pantalones cortos
-- Camiseta estampada para hombre, Ligera y fresca, Un básico imprescindible para el verano
 - Diseño del logotipo de Columbia en la espalda con colores vivos
+- Camiseta estampada para hombre, Ligera y fresca, Un básico imprescindible para el verano
 - Disponible en una gran variedad de colores modernos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

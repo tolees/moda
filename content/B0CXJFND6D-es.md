@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Mangas ajustadas
 - Bolsillo tipo canguro
 - Material cepillado con interior suave
-- Mangas ajustadas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CXJFND6D{{</world>}}

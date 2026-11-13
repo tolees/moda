@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Vestido Midi
 - Vestido Lencero
+- Vestido Midi
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FCMX53X4{{</world>}}

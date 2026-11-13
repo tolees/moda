@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sudadera de corte clásico
 - Cierre de cordón ajustable
+- Sudadera de corte clásico
 - Puños y bajo con ribete de punto elástico
-- Logotipo bordado en la parte delantera
 - Bolsillos tipo canguro
+- Logotipo bordado en la parte delantera
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07C2LVQY3{{</world>}}

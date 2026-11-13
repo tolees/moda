@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Adjuntar
-- Caucho
 - Medio
 - Plano
 - Sintético
+- Caucho
+- Adjuntar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BGQ4J46P{{</world>}}

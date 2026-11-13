@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Botón
 - Corte regular
 - Manga larga
-- Botón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CL58FSPG{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Clip trasero con curvatura ergonómica
 - Puente nasal ajustable
 - Montura de perfil muy bajo
-- Clip trasero con curvatura ergonómica
 - Cristales hidroscópicos curvados con una forma que permite la máxima visión periférica y foveal
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

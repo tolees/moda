@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Jersey Jersey
 - Jersey Básico
+- Jersey Jersey
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FCSLNC9H{{</world>}}

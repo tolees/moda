@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Agradable comodidad gracias al algodón suave.
 - Cuello redondo y elástico acanalado, dobladillo y puños
 - Alpha Industries Sweater Basic en los colores de moda.
-- Agradable comodidad gracias al algodón suave.
 - Logotipo impreso en el pecho con serigrafía de alta calidad.
 - Con logo en Saumende.
 

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'JACK & JONES Jjestar Jj Sweat Hood Noos Sudadera con capucha Hombre Negro L'
-date: 2026-03-22 13:30:29
-image: 'https://m.media-amazon.com/images/I/31j9SjGf12L._SL500_._SL400_.jpg'
+date: 2026-11-13 09:39:06
+image: 'https://m.media-amazon.com/images/I/31x+y3JJzXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0BHXHSXRQ/?tag=tolees-21'
 descuento: '50.01'
-average: '18.99'
+average: '19.323333333333331'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,6 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sudadera con capucha informal para hombre de JACK & JONES
-- Logotipo de la marca troquelado con aspecto 3D en la parte delantera
-- Mezcla de algodón suave y agradable, material cepillado con interior suave
-- Puños anchos acanalados en los puños, cintura ancha acanalada en el dobladillo
-- Bolsillo canguro con interior suave, capucha con cordón
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BHXHSXRQ{{</world>}}

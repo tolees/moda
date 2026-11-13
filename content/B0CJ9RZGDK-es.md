@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Elemento de protección
 - Gafas de sol para protección ocular
+- Elemento de protección
 - Gafas de sol
 
 [🛒 Comprar!!!]({{< param buyurl >}})

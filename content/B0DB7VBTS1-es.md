@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Color: Varios
 - Marca: Anekke
-- Monedero pequeño 3 compartimentos Anekke Core - Diseño funcional - Medidas: 15/10/4 cm - Accesorios y complementos mujer
 - Tipo de producto: COIN_PURSE_POUCH
+- Monedero pequeño 3 compartimentos Anekke Core - Diseño funcional - Medidas: 15/10/4 cm - Accesorios y complementos mujer
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DB7VBTS1{{</world>}}

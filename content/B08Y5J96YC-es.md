@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Marco de plástico con puente de nariz recto y doble
 - Hecho de policarbonato, aleación de zinc y cobre
-- Gafas de sol modernas con marco llamativo
+- Marco de plástico con puente de nariz recto y doble
 - Bolsa protectora con logotipo de Urban Classics y cordón
+- Gafas de sol modernas con marco llamativo
 - Lentes tintadas redondas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Material: 100% poliéster
-- La sudadera HmlCORE XK POLY S/S está diseñada tanto para deportes de interior como de exterior y se puede llevar durante el entrenamiento o el juego
 - Esta camiseta hummel también está equipada con la tecnología Beecool material, que te mantiene fresco y seco gracias a su alta transpirabilidad y al diseño de secado rápido
+- La sudadera HmlCORE XK POLY S/S está diseñada tanto para deportes de interior como de exterior y se puede llevar durante el entrenamiento o el juego
 - El jersey está hecho de material de poliéster de doble punto duradero que resiste el uso
 
 [🛒 Comprar!!!]({{< param buyurl >}})

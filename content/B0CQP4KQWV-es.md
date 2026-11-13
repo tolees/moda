@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Calcetín de cuero transpirable
 - Suela TR (goma termoplástica) antideslizante y flexible
+- Calcetín de cuero transpirable
 - Parte superior de cuero de origen responsable
 
 [🛒 Comprar!!!]({{< param buyurl >}})

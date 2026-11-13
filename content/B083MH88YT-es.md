@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Bolsillos laterales con cremallera
-- Material funcional ligero
-- Ajuste que se estrecha
-- Cinturilla de canalé elástica con cierre de cordón
 - Extremo de la pierna con cremallera
+- Ajuste que se estrecha
+- Material funcional ligero
+- Cinturilla de canalé elástica con cierre de cordón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B083MH88YT{{</world>}}

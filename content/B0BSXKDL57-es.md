@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Longitud del collar: 45,7 cm y 5,08 cm de extensor
-- Decorada con logo Calvin Klein grabado en el anillo
-- Material: Acero inoxidable pulido con chapado iónico oro amarillo
-- Collar con dije de aro de Calvin Klein
 - Cierre: mosquetón
+- Material: Acero inoxidable pulido con chapado iónico oro amarillo
+- Longitud del collar: 45,7 cm y 5,08 cm de extensor
+- Collar con dije de aro de Calvin Klein
+- Decorada con logo Calvin Klein grabado en el anillo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BSXKDL57{{</world>}}

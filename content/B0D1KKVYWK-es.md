@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Tejido ligero
 - Adecuado para los días de verano
 - Ofrece comodidad
-- Tejido ligero
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D1KKVYWK{{</world>}}

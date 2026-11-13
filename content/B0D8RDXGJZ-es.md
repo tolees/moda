@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Parte superior de forro polar
 - Capa exterior
+- Parte superior de forro polar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D8RDXGJZ{{</world>}}

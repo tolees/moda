@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Triple densidad de espuma para una mejor absorción del impacto
-- Marca: Venum
 - Cierre con un gran velcro
+- Marca: Venum
 - Pulgar atado para una mejor protección ante las lesiones
 
 [🛒 Comprar!!!]({{< param buyurl >}})

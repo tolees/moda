@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Dobladillo con cordón para un mejor ajuste, bolsillos para las manos con cremallera para tus objetos de valor, elástico en cuatro direcciones para mayor comodidad y libertad de movimiento.
-- Contenido: 1x Columbia Chaqueta Heather Canyon II para Hombre, Color: Negro, Talla: M
 - El diseño de ajuste activo ceñido al cuerpo garantiza una amplitud de movimiento total si exploras el aire libre, póntelo solo o en capas para una mayor protección frente a los elementos.
 - La chaqueta Heather Canyon II es una chaqueta softshell de aspecto elegante diseñada para actividades al aire libre o en la ciudad, fabricada con tejidos resistentes al agua y fabricada para durar.
+- Dobladillo con cordón para un mejor ajuste, bolsillos para las manos con cremallera para tus objetos de valor, elástico en cuatro direcciones para mayor comodidad y libertad de movimiento.
+- Contenido: 1x Columbia Chaqueta Heather Canyon II para Hombre, Color: Negro, Talla: M
 - Fabricado con tecnología Omni-Shield: Una tecnología duradera y de secado rápido que repele el agua y las manchas impidiendo que los líquidos se absorban en los hilos y saturen o manchen tu ropa.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

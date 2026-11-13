@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Una camisa clásica con aspecto occidental
-- SS RELAXED Fit WESTERN
-- Corte holgado
 - Con bolsillos de estilo occidental
+- Corte holgado
 - Este producto es original Levis
+- SS RELAXED Fit WESTERN
+- Una camisa clásica con aspecto occidental
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BNJ3HCP3{{</world>}}

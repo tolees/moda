@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Horma clásica
+- Forro textil
 - Puntera de ante
 - Cierre con correas autoadherentes
 - Suela de goma
-- Horma clásica
-- Forro textil
 - Forro textil
 - Empeine de piel sintética
 

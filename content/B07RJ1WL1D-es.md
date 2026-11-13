@@ -28,15 +28,15 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hecho de 95% algodón y 5% elastano
-- Cómodo de llevar
-- Clásico
-- Ajuste excepcional y una sensación suave en la piel
-- Cintura elástica tejida con logotipo
-- Closure: no hay cierre
-- 95% algodón, 5% elastano
 - Lavar a máquina
+- Cómodo de llevar
 - Tamaño: Standard
+- Ajuste excepcional y una sensación suave en la piel
+- Closure: no hay cierre
+- Hecho de 95% algodón y 5% elastano
+- Cintura elástica tejida con logotipo
+- Clásico
+- 95% algodón, 5% elastano
 - Un clásico boxer con una pierna corta, cintura elástica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

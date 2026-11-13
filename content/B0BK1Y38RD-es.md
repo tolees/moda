@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Mecanismo con botón de presión para ajustarlas fácilmente
 - Bordes muy suaves con un nuevo diseño de estrías
 - Correa de perfil bajo con división ergonómica e interior texturizado
+- Mecanismo con botón de presión para ajustarlas fácilmente
 - Montura flexible que se estira y se adapta a la nariz y al contorno de la cara
 
 [🛒 Aquí!!!]({{< param buyurl >}})

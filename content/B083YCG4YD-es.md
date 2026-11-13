@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Unisex
 - Carreteras
+- Unisex
 - Classics
 
 [🛒 Comprar!!!]({{< param buyurl >}})

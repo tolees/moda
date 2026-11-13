@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Roxy Lilyregular Night Vintage - Camiseta de Manga Corta - Chicas 4-16 - Verde.'
-date: 2026-11-06 09:22:37
+date: 2026-11-13 09:23:49
 image: 'https://m.media-amazon.com/images/I/313-XMOk-xL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

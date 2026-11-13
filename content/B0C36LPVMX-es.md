@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Cuello : Cuello redondo
 - Corte : Corte regular
+- Artículo : Camiseta
 - Manga : Manga corta
 - Modo de vida : Tradicional
-- Artículo : Camiseta
 - Mangas : Sisa en disminución
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

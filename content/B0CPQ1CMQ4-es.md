@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Plantilla desmontable
 - Ligeras y transpirables
+- Plantilla desmontable
 - Cuentan con un estilo informal
 
 [🛒 Comprar!!!]({{< param buyurl >}})

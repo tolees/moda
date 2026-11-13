@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tejido suave y cómodo
 - Presenta un estilo casual
+- Tejido suave y cómodo
 - Estampado en la parte delantera
 
 [🛒 Visítala!!!]({{< param buyurl >}})

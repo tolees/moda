@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillo delantero
-- Capucha con cordón
 - Lavar a máquina
 - Cuerpo: 80 % algodón/20 % poliéster. Forro de la capucha: 100 % algodón.
 - Puños y dobladillo elásticos
+- Capucha con cordón
+- Bolsillo delantero
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DVCDXHBF{{</world>}}

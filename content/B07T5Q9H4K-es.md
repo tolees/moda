@@ -29,11 +29,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cremallera frontal con tapeta cortaviento completa trasera
-- Capó
-- Estándar de sostenibilidad: Salewa Committed
 - Corte normal
-- Una chaqueta impermeable y transpirable de 2,5 capas que ofrece una protección ilimitada cuando se practica senderismo en la montaña.
+- Capó
 - 2 bolsillos exteriores con cremallera
+- Estándar de sostenibilidad: Salewa Committed
+- Una chaqueta impermeable y transpirable de 2,5 capas que ofrece una protección ilimitada cuando se practica senderismo en la montaña.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07T5Q9H4K{{</world>}}

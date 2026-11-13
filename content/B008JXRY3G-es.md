@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Camiseta || Mangas Normales || Cuello Redondo Sin cuello || Material duradero
 - Ropa de Calle
-- Ajuste : Regular
 - Descubre todas las marcas de EMP!
+- Ajuste : Regular
+- Camiseta || Mangas Normales || Cuello Redondo Sin cuello || Material duradero
 - Camiseta con las siguientes características:
 
 [🛒 Aquí!!!]({{< param buyurl >}})

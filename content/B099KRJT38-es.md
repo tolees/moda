@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Talla: 66
-- Lentes polarizadas de triacetato
-- Marco de goma flexible y resistente
-- De color negro
 - Longitud del puente: 18
+- Marco de goma flexible y resistente
+- Lentes polarizadas de triacetato
+- De color negro
+- Talla: 66
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B099KRJT38{{</world>}}

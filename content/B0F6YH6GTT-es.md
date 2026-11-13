@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Corte: estándar
 - Manga corta
+- Largo: estándar
 - Cuello: cuello redondo
 - Material principal: punto simple
-- Corte: estándar
-- Largo: estándar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F6YH6GTT{{</world>}}

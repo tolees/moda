@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'ONLY Bandit Faux Leather Biker Mujer Chaqueta imitación cuero Negro XL 100% viscosa'
-date: 2026-04-21 13:32:27
+title: 'ONLY ONLBANDIT Chaqueta Negra 42 | Manga larga Corto Occasionwear Proceso normal a una temperatura máxima de 30°C'
+date: 2026-11-13 15:53:39
 image: 'https://m.media-amazon.com/images/I/41DfLUMJdnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B00DVI6V1A-es ONLY Bandit Faux Leather Biker Mujer Chaqueta imitación...'
+slug: 'B00DVI6V1A-es ONLY ONLBANDIT Chaqueta Negra 42 | Manga larga Corto...'
 sku: 'B00DVI6V1A-es'
 tags: [ 'chaqueta','🇪🇸', ]
-actualPrice: 21.27 EUR
+actualPrice: 20.09 EUR
 currency: EUR
-price: 21.27
+price: 20.09
 comparePrice: 44.99 EUR
-prodname: 'ONLY Bandit Faux Leather Biker Mujer Chaqueta imitación cuero Negro XL 100% viscosa'
+prodname: 'ONLY ONLBANDIT Chaqueta Negra 42 | Manga larga Corto Occasionwear Proceso normal a una temperatura máxima de 30°C'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DVI6V1A/?tag=tolees-21'
-descuento: '52.72'
-average: '21.27'
+descuento: '55.35'
+average: '20.68'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,6 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Biker, Ropa casual, Ropa de Calle, Ropa Rockera
-- Descubre todas las marcas de EMP!
-- Ajuste : Normal
-- Chaqueta Mujer || Ajuste normal || Color intenso || Material duradero
-- Chaqueta imitación cuero con las siguientes características:
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00DVI6V1A{{</world>}}

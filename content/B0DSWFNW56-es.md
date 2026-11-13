@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- An original look
-- A comfortable fit
 - Provides comfort
 - Short sleeves
+- An original look
+- A comfortable fit
 - Graphics included
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

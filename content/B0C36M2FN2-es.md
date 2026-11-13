@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Camisa
-- Corte ajustado
 - Manga larga
+- Corte ajustado
 - Composición: 100% algodón
+- Camisa
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C36M2FN2{{</world>}}

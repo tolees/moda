@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ofrece una amortiguación excepcional a cada paso
 - Calzado transpirable
+- Ofrece una amortiguación excepcional a cada paso
 - Proporciona un confort que dura todo el día
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

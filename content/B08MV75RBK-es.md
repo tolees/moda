@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Set
 - Calzoncillos tipo bóxer
+- Set
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08MV75RBK{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pliegue del sótano con lazo holgado en la espalda
 - Gráfico bordado GANT en el bolsillo del pecho
 - Corte normal
+- Pliegue del sótano con lazo holgado en la espalda
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BG39MK8C{{</world>}}

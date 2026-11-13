@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- BÁSICO CLÁSICO EN FRENCH TERRY: Diseñado para estructura relajada y estilo atlético atemporal
 - IDEAL PARA: Uso diario y comodidad fuera del trabajo
+- BÁSICO CLÁSICO EN FRENCH TERRY: Diseñado para estructura relajada y estilo atlético atemporal
 - AJUSTE: Corte regular para comodidad durante todo el día
 - ESTILO VERSÁTIL: Color negro esencial con silueta minimalista para un look discreto inspirado en la herencia deportiva de Reebok
 - TEJIDO SUAVE Y ESTRUCTURADO: French terry 100 % algodón para una sensación acogedora y caída limpia

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Algodón elástico
 - Ajuste entallado
+- Algodón elástico
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DQY8G9XN{{</world>}}

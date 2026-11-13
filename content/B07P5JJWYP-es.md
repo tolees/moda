@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Fabricada en poliéster 195 gr
-- Cintura elástica ajustable con cordón
-- Tipo de deporte: Ropa deportiva atlética
 - Falda con pantalón interior
+- Tipo de deporte: Ropa deportiva atlética
+- Cintura elástica ajustable con cordón
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07P5JJWYP{{</world>}}

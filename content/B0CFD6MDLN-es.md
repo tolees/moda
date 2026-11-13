@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre de botón
 - Tecnología H2O-Dri
-- Cintura ajustable
 - Tela de sarga de nailon
+- Cintura ajustable
+- Cierre de botón
 - Trabillas para cinturón, bolsillos con cremallera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

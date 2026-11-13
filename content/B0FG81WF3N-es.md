@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'VITURE Beast gafas AR/XR 174" 1200p 120Hz 58° FOV 1250 nits Estándar | con Sony Micro-OLED 3DoF integrado HARMAN Audio atenuación 9 niveles para iPhone/Mac/Android/PC/Steam Deck/Switch 2'
-date: 2026-11-12 07:56:02
+date: 2026-11-13 10:05:56
 image: 'https://m.media-amazon.com/images/I/31zbxiewJdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

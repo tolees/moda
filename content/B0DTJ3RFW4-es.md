@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sensación cómoda e informal
 - Esta sudadera de cuello redondo de ajuste regular está hecha de un tejido de algodón suave y cepillado en la parte posterior
+- Sensación cómoda e informal
 - Cuenta con el icónico logotipo de Red Bull Racing
 
 [🛒 Comprar!!!]({{< param buyurl >}})

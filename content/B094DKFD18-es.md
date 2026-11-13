@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- __Tejido:__ Tejido de algodón [200 g / m2]
 - __ Cuello:__ cuello redondo
+- __Tejido:__ Tejido de algodón [200 g / m2]
 - __ Corte:__ corte normal, clásico, cómodo
 - Estampado en el pecho
 

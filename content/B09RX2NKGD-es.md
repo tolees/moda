@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Camiseta monocolor para hombre en corte XXL
 - Siguiente casco
-- Corte grande
 - Hecho de algodón
 - Mangas largas y superpuestas
+- Camiseta monocolor para hombre en corte XXL
+- Corte grande
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09RX2NKGD{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Etiqueta roja clásico de Levis
-- Ajuste regular
 - Lote de 3 camisetas
 - Óptimoes de Levis
+- Etiqueta roja clásico de Levis
+- Ajuste regular
 - Tejido material suave y cómodo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

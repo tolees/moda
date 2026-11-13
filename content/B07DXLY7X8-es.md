@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Marino
 - Camiseta entrenamiento
 - Tipo de fábrica: Poliéster
-- Marino
 - Training
 
 [🛒 Aquí!!!]({{< param buyurl >}})

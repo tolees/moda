@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Regulador en el interior de la cintura con goma elastica
-- Cierre de cremallera y botón
-- Fit Flare, estilo cargo y tiro medio
 - Detalle en bolsillos delanteros
+- Fit Flare, estilo cargo y tiro medio
+- Regulador en el interior de la cintura con goma elastica
 - Pantalón en tejido sarga elástica para niña
+- Cierre de cremallera y botón
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FCSMW4XS{{</world>}}

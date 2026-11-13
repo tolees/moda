@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Estilo de jersey
 - Camiseta de manga corta
 - Logotipo de caja de texto
-- Estilo de jersey
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FDL75TK7{{</world>}}

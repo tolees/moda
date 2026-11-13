@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cordón de ajuste dentro de la capucha
-- PrimaLoft NEGRO
 - YKK VISLON
+- Cordón de ajuste dentro de la capucha
 - cintura ajustable
 - RENDIMIENTO HELLY TECH
+- PrimaLoft NEGRO
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BKLQJ91S{{</world>}}

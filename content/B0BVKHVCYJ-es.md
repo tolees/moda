@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- NO
 - Garantía internacional de 2 años
 - Talla 63/12/145
+- NO
 - GOLD BLACK/BROWN SHADED
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pijama Largo
 - Artic Collection
+- Pijama Largo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FJ1R4C2N{{</world>}}

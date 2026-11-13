@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvin Klein Calzoncillos bóxer Hombre Pack de 3 Trunks Ropa interior Negro Black M'
-date: 2026-10-10 13:44:04
+date: 2026-11-12 23:46:26
 image: 'https://m.media-amazon.com/images/I/418U32+aWrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B001BEAWXY-es Calvin Klein Calzoncillos bóxer Hombre Pack de 3 Trunks...'
 sku: 'B001BEAWXY-es'
 tags: [ 'bóxer','🇪🇸', ]
-actualPrice: 27.95 EUR
+actualPrice: 26.5 EUR
 currency: EUR
-price: 27.95
+price: 26.5
 comparePrice: 44.9 EUR
 prodname: 'Calvin Klein Calzoncillos bóxer Hombre Pack de 3 Trunks Ropa interior Negro Black M'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B001BEAWXY/?tag=tolees-21'
-descuento: '37.75'
-average: '26.8663829787236'
+descuento: '40.98'
+average: '26.858750000000189'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

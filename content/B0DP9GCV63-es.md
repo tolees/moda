@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Collar de la cinta
 - Material: algodón [160 g/m2]
 - Quiksilver recycled woven label pack
 - Quiksilver branding embroidery on chest
+- Collar de la cinta
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DP9GCV63{{</world>}}

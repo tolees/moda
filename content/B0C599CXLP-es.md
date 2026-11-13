@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ajuste normal - ADULT
-- Corte normal
-- Cinta Chevron
-- Tejido de jersey
 - Impresión a base de agua
+- Cinta Chevron
+- Ajuste normal - ADULT
+- Tejido de jersey
+- Corte normal
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C599CXLP{{</world>}}

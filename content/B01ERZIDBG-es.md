@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camiseta de cuello redondo
-- Modelo con un diseño simple
-- Tiene una tecnología capaz de controlar la humedad corporal del deportista
 - Ofrece comodidad y libertad de movimiento
+- Modelo con un diseño simple
+- Camiseta de cuello redondo
+- Tiene una tecnología capaz de controlar la humedad corporal del deportista
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01ERZIDBG{{</world>}}

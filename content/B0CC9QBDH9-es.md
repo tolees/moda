@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cintura baja
 - Suave y transpirable
 - Calvin klein Cintura elástica distintiva
+- Cintura baja
 - Acabado de pierna con borde plano
 
 [🛒 Comprar!!!]({{< param buyurl >}})

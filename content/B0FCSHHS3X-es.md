@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Ajuste: __ normal
-- Material: algodón, poliéster
 - Bolsos: __ Ribbed Collar, Cuff and Bottom Hem
+- Material: algodón, poliéster
 - Características del interior:
 
 [🛒 Aquí!!!]({{< param buyurl >}})

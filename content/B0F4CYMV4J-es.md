@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Jeans TJM EXTDM0DM22143 Slim ESS Flag tee - Camiseta 2 Unidades Multicolor'
-date: 2026-11-04 13:49:32
+date: 2026-11-13 12:31:05
 image: 'https://m.media-amazon.com/images/I/31aI-9NK3BL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0F4CYMV4J-es Tommy Jeans TJM EXTDM0DM22143 Slim ESS Flag tee - Camiseta...'
 sku: 'B0F4CYMV4J-es'
 tags: [ 'camiseta','🇪🇸', ]
-actualPrice: 29.52 EUR
+actualPrice: 35.95 EUR
 currency: EUR
-price: 29.52
+price: 35.95
 comparePrice: 54.9 EUR
 prodname: 'Tommy Jeans TJM EXTDM0DM22143 Slim ESS Flag tee - Camiseta 2 Unidades Multicolor'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0F4CYMV4J/?tag=tolees-21'
-descuento: '46.23'
-average: '32.3966666666667'
+descuento: '34.52'
+average: '33.285000000000025'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

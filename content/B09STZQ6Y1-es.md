@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Manga larga en práctico paquete doble: 2 camisetas de manga larga con estampado en la parte delantera
-- Manga larga con cuello redondo
 - Ajuste: corte regular, longitud de espalda en L aprox. 74 cm
 - Hecho de tejido de punto elástico y cómodo
+- Manga larga con cuello redondo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09STZQ6Y1{{</world>}}

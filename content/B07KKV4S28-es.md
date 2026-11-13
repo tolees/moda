@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Diseño de ajuste regular
 - Ofrece comodidad todo el día
 - Camiseta deportiva de cuello redondo
-- Diseño de ajuste regular
 - Detalles distintivos de la marca
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Sudadera de uso diario
-- Prenda para mujeres adultas
 - Tiene detalles distintivos de la marca
+- Prenda para mujeres adultas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B69HBPLB{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- PESO: 1.025 KG
-- 100% POLIURETANO
 - BOLSO
-- Bolsos hobo
+- PESO: 1.025 KG
 - BOLSO DE NOVIA MERIDIAN II
+- Bolsos hobo
+- 100% POLIURETANO
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FV1W4TVV{{</world>}}

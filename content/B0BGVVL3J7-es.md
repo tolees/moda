@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Under Armour La misión de es simple: hacerte mejor
 - Forro polar de mezcla de algodón ultra suave con interior cepillado para mayor calidez
+- Under Armour La misión de es simple: hacerte mejor
 - Puños y dobladillo acanalados
 - Bolsillo canguro en la parte delantera
 

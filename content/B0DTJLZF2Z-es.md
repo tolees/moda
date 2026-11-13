@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Corte regular
 - Camiseta de manga corta con logotipo bordado en el pecho
+- Corte regular
 - 100 % algodón
 
 [🛒 Visítala!!!]({{< param buyurl >}})

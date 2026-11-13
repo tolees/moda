@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Aberturas laterales
-- Una mirada original
 - Cuello redondo
+- Aberturas laterales
 - Proporciona comodidad
+- Una mirada original
 - Manga corta
 
 [🛒 Visítala!!!]({{< param buyurl >}})

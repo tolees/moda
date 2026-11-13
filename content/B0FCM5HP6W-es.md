@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - __Cuello: __ cuello redondo
+- __Gráfico: __ serigrafía en el pecho y la espalda
 - __Tejido: __ jersey de algodón [160 g/m2]
-- __Gráfico: __ serigrafía en el pecho y la espalda
-- __Gráfico: __ serigrafía en el pecho y la espalda
 - __Corte: __ premium
+- __Gráfico: __ serigrafía en el pecho y la espalda
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FCM5HP6W{{</world>}}

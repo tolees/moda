@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Una mirada original
 - Manga corta
 - Proporciona comodidad
-- Cuello redondo
-- Una mirada original
 - Aberturas laterales
+- Cuello redondo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07VPQ8GLD{{</world>}}

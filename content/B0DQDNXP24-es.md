@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Algodón de manga larga ajustada
 - Camiseta con logotipo impreso en el pecho
 - 100 % algodón
-- Algodón de manga larga ajustada
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DQDNXP24{{</world>}}

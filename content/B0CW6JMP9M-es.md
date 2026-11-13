@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Caucho
 - Plano
-- Velcro
+- Caucho
 - Clarks Sandals, Saltway Trail, Dark Brown Lea, 9 (Men)
+- Velcro
 - Textil
 
 [🛒 Comprar!!!]({{< param buyurl >}})

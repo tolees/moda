@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cinco bolsillos.
 - Pierna delgada.
+- Cinco bolsillos.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07FPNJ53D{{</world>}}

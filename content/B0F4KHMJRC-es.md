@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Hombros ligeramente bajados
 - Cinta icónica en el interior del cuello
+- Hombros ligeramente bajados
 - Jersey de algodón puro
 
 [🛒 Comprar!!!]({{< param buyurl >}})

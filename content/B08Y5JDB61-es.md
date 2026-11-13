@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Descubre todas las marcas de EMP!
-- Ajuste : Normal
-- Básicos
 - Biquini || Ajuste normal || Color intenso || Material duradero
+- Básicos
+- Ajuste : Normal
 - Set Bikini con las siguientes características:
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

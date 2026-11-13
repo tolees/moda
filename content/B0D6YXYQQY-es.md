@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Doble comodidad Crocs
 - Correas de talón giratorias
+- Doble comodidad Crocs
 - Increíblemente ligeros y fáciles de llevar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

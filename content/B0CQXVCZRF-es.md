@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Color: plateado
 - Acabado: pulido
 - Material: acero inoxidable
-- Color: plateado
 - Tipo de cierre: cierre de mosquetón
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

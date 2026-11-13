@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Diseñado para una comodidad y uso duraderos
 - Confeccionado con materiales duraderos y suaves al tacto
 - Logo estampado en el pecho
-- Diseñado para una comodidad y uso duraderos
 - Fabricado con telas aptas para niños que tienen un tacto genial durante todo el día
 - Camiseta de punto 100 % algodón
 

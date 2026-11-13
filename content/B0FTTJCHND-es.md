@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 11 x 3 x 6 pulgadas
+- Herrajes dorados brillantes
 - Cremallera trasera, pies, dije extraíble
 - 6 ranuras CC/1 cremallera interior
-- Herrajes dorados brillantes
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FTTJCHND{{</world>}}

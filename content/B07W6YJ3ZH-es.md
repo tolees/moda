@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ropa deportiva
-- Ajuste regular
 - Modelo: BV6883
+- Ropa deportiva
 - Tela seca
+- Ajuste regular
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07W6YJ3ZH{{</world>}}

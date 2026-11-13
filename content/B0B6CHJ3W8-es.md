@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Traje de baño
 - Tiene detalles distintivos de la marca
+- Traje de baño
 - Prenda para varones adultos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

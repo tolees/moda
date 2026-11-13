@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Logo Rigby Go bordado ubicado en pecho izquierdo.
 - Acabados acanalados en cuello, puños y cintura confeccionado en suave algodón.
+- Logo Rigby Go bordado ubicado en pecho izquierdo.
 - Jersey básico para hombre de cuello de pico.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

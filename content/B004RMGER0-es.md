@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Medidas: mediciones: longitud: 45 cm + 5 cm
 - Tipo de cierre: Garra de langosta
+- Material: cuero
 - De color negro
 - Acabado: mate
-- Medidas: mediciones: longitud: 45 cm + 5 cm
-- Material: cuero
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B004RMGER0{{</world>}}

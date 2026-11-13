@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Manga corta enrollada
 - Base redondeada de la camiseta
-- Camiseta mujer de algodón Regular fit
 - Estampado ROXY en la parte delantera del pecho
+- Manga corta enrollada
+- Camiseta mujer de algodón Regular fit
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C69Y8YJF{{</world>}}

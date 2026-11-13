@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bolsillos para artículos esenciales
-- Capucha ajustable
 - Cierre con cremallera
+- Capucha ajustable
+- Bolsillos para artículos esenciales
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DNJKDD9B{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cinco bolsillos
 - Bragueta de botones
-- Etiqueta G-STAR en la parte trasera
 - Tela rígida
+- Etiqueta G-STAR en la parte trasera
+- Cinco bolsillos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F4X8KSLL{{</world>}}

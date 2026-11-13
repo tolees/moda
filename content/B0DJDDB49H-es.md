@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tejido transpirable que absorbe la humedad
 - Material muy cómodo, ligero, de secado rápido y duradero
+- Tejido transpirable que absorbe la humedad
 - Ajuste regular y relación calidad-precio
 
 [🛒 Comprar!!!]({{< param buyurl >}})

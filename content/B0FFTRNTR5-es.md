@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Camiseta de manga corta relajada
-- Logotipo impreso en la parte delantera
 - Cuello redondo y detalles de puños enrollados
+- Logotipo impreso en la parte delantera
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FFTRNTR5{{</world>}}

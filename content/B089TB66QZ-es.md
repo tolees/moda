@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- BCI
 - Stretch Oxford Shirt
+- BCI
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B089TB66QZ{{</world>}}

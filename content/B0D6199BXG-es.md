@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre deslizante
 - Fabricado con etilvinilacetato
+- Cierre deslizante
 - Sandalia moderna para mujer de la marca Crocs
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Lavable a máquina
+- Liso
 - Longitud del calcetín al tobillo
 - Logotipo "C" en el tobillo y logotipo pequeño en la suela
-- Liso
+- Lavable a máquina
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BN6LKJ36{{</world>}}

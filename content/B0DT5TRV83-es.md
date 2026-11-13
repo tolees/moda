@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Liso
 - No elástica
 - 100 % poliéster
+- Liso
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DT5TRV83{{</world>}}

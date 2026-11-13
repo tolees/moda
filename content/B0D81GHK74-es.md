@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Flexibles
 - Alta calidad
-- Aspecto y tacto clásicos
 - Clarks Sandals, Tuscan Strap, Sand Leather, 6,5 (Women)
+- Aspecto y tacto clásicos
 - Cojín suave
 
 [🛒 Comprar!!!]({{< param buyurl >}})

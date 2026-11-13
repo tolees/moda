@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Textura acanalada
 - Cuello barco
+- Textura acanalada
 - Algodón puro
 - Acabado sedoso
 

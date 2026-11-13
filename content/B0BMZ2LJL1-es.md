@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Apto para lavadora
-- Ajuste moderno
-- Elegante camiseta de agradable mezcla de algodón
 - Ideal para combinar con vaqueros o pantalones cortos
+- Apto para lavadora
+- Elegante camiseta de agradable mezcla de algodón
+- Ajuste moderno
 - Cuello de alta calidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

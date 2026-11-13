@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Calcetines De Rayas
 - Calcetines Estampados
+- Calcetines De Rayas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FCY3N238{{</world>}}

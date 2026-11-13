@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Bolsillos con cremallera
 - Cremallera en el bajo
 - Cintura elástica ajustable mediante cordón
-- Bolsillos con cremallera
 - Confeccionado en poliéster interlock 100 percent reciclado
 
 [🛒 Visítala!!!]({{< param buyurl >}})

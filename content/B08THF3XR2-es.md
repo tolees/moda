@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Shorts Hombre: tejido elástico cómodo y transpirable.
-- Pantalones Cortos Hombre: Cintura elástica con cordón ajustado en el interior.
 - Pantalones cortos para hombre son adecuados para la playa, vacaciones, isla, casa, correr, viajar.
 - Pantalon Corto Hombre: Dos bolsillos laterales.
+- Shorts Hombre: tejido elástico cómodo y transpirable.
+- Pantalones Cortos Hombre: Cintura elástica con cordón ajustado en el interior.
 - Bienvenido a nuestra tienda insignia ZOXOZ.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

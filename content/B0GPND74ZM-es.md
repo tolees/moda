@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - PESO: 0,252 KG
+- 100% poliéster
 - BOLSA
 - BERLÍN PEQUEÑO NECESER
-- 100% poliéster
 - BERLÍN PEQUEÑAS NECESIDADES
 
 [🛒 Comprar!!!]({{< param buyurl >}})

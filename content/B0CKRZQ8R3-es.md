@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Horma clásica
-- Empeine de piel sintética
 - Puntera de ante
+- Horma clásica
 - Cierre con correas autoadherentes
+- Forro textil
 - Suela de goma
 - Forro textil
-- Forro textil
+- Empeine de piel sintética
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CKRZQ8R3{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Estilo versátil
-- Suela antideslizante
 - Ligero y fácil de cuidar
+- Suela antideslizante
+- Estilo versátil
 - Materiales de alta calidad
 - Comodidad y ajuste
 

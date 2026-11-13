@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - __Corte:__ corte normal, clásico, cómodo
-- Etiqueta de la marca en el lateral
-- __Cuello:__ cuello redondo
 - Etiqueta gráfica en el bolsillo del pecho
+- __Cuello:__ cuello redondo
+- Etiqueta de la marca en el lateral
 - __Tejido:__ Tejido de algodón [160 g / m2]
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

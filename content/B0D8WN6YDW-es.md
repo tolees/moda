@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Proporciona comodidad
-- Cuello e inserción acanalados
-- Aberturas laterales
 - Etiqueta de G-STAR Originals tejida en la costura lateral inferior
 - Bordado de G-STAR RAW en el pecho
+- Proporciona comodidad
+- Aberturas laterales
+- Cuello e inserción acanalados
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D8WN6YDW{{</world>}}

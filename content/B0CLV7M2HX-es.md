@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Longitud estándar
 - Ajuste normal
+- Longitud estándar
 - Puños redondeados
 - Cuello de botón hacia abajo
 

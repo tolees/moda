@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- TPR antideslizante y flexible
 - Clarks Cordones con ojales de la marca
 - Calcetín y forro de cuero transpirable
-- TPR antideslizante y flexible
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CC2W6H9N{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Ofrece comodidad
 - Cuello redondo
 - Camiseta de manga corta
-- Ofrece comodidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F4QLCDBC{{</world>}}

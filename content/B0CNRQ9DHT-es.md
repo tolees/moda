@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 - AJUSTE PERFECTO: la chaqueta acolchada tiene prácticos bolsillos, una cremallera y está ligeramente acolchada.
 - Instrucciones de cuidado: se recomienda lavar la chaqueta en un ciclo suave a 30 °C.
 - REPLAY es una de las principales marcas italianas de denim y estilo de vida para hombres y mujeres desde hace 40 años. La marca es sinónimo de innovación, autenticidad y se centra en la sostenibilidad.
-- MATERIAL DE ALTA CALIDAD: el tejido es duradero y proporciona una sensación agradable.
 - Casual y fresco: la chaqueta es especialmente cómoda en la vida cotidiana y se puede combinar perfectamente con atuendos informales.
+- MATERIAL DE ALTA CALIDAD: el tejido es duradero y proporciona una sensación agradable.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CNRQ9DHT{{</world>}}

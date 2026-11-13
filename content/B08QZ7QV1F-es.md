@@ -28,15 +28,15 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ajuste regular
-- Tecnología Dri-Fit
-- Lavar a máquina
-- Ofrece comodidad y libertad de movimiento
 - Capucha con cordón
-- Manga larga
-- Cierre: Ponerse
-- 82% Algodón, 18% Poliéster
 - Casual
+- Ajuste regular
+- Cierre: Ponerse
+- Manga larga
+- Lavar a máquina
+- Tecnología Dri-Fit
+- Ofrece comodidad y libertad de movimiento
+- 82% Algodón, 18% Poliéster
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08QZ7QV1F{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Camiseta esencial de cuello redondo
 - Manga corta y corte entallado
+- Camiseta esencial de cuello redondo
 - Logotipo impreso en posición en la parte delantera
 
 [🛒 Visítala!!!]({{< param buyurl >}})

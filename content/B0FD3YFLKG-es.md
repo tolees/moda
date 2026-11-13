@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 80% lana, 20% poliamida
 - camiseta boxy con cuello en V importante, hombro caído, fabricación de busto afeitado y mangas acanaladas
+- 80% lana, 20% poliamida
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FD3YFLKG{{</world>}}

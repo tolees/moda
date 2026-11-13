@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Base ligera Croslite
 - Revolucionario paseo ligero
+- Base ligera Croslite
 - Elegante silueta de dos correas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

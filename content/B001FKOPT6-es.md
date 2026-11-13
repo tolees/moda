@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Material exterior y interior 100 percent poliéster, de composición Hardshell
-- Aperturas de ventilación en parte trasera y cremallera frontal completa, cubierto
 - Cuello con capucha, costuras selladas, puños elásticas
+- Aperturas de ventilación en parte trasera y cremallera frontal completa, cubierto
 - Lavar a máquina a 40°C, no utilizar secadora
 - Protección para la lluvia, cortaviento, transpirable, impermeable
 

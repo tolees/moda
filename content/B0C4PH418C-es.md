@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Artículo : Camisa
+- Corte : Corte slim
 - Manga : Manga larga
 - Cuello : Cuello de camisa
-- Corte : Corte slim
 - Modo de vida : Tradicional
 - Cierre : Cierre de botones
 

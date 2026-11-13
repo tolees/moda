@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Columbia Fivemile Butte II Chaqueta con Capucha Tecnología Reflectante Tela Repelente al Agua Aislamiento Reciclado Bolsillos Seguros para las Manos Ribete en Capucha - Hombre'
-date: 2026-10-07 01:28:16
+date: 2026-11-13 19:23:31
 image: 'https://m.media-amazon.com/images/I/41GYrt5EqbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CN3V6D8Y/?tag=tolees-21'
 descuento: '51.55'
-average: '72.8833333333333'
+average: '72.829999999999984'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

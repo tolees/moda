@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Malla fina
 - Tejer costilla
 - Cuello en V
 - Manga larga
-- Malla fina
 - Corte ajustado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

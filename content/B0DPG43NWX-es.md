@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Capa exterior
 - Fleece Top
+- Capa exterior
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DPG43NWX{{</world>}}

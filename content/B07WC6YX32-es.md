@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Ajuste regular
-- El diseño otorga libertad a los movimientos
 - Modelo cómodo
+- El diseño otorga libertad a los movimientos
 - Tejido Nike Dry
 
 [🛒 Visítala!!!]({{< param buyurl >}})

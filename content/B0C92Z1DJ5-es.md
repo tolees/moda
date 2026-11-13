@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Longitud media
 - Algodón orgánico
+- Longitud media
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C92Z1DJ5{{</world>}}

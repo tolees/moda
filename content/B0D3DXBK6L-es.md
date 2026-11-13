@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material: piel sintética
-- Capucha extraíble con piel sintética
 - Chaqueta corta negra
+- Material: piel sintética
 - 2 bolsillos con cremallera
 - Cintura ajustada por una banda elástica en la espalda
+- Capucha extraíble con piel sintética
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D3DXBK6L{{</world>}}

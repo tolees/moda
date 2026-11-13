@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Camiseta De Manga Larga
 - Camiseta Raglan
+- Camiseta De Manga Larga
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FCSVNF18{{</world>}}

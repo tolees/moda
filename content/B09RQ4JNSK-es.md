@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pantalones vaqueros cortos de Kids Only Girl
-- Composición: 99% algodón, 1% elastano
 - 5 trabillas para cinturón
+- Composición: 99% algodón, 1% elastano
+- Pantalones vaqueros cortos de Kids Only Girl
 - 5 bolsillos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

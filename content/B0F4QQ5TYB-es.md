@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillo canguro
 - Sudadera con capucha
+- Bolsillo canguro
 - Estilo clásico e informal
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

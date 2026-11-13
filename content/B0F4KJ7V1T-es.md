@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Puños redondos de un botón
 - Pliegues en la parte trasera
 - Popelina de algodón melocotón
+- Puños redondos de un botón
 - Tecnología Flex
 - Cuello abotonado
 

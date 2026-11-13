@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseño cómodo
 - Correa elástica para poner y quitar fácilmente
-- Altura del tacón: 0,25 pulgadas
 - Diseño único del material exterior
+- Altura del tacón: 0,25 pulgadas
+- Diseño cómodo
 - Suela sintética
 
 [🛒 Aquí!!!]({{< param buyurl >}})

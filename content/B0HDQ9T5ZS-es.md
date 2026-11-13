@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Zerellia Depiladora Laser Mujer de 5 ℃ con Función de Enfriamiento | Depiladora Luz Pulsada con 9 Niveles de Energía 600-1200 NM Luz Roja Mujer y Hombre Bikini Axilas Cara'
-date: 2026-11-12 08:48:12
+date: 2026-11-13 12:47:18
 image: 'https://m.media-amazon.com/images/I/31wIL8226+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sandalias de piel con cuña forrada de yute
 - Cuentan con plantilla de piel muy acolchada
+- Sandalias de piel con cuña forrada de yute
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D8TX8Z89{{</world>}}

@@ -31,8 +31,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Tejido principal que contiene, al menos, un 30 % de poliéster reciclado, sin incluir ribetes ni adornos
 - Cuello de pico
 - Material que capilariza el sudor y se seca rápidamente
-- La tela principal contiene al menos un 30% de poliéster reciclado, excluyendo los adornos y adornos
 - Tejido UA Tech de secado rápido, ultrasuave y de tacto más natural
+- La tela principal contiene al menos un 30% de poliéster reciclado, excluyendo los adornos y adornos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C12CPNV1{{</world>}}

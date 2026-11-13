@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Camisa de manga larga
 - Cierre con botones
+- Camisa de manga larga
 - Estilo elegante
 
 [🛒 Comprar!!!]({{< param buyurl >}})

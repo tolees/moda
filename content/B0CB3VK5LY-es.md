@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material único: Etileno acetato de vinilo
 - Material exterior: Suecia
+- Material único: Etileno acetato de vinilo
 - Material interior: sintético
 - Tipo de cierre: Enhebrador
 - Tipo de tacón: Plano

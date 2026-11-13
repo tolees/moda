@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corte de punto de algodón con cuello redondo, mangas cortas y un ajuste cuadrado a través de la pierna
 - Camiseta fácil de poner de Dickies
+- Corte de punto de algodón con cuello redondo, mangas cortas y un ajuste cuadrado a través de la pierna
 - Completo con un lema "Never needs ironing" en el pecho y una caja con logotipo para invertir; solo en UO
 
 [🛒 Comprar!!!]({{< param buyurl >}})

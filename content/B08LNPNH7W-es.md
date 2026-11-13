@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Detalles : Detalle de cremallera
-- Cierre : Cierre de cremallera
 - Cuello : Cuello italiano
-- Manga : Manga larga
+- Detalles : Detalle de cremallera
 - Artículo : Chaqueta bomber
+- Cierre : Cierre de cremallera
+- Manga : Manga larga
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08LNPNH7W{{</world>}}

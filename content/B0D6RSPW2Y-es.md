@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Composición: 56 por ciento algodón 25 por ciento poliéster 13 por ciento lyocell 5 por ciento elastomultiester 1 por ciento elastano
 - Tipo de estiramiento: baja elasticidad
-- Instrucciones de cuidado: lavable a máquina
 - Jeans Pantalones Largos
 - Ajuste: Auténtico Slim
+- Instrucciones de cuidado: lavable a máquina
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D6RSPW2Y{{</world>}}

@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cuello alto y cierre con cremallera
-- Manga larga
-- Mangas caídas y volumen
 - Sudadera de media cremallera
+- Mangas caídas y volumen
 - Sudadera de corte recto
+- Manga larga
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FCSP37MZ{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- CÓDIGOS DISTINTIVOS
 - GAFAS DE SOL RECTANGULARES
+- CÓDIGOS DISTINTIVOS
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DGGS4G8B{{</world>}}

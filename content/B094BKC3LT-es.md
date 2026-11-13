@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Dobladillo y puños con punto acanalado
-- 2 estampados con el logo en el pecho
-- Bolsillos: bolsillo amplio
 - Corte: corte normal, clásico, cómodo
+- Dobladillo y puños con punto acanalado
+- Bolsillos: bolsillo amplio
 - tejido: tejido en mezcla de algodón y poliéster
+- 2 estampados con el logo en el pecho
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B094BKC3LT{{</world>}}

@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Tommy Hilfiger Bolso Popette Aw0aw17711 para mujer Beige rábano picante One Size'
-date: 2026-10-09 05:17:40
+title: 'Tommy Hilfiger POPETTE TOTE'
+date: 2026-11-13 19:15:55
 image: 'https://m.media-amazon.com/images/I/31OwKeUdJ+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B08QRYTNC3-es Tommy Hilfiger Bolso Popette Aw0aw17711 para mujer Beige...'
+slug: 'B08QRYTNC3-es Tommy Hilfiger POPETTE TOTE'
 sku: 'B08QRYTNC3-es'
-tags: [ 'bolso','🇪🇸', ]
-actualPrice: 79.92 EUR
+tags: [ 'tote','🇪🇸', ]
+actualPrice: 64.48 EUR
 currency: EUR
-price: 79.92
+price: 64.48
 comparePrice: 99.9 EUR
-prodname: 'Tommy Hilfiger Bolso Popette Aw0aw17711 para mujer Beige rábano picante One Size'
+prodname: 'Tommy Hilfiger POPETTE TOTE'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08QRYTNC3/?tag=tolees-21'
-descuento: '20.00'
-average: '69.0'
+descuento: '35.46'
+average: '67.493333333333339'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

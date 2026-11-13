@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Longitud regular
 - Cuello redondo
+- Longitud regular
 - Manga corta
 - Tejido de punto individual
 - Corte regular

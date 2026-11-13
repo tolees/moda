@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte clásico
-- Tejido suave y ligero
 - 100% poliéster (reciclado)
-- Cuello alzado con cremallera hasta el pecho
+- Corte clásico
 - Cuello interior en contraste
+- Cuello alzado con cremallera hasta el pecho
+- Tejido suave y ligero
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CYTGSVVN{{</world>}}

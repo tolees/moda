@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Disponible en varios colores y diseños
-- Camisetas versátiles para cualquier ocasión
 - Cuello redondo cómodo.
+- Camisetas versátiles para cualquier ocasión
 - Fabricada con materiales suaves y duraderos.
+- Disponible en varios colores y diseños
 - Ideal para combinar con jeans o pantalones cortos.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
