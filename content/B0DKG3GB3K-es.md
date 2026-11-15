@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Vestido midi de manga corta globo con solapa completa abotonada en la parte delantera, cuello en V
-- 100 % algodón
 - Tela con ojales y detalles de cordones
+- 100 % algodón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DKG3GB3K{{</world>}}

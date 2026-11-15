@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Ver descripción del producto para obtener más información.
 - Alpha Industries Azul Sudadera básica
 - A estrenar y genuina. Somos un vendedor autorizado de Alpha Industries.
-- Ver descripción del producto para obtener más información.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B074QP7N6T{{</world>}}

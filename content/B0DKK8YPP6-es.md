@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Artículo : Chaqueta corta acolchada
 - Cuello : Cuello levantado
-- Manga : Manga larga
 - Forro : Forro de nailon para mayor suavidad
 - Cierre : Cierre de cremallera
+- Manga : Manga larga
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DKK8YPP6{{</world>}}

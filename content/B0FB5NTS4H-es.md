@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The North Face Drew Peak Light Regular Sudadera con Capucha para Hombre TNF White/Summit Navy S'
-date: 2026-11-06 00:40:30
+date: 2026-11-14 06:03:24
 image: 'https://m.media-amazon.com/images/I/31idmyAkjFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

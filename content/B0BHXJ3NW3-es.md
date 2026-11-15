@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material cepillado con interior suave
 - Impresión de pigmentos para una impresión suave en ropa ligera
+- Material cepillado con interior suave
 - Forro de la capucha del mismo material
 
 [🛒 Aquí!!!]({{< param buyurl >}})

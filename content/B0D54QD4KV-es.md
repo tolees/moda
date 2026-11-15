@@ -28,15 +28,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Los jeans azules originales
-- La modelo mide: 185 cm, Talla de cintura 30, Lleva una talla 30
-- AJUSTE: Nuestro ajuste recto característico con la icónica bragueta de botones
-- Un lienzo en blanco para la personalización y la autoexpresión
 - Hasta el día de hoy nunca han pasado de moda. Y nunca lo harán.
 - ELASTICIDAD: 1%-20% - Ofrece flexibilidad cómoda mientras mantiene la forma. Equilibrio ideal entre comodidad y estructura.
-- MATERIAL: 99% ALGODÓN, 1% ELASTANE
+- Los jeans azules originales
 - Fabricado con Comfort Stretch que cuenta con un toque de elasticidad para comodidad todo el día
+- MATERIAL: 99% ALGODÓN, 1% ELASTANE
+- La modelo mide: 185 cm, Talla de cintura 30, Lleva una talla 30
+- AJUSTE: Nuestro ajuste recto característico con la icónica bragueta de botones
 - ETIQUETA ROJA LEVIS: Existen diferentes variaciones de nuestra conocida etiqueta roja. Algunas dicen LEVIS, otras dicen Levis, algunas no muestran la marca en absoluto. Para ediciones especiales, a veces incluso cambiamos el color.
+- Un lienzo en blanco para la personalización y la autoexpresión
 - DISEÑO CLÁSICO LEVIS: Cierra los ojos.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Manga larga
-- Una mirada original
-- Proporciona comodidad
-- Cómoda tela elástica
 - Cuello redondo
+- Proporciona comodidad
+- Una mirada original
+- Cómoda tela elástica
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07RH2Z7LK{{</world>}}

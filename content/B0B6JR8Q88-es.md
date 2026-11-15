@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ajuste de gran tamaño
 - Logotipo bordado en el pecho
+- Ajuste de gran tamaño
 - Hombros caídos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

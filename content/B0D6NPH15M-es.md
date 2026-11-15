@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Transpirable
 - Tobillo
+- Transpirable
 - Forma del talón: plano
 - Cierre: Velcro
 

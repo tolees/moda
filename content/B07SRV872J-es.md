@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Suela: Caucho
 - Material exterior: poliéster
+- Suela: Caucho
 - Material interior: sintético
 
 [🛒 Visítala!!!]({{< param buyurl >}})

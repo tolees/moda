@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsonite ALU Fit Tarjeta de Crédito de Aluminio con Protección RFID Y NFC Billetera Inteligente Espacio para hasta 6 Tarjetas 10 2 cm Antracita'
-date: 2026-11-13 09:29:38
+date: 2026-11-14 11:53:20
 image: 'https://m.media-amazon.com/images/I/312MgUv7Q2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cuello redondo
-- Manga corta
 - Corte regular
+- Manga corta
 - Tejido de punto individual
 - Longitud regular
 

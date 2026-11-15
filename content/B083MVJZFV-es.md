@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tirantes regulables con gran firmeza
 - Modelación perfecta que hace lucir el busto natural
 - Copa completa con preciosos bordados de motivos florales
+- Tirantes regulables con gran firmeza
 - Con aro y sin relleno
 
 [🛒 Aquí!!!]({{< param buyurl >}})

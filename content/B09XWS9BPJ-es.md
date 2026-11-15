@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Bolso bandolera Hombre Essential PU Mini Crossover pequeño Negro Black Talla Única'
-date: 2026-10-07 22:05:49
+date: 2026-11-15 12:06:41
 image: 'https://m.media-amazon.com/images/I/41qhMwAJjVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09XWS9BPJ-es Tommy Hilfiger Bolso bandolera Hombre Essential PU Mini...'
 sku: 'B09XWS9BPJ-es'
 tags: [ 'bolso','🇪🇸', ]
-actualPrice: 56.25 EUR
+actualPrice: 40.49 EUR
 currency: EUR
-price: 56.25
+price: 40.49
 comparePrice: 74.9 EUR
 prodname: 'Tommy Hilfiger Bolso bandolera Hombre Essential PU Mini Crossover pequeño Negro Black Talla Única'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09XWS9BPJ/?tag=tolees-21'
-descuento: '24.90'
-average: '49.245'
+descuento: '45.94'
+average: '47.494'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

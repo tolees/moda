@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Jersey de algodón puro
 - Cinta icónica en el interior del cuello
+- Jersey de algodón puro
 - Hombros ligeramente bajados
 
 [🛒 Visítala!!!]({{< param buyurl >}})

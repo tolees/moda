@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuero falso
 - Logotipo básico 4G
+- Cuero falso
 - Compartimento para celular
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Increíblemente ligeros y divertidos de llevar
 - Puertos de ventilación
+- Increíblemente ligeros y divertidos de llevar
 - Correas de talón giratorias para un ajuste más seguro
 
 [🛒 Aquí!!!]({{< param buyurl >}})

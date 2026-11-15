@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cierre: Sin Cordones
 - Material de la suela: EVA
 - Material Exterior: Sintético
+- Cierre: Sin Cordones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B015OK4K1U{{</world>}}

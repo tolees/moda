@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Blusa con hombros descubiertos y mangas cortas
-- Placa de metal en el dobladillo
 - Extremo fruncido en mangas y dobladillo.
+- Placa de metal en el dobladillo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FFTQB5TZ{{</world>}}

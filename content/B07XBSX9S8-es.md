@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Logotipo del felino puma en la parte derecha del pecho
 - Tipo de fábrica: 68% Cotton, 32% Polyester
-- Tiene ajuste cómodo que ofrece libertad de movimiento y flexibilidad
 - Se puede usar tanto para ejercicio físico como para llevar en la calle
+- Logotipo del felino puma en la parte derecha del pecho
+- Tiene ajuste cómodo que ofrece libertad de movimiento y flexibilidad
 - Sudadera de puma con cierre de cremallera completa
 
 [🛒 Aquí!!!]({{< param buyurl >}})

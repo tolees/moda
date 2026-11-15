@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Etiqueta de goma con logo
 - Cierre doble con clip en la parte trasera y tejido de secado rápido
-- Tallas 70B a 85I
 - Sujetador para correr
+- Tallas 70B a 85I
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09YS6R2NR{{</world>}}

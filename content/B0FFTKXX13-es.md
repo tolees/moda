@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 95 % algodón, 5 % elastano
 - Camiseta sin mangas acanalada con logotipo impreso en la parte delantera
+- 95 % algodón, 5 % elastano
 - 0 unidades
 
 [🛒 Aquí!!!]({{< param buyurl >}})

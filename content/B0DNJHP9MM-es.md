@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fabricado con materiales duraderos y de calidad
 - Con un logotipo gráfico en la parte delantera
+- Fabricado con materiales duraderos y de calidad
 - Bolsillos delanteros profundos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

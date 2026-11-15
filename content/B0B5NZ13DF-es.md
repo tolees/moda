@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Fabricada con materiales suaves y duraderos.
 - Cuello redondo cómodo.
 - Camisetas versátiles para cualquier ocasión
-- Fabricada con materiales suaves y duraderos.
 - Disponible en varios colores y diseños
 - Ideal para combinar con jeans o pantalones cortos.
 

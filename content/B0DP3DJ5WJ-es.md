@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- suave
 - Elástico en 2 direcciones
 - Camiseta de manga corta con el logo de SALEWA, hecha de tejido de secado rápido y transpirable para senderismo, trekking y vida alpina.
-- suave
 - Transpirable
 - secado rápido
 

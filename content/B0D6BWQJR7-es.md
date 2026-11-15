@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Timberland 6 In Basic Botas para hombre EU 42'
-date: 2026-10-02 22:44:51
+date: 2026-11-14 15:09:37
 image: 'https://m.media-amazon.com/images/I/31vpI6EDBcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0D6BWQJR7/?tag=tolees-21'
 descuento: '36.86'
-average: '94.14'
+average: '92.523333333333341'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Peso recomendado: desde 3,2 kg hasta 8 kg
+- Diseño ergonómico y soporte adjustable para la cabeza de tu bebé
 - Probado en seguridad para bebés de 0 a 12 meses
 - Ajustable para adaptarse a la mayoría de los usuarios, desde la talla XS hasta la XL
-- Diseño ergonómico y soporte adjustable para la cabeza de tu bebé
-- Peso recomendado: desde 3,2 kg hasta 8 kg
 - Tres posiciones para llevar al bebé
 
 [🛒 Comprar!!!]({{< param buyurl >}})

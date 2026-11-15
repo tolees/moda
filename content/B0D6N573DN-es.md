@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cojín de contorno
 - Clarks Shoes, Easeway Sport, Navy Combi, 11 (Men)
+- Cojín de contorno
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D6N573DN{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tejido principal de poliéster técnico, de secado rápido y transpirable, costuras planas para una gran comodidad en contacto con la piel, cuello redondo y logotipo impreso HH en la manga
 - SOSTENIBILIDAD: Estamos comprometidos a seguir apoyando el uso responsable y el disfrute de la vida al aire libre. Al aplicar un enfoque holístico y científico a todas las decisiones, nos esforzamos por garantizar que nuestras acciones apoyen a las personas y al planeta a prosperar.
+- Tejido principal de poliéster técnico, de secado rápido y transpirable, costuras planas para una gran comodidad en contacto con la piel, cuello redondo y logotipo impreso HH en la manga
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D9WZ4TQS{{</world>}}

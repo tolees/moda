@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Conjunto de dos piezas
 - Bolsillos laterales
-- Logotipo tachonado
-- Mangas fruncidas
-- Viscosa fluida
 - Cuello redondo
+- Viscosa fluida
+- Mangas fruncidas
+- Conjunto de dos piezas
+- Logotipo tachonado
 - Cintura elástica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ajustable
 - Sudores atléticos
+- Ajustable
 - Ajuste cómodo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pepe Jeans London Original Basic 2 Long Camiseta de Hombre Slim Fit Navy'
-date: 2026-11-13 08:37:49
+date: 2026-11-14 12:50:40
 image: 'https://m.media-amazon.com/images/I/31wSPRC8mML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09RMMX25G/?tag=tolees-21'
 descuento: '43.97'
-average: '18.272058823529221'
+average: '18.033611111110933'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

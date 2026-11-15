@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Calzado ligero
 - Plantilla extraíble
 - Cierre de cordones
-- Calzado ligero
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CPPX65FC{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Shorts deportivos hombre son adecuados para el casa, running , fitness , Gymnasium.
 - Pantalon running hombre corto：70% Algodón, 25% Poliéster, 5% Elastano.
+- Shorts deportivos hombre son adecuados para el casa, running , fitness , Gymnasium.
 - Pantalón Corto Hombre: tejido elástico cómodo y transpirable.
 - Pantalon Corto Hombre Deporte: Bolsillos con cremallera en ambos lados.
 - Pantalones Cortos Hombre: Cintura elástica con cordón ajustado en el interior.

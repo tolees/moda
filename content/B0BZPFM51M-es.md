@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte regular
-- Paquete de 2, cuello redondo, manga corta
 - Liso, básico
+- Paquete de 2, cuello redondo, manga corta
 - Logotipo de la marca
+- Corte regular
 - Mezcla de algodón de alta calidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

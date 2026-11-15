@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Care Label:
-- Skinny fit jeans
+- materialFabricComposition: 98% Cotton, 2% Elastane
 - Skinny Fit
 - Super high rise
-- materialFabricComposition: 98% Cotton, 2% Elastane
+- Skinny fit jeans
+- Care Label:
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0964Q9HPC{{</world>}}

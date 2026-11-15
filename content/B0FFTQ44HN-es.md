@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 100% algodón
 - Gran logotipo clásico en la parte delantera en calidad de jersey básico
 - Camiseta esencial de cuello redondo con mangas cortas
+- 100% algodón
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FFTQ44HN{{</world>}}

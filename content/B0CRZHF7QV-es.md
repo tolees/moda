@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Manga corta
 - Cuello de pico
-- Elástico cómodo
 - Proporciona comodidad
+- Elástico cómodo
+- Manga corta
 - Una mirada original
 
 [🛒 Visítala!!!]({{< param buyurl >}})

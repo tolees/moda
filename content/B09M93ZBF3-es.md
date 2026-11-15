@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Hecho de algodón transpirable
 - Cuello redondo
+- Hecho de algodón transpirable
 - Corte entallado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Columbia Midweight Stretch Long Sleeve Top Ropa Interior Camiseta Térmica para Hombre Black Talla L'
-date: 2026-10-23 16:01:59
+date: 2026-11-14 08:13:16
 image: 'https://m.media-amazon.com/images/I/31OonwN4IZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0B3KFV2G4-es Columbia Midweight Stretch Long Sleeve Top Ropa Interior...'
 sku: 'B0B3KFV2G4-es'
 tags: [ 'camiseta','🇪🇸', ]
-actualPrice: 30.99 EUR
+actualPrice: 28.48 EUR
 currency: EUR
-price: 30.99
+price: 28.48
 comparePrice: 50.0 EUR
 prodname: 'Columbia Midweight Stretch Long Sleeve Top Ropa Interior Camiseta Térmica para Hombre Black Talla L'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0B3KFV2G4/?tag=tolees-21'
-descuento: '38.02'
-average: '30.99'
+descuento: '43.04'
+average: '29.735'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

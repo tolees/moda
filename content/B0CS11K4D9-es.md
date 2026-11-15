@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre de botones
-- Puños con botones
 - Cuello de camisa con trabilla en el interior
 - Etiqueta de G-STAR tejida en la costura lateral
+- Cierre de botones
+- Puños con botones
 - Panel en los hombros, pinza para crear volumen debajo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

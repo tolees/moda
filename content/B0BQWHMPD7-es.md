@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Número de modelo: LQ59IPA75
 - Composición: 60% Viscosa, 34% Poliéster, 6% Elastano
+- Número de modelo: LQ59IPA75
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BQWHMPD7{{</world>}}

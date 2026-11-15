@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'JACK & JONES JJECORP Old Logo Sweat Hood Sudadera con Capucha Blanco M para Hombre'
-date: 2026-07-16 23:39:30
-image: 'https://m.media-amazon.com/images/I/21joJnV-C6L._SL500_._SL400_.jpg'
+title: 'JACK & JONES Sudadera con Capucha Logotipo'
+date: 2026-11-14 14:33:22
+image: 'https://m.media-amazon.com/images/I/21prFSyuhyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B08H4BNGQ2-es JACK & JONES JJECORP Old Logo Sweat Hood Sudadera con...'
+slug: 'B08H4BNGQ2-es JACK & JONES Sudadera con Capucha Logotipo'
 sku: 'B08H4BNGQ2-es'
 tags: [ 'sudadera','🇪🇸', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99
 comparePrice: 29.99 EUR
-prodname: 'JACK & JONES JJECORP Old Logo Sweat Hood Sudadera con Capucha Blanco M para Hombre'
+prodname: 'JACK & JONES Sudadera con Capucha Logotipo'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08H4BNGQ2/?tag=tolees-21'
 descuento: '40.01'
-average: '18.8113095238096'
+average: '18.792209302325656'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,12 +28,6 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Durabilidad con material sostenible
-- JACK & JONES apoya la iniciativa Better Cotton usando algodón orgánico o reciclado
-- Con bolsillo frontal
-- Manga larga
-- Sudadera de ajuste regular
-- Con capucha
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08H4BNGQ2{{</world>}}

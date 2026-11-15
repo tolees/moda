@@ -28,14 +28,14 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- KIT DE LIMO ARCO IRIS: Incluye limo transparente listo para personalizar con cuatro vibrantes colores de chispas de arco iris. Hazlo a tu manera
-- PERSONALIZA: Mezcla y personaliza el limo con divertidos colores, formas y texturas. Después, añádelo a las piernas de tu muñeca para conseguir una transformación arco iris única
-- SIGUE CON RAINBOW HIGH: Mira los últimos episodios online y ponte al día con los episodios anteriores. Busca "Rainbow High" en tus sitios de streaming favoritos
-- COLECCIÓNALAS TODAS: Iris (arco iris), Bella (rosa), Skyler (azul), Violeta (morado)
 - DESPIERTA LA CREATIVIDAD: Rainbow High es más mágico que nunca. Ahora puedes crear tu propia muñeca arco iris. El set Rainbow Shimmers incluye un kit de limo arco iris que te permitirá diseñar tus propias creaciones únicas y coloridas
-- PELO ARCO IRIS: El característico color azul de Skyler se transforma en arco iris. Ahora tiene reflejos arco iris por todo el pelo
-- TU PROPIA MUÑECA ARCO IRIS: Transforma las piernas de tu muñeca con limo arco iris. Solo quita la parte de atrás de las piernas de la muñeca, pon una capa de limo personalizada y vuelve a colocarlas. La muñeca estará lista para contar historias mágicas
 - QUÉ INCLUYE: Muñeca de moda de 28 cm con piernas personalizables, traje completo de muñeca, kit de limo arco iris (limo transparente y 4 tipos diferentes de chispitas), mascota mágica y peine
+- COLECCIÓNALAS TODAS: Iris (arco iris), Bella (rosa), Skyler (azul), Violeta (morado)
+- PERSONALIZA: Mezcla y personaliza el limo con divertidos colores, formas y texturas. Después, añádelo a las piernas de tu muñeca para conseguir una transformación arco iris única
+- TU PROPIA MUÑECA ARCO IRIS: Transforma las piernas de tu muñeca con limo arco iris. Solo quita la parte de atrás de las piernas de la muñeca, pon una capa de limo personalizada y vuelve a colocarlas. La muñeca estará lista para contar historias mágicas
+- SIGUE CON RAINBOW HIGH: Mira los últimos episodios online y ponte al día con los episodios anteriores. Busca "Rainbow High" en tus sitios de streaming favoritos
+- PELO ARCO IRIS: El característico color azul de Skyler se transforma en arco iris. Ahora tiene reflejos arco iris por todo el pelo
+- KIT DE LIMO ARCO IRIS: Incluye limo transparente listo para personalizar con cuatro vibrantes colores de chispas de arco iris. Hazlo a tu manera
 - CONEJO MÁGICO: Skyler viene con un adorable conejo mágico de mascota con alas y cuerno
 - CARACTERÍSTICAS IMPRESIONANTES: Diseñada con preciosos detalles, Skyler tiene un estilo icónico, pelo azul y arco iris, delicadas pestañas y bellos ojos de cristal, lo que la hace inolvidable. La muñeca es articulada para personalizarla y jugar con ella
 

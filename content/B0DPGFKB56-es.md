@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camiseta de pantalla
 - Camiseta
+- Camiseta de pantalla
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DPGFKB56{{</world>}}

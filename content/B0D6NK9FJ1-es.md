@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Adecuadas para el verano
-- Ajuste cómodo
 - Ligeras y transpirables
+- Ajuste cómodo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D6NK9FJ1{{</world>}}

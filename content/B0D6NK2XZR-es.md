@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre: hebilla
 - Suela: goma
 - Sandalias deportivas modernas para hombre
+- Cierre: hebilla
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D6NK2XZR{{</world>}}

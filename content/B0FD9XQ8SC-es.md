@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Chaqueta con auténtica pluma reciclada, longitud de la pelvis. Cuello alto cerrado con 2 botones a presión, apertura frontal con cremallera y botones a presión ocultos. Bolsillos laterales con cremallera invisible
 - Exterior: 100 % poliamida. Forro: 100 % poliamida. Relleno: 80 % plumón y 20 % pluma
+- Chaqueta con auténtica pluma reciclada, longitud de la pelvis. Cuello alto cerrado con 2 botones a presión, apertura frontal con cremallera y botones a presión ocultos. Bolsillos laterales con cremallera invisible
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FD9XQ8SC{{</world>}}

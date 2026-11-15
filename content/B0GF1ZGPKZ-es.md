@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Haarlosy Depiladora Láser IPL Sin Dolor para Rostro Bikini y Cuerpo IFE03 | Depiladora de Luz Pulsada con 2 Modos 9 Niveles de Energía para Mujeres y Hombres Uso en Casa'
-date: 2026-11-13 08:55:44
+date: 2026-11-14 10:46:56
 image: 'https://m.media-amazon.com/images/I/31Y34bKaF0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GF1ZGPKZ/?tag=tolees-21'
 descuento: '36.37'
-average: '100.55249999999975'
+average: '97.156666666666453'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Plantilla extraíble
 - Calzado fácil de poner
+- Plantilla extraíble
 - Cierre de encaje y cremallera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Columbia Sudadera Trek Crew Crew para Hombre Paquete de 1'
-date: 2026-11-11 12:07:39
+date: 2026-11-14 19:27:17
 image: 'https://m.media-amazon.com/images/I/31+493LjIQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0DLYRZBTT-es Columbia Sudadera Trek Crew Crew para Hombre Paquete de 1'
 sku: 'B0DLYRZBTT-es'
 tags: [ 'sudadera','🇪🇸', ]
-actualPrice: 25.49 EUR
+actualPrice: 24.21 EUR
 currency: EUR
-price: 25.49
+price: 24.21
 comparePrice: 50.0 EUR
 prodname: 'Columbia Sudadera Trek Crew Crew para Hombre Paquete de 1'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DLYRZBTT/?tag=tolees-21'
-descuento: '49.02'
-average: '25.49'
+descuento: '51.58'
+average: '25.063333333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

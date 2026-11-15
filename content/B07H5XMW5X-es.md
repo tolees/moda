@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hecho de material de calidad que es lo suficientemente resistente para un uso prolongado
 - Producto que combina tradición e innovación
 - Esenciales para proteger los ojos de los daños UV a largo plazo y mantener los ojos sanos cuando sales
+- Hecho de material de calidad que es lo suficientemente resistente para un uso prolongado
 - Diseño elegante, producto útil y práctico
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

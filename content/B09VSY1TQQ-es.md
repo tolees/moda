@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Horma clásica
 - Forro sintético
 - Suela de goma cosida
+- Horma clásica
 - Cierre de cordones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Capucha acogedora para cubrirte de la lluvia y el viento
-- Dos lados reversibles con diferentes estampados
 - Ajuste regular
+- Capucha acogedora para cubrirte de la lluvia y el viento
 - Cuello alto
+- Dos lados reversibles con diferentes estampados
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07D7WHK4R{{</world>}}

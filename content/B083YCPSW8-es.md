@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Organización interna
 - Repelente al agua
+- Organización interna
 - Compartimento principal con cremallera
 - Colgante de Pac-Man
 

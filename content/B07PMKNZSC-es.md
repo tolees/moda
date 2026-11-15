@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- light blue wash
 - denim jacket
+- light blue wash
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07PMKNZSC{{</world>}}

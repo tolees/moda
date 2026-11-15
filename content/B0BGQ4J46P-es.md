@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Medio
-- Plano
 - Sintético
+- Plano
 - Caucho
 - Adjuntar
 

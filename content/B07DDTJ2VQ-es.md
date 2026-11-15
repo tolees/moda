@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pierna estrecha y cintura media
-- Calidad probada
-- Bordes abiertos en la parte inferior
-- Vaqueros tobilleros ajustados
 - Vaqueros clásicos de 5 bolsillos
+- Pierna estrecha y cintura media
+- Vaqueros tobilleros ajustados
+- Bordes abiertos en la parte inferior
+- Calidad probada
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07DDTJ2VQ{{</world>}}

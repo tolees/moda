@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Proporciona comodidad
-- Cuello acanalado
 - Estampado gráfico de G-Star RAW en la parte trasera
+- Cuello acanalado
+- Proporciona comodidad
 - Gráfico de G-STAR RAW en el pecho
 - Extremos de las mangas con vuelta fija
 

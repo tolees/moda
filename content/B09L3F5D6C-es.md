@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Aislamiento soplable sintético
 - Bolsillos con cremallera ykk
 - Artículos entregados: 1x helly hansen womens w active puffy jacket - ins jacket baby troope m
-- Aislamiento soplable sintético
 - Cremallera ykk
 - Capucha ajustable
 

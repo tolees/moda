@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Peso ligero
 - Tejido transpirable
+- Peso ligero
 - Encaje ajustable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

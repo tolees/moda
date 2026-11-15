@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Bajo recto
-- Estampado gráfico de G-Star RAW en la parte delantera
 - Manga larga y puños acanalados
 - Proporciona comodidad
+- Estampado gráfico de G-Star RAW en la parte delantera
 - Cuello redondo acanalado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

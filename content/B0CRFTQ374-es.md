@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre: cremallera y botón
-- Ajuste: ajuste regular
 - Jeans Pantalones Largos
 - Instrucciones de cuidado: lavable a máquina
+- Cierre: cremallera y botón
 - Composición: 55 por ciento algodón 30 por ciento lyocell 13 por ciento poliéster 2 por ciento elastano
+- Ajuste: ajuste regular
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CRFTQ374{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forma con cremallera
 - De material de fácil cuidado con porcentaje elástico
+- Forma con cremallera
 - Con puños acanalados
 - Cazadora de VERO MODA
 

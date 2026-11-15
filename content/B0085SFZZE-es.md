@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuello redondo debajo de un cárdigan abierto y con una chaqueta vaquera
 - Adecuada para temperaturas frías
 - La clásica camiseta de manga larga
+- Cuello redondo debajo de un cárdigan abierto y con una chaqueta vaquera
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0085SFZZE{{</world>}}

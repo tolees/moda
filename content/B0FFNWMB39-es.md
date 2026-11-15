@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- AJUSTE: Corte regular para un uso cómodo y relajado
-- TEJIDO PREMIUM: Jersey 100 % algodón que proporciona sensación suave, transpirable y caída relajada
-- DISEÑO CLÁSICO: Camiseta de algodón con destacado branding vintage para un atractivo atemporal
 - DETALLE DE ESTILO ICÓNICO: Logo vintage sobre base blanca limpia que añade carácter de archivo y versatilidad effortless
 - IDEAL PARA: Uso diario y estilo inspirado en el heritage
+- AJUSTE: Corte regular para un uso cómodo y relajado
+- DISEÑO CLÁSICO: Camiseta de algodón con destacado branding vintage para un atractivo atemporal
+- TEJIDO PREMIUM: Jersey 100 % algodón que proporciona sensación suave, transpirable y caída relajada
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FFNWMB39{{</world>}}

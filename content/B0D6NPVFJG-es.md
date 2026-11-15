@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Transpirable
 - Cierre de velcro, plantilla extraíble
+- Transpirable
 - Puntera reforzada
 - Rápido y fácil de poner
 

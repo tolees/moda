@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Altura del paquete del artículo: 115 mm
 - Longitud del paquete del artículo: 340 mm
-- Ancho del paquete del artículo: 215 mm
 - Peso del paquete del artículo: 0.27 kg
+- Ancho del paquete del artículo: 215 mm
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C699SXSS{{</world>}}

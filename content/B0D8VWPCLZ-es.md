@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pack de 3 infantil
-- Rematado con la icónica marca PUMA
-- Costura de los dedos plana para evitar la irritación
 - Algodón suave
+- Rematado con la icónica marca PUMA
+- Pack de 3 infantil
+- Costura de los dedos plana para evitar la irritación
 - La base para look
 
 [🛒 Aquí!!!]({{< param buyurl >}})

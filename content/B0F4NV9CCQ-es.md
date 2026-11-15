@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Estilo informal
-- Tejido suave
 - Manga corta
+- Tejido suave
+- Estilo informal
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F4NV9CCQ{{</world>}}

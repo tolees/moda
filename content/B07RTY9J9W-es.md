@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Temporada: Todas las estaciones
 - Patrón: el diseño de la marca es visible
+- Temporada: Todas las estaciones
 - Código de vestimenta: informal
 
 [🛒 Comprar!!!]({{< param buyurl >}})

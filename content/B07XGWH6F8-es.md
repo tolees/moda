@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Bolsillos laterales
-- Pernera recta con parte inferior cónica
 - Largo completo
-- Cinturilla elástica
+- Pernera recta con parte inferior cónica
 - Al comprar productos de algodón de PUMA, apoyas un cultivo de algodón más sostenible. Más información en PUMA.COM/FOREVERBETTER
+- Cinturilla elástica
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07XGWH6F8{{</world>}}

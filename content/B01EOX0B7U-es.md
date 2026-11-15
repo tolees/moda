@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Helly Hansen Hombres Chaqueta Dubliner Negro M'
-date: 2026-11-13 01:38:12
+date: 2026-11-14 10:40:41
 image: 'https://m.media-amazon.com/images/I/31FyL7P0xPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EOX0B7U/?tag=tolees-21'
 descuento: '55.00'
-average: '70.541296296296196'
+average: '70.191607142857052'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

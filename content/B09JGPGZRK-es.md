@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- __Corte:__ corte normal, clásico, cómodo
 - __Tejido:__ Tejido de algodón [160 g / m2]
-- __Cuello:__ cuello redondo
-- Diseño con serigrafía en la parte frontal
 - Etiqueta de la marca en el lateral
+- Diseño con serigrafía en la parte frontal
+- __Corte:__ corte normal, clásico, cómodo
+- __Cuello:__ cuello redondo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09JGPGZRK{{</world>}}

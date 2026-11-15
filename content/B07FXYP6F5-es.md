@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Modelo que se asienta debajo de la cintura
 - Este producto es original Levis
+- Modelo que se asienta debajo de la cintura
 - Diseño de cinco bolsillos
 - Con ajuste estándar en el muslo
 

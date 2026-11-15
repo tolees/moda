@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseño moderno
 - Fácil de llevar
+- Diseño moderno
 - Ajuste holgado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Logotipo bordado en 3D
 - Logo multicolor
+- Logotipo bordado en 3D
 - Llano
 - 100% algodón
 

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Chaqueta sintética con capucha, forrada con piel. Bolsillos de parche y bordado en el corazón
 - Exterior: 100% poliéster. Forro: 100% poliéster. Relleno: 100% poliéster
+- Chaqueta sintética con capucha, forrada con piel. Bolsillos de parche y bordado en el corazón
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FD3YTC2P{{</world>}}

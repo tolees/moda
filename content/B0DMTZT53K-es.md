@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Zapatilla trail
-- Carretera
-- Material suela: Rubber
 - Material superior: Material textil
+- Material suela: Rubber
+- Carretera
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DMTZT53K{{</world>}}

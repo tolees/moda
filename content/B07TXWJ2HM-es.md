@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Número de compartimentos principales: 1
-- Tamaño: 18,5 x 1,5 x 11 cm
 - Marca: Kipling
+- Número de compartimentos principales: 1
 - Serie: Basic Plus
+- Tamaño: 18,5 x 1,5 x 11 cm
 - Material: poliamida
 
 [🛒 Visítala!!!]({{< param buyurl >}})

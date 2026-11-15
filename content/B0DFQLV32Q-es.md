@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Maglietta da uomo
 - DETTAGLIO 2: Nastro interno sul collo RBF
+- VESTIBILITA: Vestibilità regolare
 - DETTAGLIO 3: Doppia cucitura
 - DETTAGLIO 1: Logo Alpha stampato in raso sul petto
-- VESTIBILITA: Vestibilità regolare
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DFQLV32Q{{</world>}}

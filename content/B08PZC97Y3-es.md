@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cartera: 12,8 x 2 x 10 cm
 - Doble costura y logo Samsonite grabado
 - Interior: 2 compartments, 2 billeteros, 11 ranuras para tarjeta de crédito, y 1 monedero
+- Cartera: 12,8 x 2 x 10 cm
 - 100 % piel de vaca
 - Incluye protección RFID
 

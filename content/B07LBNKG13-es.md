@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cálido, flexible y transpirable, este chaleco softshell multifuncional tiene forro polar y propiedades de resistencia a la intemperie; el tratamiento repelente al agua no contiene PFC, y la chaqueta está fabricada de forma responsable con el proceso de fabricación textil certificado bluesign: tú y el medio ambiente salís ganando
 - Un chaleco softshell para mujer diseñado como capa versátil para cualquier salida atlética
 - Exterior: 90% poliéster (reciclado), 10% elastán
+- Cálido, flexible y transpirable, este chaleco softshell multifuncional tiene forro polar y propiedades de resistencia a la intemperie; el tratamiento repelente al agua no contiene PFC, y la chaqueta está fabricada de forma responsable con el proceso de fabricación textil certificado bluesign: tú y el medio ambiente salís ganando
 - Artículos entregados: 1x Helly Hansen Mujer Chaleco Paramount Softshell,M,Negro
 
 [🛒 Aquí!!!]({{< param buyurl >}})

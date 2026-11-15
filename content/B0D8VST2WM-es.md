@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Unisex Sneaker Plain Calcetines Unisex adulto azul vaquero 39-42'
-date: 2026-11-13 11:34:20
+date: 2026-11-14 14:17:11
 image: 'https://m.media-amazon.com/images/I/313Hd0N+0EL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0D8VST2WM/?tag=tolees-21'
 descuento: '43.14'
-average: '5.7451851851851759'
+average: '5.7406896551724049'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

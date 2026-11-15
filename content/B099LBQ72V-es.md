@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Color: habana
+- Gafas de sol de policarbonato
 - Longitud del puente: 15
 - Lentes polarizadas marrones degradadas de triacetato
-- Gafas de sol de policarbonato
+- Color: habana
 - Medida: 58
 
 [🛒 Visítala!!!]({{< param buyurl >}})

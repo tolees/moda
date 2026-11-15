@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cinturón elástico: para un ajuste perfecto
-- Confort óptimo
-- Extensible: se adapta a tus movimientos
 - Composición : 100% Algodón
+- Cinturón elástico: para un ajuste perfecto
+- Extensible: se adapta a tus movimientos
+- Confort óptimo
 - Suavidad: Tacto suave
 
 [🛒 Visítala!!!]({{< param buyurl >}})

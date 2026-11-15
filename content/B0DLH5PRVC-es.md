@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Plantilla de espuma viscoelástica
+- Zapatos deportivos sin cordones con parte inferior antideslizante
 - Ajuste sin atar
 - OB E FO SR
-- Zapatos deportivos sin cordones con parte inferior antideslizante
-- Plantilla de espuma viscoelástica
 - EN ISO 20347:2022
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

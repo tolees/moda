@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuello acanalado
-- Proporciona comodidad
 - Estampado gráfico en el pecho
+- Proporciona comodidad
 - Estampado gráfico en la parte posterior
+- Cuello acanalado
 - Una mirada original
 
 [🛒 Visítala!!!]({{< param buyurl >}})

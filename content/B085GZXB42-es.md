@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Artículo : Pantalones chinos
 - Corte : Corte slim
+- Artículo : Pantalones chinos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B085GZXB42{{</world>}}

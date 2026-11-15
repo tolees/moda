@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Uso informal
 - Puntera abierta
+- Uso informal
 - No es resistente al agua
 
 [🛒 Visítala!!!]({{< param buyurl >}})

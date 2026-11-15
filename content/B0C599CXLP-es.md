@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Impresión a base de agua
-- Cinta Chevron
 - Ajuste normal - ADULT
+- Impresión a base de agua
 - Tejido de jersey
+- Cinta Chevron
 - Corte normal
 
 [🛒 Comprar!!!]({{< param buyurl >}})

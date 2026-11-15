@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con punta redonda
 - Detalles distintivos de la marca
+- Con punta redonda
 - Presentan un estilo casual
 
 [🛒 Aquí!!!]({{< param buyurl >}})

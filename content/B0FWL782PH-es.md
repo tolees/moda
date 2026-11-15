@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Licra básica con pequeño estampado frontal
 - Composición: 95 % algodón, 5 % elastano
 - Camiseta ajustada de manga corta
+- Licra básica con pequeño estampado frontal
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FWL782PH{{</world>}}

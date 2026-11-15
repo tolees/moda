@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Ofrece resistencia, transpiración y durabilidad
-- Fabricada en 100% poliéster
-- Sudadera con cremallera, ajustada en puños y cintura
 - Ideal para prácticas deportivas al aire libre, como running
+- Sudadera con cremallera, ajustada en puños y cintura
+- Fabricada en 100% poliéster
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00W3RFMCY{{</world>}}

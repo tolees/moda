@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ligeros y transpirables
 - No rizo
+- Ligeros y transpirables
 - Soporte de arco acanalado
 
 [🛒 Visítala!!!]({{< param buyurl >}})

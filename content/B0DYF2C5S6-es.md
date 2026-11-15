@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Jersey manga larga punto aterciopelado
 - Escote en v
 - Punto acanalado
-- Punto aterciopelado
-- Jersey manga larga punto aterciopelado
 - Botones decorativos en los puños
+- Punto aterciopelado
 - Manga larga
 - Corte recto
 

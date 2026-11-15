@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ajuste óptimo
-- Detalles distintivos de la marca
 - Tejido resistente al cloro
 - Amplia libertad de movimiento
+- Ajuste óptimo
+- Detalles distintivos de la marca
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B6C4NBXD{{</world>}}

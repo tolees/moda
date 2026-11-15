@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- material exterior: Sintético
 - tipo de patrón: Lis
+- material exterior: Sintético
 - Tacto ultra suave
 - Tipo de tejido: 50% Viscosa, 27% Poliamida, 23% Poliéster
 

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Corte clásico
 - Hombros con las costuras caídas
 - Material Principal: 100% Algodón / Parte Del Cordoncillo: 100% Algodón
-- Corte clásico
 - Cuello redondo de canalé
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

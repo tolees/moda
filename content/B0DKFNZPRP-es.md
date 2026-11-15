@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 100% algodón
 - Jersey individual a rayas con parche frontal
+- 100% algodón
 - Camiseta de manga corta relajada
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

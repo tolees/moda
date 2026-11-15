@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - 25,4 x 9,5 x 29,8 cm
-- 2 bolsillos exteriores con cremallera, monedero desmontable y pies inferiores
 - Bolsillo interior con cierre de velcro y 1 compartimento
+- 2 bolsillos exteriores con cremallera, monedero desmontable y pies inferiores
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CSL9QY7D{{</world>}}

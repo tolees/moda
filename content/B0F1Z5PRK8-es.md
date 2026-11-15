@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Alto porcentaje de algodón
 - Logo
+- Alto porcentaje de algodón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F1Z5PRK8{{</world>}}

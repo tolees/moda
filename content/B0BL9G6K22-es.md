@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El producto recibido puede ser fabricado en China, India o Camboya.
+- Manga corta
 - Paquete de 6 mamelucos para bebé
 - Bonitos estampados, rayas y colores
-- Manga corta
+- El producto recibido puede ser fabricado en China, India o Camboya.
 - Hombros superpuestos y broches en las piernas para facilitar los cambios
 
 [🛒 Visítala!!!]({{< param buyurl >}})

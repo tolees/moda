@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Con corte acortado y elegante
 - Logotipo de clip en la parte trasera
-- Ajuste perfecto
 - Circuncidado
+- Ajuste perfecto
 - Logotipo impreso en la parte delantera
 
 [🛒 Comprar!!!]({{< param buyurl >}})

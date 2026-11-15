@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Sudadera Hombre con Capucha Azul Desert Sky M'
-date: 2026-11-13 01:50:36
+date: 2026-11-14 19:11:10
 image: 'https://m.media-amazon.com/images/I/31u-6-PkmrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DT1D5WXK/?tag=tolees-21'
 descuento: '49.54'
-average: '57.71'
+average: '53.362500000000004'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Padded and quilted
 - An original look
+- Padded and quilted
 - Stand up collar
 - Provides comfort
 - Zip closure

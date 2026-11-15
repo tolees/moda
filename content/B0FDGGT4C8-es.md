@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Colección Multilicense Urban
 - Pijama de manga larga Pantalón largo
+- Colección Multilicense Urban
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FDGGT4C8{{</world>}}

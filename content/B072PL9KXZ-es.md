@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuello : Cuello de camisa
-- Cierre : Cierre de botones
 - Manga : Manga larga
-- Corte : Corte super slim
+- Cierre : Cierre de botones
 - Artículo : Camisa
+- Cuello : Cuello de camisa
+- Corte : Corte super slim
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B072PL9KXZ{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material: 92% algodón, 6% poliéster, 2% elastano
-- Fabricante/modelo: ONLY - OnlBlush Mid SK ANK Raw Jns Rea 1099 - 1515997
 - Pantalones vaqueros de tobillo, altura de cintura normal, estilo de cinco bolsillos, ajuste ajustado, bordes deshilachados en el pie
+- Fabricante/modelo: ONLY - OnlBlush Mid SK ANK Raw Jns Rea 1099 - 1515997
+- Material: 92% algodón, 6% poliéster, 2% elastano
 - Color: Negro (Black Denim)
 - Only Vaqueros para mujer con estilo clásico de cinco bolsillos y perneras estrechas y bordes francos en el extremo del pie. El pantalón es un moderno pantalón de tobillo con un ajuste ajustado.
 

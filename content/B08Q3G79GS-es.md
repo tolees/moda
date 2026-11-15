@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Estilo: tallado.
-- Camisa lisa con cuello pequeño
 - Ajuste: ajustado
+- Camisa lisa con cuello pequeño
 - Brand: Tom Tailor
+- Estilo: tallado.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08Q3G79GS{{</world>}}

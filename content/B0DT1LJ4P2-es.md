@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Bandolera ajustable
-- Logotipo con monograma en la parte delantera
 - Cremallera superior
+- Logotipo con monograma en la parte delantera
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DT1LJ4P2{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- No impermeable
 - Suela: goma
-- Material exterior: poliéster
 - Material interior: sintético
+- No impermeable
+- Material exterior: poliéster
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B4NVT9MM{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Joma - Camiseta Deportiva Manga Larga Hombre - Ligera y Transpirable Ideal para Todo Tipo de Deporte - Combi L - Rojo'
-date: 2026-11-06 14:50:26
+date: 2026-11-15 00:01:14
 image: 'https://m.media-amazon.com/images/I/31voArUyTKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B00W3T89UY-es Joma - Camiseta Deportiva Manga Larga Hombre - Ligera y...'
 sku: 'B00W3T89UY-es'
 tags: [ 'camiseta','🇪🇸', ]
-actualPrice: 9.49 EUR
+actualPrice: 8.53 EUR
 currency: EUR
-price: 9.49
+price: 8.53
 comparePrice: 13.99 EUR
 prodname: 'Joma - Camiseta Deportiva Manga Larga Hombre - Ligera y Transpirable Ideal para Todo Tipo de Deporte - Combi L - Rojo'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00W3T89UY/?tag=tolees-21'
-descuento: '32.17'
-average: '9.3233333333333341'
+descuento: '39.03'
+average: '9.125'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

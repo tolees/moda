@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DKNY Bolso para cámara Avril para mujer logotipo negro y negro'
-date: 2026-11-13 18:37:59
+date: 2026-11-15 06:28:09
 image: 'https://m.media-amazon.com/images/I/51Fv-bWbj5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0F9B2FTHD/?tag=tolees-21'
 descuento: '19.24'
-average: '54.610000000000007'
+average: '52.436666666666667'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

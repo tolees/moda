@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Manga : Manga corta
-- Artículo : Camiseta
-- Estampado : Estampado de goma para un tacto suave
 - Cuello : Cuello redondo
+- Artículo : Camiseta
+- Manga : Manga corta
+- Estampado : Estampado de goma para un tacto suave
 - Corte : Corte standard
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

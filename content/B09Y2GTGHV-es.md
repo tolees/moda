@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Garantía internacional de 2 años
-- Talla 59/13/140
 - Black/Yellow Shaded
+- Talla 59/13/140
+- Garantía internacional de 2 años
 - Sin Polarizar
 
 [🛒 Visítala!!!]({{< param buyurl >}})

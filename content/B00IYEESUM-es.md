@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Rotación a derecha / izquierda; Robusto cabezal de engranaje de metal
-- Botón de fijación para funcionamiento permanente
-- Tope de profundidad ajustable sin escalonamiento
-- Recepción de herramienta ¼“ (6,35 mm) llave Allen
 - Unidad electrónica para regular el número de revoluciones con preselección de número de revoluciones
+- Recepción de herramienta ¼“ (6,35 mm) llave Allen
+- Tope de profundidad ajustable sin escalonamiento
+- Botón de fijación para funcionamiento permanente
+- Rotación a derecha / izquierda; Robusto cabezal de engranaje de metal
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00IYEESUM{{</world>}}

@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - camiseta de manga larga
-- Material: 100% algodón
-- Ajuste clásico
 - Camiseta
+- Material: 100% algodón
 - Cierre con tirador
+- Ajuste clásico
 - Lavar a máquina
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

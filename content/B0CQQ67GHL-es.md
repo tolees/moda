@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Venum Contender 1.5 Guantes de Boxeo - Blanco/Plata - 12 Oz'
-date: 2026-11-13 08:13:37
+date: 2026-11-14 12:16:32
 image: 'https://m.media-amazon.com/images/I/31kHKhr0bhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

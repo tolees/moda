@@ -28,15 +28,15 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- maximum comfort
-- 100% poliéster, 100% poliéster
-- nike dry fabric
+- Tipo de fábrica: 100% Polyester
 - m nk dry park vii jsy ls
-- closure: pull on
+- 100% poliéster, 100% poliéster
 - regular fit
 - manga larga
-- Tipo de fábrica: 100% Polyester
+- closure: pull on
 - lavar a máquina
+- maximum comfort
+- nike dry fabric
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07WC6LYJF{{</world>}}

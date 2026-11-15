@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Este es un producto Tommy Jeans auténtico y original
 - Este estilo ha sido producido de manera sostenible
+- Este es un producto Tommy Jeans auténtico y original
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FVPJWSJY{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Camiseta informal
-- Instrucciones de cuidado: lavable a máquina
 - Color: blanco
-- Ajuste: corte regular
+- Instrucciones de cuidado: lavable a máquina
 - Composición: 100% algodón
+- Camiseta informal
+- Ajuste: corte regular
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C9TSCSTS{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bolsa De Gimnasia
 - Bolsa De Accesorios
+- Bolsa De Gimnasia
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FCTL7ZV3{{</world>}}

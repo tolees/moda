@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cintura elástica
-- Estampado a base de agua
 - Corte regular
+- Estampado a base de agua
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CMTK33Z9{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estilo informal
 - Chaqueta de manga larga
+- Estilo informal
 - Adecuada para múltiples ocasiones
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

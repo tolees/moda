@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Suela: Caucho
-- Material interior: sintético
 - Material exterior: sintético
+- Material interior: sintético
+- Suela: Caucho
 - Forma del talón: plano
 - Cierre: Velcro
 

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cintura media
 - Material composición: 98% algodón, 2% elastano
+- Cintura media
 - Pantalón cargo
 - Bolsillos con solapas en cada pierna
 

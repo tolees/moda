@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Material exterior: sintético
 - Suela: Caucho
 - Cierre: Pull On
+- Material exterior: sintético
 - Forma del talón: plano
 - Material interior: sintético
 

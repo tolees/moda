@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Lavado a máquina
 - Colección mix and match green house
 - Material: 100% algodón
+- Lavado a máquina
 - Pijama masculino manga corta
 
 [🛒 Visítala!!!]({{< param buyurl >}})

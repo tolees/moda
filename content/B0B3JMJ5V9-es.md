@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- DETALLE 3: Logo Alpha en el pecho
-- DETALLE 2: Pequeño logotipo en la manga
-- DETALLE 1: Cuello desplazado
-- Camiseta para hombre
 - FIT: Regular Fit
+- DETALLE 3: Logo Alpha en el pecho
+- DETALLE 1: Cuello desplazado
+- DETALLE 2: Pequeño logotipo en la manga
+- Camiseta para hombre
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B3JMJ5V9{{</world>}}

@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Tommy Hilfiger Logotipo en el pecho
-- Forro polar de mezcla de algodón cepillado
-- Cuello, puños y dobladillo de punto acanalado
 - Cinta adhesiva en la nuca
+- Cuello, puños y dobladillo de punto acanalado
+- Forro polar de mezcla de algodón cepillado
 - Cuello redondo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

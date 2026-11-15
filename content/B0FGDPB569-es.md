@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Detalles con hilos metalizados
-- Punto fino
 - Cierre de botones en la parte delantera
-- Corte recto
-- Manga larga
 - Punto acanalado
+- Punto fino
 - Escote en v
+- Manga larga
+- Corte recto
 - Cárdigan con escote en v
+- Detalles con hilos metalizados
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FGDPB569{{</world>}}

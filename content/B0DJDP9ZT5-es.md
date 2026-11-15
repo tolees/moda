@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Manga corta
 - Cuello redondo
-- PUMA Detalles de la marca
 - Corte regular
+- Manga corta
+- PUMA Detalles de la marca
 - Longitud regular
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dobladillos con bordes
 - Capucha con cordón
+- Dobladillos con bordes
 - Bolsillo interior
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

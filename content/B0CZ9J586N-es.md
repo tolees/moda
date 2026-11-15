@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte entallado
-- Coderas acolchadas
-- AEROREADY
 - Cuello redondo de canalé
+- AEROREADY
+- Coderas acolchadas
 - 100% poliéster (reciclado)
+- Corte entallado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZ9J586N{{</world>}}

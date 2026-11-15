@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Helly tech performance
 - Ykk vislon
 - Forro interior teñido en solución e.dye
+- Helly tech performance
 - Artículos entregados: 1x helly hansen kids unisex k rider 2.0 ins jacket - ins jacket navy 6
 - Primaloft black eco
 

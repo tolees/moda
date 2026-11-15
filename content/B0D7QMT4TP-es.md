@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Corte regular con capucha
 - Una gran opción cálida para climas fríos
+- Corte regular con capucha
 - Bolsillo canguro para comodidad diaria
 - Bordado GANT gráfico en el pecho
 

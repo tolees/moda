@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Manga larga
 - Ajuste estándar
+- Manga larga
 - Composición del material: 70% algodón, 30% poliéster
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tops
 - Camiseta de pantalla
+- Tops
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DPG2QRLM{{</world>}}

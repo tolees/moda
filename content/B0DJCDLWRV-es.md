@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mangas de malla
+- Corte ajustado
 - 100% poliéster (reciclado)
 - Cuello redondo
-- Corte ajustado
 - AEROREADY
+- Mangas de malla
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DJCDLWRV{{</world>}}

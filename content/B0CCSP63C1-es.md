@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bajo con ajustes elásticos
-- Bolsillo interno en el pecho
 - Dos bolsillos para las manos con cremallera
+- Bolsillo interno en el pecho
+- Bajo con ajustes elásticos
 - Puños con elástico revestido
 - Tiradores de cremallera con la marca
 

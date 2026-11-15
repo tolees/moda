@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Vestido Midi
 - Vestido Lencero
+- Vestido Midi
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FCMTY87G{{</world>}}

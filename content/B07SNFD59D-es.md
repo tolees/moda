@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Fácil de limpiar
+- Hecho de EVA
 - Suela perfilada que garantiza comodidad de uso y protege contra el deslizamiento del pie
 - Correa de talón de doble función
-- Hecho de EVA
 - Aberturas para la circulación del aire
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiene un cierre con una hebilla de pin
-- 100 % piel de búfalo
 - El cuero es una inversión que disfrutarás durante muchos años porque es suave, naturalmente repelente al agua y duradero
+- 100 % piel de búfalo
+- Tiene un cierre con una hebilla de pin
 - Completa tu ropa de negocios o atuendo festivo con accesorios atemporales que se ven refinados y elegantes
 - No lavar ni usar blanqueador
 

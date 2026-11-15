@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sujetador triangular con almohadilla extraíble
 - Colección Autumn Rose
+- Sujetador triangular con almohadilla extraíble
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FDBG74KS{{</world>}}

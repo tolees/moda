@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Corte holgado
+- Carhartt Logotipo de la firma en el pecho
 - Costura plana con dos agujas
 - Cuello redondo de punto acanalado
-- Carhartt Logotipo de la firma en el pecho
 - Manga corta
-- Corte holgado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FBHDBYKL{{</world>}}

@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Bolsillo estilo canguro dividido
 - Cierre de cremallera
-- Paneles laterales y cintura acanalados
 - Capucha con cordón y parte delantera alzada
 - Puños acanalados, bajo redondeado
+- Paneles laterales y cintura acanalados
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B093SWZ6J7{{</world>}}

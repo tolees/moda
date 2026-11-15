@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ajuste: __ Relax Fit
+- Colección Mainline
 - Neck:__ Mock Necck
 - Sleeves: __ Sleeves largas
-- Colección Mainline
+- Ajuste: __ Relax Fit
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DPG6S33Z{{</world>}}

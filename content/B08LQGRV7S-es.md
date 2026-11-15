@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Elastic waist with the brand logo
 - regular fit
+- Elastic waist with the brand logo
 - Soft cotton fabric
 
 [🛒 Visítala!!!]({{< param buyurl >}})

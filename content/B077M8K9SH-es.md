@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Seine Cinturón Unisex adulto Negro Regular Black 95'
-date: 2026-11-13 16:13:17
+date: 2026-11-15 00:01:04
 image: 'https://m.media-amazon.com/images/I/215w+6rfdLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B077M8K9SH/?tag=tolees-21'
 descuento: '41.56'
-average: '16.242307692307772'
+average: '16.024666666666736'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

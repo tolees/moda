@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Clarks Detalle de marca
 - No es resistente al agua
+- Clarks Detalle de marca
 - Puntera abierta
 
 [🛒 Aquí!!!]({{< param buyurl >}})

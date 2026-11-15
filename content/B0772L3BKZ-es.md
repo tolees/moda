@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Mangas largas con puños, estilo Oxford, 100% algodón
 - Composición: 100% algodón
 - Blusa clásica con botones
-- Mangas largas con puños, estilo Oxford, 100% algodón
 - Cómodo algodón de calidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})

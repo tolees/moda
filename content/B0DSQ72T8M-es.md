@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Chaqueta para hombre de Tom Tailor
 - Ajuste óptimo y gran comodidad
+- Chaqueta para hombre de Tom Tailor
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DSQ72T8M{{</world>}}

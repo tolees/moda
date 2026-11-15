@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corte informal
 - Tejido de algodón transpirable
+- Corte informal
 - Con estampado gráfico
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

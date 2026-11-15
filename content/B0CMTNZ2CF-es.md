@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tejido 100 % poliéster
 - Manga corta
 - Corte regular
+- Tejido 100 % poliéster
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CMTNZ2CF{{</world>}}

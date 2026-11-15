@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dark havana
 - Talla 52/20/145
 - Garantía internacional de 2 años
+- Dark havana
 - NO
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

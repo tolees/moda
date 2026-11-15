@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Aberturas laterales
 - Manga corta
+- Jersey
 - Cuello redondo
 - Logotipo de la marca
-- Jersey
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C92GQMJR{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Perfecto para looks urbanos y casuales.
 - Manga larga
+- Perfecto para looks urbanos y casuales.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DH5B718S{{</world>}}

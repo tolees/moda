@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pack de 3
 - Alto porcentaje de algodón
+- Pack de 3
 - Logo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Estilo deportivo, cómoda sensación
 - Prenda de vestir
+- Estilo deportivo, cómoda sensación
 - Para uso diario
 
 [🛒 Aquí!!!]({{< param buyurl >}})

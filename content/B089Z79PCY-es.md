@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Puños elásticos
-- Corte normal
-- Ribetes en color de contraste en forma de V en el pecho
 - Bolsillos laterales
+- Corte normal
+- Puños elásticos
+- Ribetes en color de contraste en forma de V en el pecho
 - Cuello alzado y cierre de cremallera completo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

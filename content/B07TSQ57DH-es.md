@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Camiseta actual para hombre con cuello redondo y manga corta
 - Lee - Camiseta regular de cuello redondo para hombre en diferentes colores, una parte superior que es elegante y a la moda
+- Camiseta actual para hombre con cuello redondo y manga corta
 - Para que puedas mostrarse: la camiseta de algodón 100 % se puede llevar fácilmente en muchas ocasiones
 
 [🛒 Visítala!!!]({{< param buyurl >}})

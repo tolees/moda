@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ligeras y flexibles
 - Ajuste cómodo
+- Ligeras y flexibles
 - Presentan detalles distintivos de la marca
 
 [🛒 Comprar!!!]({{< param buyurl >}})

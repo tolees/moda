@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Dobladillo semiacampanado
 - Bolsillos laterales exteriores y bolsillos traseros
-- Costuras planas para una experiencia sin rozaduras
 - Cintura alta de compresión de doble capa
+- Costuras planas para una experiencia sin rozaduras
 - Refuerzo automático
 
 [🛒 Aquí!!!]({{< param buyurl >}})

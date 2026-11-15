@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Cómodo de llevar
 - Este es un producto auténtico y original Geox
-- asegura un ajuste óptimo
 - Este estilo ha sido producido de manera sostenible
+- asegura un ajuste óptimo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D6NLSQPN{{</world>}}

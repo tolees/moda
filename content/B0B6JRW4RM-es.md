@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Casual
 - Corte regular
 - Suave
+- Casual
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B6JRW4RM{{</world>}}

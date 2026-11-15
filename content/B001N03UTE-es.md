@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Específico para razas de galgo
-- Este artículo ha sido fabricado respetando las normas de producción
 - Agradable al cuello de tu perro gracias al suave acolchado
 - Fácil de llevar
+- Este artículo ha sido fabricado respetando las normas de producción
+- Específico para razas de galgo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B001N03UTE{{</world>}}

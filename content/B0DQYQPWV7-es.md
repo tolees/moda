@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Perfectas para toda la semana
 - Pack de 7 bragas clásicas, de algodón, con estampados en tonos dos
+- Perfectas para toda la semana
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DQYQPWV7{{</world>}}

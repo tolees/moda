@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con el logotipo deportivo de Levis
-- Este producto es original Levis
 - Modelo casual
+- Este producto es original Levis
+- Con el logotipo deportivo de Levis
 - Fabricada en tejido ligero
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre Riptape
 - Plantilla extraíble
+- Cierre Riptape
 - Rápido y fácil de poner
 
 [🛒 Visítala!!!]({{< param buyurl >}})

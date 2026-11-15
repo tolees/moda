@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Estilo de jersey
 - Camiseta de manga corta
+- Estilo de jersey
 - Logotipo de caja de texto
 
 [🛒 Visítala!!!]({{< param buyurl >}})

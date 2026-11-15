@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Lavar a máquina
 - Cuerpo/Malla: 100% Poliéster
+- Lavar a máquina
 - Logotipo bordado
 - Cintura elástica con cordón
 

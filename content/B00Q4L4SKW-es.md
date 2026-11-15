@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Logo ultra dry en la parte inferior de la espalda
-- Cocodrilo verde bordado en el pecho
 - Camiseta para hombres, marca Lacoste
+- Cocodrilo verde bordado en el pecho
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00Q4L4SKW{{</world>}}

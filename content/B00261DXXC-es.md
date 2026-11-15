@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Soporte para caña.
-- Ventilado.
 - Secado rápido.
+- Ventilado.
+- Soporte para caña.
 - Omni-Wick.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Talla: 54
 - De color negro
 - Color de lente: Gris degradado polarizado
 - Forma: CUADRADO
-- Talla: 54
 - Material: policarbonato
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Acabado de carey de marrón.
-- Para la lectura en el sol (protección UV400, bloquea los rayos UVA y UVB).
-- Robusto diseño de marco con bisagras de calidad.
 - Fuerza +1,50.
+- Acabado de carey de marrón.
+- Robusto diseño de marco con bisagras de calidad.
+- Para la lectura en el sol (protección UV400, bloquea los rayos UVA y UVB).
 - Elegante hombres / mujeres / unisex estilo diseñador lectores de sol gafas de lectura.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

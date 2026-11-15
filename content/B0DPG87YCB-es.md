@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Chaquetas
 - Capa exterior
+- Chaquetas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DPG87YCB{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Camiseta de pantalla
 - Tops
+- Camiseta de pantalla
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DPG5MX6M{{</world>}}

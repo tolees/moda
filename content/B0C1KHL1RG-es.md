@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Detalles acanalados en el cuello
 - Ofrece una comodidad óptima
+- Detalles acanalados en el cuello
 - Diseño Gant estampado en el pecho
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

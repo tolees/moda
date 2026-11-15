@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Wrangler Classic Jacket Chaqueta Hombre Azul Mid Stone 14v Medium'
-date: 2025-12-14 06:18:29
-image: 'https://m.media-amazon.com/images/I/41Zy2fAo8nL._SL500_._SL400_.jpg'
+title: 'Wrangler - Chaqueta Hombre - Corte Casual - Classic Jacket - Mid Stone'
+date: 2026-11-15 12:21:50
+image: 'https://m.media-amazon.com/images/I/41szgluDgtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B004JO7GB4-es Wrangler Classic Jacket Chaqueta Hombre Azul Mid Stone 14v...'
+slug: 'B004JO7GB4-es Wrangler - Chaqueta Hombre - Corte Casual - Classic Jacket...'
 sku: 'B004JO7GB4-es'
-tags: [ 'Amazon Moda - Descuento 20%','Arborist Merchandising Root','Básicos de Moda','CML Generic_Men_ES','Chaquetas para hombre','Compra 2, y obtén un 10% de descuento','DD Wrangler','Descuento 10€ en la 1ª compra en Moda','Días de Moda','ES MTBB Group 2','ES MTBB Group 3','Mejora tu estilo vaquero','Men Top Brands Bestsellers','Moda','Moda Hombre','Novedades en Ropa para hombre','Nuestra selección','Nuestra selección de Hombre','Otoño Hombre','PEAS Deals','Ropa de abrigo para hombre','Ropa de hombre','Self Service','Special Features Stores','c8538d25-3af9-48d3-aeff-5f3ce5572a36_0','c8538d25-3af9-48d3-aeff-5f3ce5572a36_1','c8538d25-3af9-48d3-aeff-5f3ce5572a36_2201','c8538d25-3af9-48d3-aeff-5f3ce5572a36_222302','c8538d25-3af9-48d3-aeff-5f3ce5572a36_2301','c8538d25-3af9-48d3-aeff-5f3ce5572a36_2601','c8538d25-3af9-48d3-aeff-5f3ce5572a36_2701','c8538d25-3af9-48d3-aeff-5f3ce5572a36_2801','c8538d25-3af9-48d3-aeff-5f3ce5572a36_4401','c8538d25-3af9-48d3-aeff-5f3ce5572a36_4601','c8538d25-3af9-48d3-aeff-5f3ce5572a36_4701','c8538d25-3af9-48d3-aeff-5f3ce5572a36_5401','c8538d25-3af9-48d3-aeff-5f3ce5572a36_6301','c8538d25-3af9-48d3-aeff-5f3ce5572a36_6601','c8538d25-3af9-48d3-aeff-5f3ce5572a36_8001','c8538d25-3af9-48d3-aeff-5f3ce5572a36_852602','chaqueta','wrangler','🇪🇸', ]
-actualPrice: 39.6 EUR
+tags: [ 'chaqueta','🇪🇸', ]
+actualPrice: 68.52 EUR
 currency: EUR
-price: 39.6
+price: 68.52
 comparePrice: 109.95 EUR
-prodname: 'Wrangler Classic Jacket Chaqueta Hombre Azul Mid Stone 14v Medium'
+prodname: 'Wrangler - Chaqueta Hombre - Corte Casual - Classic Jacket - Mid Stone'
 country: 'es'
 flag: '🇪🇸'
-brand: 'Wrangler'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004JO7GB4/?tag=tolees-21'
-descuento: '63.98'
-average: '39.6'
+descuento: '37.68'
+average: '54.06'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,13 +28,6 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- tamaño_normal
-- 100% algodón
-- Multipack: 1
-- Tipo de cuello: Cuello de camisa clásico
-- Lavar a máquina
-- Cierre: botón
-- Tamaño normal
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B004JO7GB4{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cárdigan Cárdigan
 - Cárdigan De Nailon
+- Cárdigan Cárdigan
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FCSNFHTP{{</world>}}

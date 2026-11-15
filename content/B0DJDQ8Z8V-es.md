@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Cuello redondo
-- Longitud regular
-- Manga corta
-- Tejido de punto individual
 - Corte regular
+- Manga corta
+- Longitud regular
+- Tejido de punto individual
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DJDQ8Z8V{{</world>}}

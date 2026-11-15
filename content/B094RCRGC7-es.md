@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Apoya la iniciativa Better Cotton
 - 98% Algodón, 2% Elastano,
+- Apoya la iniciativa Better Cotton
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B094RCRGC7{{</world>}}

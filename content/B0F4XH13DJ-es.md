@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tela rígida
 - Cierre de botones
+- Tela rígida
 - Cuello de camisa
 - Un bolsillo en el pecho
 

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Gran obra de arte en la parte posterior y etiqueta tejida con logotipo insertado en la costura lateral
-- Acabado de carbono melocotón
 - Sudadera de cuello redondo en tela cepillada con pequeñas ilustraciones en la parte superior del pecho
+- Acabado de carbono melocotón
+- Gran obra de arte en la parte posterior y etiqueta tejida con logotipo insertado en la costura lateral
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F57HKJVM{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Proporciona comodidad
-- Etiqueta de G-STAR Originals tejida en la costura lateral inferior
 - Cuello acanalado
+- Etiqueta de G-STAR Originals tejida en la costura lateral inferior
+- Proporciona comodidad
 - Una mirada original
 - Gráfico de G-STAR RAW en el pecho
 

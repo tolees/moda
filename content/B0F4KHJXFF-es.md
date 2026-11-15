@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Tecnología Flex
-- Cuello abotonado
 - Pliegues en la parte trasera
+- Cuello abotonado
 - Puños redondos de un botón
 - Popelina de algodón melocotón
 

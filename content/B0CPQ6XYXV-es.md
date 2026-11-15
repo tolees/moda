@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Transpirables y confortables
 - Cuentan con un estilo informal
 - Punta redonda
+- Transpirables y confortables
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CPQ6XYXV{{</world>}}

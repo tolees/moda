@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ajuste cómodo
 - Presentan detalles distintivos de la marca
+- Ajuste cómodo
 - Ligeras y flexibles
 
 [🛒 Aquí!!!]({{< param buyurl >}})

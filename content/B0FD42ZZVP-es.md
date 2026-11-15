@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Exterior: 100 % poliéster. Forro: 100 % poliéster
 - Bomber de piel sintética, puños y cuello acanalados. Bolsillos laterales. Cierre frontal con cremallera
+- Exterior: 100 % poliéster. Forro: 100 % poliéster
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FD42ZZVP{{</world>}}

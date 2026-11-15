@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Logotipo de la marca troquelado con aspecto 3D en la parte delantera
-- Bolsillo canguro con interior suave, capucha con cordón
-- Puños anchos acanalados en los puños, cintura ancha acanalada en el dobladillo
 - Sudadera con capucha informal para hombre de JACK & JONES
+- Bolsillo canguro con interior suave, capucha con cordón
+- Logotipo de la marca troquelado con aspecto 3D en la parte delantera
+- Puños anchos acanalados en los puños, cintura ancha acanalada en el dobladillo
 - Mezcla de algodón suave y agradable, material cepillado con interior suave
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

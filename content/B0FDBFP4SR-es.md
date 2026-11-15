@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Colección Lovely Algodón
 - Sujetador triangular padded
+- Colección Lovely Algodón
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FDBFP4SR{{</world>}}

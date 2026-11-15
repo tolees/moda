@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Lo hacemos con innovación de rendimiento y zapatos, camisas y herramientas digitales que cambian el juego y empujan los límites de lo que uno pensaba posible
-- Eso significa que si uno establece un objetivo, ayudaremos a aplastarlo
 - Puños y dobladillo inferior acanalados
+- Eso significa que si uno establece un objetivo, ayudaremos a aplastarlo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BGWB95T9{{</world>}}

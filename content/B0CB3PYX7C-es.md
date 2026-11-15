@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Clarks Shoes, Craft Swift, Black Leather, 9 (Men)
 - Suela de goma que ofrece la máxima durabilidad
 - La plantilla es extraíble para una comodidad personalizable
+- Clarks Shoes, Craft Swift, Black Leather, 9 (Men)
 - El alerón de TPU ofrece fácil de poner y quitar
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvin Klein Bolso bandolera Mujer Bold Ck Small con correa Negro Black/White Talla Única'
-date: 2026-10-07 05:15:33
+date: 2026-11-15 09:55:20
 image: 'https://m.media-amazon.com/images/I/317f-iiAPBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

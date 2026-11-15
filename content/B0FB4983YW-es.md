@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sandalia abierta ligera y transpirable
 - Suela anatómica y flexible
+- Sandalia abierta ligera y transpirable
 - Diseño contemporáneo y glamuroso
 
 [🛒 Aquí!!!]({{< param buyurl >}})

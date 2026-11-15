@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Joma - Pantalón Largo Deportivo Cleo para Hombre Rojo M'
-date: 2026-11-13 04:20:52
+date: 2026-11-14 23:31:25
 image: 'https://m.media-amazon.com/images/I/313wm1epqhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P9ZCMGZ/?tag=tolees-21'
 descuento: '44.28'
-average: '15.432439024390266'
+average: '15.310465116279092'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

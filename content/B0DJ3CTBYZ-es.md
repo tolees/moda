@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tom Tailor - Camiseta de manga corta para mujer
 - Ajuste óptimo y gran comodidad
+- Tom Tailor - Camiseta de manga corta para mujer
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DJ3CTBYZ{{</world>}}

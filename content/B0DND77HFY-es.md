@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cierre sin cordones
 - Chanclas casuales para mujer de la marca Crocs
+- Cierre sin cordones
 - Hecho de acetato de vinilo de etileno
 
 [🛒 Visítala!!!]({{< param buyurl >}})

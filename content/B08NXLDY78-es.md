@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Frente abotonado
+- Composición: 79% algodón, 20% poliéster, 1% elastano
+- Tipo de talla especial: talla grande
 - Dos bolsillos en el pecho con solapas
 - Chaqueta vaquera curvada de ONLY CARMAKOMA
-- Frente abotonado
-- Tipo de talla especial: talla grande
-- Composición: 79% algodón, 20% poliéster, 1% elastano
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08NXLDY78{{</world>}}

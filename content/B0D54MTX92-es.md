@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuenta con un solo bolsillo en el pecho
 - Un botón relajado
 - Corte holgado
+- Cuenta con un solo bolsillo en el pecho
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D54MTX92{{</world>}}

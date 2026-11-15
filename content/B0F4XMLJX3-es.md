@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Detalle de manga enrollada
 - Cuello redondo
+- Detalle de manga enrollada
 - Bajo recto
 
 [🛒 Aquí!!!]({{< param buyurl >}})

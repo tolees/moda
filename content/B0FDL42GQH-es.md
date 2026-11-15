@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuello estilo béisbol
 - Felpa de puro algodón
+- Cuello estilo béisbol
 - Cierre de botones a presión
 
 [🛒 Visítala!!!]({{< param buyurl >}})

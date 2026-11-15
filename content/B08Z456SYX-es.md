@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Logotipo estampado
 - Chaqueta abierta con cremallera que incorpora forro en el interior para mantener la calidez y maximizar el confort
 - Los puños y el bajo están confeccionados en material rib para proporcionar un ajuste cómodo
 - Cuenta con bolsillos y capucha ajustable mediante cordones
+- Logotipo estampado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08Z456SYX{{</world>}}

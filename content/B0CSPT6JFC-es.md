@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Fabricado con recursos hídricos de forma responsable
-- Chaqueta bomber
 - Corte regular
+- Chaqueta bomber
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CSPT6JFC{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cierre: cremallera y botón
-- Jeans Pantalones Largos
 - Composición: 99 por ciento algodón 1 por ciento elastano
 - Instrucciones de cuidado: lavable a máquina
 - Ajuste: corte regular
+- Jeans Pantalones Largos
+- Cierre: cremallera y botón
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CRF9DLJ9{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox - J SPRINTYE BOY Zapatillas Navy'
-date: 2026-11-11 07:12:04
+date: 2026-11-14 12:52:07
 image: 'https://m.media-amazon.com/images/I/317E6iVNUsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B096MYKT4Q/?tag=tolees-21'
 descuento: '43.39'
-average: '29.933333333333334'
+average: '29.5125'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

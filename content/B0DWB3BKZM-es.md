@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Manga: Larga
 - Tejido con textura
-- Fit: Regular
 - Color: Liso
+- Fit: Regular
+- Manga: Larga
 - Cuello: Redondo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

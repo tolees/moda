@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Mejora tu experiencia deportiva
 - Camiseta deportiva
+- Mejora tu experiencia deportiva
 - Cómoda de llevar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
